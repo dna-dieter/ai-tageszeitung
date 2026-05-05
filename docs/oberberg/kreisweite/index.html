@@ -1,0 +1,1737 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kreisweite Nachrichten — AI Tageszeitung</title>
+<style>
+:root {
+  --rbk-blau: #1B3A5C;
+  --rbk-rot: #C0392B;
+  --rbk-grau: #F5F5F5;
+  --akzent: #2980B9;
+  --text: #2C3E50;
+  --bg: #FAFAFA;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: Georgia, 'Times New Roman', serif; color: var(--text); background: var(--bg); line-height: 1.6; }
+header { background: var(--rbk-blau); color: white; padding: 14px 24px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px; }
+header h1 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.8rem; letter-spacing: 2px; font-weight: 800; }
+header .sub { font-size: 0.9rem; opacity: 0.85; }
+header .meta { font-size: 0.8rem; text-align: right; opacity: 0.9; }
+.live-dot { display: inline-block; width: 8px; height: 8px; background: #2ECC71; border-radius: 50%; margin-right: 4px; animation: pulse 2s infinite; }
+@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
+.ticker { background: var(--rbk-rot); color: white; padding: 7px 24px; font-size: 0.85rem; font-family: sans-serif; }
+.ticker b { margin-right: 8px; }
+nav { background: white; border-bottom: 2px solid var(--rbk-blau); padding: 8px 24px; display: flex; flex-wrap: wrap; gap: 3px; }
+nav a { font-family: sans-serif; font-size: 0.82rem; padding: 5px 12px; text-decoration: none; color: var(--rbk-blau); border-radius: 4px; transition: all 0.2s; }
+nav a:hover, nav a.active { background: var(--rbk-blau); color: white; }
+nav .sep { color: #ccc; padding: 5px 2px; font-family: sans-serif; font-size: 0.82rem; }
+main { max-width: 1200px; margin: 20px auto; padding: 0 16px; }
+.grid { display: grid; grid-template-columns: 2fr 1fr; gap: 20px; }
+.artikel { background: white; border-radius: 6px; padding: 16px 18px; border-left: 4px solid var(--akzent); box-shadow: 0 1px 3px rgba(0,0,0,0.08); margin-bottom: 14px; transition: box-shadow 0.2s; }
+.artikel:hover { box-shadow: 0 3px 12px rgba(0,0,0,0.12); }
+.artikel .tag { font-family: sans-serif; font-size: 0.72rem; font-weight: 700; color: var(--rbk-rot); text-transform: uppercase; letter-spacing: 1px; }
+.artikel h2 { font-size: 1.15rem; margin: 4px 0; line-height: 1.3; }
+.artikel h2 a { color: var(--text); text-decoration: none; }
+.artikel h2 a:hover { color: var(--akzent); }
+.artikel .teaser { font-size: 0.9rem; color: #555; margin: 6px 0; }
+.artikel .info { font-family: sans-serif; font-size: 0.75rem; color: #888; }
+.sidebar-box { background: white; border-radius: 6px; padding: 14px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); margin-bottom: 14px; }
+.sidebar-box h3 { font-family: sans-serif; font-size: 0.85rem; color: var(--rbk-blau); border-bottom: 2px solid var(--rbk-blau); padding-bottom: 5px; margin-bottom: 10px; }
+.k-links { list-style: none; }
+.k-links li { margin: 6px 0; }
+.k-links a { font-family: sans-serif; font-size: 0.85rem; color: var(--text); text-decoration: none; display: flex; justify-content: space-between; }
+.k-links a:hover { color: var(--akzent); }
+.badge { background: var(--rbk-grau); padding: 1px 8px; border-radius: 10px; font-size: 0.75rem; }
+footer { background: var(--rbk-blau); color: white; text-align: center; padding: 16px; margin-top: 30px; font-size: 0.8rem; font-family: sans-serif; }
+footer a { color: #85C1E9; }
+.empty { text-align: center; padding: 40px; color: #999; font-size: 1.1rem; }
+.monat-gruppe { margin-bottom: 8px; }
+.monat-header { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.05rem; color: var(--rbk-blau); border-bottom: 2px solid var(--rbk-blau); padding: 8px 0 5px 0; margin: 18px 0 10px 0; display: flex; align-items: center; gap: 8px; }
+.monat-header:first-child { margin-top: 0; }
+.monat-count { background: var(--rbk-blau); color: white; font-size: 0.72rem; padding: 1px 8px; border-radius: 10px; font-weight: 400; }
+.btn-refresh { display: inline-flex; align-items: center; gap: 5px; font-family: sans-serif; font-size: 0.78rem; padding: 5px 14px; background: #2ECC71; color: white; border: none; border-radius: 4px; text-decoration: none; cursor: pointer; transition: background 0.2s; margin-top: 4px; }
+.btn-refresh:hover { background: #27AE60; color: white; }
+.kreis-nav { background: var(--rbk-blau); padding: 6px 24px; display: flex; gap: 12px; }
+.kreis-nav a { font-family: sans-serif; font-size: 0.85rem; color: rgba(255,255,255,0.7); text-decoration: none; padding: 4px 10px; border-radius: 4px; }
+.kreis-nav a:hover, .kreis-nav a.active { color: white; background: rgba(255,255,255,0.15); }
+@media (max-width: 768px) { .grid { grid-template-columns: 1fr; } header h1 { font-size: 1.3rem; } }
+</style>
+</head>
+<body>
+<div class="kreis-nav">
+  <a href="/ai-tageszeitung/">Rhein-Berg</a>
+  <a href="/ai-tageszeitung/oberberg/">Oberberg</a>
+</div>
+<header>
+  <div>
+    <h1>Kreisweite Nachrichten</h1>
+    <div class="sub">AI Tageszeitung · Oberbergischer Kreis</div>
+  </div>
+  <div class="meta">
+    <div><span class="live-dot"></span>254 Artikel</div>
+    <div>05.05.2026, 21:23</div>
+    <a href="https://github.com/dna-dieter/ai-tageszeitung/actions/workflows/update.yml" target="_blank" rel="noopener" class="btn-refresh">&#x21bb; Jetzt aktualisieren</a>
+  </div>
+</header>
+<nav><a href="../index.html">Alle</a><a href="../bergneustadt/index.html">Bergneustadt</a><a href="../engelskirchen/index.html">Engelskirchen</a><a href="../gummersbach/index.html">Gummersbach</a><a href="../hueckeswagen/index.html">Hückeswagen</a><a href="../lindlar/index.html">Lindlar</a><a href="../marienheide/index.html">Marienheide</a><a href="../morsbach/index.html">Morsbach</a><a href="../nuembrecht/index.html">Nümbrecht</a><a href="../radevormwald/index.html">Radevormwald</a><a href="../reichshof/index.html">Reichshof</a><a href="../waldbroel/index.html">Waldbröl</a><a href="../wiehl/index.html">Wiehl</a><a href="../wipperfuerth/index.html">Wipperfürth</a></nav>
+<main>
+<div class="grid">
+  <div><div class="monat-gruppe">
+<h2 class="monat-header">Mai 2026 <span class="monat-count">4</span></h2>
+<div class="artikel">
+  <div class="tag">Hückeswagen, Radevormwald, kreisweite-nachrichten</div>
+  <h2><a href="https://www.rga.de/lokales/remscheid/tag-des-lokaljournalismus-2026-was-der-rga-ihnen-heute-bietet-F7O6K4AQDFDJNLLXG2XHX5VOUY.html" target="_blank" rel="noopener">Tag des Lokaljournalismus 2026: Was der RGA Ihnen heute bietet</a></h2>
+  <div class="teaser">Portal und E-Paper freigeschaltet für alle, ein Sonderheft mit FAQ und eine Einladung an alle, die sich für Lokaljournalismus interessieren.</div>
+  <div class="info">Tue, 05 May 2026 12:11:04 · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  <div class="tag">Radevormwald, kreisweite-nachrichten</div>
+  <h2><a href="https://www.rga.de/lokales/remscheid/was-macht-die-freiwillige-feuerwehr-elefantenbrumm-in-remscheid-an-der-rader-strasse-SBBEL2G2A5GRDN4TVEKDBCLXTQ.html" target="_blank" rel="noopener">Was macht die Freiwillige Feuerwehr Elefantenbrumm in Remscheid an der Rader Straße?</a></h2>
+  <div class="teaser">Seit einer Woche steht an der der Rader Straße ein altes, schmuckes Einsatzfahrzeug etwas schräg am Fahrbahnrand. Der RGA berichtete. Jetzt ist klar, was es damit auf sich hat.</div>
+  <div class="info">Mon, 04 May 2026 17:19:10 · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  <div class="tag">Hückeswagen, Radevormwald, kreisweite-nachrichten</div>
+  <h2><a href="https://www.rga.de/lokales/remscheid/mittelstand-in-solingen-und-remscheid-sorgenkind-industrie-stellenabbau-in-der-region-G3N75VJYKVHMPOIWALUCST77NU.html" target="_blank" rel="noopener">Mittelstand in Solingen und Remscheid: Sorgenkind Industrie – Stellenabbau in der Region</a></h2>
+  <div class="teaser">Es wollen so wenige Betriebe in Solingen und Remscheid investieren wie seit vielen Jahren nicht mehr: Das ist nicht nur ein Indikator dafür, wie es der Wirtschaft heute geht – sondern zeigt auch, dass die Zukunft vielen Arbeitgebern Kopfzerbrechen be</div>
+  <div class="info">Mon, 04 May 2026 15:00:03 · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6267329" target="_blank" rel="noopener">POL-GM: Tanz in den Mai - Polizei zieht erste Bilanz</a></h2>
+  <div class="teaser">Oberbergischer Kreis (ots) - In der Nacht vom 30. April auf den 1. Mai war die Polizei im Oberbergischen verstärkt im Einsatz. Insgesamt verlief die Mainacht aus polizeilicher Sicht überwiegend friedlich. Zwischen 18 Uhr und 8 Uhr verzeichnete die ..</div>
+  <div class="info">Sun, 03 May 2026 11:29:23 · Presseportal Polizei OBK</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">April 2026 <span class="monat-count">6</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.news-on-tour.de/201798/sonnencreme-mythos-faktencheck-wahrheit/" target="_blank" rel="noopener">Sonnencreme-Mythos im Faktencheck – Wahrheit zu Toxinen und Krebsrisiko</a></h2>
+  <div class="teaser">Sonnencreme / Faktencheck / Hautkrebs / Sonnenschutz (Von Christian Sasse) Auf Instagram kursiert ein Reel, in dem Sonnencreme pauschal als giftig und krebserregend bezeichnet wird. Der Faktencheck zeigt: Behörden, Forschung und Dermatologen widerspr</div>
+  <div class="info">Wed, 29 Apr 2026 14:53:51 · NEWS-on-Tour (Gesamt)</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Gummersbach</div>
+  <h2><a href="https://www.news-on-tour.de/179860/oberberg-veranstaltungskalender-nrw/" target="_blank" rel="noopener">Veranstaltungskalender Oberberg: Events &amp; Termine.NEWS-on-Tour.de im Oberbergischen Kreis</a></h2>
+  <div class="teaser">Kaum ein Veranstaltungskalender bietet mehr für den Oberbergischen Kreis und Umgebung! 134 Termine aktuell online &amp;#8211; Täglich aktualisiert! Oberberg / Veranstaltungskalender / Oberbergischer Kreis / Veranstaltungen / Termine / Events /Nightlife /</div>
+  <div class="info">Wed, 29 Apr 2026 06:01:47 · NEWS-on-Tour (Gesamt)</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.news-on-tour.de/201781/olpe-polizei-rind-erschossen-b55-a45/" target="_blank" rel="noopener">Olpe: Polizei erschießt entlaufene Kuh mit Maschinenpistole – Jäger nur Minuten entfernt</a></h2>
+  <div class="teaser">Olpe / Polizei / Rind / B55 (Von Christian Sasse) An der Anschlussstelle Olpe der A45 ist am Montagabend, 27. April 2026, ein entlaufenes Rind von der Polizei mit Schüssen getötet worden. Beamte erschossen das rund 700 Kilogramm schwere Tier kurz bev</div>
+  <div class="info">Mon, 27 Apr 2026 22:59:22 · NEWS-on-Tour (Gesamt)</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.news-on-tour.de/201717/immobilienmarkt-oberberg-2026-wohnungen/" target="_blank" rel="noopener">Immobilienmarkt Oberberg 2026 – Eigentumswohnungen ziehen kräftig an</a></h2>
+  <div class="teaser">Immobilienmarkt Oberberg /Grundstücksmarktbericht / Wohnen (Von Christian Sasse) Der neue Grundstücksmarktbericht 2026 für den Oberbergischen Kreis zeichnet ein zweigeteiltes Bild: Freistehende Häuser bleiben stabil, Eigentumswohnungen verteuern sich</div>
+  <div class="info">Sat, 25 Apr 2026 20:50:35 · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.news-on-tour.de/201617/kfz-gutachter-oberberg-wolfgang-mueller/" target="_blank" rel="noopener">Oberberg: Kfz-Gutachter Wolfgang Müller – Unfallgutachten für jedes Fahrzeug und Tesla-Know-how</a></h2>
+  <div class="teaser">Kfz Gutachter Oberberg / Wolfgang Müller / Tesla-Gutachter / Unfallgutachten (Von Christian Sasse) Die meisten Autofahrer denken nie an einen Kfz-Gutachter – bis es kracht. Im Stress unmittelbar nach einem Unfall fehlt dann oft ein verlässlicher Name</div>
+  <div class="info">Wed, 22 Apr 2026 05:32:51 · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Bergneustadt</div>
+  <h2><a href="https://www.news-on-tour.de/201310/saarlouis-timo-boll-ttworld-legends-cup/" target="_blank" rel="noopener">Timo Boll Comeback! TT World Legends Cup in Saarlouis – Doppel mit Boris Becker</a></h2>
+  <div class="teaser">Tischtennis / Saarlouis / Timo Boll / Boris Becker (Von Christian Sasse) Am 22. Mai 2026 wird die Stadtgartenhalle Saarlouis zum Schauplatz des TT World Legends Cup 2026. Nach der kurzfristigen Absage des chinesischen Stars Zhang Jike rückt mit Timo </div>
+  <div class="info">Sat, 11 Apr 2026 00:52:35 · NEWS-on-Tour Oberberg</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">März 2026 <span class="monat-count">4</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/mittelstand-oberberg/praezision-und-perfektion-die-kunst-des-honens-von-produkten/" target="_blank" rel="noopener">Präzision und Perfektion: Die Kunst des Honens von Produkten</a></h2>
+  <div class="teaser">Honen sorgt für extrem glatte und genaue Oberflächen. Lernen Sie diese Schlüsseltechnik in der Fertigung kennen. Der Beitrag Präzision und Perfektion: Die Kunst des Honens von Produkten erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Tue, 24 Mar 2026 19:43:18 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.news-on-tour.de/200483/vaterliebe-sicherheit-bushaltestelle/" target="_blank" rel="noopener">NRW: Stille Vaterliebe an der Bushaltestelle rührt das Netz und macht Sicherheit zum Thema</a></h2>
+  <div class="teaser">NRW / Familie / Gesellschaft / Oberberg (Von Christian Sasse) Irgendwo in NRW, an einer ganz normalen Bushaltestelle, spielt sich eine Szene ab, die in diesen Tagen viele Menschen emotional im Netz bewegt. Eine berührende Alltagsgeschichte trifft ein</div>
+  <div class="info">Tue, 10 Mar 2026 10:13:46 · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.news-on-tour.de/200417/internationaler-frauentag-frauenrechte/" target="_blank" rel="noopener">Internationaler Frauentag (8. März) stellt Frauenrechte ins Zentrum – Frauen Union Oberberg nimmt Iran und Afghanistan in den Blick</a></h2>
+  <div class="teaser">Internationaler Frauentag / Frauenrechte / Oberberg / Gleichberechtigung (Von Christian Sasse) Der Internationale Frauentag wird auch 2026 am 8. März begangen und erinnert an den langen Einsatz für Frauenrechte, Gleichberechtigung, politische Teilhab</div>
+  <div class="info">Sun, 08 Mar 2026 01:12:38 · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/ratgeber/vom-funktionsraum-zum-home-spa-so-veraendert-der-wellness-trend-das-badezimmer/" target="_blank" rel="noopener">Vom Funktionsraum zum Home-Spa: So verändert der Wellness-Trend das Badezimmer</a></h2>
+  <div class="teaser">Entdecken Sie die Vorteile eines Home-Spa: Ihr Badezimmer als entspannender Rückzugsort für Selbstfürsorge und Wohlbefinden. Der Beitrag Vom Funktionsraum zum Home-Spa: So verändert der Wellness-Trend das Badezimmer erschien zuerst auf Oberberg-Nachr</div>
+  <div class="info">Fri, 06 Mar 2026 12:09:06 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Februar 2026 <span class="monat-count">6</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/ratgeber/lernen-im-alltag-digitale-weiterbildung-wird-auch-in-oberberg-wichtiger/" target="_blank" rel="noopener">Lernen im Alltag: Digitale Weiterbildung wird auch in Oberberg wichtiger</a></h2>
+  <div class="teaser">Passen Sie Ihre Weiterbildung an Ihren Lebensstil an. Digitales Lernen in Oberberg ermöglicht flexibles Lernen ohne feste Termine. Der Beitrag Lernen im Alltag: Digitale Weiterbildung wird auch in Oberberg wichtiger erschien zuerst auf Oberberg-Nachr</div>
+  <div class="info">Wed, 18 Feb 2026 15:36:13 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/ratgeber/was-ist-das-beste-spirulina/" target="_blank" rel="noopener">Was ist das beste Spirulina?</a></h2>
+  <div class="teaser">Erfahren Sie alles über Spirulina und wie Sie hochwertige Nahrungsergänzungsmittel aus Mikroalgen auswählen können. Der Beitrag Was ist das beste Spirulina? erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Sun, 08 Feb 2026 20:35:47 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.news-on-tour.de/199789/top10-karnevalshits-2026-deutschland/" target="_blank" rel="noopener">Top-10 Karnevalshits 2026 – was in Deutschland läuft: von der Karnevalsmaus bis zum Alpen-Rave</a></h2>
+  <div class="teaser">Deutschland / Karneval 2026 / Karnevalshits / Köln (Von Christian Sasse) Karneval ist kein Datum im Kalender, sondern &amp;#8222;ein Jefühl&amp;#8220;: Wenn in Köln, im Oberberg und überall sonst plötzlich alles nach Konfetti, Kölsch und guter Laune klingt. </div>
+  <div class="info">Sun, 08 Feb 2026 18:26:18 · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Engelskirchen</div>
+  <h2><a href="https://www.news-on-tour.de/199734/karnevalszuege-2026-oberberg/" target="_blank" rel="noopener">Karnevalszüge 2026 Oberbergischer Kreis: 17x Termine für Rosenmontag, Karnevalssonntag und Co.</a></h2>
+  <div class="teaser">Oberberg / Karneval 2026 / Karnevalszüge / Rosenmontag / Termine &amp;#8222;Karnevalszüge 2026 Oberbergischer Kreis: Alle Termine mit Startzeiten und Aufstellungsorten“ (Von Christian Sasse) Zwischen Alaaf, Helau und „Mach ma noch eins!“ verschwimmen die</div>
+  <div class="info">Fri, 06 Feb 2026 02:08:00 · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.news-on-tour.de/184387/stellenausschreibung-strassenbaumeister/" target="_blank" rel="noopener">Stellenausschreibung: Straßenbau-Meister (m/w/d) Job in Köln bei H-KA-S</a></h2>
+  <div class="teaser">Anzeige Sie suchen einen neuen Job im Straßenbau als Meister in Köln? Beim familiengeführten Bauunternehmen H-KA-S erwarten Sie sichere Perspektiven, spannende Projekte und ein starkes Team. Straßenbau-Meister (m/w/d) Wir bieten Faire Vergütung 30 Ur</div>
+  <div class="info">Tue, 03 Feb 2026 01:00:58 · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.news-on-tour.de/184397/galabau-geselle-job-koeln-galabau/" target="_blank" rel="noopener">Stellenausschreibung: Garten- und Landschaftsbau-Geselle (m/w/d) – H-KA-S Köln</a></h2>
+  <div class="teaser">Anzeige Sie suchen einen neuen Job im Garten- und Landschaftsbau als Geselle in Köln? Beim familiengeführten Bauunternehmen H-KA-S erwarten Sie sichere Perspektiven, abwechslungsreiche Außenanlagen-Projekte und ein starkes Team. Garten- und Landschaf</div>
+  <div class="info">Mon, 02 Feb 2026 06:55:50 · NEWS-on-Tour Oberberg</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Januar 2026 <span class="monat-count">2</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/kommunen/jeck-und-sicher-durch-die-session-das-vrs-karnevalsticket-2026-ist-da/" target="_blank" rel="noopener">Jeck und sicher durch die Session: Das VRS-KarnevalsTicket 2026 ist da!</a></h2>
+  <div class="teaser">Oberberg - Sicher durch Karneval: Das VRS-KarnevalsTicket 2026 bietet 6 Tage Fahrt in Bus &amp;#038; Bahn für nur 32,40 €. Jetzt digital sichern und mitfeiern! Der Beitrag Jeck und sicher durch die Session: Das VRS-KarnevalsTicket 2026 ist da! erschien z</div>
+  <div class="info">Tue, 20 Jan 2026 15:19:51 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Gummersbach</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/nachwuchs-oekonom-glaenzt-noah-david-nasimzadah-gewinnt-das-quiz-wirtschaftswissen-im-wettbewerb/" target="_blank" rel="noopener">Nachwuchs-Ökonom glänzt: Noah David Nasimzadah gewinnt das Quiz „Wirtschaftswissen im Wettbewerb“</a></h2>
+  <div class="teaser">Oberberg. Noah David Nasimzadah gewinnt Wirtschaftsquiz in Oberberg. Er vertritt den Kreis im Bundesfinale 2026. Jetzt alle Details zum Sieg lesen! Der Beitrag Nachwuchs-Ökonom glänzt: Noah David Nasimzadah gewinnt das Quiz „Wirtschaftswissen im Wett</div>
+  <div class="info">Tue, 20 Jan 2026 14:46:49 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Dezember 2025 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/ratgeber/betriebsbedingte-kuendigung-wann-beschaeftigte-anspruch-auf-eine-abfindung-haben/" target="_blank" rel="noopener">Betriebsbedingte Kündigung: Wann Beschäftigte Anspruch auf eine Abfindung haben</a></h2>
+  <div class="teaser">Betriebsbedingte Kündigung &amp;#038; Abfindung: Erfahren Sie, wann Ansprüche entstehen, wie Sozialauswahl funktioniert und welche Rechte Sie haben. Der Beitrag Betriebsbedingte Kündigung: Wann Beschäftigte Anspruch auf eine Abfindung haben erschien zuer</div>
+  <div class="info">Wed, 10 Dec 2025 19:40:07 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">November 2025 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/gesundheitstipps-fuer-einen-stressfreien-alltag/" target="_blank" rel="noopener">Gesundheitstipps für einen stressfreien Alltag</a></h2>
+  <div class="teaser">Gesund leben mit weniger Stress: Praktische Tipps, Entspannungstechniken und natürliche Mittel für mehr Gelassenheit im Alltag. Der Beitrag Gesundheitstipps für einen stressfreien Alltag erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Wed, 12 Nov 2025 20:51:03 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">September 2025 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/technologie/moderne-vernetzte-welt-iot-geraete-im-alltaeglichen-einsatz/" target="_blank" rel="noopener">Unsere moderne, vernetzte Welt: IoT-Geräte im alltäglichen Einsatz</a></h2>
+  <div class="teaser">Geräte, die in Haushalten, Büros oder anderen Bereichen unseres Umfelds über das Internet Daten austauschen und miteinander kommunizieren, fallen unter den Begriff „Internet of Things“ (IoT). Was heute alltäglich erscheint, &amp;#8230; Der Beitrag Unsere</div>
+  <div class="info">Fri, 12 Sep 2025 19:30:59 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Juli 2025 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/ratgeber/digital-unterwegs-ohne-risiko-wie-jugendliche-sicher-online-bezahlen-auch-ohne-bankkonto/" target="_blank" rel="noopener">Digital unterwegs ohne Risiko: Wie Jugendliche sicher online bezahlen – auch ohne Bankkonto</a></h2>
+  <div class="teaser">Ratgeber: Wie Jugendliche sicher online bezahlen – auch ohne Bankkonto. Der Beitrag Digital unterwegs ohne Risiko: Wie Jugendliche sicher online bezahlen – auch ohne Bankkonto erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Tue, 22 Jul 2025 07:12:08 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Juni 2025 <span class="monat-count">3</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/politik/wir-fuer-oberberg-liste-jens-holger-puetz-will-in-den-kreistag/" target="_blank" rel="noopener">Wir für Oberberg – Liste Jens Holger Pütz will in den Kreistag</a></h2>
+  <div class="teaser">Mit der Gründung der Wählergruppe „Wir für Oberberg“ um Jens Holger Pütz nimmt die politische Landschaft im Oberbergischen Kreis eine neue Wendung. Der Beitrag Wir für Oberberg – Liste Jens Holger Pütz will in den Kreistag erschien zuerst auf Oberber</div>
+  <div class="info">Thu, 26 Jun 2025 18:31:07 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/mittelstand-oberberg/nis2-richtlinie-haftung-fuer-geschaeftfuehrer/" target="_blank" rel="noopener">NIS2-Richtlinie: Unternehmen in Oberberg müssen jetzt handeln – Geschäftsführer haften persönlich!</a></h2>
+  <div class="teaser">Achtung Geschäftsführer in Oberberg - Sie können Haus&amp;#038;Hof verlieren, wenn Sie im Unternehmen keine NIS2-Richtlinie umgesetzt haben! Der Beitrag NIS2-Richtlinie: Unternehmen in Oberberg müssen jetzt handeln – Geschäftsführer haften persönlich! er</div>
+  <div class="info">Fri, 20 Jun 2025 13:51:43 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/mobilitaet/blindgaenger-fund-in-koeln-betrifft-auch-oberberg/" target="_blank" rel="noopener">Blindgänger-Fund in Köln betrifft auch Oberberg</a></h2>
+  <div class="teaser">Der Großraum Köln steht wegen einem Blindgänger am Mittwoch vor einer der größten Evakuierungsaktionen seit Jahrzehnten. Der Beitrag Blindgänger-Fund in Köln betrifft auch Oberberg erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Tue, 03 Jun 2025 16:59:24 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Mai 2025 <span class="monat-count">3</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Hückeswagen</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/hueckeswagen/segelcamp-bevertalsperre/" target="_blank" rel="noopener">Leinen los für kleine Seebären!</a></h2>
+  <div class="teaser">Die SVWu bietet Kinder und Jugendlichen im Alter von 8 bis 13 Jahren ein besonderes sportliches Highlight vom 1.8. bis zum 17.8. in dem Freizeitparadies Bevertalsperre. Der Beitrag Leinen los für kleine Seebären! erschien zuerst auf Oberberg-Nachrich</div>
+  <div class="info">Fri, 30 May 2025 13:55:00 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Nümbrecht</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/stadtradeln-2025-fuer-ein-gutes-klima/" target="_blank" rel="noopener">Stadtradeln 2025 – Für ein gutes Klima</a></h2>
+  <div class="teaser">Vom 09.06. bis 29.06.2025 lautet das Motto im Oberbergischen wieder: „Radeln für ein gutes Klima“. Die Aktion „STADTRADELN“ vom Klima-Bündnis ruft auch dieses Jahr weltweit Kommunen und Interessierte auf, drei Wochen lang für ein gutes Klima in die P</div>
+  <div class="info">Fri, 30 May 2025 13:29:45 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Bergneustadt</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/luftsport-club-duempel-laedt-zum-flugplatzfest-ein/" target="_blank" rel="noopener">Luftsport-Club Dümpel lädt zum Flugplatzfest ein</a></h2>
+  <div class="teaser">Der Luftsport-Club Dümpel lädt am 14. und 15. Juni 2025 zum 62. Flugplatzfest ein. Es ist eines der größten Publikumsfeste in unserer Region. Der Beitrag Luftsport-Club Dümpel lädt zum Flugplatzfest ein erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Fri, 30 May 2025 13:07:23 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">April 2025 <span class="monat-count">4</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/ratgeber/geschaeftsadresse-am-flughafen-muenchen/" target="_blank" rel="noopener">Geschäftsadresse am Flughafen München: Ein strategischer Vorteil</a></h2>
+  <div class="teaser">Im Oberbergischen Kreis in Nordrhein-Westfalen, einer Region, die für ihre idyllische Natur und hohe Lebensqualität bekannt ist, gibt es zahlreiche Unternehmen, die häufig geschäftlich reisen. Diese Reisen können stressig sein, insbesondere wenn man </div>
+  <div class="info">Mon, 28 Apr 2025 10:19:36 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Nümbrecht</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/blaeck-foeoess-open-air-auf-schloss-homburg/" target="_blank" rel="noopener">„Bläck Fööss“ Open-Air auf Schloss Homburg</a></h2>
+  <div class="teaser">Die Kölner Kultband &quot;Bläck Fööss&quot; spielt am 04. Juli auf der Open-Air-Bühne von Schloss Homburg. Der Kartenvorverkauf hat begonnen. Der Beitrag &amp;#8222;Bläck Fööss&amp;#8220; Open-Air auf Schloss Homburg erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Tue, 15 Apr 2025 15:06:08 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Nümbrecht</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/die-bergische-gartenarche-2025/" target="_blank" rel="noopener">Die Bergische Gartenarche 2025</a></h2>
+  <div class="teaser">Die Bergische Gartenarche startet auf der Pflanzentauschbörse der Biologischen Station Oberberg am 26. April 2025 wieder mit allen Gartenfreunden zum Tausch und Plausch in die Gartensaison. Der Beitrag Die Bergische Gartenarche 2025 erschien zuerst a</div>
+  <div class="info">Tue, 15 Apr 2025 14:46:20 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Nümbrecht</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/wildbienen-biologische-station-oberberg-nisthilfe/" target="_blank" rel="noopener">Workshop der Biologischen Station Oberberg</a></h2>
+  <div class="teaser">Die Biologische Station Oberberg bietet unter der Leitung von Janna Schulte am Donnerstag, den 24. April 2025 einen Workshop für Erwachsene und Familien an. Der Beitrag Workshop der Biologischen Station Oberberg erschien zuerst auf Oberberg-Nachricht</div>
+  <div class="info">Tue, 15 Apr 2025 14:18:26 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">März 2025 <span class="monat-count">2</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/redaktionsblog/smart-city-konzepte-und-technologische-initiativen-im-obk/" target="_blank" rel="noopener">Smart City-Konzepte und technologische Initiativen im Oberbergischen Kreis</a></h2>
+  <div class="teaser">Der Oberbergische Kreis befindet sich in einer spannenden Phase der digitalen Transformation. Smart City-Konzepte und technologische Initiativen prägen das Bild der Region, stärken die Lebensqualität der Einwohner und stellen sicher, dass der Oberber</div>
+  <div class="info">Tue, 18 Mar 2025 13:10:57 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Engelskirchen</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/engelskirchen/passion-leiden-sterben-und-auferstehung-jesu/" target="_blank" rel="noopener">Sonderausstellung: Passion – Leiden, Sterben und Auferstehung Jesu</a></h2>
+  <div class="teaser">Die neue Sonderausstellung des Engelmuseums widmet sich dem Leidensweg Jesu und seiner Vollendung durch Tod und Auferstehung. Der Beitrag Sonderausstellung: Passion – Leiden, Sterben und Auferstehung Jesu erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Tue, 11 Mar 2025 13:18:51 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Februar 2025 <span class="monat-count">3</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Nümbrecht</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/schloss-homburg-schlossgespenst-hombuh/" target="_blank" rel="noopener">Magisches Geschichtenerzählen auf Schloss Homburg</a></h2>
+  <div class="teaser">Am 16. März 2025 und am Ostersonntag dürfen sich Familien auf ein unvergessliches Erlebnis im Schloss Homburg freuen. Das charmante Schlossgespenst HomBuh wird zusammen mit dem bekannten Puppenspieler Gerd J. Pohl durch das Museum führen und große so</div>
+  <div class="info">Mon, 17 Feb 2025 12:31:11 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Bergneustadt</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/stadt-land-fluss/" target="_blank" rel="noopener">Stadt Land Fluss – Ein Blick auf die Kulturlandschaft im Bergischen Land</a></h2>
+  <div class="teaser">Im September 2025 wird das Bergische Land zum Zentrum für Kulturlandschaft und Naturerlebnis, wenn der Landschaftsverband Rheinland (LVR) die Veranstaltung „Stadt Land Fluss - Tage der Rheinischen Landschaft“ ausrichtet. Der Beitrag Stadt Land Fluss </div>
+  <div class="info">Thu, 13 Feb 2025 14:08:43 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/oberbergische-wirtschaft-erfolgsfaktor-finanzwesen/" target="_blank" rel="noopener">Digitaler Wandel in der Oberbergischen Wirtschaft: Erfolgsfaktor Finanzwesen</a></h2>
+  <div class="teaser">Die Digitalisierung verändert die Art und Weise, wie Unternehmen im Oberbergischen Kreis arbeiten. Prozesse werden automatisiert, Abläufe optimiert und Entscheidungswege beschleunigt. Besonders im Finanzwesen spielt die digitale Transformation eine e</div>
+  <div class="info">Mon, 03 Feb 2025 09:39:01 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Januar 2025 <span class="monat-count">7</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Gummersbach</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/notfall-infopunkte-im-oberbergischen-kreis/" target="_blank" rel="noopener">Notfall-Infopunkte im Oberbergischen Kreis</a></h2>
+  <div class="teaser">Die Kreisverwaltung informiert regelmäßig über wichtige Aspekte der Notfallvorsorge. Dabei liegt der Fokus auf den Notfall-Infopunkten im Oberbergischen Kreis. Der Beitrag Notfall-Infopunkte im Oberbergischen Kreis erschien zuerst auf Oberberg-Nachri</div>
+  <div class="info">Tue, 28 Jan 2025 15:25:52 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/wie-sich-abiturvorbereitung-in-oberberg-veraendert-hat/" target="_blank" rel="noopener">Zwischen Hightech und Tradition: Wie sich Abiturvorbereitung in Oberberg verändert hat</a></h2>
+  <div class="teaser">Die Abiturzeit ist für viele Jugendliche eine der prägendsten und herausforderndsten Phasen ihrer Schullaufbahn. Gerade im Oberbergischen Kreis, wo Tradition und Modernität oft aufeinandertreffen, hat sich die Art und Weise, wie Schülerinnen und Schü</div>
+  <div class="info">Wed, 22 Jan 2025 10:43:25 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/redaktionsblog/natur-entspannung-hundefreundlich-oberbergischer-kreis/" target="_blank" rel="noopener">Natur – Entspannung – Hundefreundlich: Oberbergischer Kreis</a></h2>
+  <div class="teaser">Der Oberbergische Kreis bietet eine beeindruckende Naturlandschaft, die ideal für entspannte Spaziergänge mit Ihrem Hund ist. Jedes Jahr zieht es zahlreiche Hundebesitzer in diese Region, um die vielfältigen Wanderwege, malerischen Seen und ruhigen W</div>
+  <div class="info">Tue, 21 Jan 2025 12:48:41 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/nordrhein-westfalen/maul-und-klauenseuche-in-nrw-keine-verdachtsfaelle/" target="_blank" rel="noopener">Maul-und Klauenseuche – In NRW keine Verdachtsfälle</a></h2>
+  <div class="teaser">Im brandenburgischen Landkreis Märkisch-Oderland wurde am Freitag, 10. Januar 2025, die für Klauentiere (Rinder, Schafe, Ziegen, Schweine, Kameliden und Büffel) sowie für Zoo- und Wildtiere hochansteckende Viruserkrankung „Maul- und Klauenseuche (MKS</div>
+  <div class="info">Thu, 16 Jan 2025 14:00:55 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/nordrhein-westfalen/alttextilien-gesetzliche-pflicht/" target="_blank" rel="noopener">Getrennte Sammlung und Wiederverwendung von Alttextilien ab 2025</a></h2>
+  <div class="teaser">Ab dem 1. Januar 2025 tritt in Deutschland eine gesetzliche Pflicht zur getrennten Sammlung von Alttextilien in Kraft. Ziel dieser Regelung ist es, die Wiederverwendung von Kleidung zu fördern und ein hochwertiges Recycling der Materialien zu ermögli</div>
+  <div class="info">Tue, 14 Jan 2025 13:24:45 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/haustechnik-worauf-man-bei-der-installation-achten-muss/" target="_blank" rel="noopener">Moderne Haustechnik: Worauf man bei der Installation achten muss</a></h2>
+  <div class="teaser">Die Installation moderner Haustechnik stellt selbst für Experten eine Herausforderung dar. Die Anforderungen an Effizienz, Sicherheit und Nachhaltigkeit steigen kontinuierlich, und die Technologien entwickeln sich in einem rasanten Tempo weiter. Beso</div>
+  <div class="info">Fri, 10 Jan 2025 15:09:32 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Lindlar</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/lindlar/bergische-kostuemboerse/" target="_blank" rel="noopener">Die Bergische Kostümbörse kehrt zurück: Jetzt Kostüme abgeben!</a></h2>
+  <div class="teaser">Die Vorfreude auf die bevorstehende Karnevalssession steigt, und dieses Jahr dürfen wir uns auf eine besondere Veranstaltung freuen: die dritte Bergische Kostümbörse. Der Beitrag Die Bergische Kostümbörse kehrt zurück: Jetzt Kostüme abgeben! erschien</div>
+  <div class="info">Mon, 06 Jan 2025 14:46:28 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Dezember 2024 <span class="monat-count">3</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/so-wird-dein-essbereich-zum-mittelpunkt-des-zuhauses/" target="_blank" rel="noopener">Mehr als ein Tisch: So wird dein Essbereich zum Mittelpunkt des Zuhauses</a></h2>
+  <div class="teaser">Der Essbereich ist das Herzstück eines jeden Zuhauses. Besonders in Oberberg, wo Gemütlichkeit und Tradition eine große Rolle spielen, wird dieser Raum oft als zentraler Treffpunkt für Familie und Freunde genutzt. Hier entstehen Erinnerungen, sei es </div>
+  <div class="info">Wed, 11 Dec 2024 11:53:10 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/do-it-yourself-so-wechselt-man-die-stossstange-beim-auto-selbst/" target="_blank" rel="noopener">Do it yourself: So wechselt man die Stoßstange beim Auto selbst</a></h2>
+  <div class="teaser">Der Oberbergische Kreis, charakterisiert durch seine hügelige und bewaldete Landschaft, kann aufgrund seiner Geographie spezifische Herausforderungen im Straßenverkehr mit sich bringen. Die engen, kurvenreichen Straßen, die sich durch die abwechslung</div>
+  <div class="info">Wed, 04 Dec 2024 11:11:42 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/die-magie-der-sprachaufnahmen-in-regionalen-projekten/" target="_blank" rel="noopener">Erfolgreiche lokale Projekte, die durch professionelle Sprachaufnahme unterstützt werden</a></h2>
+  <div class="teaser">In der dynamischen Region Oberberg gibt es zahlreiche Projekte, deren Erfolg durch den Einsatz professioneller Sprachaufnahmen gefördert wurde. Ob es sich um die detaillierte Vorstellung kultureller Veranstaltungen oder die lebendige Erzählung region</div>
+  <div class="info">Mon, 02 Dec 2024 12:48:49 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">November 2024 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/wohnmobile-aktuelle-trends-auf-dem-deutschen-markt/" target="_blank" rel="noopener">Steigende Beliebtheit von Wohnmobilen: Aktuelle Trends auf dem deutschen Markt</a></h2>
+  <div class="teaser">Wohnmobile erfreuen sich in Deutschland weiterhin großer Beliebtheit, was die jüngsten Zulassungszahlen eindrucksvoll bestätigen. Laut aktuellen Berichten wurden im dritten Quartal 2024 insgesamt 4.679 neue Wohnmobile registriert – eine Steigerung vo</div>
+  <div class="info">Wed, 27 Nov 2024 08:07:29 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Oktober 2024 <span class="monat-count">9</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Gummersbach</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/kreishaushalt-2025-von-jochen-hagt-vorgestellt/" target="_blank" rel="noopener">Kreishaushalt 2025 von Jochen Hagt vorgestellt</a></h2>
+  <div class="teaser">In der heutigen Kreistagssitzung präsentierte Landrat Jochen Hagt den Haushaltsentwurf des Oberbergischen Kreises für die Jahre 2025 und 2026. Der umfassende Plan, der knapp 680 Seiten umfasst, ist ab sofort HIER einsehbar und herunterladbar. Der Bei</div>
+  <div class="info">Thu, 31 Oct 2024 17:37:14 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/so-wird-ihr-urlaub-im-zillertal-unvergesslich-aktivitaeten-und-geheimtipps-fuer-reisende-aus-dem-oberbergischen-kreis/" target="_blank" rel="noopener">So wird Ihr Urlaub im Zillertal unvergesslich: Aktivitäten und Geheimtipps für Reisende aus dem Oberbergischen Kreis</a></h2>
+  <div class="teaser">Für alle aus dem Oberbergischen Kreis, die sich nach einem Naturerlebnis der besonderen Art sehnen, ist das Zillertal in Tirol ein wahres Paradies. Eingebettet in die Tiroler Alpen, bietet diese Region eine eindrucksvolle Bergwelt, die jeden Naturlie</div>
+  <div class="info">Thu, 31 Oct 2024 13:35:00 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/autopanne-so-reagieren-sie-richtig-in-oberberg/" target="_blank" rel="noopener">Wenn Ihr Auto liegen bleibt: So reagieren Sie richtig in Oberberg</a></h2>
+  <div class="teaser">In Oberberg kann es schneller passieren, als man denkt – plötzlich bleibt das Auto stehen und nichts geht mehr. Ob auf dem Weg zur Arbeit, während einer Reise oder mitten im Feierabendverkehr, eine Autopanne ist immer ein unerwarteter Zwischenfall. U</div>
+  <div class="info">Mon, 28 Oct 2024 07:32:30 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Gummersbach</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/erfolgreicher-sponsorenabend-fuer-den-nick-co-cup-2025/" target="_blank" rel="noopener">Erfolgreicher Sponsorenabend für den Nick &amp; Co-Cup 2025</a></h2>
+  <div class="teaser">Die Veranstalter des Nick &amp;#038; Co-Cups, der SpVg Dümmlinghausen-Bernberg und die Helfenden Hände Oberberg, luden zu einem erfolgreichen Sponsorenabend ein. Der Beitrag Erfolgreicher Sponsorenabend für den Nick &amp;#038; Co-Cup 2025 erschien zuerst auf</div>
+  <div class="info">Mon, 21 Oct 2024 11:33:20 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/so-vermeidet-man-schimmel-und-schaeden-im-haus/" target="_blank" rel="noopener">Richtig lüften in Oberberg: So vermeidet man Schimmel und Schäden im Haus</a></h2>
+  <div class="teaser">Nicht nur im Sommer oder Winter ist das richtige Lüften der eigenen vier Wände bei vielen Immobilien des Wetters in der Region Oberberg wichtig. Auch und gerade im Herbst ist hier regelmäßiges Lüften essenziell, da durch die oft wechselhaften warmen </div>
+  <div class="info">Wed, 16 Oct 2024 06:30:47 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/eine-brauhaustour-durch-die-koelner-altstadt/" target="_blank" rel="noopener">Tolles Ausflugsziel nahe des oberbergischen Landes: Brauhaustouren in Köln</a></h2>
+  <div class="teaser">Die kölsche Kultur erleben kann eine tolle Unternehmung sein, wenn man sich im Umland des Oberbergischen umschauen möchte, Köln lohnt sich in jedem Fall entdeckt zu werden. Wenn man gerade keinen Urlaub hat oder das Geld für eine große Reise fehlt, i</div>
+  <div class="info">Tue, 15 Oct 2024 07:06:54 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/lebensmittellagerung-in-der-gastronomie/" target="_blank" rel="noopener">Lebensmittellagerung in der Gastronomie</a></h2>
+  <div class="teaser">Eines der wichtigsten Geräte für die Lebensmittellagerung in einer Gastronomieküche ist der Gastro-Kühlschrank. Anders als herkömmliche Haushaltskühlschränke sind diese speziell für den Einsatz in professionellen Küchen konzipiert. Der Beitrag Lebens</div>
+  <div class="info">Fri, 11 Oct 2024 10:46:16 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/ratgeber/allradantrieb-fuer-autos-im-obk-unnoetig-oder-sinnvoll/" target="_blank" rel="noopener">Allradantrieb für Autos im Oberbergischen Kreis: Unnötig oder sinnvoll?</a></h2>
+  <div class="teaser">Der Oberbergische Kreis, geprägt von malerischen Landschaften, waldreichen Gebieten und bergigen Regionen, bietet seinen Bewohnern eine Vielzahl von Freizeitmöglichkeiten und erfordert oft spezifische Mobilitätslösungen. In diesem Beitrag betrachten </div>
+  <div class="info">Tue, 08 Oct 2024 13:55:58 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/demografische-veraenderungen-im-oberbergischen-kreis/" target="_blank" rel="noopener">Demografische Veränderungen im Oberbergischen Kreis: Herausforderungen und Chancen für die Zukunft</a></h2>
+  <div class="teaser">Der Oberbergische Kreis, gelegen im schönen Nordrhein-Westfalen, hat in den letzten Jahren eine interessante demografische Entwicklung durchlebt. Immer öfter wird berichtet, dass Menschen aus dieser Region wegziehen. Doch was steckt hinter diesem Tre</div>
+  <div class="info">Tue, 08 Oct 2024 13:40:18 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">September 2024 <span class="monat-count">4</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Gummersbach</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/zebio-schulungsangebot-fuer-waldbesitzende/" target="_blank" rel="noopener">Klimaangepasste Wälder – Schulungsangebot für Waldbesitzende</a></h2>
+  <div class="teaser">Das Zentrum für Bioenergie (ZebiO) führt in Kooperation mit dem Landesbetrieb Wald und Holz Nordrhein-Westfalen eine Veranstaltungsreihe zur klimaangepassten Wiederbewaldung im Bergischen Land durch. Diese Schulungen sind ein wertvolles Angebot für W</div>
+  <div class="info">Wed, 18 Sep 2024 12:14:35 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/wie-sich-einzelhaendler-gegen-den-wandel-behaupten-koennen/" target="_blank" rel="noopener">Bedrohte Vielfalt: Wie sich Einzelhändler und regionale Betriebe gegen den Wandel behaupten können</a></h2>
+  <div class="teaser">In den letzten Jahren haben Einzelhändler und regionale Betriebe in Städten zunehmend gegen den wachsenden Druck durch Online-Handel und große Ketten zu kämpfen. Sinkende Kundenfrequenzen, steigende Mieten und die fortschreitende Digitalisierung stel</div>
+  <div class="info">Tue, 17 Sep 2024 13:58:47 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Bergneustadt</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/fcwo-grosses-sportwochenende/" target="_blank" rel="noopener">FCWO – Großes Sportwochenende</a></h2>
+  <div class="teaser">Am kommenden Wochenende findet das große Sportwochenende des FC Wiedenest- Othetal statt. Der Beitrag FCWO &amp;#8211; Großes Sportwochenende erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Thu, 05 Sep 2024 14:50:15 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/verkaufstipps-fuer-flohmaerkte-im-oberbergischen-kreis/" target="_blank" rel="noopener">Flohmärkte im Oberbergischen Kreis: So verkauft man wie ein Profi</a></h2>
+  <div class="teaser">Die Flohmärkte im Oberbergischen Kreis sind ein alljährliches Highlight für Sammler und Schnäppchenjäger gleichermaßen. Sie bieten nicht nur die Möglichkeit, seltene Fundstücke zu ergattern, sondern sind auch eine Bühne, auf der Verkäufer ihre Gebrau</div>
+  <div class="info">Mon, 02 Sep 2024 10:16:32 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">August 2024 <span class="monat-count">13</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Gummersbach</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/vhs-oberberg-herbstsemesterstart-2024/" target="_blank" rel="noopener">VHS Oberberg –  Herbstsemesterstart 2024</a></h2>
+  <div class="teaser">Die VHS Oberberg startet am Montag, 02. September 2024 mit neuen Kursen ins Herbstsemester: Eine Wildkräuterführung und Kurse über die Vielfalt der „Pilze“ passen thematisch in die Jahreszeit. Der Beitrag VHS Oberberg &amp;#8211; Herbstsemesterstart 2024</div>
+  <div class="info">Fri, 30 Aug 2024 15:17:17 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/raumgestaltung-in-oberberg-tipps-fuer-jede-ecke-des-hauses/" target="_blank" rel="noopener">Raum für Raum: Praktische Tipps für jede Ecke des Hauses</a></h2>
+  <div class="teaser">Die Gestaltung eines Hauses ist eine Kunst, die über die bloße Auswahl von Möbeln und Farben hinausgeht. Besonders in der Region Oberberg, wo die Natur eine bedeutende Rolle im Alltag spielt, ist es wichtig, dass sich die Innenräume harmonisch in die</div>
+  <div class="info">Fri, 30 Aug 2024 12:29:03 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/cyberangriffe-in-oberberg-praeventionsstrategien/" target="_blank" rel="noopener">Cyberangriffe in Oberberg: Präventionsstrategien</a></h2>
+  <div class="teaser">Die Wirtschaft im Oberbergischen Kreis ist geprägt von kleinen und mittleren Unternehmen (KMU). Diese sind aufgrund ihrer begrenzten Ressourcen und oft unzureichenden Fokussierung auf Cybersicherheit einem höheren Risiko für Cyberangriffe ausgesetzt.</div>
+  <div class="info">Thu, 29 Aug 2024 08:50:39 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/prostatabiopsie-vorteile-risiken-und-notwendigkeit/" target="_blank" rel="noopener">Prostatabiopsie: Vorteile, Risiken und Notwendigkeit</a></h2>
+  <div class="teaser">Beim Prostatakrebs ist die Früherkennung sehr wichtig, denn diese Krebsart verursacht anfangs selten Beschwerden. Die Heilungschancen sind mit früh beginnender Behandlung besser. Besteht der Verdacht, kann eine Biopsie der Prostata Erkenntnisse liefe</div>
+  <div class="info">Mon, 26 Aug 2024 11:50:04 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/die-besten-bequemen-joggingshosen-fuer-draussen-und-drinnen/" target="_blank" rel="noopener">Unterwegs im Oberbergischen Land: Die besten bequemen Joggingshosen für draußen und drinnen</a></h2>
+  <div class="teaser">In einer Zeit, in der das Gleichgewicht zwischen Arbeit und Freizeit immer mehr an Bedeutung gewinnt, sind bequeme Joggingshosen für Herren, die zugleich stilvoll sind, nicht mehr wegzudenken. Diese Hosen bieten nicht nur Komfort, sondern auch einen </div>
+  <div class="info">Tue, 20 Aug 2024 14:20:08 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/treppenlift-entscheidungshilfen-und-nutzungstipps/" target="_blank" rel="noopener">Treppenlifte: Entscheidungshilfen und Nutzungstipps für ein barrierefreies Zuhause</a></h2>
+  <div class="teaser">Ein barrierefreies Zuhause kann ein entscheidender Faktor sein, um Unabhängigkeit und Lebensqualität zu erhalten. Treppen stellen dabei oft eine große Hürde dar, besonders für ältere Menschen oder Personen mit körperlichen Einschränkungen. Hier biete</div>
+  <div class="info">Wed, 14 Aug 2024 12:32:59 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/funktionen-die-sie-garantiert-noch-nicht-kennen/" target="_blank" rel="noopener">Funktionen, die Sie garantiert noch nicht kennen!</a></h2>
+  <div class="teaser">Sie denken, Sie kennen Ihr iPhone in- und auswendig? Vielleicht. Vielleicht haben Sie aber von den folgenden Funktionen auch noch nie etwas gehört. Schauen Sie selbst, ob Ihnen die folgenden Funktionen geläufig sind. Der Beitrag Funktionen, die Sie g</div>
+  <div class="info">Wed, 14 Aug 2024 06:47:35 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Nümbrecht</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/natur-erleben-kinder-mit-handicap-willkommen/" target="_blank" rel="noopener">Natur erleben: Kinder mit Handicap willkommen</a></h2>
+  <div class="teaser">Zum Glück erkennen immer mehr Menschen, dass der Umgang mit der Natur schon im Kindesalter beginnt und Kinder wiederum Spaß haben am Entdecken und Ausprobieren, am Beobachten und Erforschen von Abläufen in unserer Umwelt. Der Beitrag Natur erleben: K</div>
+  <div class="info">Tue, 13 Aug 2024 11:09:45 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/google-bewertungen-so-wichtig-sind-sie-fuer-unternehmen/" target="_blank" rel="noopener">Google Bewertungen: So wichtig sind sie für den Ruf von Familienunternehmen im Oberbergischen Kreis</a></h2>
+  <div class="teaser">Familienunternehmen im Oberbergischen Kreis stehen vor besonderen Herausforderungen. Der regionale Wettbewerb, die Notwendigkeit, traditionelle Werte mit modernen Geschäftspraktiken zu verbinden, und die oft begrenzten Ressourcen im Vergleich zu größ</div>
+  <div class="info">Fri, 09 Aug 2024 07:09:35 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/planung-der-perfekten-verlobung-im-obk-tipps-und-tricks/" target="_blank" rel="noopener">Der Oberbergische Kreis als Kulisse für romantische Verlobungen</a></h2>
+  <div class="teaser">Der Oberbergische Kreis, ein idyllisches Fleckchen im Herzen Deutschlands, bietet mit seinen sanften Hügeln, dichten Wäldern und malerischen Tälern die perfekte Szenerie für einen romantischen Heiratsantrag. Die Region, die durch ihre natürliche Schö</div>
+  <div class="info">Thu, 08 Aug 2024 12:02:02 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/nordrhein-westfalen/alarmierende-blutknappheit-apell-an-die-bevoelkerung-blut-zu-spenden/" target="_blank" rel="noopener">Alarmierende Blutknappheit – Apell an die Bevölkerung Blut zu spenden</a></h2>
+  <div class="teaser">Die Situation ist kritisch: In den Sommerferien haben bislang viel zu wenige Menschen Blut gespendet. Die Blutkonserven-Anforderungen der Krankenhäuser müssen deshalb aktuell deutlich gekürzt werden. Der Beitrag Alarmierende Blutknappheit &amp;#8211; Ape</div>
+  <div class="info">Thu, 08 Aug 2024 11:22:16 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Wipperfürth</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/wipperfuerth/magische-nachtschwaermer-abenteuer-im-reich-der-fledermaeuse/" target="_blank" rel="noopener">Magische Nachtschwärmer – Abenteuer im Reich der Fledermäuse</a></h2>
+  <div class="teaser">Fledermäuse – geheimnisvolle Nachtschwärmer, die seit Jahrhunderten unsere Fantasie beflügeln und zugleich Ehrfurcht wecken. Der Beitrag Magische Nachtschwärmer – Abenteuer im Reich der Fledermäuse erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Tue, 06 Aug 2024 13:31:54 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/regionales-engagement/notfallseelsorge-die-oekumenische-notfallseelsorge-oberberg-sucht-verstaerkung/" target="_blank" rel="noopener">Notfallseelsorge: Die Ökumenische Notfallseelsorge Oberberg sucht Verstärkung</a></h2>
+  <div class="teaser">Die Ökumenische Notfallseelsorge Oberberg sucht nach engagierten Personen zur Verstärkung ihres Teams und bietet einen neuen Ausbildungskurs an. Der Beitrag Notfallseelsorge: Die Ökumenische Notfallseelsorge Oberberg sucht Verstärkung erschien zuerst</div>
+  <div class="info">Tue, 06 Aug 2024 13:01:28 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Juli 2024 <span class="monat-count">7</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/archiv/flexible-brandmeldetechnik-fuer-industrie-und-kleinbetrieb/" target="_blank" rel="noopener">Flexible Brandmeldetechnik: für Industrie und Kleinbetrieb</a></h2>
+  <div class="teaser">Brände gefährden Menschen, Hab und Gut - und ganz besonders auch die Existenz von Unternehmen. Das zuverlässige und zügige Melden von Brand- und Rauchentwicklung stellt deswegen das A und O eines soliden Brandschutzkonzepts dar. Egal, ob es nun der k</div>
+  <div class="info">Mon, 29 Jul 2024 13:13:46 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/verstaerkerroehren-fuer-einen-umwerfend-satt-gepraegten-sound/" target="_blank" rel="noopener">Verstärkerröhren für einen umwerfend satt geprägten Sound: Tube Amps online kaufen</a></h2>
+  <div class="teaser">Ob beim alljährlichen Frühjahrskonzert in der Schule, beim Summer Open Air, beim herbstlichen Lichterfest oder für gezupfte Winterserenaden: Wo immer in Oberberg Gitarrentöne erklingen, wünscht man sich einen charismatischen, unvergleichlichen und ti</div>
+  <div class="info">Mon, 29 Jul 2024 12:06:09 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Gummersbach</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/waldbesitzer-in-oberberg-informative-schulungen-zur-klimaangepassten-bewaldung/" target="_blank" rel="noopener">Waldbesitzer in Oberberg – Informative Schulungen zur klimaangepassten Bewaldung</a></h2>
+  <div class="teaser">Für Waldbesitzer in Oberberg mit Sicherheit interessant: ZebiO e.V. bietet eine wertvolle Schulungsreihe im Oberbergischen Kreis an. Der Beitrag Waldbesitzer in Oberberg &amp;#8211; Informative Schulungen zur klimaangepassten Bewaldung erschien zuerst au</div>
+  <div class="info">Fri, 19 Jul 2024 13:37:20 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/ratgeber/oberbergischer-kreis-ein-umzugsziel-mit-vielfaeltigen-vorteilen/" target="_blank" rel="noopener">Oberbergischer Kreis: Ein Umzugsziel mit vielfältigen Vorteilen</a></h2>
+  <div class="teaser">Der Oberbergische Kreis, malerisch gelegen im Süden Nordrhein-Westfalens, bietet weit mehr als nur idyllische Landschaften und charmante Fachwerkhäuser. Besonders für Menschen, die eine Balance zwischen beruflichen Möglichkeiten und einer hohen Leben</div>
+  <div class="info">Fri, 19 Jul 2024 10:33:17 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/redaktionsblog/zu-gast-bei-wanderschaeferin-petra-sauer/" target="_blank" rel="noopener">Zu Gast bei Wanderschäferin Petra Sauer</a></h2>
+  <div class="teaser">Die Berufung zur Wanderschäferin ist selten und einzigartig. Petra Sauer zeigt uns, wie tief Leidenschaft und Hingabe in der Arbeit mit Schafen wurzeln können. Der Beitrag Zu Gast bei Wanderschäferin Petra Sauer erschien zuerst auf Oberberg-Nachricht</div>
+  <div class="info">Thu, 11 Jul 2024 11:55:50 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/sport/kinderturnen-die-positiven-effekte-auf-die-koerperliche-entwicklung/" target="_blank" rel="noopener">Turnen in Oberberg – Die positiven Effekte des Kinderturnens auf die körperliche Entwicklung</a></h2>
+  <div class="teaser">Die körperliche und geistige Entwicklung von Kindern ist ein zentrales Thema für Eltern und Erziehungsberechtigte. In Oberberg erfreut sich das Kinderturnen einer immer größer werdenden Beliebtheit. Doch was genau macht das Kinderturnen so wertvoll f</div>
+  <div class="info">Wed, 03 Jul 2024 08:46:39 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/mofa-und-mofa-teile-richtig-pflegen-tipps-und-tricks/" target="_blank" rel="noopener">Mofa und Mofa Teile richtig pflegen: Tipps und Tricks</a></h2>
+  <div class="teaser">Mit einem schicken Mofa durch die Straßen der Region Oberberg zu kurven, bietet ein einzigartiges Gefühl lässigen Lifestyles und garantiert bei Passanten und anderen Verkehrsteilnehmern neidvolle Blicke. Um auf dem Asphalt nachhaltig Eindruck zu hint</div>
+  <div class="info">Mon, 01 Jul 2024 10:22:57 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Juni 2024 <span class="monat-count">5</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/gartenarbeit-tipps-fuer-die-garten-saison/" target="_blank" rel="noopener">Tipps für die Garten-Saison für Bewohner von Oberberg</a></h2>
+  <div class="teaser">Einen Garten in Oberberg zu pflegen, kann eine bereichernde Erfahrung sein, wenn man die lokalen klimatischen Bedingungen versteht und die Gartenarbeit sorgfältig plant. In dieser Region Deutschlands gibt es ausgeprägte Jahreszeiten, die spezielle An</div>
+  <div class="info">Tue, 25 Jun 2024 07:12:44 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/nachhaltig-leben-tipps-fuer-einen-umweltfreundlichen-alltag/" target="_blank" rel="noopener">Lust auf ein nachhaltigeres Leben in Oberberg? Diese Tipps helfen weiter!</a></h2>
+  <div class="teaser">Wer es sich zur Aufgabe gemacht hat, im Alltag und in Zukunft nachhaltiger unterwegs zu sein, muss sich nicht zwangsläufig für den einen, klassischen Weg entscheiden. Vielmehr steht es jedem frei, sich genau das „Nachhaltigkeitspaket“ zusammenzustell</div>
+  <div class="info">Fri, 14 Jun 2024 09:30:44 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/bauen-wohnen-garten/projekt-eigenheim-im-oberbergischen-kreis/" target="_blank" rel="noopener">Projekt Eigenheim im Oberbergischen Kreis – Ein Traum wird wahr</a></h2>
+  <div class="teaser">Der Traum vom eigenen Haus ist für viele Menschen ein zentrales Lebensziel. Gerade im malerischen Oberbergischen Kreis, wo die Natur noch unberührt und die Gemeinschaft eng verbunden ist, bietet sich die Chance, diesen Traum zu verwirklichen. Die idy</div>
+  <div class="info">Thu, 06 Jun 2024 13:47:27 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/microsoft-office-statt-google-workspace-vor-und-nachteile/" target="_blank" rel="noopener">Microsoft Office statt Google Workspace: Vor- und Nachteile</a></h2>
+  <div class="teaser">In der modernen Arbeitswelt sind Kollaborations- und Produktivitätswerkzeuge unerlässlich. Zwei der bekanntesten Anbieter in diesem Bereich sind Microsoft Office und Google Workspace. Beide Plattformen bieten eine breite Palette von Anwendungen und D</div>
+  <div class="info">Wed, 05 Jun 2024 11:21:46 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/warum-menschen-aus-oberberg-gerne-nach-oesterreich-reisen/" target="_blank" rel="noopener">Warum Menschen aus Oberberg gerne nach Österreich reisen</a></h2>
+  <div class="teaser">In Deutschland besitzen rund 25 Prozent der Haushalte einen oder sogar mehrere Hunde. So auch in Oberberg. Für viele dieser Menschen ist es daher selbstverständlich, den vierbeinigen Freund auch mit in den Urlaub zu nehmen. Zu den beliebten Reiseziel</div>
+  <div class="info">Tue, 04 Jun 2024 06:22:29 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Mai 2024 <span class="monat-count">7</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/einsteigerfreundliche-hosting-loesungen-fuer-deine-erste-wordpress-webseite/" target="_blank" rel="noopener">Einsteigerfreundliche Hosting-Lösungen für deine erste WordPress-Webseite</a></h2>
+  <div class="teaser">Oberberg ist bekannt für seine malerische Landschaft und die bodenständige Herzlichkeit seiner Bewohner. Aber auch hier, inmitten dieser Idylle, ist die Digitalisierung auf dem Vormarsch. Der Beitrag Einsteigerfreundliche Hosting-Lösungen für deine e</div>
+  <div class="info">Thu, 23 May 2024 09:21:54 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/ratgeber/immobilien-finden-5-tipps-zum-erfolg/" target="_blank" rel="noopener">Immobilien finden: 5 Tipps zum Erfolg</a></h2>
+  <div class="teaser">Der Oberbergische Kreis gilt als Zuwanderungsort für Menschen aus verschiedenen Städten und Gemeinden in NRW. Jährlich ziehen bis zu 20.000 Personen in den Landkreis, um sich niederzulassen, zu arbeiten oder eine Familie zu gründen. Der Beitrag Immob</div>
+  <div class="info">Wed, 22 May 2024 12:07:05 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Nümbrecht</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/mit-der-biologischen-station-oberberg-auf-wanderschaft/" target="_blank" rel="noopener">Mit der Biologischen Station Oberberg auf Wanderschaft</a></h2>
+  <div class="teaser">Die Biologische Station Oberberg bietet im Juni wieder interessante Wanderungen ins Oberbergische an. Freuen Sie sich auf einen Kräuterspaziergang und einen Waldspaziergang. Der Beitrag Mit der Biologischen Station Oberberg auf Wanderschaft erschien </div>
+  <div class="info">Tue, 21 May 2024 15:50:08 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/networking-als-recruiting-tool/" target="_blank" rel="noopener">Networking als Recruiting-Tool: Aufbau von Beziehungen zu potenziellen Führungskräften</a></h2>
+  <div class="teaser">In der Region Oberberg, bekannt für ihre starke industrielle Basis und innovative Unternehmen, ist der gezielte Aufbau von professionellen Beziehungen entscheidend, um talentierte Individuen frühzeitig zu erkennen und für sich zu gewinnen. In einer Z</div>
+  <div class="info">Tue, 14 May 2024 07:06:28 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/anleitung-zum-marketing-ueber-messaging-apps-im-obk/" target="_blank" rel="noopener">Die ultimative Anleitung zum Marketing über Messaging-Apps im Oberbergischen Kreis</a></h2>
+  <div class="teaser">Messaging-Apps haben sich in den letzten Jahren zu einem unverzichtbaren Werkzeug für Unternehmen entwickelt, um direkt mit ihren Kunden zu kommunizieren. In Deutschland, insbesondere im Oberbergischen Kreis, wo Datenschutz und Sicherheit eine hohe P</div>
+  <div class="info">Sat, 11 May 2024 06:33:51 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/alles-was-man-ueber-moderne-schnitttechniken-wissen-muss/" target="_blank" rel="noopener">Alles, was man über moderne Schnitttechniken wissen muss</a></h2>
+  <div class="teaser">In der ruhigen Landschaft von Oberberg, bekannt für seine ausgedehnten Wälder und traditionellen Handwerksbetriebe, findet eine Revolution statt. Moderne Schnitttechniken, insbesondere das Laserschneiden, transformieren die lokale Produktion und biet</div>
+  <div class="info">Wed, 08 May 2024 07:58:40 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/innovative-agile-methoden-in-der-softwareentwicklung/" target="_blank" rel="noopener">Beyond Scrum und Kanban: Innovative agile Methoden in der Softwareentwicklung</a></h2>
+  <div class="teaser">In der Region Oberberg, bekannt für ihre innovativen Mittelstandsunternehmen und eine wachsende Tech-Community, finden agile Methoden wie Scrum und Kanban breite Anwendung. Doch während diese Ansätze die Arbeitsweisen vieler Unternehmen bereits tiefg</div>
+  <div class="info">Mon, 06 May 2024 13:34:11 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">April 2024 <span class="monat-count">4</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/wie-man-storytelling-erfolgreich-in-praesentationen-einsetzt/" target="_blank" rel="noopener">Storytelling in Präsentationen: Wie man eine Marke in Oberberg mit Geschichten lebendig macht</a></h2>
+  <div class="teaser">In einer Zeit, in der Marken in der Region Oberberg und darüber hinaus um jede Sekunde unserer Aufmerksamkeit kämpfen, hat sich Storytelling als Schlüsselstrategie herauskristallisiert, um nicht nur die Aufmerksamkeit des lokalen Publikums zu gewinne</div>
+  <div class="info">Mon, 15 Apr 2024 09:29:27 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/kindgerechte-festivals-in-oberberg-veranstalten/" target="_blank" rel="noopener">Kindgerechte Festivals in Oberberg veranstalten</a></h2>
+  <div class="teaser">Die Region Oberberg ist nicht nur für ihre malerische Landschaft und ihre charmanten Dörfer bekannt, sondern auch für ihre lebendige Festivalkultur. Doch während Festivals oft mit lauter Musik und einer ausgelassenen Atmosphäre verbunden sind, wächst</div>
+  <div class="info">Tue, 09 Apr 2024 08:08:58 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/wohnung-in-oberberg-kaufen-schritt-fuer-schritt/" target="_blank" rel="noopener">Wohnung in Oberberg kaufen: Schritt für Schritt</a></h2>
+  <div class="teaser">Der Kauf einer Immobilie stellt oft den Beginn eines neuen Lebensabschnitts dar, sei es als Eigenheim oder als Investition. In Deutschland, speziell auch in der attraktiven Region Oberberg, bedarf es einer gut durchdachten Herangehensweise, um von de</div>
+  <div class="info">Mon, 08 Apr 2024 11:32:39 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/so-sicher-sind-sie-beim-online-shopping/" target="_blank" rel="noopener">So sicher sind Sie beim Online-Shopping</a></h2>
+  <div class="teaser">Online-Shopping wird zwar immer beliebter, bietet aber noch immer altbekannte Stolperfallen. Dazu zählen Klassiker wie unsichere Online-Shops oder fehlende vertrauenswürdige Zahlungsmethoden. Auch andere Faktoren wie ein geringeres Vertrauen im Vergl</div>
+  <div class="info">Fri, 05 Apr 2024 10:30:28 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">März 2024 <span class="monat-count">7</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/junggesellenabschied-im-bergischen-land-oder-fuer-den-jga-nach-koeln-reisen/" target="_blank" rel="noopener">Junggesellenabschied im Bergischen Land oder für den JGA nach Köln reisen?</a></h2>
+  <div class="teaser">Die Gestaltung eines Junggesellenabschieds muss nicht immer auf ein wildes Saufgelage ausgerichtet sein, auch wenn dieses Klischee in vielen Fällen bedient wird. Wo und wie ein solcher Abend verbracht werden soll, hängt immer auch stark von den persö</div>
+  <div class="info">Wed, 27 Mar 2024 11:52:28 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/balkonkraftwerke-schritt-richtung-selbstversorgung/" target="_blank" rel="noopener">Das Balkonkraftwerk liegt im Trend</a></h2>
+  <div class="teaser">Schon lange ist die selbstständige Stromversorgung in Deutschland nicht mehr nur den Besitzern eines Eigenheims vorbehalten, deren Dächer zunehmend die großflächigen Photovoltaikanlagen zieren. Bis zur vollständigen Autarkie und Unabhängigkeit vom St</div>
+  <div class="info">Fri, 22 Mar 2024 07:16:49 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/wie-imagefilme-die-arbeitgebermarke-staerkt/" target="_blank" rel="noopener">Imagefilm-Produktion für Employer Branding: Wie man mit Imagefilmen die Arbeitgebermarke stärkt</a></h2>
+  <div class="teaser">In der heutigen schnelllebigen Arbeitswelt ist die Stärkung der Arbeitgebermarke entscheidender denn je, und das gilt insbesondere für die Region Oberberg mit ihrer einzigartigen Wirtschaftsstruktur und Gemeinschaft. Imagefilme bieten eine dynamische</div>
+  <div class="info">Mon, 18 Mar 2024 11:16:03 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/ein-aufgeraeumter-haushalt-mehr-ordnung-in-der-wohnung/" target="_blank" rel="noopener">Ein aufgeräumter Haushalt – mehr Ordnung in der Wohnung</a></h2>
+  <div class="teaser">In Oberberg entsteht immer mehr Wohnraum und die Lebensqualität steigt ständig. Familien genießen die vertraute Umgebung und das gemeinsame Miteinander. Das eigene Zuhause stellt einen Lebensmittelpunkt dar und immer mehr Einheimische machen sich Ged</div>
+  <div class="info">Fri, 15 Mar 2024 07:34:10 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/gierflation-was-bedeuten-die-neuen-wortschoepfungen/" target="_blank" rel="noopener">Eine Welt der Gierigen? Was bedeuten die neuen Wortschöpfungen und treffen sie zu?</a></h2>
+  <div class="teaser">Im politischen Diskurs, Social Media oder in Charts begegnen uns immer wieder neue Begriffe. Einige erklären sich von selbst, andere bleiben vielen Menschen rätselhaft. Nicht selten setzen sich neue Wortkonstruktionen im Alltag fest. Aber wie zutreff</div>
+  <div class="info">Thu, 14 Mar 2024 09:21:11 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/homeoffice-setup-gestaltungstipps-fuer-mehr-konzentration/" target="_blank" rel="noopener">Homeoffice-Setup: So gestaltet man Raum, Licht und Atmosphäre für mehr Konzentration</a></h2>
+  <div class="teaser">Mit dem Aufkommen des Homeoffice als fester Bestandteil des Arbeitslebens hat die Region Oberberg eine Anpassung an diese neue Arbeitsrealität erlebt. Für viele Pendler und Berufstätige bedeutet dies eine Verschiebung von traditionellen Bürostandorte</div>
+  <div class="info">Tue, 12 Mar 2024 08:50:31 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/berufseinstieg-im-oberbergischen-kreis/" target="_blank" rel="noopener">Berufseinstieg im Oberbergischen Kreis: Tipps für einen erfolgreichen Start</a></h2>
+  <div class="teaser">Wenn Sie­ in den Oberbergische­n Kreis ziehen ode­r Ihren beruflichen We­g in der Region beginne­n wollen, sind Sie hier ge­nau richtig. Für viele Mensche­n ist der Oberbergische­ Kreis eine he­rvorragende Möglichkeit, e­ine berufliche Laufbahn e­inz</div>
+  <div class="info">Tue, 05 Mar 2024 12:54:19 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Februar 2024 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/ein-brunnen-im-eigenen-garten-eine-lohnenswerte-investition/" target="_blank" rel="noopener">Ein Brunnen im eigenen Garten – eine lohnenswerte Investition</a></h2>
+  <div class="teaser">Was gibt es in einem trockenen und heißen Sommer Besseres als einen Sprung ins kühle Nass? Mit einem Brunnen im eigenen Garten steht immer ausreichend Wasser zur Verfügung, um sich schnell abzukühlen. Es gibt noch eine Reihe von weiteren guten Gründe</div>
+  <div class="info">Fri, 09 Feb 2024 15:32:55 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Januar 2024 <span class="monat-count">3</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/energieverbrauch-im-obk-potenzial-zur-vorbildregion/" target="_blank" rel="noopener">Energiesparen im Oberbergischen Kreis – Potenzial zur Vorbildregion?</a></h2>
+  <div class="teaser">Das Sparen von Energie ist mittlerweile ein omnipräsentes Thema, was angesichts der Klimaziele der Regierung keine Überraschung sein dürfte. Wir müssen schließlich alle unseren Beitrag leisten, um dem Klimawandel Einhalt zu gebieten. Allerdings steht</div>
+  <div class="info">Mon, 29 Jan 2024 11:03:00 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/ratgeber/factoring-finanzielle-freiheit-in-greifbarer-naehe/" target="_blank" rel="noopener">Factoring: Finanzielle Freiheit in greifbarer Nähe – Wie Sie mithilfe von Factoring Ihr Unternehmen voranbringen können</a></h2>
+  <div class="teaser">Factoring ist eine Finanzierungsmöglichkeit, die Ihrem Unternehmen mehr Liquidität verschaffen kann. Die Verkaufsforderungen an Kunden werden verkauft und somit erhalten Sie schneller das Geld, das Ihnen zusteht. Factoring bietet viele Vorteile wie e</div>
+  <div class="info">Mon, 08 Jan 2024 13:08:16 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/immobilien-teilverkauf-im-oberbergischen-kreis-sanierung-finanzieren-und-ruhestand-absichern/" target="_blank" rel="noopener">Immobilien-Teilverkauf im Oberbergischen Kreis – Sanierung finanzieren und Ruhestand absichern</a></h2>
+  <div class="teaser">Der Ruhestand steht vor der Tür und viele der rund 65.000 angehenden Rentner* im Oberbergischen Kreis fragen sich, ob das Altersruhegeld ausreicht, um den gewohnten Lebensstandard beizubehalten. Im Vorteil sind dabei Personen, die über eine Wohnimmob</div>
+  <div class="info">Mon, 08 Jan 2024 08:54:53 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Dezember 2023 <span class="monat-count">7</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/ob-nah-oder-fern-wandertouren-gehen-zu-jeder-jahreszeit/" target="_blank" rel="noopener">Ob nah oder fern – Abenteuer- und Wanderurlaube gehen zu jeder Jahreszeit</a></h2>
+  <div class="teaser">Das Oberbergische Land ist seit jeher eines der beliebtesten Erholungsgebiete für Besucher aus dem In- und Ausland, insbesondere aus dem Ruhrgebiet, dem Großraum Köln und den Niederlanden. Die Region bietet neben zahlreichen Sehenswürdigkeiten vor al</div>
+  <div class="info">Wed, 13 Dec 2023 15:16:09 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/pflege-und-zucht-von-ungewoehnlichen-zimmerpflanzen/" target="_blank" rel="noopener">In der Höhle des Grünen Daumens: Pflege und Zucht von ungewöhnlichen Zimmerpflanzen</a></h2>
+  <div class="teaser">Im Herzen der malerischen Region Oberberg, bekannt für ihre üppigen Wälder und hügeligen Landschaften, findet sich eine besondere Leidenschaft für Zimmerpflanzen. Hier, wo die Natur einen wesentlichen Teil des täglichen Lebens bildet, verwandeln enth</div>
+  <div class="info">Wed, 13 Dec 2023 13:12:30 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/seo-erklaert-wichtige-massnahmen-fuer-ihre-website/" target="_blank" rel="noopener">Mit SEO zu mehr Sichtbarkeit – ein Leitfaden für Unternehmen im OBK</a></h2>
+  <div class="teaser">In einer Welt, in der zunehmender Konkurrenzdruck zwischen Unternehmen herrscht, ist es umso wichtiger, dass man sich mit einem starken Internetauftritt befasst. Oftmals stellen Webseiten die erste Anlaufstelle dar, wenn Menschen nach bestimmten Prod</div>
+  <div class="info">Mon, 11 Dec 2023 07:17:30 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/medjool-datteln-exotische-suesse-trifft-regionale-tradition/" target="_blank" rel="noopener">Medjool-Datteln: Exotische Süße trifft regionale Tradition</a></h2>
+  <div class="teaser">Die kulinarische Welt ist reich an überraschenden Geschmackserlebnissen. Eine dieser Überraschungen ist eine spezielle Dattelsorte, bekannt für ihre Süße und fleischige Konsistenz. Sie stammt aus den warmen Regionen des Nahen Ostens und Nordafrikas. </div>
+  <div class="info">Thu, 07 Dec 2023 13:37:13 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/zeiterfassungssoftware-mehr-effizienz-fuer-die-hr-analyse/" target="_blank" rel="noopener">Zeiterfassungssoftware: Mehr Effizienz für die HR-Analyse</a></h2>
+  <div class="teaser">Die Bedeutung von HR Analytics in Unternehmen nimmt stetig zu. Durch die Analyse von Mitarbeiterdaten können Unternehmen wertvolle Erkenntnisse gewinnen und ihre Personalstrategien verbessern. Eine entscheidende Komponente, um HR-Analyseprozesse effi</div>
+  <div class="info">Tue, 05 Dec 2023 11:14:50 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/industriezelte-fuer-events-in-oberberg/" target="_blank" rel="noopener">Die vielseitige Nutzung von Industriezelten: Von Events bis hin zur Lagerung</a></h2>
+  <div class="teaser">Industriezelte sind nicht nur für den Einsatz auf Baustellen gedacht. Sie finden auch in vielen anderen Bereichen Anwendung und bieten eine flexible Lösung für verschiedene Bedürfnisse. In diesem Beitrag werden wir uns mit der vielseitigen Nutzung vo</div>
+  <div class="info">Tue, 05 Dec 2023 08:37:07 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/augenlasern-sehstaerke-verbessern/" target="_blank" rel="noopener">Alles Wichtige zum Augenlasern</a></h2>
+  <div class="teaser">Die Augenlaserchirurgie hat sich als eine revolutionäre Methode zur Korrektur von Sehfehlern etabliert. Diese Technologie, die seit ihrer Einführung in den 1980er Jahren stetig weiterentwickelt wurde, bietet Millionen von Menschen die Möglichkeit, ih</div>
+  <div class="info">Mon, 04 Dec 2023 10:00:07 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">November 2023 <span class="monat-count">10</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/schluss-mit-leeren-waenden-4-gestaltungsideen/" target="_blank" rel="noopener">Schluss mit leeren Wänden: 4 Gestaltungsideen</a></h2>
+  <div class="teaser">In vielen Wohnungen bleiben die Wände ungenutzt, auch wenn die Möbel schon stehen und die Räume ansonsten dekoriert wurden. Dabei bieten diese leeren Flächen eine kreative Möglichkeit, dem Raum eine persönliche Note zu verleihen. Dieser Artikel stell</div>
+  <div class="info">Wed, 29 Nov 2023 07:55:54 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/so-findet-man-seine-traumwohnung-im-oberbergischen-kreis/" target="_blank" rel="noopener">Interview: So findet man seine Traumwohnung im Oberbergischen Kreis</a></h2>
+  <div class="teaser">Wohnen wird immer teurer in Nordrhein-Westfalen. Laut des Bundesinstituts für Bau-, Stadt- und Raumforschung sind die Mietpreise bei Neuvermietungen in NRW seit 2010 um mehr als 44 Prozent gestiegen. Besonders teuer sind die Mieten in Köln mit mittle</div>
+  <div class="info">Mon, 27 Nov 2023 08:46:14 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/der-herbst-kann-kommen-mit-diesen-trends-fuer-abendkleidung-grosse-groessen/" target="_blank" rel="noopener">Der Herbst kann kommen – mit diesen Trends für Abendkleidung große Größen</a></h2>
+  <div class="teaser">Wirklich, fast nichts ist so schön wie der Herbst im Oberberg. Denn die Region Oberbergischer Kreis im Süden Nordrhein-Westfalens hat zu dieser Jahreszeit nicht nur landschaftlich einiges zu bieten. Der Beitrag Der Herbst kann kommen – mit diesen Tre</div>
+  <div class="info">Fri, 24 Nov 2023 15:07:22 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/wichtige-faktoren-fuer-motorradbekleidung/" target="_blank" rel="noopener">Wichtige Faktoren für Motorradbekleidung</a></h2>
+  <div class="teaser">In einer Region, die für ihre kurvenreichen Straßen und wechselhaften Wetterbedingungen bekannt ist, spielt die Motorradbekleidung im Oberbergischen Kreis eine entscheidende Rolle. Der Beitrag Wichtige Faktoren für Motorradbekleidung erschien zuerst </div>
+  <div class="info">Fri, 24 Nov 2023 09:53:31 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/das-handwerk-im-oberbergischen-land-im-wandel-der-zeit/" target="_blank" rel="noopener">Das Handwerk im Oberbergischen Land im Wandel der Zeit</a></h2>
+  <div class="teaser">Das Oberbergische Land ist geprägt von idyllischen Landschaften und einer reichen Geschichte – trägt aber auch das Erbe des Handwerks. Die Wurzeln unserer Region liegen unter anderem im Bergbau und der metallverarbeitenden Industrie. Im Laufe der Zei</div>
+  <div class="info">Thu, 16 Nov 2023 08:08:09 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/die-besten-freizeitaktivitaeten-im-kreis-oberberg/" target="_blank" rel="noopener">Vielfältige Freizeitaktivitäten im Kreis Oberberg</a></h2>
+  <div class="teaser">Der Kreis Oberberg, gelegen im Herzen Nordrhein-Westfalens, ist nicht nur für seine malerische Landschaft und charmanten Städte bekannt, sondern bietet auch eine Fülle von Freizeitaktivitäten für Besucher und Einheimische. Egal, ob Sie die Natur erku</div>
+  <div class="info">Thu, 09 Nov 2023 09:30:05 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/personalisierte-wetterdienste-fuer-oberberg/" target="_blank" rel="noopener">Personalisierte Wetterdienste für Einwohner und Besucher in Oberberg</a></h2>
+  <div class="teaser">In der malerischen Region Oberberg, wo das Wetter so vielfältig ist wie die Landschaft selbst, ist die Bereitstellung maßgeschneiderter Wetterinformationen ein wertvoller Dienst für Einwohner und Besucher gleichermaßen. Der Beitrag Personalisierte We</div>
+  <div class="info">Wed, 08 Nov 2023 13:48:17 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/ausbildung-und-arbeitsmarkt-fuer-titrationstechnologien-in-oberberg/" target="_blank" rel="noopener">Ausbildung und Arbeitsmarkt für Titrationstechnologien in Oberberg</a></h2>
+  <div class="teaser">In der Region Oberberg, die für ihre starke industrielle Präsenz und innovative Technologieunternehmen bekannt ist, spielt die Ausbildung in Titrationstechnologien eine entscheidende Rolle. Titration, eine fundamentale Methode der quantitativen Analy</div>
+  <div class="info">Tue, 07 Nov 2023 09:25:58 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Hückeswagen</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/hueckeswagen/bergische-wanderwochen-brachten-800-euro-ein/" target="_blank" rel="noopener">Bergische Wanderwochen brachten 800 Euro ein</a></h2>
+  <div class="teaser">Am Mittwoch, 26.10.2023 trafen sich die ehrenamtlichen Wanderführenden der Bergischen Wanderwochen 2023 zu einem Abschlussabend. Der Beitrag Bergische Wanderwochen brachten 800 Euro ein erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Mon, 06 Nov 2023 13:44:48 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/was-ist-eine-nfc-visitenkarte-und-wie-funktioniert-es/" target="_blank" rel="noopener">Berühren, Verbinden, Teilen: Die Wunderwelt der NFC-Technologie</a></h2>
+  <div class="teaser">NFC, kurz für Near Field Communication, hat sich still und leise zu einer der Schlüsseltechnologien in unserer vernetzten Welt entwickelt. Man findet sie in Smartphones, Kreditkarten und einer wachsenden Zahl an Geräten und Objekten des täglichen Geb</div>
+  <div class="info">Mon, 06 Nov 2023 07:52:09 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Oktober 2023 <span class="monat-count">10</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/wie-funktioniert-ein-auto-abo/" target="_blank" rel="noopener">Wie funktioniert ein Auto-Abo?</a></h2>
+  <div class="teaser">In der sich ständig wandelnden Mobilitätslandschaft erscheint ein neues, flexibles Modell auf der Bühne: das Auto-Abo. Der Beitrag Wie funktioniert ein Auto-Abo? erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Fri, 27 Oct 2023 10:08:40 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Bergneustadt</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/drachenfest-auf-dem-duempel-2/" target="_blank" rel="noopener">Drachenfest auf dem Dümpel</a></h2>
+  <div class="teaser">Auch in diesem Jahr endet die Flugsaison am Flugplatz „Auf dem Dümpel“ mit einem Fest für alle Familien im Umland. Der Beitrag Drachenfest auf dem Dümpel erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Fri, 27 Oct 2023 07:05:24 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/tourismus/die-besten-winteraktivitaeten-im-oberbergischen-kreis/" target="_blank" rel="noopener">Vorfreude auf den Winter: Die besten Winteraktivitäten im Oberbergischen Kreis</a></h2>
+  <div class="teaser">Die Tage werden immer kürzer und die Temperaturen immer kälter. Der Winter steht vor der Tür und auch im Oberbergischen sind die Temperaturen nachts teilweise unter null Grad. Kein Wunder also, dass sich die Oberberger auf den Winter vorbereiten. Die</div>
+  <div class="info">Tue, 24 Oct 2023 10:35:41 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Bergneustadt</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/bergwacht-drf-luftrettung-uebung-im-oberbergischen-kreis/" target="_blank" rel="noopener">Bergwacht / DRF-Luftrettung – Übung im Oberbergischen Kreis</a></h2>
+  <div class="teaser">Die Bergwacht im Deutschen Roten Kreuz Kreisverband Oberbergischer Kreis e.V., zugleich Träger der Einsatzgruppe Höhenrettung im Oberbergischen Kreis, führt am 20. und 21.10.2023 eine Übung in Zusammenarbeit mit der DRF Stiftung Luftrettung gemeinnüt</div>
+  <div class="info">Thu, 19 Oct 2023 12:58:30 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Nümbrecht</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/pippi-feiert-weihnachten/" target="_blank" rel="noopener">Pippi feiert Weihnachten</a></h2>
+  <div class="teaser">Weihnachten steht vor der Tür. In den Fenstern leuchten bunte Lichter und an den schön geschmückten Weihnachtsbäumen brennen Kerzen. Der Beitrag Pippi feiert Weihnachten erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Thu, 19 Oct 2023 11:58:22 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/sommer-in-sueddaenemark-kulturelle-highlights-unberuehrte-natur-und-entspannung-pur/" target="_blank" rel="noopener">Sommer in Süddänemark: Kulturelle Highlights, unberührte Natur und Entspannung pur</a></h2>
+  <div class="teaser">Die Planung des nächsten Sommerurlaubs kann eine aufregende und inspirierende Aufgabe sein. Viele beginnen frühzeitig, um sicherzustellen, dass der Urlaub zu einem unvergesslichen Erlebnis wird. Der Beitrag Sommer in Süddänemark: Kulturelle Highlight</div>
+  <div class="info">Fri, 13 Oct 2023 13:14:50 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/internet-security-und-ihre-wichtigkeit-auch-fuer-privatpersonen/" target="_blank" rel="noopener">Internet Security und ihre Wichtigkeit – auch für Privatpersonen</a></h2>
+  <div class="teaser">Wenngleich das Internet inzwischen einen festen Bestandteil des Alltags vieler Menschen darstellt und nicht nur Unternehmen, sondern auch Privatpersonen viel Zeit im Internet verbringen, unterschätzen immer noch viel zu viele Internet-Nutzer die Gefa</div>
+  <div class="info">Tue, 10 Oct 2023 12:06:40 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/ist-ihre-betriebsmittelpruefung-auf-dem-neuesten-stand/" target="_blank" rel="noopener">Ist Ihre Betriebsmittelprüfung auf dem neuesten Stand?</a></h2>
+  <div class="teaser">Zahlreiche Seen, schöne Wanderwege und die unberührte Natur locken immer mehr Touristen in den oberbergischen Kreis. Egal ob zu Fuß, mit dem Fahrrad oder beim Stand-up-Paddling, in Oberberg können Touristen die Natur genießen. Gerade an den heißen Ta</div>
+  <div class="info">Mon, 09 Oct 2023 09:36:06 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/tourismus/wochenendausflug-in-die-schweiz-die-besten-tipps/" target="_blank" rel="noopener">Wochenendausflug in die Schweiz: Die besten Tipps für eine stressfreie Anreise mit dem Auto</a></h2>
+  <div class="teaser">Der Sommer in Oberberg neigt sich so langsam dem Ende zu. Die Temperaturen sinken und die Sonne kommt auch nicht mehr so oft raus. Viele Oberberger wünschen sich den Sommer wieder. Trotzdem hat auch der Herbst schöne Seiten. Die Blätter werden bunt u</div>
+  <div class="info">Mon, 09 Oct 2023 07:00:34 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/ein-neuer-postkartentrend-fuer-mehr-persoenlichkeit/" target="_blank" rel="noopener">Ein neuer Postkartentrend für mehr Persönlichkeit</a></h2>
+  <div class="teaser">In einer Welt, in der digitale Kommunikation den Ton angibt, sehnen wir uns manchmal nach einem Hauch von Persönlichkeit und Einzigartigkeit. Genau hier kommt der neue Postkartentrend ins Spiel. Der Beitrag Ein neuer Postkartentrend für mehr Persönli</div>
+  <div class="info">Fri, 06 Oct 2023 12:46:51 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">September 2023 <span class="monat-count">14</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/bauen-wohnen-garten/die-perfekte-sanierung-ihres-hauses-schritt-fuer-schritt-erklaert/" target="_blank" rel="noopener">Die perfekte Sanierung Ihres Hauses – Schritt für Schritt erklärt</a></h2>
+  <div class="teaser">Viele Oberberger träumen von einem Eigenheim. Allerdings mussten einige ihren Traum erst einmal hinten anstellen. Grund hierfür sind vor allem die gestiegenen Preise und die fehlenden Grundstücke. Der Beitrag Die perfekte Sanierung Ihres Hauses &amp;#821</div>
+  <div class="info">Fri, 29 Sep 2023 10:07:52 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/wohnen-im-alter-so-sollte-das-zuhause-gestaltet-werden/" target="_blank" rel="noopener">Wohnen im Alter: So sollte das Zuhause gestaltet werden</a></h2>
+  <div class="teaser">Barrierefreier Wohnraum wird in den nächsten Jahren immer wichtiger. Experten gehen davon aus, dass bis bei 2030 mehr als 3,6 Millionen Menschen über 65 Jahre alt sind. Der Beitrag Wohnen im Alter: So sollte das Zuhause gestaltet werden erschien zuer</div>
+  <div class="info">Thu, 28 Sep 2023 11:58:28 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/klimawandel-im-fokus-oberbergische-region-erlebt-bereits-erste-auswirkungen/" target="_blank" rel="noopener">Klimawandel im Fokus – Oberbergische Region erlebt bereits erste Auswirkungen</a></h2>
+  <div class="teaser">Kaum ein Thema wird von Politikern, Wissenschaftlern und der Regierung seit Jahrzehnten so heiß diskutiert wie der Klimawandel und die Auswirkungen auf unsere Erde. Der Beitrag Klimawandel im Fokus – Oberbergische Region erlebt bereits erste Auswirku</div>
+  <div class="info">Thu, 28 Sep 2023 10:01:05 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/mit-kredit-in-den-urlaub-diese-moeglichkeiten-gibt-es/" target="_blank" rel="noopener">Mit Kredit in den Urlaub  – Diese Möglichkeiten gibt es</a></h2>
+  <div class="teaser">Wer an Kredite denkt, denkt häufig an den Kauf von Autos und Häusern. Es gibt aber noch viele weitere Wünsche, die sich auf der Basis von Fremdkapital realisieren lassen. Der Beitrag Mit Kredit in den Urlaub &amp;#8211; Diese Möglichkeiten gibt es erschi</div>
+  <div class="info">Thu, 28 Sep 2023 09:11:26 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/ein-wichtiger-schritt-fuer-kleine-fuesse-die-feier-zur-einschulung/" target="_blank" rel="noopener">Ein wichtiger Schritt für kleine Füße: Die Feier zur Einschulung</a></h2>
+  <div class="teaser">Es ist der Beginn eines neuen Lebensabschnitts: der Start in das Schulleben. Nicht nur für die Eltern, sondern ganz besonders für Kinder ist diese Phase besonders aufregend. Der Beitrag Ein wichtiger Schritt für kleine Füße: Die Feier zur Einschulung</div>
+  <div class="info">Tue, 26 Sep 2023 09:47:52 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/wie-sich-der-wert-von-briefmarken-bestimmen-laesst/" target="_blank" rel="noopener">Philatelie – erfüllende Wertanlage</a></h2>
+  <div class="teaser">Das Sammeln gehört zum genetischen Profil des Menschen und ist kein evolutionäres Alleinstellungsmerkmal. Viele Tiere verhalten sich entsprechend, indem sie Vorräte für den Winter anlegen. Dazu war der Mensch in grauer Vorzeit ebenfalls gezwungen, ab</div>
+  <div class="info">Mon, 18 Sep 2023 10:04:13 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/der-oberbergische-kreis-ideal-fuer-urlaub-mit-kindern/" target="_blank" rel="noopener">Urlaub mit Kindern im Oberbergischen Kreis: Highlights &amp; Tipps</a></h2>
+  <div class="teaser">Der Oberbergische Kreis ist ein vielseitiges und familienfreundliches Reiseziel, das sich perfekt für einen Urlaub mit Kindern eignet. Mit seiner malerischen Natur, historischen Städten und einer Fülle von Aktivitäten bietet diese Region zahlreiche H</div>
+  <div class="info">Mon, 18 Sep 2023 08:52:02 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/wie-kann-honig-das-immunsystem-unterstuetzen/" target="_blank" rel="noopener">Gesundheitliche Prävention: Honig ist ein guter Helfer</a></h2>
+  <div class="teaser">Der Oberbergische Kreis befindet sich im am dichtesten besiedelten Bundesland Deutschlands. In Nordrhein-Westfalen drängeln sich rund 530 Menschen auf nur einem Quadratkilometer. Daraus ergeben sich einige Probleme, die von einer starken Nachfrage na</div>
+  <div class="info">Thu, 14 Sep 2023 07:06:02 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/sicherheitsdienst-sicher-leben-im-oberbergischen-kreis/" target="_blank" rel="noopener">Sicher leben im Oberbergischen Kreis</a></h2>
+  <div class="teaser">Auf dem Land lebt es sich gut. Die Luft ist sauber und die Natur ist intakt. Herz und Seele entspannen sich beim Blick über die Landen. Keine störenden Geräusche belästigen einen beim Wandern durch die Natur. Trotzdem gibt es auch in so einer idyllis</div>
+  <div class="info">Wed, 13 Sep 2023 09:16:11 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/wandern-mit-der-familie-familienfreundliche-touren-und-ausfluege-in-oberberg-und-umgebung/" target="_blank" rel="noopener">Wandern mit der Familie: Familienfreundliche Touren und Ausflüge in Oberberg und Umgebung</a></h2>
+  <div class="teaser">Wenn die ganze Familie zu einer Wanderung antritt, muss vor allem der Weg stimmen. Die Kleinsten haben noch nicht die volle Kondition, die Großen möchten dennoch eine Herausforderung genießen. Der Beitrag Wandern mit der Familie: Familienfreundliche </div>
+  <div class="info">Tue, 12 Sep 2023 12:12:00 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/regionale-unternehmen-keine-marketing-trends-mehr-verpassen/" target="_blank" rel="noopener">Wie regionale Unternehmen 2024 keine Marketing Trends mehr verpassen</a></h2>
+  <div class="teaser">Ein gutes Marketing hält das Unternehmen. Das ist natürlich auch im Oberberger Kreis, im Süden Nordrhein-Westfalens, der Fall. Doch genau dazu braucht es auch ein gutes Wissen rund um dieses Thema. Wer die angesagtesten Trends kennt, kann sie für sic</div>
+  <div class="info">Mon, 11 Sep 2023 10:05:37 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/unternehmen-setzen-auf-nachhaltigkeit-auch-in-oberberg/" target="_blank" rel="noopener">Nachhaltigkeit in Unternehmen: Auch in Oberberg ein Thema</a></h2>
+  <div class="teaser">Vielen Unternehmen ist es in der heutigen Zeit, auch in Oberberg, wichtig, ihren ökologischen Fußabdruck zu verkleinern. Aber wie ist genau das möglich? Die gute Nachricht ist, dass es viele Optionen gibt, die dazu beitragen können, die Umwelt zu sch</div>
+  <div class="info">Mon, 11 Sep 2023 07:12:29 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/technologische-fortschritte-im-holzbau/" target="_blank" rel="noopener">Technologische Fortschritte im Holzbau</a></h2>
+  <div class="teaser">In einer Welt, die ständig auf der Suche nach nachhaltigeren und effizienteren Bauweisen ist, steht der Holzbau an vorderster Front. Insbesondere in Oberbergischem Kreis in Nordrhein-Westfalen, einer Region mit einer reichen Baugeschichte und einem B</div>
+  <div class="info">Wed, 06 Sep 2023 13:07:49 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/bauen-wohnen-garten/einladende-outdoormoebel-fuer-jeden-geschmack/" target="_blank" rel="noopener">Outdoormöbel zum Verlieben: So wird Ihr Außenbereich zur Wohlfühloase</a></h2>
+  <div class="teaser">Der Sommer in Deutschland neigt sich langsam dem Ende zu. Gerade der August war, wie auch in Oberberg, eher durchwachsen. Viel Regen und eher kältere Temperaturen sorgten für wenig Sommergefühle. Auch wenn das Wetter im Oberberg schon immer mehr oder</div>
+  <div class="info">Wed, 06 Sep 2023 09:16:03 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">August 2023 <span class="monat-count">9</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/bauen-wohnen-garten/edelstahlschornsteine-in-oberberg-funktionsweise-und-kaufkriterien/" target="_blank" rel="noopener">Edelstahlschornsteine in Oberberg: Funktionsweise und Kaufkriterien</a></h2>
+  <div class="teaser">Der Oberbergische Kreis besticht durch eine ansprechende Landschaft, bestehend aus Naturschutzgebieten, Gewässern und üppigen Wäldern. Im Sommer strömen zahlreiche Touristen in das Gebiet, um einen erholsamen Urlaub in der Natur zu verbringen. Der Be</div>
+  <div class="info">Tue, 29 Aug 2023 11:24:17 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/dauerhafte-inflation-diese-8-strategien-helfen-dennoch-effektiv-zu-sparen/" target="_blank" rel="noopener">Dauerhafte Inflation: Diese 8 Strategien helfen, dennoch effektiv zu sparen</a></h2>
+  <div class="teaser">Die anhaltende Inflation ist zweifellos eine der aktuellen wirtschaftlichen Herausforderungen, mit denen viele Bürgerinnen und Bürger in unserer Region konfrontiert sind. Der Beitrag Dauerhafte Inflation: Diese 8 Strategien helfen, dennoch effektiv z</div>
+  <div class="info">Tue, 29 Aug 2023 11:14:31 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/bauen-wohnen-garten/das-eigene-haus-in-oberberg-zu-geld-machen/" target="_blank" rel="noopener">Das eigene Haus in Oberberg zu Geld machen</a></h2>
+  <div class="teaser">Es gibt viele Gründe, sein Haus zu verkaufen. So etwa fällt es in zunehmendem Alter immer schwerer, ein komplettes Haus mit Garten zu bewirtschaften. Der Beitrag Das eigene Haus in Oberberg zu Geld machen erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Tue, 29 Aug 2023 09:15:13 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/wasserstoff-flugzeuge-auch-in-oberberg-ist-das-interesse-gross/" target="_blank" rel="noopener">Wasserstoffflugzeuge – auch in Oberberg ist das Interesse groß</a></h2>
+  <div class="teaser">Für den Transport von Flugpassagieren und von Luftfracht entstehen im internationalen Luftverkehr 950 Millionen Tonnen Emissionen von Kohlendioxid pro Jahr. Nimmt man ein Branchenwachstum von drei bis vier Prozent p.a. an würden sich diese bis zum Ja</div>
+  <div class="info">Wed, 16 Aug 2023 10:29:43 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/tourismus/eine-einzigartige-reiseerfahrung-durch-slowenien/" target="_blank" rel="noopener">Die Vielfalt Sloweniens entdecken: Ein Autotrip zu Kultur, Natur und Kulinarik</a></h2>
+  <div class="teaser">Das aktuell eher wechselhafte Wetter hier in Oberberg verleitet viele Oberberger zu einem Urlaub. Da Deutschland aktuell generell nicht mit gutem Wetter punkten kann, entscheiden sich immer mehr Urlauber für einen Trip ins Ausland. Allerdings muss es</div>
+  <div class="info">Wed, 16 Aug 2023 09:24:28 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/das-bundesdatenschutzgesetz-und-gesundheitsdaten-was-oberberger-buerger-wissen-muessen/" target="_blank" rel="noopener">Das Bundesdatenschutzgesetz und Gesundheitsdaten: Was Oberberger Bürger wissen müssen</a></h2>
+  <div class="teaser">In der heutigen Zeit, in der die Digitalisierung in allen Lebensbereichen voranschreitet, wird der Schutz persönlicher Daten immer wichtiger. Insbesondere im Gesundheitswesen, wo sensible Informationen wie Diagnosen, Behandlungspläne und Medikationsh</div>
+  <div class="info">Wed, 16 Aug 2023 08:31:50 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/oberberg-und-umgebung-die-schoensten-orte-fuer-hobbyfotografen-entdecken/" target="_blank" rel="noopener">Oberberg und Umgebung: Die schönsten Orte für Hobbyfotografen entdecken</a></h2>
+  <div class="teaser">Ein Bild sagt bekanntlich mehr als tausend Worte, und in der heutigen digitalen Ära ist das Festhalten von Momenten wichtiger denn je. Die Magie der Fotografie ermöglicht es uns, kostbare Augenblicke einzufangen und für immer zu bewahren. Doch was is</div>
+  <div class="info">Wed, 16 Aug 2023 08:14:57 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/stoffe-kaufen-und-faschingskostueme-selbst-machen/" target="_blank" rel="noopener">Stoffe kaufen und Faschingskostüme selbst machen</a></h2>
+  <div class="teaser">Wer in Oberberg mit einem individuellen Faschingskostüm in die „5. Jahreszeit“ starten möchte, sollte sich jetzt schon nach passenden Stoffen und Schnittmustern umschauen. Dabei spielt es keine Rolle, ob man sich bei den Veranstaltungen der örtlichen</div>
+  <div class="info">Mon, 14 Aug 2023 12:08:36 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/umsetzung-von-bauprojekten-baukosten-im-blick/" target="_blank" rel="noopener">Baukosten im Blick: Erfolgsfaktoren für eine budgetgerechte Umsetzung von Bauprojekten in Oberberg</a></h2>
+  <div class="teaser">Der Bau eines Hauses erfordert eine sorgfältige Kostenkalkulation, um finanzielle Stabilität zu gewährleisten. In den letzten Jahren hat sich der durchschnittliche Preis pro Quadratmeter in Oberberg für den Grund sowie auch dem Hausbau signifikant er</div>
+  <div class="info">Mon, 07 Aug 2023 07:47:58 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Juli 2023 <span class="monat-count">11</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/warum-die-wasserpfeife-im-trend-bleibt/" target="_blank" rel="noopener">Shisha: Die Wasserpfeife bleibt weiter im Trend</a></h2>
+  <div class="teaser">Die Shisha - ein Trend, der anhält und in den letzten Jahren immer mehr an Fahrt gewonnen hat. Obwohl sie ihre Wurzeln in fernen Kulturen hat, findet man sie heute in fast jeder Stadt in Deutschland. Ob in gemütlichen Lounges, auf stimmungsvollen Eve</div>
+  <div class="info">Mon, 31 Jul 2023 07:20:49 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/der-oberbergische-kreis-tipps-fuer-ausfluege/" target="_blank" rel="noopener">Tipps für Ausflüge im oberbergischen Kreis</a></h2>
+  <div class="teaser">Der oberbergische Kreis in Nordrhein-Westfalen ist ein wahrer Schatz für Naturliebhaber und Erholungssuchende. Mit seiner malerischen Landschaft, den idyllischen Dörfern und den zahlreichen Freizeitmöglichkeiten bietet er eine Vielzahl von Möglichkei</div>
+  <div class="info">Wed, 26 Jul 2023 14:39:18 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/goldene-hochzeit-50-jahre-liebe-und-glueck-fuer-das-ehepaar/" target="_blank" rel="noopener">50 Jahre Liebe und Glück: Ein goldenes Jubiläum, das gefeiert werden muss</a></h2>
+  <div class="teaser">Oberberg Rathaus, Zimmer 6. Jedes Jahr zieht es zahlreiche Paare an die Tische des Standesamtes am Marktplatz 36. Ihr Ziel: Mindestens fünfzig Jahre mit ein und demselben Partner an seiner Seite! Betroffene Paare lassen es an diesem besonderen Tag or</div>
+  <div class="info">Mon, 24 Jul 2023 09:46:43 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/bauen-wohnen-garten/fertighaus-vs-massivhaus-welches-ist-das-bessere-investment/" target="_blank" rel="noopener">Fertighaus vs. Massivhaus: Welches ist das bessere Investment?</a></h2>
+  <div class="teaser">Beim Bau oder Kauf eines Hauses stellt sich oft die Frage, welche Bauart die sinnvollste ist. Eine pauschalisierte Antwort kann natürlich niemand geben. Jeder Mensch ist unterschiedlich und so hat auch jeder unterschiedliche Anforderungen an sein Hau</div>
+  <div class="info">Wed, 19 Jul 2023 09:05:41 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/gesundes-fastfood-heisse-theken-revolutionieren-die-gastronomie/" target="_blank" rel="noopener">Gesundes Fastfood: Wie heiße Theken die Gastronomie revolutionieren</a></h2>
+  <div class="teaser">Fastfood hat oft den Ruf, ungesund zu sein. Doch in der modernen Gastronomie zeichnet sich ein Wandel ab. Gesundes Fastfood ist kein Widerspruch mehr, sondern wird immer mehr zur Realität - und heiße Theken spielen dabei eine entscheidende Rolle. Sie</div>
+  <div class="info">Wed, 19 Jul 2023 06:43:02 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/zahlen-fakten-rund-um-guten-bienenhonig/" target="_blank" rel="noopener">Zahlen &amp; Fakten rund um guten Bienenhonig</a></h2>
+  <div class="teaser">Im Bergischen Land gibt es klimatische Bedingungen, die ein gutes Pflanzenwachstum fördern. Allerdings sorgt eine sogenannte Luvlage dafür, dass die Honigbienen aufgrund häufiger und starker Regenfälle oft nicht ausfliegen können. Weil die Wolken aus</div>
+  <div class="info">Thu, 13 Jul 2023 06:27:41 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/erfolgsfaktor-arbeitssicherheit/" target="_blank" rel="noopener">Erfolgsfaktor Arbeitssicherheit: Wie Sicherheitsstandards die Unternehmensleistung beeinflussen</a></h2>
+  <div class="teaser">In der dynamischen Welt der Industrie, wo Produktion und Gewinn oft im Vordergrund stehen, verdient das Thema Arbeitssicherheit besondere Aufmerksamkeit. Ein sicherer Arbeitsplatz trägt nicht nur dazu bei, Arbeitsunfälle zu vermeiden, sondern verbess</div>
+  <div class="info">Wed, 12 Jul 2023 07:10:11 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/werbegeschenke-wirkung-von-werbung/" target="_blank" rel="noopener">Wirkung von Werbung</a></h2>
+  <div class="teaser">Werbung spielt eine entscheidende Rolle für Unternehmen, um ihre Produkte und Dienstleistungen effektiv zu vermarkten. Sie ist ein mächtiges Instrument, um das Bewusstsein der Menschen zu wecken und ihre Aufmerksamkeit auf das Angebot eines Unternehm</div>
+  <div class="info">Wed, 12 Jul 2023 06:32:37 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/nordrhein-westfalen/bootsfuehrerschein-machen-in-nrw-diese-punkte-werden-wichtig/" target="_blank" rel="noopener">Bootsführerschein machen in NRW: Diese Punkte werden wichtig</a></h2>
+  <div class="teaser">Das Bundesland NRW wird bei denjenigen, die es lieben, nicht nur auf den Straßen, sondern auch auf dem Wasser unterwegs zu sein, immer beliebter. Dementsprechend erklärt es sich von selbst, weshalb sich mittlerweile so viele Menschen für einen Bootsf</div>
+  <div class="info">Fri, 07 Jul 2023 13:23:55 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/garagenflaechen-optimal-nutzen-diese-tipps-helfen-weiter/" target="_blank" rel="noopener">Garagenflächen optimal nutzen: Diese Tipps helfen weiter</a></h2>
+  <div class="teaser">Auch im Kreis Oberberg machen sich viele Menschen Gedanken darüber, ob sie den ihnen zur Verfügung stehenden Platz optimal nutzen. Hier geht es nicht nur darum, das Maximum aus seinem Wohnbereich herauszuholen. Der Beitrag Garagenflächen optimal nutz</div>
+  <div class="info">Fri, 07 Jul 2023 10:37:17 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/monteurzimmer-wuppertal-guenstige-unterkuenfte-fuer-berufstaetige/" target="_blank" rel="noopener">Monteurzimmer Wuppertal: Günstige Unterkünfte für Berufstätige?</a></h2>
+  <div class="teaser">Wuppertal ist eine Stadt im Westen Deutschlands, die für ihre einzigartige Schwebebahn bekannt ist. Doch abgesehen von diesem ikonischen Verkehrsmittel hat die Stadt noch viel mehr zu bieten. Der Beitrag Monteurzimmer Wuppertal: Günstige Unterkünfte </div>
+  <div class="info">Fri, 07 Jul 2023 09:41:11 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Juni 2023 <span class="monat-count">9</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/bauen-wohnen-garten/fassadenverkleidung/" target="_blank" rel="noopener">Fassadenverkleidung</a></h2>
+  <div class="teaser">Mit einer schicken Fassadenverkleidung erstrahlt jedes Haus in einem neuen Kleid. Dabei verändert sich sowohl die Ausstrahlung des Gebäudes als auch sein Wert. Der Beitrag Fassadenverkleidung erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Wed, 28 Jun 2023 11:32:36 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/fallende-immobilienpreise-fuer-den-oberbergischen-kreis/" target="_blank" rel="noopener">Fallende Immobilienpreise für den Oberbergischen Kreis</a></h2>
+  <div class="teaser">Im Vergleich zu den Vorjahreszahlen sind im Oberbergischen Kreis, die Immobilienpreise vielerorts gefallen. Der Beitrag Fallende Immobilienpreise für den Oberbergischen Kreis erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Tue, 27 Jun 2023 12:03:08 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/ratgeber/5g-und-die-gesundheitsschaedliche-strahlung/" target="_blank" rel="noopener">5g und die gesundheitsschädliche Strahlung</a></h2>
+  <div class="teaser">Bis 2025 soll der Mobilfunkstandard 5G in Deutschland flächendeckend ausgebaut sein. Die Befürworter versprechen sich davon viele Vorteile. Der Beitrag 5g und die gesundheitsschädliche Strahlung erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Fri, 23 Jun 2023 13:50:56 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/aluminium-in-der-mobilitaet-ein-tiefer-einblick-in-die-verwendung-von-aluminium-in-der-automobilindustrie-von-nordrhein-westfalen/" target="_blank" rel="noopener">Aluminium in der Mobilität: Ein tiefer Einblick in die Verwendung von Aluminium in der Automobilindustrie von Nordrhein-Westfalen</a></h2>
+  <div class="teaser">Aluminium, bekannt für seine Leichtigkeit und Stärke, hat sich als unverzichtbarer Bestandteil in der Automobilindustrie etabliert. Der Beitrag Aluminium in der Mobilität: Ein tiefer Einblick in die Verwendung von Aluminium in der Automobilindustrie </div>
+  <div class="info">Thu, 22 Jun 2023 12:25:25 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/briefumschlaege-bestellen-die-vorteile/" target="_blank" rel="noopener">Briefumschlägebestellen – Dienstleistungen für private und gewerbliche Kunden</a></h2>
+  <div class="teaser">Die klassische Briefpost hat auch im Zeitalter der Digitalisierung noch einen hohen Stellenwert. Offizielle Schreiben werden per Brief versendet. Viele von ihnen benötigen eine Unterschrift. Die digitale Variante wird nicht überall akzeptiert. Briefu</div>
+  <div class="info">Thu, 15 Jun 2023 13:08:17 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/tourismus/staedtetrips-deutschland-vom-oberbergischen-aus-entdecken/" target="_blank" rel="noopener">Städtetrips – Deutschland vom Oberbergischen aus entdecken</a></h2>
+  <div class="teaser">Wer Lust auf einen Urlaub der ganz besonderen Art hat, muss nicht zwangsläufig lange Reisezeiten in Kauf nehmen. Auch Deutschland bietet viele Möglichkeiten, den eigenen Horizont zu erweitern. Der Beitrag Städtetrips &amp;#8211; Deutschland vom Oberbergi</div>
+  <div class="info">Wed, 14 Jun 2023 10:35:31 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/was-ist-eine-tankkarte-alles-was-sie-wissen-muessen/" target="_blank" rel="noopener">Was ist eine Tankkarte? – Alles, was Sie wissen müssen</a></h2>
+  <div class="teaser">Tankkarten sind eine praktische Möglichkeit, Ihre Treibstoffkosten im Griff zu behalten. In diesem Artikel erklären wir Ihnen, was Tankkarten sind, wie sie funktionieren und was Sie beachten müssen, wenn Sie sich für eine entscheiden. Der Beitrag Was</div>
+  <div class="info">Fri, 09 Jun 2023 09:48:01 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/bauen-wohnen-garten/tipps-fuer-ein-modernes-und-gemuetliches-schlafzimmer/" target="_blank" rel="noopener">Tipps für ein modernes und gemütliches Schlafzimmer</a></h2>
+  <div class="teaser">Das Schlafzimmer ist ein Ort, an dem wir zur Ruhe kommen und Entspannung suchen. Eine moderne und gemütliche Einrichtung des Zimmers bringt Ihnen eine harmonische Atmosphäre, die zur Entspannung und Erholung beiträgt. Der Beitrag Tipps für ein modern</div>
+  <div class="info">Tue, 06 Jun 2023 10:25:10 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/die-vorteile-von-coworking-gegenueber-einem-traditionellen-buero-top-5-tipps-zur-auswahl-des-perfekten-arbeitsbereichs/" target="_blank" rel="noopener">Die Vorteile von Coworking gegenüber einem traditionellen Büro: Top 5 Tipps zur Auswahl des perfekten Arbeitsbereichs</a></h2>
+  <div class="teaser">Es ist nicht immer angenehm, in einem großen Büro zu arbeiten. Deshalb entscheiden sich immer mehr Unternehmen und Privatpersonen für Coworking Spaces. Es ist sehr wichtig, die richtige Wahl des Arbeitsplatzes zu treffen und dabei die besonderen Merk</div>
+  <div class="info">Thu, 01 Jun 2023 13:14:24 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Mai 2023 <span class="monat-count">16</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/bewaehrte-strategien-um-kundenbeschwerden-effektiv-zu-loesen/" target="_blank" rel="noopener">Bewährte Strategien, um Kundenbeschwerden effektiv zu lösen und das Vertrauen zurückzugewinnen</a></h2>
+  <div class="teaser">Kundenbeschwerden sind eine unvermeidliche Realität im Geschäftsleben und können einen erheblichen Einfluss auf die Kundenzufriedenheit und das Image Ihres Unternehmens haben. Doch anstatt Kundenbeschwerden als negatives Ereignis zu betrachten, könne</div>
+  <div class="info">Wed, 31 May 2023 13:46:29 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/weiterbildungen-auch-berufsbegleitend-moeglich/" target="_blank" rel="noopener">Praktische Tipps zum beruflichen Weiterkommen</a></h2>
+  <div class="teaser">Wer im Beruf vorankommen möchte, muss dafür einiges tun. Es reicht nicht, abzuwarten bis der Chef mit einer Beförderung um die Ecke kommt. Vielmehr gilt es, eigene Stärken zu erkennen und an seinen Schwächen zu arbeiten. Außerdem gibt es heutzutage v</div>
+  <div class="info">Wed, 31 May 2023 12:22:20 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/adresshaendler-adressen-kaufen-im-b2b/" target="_blank" rel="noopener">Adressen kaufen im B2B: So machen Sie es richtig</a></h2>
+  <div class="teaser">Gekaufte Adressen waren schon immer für Unternehmen ein wichtiger Treibstoff des Marketings. Spätestens seit der Pandemie greifen immer mehr auf von Adresshändlern bereitgestellte Adresslisten zurück. In diesem Artikel gehen wir auf die Vorteile des </div>
+  <div class="info">Tue, 30 May 2023 07:33:30 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/die-rolle-der-farbpsychologie-in-der-raumgestaltung/" target="_blank" rel="noopener">Einfluss von Farbpsychologie in Raumgestaltung und Dekoration: Ein tiefer Einblick</a></h2>
+  <div class="teaser">Die Welt der Farben ist faszinierend und komplex. Jede Farbe weckt unterschiedliche Emotionen und Assoziationen in uns. In diesem Artikel werden wir uns eingehender mit dem Einfluss der Farbpsychologie in der Raumgestaltung und Dekoration befassen, e</div>
+  <div class="info">Thu, 25 May 2023 08:37:46 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/campingreisen-5-gruende-einen-campingurlaub-zu-machen/" target="_blank" rel="noopener">5 Gründe einen Campingurlaub zu machen</a></h2>
+  <div class="teaser">Campingurlaube galten über viele Jahrzehnte als spießig. Jüngere Generationen haben Campingreisen nicht nur wiederentdeckt, sondern dieser Art des Urlaubs auch einige neue Facetten hinzugefügt. Welche 5 Gründe aktuell für einen &amp;#8230; Der Beitrag 5 </div>
+  <div class="info">Tue, 23 May 2023 09:11:14 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/die-einladung-zur-kommunion-rechtzeitig-verschicken/" target="_blank" rel="noopener">How to: Kommunionfeier im Frühling</a></h2>
+  <div class="teaser">Dass Kommunionfeiern traditionell im Frühling, oftmals in der zeitlichen Nähe der Ostertage stattfinden, ist ein schönes Symbol. Immerhin steht der Frühling im Jahreszeitenkreis für die Monate, in denen das Leben wieder erwacht und sich prachtvoll en</div>
+  <div class="info">Mon, 22 May 2023 13:27:00 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/die-naechste-stufe-des-housings-von-traditionellen-rechenzentren-zu-modularen-skalierbaren-und-autonomen-systemen/" target="_blank" rel="noopener">Die nächste Stufe des Housings: Von traditionellen Rechenzentren zu modularen, skalierbaren und autonomen Systemen</a></h2>
+  <div class="teaser">In der sich schnell entwickelnden Welt der Informationstechnologie hat das Housing von Rechenzentren eine neue Dimension erreicht. Der Beitrag Die nächste Stufe des Housings: Von traditionellen Rechenzentren zu modularen, skalierbaren und autonomen S</div>
+  <div class="info">Fri, 19 May 2023 13:05:04 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/bauen-wohnen-garten/photovoltaik-in-oberberg-unabhaengige-energieversorgung-fuers-dach/" target="_blank" rel="noopener">Photovoltaik in Oberberg: unabhängige Energieversorgung fürs Dach</a></h2>
+  <div class="teaser">Der Oberbergische Kreis im Süden von NRW besteht aus vielen kleinen und mittelgroßen Städten in der Nähe von größeren Städten wie Köln, Bonn und Wuppertal. Die Nutzung von Photovoltaikanlagen ist aufgrund der geografischen Voraussetzungen in dieser R</div>
+  <div class="info">Fri, 12 May 2023 10:50:17 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/bedeutung-von-sprachsuche-und-chatbots-im-ecommerce/" target="_blank" rel="noopener">Erkennen Sie die Bedeutung von Sprachsuche und Chatbots im täglichen eCommerce: Nutzen Sie diese Technologien erfolgreich als Experte!</a></h2>
+  <div class="teaser">Sprachsuche hat in den letzten Jahren einen bemerkenswerten Aufstieg erlebt. Immer mehr Menschen verwenden Sprachassistenten wie Siri, Alexa oder Google Assistant, um ihre Online-Einkäufe zu tätigen. Diese Entwicklung eröffnet Experten im eCommerce v</div>
+  <div class="info">Thu, 11 May 2023 13:40:11 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Gummersbach</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/ukraine-gegen-rumaenien-em-qualifikation/" target="_blank" rel="noopener">Ukraine gegen Rumänien –  EM Qualifikation</a></h2>
+  <div class="teaser">Um sich für die kommende EHF EURO 2024 zu qualifizieren, spielte die ukrainische Nationalmannschaft gegen die rumänische Nationalmannschaft. Trotz eines 31:26 Sieg für die Ukraine konnte sich das Team leider nicht qualifizieren. Der Beitrag Ukraine g</div>
+  <div class="info">Thu, 04 May 2023 10:07:38 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/die-wahl-des-richtigen-e-bikes/" target="_blank" rel="noopener">Welches E-Bike ist die richtige Wahl</a></h2>
+  <div class="teaser">Beim Kauf eines neuen E-Bikes sollte gut überlegt sein, auf welches Modell die Wahl fällt. Das Fahrrad sollte auf die eigenen Bedürfnisse und auf den persönlichen Anwendungsbereich zugeschnitten sein. Dazu sollten im Vorfeld einige Fragen geklärt wer</div>
+  <div class="info">Thu, 04 May 2023 09:26:43 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/elektromagnetismus-und-seine-auswirkungen-auf-die-welt/" target="_blank" rel="noopener">Von Blitz und Donner – Wie elektromagnetische Energie unsere Welt formt</a></h2>
+  <div class="teaser">Elektromagnetismus ist ein fundamentales Konzept der Physik und hat einen enormen Einfluss auf unsere moderne Welt und Technologie. Es beschreibt die Kraft, die elektrische Ladungen und Magnetfelder erzeugt und miteinander verbindet. Elektromagnetisc</div>
+  <div class="info">Thu, 04 May 2023 09:15:16 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/detektive-schadensbegrenzung-durch-ermittlung/" target="_blank" rel="noopener">Schadensbegrenzung durch Ermittlung – günstiger als Wirtschafts- oder Personenschäden</a></h2>
+  <div class="teaser">Anschuldigungen gegen Ehepartner, Verwandte, bekannte Personen sind privat rasch ausgesprochen, jedoch noch lange nicht bewiesen. Ebenso muss in der Wirtschaft erst ermittelt werden, bevor für Diebstahl, Spionage, Sabotage und andere Delikte beweiskr</div>
+  <div class="info">Thu, 04 May 2023 06:11:16 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/6-alltaegliche-tipps-wie-du-muell-vermeiden-kannst/" target="_blank" rel="noopener">6 alltägliche Tipps, wie du Müll vermeiden kannst</a></h2>
+  <div class="teaser">Jedes Jahr findet Ende November die Europäische Woche zur Abfallvermeidung statt. Doch auch ohne akuten Anlass gibt es genügend Gründe, um der Flut von Plastikmüll den Kampf anzusagen und nachhaltigere Wege einzuschlagen. Anstatt der Vermüllung des P</div>
+  <div class="info">Tue, 02 May 2023 13:52:15 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/alles-was-sie-ueber-druckfedern-wissen-muessen/" target="_blank" rel="noopener">Alles was Sie über Druckfedern wissen müssen</a></h2>
+  <div class="teaser">Druckfedern sind eine wichtige Komponente in einer Vielzahl von Anwendungen, aber oft übersehen oder einfach als selbstverständlich angesehen. In diesem Blog-Beitrag werden wir die wichtigsten Aspekte von Druckfedern behandeln, einschließlich ihrer F</div>
+  <div class="info">Tue, 02 May 2023 13:51:12 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/die-relevanz-von-lkw-telematik-in-der-logistikbranche/" target="_blank" rel="noopener">Die Relevanz von LKW-Telematik in der Logistikbranche</a></h2>
+  <div class="teaser">In der heutigen Welt der Logistik- und Transportbranche sind LKW-Telematiksysteme unverzichtbar geworden. Sie liefern wertvolle Daten, um die Effizienz und Sicherheit des Transports zu verbessern. Mit diesen Systemen können Flottenmanager Echtzeitdat</div>
+  <div class="info">Tue, 02 May 2023 08:21:02 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">April 2023 <span class="monat-count">8</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Gummersbach</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/stadtradeln-im-oberbergischen-kreis/" target="_blank" rel="noopener">STADTRADELN im Oberbergischen Kreis</a></h2>
+  <div class="teaser">Am Pfingstmontag, 29. Mai 2023, startet das STADTRADELN im Oberbergischen Kreis zum fünften Mal. Der Beitrag STADTRADELN im Oberbergischen Kreis erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Thu, 27 Apr 2023 08:39:27 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/bangkok-thailands-hauptstadt-als-sehnsuchtsziel/" target="_blank" rel="noopener">Bangkok – Thailands Hauptstadt als Sehnsuchtsziel</a></h2>
+  <div class="teaser">Thailand ist seit jeher ein beliebtes Reiseziel für Touristen aus aller Welt. Das südostasiatische Land fasziniert durch seine Lebendigkeit, die einzigartige Lebenskultur und die traumhaft schöne Landschaft mit wundervollen Stränden. Der Beitrag Bang</div>
+  <div class="info">Wed, 19 Apr 2023 13:25:11 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/was-sind-a-und-c-aktien-ein-ueberblick-ueber-die-aktienstruktur/" target="_blank" rel="noopener">Was sind A- und C-Aktien? Ein Überblick über die Aktienstruktur</a></h2>
+  <div class="teaser">Alphabet ist der Mutterkonzern von Google und wurde 2015 gegründet, um die verschiedenen Geschäftsbereiche besser zu strukturieren. Das Unternehmen ist an der Börse in zwei verschiedenen Aktiengattungen gelistet: A-Aktien (Ticker: GOOGL) und die C-Ak</div>
+  <div class="info">Wed, 19 Apr 2023 09:44:56 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Bergneustadt</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/fliegen-lernen-auf-dem-duempel-jubilar-macht-es-vor/" target="_blank" rel="noopener">Fliegen lernen auf dem Dümpel – Jubilar macht es vor</a></h2>
+  <div class="teaser">Für alle, die es Erwin nachmachen möchten besteht in diesem Jahr wieder die Möglichkeit, Mitglied im LSC Dümpel zu werden. Der Beitrag Fliegen lernen auf dem Dümpel &amp;#8211; Jubilar macht es vor erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Thu, 13 Apr 2023 06:10:11 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/bestatter-und-beerdigung-der-tod-eines-angehoerigen/" target="_blank" rel="noopener">Der Tod eines Angehörigen – was muss man tun, welche Dinge sind wichtig?</a></h2>
+  <div class="teaser">Viele Dinge müssen nach dem Tod eines Angehörigen erledigt werden. Und kommt es zu einem plötzlichen Tod, so stehen Angehörige buchstäblich neben ihrer tiefen Trauer allein auf weiter Flur und im Regen. Besonders dann, wenn nicht vorgesorgt werden ko</div>
+  <div class="info">Tue, 11 Apr 2023 07:23:26 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/mit-einfachen-massnahmen-den-energieverbrauch-senken/" target="_blank" rel="noopener">Energieeffizientes Wohnen: Mit einfachen Maßnahmen den Verbrauch senken</a></h2>
+  <div class="teaser">In Zeiten der gestiegener Lebensmittelpreise und der Gaspreisentwicklung ist es wichtiger denn je, auf einen sparsamen Umgang mit Energie zu achten. Eine effiziente Nutzung von Ressourcen im Haushalt hilft nicht nur dabei, die monatlichen Ausgaben zu</div>
+  <div class="info">Thu, 06 Apr 2023 08:27:47 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/moderne-drahtseiltechnik-fuenf-moeglichkeiten-wofuer-drahtseile-heute-genutzt-werden/" target="_blank" rel="noopener">Moderne Drahtseiltechnik – fünf Möglichkeiten, wofür Drahtseile heute genutzt werden</a></h2>
+  <div class="teaser">Die Herstellung von Drahtseiltechnik gehört zu den unsichtbaren Industrien. Die Produkte selbst sind aber überall im Leben im Einsatz. Ob hochwertige Werkzeuge, Edelstahlseile oder Karabinerhaken - alles gehört zur Drahtseiltechnik und ist in der mod</div>
+  <div class="info">Tue, 04 Apr 2023 14:06:05 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/die-terrasse-mehr-als-nur-ein-aussenbereich-der-wohnung/" target="_blank" rel="noopener">Die Terrasse: Mehr als nur ein Außenbereich der Wohnung</a></h2>
+  <div class="teaser">Sicher findet man die eine oder andere schmucklose Terrasse, die einfach nur als Abstellplatz genutzt wird und ansonsten wenig Beachtung findet. Gerade in Zeiten von knapper werdendem Wohnraum und einer durch den Klimawandel bedingten, immer längeren</div>
+  <div class="info">Tue, 04 Apr 2023 11:37:07 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">März 2023 <span class="monat-count">17</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Gummersbach</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/haushaltsbefragung-zum-mobilitaetsverhalten/" target="_blank" rel="noopener">Haushaltsbefragung zum Mobilitätsverhalten</a></h2>
+  <div class="teaser">Der Oberbergische Kreis möchte mit einer umfangreichen Haushaltsbefragung herausfinden, welche Entwicklungen für die Zukunft im Bereich Mobilität wichtig sind. Der Beitrag Haushaltsbefragung zum Mobilitätsverhalten erschien zuerst auf Oberberg-Nachri</div>
+  <div class="info">Fri, 31 Mar 2023 08:09:11 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Engelskirchen</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/engelskirchen/fruehlingserwachen-auf-metabolon/" target="_blank" rel="noopener">Frühlingserwachen auf :metabolon</a></h2>
+  <div class="teaser">Nach Winterpause können nun auch die öffentlichen, interessante Führungen zum Entstehen und dem Hintergrund :metabolons wieder stattfinden. Der Beitrag Frühlingserwachen auf :metabolon erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Thu, 30 Mar 2023 11:57:04 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Gummersbach</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/em-qualifikation-in-der-schwalbe-arena/" target="_blank" rel="noopener">EM-Qualifikation in der SCHWALBE arena</a></h2>
+  <div class="teaser">Am 30.04.2023 findet in der SCHWALBE arena das EM Qualifikationsspiel der Ukraine gegen Rumänien zur Europameisterschaft 2024 statt. Der Beitrag EM-Qualifikation in der SCHWALBE arena erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Thu, 30 Mar 2023 11:49:18 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/ratgeber/wenn-die-waschmaschine-rumpelt-ursachen-verstehen/" target="_blank" rel="noopener">Wenn die Waschmaschine rumpelt: Ursachen verstehen</a></h2>
+  <div class="teaser">Wenn es auf einmal laut rumpelt, klappert oder poltert aus dem Badezimmer, ist so manch einer erstmal erschrocken. Es ist nie ein gutes Zeichen, wenn die Waschmaschine beim Schleudern laute Geräusche macht. Der Beitrag Wenn die Waschmaschine rumpelt:</div>
+  <div class="info">Thu, 30 Mar 2023 10:35:51 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/was-steckt-hinter-der-industrie-4-0/" target="_blank" rel="noopener">Was steckt hinter der Industrie 4.0?</a></h2>
+  <div class="teaser">Die Industrie 4.0 gilt als innovativ, fast schon als revolutionär. Dazu haben Macher wie thyssen-krupp, etwa durch die Hardware der IIoT-Plattform und toii(R), beigetragen. Der Beitrag Was steckt hinter der Industrie 4.0? erschien zuerst auf Oberberg</div>
+  <div class="info">Mon, 27 Mar 2023 11:42:42 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Gummersbach</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/oberbergischer-kreis-erarbeitet-integriertes-mobilitaetskonzept/" target="_blank" rel="noopener">Oberbergischer Kreis erarbeitet Integriertes Mobilitätskonzept</a></h2>
+  <div class="teaser">An der Auftaktveranstaltung zur Erarbeitung eines Integrierten Mobilitätskonzeptes für den Oberbergischen Kreis haben sich jetzt Vertreterinnen und Vertreter der Kommunen und knapp 120 Akteure beteiligt Der Beitrag Oberbergischer Kreis erarbeitet Int</div>
+  <div class="info">Wed, 22 Mar 2023 09:22:58 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/umzugskosten-von-der-steuer-absetzen/" target="_blank" rel="noopener">Umzugskosten von der Steuer absetzen</a></h2>
+  <div class="teaser">Ein Umzug kann eine teure Angelegenheit werden. Doch in bestimmten Fällen kann der Umzug ganz oder teilweise von der Steuer abgesetzt werden. Wir erklären die Voraussetzungen, die dafür erfüllt sein müssen. Der Beitrag Umzugskosten von der Steuer abs</div>
+  <div class="info">Wed, 22 Mar 2023 07:51:48 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/die-richtige-technologie-fuer-ihre-online-marketing-kampagnen/" target="_blank" rel="noopener">Die richtige Technologie für Ihre Online Marketing Kampagnen</a></h2>
+  <div class="teaser">Die Welt des modernen Marketings hat sich in den letzten Jahren drastisch verändert. Dieser Veränderungsprozess passiert allerdings laufend und ist kein einmaliges Phänomen. Somit ist ein Abschluss eines Projektes, um auf die Veränderungen reagieren </div>
+  <div class="info">Wed, 22 Mar 2023 07:13:30 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/bauen-wohnen-garten/pflanzen-fuer-den-balkon/" target="_blank" rel="noopener">Pflanzen für den Balkon</a></h2>
+  <div class="teaser">Jede Pflanzenart hat ihre eigenen Ansprüche an die Umgebung. Einige Pflanzen bevorzugen es lieber in der Sonne zu stehen, andere lieber im Schatten und wieder andere mögen es windgeschützt. Der Beitrag Pflanzen für den Balkon erschien zuerst auf Ober</div>
+  <div class="info">Thu, 16 Mar 2023 12:58:09 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/hilfreiche-tipps-fuer-junge-gruender-und-startups/" target="_blank" rel="noopener">Hilfreiche Tipps für junge Gründer und Startups</a></h2>
+  <div class="teaser">Deutschland ist ein Gründerland. Alleine in den letzten Jahren haben sich unzählige junge Gründer selbstständig gemacht oder sich neue Startups und Unternehmen gegründet, welche allesamt frischen Wind und neue Ideen in die Wirtschaft bringen. Aber al</div>
+  <div class="info">Thu, 16 Mar 2023 09:25:27 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/oberbergischer-kreis-wochenendtrip-von-koeln/" target="_blank" rel="noopener">Wochenendtrip von Köln nach Oberberg</a></h2>
+  <div class="teaser">Köln ist eine unglaublich schöne Stadt mit vielen Sehenswürdigkeiten. Der imposante Kölner Dom, das aufregende Schokoladenmuseum und der Alte Markt in der Altstadt gehören sicherlich alle mit dazu. Doch nach ein bis zwei Tagen haben die meisten Besuc</div>
+  <div class="info">Mon, 13 Mar 2023 12:14:13 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/die-bedeutung-von-vermoegensverwaltung-einfach-erklaert/" target="_blank" rel="noopener">Die Bedeutung von Vermögensverwaltung einfach erklärt</a></h2>
+  <div class="teaser">Eine Vermögensverwaltung betreut das Vermögen eines Kunden. Obwohl man auch als Privatperson sein Vermögen ohnehin schon verwaltet, gibt es zahlreiche Vermögensverwalter, die sich dieser Aufgabe annehmen. Auf Englisch wird die Vermögensverwaltung mit</div>
+  <div class="info">Mon, 13 Mar 2023 10:13:27 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/viele-vorteile-bei-der-digitalen-arbeitszeiterfassung/" target="_blank" rel="noopener">Arbeitgeber sind verpflichtet, Arbeitszeiten genau zu erfassen</a></h2>
+  <div class="teaser">Schon seit 1994 gibt es in Deutschland ein Arbeitszeitgesetz. Darin wurde die Höchstarbeitszeit auf acht, bei Ausgleich auf maximal zehn Stunden pro Tag an sechs Tagen in der Woche sowie bestimmte Pausenzeiten festgeschrieben. Über die acht Stunden h</div>
+  <div class="info">Thu, 09 Mar 2023 09:21:13 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/hygiene-first-warum-kommen-immer-haeufiger-silos-zum-einsatz/" target="_blank" rel="noopener">Hygiene first: Warum ist Sauberkeit in der Lebensmittelbranche wichtig?</a></h2>
+  <div class="teaser">Überall dort, wo mit Lebensmitteln gearbeitet wird, ist eine strenge Hygiene oberstes Gebot. Das gilt nicht nur für Verarbeitung und Verkauf, sondern auch im der Primärproduktion auf dem Land, damit garantiert werden kann, dass alle Lebensmittel, die</div>
+  <div class="info">Wed, 08 Mar 2023 14:48:12 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Gummersbach</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/dorf-projekte-mit-foerdergeldern-erfolgreich-umgesetzt/" target="_blank" rel="noopener">Dorf-Projekte mit Fördergeldern erfolgreich umgesetzt</a></h2>
+  <div class="teaser">Im April und Juni des letzten Jahres war die Freude bei 21 oberbergischen Dorfgemeinschaften groß. Denn sie wurden benachrichtigt, dass der Oberbergische Kreis eines der von ihnen geplanten Vorhaben finanziell unterstützen wird. Der Beitrag Dorf-Proj</div>
+  <div class="info">Mon, 06 Mar 2023 11:09:59 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/was-kostet-es-ein-mehrfamilienhaus-zu-bauen/" target="_blank" rel="noopener">Was kostet es ein Mehrfamilienhaus zu bauen?</a></h2>
+  <div class="teaser">Beim Bau eines Mehrfamilienhauses fließen viele Kostenfaktoren in die Rechnung ein. Dementsprechend teuer fallen die Gesamtkosten aus. Wird dieser finanziellen Mehraufwand. ausreichend berücksichtigt, ermöglicht dies eine sichere Baufinanzierung. Der</div>
+  <div class="info">Mon, 06 Mar 2023 11:07:19 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten, Gummersbach</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/landesweiter-probealarm/" target="_blank" rel="noopener">Landesweiter Probealarm</a></h2>
+  <div class="teaser">Erneut findet am Donnerstag, den 09.03.2023, in Nordrhein-Westfalen der landesweite Probealarm statt. Das Lagezentrum der Landesregierung wird gegen 11 Uhr über das Modulare Warnsystem (MoWaS) die verschiedenen Warnmedien alarmieren. Der Beitrag Land</div>
+  <div class="info">Wed, 01 Mar 2023 09:34:49 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Februar 2023 <span class="monat-count">10</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/gesunde-ernaehrung-fuer-kinder-wie-die-juengsten-auf-den-geschmack-kommen/" target="_blank" rel="noopener">Gesunde Ernährung für Kinder – wie die Jüngsten auf den Geschmack kommen</a></h2>
+  <div class="teaser">Schon im Kindesalter stellt sich heraus, welche Nahrungsmittel wir mögen und gegen welche wir Abneigungen entwickeln. Der Beitrag Gesunde Ernährung für Kinder – wie die Jüngsten auf den Geschmack kommen erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Fri, 24 Feb 2023 11:32:47 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/zukunftschancen-im-digitalen-zeitalter-welche-berufe-immer-gefragter-werden/" target="_blank" rel="noopener">Zukunftschancen im digitalen Zeitalter: Welche Berufe immer gefragter werden</a></h2>
+  <div class="teaser">Die Digitalisierung hat in den letzten Jahren einen beispiellosen Einfluss auf unser tägliches Leben und Arbeitsleben gehabt. Technologie hat die Art und Weise, wie wir kommunizieren, arbeiten und Geschäfte machen, tiefgreifend verändert. Der Beitrag</div>
+  <div class="info">Fri, 17 Feb 2023 12:39:48 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/bedienungsanleitungen-uebersetzen-im-uebersetzungsbuero/" target="_blank" rel="noopener">Sprachlich begabt? Das sind spannende Berufe mit Sprachen</a></h2>
+  <div class="teaser">Wer sprachlich ambitioniert ist, findet einige spannende Berufe, welche eine sprachliche Expertise erfordern. Berufe mit Sprachen haben Zukunft, insbesondere Fremdsprachen sind aufgrund des zunehmend internationalen Marktumfelds immer mehr gefragt. Z</div>
+  <div class="info">Tue, 14 Feb 2023 11:09:47 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/maehroboter-worauf-es-dabei-ankommt/" target="_blank" rel="noopener">Mähroboter – Worauf es dabei ankommt</a></h2>
+  <div class="teaser">Das Mähen eines Rasens ist ein wesentlicher Bestandteil der Gartengestaltung. An warmen Sommertagen gibt es Menschen, die leidenschaftlich gerne zum Rasenmäher greifen. Für andere ist Mähen ein Gräuel. Da kann &amp;#8230; Der Beitrag Mähroboter – Worauf </div>
+  <div class="info">Tue, 14 Feb 2023 08:54:14 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/enormer-lehrermangel-auch-in-nrw/" target="_blank" rel="noopener">Enormer Lehrermangel auch in NRW</a></h2>
+  <div class="teaser">Vor einigen Tagen kam die Meldung, dass über 12.000 Lehrer an deutschen Schulen fehlen. Davon sind auch die Schulen in NRW betroffen, die händeringend nach neuem Lehrpersonal suchen. Die aktuelle Lage sieht sehr brenzlich aus, weshalb viele Lehrer da</div>
+  <div class="info">Mon, 13 Feb 2023 13:59:44 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/ideen-fuer-einen-junggesellinnenabschied/" target="_blank" rel="noopener">Ideen für einen Junggesellinnenabschied</a></h2>
+  <div class="teaser">Viele zukünftige Bräute fiebern dem Junggesellinnenabschied mit einem lachenden und einem weinenden Auge entgegen. Natürlich wollen sie noch einmal mit ihren Freundinnen die Nacht zum Tag machen. Der Beitrag Ideen für einen Junggesellinnenabschied er</div>
+  <div class="info">Fri, 10 Feb 2023 14:38:18 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/als-selbststaendiger-das-private-fahrzeug-geschaeftlich-nutzen/" target="_blank" rel="noopener">Als Selbstständiger das private Fahrzeug geschäftlich nutzen?</a></h2>
+  <div class="teaser">Besitzt man als Selbstständiger ein privates Fahrzeug, kann dieses selbstverständlich auch geschäftlich genutzt werden. Um die geschäftliche Nutzung des Fahrzeuges in der Steuererklärung angeben zu können, gibt es zwei Möglichkeiten. Der Beitrag Als </div>
+  <div class="info">Fri, 10 Feb 2023 14:21:22 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/diese-technologien-sind-in-der-industrie-nicht-wegzudenken/" target="_blank" rel="noopener">Wichtige Innovationen in der Industrie: Diese Technologien sind nicht wegzudenken</a></h2>
+  <div class="teaser">Die Industrie hat auf viele Lebensbereiche Einfluss und ist für die Wirtschaft essenziell. Daher verwundert es nicht, dass es immer wieder neue Technologien gibt, die die Arbeit nicht nur vereinfachen, sondern auch präziser werden lassen. Welche Inno</div>
+  <div class="info">Wed, 08 Feb 2023 08:38:42 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/abwasser-was-mit-dem-benutzten-wasser-wirklich-passiert/" target="_blank" rel="noopener">Abwasser: Was mit dem benutzten Wasser wirklich passiert</a></h2>
+  <div class="teaser">Täglich landen unzählige Liter Wasser im Abfluss. Dieses ist meist mit Klopapier, Duschgel und Fäkalien verschmutzt. Die meisten Verbraucher machen sich gar keine Gedanken darüber, was mit dem Wasser passiert. Eine entsprechende Aufbereitung ist jedo</div>
+  <div class="info">Tue, 07 Feb 2023 15:01:12 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/grenzuebertritt-eingabe-der-laenderkennung-ein-muss/" target="_blank" rel="noopener">Grenzübertritt – Eingabe der Länderkennung ein Muss</a></h2>
+  <div class="teaser">Seit dem 02. Februar 2022 gelten bereits neue Bestimmungen des Mobilitätspaketes. Eine davon ist die Verpflichtung der Fahrer*innen, dass sie den Grenzübertritt in ihrem Tachographen aufzeichnen. Der Beitrag Grenzübertritt – Eingabe der Länderkennung</div>
+  <div class="info">Fri, 03 Feb 2023 13:37:16 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Januar 2023 <span class="monat-count">18</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/ratgeber/klr-um-nicht-am-falschen-ende-zu-sparen/" target="_blank" rel="noopener">KLR: Um nicht am falschen Ende zu sparen</a></h2>
+  <div class="teaser">Unternehmen, groß und klein, befassen sich derzeit branchenübergreifend vermehrt mit ihren Ausgaben. Verschiedene Krisen belasten die deutsche Wirtschaft, auch in Oberberg. Unterschiedliche Branchen leiden noch unter den wirtschaftlichen Nachwirkunge</div>
+  <div class="info">Tue, 31 Jan 2023 11:09:19 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/digitalisierung-welche-vorteile-sie-fuer-uns-bringt/" target="_blank" rel="noopener">Digitalisierung – welche Vorteile sie für uns bringt</a></h2>
+  <div class="teaser">Wir leben in einer digitalisierten Welt. Denken Sie einmal darüber nach - wann haben Sie das letzte Mal eine physische Karte benutzt? Oder einen Brief mit der Hand geschrieben? Oder gar ein Münztelefon benutzt? Wahrscheinlich ist das schon eine ganze</div>
+  <div class="info">Mon, 30 Jan 2023 14:18:51 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/so-richtest-du-ein-multifunktionales-wohnzimmer-ein-2/" target="_blank" rel="noopener">So richtest du ein multifunktionales Wohnzimmer ein</a></h2>
+  <div class="teaser">Häufig muss das Wohnzimmer mehrere Funktionen erfüllen. Im Wohnzimmer empfangen wir Gäste, spielen mit den Kindern, arbeiten, essen und entspannen. Manchmal dient das Wohnzimmer nachts auch als Schlafzimmer. Eine solche multifunktionale Einrichtung s</div>
+  <div class="info">Mon, 30 Jan 2023 07:31:19 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/renovierungskredit-statt-teurer-nebenkosten/" target="_blank" rel="noopener">Renovierungskredit statt teurer Nebenkosten</a></h2>
+  <div class="teaser">Suchen Sie nach einer guten Möglichkeit, den Wert Ihres Hauses zu optimieren? Ganz gleich, ob Sie Ihre Immobilie für den Verkauf vorbereiten oder einfach nur in einer modernen und komfortablen Wohnung leben möchten, es ist ratsam, einen Renovierungsk</div>
+  <div class="info">Wed, 18 Jan 2023 15:11:24 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/so-funktioniert-die-thermoanalyse/" target="_blank" rel="noopener">Thermische Analyse – Was genau versteckt sich hinter dem Begriff?</a></h2>
+  <div class="teaser">Bei der thermischen Analyse handelt es sich um ein spezielles Verfahren, welches zur Bestimmung der Haltepunkte sowie der Phasenumwandlung eines Stoffes dient. Zu diesem Zweck werden sowohl Abkühlungs- als auch Erhitzungskurven als Messpunkte herange</div>
+  <div class="info">Tue, 17 Jan 2023 12:58:04 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/digitalisierung-und-dessen-folgen-fuer-den-bildungssektor/" target="_blank" rel="noopener">Digitalisierung und dessen Folgen für den Bildungssektor</a></h2>
+  <div class="teaser">Die Digitalisierung schreitet so langsam in Deutschland voran. Das wird auch so langsam Zeit, da alle anderen Ländern deutlich besser strukturiert sind. Das gilt sogar für einige Entwicklungsländer, die zum Beispiel über eine bessere Internetstruktur</div>
+  <div class="info">Mon, 16 Jan 2023 14:53:26 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/handwerker-mit-professioneller-hilfe-oder-selbst-anpacken/" target="_blank" rel="noopener">Mit professioneller Hilfe oder selbst anpacken – worauf es ankommt</a></h2>
+  <div class="teaser">Professionelle Hilfe kann nie schaden. Das stimmt zumindest in der Theorie. Leider kommt die Professionalität auch mit entsprechenden Kosten, wodurch es in vielen Fällen nicht möglich ist. Dennoch bestehen manche Situationen, die trotz der hohen Kost</div>
+  <div class="info">Fri, 13 Jan 2023 15:01:39 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/studieren-in-nrw-die-besten-universitaeten-des-landes/" target="_blank" rel="noopener">Studieren in NRW – die besten Universitäten des Landes</a></h2>
+  <div class="teaser">In Nordrhein-Westfalen befindet sich eine Vielzahl von renommierten Universitäten und Hochschulen, die für verschiedene Fachrichtungen attraktiv sind. Zu den Top 20 Universitäten in Deutschland gehören RWTH Aachen, Universität Bonn und Universität Kö</div>
+  <div class="info">Fri, 13 Jan 2023 13:41:05 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/warum-sollten-unternehmen-auf-lean-manufacturing-setzen-ein-blick-hinter-die-kulissen/" target="_blank" rel="noopener">Warum sollten Unternehmen auf Lean Manufacturing setzen? Ein Blick hinter die Kulissen</a></h2>
+  <div class="teaser">In unserer schnelllebigen Gesellschaft ist Flexibilität und Effizienz in Produktion und Fertigung oberstes Gebot. Unternehmen müssen auf Veränderungen schneller reagieren können, um im Wettbewerb zu bestehen. Der Beitrag Warum sollten Unternehmen auf</div>
+  <div class="info">Fri, 13 Jan 2023 11:02:01 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/ratgeber-im-alter-die-rente-aufbessern/" target="_blank" rel="noopener">Ratgeber: Im Alter die Rente aufbessern</a></h2>
+  <div class="teaser">Viele Menschen wollen das Rentenalter nutzen, um sich lang ersehnte Träume wie eine Weltreise zu erfüllen. Leider reicht die Rente dann aber nicht aus, oder es kommen ungeplante Ausgaben wie eine notwendige Sanierung dazwischen. In diesem Artikel gib</div>
+  <div class="info">Tue, 10 Jan 2023 15:16:45 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/ratgeber/was-bedeutet-kotwasser-beim-pferd/" target="_blank" rel="noopener">Was bedeutet “Kotwasser” beim Pferd?</a></h2>
+  <div class="teaser">Für viele Pferdebesitzer ist der Begriff “Kotwasser” wahrscheinlich nichts Neues. Auch die Pferdebesitzer im Oberbergischen wissen wohl sehr gut, was es heißt, wenn ein Pferd Kotwasser absetzt. Der Beitrag Was bedeutet “Kotwasser” beim Pferd? erschie</div>
+  <div class="info">Tue, 10 Jan 2023 13:34:12 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/tipps-zum-kindergeburtstag-so-gelingt-der-tag/" target="_blank" rel="noopener">Tipps zum Kindergeburtstag – so gelingt der Tag!</a></h2>
+  <div class="teaser">Die Geburtstagsfeier ist ein herausragender Tag eines jeden Kindes. Ihre Gestaltung ist deswegen wichtig, um ihn in positiver Erinnerung zu behalten. Was zeichnet einen gelungenen Kindergeburtstag aus? Einige Tipps und Tricks können hilfreich sein, u</div>
+  <div class="info">Tue, 10 Jan 2023 10:16:38 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/vermoegenswirksame-leistungen-anlegen/" target="_blank" rel="noopener">Interessante Optionen aufgezeigt: Vermögenswirksame Leistungen anlegen</a></h2>
+  <div class="teaser">Vermögenswirksame Leistungen (VL) sind Geldbeträge, die von Arbeitnehmern aus ihrem Bruttogehalt einbehalten und für bestimmte Zwecke verwendet werden. Sie werden in der Regel von Arbeitgebern angeboten und dienen der Verbesserung der finanziellen La</div>
+  <div class="info">Mon, 09 Jan 2023 08:02:03 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/bauen-wohnen-garten/gartenmoebel-kaufen-wie-sollte-ich-dabei-vorgehen/" target="_blank" rel="noopener">Gartenmöbel kaufen – Wie sollte ich dabei vorgehen?</a></h2>
+  <div class="teaser">Sie freuen sich bereits auf die nächste Gartensaison? Darauf, endlich wieder draußen zu sitzen und entspannt dem Singen der Vögel zu lauschen? Dann sind Sie damit nicht alleine. Der Beitrag Gartenmöbel kaufen – Wie sollte ich dabei vorgehen? erschien</div>
+  <div class="info">Thu, 05 Jan 2023 13:24:31 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/was-bringt-online-nachhilfe/" target="_blank" rel="noopener">Was bringt Online-Nachhilfe?</a></h2>
+  <div class="teaser">Für viele Schüler bedeutet Schule und Lernen nicht selten Stress und Druck. Oft sind Eltern nicht in der Lage, ihre Kinder zu unterstützen. Der Beitrag Was bringt Online-Nachhilfe? erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Mon, 02 Jan 2023 14:25:26 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/ratgeber/vitamine-der-schluessel-zur-gesundheit-im-winter/" target="_blank" rel="noopener">Vitamine: Der Schlüssel zur Gesundheit im Winter</a></h2>
+  <div class="teaser">Vitamine sind für den menschlichen Körper unerlässlich. Sie sind an zahlreichen Stoffwechselprozessen beteiligt und helfen, Krankheiten vorzubeugen. Der Beitrag Vitamine: Der Schlüssel zur Gesundheit im Winter erschien zuerst auf Oberberg-Nachrichten</div>
+  <div class="info">Mon, 02 Jan 2023 14:05:55 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/wie-unternehmen-die-personalplanung-meistern/" target="_blank" rel="noopener">Wie Unternehmen die Personalplanung meistern</a></h2>
+  <div class="teaser">Betriebe sind in der heutigen Zeit vor zahlreiche Herausforderungen gestellt. Nicht nur die erhöhte Inflationsrate macht den heimischen Betrieben zu schaffen. Der Beitrag Wie Unternehmen die Personalplanung meistern erschien zuerst auf Oberberg-Nachr</div>
+  <div class="info">Mon, 02 Jan 2023 13:47:31 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/effiziente-meetingkultur-fuer-den-unternehmenserfolg/" target="_blank" rel="noopener">Effiziente Meetingkultur für den Unternehmenserfolg</a></h2>
+  <div class="teaser">Damit eine effiziente Meetingkultur nachhaltig zum Unternehmenserfolg beiträgt, sind für die flexible Durchführung häufig hybride Konferenzen sinnvoll. Der Beitrag Effiziente Meetingkultur für den Unternehmenserfolg erschien zuerst auf Oberberg-Nachr</div>
+  <div class="info">Mon, 02 Jan 2023 12:26:06 · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Dezember 2022 <span class="monat-count">3</span></h2>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/wieso-ist-der-oelwechsel-im-winter-so-wichtig/" target="_blank" rel="noopener">Wieso ist der Ölwechsel im Winter so wichtig?</a></h2>
+  <div class="teaser">Motoröl besitzt eine wichtige Funktion im Auto: Es schmiert, kühlt und schützt den Motor vor Korrosion. Fehlt dieses, reiben die Metallteile aufeinander und es kommt zu Schäden an den Ventilstößeln oder der Kurbelwelle. Der Beitrag Wieso ist der Ölwe</div>
+  <div class="info">Fri, 23 Dec 2022 12:02:27 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/romantische-ideen-zeit-zu-zweit-verbringen/" target="_blank" rel="noopener">Romantische Ideen – Zeit zu zweit verbringen</a></h2>
+  <div class="teaser">Der Alltag gilt als einer der häufigsten Gründe, warum die Liebe eines Tages heimlich, still und leise verschwindet. Doch das muss nicht passieren. Der Beitrag Romantische Ideen – Zeit zu zweit verbringen erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">Tue, 20 Dec 2022 11:33:26 · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  <div class="tag">kreisweite-nachrichten</div>
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/stoerfaktoren-bei-der-genauigkeit-von-gps-tracking/" target="_blank" rel="noopener">Störfaktoren bei der Genauigkeit von GPS Tracking</a></h2>
+  <div class="teaser">Eine der häufigsten Fragen von Verbrauchern und Unternehmen, die am Kauf von GPS interessiert sind, ist: Wie präzise ist eine Fahrzeugortung via GPS? Wenn ein Elternteil eines jugendlichen Fahrers oder der Inhaber eines Unternehmens ein GPS-Tracking-</div>
+  <div class="info">Thu, 15 Dec 2022 14:05:23 · Oberberg Nachrichten</div>
+</div>
+</div></div>
+  <div>
+    <div class="sidebar-box">
+      <h3>Alle Kommunen</h3>
+      <ul class="k-links"><li><a href="../bergneustadt/index.html">Bergneustadt <span class="badge">92</span></a></li><li><a href="../engelskirchen/index.html">Engelskirchen <span class="badge">22</span></a></li><li><a href="../gummersbach/index.html">Gummersbach <span class="badge">130</span></a></li><li><a href="../hueckeswagen/index.html">Hückeswagen <span class="badge">31</span></a></li><li><a href="../lindlar/index.html">Lindlar <span class="badge">19</span></a></li><li><a href="../marienheide/index.html">Marienheide <span class="badge">10</span></a></li><li><a href="../morsbach/index.html">Morsbach <span class="badge">8</span></a></li><li><a href="../nuembrecht/index.html">Nümbrecht <span class="badge">24</span></a></li><li><a href="../radevormwald/index.html">Radevormwald <span class="badge">26</span></a></li><li><a href="../reichshof/index.html">Reichshof <span class="badge">19</span></a></li><li><a href="../waldbroel/index.html">Waldbröl <span class="badge">22</span></a></li><li><a href="../wiehl/index.html">Wiehl <span class="badge">47</span></a></li><li><a href="../wipperfuerth/index.html">Wipperfürth <span class="badge">208</span></a></li></ul>
+    </div>
+  </div>
+</div>
+</main>
+<footer>
+  <a href="../index.html">Startseite</a> · Kreisweite Nachrichten · Aktualisiert: 05.05.2026, 21:23<br>
+  <a href="https://github.com/dna-dieter/ai-tageszeitung/actions/workflows/update.yml">GitHub</a>
+</footer>
+</body></html>

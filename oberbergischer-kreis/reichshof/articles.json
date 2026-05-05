@@ -75,6 +75,19 @@
     "fetched": "2026-05-05T21:11:09.373161"
   },
   {
+    "id": "6eae751a9850",
+    "title": "Vollsperrung für Asphaltierung in Wipperfürth-Kreuzberg",
+    "summary": "Das von der Stadtverwaltung beauftragte Unternehmen EER Raithel aus Reichshof wird zu Beginn der kommenden Woche mit den Asphaltierungsarbeiten im Streckenabschnitt Ortsausgang Kreuzberg/Westfalenstraße über Erlen bis hin zur Stadtgrenze in Richtung Anschlag beginnen. Die Arbeiten werden unter Vollsperrung ausgeführt. Der Beitrag Vollsperrung für Asphaltierung in Wipperfürth-Kreuzberg erschien zue",
+    "link": "https://www.oberberg-nachrichten.de/wipperfuerth/vollsperrung-fuer-asphaltierung-in-wipperfuerth-kreuzberg/",
+    "published": "Thu, 08 Oct 2020 11:28:29 +0000",
+    "source": "Oberberg Nachrichten Wipperfürth",
+    "kommunen": [
+      "wipperfuerth",
+      "reichshof"
+    ],
+    "fetched": "2026-05-05T21:23:25.227572"
+  },
+  {
     "id": "9b6a27d64527",
     "title": "Bergneustadt: Jecke Tollitäten im Bowlingcenter – 130 Karnevalisten auch 2026 im Kegelrausch",
     "summary": "Bergneustadt / Karneval / Bowling / Tollitäten (Von Christian Sasse) Rund 130 Karnevalisten aus zehn Karnevalsvereinen verwandelten das Bowling Center Oberberg am Mittwochabend 04.02.2026 in Bergneustadt (Oberbergischer Kreis/NRW) in ein jeckes „Bowling El Dorado“ und sorgten beim Tollitäten Bowling 2026 für ein bestens gelauntes Kugel-Spektakel – erstaunlich, wie viele trotz Influenza A den Weg a",
@@ -203,7 +216,8 @@
     "kommunen": [
       "wipperfuerth",
       "reichshof",
-      "gummersbach"
+      "gummersbach",
+      "lindlar"
     ],
     "fetched": "2026-05-05T21:11:16.625747"
   },
@@ -231,7 +245,8 @@
       "lindlar",
       "morsbach",
       "bergneustadt",
-      "gummersbach"
+      "gummersbach",
+      "wiehl"
     ],
     "fetched": "2026-05-05T21:11:16.620482"
   }

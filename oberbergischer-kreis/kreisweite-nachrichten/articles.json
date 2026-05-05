@@ -128,7 +128,8 @@
     "published": "Wed, 22 Mar 2023 09:22:58 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "gummersbach"
     ],
     "fetched": "2026-05-05T21:11:09.379702"
   },
@@ -236,7 +237,8 @@
     "published": "Wed, 18 Sep 2024 12:14:35 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "gummersbach"
     ],
     "fetched": "2026-05-05T21:11:09.369610"
   },
@@ -572,7 +574,8 @@
     "published": "Wed, 01 Mar 2023 09:34:49 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "gummersbach"
     ],
     "fetched": "2026-05-05T21:11:09.380517"
   },
@@ -644,7 +647,8 @@
     "published": "Tue, 28 Jan 2025 15:25:52 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "gummersbach"
     ],
     "fetched": "2026-05-05T21:11:09.367882"
   },
@@ -740,7 +744,8 @@
     "published": "Tue, 21 May 2024 15:50:08 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "nuembrecht"
     ],
     "fetched": "2026-05-05T21:11:09.371761"
   },
@@ -861,7 +866,8 @@
     "published": "Tue, 15 Apr 2025 15:06:08 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "nuembrecht"
     ],
     "fetched": "2026-05-05T21:11:09.366869"
   },
@@ -873,7 +879,8 @@
     "published": "Tue, 15 Apr 2025 14:46:20 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "nuembrecht"
     ],
     "fetched": "2026-05-05T21:11:09.366903"
   },
@@ -885,7 +892,8 @@
     "published": "Tue, 15 Apr 2025 14:18:26 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "nuembrecht"
     ],
     "fetched": "2026-05-05T21:11:09.366935"
   },
@@ -945,7 +953,8 @@
     "published": "Tue, 13 Aug 2024 11:09:45 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "nuembrecht"
     ],
     "fetched": "2026-05-05T21:11:09.370356"
   },
@@ -981,7 +990,8 @@
     "published": "Tue, 11 Mar 2025 13:18:51 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "engelskirchen"
     ],
     "fetched": "2026-05-05T21:11:09.367153"
   },
@@ -1137,7 +1147,8 @@
     "published": "Tue, 06 Aug 2024 13:31:54 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "wipperfuerth"
     ],
     "fetched": "2026-05-05T21:11:09.370624"
   },
@@ -1152,6 +1163,20 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-05-05T21:11:09.370658"
+  },
+  {
+    "id": "4815f8fd9871",
+    "title": "Tag des Lokaljournalismus 2026: Was der RGA Ihnen heute bietet",
+    "summary": "Portal und E-Paper freigeschaltet für alle, ein Sonderheft mit FAQ und eine Einladung an alle, die sich für Lokaljournalismus interessieren.",
+    "link": "https://www.rga.de/lokales/remscheid/tag-des-lokaljournalismus-2026-was-der-rga-ihnen-heute-bietet-F7O6K4AQDFDJNLLXG2XHX5VOUY.html",
+    "published": "Tue, 05 May 2026 12:11:04 +0200",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen",
+      "radevormwald",
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-05-05T21:01:16.275488"
   },
   {
     "id": "2ae70a7d3dec",
@@ -1293,7 +1318,8 @@
     "published": "Thu, 31 Oct 2024 17:37:14 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "gummersbach"
     ],
     "fetched": "2026-05-05T21:11:09.369065"
   },
@@ -1317,7 +1343,8 @@
     "published": "Thu, 30 Mar 2023 11:57:04 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "engelskirchen"
     ],
     "fetched": "2026-05-05T21:11:09.379502"
   },
@@ -1329,7 +1356,8 @@
     "published": "Thu, 30 Mar 2023 11:49:18 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "gummersbach"
     ],
     "fetched": "2026-05-05T21:11:09.379531"
   },
@@ -1401,7 +1429,8 @@
     "published": "Thu, 27 Apr 2023 08:39:27 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "gummersbach"
     ],
     "fetched": "2026-05-05T21:11:09.378760"
   },
@@ -1461,7 +1490,8 @@
     "published": "Thu, 19 Oct 2023 12:58:30 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "bergneustadt"
     ],
     "fetched": "2026-05-05T21:11:09.374494"
   },
@@ -1473,7 +1503,8 @@
     "published": "Thu, 19 Oct 2023 11:58:22 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "nuembrecht"
     ],
     "fetched": "2026-05-05T21:11:09.374522"
   },
@@ -1593,7 +1624,8 @@
     "published": "Thu, 13 Feb 2025 14:08:43 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "bergneustadt"
     ],
     "fetched": "2026-05-05T21:11:09.367597"
   },
@@ -1605,7 +1637,8 @@
     "published": "Thu, 13 Apr 2023 06:10:11 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "bergneustadt"
     ],
     "fetched": "2026-05-05T21:11:09.379004"
   },
@@ -1725,7 +1758,8 @@
     "published": "Thu, 05 Sep 2024 14:50:15 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "bergneustadt"
     ],
     "fetched": "2026-05-05T21:11:09.369856"
   },
@@ -1749,7 +1783,8 @@
     "published": "Thu, 04 May 2023 10:07:38 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "gummersbach"
     ],
     "fetched": "2026-05-05T21:11:09.378277"
   },
@@ -1881,7 +1916,8 @@
     "published": "Sat, 11 Apr 2026 00:52:35 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "bergneustadt"
     ],
     "fetched": "2026-05-05T21:11:16.619614"
   },
@@ -2061,7 +2097,8 @@
     "published": "Mon, 21 Oct 2024 11:33:20 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "gummersbach"
     ],
     "fetched": "2026-05-05T21:11:09.369244"
   },
@@ -2109,7 +2146,8 @@
     "published": "Mon, 17 Feb 2025 12:31:11 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "nuembrecht"
     ],
     "fetched": "2026-05-05T21:11:09.367512"
   },
@@ -2313,7 +2351,8 @@
     "published": "Mon, 06 Nov 2023 13:44:48 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "hueckeswagen"
     ],
     "fetched": "2026-05-05T21:11:09.374128"
   },
@@ -2349,7 +2388,8 @@
     "published": "Mon, 06 Mar 2023 11:09:59 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "gummersbach"
     ],
     "fetched": "2026-05-05T21:11:09.380386"
   },
@@ -2373,9 +2413,37 @@
     "published": "Mon, 06 Jan 2025 14:46:28 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "lindlar"
     ],
     "fetched": "2026-05-05T21:11:09.368263"
+  },
+  {
+    "id": "4b89e37f06fd",
+    "title": "Was macht die Freiwillige Feuerwehr Elefantenbrumm in Remscheid an der Rader Straße?",
+    "summary": "Seit einer Woche steht an der der Rader Straße ein altes, schmuckes Einsatzfahrzeug etwas schräg am Fahrbahnrand. Der RGA berichtete. Jetzt ist klar, was es damit auf sich hat.",
+    "link": "https://www.rga.de/lokales/remscheid/was-macht-die-freiwillige-feuerwehr-elefantenbrumm-in-remscheid-an-der-rader-strasse-SBBEL2G2A5GRDN4TVEKDBCLXTQ.html",
+    "published": "Mon, 04 May 2026 17:19:10 +0200",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald",
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-05-05T21:01:16.939359"
+  },
+  {
+    "id": "63026f3625ff",
+    "title": "Mittelstand in Solingen und Remscheid: Sorgenkind Industrie – Stellenabbau in der Region",
+    "summary": "Es wollen so wenige Betriebe in Solingen und Remscheid investieren wie seit vielen Jahren nicht mehr: Das ist nicht nur ein Indikator dafür, wie es der Wirtschaft heute geht – sondern zeigt auch, dass die Zukunft vielen Arbeitgebern Kopfzerbrechen bereitet. Es gibt aber Ausreißer.",
+    "link": "https://www.rga.de/lokales/remscheid/mittelstand-in-solingen-und-remscheid-sorgenkind-industrie-stellenabbau-in-der-region-G3N75VJYKVHMPOIWALUCST77NU.html",
+    "published": "Mon, 04 May 2026 15:00:03 +0200",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen",
+      "radevormwald",
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-05-05T21:01:16.275594"
   },
   {
     "id": "c985005868db",
@@ -2505,7 +2573,8 @@
     "published": "Fri, 31 Mar 2023 08:09:11 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "gummersbach"
     ],
     "fetched": "2026-05-05T21:11:09.379441"
   },
@@ -2517,7 +2586,8 @@
     "published": "Fri, 30 May 2025 13:55:00 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "hueckeswagen"
     ],
     "fetched": "2026-05-05T21:11:09.366667"
   },
@@ -2529,7 +2599,8 @@
     "published": "Fri, 30 May 2025 13:29:45 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "nuembrecht"
     ],
     "fetched": "2026-05-05T21:11:09.366717"
   },
@@ -2541,7 +2612,8 @@
     "published": "Fri, 30 May 2025 13:07:23 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "bergneustadt"
     ],
     "fetched": "2026-05-05T21:11:09.366749"
   },
@@ -2553,7 +2625,8 @@
     "published": "Fri, 30 Aug 2024 15:17:17 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "gummersbach"
     ],
     "fetched": "2026-05-05T21:11:09.369944"
   },
@@ -2601,7 +2674,8 @@
     "published": "Fri, 27 Oct 2023 07:05:24 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "bergneustadt"
     ],
     "fetched": "2026-05-05T21:11:09.374397"
   },
@@ -2709,7 +2783,8 @@
     "published": "Fri, 19 Jul 2024 13:37:20 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "gummersbach"
     ],
     "fetched": "2026-05-05T21:11:09.370834"
   },
@@ -2985,7 +3060,8 @@
     "published": "Fri, 06 Feb 2026 02:08:00 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "engelskirchen"
     ],
     "fetched": "2026-05-05T21:11:16.626503"
   },

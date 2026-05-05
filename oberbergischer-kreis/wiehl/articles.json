@@ -522,7 +522,8 @@
     "published": "Fri, 20 Jan 2023 07:10:58 +0000",
     "source": "Oberberg Nachrichten",
     "kommunen": [
-      "wiehl"
+      "wiehl",
+      "gummersbach"
     ],
     "fetched": "2026-05-05T21:11:09.381990"
   },
@@ -576,5 +577,22 @@
       "wiehl"
     ],
     "fetched": "2026-05-05T21:11:09.369751"
+  },
+  {
+    "id": "1decb900f74c",
+    "title": "Osterfeuer Oberberg 2026: (04./05.04.) Diese 17 Veranstaltungen sind offiziell bestätigt",
+    "summary": "Oberberg / Osterfeuer / 2026 / Veranstaltungen / Waldbrandgefahr (Von Christian Sasse) Update #6 Am Karsamstag, 4. April 2026, und Ostersonntag, 5. April 2026, lodern im Oberbergischen Kreis wieder die traditionellen Osterfeuer. Feuerwehren, Dorfgemeinschaften, Schützenvereine und Jugendgruppen aus der gesamten Region laden zum geselligen Beisammensein an den Flammen ein. Aktuell sind 17 Osterfeue",
+    "link": "https://www.news-on-tour.de/200881/osterfeuer-oberberg-2026-wo/",
+    "published": "Fri, 03 Apr 2026 22:01:28 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "reichshof",
+      "lindlar",
+      "morsbach",
+      "bergneustadt",
+      "gummersbach",
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:16.620482"
   }
 ]

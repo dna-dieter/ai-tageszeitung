@@ -24,6 +24,19 @@
     "fetched": "2026-05-05T21:11:09.377019"
   },
   {
+    "id": "a8f6dee09fa7",
+    "title": "Lebensgefährlicher Verkehrsunfall auf der L 302 in Wipperfürth",
+    "summary": "Wipperfürth &#8211; Bei einem Verkehrsunfall auf der Landstraße 302 in Wipperfürth-Niederkemmerich hat sich am heutigen Morgen (19. November) ein 76-jähriger Autofahrer lebensgefährliche Verletzungen zugezogen. Der Lindlarer war gegen 07.50 Uhr &#8230; Der Beitrag Lebensgefährlicher Verkehrsunfall auf der L 302 in Wipperfürth erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/wipperfuerth/lebensgefaehrlicher-verkehrsunfall-auf-der-l-302-in-wipperfuerth/",
+    "published": "Tue, 19 Nov 2019 09:02:43 +0000",
+    "source": "Oberberg Nachrichten Wipperfürth",
+    "kommunen": [
+      "wipperfuerth",
+      "lindlar"
+    ],
+    "fetched": "2026-05-05T21:23:25.230751"
+  },
+  {
     "id": "0f699a325c4d",
     "title": "Oberberg: Betrug und Einbruch – vier Polizeimeldungen aus der Region",
     "summary": "Betrug / Polizei / Oberberg / Einbruch (Von Christian Sasse) In Bergneustadt, Lindlar, Engelskirchen und Reichshof registrierte die Kreispolizeibehörde Oberbergischer Kreis am Montag gleich vier Vorfälle: Drei Fälle von Online-Betrug und Telefonbetrug sowie einen Einbruch auf einem ehemaligen Munitionsdepot. Die Polizei warnt eindringlich vor aktuellen Betrugsmaschen im Netz und am Telefon. Symbol",
@@ -96,7 +109,8 @@
     "published": "Thu, 05 Mar 2026 12:44:25 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "lindlar"
+      "lindlar",
+      "gummersbach"
     ],
     "fetched": "2026-05-05T21:11:16.623391"
   },
@@ -151,6 +165,19 @@
     "fetched": "2026-05-05T21:11:16.618680"
   },
   {
+    "id": "da0edad82cd8",
+    "title": "Die Bergische Kostümbörse kehrt zurück: Jetzt Kostüme abgeben!",
+    "summary": "Die Vorfreude auf die bevorstehende Karnevalssession steigt, und dieses Jahr dürfen wir uns auf eine besondere Veranstaltung freuen: die dritte Bergische Kostümbörse. Der Beitrag Die Bergische Kostümbörse kehrt zurück: Jetzt Kostüme abgeben! erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/lindlar/bergische-kostuemboerse/",
+    "published": "Mon, 06 Jan 2025 14:46:28 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "kreisweite-nachrichten",
+      "lindlar"
+    ],
+    "fetched": "2026-05-05T21:11:09.368263"
+  },
+  {
     "id": "aeb246a9dfde",
     "title": "So stärken Sie ihre Marketinganstrengungen und werden im Oberbergischen Kreis erfolgreich",
     "summary": "Ob Gummerbach oder Radevormwald, Lindlar oder Morsbach, Engelskirchen oder Wiehl - der Oberbergische Kreis hat Unternehmen zahlreicher Branchen ein solides Fundament zu bieten. Erstklassige Infrastruktur, gute Kaufkraft und kulturelle Vielfalt bilden einen tollen Rahmen, um Geschäfte zu gründen und nachhaltig zu etablieren. Der Beitrag So stärken Sie ihre Marketinganstrengungen und werden im Oberb",
@@ -174,9 +201,25 @@
     "published": "Fri, 17 Apr 2026 00:50:15 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "lindlar"
+      "lindlar",
+      "bergneustadt"
     ],
     "fetched": "2026-05-05T21:11:16.618937"
+  },
+  {
+    "id": "02db77731faf",
+    "title": "Oberberg: Ruhige Einsatzlage an Weiberfastnacht – Polizei meldet 15 Platzverweise",
+    "summary": "Oberberg / Polizei / Weiberfastnacht / Karneval (Von Christian Sasse) Im gesamten Oberbergischen Kreis haben die Jecken an Weiberfastnacht (12. Februar) trotz Dauerregen und ungemütlicher Witterung ausgelassen Karneval gefeiert. Die Polizei zieht eine insgesamt positive Bilanz mit nur wenigen Einsätzen in Wipperfürth, Reichshof, Gummersbach und Denklingen und meldet 15 Platzverweise. Im Verkehrsbe",
+    "link": "https://www.news-on-tour.de/199911/oberberg-weiberfastnacht-2026-polizei/",
+    "published": "Fri, 13 Feb 2026 09:58:09 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wipperfuerth",
+      "reichshof",
+      "gummersbach",
+      "lindlar"
+    ],
+    "fetched": "2026-05-05T21:11:16.625747"
   },
   {
     "id": "890c8d5a5e16",
@@ -202,7 +245,8 @@
       "lindlar",
       "morsbach",
       "bergneustadt",
-      "gummersbach"
+      "gummersbach",
+      "wiehl"
     ],
     "fetched": "2026-05-05T21:11:16.620482"
   }
