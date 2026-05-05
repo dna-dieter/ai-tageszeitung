@@ -1,5 +1,19 @@
 [
   {
+    "id": "fac914b29fc7",
+    "title": "Oberberg: 3 Polizeimeldungen (18.02.2026) – Trickdiebstahl in Radevormwald, BMW-Räder in Waldbröl und Einbrüche in Hückeswagen",
+    "summary": "Oberberg / Polizei / Kriminalität / OBK (Von Christian Sasse) Die Polizei im Oberbergischen Kreis meldet am Dienstag gleich drei Straftaten: Ein Trickdieb klaut Bargeld aus einer Kasse in Radevormwald, Unbekannte stehlen alle vier Räder eines BMW in Waldbröl, und in Hückeswagen kommt es zu mehreren Einbrüchen in Keller und ein Wohnhaus. Archivbilder: © Christian Sasse alias ´Der Sasse´ Foto+TV Age",
+    "link": "https://www.news-on-tour.de/200040/oberberg-polizeimeldungen-2026-02-18/",
+    "published": "Wed, 18 Feb 2026 13:13:36 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "waldbroel",
+      "radevormwald",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-05-05T21:11:16.625182"
+  },
+  {
     "id": "6d7a9d7e716b",
     "title": "Einbruch in ehemalige Klinik",
     "summary": "In der Zeit von Donnerstag (30. April) bis Montag (4. Mai) hebelten Unbekannte die Tür eines Nebengebäudes einer ehemaligen Klinik an der Hermannstraße auf.",
@@ -73,6 +87,42 @@
     "fetched": "2026-05-05T21:01:13.636495"
   },
   {
+    "id": "885dbd61f121",
+    "title": "Radevormwald: Wendemanöver auf der L421 – Zwei Schwerverletzte am Heidersteg",
+    "summary": "Radevormwald / L421 / Verkehrsunfall / Polizei / Oberberg (Von Christian Sasse) Ein 81-jähriger Mann aus Kappeln hatte beim Wendemanöver an einem Wanderparkplatz einen vorfahrtsberechtigten Pkw übersehen. Die L421 musste für rund 1,5 Stunden komplett gesperrt werden. Unfallhergang auf der Landesstraße 421 in Radevormwald Gegen 17:35 Uhr befuhr der 81-jährige Pkw-Fahrer aus Kappeln (Schleswig-Holst",
+    "link": "https://www.news-on-tour.de/200233/radevormwald-kollision-unfall-l421/",
+    "published": "Thu, 26 Feb 2026 01:21:29 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-05-05T21:11:16.624145"
+  },
+  {
+    "id": "4deb38684db9",
+    "title": "Weihnachtsplätzchen und Weihnachtspakete für den guten Zweck",
+    "summary": "Eine kleine Delegation des Gebäudetechnikspezialisten und Smartbuilding-Pioniers Gira hat am Dienstag (12.12.2023) über 2.000 selbst gebackene und in Tüten verpackte Weihnachtsplätzchen an den Radevormwalder Mittagstisch übergeben. Der Beitrag Weihnachtsplätzchen und Weihnachtspakete für den guten Zweck erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/radevormwald/weihnachtsplaetzchen-und-weihnachtspakete-fuer-den-guten-zweck/",
+    "published": "Thu, 14 Dec 2023 14:22:37 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-05-05T21:11:09.373080"
+  },
+  {
+    "id": "47bc73b9df55",
+    "title": "Radevormwald: Love Scamming kostet ahnungslosen Senior vierstellige Summe",
+    "summary": "Radevormwald / Love Scamming / Internetbetrug / Oberberg (Von Christian Sasse) Ein 65-jähriger Mann aus Radevormwald hat einer angeblichen Internetbekanntschaft aus Bangkok einen mittleren vierstelligen Eurobetrag überwiesen, nachdem sie ihm eine gemeinsame Zukunft und lukrative Geschäfte mit Edelmetallen versprochen hatte. Über soziale Medien hatte der Mann seit dem 10. Januar Kontakt zu der verm",
+    "link": "https://www.news-on-tour.de/200530/radevormwald-love-scamming-polizei/",
+    "published": "Thu, 12 Mar 2026 13:43:15 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-05-05T21:11:16.622757"
+  },
+  {
     "id": "28196e5f72fe",
     "title": "Radevormwald: Motorradunfall im Gegenverkehr – dazu Moped-Crash in Lindlar und Waschmittel-Alarm in Waldbröl",
     "summary": "Radevormwald / Motorradunfall / Polizei / Oberberg (Von Christian Sasse) Gleich drei Polizeimeldungen aus dem Oberbergischen Kreis beschäftigen die Region: Auf der Uelfe-Wuppertal-Straße zwischen Radevormwald und Önkfeld kam es am Sonntag zu einem Motorradunfall – ein Fahrer rutschte in einer Kurve in den Gegenverkehr, zwei Beteiligte wurden verletzt. In Lindlar verunglückte ein 21-jähriger Mopedf",
@@ -85,6 +135,30 @@
       "waldbroel"
     ],
     "fetched": "2026-05-05T21:01:14.683753"
+  },
+  {
+    "id": "5147d2d048ef",
+    "title": "Radevormwald: Falsche Polizeibeamte erbeuten Bargeld von Seniorin (66)",
+    "summary": "Radevormwald / Polizei / Betrug / Falsche Polizisten (Von Christian Sasse) Eine 66-jährige Frau aus Radevormwald ist Opfer von falschen Polizeibeamten geworden. Am 16. Februar erhielt die Seniorin einen Anruf eines Mannes, der sich als Kriminaloberkommissar ausgab und behauptete, ihr Vermögen sei in Gefahr. Nach mehreren Telefonaten hob die Frau am Mittwoch Bargeld bei ihrer Bank ab und übergab es",
+    "link": "https://www.news-on-tour.de/200144/radevormwald-falsche-polizeibeamte-geld/",
+    "published": "Mon, 23 Feb 2026 09:42:01 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-05-05T21:11:16.624636"
+  },
+  {
+    "id": "fd8dc30a3af3",
+    "title": "Radevormwald: Linienbus rollt führerlos gegen Hauswand – Niemand verletzt",
+    "summary": "Radevormwald / Busunfall / Polizei / Oberberg (Von Christian Sasse) Ein Linienbus ist am Samstagnachmittag (11. April) in Radevormwald führerlos gegen eine Hauswand geprallt. Der 64-jährige Busfahrer hatte das Fahrzeug an der Haltestelle Hohenfuhrstraße kurz verlassen, um einen Türdefekt zu prüfen – der Bus rollte daraufhin rund 20 Meter bis in die Kottenstraße. Verletzt wurde niemand. Foto: Kreis",
+    "link": "https://www.news-on-tour.de/201349/radevormwald-linienbus-hauswand-unfall/",
+    "published": "Mon, 13 Apr 2026 13:58:22 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-05-05T21:11:16.619480"
   },
   {
     "id": "a6b1fc9af2d6",
@@ -158,5 +232,46 @@
       "radevormwald"
     ],
     "fetched": "2026-05-05T21:01:16.939467"
+  },
+  {
+    "id": "aeb246a9dfde",
+    "title": "So stärken Sie ihre Marketinganstrengungen und werden im Oberbergischen Kreis erfolgreich",
+    "summary": "Ob Gummerbach oder Radevormwald, Lindlar oder Morsbach, Engelskirchen oder Wiehl - der Oberbergische Kreis hat Unternehmen zahlreicher Branchen ein solides Fundament zu bieten. Erstklassige Infrastruktur, gute Kaufkraft und kulturelle Vielfalt bilden einen tollen Rahmen, um Geschäfte zu gründen und nachhaltig zu etablieren. Der Beitrag So stärken Sie ihre Marketinganstrengungen und werden im Oberb",
+    "link": "https://www.oberberg-nachrichten.de/themen/verschiedenes/marketing-effektiver-gestalten-so-werden-sie-im-obk-erfolgreich/",
+    "published": "Fri, 26 Jan 2024 16:11:38 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "lindlar",
+      "radevormwald",
+      "engelskirchen",
+      "morsbach",
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.372875"
+  },
+  {
+    "id": "9eeebb2627fc",
+    "title": "Oberberg: Radevormwald – Werkzeugdiebstahl (Transporter) Polizei ermittelt",
+    "summary": "Oberberg / Radevormwald &#8211; (Von NEWS-Ticker) Zwischen Mittwochabend (18. Februar, 17:30 Uhr) und Donnerstagmorgen (19. Februar, 06:30 Uhr) haben Unbekannte in Radevormwald Werkzeuge aus einem abgestellten Transporter entwendet. Die Polizei sucht Zeugen. Diebe stehlen DeWalt-Werkzeuge aus Peugeot Boxer In der Straße „Eich“ wurde aus einem geparkten Peugeot Boxer umfangreiches Werkzeug der Mark",
+    "link": "https://www.news-on-tour.de/200074/radevormwald-werkzeugdiebstahl/",
+    "published": "Fri, 20 Feb 2026 08:37:27 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wipperfuerth",
+      "radevormwald"
+    ],
+    "fetched": "2026-05-05T21:11:16.624980"
+  },
+  {
+    "id": "0cfdbd3898e1",
+    "title": "Oberberg: Polizei berichtet über Unfallflucht, Pedelec-Sturz, Laden- und E-Bike-Diebstahl",
+    "summary": "Oberberg / Polizei / Unfall / Diebstahl (Von Christian Sasse) Zwischen Dienstag, 3. März, und Donnerstag, 5. März, kam es in mehreren oberbergischen Kommunen zu einer Unfallflucht, einem schweren Pedelec-Unfall, einem vereitelten Ladendiebstahl, einem Diebstahl auf einem Friedhof und einem E-Bike-Diebstahl. Die Polizei im Oberbergischen Kreis bittet in mehreren Fällen um Hinweise und hat in allen ",
+    "link": "https://www.news-on-tour.de/200400/oberberg-polizei-unfallflucht-pedelec/",
+    "published": "Fri, 06 Mar 2026 10:36:04 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-05-05T21:11:16.623240"
   }
 ]
