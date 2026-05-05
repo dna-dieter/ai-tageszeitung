@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "id": "36559720c47e",
+    "title": "Oberberg: 5 Verkehrsunfälle übers lange Wochenende – Trunkenheitsfahrt und Schwerverletzte",
+    "summary": "Oberberg / Verkehrsunfall / Motorrad / Polizei (Von Christian Sasse) Im Oberbergischen Kreis ereigneten sich zwischen Donnerstag (30. April) und Samstag (2. Mai 2026) insgesamt fünf Verkehrsunfälle – in Wipperfürth, Hückeswagen, Reichshof und Bergneustadt. Fünf Personen wurden verletzt, darunter eine Sozia mit schweren Verletzungen. Besonders gravierend: Ein 34-jähriger Motorradfahrer aus Bergneus",
+    "link": "https://www.news-on-tour.de/201935/oberberg-unfaelle-motorrad-trunkenheit/",
+    "published": "Sun, 03 May 2026 16:11:52 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt",
+      "wipperfuerth",
+      "reichshof",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-05-05T21:01:14.682975"
+  },
+  {
+    "id": "3e26f1fb0983",
+    "title": "POL-GM: Unfall im Einmündungsbereich",
+    "summary": "Wipperfürth (ots) - Am Donnerstag (30. April) wollte eine 19-jährige Wipperfürtherin in Jörgensmühle mit ihrem Seat von der L129 nach links auf die L286 abbiegen. Dabei kam es gegen 9:25 Uhr zum Zusammenstoß mit dem VW UP einer 74-Jährigen ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6267310",
+    "published": "Sun, 03 May 2026 11:21:11 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-05-05T21:01:18.844363"
+  }
+]

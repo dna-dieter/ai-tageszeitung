@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "1998c105356e",
+    "title": "Oberberg: Sechs Einbrüche in zehn Tagen – Polizei sucht dringend Zeugen",
+    "summary": "Einbruch / Gummersbach / Polizei / Oberberg (Von Christian Sasse) Im Oberbergischen Kreis haben Kriminelle innerhalb von zehn Tagen gleich sechs Mal zugeschlagen – in Gummersbach, Hückeswagen, Waldbröl, Morsbach und Marienheide. Besonders schwerwiegend: Aus einem Einfamilienhaus in der Luisenstraße stahlen Unbekannte einen Safe mit Schmuck und Silberwaren. Die Kreispolizeibehörde Oberbergischer Kr",
+    "link": "https://www.news-on-tour.de/201931/einbrueche-oberberg-gummersbach-polizei/",
+    "published": "Sun, 03 May 2026 15:32:50 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "waldbroel",
+      "gummersbach",
+      "marienheide",
+      "morsbach",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-05-05T21:01:14.683043"
+  },
+  {
+    "id": "baaf8edfb992",
+    "title": "POL-GM: Metalldiebe in Morsbach unterwegs",
+    "summary": "Morsbach (ots) - Am Donnerstagabend (30. April) wollten Kriminelle gegen 19:15 Uhr das Kupferdach einer Maria-Statue im Ellinger Weg entfernen. Als die Diebe von einem Zeugen angesprochen wurden, flüchteten sie. Beide hatten südeuropäisches ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6267316",
+    "published": "Sun, 03 May 2026 11:23:34 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-05-05T21:01:18.844305"
+  }
+]

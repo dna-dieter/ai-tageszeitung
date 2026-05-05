@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "846e4d911e1b",
+    "title": "Gummersbach: Hells Angels-Razzia – Großeinsatz auch im Oberbergischen",
+    "summary": "Gummersbach / Hells Angels / Razzia / Organisierte Kriminalität (Von Christian Sasse) Mit über 1.200 Beamten hat die Polizei am frühen Dienstagmorgen eine der größten Razzien in der Geschichte NRWs gegen den Hells Angels Motorcycle Club Leverkusen durchgeführt – mit Durchsuchungen auch in Gummersbach und Marienheide. Koordinierter Großeinsatz ab 4 Uhr – 28 Städte gleichzeitig Ab 4 Uhr morgens roll",
+    "link": "https://www.news-on-tour.de/201789/gummersbach-hells-angels-razzia-nrw/",
+    "published": "Wed, 29 Apr 2026 00:19:07 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach",
+      "marienheide"
+    ],
+    "fetched": "2026-05-05T21:01:14.683553"
+  },
+  {
+    "id": "1998c105356e",
+    "title": "Oberberg: Sechs Einbrüche in zehn Tagen – Polizei sucht dringend Zeugen",
+    "summary": "Einbruch / Gummersbach / Polizei / Oberberg (Von Christian Sasse) Im Oberbergischen Kreis haben Kriminelle innerhalb von zehn Tagen gleich sechs Mal zugeschlagen – in Gummersbach, Hückeswagen, Waldbröl, Morsbach und Marienheide. Besonders schwerwiegend: Aus einem Einfamilienhaus in der Luisenstraße stahlen Unbekannte einen Safe mit Schmuck und Silberwaren. Die Kreispolizeibehörde Oberbergischer Kr",
+    "link": "https://www.news-on-tour.de/201931/einbrueche-oberberg-gummersbach-polizei/",
+    "published": "Sun, 03 May 2026 15:32:50 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "waldbroel",
+      "gummersbach",
+      "marienheide",
+      "morsbach",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-05-05T21:01:14.683043"
+  },
+  {
+    "id": "1d49f10d917f",
+    "title": "POL-GM: Einbruch in Rohbau",
+    "summary": "Marienheide (ots) - In der Zeit vom 27.04.2026 bis 02.05.2026 schoben Unbekannte das Garagentor eines Rohbaus in der Griemeringhauser Straße auf und traten anschließend eine weitere Tür ein. Aus dem Rohbau stahlen die Kriminellen zwei ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6267313",
+    "published": "Sun, 03 May 2026 11:22:25 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-05-05T21:01:18.844333"
+  }
+]

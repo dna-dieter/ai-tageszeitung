@@ -1,5 +1,18 @@
 [
   {
+    "id": "9ea837926e43",
+    "title": "FW-GL: Interkommunale Zusammenarbeit der Feuerwehren Bergisch Gladbach und Odenthal vereinbart",
+    "summary": "Bergisch Gladbach / Odenthal (ots) - Gemeinsame Pressemitteilung Stadt Bergisch Gladbach | Feuerwehr Bergisch Gladbach | Gemeinde Odenthal | Feuerwehr Odenthal Interkommunale Zusammenarbeit stärkt Feuerwehrstrukturen im Rheinisch-Bergischen Kreis ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/116240/6243499",
+    "published": "Wed, 25 Mar 2026 17:33:44 +0100",
+    "source": "Presseportal Feuerwehr Bergisch Gladbach",
+    "kommunen": [
+      "odenthal",
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-05-05T21:01:09.026280"
+  },
+  {
     "id": "7095b3396848",
     "title": "Motorrad-Fahrschülerin stürzt fünf Meter in die Tiefe – Schwer verletzt nach Unfall in Odenthal",
     "summary": "Am Dienstagvormittag kam es in Odenthal zu einem schweren Verkehrsunfall mit einer Motorrad-Fahrschülerin. Die 44-jährige Frau aus Wülfrath verlor während einer Fahrstunde die Kontrolle über ihr Motorrad, kollidierte mit einem Geländer und stürzte rund fünf Meter in die Tiefe. Sie wurde schwer verletzt mit einem Rettungshubschrauber ins Krankenhaus gebracht. Symbolbild Unfall während Fahrstunde – ",
@@ -79,6 +92,19 @@
       "odenthal"
     ],
     "fetched": "2026-05-05T22:40:03.848389"
+  },
+  {
+    "id": "507adaff20ab",
+    "title": "POL-RBK: Wermelskirchen - Kind auf fahrerlaubnispflichtigem E-Scooter gestoppt",
+    "summary": "Wermelskirchen (ots) - Gestern (22.04.), gegen 17:30 Uhr, haben Beamte des Verkehrsdienstes einen E-Scooter kontrolliert, nachdem dieser ihnen auf der Altenberger Straße aus mehreren Gründen aufgefallen war. Ein augenscheinlich minderjähriger ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6261197",
+    "published": "Thu, 23 Apr 2026 11:27:20 +0200",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "wermelskirchen",
+      "odenthal"
+    ],
+    "fetched": "2026-05-05T21:01:08.106197"
   },
   {
     "id": "81c453ce923f",
