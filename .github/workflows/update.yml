@@ -22,11 +22,11 @@ jobs:
       - name: Dependencies installieren
         run: pip install feedparser
 
-      - name: RSS-Feeds laden (alte Artikel bleiben)
-        run: python scripts/fetch_feeds.py
+      - name: RSS-Feeds laden (beide Kreise, alte Artikel bleiben)
+        run: cd scripts && python fetch_feeds.py
 
-      - name: HTML-Seiten generieren
-        run: python scripts/build_html.py
+      - name: HTML-Seiten generieren (beide Kreise)
+        run: cd scripts && python build_html.py
 
       - name: Änderungen committen und pushen
         run: |

@@ -1,0 +1,108 @@
+{
+  "region": "Oberbergischer Kreis",
+  "region_slug": "oberberg",
+  "gemeinden": [
+    "Bergneustadt",
+    "Engelskirchen",
+    "Gummersbach",
+    "Hückeswagen",
+    "Lindlar",
+    "Marienheide",
+    "Morsbach",
+    "Nümbrecht",
+    "Radevormwald",
+    "Reichshof",
+    "Waldbröl",
+    "Wiehl",
+    "Wipperfürth"
+  ],
+  "feeds": [
+    {
+      "name": "Oberberg Nachrichten",
+      "url": "https://www.oberberg-nachrichten.de/feed/",
+      "type": "lokalnachrichten",
+      "coverage": "kreisweite-nachrichten",
+      "verified": false,
+      "note": "WordPress-Feed, auf echtem System testen"
+    },
+    {
+      "name": "NEWS-on-Tour Oberberg",
+      "url": "https://www.news-on-tour.de/category/news-oberberg/feed/",
+      "type": "lokalnachrichten",
+      "coverage": "kreisweite-nachrichten",
+      "verified": false,
+      "note": "WordPress-Feed, auf echtem System testen"
+    },
+    {
+      "name": "NEWS-on-Tour (Gesamt)",
+      "url": "https://www.news-on-tour.de/feed/",
+      "type": "lokalnachrichten",
+      "coverage": "kreisweite-nachrichten",
+      "verified": false
+    },
+    {
+      "name": "RGA Hückeswagen",
+      "url": "https://www.rga.de/arc/outboundfeeds/rss/category/lokales/oberbergischer-kreis/hueckeswagen/",
+      "type": "tageszeitung",
+      "coverage": "hueckeswagen",
+      "verified": true,
+      "note": "Gleiches Schema wie verifizierte RBK-Feeds"
+    },
+    {
+      "name": "RGA Radevormwald",
+      "url": "https://www.rga.de/arc/outboundfeeds/rss/category/lokales/oberbergischer-kreis/radevormwald/",
+      "type": "tageszeitung",
+      "coverage": "radevormwald",
+      "verified": true,
+      "note": "Gleiches Schema wie verifizierte RBK-Feeds"
+    },
+    {
+      "name": "RGA Wipperfürth",
+      "url": "https://www.rga.de/arc/outboundfeeds/rss/category/lokales/oberbergischer-kreis/wipperfuerth/",
+      "type": "tageszeitung",
+      "coverage": "wipperfuerth",
+      "verified": false,
+      "note": "URL-Schema plausibel, auf echtem System testen"
+    },
+    {
+      "name": "Presseportal Polizei OBK",
+      "url": "https://www.presseportal.de/rss/dienststelle_65843.rss2",
+      "type": "polizei",
+      "coverage": "kreisweite-nachrichten",
+      "verified": true,
+      "note": "Dienststelle 65843, 297 Meldungen 2026"
+    },
+    {
+      "name": "Oberbergischer Kreis Pressestelle",
+      "url": "https://www.obk.de/rss/pressemitteilungen.xml",
+      "type": "verwaltung",
+      "coverage": "kreisweite-nachrichten",
+      "verified": false,
+      "note": "URL auf echtem System testen"
+    },
+    {
+      "name": "Kölner Stadt-Anzeiger Oberberg",
+      "url": "https://www.ksta.de/region/oberberg/?feed=rss",
+      "type": "tageszeitung",
+      "coverage": "kreisweite-nachrichten",
+      "verified": false,
+      "note": "Paywall möglich"
+    },
+    {
+      "name": "Kölnische Rundschau Oberberg",
+      "url": "https://www.rundschau-online.de/region/oberberg/?feed=rss",
+      "type": "tageszeitung",
+      "coverage": "kreisweite-nachrichten",
+      "verified": false
+    },
+    {
+      "name": "Radio Berg Nachrichten",
+      "url": "https://www.radioberg.de/rss/nachrichten.xml",
+      "type": "radio",
+      "coverage": "kreisweite-nachrichten",
+      "verified": false
+    }
+  ],
+  "update_interval_minutes": 60,
+  "last_updated": "2026-05-05T22:57:18.527799"
+}

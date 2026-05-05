@@ -1,101 +1,80 @@
 #!/usr/bin/env python3
 """
-RSS-Feed-Fetcher für die AI Tageszeitung Rheinisch-Bergischer Kreis.
-Liest feeds.json, holt alle RSS-Feeds, ordnet Artikel den Kommunen zu,
-speichert sie als JSON-Dateien je Kommune.
+RSS-Feed-Fetcher für die AI Tageszeitung.
+Arbeitet alle Kreise aus config.py ab.
+Behält bestehende Artikel, fügt nur neue hinzu.
 """
 import json
 import hashlib
 import re
 import sys
+import ssl
+import urllib.request
 from datetime import datetime
 from pathlib import Path
 
 try:
     import feedparser
-    import urllib.request
-    import ssl
 except ImportError:
     print("feedparser nicht installiert. Bitte: pip install feedparser")
     sys.exit(1)
 
-BASE = Path(__file__).resolve().parent.parent / "rheinisch-bergischer-kreis"
-FEEDS_JSON = BASE / "feeds.json"
-
-KOMMUNEN_KEYWORDS = {
-    "bergisch-gladbach": [
-        "bergisch gladbach", "bensberg", "refrath", "paffrath", "gronau",
-        "hand", "schildgen", "frankenforst", "moitzfeld", "herkenrath"
-    ],
-    "burscheid": ["burscheid", "hilgen"],
-    "kuerten": ["kürten", "kuerten", "bechen", "dürscheid", "olpe", "biesfeld"],
-    "leichlingen": ["leichlingen", "witzhelden"],
-    "odenthal": ["odenthal", "altenberg", "blecher"],
-    "overath": ["overath", "marialinden", "steinenbrück", "heiligenhaus"],
-    "roesrath": ["rösrath", "roesrath", "hoffnungsthal", "forsbach"],
-    "wermelskirchen": ["wermelskirchen", "dhünn", "dabringhausen"],
-}
-
-ALL_SLUGS = list(KOMMUNEN_KEYWORDS.keys()) + ["kreisweite-nachrichten"]
+from config import BASE, KREISE
 
 def strip_html(text: str) -> str:
-    """Entfernt HTML-Tags aus Text."""
     clean = re.sub(r'<[^>]+>', '', text)
     return re.sub(r'\s+', ' ', clean).strip()
 
-def classify_article(title: str, summary: str, feed_coverage: str) -> list[str]:
-    """Ordnet einen Artikel Kommunen zu.
-
-    1. Wenn der Feed eine spezifische Kommune hat (nicht kreisweite-nachrichten),
-       wird diese immer zugewiesen.
-    2. Zusätzlich Keyword-Matching im Text.
-    """
-    matches = set()
-
-    # Feed-Coverage direkt zuweisen (wenn kommune-spezifisch)
-    if feed_coverage and feed_coverage != "kreisweite-nachrichten":
-        matches.add(feed_coverage)
-
-    # Keyword-Matching
-    text = (title + " " + summary).lower()
-    for slug, keywords in KOMMUNEN_KEYWORDS.items():
-        for kw in keywords:
-            if kw in text:
-                matches.add(slug)
-                break
-
-    return list(matches) if matches else ["kreisweite-nachrichten"]
-
 def article_id(entry) -> str:
-    """Erzeugt eine stabile ID für Deduplizierung."""
     raw = entry.get("link", "") + entry.get("title", "")
     return hashlib.md5(raw.encode()).hexdigest()[:12]
 
-def load_existing():
-    """Lädt alle bisherigen Artikel aus all_articles.json."""
-    f = BASE / "all_articles.json"
+def classify_article(title: str, summary: str, feed_coverage: str, keywords: dict) -> list:
+    matches = set()
+    if feed_coverage and feed_coverage != "kreisweite-nachrichten":
+        matches.add(feed_coverage)
+    text = (title + " " + summary).lower()
+    for slug, kws in keywords.items():
+        for kw in kws:
+            if kw in text:
+                matches.add(slug)
+                break
+    return list(matches) if matches else ["kreisweite-nachrichten"]
+
+def load_existing(data_dir: Path) -> dict:
+    f = data_dir / "all_articles.json"
     if f.exists():
         try:
-            data = json.loads(f.read_text())
-            return {a["id"]: a for a in data}
+            return {a["id"]: a for a in json.loads(f.read_text())}
         except Exception:
             pass
     return {}
 
-def fetch_all():
-    config = json.loads(FEEDS_JSON.read_text())
-    # Bestehende Artikel laden — alte bleiben erhalten
-    all_articles = load_existing()
-    new_count = 0
+def fetch_kreis(kreis_slug: str, kreis_cfg: dict):
+    data_dir = BASE / kreis_slug
+    feeds_file = data_dir / "feeds.json"
+    if not feeds_file.exists():
+        print(f"SKIP {kreis_slug}: keine feeds.json")
+        return
 
-    # SSL-Kontext ohne strenge Verifikation (manche lokale Seiten haben Probleme)
+    print(f"\n{'='*60}")
+    print(f"  {kreis_cfg['name']}")
+    print(f"{'='*60}")
+
+    config = json.loads(feeds_file.read_text())
+    keywords = kreis_cfg["keywords"]
+    kommunen = kreis_cfg["kommunen"]
+    all_slugs = list(kommunen.keys()) + ["kreisweite-nachrichten"]
+
+    all_articles = load_existing(data_dir)
+    new_count = 0
     ctx = ssl.create_default_context()
 
     for feed_cfg in config["feeds"]:
         url = feed_cfg["url"]
         name = feed_cfg["name"]
         coverage = feed_cfg.get("coverage", "kreisweite-nachrichten")
-        print(f"Fetching: {name} ({url})")
+        print(f"  Fetching: {name}")
 
         try:
             req = urllib.request.Request(url, headers={
@@ -105,21 +84,19 @@ def fetch_all():
             response = urllib.request.urlopen(req, timeout=20, context=ctx)
             raw = response.read()
             d = feedparser.parse(raw)
-            count = len(d.entries)
-            print(f"  -> {count} Einträge")
-            if count == 0 and d.bozo:
-                print(f"  WARNUNG: Feed-Parse-Fehler: {d.bozo_exception}")
+            print(f"    -> {len(d.entries)} Einträge")
+            if len(d.entries) == 0 and d.bozo:
+                print(f"    WARNUNG: {d.bozo_exception}")
         except Exception as e:
-            print(f"  FEHLER: {e}")
+            print(f"    FEHLER: {e}")
             continue
 
         for entry in d.entries:
             aid = article_id(entry)
             if aid in all_articles:
-                # Merge: zusätzliche Kommune zuweisen
                 existing = all_articles[aid]
                 new_kommunen = classify_article(
-                    entry.get("title", ""), entry.get("summary", ""), coverage
+                    entry.get("title", ""), entry.get("summary", ""), coverage, keywords
                 )
                 for k in new_kommunen:
                     if k not in existing["kommunen"]:
@@ -131,8 +108,6 @@ def fetch_all():
             link = entry.get("link", "")
             published = entry.get("published", "")
 
-            kommunen = classify_article(title, summary, coverage)
-
             all_articles[aid] = {
                 "id": aid,
                 "title": title,
@@ -140,32 +115,30 @@ def fetch_all():
                 "link": link,
                 "published": published,
                 "source": name,
-                "kommunen": kommunen,
+                "kommunen": classify_article(title, summary, coverage, keywords),
                 "fetched": datetime.now().isoformat(),
             }
             new_count += 1
 
     # Speichere je Kommune
-    for slug in ALL_SLUGS:
-        kommune_articles = [
-            a for a in all_articles.values() if slug in a["kommunen"]
-        ]
-        kommune_articles.sort(key=lambda x: x.get("published", ""), reverse=True)
-
-        outdir = BASE / slug
+    for slug in all_slugs:
+        arts = sorted(
+            [a for a in all_articles.values() if slug in a["kommunen"]],
+            key=lambda x: x.get("published", ""), reverse=True
+        )
+        outdir = data_dir / slug
         outdir.mkdir(exist_ok=True)
-        outfile = outdir / "articles.json"
-        outfile.write_text(json.dumps(kommune_articles, ensure_ascii=False, indent=2))
-        print(f"{slug}: {len(kommune_articles)} Artikel")
+        (outdir / "articles.json").write_text(json.dumps(arts, ensure_ascii=False, indent=2))
+        print(f"  {slug}: {len(arts)} Artikel")
 
-    # Gesamtübersicht
     all_list = sorted(all_articles.values(), key=lambda x: x.get("published", ""), reverse=True)
-    (BASE / "all_articles.json").write_text(json.dumps(all_list, ensure_ascii=False, indent=2))
+    (data_dir / "all_articles.json").write_text(json.dumps(all_list, ensure_ascii=False, indent=2))
 
     config["last_updated"] = datetime.now().isoformat()
-    FEEDS_JSON.write_text(json.dumps(config, ensure_ascii=False, indent=2))
+    feeds_file.write_text(json.dumps(config, ensure_ascii=False, indent=2))
 
-    print(f"\nGesamt: {len(all_list)} Artikel ({new_count} neu)")
+    print(f"  Gesamt: {len(all_list)} Artikel ({new_count} neu)")
 
 if __name__ == "__main__":
-    fetch_all()
+    for slug, cfg in KREISE.items():
+        fetch_kreis(slug, cfg)
