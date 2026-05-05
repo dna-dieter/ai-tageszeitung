@@ -223,6 +223,28 @@ def build_kreis_index(kreis_slug, kreis_cfg):
         for s, n in kommunen.items()
     )
 
+    # Quellen aus feeds.json laden
+    feeds_file = data_dir / "feeds.json"
+    quellen_html = ""
+    if feeds_file.exists():
+        feeds_cfg = json.loads(feeds_file.read_text())
+        type_icons = {"polizei": "🚔", "feuerwehr": "🚒", "tageszeitung": "📰",
+                      "lokalnachrichten": "🌐", "radio": "📻", "verwaltung": "🏛️",
+                      "buergerportal": "👥"}
+        seen = set()
+        items = []
+        for f in feeds_cfg.get("feeds", []):
+            name = f["name"]
+            if name in seen:
+                continue
+            seen.add(name)
+            icon = type_icons.get(f.get("type", ""), "📰")
+            items.append(f'<li style="margin:3px 0;">{icon} {htmlmod.escape(name)}</li>')
+        quellen_html = f"""<div class="sidebar-box">
+      <h3>Quellen</h3>
+      <ul style="list-style:none; font-size:0.82rem; font-family:sans-serif; color:#555;">{"".join(items)}</ul>
+    </div>"""
+
     page = f"""<!DOCTYPE html>
 <html lang="de">
 <head>
@@ -243,6 +265,7 @@ def build_kreis_index(kreis_slug, kreis_cfg):
       <h3>Kommunen</h3>
       <ul class="k-links">{sidebar_items}</ul>
     </div>
+    {quellen_html}
   </div>
 </div>
 </main>
