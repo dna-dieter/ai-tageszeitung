@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Tageszeitung — Rheinisch-Bergischer Kreis</title>
+  <style>
+    :root {
+      --rbk-blau: #1B3A5C;
+      --rbk-rot: #C0392B;
+      --rbk-grau: #F5F5F5;
+      --akzent: #2980B9;
+      --linie: #BFBFBF;
+      --text: #2C3E50;
+      --bg: #FAFAFA;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Georgia', 'Times New Roman', serif;
+      color: var(--text);
+      background: var(--bg);
+      line-height: 1.6;
+    }
+
+    /* === MASTHEAD === */
+    header {
+      background: var(--rbk-blau);
+      color: white;
+      padding: 16px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    header h1 {
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      font-size: 2rem;
+      letter-spacing: 2px;
+      font-weight: 800;
+    }
+    header .meta {
+      font-size: 0.85rem;
+      text-align: right;
+      opacity: 0.9;
+    }
+    header .meta .live {
+      display: inline-block;
+      width: 8px; height: 8px;
+      background: #2ECC71;
+      border-radius: 50%;
+      margin-right: 4px;
+      animation: pulse 2s infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+
+    /* === TICKER === */
+    .ticker {
+      background: var(--rbk-rot);
+      color: white;
+      padding: 8px 24px;
+      font-size: 0.9rem;
+      font-family: sans-serif;
+      overflow: hidden;
+      white-space: nowrap;
+    }
+    .ticker span { font-weight: bold; margin-right: 8px; }
+
+    /* === NAV === */
+    nav {
+      background: white;
+      border-bottom: 2px solid var(--rbk-blau);
+      padding: 10px 24px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+    }
+    nav a {
+      font-family: sans-serif;
+      font-size: 0.85rem;
+      padding: 6px 14px;
+      text-decoration: none;
+      color: var(--rbk-blau);
+      border-radius: 4px;
+      transition: all 0.2s;
+    }
+    nav a:hover, nav a.active {
+      background: var(--rbk-blau);
+      color: white;
+    }
+
+    /* === MAIN GRID === */
+    main {
+      max-width: 1400px;
+      margin: 20px auto;
+      padding: 0 16px;
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      gap: 20px;
+    }
+
+    /* === ARTIKEL-KARTEN === */
+    .artikel-liste { display: flex; flex-direction: column; gap: 16px; }
+    .artikel {
+      background: white;
+      border-radius: 6px;
+      padding: 20px;
+      border-left: 4px solid var(--akzent);
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+      transition: box-shadow 0.2s;
+    }
+    .artikel:hover { box-shadow: 0 3px 12px rgba(0,0,0,0.12); }
+    .artikel .kommune-tag {
+      font-family: sans-serif;
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: var(--rbk-rot);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    .artikel h2 {
+      font-size: 1.3rem;
+      margin: 6px 0;
+      line-height: 1.3;
+    }
+    .artikel h2 a { color: var(--text); text-decoration: none; }
+    .artikel h2 a:hover { color: var(--akzent); }
+    .artikel .teaser { font-size: 0.95rem; color: #555; margin: 8px 0; }
+    .artikel .meta-row {
+      font-family: sans-serif;
+      font-size: 0.8rem;
+      color: #888;
+    }
+
+    /* === SIDEBAR === */
+    .sidebar { display: flex; flex-direction: column; gap: 16px; }
+    .sidebar-box {
+      background: white;
+      border-radius: 6px;
+      padding: 16px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    }
+    .sidebar-box h3 {
+      font-family: sans-serif;
+      font-size: 0.9rem;
+      color: var(--rbk-blau);
+      border-bottom: 2px solid var(--rbk-blau);
+      padding-bottom: 6px;
+      margin-bottom: 12px;
+    }
+    .kommune-links { list-style: none; }
+    .kommune-links li { margin: 8px 0; }
+    .kommune-links a {
+      font-family: sans-serif;
+      font-size: 0.9rem;
+      color: var(--text);
+      text-decoration: none;
+      display: flex;
+      justify-content: space-between;
+    }
+    .kommune-links a:hover { color: var(--akzent); }
+    .kommune-links .count {
+      background: var(--rbk-grau);
+      padding: 1px 8px;
+      border-radius: 10px;
+      font-size: 0.8rem;
+    }
+
+    .blaulicht { border-left-color: var(--rbk-rot); }
+    .politik { border-left-color: #27AE60; }
+    .kultur { border-left-color: #8E44AD; }
+    .sport { border-left-color: #F39C12; }
+
+    /* === FOOTER === */
+    footer {
+      background: var(--rbk-blau);
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+      font-size: 0.85rem;
+      font-family: sans-serif;
+    }
+    footer a { color: #85C1E9; }
+
+    /* === RESPONSIVE === */
+    @media (max-width: 768px) {
+      main { grid-template-columns: 1fr; }
+      header h1 { font-size: 1.4rem; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>AI TAGESZEITUNG</h1>
+    <div style="font-size:0.9rem; opacity:0.8;">Rheinisch-Bergischer Kreis</div>
+  </div>
+  <div class="meta">
+    <div><span class="live"></span> Kontinuierlich aktualisiert</div>
+    <div id="timestamp"></div>
+  </div>
+</header>
+
+<div class="ticker">
+  <span>EILMELDUNGEN:</span>
+  <span id="ticker-text">Artikel werden geladen...</span>
+</div>
+
+<nav>
+  <a href="index.html" class="active">Alle</a>
+  <a href="bergisch-gladbach/">Bergisch Gladbach</a>
+  <a href="burscheid/">Burscheid</a>
+  <a href="kuerten/">Kürten</a>
+  <a href="leichlingen/">Leichlingen</a>
+  <a href="odenthal/">Odenthal</a>
+  <a href="overath/">Overath</a>
+  <a href="roesrath/">Rösrath</a>
+  <a href="wermelskirchen/">Wermelskirchen</a>
+</nav>
+
+<main>
+  <div class="artikel-liste" id="artikel-liste">
+    <!-- Artikel werden dynamisch geladen -->
+    <div class="artikel">
+      <div class="kommune-tag">Bergisch Gladbach</div>
+      <h2><a href="#">Willkommen bei der AI Tageszeitung</a></h2>
+      <div class="teaser">Die AI Tageszeitung für den Rheinisch-Bergischen Kreis wird in Kürze mit aktuellen Nachrichten aus allen 8 Kommunen gefüllt. RSS-Feeds werden automatisch alle 15 Minuten abgefragt.</div>
+      <div class="meta-row">05.05.2026 · Redaktion</div>
+    </div>
+  </div>
+
+  <div class="sidebar">
+    <div class="sidebar-box">
+      <h3>Kommunen</h3>
+      <ul class="kommune-links">
+        <li><a href="bergisch-gladbach/">Bergisch Gladbach <span class="count">—</span></a></li>
+        <li><a href="burscheid/">Burscheid <span class="count">—</span></a></li>
+        <li><a href="kuerten/">Kürten <span class="count">—</span></a></li>
+        <li><a href="leichlingen/">Leichlingen <span class="count">—</span></a></li>
+        <li><a href="odenthal/">Odenthal <span class="count">—</span></a></li>
+        <li><a href="overath/">Overath <span class="count">—</span></a></li>
+        <li><a href="roesrath/">Rösrath <span class="count">—</span></a></li>
+        <li><a href="wermelskirchen/">Wermelskirchen <span class="count">—</span></a></li>
+      </ul>
+    </div>
+
+    <div class="sidebar-box">
+      <h3>Blaulicht</h3>
+      <p style="font-size:0.9rem; color:#666;">Polizei- und Feuerwehrmeldungen werden über Presseportal-RSS automatisch importiert.</p>
+    </div>
+
+    <div class="sidebar-box">
+      <h3>Quellen</h3>
+      <ul style="list-style:none; font-size:0.85rem; font-family:sans-serif;">
+        <li>📰 Kölner Stadt-Anzeiger</li>
+        <li>📰 Kölnische Rundschau</li>
+        <li>📻 Radio Berg</li>
+        <li>🌐 RheinBergNews.de</li>
+        <li>🚔 Presseportal Polizei RBK</li>
+        <li>🏛️ Kreisverwaltung RBK</li>
+      </ul>
+    </div>
+  </div>
+</main>
+
+<footer>
+  AI Tageszeitung · Rheinisch-Bergischer Kreis<br>
+  Automatisch aktualisiert aus öffentlichen RSS-Quellen · Keine Gewähr für Vollständigkeit<br>
+  <a href="https://github.com/dna-dieter/ai-tageszeitung">GitHub</a>
+</footer>
+
+<script>
+  document.getElementById('timestamp').textContent =
+    new Date().toLocaleString('de-DE', {
+      day: '2-digit', month: '2-digit', year: 'numeric',
+      hour: '2-digit', minute: '2-digit'
+    });
+</script>
+
+</body>
+</html>
