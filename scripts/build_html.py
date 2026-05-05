@@ -67,6 +67,10 @@ main { max-width: 1200px; margin: 20px auto; padding: 0 16px; }
 footer { background: var(--rbk-blau); color: white; text-align: center; padding: 16px; margin-top: 30px; font-size: 0.8rem; font-family: sans-serif; }
 footer a { color: #85C1E9; }
 .empty { text-align: center; padding: 40px; color: #999; font-size: 1.1rem; }
+.monat-gruppe { margin-bottom: 8px; }
+.monat-header { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.05rem; color: var(--rbk-blau); border-bottom: 2px solid var(--rbk-blau); padding: 8px 0 5px 0; margin: 18px 0 10px 0; display: flex; align-items: center; gap: 8px; }
+.monat-header:first-child { margin-top: 0; }
+.monat-count { background: var(--rbk-blau); color: white; font-size: 0.72rem; padding: 1px 8px; border-radius: 10px; font-weight: 400; }
 @media (max-width: 768px) { .grid { grid-template-columns: 1fr; } header h1 { font-size: 1.3rem; } }
 """
 
@@ -123,9 +127,29 @@ def build_index():
     all_file = DATA / "all_articles.json"
     articles = json.loads(all_file.read_text()) if all_file.exists() else []
 
-    artikel_cards = "\n".join(artikel_html(a) for a in articles[:30])
-    if not artikel_cards:
+    if not articles:
         artikel_cards = '<div class="empty">Noch keine Artikel geladen. Bitte RSS-Fetcher ausführen.</div>'
+    else:
+        groups = group_by_month(articles)
+        parts = []
+        shown = 0
+        for key, arts in groups.items():
+            if shown >= 50:
+                break
+            if key == ("ohne", "datum"):
+                label = "Ohne Datum"
+            else:
+                year, month = key
+                label = f"{MONATE_DE.get(month, month)} {year}"
+            parts.append(f'<div class="monat-gruppe">')
+            parts.append(f'<h2 class="monat-header">{label} <span class="monat-count">{len(arts)}</span></h2>')
+            for a in arts:
+                if shown >= 50:
+                    break
+                parts.append(artikel_html(a))
+                shown += 1
+            parts.append('</div>')
+        artikel_cards = "\n".join(parts)
 
     # Ticker: erste 3 Artikel
     ticker_items = " · ".join(htmlmod.escape(a["title"][:60]) for a in articles[:3]) or "Keine Eilmeldungen"
@@ -177,14 +201,76 @@ def build_index():
     (DOCS / "index.html").write_text(page)
     print(f"docs/index.html: {len(articles)} Artikel")
 
+MONATE_DE = {
+    1: "Januar", 2: "Februar", 3: "März", 4: "April",
+    5: "Mai", 6: "Juni", 7: "Juli", 8: "August",
+    9: "September", 10: "Oktober", 11: "November", 12: "Dezember"
+}
+
+def parse_pub_date(raw: str):
+    """Versucht ein Datum aus dem published-String zu extrahieren."""
+    from email.utils import parsedate_to_datetime
+    import re
+    if not raw:
+        return None
+    try:
+        return parsedate_to_datetime(raw)
+    except Exception:
+        pass
+    # Fallback: ISO-Format
+    m = re.match(r'(\d{4})-(\d{2})-(\d{2})', raw)
+    if m:
+        try:
+            return datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)))
+        except Exception:
+            pass
+    return None
+
+def group_by_month(articles):
+    """Gruppiert Artikel nach (Jahr, Monat), sortiert jüngste zuerst."""
+    from collections import OrderedDict
+    grouped = {}
+    undated = []
+    for a in articles:
+        dt = parse_pub_date(a.get("published", ""))
+        a["_dt"] = dt
+        if dt:
+            key = (dt.year, dt.month)
+            grouped.setdefault(key, []).append(a)
+        else:
+            undated.append(a)
+    # Sortiere Gruppen: jüngster Monat zuerst
+    sorted_keys = sorted(grouped.keys(), reverse=True)
+    # Sortiere Artikel innerhalb jeder Gruppe: jüngster zuerst
+    result = OrderedDict()
+    for key in sorted_keys:
+        arts = sorted(grouped[key], key=lambda x: x["_dt"], reverse=True)
+        result[key] = arts
+    if undated:
+        result[("ohne", "datum")] = undated
+    return result
+
 def build_kommune(slug, name):
     articles = load_articles(slug)
-    # Auch kreisweite Artikel einbeziehen
     kreisweite = load_articles("kreisweite-nachrichten")
 
-    artikel_cards = "\n".join(artikel_html(a, show_kommune=False) for a in articles)
-    if not artikel_cards:
+    if not articles:
         artikel_cards = f'<div class="empty">Noch keine Artikel für {name}. Die RSS-Feeds werden regelmäßig abgefragt.</div>'
+    else:
+        groups = group_by_month(articles)
+        parts = []
+        for key, arts in groups.items():
+            if key == ("ohne", "datum"):
+                label = "Ohne Datum"
+            else:
+                year, month = key
+                label = f"{MONATE_DE.get(month, month)} {year}"
+            parts.append(f'<div class="monat-gruppe">')
+            parts.append(f'<h2 class="monat-header">{label} <span class="monat-count">{len(arts)}</span></h2>')
+            for a in arts:
+                parts.append(artikel_html(a, show_kommune=False))
+            parts.append('</div>')
+        artikel_cards = "\n".join(parts)
 
     # Navigation relativ
     nav_links = [f'<a href="../index.html">Alle</a>']
