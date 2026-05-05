@@ -1,0 +1,135 @@
+% =============================================================================
+% AI Tageszeitung — Rheinisch-Bergischer Kreis — TITELSEITE (Seite 1)
+% Kreisweite Übersicht: Top-Nachrichten aller 8 Kommunen
+% Kompilierung: lualatex titelseite.tex
+% =============================================================================
+\documentclass[11pt, a4paper]{scrartcl}
+
+% --- Pakete ---
+\usepackage{fontspec}
+\usepackage[ngerman]{babel}
+\usepackage[top=12mm, bottom=15mm, left=10mm, right=10mm]{geometry}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usepackage{tcolorbox}
+\usepackage{enumitem}
+\usepackage{datetime2}
+
+% --- Farben (Zeitungs-Design) ---
+\definecolor{rbkblau}{HTML}{1B3A5C}
+\definecolor{rbkrot}{HTML}{C0392B}
+\definecolor{rbkgrau}{HTML}{F5F5F5}
+\definecolor{akzent}{HTML}{2980B9}
+\definecolor{liniengrau}{HTML}{BFBFBF}
+
+% --- Schriften ---
+\setmainfont{TeX Gyre Termes}        % Serif für Fließtext
+\setsansfont{TeX Gyre Heros}         % Sans für Headlines
+\newfontfamily\headlinefont{TeX Gyre Heros Bold}
+
+% --- Hyperlinks ---
+\hypersetup{
+  colorlinks=true,
+  linkcolor=rbkblau,
+  urlcolor=akzent,
+  pdftitle={AI Tageszeitung -- Rheinisch-Bergischer Kreis},
+}
+
+% --- Makros ---
+\newcommand{\zeitstempel}{\DTMnow}
+\newcommand{\topnachricht}[4]{%
+  % #1=Kommune, #2=Headline, #3=Teaser, #4=Link
+  \begin{tcolorbox}[
+    colback=white,
+    colframe=liniengrau,
+    left=3mm, right=3mm, top=2mm, bottom=2mm,
+    boxrule=0.3pt,
+    arc=1mm
+  ]
+  {\small\sffamily\color{rbkrot}\textbf{#1}}\\[1pt]
+  {\large\headlinefont #2}\\[3pt]
+  {\small #3}\\[2pt]
+  {\footnotesize\color{akzent}\href{#4}{Weiterlesen \textrightarrow}}
+  \end{tcolorbox}
+  \vspace{1mm}
+}
+
+\newcommand{\tickeritem}[2]{%
+  % #1=Zeit, #2=Kurzmeldung
+  \item[\textbf{\small\color{rbkblau}#1}] {\small #2}
+}
+
+% --- Dokument ---
+\begin{document}
+\pagestyle{empty}
+
+% === KOPFZEILE / MASTHEAD ===
+\begin{center}
+\begin{tikzpicture}
+  \fill[rbkblau] (0,0) rectangle (\textwidth, 1.8cm);
+  \node[anchor=west, white] at (0.3, 0.9) {%
+    {\fontsize{28}{30}\selectfont\headlinefont AI TAGESZEITUNG}};
+  \node[anchor=east, white] at (\textwidth-0.3, 1.2) {%
+    {\small\sffamily Rheinisch-Bergischer Kreis}};
+  \node[anchor=east, white] at (\textwidth-0.3, 0.5) {%
+    {\footnotesize\sffamily Aktualisiert: \zeitstempel}};
+\end{tikzpicture}
+\end{center}
+
+\vspace{2mm}
+
+% === LAUFBAND / TICKER ===
+\begin{tcolorbox}[
+  colback=rbkgrau,
+  colframe=rbkblau,
+  boxrule=0.5pt,
+  left=3mm, right=3mm, top=1mm, bottom=1mm
+]
+{\sffamily\small\textbf{EILMELDUNGEN:}}\quad
+%%TICKER_PLACEHOLDER%%
+\end{tcolorbox}
+
+\vspace{3mm}
+
+% === HAUPTBEREICH: 3-Spalten-Layout ===
+\begin{multicols}{3}
+\raggedcolumns
+
+% --- Aufmacher (spaltenübergreifend wird via minipage gelöst) ---
+\section*{}
+
+%%TOPNACHRICHTEN_PLACEHOLDER%%
+
+% Platzhalter-Beispiele:
+\topnachricht{Bergisch Gladbach}
+  {Neue S-Bahn-Haltestelle beschlossen}
+  {Der Rat hat einstimmig den Bau einer neuen Haltestelle am Technologiepark genehmigt. Baubeginn ist für 2027 geplant.}
+  {https://example.com/artikel/1}
+
+\topnachricht{Overath}
+  {Hochwasserschutz: Agger-Deich wird erhöht}
+  {Nach den Überschwemmungen 2021 investiert die Stadt 4,2 Mio. Euro in präventive Maßnahmen.}
+  {https://example.com/artikel/2}
+
+\topnachricht{Kürten}
+  {Glasfaser-Ausbau erreicht alle Ortsteile}
+  {Bis Ende 2026 sollen auch Dürscheid und Biesfeld vollständig angeschlossen sein.}
+  {https://example.com/artikel/3}
+
+\end{multicols}
+
+% === FUßZEILE ===
+\vfill
+\begin{center}
+\rule{\textwidth}{0.4pt}\\[2mm]
+{\footnotesize\sffamily\color{rbkblau}
+  Bergisch Gladbach~|~Burscheid~|~Kürten~|~Leichlingen~|~Odenthal~|~Overath~|~Rösrath~|~Wermelskirchen\\[1mm]
+  Automatisch aktualisiert aus lokalen RSS-Quellen~|~Keine Gewähr für Vollständigkeit\\[1mm]
+  \href{https://github.com/dieternadolski/ai-tageszeitung}{GitHub}~|~Kontakt: dieter.nadolski@gmail.com
+}
+\end{center}
+
+\end{document}

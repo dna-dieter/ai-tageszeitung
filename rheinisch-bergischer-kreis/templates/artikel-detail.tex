@@ -1,0 +1,109 @@
+% =============================================================================
+% AI Tageszeitung — Artikel-Detailseite
+% Einzelner Nachrichtenartikel, vollständig formatiert
+% =============================================================================
+\documentclass[12pt, a4paper]{scrartcl}
+
+\usepackage{fontspec}
+\usepackage[ngerman]{babel}
+\usepackage[top=20mm, bottom=20mm, left=20mm, right=20mm]{geometry}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usepackage{tcolorbox}
+\usepackage{datetime2}
+\usepackage{csquotes}
+
+% --- Farben ---
+\definecolor{rbkblau}{HTML}{1B3A5C}
+\definecolor{rbkrot}{HTML}{C0392B}
+\definecolor{rbkgrau}{HTML}{F5F5F5}
+\definecolor{akzent}{HTML}{2980B9}
+
+% --- Schriften ---
+\setmainfont{TeX Gyre Termes}
+\setsansfont{TeX Gyre Heros}
+\newfontfamily\headlinefont{TeX Gyre Heros Bold}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=rbkblau,
+  urlcolor=akzent,
+}
+
+% --- Artikel-Metadaten (werden per Script gesetzt) ---
+\newcommand{\artikeltitel}{%%ARTIKEL_TITEL%%}
+\newcommand{\artikeldatum}{%%ARTIKEL_DATUM%%}
+\newcommand{\artikelquelle}{%%ARTIKEL_QUELLE%%}
+\newcommand{\artikelkommune}{%%ARTIKEL_KOMMUNE%%}
+\newcommand{\artikelkategorie}{%%ARTIKEL_KATEGORIE%%}
+\newcommand{\artikeltext}{%%ARTIKEL_TEXT%%}
+\newcommand{\artikellink}{%%ARTIKEL_ORIGINALLINK%%}
+
+% --- Dokument ---
+\begin{document}
+\pagestyle{empty}
+
+% === Breadcrumb-Navigation ===
+{\small\sffamily
+\href{../../index.html}{Startseite}~\textrightarrow~%
+\href{../index.html}{\artikelkommune}~\textrightarrow~%
+\textbf{\artikelkategorie}
+}
+
+\vspace{5mm}
+
+% === Artikel-Header ===
+\begin{tcolorbox}[
+  colback=rbkgrau,
+  colframe=rbkblau,
+  boxrule=0pt,
+  borderline south={1pt}{0pt}{rbkblau},
+  left=5mm, right=5mm, top=4mm, bottom=4mm
+]
+{\footnotesize\sffamily\color{rbkrot}\artikelkategorie\hfill\artikelkommune}\\[4pt]
+{\fontsize{20}{24}\selectfont\headlinefont \artikeltitel}\\[6pt]
+{\small\sffamily\color{rbkblau}%
+  \artikeldatum\quad|\quad Quelle: \artikelquelle}
+\end{tcolorbox}
+
+\vspace{6mm}
+
+% === Artikel-Text ===
+\begin{multicols}{2}
+\artikeltext
+
+% Platzhalter für generierten Inhalt:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+exercitation ullamco laboris.
+\end{multicols}
+
+\vspace{8mm}
+
+% === Quellenhinweis ===
+\begin{tcolorbox}[
+  colback=rbkgrau,
+  colframe=liniengrau,
+  boxrule=0.3pt,
+  left=3mm, right=3mm, top=2mm, bottom=2mm
+]
+{\footnotesize\sffamily
+\textbf{Originalquelle:} \href{\artikellink}{\artikellink}\\[2pt]
+Dieser Artikel wurde automatisch aus einem RSS-Feed importiert.
+Die Darstellung dient der lokalen Nachrichtenübersicht.}
+\end{tcolorbox}
+
+\vspace{5mm}
+
+% === Zurück-Navigation ===
+\begin{center}
+{\sffamily
+\href{../index.html}{\textleftarrow~Zurück zu \artikelkommune}%
+\quad|\quad%
+\href{../../index.html}{Zur Kreisübersicht}
+}
+\end{center}
+
+\end{document}

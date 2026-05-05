@@ -1,0 +1,95 @@
+{
+  "region": "Rheinisch-Bergischer Kreis",
+  "gemeinden": [
+    "Bergisch Gladbach",
+    "Burscheid",
+    "Kürten",
+    "Leichlingen",
+    "Odenthal",
+    "Overath",
+    "Rösrath",
+    "Wermelskirchen"
+  ],
+  "feeds": [
+    {
+      "name": "Presseportal Polizei RBK",
+      "url": "https://www.presseportal.de/rss/dienststelle_62459.rss2",
+      "type": "polizei",
+      "coverage": "kreisweite-nachrichten",
+      "verified": true
+    },
+    {
+      "name": "Kölner Stadt-Anzeiger",
+      "url": "https://www.ksta.de/feed/index.rss",
+      "type": "tageszeitung",
+      "coverage": "kreisweite-nachrichten",
+      "verified": false,
+      "note": "Regionalteil Rhein-Berg, Feed-URL muss verifiziert werden"
+    },
+    {
+      "name": "Kölner Stadt-Anzeiger Rhein-Berg",
+      "url": "https://www.ksta.de/region/rhein-berg/?feed=rss",
+      "type": "tageszeitung",
+      "coverage": "kreisweite-nachrichten",
+      "verified": false
+    },
+    {
+      "name": "Kölnische Rundschau Rhein-Berg",
+      "url": "https://www.rundschau-online.de/region/rhein-berg/?feed=rss",
+      "type": "tageszeitung",
+      "coverage": "kreisweite-nachrichten",
+      "verified": false
+    },
+    {
+      "name": "Radio Berg Nachrichten",
+      "url": "https://www.radioberg.de/rss/nachrichten.xml",
+      "type": "radio",
+      "coverage": "kreisweite-nachrichten",
+      "verified": false,
+      "alternatives": [
+        "https://www.radioberg.de/feed",
+        "https://www.radioberg.de/nachrichten/feed"
+      ]
+    },
+    {
+      "name": "RheinBergNews.de",
+      "url": "https://www.rheinbergnews.de/feed/",
+      "type": "lokalnachrichten",
+      "coverage": "kreisweite-nachrichten",
+      "verified": false
+    },
+    {
+      "name": "Rheinisch-Bergischer Kreis Pressestelle",
+      "url": "https://www.rbk-direkt.de/rss/pressemitteilungen.xml",
+      "type": "verwaltung",
+      "coverage": "kreisweite-nachrichten",
+      "verified": false,
+      "alternatives": [
+        "https://www.rbk-direkt.de/output/feed.php"
+      ]
+    },
+    {
+      "name": "Presseportal Feuerwehr Bergisch Gladbach",
+      "url": "https://www.presseportal.de/rss/dienststelle_110968.rss2",
+      "type": "feuerwehr",
+      "coverage": "bergisch-gladbach",
+      "verified": false
+    },
+    {
+      "name": "Stadt Bergisch Gladbach",
+      "url": "https://www.bergischgladbach.de/rss-feed.aspx",
+      "type": "verwaltung",
+      "coverage": "bergisch-gladbach",
+      "verified": false
+    },
+    {
+      "name": "iGL Bürgerportal Bergisch Gladbach",
+      "url": "https://in-gl.de/feed/",
+      "type": "buergerportal",
+      "coverage": "bergisch-gladbach",
+      "verified": false
+    }
+  ],
+  "update_interval_minutes": 15,
+  "last_updated": null
+}

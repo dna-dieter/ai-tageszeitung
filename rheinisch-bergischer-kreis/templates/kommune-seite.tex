@@ -1,0 +1,121 @@
+% =============================================================================
+% AI Tageszeitung — Kommune-Startseite
+% Zeigt alle aktuellen Nachrichten EINER Gemeinde
+% Variable: \kommunename, \kommunefarbe
+% =============================================================================
+\documentclass[11pt, a4paper]{scrartcl}
+
+\usepackage{fontspec}
+\usepackage[ngerman]{babel}
+\usepackage[top=12mm, bottom=15mm, left=10mm, right=10mm]{geometry}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usepackage{tcolorbox}
+\usepackage{datetime2}
+\usepackage{longtable}
+\usepackage{booktabs}
+
+% --- Farben ---
+\definecolor{rbkblau}{HTML}{1B3A5C}
+\definecolor{rbkrot}{HTML}{C0392B}
+\definecolor{rbkgrau}{HTML}{F5F5F5}
+\definecolor{akzent}{HTML}{2980B9}
+\definecolor{liniengrau}{HTML}{BFBFBF}
+
+% --- Kommune-spezifisch (wird per Script gesetzt) ---
+\newcommand{\kommunename}{%%KOMMUNE_NAME%%}
+\newcommand{\kommuneslug}{%%KOMMUNE_SLUG%%}
+
+% --- Schriften ---
+\setmainfont{TeX Gyre Termes}
+\setsansfont{TeX Gyre Heros}
+\newfontfamily\headlinefont{TeX Gyre Heros Bold}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=rbkblau,
+  urlcolor=akzent,
+}
+
+% --- Artikel-Makro ---
+\newcommand{\artikel}[5]{%
+  % #1=Datum/Zeit, #2=Kategorie, #3=Headline, #4=Teaser, #5=Link
+  \noindent
+  \begin{minipage}{\linewidth}
+    {\footnotesize\sffamily\color{rbkblau}#1\hfill\textit{#2}}\\[2pt]
+    {\large\headlinefont #3}\\[3pt]
+    {\small #4}\\[2pt]
+    {\footnotesize\color{akzent}\href{#5}{Vollständiger Artikel \textrightarrow}}
+  \end{minipage}
+  \\[1mm]
+  \rule{\linewidth}{0.2pt}\\[3mm]
+}
+
+% --- Dokument ---
+\begin{document}
+\pagestyle{empty}
+
+% === KOPFZEILE ===
+\begin{center}
+\begin{tikzpicture}
+  \fill[rbkblau] (0,0) rectangle (\textwidth, 1.5cm);
+  \node[anchor=west, white] at (0.3, 0.75) {%
+    {\fontsize{22}{26}\selectfont\headlinefont \kommunename}};
+  \node[anchor=east, white] at (\textwidth-0.3, 1.0) {%
+    {\small\sffamily AI Tageszeitung}};
+  \node[anchor=east, white] at (\textwidth-0.3, 0.4) {%
+    {\footnotesize\sffamily Stand: \DTMnow}};
+\end{tikzpicture}
+\end{center}
+
+\vspace{2mm}
+
+% === NAVIGATION ===
+{\small\sffamily
+\href{../index.html}{\textbf{Startseite}}~|~
+\href{../bergisch-gladbach/index.html}{GL}~|~
+\href{../burscheid/index.html}{BUR}~|~
+\href{../kuerten/index.html}{KÜR}~|~
+\href{../leichlingen/index.html}{LEI}~|~
+\href{../odenthal/index.html}{ODE}~|~
+\href{../overath/index.html}{OVE}~|~
+\href{../roesrath/index.html}{RÖS}~|~
+\href{../wermelskirchen/index.html}{WER}
+}
+
+\vspace{4mm}
+\rule{\textwidth}{0.8pt}
+\vspace{4mm}
+
+% === ARTIKEL-LISTE ===
+\begin{multicols}{2}
+\raggedcolumns
+
+%%ARTIKEL_PLACEHOLDER%%
+
+% Beispiel:
+\artikel{05.05.2026, 08:30}{Politik}
+  {Ratssitzung beschließt neuen Haushalt}
+  {Mit großer Mehrheit wurde der Haushalt 2026/27 verabschiedet. Schwerpunkte: Schulsanierung und Radwegebau.}
+  {https://example.com/artikel/detail/42}
+
+\artikel{05.05.2026, 07:15}{Blaulicht}
+  {Unfall auf der L286: Zwei Verletzte}
+  {Heute Morgen kollidierten zwei PKW auf der Landstraße zwischen Dürscheid und Bechen.}
+  {https://example.com/artikel/detail/43}
+
+\end{multicols}
+
+% === FUßZEILE ===
+\vfill
+\begin{center}
+{\footnotesize\sffamily\color{rbkblau}
+  AI Tageszeitung~|~Rheinisch-Bergischer Kreis~|~\kommunename\\[1mm]
+  \href{../index.html}{Zurück zur Übersicht}
+}
+\end{center}
+
+\end{document}
