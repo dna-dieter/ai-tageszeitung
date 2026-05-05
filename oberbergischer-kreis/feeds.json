@@ -22,71 +22,60 @@
       "url": "https://www.oberberg-nachrichten.de/feed/",
       "type": "lokalnachrichten",
       "coverage": "kreisweite-nachrichten",
-      "verified": false,
-      "note": "WordPress-Feed, auf echtem System testen"
+      "pages": 20,
+      "verified": true,
+      "note": "WordPress-Feed, 20 Seiten Historie = ca. 200 Artikel"
     },
     {
       "name": "NEWS-on-Tour Oberberg",
       "url": "https://www.news-on-tour.de/category/news-oberberg/feed/",
       "type": "lokalnachrichten",
       "coverage": "kreisweite-nachrichten",
+      "pages": 10,
       "verified": false,
-      "note": "WordPress-Feed, auf echtem System testen"
-    },
-    {
-      "name": "NEWS-on-Tour (Gesamt)",
-      "url": "https://www.news-on-tour.de/feed/",
-      "type": "lokalnachrichten",
-      "coverage": "kreisweite-nachrichten",
-      "verified": false
+      "note": "Server aktuell down, bleibt konfiguriert"
     },
     {
       "name": "RGA Hückeswagen",
       "url": "https://www.rga.de/arc/outboundfeeds/rss/category/lokales/oberbergischer-kreis/hueckeswagen/",
       "type": "tageszeitung",
       "coverage": "hueckeswagen",
-      "verified": true,
-      "note": "Gleiches Schema wie verifizierte RBK-Feeds"
+      "verified": true
     },
     {
       "name": "RGA Radevormwald",
       "url": "https://www.rga.de/arc/outboundfeeds/rss/category/lokales/oberbergischer-kreis/radevormwald/",
       "type": "tageszeitung",
       "coverage": "radevormwald",
-      "verified": true,
-      "note": "Gleiches Schema wie verifizierte RBK-Feeds"
+      "verified": true
     },
     {
       "name": "RGA Wipperfürth",
       "url": "https://www.rga.de/arc/outboundfeeds/rss/category/lokales/oberbergischer-kreis/wipperfuerth/",
       "type": "tageszeitung",
       "coverage": "wipperfuerth",
-      "verified": false,
-      "note": "URL-Schema plausibel, auf echtem System testen"
+      "verified": false
     },
     {
       "name": "Presseportal Polizei OBK",
       "url": "https://www.presseportal.de/rss/dienststelle_65843.rss2",
       "type": "polizei",
       "coverage": "kreisweite-nachrichten",
-      "verified": true,
-      "note": "Dienststelle 65843, 297 Meldungen 2026"
+      "verified": true
     },
     {
       "name": "Oberbergischer Kreis Pressestelle",
       "url": "https://www.obk.de/rss/pressemitteilungen.xml",
       "type": "verwaltung",
       "coverage": "kreisweite-nachrichten",
-      "verified": false,
-      "note": "URL auf echtem System testen"
+      "verified": false
     },
     {
       "name": "Kölner Stadt-Anzeiger Oberberg",
       "url": "https://www.ksta.de/region/oberberg/?feed=rss",
       "type": "tageszeitung",
       "coverage": "kreisweite-nachrichten",
-      "verified": false,
-      "note": "Paywall möglich"
+      "verified": false
     },
     {
       "name": "Kölnische Rundschau Oberberg",

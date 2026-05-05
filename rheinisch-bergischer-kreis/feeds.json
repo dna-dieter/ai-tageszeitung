@@ -16,6 +16,7 @@
       "url": "https://in-gl.de/feed/",
       "type": "buergerportal",
       "coverage": "kreisweite-nachrichten",
+      "pages": 15,
       "verified": true
     },
     {
@@ -23,6 +24,7 @@
       "url": "https://www.glaktuell.net/feed/",
       "type": "lokalnachrichten",
       "coverage": "kreisweite-nachrichten",
+      "pages": 10,
       "verified": true
     },
     {

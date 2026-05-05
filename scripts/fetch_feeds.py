@@ -74,24 +74,38 @@ def fetch_kreis(kreis_slug: str, kreis_cfg: dict):
         url = feed_cfg["url"]
         name = feed_cfg["name"]
         coverage = feed_cfg.get("coverage", "kreisweite-nachrichten")
-        print(f"  Fetching: {name}")
+        max_pages = feed_cfg.get("pages", 1)  # WordPress-Feeds: ?paged=N
+        print(f"  Fetching: {name} ({max_pages} Seiten)")
 
-        try:
-            req = urllib.request.Request(url, headers={
-                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 AI-Tageszeitung/1.0",
-                "Accept": "application/rss+xml, application/xml, text/xml, */*",
-            })
-            response = urllib.request.urlopen(req, timeout=20, context=ctx)
-            raw = response.read()
-            d = feedparser.parse(raw)
-            print(f"    -> {len(d.entries)} Einträge")
-            if len(d.entries) == 0 and d.bozo:
-                print(f"    WARNUNG: {d.bozo_exception}")
-        except Exception as e:
-            print(f"    FEHLER: {e}")
+        all_entries = []
+        for page_num in range(1, max_pages + 1):
+            page_url = url if page_num == 1 else f"{url}?paged={page_num}"
+            try:
+                req = urllib.request.Request(page_url, headers={
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 AI-Tageszeitung/1.0",
+                    "Accept": "application/rss+xml, application/xml, text/xml, */*",
+                })
+                response = urllib.request.urlopen(req, timeout=20, context=ctx)
+                raw = response.read()
+                d = feedparser.parse(raw)
+                if len(d.entries) == 0:
+                    if d.bozo and page_num == 1:
+                        print(f"    WARNUNG: {d.bozo_exception}")
+                    break  # Keine weiteren Seiten
+                all_entries.extend(d.entries)
+                if page_num == 1:
+                    print(f"    -> {len(d.entries)} Einträge (Seite 1)")
+            except Exception as e:
+                if page_num == 1:
+                    print(f"    FEHLER: {e}")
+                break  # Bei Fehler auf höheren Seiten abbrechen
+
+        if max_pages > 1 and len(all_entries) > 0:
+            print(f"    -> {len(all_entries)} Einträge gesamt ({max_pages} Seiten)")
+        elif max_pages == 1 and len(all_entries) == 0:
             continue
 
-        for entry in d.entries:
+        for entry in all_entries:
             aid = article_id(entry)
             if aid in all_articles:
                 existing = all_articles[aid]
