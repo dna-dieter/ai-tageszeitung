@@ -169,7 +169,7 @@ def build_index():
     <div class="sub">Rheinisch-Bergischer Kreis</div>
   </div>
   <div class="meta">
-    <div><span class="live-dot"></span>Kontinuierlich aktualisiert</div>
+    <div><span class="live-dot"></span>Stündlich aktualisiert</div>
     <div>{TIMESTAMP}</div>
   </div>
 </header>

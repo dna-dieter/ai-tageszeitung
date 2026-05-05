@@ -27,7 +27,8 @@
     },
     {
       "name": "GL Aktuell Bergisch Gladbach",
-      "url": "https://www.glaktuell.net/category/lokal/bergisch-gladbach/feed/",
+      "url": "https://www.glaktuell.net/category/lokal/feed/",
+      "note": "Gesamt-Lokal-Feed, deckt GL + Umgebung ab",
       "type": "lokalnachrichten",
       "coverage": "bergisch-gladbach",
       "verified": true
@@ -137,5 +138,5 @@
     }
   ],
   "update_interval_minutes": 15,
-  "last_updated": "2026-05-05T22:40:09.230301"
+  "last_updated": "2026-05-05T22:49:22.156425"
 }

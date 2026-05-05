@@ -71,9 +71,22 @@ def article_id(entry) -> str:
     raw = entry.get("link", "") + entry.get("title", "")
     return hashlib.md5(raw.encode()).hexdigest()[:12]
 
+def load_existing():
+    """Lädt alle bisherigen Artikel aus all_articles.json."""
+    f = BASE / "all_articles.json"
+    if f.exists():
+        try:
+            data = json.loads(f.read_text())
+            return {a["id"]: a for a in data}
+        except Exception:
+            pass
+    return {}
+
 def fetch_all():
     config = json.loads(FEEDS_JSON.read_text())
-    all_articles = {}  # id -> article dict
+    # Bestehende Artikel laden — alte bleiben erhalten
+    all_articles = load_existing()
+    new_count = 0
 
     # SSL-Kontext ohne strenge Verifikation (manche lokale Seiten haben Probleme)
     ctx = ssl.create_default_context()
@@ -130,6 +143,7 @@ def fetch_all():
                 "kommunen": kommunen,
                 "fetched": datetime.now().isoformat(),
             }
+            new_count += 1
 
     # Speichere je Kommune
     for slug in ALL_SLUGS:
@@ -151,7 +165,7 @@ def fetch_all():
     config["last_updated"] = datetime.now().isoformat()
     FEEDS_JSON.write_text(json.dumps(config, ensure_ascii=False, indent=2))
 
-    print(f"\nGesamt: {len(all_list)} Artikel")
+    print(f"\nGesamt: {len(all_list)} Artikel ({new_count} neu)")
 
 if __name__ == "__main__":
     fetch_all()

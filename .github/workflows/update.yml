@@ -1,0 +1,43 @@
+name: Stündliche Aktualisierung
+
+on:
+  schedule:
+    # Jede Stunde um :05
+    - cron: '5 * * * *'
+  workflow_dispatch: # Manueller Trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Dependencies installieren
+        run: pip install feedparser
+
+      - name: RSS-Feeds laden (alte Artikel bleiben)
+        run: python scripts/fetch_feeds.py
+
+      - name: HTML-Seiten generieren
+        run: python scripts/build_html.py
+
+      - name: Änderungen committen und pushen
+        run: |
+          git config user.name "AI Tageszeitung Bot"
+          git config user.email "actions@github.com"
+          git add -A
+          # Nur committen wenn es Änderungen gibt
+          if git diff --cached --quiet; then
+            echo "Keine neuen Artikel."
+          else
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+            git commit -m "Auto-Update: ${TIMESTAMP}"
+            git push
+          fi
