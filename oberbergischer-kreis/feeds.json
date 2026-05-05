@@ -54,7 +54,24 @@
       "url": "https://www.rga.de/arc/outboundfeeds/rss/category/lokales/oberbergischer-kreis/wipperfuerth/",
       "type": "tageszeitung",
       "coverage": "wipperfuerth",
-      "verified": false
+      "verified": false,
+      "note": "Liefert aktuell keine Items - RGA Oberberg-Gesamt-Feed als Ersatz"
+    },
+    {
+      "name": "RGA Oberbergischer Kreis (Gesamt)",
+      "url": "https://www.rga.de/arc/outboundfeeds/rss/category/lokales/oberbergischer-kreis/",
+      "type": "tageszeitung",
+      "coverage": "kreisweite-nachrichten",
+      "verified": true,
+      "note": "Enthält auch Wipperfürth, Hückeswagen, Radevormwald"
+    },
+    {
+      "name": "Oberberg Nachrichten Wipperfürth",
+      "url": "https://www.oberberg-nachrichten.de/wipperfuerth/feed/",
+      "type": "lokalnachrichten",
+      "coverage": "wipperfuerth",
+      "pages": 10,
+      "verified": true
     },
     {
       "name": "Presseportal Polizei OBK",

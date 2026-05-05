@@ -222,6 +222,9 @@ def build_kreis_index(kreis_slug, kreis_cfg):
         f'<li><a href="{s}/index.html">{n} <span class="badge">{count_articles(data_dir, s)}</span></a></li>'
         for s, n in kommunen.items()
     )
+    # Kreisweite Nachrichten als eigene Kategorie
+    kreis_count = count_articles(data_dir, "kreisweite-nachrichten")
+    sidebar_items += f'<li style="border-top:1px solid #eee; padding-top:6px; margin-top:6px;"><a href="kreisweite/index.html"><b>Kreisweite Nachrichten</b> <span class="badge">{kreis_count}</span></a></li>'
 
     # Quellen aus feeds.json laden
     feeds_file = data_dir / "feeds.json"
@@ -300,6 +303,8 @@ def build_kommune_page(kreis_slug, kreis_cfg, kommune_slug, kommune_name):
         f'<li><a href="../{s}/index.html">{n} <span class="badge">{count_articles(data_dir, s)}</span></a></li>'
         for s, n in kommunen.items()
     )
+    kreis_count = count_articles(data_dir, "kreisweite-nachrichten")
+    sidebar_items += f'<li style="border-top:1px solid #eee; padding-top:6px; margin-top:6px;"><a href="../kreisweite/index.html"><b>Kreisweite Nachrichten</b> <span class="badge">{kreis_count}</span></a></li>'
 
     kreisweite_links = "".join(
         f'<div style="font-size:0.85rem; margin:4px 0;"><a href="{htmlmod.escape(a.get("link","#"))}" target="_blank" style="color:var(--text); text-decoration:none;">{htmlmod.escape(a["title"][:55])}</a></div>'
@@ -341,10 +346,61 @@ def build_kommune_page(kreis_slug, kreis_cfg, kommune_slug, kommune_name):
     (kommune_dir / "index.html").write_text(page)
     print(f"  {kommune_dir.relative_to(DOCS)}/index.html: {len(articles)} Artikel")
 
+def build_kreisweite_page(kreis_slug, kreis_cfg):
+    data_dir = BASE / kreis_slug
+    kommunen = kreis_cfg["kommunen"]
+    docs_slug = kreis_cfg["docs_slug"]
+    docs_dir = DOCS / docs_slug if docs_slug else DOCS
+    kreisweite_dir = docs_dir / "kreisweite"
+    kreisweite_dir.mkdir(parents=True, exist_ok=True)
+
+    articles = load_articles(data_dir, "kreisweite-nachrichten")
+
+    nav_links = [f'<a href="../index.html">Alle</a>']
+    for s, n in kommunen.items():
+        nav_links.append(f'<a href="../{s}/index.html">{n}</a>')
+
+    sidebar_items = "".join(
+        f'<li><a href="../{s}/index.html">{n} <span class="badge">{count_articles(data_dir, s)}</span></a></li>'
+        for s, n in kommunen.items()
+    )
+
+    page = f"""<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kreisweite Nachrichten — AI Tageszeitung</title>
+<style>{CSS}</style>
+</head>
+<body>
+{header_html("Kreisweite Nachrichten", f"AI Tageszeitung · {kreis_cfg['name']}", len(articles))}
+<nav>{"".join(nav_links)}</nav>
+<main>
+<div class="grid">
+  <div>{grouped_cards(articles, kommune_map=kommunen, show_kommune=True)}</div>
+  <div>
+    <div class="sidebar-box">
+      <h3>Alle Kommunen</h3>
+      <ul class="k-links">{sidebar_items}</ul>
+    </div>
+  </div>
+</div>
+</main>
+<footer>
+  <a href="../index.html">Startseite</a> · Kreisweite Nachrichten · Aktualisiert: {TIMESTAMP}<br>
+  <a href="{GITHUB_ACTIONS}">GitHub</a>
+</footer>
+</body></html>"""
+
+    (kreisweite_dir / "index.html").write_text(page)
+    print(f"  {kreisweite_dir.relative_to(DOCS)}/index.html: {len(articles)} Artikel")
+
 if __name__ == "__main__":
     for kreis_slug, kreis_cfg in KREISE.items():
         print(f"\n=== {kreis_cfg['name']} ===")
         build_kreis_index(kreis_slug, kreis_cfg)
         for ks, kn in kreis_cfg["kommunen"].items():
             build_kommune_page(kreis_slug, kreis_cfg, ks, kn)
+        build_kreisweite_page(kreis_slug, kreis_cfg)
     print("\nFertig!")
