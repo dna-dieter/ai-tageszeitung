@@ -71,6 +71,8 @@ footer a { color: #85C1E9; }
 .monat-header { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.05rem; color: var(--rbk-blau); border-bottom: 2px solid var(--rbk-blau); padding: 8px 0 5px 0; margin: 18px 0 10px 0; display: flex; align-items: center; gap: 8px; }
 .monat-header:first-child { margin-top: 0; }
 .monat-count { background: var(--rbk-blau); color: white; font-size: 0.72rem; padding: 1px 8px; border-radius: 10px; font-weight: 400; }
+.btn-refresh { display: inline-flex; align-items: center; gap: 5px; font-family: sans-serif; font-size: 0.78rem; padding: 5px 14px; background: #2ECC71; color: white; border: none; border-radius: 4px; text-decoration: none; cursor: pointer; transition: background 0.2s; }
+.btn-refresh:hover { background: #27AE60; color: white; }
 @media (max-width: 768px) { .grid { grid-template-columns: 1fr; } header h1 { font-size: 1.3rem; } }
 """
 
@@ -171,6 +173,7 @@ def build_index():
   <div class="meta">
     <div><span class="live-dot"></span>Stündlich aktualisiert</div>
     <div>{TIMESTAMP}</div>
+    <a href="https://github.com/dna-dieter/ai-tageszeitung/actions/workflows/update.yml" target="_blank" rel="noopener" class="btn-refresh">&#x21bb; Jetzt aktualisieren</a>
   </div>
 </header>
 <div class="ticker"><b>AKTUELL:</b> {ticker_items}</div>
@@ -295,6 +298,7 @@ def build_kommune(slug, name):
   <div class="meta">
     <div><span class="live-dot"></span>{len(articles)} Artikel</div>
     <div>{TIMESTAMP}</div>
+    <a href="https://github.com/dna-dieter/ai-tageszeitung/actions/workflows/update.yml" target="_blank" rel="noopener" class="btn-refresh">&#x21bb; Jetzt aktualisieren</a>
   </div>
 </header>
 <nav>{"".join(nav_links)}</nav>
