@@ -12,33 +12,120 @@
   ],
   "feeds": [
     {
-      "name": "Presseportal Polizei RBK",
-      "url": "https://www.presseportal.de/rss/dienststelle_62459.rss2",
-      "type": "polizei",
+      "name": "iGL Bürgerportal Bergisch Gladbach",
+      "url": "https://in-gl.de/feed/",
+      "type": "buergerportal",
       "coverage": "kreisweite-nachrichten",
       "verified": true
     },
     {
-      "name": "Kölner Stadt-Anzeiger",
-      "url": "https://www.ksta.de/feed/index.rss",
-      "type": "tageszeitung",
+      "name": "GL Aktuell (Gesamt)",
+      "url": "https://www.glaktuell.net/feed/",
+      "type": "lokalnachrichten",
       "coverage": "kreisweite-nachrichten",
-      "verified": false,
-      "note": "Regionalteil Rhein-Berg, Feed-URL muss verifiziert werden"
+      "verified": true
+    },
+    {
+      "name": "GL Aktuell Bergisch Gladbach",
+      "url": "https://www.glaktuell.net/category/lokal/bergisch-gladbach/feed/",
+      "type": "lokalnachrichten",
+      "coverage": "bergisch-gladbach",
+      "verified": true
+    },
+    {
+      "name": "GL Aktuell Burscheid",
+      "url": "https://www.glaktuell.net/category/lokal/burscheid/feed/",
+      "type": "lokalnachrichten",
+      "coverage": "burscheid",
+      "verified": true
+    },
+    {
+      "name": "GL Aktuell Kürten",
+      "url": "https://www.glaktuell.net/category/lokal/kuerten/feed/",
+      "type": "lokalnachrichten",
+      "coverage": "kuerten",
+      "verified": true
+    },
+    {
+      "name": "GL Aktuell Leichlingen",
+      "url": "https://www.glaktuell.net/category/lokal/leichlingen/feed/",
+      "type": "lokalnachrichten",
+      "coverage": "leichlingen",
+      "verified": true
+    },
+    {
+      "name": "GL Aktuell Odenthal",
+      "url": "https://www.glaktuell.net/category/lokal/odenthal/feed/",
+      "type": "lokalnachrichten",
+      "coverage": "odenthal",
+      "verified": true
+    },
+    {
+      "name": "GL Aktuell Overath",
+      "url": "https://www.glaktuell.net/category/lokal/overath/feed/",
+      "type": "lokalnachrichten",
+      "coverage": "overath",
+      "verified": true
+    },
+    {
+      "name": "GL Aktuell Rösrath",
+      "url": "https://www.glaktuell.net/category/lokal/roesrath/feed/",
+      "type": "lokalnachrichten",
+      "coverage": "roesrath",
+      "verified": true
+    },
+    {
+      "name": "GL Aktuell Wermelskirchen",
+      "url": "https://www.glaktuell.net/category/lokal/wermelskirchen/feed/",
+      "type": "lokalnachrichten",
+      "coverage": "wermelskirchen",
+      "verified": true
+    },
+    {
+      "name": "RGA Wermelskirchen",
+      "url": "https://www.rga.de/arc/outboundfeeds/rss/category/lokales/rheinisch-bergischer-kreis/wermelskirchen/",
+      "type": "tageszeitung",
+      "coverage": "wermelskirchen",
+      "verified": true
+    },
+    {
+      "name": "RGA Burscheid",
+      "url": "https://www.rga.de/arc/outboundfeeds/rss/category/lokales/rheinisch-bergischer-kreis/burscheid/",
+      "type": "tageszeitung",
+      "coverage": "burscheid",
+      "verified": true
+    },
+    {
+      "name": "Presseportal Polizei RBK",
+      "url": "https://www.presseportal.de/rss/dienststelle_62459.rss2",
+      "type": "polizei",
+      "coverage": "kreisweite-nachrichten",
+      "verified": true,
+      "note": "Funktioniert außerhalb Sandbox"
+    },
+    {
+      "name": "Presseportal Feuerwehr Bergisch Gladbach",
+      "url": "https://www.presseportal.de/rss/dienststelle_116240.rss2",
+      "type": "feuerwehr",
+      "coverage": "bergisch-gladbach",
+      "verified": true,
+      "note": "Dienststelle 116240 (korrigiert), funktioniert außerhalb Sandbox"
     },
     {
       "name": "Kölner Stadt-Anzeiger Rhein-Berg",
       "url": "https://www.ksta.de/region/rhein-berg/?feed=rss",
       "type": "tageszeitung",
       "coverage": "kreisweite-nachrichten",
-      "verified": false
+      "verified": false,
+      "note": "Paywall möglich, Feed-URL auf echtem System testen"
     },
     {
       "name": "Kölnische Rundschau Rhein-Berg",
       "url": "https://www.rundschau-online.de/region/rhein-berg/?feed=rss",
       "type": "tageszeitung",
       "coverage": "kreisweite-nachrichten",
-      "verified": false
+      "verified": false,
+      "note": "Feed-URL auf echtem System testen"
     },
     {
       "name": "Radio Berg Nachrichten",
@@ -46,50 +133,9 @@
       "type": "radio",
       "coverage": "kreisweite-nachrichten",
       "verified": false,
-      "alternatives": [
-        "https://www.radioberg.de/feed",
-        "https://www.radioberg.de/nachrichten/feed"
-      ]
-    },
-    {
-      "name": "RheinBergNews.de",
-      "url": "https://www.rheinbergnews.de/feed/",
-      "type": "lokalnachrichten",
-      "coverage": "kreisweite-nachrichten",
-      "verified": false
-    },
-    {
-      "name": "Rheinisch-Bergischer Kreis Pressestelle",
-      "url": "https://www.rbk-direkt.de/rss/pressemitteilungen.xml",
-      "type": "verwaltung",
-      "coverage": "kreisweite-nachrichten",
-      "verified": false,
-      "alternatives": [
-        "https://www.rbk-direkt.de/output/feed.php"
-      ]
-    },
-    {
-      "name": "Presseportal Feuerwehr Bergisch Gladbach",
-      "url": "https://www.presseportal.de/rss/dienststelle_110968.rss2",
-      "type": "feuerwehr",
-      "coverage": "bergisch-gladbach",
-      "verified": false
-    },
-    {
-      "name": "Stadt Bergisch Gladbach",
-      "url": "https://www.bergischgladbach.de/rss-feed.aspx",
-      "type": "verwaltung",
-      "coverage": "bergisch-gladbach",
-      "verified": false
-    },
-    {
-      "name": "iGL Bürgerportal Bergisch Gladbach",
-      "url": "https://in-gl.de/feed/",
-      "type": "buergerportal",
-      "coverage": "bergisch-gladbach",
-      "verified": false
+      "note": "Feed-URL auf echtem System testen"
     }
   ],
   "update_interval_minutes": 15,
-  "last_updated": null
+  "last_updated": "2026-05-05T22:40:09.230301"
 }

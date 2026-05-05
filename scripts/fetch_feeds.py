@@ -8,12 +8,13 @@ import json
 import hashlib
 import re
 import sys
-from datetime import datetime, timedelta
+from datetime import datetime
 from pathlib import Path
 
 try:
     import feedparser
     import urllib.request
+    import ssl
 except ImportError:
     print("feedparser nicht installiert. Bitte: pip install feedparser")
     sys.exit(1)
@@ -35,16 +36,35 @@ KOMMUNEN_KEYWORDS = {
     "wermelskirchen": ["wermelskirchen", "dhünn", "dabringhausen"],
 }
 
-def classify_article(title: str, summary: str) -> list[str]:
-    """Ordnet einen Artikel einer oder mehreren Kommunen zu."""
+ALL_SLUGS = list(KOMMUNEN_KEYWORDS.keys()) + ["kreisweite-nachrichten"]
+
+def strip_html(text: str) -> str:
+    """Entfernt HTML-Tags aus Text."""
+    clean = re.sub(r'<[^>]+>', '', text)
+    return re.sub(r'\s+', ' ', clean).strip()
+
+def classify_article(title: str, summary: str, feed_coverage: str) -> list[str]:
+    """Ordnet einen Artikel Kommunen zu.
+
+    1. Wenn der Feed eine spezifische Kommune hat (nicht kreisweite-nachrichten),
+       wird diese immer zugewiesen.
+    2. Zusätzlich Keyword-Matching im Text.
+    """
+    matches = set()
+
+    # Feed-Coverage direkt zuweisen (wenn kommune-spezifisch)
+    if feed_coverage and feed_coverage != "kreisweite-nachrichten":
+        matches.add(feed_coverage)
+
+    # Keyword-Matching
     text = (title + " " + summary).lower()
-    matches = []
     for slug, keywords in KOMMUNEN_KEYWORDS.items():
         for kw in keywords:
             if kw in text:
-                matches.append(slug)
+                matches.add(slug)
                 break
-    return matches if matches else ["kreisweite-nachrichten"]
+
+    return list(matches) if matches else ["kreisweite-nachrichten"]
 
 def article_id(entry) -> str:
     """Erzeugt eine stabile ID für Deduplizierung."""
@@ -55,20 +75,27 @@ def fetch_all():
     config = json.loads(FEEDS_JSON.read_text())
     all_articles = {}  # id -> article dict
 
+    # SSL-Kontext ohne strenge Verifikation (manche lokale Seiten haben Probleme)
+    ctx = ssl.create_default_context()
+
     for feed_cfg in config["feeds"]:
         url = feed_cfg["url"]
         name = feed_cfg["name"]
+        coverage = feed_cfg.get("coverage", "kreisweite-nachrichten")
         print(f"Fetching: {name} ({url})")
 
         try:
-            # User-Agent setzen, da viele Feeds Bots ohne UA blockieren
             req = urllib.request.Request(url, headers={
-                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AI-Tageszeitung/1.0"
+                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 AI-Tageszeitung/1.0",
+                "Accept": "application/rss+xml, application/xml, text/xml, */*",
             })
-            response = urllib.request.urlopen(req, timeout=15)
+            response = urllib.request.urlopen(req, timeout=20, context=ctx)
             raw = response.read()
             d = feedparser.parse(raw)
-            print(f"  -> {len(d.entries)} Einträge")
+            count = len(d.entries)
+            print(f"  -> {count} Einträge")
+            if count == 0 and d.bozo:
+                print(f"  WARNUNG: Feed-Parse-Fehler: {d.bozo_exception}")
         except Exception as e:
             print(f"  FEHLER: {e}")
             continue
@@ -76,19 +103,27 @@ def fetch_all():
         for entry in d.entries:
             aid = article_id(entry)
             if aid in all_articles:
+                # Merge: zusätzliche Kommune zuweisen
+                existing = all_articles[aid]
+                new_kommunen = classify_article(
+                    entry.get("title", ""), entry.get("summary", ""), coverage
+                )
+                for k in new_kommunen:
+                    if k not in existing["kommunen"]:
+                        existing["kommunen"].append(k)
                 continue
 
             title = entry.get("title", "Ohne Titel")
-            summary = entry.get("summary", "")
+            summary = strip_html(entry.get("summary", ""))
             link = entry.get("link", "")
             published = entry.get("published", "")
 
-            kommunen = classify_article(title, summary)
+            kommunen = classify_article(title, summary, coverage)
 
             all_articles[aid] = {
                 "id": aid,
                 "title": title,
-                "summary": summary[:500],
+                "summary": summary[:400],
                 "link": link,
                 "published": published,
                 "source": name,
@@ -97,7 +132,7 @@ def fetch_all():
             }
 
     # Speichere je Kommune
-    for slug in list(KOMMUNEN_KEYWORDS.keys()) + ["kreisweite-nachrichten"]:
+    for slug in ALL_SLUGS:
         kommune_articles = [
             a for a in all_articles.values() if slug in a["kommunen"]
         ]
@@ -112,6 +147,10 @@ def fetch_all():
     # Gesamtübersicht
     all_list = sorted(all_articles.values(), key=lambda x: x.get("published", ""), reverse=True)
     (BASE / "all_articles.json").write_text(json.dumps(all_list, ensure_ascii=False, indent=2))
+
+    config["last_updated"] = datetime.now().isoformat()
+    FEEDS_JSON.write_text(json.dumps(config, ensure_ascii=False, indent=2))
+
     print(f"\nGesamt: {len(all_list)} Artikel")
 
 if __name__ == "__main__":
