@@ -13,6 +13,7 @@ from pathlib import Path
 
 try:
     import feedparser
+    import urllib.request
 except ImportError:
     print("feedparser nicht installiert. Bitte: pip install feedparser")
     sys.exit(1)
@@ -60,7 +61,13 @@ def fetch_all():
         print(f"Fetching: {name} ({url})")
 
         try:
-            d = feedparser.parse(url)
+            # User-Agent setzen, da viele Feeds Bots ohne UA blockieren
+            req = urllib.request.Request(url, headers={
+                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AI-Tageszeitung/1.0"
+            })
+            response = urllib.request.urlopen(req, timeout=15)
+            raw = response.read()
+            d = feedparser.parse(raw)
             print(f"  -> {len(d.entries)} Einträge")
         except Exception as e:
             print(f"  FEHLER: {e}")
