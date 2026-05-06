@@ -32,8 +32,8 @@
       "type": "lokalnachrichten",
       "coverage": "kreisweite-nachrichten",
       "pages": 10,
-      "verified": false,
-      "note": "Server aktuell down, bleibt konfiguriert"
+      "verified": true,
+      "note": "Server wieder online (geprüft 2026-05-06)"
     },
     {
       "name": "RGA Hückeswagen",
@@ -55,7 +55,15 @@
       "type": "tageszeitung",
       "coverage": "wipperfuerth",
       "verified": false,
-      "note": "Liefert aktuell keine Items - RGA Oberberg-Gesamt-Feed als Ersatz"
+      "note": "Liefert keine Items (leerer Channel, geprüft 2026-05-06) - kein Fix möglich, RGA-seitig deaktiviert"
+    },
+    {
+      "name": "Stadt Wipperfürth (offiziell)",
+      "url": "https://www.wipperfuerth.de/rss",
+      "type": "verwaltung",
+      "coverage": "wipperfuerth",
+      "verified": true,
+      "note": "Offizieller Pressefeed der Hansestadt Wipperfürth, täglich aktualisiert"
     },
     {
       "name": "RGA Oberbergischer Kreis (Gesamt)",
