@@ -1,5 +1,31 @@
 [
   {
+    "id": "d2bedc136442",
+    "title": "Startschuss für die Kommunale Wärmeplanung in Hückeswagen, Wermelskirchen und Wipperfürth",
+    "summary": "Informationen zur Wärmeplanung finden Sie unter Wirtschaft-Wohnen/Klimaschutz/ Kommunale Wärmeplanung.",
+    "link": "https://wipperfuerth.de/fileadmin/redaktion/Hansestadt_Wipperfuerth/News/Kommunale_Waermeplanung.pdf",
+    "published": "Wed, 30 Apr 2025 11:34:18 +0200",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "hueckeswagen",
+      "wipperfuerth"
+    ],
+    "fetched": "2026-05-06T15:52:46.537785"
+  },
+  {
+    "id": "69b80635a72a",
+    "title": "Amtliche Bekanntmachung",
+    "summary": "Genehmigung der vom Rat der Hansestadt Wipperfürth und vom Rat der Schloss-Stadt Hückeswagen beschlossenen Gründung des gemeinsamen Kommunalunternehmens „Bauhof Wipperfürth/Hückeswagen — Anstalt öffentlichen Rechts\" sowie der Unternehmenssatzung",
+    "link": "https://www.wipperfuerth.de/detailansicht/amtliche-bekanntmachung-24.html",
+    "published": "Wed, 27 Aug 2025 14:31:52 +0200",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "hueckeswagen",
+      "wipperfuerth"
+    ],
+    "fetched": "2026-05-06T15:52:46.537097"
+  },
+  {
     "id": "5c234ef5ffd6",
     "title": "Gummersbach: Bäckerei-Transporter löst Kettenunfall mit fünf Fahrzeugen auf der Hückeswagener Straße aus",
     "summary": "Gummersbach / Verkehrsunfall / Hückeswagener Straße / Oberberg (Von Christian Sasse) Ein Fahrfehler des Fahrers eines Bäckerei-Transporters hat am Mittwochmorgen in Gummersbach-Windhagen (Oberbergischer Kreis/NRW) einen schweren Verkehrsunfall mit fünf beteiligten Fahrzeugen auf der Hückeswagener Straße ausgelöst. Eine 52-Jährige wurde dabei schwer verletzt – die Hückeswagener Straße war bis circa",
@@ -25,6 +51,32 @@
       "hueckeswagen"
     ],
     "fetched": "2026-05-05T21:11:16.625182"
+  },
+  {
+    "id": "f0bee638eed2",
+    "title": "Stellen- und Ausbildungsangebote",
+    "summary": "Für die Bauhof Wupperfürth/Hückeswagen AöR suchen wir eine/n Mitarbeiter/in (m/w/d) Schwerpunkt Straßenbau.",
+    "link": "https://wipperfuerth.de/fileadmin/redaktion/Hansestadt_Wipperfuerth/Personal/Bauhofmitarbeiter-in_Strassenbau.pdf",
+    "published": "Wed, 11 Feb 2026 13:52:15 +0100",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "hueckeswagen",
+      "wipperfuerth"
+    ],
+    "fetched": "2026-05-06T15:52:46.536337"
+  },
+  {
+    "id": "3040328916ba",
+    "title": "Stellen- und Ausbildungsangebote",
+    "summary": "Für die Bauhof Wupperfürth/Hückeswagen AöR suchen wir eine/n Mitarbeiter/in (m/w/d) Schwerpunkt Grünpflege.",
+    "link": "https://wipperfuerth.de/fileadmin/redaktion/Hansestadt_Wipperfuerth/Personal/Bauhofmitarbeiter-in_Gruenpflege.pdf",
+    "published": "Wed, 11 Feb 2026 13:45:00 +0100",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "hueckeswagen",
+      "wipperfuerth"
+    ],
+    "fetched": "2026-05-06T15:52:46.536355"
   },
   {
     "id": "c2dfe4141622",
