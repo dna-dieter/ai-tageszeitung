@@ -50,6 +50,14 @@
       "verified": true
     },
     {
+      "name": "Gemeinde Kürten (offiziell)",
+      "url": "https://www.kuerten.de/feed/?post_type=aktuelle-ereignisse",
+      "type": "verwaltung",
+      "coverage": "kuerten",
+      "verified": true,
+      "note": "WordPress Custom Post Type Feed 'aktuelle-ereignisse', ~30 aktuelle Artikel"
+    },
+    {
       "name": "GL Aktuell Leichlingen",
       "url": "https://www.glaktuell.net/category/lokal/leichlingen/feed/",
       "type": "lokalnachrichten",
