@@ -79,7 +79,12 @@ def fetch_kreis(kreis_slug: str, kreis_cfg: dict):
 
         all_entries = []
         for page_num in range(1, max_pages + 1):
-            page_url = url if page_num == 1 else f"{url}?paged={page_num}"
+            if page_num == 1:
+                page_url = url
+            else:
+                # Wenn URL bereits einen Query-String hat, mit & anhängen, sonst mit ?
+                sep = "&" if "?" in url else "?"
+                page_url = f"{url}{sep}paged={page_num}"
             try:
                 req = urllib.request.Request(page_url, headers={
                     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 AI-Tageszeitung/1.0",

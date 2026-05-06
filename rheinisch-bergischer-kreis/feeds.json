@@ -54,8 +54,9 @@
       "url": "https://www.kuerten.de/feed/?post_type=aktuelle-ereignisse",
       "type": "verwaltung",
       "coverage": "kuerten",
+      "pages": 5,
       "verified": true,
-      "note": "WordPress Custom Post Type Feed 'aktuelle-ereignisse', ~30 aktuelle Artikel"
+      "note": "WordPress Custom Post Type Feed, ~78 Artikel über 3 Seiten"
     },
     {
       "name": "GL Aktuell Leichlingen",
