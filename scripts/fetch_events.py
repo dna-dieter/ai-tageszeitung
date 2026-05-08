@@ -101,56 +101,113 @@ def extract_from_articles(region_slug: str, all_articles_path: Path) -> list:
     print(f"  {region_slug}: {len(events)} Veranstaltungsartikel (von {len(articles)} gesamt)")
     return events
 
-def fetch_koeln() -> list:
-    feeds_file = BASE / "koeln" / "feeds.json"
-    if not feeds_file.exists():
-        print("  köln: keine feeds.json – übersprungen")
-        return []
-    config = json.loads(feeds_file.read_text())
+RAUSGEGANGEN_UA = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+)
+
+def _rg_get(url: str, ctx) -> bytes:
+    req = urllib.request.Request(url, headers={
+        "User-Agent": RAUSGEGANGEN_UA,
+        "Accept": "text/html,application/xhtml+xml,*/*",
+        "Accept-Language": "de-DE,de;q=0.9",
+    })
+    return urllib.request.urlopen(req, timeout=15, context=ctx).read()
+
+def scrape_rausgegangen_koeln(max_events: int = 40) -> list:
+    """Scrapet rausgegangen.de/cologne/eventsbydate/ via JSON-LD."""
     ctx = ssl.create_default_context()
-    cutoff = datetime.now(tz=timezone.utc) - timedelta(days=14)
     events = []
     seen = set()
-    for feed_cfg in config.get("feeds", []):
-        url  = feed_cfg["url"]
-        name = feed_cfg["name"]
-        print(f"  Fetching Köln: {name}")
+
+    # Hauptseite + alle relevanten Kategorien
+    urls_to_try = [
+        "https://rausgegangen.de/cologne/eventsbydate/",
+        "https://rausgegangen.de/cologne/kategorie/konzerte-und-musik/",
+        "https://rausgegangen.de/cologne/kategorie/feste-und-festival/",
+        "https://rausgegangen.de/cologne/kategorie/markt/",
+        "https://rausgegangen.de/cologne/kategorie/ausstellung/",
+        "https://rausgegangen.de/cologne/kategorie/aktiv-und-kreativ/",
+        "https://rausgegangen.de/cologne/kategorie/food-und-drinks/",
+        "https://rausgegangen.de/cologne/kategorie/kinder-und-familien/",
+        "https://rausgegangen.de/cologne/kategorie/shows-und-performances/",
+        "https://rausgegangen.de/cologne/kategorie/party/",
+    ]
+
+    event_urls = []
+    for page_url in urls_to_try:
         try:
-            req = urllib.request.Request(url, headers={
-                "User-Agent": "Mozilla/5.0 AI-Tageszeitung/1.0",
-                "Accept": "application/rss+xml, application/xml, */*",
-            })
-            resp = urllib.request.urlopen(req, timeout=20, context=ctx)
-            d = feedparser.parse(resp.read())
-            for entry in d.entries:
-                link = entry.get("link", "")
-                if link in seen:
-                    continue
-                seen.add(link)
-                title   = entry.get("title", "")
-                summary = re.sub(r'<[^>]+>', '', entry.get("summary", ""))
-                text = (title + " " + summary).lower()
-                if not any(kw in text for kw in EVENT_KEYWORDS):
-                    continue
-                published = entry.get("published", "")
-                dt = parse_date(published)
-                if dt and dt < cutoff:
-                    continue
-                events.append({
-                    "titel":     title,
-                    "datum":     format_datum(dt),
-                    "datum_raw": published,
-                    "ort":       "",
-                    "link":      link,
-                    "quelle":    name,
-                    "teaser":    summary[:200],
-                })
-            print(f"    -> {len(d.entries)} Einträge gelesen")
+            html = _rg_get(page_url, ctx).decode("utf-8", errors="replace")
+            jlds = re.findall(r'<script type="application/ld\+json">(.*?)</script>', html, re.S)
+            for jld_raw in jlds:
+                try:
+                    d = json.loads(jld_raw)
+                    if d.get("@type") == "ItemList":
+                        for item in d.get("itemListElement", []):
+                            u = item.get("url", "")
+                            if u and u not in seen:
+                                seen.add(u)
+                                event_urls.append(u)
+                except Exception:
+                    pass
         except Exception as e:
-            print(f"    FEHLER: {e}")
-    events.sort(key=lambda x: x.get("datum_raw", ""), reverse=True)
-    print(f"  köln: {len(events)} Veranstaltungsartikel")
+            print(f"    Seite {page_url}: {e}")
+
+    print(f"  Köln: {len(event_urls)} Event-URLs gefunden, lade Details...")
+
+    import time
+    for evt_url in event_urls[:max_events]:
+        try:
+            html = _rg_get(evt_url, ctx).decode("utf-8", errors="replace")
+            jlds = re.findall(r'<script type="application/ld\+json">(.*?)</script>', html, re.S)
+            for jld_raw in jlds:
+                try:
+                    d = json.loads(jld_raw)
+                    if d.get("@type") != "Event":
+                        continue
+                    name      = d.get("name", "")
+                    desc      = re.sub(r'<[^>]+>', '', d.get("description", ""))[:220]
+                    start     = d.get("startDate", "")
+                    location  = d.get("location", {})
+                    place     = location.get("name", "")
+                    addr      = location.get("address", {})
+                    ort_parts = [p for p in [place, addr.get("streetAddress",""), addr.get("addressLocality","")] if p]
+                    ort       = ", ".join(ort_parts[:2])  # Name + Straße
+                    offers    = d.get("offers", {})
+                    price_raw = str(offers.get("price", ""))
+                    price     = f"ab {float(price_raw):.0f} €" if price_raw and price_raw != "0" else "kostenlos"
+                    # Datum formatieren
+                    dt = None
+                    if start:
+                        try:
+                            dt = datetime.fromisoformat(start)
+                            if dt.tzinfo is None:
+                                dt = dt.replace(tzinfo=timezone.utc)
+                        except Exception:
+                            pass
+                    events.append({
+                        "titel":     name,
+                        "datum":     format_datum(dt),
+                        "datum_raw": start,
+                        "ort":       ort,
+                        "preis":     price,
+                        "link":      evt_url,
+                        "quelle":    "Rausgegangen Köln",
+                        "teaser":    desc,
+                    })
+                    break
+                except Exception:
+                    pass
+            time.sleep(0.3)  # sanftes Throttling
+        except Exception as e:
+            print(f"    FEHLER {evt_url}: {e}")
+
+    events.sort(key=lambda x: x.get("datum_raw", ""))
+    print(f"  Köln: {len(events)} Veranstaltungen geladen")
     return events
+
+def fetch_koeln() -> list:
+    return scrape_rausgegangen_koeln(max_events=40)
 
 def save(slug: str, events: list):
     path = EVT_DIR / f"{slug}.json"

@@ -1,1 +1,402 @@
-[]
+[
+  {
+    "titel": "PhilharmonieVeedel Baby",
+    "datum": "",
+    "datum_raw": "2026-05-08T11:00+0200",
+    "ort": "Bürgerzentrum Nippes Altenberger Hof, Mauenheimer Straße 92",
+    "preis": "ab 4 €",
+    "link": "https://rausgegangen.de/events/philharmonieveedel-baby-107/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "»Groll Zisch Määäh«MAMI NOVA ProjectEin performatives Babykonzert im VeedelGemeinsam erkunden Klein und Groß die mystische Natur! Sie lädt zu magischen Begegnungen ein: Man kann über knackende Gletscher rutschen, mi"
+  },
+  {
+    "titel": "Indie Game Fest 2026",
+    "datum": "",
+    "datum_raw": "2026-05-08T12:00+0200",
+    "ort": "Wasserturm Hotel Cologne, Kaygasse 2",
+    "preis": "ab 12 €",
+    "link": "https://rausgegangen.de/events/indie-game-fest-2026-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim Indie Game Fest 2026 triffst du auf kreative Köpfe, die abseits des Mainstreams frische Spiele mit viel Herz und überraschenden Ideen präsentieren. Zum Ausprobieren gibt’s spannende Demos und viel Raum für Austausch"
+  },
+  {
+    "titel": "PhilharmonieVeedel Baby",
+    "datum": "",
+    "datum_raw": "2026-05-08T14:00+0200",
+    "ort": "Bürgerzentrum Nippes Altenberger Hof, Mauenheimer Straße 92",
+    "preis": "ab 4 €",
+    "link": "https://rausgegangen.de/events/philharmonieveedel-baby-108/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "»Groll Zisch Määäh«MAMI NOVA ProjectEin performatives Babykonzert im VeedelGemeinsam erkunden Klein und Groß die mystische Natur! Sie lädt zu magischen Begegnungen ein: Man kann über knackende Gletscher rutschen, mi"
+  },
+  {
+    "titel": "Frühlingsgefühle & Streetfood: Feierabendmarkt Sülz",
+    "datum": "",
+    "datum_raw": "2026-05-08T16:00+0200",
+    "ort": "Sülz - Hermeskeiler Platz, Hermeskeiler Platz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/feierabendmarkt-auf-dem-hermeskeiler-platz-13/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der Frühling ist in Sülz angekommen – und der Hermeskeiler Platz blüht auf. Beim Feierabendmarkt trifft sich das Veedel zum entspannten Wochenendauftakt: mit Streetfood aus den Food-Trucks, einem Glas Wein oder eiskaltem"
+  },
+  {
+    "titel": "LATEINAMERIKANISCHES WOCHENENDE - KÖLN",
+    "datum": "",
+    "datum_raw": "2026-05-08T17:00+0200",
+    "ort": "Südbrücke, Alfred-Schütte-Allee 34",
+    "preis": "ab 6 €",
+    "link": "https://rausgegangen.de/events/lateinamerikanisches-wochenende-koln-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Drei Tage voller lateinamerikanischer Lebensfreude erwarten dich mit Samba, Folklore und leckerem Streetfood. Handgemachte Kunst und ein vielfältiges Programm für Groß und Klein machen das Wochenende bunt und echt lebend"
+  },
+  {
+    "titel": "Odonische Freitagsbühne",
+    "datum": "",
+    "datum_raw": "2026-05-08T18:00+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/odonische-freitagsbuhne-65/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge entdecken Spaß macht "
+  },
+  {
+    "titel": "POP UP EVENT ERNST SPIRITS N°2",
+    "datum": "",
+    "datum_raw": "2026-05-08T18:00+0200",
+    "ort": "ERNST Kaffeebar Sülz, Weyertal 32",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/pop-up-event-ernst-spirits-n2-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Round two. Same energy — new creations.  ERNST SPIRITS is back 🍸 Oliver & Louis went all in again and crafted a fresh selection of drinks for the night.  Expect bold flavors, good people and vinyl-only vibes — with Colog"
+  },
+  {
+    "titel": "I'M STILL STANDING | DIE Ü45 PARTY IN DER LIVE MUSIC HALL",
+    "datum": "",
+    "datum_raw": "2026-05-08T18:00+0200",
+    "ort": "Live Music Hall, Lichtstraße 30",
+    "preis": "ab 22 €",
+    "link": "https://rausgegangen.de/events/disco-legenden-lets-dance-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Hier findest du die größten Hits der 70er, 80er und 90er zum Singen und Tanzen. Zwei Stunden ABBA Karaoke und Dance Classics vom Trash-Island DJ Team sorgen für entspannten Spaß im ü45 Kreis 🤩"
+  },
+  {
+    "titel": "Smoking Snakes, Suicide Bombers & Crazy69",
+    "datum": "",
+    "datum_raw": "2026-05-08T18:00+0200",
+    "ort": "MTC Live Music Club, Zülpicher Straße 10",
+    "preis": "ab 31 €",
+    "link": "https://rausgegangen.de/events/smoking-snakes-suicide-bombers-crazy69-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "SMOKING SNAKES:Die SMOKING SNAKES sind eine Sleaze-Metal-Band aus Göteborg, die in der Rockszene mittlerweile für großes Aufsehen sorgt. Gegründet 2022, repräsentieren sie die nächste Generation des knallharten, git"
+  },
+  {
+    "titel": "SMOKING SNAKES, SUiCiDE BOMBERS & CRAZY69 - Lock Up Your Daughters-Tour",
+    "datum": "",
+    "datum_raw": "2026-05-08T18:00+0200",
+    "ort": "MTC Live Music Club, Zülpicher Straße 10",
+    "preis": "ab 31 €",
+    "link": "https://rausgegangen.de/events/smoking-snakes-suicide-bombers-crazy69-lock-up-your-daughter-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "SMOKING SNAKES:Die SMOKING SNAKES sind eine Sleaze-Metal-Band aus Göteborg, die in der Rockszene mittlerweile für großes Aufsehen sorgt. Gegründet 2022, repräsentieren sie die nächste Generation des knallharten, git"
+  },
+  {
+    "titel": "Open Mic Headliner Night@Goldfinger",
+    "datum": "",
+    "datum_raw": "2026-05-08T19:00+0200",
+    "ort": "Goldfinger, Friesenstraße 54",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/open-mic-headliner-nightgoldfinger-19/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Hier zeigen sechs Comedians und ihr Host, wie unterschiedlich Humor sein kann – von schrägen Pointen bis zu überraschenden Geschichten. Neue Gags treffen auf erprobte Acts, entstammen den Szenen ganz Deutschlands. Eine a"
+  },
+  {
+    "titel": "Calexico",
+    "datum": "",
+    "datum_raw": "2026-05-08T19:00+0200",
+    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
+    "preis": "ab 48 €",
+    "link": "https://rausgegangen.de/events/calexico-19/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Seit fast drei Jahrzehnten steht der Name Calexico für unverwechselbaren Indiemusik, der mühelos die musikalischen Grenzgebiete zwischen Americana, Rock und mitreißenden Latin-Sounds überschreitet. Gegründet von Joey"
+  },
+  {
+    "titel": "CARLO KARACHO",
+    "datum": "",
+    "datum_raw": "2026-05-08T19:00+0200",
+    "ort": "Bumann & Sohn, Bartholomäus-Schink-Straße 2",
+    "preis": "ab 20 €",
+    "link": "https://rausgegangen.de/events/carlo-karacho-11/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "popanz CARLO KARACHO w/ ULLA SUSPEKT Freitag, 8. Mai 2026 Einlass 19:00, Beginn 20:00  Carlo Karacho bewegt sich mit seiner Musik gekonnt zwischen Synthpop, Post-Punk und der Neuen Deutschen Welle der 80er Jahre, gespick"
+  },
+  {
+    "titel": "HARDLINE",
+    "datum": "",
+    "datum_raw": "2026-05-08T19:00+0200",
+    "ort": "Gebäude 9, Deutz-Mülheimer Straße 117",
+    "preis": "ab 34 €",
+    "link": "https://rausgegangen.de/events/hardline-5/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Hardline is an American rock band that was formed in 1992. Known for their blend of hard rock and melodic metal, they initially gained attention with their debut album Double Eclipse in 1992. The band's original lineup f"
+  },
+  {
+    "titel": "Hidden Stage Sessions X Lesbian Visibility Weeks",
+    "datum": "",
+    "datum_raw": "2026-05-08T19:00+0200",
+    "ort": "Geheimer Ort, Köln",
+    "preis": "ab 15 €",
+    "link": "https://rausgegangen.de/events/hidden-stage-sessions-x-lesbian-visibility-weeks/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Feiere mit uns die Schönheit der Neurodiversität und Queerness und erlebe die Magie der Live-Musik ohne Kompromisse! 💜 Die Cozy Concerts von Hidden Stage Sessions e.V. sind eine besondere Konzertreihe, die Musiker:inne"
+  },
+  {
+    "titel": "Kokopelli Quartett",
+    "datum": "",
+    "datum_raw": "2026-05-08T19:00+0200",
+    "ort": "Friedenskirche Ehrenfeld, Rothehausstraße 54a",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/kokopelli-quartett-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Vielseitig, wie das Saxophon ist auch das 1995 gegründete Quartett, das mit immer neuen Konzertprogrammen seine Wandlungsfähigkeit unter Beweis stellt. Energiegeladen und mit souveräner Technik reißt das erfolgreiche "
+  },
+  {
+    "titel": "Lock Up Your Daughters Tour",
+    "datum": "",
+    "datum_raw": "2026-05-08T19:00+0200",
+    "ort": "MTC Cologne, Zülpicher Straße 10",
+    "preis": "ab 31 €",
+    "link": "https://rausgegangen.de/events/lock-up-your-daughters-tour-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "SMOKING SNAKESDie SMOKING SNAKES, eine Sleaze-Metal-Band aus Göteborg, sorgt mittlerweile für großes Aufsehen in der Rockszene. Sie wurden 2022 gegründet und stehen für die nächste Generation des knallharten, gitarr"
+  },
+  {
+    "titel": "Psychedelic Light & Sound",
+    "datum": "",
+    "datum_raw": "2026-05-08T19:00+0200",
+    "ort": "Klangkino, Hansaring 61",
+    "preis": "ab 55 €",
+    "link": "https://rausgegangen.de/events/psychedelic-light-sound-6/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Psychedelic Light & Sound Journey verbindet eines der ältesten Instrumente der Erde mit den neusten Erkenntnissen und Technologien aus der Forschung.  Mit dem Einsatz des Gongs in Kombination mit der Roxiva-Lichttec"
+  },
+  {
+    "titel": "SHKOON / TRACES / KÖLN / CLUB BAHNHOF EHRENFELD",
+    "datum": "",
+    "datum_raw": "2026-05-08T19:30+0200",
+    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/shkoon-traces-koln-club-bahnhof-ehrenfeld-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Shkoon erzählt mit ihrem deutsch-syrischen Sound Geschichten von Flucht, Erinnerung und Hoffnung. Ihr neues Album TRACES verbindet arabische Folklore mit moderner Elektronik und lädt dich ein, die Spuren zu fühlen, die u"
+  },
+  {
+    "titel": "Wohnzimmerkonzerte von 2acts_cologne",
+    "datum": "",
+    "datum_raw": "2026-05-08T19:30+0200",
+    "ort": "Liebig 257 - Klug e.V., Liebigstraße 257",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/wohnzimmerkonzert-im-liebig257-13/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jeden zweiten Freitag wird ein Wohnzimmer in Köln-Nippes zur Bühne, auf der Musiker*innen ihre Songs ganz nah und authentisch teilen. Die vielseitigen Acts bringen unterschiedlichste Stile und Sprachen zusammen, was für "
+  },
+  {
+    "titel": "FROM BEZAU WITH LOVE: Boomslang Records live",
+    "datum": "",
+    "datum_raw": "2026-05-08T20:00+0200",
+    "ort": "Stadtgarten Köln, Venloer Straße 40",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/from-bezau-with-love-boomslang-records-live-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Von Bezau ins Herz von Köln schicken Boomslang Records Musiker:innen, die zwischen freier Impro und avantgardistischem Jazz Räume voller Klang entstehen lassen. Du kannst dich auf neue Alben, unverwechselbare Sounds und "
+  },
+  {
+    "titel": "Queerfeministische Stand Up Comedy Show: MILF Special zum Muttertag!",
+    "datum": "",
+    "datum_raw": "2026-05-08T20:00+0200",
+    "ort": "die wohngemeinschaft, Richard-Wagner-Straße 39",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/queerfeministische-stand-up-comedy-show-milf-special-zum-mut-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Vier Comedian-Persönlichkeiten mit Kindern zeigen dir in dieser queeren Comedy-Show, wie feministische Perspektiven die Mutterrolle neu denken. Humorvoll knacken sie gesellschaftliche Strukturen und schaffen einen Raum f"
+  },
+  {
+    "titel": "Gina & Martin ■ DAS DING IST man kann auch anders über Rassismus sprechen – Tour 2026",
+    "datum": "",
+    "datum_raw": "2026-05-08T20:00+0200",
+    "ort": "COMEDIA Theater, Vondelstraße 4-8",
+    "preis": "ab 35 €",
+    "link": "https://rausgegangen.de/events/gina-martin-das-ding-ist-man-kann-auch-anders-uber-rassismus-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Gina und Martin nehmen dich mit auf ihre gemeinsame Reise durchs Gespräch über Rassismus – witzig, ehrlich und ohne erhobenen Zeigefinger. Sie zeigen, wie man mit Mut und Empathie Missverständnisse überwindet und zuhören"
+  },
+  {
+    "titel": "Calexico",
+    "datum": "",
+    "datum_raw": "2026-05-08T20:00+0200",
+    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
+    "preis": "ab 29 €",
+    "link": "https://rausgegangen.de/events/calexico-15/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Dieses Konzert kann leider nicht stattfinden.Calexico"
+  },
+  {
+    "titel": "Divaivenes 🎶 Quartett: La Diva Caprichosa 🎶  Flamenco, Rumba, Copla, Son, Bolero, Vals Criollo, Tango, Bossa Nova und Mambo",
+    "datum": "",
+    "datum_raw": "2026-05-08T20:00+0200",
+    "ort": "MACHADO, Severinsmühlengasse 1",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/divaivenes-konzert-am-freitag-8-mai-um-2000-uhr-quartett-la--0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "🎶 Konzert am Freitag, 8. Mai um 20:00 Uhr! 🎶💃 „Divaivenes“ – La Diva Caprichosa live im MACHADODas Quartett La Diva Caprichosa kehrt zurück ins Círculo Machado und präsentiert sein neues Programm „Divaivenes“ – ein le"
+  },
+  {
+    "titel": "Filippa Gojo – Stephan Mattner „Nucleus“",
+    "datum": "",
+    "datum_raw": "2026-05-08T20:00+0200",
+    "ort": "Salon De Jazz, Severinskloster 3a",
+    "preis": "ab 15 €",
+    "link": "https://rausgegangen.de/events/filippa-gojo-stephan-mattner-nucleus-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Suche nach der Essenz, dem Kern der Dinge: Diese Aufgabe stellten sich sowohl Sängerin Filippa Gojo, als auch Saxophonist Stephan Mattner schon früh in ihrer jeweiligen musikalischen Entwicklung. So war es nur eine"
+  },
+  {
+    "titel": "Glazyhaze",
+    "datum": "",
+    "datum_raw": "2026-05-08T20:00+0200",
+    "ort": "Garagen, Oskar-Jäger-Straße 179",
+    "preis": "ab 25 €",
+    "link": "https://rausgegangen.de/events/glazyhaze-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der Sound von Glazyhaze aus Venedig ist von Shoegaze, Dream Pop und Alternative Rock beeinflusst, ihre Klangpalette reicht von düster bis hin zu verträumt und ätherisch. Die Band, bestehend aus Irene (Gesang, Gitarre)"
+  },
+  {
+    "titel": "ImKlang Session",
+    "datum": "",
+    "datum_raw": "2026-05-08T20:00+0200",
+    "ort": "Musik- und Kunstschule ImKlang, Waltherstraße 80",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/imklang-session-15/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": " IMKLANG SESSION  Offene Jam Session · jeden Freitag · ab 20:00 Uhr Die IMKLANG Session ist eine wöchentliche, offene Jam Session für Musikerinnen und Musiker aller Erfahrungsstufen – und für alle, die Musik gerne liv"
+  },
+  {
+    "titel": "Lagerfeuer Deluxe mit Morley, Friedemann Weise & Malte von Griesgram",
+    "datum": "",
+    "datum_raw": "2026-05-08T20:00+0200",
+    "ort": "Bogen 2, Gladbacher Wall 5",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/lagerfeuer-deluxe-mit-jan-rottger-morley-friedemann-weise-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das letzte Lagerfeuer Deluxe vor der Sommerpause im King Georg kommen wir mit einem absoluten All Star Programm um die Ecke. Aber seht und hört selbst:Diese unverkennbare Magie, wenn genau die richtigen Köpfe zusammenk"
+  },
+  {
+    "titel": "Linsending - Sofortprogramm! (für später) - Konzert",
+    "datum": "",
+    "datum_raw": "2026-05-08T20:00+0200",
+    "ort": "Theater 509, Dreikönigenstraße 23",
+    "preis": "ab 15 €",
+    "link": "https://rausgegangen.de/events/linsending-sofortprogramm-fur-spater-konzert-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Linsending - Sofortprogramm! (für später) KonzertLinsending - Sofortprogramm! (für später) Konzert    Pressebild LinsendingEs eilt, und zwar dringend!!! Darum sollten Sie unverzüglich demnächst bei Gelegenheit in d"
+  },
+  {
+    "titel": "MACHINE HEAD",
+    "datum": "",
+    "datum_raw": "2026-05-08T20:00+0200",
+    "ort": "Palladium, Schanzenstraße 36",
+    "preis": "ab 52 €",
+    "link": "https://rausgegangen.de/events/machine-head-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Auch nach mehr als drei Jahrzehnten, die seit der Veröffentlichung ihres legendären Debütalbums „Burn My Eyes“ vergangen sind, gehören die  kalifornischen Metal-Giganten Machine Head zu den vitalsten und erfolgreichs"
+  },
+  {
+    "titel": "Maybebop - Neues Programm",
+    "datum": "",
+    "datum_raw": "2026-05-08T20:00+0200",
+    "ort": "GLORIA Köln, Apostelnstraße 11",
+    "preis": "ab 42 €",
+    "link": "https://rausgegangen.de/events/maybebop-neues-programm-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Einlass: 19:00 Uhr bestuhlt  Fast 25 Jahre MAYBEBOP - ausverkaufte Konzerttourneen von Berlin bis Saarbrücken, von Flensburg bis Passau, über 200 TV-Auftritten , zwei Jahrzehnte begeisterte Konzertbesucher!  ,,Die Mayb"
+  },
+  {
+    "titel": "MAYBEBOP \"Vier Typen. Vier Mikrofone. Sonst nichts.\" (A-cappella)",
+    "datum": "",
+    "datum_raw": "2026-05-08T20:00+0200",
+    "ort": "Gloria Köln, Apostelnstraße 11",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/maybebop-vier-typen-vier-mikrofone-sonst-nichts-a-cappella-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Manche Leute denken immer noch, A-cappella sei eine staubige Domäne für fade Musikdarbietungen ohne Wumms. Die haben ihre Rechnung ohne MAYBEBOP gemacht! Rund 25 Jahre nach ihrer Gründung sind sie unverbrauchter denn "
+  },
+  {
+    "titel": "ŞENGÜL PAK",
+    "datum": "",
+    "datum_raw": "2026-05-08T20:00+0200",
+    "ort": "Lutherkirche Südstadt, Martin-Luther-Platz 2-4",
+    "preis": "ab 25 €",
+    "link": "https://rausgegangen.de/events/sengul-pak-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die aus Dersim stammende Musikerin Şengül Pak begegnet ihrem Publikum mit ihrer kraftvollen Frauenstimme, ihrer tiefen Erinnerungskultur und Musik in der Muttersprache. Die traditionellen Kılams, Klagelieder und Melodi"
+  },
+  {
+    "titel": "\"Shalaschön\" - Sing & Strum auf dem Böötchen",
+    "datum": "",
+    "datum_raw": "2026-05-08T20:00+0200",
+    "ort": "Bootshaus MS Rodenkirchen, Rodenkirchener Leinpfad 1",
+    "preis": "ab 12 €",
+    "link": "https://rausgegangen.de/events/shalaschon-sing-strum-auf-dem-bootchen-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Liebe Sängerinnen und Sänger, Ukulelistas, Gitarreros, Bassisten, Quetschisten und alle anderen, die nach Akkorden spielen können! Bei der nächsten \"Sing & Strum\"-Veranstaltung wird auf dem Böötchen unter dem Motto"
+  },
+  {
+    "titel": "SCiSSORS FLINTA* Party",
+    "datum": "",
+    "datum_raw": "2026-05-08T22:30+0200",
+    "ort": "Klub Domhof, Hohenzollernbrücke 11",
+    "preis": "ab 19 €",
+    "link": "https://rausgegangen.de/events/scissors-flinta-party-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei SCiSSORS am 8. Mai verschmilzt Bouncy Techno mit Pop und Trance zu einer energiegeladenen Nacht für FLINTA* Personen. Hier ist Party mehr als feiern, es ist ein sicherer Ort zum Ausgelassensein, mit Special-Features "
+  },
+  {
+    "titel": "I LOVE POP  * 20 Jahre *",
+    "datum": "",
+    "datum_raw": "2026-05-08T23:00+0200",
+    "ort": "Club Subway, Aachener Straße 82-84",
+    "preis": "ab 10 €",
+    "link": "https://rausgegangen.de/events/i-love-pop-20-jahre/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "I LOVE POP feiert 20 Jahre voller Indie- und Britpopklassiker, die von Arctic Monkeys bis Joy Division reichen. Mit den Resident-DJs Action!Mike, Phil und Jochen S. klingt die Nacht nostalgisch und frisch zugleich – hier"
+  },
+  {
+    "titel": "Kinky Indie Party • Helios37 • Köln",
+    "datum": "",
+    "datum_raw": "2026-05-08T23:00+0200",
+    "ort": "Helios37, Heliosstraße 37",
+    "preis": "ab 17 €",
+    "link": "https://rausgegangen.de/events/kinky-indie-party-helios37-koln-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei der Kinky Indie Party triffst du auf eine bunte Mischung aus Indie-Rock und Indie-Pop, gepaart mit einem sexpositiven Raum für alle, die gern kreativ und freizügig feiern. Klar geregelt und respektvoll feierst du hie"
+  },
+  {
+    "titel": "MØRTEL COLOGNE",
+    "datum": "",
+    "datum_raw": "2026-05-08T23:00+0200",
+    "ort": "artheater Köln, Ehrenfeldgürtel 127",
+    "preis": "ab 15 €",
+    "link": "https://rausgegangen.de/events/mrtel-cologne-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "MØRTEL feiert in Köln Premiere und bringt rohen Industrial Techno auf die Tanzfläche. Die erste Ausgabe verspricht intensive Energie und besondere Momente für alle, die sich auf außergewöhnliche Nächte freuen. Hier finde"
+  },
+  {
+    "titel": "HERZ an HERZ | DIE 90er & 2000er Party im CBE",
+    "datum": "",
+    "datum_raw": "2026-05-08T23:00+0200",
+    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
+    "preis": "ab 14 €",
+    "link": "https://rausgegangen.de/events/herz-an-herz-die-90er-2000er-party-im-cbe-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Hier findest du eine Party, die den Spirit der 90er und 2000er aufs Parkett bringt. Von Clubhits bis zu Pop-Klassikern erwarten dich Soundmomente, die direkt Erinnerungen wachrufen und die Tanzfläche füllen 🕺🏽"
+  }
+]

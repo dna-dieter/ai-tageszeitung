@@ -560,6 +560,7 @@ VERANSTALTUNGEN_CSS_EXTRA = """
 .evt-card h3 a { color: var(--text); text-decoration: none; }
 .evt-card h3 a:hover { color: var(--akzent); }
 .evt-card .evt-ort { font-family: sans-serif; font-size: 0.82rem; color: #666; margin-top: 4px; }
+.evt-card .evt-teaser { font-size: 0.88rem; color: #555; margin-top: 5px; line-height: 1.45; }
 .evt-card .evt-info { font-family: sans-serif; font-size: 0.75rem; color: #888; margin-top: 5px; }
 .portal-links { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 16px; }
 .portal-link { background: white; border-radius: 6px; padding: 12px 14px; text-decoration: none; color: var(--text); border: 1px solid #e0e0e0; font-family: sans-serif; font-size: 0.85rem; display: flex; align-items: center; gap: 8px; transition: all 0.2s; }
@@ -632,26 +633,34 @@ def build_veranstaltungen_page():
 
     def events_html(events, region_name):
         if not events:
-            return f"""<div class="hinweis">
-  Für <b>{region_name}</b> sind aktuell keine Veranstaltungshinweise aus den lokalen Quellen verfügbar.<br>
-  Nutze die direkten Links zu den Veranstaltungsportalen unten.
-</div>"""
-        count_label = f"{len(events)} Veranstaltungshinweise aus lokalen Nachrichten"
-        parts = [f'<div class="hinweis" style="background:#EAFAF1; border-color:#27AE60;">📅 {count_label}</div>']
+            return (
+                '<div class="hinweis">Für <b>' + htmlmod.escape(region_name) + '</b> sind aktuell keine '
+                'Veranstaltungshinweise verfügbar. Nutze die Portale unten.</div>'
+            )
+        parts = ['<div class="hinweis" style="background:#EAFAF1; border-color:#27AE60;">📅 '
+                 + str(len(events)) + ' Veranstaltungshinweise aus lokalen Nachrichten</div>']
         for e in events[:40]:
-            datum  = e.get("datum", "")
+            datum  = htmlmod.escape(e.get("datum", ""))
             titel  = htmlmod.escape(e.get("titel", e.get("title", "Veranstaltung")))
             ort    = htmlmod.escape(e.get("ort", ""))
             link   = htmlmod.escape(e.get("link", "#"))
             info   = htmlmod.escape(e.get("quelle", e.get("source", "")))
-            teaser = htmlmod.escape(e.get("teaser", "")[:180])
-            parts.append(f"""<div class="evt-card">
-  <div class="evt-datum">{htmlmod.escape(datum)}</div>
-  <h3><a href="{link}" target="_blank" rel="noopener">{titel}</a></h3>
-  {('<div class="evt-ort">📍 ' + ort + '</div>') if ort else ''}
-  {('<div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">' + teaser + '</div>') if teaser else ''}
-  {('<div class="evt-info">Quelle: ' + info + '</div>') if info else ''}
-</div>""")
+            teaser = htmlmod.escape(e.get("teaser", "")[:200])
+            preis  = htmlmod.escape(e.get("preis", ""))
+            card = '<div class="evt-card">\n'
+            card += '  <div class="evt-datum">' + datum
+            if preis:
+                card += ' &middot; <span style="color:#27AE60;font-weight:normal;">' + preis + '</span>'
+            card += '</div>\n'
+            card += '  <h3><a href="' + link + '" target="_blank" rel="noopener">' + titel + '</a></h3>\n'
+            if ort:
+                card += '  <div class="evt-ort">&#x1F4CD; ' + ort + '</div>\n'
+            if teaser:
+                card += '  <div class="evt-teaser">' + teaser + '</div>\n'
+            if info:
+                card += '  <div class="evt-info">Quelle: ' + info + '</div>\n'
+            card += '</div>'
+            parts.append(card)
         return "\n".join(parts)
 
     regions = [
@@ -665,14 +674,22 @@ def build_veranstaltungen_page():
         for slug, name, _ in regions
     )
 
-    panels_html = "".join(f"""<div class="region-panel" data-region="{slug}">
-  <div style="margin: 20px 0 8px 0; font-family: sans-serif; font-size: 0.95rem; color: var(--rbk-blau); font-weight:600;">{desc}</div>
-  {events_html(load_events(slug), name)}
-  <div class="sidebar-box" style="margin-top:18px;">
-    <h3>Veranstaltungsportale</h3>
-    {veranstaltungen_portal_links(slug)}
-  </div>
-</div>""" for slug, name, desc in regions)
+    panel_parts = []
+    for slug, name, desc in regions:
+        evt_content = events_html(load_events(slug), name)
+        portal_content = veranstaltungen_portal_links(slug)
+        panel_parts.append(
+            '<div class="region-panel" data-region="' + slug + '">\n'
+            '  <div style="margin: 20px 0 8px 0; font-family: sans-serif; font-size: 0.95rem; '
+            'color: var(--rbk-blau); font-weight:600;">' + htmlmod.escape(desc) + '</div>\n'
+            + evt_content + '\n'
+            '  <div class="sidebar-box" style="margin-top:18px;">\n'
+            '    <h3>Veranstaltungsportale</h3>\n'
+            + portal_content + '\n'
+            '  </div>\n'
+            '</div>'
+        )
+    panels_html = "\n".join(panel_parts)
 
     page = f"""<!DOCTYPE html>
 <html lang="de">

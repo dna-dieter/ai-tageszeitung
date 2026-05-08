@@ -76,6 +76,7 @@ footer a { color: #85C1E9; }
 .evt-card h3 a { color: var(--text); text-decoration: none; }
 .evt-card h3 a:hover { color: var(--akzent); }
 .evt-card .evt-ort { font-family: sans-serif; font-size: 0.82rem; color: #666; margin-top: 4px; }
+.evt-card .evt-teaser { font-size: 0.88rem; color: #555; margin-top: 5px; line-height: 1.45; }
 .evt-card .evt-info { font-family: sans-serif; font-size: 0.75rem; color: #888; margin-top: 5px; }
 .portal-links { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 16px; }
 .portal-link { background: white; border-radius: 6px; padding: 12px 14px; text-decoration: none; color: var(--text); border: 1px solid #e0e0e0; font-family: sans-serif; font-size: 0.85rem; display: flex; align-items: center; gap: 8px; transition: all 0.2s; }
@@ -99,7 +100,7 @@ footer a { color: #85C1E9; }
   </div>
   <div class="meta">
     <div><span class="live-dot"></span>Stündlich aktualisiert</div>
-    <div>08.05.2026, 13:29</div>
+    <div>08.05.2026, 13:43</div>
     <button type="button" onclick="triggerRefresh()" class="btn-refresh" id="btn-refresh">&#x21bb; Jetzt aktualisieren</button>
     <div class="refresh-status" id="refresh-status"></div>
   </div>
@@ -110,459 +111,677 @@ footer a { color: #85C1E9; }
 <main>
   <div class="region-panel" data-region="koeln">
   <div style="margin: 20px 0 8px 0; font-family: sans-serif; font-size: 0.95rem; color: var(--rbk-blau); font-weight:600;">Veranstaltungen in der Domstadt</div>
-  <div class="hinweis">
-  Für <b>Köln</b> sind aktuell keine Veranstaltungshinweise aus den lokalen Quellen verfügbar.<br>
-  Nutze die direkten Links zu den Veranstaltungsportalen unten.
+<div class="hinweis" style="background:#EAFAF1; border-color:#27AE60;">📅 40 Veranstaltungshinweise aus lokalen Nachrichten</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 4 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/philharmonieveedel-baby-107/" target="_blank" rel="noopener">PhilharmonieVeedel Baby</a></h3>
+  <div class="evt-ort">&#x1F4CD; Bürgerzentrum Nippes Altenberger Hof, Mauenheimer Straße 92</div>
+  <div class="evt-teaser">»Groll Zisch Määäh«MAMI NOVA ProjectEin performatives Babykonzert im VeedelGemeinsam erkunden Klein und Groß die mystische Natur! Sie lädt zu magischen Begegnungen ein: Man kann über knackende Gl</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 12 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/indie-game-fest-2026-0/" target="_blank" rel="noopener">Indie Game Fest 2026</a></h3>
+  <div class="evt-ort">&#x1F4CD; Wasserturm Hotel Cologne, Kaygasse 2</div>
+  <div class="evt-teaser">Beim Indie Game Fest 2026 triffst du auf kreative Köpfe, die abseits des Mainstreams frische Spiele mit viel Herz und überraschenden Ideen präsentieren. Zum Ausprobieren gibt’s spannende Demos und vie</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 4 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/philharmonieveedel-baby-108/" target="_blank" rel="noopener">PhilharmonieVeedel Baby</a></h3>
+  <div class="evt-ort">&#x1F4CD; Bürgerzentrum Nippes Altenberger Hof, Mauenheimer Straße 92</div>
+  <div class="evt-teaser">»Groll Zisch Määäh«MAMI NOVA ProjectEin performatives Babykonzert im VeedelGemeinsam erkunden Klein und Groß die mystische Natur! Sie lädt zu magischen Begegnungen ein: Man kann über knackende Gl</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 0 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/feierabendmarkt-auf-dem-hermeskeiler-platz-13/" target="_blank" rel="noopener">Frühlingsgefühle &amp; Streetfood: Feierabendmarkt Sülz</a></h3>
+  <div class="evt-ort">&#x1F4CD; Sülz - Hermeskeiler Platz, Hermeskeiler Platz</div>
+  <div class="evt-teaser">Der Frühling ist in Sülz angekommen – und der Hermeskeiler Platz blüht auf. Beim Feierabendmarkt trifft sich das Veedel zum entspannten Wochenendauftakt: mit Streetfood aus den Food-Trucks, einem Glas</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 6 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/lateinamerikanisches-wochenende-koln-0/" target="_blank" rel="noopener">LATEINAMERIKANISCHES WOCHENENDE - KÖLN</a></h3>
+  <div class="evt-ort">&#x1F4CD; Südbrücke, Alfred-Schütte-Allee 34</div>
+  <div class="evt-teaser">Drei Tage voller lateinamerikanischer Lebensfreude erwarten dich mit Samba, Folklore und leckerem Streetfood. Handgemachte Kunst und ein vielfältiges Programm für Groß und Klein machen das Wochenende </div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 0 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/odonische-freitagsbuhne-65/" target="_blank" rel="noopener">Odonische Freitagsbühne</a></h3>
+  <div class="evt-ort">&#x1F4CD; Odonien, Hornstraße 85</div>
+  <div class="evt-teaser">Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge e</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 0 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/pop-up-event-ernst-spirits-n2-0/" target="_blank" rel="noopener">POP UP EVENT ERNST SPIRITS N°2</a></h3>
+  <div class="evt-ort">&#x1F4CD; ERNST Kaffeebar Sülz, Weyertal 32</div>
+  <div class="evt-teaser">Round two. Same energy — new creations.  ERNST SPIRITS is back 🍸 Oliver &amp; Louis went all in again and crafted a fresh selection of drinks for the night.  Expect bold flavors, good people and vinyl-onl</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 22 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/disco-legenden-lets-dance-0/" target="_blank" rel="noopener">I&#x27;M STILL STANDING | DIE Ü45 PARTY IN DER LIVE MUSIC HALL</a></h3>
+  <div class="evt-ort">&#x1F4CD; Live Music Hall, Lichtstraße 30</div>
+  <div class="evt-teaser">Hier findest du die größten Hits der 70er, 80er und 90er zum Singen und Tanzen. Zwei Stunden ABBA Karaoke und Dance Classics vom Trash-Island DJ Team sorgen für entspannten Spaß im ü45 Kreis 🤩</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 31 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/smoking-snakes-suicide-bombers-crazy69-0/" target="_blank" rel="noopener">Smoking Snakes, Suicide Bombers &amp; Crazy69</a></h3>
+  <div class="evt-ort">&#x1F4CD; MTC Live Music Club, Zülpicher Straße 10</div>
+  <div class="evt-teaser">SMOKING SNAKES:Die SMOKING SNAKES sind eine Sleaze-Metal-Band aus Göteborg, die in der Rockszene mittlerweile für großes Aufsehen sorgt. Gegründet 2022, repräsentieren sie die nächste Generation </div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 31 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/smoking-snakes-suicide-bombers-crazy69-lock-up-your-daughter-0/" target="_blank" rel="noopener">SMOKING SNAKES, SUiCiDE BOMBERS &amp; CRAZY69 - Lock Up Your Daughters-Tour</a></h3>
+  <div class="evt-ort">&#x1F4CD; MTC Live Music Club, Zülpicher Straße 10</div>
+  <div class="evt-teaser">SMOKING SNAKES:Die SMOKING SNAKES sind eine Sleaze-Metal-Band aus Göteborg, die in der Rockszene mittlerweile für großes Aufsehen sorgt. Gegründet 2022, repräsentieren sie die nächste Generation </div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">kostenlos</span></div>
+  <h3><a href="https://rausgegangen.de/events/open-mic-headliner-nightgoldfinger-19/" target="_blank" rel="noopener">Open Mic Headliner Night@Goldfinger</a></h3>
+  <div class="evt-ort">&#x1F4CD; Goldfinger, Friesenstraße 54</div>
+  <div class="evt-teaser">Hier zeigen sechs Comedians und ihr Host, wie unterschiedlich Humor sein kann – von schrägen Pointen bis zu überraschenden Geschichten. Neue Gags treffen auf erprobte Acts, entstammen den Szenen ganz </div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 48 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/calexico-19/" target="_blank" rel="noopener">Calexico</a></h3>
+  <div class="evt-ort">&#x1F4CD; Philharmonie Köln, Bischofsgartenstr. 1</div>
+  <div class="evt-teaser">Seit fast drei Jahrzehnten steht der Name Calexico für unverwechselbaren Indiemusik, der mühelos die musikalischen Grenzgebiete zwischen Americana, Rock und mitreißenden Latin-Sounds überschreitet.</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 20 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/carlo-karacho-11/" target="_blank" rel="noopener">CARLO KARACHO</a></h3>
+  <div class="evt-ort">&#x1F4CD; Bumann &amp; Sohn, Bartholomäus-Schink-Straße 2</div>
+  <div class="evt-teaser">popanz CARLO KARACHO w/ ULLA SUSPEKT Freitag, 8. Mai 2026 Einlass 19:00, Beginn 20:00  Carlo Karacho bewegt sich mit seiner Musik gekonnt zwischen Synthpop, Post-Punk und der Neuen Deutschen Welle der</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 34 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/hardline-5/" target="_blank" rel="noopener">HARDLINE</a></h3>
+  <div class="evt-ort">&#x1F4CD; Gebäude 9, Deutz-Mülheimer Straße 117</div>
+  <div class="evt-teaser">Hardline is an American rock band that was formed in 1992. Known for their blend of hard rock and melodic metal, they initially gained attention with their debut album Double Eclipse in 1992. The band</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 15 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/hidden-stage-sessions-x-lesbian-visibility-weeks/" target="_blank" rel="noopener">Hidden Stage Sessions X Lesbian Visibility Weeks</a></h3>
+  <div class="evt-ort">&#x1F4CD; Geheimer Ort, Köln</div>
+  <div class="evt-teaser">Feiere mit uns die Schönheit der Neurodiversität und Queerness und erlebe die Magie der Live-Musik ohne Kompromisse! 💜 Die Cozy Concerts von Hidden Stage Sessions e.V. sind eine besondere Konzertrei</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 0 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/kokopelli-quartett-0/" target="_blank" rel="noopener">Kokopelli Quartett</a></h3>
+  <div class="evt-ort">&#x1F4CD; Friedenskirche Ehrenfeld, Rothehausstraße 54a</div>
+  <div class="evt-teaser">Vielseitig, wie das Saxophon ist auch das 1995 gegründete Quartett, das mit immer neuen Konzertprogrammen seine Wandlungsfähigkeit unter Beweis stellt. Energiegeladen und mit souveräner Technik rei</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 31 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/lock-up-your-daughters-tour-0/" target="_blank" rel="noopener">Lock Up Your Daughters Tour</a></h3>
+  <div class="evt-ort">&#x1F4CD; MTC Cologne, Zülpicher Straße 10</div>
+  <div class="evt-teaser">SMOKING SNAKESDie SMOKING SNAKES, eine Sleaze-Metal-Band aus Göteborg, sorgt mittlerweile für großes Aufsehen in der Rockszene. Sie wurden 2022 gegründet und stehen für die nächste Generation des</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 55 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/psychedelic-light-sound-6/" target="_blank" rel="noopener">Psychedelic Light &amp; Sound</a></h3>
+  <div class="evt-ort">&#x1F4CD; Klangkino, Hansaring 61</div>
+  <div class="evt-teaser">Die Psychedelic Light &amp; Sound Journey verbindet eines der ältesten Instrumente der Erde mit den neusten Erkenntnissen und Technologien aus der Forschung.  Mit dem Einsatz des Gongs in Kombination mit</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">kostenlos</span></div>
+  <h3><a href="https://rausgegangen.de/events/shkoon-traces-koln-club-bahnhof-ehrenfeld-0/" target="_blank" rel="noopener">SHKOON / TRACES / KÖLN / CLUB BAHNHOF EHRENFELD</a></h3>
+  <div class="evt-ort">&#x1F4CD; Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67</div>
+  <div class="evt-teaser">Shkoon erzählt mit ihrem deutsch-syrischen Sound Geschichten von Flucht, Erinnerung und Hoffnung. Ihr neues Album TRACES verbindet arabische Folklore mit moderner Elektronik und lädt dich ein, die Spu</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 0 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/wohnzimmerkonzert-im-liebig257-13/" target="_blank" rel="noopener">Wohnzimmerkonzerte von 2acts_cologne</a></h3>
+  <div class="evt-ort">&#x1F4CD; Liebig 257 - Klug e.V., Liebigstraße 257</div>
+  <div class="evt-teaser">Jeden zweiten Freitag wird ein Wohnzimmer in Köln-Nippes zur Bühne, auf der Musiker*innen ihre Songs ganz nah und authentisch teilen. Die vielseitigen Acts bringen unterschiedlichste Stile und Sprache</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">kostenlos</span></div>
+  <h3><a href="https://rausgegangen.de/events/from-bezau-with-love-boomslang-records-live-0/" target="_blank" rel="noopener">FROM BEZAU WITH LOVE: Boomslang Records live</a></h3>
+  <div class="evt-ort">&#x1F4CD; Stadtgarten Köln, Venloer Straße 40</div>
+  <div class="evt-teaser">Von Bezau ins Herz von Köln schicken Boomslang Records Musiker:innen, die zwischen freier Impro und avantgardistischem Jazz Räume voller Klang entstehen lassen. Du kannst dich auf neue Alben, unverwec</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">kostenlos</span></div>
+  <h3><a href="https://rausgegangen.de/events/queerfeministische-stand-up-comedy-show-milf-special-zum-mut-0/" target="_blank" rel="noopener">Queerfeministische Stand Up Comedy Show: MILF Special zum Muttertag!</a></h3>
+  <div class="evt-ort">&#x1F4CD; die wohngemeinschaft, Richard-Wagner-Straße 39</div>
+  <div class="evt-teaser">Vier Comedian-Persönlichkeiten mit Kindern zeigen dir in dieser queeren Comedy-Show, wie feministische Perspektiven die Mutterrolle neu denken. Humorvoll knacken sie gesellschaftliche Strukturen und s</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 35 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/gina-martin-das-ding-ist-man-kann-auch-anders-uber-rassismus-4/" target="_blank" rel="noopener">Gina &amp; Martin ■ DAS DING IST man kann auch anders über Rassismus sprechen – Tour 2026</a></h3>
+  <div class="evt-ort">&#x1F4CD; COMEDIA Theater, Vondelstraße 4-8</div>
+  <div class="evt-teaser">Gina und Martin nehmen dich mit auf ihre gemeinsame Reise durchs Gespräch über Rassismus – witzig, ehrlich und ohne erhobenen Zeigefinger. Sie zeigen, wie man mit Mut und Empathie Missverständnisse üb</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 29 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/calexico-15/" target="_blank" rel="noopener">Calexico</a></h3>
+  <div class="evt-ort">&#x1F4CD; Philharmonie Köln, Bischofsgartenstr. 1</div>
+  <div class="evt-teaser">Dieses Konzert kann leider nicht stattfinden.Calexico</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 0 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/divaivenes-konzert-am-freitag-8-mai-um-2000-uhr-quartett-la--0/" target="_blank" rel="noopener">Divaivenes 🎶 Quartett: La Diva Caprichosa 🎶  Flamenco, Rumba, Copla, Son, Bolero, Vals Criollo, Tango, Bossa Nova und Mambo</a></h3>
+  <div class="evt-ort">&#x1F4CD; MACHADO, Severinsmühlengasse 1</div>
+  <div class="evt-teaser">🎶 Konzert am Freitag, 8. Mai um 20:00 Uhr! 🎶💃 „Divaivenes“ – La Diva Caprichosa live im MACHADODas Quartett La Diva Caprichosa kehrt zurück ins Círculo Machado und präsentiert sein neues Programm „</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 15 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/filippa-gojo-stephan-mattner-nucleus-0/" target="_blank" rel="noopener">Filippa Gojo – Stephan Mattner „Nucleus“</a></h3>
+  <div class="evt-ort">&#x1F4CD; Salon De Jazz, Severinskloster 3a</div>
+  <div class="evt-teaser">Die Suche nach der Essenz, dem Kern der Dinge: Diese Aufgabe stellten sich sowohl Sängerin Filippa Gojo, als auch Saxophonist Stephan Mattner schon früh in ihrer jeweiligen musikalischen Entwicklung</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 25 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/glazyhaze-2/" target="_blank" rel="noopener">Glazyhaze</a></h3>
+  <div class="evt-ort">&#x1F4CD; Garagen, Oskar-Jäger-Straße 179</div>
+  <div class="evt-teaser">Der Sound von Glazyhaze aus Venedig ist von Shoegaze, Dream Pop und Alternative Rock beeinflusst, ihre Klangpalette reicht von düster bis hin zu verträumt und ätherisch. Die Band, bestehend aus Ire</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 0 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/imklang-session-15/" target="_blank" rel="noopener">ImKlang Session</a></h3>
+  <div class="evt-ort">&#x1F4CD; Musik- und Kunstschule ImKlang, Waltherstraße 80</div>
+  <div class="evt-teaser"> IMKLANG SESSION  Offene Jam Session · jeden Freitag · ab 20:00 Uhr Die IMKLANG Session ist eine wöchentliche, offene Jam Session für Musikerinnen und Musiker aller Erfahrungsstufen – und für alle,</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">kostenlos</span></div>
+  <h3><a href="https://rausgegangen.de/events/lagerfeuer-deluxe-mit-jan-rottger-morley-friedemann-weise-0/" target="_blank" rel="noopener">Lagerfeuer Deluxe mit Morley, Friedemann Weise &amp; Malte von Griesgram</a></h3>
+  <div class="evt-ort">&#x1F4CD; Bogen 2, Gladbacher Wall 5</div>
+  <div class="evt-teaser">Das letzte Lagerfeuer Deluxe vor der Sommerpause im King Georg kommen wir mit einem absoluten All Star Programm um die Ecke. Aber seht und hört selbst:Diese unverkennbare Magie, wenn genau die richti</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 15 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/linsending-sofortprogramm-fur-spater-konzert-0/" target="_blank" rel="noopener">Linsending - Sofortprogramm! (für später) - Konzert</a></h3>
+  <div class="evt-ort">&#x1F4CD; Theater 509, Dreikönigenstraße 23</div>
+  <div class="evt-teaser">Linsending - Sofortprogramm! (für später) KonzertLinsending - Sofortprogramm! (für später) Konzert    Pressebild LinsendingEs eilt, und zwar dringend!!! Darum sollten Sie unverzüglich demnächst </div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 52 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/machine-head-2/" target="_blank" rel="noopener">MACHINE HEAD</a></h3>
+  <div class="evt-ort">&#x1F4CD; Palladium, Schanzenstraße 36</div>
+  <div class="evt-teaser">Auch nach mehr als drei Jahrzehnten, die seit der Veröffentlichung ihres legendären Debütalbums „Burn My Eyes“ vergangen sind, gehören die  kalifornischen Metal-Giganten Machine Head zu den vitals</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 42 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/maybebop-neues-programm-0/" target="_blank" rel="noopener">Maybebop - Neues Programm</a></h3>
+  <div class="evt-ort">&#x1F4CD; GLORIA Köln, Apostelnstraße 11</div>
+  <div class="evt-teaser">Einlass: 19:00 Uhr bestuhlt  Fast 25 Jahre MAYBEBOP - ausverkaufte Konzerttourneen von Berlin bis Saarbrücken, von Flensburg bis Passau, über 200 TV-Auftritten , zwei Jahrzehnte begeisterte Konzertb</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">kostenlos</span></div>
+  <h3><a href="https://rausgegangen.de/events/maybebop-vier-typen-vier-mikrofone-sonst-nichts-a-cappella-1/" target="_blank" rel="noopener">MAYBEBOP &quot;Vier Typen. Vier Mikrofone. Sonst nichts.&quot; (A-cappella)</a></h3>
+  <div class="evt-ort">&#x1F4CD; Gloria Köln, Apostelnstraße 11</div>
+  <div class="evt-teaser">Manche Leute denken immer noch, A-cappella sei eine staubige Domäne für fade Musikdarbietungen ohne Wumms. Die haben ihre Rechnung ohne MAYBEBOP gemacht! Rund 25 Jahre nach ihrer Gründung sind sie </div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 25 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/sengul-pak-0/" target="_blank" rel="noopener">ŞENGÜL PAK</a></h3>
+  <div class="evt-ort">&#x1F4CD; Lutherkirche Südstadt, Martin-Luther-Platz 2-4</div>
+  <div class="evt-teaser">Die aus Dersim stammende Musikerin Şengül Pak begegnet ihrem Publikum mit ihrer kraftvollen Frauenstimme, ihrer tiefen Erinnerungskultur und Musik in der Muttersprache. Die traditionellen Kılams, Kl</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 12 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/shalaschon-sing-strum-auf-dem-bootchen-0/" target="_blank" rel="noopener">&quot;Shalaschön&quot; - Sing &amp; Strum auf dem Böötchen</a></h3>
+  <div class="evt-ort">&#x1F4CD; Bootshaus MS Rodenkirchen, Rodenkirchener Leinpfad 1</div>
+  <div class="evt-teaser">Liebe Sängerinnen und Sänger, Ukulelistas, Gitarreros, Bassisten, Quetschisten und alle anderen, die nach Akkorden spielen können! Bei der nächsten &quot;Sing &amp; Strum&quot;-Veranstaltung wird auf dem Bööt</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 19 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/scissors-flinta-party-0/" target="_blank" rel="noopener">SCiSSORS FLINTA* Party</a></h3>
+  <div class="evt-ort">&#x1F4CD; Klub Domhof, Hohenzollernbrücke 11</div>
+  <div class="evt-teaser">Bei SCiSSORS am 8. Mai verschmilzt Bouncy Techno mit Pop und Trance zu einer energiegeladenen Nacht für FLINTA* Personen. Hier ist Party mehr als feiern, es ist ein sicherer Ort zum Ausgelassensein, m</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 10 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/i-love-pop-20-jahre/" target="_blank" rel="noopener">I LOVE POP  * 20 Jahre *</a></h3>
+  <div class="evt-ort">&#x1F4CD; Club Subway, Aachener Straße 82-84</div>
+  <div class="evt-teaser">I LOVE POP feiert 20 Jahre voller Indie- und Britpopklassiker, die von Arctic Monkeys bis Joy Division reichen. Mit den Resident-DJs Action!Mike, Phil und Jochen S. klingt die Nacht nostalgisch und fr</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 17 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/kinky-indie-party-helios37-koln-1/" target="_blank" rel="noopener">Kinky Indie Party • Helios37 • Köln</a></h3>
+  <div class="evt-ort">&#x1F4CD; Helios37, Heliosstraße 37</div>
+  <div class="evt-teaser">Bei der Kinky Indie Party triffst du auf eine bunte Mischung aus Indie-Rock und Indie-Pop, gepaart mit einem sexpositiven Raum für alle, die gern kreativ und freizügig feiern. Klar geregelt und respek</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 15 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/mrtel-cologne-0/" target="_blank" rel="noopener">MØRTEL COLOGNE</a></h3>
+  <div class="evt-ort">&#x1F4CD; artheater Köln, Ehrenfeldgürtel 127</div>
+  <div class="evt-teaser">MØRTEL feiert in Köln Premiere und bringt rohen Industrial Techno auf die Tanzfläche. Die erste Ausgabe verspricht intensive Energie und besondere Momente für alle, die sich auf außergewöhnliche Nächt</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum"> &middot; <span style="color:#27AE60;font-weight:normal;">ab 14 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/herz-an-herz-die-90er-2000er-party-im-cbe-2/" target="_blank" rel="noopener">HERZ an HERZ | DIE 90er &amp; 2000er Party im CBE</a></h3>
+  <div class="evt-ort">&#x1F4CD; Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67</div>
+  <div class="evt-teaser">Hier findest du eine Party, die den Spirit der 90er und 2000er aufs Parkett bringt. Von Clubhits bis zu Pop-Klassikern erwarten dich Soundmomente, die direkt Erinnerungen wachrufen und die Tanzfläche </div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
 </div>
   <div class="sidebar-box" style="margin-top:18px;">
     <h3>Veranstaltungsportale</h3>
-    <div class="portal-links"><a class="portal-link" href="https://www.koeln.de/veranstaltungen/" target="_blank" rel="noopener"><span class="icon">🎭</span>Köln.de Veranstaltungen</a><a class="portal-link" href="https://www.koelnticket.de/veranstaltungen/" target="_blank" rel="noopener"><span class="icon">🎵</span>KölnTicket</a><a class="portal-link" href="https://www.koelner-philharmonie.de/" target="_blank" rel="noopener"><span class="icon">🏛️</span>Kölner Philharmonie</a><a class="portal-link" href="https://www.eventim.de/city/koeln-218/" target="_blank" rel="noopener"><span class="icon">🎪</span>Eventim Köln</a><a class="portal-link" href="https://www.koeln-events.de/" target="_blank" rel="noopener"><span class="icon">🌐</span>Köln-Events</a><a class="portal-link" href="https://www.museenkoeln.de/" target="_blank" rel="noopener"><span class="icon">🎨</span>Museen Köln</a></div>
+<div class="portal-links"><a class="portal-link" href="https://www.koeln.de/veranstaltungen/" target="_blank" rel="noopener"><span class="icon">🎭</span>Köln.de Veranstaltungen</a><a class="portal-link" href="https://www.koelnticket.de/veranstaltungen/" target="_blank" rel="noopener"><span class="icon">🎵</span>KölnTicket</a><a class="portal-link" href="https://www.koelner-philharmonie.de/" target="_blank" rel="noopener"><span class="icon">🏛️</span>Kölner Philharmonie</a><a class="portal-link" href="https://www.eventim.de/city/koeln-218/" target="_blank" rel="noopener"><span class="icon">🎪</span>Eventim Köln</a><a class="portal-link" href="https://www.koeln-events.de/" target="_blank" rel="noopener"><span class="icon">🌐</span>Köln-Events</a><a class="portal-link" href="https://www.museenkoeln.de/" target="_blank" rel="noopener"><span class="icon">🎨</span>Museen Köln</a></div>
   </div>
-</div><div class="region-panel" data-region="rbk">
+</div>
+<div class="region-panel" data-region="rbk">
   <div style="margin: 20px 0 8px 0; font-family: sans-serif; font-size: 0.95rem; color: var(--rbk-blau); font-weight:600;">Veranstaltungen im RBK</div>
-  <div class="hinweis" style="background:#EAFAF1; border-color:#27AE60;">📅 44 Veranstaltungshinweise aus lokalen Nachrichten</div>
+<div class="hinweis" style="background:#EAFAF1; border-color:#27AE60;">📅 44 Veranstaltungshinweise aus lokalen Nachrichten</div>
 <div class="evt-card">
   <div class="evt-datum">29. Apr 2026</div>
   <h3><a href="https://in-gl.de/2026/04/29/kommunal-kurz-knapp-strundetal-baumschutz-und-freilaufende-hunde/" target="_blank" rel="noopener">Kommunal, kurz &amp; knapp: Strundetal, Baumschutz und freilaufende Hunde</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Wann wird der Strundetalweg endlich repariert? Wie können große Bäume effektiver geschützt werden? Was kann gegen freilaufende Hunde im Wald unternommen werden? Wir fassen die wich</div>
+  <div class="evt-teaser">Wann wird der Strundetalweg endlich repariert? Wie können große Bäume effektiver geschützt werden? Was kann gegen freilaufende Hunde im Wald unternommen werden? Wir fassen die wichtigsten Debatten und</div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">29. Apr 2026</div>
   <h3><a href="https://in-gl.de/2026/04/29/foto-ausstellung-zeigt-botschaften-fur-inklusion-inbeco-lichtgestalten-bergisch-gladbach/" target="_blank" rel="noopener">Foto-Ausstellung zeigt Botschaften für Inklusion</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Eine Ausstellung, zwei Orte: Auf Fotografien von Heide Prange formulieren Menschen mit und ohne Behinderung ihre Wünsche, Forderungen und Ideen für eine inklusivere Gesellschaft. „</div>
+  <div class="evt-teaser">Eine Ausstellung, zwei Orte: Auf Fotografien von Heide Prange formulieren Menschen mit und ohne Behinderung ihre Wünsche, Forderungen und Ideen für eine inklusivere Gesellschaft. „Botschaften für Inkl</div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">6. Mai 2026</div>
   <h3><a href="https://in-gl.de/2026/05/06/der-gleispark-auf-zanders-steht-zur-eroberung-bereit/" target="_blank" rel="noopener">Der Gleispark auf Zanders steht zur Eroberung bereit</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Fußballplatz, Biergarten, Jugendzentrum und Fitnessstudio unter freiem Himmel: Der Gleispark auf dem Zanders-Gelände hält viele Möglichkeiten für alle Altersklassen bereit. Am Sams</div>
+  <div class="evt-teaser">Fußballplatz, Biergarten, Jugendzentrum und Fitnessstudio unter freiem Himmel: Der Gleispark auf dem Zanders-Gelände hält viele Möglichkeiten für alle Altersklassen bereit. Am Samstag wird die neue Gr</div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">6. Mai 2026</div>
   <h3><a href="https://in-gl.de/2026/05/06/1000-gaeste-feiern-maifest-in-refrath/" target="_blank" rel="noopener">1000 Gäste feiern Maifest in Refrath</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Der Bürger- und Heimatverein Refrath hat sein traditionelles Maifest im Bürgerpark an der Steinbreche mit mehr als 1000 Gästen gefeiert. In diesem Jahr sorgten Politikerinnen und P</div>
+  <div class="evt-teaser">Der Bürger- und Heimatverein Refrath hat sein traditionelles Maifest im Bürgerpark an der Steinbreche mit mehr als 1000 Gästen gefeiert. In diesem Jahr sorgten Politikerinnen und Politiker für Würstch</div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">6. Mai 2026</div>
   <h3><a href="https://www.presseportal.de/blaulicht/pm/62459/6269806" target="_blank" rel="noopener">POL-RBK: Bergisch Gladbach - Festnahme nach mehreren Diebstählen aus Autos</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Bergisch Gladbach (ots) - In der Nacht auf Mittwoch (06.05.) hat die Polizei einen 20-jährigen Mann aus Köln vorläufig festgenommen. Er wird beschuldigt, im Stadtteil Kaule in mehr</div>
+  <div class="evt-teaser">Bergisch Gladbach (ots) - In der Nacht auf Mittwoch (06.05.) hat die Polizei einen 20-jährigen Mann aus Köln vorläufig festgenommen. Er wird beschuldigt, im Stadtteil Kaule in mehrere Pkw eingedrungen</div>
   <div class="evt-info">Quelle: Presseportal Polizei RBK</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">6. Mai 2026</div>
   <h3><a href="https://in-gl.de/2026/05/06/zum-90-geburtstag-basement-16-zeigt-eckard-alker/" target="_blank" rel="noopener">Zum 90. Geburtstag: Basement 16 zeigt Eckard Alker</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Die Bensberger Galerie Basement16 würdigt das Lebenswerk von Eckard Alker mit einer Einzelausstellung unter dem Titel „manchmal gelang mir was“. Die Vernissage findet am Samstag st</div>
+  <div class="evt-teaser">Die Bensberger Galerie Basement16 würdigt das Lebenswerk von Eckard Alker mit einer Einzelausstellung unter dem Titel „manchmal gelang mir was“. Die Vernissage findet am Samstag statt.</div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">6. Mai 2026</div>
   <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/100-jahre-reitverein-burscheid-paffenloeh-jubilaeum-und-turnier-im-mai-feiern-QK4NRNZRVJGWDAMVSUMXV5QWJE.html" target="_blank" rel="noopener">100 Jahre Reitverein Burscheid-Paffenlöh: Jubiläum und Turnier im Mai feiern</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Eine Jubiläumsfeier am 9. Mai und ein Sommerturnier erwarten die Besucher auf dem Turnierplatz in Paffenlöh. Welche Highlights neben dem M-Springen geboten werden, erfahren Sie hie</div>
+  <div class="evt-teaser">Eine Jubiläumsfeier am 9. Mai und ein Sommerturnier erwarten die Besucher auf dem Turnierplatz in Paffenlöh. Welche Highlights neben dem M-Springen geboten werden, erfahren Sie hier.</div>
   <div class="evt-info">Quelle: RGA Burscheid</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">6. Mai 2026</div>
   <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/kulturforum-burscheid-im-mai-mit-kabarett-kreativ-atelier-und-royal-street-orchestra-QIPZKW6A6VFKLMTG23STN2WRJU.html" target="_blank" rel="noopener">Kulturforum Burscheid im Mai: Mit Kabarett, Kreativ-Atelier und Royal Street Orchestra</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Ein facettenreiches Mai-Programm wartet im Kulturforum Burscheid: Kabarett, Mitmach-Workshops und ein energetisches Konzert des Royal Street Orchestra. Warum sich ein Besuch besond</div>
+  <div class="evt-teaser">Ein facettenreiches Mai-Programm wartet im Kulturforum Burscheid: Kabarett, Mitmach-Workshops und ein energetisches Konzert des Royal Street Orchestra. Warum sich ein Besuch besonders am Muttertag loh</div>
   <div class="evt-info">Quelle: RGA Burscheid</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">6. Mai 2026</div>
   <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/die-erste-digitale-haltestelle-R7UG5IY3JFA3526UAHMXAJPPNM.html" target="_blank" rel="noopener">Die erste digitale Haltestelle</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Papierfahrpläne an Haltestellen sollen bei der RVK auslaufen – stattdessen kommen digitale Anzeigen. In Wermelskirchen hat der Testbetrieb begonnen.</div>
+  <div class="evt-teaser">Papierfahrpläne an Haltestellen sollen bei der RVK auslaufen – stattdessen kommen digitale Anzeigen. In Wermelskirchen hat der Testbetrieb begonnen.</div>
   <div class="evt-info">Quelle: RGA Wermelskirchen</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">28. Apr 2026</div>
   <h3><a href="https://in-gl.de/2026/04/28/himmel-un-aeaed-bietet-harfenzauber-erinnerung-und-begegnung/" target="_blank" rel="noopener">Himmel un Ääd bietet Harfenzauber, Erinnerung und Begegnung</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Den musikalischen Höhepunkt im Begegnungscafé in Schildgen setzt im Mai Silke Aichhorn, eine der weltweit aktivsten Harfensolistinnen, mit einem Programm von Barock bis Swing. Dazu</div>
+  <div class="evt-teaser">Den musikalischen Höhepunkt im Begegnungscafé in Schildgen setzt im Mai Silke Aichhorn, eine der weltweit aktivsten Harfensolistinnen, mit einem Programm von Barock bis Swing. Dazu erinnert eine Lesun</div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">28. Apr 2026</div>
   <h3><a href="https://in-gl.de/2026/04/28/badminton-maike-iffland-und-kalliope-hermel-sind-deutsche-meisterinnen/" target="_blank" rel="noopener">Badminton: Maike Iffland und Kalliope Hermel sind Deutsche Meisterinnen</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Die 57. Ausgabe der Deutschen Meisterschaften U22 wurden in Bonn-Beuel ausgetragen. Neben zahlreichen Bundesligaspielern nahmen auch alle Jugendnationalspieler teil, weil das Turni</div>
+  <div class="evt-teaser">Die 57. Ausgabe der Deutschen Meisterschaften U22 wurden in Bonn-Beuel ausgetragen. Neben zahlreichen Bundesligaspielern nahmen auch alle Jugendnationalspieler teil, weil das Turnier als Vorbereitungs</div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">5. Mai 2026</div>
   <h3><a href="https://www.rga.de/lokales/remscheid/restaurant-mebusmuehle-am-schwanenteich-in-remscheid-jetzt-steht-der-eroeffnungstermin-fest-YV6HKSNNS5D3HBHIWOI7VZXKTY.html" target="_blank" rel="noopener">Restaurant Mebusmühle am Schwanenteich in Remscheid: Jetzt steht der Eröffnungstermin fest</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Nachdem Familie Alimci aus Köln die Immobilie an der Stadtgrenze zwischen Remscheid und Wermelskirchen von Mario Romanowski gekauft und fast zwei Jahre kernsaniert hat, öffnet sie </div>
+  <div class="evt-teaser">Nachdem Familie Alimci aus Köln die Immobilie an der Stadtgrenze zwischen Remscheid und Wermelskirchen von Mario Romanowski gekauft und fast zwei Jahre kernsaniert hat, öffnet sie nun bald. Gefeiert w</div>
   <div class="evt-info">Quelle: RGA Wermelskirchen</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">5. Mai 2026</div>
   <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/engelbert-wrobel-aus-burscheid-wie-man-eine-tournee-organisiert-7J2PWA26TRE37CF45VSYL4BW7Q.html" target="_blank" rel="noopener">Engelbert Wrobel aus Burscheid: Wie man eine Tournee organisiert</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Es soll die letzte Tournee sein. Zumindest die letzte große. Welche Strapazen mit so einer Planung verbunden sind, verrät Engelbert Wrobel vor seinem Konzert in Burscheid: Dort spi</div>
+  <div class="evt-teaser">Es soll die letzte Tournee sein. Zumindest die letzte große. Welche Strapazen mit so einer Planung verbunden sind, verrät Engelbert Wrobel vor seinem Konzert in Burscheid: Dort spielt er mit seinen Mi</div>
   <div class="evt-info">Quelle: RGA Burscheid</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">5. Mai 2026</div>
   <h3><a href="https://www.kuerten.de/aktuelle-ereignisse/rund-um-koeln-faehrt-quer-durch-kuerten/" target="_blank" rel="noopener">Rund um Köln fährt quer durch Kürten</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">&amp;lt;p&amp;gt;Die Vorfreude steigt, die Spannung liegt in der Luft: Die diesjährige Ausgabe des Radsportevents Rund um Köln verspricht ein außergewöhnliches Spektakel zu werden. Mit ein</div>
+  <div class="evt-teaser">&amp;lt;p&amp;gt;Die Vorfreude steigt, die Spannung liegt in der Luft: Die diesjährige Ausgabe des Radsportevents Rund um Köln verspricht ein außergewöhnliches Spektakel zu werden. Mit einer Rekordzahl von Te</div>
   <div class="evt-info">Quelle: Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">5. Mai 2026</div>
   <h3><a href="https://www.kuerten.de/aktuelle-ereignisse/rund-um-koeln-faehrt-quer-durch-kuerten/" target="_blank" rel="noopener">Rund um Köln fährt quer durch Kürten -Straßensperrungen beachten</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">&amp;lt;h3&amp;gt;Radrennfieber in Kürten am Sonntag, 17. Mai 2026&amp;lt;/h3&amp;gt; &amp;lt;p&amp;gt;Die Vorfreude steigt, die Spannung liegt in der Luft: Die diesjährige Ausgabe des Radsportevents Rund</div>
+  <div class="evt-teaser">&amp;lt;h3&amp;gt;Radrennfieber in Kürten am Sonntag, 17. Mai 2026&amp;lt;/h3&amp;gt; &amp;lt;p&amp;gt;Die Vorfreude steigt, die Spannung liegt in der Luft: Die diesjährige Ausgabe des Radsportevents Rund um Köln verspricht </div>
   <div class="evt-info">Quelle: Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">5. Mai 2026</div>
   <h3><a href="https://in-gl.de/2026/05/05/ausstellung-inklusion-entsteht-aus-begegnungen-bergisch-gladbach/" target="_blank" rel="noopener">Ausstellung: „Inklusion darf kein Zufallsprodukt sein“</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Die Wanderausstellung „Botschaften für Inklusion“ macht Perspektiven und Wünsche von Menschen mit und ohne Behinderungen sichtbar. Sie ist bereits im Bensberger Rathaus und ab Frei</div>
+  <div class="evt-teaser">Die Wanderausstellung „Botschaften für Inklusion“ macht Perspektiven und Wünsche von Menschen mit und ohne Behinderungen sichtbar. Sie ist bereits im Bensberger Rathaus und ab Freitag auch in der Serv</div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">5. Mai 2026</div>
   <h3><a href="https://in-gl.de/2026/05/05/auf-mission-g9-klassenhaus-fuer-amg-wird-rechtzeitig-fertig/" target="_blank" rel="noopener">„Auf Mission G9“: Klassenhaus für AMG wird rechtzeitig fertig</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">In rascher Folge lässt die Schulbau-Gesellschaft neue Erweiterungsbauten an den Gymnasien errichten - um den neuen G9-Jahrgang unterbringen zu können. Das letzte Projekt in dieser </div>
+  <div class="evt-teaser">In rascher Folge lässt die Schulbau-Gesellschaft neue Erweiterungsbauten an den Gymnasien errichten - um den neuen G9-Jahrgang unterbringen zu können. Das letzte Projekt in dieser Reihe ist der Modulb</div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">5. Mai 2026</div>
   <h3><a href="https://in-gl.de/2026/05/05/tag-der-staedtebau-foerderung-im-loki-wohnpark/" target="_blank" rel="noopener">Tag der Städtebau-Förderung im LOKI Wohnpark</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Am Samstag öffnet das LOKI an der Reginharstraße seine Türen zum bundesweiten Tag der Städtebauförderung – mit Tanz-, Bewegungs- und Kreativworkshops für Kinder, Jugendliche und Fa</div>
+  <div class="evt-teaser">Am Samstag öffnet das LOKI an der Reginharstraße seine Türen zum bundesweiten Tag der Städtebauförderung – mit Tanz-, Bewegungs- und Kreativworkshops für Kinder, Jugendliche und Familien. Der Eintritt</div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">5. Mai 2026</div>
   <h3><a href="https://in-gl.de/2026/05/05/amos-oz-esperanto-eine-geschichte-aus-dem-kibbuz/" target="_blank" rel="noopener">Amos Oz: Esperanto – Eine Geschichte aus dem Kibbuz</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Am Vorabend des Gründungsgedenkens des Staates Israel laden das Katholische Bildungswerk und der Ganey-Tikva-Verein zu einer Lesung ein. Hein Haun wird am 13. Mai aus einem Buch vo</div>
+  <div class="evt-teaser">Am Vorabend des Gründungsgedenkens des Staates Israel laden das Katholische Bildungswerk und der Ganey-Tikva-Verein zu einer Lesung ein. Hein Haun wird am 13. Mai aus einem Buch von Amos Oz vortragen.</div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">30. Apr 2026</div>
   <h3><a href="https://in-gl.de/2026/04/30/vermarktung-von-zanders-startet-zaghaft/" target="_blank" rel="noopener">Vermarktung von Zanders startet zaghaft</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Vor 16 Monaten war Oliver Brügge als Geschäftsführer der neuen Zanders Entwicklungsgesellschaft auch dafür angetreten, die Vergabe von Grundstücken auf dem Zanders-Areal an Investo</div>
+  <div class="evt-teaser">Vor 16 Monaten war Oliver Brügge als Geschäftsführer der neuen Zanders Entwicklungsgesellschaft auch dafür angetreten, die Vergabe von Grundstücken auf dem Zanders-Areal an Investoren und Projektentwi</div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">30. Apr 2026</div>
   <h3><a href="https://in-gl.de/2026/04/30/schule-kurz-knapp-wofuer-eine-weitere-sporthalle-gebraucht-wird/" target="_blank" rel="noopener">Schule, kurz &amp; knapp: Wofür eine weitere Sporthalle gebraucht wird</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Der Ausschuss für Schule und Gebäudewirtschaft (ASG) hat sich fast nur mit einer einzigen Frage in vielen Facetten beschäftigt: Wie gelingt es, den Schulbetrieb in den maroden Schu</div>
+  <div class="evt-teaser">Der Ausschuss für Schule und Gebäudewirtschaft (ASG) hat sich fast nur mit einer einzigen Frage in vielen Facetten beschäftigt: Wie gelingt es, den Schulbetrieb in den maroden Schulgebäuden irgendwie </div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">30. Apr 2026</div>
   <h3><a href="https://in-gl.de/2026/04/30/tag-der-offenen-tuer-in-der-geburtshilfe/" target="_blank" rel="noopener">Tag der offenen Tür in der Geburtshilfe</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Das EVK Bergisch Gladbach lädt am 9. Mai von 10 bis 15 Uhr zum Tag der offenen Tür in die frisch als „Babyfreundliches Krankenhaus&quot; zertifizierte Geburtshilfe ein. Werdende Eltern </div>
+  <div class="evt-teaser">Das EVK Bergisch Gladbach lädt am 9. Mai von 10 bis 15 Uhr zum Tag der offenen Tür in die frisch als „Babyfreundliches Krankenhaus&quot; zertifizierte Geburtshilfe ein. Werdende Eltern erwartet ein umfangr</div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">30. Apr 2026</div>
   <h3><a href="https://in-gl.de/2026/04/30/angebote-des-seniorenbeirats-im-mai/" target="_blank" rel="noopener">Angebote des Seniorenbeirats im Mai</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Mit einem vielfältigen Veranstaltungsangebot startet der Seniorenbeirat der Stadt Bergisch Gladbach in den Mai. Seniorinnen und Senioren sind herzlich eingeladen, sich zu informier</div>
+  <div class="evt-teaser">Mit einem vielfältigen Veranstaltungsangebot startet der Seniorenbeirat der Stadt Bergisch Gladbach in den Mai. Seniorinnen und Senioren sind herzlich eingeladen, sich zu informieren, ins Gespräch zu </div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">7. Mai 2026</div>
   <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/alles-rund-ums-fahrrad-wermelskirchener-laeuten-die-saison-ein-YNNFPKYBEJF75HGSBPMX6T3AHQ.html" target="_blank" rel="noopener">Alles rund ums Fahrrad: Wermelskirchener läuten die Saison ein</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Stadtradeln, Trassentreffen und geführte Touren: Für Hobbyradler gibt es jetzt eine Menge Angebote. ADFC-Vorsitzende Sabine Krämer-Kox stellt einige vor.</div>
+  <div class="evt-teaser">Stadtradeln, Trassentreffen und geführte Touren: Für Hobbyradler gibt es jetzt eine Menge Angebote. ADFC-Vorsitzende Sabine Krämer-Kox stellt einige vor.</div>
   <div class="evt-info">Quelle: RGA Wermelskirchen</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">7. Mai 2026</div>
   <h3><a href="https://in-gl.de/2026/05/07/der-gleispark-auf-zanders-steht-zur-eroberung-bereit/" target="_blank" rel="noopener">Der Gleispark auf Zanders steht zur Eroberung bereit</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Fußballplatz, Biergarten, Jugendzentrum und Fitnessstudio unter freiem Himmel: Der Gleispark auf dem Zanders-Gelände hält viele Möglichkeiten für alle Altersklassen bereit. Am Sams</div>
+  <div class="evt-teaser">Fußballplatz, Biergarten, Jugendzentrum und Fitnessstudio unter freiem Himmel: Der Gleispark auf dem Zanders-Gelände hält viele Möglichkeiten für alle Altersklassen bereit. Am Samstag wird die neue Gr</div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">7. Mai 2026</div>
   <h3><a href="https://in-gl.de/2026/05/07/1000-gaeste-feiern-maifest-in-refrath/" target="_blank" rel="noopener">1000 Gäste feiern Maifest in Refrath</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Der Bürger- und Heimatverein Refrath hat sein traditionelles Maifest im Bürgerpark an der Steinbreche mit mehr als 1000 Gästen gefeiert. In diesem Jahr sorgten Politikerinnen und P</div>
+  <div class="evt-teaser">Der Bürger- und Heimatverein Refrath hat sein traditionelles Maifest im Bürgerpark an der Steinbreche mit mehr als 1000 Gästen gefeiert. In diesem Jahr sorgten Politikerinnen und Politiker für Würstch</div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">7. Mai 2026</div>
   <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/sieben-kuenstler-sprechen-in-sieben-sprachen-F3G3BGSF77RIBQYXSDSGJVJWF4.html" target="_blank" rel="noopener">Sieben Künstler sprechen in sieben Sprachen</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Tulpen in Öl, Fotokunst als Faltobjekt, abstrakte Malerei und schrille „freaks“: Die Ausstellung „Die Neuen“ in der Galerie am markt zeigt, wie unterschiedlich Kunst erzählen kann.</div>
+  <div class="evt-teaser">Tulpen in Öl, Fotokunst als Faltobjekt, abstrakte Malerei und schrille „freaks“: Die Ausstellung „Die Neuen“ in der Galerie am markt zeigt, wie unterschiedlich Kunst erzählen kann.</div>
   <div class="evt-info">Quelle: RGA Wermelskirchen</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">26. Apr 2026</div>
   <h3><a href="https://in-gl.de/2026/04/26/alte-dombach-laedt-zum-papier-und-fairmarkt-ein/" target="_blank" rel="noopener">Alte Dombach lädt zum Papier- und Fairmarkt ein</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Am Sonntag verwandelt sich das Gelände des LVR-Industriemuseums Papiermühle Alte Dombach in einen lebendigen Treffpunkt für Kunst, Handwerk, Nachhaltigkeit und Genuss. Der beliebte</div>
+  <div class="evt-teaser">Am Sonntag verwandelt sich das Gelände des LVR-Industriemuseums Papiermühle Alte Dombach in einen lebendigen Treffpunkt für Kunst, Handwerk, Nachhaltigkeit und Genuss. Der beliebte Papier- und Fairmar</div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">26. Apr 2026</div>
   <h3><a href="https://in-gl.de/2026/04/26/stadtbuecherei-fragt-auf-dem-wochenmarkt-nach-ihrer-zukunft/" target="_blank" rel="noopener">Stadtbücherei fragt auf dem Wochenmarkt nach ihrer Zukunft</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Wie soll die Stadtbücherei der Zukunft aussehen? Welche Angebote wünschen sich die Menschen vor Ort – und was macht einen modernen Bibliotheksort heute aus? Diesen Fragen widmet si</div>
+  <div class="evt-teaser">Wie soll die Stadtbücherei der Zukunft aussehen? Welche Angebote wünschen sich die Menschen vor Ort – und was macht einen modernen Bibliotheksort heute aus? Diesen Fragen widmet sich eine öffentliche </div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">26. Apr 2026</div>
   <h3><a href="https://in-gl.de/2026/04/26/sicher-auf-dem-pedelec-kurse-fuer-anfaenger-fortgeschrittene-und-senioren/" target="_blank" rel="noopener">Sicher auf dem Pedelec: Kurse für Anfänger, Fortgeschrittene und Senioren</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">ADFC Rhein-Berg, Verkehrswacht, Polizei und die Infrastruktur- und Projektgesellschaft Bergisch Gladbach bieten 2026 fünf zweitägige Pedelec-Trainingskurse an – mit maximal 12 Teil</div>
+  <div class="evt-teaser">ADFC Rhein-Berg, Verkehrswacht, Polizei und die Infrastruktur- und Projektgesellschaft Bergisch Gladbach bieten 2026 fünf zweitägige Pedelec-Trainingskurse an – mit maximal 12 Teilnehmenden pro Kurs. </div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">3. Mai 2026</div>
   <h3><a href="https://in-gl.de/2026/05/03/menschsein-fotos-vom-dasein-im-wandel/" target="_blank" rel="noopener">„! MenschSein“: Fotos vom Dasein im Wandel</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">In der Ausstellung „! MenschSein“ präsentieren die Fotografen Hartmut Schneider und Christoph Gerhartz in den Lux-Hallen Werke, die den Blick auf unsere Existenz aus verschiedenste</div>
+  <div class="evt-teaser">In der Ausstellung „! MenschSein“ präsentieren die Fotografen Hartmut Schneider und Christoph Gerhartz in den Lux-Hallen Werke, die den Blick auf unsere Existenz aus verschiedensten Perspektiven und J</div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">25. Apr 2026</div>
   <h3><a href="https://in-gl.de/2026/04/25/50-shades-of-blue-partout-zeigt-blaue-horizonte-von-jovita-majewski/" target="_blank" rel="noopener">50 Shades of Blue:  Partout zeigt „Blaue Horizonte” von Jovita Majewski</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Die zwei Ausstellungsräume im Partout sind ausschließlich mit blauen Bildern bestückt. Wer glaubt, das sei bloß eine ästhetische Spielerei, liegt nicht ganz falsch – und genau dari</div>
+  <div class="evt-teaser">Die zwei Ausstellungsräume im Partout sind ausschließlich mit blauen Bildern bestückt. Wer glaubt, das sei bloß eine ästhetische Spielerei, liegt nicht ganz falsch – und genau darin liegt der Knackpun</div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">2. Mai 2026</div>
   <h3><a href="https://in-gl.de/2026/05/02/mit-dudelsack-und-wortgewalt-info-tafel-auf-beit-jala-platz-enthuellt/" target="_blank" rel="noopener">Mit Dudelsack und Wortgewalt: Info-Tafel auf Beit-Jala-Platz enthüllt</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Vor dem Welttag der Partnerstädte ist in einer kleinen Feierstunde auf dem Beit-Jala-Platz eine neue Info-Tafel über die Partnerkommune bei Bethlehem enthüllt worden. Bürgermeister</div>
+  <div class="evt-teaser">Vor dem Welttag der Partnerstädte ist in einer kleinen Feierstunde auf dem Beit-Jala-Platz eine neue Info-Tafel über die Partnerkommune bei Bethlehem enthüllt worden. Bürgermeister Marcel Kreutz legte</div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">27. Apr 2026</div>
   <h3><a href="https://www.presseportal.de/blaulicht/pm/62459/6263305" target="_blank" rel="noopener">POL-RBK: Wermelskirchen - Bilanz zur Auftaktveranstaltung &quot;Kaffee und Knöllchen&quot;</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Wermelskirchen (ots) - Am gestrigen Tag fand die Auftaktveranstaltung zur Kontrollaktion &quot;Kaffee und Knöllchen&quot; in Wermelskirchen statt. Polizistinnen und Polizisten des Verkehrsdi</div>
+  <div class="evt-teaser">Wermelskirchen (ots) - Am gestrigen Tag fand die Auftaktveranstaltung zur Kontrollaktion &quot;Kaffee und Knöllchen&quot; in Wermelskirchen statt. Polizistinnen und Polizisten des Verkehrsdienstes sowie der Ver</div>
   <div class="evt-info">Quelle: Presseportal Polizei RBK</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">27. Apr 2026</div>
   <h3><a href="https://in-gl.de/2026/04/27/kommunikation-ist-alles-best-of-bergisch-bergisch-gladbach/" target="_blank" rel="noopener">Kommunikation ist alles …</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">... aber nicht alles ist Interaktion. Denn erst im Gesicht und der Körpersprache unseres Gegenübers zeigt sich die Reaktion auf unsere Ansprache. Diese Kommunikation auf Augenhöhe </div>
+  <div class="evt-teaser">... aber nicht alles ist Interaktion. Denn erst im Gesicht und der Körpersprache unseres Gegenübers zeigt sich die Reaktion auf unsere Ansprache. Diese Kommunikation auf Augenhöhe ist das, was Best of</div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">4. Mai 2026</div>
   <h3><a href="https://in-gl.de/2026/05/04/katholische-grundschule-sand-feiert-150-jaehriges-jubilaeum/" target="_blank" rel="noopener">Katholische Grundschule Sand feiert 150‑jähriges Jubiläum</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Seit 150 Jahren ist die Katholische Grundschule Sand ein lebendiger Mittelpunkt des Lernens, der Gemeinschaft und des Miteinanders. Was 1876 als kleine Dorfschule begann, hat unzäh</div>
+  <div class="evt-teaser">Seit 150 Jahren ist die Katholische Grundschule Sand ein lebendiger Mittelpunkt des Lernens, der Gemeinschaft und des Miteinanders. Was 1876 als kleine Dorfschule begann, hat unzählige Generationen ge</div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">4. Mai 2026</div>
   <h3><a href="https://in-gl.de/2026/05/04/ein-maibaum-fuer-schildgen-premiere-weckt-lust-auf-mehr/" target="_blank" rel="noopener">Ein Maibaum für Schildgen: Premiere weckt Lust auf mehr</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Schildgen hat gefeiert: Bei strahlendem Sonnenschein und bester Stimmung fand in diesem Jahr erstmals das Maibaumstellen des Bürgervereins für Schildgen und Katterbach e.V. statt. </div>
+  <div class="evt-teaser">Schildgen hat gefeiert: Bei strahlendem Sonnenschein und bester Stimmung fand in diesem Jahr erstmals das Maibaumstellen des Bürgervereins für Schildgen und Katterbach e.V. statt. Rund 400 Besucherinn</div>
   <div class="evt-info">Quelle: iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">4. Mai 2026</div>
   <h3><a href="https://www.presseportal.de/blaulicht/pm/62459/6267658" target="_blank" rel="noopener">POL-RBK: Rhein.-Berg. Kreis - Geschwindigkeitsmessungen des Verkehrsdienstes - Motorradfahrer innerorts mit 105 km/h gemessen</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Rheinisch-Bergischer Kreis (ots) - Am gestrigen Sonntag (03.05.) hat der Verkehrsdienst der Polizei Rhein-Berg erneut intensive Geschwindigkeitskontrollen durchgeführt, insbesonder</div>
+  <div class="evt-teaser">Rheinisch-Bergischer Kreis (ots) - Am gestrigen Sonntag (03.05.) hat der Verkehrsdienst der Polizei Rhein-Berg erneut intensive Geschwindigkeitskontrollen durchgeführt, insbesondere an den vor allem b</div>
   <div class="evt-info">Quelle: Presseportal Polizei RBK</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">4. Mai 2026</div>
   <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/wermelskirchen-gottesdienst-auf-bierbaenken-glockengelaeut-per-handy-5T4QWUOZRNXTWKTXYBDDWDQPGU.html" target="_blank" rel="noopener">Wermelskirchen: Gottesdienst auf Bierbänken, Glockengeläut per Handy</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Der Rahmen wirkte festlich, die Stimmung bleibt gedämpft. Doch auch Zuversicht kommt auf, nachdem der Gottesdienst kurzerhand ins Freie verlegt werden musste.</div>
+  <div class="evt-teaser">Der Rahmen wirkte festlich, die Stimmung bleibt gedämpft. Doch auch Zuversicht kommt auf, nachdem der Gottesdienst kurzerhand ins Freie verlegt werden musste.</div>
   <div class="evt-info">Quelle: RGA Wermelskirchen</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">8. Mai 2026</div>
   <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/verkehrssicherheit-fuer-senioren-polizeihauptkommissarin-klaert-ueber-regeln-auf-CYJ4WFKFQFFBDBSWKSXNCCMIEI.html" target="_blank" rel="noopener">Verkehrssicherheit für Senioren: Polizeihauptkommissarin klärt über Regeln auf</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Senioren und Verkehrsregeln: Ein Vortrag im Jugendraum des Turnerbunds Groß-Ösinghausen zeigt, dass ältere Autofahrer mit aktuellen Herausforderungen gut umgehen können.</div>
+  <div class="evt-teaser">Senioren und Verkehrsregeln: Ein Vortrag im Jugendraum des Turnerbunds Groß-Ösinghausen zeigt, dass ältere Autofahrer mit aktuellen Herausforderungen gut umgehen können.</div>
   <div class="evt-info">Quelle: RGA Burscheid</div>
 </div>
   <div class="sidebar-box" style="margin-top:18px;">
     <h3>Veranstaltungsportale</h3>
-    <div class="portal-links"><a class="portal-link" href="https://www.rga.de/veranstaltungen/" target="_blank" rel="noopener"><span class="icon">🌐</span>RGA Veranstaltungen</a><a class="portal-link" href="https://www.bergischgladbach.de/veranstaltungen.aspx" target="_blank" rel="noopener"><span class="icon">🏛️</span>Bergisch Gladbach – Veranstaltungen</a><a class="portal-link" href="https://in-gl.de/category/veranstaltungen/" target="_blank" rel="noopener"><span class="icon">🎭</span>iGL Veranstaltungskalender</a><a class="portal-link" href="https://www.rheinisch-bergischer-kreis.de/" target="_blank" rel="noopener"><span class="icon">🎵</span>Stadtkultur RBK</a><a class="portal-link" href="https://www.eventbrite.de/d/germany--bergisch-gladbach/events/" target="_blank" rel="noopener"><span class="icon">🎪</span>Eventbrite Region Bergisch Gladbach</a><a class="portal-link" href="https://www.ksta.de/region/rhein-berg-oberberg/" target="_blank" rel="noopener"><span class="icon">📅</span>Kölner Stadtanzeiger RBK</a></div>
+<div class="portal-links"><a class="portal-link" href="https://www.rga.de/veranstaltungen/" target="_blank" rel="noopener"><span class="icon">🌐</span>RGA Veranstaltungen</a><a class="portal-link" href="https://www.bergischgladbach.de/veranstaltungen.aspx" target="_blank" rel="noopener"><span class="icon">🏛️</span>Bergisch Gladbach – Veranstaltungen</a><a class="portal-link" href="https://in-gl.de/category/veranstaltungen/" target="_blank" rel="noopener"><span class="icon">🎭</span>iGL Veranstaltungskalender</a><a class="portal-link" href="https://www.rheinisch-bergischer-kreis.de/" target="_blank" rel="noopener"><span class="icon">🎵</span>Stadtkultur RBK</a><a class="portal-link" href="https://www.eventbrite.de/d/germany--bergisch-gladbach/events/" target="_blank" rel="noopener"><span class="icon">🎪</span>Eventbrite Region Bergisch Gladbach</a><a class="portal-link" href="https://www.ksta.de/region/rhein-berg-oberberg/" target="_blank" rel="noopener"><span class="icon">📅</span>Kölner Stadtanzeiger RBK</a></div>
   </div>
-</div><div class="region-panel" data-region="oberberg">
+</div>
+<div class="region-panel" data-region="oberberg">
   <div style="margin: 20px 0 8px 0; font-family: sans-serif; font-size: 0.95rem; color: var(--rbk-blau); font-weight:600;">Veranstaltungen im Oberberg</div>
-  <div class="hinweis" style="background:#EAFAF1; border-color:#27AE60;">📅 21 Veranstaltungshinweise aus lokalen Nachrichten</div>
+<div class="hinweis" style="background:#EAFAF1; border-color:#27AE60;">📅 21 Veranstaltungshinweise aus lokalen Nachrichten</div>
 <div class="evt-card">
   <div class="evt-datum">29. Apr 2026</div>
   <h3><a href="https://www.news-on-tour.de/201798/sonnencreme-mythos-faktencheck-wahrheit/" target="_blank" rel="noopener">Sonnencreme-Mythos im Faktencheck – Wahrheit zu Toxinen und Krebsrisiko</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Sonnencreme / Faktencheck / Hautkrebs / Sonnenschutz (Von Christian Sasse) Auf Instagram kursiert ein Reel, in dem Sonnencreme pauschal als giftig und krebserregend bezeichnet wird</div>
+  <div class="evt-teaser">Sonnencreme / Faktencheck / Hautkrebs / Sonnenschutz (Von Christian Sasse) Auf Instagram kursiert ein Reel, in dem Sonnencreme pauschal als giftig und krebserregend bezeichnet wird. Der Faktencheck ze</div>
   <div class="evt-info">Quelle: NEWS-on-Tour (Gesamt)</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">29. Apr 2026</div>
   <h3><a href="https://www.news-on-tour.de/179860/oberberg-veranstaltungskalender-nrw/" target="_blank" rel="noopener">Veranstaltungskalender Oberberg: Events &amp; Termine.NEWS-on-Tour.de im Oberbergischen Kreis</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Kaum ein Veranstaltungskalender bietet mehr für den Oberbergischen Kreis und Umgebung! 134 Termine aktuell online &amp;#8211; Täglich aktualisiert! Oberberg / Veranstaltungskalender / </div>
+  <div class="evt-teaser">Kaum ein Veranstaltungskalender bietet mehr für den Oberbergischen Kreis und Umgebung! 134 Termine aktuell online &amp;#8211; Täglich aktualisiert! Oberberg / Veranstaltungskalender / Oberbergischer Kreis</div>
   <div class="evt-info">Quelle: NEWS-on-Tour (Gesamt)</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">6. Mai 2026</div>
   <h3><a href="https://www.rga.de/lokales/remscheid/kulturtipps-das-ist-am-wochenende-in-remscheid-los-abba-tina-teubner-stefan-danziger-teo-otto-WOYML3HK6NASZF3IORJ2JAVQBY.html" target="_blank" rel="noopener">Kulturtipps: Das ist am Wochenende in Remscheid los - Abba, Tina Teubner, Stefan Danziger, Teo Otto Theater</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Das Teo Otto Theater verspricht am Wochenende erstklassige Unterhaltung, bei der die Gäste auf der Bühne sitzen, Comedians treten auf Kleinkunstbühnen auf – und in der Nachbarstadt</div>
+  <div class="evt-teaser">Das Teo Otto Theater verspricht am Wochenende erstklassige Unterhaltung, bei der die Gäste auf der Bühne sitzen, Comedians treten auf Kleinkunstbühnen auf – und in der Nachbarstadt Radevormwald steigt</div>
   <div class="evt-info">Quelle: RGA Radevormwald</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">5. Mai 2026</div>
   <h3><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/siegerlesung-im-ungewoehnlichen-rahmen-K7COZKPNPWE5RWACITK5M347GA.html" target="_blank" rel="noopener">Siegerlesung im ungewöhnlichen Rahmen</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Hannah und Arne Palubitzki öffneten das Erdgeschoss ihrer Wohnung an der Marktstraße für eine besondere Gelegenheit. Es war die letzte Lesung des fünften Schreibwettbewerbs „Superh</div>
+  <div class="evt-teaser">Hannah und Arne Palubitzki öffneten das Erdgeschoss ihrer Wohnung an der Marktstraße für eine besondere Gelegenheit. Es war die letzte Lesung des fünften Schreibwettbewerbs „Superheld:innen“.</div>
   <div class="evt-info">Quelle: RGA Hückeswagen</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">5. Mai 2026</div>
   <h3><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/gira-geschaeftsfuehrung-feiert-mit-erfolgreichen-azubis-5EHFOJGQB5SOUTLE32NBZA4M2Y.html" target="_blank" rel="noopener">Gira-Geschäftsführung feiert mit erfolgreichen Azubis</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Fünf junge Fachkräfte haben es geschafft.</div>
+  <div class="evt-teaser">Fünf junge Fachkräfte haben es geschafft.</div>
   <div class="evt-info">Quelle: RGA Radevormwald</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">30. Apr 2026</div>
   <h3><a href="https://www.news-on-tour.de/201811/bergneustadt-grundsteuer-2026/" target="_blank" rel="noopener">Bergneustadt: Stille Rechnung – Rückwirkende Grundsteuererhöhung 2026 – Verwaltung nutzt juristisches Fristfenster für Nachbescheide</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Grundsteuer / Bergneustadt / Hebesatz / Haushalt Oberberg (Von Christian Sasse) Bergneustadt könnte Eigentümern von Wohngrundstücken im laufenden Jahr 2026 noch eine unangenehme Üb</div>
+  <div class="evt-teaser">Grundsteuer / Bergneustadt / Hebesatz / Haushalt Oberberg (Von Christian Sasse) Bergneustadt könnte Eigentümern von Wohngrundstücken im laufenden Jahr 2026 noch eine unangenehme Überraschung bescheren</div>
   <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">7. Mai 2026</div>
   <h3><a href="https://www.news-on-tour.de/202022/gummersbach-jobmesse-oberberg-halle32/" target="_blank" rel="noopener">Gummersbach: Jobmesse Oberberg mit Rekordandrang in der Halle 32</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Oberberg / Gummersbach / Jobmesse Oberberg / Halle 32 / Fachkräftemangel (Von Christian Sasse) Hunderte Besucher, 51 Aussteller: Die Jobmesse Oberberg – Die Jobmesse LateNightEditi</div>
+  <div class="evt-teaser">Oberberg / Gummersbach / Jobmesse Oberberg / Halle 32 / Fachkräftemangel (Von Christian Sasse) Hunderte Besucher, 51 Aussteller: Die Jobmesse Oberberg – Die Jobmesse LateNightEdition hat am Donnerstag</div>
   <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">7. Mai 2026</div>
   <h3><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/diskussionsabend-zur-wehrpflicht-mitoffizier-betroffenen-und-kriegsgegnern-RIQFTHYGAPCY6VYOUOEQSP6QPM.html" target="_blank" rel="noopener">Diskussionsabend zur Wehrpflicht mitOffizier, Betroffenen und Kriegsgegnern</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Im Kultur-Haus Zach findet am 11. Mai erstmals „Hückeswagen im Dialog“ statt. Das neue Format wird organisiert von der Bürgergruppierung „Wir sind mehr im Bergischen“.</div>
+  <div class="evt-teaser">Im Kultur-Haus Zach findet am 11. Mai erstmals „Hückeswagen im Dialog“ statt. Das neue Format wird organisiert von der Bürgergruppierung „Wir sind mehr im Bergischen“.</div>
   <div class="evt-info">Quelle: RGA Hückeswagen</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">7. Mai 2026</div>
   <h3><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/gold-oder-aktien-hier-gab-es-antworten-ZR5BMSF6OWIY4GJJAFGM3QONAY.html" target="_blank" rel="noopener">Gold oder Aktien? Hier gab es Antworten</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Zwar traf die Referentin wegen eines Staus erst viel später ein, doch der Informationsabend für Frauen zum Thema Börse und Geldanlage stieß auf großes Interesse.</div>
+  <div class="evt-teaser">Zwar traf die Referentin wegen eines Staus erst viel später ein, doch der Informationsabend für Frauen zum Thema Börse und Geldanlage stieß auf großes Interesse.</div>
   <div class="evt-info">Quelle: RGA Radevormwald</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">7. Mai 2026</div>
   <h3><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/freundlichkeit-ist-eine-kraft-die-das-miteinander-traegt-SG336C525VH2OA4XEZYG76DIAY.html" target="_blank" rel="noopener">„Freundlichkeit ist eine Kraft,die das Miteinander trägt“</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Bei der Maiwanderung der kfd trotzten die Teilnehmerinnen dem Regen und setzten sich beim spirituellen Spaziergang mit einem wichtigen Thema auseinander.</div>
+  <div class="evt-teaser">Bei der Maiwanderung der kfd trotzten die Teilnehmerinnen dem Regen und setzten sich beim spirituellen Spaziergang mit einem wichtigen Thema auseinander.</div>
   <div class="evt-info">Quelle: RGA Hückeswagen</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">26. Apr 2026</div>
   <h3><a href="https://www.news-on-tour.de/201733/nuembrechter-fruehling-2026familienfest/" target="_blank" rel="noopener">Nümbrechter Frühling 2026: Handwerk und volle Hauptstraße beim großen Familienfest</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Nümbrecht / Frühling in Nümbrecht / Handwerk / Verkaufsoffener Sonntag (Von Christian Sasse) Strahlender Sonnenschein, dicht gedrängte Besucher und ein prallgefülltes Programm: Der</div>
+  <div class="evt-teaser">Nümbrecht / Frühling in Nümbrecht / Handwerk / Verkaufsoffener Sonntag (Von Christian Sasse) Strahlender Sonnenschein, dicht gedrängte Besucher und ein prallgefülltes Programm: Der Nümbrechter Frühlin</div>
   <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">3. Mai 2026</div>
   <h3><a href="https://www.news-on-tour.de/201904/tischtennis-vfl-gummersbach-kreuzchen/" target="_blank" rel="noopener">Tischtennis: VfL Gummersbach Kreuzchen-Turnier – Sasse triumphiert bei Blitz und Donner</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Gummersbach / Tischtennis / VfL Gummersbach / Vereinssport (Von NEWS-Redaktion) Während draußen über Gummersbach Blitze zuckten und Donner rollte, ließen sich die TT-Spieler in der</div>
+  <div class="evt-teaser">Gummersbach / Tischtennis / VfL Gummersbach / Vereinssport (Von NEWS-Redaktion) Während draußen über Gummersbach Blitze zuckten und Donner rollte, ließen sich die TT-Spieler in der Turnhalle an der Bi</div>
   <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">25. Apr 2026</div>
   <h3><a href="https://www.news-on-tour.de/201717/immobilienmarkt-oberberg-2026-wohnungen/" target="_blank" rel="noopener">Immobilienmarkt Oberberg 2026 – Eigentumswohnungen ziehen kräftig an</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Immobilienmarkt Oberberg /Grundstücksmarktbericht / Wohnen (Von Christian Sasse) Der neue Grundstücksmarktbericht 2026 für den Oberbergischen Kreis zeichnet ein zweigeteiltes Bild:</div>
+  <div class="evt-teaser">Immobilienmarkt Oberberg /Grundstücksmarktbericht / Wohnen (Von Christian Sasse) Der neue Grundstücksmarktbericht 2026 für den Oberbergischen Kreis zeichnet ein zweigeteiltes Bild: Freistehende Häuser</div>
   <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">2. Mai 2026</div>
   <h3><a href="https://www.news-on-tour.de/201869/dlrg-bergneustadt-wache-aggertalsperre/" target="_blank" rel="noopener">DLRG Bergneustadt: Neue 400.000 Euro Wasserrettungsstation – Wache 2.0 an der Aggertalsperre feierlich eröffnet</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">DLRG Bergneustadt / Wasserrettungsstation / Aggertalsperre / Wache 2.0 (Von Christian Sasse) Nach acht Jahren Planung, Rückschlägen und einem Gesamtinvestitionsvolumen von rund 400</div>
+  <div class="evt-teaser">DLRG Bergneustadt / Wasserrettungsstation / Aggertalsperre / Wache 2.0 (Von Christian Sasse) Nach acht Jahren Planung, Rückschlägen und einem Gesamtinvestitionsvolumen von rund 400.000 Euro hat die DL</div>
   <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">27. Apr 2026</div>
   <h3><a href="https://www.news-on-tour.de/201781/olpe-polizei-rind-erschossen-b55-a45/" target="_blank" rel="noopener">Olpe: Polizei erschießt entlaufene Kuh mit Maschinenpistole – Jäger nur Minuten entfernt</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Olpe / Polizei / Rind / B55 (Von Christian Sasse) An der Anschlussstelle Olpe der A45 ist am Montagabend, 27. April 2026, ein entlaufenes Rind von der Polizei mit Schüssen getötet </div>
+  <div class="evt-teaser">Olpe / Polizei / Rind / B55 (Von Christian Sasse) An der Anschlussstelle Olpe der A45 ist am Montagabend, 27. April 2026, ein entlaufenes Rind von der Polizei mit Schüssen getötet worden. Beamte ersch</div>
   <div class="evt-info">Quelle: NEWS-on-Tour (Gesamt)</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">4. Mai 2026</div>
   <h3><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/party-der-feuerwehr-in-oenkfeld-in-radevormwald-wurde-kraeftig-in-den-mai-gefeiert-Y754P7X7WUG5F2GBJFIYV67RGQ.html" target="_blank" rel="noopener">Party der Feuerwehr in Önkfeld: In Radevormwald wurde kräftig in den Mai gefeiert</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Mit einer DJ-Party und einem Frühschoppen startete die Löschgruppe Önkfeld in den Mai. Höhepunkt war wieder die Übung der Kinderfeuerwehr.</div>
+  <div class="evt-teaser">Mit einer DJ-Party und einem Frühschoppen startete die Löschgruppe Önkfeld in den Mai. Höhepunkt war wieder die Übung der Kinderfeuerwehr.</div>
   <div class="evt-info">Quelle: RGA Radevormwald</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">4. Mai 2026</div>
   <h3><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/in-hueckeswagen-geht-eine-troedel-aera-zu-ende-noch-einmal-finden-alte-schaetze-neue-besitzer-K7E4MGHNUI3JTPDQESZCDG7H7M.html" target="_blank" rel="noopener">In Hückeswagen geht eine Trödel-Ära zu Ende: Noch einmal finden alte Schätze neue Besitzer</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Die Katholische Frauengemeinschaft versteigert beim Markt „Altes neu macht der Mai“ ihre letzten Stücke.</div>
+  <div class="evt-teaser">Die Katholische Frauengemeinschaft versteigert beim Markt „Altes neu macht der Mai“ ihre letzten Stücke.</div>
   <div class="evt-info">Quelle: RGA Hückeswagen</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">24. Apr 2026</div>
   <h3><a href="https://www.news-on-tour.de/201688/bergneustadt-historischer-abend20260424/" target="_blank" rel="noopener">Bergneustadt: Historischer Abend im Heimatmuseum begeistert mit Dönnekes</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Bergneustadt / Heimatmuseum / Stadtgeschichte / 725 Jahre (Von Christian Sasse) Zum Auftakt der Feierlichkeiten rund um das 725-jährige Stadtjubiläum hat der Heimatverein Feste Neu</div>
+  <div class="evt-teaser">Bergneustadt / Heimatmuseum / Stadtgeschichte / 725 Jahre (Von Christian Sasse) Zum Auftakt der Feierlichkeiten rund um das 725-jährige Stadtjubiläum hat der Heimatverein Feste Neustadt am Freitagaben</div>
   <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">8. Mai 2026</div>
   <h3><a href="https://www.presseportal.de/blaulicht/pm/65843/6271166" target="_blank" rel="noopener">POL-GM: Ladendiebin vorläufig festgenommen</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Gummersbach (ots) - Mitarbeiter eines Supermarktes in der Straße &quot;Am Alten Bahnhof&quot; in Niederseßmar riefen am 7. Mai (Donnerstag) gegen 17:10 Uhr die Polizei, nachdem sie im Geschä</div>
+  <div class="evt-teaser">Gummersbach (ots) - Mitarbeiter eines Supermarktes in der Straße &quot;Am Alten Bahnhof&quot; in Niederseßmar riefen am 7. Mai (Donnerstag) gegen 17:10 Uhr die Polizei, nachdem sie im Geschäft eine Frau wiedere</div>
   <div class="evt-info">Quelle: Presseportal Polizei OBK</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">8. Mai 2026</div>
   <h3><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/lebensmittelhaendler-familien-spueren-die-preissteigerungen-am-staerksten-6POJO7N7UMDHVXQZBOUYWFFXGQ.html" target="_blank" rel="noopener">Lebensmittelhändler: „Familien spüren die Preissteigerungen am stärksten“</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Lebensmittelpreise steigen, doch nicht alle Warengruppen sind gleich betroffen. Luca Byhahn, Prokurist im Edeka-Markt auf Wiehagen erläutert, welche Produkte sogar günstiger geword</div>
+  <div class="evt-teaser">Lebensmittelpreise steigen, doch nicht alle Warengruppen sind gleich betroffen. Luca Byhahn, Prokurist im Edeka-Markt auf Wiehagen erläutert, welche Produkte sogar günstiger geworden sind.</div>
   <div class="evt-info">Quelle: RGA Hückeswagen</div>
 </div>
 <div class="evt-card">
   <div class="evt-datum">8. Mai 2026</div>
   <h3><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/diese-feuerwehr-tipps-koennen-leben-retten-6EZP4MMZP2K3GFOWW74DT4THQM.html" target="_blank" rel="noopener">Diese Feuerwehr-Tipps können Leben retten</a></h3>
-  
-  <div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">Stadt und Feuerwehr wollen die Selbst-hilfefähigkeiten der Menschen in Radevormwald stärken. Ab sofort gibt es deswegen spezielle Veranstaltungen, die auf den Notfall vorbereiten.</div>
+  <div class="evt-teaser">Stadt und Feuerwehr wollen die Selbst-hilfefähigkeiten der Menschen in Radevormwald stärken. Ab sofort gibt es deswegen spezielle Veranstaltungen, die auf den Notfall vorbereiten.</div>
   <div class="evt-info">Quelle: RGA Radevormwald</div>
 </div>
   <div class="sidebar-box" style="margin-top:18px;">
     <h3>Veranstaltungsportale</h3>
-    <div class="portal-links"><a class="portal-link" href="https://www.obk.de/" target="_blank" rel="noopener"><span class="icon">🌐</span>Oberbergischer Kreis – Aktuelles</a><a class="portal-link" href="https://www.oberberg-aktuell.de/" target="_blank" rel="noopener"><span class="icon">📰</span>Oberberg-Aktuell</a><a class="portal-link" href="https://www.obk.de/veranstaltungen/" target="_blank" rel="noopener"><span class="icon">🎭</span>OBK Veranstaltungskalender</a><a class="portal-link" href="https://www.gummersbach.de/" target="_blank" rel="noopener"><span class="icon">🎵</span>Gummersbach Stadtkultur</a><a class="portal-link" href="https://www.eventbrite.de/d/germany--gummersbach/events/" target="_blank" rel="noopener"><span class="icon">🎪</span>Eventbrite Gummersbach</a><a class="portal-link" href="https://www.lokalkompass.de/gummersbach/" target="_blank" rel="noopener"><span class="icon">📅</span>Lokalkompass Oberberg</a></div>
+<div class="portal-links"><a class="portal-link" href="https://www.obk.de/" target="_blank" rel="noopener"><span class="icon">🌐</span>Oberbergischer Kreis – Aktuelles</a><a class="portal-link" href="https://www.oberberg-aktuell.de/" target="_blank" rel="noopener"><span class="icon">📰</span>Oberberg-Aktuell</a><a class="portal-link" href="https://www.obk.de/veranstaltungen/" target="_blank" rel="noopener"><span class="icon">🎭</span>OBK Veranstaltungskalender</a><a class="portal-link" href="https://www.gummersbach.de/" target="_blank" rel="noopener"><span class="icon">🎵</span>Gummersbach Stadtkultur</a><a class="portal-link" href="https://www.eventbrite.de/d/germany--gummersbach/events/" target="_blank" rel="noopener"><span class="icon">🎪</span>Eventbrite Gummersbach</a><a class="portal-link" href="https://www.lokalkompass.de/gummersbach/" target="_blank" rel="noopener"><span class="icon">📅</span>Lokalkompass Oberberg</a></div>
   </div>
 </div>
 </main>
 <footer>
-  AI Tageszeitung · Veranstaltungskalender · Aktualisiert: 08.05.2026, 13:29<br>
+  AI Tageszeitung · Veranstaltungskalender · Aktualisiert: 08.05.2026, 13:43<br>
   <a href="/ai-tageszeitung/">Rhein-Berg</a> ·
   <a href="/ai-tageszeitung/oberberg/">Oberberg</a>
 </footer>
