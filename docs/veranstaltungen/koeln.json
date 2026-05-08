@@ -1,15 +1,5 @@
 [
   {
-    "titel": "PhilharmonieVeedel Baby",
-    "datum": "8. Mai 2026",
-    "datum_raw": "2026-05-08T11:00+0200",
-    "ort": "Bürgerzentrum Nippes Altenberger Hof, Mauenheimer Straße 92",
-    "preis": "ab 4 €",
-    "link": "https://rausgegangen.de/events/philharmonieveedel-baby-107/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "»Groll Zisch Määäh«MAMI NOVA ProjectEin performatives Babykonzert im VeedelGemeinsam erkunden Klein und Groß die mystische Natur! Sie lädt zu magischen Begegnungen ein: Man kann über knackende Gletscher rutschen, mi"
-  },
-  {
     "titel": "Indie Game Fest 2026",
     "datum": "8. Mai 2026",
     "datum_raw": "2026-05-08T12:00+0200",
@@ -18,16 +8,6 @@
     "link": "https://rausgegangen.de/events/indie-game-fest-2026-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Beim Indie Game Fest 2026 triffst du auf kreative Köpfe, die abseits des Mainstreams frische Spiele mit viel Herz und überraschenden Ideen präsentieren. Zum Ausprobieren gibt’s spannende Demos und viel Raum für Austausch"
-  },
-  {
-    "titel": "PhilharmonieVeedel Baby",
-    "datum": "8. Mai 2026",
-    "datum_raw": "2026-05-08T14:00+0200",
-    "ort": "Bürgerzentrum Nippes Altenberger Hof, Mauenheimer Straße 92",
-    "preis": "ab 4 €",
-    "link": "https://rausgegangen.de/events/philharmonieveedel-baby-108/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "»Groll Zisch Määäh«MAMI NOVA ProjectEin performatives Babykonzert im VeedelGemeinsam erkunden Klein und Groß die mystische Natur! Sie lädt zu magischen Begegnungen ein: Man kann über knackende Gletscher rutschen, mi"
   },
   {
     "titel": "Frühlingsgefühle & Streetfood: Feierabendmarkt Sülz",
@@ -348,6 +328,26 @@
     "link": "https://rausgegangen.de/events/shalaschon-sing-strum-auf-dem-bootchen-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Liebe Sängerinnen und Sänger, Ukulelistas, Gitarreros, Bassisten, Quetschisten und alle anderen, die nach Akkorden spielen können! Bei der nächsten \"Sing & Strum\"-Veranstaltung wird auf dem Böötchen unter dem Motto"
+  },
+  {
+    "titel": "TURBOBIER | „Das Leben is ein Oaschloch Release Tour 2026“",
+    "datum": "8. Mai 2026",
+    "datum_raw": "2026-05-08T20:00+0200",
+    "ort": "Luxor, Luxemburger Straße 40",
+    "preis": "ab 33 €",
+    "link": "https://rausgegangen.de/events/turbobier-das-leben-is-ein-oaschloch-release-tour-2026-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "TURBOBIER | „Das Leben is ein Oaschloch Release Tour 2026“Die österreichische Band TURBOBIER kündigt ihr neues Album sowie die dazugehörige „Das Leben is ein Oaschloch“-Tour 2026 an.    Prost, Punkrock und Pogo: TURBO"
+  },
+  {
+    "titel": "Der Plattenabend",
+    "datum": "8. Mai 2026",
+    "datum_raw": "2026-05-08T21:00+0200",
+    "ort": "Asimmetric Bar, Venloer Straße 196",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/der-plattenabend-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Vinyl von Alternative über Indie, Punk, Elektronik bis allerlei auf!"
   },
   {
     "titel": "SCiSSORS FLINTA* Party",
