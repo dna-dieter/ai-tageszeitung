@@ -321,11 +321,15 @@ def kreis_nav_html(active_slug=None):
         links.append(f'<a href="/{href}"{cls}>{kcfg["short"]}</a>')
     return "\n".join(links)
 
-def header_html(title, subtitle, article_count=None, kreis_slug=None):
+def header_html(title, subtitle, article_count=None, kreis_slug=None, active_section=None):
     count_text = f"{article_count} Artikel" if article_count else "Stündlich aktualisiert"
+    cls_rbk = ' class="active"' if active_section == "rbk" else ''
+    cls_ob  = ' class="active"' if active_section == "oberberg" else ''
+    cls_evt = ' class="active"' if active_section == "veranstaltungen" else ''
     return f"""<div class="kreis-nav">
-  <a href="/ai-tageszeitung/">Rhein-Berg</a>
-  <a href="/ai-tageszeitung/oberberg/">Oberberg</a>
+  <a href="/ai-tageszeitung/"{cls_rbk}>Rhein-Berg</a>
+  <a href="/ai-tageszeitung/oberberg/"{cls_ob}>Oberberg</a>
+  <a href="/ai-tageszeitung/veranstaltungen/"{cls_evt}>📅 Veranstaltungen</a>
 </div>
 <header>
   <div>
@@ -390,6 +394,7 @@ def build_kreis_index(kreis_slug, kreis_cfg):
       <ul style="list-style:none; font-size:0.82rem; font-family:sans-serif; color:#555;">{"".join(items)}</ul>
     </div>"""
 
+    active = "rbk" if kreis_slug == "rheinisch-bergischer-kreis" else "oberberg"
     page = f"""<!DOCTYPE html>
 <html lang="de">
 <head>
@@ -399,7 +404,7 @@ def build_kreis_index(kreis_slug, kreis_cfg):
 <style>{CSS}</style>
 </head>
 <body>
-{header_html("AI TAGESZEITUNG", kreis_cfg['name'])}
+{header_html("AI TAGESZEITUNG", kreis_cfg['name'], active_section=active)}
 <div class="ticker"><b>AKTUELL:</b> {ticker}</div>
 <nav>{"".join(nav_links)}</nav>
 <main>
@@ -541,6 +546,161 @@ def build_kreisweite_page(kreis_slug, kreis_cfg):
     (kreisweite_dir / "index.html").write_text(page)
     print(f"  {kreisweite_dir.relative_to(DOCS)}/index.html: {len(articles)} Artikel")
 
+VERANSTALTUNGEN_CSS_EXTRA = """
+.region-tabs { display: flex; gap: 0; background: white; border-bottom: 2px solid var(--rbk-blau); padding: 0 24px; }
+.region-tab { font-family: sans-serif; font-size: 0.88rem; padding: 10px 20px; cursor: pointer; border: none; background: none; color: var(--rbk-blau); border-bottom: 3px solid transparent; margin-bottom: -2px; transition: all 0.2s; font-weight: 600; }
+.region-tab:hover { background: var(--rbk-grau); }
+.region-tab.active { border-bottom-color: var(--rbk-rot); color: var(--rbk-rot); }
+.region-panel { display: none; }
+.region-panel.active { display: block; }
+.evt-card { background: white; border-radius: 6px; padding: 14px 18px; border-left: 4px solid #8E44AD; box-shadow: 0 1px 3px rgba(0,0,0,0.08); margin-bottom: 12px; }
+.evt-card:hover { box-shadow: 0 3px 12px rgba(0,0,0,0.12); }
+.evt-card .evt-datum { font-family: sans-serif; font-size: 0.78rem; font-weight: 700; color: #8E44AD; text-transform: uppercase; letter-spacing: 1px; }
+.evt-card h3 { font-size: 1.05rem; margin: 4px 0; line-height: 1.3; }
+.evt-card h3 a { color: var(--text); text-decoration: none; }
+.evt-card h3 a:hover { color: var(--akzent); }
+.evt-card .evt-ort { font-family: sans-serif; font-size: 0.82rem; color: #666; margin-top: 4px; }
+.evt-card .evt-info { font-family: sans-serif; font-size: 0.75rem; color: #888; margin-top: 5px; }
+.portal-links { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 16px; }
+.portal-link { background: white; border-radius: 6px; padding: 12px 14px; text-decoration: none; color: var(--text); border: 1px solid #e0e0e0; font-family: sans-serif; font-size: 0.85rem; display: flex; align-items: center; gap: 8px; transition: all 0.2s; }
+.portal-link:hover { border-color: var(--akzent); color: var(--akzent); box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+.portal-link .icon { font-size: 1.2rem; }
+.hinweis { background: #EBF5FB; border-left: 4px solid var(--akzent); padding: 12px 16px; border-radius: 4px; font-family: sans-serif; font-size: 0.85rem; color: #555; margin-bottom: 16px; }
+@media (max-width: 600px) { .portal-links { grid-template-columns: 1fr; } .region-tab { padding: 8px 12px; font-size: 0.8rem; } }
+"""
+
+VERANSTALTUNGEN_JS = """
+<script>
+function switchRegion(slug) {
+  document.querySelectorAll('.region-tab').forEach(t => t.classList.toggle('active', t.dataset.region === slug));
+  document.querySelectorAll('.region-panel').forEach(p => p.classList.toggle('active', p.dataset.region === slug));
+  localStorage.setItem('evt_region', slug);
+}
+(function() {
+  const saved = localStorage.getItem('evt_region') || 'rbk';
+  switchRegion(saved);
+})();
+</script>
+"""
+
+def veranstaltungen_portal_links(region):
+    portale = {
+        "koeln": [
+            ("🎭", "Köln.de Veranstaltungen", "https://www.koeln.de/veranstaltungen/"),
+            ("🎵", "KölnTicket", "https://www.koelnticket.de/veranstaltungen/"),
+            ("🏛️", "Kölner Philharmonie", "https://www.koelner-philharmonie.de/"),
+            ("🎪", "Eventim Köln", "https://www.eventim.de/city/koeln-218/"),
+            ("🌐", "Köln-Events", "https://www.koeln-events.de/"),
+            ("🎨", "Museen Köln", "https://www.museenkoeln.de/"),
+        ],
+        "rbk": [
+            ("🌐", "RGA Veranstaltungen", "https://www.rga.de/veranstaltungen/"),
+            ("🏛️", "Bergisch Gladbach – Veranstaltungen", "https://www.bergischgladbach.de/veranstaltungen.aspx"),
+            ("🎭", "iGL Veranstaltungskalender", "https://in-gl.de/category/veranstaltungen/"),
+            ("🎵", "Stadtkultur RBK", "https://www.rheinisch-bergischer-kreis.de/"),
+            ("🎪", "Eventbrite Region Bergisch Gladbach", "https://www.eventbrite.de/d/germany--bergisch-gladbach/events/"),
+            ("📅", "Kölner Stadtanzeiger RBK", "https://www.ksta.de/region/rhein-berg-oberberg/"),
+        ],
+        "oberberg": [
+            ("🌐", "Oberbergischer Kreis – Aktuelles", "https://www.obk.de/"),
+            ("📰", "Oberberg-Aktuell", "https://www.oberberg-aktuell.de/"),
+            ("🎭", "OBK Veranstaltungskalender", "https://www.obk.de/veranstaltungen/"),
+            ("🎵", "Gummersbach Stadtkultur", "https://www.gummersbach.de/"),
+            ("🎪", "Eventbrite Gummersbach", "https://www.eventbrite.de/d/germany--gummersbach/events/"),
+            ("📅", "Lokalkompass Oberberg", "https://www.lokalkompass.de/gummersbach/"),
+        ],
+    }
+    items = "".join(
+        f'<a class="portal-link" href="{url}" target="_blank" rel="noopener"><span class="icon">{icon}</span>{name}</a>'
+        for icon, name, url in portale.get(region, [])
+    )
+    return f'<div class="portal-links">{items}</div>'
+
+def build_veranstaltungen_page():
+    evt_dir = DOCS / "veranstaltungen"
+    evt_dir.mkdir(parents=True, exist_ok=True)
+
+    # Prüfen ob JSON-Dateien mit Veranstaltungen existieren
+    def load_events(slug):
+        f = evt_dir / f"{slug}.json"
+        if f.exists():
+            try:
+                return json.loads(f.read_text())
+            except Exception:
+                return []
+        return []
+
+    def events_html(events, region_name):
+        if not events:
+            return f"""<div class="hinweis">
+  Für <b>{region_name}</b> werden demnächst automatisch Veranstaltungen aus lokalen Quellen geladen.<br>
+  Nutze bis dahin die direkten Links zu den Veranstaltungsportalen unten.
+</div>"""
+        parts = []
+        for e in events[:30]:
+            datum = e.get("datum", "")
+            titel = htmlmod.escape(e.get("titel", e.get("title", "Veranstaltung")))
+            ort   = htmlmod.escape(e.get("ort", ""))
+            link  = htmlmod.escape(e.get("link", "#"))
+            info  = htmlmod.escape(e.get("quelle", e.get("source", "")))
+            parts.append(f"""<div class="evt-card">
+  <div class="evt-datum">{htmlmod.escape(datum)}</div>
+  <h3><a href="{link}" target="_blank" rel="noopener">{titel}</a></h3>
+  {"<div class='evt-ort'>📍 " + ort + "</div>" if ort else ""}
+  {"<div class='evt-info'>" + info + "</div>" if info else ""}
+</div>""")
+        return "\n".join(parts)
+
+    regions = [
+        ("koeln",    "Köln",                    "Veranstaltungen in der Domstadt"),
+        ("rbk",      "Rheinisch-Bergischer Kreis","Veranstaltungen im RBK"),
+        ("oberberg", "Oberbergischer Kreis",      "Veranstaltungen im Oberberg"),
+    ]
+
+    tabs_html = "".join(
+        f'<button class="region-tab" data-region="{slug}" onclick="switchRegion(\'{slug}\')">{name}</button>'
+        for slug, name, _ in regions
+    )
+
+    panels_html = "".join(f"""<div class="region-panel" data-region="{slug}">
+  <div style="margin: 20px 0 8px 0; font-family: sans-serif; font-size: 0.95rem; color: var(--rbk-blau); font-weight:600;">{desc}</div>
+  {events_html(load_events(slug), name)}
+  <div class="sidebar-box" style="margin-top:18px;">
+    <h3>Veranstaltungsportale</h3>
+    {veranstaltungen_portal_links(slug)}
+  </div>
+</div>""" for slug, name, desc in regions)
+
+    page = f"""<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Veranstaltungen — AI Tageszeitung</title>
+<style>{CSS}
+{VERANSTALTUNGEN_CSS_EXTRA}
+</style>
+</head>
+<body>
+{header_html("AI TAGESZEITUNG", "Veranstaltungskalender", active_section="veranstaltungen")}
+<div class="region-tabs">
+  {tabs_html}
+</div>
+<main>
+  {panels_html}
+</main>
+<footer>
+  AI Tageszeitung · Veranstaltungskalender · Aktualisiert: {TIMESTAMP}<br>
+  <a href="/ai-tageszeitung/">Rhein-Berg</a> ·
+  <a href="/ai-tageszeitung/oberberg/">Oberberg</a>
+</footer>
+{VERANSTALTUNGEN_JS}
+{REFRESH_JS}
+</body></html>"""
+
+    (evt_dir / "index.html").write_text(page)
+    print(f"  veranstaltungen/index.html")
+
 if __name__ == "__main__":
     for kreis_slug, kreis_cfg in KREISE.items():
         print(f"\n=== {kreis_cfg['name']} ===")
@@ -548,4 +708,6 @@ if __name__ == "__main__":
         for ks, kn in kreis_cfg["kommunen"].items():
             build_kommune_page(kreis_slug, kreis_cfg, ks, kn)
         build_kreisweite_page(kreis_slug, kreis_cfg)
+    print("\n=== Veranstaltungen ===")
+    build_veranstaltungen_page()
     print("\nFertig!")
