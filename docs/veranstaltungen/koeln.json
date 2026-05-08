@@ -70,16 +70,6 @@
     "teaser": "SMOKING SNAKES:Die SMOKING SNAKES sind eine Sleaze-Metal-Band aus Göteborg, die in der Rockszene mittlerweile für großes Aufsehen sorgt. Gegründet 2022, repräsentieren sie die nächste Generation des knallharten, git"
   },
   {
-    "titel": "SMOKING SNAKES, SUiCiDE BOMBERS & CRAZY69 - Lock Up Your Daughters-Tour",
-    "datum": "8. Mai 2026",
-    "datum_raw": "2026-05-08T18:00+0200",
-    "ort": "MTC Live Music Club, Zülpicher Straße 10",
-    "preis": "ab 31 €",
-    "link": "https://rausgegangen.de/events/smoking-snakes-suicide-bombers-crazy69-lock-up-your-daughter-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "SMOKING SNAKES:Die SMOKING SNAKES sind eine Sleaze-Metal-Band aus Göteborg, die in der Rockszene mittlerweile für großes Aufsehen sorgt. Gegründet 2022, repräsentieren sie die nächste Generation des knallharten, git"
-  },
-  {
     "titel": "Open Mic Headliner Night@Goldfinger",
     "datum": "8. Mai 2026",
     "datum_raw": "2026-05-08T19:00+0200",
@@ -124,7 +114,7 @@
     "datum": "8. Mai 2026",
     "datum_raw": "2026-05-08T19:00+0200",
     "ort": "Geheimer Ort, Köln",
-    "preis": "ab 15 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/hidden-stage-sessions-x-lesbian-visibility-weeks/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Feiere mit uns die Schönheit der Neurodiversität und Queerness und erlebe die Magie der Live-Musik ohne Kompromisse! 💜 Die Cozy Concerts von Hidden Stage Sessions e.V. sind eine besondere Konzertreihe, die Musiker:inne"
@@ -164,7 +154,7 @@
     "datum": "8. Mai 2026",
     "datum_raw": "2026-05-08T19:30+0200",
     "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
-    "preis": "kostenlos",
+    "preis": "ab 35 €",
     "link": "https://rausgegangen.de/events/shkoon-traces-koln-club-bahnhof-ehrenfeld-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Shkoon erzählt mit ihrem deutsch-syrischen Sound Geschichten von Flucht, Erinnerung und Hoffnung. Ihr neues Album TRACES verbindet arabische Folklore mit moderner Elektronik und lädt dich ein, die Spuren zu fühlen, die u"
@@ -174,7 +164,7 @@
     "datum": "8. Mai 2026",
     "datum_raw": "2026-05-08T19:30+0200",
     "ort": "Liebig 257 - Klug e.V., Liebigstraße 257",
-    "preis": "ab 0 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/wohnzimmerkonzert-im-liebig257-13/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Jeden zweiten Freitag wird ein Wohnzimmer in Köln-Nippes zur Bühne, auf der Musiker*innen ihre Songs ganz nah und authentisch teilen. Die vielseitigen Acts bringen unterschiedlichste Stile und Sprachen zusammen, was für "
@@ -348,6 +338,16 @@
     "link": "https://rausgegangen.de/events/der-plattenabend-4/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Vinyl von Alternative über Indie, Punk, Elektronik bis allerlei auf!"
+  },
+  {
+    "titel": "heavenphetamine (live) + Marijana Croon (DJ Set) + ey (DJ Set)",
+    "datum": "8. Mai 2026",
+    "datum_raw": "2026-05-08T21:00+0200",
+    "ort": "674FM Konzertraum, Ubierring 13",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/heavenphetamine-live-marijana-croon-dj-set-ey-dj-set-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Another incoming séances sonores night with Heavenphetamine (live) from Japan, Marijana Croon (DJ set) and ey (DJ set) from Cologne 🌘🌘🌘  May 8th 21:00-02:00  @674FM, basement, Ubierring 13  Heavenphetamine (concert) @he"
   },
   {
     "titel": "SCiSSORS FLINTA* Party",
