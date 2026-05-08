@@ -633,21 +633,24 @@ def build_veranstaltungen_page():
     def events_html(events, region_name):
         if not events:
             return f"""<div class="hinweis">
-  Für <b>{region_name}</b> werden demnächst automatisch Veranstaltungen aus lokalen Quellen geladen.<br>
-  Nutze bis dahin die direkten Links zu den Veranstaltungsportalen unten.
+  Für <b>{region_name}</b> sind aktuell keine Veranstaltungshinweise aus den lokalen Quellen verfügbar.<br>
+  Nutze die direkten Links zu den Veranstaltungsportalen unten.
 </div>"""
-        parts = []
-        for e in events[:30]:
-            datum = e.get("datum", "")
-            titel = htmlmod.escape(e.get("titel", e.get("title", "Veranstaltung")))
-            ort   = htmlmod.escape(e.get("ort", ""))
-            link  = htmlmod.escape(e.get("link", "#"))
-            info  = htmlmod.escape(e.get("quelle", e.get("source", "")))
+        count_label = f"{len(events)} Veranstaltungshinweise aus lokalen Nachrichten"
+        parts = [f'<div class="hinweis" style="background:#EAFAF1; border-color:#27AE60;">📅 {count_label}</div>']
+        for e in events[:40]:
+            datum  = e.get("datum", "")
+            titel  = htmlmod.escape(e.get("titel", e.get("title", "Veranstaltung")))
+            ort    = htmlmod.escape(e.get("ort", ""))
+            link   = htmlmod.escape(e.get("link", "#"))
+            info   = htmlmod.escape(e.get("quelle", e.get("source", "")))
+            teaser = htmlmod.escape(e.get("teaser", "")[:180])
             parts.append(f"""<div class="evt-card">
   <div class="evt-datum">{htmlmod.escape(datum)}</div>
   <h3><a href="{link}" target="_blank" rel="noopener">{titel}</a></h3>
-  {"<div class='evt-ort'>📍 " + ort + "</div>" if ort else ""}
-  {"<div class='evt-info'>" + info + "</div>" if info else ""}
+  {('<div class="evt-ort">📍 ' + ort + '</div>') if ort else ''}
+  {('<div class="artikel teaser" style="border:none;box-shadow:none;padding:4px 0 0 0;margin:0;">' + teaser + '</div>') if teaser else ''}
+  {('<div class="evt-info">Quelle: ' + info + '</div>') if info else ''}
 </div>""")
         return "\n".join(parts)
 

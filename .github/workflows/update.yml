@@ -25,7 +25,10 @@ jobs:
       - name: RSS-Feeds laden (beide Kreise, alte Artikel bleiben)
         run: cd scripts && python fetch_feeds.py
 
-      - name: HTML-Seiten generieren (beide Kreise)
+      - name: Veranstaltungen extrahieren (RBK, Oberberg, ggf. Köln)
+        run: cd scripts && python fetch_events.py
+
+      - name: HTML-Seiten generieren (beide Kreise + Veranstaltungen)
         run: cd scripts && python build_html.py
 
       - name: Änderungen committen und pushen
