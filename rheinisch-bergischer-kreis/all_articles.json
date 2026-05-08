@@ -4841,6 +4841,18 @@
     "fetched": "2026-05-06T16:12:25.979045"
   },
   {
+    "id": "e3c9987ce409",
+    "title": "Rund um Köln fährt quer durch Kürten -Straßensperrungen beachten",
+    "summary": "&lt;h3&gt;Radrennfieber in Kürten am Sonntag, 17. Mai 2026&lt;/h3&gt; &lt;p&gt;Die Vorfreude steigt, die Spannung liegt in der Luft: Die diesjährige Ausgabe des Radsportevents Rund um Köln verspricht ein außergewöhnliches Spektakel zu werden. Mit einer Rekordzahl von Teilnehmern und einer erstklassigen Streckenführung bietet das 108. Rennen am 17. Mai ein unvergleichliches Erlebnis für Radsportfan",
+    "link": "https://www.kuerten.de/aktuelle-ereignisse/rund-um-koeln-faehrt-quer-durch-kuerten/",
+    "published": "Tue, 05 May 2026 08:46:43 +0000",
+    "source": "Gemeinde Kürten (offiziell)",
+    "kommunen": [
+      "kuerten"
+    ],
+    "fetched": "2026-05-08T08:46:05.139572"
+  },
+  {
     "id": "2a99aab72e1f",
     "title": "Ausstellung: „Inklusion darf kein Zufallsprodukt sein“",
     "summary": "Die Wanderausstellung „Botschaften für Inklusion“ macht Perspektiven und Wünsche von Menschen mit und ohne Behinderungen sichtbar. Sie ist bereits im Bensberger Rathaus und ab Freitag auch in der Servicestelle InBeCo in der Innenstadt zu sehen. Alles begann mit einem Flashmob in der Bergisch Gladbacher Fußgängerzone.",
@@ -12905,6 +12917,56 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-05-05T21:10:26.246604"
+  },
+  {
+    "id": "4f3adc8990f9",
+    "title": "Remscheid: Hier gibt es Hilfe in Sachen KI",
+    "summary": "KI im Bergischen Land: Ängste abbauen, Inspiration erhalten und einfach mal die neue Technologie ausprobieren – das ist auch in Remscheid und Umgebung möglich. Wer was anbietet.",
+    "link": "https://www.rga.de/lokales/remscheid/remscheid-hier-gibt-es-hilfe-in-sachen-ki-7DEQCAOMWZATDCEFVYFLOESJ44.html",
+    "published": "Fri, 08 May 2026 10:00:10 +0200",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-05-08T08:46:09.798381"
+  },
+  {
+    "id": "48012b6be862",
+    "title": "POL-RBK: Leichlingen - Unbekannte geben sich als Handwerker aus und versuchen Seniorin zu täuschen",
+    "summary": "Leichlingen (ots) - Am gestrigen Donnerstag wurde die Polizei zu einem Mehrfamilienhaus in die Straße Kaltenberg gerufen. Eine dort wohnhafte Seniorin berichtete den eingesetzten Beamten, dass zwei unbekannte Männer versucht hätten, sich unter ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6271149",
+    "published": "Fri, 08 May 2026 09:08:01 +0200",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "odenthal",
+      "bergisch-gladbach",
+      "leichlingen"
+    ],
+    "fetched": "2026-05-08T08:46:10.943438"
+  },
+  {
+    "id": "00c34b6cec33",
+    "title": "POL-RBK: Overath - Seniorin übergibt hohe Bargeldsumme an Betrüger",
+    "summary": "Overath (ots) - Trickbetrüger waren gestern (07.05.) bei einer 89-jährigen Frau aus Overath erfolgreich. Sie hatten der Seniorin vorher am Telefon eine Geschichte erzählt, der die Seniorin Glauben schenkte. Nun ist die Frau einen hohen Geldbetrag ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6271104",
+    "published": "Fri, 08 May 2026 08:36:20 +0200",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "overath"
+    ],
+    "fetched": "2026-05-08T08:46:10.943482"
+  },
+  {
+    "id": "ee7394f25a37",
+    "title": "POL-RBK: Bergisch Gladbach - Einbrecher nutzen kurze Abwesenheit der Hausbesitzer",
+    "summary": "Bergisch Gladbach (ots) - Gestern Vormittag (07.05.) ist es in der Straße Im Fronhof im Stadtteil Herkenrath zu einem Einbruch in ein Einfamilienhaus gekommen. Die Hausbesitzer hatten den Einbruch festgestellt, nachdem sie vom Einkaufen ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6271099",
+    "published": "Fri, 08 May 2026 08:29:15 +0200",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-05-08T08:46:10.943512"
   },
   {
     "id": "e0caf83e35a3",
