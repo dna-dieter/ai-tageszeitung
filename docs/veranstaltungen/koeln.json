@@ -74,7 +74,7 @@
     "datum": "9. Mai 2026",
     "datum_raw": "2026-05-09T15:00+0200",
     "ort": "PARK Café, Köln",
-    "preis": "ab 15 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/nice-girls-boys-love-house-music-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "nice und lalena sorgen mit ihrer house-lastigen rooftop-sause für sommerliche vibes und gute laune. das line-up ist female, aber alle sind willkommen, also perfekt, um gemeinsam den abend zu feiern hier gibt’s sunset und"
@@ -128,16 +128,6 @@
     "link": "https://rausgegangen.de/events/jam-dance-session-15/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Im Kulturraum 405 findet eine offene Jam- & Dance-Session statt, bei der improvisierte, tanzbare Musik im Vordergrund steht. Instrumente sind vorhanden, eigene können gerne mitgebracht werden 🎶"
-  },
-  {
-    "titel": "Kakao & Klang - Zeremonie mit Sound Healing, live Musik zum Fühlen, Schokolade zum Trinken",
-    "datum": "9. Mai 2026",
-    "datum_raw": "2026-05-09T18:00+0200",
-    "ort": "room for emotions, Am Maarhof 25",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kakao-klang-zeremonie-mit-sound-healing-live-musik-zum-fuhle-18/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zeremonieller Rohkakao – die Medizin des HerzensZeremonieller Rohkakao ist weit mehr als ein Getränk. Seit Jahrtausenden wird er in mittel- und südamerikanischen Kulturen als heilige Pflanzenmedizin verehrt – als „Spei"
   },
   {
     "titel": "LISTEN TO soundtrek (live)",
@@ -338,6 +328,16 @@
     "link": "https://rausgegangen.de/events/demachena-trio-live-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "🎶 Live-Konzert am Samstag, 9. Mai um 20:00 Uhr! 🎶Discover The Unknown Spanish LevantErlebt DEMACHENA – eine außergewöhnliche Band, die seit über drei Jahrzehnten gemeinsam Musik erschafft und dabei konsequent musikalis"
+  },
+  {
+    "titel": "Ensemble Musikfabrik | Alex Hren | Żaneta Rydzewska",
+    "datum": "9. Mai 2026",
+    "datum_raw": "2026-05-09T20:00+0200",
+    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
+    "preis": "ab 12 €",
+    "link": "https://rausgegangen.de/events/ensemble-musikfabrik-alex-hren-zaneta-rydzewska-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Ensemble Musikfabrik mit Uraufführungen von Alex Hren & Żaneta RydzewskaUraufführungen der Gewinner:innen des ACHT BRÜCKEN Kompositionswettbewerbs 2025Kölns ehemaliger Generalmusikdirektor Markus Stenz ist völlig f"
   },
   {
     "titel": "20 Jahre Odonien",
