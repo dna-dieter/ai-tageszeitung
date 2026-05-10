@@ -7076,6 +7076,93 @@
     "fetched": "2026-05-05T21:11:16.619546"
   },
   {
+    "id": "a93c156ade02",
+    "title": "Wipperfürth: Remscheider Motorradfahrer wird bei Unfall auf L 302 Frielingsdorf Dorgaul schwer verletzt",
+    "summary": "Schwerer Zusammenstoß: Polizei und Feuerwehr mussten am Samstag zur Landstraße 302 ausrücken. Auch die Straße war gesperrt. Was hier passiert ist.",
+    "link": "https://www.rga.de/lokales/remscheid/wipperfuerth-remscheider-motorradfahrer-wird-bei-unfall-auf-l-302-frielingsdorf-dorgaul-schwer-YGFV4UGJQVDXLKVICIJVWSLYTY.html",
+    "published": "Sun, 10 May 2026 11:20:03 +0200",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald",
+      "wipperfuerth",
+      "lindlar"
+    ],
+    "fetched": "2026-05-10T09:46:58.690215"
+  },
+  {
+    "id": "d3dec065c05f",
+    "title": "Hückeswagen/Remscheid: 65-jähriger Motorradfahrer aus Remscheid Unfall auf K 14 Wickesberg Purd Honda",
+    "summary": "Zu einem Alleinunfall kam es am Samstag auf der Kreisstraße 14. Der 65-Jährige musste ins Krankenhaus. Was wir bislang wissen.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/hueckeswagen-remscheid-65-jaehriger-motorradfahrer-aus-remscheid-unfall-auf-k-14-wickesberg-purd-KOPBFKIHC5EMHL5R2RCLQJTA74.html",
+    "published": "Sun, 10 May 2026 10:40:02 +0200",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-05-10T09:46:58.052703"
+  },
+  {
+    "id": "69c2bdc223e3",
+    "title": "POL-GM: Zusammenstoß zwischen Auto und Motorrad",
+    "summary": "Wipperfürth (ots) - Bei einem Unfall am 9. Mai (Samstag) auf der L302 in Wipperfürth wurde ein Motorradfahrer schwer verletzt. Ein 54-jähriger Autofahrer fuhr auf der Landstraße aus Richtung Wipperfürth in Fahrtrichtung Frielingsdorf. Als der ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6272164",
+    "published": "Sun, 10 May 2026 10:25:12 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "lindlar",
+      "wipperfuerth"
+    ],
+    "fetched": "2026-05-10T09:47:10.765269"
+  },
+  {
+    "id": "8667f0ed16ca",
+    "title": "POL-GM: Motorradfahrer bei Alleinunfall schwer verletzt",
+    "summary": "Hückeswagen (ots) - Ein 65-jähriger Motorradfahrer aus Remscheid war am Samstag (9. Mai, 14:20 Uhr) auf der K14 von \"Wickesberg\" in Fahrtrichtung \"Purd\" unterwegs. In einer scharfen Linkskurve geriet der 65-Jährige nach rechts auf das ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6272163",
+    "published": "Sun, 10 May 2026 10:25:09 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-05-10T09:47:10.765307"
+  },
+  {
+    "id": "20bbc823a9be",
+    "title": "POL-GM: Versuchter Einbruch in Wohnhaus",
+    "summary": "Engelskirchen (ots) - In der Zeit von 12:00 Uhr am 8. Mai (Freitag) und 10:30 Uhr am 9. Mai wollten Unbekannte in ein Wohnhaus in der Straße \"Im Bruch\" in Ründeroth einbrechen. Sie versuchten, die Eingangstür und die Terrassentür aufzuhebeln - ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6272162",
+    "published": "Sun, 10 May 2026 10:25:06 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-05-10T09:47:10.765339"
+  },
+  {
+    "id": "8146f3c54bba",
+    "title": "POL-GM: Bargeld bei Einbruch gestohlen",
+    "summary": "Gummersbach (ots) - In der Nacht von Freitag auf Samstag (8./9. Mai) brachen Kriminelle in eine Wohneinheit auf einem Campingplatz in der Straße \"Würden\" bei Berghausen ein. Dazu hebelten sie die Eingangstür zum Wintergarten auf sowie eine ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6272161",
+    "published": "Sun, 10 May 2026 10:25:03 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-05-10T09:47:10.765369"
+  },
+  {
+    "id": "9fb87cdd5132",
+    "title": "POL-GM: Einbrecher bauen Fenster aus",
+    "summary": "Reichshof (ots) - Zwischen 18:30 Uhr am Freitag (8. Mai) und 12:00 Uhr des Folgetags sind Unbekannte in ein Vereinsheim in der Straße \"Im Langen Weg\" in Wildberg eingebrochen. Die Kriminellen demontierten ein komplettes Fenster auf der ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6272160",
+    "published": "Sun, 10 May 2026 10:25:00 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "reichshof"
+    ],
+    "fetched": "2026-05-10T09:47:10.765398"
+  },
+  {
     "id": "cc8374d016e7",
     "title": "Bergneustadt brennt: voXXclub & Co. feierten mit rund 1000 Partypeople – 150. Jubiläum Feuerwehr LZ1",
     "summary": "Oberberg / Bergneustadt / Feuerwehr Bergneustadt / voXXclub / Sonia Liebing / Big Maggas / Stockbrot / NurAkustik (Von Christian Sasse) Es war ein Abend, der so heiß war wie sein Name: Bergneustadt brennt – und das am Samstag, 9. Mai 2026, im wahrsten Sinne des Wortes. Der Löschzug 1 der Freiwilligen Feuerwehr Bergneustadt feierte sein 150-jähriges Bestehen nicht mit Andacht und Feierreden, sonder",
