@@ -1,163 +1,13 @@
 [
   {
-    "titel": "Bar Symposium Cologne 2026",
-    "datum": "11. Mai 2026",
-    "datum_raw": "2026-05-11T11:00+0200",
-    "ort": "DIE HALLE Tor 2, Girlitzweg 30",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/bar-symposium-cologne-2026-0/",
+    "titel": "bi/pan Speed Dating",
+    "datum": "12. Mai 2026",
+    "datum_raw": "2026-05-12T18:30+0200",
+    "ort": "Impact Café, Luxemburger Str. 190",
+    "preis": "ab 24 €",
+    "link": "https://rausgegangen.de/events/bipan-speed-dating-1/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Bar Symposium Cologne treffen am 11. und 12. Mai Expert:innen und kreative Köpfe aus der Hospitality-Branche aufeinander, um Trends und neue Ideen zu teilen. Hier findest du spannende Impulse für die Zukunft der Gas"
-  },
-  {
-    "titel": "Bar Symposium Cologne 2026 - 2-Tages-Ticket",
-    "datum": "11. Mai 2026",
-    "datum_raw": "2026-05-11T11:00+0200",
-    "ort": "DIE HALLE Tor 2, Girlitzweg 30 Tor 2",
-    "preis": "ab 129 €",
-    "link": "https://rausgegangen.de/events/kombi-ticket-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Am 11. & 12. Mai 2026 verwandelt sich die HALLE Tor 2 in Köln wieder in das Herz der deutschsprachigen Bar- und Gastronomieszene. Das Bar Symposium Cologne bringt Fachleute, Visionär:innen und kreative Köpfe aus der g"
-  },
-  {
-    "titel": "AUSSICHTEN",
-    "datum": "11. Mai 2026",
-    "datum_raw": "2026-05-11T11:30+0200",
-    "ort": "Latibul Zirkus, An der Schanz 6",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/aussichten-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "AUSSICHTENGipfeltreffen für die Generation der Zukunft11.30 – 14.00  SLOT 1: \"I feel you\"11.30  Feierliche Eröffnung und PodiumWir stellen uns die Frage, wie soll unsere Zukunft, wie sollen Gemeinschaften, wie sollen O"
-  },
-  {
-    "titel": "Aperol & Flohmarkt Montag",
-    "datum": "11. Mai 2026",
-    "datum_raw": "2026-05-11T17:00+0200",
-    "ort": "Deli Sülz, Berrenrather Str. 221",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/aperol-flohmarkt-montag-44/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "YEAH - Das Deli Sülz weiß, wie man eine neue Woche gebührend startet - und zwar mit Flohmarkt und Aperol Spritz. Diesen gibt’s für 5€."
-  },
-  {
-    "titel": "KARAOKE",
-    "datum": "11. Mai 2026",
-    "datum_raw": "2026-05-11T19:00+0200",
-    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/karaoke-3308/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Am 9. März wird das Bumann & Sohn wieder zur Bühne für alle, die gern singen – egal ob Solo, Duo oder in der Gruppe. Torben Rich sorgt wie gewohnt für den passenden Sound und mit mehreren Mikrofonen kommt jeder gut zum Z"
-  },
-  {
-    "titel": "Olivia Dean",
-    "datum": "11. Mai 2026",
-    "datum_raw": "2026-05-11T19:00+0200",
-    "ort": "LANXESS arena, Willy-Brandt-Platz 3",
-    "preis": "ab 60 €",
-    "link": "https://rausgegangen.de/events/olivia-dean-5/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Olivia Dean mischt Pop und RnB mit einer Stimme, die sofort unter die Haut geht. Ihr Debütalbum Messy war ein Hit und jetzt bringt sie mit The Art of Loving frischen Schwung auf die Bühne, der dich garantiert berühren wi"
-  },
-  {
-    "titel": "Josh. - Wer singt dann Lieder für dich - Solo Tour 2026",
-    "datum": "11. Mai 2026",
-    "datum_raw": "2026-05-11T19:30+0200",
-    "ort": "Gloria-Theater, Apostelnstraße 11",
-    "preis": "ab 38 €",
-    "link": "https://rausgegangen.de/events/josh-wer-singt-dann-lieder-fur-dich-solo-tour-2026-9/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Der bekannte österreichische Sänger und Songwriter JOSH. kündigt für 2026 seine erste Solo-Tour an. Tickets gibt’s ab Freitag, 05.12.2025, 10 Uhr!  „Ich liebe es, auf großen Bühnen zu stehen. Davon träumt jeder Mus"
-  },
-  {
-    "titel": "Sing Your Heart",
-    "datum": "11. Mai 2026",
-    "datum_raw": "2026-05-11T19:30+0200",
-    "ort": "Meditationsraum Holweide,, Bergisch Gladbacher Str. 408",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/sing-your-heart-14/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Meine lieben Singfreudigen, Ich lade dich ein dich mit deiner Stimme und deinem Herzen zu verbinden 😍 ☀️🎶🙏Melde dich bitte an (oder schreibe mir eine Nachricht @rafaelsoleil) und falls du Liedwünsche hast so teile sie m"
-  },
-  {
-    "titel": "SHORT MONDAY",
-    "datum": "11. Mai 2026",
-    "datum_raw": "2026-05-11T20:00+0200",
-    "ort": "Filmhaus Köln, Maybachstraße 111",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/short-monday-55/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Freu dich auf unterschiedliche internationale Kurzfilme! Am 06.10. werden rund um das Thema \"Miteinander\" Geschichten von Mut, Dialog & Zusammenhalt auf die Leinwand gebracht. 💜"
-  },
-  {
-    "titel": "Songs to Sing! - das MitSingDing mit Constantin Gold",
-    "datum": "11. Mai 2026",
-    "datum_raw": "2026-05-11T20:00+0200",
-    "ort": "die wohngemeinschaft, Richard-Wagner-Straße 39",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/songs-to-sing-das-mitsingding-mit-constantin-gold-17/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Constantin Gold lädt zum entspannten Karaoke für alle, die gern gemeinsam singen und Spaß an Chorharmonien haben. Hier gibt’s keinen perfekten Ton, sondern einfach Songs, die freuen und verbinden. Ideal, wenn du Lust auf"
-  },
-  {
-    "titel": "JOSH. - Wer singt dann Lieder für dich - Solo Tour 2026",
-    "datum": "11. Mai 2026",
-    "datum_raw": "2026-05-11T20:00+0200",
-    "ort": "Stadthalle Köln, Jan-Wellem-Straße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/josh-wer-singt-dann-lieder-fur-dich-solo-tour-2026-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "„Ich liebe es, auf großen Bühnen zu stehen. Davon träumt jeder Musiker. Aber im kleinen, intimen Rahmen zu spielen, wie zu Beginn meiner Karriere, das ist das Aufregendste überhaupt.“  Sagt JOSH. Deshalb geht der erfo"
-  },
-  {
-    "titel": "Julian Lage",
-    "datum": "11. Mai 2026",
-    "datum_raw": "2026-05-11T20:00+0200",
-    "ort": "Die Kantine / Yard Club, Neusser Landstr. 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/julian-lage-6/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Julian LagePräsentiert von Emerged Agency 11.05.2026 Köln, Die Kantine EInlass: 19:00 Uhr | Beginn: 20:00 Uhr In den letzten Tagen des Jahres 2024 begann Julian Lage mit dem, was er als „Schreibsprint“ bezeichnet. Lage"
-  },
-  {
-    "titel": "Montagskonzert | Soli",
-    "datum": "11. Mai 2026",
-    "datum_raw": "2026-05-11T20:00+0200",
-    "ort": "Studio des Ensemble Musikfabrik, Im Mediapark 7",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/montagskonzert-soli-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Solowerke von Elnaz Seyedi, Enno Poppe, Lucia Dlugoszewski und Riccardo Nova (Uraufführung)Riccardo Nova – namo dundubhyāya (2024) Uraufführung (quattro scene dal mahābhārata) für Schlagzeuger und ElektronikLucia D"
-  },
-  {
-    "titel": "SPORTFREUNDE STILLER",
-    "datum": "11. Mai 2026",
-    "datum_raw": "2026-05-11T20:00+0200",
-    "ort": "Palladium, Schanzenstraße 36",
-    "preis": "ab 46 €",
-    "link": "https://rausgegangen.de/events/sportfreunde-stiller-10/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "RÜDE  Wie schaut man zurück auf dreißig Jahre Bandgeschichte? Aus der Ferne wirkt der Blick wie die Aussicht auf einen weiten Dschungel des tiefen Lebens. Bei uns Sportfreunden weniger bewohnt von Giftschlangen und gef"
-  },
-  {
-    "titel": "Titan",
-    "datum": "11. Mai 2026",
-    "datum_raw": "2026-05-11T20:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/titan-1804/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Programm Anna Thorvaldsdóttir Metacosmos 2018 Camille Saint-Saëns Konzert für Violoncello und Orchester Nr. 1 a-Moll op. 33 1872 Gustav Mahler Sinfonie Nr. 1 D-Dur »Titan« 1884–88Besetzung Gautier Capuçon Violoncello"
-  },
-  {
-    "titel": "Prime Time Sound Journey",
-    "datum": "11. Mai 2026",
-    "datum_raw": "2026-05-11T20:15+0200",
-    "ort": "Klangkino, Hansaring 61",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/prime-time-sound-journey-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Begib dich auf eine Reise durch die Welten der Frequenzen und lass dich von ihren Wirkungen auf dich überraschen und faszinieren. Hier ist die Fusion von Entertainment, Meditation und tiefen Bewusstseinszuständen Progr"
+    "teaser": "Beim bi/pan Speed Dating triffst du auf queerfreundliche Menschen, die sich zu mehreren Geschlechtern hingezogen fühlen, und kannst neue Kontakte oder mehr knüpfen. Nach den kurzen Gesprächen gibt’s Zeit, bei Drinks ins "
   },
   {
     "titel": "Cozy Concerts by Hidden Stage Sessions e.V.",
@@ -180,16 +30,6 @@
     "teaser": "Aus der Reihe „Klaaf em Mediapark“ der Akademie för uns kölsche Sproch/SK Stiftung Kultur.Das Kölner Kabarett Ensemble „Medden us dem Levve“ mit ihrem Programm 2025/2026 \"He jet un do jet\" Mitwirkende: Elfi Steickmann"
   },
   {
-    "titel": "Eurovision Song Contest 2026 - Public Viewing",
-    "datum": "12. Mai 2026",
-    "datum_raw": "2026-05-12T20:00+0200",
-    "ort": "Atelier Theater, Roonstraße 78",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/eurovision-song-contest-2026-public-viewing-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Das Atelier Theater zeigt für alle ESC-Fans die beiden Halbfinals des Eurovision Song Contest 2026 auf Leinwand live aus Wien.  12.05.2026 - 1. Halbfinale 14.05.2026 - 2. Halbfinale  Einlass ab 20:00 Uhr Beginn 21:00 Uh"
-  },
-  {
     "titel": "PABLU - Auf gut Glück Tour",
     "datum": "12. Mai 2026",
     "datum_raw": "2026-05-12T20:00+0200",
@@ -198,6 +38,36 @@
     "link": "https://rausgegangen.de/events/pablu-sterne-zahlen-tour-4/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Pablu fängt in seinen Songs den Moment ein, der dir sonst durch die Finger rinnt. Er erzählt von Nähe, die knapp verfehlt wird, mit einer Stimme, die gleichzeitig vertraut und nahbar klingt und dich auf eine Reise durch "
+  },
+  {
+    "titel": "Kölner Comedy Open Air",
+    "datum": "12. Mai 2026",
+    "datum_raw": "2026-05-12T20:00+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/doppelpunkt-comedy-open-air-40/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei den Kölner Comedy Open Airs erwartet dich alle zwei Wochen ein Mix aus bekannten Gesichtern und frischen Talenten der deutschsprachigen Szene. Johannes Steuding und Lennard Rosar sorgen mit ihrem charmanten Humor für"
+  },
+  {
+    "titel": "TAYLOR SWIFT FAN QUIZ",
+    "datum": "12. Mai 2026",
+    "datum_raw": "2026-05-12T20:00+0200",
+    "ort": "PÄFF, Friesenwall 130",
+    "preis": "ab 11 €",
+    "link": "https://rausgegangen.de/events/taylor-swift-fan-quiz-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim Taylor Swift Fan Quiz kannst du dein Wissen über jede Ära der Sängerin prüfen und gemeinsam mit deiner Crew um tolle Preise wetteifern. Ein Abend voller Musik, Spaß und Überraschungen erwartet dich bei diesem ungewö"
+  },
+  {
+    "titel": "Eurovision Song Contest 2026 - Public Viewing",
+    "datum": "12. Mai 2026",
+    "datum_raw": "2026-05-12T20:00+0200",
+    "ort": "Atelier Theater, Roonstraße 78",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/eurovision-song-contest-2026-public-viewing-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das Atelier Theater zeigt für alle ESC-Fans die beiden Halbfinals des Eurovision Song Contest 2026 auf Leinwand live aus Wien.  12.05.2026 - 1. Halbfinale 14.05.2026 - 2. Halbfinale  Einlass ab 20:00 Uhr Beginn 21:00 Uh"
   },
   {
     "titel": "Rilke vertont. Tamara Lukasheva & Gäste",
@@ -218,6 +88,16 @@
     "link": "https://rausgegangen.de/events/schiller-767/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Es ist wieder so weit! Der beliebte und erfolgreiche Elektro-Künstler SCHILLER kehrt zurück in die LANXESS arena. Mit dutzenden Auszeichnungen, Millionen verkauften Tonträgern und etlichen Platz-1-Platzierungen gehör"
+  },
+  {
+    "titel": "Titan",
+    "datum": "12. Mai 2026",
+    "datum_raw": "2026-05-12T20:00+0200",
+    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/titan-1805/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Programm Anna Thorvaldsdóttir Metacosmos 2018 Camille Saint-Saëns Konzert für Violoncello und Orchester Nr. 1 a-Moll op. 33 1872 Gustav Mahler Sinfonie Nr. 1 D-Dur »Titan« 1884–88Besetzung Gautier Capuçon Violoncello"
   },
   {
     "titel": "At The B-Sites Silent Concert | Dissy",
@@ -380,6 +260,66 @@
     "teaser": "Presented by Live NationDie Veranstaltung wurde vom 06.09.2025 im Luxor auf den 13.05.2026 im MTC verlegt. Bereits gekaufte Tickets behalten ihre Gültigkeit.Rollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) za"
   },
   {
+    "titel": "Young Talents: Selah Quintett",
+    "datum": "13. Mai 2026",
+    "datum_raw": "2026-05-13T20:00+0200",
+    "ort": "King Georg, Sudermanstraße 2",
+    "preis": "ab 9 €",
+    "link": "https://rausgegangen.de/events/young-talents-selah-quintett-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das Selah Quintett rund um die Vokalistin Anna Galtschenko erschließt neue klangliche Räume zwischen determiniertem sowie freiem Spiel. Mit einem aus dem Contemporary Jazz inspirierten Konzept, die Stimme als pures Inst"
+  },
+  {
+    "titel": "Salsa, Bolero , Latin Jazz & World Music mit den Kubanern Mirta & CArlos",
+    "datum": "13. Mai 2026",
+    "datum_raw": "2026-05-13T20:30+0200",
+    "ort": "MACHADO, Severinsmühlengasse 1",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/salsa-bolero-latin-jazz-world-music-mit-den-kubanern-mirta-c-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Mirta & Carlos – Live im MACHADO  Am Mittwoch, den 13. Mai 2026 um 20:30 Uhr, erwartet euch im Kulturzentrum Machado (Severinsmühlengasse 1, 50678 Köln) ein besonderer musikalischer Abend mit dem Publikumslieblings-Duo"
+  },
+  {
+    "titel": "Kompass der Klänge",
+    "datum": "14. Mai 2026",
+    "datum_raw": "2026-05-14T00:00+0200",
+    "ort": "Kölner Philharmonie, Bischofsgartenstraße 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/kompass-der-klange-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "In diesem mitreißenden Konzertprogramm erklingen musikalische schätze aus allen Himmelsrichtungen, die zu einer Weltreise der besonderen Art einladen. \"Kompass der Klänge\" ist eine Entdeckungsreise, die Grenzen überwi"
+  },
+  {
+    "titel": "PhilharmonieVeedel Pänz @Filmforum: »So bin ich«",
+    "datum": "14. Mai 2026",
+    "datum_raw": "2026-05-14T10:00+0200",
+    "ort": "Filmforum NRW, Bischofsgartenstr. 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/philharmonieveedel-panz-filmforum-so-bin-ich-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Kölner Familienfestival: Sing! Sing! Sing!Der Kopf will etwas anderes als der Bauch, Hände und Füße tanzen, und das Herz hüpft vor Aufregung!Das ENSEMBLE SOZUSINGEN nimmt Kinder ab 2 Jahren mit auf eine stimmliche Ac"
+  },
+  {
+    "titel": "Kölner Familienfestival",
+    "datum": "14. Mai 2026",
+    "datum_raw": "2026-05-14T11:00+0200",
+    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/kolner-familienfestival-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Maus | Kinderchor | WDR Rundfunkchor | Franziska Kuba | André Gatzke | Kinderorchester NRW | Emanuel Dantscher | Ralph Erdenberger | Of Cabbages And KingsInteraktive und offene Begegnung mit Musik und Kultur für al"
+  },
+  {
+    "titel": "Sing mal mit der Maus",
+    "datum": "14. Mai 2026",
+    "datum_raw": "2026-05-14T11:00+0200",
+    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/sing-mal-mit-der-maus-23/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Kölner Familienfestival: Sing! Sing! Sing!Die Maus | WDR Rundfunkchor | Franziska Kuba | Schulchor der KGS Josefschule Bonn | Lisa Kühnemann | Andreas Schnermann | Ingo Senst | Florian Bungardt | Jana ForkelOb fröhlic"
+  },
+  {
     "titel": "4. Mittelalterlager der Krieger aus Walhalla",
     "datum": "14. Mai 2026",
     "datum_raw": "2026-05-14T11:00+0200",
@@ -390,6 +330,36 @@
     "teaser": "Zum Vatertags-Wochenende versammeln sich die Krieger aus Walhalla zum Mittelalterlager, wo du in historische Welten von Wikingern und Hunnen eintauchst. Zwischen authentischer Gewandung und der Einherier-Zeremonie gibt's"
   },
   {
+    "titel": "PhilharmonieVeedel Pänz @Filmforum: »So bin ich«",
+    "datum": "14. Mai 2026",
+    "datum_raw": "2026-05-14T11:15+0200",
+    "ort": "Filmforum NRW, Bischofsgartenstr. 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/philharmonieveedel-panz-filmforum-so-bin-ich-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Kölner Familienfestival: Sing! Sing! Sing!Der Kopf will etwas anderes als der Bauch, Hände und Füße tanzen, und das Herz hüpft vor Aufregung!Das ENSEMBLE SOZUSINGEN nimmt Kinder ab 2 Jahren mit auf eine stimmliche Ac"
+  },
+  {
+    "titel": "Sing mal mit der Maus",
+    "datum": "14. Mai 2026",
+    "datum_raw": "2026-05-14T12:30+0200",
+    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/sing-mal-mit-der-maus-24/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Kölner Familienfestival: Sing! Sing! Sing!Die Maus | Kinderchor | WDR Rundfunkchor | Franziska Kuba | André GatzkeOb fröhliche Kinderlieder oder bekannte Songs aus dem Radio – in diesem Konzert sind alle eingeladen, n"
+  },
+  {
+    "titel": "GO Karaoke-Konzert »Sing mit uns!«",
+    "datum": "14. Mai 2026",
+    "datum_raw": "2026-05-14T13:00+0200",
+    "ort": "Filmforum NRW, Bischofsgartenstr. 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/go-karaoke-konzert-sing-mit-uns-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Kölner Familienfestival: Sing! Sing! Sing!Singen macht Spaß – gemeinsam erst recht. Beim Mitsing-Konzert des Gürzenich-Orchesters wird das Publikum zum Chor. Ob Oma, Papa, große Schwester, Nachbar oder beste Freundin –"
+  },
+  {
     "titel": "Frühlingsgefühle & Streetfood: Feierabendmarkt Ehrenfeld",
     "datum": "15. Mai 2026",
     "datum_raw": "2026-05-15T16:00+0200",
@@ -398,5 +368,35 @@
     "link": "https://rausgegangen.de/events/fruhlingsgefuhle-streetfood-feierabendmarkt-ehrenfeld-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Frühlingsgefühle pur am Neptunplatz! Der Feierabendmarkt in Ehrenfeld ist genau das Richtige, um den Arbeitsstress abzuschütteln – mit kühlen Drinks, leckerem Streetfood und den besten Feierabend-Vibes! Komm mit Kolleg:i"
+  },
+  {
+    "titel": "CircusDanceFestival 2026",
+    "datum": "16. Mai 2026",
+    "datum_raw": "2026-05-16T11:00+0200",
+    "ort": "CircusDanceFestival | Festivalgelände, An der Schanz 6",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/circusdancefestival-2026-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim CircusDanceFestival 2026 rücken internationale Zirkus- und Tanzproduktionen das gemeinsame Erleben in den Mittelpunkt. Vom 16. bis 31. Mai kannst du dich auf über 50 Shows freuen, die mit urbanen Spielorten und offe"
+  },
+  {
+    "titel": "\"Psychotherapie verteidigen!\" - Demonstration",
+    "datum": "17. Mai 2026",
+    "datum_raw": "2026-05-17T15:00+0200",
+    "ort": "Heumarkt, Heumarkt",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/psychotherapie-verteidigen-demonstration-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Aufgrund der aktuellen Lage in der Psychotherapie (Honorarkürzungen und Budgetierungen der Leistungen) drohen Praxisschließungen und dadurch ein noch schlechterer Zugang zur Versorgung. Dagegen wollen wir protestieren u"
+  },
+  {
+    "titel": "HOT PEOPLE DO EHRENAMT",
+    "datum": "27. Mai 2026",
+    "datum_raw": "2026-05-27T19:00+0200",
+    "ort": "Alte Feuerwache - Großes Forum, Melchiorstraße 3",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/hot-people-do-europa-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Am 12. Mai gibt’s in Köln einen Abend, der zeigt, wie sehr Europa deinen Alltag prägt – vom USB-C-Kabel bis zu unsichtbaren Grenzen. Mit knappen Talks, einem Quiz und echten Menschen, die europaweit aktiv sind, lernst du"
   }
 ]
