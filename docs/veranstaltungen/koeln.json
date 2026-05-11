@@ -1,18 +1,8 @@
 [
   {
-    "titel": "AUSSICHTEN",
-    "datum": "11. Mai 2026",
-    "datum_raw": "2026-05-11T11:30+0200",
-    "ort": "Latibul Zirkus, An der Schanz 6",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/aussichten-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "AUSSICHTENGipfeltreffen für die Generation der Zukunft11.30 – 14.00  SLOT 1: \"I feel you\"11.30  Feierliche Eröffnung und PodiumWir stellen uns die Frage, wie soll unsere Zukunft, wie sollen Gemeinschaften, wie sollen O"
-  },
-  {
     "titel": "Bar Symposium Cologne 2026",
     "datum": "11. Mai 2026",
-    "datum_raw": "2026-05-11T12:00+0200",
+    "datum_raw": "2026-05-11T11:00+0200",
     "ort": "DIE HALLE Tor 2, Girlitzweg 30",
     "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/bar-symposium-cologne-2026-0/",
@@ -22,12 +12,22 @@
   {
     "titel": "Bar Symposium Cologne 2026 - 2-Tages-Ticket",
     "datum": "11. Mai 2026",
-    "datum_raw": "2026-05-11T12:00+0200",
+    "datum_raw": "2026-05-11T11:00+0200",
     "ort": "DIE HALLE Tor 2, Girlitzweg 30 Tor 2",
-    "preis": "kostenlos",
+    "preis": "ab 129 €",
     "link": "https://rausgegangen.de/events/kombi-ticket-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Am 11. & 12. Mai 2026 verwandelt sich die HALLE Tor 2 in Köln wieder in das Herz der deutschsprachigen Bar- und Gastronomieszene. Das Bar Symposium Cologne bringt Fachleute, Visionär:innen und kreative Köpfe aus der g"
+  },
+  {
+    "titel": "AUSSICHTEN",
+    "datum": "11. Mai 2026",
+    "datum_raw": "2026-05-11T11:30+0200",
+    "ort": "Latibul Zirkus, An der Schanz 6",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/aussichten-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "AUSSICHTENGipfeltreffen für die Generation der Zukunft11.30 – 14.00  SLOT 1: \"I feel you\"11.30  Feierliche Eröffnung und PodiumWir stellen uns die Frage, wie soll unsere Zukunft, wie sollen Gemeinschaften, wie sollen O"
   },
   {
     "titel": "Aperol & Flohmarkt Montag",
