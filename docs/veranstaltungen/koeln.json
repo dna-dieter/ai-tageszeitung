@@ -1,15 +1,5 @@
 [
   {
-    "titel": "At The B-Sites Silent Concert | Dissy",
-    "datum": "13. Mai 2026",
-    "datum_raw": "2026-05-13T17:00+0200",
-    "ort": "Fort X, Neusser Wall 33",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/at-the-b-sites-silent-concert-dissy-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Liebe At The B-Sites Community,   Endlich können wir das Geheimnis um den ersten Künstler lüften. Das erste At The B-Sites Kopfhörer Konzert spielt in diesem Jahr der Rapper Dissy. Dieses Mal findet das Konzert ausna"
-  },
-  {
     "titel": "Spritzwoch - Der Aperitif Walk im Kwartier",
     "datum": "13. Mai 2026",
     "datum_raw": "2026-05-13T18:00+0200",
@@ -48,6 +38,16 @@
     "link": "https://rausgegangen.de/events/psychedelic-light-sound-9/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Die Psychedelic Light & Sound Journey verbindet eines der ältesten Instrumente der Erde mit den neusten Erkenntnissen und Technologien aus der Forschung.  Mit dem Einsatz des Gongs in Kombination mit der Roxiva-Lichttec"
+  },
+  {
+    "titel": "At The B-Sites Silent Concert | Dissy",
+    "datum": "13. Mai 2026",
+    "datum_raw": "2026-05-13T18:30+0200",
+    "ort": "die wohngemeinschaft, Richard-Wagner-Straße 39",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/at-the-b-sites-silent-concert-dissy-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Liebe At The B-Sites Community,   Endlich können wir das Geheimnis um den ersten Künstler lüften. Das erste At The B-Sites Kopfhörer Konzert spielt in diesem Jahr der Rapper Dissy. Dieses Mal findet das Konzert ausna"
   },
   {
     "titel": "UN|ZERBRECHLICH",

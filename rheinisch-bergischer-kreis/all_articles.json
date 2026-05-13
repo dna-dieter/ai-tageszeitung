@@ -1396,6 +1396,30 @@
     "fetched": "2026-05-05T21:10:26.245903"
   },
   {
+    "id": "b9d76bdc8cdf",
+    "title": "Mit der Bewerbungsmappe zur Wohnungsbesichtigung: Warum das inzwischen Realität sei kann",
+    "summary": "Der Wohnungsmarkt hat sich verändert. Entsprechend gut müssen sich Bewerber entsprechend gut aufstellen, sagt Thomas Preyer aus Wermelskirchen. Gemeinsam mit seinem Team betreibt er ein Immobilienunternehmen im Herzen Wermelskirchens.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/mit-der-bewerbungsmappe-zur-wohnungsbesichtigung-warum-das-inzwischen-realitaet-sei-kann-WM7EB74BCZEQBPE3LBERGOLAMQ.html",
+    "published": "Wed, 13 May 2026 13:00:08 +0200",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-05-13T11:36:08.000314"
+  },
+  {
+    "id": "2c7f26d34cd1",
+    "title": "POL-RBK: Leichlingen - Kleinkraftrad kollidiert mit Pkw",
+    "summary": "Leichlingen (ots) - Am gestrigen Dienstag (12.05.) kam es zu einem Zusammenstoß zwischen einem Pkw und einem Kleinkraftrad auf der K1 Ecke Kradenpuhl. Der 17-jährige Fahrer des Kleinkraftrades wurde bei dem Unfall schwer verletzt. Gegen 12:00 Uhr ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6274618",
+    "published": "Wed, 13 May 2026 12:39:52 +0200",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-05-13T11:36:09.879084"
+  },
+  {
     "id": "001d586d0c7d",
     "title": "POL-RBK: Rösrath - Polizei nimmt Mann nach Diebstahl vorläufig fest",
     "summary": "Rösrath (ots) - Gestern Nachmittag (12.05.) konnte die Polizei einen Mann vorläufig festnehmen. Er steht im dringenden Verdacht, zuvor an einem Diebstahl in einem Discounter in der Hauptstraße beteiligt gewesen zu sein. Eine 44-jährige Frau aus ...",
@@ -1475,7 +1499,8 @@
     "published": "Wed, 13 May 2026 04:50:14 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "bergisch-gladbach"
     ],
     "fetched": "2026-05-13T08:07:18.944140"
   },
