@@ -200,6 +200,16 @@
     "teaser": "Presented by Live NationDie Veranstaltung wurde vom 06.09.2025 im Luxor auf den 13.05.2026 im MTC verlegt. Bereits gekaufte Tickets behalten ihre Gültigkeit.Rollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) za"
   },
   {
+    "titel": "Wohnzimmer Konzert",
+    "datum": "13. Mai 2026",
+    "datum_raw": "2026-05-13T20:00+0200",
+    "ort": "Restaurant oxin, Alteburgerstrasse 35",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/wohnzimmer-konzert-14/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Ein besonderer Konzertabend mit 🎤 Lana Petrovic – junge talentierte Sängerin aus Slowenien 🎸 Maxi Valdes – Guitar Jazz Standards Freut euch auf einen stilvollen Abend mit bekannten Jazz-Klassikern, entspannter Atmosphä"
+  },
+  {
     "titel": "Young Talents: Selah Quintett",
     "datum": "13. Mai 2026",
     "datum_raw": "2026-05-13T20:00+0200",
@@ -378,16 +388,6 @@
     "link": "https://rausgegangen.de/events/studio-musikfabrik-familienfestival-kolner-philharmonie-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Ausgewählte Werke des Tanz- und Musiktheaters „Im Lärm der Stille“ – ein Kooperationsprojekt mit der Tanzakademie und der Kompositionswerkstatt der Rheinischen Musikschule, die im Rahmen der eResponse-Abschlusspräsent"
-  },
-  {
-    "titel": "Zett Emm Excerpts - Jugendfestival für zeitgenössische Musik und Tanz ",
-    "datum": "14. Mai 2026",
-    "datum_raw": "2026-05-14T16:30+0200",
-    "ort": "Filmforum NRW, Bischofsgartenstr. 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/zett-emm-excerpts-jugendfestival-fur-zeitgenossische-musik-u-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Kölner Familienfestival: Sing! Sing! Sing!Zett Emm ist das Jugendfestival für zeitgenössische Musik und Tanz der Rheinischen Musikschule. Im Konzert wird ein kleiner Ausschnitt des Festivals vom vergangenen Jahr gezei"
   },
   {
     "titel": "GReeeN /// OFFLINE Tour 2026",
