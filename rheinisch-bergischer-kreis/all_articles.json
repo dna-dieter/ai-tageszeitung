@@ -1396,6 +1396,30 @@
     "fetched": "2026-05-05T21:10:26.245903"
   },
   {
+    "id": "001d586d0c7d",
+    "title": "POL-RBK: Rösrath - Polizei nimmt Mann nach Diebstahl vorläufig fest",
+    "summary": "Rösrath (ots) - Gestern Nachmittag (12.05.) konnte die Polizei einen Mann vorläufig festnehmen. Er steht im dringenden Verdacht, zuvor an einem Diebstahl in einem Discounter in der Hauptstraße beteiligt gewesen zu sein. Eine 44-jährige Frau aus ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6274273",
+    "published": "Wed, 13 May 2026 09:05:15 +0200",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "roesrath"
+    ],
+    "fetched": "2026-05-13T08:07:41.338827"
+  },
+  {
+    "id": "d1e18b438814",
+    "title": "POL-RBK: Overath - Täter versuchen Quad zu entwenden und lassen Fluchtfahrzeug zurück",
+    "summary": "Overath (ots) - In der Nacht zu Mittwoch (13.05.) alarmierte ein aufmerksamer Zeuge die Polizei, nachdem ihm zwei unbekannte Männer aufgefallen waren, die auffällig in einem Wohngebiet in Vilkerath umherliefen. Wie sich später herausstellte, ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6274254",
+    "published": "Wed, 13 May 2026 08:54:11 +0200",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "overath"
+    ],
+    "fetched": "2026-05-13T08:07:41.338869"
+  },
+  {
     "id": "6877f63be3c3",
     "title": "Jetzt schön draußen sitzen: Warum das in Wermelskirchen einfacher ist als anderswo",
     "summary": "Die Verwaltung nimmt keine Gebühren für Außengastronomie. Viele nutzen das gern. Rund 30 Betriebe in der Stadt bieten den Gästen Tische im Freien.",
@@ -1418,6 +1442,42 @@
       "burscheid"
     ],
     "fetched": "2026-05-13T04:56:48.394205"
+  },
+  {
+    "id": "9f80883d8f28",
+    "title": "„Sparen hat Folgen“",
+    "summary": "Die Stadtverwaltung arbeitet unter Hochdruck daran, die Sparbeschlüsse des Stadtrats umzusetzen – ohne die eigene Handlungsfähigkeit zu verlieren. Rund vier Millionen Euro müssen eingespart werden. Dafür prüfen die Fachbereiche seit Wochen, was Vorrang hat und wo gekürzt werden kann. Dabei gehe es nicht nur um große Projekte, sagt Kämmerer Thore Eggert, sondern oft auch um viele kleine Entscheidun",
+    "link": "https://in-gl.de/2026/05/13/sparen-hat-folgen-thore-eggert-haushalt-bergisch-gladbach/",
+    "published": "Wed, 13 May 2026 04:56:30 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-05-13T08:07:18.944043"
+  },
+  {
+    "id": "8fcd0dca7ad9",
+    "title": "Wo Eltern mit kranken Kindern im Notfall Hilfe bekommen",
+    "summary": "In Bergisch Gladbach gibt es drei Krankenhäuser, aber keinen ärztlichen Notdienst für Kinder. Erwachsene können außerhalb der regulären Praxiszeiten die Notdienstpraxis am EVK aufsuchen, wenn sie schnell medizinische Hilfe benötigen. Mit kranken Kleinkindern müssen Eltern weitere Wege in Kauf nehmen.",
+    "link": "https://in-gl.de/2026/05/13/wo-eltern-mit-kranken-kindern-im-notfall-hilfe-bekommen/",
+    "published": "Wed, 13 May 2026 04:55:48 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-05-13T08:07:18.944098"
+  },
+  {
+    "id": "93104eebe3ae",
+    "title": "Stadtrat, kurz und knapp",
+    "summary": "Im März hatte die Sitzung des Stadtrats sechs Stunden gedauert, mit wichtigen Entscheidungen und heftigen Diskussionen. Bei der Sitzung am Dienstag war der öffentliche Teil nach 57 Minuten vorbei, Beschlüsse fielen weitgehend einstimmig, diskutiert wurde kaum, aktuelle lokale Debatten waren kein Thema.",
+    "link": "https://in-gl.de/2026/05/13/stadtrat-kurz-und-knapp/",
+    "published": "Wed, 13 May 2026 04:50:14 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-05-13T08:07:18.944140"
   },
   {
     "id": "41b0a1653c19",
