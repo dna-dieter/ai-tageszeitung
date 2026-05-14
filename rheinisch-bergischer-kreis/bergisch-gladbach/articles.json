@@ -886,6 +886,19 @@
     "fetched": "2026-05-13T17:22:24.668667"
   },
   {
+    "id": "92b983e3b559",
+    "title": "Kreissparkasse zahlt Fördergeld an 70 Vereine aus",
+    "summary": "Mit Fördermitteln aus „PS-Sparen und Gewinnen“ unterstützt die Kreissparkasse Köln Vereine aus Bergisch Gladbach und Kürten.",
+    "link": "https://in-gl.de/2026/05/13/kreissparkasse-zahlt-foerdergeld-an-70-vereine-aus/",
+    "published": "Wed, 13 May 2026 06:00:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach",
+      "kuerten"
+    ],
+    "fetched": "2026-05-14T20:00:38.125331"
+  },
+  {
     "id": "57bd6eef02f8",
     "title": "Kreiskatholikenrat wählt neuen Vorstand",
     "summary": "Klara König ist zur neuen Vorsitzende des Kreiskatholikenrats gewählt worden. Weitere Vorstandsmitglieder kommen aus Bergisch Gladbach, Odenthal und Leichlingen.",
@@ -4039,6 +4052,20 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-05-14T18:04:25.901629"
+  },
+  {
+    "id": "ca3062695a4e",
+    "title": "Kreis eröffnet „Digital Making Places“ für Schüler:innen",
+    "summary": "Im Berufsbildungszentrum der Kreishandwerkerschaft sowie in zwei Schulen in Overath und Wermelskirchen hat der Rheinisch-Bergische Kreis sogenannte „Digital Making Places“ eröffnet: In diesen modern ausgestatteten digitalen Lernorten können Schülerinnen und Schüler neue Technologien erproben, Lehrkräfte können innovative Unterrichtsansätze entwickeln.",
+    "link": "https://in-gl.de/2026/05/14/kreis-eroeffnet-digital-making-places-fuer-schuelerinnen/",
+    "published": "Thu, 14 May 2026 17:02:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach",
+      "overath",
+      "wermelskirchen"
+    ],
+    "fetched": "2026-05-14T20:00:38.125186"
   },
   {
     "id": "c9304da5e89b",
