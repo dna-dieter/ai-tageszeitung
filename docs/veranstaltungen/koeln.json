@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Kompass der Klänge",
-    "datum": "14. Mai 2026",
-    "datum_raw": "2026-05-14T00:00+0200",
-    "ort": "Kölner Philharmonie, Bischofsgartenstraße 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kompass-der-klange-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "In diesem mitreißenden Konzertprogramm erklingen musikalische schätze aus allen Himmelsrichtungen, die zu einer Weltreise der besonderen Art einladen. \"Kompass der Klänge\" ist eine Entdeckungsreise, die Grenzen überwi"
-  },
-  {
     "titel": "PhilharmonieVeedel Pänz @Filmforum: »So bin ich«",
     "datum": "14. Mai 2026",
     "datum_raw": "2026-05-14T10:00+0200",
@@ -378,6 +368,16 @@
     "link": "https://rausgegangen.de/events/tyler-shaw-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Der mehrfach mit Platin ausgezeichnete Sänger, Songwriter, Schauspieler und Produzent Tyler Shaw hat eine Reihe von Kanada- und Europa-Terminen angekündigt und markiert damit seine erste umfangreiche Europatournee.Anla"
+  },
+  {
+    "titel": "Groove Cologne - Concert & Jam-Session",
+    "datum": "14. Mai 2026",
+    "datum_raw": "2026-05-14T21:00+0200",
+    "ort": "Jameson Distillery Pub, Friesenstr 30-40",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/groove-cologne-concert-jam-session-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Live-Concert and Jam-Session! Opening concert of our house-band, afterwards the stage will be open to jam. Bring your instrument or use our equipment and lets rock into the night! Everybody and every style is welcome!!! "
   },
   {
     "titel": "Kakao & Klang - Zeremonie mit Sound Healing, live Musik zum Fühlen, Schokolade zum Trinken",
