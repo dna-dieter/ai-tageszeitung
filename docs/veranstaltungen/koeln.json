@@ -20,16 +20,6 @@
     "teaser": "Zum Vatertags-Wochenende versammeln sich die Krieger aus Walhalla zum Mittelalterlager, wo du in historische Welten von Wikingern und Hunnen eintauchst. Zwischen authentischer Gewandung und der Einherier-Zeremonie gibt's"
   },
   {
-    "titel": "Kölner Familienfestival",
-    "datum": "14. Mai 2026",
-    "datum_raw": "2026-05-14T11:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kolner-familienfestival-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die Maus | Kinderchor | WDR Rundfunkchor | Franziska Kuba | André Gatzke | Kinderorchester NRW | Emanuel Dantscher | Ralph Erdenberger | Of Cabbages And KingsInteraktive und offene Begegnung mit Musik und Kultur für al"
-  },
-  {
     "titel": "Kölsch-Pong-Turnier an Vatertag in FRÜH's Brauhauskeller",
     "datum": "14. Mai 2026",
     "datum_raw": "2026-05-14T11:11+0200",
@@ -70,16 +60,6 @@
     "teaser": "Was Retro Ragazzi und Nonchalance an einem Nachmittag abliefern, bringt entspannten Groove und feine Sounds zusammen. Klick rein und erlebe, wie sich aus entspannten Vibes und sommerlichen Drinks ein besonderer Tag ergib"
   },
   {
-    "titel": "Studio Musikfabrik | Familienfestival Kölner Philharmonie",
-    "datum": "14. Mai 2026",
-    "datum_raw": "2026-05-14T15:30+0200",
-    "ort": "Filmforum NRW im Museum Ludwig, Bischofsgartenstraße 1",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/studio-musikfabrik-familienfestival-kolner-philharmonie-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Ausgewählte Werke des Tanz- und Musiktheaters „Im Lärm der Stille“ – ein Kooperationsprojekt mit der Tanzakademie und der Kompositionswerkstatt der Rheinischen Musikschule, die im Rahmen der eResponse-Abschlusspräsent"
-  },
-  {
     "titel": "Free Entry Daydrinking / Ruby x Petrified Phoenix",
     "datum": "14. Mai 2026",
     "datum_raw": "2026-05-14T16:00+0200",
@@ -114,20 +94,10 @@
     "datum": "14. Mai 2026",
     "datum_raw": "2026-05-14T17:30+0200",
     "ort": "Kiosque & Eisdiele Wine&Glory, Beethovenstraße 14",
-    "preis": "ab 20 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/eis-und-wein-tasting-im-kiosque-wineglory-29/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Dienstags bis donnerstags erwarten dich handverlesene Weine, die sich auf kreative Weise mit hausgemachtem Eis von Creme Eis verbinden. Die Kombinationen überraschen mit neuen Aromen und machen Lust, bewusster zu genieße"
-  },
-  {
-    "titel": "Concurrency",
-    "datum": "14. Mai 2026",
-    "datum_raw": "2026-05-14T17:30+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/concurrency-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Kölner Familienfestival: Sing! Sing! Sing!Of Cabbages And Kings | Sophie Emilie Beha: Kinsella | M’Boup | Morscher | TotenhagenDas Neo-A-Cappella-Ensemble Of Cabbages And Kings präsentiert sein neues Programm »Concurre"
   },
   {
     "titel": "Eckart von Hirschhausen & OK Kid: FUN FACTS witzig, wichtig, richtig",
@@ -194,7 +164,7 @@
     "datum": "14. Mai 2026",
     "datum_raw": "2026-05-14T19:30+0200",
     "ort": "St. Aposteln, Neumarkt 30,",
-    "preis": "ab 11 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/melisma-fruhe-musik-an-st-aposteln-o-lais-ons-vroelich-synge-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Melisma - Frühe Musik an St. ApostelnDie romanische Basilika hallt wider von den Klängen der mittelalterlichen Musik! Die mystischen Gesänge des Rheinlands sorgenfür die besondere Note von Melisma, des neuen Konzertf"
@@ -274,7 +244,7 @@
     "datum": "14. Mai 2026",
     "datum_raw": "2026-05-14T20:00+0200",
     "ort": "die wohngemeinschaft, Richard-Wagner-Straße 39",
-    "preis": "ab 22 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/tyler-shaw-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Der mehrfach mit Platin ausgezeichnete Sänger, Songwriter, Schauspieler und Produzent Tyler Shaw hat eine Reihe von Kanada- und Europa-Terminen angekündigt und markiert damit seine erste umfangreiche Europatournee.Anla"
@@ -388,6 +358,36 @@
     "link": "https://rausgegangen.de/events/juliano-2/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Er ist der absolute Senkrechtstarter der Mallorca- und Partywelt! Mit millionenfach gestreamten Hits wie “Assi aber geil”, “Boomerang (Malle Fieber)”, “Du findest uns im Club” und seiner brandneuen Single “Intro” ist Jul"
+  },
+  {
+    "titel": "Alberto Alcalá im Konzert - Songwriter und Singer aus Malaga, Spanien",
+    "datum": "15. Mai 2026",
+    "datum_raw": "2026-05-15T20:00+0200",
+    "ort": "MACHADO, Severinsmühlengasse 1",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/alberto-alcala-im-konzert-songwriter-und-singer-aus-malaga-s-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "DIESEN FREITAG/THIS FRIDAY CANTAUTOR SINGER-SONGWRITER   Freitag 15/05/2026  Einlass: 19:30h           Beginn: 20:00h  ALBERTO ALCALÁ    Centro MACHADO Severinsmühlengasse 1 (Cerca de/Close to Chlodwigplatz) 50678 Köl"
+  },
+  {
+    "titel": "Eric Clapton",
+    "datum": "15. Mai 2026",
+    "datum_raw": "2026-05-15T20:00+0200",
+    "ort": "LANXESS arena, Willy-Brandt-Platz 3",
+    "preis": "ab 111 €",
+    "link": "https://rausgegangen.de/events/eric-clapton-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Es ist schon jetzt die Toursensation des kommenden Jahres: Eric Clapton – Weltstar, Gitarrengenie und Songwriting-Legende - geht 2026 erneut auf Tour und macht dabei für insgesamt vier Shows auch in Deutschland und Belg"
+  },
+  {
+    "titel": "ImKlang Session",
+    "datum": "15. Mai 2026",
+    "datum_raw": "2026-05-15T20:00+0200",
+    "ort": "Musik- und Kunstschule ImKlang, Waltherstraße 80",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/imklang-session-16/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": " IMKLANG SESSION  Offene Jam Session · jeden Freitag · ab 20:00 Uhr Die IMKLANG Session ist eine wöchentliche, offene Jam Session für Musikerinnen und Musiker aller Erfahrungsstufen – und für alle, die Musik gerne liv"
   },
   {
     "titel": "RAKITA",
