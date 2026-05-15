@@ -1,275 +1,5 @@
 [
   {
-    "titel": "Frühlingsgefühle & Streetfood: Feierabendmarkt Ehrenfeld",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T16:00+0200",
-    "ort": "Neptunplatz, Neptunplatz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/fruhlingsgefuhle-streetfood-feierabendmarkt-ehrenfeld-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Frühlingsgefühle pur am Neptunplatz! Der Feierabendmarkt in Ehrenfeld ist genau das Richtige, um den Arbeitsstress abzuschütteln – mit kühlen Drinks, leckerem Streetfood und den besten Feierabend-Vibes! Komm mit Kolleg:i"
-  },
-  {
-    "titel": "Kakao & Klang - Zeremonie mit Sound Healing, live Musik zum Fühlen, Schokolade zum Trinken",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T16:00+0200",
-    "ort": "room for emotions, Am Maarhof 25",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kakao-klang-zeremonie-mit-sound-healing-live-musik-zum-fuhle-20/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zeremonieller Rohkakao – die Medizin des HerzensZeremonieller Rohkakao ist weit mehr als ein Getränk. Seit Jahrtausenden wird er in mittel- und südamerikanischen Kulturen als heilige Pflanzenmedizin verehrt – als „Spei"
-  },
-  {
-    "titel": "Yin & Ambient",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T17:30+0200",
-    "ort": "PURE SPACE - Yoga & Sound Studio, Barbarastraße 3-9 Block 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/yin-ambient-16/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier erwarten dich Yin-Yoga-Haltungen, begleitet von Ambient-Klängen über unser Hi-Fi-Soundsystem.Das längere Verweilen in den Positionen wirkt auf Faszien und Gelenke, unterstützt Entspannung und innere Ruhe.Du wirs"
-  },
-  {
-    "titel": "Odonische Freitagsbühne",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T18:00+0200",
-    "ort": "Odonien, Hornstraße 85",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/odonische-freitagsbuhne-66/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge entdecken Spaß macht "
-  },
-  {
-    "titel": "Drag Dinner",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T19:00+0200",
-    "ort": "TörtchenTörtchen, Apostelnstraße 19",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/drag-dinner-4/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Drag Dinner mischen sich schmackhafte Gerichte mit schillernden Performances zu einem Abend, der dich von der Vorspeise bis zum großen Finale begleitet. Es gibt Glamour, Humor und eine Bühne voller Charme, die für g"
-  },
-  {
-    "titel": "UN|ZERBRECHLICH",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T19:00+0200",
-    "ort": "Orangerie Theater, Volksgartenstraße 25",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/unzerbrechlich-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "UN|ZERBRECHLICH zeigt, wie Menschen den Krieg nicht nur überleben, sondern mit Gesang und Geschichten zwischen Schmerz und Hoffnung bestehen. Ein ungewöhnliches Stück, das einen neuen Blick auf Resilienz und Solidarität "
-  },
-  {
-    "titel": "MAGDALENA WAWRA",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T19:00+0200",
-    "ort": "die wohngemeinschaft, Richard-Wagner-Straße 39",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/magdalena-wawra-5/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Magdalena Wawra kombiniert deutschsprachigen Indie-Pop mit tanzbarer Melancholie und erzählt in ihrem Debütalbum „Ich bin viele“ unverblümt aus dem Alltag. Mit über einer Million Streams und einer Vorabsingle auf Platz z"
-  },
-  {
-    "titel": "Cozy Concerts by Hidden Stage Sessions e.V.",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T19:00+0200",
-    "ort": "Geheimer Ort, Köln",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/cozy-concerts-by-hidden-stage-sessions-ev-14/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beginn des Konzertes: Uhrzeit, die in der Veranstaltung als Beginn angegeben ist.Einlass: Eine halbe Stunde vor Beginn.Die Cozy Concerts des Hidden Stage Sessions e.V. sind eine besondere Konzertreihe, die Musiker*innen "
-  },
-  {
-    "titel": "HAIYTI",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T19:00+0200",
-    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/haiyti-15/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "HAIYTIDREHKREUZ Tour 2026Präsentiert von like a friend 15.05.2026 Köln, Club Bahnhof Ehrenfeld Einlass: 18:00 Uhr | Beginn: 19:00 Uhr Haiyti hat den ECHO gewonnen, das Feuilleton um die Finger gewickelt, hunderte Milli"
-  },
-  {
-    "titel": "An Evening With Francis Rossi",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T19:30+0200",
-    "ort": "Tanzbrunnen Köln, Rheinparkweg 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/an-evening-with-francis-rossi-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "FRANCIS ROSSI TOUR 2026‘An Evening of Francis Rossi’s Songs from the Status Quo Songbook and more...’ kommt nach Deutschland!Zehn exklusive Live-Shows präsentiert von RBK FUSIONNach über 100 sehr erfolgreichen Auftritt"
-  },
-  {
-    "titel": "Flow My Tears – Eine meditative Klangreise",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T19:30+0200",
-    "ort": "UTA Meditations- und Seminarzentrum, Venloer Straße 5-7",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/flow-my-tears-eine-meditative-klangreise-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Konzert mit Thomas Rückert und Peter Dahm  Thomas Rückert (Klavier) und Peter Dahm (Saxophon) improvisieren über Lieder des englischen Renaissance-Komponisten John Dowland.Eine Veranstaltung der Sammasati Stiftung.Bes"
-  },
-  {
-    "titel": "Juliano",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T19:45+0200",
-    "ort": "YUCA, Bartholomäus-Schink-Straße 65",
-    "preis": "ab 31 €",
-    "link": "https://rausgegangen.de/events/juliano-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Er ist der absolute Senkrechtstarter der Mallorca- und Partywelt! Mit millionenfach gestreamten Hits wie “Assi aber geil”, “Boomerang (Malle Fieber)”, “Du findest uns im Club” und seiner brandneuen Single “Intro” ist Jul"
-  },
-  {
-    "titel": "LE MONDE NOUS REGARDE (DIE WELT SCHAUT AUF UNS)",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T20:00+0200",
-    "ort": "FWT: Freies Werkstatt Theater Köln, Zugweg 10",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/le-monde-nous-regarde-die-welt-schaut-auf-uns-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Willie Stark bringt mit LE MONDE NOUS REGARDE eine kraftvolle Tanzperformance, die Widerstand sichtbar macht und in Bewegung eine Mahnung an Solidarität und Fürsorge schafft. Die Vorschau zeigt, wie Körper Räume zurücker"
-  },
-  {
-    "titel": "Echtzeit Comedy - Stand-Up am Freitag",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T20:00+0200",
-    "ort": "Echtzeit Grill & Thrill, Friesenstraße 33",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/echtzeit-comedy-stand-up-am-freitag-67/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Lust auf Stand-Up-Comedy? 🎙️ Bei Echtzeit Comedy erwartet dich jede Woche ein wechselndes Line-Up! Freu dich auf einen lustigen Abend und einen Mix aus neuen & bereits bekannten Talenten - jetzt Tickets sichern! ✨"
-  },
-  {
-    "titel": "Alberto Alcalá im Konzert - Songwriter und Singer aus Malaga, Spanien",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T20:00+0200",
-    "ort": "MACHADO, Severinsmühlengasse 1",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/alberto-alcala-im-konzert-songwriter-und-singer-aus-malaga-s-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "DIESEN FREITAG/THIS FRIDAY CANTAUTOR SINGER-SONGWRITER   Freitag 15/05/2026  Einlass: 19:30h           Beginn: 20:00h  ALBERTO ALCALÁ    Centro MACHADO Severinsmühlengasse 1 (Cerca de/Close to Chlodwigplatz) 50678 Köl"
-  },
-  {
-    "titel": "Eric Clapton",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T20:00+0200",
-    "ort": "LANXESS arena, Willy-Brandt-Platz 3",
-    "preis": "ab 111 €",
-    "link": "https://rausgegangen.de/events/eric-clapton-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Es ist schon jetzt die Toursensation des kommenden Jahres: Eric Clapton – Weltstar, Gitarrengenie und Songwriting-Legende - geht 2026 erneut auf Tour und macht dabei für insgesamt vier Shows auch in Deutschland und Belg"
-  },
-  {
-    "titel": "ImKlang Session",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T20:00+0200",
-    "ort": "Musik- und Kunstschule ImKlang, Waltherstraße 80",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/imklang-session-16/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": " IMKLANG SESSION  Offene Jam Session · jeden Freitag · ab 20:00 Uhr Die IMKLANG Session ist eine wöchentliche, offene Jam Session für Musikerinnen und Musiker aller Erfahrungsstufen – und für alle, die Musik gerne liv"
-  },
-  {
-    "titel": "Magdalena Wawra: Ich Bin Viele Tour 2026 + Support (Malvin)",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T20:00+0200",
-    "ort": "die wohngemeinschaft, Richard-Wagner-Straße 39",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/magdalena-wawra-ich-bin-viele-tour-2026-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Magdalena Wawra verbindet deutschsprachigen Indie-Pop mit tanzbarer Melancholie. Nach ihrer ersten EP „SO WIES GRADE IST“ und der Erfolgs-Single „wie man tanzt“ (über 1 Mio. Streams) erscheint am 17. April 2026 ihr Debu"
-  },
-  {
-    "titel": "Nick & June",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T20:00+0200",
-    "ort": "King Georg, Sudermanstraße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/nick-june-13/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Nick & June gleiten durch einen schimmernden Dunst aus hallgetränkten Gitarren, vibrierenden Synthesizern und sanft pulsierenden Beats und Drums. Ihre Stimmen verschmelzen zu einer hypnotischen Melange und führen die H"
-  },
-  {
-    "titel": "Musik vom Fass - Female Edition im Mai",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T20:15+0200",
-    "ort": "GREATLIVE, Luxemburger Straße 41-43",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/musik-vom-fass-female-edition-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "MUSIK VOM FASS......ist die Fusion der zwei schönsten Dinge, die man sich denken kann: Feinste akustische Musik und lecker Mühlen Kölsch vom Fass.Hier treffen einmal im Monat unterschiedliche Musiker im ganz intimen R"
-  },
-  {
-    "titel": "DJ Zoni",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T21:00+0200",
-    "ort": "Asimmetric Bar, Venloer Straße 196",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/dj-zoni-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zoni serviert Jerk Chicken Sounds von Dancehall, Roots bis Rub-a-dub alles in einem dubbigen Gewürzmantel und mit teils elektronisch pikanter Schärfe"
-  },
-  {
-    "titel": "MitSingKunzät vür Naaksüüle, kostenloses Mitsingkonzert mit Heiko & Mo",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T21:30+0200",
-    "ort": "Peters am Hahnentor, Hahnenstraße 22",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/mitsingkunzat-vur-naaksuule-kostenloses-mitsingkonzert-mit-h-9/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "MitSingKunzät vür Naaksüüle, kostenloses Mitsingkonzert mit Heiko & Mo"
-  },
-  {
-    "titel": "SING IT OUT! Maxis Karaoke Nacht",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T21:30+0200",
-    "ort": "NightWash club, Hohenstaufenring 25-27",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/sing-it-out-maxis-karaoke-nacht-19/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier gibt’s keinen Jury-Stress und keine falschen Töne, sondern einfach 53.000 Songs zum Austoben – von 90s Trash bis RnB. Maxi macht seit Jahren Karaoke-Abende zur Party, bei denen du zum Held:in oder Meme wirst. Zwisch"
-  },
-  {
-    "titel": "Peinlo Pop Party • Helios 37 • Köln",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T23:00+0200",
-    "ort": "Helios37, Heliosstraße 37",
-    "preis": "ab 14 €",
-    "link": "https://rausgegangen.de/events/peinlo-pop-party-helios-37-koln-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei der Peinlo Pop Party geht’s um all deine heimlichen Lieblingshits von Avril bis Olivia, die du sonst nur solo lauthals singst. Hier trifft Throwback-Pop auf aktuelle Ohrwürmer und du darfst voll aufdrehen und Drama l"
-  },
-  {
-    "titel": "WETDREAMS Vol. 6",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T23:00+0200",
-    "ort": "artheater Köln, Ehrenfeldgürtel 127",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/wetdreams-vol-6-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "WETDREAMS Vol. 6 bringt am 15. Mai lokalen Spirit und elektronische Klänge zusammen, von Speedhouse bis Trance. Das Non-Profit-Event setzt auf Gemeinschaft und sichere Räume ganz ohne Schnickschnack. Mit Human Error als "
-  },
-  {
-    "titel": "´Baddiess Party • Garagen Köln",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T23:00+0200",
-    "ort": "Garagen, Oskar-Jäger-Straße 179",
-    "preis": "ab 14 €",
-    "link": "https://rausgegangen.de/events/baddiess-party-garagen-koln-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier geht’s richtig zur Sache: Baddiess mischen Rap und HipHop mit ordentlich Attitude und schicken Beats, die dich garantiert auf die Tanzfläche ziehen. Es erwarten dich starke Stimmen, klare Botschaften und ein Abend v"
-  },
-  {
-    "titel": "E.P.I.Q invites Nada Formosa",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T23:30+0200",
-    "ort": "JAKI, Venloer Str. 40",
-    "preis": "ab 12 €",
-    "link": "https://rausgegangen.de/events/epiq-invites-nada-formosa-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "E.P.I.Q. ist ein Kölner FLINTA* Kollektiv bestehend aus acht DJs, die jegliche Genregrenzen hinter sich lassen. Durch den daraus resultierenden eklektischen Stil und ihre Zusammenarbeit kreieren sie einzigartige und ene"
-  },
-  {
     "titel": "25 Jahre Senso Unico by mika Jubiläumsparty",
     "datum": "16. Mai 2026",
     "datum_raw": "2026-05-16T10:00+0200",
@@ -278,6 +8,26 @@
     "link": "https://rausgegangen.de/events/25-jahre-senso-unico-by-mika-jubilaumsparty-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "🎉 25 Jahre senso Unico by mika 🎉wir feiern – und ihr seid dabei! 🖤📍 Atelier Richard-Wagner-Str. 21, 50674 Köln🗓️ 16.05.2026⏰ ab 17 Uhr✨ Musik. Mode. Kunst.🎶 Live: Part of the Art - 80’s Hits reloaded🍹 Aperol, Bier & Sof"
+  },
+  {
+    "titel": "Flohmarkt am Ebertplatz",
+    "datum": "16. Mai 2026",
+    "datum_raw": "2026-05-16T11:00+0200",
+    "ort": "Ebertplatz, Ebertplatz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/flohmarkt-am-ebertplatz-9/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim Flohmarkt am Ebertplatz warten rund 100 Stände darauf, von dir entdeckt zu werden. Hier findest du alles zwischen Kuriosem und Klassikern zum Schnäppchenpreis. Schau vorbei und erlebe entspanntes Stöbern mitten in K"
+  },
+  {
+    "titel": "CircusDanceFestival 2026",
+    "datum": "16. Mai 2026",
+    "datum_raw": "2026-05-16T11:00+0200",
+    "ort": "CircusDanceFestival | Festivalgelände, An der Schanz 6",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/circusdancefestival-2026-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim CircusDanceFestival 2026 rücken internationale Zirkus- und Tanzproduktionen das gemeinsame Erleben in den Mittelpunkt. Vom 16. bis 31. Mai kannst du dich auf über 50 Shows freuen, die mit urbanen Spielorten und offe"
   },
   {
     "titel": "Handpan Workshop",
@@ -300,6 +50,16 @@
     "teaser": "Harfe spielen - ein Genuss. Du berührst die Saiten und der Raum füllt sich mit Klang. Sanft, klar, fast wie von selbst. In diesem kostenfreien Einstieg erlebst Du,  wie es sich anfühlt, selbst Harfe zu spielen – ruhig"
   },
   {
+    "titel": "Bass & Buggys - Das Clubevent für Familien",
+    "datum": "16. Mai 2026",
+    "datum_raw": "2026-05-16T12:00+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/bass-buggys-das-clubevent-fur-familien-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Du vermisst das Clubgefühl, willst aber nicht auf deine Kids verzichten? Bass & Buggys bringt elektronische Musik und Familienleben zusammen – mit zwei Floors, chilligen Rückzugsorten und Aktionen für Groß und Klein. Hie"
+  },
+  {
     "titel": "Psychedelic Light & Sound",
     "datum": "16. Mai 2026",
     "datum_raw": "2026-05-16T12:00+0200",
@@ -318,6 +78,26 @@
     "link": "https://rausgegangen.de/events/festival-resonanz-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Festival RESONANZMusik – Lesung – SpiritVon und mit dem Musiker-Kollektiv \"milieu48\":Roger Hanschel, Markus Stockhausen, Michael Denhoff, Barbara Schachtner, Andreas Wagner, Naomi Binder, Afshin Ghavami, Martina Binnig, "
+  },
+  {
+    "titel": "GIRLHOOD KÖLN – Open-Air Rooftop | Day Party | ab 21 J. | Crying. Screaming. Shaking Ass.",
+    "datum": "16. Mai 2026",
+    "datum_raw": "2026-05-16T17:00+0200",
+    "ort": "Sonnenscheinetage, An Sankt Agatha 19-25",
+    "preis": "ab 15 €",
+    "link": "https://rausgegangen.de/events/girlhood-koln-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "GIRLHOOD – Together through Highs & Lows Ticketstart ab Freitag, 03.04. auf Ticket2Go.de🧡 FLINTA-focused: Girls get the spotlight, but everyone is invited – as long as they interact respectfully. 🧡 Musik abseits vom Einh"
+  },
+  {
+    "titel": "Sapphic Spark - The Grand Closing Party – Kölner Lesbian Visibility Weeks 2026",
+    "datum": "16. Mai 2026",
+    "datum_raw": "2026-05-16T17:00+0200",
+    "ort": "Bürgerzentrum Nippes Altenberger Hof, Mauenheimer Straße 92",
+    "preis": "ab 11 €",
+    "link": "https://rausgegangen.de/events/sapphic-spark-the-grand-closing-party-kolner-lesbian-visibil-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Nach 35 Tagen voller Austausch und Kultur feiern die Kölner Lesbian Visibility Weeks mit Sapphic Spark ihre große Abschlussparty. Freu dich auf entspannte Gartenatmosphäre, lecker Waffeln und Beats von Inge Linne und Pho"
   },
   {
     "titel": "Be Peace Community – Kirtan Meditation",
@@ -398,5 +178,225 @@
     "link": "https://rausgegangen.de/events/anna-lass-es-liebe-sein-3/",
     "quelle": "Rausgegangen Köln",
     "teaser": "„Anna - Lass es Liebe sein“ ist eine emotionale und mitreißende Live-Show, die das musikalische Erbe der unvergessenen AnNa R. und der Kultband Rosenstolz auf die Bühne bringt. Mit einer einzigartigen Mischung aus gefü"
+  },
+  {
+    "titel": "BBNO$ - The Internet Explorer Tour 2026",
+    "datum": "16. Mai 2026",
+    "datum_raw": "2026-05-16T20:00+0200",
+    "ort": "Palladium, Schanzenstraße 36",
+    "preis": "ab 36 €",
+    "link": "https://rausgegangen.de/events/bbno-the-internet-explorer-tour-2026-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "SOLD OUTBBNO$The Internet Explorer Tour 2026Präsentiert von Live Nation GmbH 17.05.2026 Köln, Palladium Einlass: 19:00 Uhr | Beginn: 20:00 UhrNicht nur für seine Musik, die zwischen Indie-Rap, Trap und Hip-Hop etliche"
+  },
+  {
+    "titel": "bbno$ - The Internet Explorer Tour 2026\t\t\t\t",
+    "datum": "16. Mai 2026",
+    "datum_raw": "2026-05-16T20:00+0200",
+    "ort": "Palladium, Schanzenstraße 36",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/bbno-the-internet-explorer-tour-2026-6/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Presented by Live NationRollstuhlfahrer*innen und Schwerbehinderte mit Merkzeichen „B“ wählen bitte die Telefonnummer +49 (0)30 - 40 818 824 (Ortstarif). Unsere kompetenten Kolleginnen und Kollegen aus dem Call Center h"
+  },
+  {
+    "titel": "bbno$ - The Internet Explorer Tour 2026 | VIP Packages",
+    "datum": "16. Mai 2026",
+    "datum_raw": "2026-05-16T20:00+0200",
+    "ort": "Palladium, Schanzenstraße 36",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/bbno-the-internet-explorer-tour-2026-vip-packages-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bitte beachten Sie :• Für das Konzert stehen nur Mobile Tickets zur Verfügung. Diese sind über die Ticketmaster App abrufbar. Das Merchandise wird vor Ort ausgehändigt. Eine nachträgliche Versendung bei Nichtabholun"
+  },
+  {
+    "titel": "Ede Eckstein Trio",
+    "datum": "16. Mai 2026",
+    "datum_raw": "2026-05-16T20:00+0200",
+    "ort": "Durst, Weidengasse 87",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/ede-eckstein-trio-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Swingende Musik auf Deutsch zum Mitschnippen, Wippen, Wiegen, Wogen, Tanzen und Zuhören - nur schunkeln geht nicht. Kost nix, Hut geht rum. Also kommt alle!"
+  },
+  {
+    "titel": "Fabrizio Cammarata  \"Insularities Tour 2026\" + Support (Living Room Estate)",
+    "datum": "16. Mai 2026",
+    "datum_raw": "2026-05-16T20:00+0200",
+    "ort": "die wohngemeinschaft, Richard-Wagner-Straße 39",
+    "preis": "ab 20 €",
+    "link": "https://rausgegangen.de/events/insularities-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "„Insularities“ ist das neue Album des sizilianischen Songwriters Fabrizio Cammarata, gedacht wie ein musikalisches Archipel aus Stimmen, Erinnerungen und Bildern. Im Zentrum steht die Frage nach Identität als etwas Bewe"
+  },
+  {
+    "titel": "Jazz at JAKI: Felix Ambach Trio",
+    "datum": "16. Mai 2026",
+    "datum_raw": "2026-05-16T20:00+0200",
+    "ort": "JAKI, Venloer Str. 40",
+    "preis": "ab 8 €",
+    "link": "https://rausgegangen.de/events/jazz-at-jaki-felix-ambach-trio-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "20:00 I Konzert I JAKI Felix Ambach ist Produzent, Multi-Instrumentalist und Komponist aus Deutschland und lebt heute in Brooklyn, New York. Das tiefe Vertrauen und die langjährigen Freundschaften innerhalb seines Trios"
+  },
+  {
+    "titel": "ONE NIGHT OF TAYLOR - THE ERAS EXPERIENCE TOUR 2026 - The Taylor Swift Tribute by XENNA",
+    "datum": "16. Mai 2026",
+    "datum_raw": "2026-05-16T20:00+0200",
+    "ort": "E-Werk Köln, Schanzenstraße 37",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/one-night-of-taylor-the-eras-experience-tour-2026-the-taylor-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "XENNA entführt dich auf der ERAS EXPERIENCE TOUR 2026 durch Taylors größten Hits, von „Love Story“ bis „Shake It Off“. Mit Kostümen und Dancecrew bringen sie Taylors Bühnenmagie beeindruckend nah an das Original – perfek"
+  },
+  {
+    "titel": "Zwischen den Zeilen – Schostakowitschs Fünfte",
+    "datum": "16. Mai 2026",
+    "datum_raw": "2026-05-16T20:00+0200",
+    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
+    "preis": "ab 9 €",
+    "link": "https://rausgegangen.de/events/zwischen-den-zeilen-schostakowitschs-funfte-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Yoav Levanon | WDR Sinfonieorchester | Constantinos CarydisYoav Levanon | WDR Sinfonieorchester | Constantinos Carydis: Borboudakis | Koukos | Liszt | SchostakowitschSeine fünfte Sinfonie schildere »das Werden der Perso"
+  },
+  {
+    "titel": "Swing & Lindy Night",
+    "datum": "16. Mai 2026",
+    "datum_raw": "2026-05-16T21:00+0200",
+    "ort": "King Georg, Sudermanstraße 2",
+    "preis": "ab 18 €",
+    "link": "https://rausgegangen.de/events/swing-lindy-night-9/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "\"It don't mean a thing if it ain't got that swing!\" Deswegen darf im King Georg - in diesem Sommer ganz im Stile des Cotton Club - getanzt und gefeiert werden. \"Hagen's Little Big Horns\" ein Oktett unter der künstlerisc"
+  },
+  {
+    "titel": "Brauhaus Beats mit Constantin und Moritz",
+    "datum": "16. Mai 2026",
+    "datum_raw": "2026-05-16T22:00+0200",
+    "ort": "Gaffel am Dom, Bahnhofsvorplatz 1",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/brauhaus-beats-mit-constantin-und-moritz-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Auch 2026 wird im Gaffel am Dom bis in den Sonntag hinein gefeiert! Die Party-Reihe Brauhaus Beats lädt zu außergewöhnlichen Mitsingabenden ein.Ab 22 Uhr sorgen Constantin Gold, Chorleiter der Grüngürtelrosen, und Si"
+  },
+  {
+    "titel": "Urban McFly - Old School Hip Hop Party timetravelers",
+    "datum": "16. Mai 2026",
+    "datum_raw": "2026-05-16T22:30+0200",
+    "ort": "HERBRAND's ehrenfeld, Herbrandstraße",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/urban-mcfly-old-school-hip-hop-party-timetravelers-7/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Diese Partynacht bringt Hip-Hop & RnB auf das nächste Level! 🚀 Dance zu den besten 90s & 2000er Clubbangern, lass dir vllt. ein Tattoo stechen & make the night yours! ✨"
+  },
+  {
+    "titel": "Cruise x Schleuse Eins",
+    "datum": "16. Mai 2026",
+    "datum_raw": "2026-05-16T23:00+0200",
+    "ort": "Ursprung fi, Widdersdorfer Straße 246",
+    "preis": "ab 18 €",
+    "link": "https://rausgegangen.de/events/cruise-x-schleuse-eins-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wenn Schleuse und Cruise zum ersten Mal die Kräfte bündeln, wird Fi zur besten Adresse der Nacht. Wir sagen: hingehen! 🪩"
+  },
+  {
+    "titel": "NURBÖSE 16.05",
+    "datum": "16. Mai 2026",
+    "datum_raw": "2026-05-16T23:00+0200",
+    "ort": "Helios37, Heliosstraße 37",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/nurbose-1605-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Am 16. Mai bringt NURBÖSE lesbliche Sichtbarkeit auf den Dancefloor mit einem Line-up, das klare Haltung und satte elektronische Sounds liefert. Die Nacht setzt auf diverse Räume und einen sicheren, inklusiven Raum, in d"
+  },
+  {
+    "titel": "Tom-Tom Discotec presents: Rare Groove Nights w/ Alex Fire Ball, Isabel Del Valle, Hermes Villena",
+    "datum": "16. Mai 2026",
+    "datum_raw": "2026-05-16T23:30+0200",
+    "ort": "JAKI, Venloer Str. 40",
+    "preis": "ab 12 €",
+    "link": "https://rausgegangen.de/events/tom-tom-discotec-presents-rare-groove-nights-w-alex-fire-bal-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Rare Groove Nights mischen Soul mit Rock Steady, Latin und brasilianischen Grooves – Alex Fire Ball bringt seinen tief verwurzelten Reggae-Background mit, Isabel del Valle sorgt mit ihren sorgfältig ausgewählten Plat"
+  },
+  {
+    "titel": "Frühjahrskonzert",
+    "datum": "17. Mai 2026",
+    "datum_raw": "2026-05-17T11:00+0200",
+    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
+    "preis": "ab 12 €",
+    "link": "https://rausgegangen.de/events/fruhjahrskonzert-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jubiläumskonzert – 90 JahreFord-Sinfonieorchester | Steffen Müller-Gabriel: Borodin | Dvořák | Falla | Fauré | Gershwin | Händel | Janáček | Márquez | Prokofjew | Rachmaninow"
+  },
+  {
+    "titel": "Bal Folk – Mitmachtanz",
+    "datum": "17. Mai 2026",
+    "datum_raw": "2026-05-17T16:00+0200",
+    "ort": "Lutherkirche Südstadt, Martin-Luther-Platz 2-4",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/bal-folk-mitmachtanz-33/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Tanzeinführung ab 16 UhrAlle tanzen mit! In Paaren, im Kreis, in Ketten, in Gruppen aus mehreren Personen oder alleine. Live-Musik, Spaß, Freude an Bewegung und Geselligkeit in einer besonderen Atmosphäre. Das hört si"
+  },
+  {
+    "titel": "Rising Stars: Álfheiður Erla Guðmundsdóttir & Kunal Lahiry",
+    "datum": "17. Mai 2026",
+    "datum_raw": "2026-05-17T16:00+0200",
+    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
+    "preis": "ab 12 €",
+    "link": "https://rausgegangen.de/events/rising-stars-alfheiur-erla-gumundsdottir-kunal-lahiry-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "»Migrations«Lieder über Fernweh, Krieg und MigrationGeboren in Reykjavík und ausgebildet an der Hochschule für Musik Hanns Eisler in Berlin, wurde Álfheiður Erla Guðmundsdóttir bei den Icelandic Music Awards 2021 al"
+  },
+  {
+    "titel": "Workshop & Social Night für Paare & Alleinstehende,  Tanzen verbindet",
+    "datum": "17. Mai 2026",
+    "datum_raw": "2026-05-17T17:45+0200",
+    "ort": "Salsa Bachata Mastery Zentrum, Georgstraße 5",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/workshop-social-night-fur-paare-alleinstehende-tanzen-verbin-116/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Es geht um neue Kontakte und ein neues Hobby, das deine Weltsicht verändern und den Kontakt zu Menschen viel einfacher machen kann. Durch das Tanzen verbinden sich Menschen und bleiben präsent.Meine Aufgabe als Worksho"
+  },
+  {
+    "titel": "KLANGRAUM Klassik | Frühling! Mendelssohn und Brahms mit Hans Christian Aavik, Felicitas Schiffner, Toby Cook, Wassili Wolgemuth, Frederick Winterson",
+    "datum": "17. Mai 2026",
+    "datum_raw": "2026-05-17T18:00+0200",
+    "ort": "Et Kapellchen e.V. Köln-Mülheim, Holsteinstraße",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/klangraum-klassik-fruhling-mendelssohn-und-brahms-mit-hans-c-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Felix Mendelssohn: Streichquintett Nr. 1 in A-Dur, Op. 18Johannes Brahms: Streichquintett Nr. 1 in F-Dur, Op. 88 Ein besonderer Abend mit der Besetzung Bratschenquintett im Fokus. Der Stargeiger Hans Christian Aavik kehr"
+  },
+  {
+    "titel": "Paul Heller invites Julian & Roman Wasserfuhr",
+    "datum": "17. Mai 2026",
+    "datum_raw": "2026-05-17T18:00+0200",
+    "ort": "Stadtgarten, Venloer Straße 40",
+    "preis": "ab 18 €",
+    "link": "https://rausgegangen.de/events/paul-heller-invites-julian-roman-wasserfuhr-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Mit „Timelines\", dem aktuellen Projekt von Julian & Roman Wasserfuhr geht die Konzertreihe von Paul Heller in die Sommerpause. Beide gehören seit vielen Jahren zu den markanten Stimmen des deutschen Jazz. Ihr Spiel zeic"
+  },
+  {
+    "titel": "Downtempo meets Psytrance",
+    "datum": "17. Mai 2026",
+    "datum_raw": "2026-05-17T18:30+0200",
+    "ort": "Ballett-Akademie, Waltherstraße 49-51",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/downtempo-meets-psytrance-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Liebe/er Tänzerin, lieber Tänzer,Auf ein neues 😍 In der schönen Mischung von Downtempo & Psytrance !❣️Deine Teilnahme NUR über Anmeldung ❣️https://lets-meet.org/reg/29386b6d1471e49ebe❣️Ich lade deine Ekstase ein, dei"
+  },
+  {
+    "titel": "CHEFKET",
+    "datum": "17. Mai 2026",
+    "datum_raw": "2026-05-17T19:00+0200",
+    "ort": "Gebäude 9, Deutz-Mülheimer Straße 117",
+    "preis": "ab 35 €",
+    "link": "https://rausgegangen.de/events/chefket-13/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der Berliner Rapper zählt seit Jahren zu den prägendsten Stimmen im deutschsprachigenHip-Hop. Unter dem Alias Dr. Dirican seziert Chefket mit scharfem Blick persönlicheThemen, gesellschaftliche Fragen und innere Konfl"
   }
 ]
