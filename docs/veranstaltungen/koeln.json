@@ -20,21 +20,11 @@
     "teaser": "Zeremonieller Rohkakao – die Medizin des HerzensZeremonieller Rohkakao ist weit mehr als ein Getränk. Seit Jahrtausenden wird er in mittel- und südamerikanischen Kulturen als heilige Pflanzenmedizin verehrt – als „Spei"
   },
   {
-    "titel": "Francis Rossi | Meet & Greet",
-    "datum": "15. Mai 2026",
-    "datum_raw": "2026-05-15T17:30+0200",
-    "ort": "Tanzbrunnen Köln, Rheinparkweg 1",
-    "preis": "ab 116 €",
-    "link": "https://rausgegangen.de/events/francis-rossi-meet-greet-7/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "UPGRADE PACKAGE – MEET & GREETMit einem Upgrade Package erhalten Sie:- Ein Meet & Greet mit Francis Rossi vor der Show- Ein gemeinsames Foto mit Francis Rossi, aufgenommen mit Ihrem eigenen Gerät- Einen „Tour-Pass“ als "
-  },
-  {
     "titel": "Yin & Ambient",
     "datum": "15. Mai 2026",
     "datum_raw": "2026-05-15T17:30+0200",
     "ort": "PURE SPACE - Yoga & Sound Studio, Barbarastraße 3-9 Block 2",
-    "preis": "ab 22 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/yin-ambient-16/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Hier erwarten dich Yin-Yoga-Haltungen, begleitet von Ambient-Klängen über unser Hi-Fi-Soundsystem.Das längere Verweilen in den Positionen wirkt auf Faszien und Gelenke, unterstützt Entspannung und innere Ruhe.Du wirs"
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/koln-mamma-mia-konzert-party-3/",
     "quelle": "Rausgegangen Köln",
     "teaser": ""
+  },
+  {
+    "titel": "Anna - Lass es Liebe sein",
+    "datum": "16. Mai 2026",
+    "datum_raw": "2026-05-16T20:00+0200",
+    "ort": "Gloria-Theater, Apostelnstraße 11",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/anna-lass-es-liebe-sein-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "„Anna - Lass es Liebe sein“ ist eine emotionale und mitreißende Live-Show, die das musikalische Erbe der unvergessenen AnNa R. und der Kultband Rosenstolz auf die Bühne bringt. Mit einer einzigartigen Mischung aus gefü"
   }
 ]
