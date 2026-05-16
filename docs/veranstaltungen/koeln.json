@@ -30,26 +30,6 @@
     "teaser": "Beim CircusDanceFestival 2026 rücken internationale Zirkus- und Tanzproduktionen das gemeinsame Erleben in den Mittelpunkt. Vom 16. bis 31. Mai kannst du dich auf über 50 Shows freuen, die mit urbanen Spielorten und offe"
   },
   {
-    "titel": "Handpan Workshop",
-    "datum": "16. Mai 2026",
-    "datum_raw": "2026-05-16T11:00+0200",
-    "ort": "Singbüdchen, Vorgebirgstraße 136",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/handpan-workshop-265/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Handpan Tagesworkshop - Für Beginner:innenRhythmus · Klang · MiteinanderEntdecke die Handpan in ruhiger, wertschätzender Atmosphäre.                                Ohne Leistungsdruck · ohne Vorkenntnisse · in kleiner"
-  },
-  {
-    "titel": "Harp Experience - Erlebe, wie die Harfe zu Deinem Instrument wird",
-    "datum": "16. Mai 2026",
-    "datum_raw": "2026-05-16T11:00+0200",
-    "ort": "Musik- und Kunstschule ImKlang , Köln, Waltherstraße 80",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/harp-experience-erlebe-wie-die-harfe-zu-deinem-instrument-wi-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Harfe spielen - ein Genuss. Du berührst die Saiten und der Raum füllt sich mit Klang. Sanft, klar, fast wie von selbst. In diesem kostenfreien Einstieg erlebst Du,  wie es sich anfühlt, selbst Harfe zu spielen – ruhig"
-  },
-  {
     "titel": "Bass & Buggys - Das Clubevent für Familien",
     "datum": "16. Mai 2026",
     "datum_raw": "2026-05-16T12:00+0200",
@@ -58,16 +38,6 @@
     "link": "https://rausgegangen.de/events/bass-buggys-das-clubevent-fur-familien-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Du vermisst das Clubgefühl, willst aber nicht auf deine Kids verzichten? Bass & Buggys bringt elektronische Musik und Familienleben zusammen – mit zwei Floors, chilligen Rückzugsorten und Aktionen für Groß und Klein. Hie"
-  },
-  {
-    "titel": "Psychedelic Light & Sound",
-    "datum": "16. Mai 2026",
-    "datum_raw": "2026-05-16T12:00+0200",
-    "ort": "Klangkino, Hansaring 61",
-    "preis": "ab 55 €",
-    "link": "https://rausgegangen.de/events/psychedelic-light-sound-11/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die Psychedelic Light & Sound Journey verbindet eines der ältesten Instrumente der Erde mit den neusten Erkenntnissen und Technologien aus der Forschung.  Mit dem Einsatz des Gongs in Kombination mit der Roxiva-Lichttec"
   },
   {
     "titel": "Festival RESONANZ",
@@ -398,5 +368,35 @@
     "link": "https://rausgegangen.de/events/chefket-13/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Der Berliner Rapper zählt seit Jahren zu den prägendsten Stimmen im deutschsprachigenHip-Hop. Unter dem Alias Dr. Dirican seziert Chefket mit scharfem Blick persönlicheThemen, gesellschaftliche Fragen und innere Konfl"
+  },
+  {
+    "titel": "Iris Lamouyette",
+    "datum": "17. Mai 2026",
+    "datum_raw": "2026-05-17T19:00+0200",
+    "ort": "Senftöpfchen Theater, Große Neugasse 2-4",
+    "preis": "ab 29 €",
+    "link": "https://rausgegangen.de/events/iris-lamouyette-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Queen des Umwelt-Punk-Chansons Iris Lamouyette verbreitet Lebensfreude!Iris Lamouyette hat mit dem Umwelt-Punk-Chanson ein eigenes musikalischkabarettistisches Genre erfunden. Klimakrise, Bedrohng der Demokratie oder"
+  },
+  {
+    "titel": "Lights",
+    "datum": "17. Mai 2026",
+    "datum_raw": "2026-05-17T19:00+0200",
+    "ort": "Club Volta, Schanzenstraße 6-20",
+    "preis": "ab 22 €",
+    "link": "https://rausgegangen.de/events/lights-24/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Sängerin, Songwriterin, Produzentin, aber auch Comic-Autorin, Illustratorin und DJ – es gibt kaum eine kreative Sparte, welche die kanadische Multiinstrumentalistin Valerie Anne Poxleitner, besser bekannt als Lights, ni"
+  },
+  {
+    "titel": "bbno$ - The Internet Explorer Tour 2026\t\t\t\t",
+    "datum": "17. Mai 2026",
+    "datum_raw": "2026-05-17T20:00+0200",
+    "ort": "Palladium, Schanzenstraße 36",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/bbno-the-internet-explorer-tour-2026-7/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Presented by Live NationRollstuhlfahrer*innen und Schwerbehinderte mit Merkzeichen „B“ wählen bitte die Telefonnummer +49 (0)30 - 40 818 824 (Ortstarif). Unsere kompetenten Kolleginnen und Kollegen aus dem Call Center h"
   }
 ]
