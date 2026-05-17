@@ -20,16 +20,6 @@
     "teaser": "„Inscrit – Schreiben mit dem Körper“ feiert Raimund Hoghes außergewöhnliche Handschrift zwischen Tanz, Film und Performance. Dich erwartet ein bunter Mix aus Kurzporträts, Gesprächen und bewegenden Live-Acts, die seinen "
   },
   {
-    "titel": "Frühjahrskonzert",
-    "datum": "17. Mai 2026",
-    "datum_raw": "2026-05-17T11:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 12 €",
-    "link": "https://rausgegangen.de/events/fruhjahrskonzert-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Jubiläumskonzert – 90 JahreFord-Sinfonieorchester | Steffen Müller-Gabriel: Borodin | Dvořák | Falla | Fauré | Gershwin | Händel | Janáček | Márquez | Prokofjew | Rachmaninow"
-  },
-  {
     "titel": "Exhibition on Screen: Frida Kahlo (OmU)",
     "datum": "17. Mai 2026",
     "datum_raw": "2026-05-17T11:30+0200",
@@ -58,16 +48,6 @@
     "link": "https://rausgegangen.de/events/bal-folk-mitmachtanz-33/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Tanzeinführung ab 16 UhrAlle tanzen mit! In Paaren, im Kreis, in Ketten, in Gruppen aus mehreren Personen oder alleine. Live-Musik, Spaß, Freude an Bewegung und Geselligkeit in einer besonderen Atmosphäre. Das hört si"
-  },
-  {
-    "titel": "Rising Stars: Álfheiður Erla Guðmundsdóttir & Kunal Lahiry",
-    "datum": "17. Mai 2026",
-    "datum_raw": "2026-05-17T16:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 12 €",
-    "link": "https://rausgegangen.de/events/rising-stars-alfheiur-erla-gumundsdottir-kunal-lahiry-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "»Migrations«Lieder über Fernweh, Krieg und MigrationGeboren in Reykjavík und ausgebildet an der Hochschule für Musik Hanns Eisler in Berlin, wurde Álfheiður Erla Guðmundsdóttir bei den Icelandic Music Awards 2021 al"
   },
   {
     "titel": "Workshop & Social Night für Paare & Alleinstehende,  Tanzen verbindet",
@@ -388,6 +368,26 @@
     "link": "https://rausgegangen.de/events/brandee-younger-trio-4/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Brandee Younger verbindet Harfe mit Funk, Hip-Hop und Jazz und knüpft an Künstlerinnen wie Alice Coltrane an. Ihr aktuelles Album Brand New Life bietet zusammen mit ihrem Trio ein abwechslungsreiches Erlebnis voller fris"
+  },
+  {
+    "titel": "CLINTON KANE",
+    "datum": "19. Mai 2026",
+    "datum_raw": "2026-05-19T20:00+0200",
+    "ort": "Luxor, Luxemburger Straße 40",
+    "preis": "ab 25 €",
+    "link": "https://rausgegangen.de/events/clinton-kane-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Clinton Kane erschafft seine Musik aus einer Notwendigkeit heraus. Der Akt der Kreation selbst legt seine ungefilterten Gefühle und innersten Gedanken offen und lässt seine ehrliche Art direkt in seinen sich ständig w"
+  },
+  {
+    "titel": "Clinton Kane - 4350 Live",
+    "datum": "19. Mai 2026",
+    "datum_raw": "2026-05-19T20:00+0200",
+    "ort": "Luxor, Luxemburger Straße 40",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/clinton-kane-4350-live-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) buchen reguläre Tickets. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte."
   },
   {
     "titel": "SOULFUL SUNDAY Opening Party @ PARK Café 🌱",
