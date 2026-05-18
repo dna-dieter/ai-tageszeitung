@@ -652,6 +652,18 @@
     "fetched": "2026-05-06T15:52:46.536541"
   },
   {
+    "id": "c86c52f7789e",
+    "title": "Amtliche Bekanntmachung",
+    "summary": "IX. Änderungssatzung der Satzung der Stadt Wipperfürth über die Erhebung von Elternbeiträgen im Rahmen der \"Offenen Ganztagsschule\" vom 05.05.2026",
+    "link": "https://wipperfuerth.de/fileadmin/redaktion/Hansestadt_Wipperfuerth/Schulen/2026_05_11_IX._AEnderungssatzung.pdf",
+    "published": "Wed, 13 May 2026 10:37:29 +0200",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-05-18T10:24:05.944131"
+  },
+  {
     "id": "be43870133ff",
     "title": "Verkehrserfassung Ringstraße",
     "summary": "Ergebnisse der Verkehrserfassung Ringstraße in der Zeit vom 04.05. bis 11.05.2026. Messpunkt: Ringstraße",
@@ -3424,6 +3436,31 @@
       "wipperfuerth"
     ],
     "fetched": "2026-05-05T21:23:25.230790"
+  },
+  {
+    "id": "ea1981a9d7bb",
+    "title": "POL-GM: Unfall im Kreisverkehr",
+    "summary": "Wipperfürth (ots) - Bei einem Verkehrsunfall in Wipperfürth wurde am Samstag (16. Mai) der Fahrer eines Leichtkraftrades leicht verletzt. Gegen 16:16 Uhr fuhr ein 50-jähriger Mann aus Radevormwald mit seinem Dacia auf der Straße \"Sugeres Platz\" ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6276710",
+    "published": "Mon, 18 May 2026 11:24:24 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "radevormwald",
+      "wipperfuerth"
+    ],
+    "fetched": "2026-05-18T10:24:16.245111"
+  },
+  {
+    "id": "76ef34edf2da",
+    "title": "Themenabend \"Was tut sich rund ums Radium-Gelände",
+    "summary": "Dienstag, 19. Mai 2026, 18 bis 20 Uhr in der Alten Drahtzieherei.",
+    "link": "https://wipperfuerth.de/fileadmin/redaktion/Hansestadt_Wipperfuerth/News/Radium-Areal.png",
+    "published": "Mon, 18 May 2026 10:45:15 +0200",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-05-18T10:24:05.944060"
   },
   {
     "id": "8283d299fe83",

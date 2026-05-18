@@ -1367,6 +1367,18 @@
     "fetched": "2026-05-13T11:36:51.785137"
   },
   {
+    "id": "c86c52f7789e",
+    "title": "Amtliche Bekanntmachung",
+    "summary": "IX. Änderungssatzung der Satzung der Stadt Wipperfürth über die Erhebung von Elternbeiträgen im Rahmen der \"Offenen Ganztagsschule\" vom 05.05.2026",
+    "link": "https://wipperfuerth.de/fileadmin/redaktion/Hansestadt_Wipperfuerth/Schulen/2026_05_11_IX._AEnderungssatzung.pdf",
+    "published": "Wed, 13 May 2026 10:37:29 +0200",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-05-18T10:24:05.944131"
+  },
+  {
     "id": "be43870133ff",
     "title": "Verkehrserfassung Ringstraße",
     "summary": "Ergebnisse der Verkehrserfassung Ringstraße in der Zeit vom 04.05. bis 11.05.2026. Messpunkt: Ringstraße",
@@ -9153,6 +9165,80 @@
       "wipperfuerth"
     ],
     "fetched": "2026-05-05T21:23:25.230790"
+  },
+  {
+    "id": "11d8854a62f0",
+    "title": "POL-GM: Einbrecher scheitern an Eingangstür",
+    "summary": "Radevormwald (ots) - Am Montagmorgen (18. Mai) versuchten Unbekannte, die Schiebetür einer Bäckerei in der Froweinstraße aufzudrücken. Dabei lösten sie gegen 3:10 Uhr die Alarmanlage aus und flüchteten in unbekannte Richtung. Hinweise nimmt ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6276724",
+    "published": "Mon, 18 May 2026 11:31:13 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-05-18T10:24:16.245009"
+  },
+  {
+    "id": "596530d523bf",
+    "title": "POL-GM: Eierautomat war Ziel von Kriminellen",
+    "summary": "Wiehl (ots) - In der Zeit von Donnerstag (14. Mai) bis Samstag brachen Unbekannte einen Eierautomat in der Ortsstraße auf und stahlen die Geldkassette. Hinweise nimmt das Kriminalkommissariat Waldbröl unter der Telefonnummer 02261 8199-0 oder der ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6276718",
+    "published": "Mon, 18 May 2026 11:29:12 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl",
+      "waldbroel"
+    ],
+    "fetched": "2026-05-18T10:24:16.245049"
+  },
+  {
+    "id": "00f51bc3d4c8",
+    "title": "POL-GM: Unfall im Kreuzungsbereich",
+    "summary": "Marienheide (ots) - Am Samstag (16. Mai) wollte ein 49-jähriger Marienheider von der Straße \"Am Rottland\" nach links auf die Scharder Straße abbiegen. Dabei kam es gegen 13:06 Uhr zum Zusammenstoß mit dem Motorrad eines 37-jährigen ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6276713",
+    "published": "Mon, 18 May 2026 11:26:03 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-05-18T10:24:16.245080"
+  },
+  {
+    "id": "ea1981a9d7bb",
+    "title": "POL-GM: Unfall im Kreisverkehr",
+    "summary": "Wipperfürth (ots) - Bei einem Verkehrsunfall in Wipperfürth wurde am Samstag (16. Mai) der Fahrer eines Leichtkraftrades leicht verletzt. Gegen 16:16 Uhr fuhr ein 50-jähriger Mann aus Radevormwald mit seinem Dacia auf der Straße \"Sugeres Platz\" ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6276710",
+    "published": "Mon, 18 May 2026 11:24:24 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "radevormwald",
+      "wipperfuerth"
+    ],
+    "fetched": "2026-05-18T10:24:16.245111"
+  },
+  {
+    "id": "76ef34edf2da",
+    "title": "Themenabend \"Was tut sich rund ums Radium-Gelände",
+    "summary": "Dienstag, 19. Mai 2026, 18 bis 20 Uhr in der Alten Drahtzieherei.",
+    "link": "https://wipperfuerth.de/fileadmin/redaktion/Hansestadt_Wipperfuerth/News/Radium-Areal.png",
+    "published": "Mon, 18 May 2026 10:45:15 +0200",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-05-18T10:24:05.944060"
+  },
+  {
+    "id": "6dba54bd1f1e",
+    "title": "Bergneustadt: Music of Queen elektrisiert 3.500 Fans im Festzelt (725. Stadtgeburtstag)",
+    "summary": "Bergneustadt / Music of Queen / Valentin Findling / 725 Jahre Bergneustadt (Von Christian Sasse) Frenetischer Jubel, ein bis unter die Zeltdecke gefülltes Festzelt und eine Stimme, die so nah am Original ist, dass selbst eingefleischte Queen-Fans für Sekunden zweifeln: Am Samstagabend, 16. Mai 2026, verwandelte die Tribute-Show The Music of Queen Live mit Frontmann Valentin L. Findling das Festzel",
+    "link": "https://www.news-on-tour.de/202466/music-of-queen-725-jahre-bergneustadt/",
+    "published": "Mon, 18 May 2026 05:46:48 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-05-18T10:24:03.341800"
   },
   {
     "id": "8283d299fe83",
