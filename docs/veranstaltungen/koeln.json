@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Theken Quiz mit Noa und Lena in der Zappes Zentrale",
-    "datum": "18. Mai 2026",
-    "datum_raw": "2026-05-18T19:00+0200",
-    "ort": "Zappes Zentrale, Roonstraße 71",
-    "preis": "ab 5 €",
-    "link": "https://rausgegangen.de/events/theken-quiz-mit-noa-und-lena-in-der-zappes-zentrale-7/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Noa und Lena machen die Theke zum Quiz-Duell mit tricky Fragen und viel Gelächter. Schnapp dir deine Clique, rätselt zusammen und trinkt auf eure Erfolge – hier gibt’s gute Stimmung und coole Preise obendrauf 🫂"
-  },
-  {
     "titel": "Pint of Science",
     "datum": "18. Mai 2026",
     "datum_raw": "2026-05-18T19:00+0200",
@@ -48,6 +38,16 @@
     "link": "https://rausgegangen.de/events/kolsch-und-comedy-82/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Du hast Lust auf Kölsch und Comedy? Dann bist du bei Kölsch und Comedy genau richtig! Hier kommen regelmäßig Stand-Up Comedians zusammen, um ihre neuen Nummern zu testen. Von Newcomern bis zu etablierten Künstler*innen d"
+  },
+  {
+    "titel": "Theken Quiz mit Noa und Lena in der Zappes Zentrale",
+    "datum": "18. Mai 2026",
+    "datum_raw": "2026-05-18T20:00+0200",
+    "ort": "Zappes Süd, Dreikönigenstraße 23",
+    "preis": "ab 5 €",
+    "link": "https://rausgegangen.de/events/theken-quiz-mit-noa-und-lena-in-der-zappes-zentrale-7/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Noa und Lena machen die Theke zum Quiz-Duell mit tricky Fragen und viel Gelächter. Schnapp dir deine Clique, rätselt zusammen und trinkt auf eure Erfolge – hier gibt’s gute Stimmung und coole Preise obendrauf 🫂"
   },
   {
     "titel": "Aurel Dawidiuk",
