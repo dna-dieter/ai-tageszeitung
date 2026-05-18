@@ -1,113 +1,13 @@
 [
   {
-    "titel": "Pint of Science",
-    "datum": "18. Mai 2026",
-    "datum_raw": "2026-05-18T19:00+0200",
-    "ort": "Zappes Zentrale, Roonstraße 71",
-    "preis": "ab 2 €",
-    "link": "https://rausgegangen.de/events/pint-of-science-44/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Erlebe Wissenschaft mal anders! Beim Pint of Science Festival bringen Wissenschaftler:innen ihre spannenden Forschungsthemen direkt in die gemütliche Atmosphäre von Pubs und Bars. Lass Dich von den Forschenden inspirie"
-  },
-  {
-    "titel": "KILLER COMEDY - Das Open Mic",
-    "datum": "18. Mai 2026",
-    "datum_raw": "2026-05-18T19:30+0200",
-    "ort": "Theater in der Filmdose, Zülpicher Straße 39",
+    "titel": "LOVE AT FIRST SLIDE Köln | Power Point Dating by Rausgegangen 💖",
+    "datum": "19. Mai 2026",
+    "datum_raw": "2026-05-19T19:00+0200",
+    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/killer-comedy-das-open-mic-42/",
+    "link": "https://rausgegangen.de/events/love-at-first-slide-koln-power-point-dating-by-rausgegangen-2/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Entdecke bekannte Comedians und spannende NewcomerInnen, die ihre besten Jokes erzählen. Moderiert von den talentierten Stars des Killer Comedy Kollektivs.😂🍻"
-  },
-  {
-    "titel": "Zoomies",
-    "datum": "18. Mai 2026",
-    "datum_raw": "2026-05-18T20:00+0200",
-    "ort": "die wohngemeinschaft, Richard-Wagner-Straße 39",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/zoomies-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die Zoomies verbinden auf ihrem neuen Album klassische Americana mit einer Prise Indie, inspiriert von Wegbereitern wie Nilsson und modernen Künstler:innen wie Alex G. Maxim Tschernychs Songs erzählen lebendig von einer "
-  },
-  {
-    "titel": "Kölsch und Comedy",
-    "datum": "18. Mai 2026",
-    "datum_raw": "2026-05-18T20:00+0200",
-    "ort": "Joode Lade, Lindenstraße 62",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kolsch-und-comedy-82/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Du hast Lust auf Kölsch und Comedy? Dann bist du bei Kölsch und Comedy genau richtig! Hier kommen regelmäßig Stand-Up Comedians zusammen, um ihre neuen Nummern zu testen. Von Newcomern bis zu etablierten Künstler*innen d"
-  },
-  {
-    "titel": "Theken Quiz mit Noa und Lena in der Zappes Zentrale",
-    "datum": "18. Mai 2026",
-    "datum_raw": "2026-05-18T20:00+0200",
-    "ort": "Zappes Süd, Dreikönigenstraße 23",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/theken-quiz-mit-noa-und-lena-in-der-zappes-zentrale-7/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Noa und Lena machen die Theke zum Quiz-Duell mit tricky Fragen und viel Gelächter. Schnapp dir deine Clique, rätselt zusammen und trinkt auf eure Erfolge – hier gibt’s gute Stimmung und coole Preise obendrauf 🫂"
-  },
-  {
-    "titel": "Aurel Dawidiuk",
-    "datum": "18. Mai 2026",
-    "datum_raw": "2026-05-18T20:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 21 €",
-    "link": "https://rausgegangen.de/events/aurel-dawidiuk-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Orgel Plus...Porträt Royal Concertgebouw OrchestraAurel Dawidiuk ist beneidenswert doppelbegabt. 2024 wurde er vom Royal Concertgebouw Orchestra zum ersten stellvertretenden Dirigenten gewählt. Parallel zu seiner Dirig"
-  },
-  {
-    "titel": "Chase Icon",
-    "datum": "18. Mai 2026",
-    "datum_raw": "2026-05-18T20:00+0200",
-    "ort": "YUCA, Bartholomäus-Schink-Straße 65",
-    "preis": "ab 23 €",
-    "link": "https://rausgegangen.de/events/chase-icon-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zwischen Hyperpop, Club-Exzess und ironischer Internet-Ästhetik bewegt sich Chase Icon mit einer Attitüde, die irgendwo zwischen Popstar-Fantasie und digitalem Chaos liegt. Ihre Tracks sind selbstbewusste, queere Bange"
-  },
-  {
-    "titel": "JACK CULLEN",
-    "datum": "18. Mai 2026",
-    "datum_raw": "2026-05-18T20:00+0200",
-    "ort": "Helios37, Heliosstraße 37",
-    "preis": "ab 24 €",
-    "link": "https://rausgegangen.de/events/jack-cullen-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die Musik von Jack Cullen widersetzt sich dem gewöhnlichen Drehbuch des täglichen Lebens. Sie lehnt sich gegen die kleinen Momente, die wir erleben und die Rollen, die wir ohne nachzudenken spielen. Stattdessen geht es"
-  },
-  {
-    "titel": "Jack Cullen",
-    "datum": "18. Mai 2026",
-    "datum_raw": "2026-05-18T20:00+0200",
-    "ort": "Helios + Selene Winterwunder Festival, Heliosstraße 37",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/jack-cullen-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) zahlen den normalen Kartenpreis. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte."
-  },
-  {
-    "titel": "KANE - THERAPIE TOUR 2026",
-    "datum": "18. Mai 2026",
-    "datum_raw": "2026-05-18T20:00+0200",
-    "ort": "Gloria-Theater, Apostelnstraße 11",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/kane-therapie-tour-2026-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "KANETHERAPIE TOUR 2026Präsentiert von Goodlive Artists 18.05.2026 Köln, Gloria Theater Einlass: 19:00 Uhr | Beginn: 20:00 Uhr Kane geht im Mai erstmals auf Tour und der Name ist Programm: „Therapie“. Wer ihn live erleb"
-  },
-  {
-    "titel": "Yung Yury",
-    "datum": "18. Mai 2026",
-    "datum_raw": "2026-05-18T20:00+0200",
-    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/yung-yury-6/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Yung YuryEngel & Teufel TourPräsentiert von Paradyse Live 18.05.2026 Köln, Live Music Hall -> verlegt in Club Bahnhof Ehrenfeld Einlass: 19:00 Uhr | Beginn: 20:00 Uhr Nach zwei erfolgreichen Tourneen in Folge setzt Yun"
+    "teaser": "Wir bringen mit LOVE AT FIRST SLIDE Dating auf die Bühne: Freund:innen stellen in kurzen Power Point Präsentationen ihre Lieblingssingle vor – charmant, humorvoll und ganz ohne Swipe. Nach den witzigen Pitches kannst du "
   },
   {
     "titel": "Maddox Batson",
@@ -120,6 +20,16 @@
     "teaser": "Maddox Batson verbindet Country und Pop mit einer ganz persönlichen Note, die ihm in kürzester Zeit Millionen Fans eingebracht hat. Seine Debüt-EP „First Dance“ und die Zusammenarbeit mit Größen wie Jack Antonoff verspre"
   },
   {
+    "titel": "Pint of Science",
+    "datum": "19. Mai 2026",
+    "datum_raw": "2026-05-19T19:00+0200",
+    "ort": "Zappes Süd, Dreikönigenstraße 23",
+    "preis": "ab 2 €",
+    "link": "https://rausgegangen.de/events/pint-of-science-45/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Erlebe Wissenschaft mal anders! Beim Pint of Science Festival bringen Wissenschaftler:innen ihre spannenden Forschungsthemen direkt in die gemütliche Atmosphäre von Pubs und Bars. Lass Dich von den Forschenden inspirie"
+  },
+  {
     "titel": "REND COLLECTIVE",
     "datum": "19. Mai 2026",
     "datum_raw": "2026-05-19T19:30+0200",
@@ -130,16 +40,6 @@
     "teaser": "REND COLLECTIVEEurope Tour 2026 - ‚live in Concert‘God is on the Move bei ehrlichem irischen Folkrock    ′Gute Nachrichten: Die irische Band Rend Collective kommt im May 2026 erneut nach Deutschland. Nach dem grandiosen "
   },
   {
-    "titel": "Benny Benack III Quartet",
-    "datum": "19. Mai 2026",
-    "datum_raw": "2026-05-19T20:00+0200",
-    "ort": "King Georg  Köln, Sudermanstraße 2",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/benny-benack-iii-quartet-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Benny Berneck III (voc), André Weiss (p), Joel Locher (db), Xaver Hellmeier (dr)Der Trompeter, Sänger und Entertainer Benny Benack III zählt zu den markantesten Stimmen des zeitgenössischen Jazz. 2024 wurde er vom re"
-  },
-  {
     "titel": "Brandee Younger Trio",
     "datum": "19. Mai 2026",
     "datum_raw": "2026-05-19T20:00+0200",
@@ -148,6 +48,26 @@
     "link": "https://rausgegangen.de/events/brandee-younger-trio-4/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Brandee Younger verbindet Harfe mit Funk, Hip-Hop und Jazz und knüpft an Künstlerinnen wie Alice Coltrane an. Ihr aktuelles Album Brand New Life bietet zusammen mit ihrem Trio ein abwechslungsreiches Erlebnis voller fris"
+  },
+  {
+    "titel": "Lachmuschel - Das Comedy Open Mic im Blue Shell",
+    "datum": "19. Mai 2026",
+    "datum_raw": "2026-05-19T20:00+0200",
+    "ort": "Blue Shell, Luxemburger Straße 32",
+    "preis": "ab 10 €",
+    "link": "https://rausgegangen.de/events/lachmuschel-das-comedy-open-mic-im-blue-shell-30/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Comedy pur – von frischen Gags bis zum gefeierten Headliner, mit Überraschungen, Abstürzen und garantiert jeder Menge Spaß!"
+  },
+  {
+    "titel": "Benny Benack III Quartet",
+    "datum": "19. Mai 2026",
+    "datum_raw": "2026-05-19T20:00+0200",
+    "ort": "King Georg  Köln, Sudermanstraße 2",
+    "preis": "ab 30 €",
+    "link": "https://rausgegangen.de/events/benny-benack-iii-quartet-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Benny Berneck III (voc), André Weiss (p), Joel Locher (db), Xaver Hellmeier (dr)Der Trompeter, Sänger und Entertainer Benny Benack III zählt zu den markantesten Stimmen des zeitgenössischen Jazz. 2024 wurde er vom re"
   },
   {
     "titel": "CLINTON KANE",
@@ -360,6 +280,76 @@
     "teaser": "Seit diesem Frühjahr findet die legendäre Reihe „Hammond Organ Grooves“ jeweils jeden 1. und 3. Mittwoch des Monats im Salon De Jazz statt. Die Reihe widmet sich traditionell den Sounds des Hammond Organ Trios im Jazz."
   },
   {
+    "titel": "Jörg Achim Keller King Georg 12",
+    "datum": "20. Mai 2026",
+    "datum_raw": "2026-05-20T20:00+0200",
+    "ort": "King Georg, Sudermanstraße 2",
+    "preis": "ab 30 €",
+    "link": "https://rausgegangen.de/events/jorg-achim-keller-king-georg-12-33/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Drums & Arrangements: Jörg Achim Keller, Alto Sax 1: Heinz Dieter Sauerborn, Tenor Sax 2: Paul Heller, Tenor Sax 3: Andi Maile, Trp 1: Wim Both, Trp 2:  Ruud Breuls, Trb 1:  Günter Bollmann, Trb 2:  Uli Plettendorff, T"
+  },
+  {
+    "titel": "LANY",
+    "datum": "20. Mai 2026",
+    "datum_raw": "2026-05-20T20:00+0200",
+    "ort": "Carlswerk Victoria, Schanzenstr. 6-20",
+    "preis": "ab 38 €",
+    "link": "https://rausgegangen.de/events/lany-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Nach ihren eigenen Vorstellungen und mit einem stets erneuernden Ansatz haben sich LANY als eine der unberechenbarsten Alternative-Rock-Bands ihrer Zeit kontinuierlich in den Mainstream gespielt. Bereits 2017 landete die"
+  },
+  {
+    "titel": "LANY - SOFT WORLD TOUR",
+    "datum": "20. Mai 2026",
+    "datum_raw": "2026-05-20T20:00+0200",
+    "ort": "Carlswerk Victoria, Schanzenstr. 6-20",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/lany-soft-world-tour-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Presented by Live NationRollstuhlnutzende (mit „B“ im Ausweis) buchen ihre Tickets (max. 2) telefonisch unter +49 (0)221-2801 (Ortstarif). Die Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte. Schwe"
+  },
+  {
+    "titel": "LANY - SOFT WORLD TOUR | VIP Packages",
+    "datum": "20. Mai 2026",
+    "datum_raw": "2026-05-20T20:00+0200",
+    "ort": "Carlswerk Victoria, Schanzenstr. 6-20",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/lany-soft-world-tour-vip-packages-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bitte beachten Sie :* Käuferinnen und Käufer erhalten etwa drei Tage vor dem Showtermin eine E-Mail mit allen VIP-Details an die beim Kauf angegebene Adresse. One More Time VIP, die Künstlerin, die Tour, der Veranstal"
+  },
+  {
+    "titel": "Latin & Salsa Session",
+    "datum": "20. Mai 2026",
+    "datum_raw": "2026-05-20T20:00+0200",
+    "ort": "artheater Köln, Ehrenfeldgürtel 127",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/latin-salsa-session-28/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei der Latin & Salsa Session kommen Musiker:innen aus Köln zusammen, um kubanische und kolumbianische Rhythmen lebendig werden zu lassen. Die Band Marcando eröffnet den Abend mit ihrem präzisen und mitreißenden Sound. E"
+  },
+  {
+    "titel": "Moondoggy + Support (Cactus for Breakfast)",
+    "datum": "20. Mai 2026",
+    "datum_raw": "2026-05-20T20:00+0200",
+    "ort": "die wohngemeinschaft, Richard-Wagner-Straße 39",
+    "preis": "ab 22 €",
+    "link": "https://rausgegangen.de/events/moondoggy-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Moondoggy aus Toronto punkten mit ihrer ehrlichen Mischung aus Alternative- und Indie-Rock, die rohe Energie mit gefühlvollen Texten verbindet. Ihr aktuelles Album „Changing Seasons, Breaking Even“ zeigt, wie sie Sounds "
+  },
+  {
+    "titel": "NE-YO & Akon",
+    "datum": "20. Mai 2026",
+    "datum_raw": "2026-05-20T20:00+0200",
+    "ort": "LANXESS arena, Willy-Brandt-Platz 3",
+    "preis": "ab 63 €",
+    "link": "https://rausgegangen.de/events/ne-yo-akon-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der GRAMMY®-preisgekrönte Hitmacher NE-YO und der ebenfalls mit einem GRAMMY® ausgezeichnete Multi-Platin-Künstler AKON haben ihre gemeinsame globale „Nights Like This“-Tour angekündigt. Produziert von Live Nation, st"
+  },
+  {
     "titel": "CircusDanceFestival 2026",
     "datum": "21. Mai 2026",
     "datum_raw": "2026-05-21T14:00+0200",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/circus-dance-festival-2026-festivalpass-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Mit dem Festivalpass für das Circus Dance Festival 2026 kannst du eine bunte Mischung aus neun unterschiedlichsten Shows erleben und dazu noch viele kostenlose Acts entdecken. Die Shows sind separat buchbar, also sicher "
+  },
+  {
+    "titel": "Mund zu Mund Festival 2026 @Südbrücke",
+    "datum": "23. Mai 2026",
+    "datum_raw": "2026-05-23T11:30+0200",
+    "ort": "Südbrücke, Alfred-Schütte-Allee 34",
+    "preis": "ab 28 €",
+    "link": "https://rausgegangen.de/events/mund-zu-mund-festival-2026-sudbrucke-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das Mund zu Mund Festival 2026 bringt dich auf drei Floors und mitten ins bunte Labyrinth aus Klang, Kunst und Begegnungen. Hier trifft experimenteller Sound auf kreative Workshops – alles in einem Raum, der völlige Frei"
   }
 ]
