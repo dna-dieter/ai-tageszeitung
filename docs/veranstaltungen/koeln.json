@@ -10,6 +10,16 @@
     "teaser": "Am 20. Mai startet der Feierabendmarkt auf dem Severinskirchplatz wieder in die Saison und bringt die Nachbarschaft mit leckerem Streetfood und kühlen Drinks zusammen. Zwischen Wein, Kölsch und Snacks kannst du den Feier"
   },
   {
+    "titel": "Ausstellung: 25 Jahre Sommerblut Kulturfestival – 25 Jahre Solidarität",
+    "datum": "20. Mai 2026",
+    "datum_raw": "2026-05-20T15:30+0200",
+    "ort": "Kunsträume der Michael Horbach Stiftung, Wormser Str. 23",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/ausstellung-25-jahre-sommerblut-kulturfestival-25-jahre-soli-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das Sommerblut Kulturfestival zeigt in seiner Jubiläumsausstellung, wie radikale Inklusion und künstlerische Grenzgänge in 25 Jahren Solidarität gewachsen sind. Die multimediale Schau lässt dich hinter die Kulissen blick"
+  },
+  {
     "titel": "Music Pub Quiz im Zappes Süd",
     "datum": "20. Mai 2026",
     "datum_raw": "2026-05-20T18:00+0200",
@@ -50,16 +60,6 @@
     "teaser": ""
   },
   {
-    "titel": "Bitchy Bingo mit Chrystal Math",
-    "datum": "20. Mai 2026",
-    "datum_raw": "2026-05-20T19:00+0200",
-    "ort": "Exile, Schaafenstraße 61A",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/bitchy-bingo-mit-chrystal-math-9/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Chrystal Math führt dich durch einen Abend voller frecher Fragen und unverhoffter Überraschungen beim Bitchy Bingo. Freu dich auf schräge Einlagen wie den #bitchycatwalk und Stimmung, die mal sarkastisch, mal charmant au"
-  },
-  {
     "titel": "Pride Special! Stand Up von LGBTQueer Comedians",
     "datum": "20. Mai 2026",
     "datum_raw": "2026-05-20T19:00+0200",
@@ -68,6 +68,16 @@
     "link": "https://rausgegangen.de/events/pride-special-stand-up-von-lgbtqueer-comedians-4/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Hier bekommst du queerfeministische Comedy, die mit cleverem Humor die gesellschaftlichen Herausforderungen der Szene entlarvt. Jana Goller und weitere queere Talente zeigen, wie viel Power und Spaß in Sichtbarkeit steck"
+  },
+  {
+    "titel": "Bitchy Bingo mit Chrystal Math",
+    "datum": "20. Mai 2026",
+    "datum_raw": "2026-05-20T19:00+0200",
+    "ort": "Exile, Schaafenstraße 61A",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/bitchy-bingo-mit-chrystal-math-9/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Chrystal Math führt dich durch einen Abend voller frecher Fragen und unverhoffter Überraschungen beim Bitchy Bingo. Freu dich auf schräge Einlagen wie den #bitchycatwalk und Stimmung, die mal sarkastisch, mal charmant au"
   },
   {
     "titel": "FRANKIE KNUTH + RED AT NIGHT",
@@ -98,16 +108,6 @@
     "link": "https://rausgegangen.de/events/the-rions-3/",
     "quelle": "Rausgegangen Köln",
     "teaser": "The Rions, bestehend aus Noah Blockley, Harley Wilson, Asher McLean und Tom Partington, stammen aus den Northern Beaches, jenem Küstenstreifen, der in den letzten Jahren zur Produktionsstätte australischer Indie-Hoffnu"
-  },
-  {
-    "titel": "Pint of Science",
-    "datum": "20. Mai 2026",
-    "datum_raw": "2026-05-20T19:00+0200",
-    "ort": "Tankstelle, Kyffhäuserstraße 19",
-    "preis": "ab 2 €",
-    "link": "https://rausgegangen.de/events/pint-of-science-46/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Erlebe Wissenschaft mal anders! Beim Pint of Science Festival bringen Wissenschaftler:innen ihre spannenden Forschungsthemen direkt in die gemütliche Atmosphäre von Pubs und Bars. Lass Dich von den Forschenden inspirie"
   },
   {
     "titel": "MAGIC WEDNESDAY – Die \"Secret Session\" in der \"zur goldenen Nacht\"",
