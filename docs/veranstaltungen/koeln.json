@@ -1,333 +1,13 @@
 [
   {
-    "titel": "CircusDanceFestival 2026",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T14:00+0200",
-    "ort": "CircusDanceFestival | Festivalgelände, An der Schanz 6",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/circusdancefestival-2026-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim CircusDanceFestival 2026 rücken internationale Zirkus- und Tanzproduktionen das gemeinsame Erleben in den Mittelpunkt. Vom 16. bis 31. Mai kannst du dich auf über 50 Shows freuen, die mit urbanen Spielorten und offe"
-  },
-  {
-    "titel": "BOHEI Festival 2026",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T16:30+0200",
-    "ort": "COMEDIA Theater, Vondelstraße 4-8",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/bohei-festival-2025-auer-kontrolle-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Unter dem Motto „Außer Kontrolle“ lädt das Festival zu Aufführungen, Workshops und Partys ein, die Kreativität und künstlerische Freiheit feiern 🥳"
-  },
-  {
-    "titel": "Diversity Day: Dragshow, Podium & Konzert",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T17:00+0200",
-    "ort": "Bürgerzentrum Ehrenfeld, Venloer Straße 429",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/diversity-day-dragshow-podium-konzert-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Diversity Day startet das Projekt @bueze_bande mit einer Dragshow, bei der xeni.slay.ua und auralikesyou mit kreativem Ausdruck das Veedel feiern. Auf dem Podium gibt’s spannende Einblicke zum diversitätssensiblen M"
-  },
-  {
-    "titel": "Circus Dance Festival 2026 Festivalpass",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T18:00+0200",
-    "ort": "CircusDanceFestival | Festivalgelände, An der Schanz 6",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/circus-dance-festival-2026-festivalpass-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Mit dem Festivalpass für das Circus Dance Festival 2026 kannst du eine bunte Mischung aus neun unterschiedlichsten Shows erleben und dazu noch viele kostenlose Acts entdecken. Die Shows sind separat buchbar, also sicher "
-  },
-  {
-    "titel": "Mitsing-Konzert am Ebertplatz mit Daniel Hermes-Lorenz",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T18:00+0200",
-    "ort": "Ebertplatz, Ebertplatz",
+    "titel": "Vernisage: FUPPES - Illustration, Kunst, Collage & Musik",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T16:00+0200",
+    "ort": "Gottes Grüne Wiese, Bismarckstraße 53",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/mitsing-konzert-am-ebertplatz-mit-daniel-lorentz-0/",
+    "link": "https://rausgegangen.de/events/ausstellung-fuppes-everything-with-football-culture-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Daniel Hermes-Lorenz nimmt dich mit auf eine Reise durch die 60er und 70er, wenn er Songs von Paul Simon, Bob Dylan und Neil Diamond auspackt. Gemeinsam wird vor der Bühne gesungen und ein gemütlicher Abend mit akustisch"
-  },
-  {
-    "titel": "feminine Soul Talk - über weibliche Sexualität",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T18:00+0200",
-    "ort": "Melis Soul Café, Friesenwall 122",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/feminine-soul-talk-uber-weibliche-sexualitat-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Der Feminine Soul Talk mit Jess Kugler lädt dich ein, deine weibliche Sexualität ruhig und offen zu entdecken – ohne Druck und mit viel Verständnis für Körper und Emotionen. In einer kleinen Gruppe entsteht ein geschützt"
-  },
-  {
-    "titel": "Pflanzen-Klavierkonzert",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T18:00+0200",
-    "ort": "Freie Waldorfschule Köln, Weichselring 6-8",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/pflanzen-klavierkonzert-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wir laden zu einem Pianokonzert ein, bei dem Pflanzen Tasten bewegen, begleitet vom Pianisten Nikolaus Schardt. Mit „Re-Connecting with Nature“ startet ein Bildungsprojekt, das den Themenbereich „Forschung im Lebendigen“"
-  },
-  {
-    "titel": "SONIC CHESS CLUB",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T18:00+0200",
-    "ort": "OTTO CANNOLI  Café + Bar, Schadowstraße 55",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/sonic-chess-club-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "F#.k yeah, let’s have another round at Cologne’s awesome SONIC CHESS CLUB!Get a drink, play some chess, listen to music, chat with friends. As simple as that.Free entry | All levels welcomeEin Barabend mit Schach & Musik"
-  },
-  {
-    "titel": "Ein Abend mit MāttiHoff & Was Auch Immer",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T19:00+0200",
-    "ort": "Müllers Ehrenfeld, Subbelrather Straße 159",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/ein-abend-mit-mattihoff-was-auch-immer-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Am 21.05.2026 gestalten MāttiHoff & Thomas von \"Was Auch Immer\" gemeinsam einen musikalischen Abend im Müllers Ehrenfeld. Freut euch auf handgemachte deutsche Singer-Songwriter Musik mit persönlichen, ehrlichen Texten"
-  },
-  {
-    "titel": "Klassik mal anders: Heute schon gelacht?",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T19:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 9 €",
-    "link": "https://rausgegangen.de/events/klassik-mal-anders-heute-schon-gelacht-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Slava Chestiglazov | Ulrich Witteler | Augusto Velio Palumbo | Manuel Bilz | WDR Sinfonieorchester | Oscar Jockel | Johannes Büchs | Carola KärcherDas WDR Sinfonieorchester und Rising Star Oscar Jockel erkunden Humor i"
-  },
-  {
-    "titel": "Paradise re-load – Die Geschichte von Luzifers Sturz | zamus: early music festival 2026",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T19:00+0200",
-    "ort": "Trinitatiskirche, Filzengraben 4, 50676 Köln, Filzengraben 4",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/paradise-re-load-die-geschichte-von-luzifers-sturz-zamus-ear-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Collective of Unfinished Creation Charlotte Nachtsheim – Sopran Cyril Escoffier – Tenor Darina Ablogina – Renaissance-Traverso, künstlerische Leitung Sébastien Mitra – Orgel & Cembalo Louis Keller – Samples Christina C"
-  },
-  {
-    "titel": "The Big Band Convention",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T19:00+0200",
-    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/the-big-band-convention-5/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Tribute to Woody Herman – The Big Band Convention liveBig Band Convention bringt den Swing zurück – live, leidenschaftlich, unwiderstehlich!Die Big Band Convention zündet ein musikalisches Feuerwerk zu Ehren einer der "
-  },
-  {
-    "titel": "BEANS & BEATS | HEILANDT",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T19:30+0200",
-    "ort": "HEILANDT Café Sülz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/beans-beats-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "LIVE IN CONCERT: FOLK, BLUES & AMERICANA VON T.S. STEEL aus dem HEILANDT TEAM im Café in Sülz | Sülzburgstraße 1, 50937 Köln"
-  },
-  {
-    "titel": "Open Stage im Kulturraum 405",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T19:30+0200",
-    "ort": "Kulturraum 405 e.V., Venloer Straße 405",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/open-stage-im-kulturraum-405-110/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wenn du schon immer wusstest, dass du auf die Bühne gehörst, dann ist genau jetzt deine Chance. Pack dein Instrument ein und Bühne frei für dich bei der Open Stage im Kulturraum 405!!! 🎙🎶🎸"
-  },
-  {
-    "titel": "BOHEI 2026 | Rebell*innen: Es brennt! Verborgene Talente zählen nichts",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T20:00+0200",
-    "ort": "COMEDIA Theater, Vondelstraße 4-8",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/bohei-2026-rebellinnen-es-brennt-verborgene-talente-zahlen-n-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "BOHEI 2026 verbindet Kölner Geschichte von Agrippina bis Chlodwig mit modernen Songs und stellt dabei die Frage, wie viel Historie heute noch zählt. Das Kollektiv mischt szenische Skurrilität und Gesellschaftskritik für "
-  },
-  {
-    "titel": "TELL ME WHY. Aids im Köln der 80er – Oder: Die Angst vor der Unberechenbarkeit der vielarmigen Krake",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T20:00+0200",
-    "ort": "Alte Feuerwache, Halle, Melchiorstraße 3",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/tell-me-why-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Das queere Ensemble Petra P. verwebt in „Tell Me Why“ Geschichten aus den 80ern mit aktuellen Perspektiven zu HIV und Aids. Mit Humor und Tiefe zeigen sie, wie Solidarität entstehen kann, ohne den Zeigefinger zu heben un"
-  },
-  {
-    "titel": "Elektrorama! #3 HIRAETH / KITSUNE + Jamsession",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T20:00+0200",
-    "ort": "artheater Köln, Ehrenfeldgürtel 127",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/elektrorama-3-hiraeth-kitsune-jamsession-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "ELEKTRORAMA #3HIRAETH / KITSUNE“Experimental Live Sets” HIRAETH - Electronics, Objects, Vocals—KITSUNE - Laptop, Electronics Das erste mal an einem Donnerstag: Experimental Club & Electronic Jam In der dritten Ausgabe vo"
-  },
-  {
-    "titel": "Luka Bloom",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T20:00+0200",
-    "ort": "Kulturkirche Köln, Siebachstr. 85, 50733 Köln, Siebachstraße 85",
-    "preis": "ab 32 €",
-    "link": "https://rausgegangen.de/events/luka-bloom-4/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Gitarrist und Sänger Luka Bloom benötigt nichts weiter als seine Stimme, seine Geschichten und sein beeindruckendes Gitarrenspiel, um damit allein selbst das größte Publikum in seinen Bann zu ziehen. Er zählt zu den "
-  },
-  {
-    "titel": "MELTT",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T20:00+0200",
-    "ort": "YUCA, Bartholomäus-Schink-Straße 65",
-    "preis": "ab 22 €",
-    "link": "https://rausgegangen.de/events/meltt-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Mit über 100 Millionen Streams sind Meltt in Nordamerika längst kein Geheimtipp mehr. Im Frühsommer 2026 kommen sie erstmals nach Europa, um ihren psychedelischen Daydream-Indierock endlich auch hierzulande live zu pr"
-  },
-  {
-    "titel": "MELTT",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T20:00+0200",
-    "ort": "YUCA, Bartholomäus-Schink-Straße 65",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/meltt-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) zahlen den normalen Kartenpreis. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte."
-  },
-  {
-    "titel": "NICA live: Felix Hauptmann PERCUSSION | Release-Konzert",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T20:00+0200",
-    "ort": "Stadtgarten, Venloer Straße 40",
-    "preis": "ab 8 €",
-    "link": "https://rausgegangen.de/events/nica-live-felix-hauptmann-percussion-release-konzert-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "20:00 I Konzert I 🎤 KonzertsaalPERCUSSION – das Trio um Pianist und Komponist Felix Hauptmann – steht für eine intensive musikalische Zusammenarbeit, die sich durch eine unverwechselbare Klangsprache und ein außergewöh"
-  },
-  {
-    "titel": "Seattle Supertronics",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T20:00+0200",
-    "ort": "Die hängenden Gärten von Ehrenfeld, Vogelsanger Straße 140",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/seattle-supertronics-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die beste Tocotronic Coverband des Landes. Vielleicht sogar Tocotronic selbst.Eintritt Frei"
-  },
-  {
-    "titel": "SIENNA SPIRO",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T20:00+0200",
-    "ort": "Die Kantine, Neusser Landstraße 2",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/sienna-spiro-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Pressetext folgt..           - The Visitor Tour  ́26"
-  },
-  {
-    "titel": "Sienna Spiro - The Visitor Tour ´26",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T20:00+0200",
-    "ort": "Die Kantine, Neusser Landstraße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/sienna-spiro-the-visitor-tour-26-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) zahlen den normalen Kartenpreis. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte."
-  },
-  {
-    "titel": "Stefan Gwildis - das war doch grad' erst eben - 50 Jahre auf der Bühne",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T20:00+0200",
-    "ort": "GLORIA Köln, Apostelnstraße 11",
-    "preis": "ab 42 €",
-    "link": "https://rausgegangen.de/events/stefan-gwildis-das-war-doch-grad-erst-eben-50-jahre-auf-der--0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Einlass: 19:00 Uhr teilbestuhlt  Sackschlepper, Sonnenbankaufsteller und Soul-Sensation, Hafen-Malocher und Lyrik-Rezitator, Fabrik-Besetzer, Gelegenheits-Weihnachtsmann und Deutschlands Antwort auf George Clooney - was "
-  },
-  {
-    "titel": "Wohnzimmer Musik",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T20:00+0200",
-    "ort": "Oxin, Alteburger Straße 35",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/wohnzimmer-musik-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zwei Musiker, eine Reise durch Kuba und Lateinamerika: Mirta, Sängerin mit Leidenschaft und Gefühl, und Patric Florencio an der Gitarre bringen die Wärme, Rhythmik und Lebensfreude lateinamerikanischer Musik auf die B"
-  },
-  {
-    "titel": "Young Talents: A Tribute to the Trombone - The music of Jay&Kai played by Annas/Armbruster/Kröger",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T20:00+0200",
-    "ort": "King Georg, Sudermanstraße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/young-talents-a-tribute-to-the-trombone-the-music-of-jaykai--0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Melker Annas, & Carlotta Armbruster & Moritz Kröger (Posaune), Benedikt Göb (Klavier), Jan Blikslager (Kontrabass), Niklas Wittig (Schlagzeug)Jay & Kai gelten als das bekannteste und erfolgreichste Posaunen-Duo der Jaz"
-  },
-  {
-    "titel": "Prime Time Sound Journey",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T20:15+0200",
-    "ort": "Klangkino, Hansaring 61",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/prime-time-sound-journey-4/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Begib dich auf eine Reise durch die Welten der Frequenzen und lass dich von ihren Wirkungen auf dich überraschen und faszinieren. Hier ist die Fusion von Entertainment, Meditation und tiefen Bewusstseinszuständen Progr"
-  },
-  {
-    "titel": "Klagelieder aus dem Exil – Die Lamentationen des Jeremias von Giovanni Pierluigi da Palestrina | zamus: early music festival 2026",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T20:30+0200",
-    "ort": "Trinitatiskirche, Filzengraben 4, 50676 Köln, Filzengraben 4",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/klagelieder-aus-dem-exil-die-lamentationen-des-jeremias-von--0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Cinquecento Terence Wey – Cantus Tore Tom Denys – Tenor Tim Scott Whitley – Bariton Ulfried Staber – Bassals Gast Jan Petryka – TenorIm zweiten Konzert des Eröffnungsabends interpretiert das Vokalensemble Cinquecento di"
-  },
-  {
-    "titel": "FRAZEY FORD",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T21:00+0200",
-    "ort": "Bürgerhaus Stollwerck, Dreikönigenstraße 23",
-    "preis": "ab 28 €",
-    "link": "https://rausgegangen.de/events/frazey-ford-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Originally released in October 2014, Frazey Ford’s acclaimed album Indian Ocean returns this year with a special vinyl reissue, out September 19th. The digital edition also includes three previously unreleased covers, re"
-  },
-  {
-    "titel": "Groove Cologne - Concert & Jam-Session",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T21:00+0200",
-    "ort": "Jameson Distillery Pub, Friesenstr 30-40",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/groove-cologne-concert-jam-session-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Live-Concert and Jam-Session! Opening concert of our house-band, afterwards the stage will be open to jam. Bring your instrument or use ours and lets rock into the night! Everybody and every style is welcome!!! Our equip"
-  },
-  {
-    "titel": "YES AND MAYBE - UK & EU Spring Tour 2026",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T21:00+0200",
-    "ort": "Blue Shell, Luxemburger Straße 32",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/yes-and-maybe-uk-eu-spring-tour-2026-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) buchen reguläre Tickets. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte."
-  },
-  {
-    "titel": "RADIO SABROSITA• JEDEN DONNERSTAG • AB 23 H IM VEEDEL CLUB • STUDENTSNIGHT",
-    "datum": "21. Mai 2026",
-    "datum_raw": "2026-05-21T23:00+0200",
-    "ort": "Veedel Club, Luxemburger Straße 37",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/veranstaltungstitel-radio-sabrosita-jeden-donnerstag-ab-23-h-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Jeden Donnerstag bringt RADIO SABROSITA karibische Clubmusik und Latin Urban Sounds aus New York, Havana und Cali auf den Dancefloor. Mit DJs, die Reggaeton, Salsa und Bachata perfekt mischen, erwartet dich eine bunte Na"
+    "teaser": "„Fuppes“ zeigt Fußball aus ganz persönlichen Blickwinkeln, von wilder Euphorie bis zu stiller Melancholie. Sechs Künstler:innen mixen Illustration, Collage und Kunst, während Kölner DJs den Sound dazu liefern. Es erwarte"
   },
   {
     "titel": "Kakao & Klang - Zeremonie mit Sound Healing, live Musik zum Fühlen, Schokolade zum Trinken",
@@ -380,6 +60,36 @@
     "teaser": "Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge entdecken Spaß macht "
   },
   {
+    "titel": "Solidarität unter Druck - Verantwortung in der Kultur",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T18:00+0200",
+    "ort": "Schauspiel Köln, Schanzenstraße 6-20",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/solidaritat-unter-druck-verantwortung-in-der-kultur-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei dieser Diskussion geht’s darum, wie Kultur und Aktivismus in Zeiten großer gesellschaftlicher Spannungen zusammenhalten können. Mit dabei sind erfahrene Stimmen wie die Diversitätsbeauftragte Joana Peprah, die zeigen"
+  },
+  {
+    "titel": "Tages Ticket // Day Pass 22.Mai | CircusDanceFestival 2026",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T18:30+0200",
+    "ort": "CircusDanceFestival | Festivalgelände, An der Schanz 6",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/tages-ticket-day-pass-22mai-circusdancefestival-2026-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Am 22. Mai verwandelt sich das CircusDanceFestival in ein bühnenreiches Kaleidoskop aus Tanz und Zirkus, das du mit dem Tages Pass rundum erkunden kannst. Von packenden Performances bis zu kostenlosen Aktionen wird hier "
+  },
+  {
+    "titel": "Tsunami Drift Vol. 1",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T19:00+0200",
+    "ort": "Tsunami Club, Im Ferkulum 9",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/tsunami-drift-vol-1-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Neun aufstrebende Künstler:innen bringen ungeschminkte 90er und 00er Sounds auf die Bühne, von Drum and Bass bis Nightcore. Freu dich auf eine Nacht, die zwischen Konzert, Rave und verrücktem Chaotum pendelt, mit Karaoke"
+  },
+  {
     "titel": "cafe konzert & talk - SINU",
     "datum": "22. Mai 2026",
     "datum_raw": "2026-05-22T19:00+0200",
@@ -398,5 +108,295 @@
     "link": "https://rausgegangen.de/events/dressed-like-boys-6/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Jelle Denturck, bekannt von DIRK, zeigt mit Dressed Like Boys seine verletzliche Seite und verbindet 70er-Jahre-Flair mit poetischen Geschichten über Herkunft, Verlust und queere Identität. Seine Bühne heißt Klavier und "
+  },
+  {
+    "titel": "Florian Christl | Resonanz Tour 2026",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T19:00+0200",
+    "ort": "Stadtgarten Köln, Venloer Straße 40",
+    "preis": "ab 53 €",
+    "link": "https://rausgegangen.de/events/florian-christl-resonanz-tour-2026-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der Komponist und Pianist Florian Christl geht 2026 auf große Konzertreise durch Deutschland. Gemeinsam mit seinem Ensemble entführt er das Publikum in einen intensiven Abend voller Leidenschaft, Ausdruckskraft und musi"
+  },
+  {
+    "titel": "Infinite Bisous + Rosie Cheeks & Friends",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T19:00+0200",
+    "ort": "Kulturhof Kalk, Dillenburger Straße 65",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/infinite-bisous-rosie-cheeks-kulturhof-kalk-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Infinite Bisous + Rosie Cheeks & Friends+ sinag Magazin Release & AustellungKulturhof Kalk22. Mai 20026ab ca. 19:13 Uhr "
+  },
+  {
+    "titel": "KING LOUI | Gloria",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T19:00+0200",
+    "ort": "GLORIA Köln, Apostelnstraße 11",
+    "preis": "ab 28 €",
+    "link": "https://rausgegangen.de/events/king-loui-gloria-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": ""
+  },
+  {
+    "titel": "MIKAGE PROJECT - Japanische Min’yô-Volkslieder neu interpretiert",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T19:00+0200",
+    "ort": "Japanisches Kulturinstitut Köln, Universitätsstraße 98",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/mikage-project-japanische-minyo-volkslieder-neu-interpretier-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Ausführende SATÔ Kôki (Shakuhachi-Flöte, Shinobue-Flöte) ASANO Shô (Tsugaru-Shamisen-Laute, Gesang) HOMMA Takashi (25-saitige Koto-Zither)Die drei Musiker Satô Kôki, Asano Shô und Homma Takashi gründeten MIKAGE"
+  },
+  {
+    "titel": "Ostasiatischer Abend | zamus: early music festival 2026",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T19:00+0200",
+    "ort": "Museum für Ostasiatische Kunst, Universitätsstraße 100",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/ostasiatischer-abend-zamus-early-music-festival-2026-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Koreanische traditionelle Musik und Tanz 18:40–19:00 Konzerteinführung 19:00–20:00 Konzert Utopie des Augenblicks 20:00–20:30 kulinarische Pause 20:30–21:30 Konzert Prélude à l’après-midi au JaponUtopie des Augenblic"
+  },
+  {
+    "titel": "ADHERZ ❤️ Ein Unmaskiert Event",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T19:30+0200",
+    "ort": "Stukmans, Gottesweg 135",
+    "preis": "ab 22 €",
+    "link": "https://rausgegangen.de/events/adherz-ein-unmaskiert-event-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "ADHERZ bringt Menschen mit ADHS zusammen, um ganz ohne Maske und Erwartungen echtes Miteinander zu feiern. Abends gibt’s Raum für ehrliche Gespräche und ab 23 Uhr die Chance zum Mitsingen und Tanzen mit bekannten Hits au"
+  },
+  {
+    "titel": "DRESSED LIKE BOYS",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T19:30+0200",
+    "ort": "artheater Köln, Ehrenfeldgürtel 127",
+    "preis": "ab 21 €",
+    "link": "https://rausgegangen.de/events/dressed-like-boys-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Nach einer erfolgreichen Headline-Tour im Herbst und Auftritten bei Indie-Lieblingen wie dem Haldern Pop oder Reeperbahn Festival, kehrt Dressed Like Boys im kommenden Mai nach Deutschland zurück. Mit im Gepäck hat er "
+  },
+  {
+    "titel": "Psychedelic Light & Sound",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T19:30+0200",
+    "ort": "Klangkino, Hansaring 61",
+    "preis": "ab 55 €",
+    "link": "https://rausgegangen.de/events/psychedelic-light-sound-14/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Psychedelic Light & Sound Journey verbindet eines der ältesten Instrumente der Erde mit den neusten Erkenntnissen und Technologien aus der Forschung.  Mit dem Einsatz des Gongs in Kombination mit der Roxiva-Lichttec"
+  },
+  {
+    "titel": "TELL ME WHY. Aids im Köln der 80er – Oder: Die Angst vor der Unberechenbarkeit der vielarmigen Krake",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T20:00+0200",
+    "ort": "Alte Feuerwache, Halle, Melchiorstraße 3",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/tell-me-why-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das queere Ensemble Petra P. verwebt in „Tell Me Why“ Geschichten aus den 80ern mit aktuellen Perspektiven zu HIV und Aids. Mit Humor und Tiefe zeigen sie, wie Solidarität entstehen kann, ohne den Zeigefinger zu heben un"
+  },
+  {
+    "titel": "Aeonlicht / Inleasmind / Muax – Live im Hinterhofsalon",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T20:00+0200",
+    "ort": "Hinterhofsalon, Aachener Straße 68",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/aeonlicht-inleasmind-muax-live-im-hinterhofsalon-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Am Freitag, 22.05.2026 treffen im Hinterhofsalon drei künstlerische Stimmen aufeinander – und beginnen eine Unterhaltung, die das Publikum mitnimmt. Inleasmind, Muax und Aeonlicht bewegen sich zwischen Sprache und Musik"
+  },
+  {
+    "titel": "Frei.Wild",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T20:00+0200",
+    "ort": "LANXESS arena, Willy-Brandt-Platz 3",
+    "preis": "ab 57 €",
+    "link": "https://rausgegangen.de/events/freiwild-7/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Sie sind zurück. Lauter, klarer, leidenschaftlicher denn je – stets unter Feuer! Frei.Wild schlagen jetzt zum nächsten, vielleicht vehementesten Kapitel ihrer Bandgeschichte auf. Geprägt von persönlichen Erlebnissen "
+  },
+  {
+    "titel": "ImKlang Session",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T20:00+0200",
+    "ort": "Musik- und Kunstschule ImKlang, Waltherstraße 80",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/imklang-session-17/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": " IMKLANG SESSION  Offene Jam Session · jeden Freitag · ab 20:00 Uhr Die IMKLANG Session ist eine wöchentliche, offene Jam Session für Musikerinnen und Musiker aller Erfahrungsstufen – und für alle, die Musik gerne liv"
+  },
+  {
+    "titel": "Lucia Cadotsch AKI",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T20:00+0200",
+    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
+    "preis": "ab 21 €",
+    "link": "https://rausgegangen.de/events/lucia-cadotsch-aki-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Ausdrucksstark, eigenständig, stilübergreifend – Lucia Cadotsch definiert Jazz neu.Ein Alleinstellungsmerkmal, das nicht hoch genug einzuschätzen ist: Lucia Cadotsch hat einen ganz eigenen, sofort wiedererkennbaren So"
+  },
+  {
+    "titel": "Melting Pot Music  presents FloFilz & Radiohop",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T20:00+0200",
+    "ort": "JAKI, Venloer Str. 40",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/melting-pot-music-presents-flofilz-radiohop-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das Kölner Label Melting Pot Music präsentiert seinen ersten Label Showcase im JAKI.Der Berliner Produzent FloFilz stellt sein aktuelles Album „Hagaki“ vor. „Hagaki“ ist ein musikalischer Liebesbrief an Japan – ein aku"
+  },
+  {
+    "titel": "MURAD DEMIR",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T20:00+0200",
+    "ort": "Lutherkirche Südstadt, Martin-Luther-Platz 2-4",
+    "preis": "ab 39 €",
+    "link": "https://rausgegangen.de/events/murad-demir-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Murad Demir, in Hakkâri/Anatolien geboren und aufgewachsen, ist eine eindrucksvolle Stimme, die die traditionellen Klänge seiner Heimat sammelt und ihnen durch seine eigenständige Interpretation neues Leben einhaucht."
+  },
+  {
+    "titel": "Poetry Jam",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T20:00+0200",
+    "ort": "Salon De Jazz, Severinskloster 3a",
+    "preis": "ab 15 €",
+    "link": "https://rausgegangen.de/events/poetry-jam-17/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Poetry Jam geht in die 8. Runde – Wo Worte jammen und Rhythmus verbindet! Ein neuer kreativer Raum für Poesie und Musik in Köln: Die Poetry Jam verbindet Spoken Word mit Live-Musik – ohne feste Line-ups, aber mit jeder"
+  },
+  {
+    "titel": "SELVE // COLOGNE",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T20:00+0200",
+    "ort": "die wohngemeinschaft, Richard-Wagner-Straße 39",
+    "preis": "ab 21 €",
+    "link": "https://rausgegangen.de/events/selve-cologne-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bombastisch und unverblümt, theatralisch und aufrichtig. Es lädt uns ein zu lachen, zu singen, uns auseinanderzusetzen und das Leben zu feiern. Ein unbestreitbarer Künstler, den man im Auge behalten sollte: Selve tret"
+  },
+  {
+    "titel": "SingAlong - Das große Mitsing-Event (Best of ABBA)",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T20:00+0200",
+    "ort": "Quater1 GmbH, Quatermarkt 1",
+    "preis": "ab 10 €",
+    "link": "https://rausgegangen.de/events/singalong-das-groe-mitsing-event-best-of-abba-25/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bist du bereit für ein tolles Mitsing-Event in Köln? SingAlong - Das große Mitsing-Event lädt dich ein, gemeinsam mit Hunderten von Menschen die größten ABBA Hits zu singen!Die Songauswahl und der Moderator vor Ort s"
+  },
+  {
+    "titel": "Sword II",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T20:00+0200",
+    "ort": "Veedel Club, Luxemburger Straße 37",
+    "preis": "ab 26 €",
+    "link": "https://rausgegangen.de/events/sword-ii-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Rock Pop Sword II am 22.05.2026 im Veedel Club Köln "
+  },
+  {
+    "titel": "Sword II",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T20:00+0200",
+    "ort": "Veedel Club, Luxemburger Straße 37",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/sword-ii-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": " Die Veranstaltung wurde abgesagt. Bereits gekaufte Tickets können an dem Ort zurückgegeben werden, an dem sie gekauft wurden.Die Venue ist leider nicht Barrierefrei, Schwerbehinderte erhalten eine kostenlose Begleitun"
+  },
+  {
+    "titel": "WILHELMINE",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T20:00+0200",
+    "ort": "Carlswerk Victoria, Schanzenstr. 6-20",
+    "preis": "ab 38 €",
+    "link": "https://rausgegangen.de/events/wilhelmine-50/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wilhelmine zählt zu den eindrucksvollsten Stimmen des deutschsprachigen Pop.  Aufgewachsen in einem besetzten Haus in Berlin-Kreuzberg, prägt sie eine Offenheit und Ehrlichkeit, die sich in all ihren Songs widerspiegel"
+  },
+  {
+    "titel": "Wilhelmine - magisch Tour 2026",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T20:00+0200",
+    "ort": "Carlswerk Victoria, Schanzenstr. 6-20",
+    "preis": "ab 45 €",
+    "link": "https://rausgegangen.de/events/wilhelmine-magisch-tour-2026-5/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wilhelmine mischt ehrlichen Pop mit persönlicher Tiefe und spricht in ihrem neuen Song „nächsten Sommer“ über Verlust und Hoffnung. Nach erfolgreichen Touren und Supportshows bringt sie pure Emotion auf die Bühne und ver"
+  },
+  {
+    "titel": "MitSingKunzät vür Naaksüüle, kostenloses Mitsingkonzert mit E.V.A.",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T21:30+0200",
+    "ort": "Peters am Hahnentor, Hahnenstraße 22",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/mitsingkunzat-vur-naaksuule-kostenloses-mitsingkonzert-mit-e-7/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "MitSingKunzät vür Naaksüüle, kostenloses Mitsingkonzert mit E.V.A."
+  },
+  {
+    "titel": "SING IT OUT! Maxis Karaoke Nacht",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T21:30+0200",
+    "ort": "NightWash club, Hohenstaufenring 25-27",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/sing-it-out-maxis-karaoke-nacht-20/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Hier gibt’s keinen Jury-Stress und keine falschen Töne, sondern einfach 53.000 Songs zum Austoben – von 90s Trash bis RnB. Maxi macht seit Jahren Karaoke-Abende zur Party, bei denen du zum Held:in oder Meme wirst. Zwisch"
+  },
+  {
+    "titel": "SEGGIOVIA EXPRESS",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T22:00+0200",
+    "ort": "Off Bar, Luxemburger Straße 46",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/seggiovia-express-12/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei Seggiovia Express mischen DJ Mischmaus, DJ Reppetition und MS Gérado Disco, Funk, HipHop und House zu einem ausgelassenen Soundcocktail, der dich lässig nach oben trägt. Hier geht es nicht um Ernst, sondern um beste "
+  },
+  {
+    "titel": "fi wird 2",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T23:00+0200",
+    "ort": "Ursprung fi, Widdersdorfer Straße 246",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/fi-wird-2-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "fi feiert seinen zweiten Geburtstag mit einem dichten Programm aus DJ-Duos, die von lokalen Szenetalenten bis zu langjährig erfahrenen Acts reichen. Die lange Nacht und der anschließende Open-Air-Tag bieten dir elektroni"
+  },
+  {
+    "titel": "Tanzklub x Swim",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T23:00+0200",
+    "ort": "Garagen, Oskar-Jäger-Straße 179",
+    "preis": "ab 10 €",
+    "link": "https://rausgegangen.de/events/tanzklub-x-swim-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der Tanzklub lädt zurück in die Garagen und bringt dir eine bunte Mischung aus Hits, die du nicht nur hören, sondern auch mitsingen kannst. Auf dem zweiten Floor sorgt das Swim-DJ-Team mit Disco und House für weitere Tan"
+  },
+  {
+    "titel": "KOMM RAVEN X SLIN X NENE H X BUTSCHI @ Odonien",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T23:00+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/komm-raven-x-slin-x-nene-h-x-butschi-odonien-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Am 22. Mai bringen SLIN und NENE H mit langen Vinyl-Sets Techno in verschiedenen Facetten zusammen, von verspielten bis zu ernsteren Tönen. BUTSCHI und Hihat sorgen für sommerliche Momente in einer Atmosphäre, die Respek"
+  },
+  {
+    "titel": "PARAKEET INVITES DCHM & DJ PALGA @HELIOS37",
+    "datum": "22. Mai 2026",
+    "datum_raw": "2026-05-22T23:00+0200",
+    "ort": "Helios Köln, Heliosstraße 37",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/parakeet-invites-helios37/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "PARAKEET startet seine erste eigene Clubnacht mit DCHM und DJ Palga, die mit feinen House-Tracks von deep bis schnell für Bewegung sorgen. Die Crew verspricht eine Nacht voller Groove, bei der du die Entwicklung des Koll"
   }
 ]
