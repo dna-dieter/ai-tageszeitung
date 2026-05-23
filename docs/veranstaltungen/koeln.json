@@ -20,16 +20,6 @@
     "teaser": "Am Ehrentag des Grundgesetzes packen wir gemeinsam an und machen den Stadtgarten müllfrei. Danach wartet ein entspanntes Picknick mit geretteten Leckereien und veganen Snacks, bei dem du neue Leute triffst und nachhaltig"
   },
   {
-    "titel": "DIE PLANSCHIS | KINDER SOMMER PLANSCH | Open Air",
-    "datum": "23. Mai 2026",
-    "datum_raw": "2026-05-23T13:00+0200",
-    "ort": "Freideck - Kantine Open Air, Neusser Landstraße 2",
-    "preis": "ab 19 €",
-    "link": "https://rausgegangen.de/events/die-planschis-kinder-sommer-plansch-open-air-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Am 23. Mai gibt’s bei Planschemaloöö richtig was für die Ohren und gute Laune unter freiem Himmel. Kinder von 3 bis 15 dürfen sich auf Musik und Spiele freuen, die den Sommertag ganz nebenbei zum Strahlen bringen 😌"
-  },
-  {
     "titel": "Winemaker Tasting III",
     "datum": "23. Mai 2026",
     "datum_raw": "2026-05-23T14:00+0200",
@@ -58,16 +48,6 @@
     "link": "https://rausgegangen.de/events/bounce-boat-summer-opening-2026-by-koeln-ist-techno-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Am 23.05. legt das BOUNCE BOAT mit knackigem Techno und Trance auf dem Rhein ab. DJ Discostoff, Hotboi2300, Oskamaxx und Pipo sorgen für Beats, die durch die MK Sound Anlage richtig Druck machen. Sicher dir deinen Platz "
-  },
-  {
-    "titel": "singOUT Köln 2026",
-    "datum": "23. Mai 2026",
-    "datum_raw": "2026-05-23T15:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 23 €",
-    "link": "https://rausgegangen.de/events/singout-koln-2026-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Das 1000 Stimmen Mass-Choir GospelkonzertLerato Shadare | Ron Lyles | singOUT Mass-Choir | singOUT Band | Elvis E. | Silas EdwinBereits in den vergangenen Jahren begeisterten die singOUT Mass-Choirs in ausverkauften Säl"
   },
   {
     "titel": "Fries KTV am Ebertplatz: Längster Karaoke Screen der Welt?",
@@ -194,7 +174,7 @@
     "datum": "23. Mai 2026",
     "datum_raw": "2026-05-23T19:00+0200",
     "ort": "Blue Shell, Luxemburger Straße 32",
-    "preis": "ab 11 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/stonebound-taihr-scheynt-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Sa.,23.05.26Einlass 19 Uhr  Beginn 20 Uhr Blue Shell Live: Single Release Show von Scheynt mit Special Guest: „Stonebound“ und „Taihr“.  ScheyntAlternative Rock Scheynt steht für Alternative Rock mit Charakter: eine Mis"
@@ -398,5 +378,25 @@
     "link": "https://rausgegangen.de/events/wietje-im-land-der-farben-familienkonzert-mit-kreativworksho-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Flautando Köln Susanna Borsch – Blockflöten Susanne Hochscheid – Blockflöten Ursula Thelen – Blockflöten Kerstin de Witt – BlockflötenDas Blockflötenquartett und Wietje gehen mit dem Publikum auf Entdeckungsreise i"
+  },
+  {
+    "titel": "Echoes of Heritage – Von uralten geistlichen Gesängen bis zu zeitgenössischen Liedern | zamus: early music festival 2026",
+    "datum": "24. Mai 2026",
+    "datum_raw": "2026-05-24T13:30+0200",
+    "ort": "GREEN ROOM, Venloer Straße 40",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/echoes-of-heritage-von-uralten-geistlichen-gesangen-bis-zu-z-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Oriental Echo Rita William – Gesang, orientalische Percussion Rageed William – Nay, Duduk Rimonda Naanaa – QanunOriental Echo lädt zu einer musikalischen Entdeckungsreise in die spirituelle Klangwelt des Nahen Ostens ei"
+  },
+  {
+    "titel": "Open Air Festival  El Rocio",
+    "datum": "24. Mai 2026",
+    "datum_raw": "2026-05-24T14:00+0200",
+    "ort": "Köln- Südstadt, Severinskirchplatz, Severinstr.",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/open-air-festival-el-rocio-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Festival El Rocío in Köln – Andalusische Tradition mitten am RheinErleben Sie die einzigartige Atmosphäre des berühmten spanischen Rocío-Festes in Köln! Freuen Sie sich auf einen unvergesslichen Pfingstsonntag voll"
   }
 ]
