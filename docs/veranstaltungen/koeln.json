@@ -90,16 +90,6 @@
     "teaser": "Mitsingkonzert mit Micky Brühl & Erry Stoklosa, am Keyboard Christoph Wüllner.Einlass: ab 17:30 UhrBeginn: 19:30 Uhrvor dem Konzert Gelegenheit unsere leckere Brauhausküche zu testen. "
   },
   {
-    "titel": "Impro Stand-up Comedy - Ich hab da mal nichts vorbereitet",
-    "datum": "25. Mai 2026",
-    "datum_raw": "2026-05-25T20:00+0200",
-    "ort": "Joode Lade, Lindenstraße 62",
-    "preis": "ab 11 €",
-    "link": "https://rausgegangen.de/events/impro-stand-up-comedy-ich-hab-da-mal-nichts-vorbereitet-47/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier kommen spontanwitzige Köpfe zusammen, die locker ohne Vorbereitung mit scharfem Humor überraschen und das Publikum direkt ins Geschehen holen. Wer auf spontanen Comedy-Spaß steht, erlebt hier pure Unterhaltung ohne "
-  },
-  {
     "titel": "Au/Ra",
     "datum": "25. Mai 2026",
     "datum_raw": "2026-05-25T20:00+0200",
@@ -208,16 +198,6 @@
     "link": "https://rausgegangen.de/events/twice-5/",
     "quelle": "Rausgegangen Köln",
     "teaser": "EINZIGER TERMIN IN NRWK-POP-GIGANTEN TWICE KÜNDIGEN TWICE  WORLD TOUR AN KONZERTE IN NORDAMERIKA, EUROPA & UKERSTMALIG EIN 360°-BÜHNENERLEBNIS DER GRUPPETWICE überschreiten einmal mehr Grenzen und holen auf ihrer aktu"
-  },
-  {
-    "titel": "Prime Time Sound Journey",
-    "datum": "26. Mai 2026",
-    "datum_raw": "2026-05-26T20:15+0200",
-    "ort": "Klangkino, Hansaring 61",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/prime-time-sound-journey-5/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Begib dich auf eine Reise durch die Welten der Frequenzen und lass dich von ihren Wirkungen auf dich überraschen und faszinieren. Hier ist die Fusion von Entertainment, Meditation und tiefen Bewusstseinszuständen Progr"
   },
   {
     "titel": "SingPauseKöln",
@@ -398,5 +378,25 @@
     "link": "https://rausgegangen.de/events/xxl-sonderausgabe-3-tage-feierabendmarkt-sudstadt-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Abends am Chlodwigplatz wird’s frühlingshaft und bunt: Streetfood auf die Hand, ein kühles Kölsch oder ein Aperol Spritz dazu – perfekt, um den Feierabend entspannt einzuläuten. Vor der Severinstorburg wartet der perfekt"
+  },
+  {
+    "titel": "FLINTA* Community Evening 🧡 HANDPAN IMPULSE",
+    "datum": "29. Mai 2026",
+    "datum_raw": "2026-05-29T18:00+0200",
+    "ort": "OnlyYou Holistic Center, Venloer Straße 497",
+    "preis": "ab 15 €",
+    "link": "https://rausgegangen.de/events/flinta-community-evening-handpan-impulse-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "FLINTA* Community Evening –einmal Freitags im MonatEinmal im Monat kommen wir als Community zusammen – zum Austauschen, Verbinden und gemeinsamen Wachsen.Unser Community Evening Freitags 1 mal  im Monat statt und ist ein"
+  },
+  {
+    "titel": "FRÜHLINGSFEST in der minhafaktur",
+    "datum": "30. Mai 2026",
+    "datum_raw": "2026-05-30T12:00+0200",
+    "ort": "Minhafaktur, Poller Kirchweg 124",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/fruhlingsfest-in-der-minhafaktur-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Zwei Tage lang kannst du bei kreativen Workshops, offener Ateliers und Livemusik von The Doghunters Kunst und gemeinsames Entdecken feiern. Am Sonntag lockt ein großer Flohmarkt in Poll, perfekt für deinen entspannten Bu"
   }
 ]
