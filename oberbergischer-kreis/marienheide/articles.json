@@ -155,6 +155,44 @@
     "fetched": "2026-05-05T21:11:09.371848"
   },
   {
+    "id": "e14a8fa502c2",
+    "title": "POL-GM: Mit Auto überschlagen",
+    "summary": "Marienheide (ots) - Ein 26-jähriger Gummersbacher war am Freitag (22. Mai) mit seinem Ford Focus auf der Hauerbergstraße von Siemerkusen in Richtung Marienheide unterwegs. Gegen 13:10 Uhr kam er nach rechts von der Straße ab und überschlug sich ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6281159",
+    "published": "Mon, 25 May 2026 11:20:55 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach",
+      "marienheide"
+    ],
+    "fetched": "2026-05-25T10:44:42.337407"
+  },
+  {
+    "id": "5f606766e77f",
+    "title": "POL-GM: Auffahrunfall in Holzwipper",
+    "summary": "Marienheide (ots) - Am Sonntag (24. Mai) war ein 44-jähriger Mann aus Kierspe mit seinem Quad auf der Straße \"Wilbringhausen\" in Richtung Marienheide unterwegs. Gegen 11:40 Uhr fuhr er auf den Renault eines 53-jährigen Kierspers auf, der ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6281149",
+    "published": "Mon, 25 May 2026 11:12:14 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-05-25T10:44:42.337551"
+  },
+  {
+    "id": "4e34e0cb0933",
+    "title": "POL-GM: Unfall im Einmündungsbereich",
+    "summary": "Marienheide (ots) - Bei einem Verkehrsunfall in Kalsbach wurde am Sonntag (24. Mai) der Fahrer eines Leichtkraftrades leicht verletzt. Der 17-Jährige aus Marienheide war mit seinem Zweirad gegen 15:55 Uhr auf der Gummersbacher Straße (B256) von ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6281143",
+    "published": "Mon, 25 May 2026 11:10:16 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach",
+      "marienheide"
+    ],
+    "fetched": "2026-05-25T10:44:42.337610"
+  },
+  {
     "id": "00f51bc3d4c8",
     "title": "POL-GM: Unfall im Kreuzungsbereich",
     "summary": "Marienheide (ots) - Am Samstag (16. Mai) wollte ein 49-jähriger Marienheider von der Straße \"Am Rottland\" nach links auf die Scharder Straße abbiegen. Dabei kam es gegen 13:06 Uhr zum Zusammenstoß mit dem Motorrad eines 37-jährigen ...",

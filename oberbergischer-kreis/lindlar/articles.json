@@ -306,6 +306,31 @@
     "fetched": "2026-05-05T21:01:14.683753"
   },
   {
+    "id": "112241b68e29",
+    "title": "POL-GM: Einbruch am helllichten Tag",
+    "summary": "Lindlar (ots) - Am Samstag (23. Mai) hebelten Unbekannte zwischen 9 Uhr und 17 Uhr die Terrassentür eines Einfamilienhauses in der Korbstraße auf. Die Kriminellen betraten das Haus und durchwühlten mehrere Räume. Ob etwas gestohlen wurde, muss ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6281162",
+    "published": "Mon, 25 May 2026 11:22:54 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-05-25T10:44:42.337342"
+  },
+  {
+    "id": "2b8a9d4da0d0",
+    "title": "POL-GM: Motorradfahrer bei Verkehrsunfall schwer verletzt",
+    "summary": "Wipperfürth (ots) - Bei einem Verkehrsunfall in Stüttem wurde am Samstag (23. Mai) ein Motorradfahrer schwer verletzt. Der 56-Jährige aus Viersen war mit seiner Triumph gegen 15:30 Uhr auf der L284 von Wipperfürth in Richtung Lindlar unterwegs. ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6281152",
+    "published": "Mon, 25 May 2026 11:13:59 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "lindlar",
+      "wipperfuerth"
+    ],
+    "fetched": "2026-05-25T10:44:42.337524"
+  },
+  {
     "id": "d0f6b1866a77",
     "title": "Hückeswagen: 58-Jährige stirbt in brennendem Auto – Alleinunfall auf der L68",
     "summary": "Tödlicher Alleinunfall bei Hückeswagen: Eine 58-jährige Lindlarerin starb in der Nacht in ihrem Pkw, der nach Baum-Kollision in Brand geriet.",
@@ -314,7 +339,8 @@
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "lindlar",
-      "hueckeswagen"
+      "hueckeswagen",
+      "gummersbach"
     ],
     "fetched": "2026-05-25T05:46:43.481189"
   },
