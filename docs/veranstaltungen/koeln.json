@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Au travail! Ein Spazierkonzert mit den Bremer Stadtpfeiferinnen | zamus: early music festival 2026",
-    "datum": "25. Mai 2026",
-    "datum_raw": "2026-05-25T12:00+0200",
-    "ort": "Kolumba Kunstmuseum, Kolumbastraße 4",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/au-travail-ein-spazierkonzert-mit-den-bremer-stadtpfeiferinn-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "[hanse]Pfeyfferey Lilli Pätzold – Zink Laura Dümpelmann – Pommer, Arrangements Alexandra Mikheeva – Zugtrompete, PosauneAndreas Gilger – ModeratorDas Bremer Ensemble [hanse]Pfeyfferey lässt in Trio- Besetzung die alte"
-  },
-  {
     "titel": "zamus: academy – junge Talente | zamus: early music festival 2026",
     "datum": "25. Mai 2026",
     "datum_raw": "2026-05-25T15:30+0200",
@@ -24,7 +14,7 @@
     "datum": "25. Mai 2026",
     "datum_raw": "2026-05-25T18:00+0200",
     "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
-    "preis": "kostenlos",
+    "preis": "ab 48 €",
     "link": "https://rausgegangen.de/events/ocean-eyes-presents-gottmik-in-concert-2/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Gottmik bringt queer Power und Musik mit zwei Gastmusiker:innen auf die Bühne, was für eine energiegeladene Show sorgt. Eintritt ab 16 und quietschbunter Abend voller Überraschungen sind garantiert Du kannst dich auf ein"
@@ -44,7 +34,7 @@
     "datum": "25. Mai 2026",
     "datum_raw": "2026-05-25T18:30+0200",
     "ort": "Zappes Zentrale, Roonstraße 71",
-    "preis": "ab 6 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/all-stars-schocken-im-zappes-turnier-stammtisch-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Beim Schocken im neuen Vereinsheim vom Zappes geht’s gesellig und locker zur Sache, egal ob du Profi oder Neuling bist. Ein kurzes Training wärmt dich auf, bevor das Turnier startet und dabei süße Preise winken Es gibt s"
@@ -360,6 +350,26 @@
     "teaser": "opia Eva-Leonie Fegers, Alina Loewenich – Blockflöten, Konzeption Julia Willeitner, Mauro Colantonio – Viola da gamba Fabio Kapeller – Perkussion Alexander Gergelyfi – Cembalo, Konzeption Bryan Brenner – Gesang, Überse"
   },
   {
+    "titel": "Postcards from Italy. Multimedia-Konzert mit dem Duo Bottasso",
+    "datum": "28. Mai 2026",
+    "datum_raw": "2026-05-28T19:00+0200",
+    "ort": "Italienisches Kulturinstitut Köln, Universitätsstraße 81",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/postcards-from-italy-multimedia-konzert-mit-dem-duo-bottasso-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das Italienische Kulturinstitut Köln präsentiert – in Zusammenarbeit mit der Direzione Generale Spettacolo (DGS) des Kulturministeriums – das Multimedia-Konzert “Postcards from Italy” mit dem Duo Bottasso. Die Veransta"
+  },
+  {
+    "titel": "URLAUB IN POLEN / sold-out",
+    "datum": "28. Mai 2026",
+    "datum_raw": "2026-05-28T19:00+0200",
+    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
+    "preis": "ab 20 €",
+    "link": "https://rausgegangen.de/events/urlaub-in-polen-5/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "popanz URLAUB IN POLEN (Tapete) Donnerstag, 28. Mai 2026 Bumann & Sohn, Köln Einlass 19:00, Beginn 20:00  TICKETS  Bitte gehen Sie weiter, bitte bleiben Sie hier nicht stehen! Auch mehr als zwei Jahrzehnte nach ihrer Gr"
+  },
+  {
     "titel": "Tag der Nachbar*schaft - Banden Bilden",
     "datum": "29. Mai 2026",
     "datum_raw": "2026-05-29T15:00+0200",
@@ -388,15 +398,5 @@
     "link": "https://rausgegangen.de/events/flinta-community-evening-handpan-impulse-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "FLINTA* Community Evening –einmal Freitags im MonatEinmal im Monat kommen wir als Community zusammen – zum Austauschen, Verbinden und gemeinsamen Wachsen.Unser Community Evening Freitags 1 mal  im Monat statt und ist ein"
-  },
-  {
-    "titel": "FRÜHLINGSFEST in der minhafaktur",
-    "datum": "30. Mai 2026",
-    "datum_raw": "2026-05-30T12:00+0200",
-    "ort": "Minhafaktur, Poller Kirchweg 124",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/fruhlingsfest-in-der-minhafaktur-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zwei Tage lang kannst du bei kreativen Workshops, offener Ateliers und Livemusik von The Doghunters Kunst und gemeinsames Entdecken feiern. Am Sonntag lockt ein großer Flohmarkt in Poll, perfekt für deinen entspannten Bu"
   }
 ]
