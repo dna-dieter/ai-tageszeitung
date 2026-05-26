@@ -14,7 +14,7 @@
     "datum": "26. Mai 2026",
     "datum_raw": "2026-05-26T18:30+0200",
     "ort": "Adeli, Venloer Straße 19",
-    "preis": "ab 9 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/the-book-club-19/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Bei The Book Club treffen sich junge Frauen für entspannten Austausch rund ums Lesen und mehr. Bring dein aktuelles Buch mit, mach es dir gemütlich und freu dich auf neue Connections in lockerer Atmosphäre 🫂"
@@ -27,7 +27,7 @@
     "preis": "ab 0 €",
     "link": "https://rausgegangen.de/events/singen-joy-of-singing-einfach-singen-in-koln-sulz-chor-auf-z-4/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Bitte meldet euch per Mail an ninaherwig@gmx.de unter Angabe des Termins, an dem ihr teilnehmen wollt. I.d.R. singen 20-30 Menschen mit. Ihr könnt auch spontan kommen, dann seid nur bitte mindestens 10 Minuten früher d"
+    "teaser": "Herzliche Einladung zu „Joy of Singing“ – gemeinsames Singen von Liedern, die verbinden und gut tun.Wir singen Lieder, die leicht zu lernen sind und ohne Noten oder Textblätter auskommen. Durch das wiederholte Singen en"
   },
   {
     "titel": "BEN KWELLER",
@@ -277,7 +277,7 @@
     "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/philharmonielunch-81/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "WDR SinfonieorchesterWDR Sinfonieorchester | Marie Jacquot: Mendelssohn BartholdyErleben Sie in der Kölner Philharmonie Ihre kleine Pause vom Alltag – inspirierend, berührend, authentisch. Ein Lunch voller Musik, für "
+    "teaser": "WDR SinfonieorchesterDamen des NDR Vokalensembles | Damen des WDR Rundfunkchores | WDR Sinfonieorchester | Marie Jacquot: Mendelssohn BartholdyErleben Sie in der Kölner Philharmonie Ihre kleine Pause vom Alltag – inspir"
   },
   {
     "titel": "KÖLNER KINO NÄCHTE 2026",
@@ -308,16 +308,6 @@
     "link": "https://rausgegangen.de/events/postcards-from-italy-multimedia-konzert-mit-dem-duo-bottasso-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Das Italienische Kulturinstitut Köln präsentiert – in Zusammenarbeit mit der Direzione Generale Spettacolo (DGS) des Kulturministeriums – das Multimedia-Konzert “Postcards from Italy” mit dem Duo Bottasso. Die Veransta"
-  },
-  {
-    "titel": "URLAUB IN POLEN / sold-out",
-    "datum": "28. Mai 2026",
-    "datum_raw": "2026-05-28T19:00+0200",
-    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
-    "preis": "ab 20 €",
-    "link": "https://rausgegangen.de/events/urlaub-in-polen-5/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "popanz URLAUB IN POLEN (Tapete) Donnerstag, 28. Mai 2026 Bumann & Sohn, Köln Einlass 19:00, Beginn 20:00  TICKETS  Bitte gehen Sie weiter, bitte bleiben Sie hier nicht stehen! Auch mehr als zwei Jahrzehnte nach ihrer Gr"
   },
   {
     "titel": "ListeningLounge",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/tower-of-power-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Seit 58 Jahren stehen Tower of Power für Funk- und Soulmusik vom Feinsten. „Wir waren eine Soulband namens The Motowns“, erinnert sich Emilio Castillo. „Rocco war Bassist, ich war dabei und mein Bruder war Schlagzeuger."
+  },
+  {
+    "titel": "Ye Vagabonds",
+    "datum": "28. Mai 2026",
+    "datum_raw": "2026-05-28T20:00+0200",
+    "ort": "YUCA, Bartholomäus-Schink-Straße 65",
+    "preis": "ab 29 €",
+    "link": "https://rausgegangen.de/events/ye-vagabonds-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Ye VagabondsPräsentiert von Emerged Agency 28.05.2026 Köln, Yuca Club Einlass: 19:00 Uhr | Beginn: 20:00 Uhr"
   }
 ]
