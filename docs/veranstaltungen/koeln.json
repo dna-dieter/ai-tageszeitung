@@ -1,20 +1,10 @@
 [
   {
-    "titel": "SingPauseKöln",
-    "datum": "27. Mai 2026",
-    "datum_raw": "2026-05-27T10:30+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/singpausekoln-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Geschlossene Veranstaltung für die teilnehmenden GrundschulenAbschlusskonzertDer Höhepunkt des Schuljahres mit der SingPauseKöln: Hier können die Grundschulkinder gemeinsam mit Kindern anderer Schulen die im Laufe de"
-  },
-  {
     "titel": "Bookwalk & Lesung mit Marie Menke (\"Spielverderberin\")",
     "datum": "27. Mai 2026",
     "datum_raw": "2026-05-27T17:00+0200",
     "ort": "litty Buchhandlung, Kurfürstenstraße 29",
-    "preis": "ab 0 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/bookwalk-lesung-mit-marie-menke-spielverderberin-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Marie Menke nimmt dich mit auf einen Spaziergang durch die Kölner Südstadt, bei dem ihr über ihren Debütroman Spielverderberin und Themen wie Freundschaft und Neuanfänge quatscht. Zum Schluss liest sie noch kurz vor, dan"
@@ -34,7 +24,7 @@
     "datum": "27. Mai 2026",
     "datum_raw": "2026-05-27T18:00+0200",
     "ort": "COMEDIA Theater, Vondelstraße 4-8",
-    "preis": "ab 0 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/dinner-der-guten-botschaften-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Beim Dinner der guten Botschaften treffen junge Menschen zusammen, um beim gemeinsamen Essen ins Gespräch zu kommen und Einsamkeit ein Stück weit zu lindern. Der Abend bietet Raum für ehrlichen Austausch und Verbindung, "
@@ -44,7 +34,7 @@
     "datum": "27. Mai 2026",
     "datum_raw": "2026-05-27T18:00+0200",
     "ort": "Hempies im machwerkhaus köln, Dillenburger Straße 87",
-    "preis": "ab 7 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/giving-queer-queer-quiz-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Bei giving: queer queer quiz rätselt ihr in Teams mit queer-feministischem Spirit und kommt ohne Quizwissen aus. Stattdessen überraschen knifflige Fragen und entspannte Stimmung in einem sicheren Raum für alle Identitäte"
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/cozy-concerts-by-hidden-stage-sessions-ev-15/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Beginn des Konzertes: Uhrzeit, die in der Veranstaltung als Beginn angegeben ist.Einlass: Eine halbe Stunde vor Beginn.Location: Wenn die Location geheim ist (bei Cozy Concerts in Wohnzimmern oder Gärten), wird 3 Tage v"
+  },
+  {
+    "titel": "LALALAR",
+    "datum": "29. Mai 2026",
+    "datum_raw": "2026-05-29T19:00+0200",
+    "ort": "Gebäude 9, Deutz-Mülheimer Straße 117",
+    "preis": "ab 25 €",
+    "link": "https://rausgegangen.de/events/lalalar-13/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "süperdisko & popanz präsentieren LALALAR (Istanbul, TR) live in Köln + Aylin Celik I Local Support + Süperdisko Aftershowparty + Acid KebaBBQFreitag, 29. Mai 2026 · Gebäude 9, KölnManche Bands wachsen mit jedem Kon"
   }
 ]
