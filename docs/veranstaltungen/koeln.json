@@ -10,16 +10,6 @@
     "teaser": "Jeden Donnerstag von 16 bis 21 Uhr gibt es am Rudolfplatz frische Wochenmarktprodukte und Street Food aus der Region zu entdecken. Dazu kannst du entspannten Weingenuss genießen und deinen Feierabend mit leckerem Essen d"
   },
   {
-    "titel": "CircusDanceFestival 2026",
-    "datum": "28. Mai 2026",
-    "datum_raw": "2026-05-28T16:00+0200",
-    "ort": "CircusDanceFestival | Festivalgelände, An der Schanz 6",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/circusdancefestival-2026-8/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim CircusDanceFestival 2026 rücken internationale Zirkus- und Tanzproduktionen das gemeinsame Erleben in den Mittelpunkt. Vom 16. bis 31. Mai kannst du dich auf über 50 Shows freuen, die mit urbanen Spielorten und offe"
-  },
-  {
     "titel": "KÖLNER KINO NÄCHTE 2026",
     "datum": "28. Mai 2026",
     "datum_raw": "2026-05-28T18:00+0200",
@@ -34,7 +24,7 @@
     "datum": "28. Mai 2026",
     "datum_raw": "2026-05-28T18:00+0200",
     "ort": "Zappes Süd, Dreikönigenstraße 23",
-    "preis": "ab 15 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/late-night-bingo-koln-mit-drag-queen-amy-strong-3/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Amy Strong bringt ihr Berliner Comedy-Bingo zurück nach Köln mit jedem Los eine Portion frecher Witz und jede Menge Glamour. Freu dich auf funkelnde Outfits, schrille Drag-Power und viele Lacher in einer XXL-Showrunde, d"
@@ -104,7 +94,7 @@
     "datum": "28. Mai 2026",
     "datum_raw": "2026-05-28T20:00+0200",
     "ort": "Zum Kornbrenner, Neusser Straße 171",
-    "preis": "ab 22 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/de-familich-im-kornbrenner-das-mitsing-comeback-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "„De Familich“ im Kornbrenner – Das Mitsing-Comeback! 🔥 Köln, aufgepasst: Dieses Event willst du nicht verpassen! 🔥 Nach vielen Jahren endlich wieder zurück im Kornbrenner:De Familich bringt die legendären Mitsingkonze"
@@ -164,7 +154,7 @@
     "datum": "28. Mai 2026",
     "datum_raw": "2026-05-28T20:00+0200",
     "ort": "YUCA, Bartholomäus-Schink-Straße 65",
-    "preis": "ab 29 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/ye-vagabonds-3/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Ye VagabondsPräsentiert von Emerged Agency 28.05.2026 Köln, Yuca Club Einlass: 19:00 Uhr | Beginn: 20:00 Uhr"
@@ -188,6 +178,16 @@
     "link": "https://rausgegangen.de/events/tag-der-nachbarschaft-banden-bilden-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "TAG DER NACHBAR*SCHAFT  Am 29.Mai wollen wir gemeinsam mit euch feiern, wie vielfältig unsere Nachbar*schaft ist! Dafür laden wir euch ein den Tag mit uns im Park zu verbringen🎉   Auf uns wartet ein tolles Angebot von "
+  },
+  {
+    "titel": "Summer Vibes & Streetfood: Feierabendmarkt Chlodwigplatz",
+    "datum": "29. Mai 2026",
+    "datum_raw": "2026-05-29T16:00+0200",
+    "ort": "Chlodwigplatz, Chlodwigplatz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/xxl-sonderausgabe-3-tage-feierabendmarkt-sudstadt-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Abends am Chlodwigplatz wird’s frühlingshaft und bunt: Streetfood auf die Hand, ein kühles Kölsch oder ein Aperol Spritz dazu – perfekt, um den Feierabend entspannt einzuläuten. Vor der Severinstorburg wartet der perfekt"
   },
   {
     "titel": "Kai und Funky von Ton Steine Scherben feat. Birte Volta  - 40 Jahre Oase Jubiläumsfest",
