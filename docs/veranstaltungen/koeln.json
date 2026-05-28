@@ -1,15 +1,5 @@
 [
   {
-    "titel": "PhilharmonieLunch",
-    "datum": "28. Mai 2026",
-    "datum_raw": "2026-05-28T12:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/philharmonielunch-81/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "WDR SinfonieorchesterDamen des NDR Vokalensembles | Damen des WDR Rundfunkchores | WDR Sinfonieorchester | Marie Jacquot: Mendelssohn BartholdyErleben Sie in der Kölner Philharmonie Ihre kleine Pause vom Alltag – inspir"
-  },
-  {
     "titel": "MarktTreff Rudolfplatz",
     "datum": "28. Mai 2026",
     "datum_raw": "2026-05-28T16:00+0200",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/paul-holland-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "\"Live entfalten seine Songs eine rohe Unmittelbarkeit: solo reduziert bis auf den Kern, als würde jedes Wort im Raum hängen bleiben – oder im Trio mit seinen langjährigen Weggefährten Jonas (Keys, Bass, Vocals, Gitar"
+  },
+  {
+    "titel": "RICHARD SCHINKEL WITZEL MAGES",
+    "datum": "29. Mai 2026",
+    "datum_raw": "2026-05-29T20:00+0200",
+    "ort": "Bistro Verde, Maternusstraße",
+    "preis": "ab 20 €",
+    "link": "https://rausgegangen.de/events/richard-schinkel-witzel-mages-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Marcel Richard – Vokal, Bass | Marcus Schinkel – Keys | Reiner Witzel – Saxes | Klaus Mages – Drums, Perkussion, singende Säge   Klaus Mages Den in Köln lebende „Trommeldiplomat“ Klaus Mages, dessen musikalischer Stil "
   }
 ]
