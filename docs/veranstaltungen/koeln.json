@@ -20,16 +20,6 @@
     "teaser": "Abends am Chlodwigplatz wird’s frühlingshaft und bunt: Streetfood auf die Hand, ein kühles Kölsch oder ein Aperol Spritz dazu – perfekt, um den Feierabend entspannt einzuläuten. Vor der Severinstorburg wartet der perfekt"
   },
   {
-    "titel": "Psychedelic Light & Sound",
-    "datum": "29. Mai 2026",
-    "datum_raw": "2026-05-29T16:00+0200",
-    "ort": "Klangkino, Hansaring 61",
-    "preis": "ab 55 €",
-    "link": "https://rausgegangen.de/events/psychedelic-light-sound-17/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die Psychedelic Light & Sound Journey verbindet eines der ältesten Instrumente der Erde mit den neusten Erkenntnissen und Technologien aus der Forschung.  Mit dem Einsatz des Gongs in Kombination mit der Roxiva-Lichttec"
-  },
-  {
     "titel": "KÖLNER KINO NÄCHTE 2026",
     "datum": "29. Mai 2026",
     "datum_raw": "2026-05-29T17:00+0200",
@@ -54,7 +44,7 @@
     "datum": "29. Mai 2026",
     "datum_raw": "2026-05-29T17:30+0200",
     "ort": "PURE SPACE - Yoga & Sound Studio, Barbarastraße 3-9 Block 2",
-    "preis": "ab 22 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/yin-ambient-18/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Hier erwarten dich Yin-Yoga-Haltungen, begleitet von Ambient-Klängen über unser Hi-Fi-Soundsystem.Das längere Verweilen in den Positionen wirkt auf Faszien und Gelenke, unterstützt Entspannung und innere Ruhe.Du wirs"
@@ -150,14 +140,14 @@
     "teaser": "Ab 19 Uhr startet die 90s Spring Break Party mit einem entspannten Meet-Up, bei dem du neue Leute triffst und deine Sprache zeigen kannst. Danach heizen zwei DJs auf zwei Floors mit Hits von den 90ern bis heute richtig e"
   },
   {
-    "titel": "Cozy Concerts by Hidden Stage Sessions e.V.",
+    "titel": "Cozy Concert - Geheimkonzert",
     "datum": "29. Mai 2026",
     "datum_raw": "2026-05-29T19:00+0200",
     "ort": "Der andere Buchladen, Ubierring 42",
     "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/cozy-concerts-by-hidden-stage-sessions-ev-15/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Beginn des Konzertes: Uhrzeit, die in der Veranstaltung als Beginn angegeben ist.Einlass: Eine halbe Stunde vor Beginn.Location: Wenn die Location geheim ist (bei Cozy Concerts in Wohnzimmern oder Gärten), wird 3 Tage v"
+    "teaser": "Einlass immer 30 Minuten vor Konzertbeginn.Die Cozy Concerts sind kleine, herzliche Abende – in Wohnzimmern, Gärten und anderen besonderen Orten, wo Musik wirklich nah geht. Intim, echt, unvergesslich. Musik, die alle w"
   },
   {
     "titel": "LALALAR",
@@ -348,6 +338,16 @@
     "link": "https://rausgegangen.de/events/shorts-on-wheels-kolner-kino-nachte-2/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Bei SHORTS ON WHEELS erkundest du mit dem Rad coole Ecken von Köln und entdeckst dabei kurze Filme, die Fassaden und Hinterhöfe in Popcorn-Kinos verwandeln. Die Mischung aus urbanem Flair und indie Kurzfilmkunst macht da"
+  },
+  {
+    "titel": "MitSingKunzät vür Naaksüüle, kostenloses Mitsingkonzert mit Timo Schwarzendahl",
+    "datum": "29. Mai 2026",
+    "datum_raw": "2026-05-29T21:30+0200",
+    "ort": "Peters am Hahnentor, Hahnenstraße 22",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/mitsingkunzat-vur-naaksuule-kostenloses-mitsingkonzert-mit-t-11/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "MitSingKunzät vür Naaksüüle, kostenloses Mitsingkonzert mit Timo SchwarzendahlEintritt frei"
   },
   {
     "titel": "Wyldhearts x Schrotty",
