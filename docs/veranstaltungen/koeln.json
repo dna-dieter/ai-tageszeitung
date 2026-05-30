@@ -50,16 +50,6 @@
     "teaser": "Wenn du Lust auf R&B, Disco und Afro-Sounds hast, bist du hier richtig. DJs wie Nikity und Meskla sorgen für eine bunte Mischung aus Soul und House, bei der du nicht stillstehen kannst. Es wird ein entspannter Tag voller"
   },
   {
-    "titel": "Unter meinem Bett",
-    "datum": "30. Mai 2026",
-    "datum_raw": "2026-05-30T14:00+0200",
-    "ort": "Stadthalle Köln, Jan-Wellem-Straße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/unter-meinem-bett-11/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die erfolgreiche Samplerreihe \" Unter meinem Bett\" aus dem Hause Oetinger begeistert seit Jahren Kinder und Eltern gleichermaßen – mit zehn Teilen, darunter ein Weihnachts- und ein Best-of-Album. Die Songs sind mal frech"
-  },
-  {
     "titel": "caballito",
     "datum": "30. Mai 2026",
     "datum_raw": "2026-05-30T15:00+0200",
@@ -98,16 +88,6 @@
     "link": "https://rausgegangen.de/events/second-circle-chasing-the-wonder-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Im Abschlusskonzert des Chores Second Circle wird das menschliche Gefühlsspektrum in den Mittelpunkt gerückt. Mit Liedern wie „Human Heart“ von Coldplay, „American Tune“ von Paul Simon und „Teardrop“ von Massive Attack"
-  },
-  {
-    "titel": "MILJÖ | VEEDELDELPHIA Tour 2026 | Köln (Waldbad Open-Air)",
-    "datum": "30. Mai 2026",
-    "datum_raw": "2026-05-30T17:30+0200",
-    "ort": "Waldbad Köln-Dünnwald, Peter-Baum-Weg 20",
-    "preis": "ab 32 €",
-    "link": "https://rausgegangen.de/events/miljo-veedeldelphia-tour-2026-koln-waldbad-open-air-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "VEEDELDELPHIA Tour 2026Nach ihrer ersten und auf Anhieb ausverkauften Deutschland-Tour 2024 rollen die fünfJungs vom Ö de Cologne wieder durch die Republik. Und sie haben was im Gepäck:VEEDELDELPHIA - die Stadt in der"
   },
   {
     "titel": "UNDERRATED VOL. III",
@@ -154,7 +134,7 @@
     "datum": "30. Mai 2026",
     "datum_raw": "2026-05-30T18:45+0200",
     "ort": "Vunky, Eigelstein 127-129",
-    "preis": "ab 11 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/buchprasentation-live-horbuch-love-peace-wir-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Carsten Müller lädt dich ein, hinter die Kulissen echter Paartherapien zu schauen – mit Live-Hörbuch und Schauspielern, die Gefühle und Konflikte echt spürbar machen. Deine Ohren werden vertraute Geschichten hören, die o"
@@ -204,7 +184,7 @@
     "datum": "30. Mai 2026",
     "datum_raw": "2026-05-30T19:00+0200",
     "ort": "Gaffel am Dom, Bahnhofsvorplatz 1",
-    "preis": "ab 16 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/tanz-in-den-sommer-was-auch-immer-live-im-gaffel-am-dom-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Der Sommer klopft an – und Was auch immer sorgt für den passenden Auftakt. Am 30. Mai bringt die Kölner Deutsch-Pop-Band ihre Songs in den Fassbierkeller des Gaffel am Dom und verwandelt den Gewölbekeller in eine Büh"
@@ -304,7 +284,7 @@
     "datum": "30. Mai 2026",
     "datum_raw": "2026-05-30T20:00+0200",
     "ort": "Tee de Cologne, Landmannstraße 30",
-    "preis": "ab 16 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/james-gray-live-bei-tee-de-cologne-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "James Gray ist ein moderner reisender Folksänger, der in den letzten zehn Jahren durch Kanada, Europa und Australien getourt ist. Mit Fingerstyle-Gitarre, eindringlich schöner Stimme und einem humorvollen Bühnenstil t"
@@ -344,7 +324,7 @@
     "datum": "30. Mai 2026",
     "datum_raw": "2026-05-30T20:00+0200",
     "ort": "Stereo Wonderland, Trierer Straße 65",
-    "preis": "ab 12 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/the-great-faults-live-in-koln-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Ein Indierock-Duo das Bühne seine Instrumente wechselt. Ergänzend wird in ihrem Live-Set immer wieder die Rolle des reinen Frontsängers, ganz ohne Instrument, interpretiert. Stets aus Liebe zum Moment und als Ausdruck"
@@ -368,6 +348,16 @@
     "link": "https://rausgegangen.de/events/maibach-musik-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "18+Am 30.5 gehen wir turnt in Köln. Mit Ketacat, Kuba, Klang der Nudel & Ultra Raphi, Orange digital, LaKeikolita, zzzack, ssswaos, Basement Twin und Special guests.Unsere zweite Trap Show in Köln. Wir turnen up mit ei"
+  },
+  {
+    "titel": "Wonderful Days The Classic Rave Festival Vol IX",
+    "datum": "30. Mai 2026",
+    "datum_raw": "2026-05-30T22:00+0200",
+    "ort": "Bootshaus, Auenweg 173",
+    "preis": "ab 40 €",
+    "link": "https://rausgegangen.de/events/wonderful-days-the-classic-rave-festival-vol-ix-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Mit „Wonderful Days – The Classic Rave Festival Vol. 9“ kehrt am 30. Mai 2026 eines der beliebtesten Retro-Rave-Events Deutschlands nach Köln zurück. Die Veranstaltung findet erneut im renommierten Bootshaus statt – ei"
   },
   {
     "titel": "SUGAR & SPICE",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/fi-x-estella-boersma-das-ist-das-ja-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "fi x Estella Boersma & Das Ist Das Ja kombinieren entspannte Sounds mit dem Flair einer lauen Sommernacht. Die Mischung aus elektronischen Klängen und live-Elementen macht das Event zu einem besonderen Moment unter Freun"
+  },
+  {
+    "titel": "Bergische Brahms",
+    "datum": "31. Mai 2026",
+    "datum_raw": "2026-05-31T11:00+0200",
+    "ort": "Wallraf-Richartz-Museum, Stiftersaal, Obenmarspforten 40",
+    "preis": "ab 9 €",
+    "link": "https://rausgegangen.de/events/bergische-brahms-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Programm Ewald Strässer Quintett für Klarinette, zwei Violinen, Viola und Violoncello G-Dur op. 34 1915Johannes Brahms Quintett für zwei Violinen, Viola, Violoncello und Klavier f- Moll Op. 34 1864Besetzung Tino Plene"
   }
 ]
