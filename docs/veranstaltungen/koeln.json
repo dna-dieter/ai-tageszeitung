@@ -1,15 +1,5 @@
 [
   {
-    "titel": "IT'S A SALE",
-    "datum": "30. Mai 2026",
-    "datum_raw": "2026-05-30T12:00+0200",
-    "ort": "IT'S A SALE, Venloer Straße 703",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/its-a-sale-4/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier findest du coole Streetwear und Surf-Styles von Marken wie Volcom, Reell und Brixton, alles vom Muster- und Lagerverkauf. Die Auswahl passt für Frauen, Männer und Kinder und eignet sich perfekt, um deinen Look sport"
-  },
-  {
     "titel": "FRÜHLINGSFEST in der minhafaktur",
     "datum": "30. Mai 2026",
     "datum_raw": "2026-05-30T12:00+0200",
@@ -30,14 +20,14 @@
     "teaser": "Beim Keramikfestival Köln zeigen lokale Künstler:innen ihre neuesten handgemachten Stücke und frischen Designs. Du kannst exklusive Unikate entdecken und selbst bei einem Workshop die Drehscheibe ausprobieren. Ein Tag vo"
   },
   {
-    "titel": "LIBERTÉ EGALITÉ BEYONCÉ - DAYPARTY",
+    "titel": "IT'S A SALE",
     "datum": "30. Mai 2026",
-    "datum_raw": "2026-05-30T14:00+0200",
-    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/liberte-egalite-beyonce-dayparty-0/",
+    "datum_raw": "2026-05-30T12:00+0200",
+    "ort": "IT'S A SALE, Venloer Straße 703",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/its-a-sale-4/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Wenn du Lust auf R&B, Disco und Afro-Sounds hast, bist du hier richtig. DJs wie Nikity und Meskla sorgen für eine bunte Mischung aus Soul und House, bei der du nicht stillstehen kannst. Es wird ein entspannter Tag voller"
+    "teaser": "Hier findest du coole Streetwear und Surf-Styles von Marken wie Volcom, Reell und Brixton, alles vom Muster- und Lagerverkauf. Die Auswahl passt für Frauen, Männer und Kinder und eignet sich perfekt, um deinen Look sport"
   },
   {
     "titel": "Praerie Frühlingsfest(ival) im Odonien mit Teenage Mutants, Konfusia b2b Maurice Mino, Sabura, Annett Gapstream, Aio, Tobi Dei uvm.",
@@ -48,6 +38,16 @@
     "link": "https://rausgegangen.de/events/praerie-fruhlings-club-festival-im-odonien-mit-space-92-alex-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Beim Praerie Frühlingsfest treffen Elektro und House auf offene Köpfe und lange Nächte. Von Teenage Mutants bis Sabura erwartet dich eine ausgelassene Rave-Party zwischen Open Air und Underground, die den Frühling in Köl"
+  },
+  {
+    "titel": "LIBERTÉ EGALITÉ BEYONCÉ - DAYPARTY",
+    "datum": "30. Mai 2026",
+    "datum_raw": "2026-05-30T14:00+0200",
+    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/liberte-egalite-beyonce-dayparty-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wenn du Lust auf R&B, Disco und Afro-Sounds hast, bist du hier richtig. DJs wie Nikity und Meskla sorgen für eine bunte Mischung aus Soul und House, bei der du nicht stillstehen kannst. Es wird ein entspannter Tag voller"
   },
   {
     "titel": "Unter meinem Bett",
@@ -70,16 +70,6 @@
     "teaser": "Am 30. Mai verwandelt sich das Piccola Essen Trinken in eine Bühne für alle, die Lust auf frische Sounds und coole Leute haben. White Seahorse Production bringt mit „caballito“ einen Abend, der gute Stimmung und gemeinsa"
   },
   {
-    "titel": "SimultanProjekte 2026 - Ausstellung wittern",
-    "datum": "30. Mai 2026",
-    "datum_raw": "2026-05-30T16:00+0200",
-    "ort": "Simultanhalle, Volkhovener Weg 209",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/simultanprojekte-2026-ausstellung-wittern-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "In dieser Ausstellung verbinden Mira Siering und Nadine Karl Kunst, Landschaft und Architektur zu fiktiven Räumen, die von Wetter und Zeit geprägt sind. Performative Einsprengsel von Darcy Neven, Philip Nürnberger und Mo"
-  },
-  {
     "titel": "SOS - STAGE OF SOLIDARITY",
     "datum": "30. Mai 2026",
     "datum_raw": "2026-05-30T16:00+0200",
@@ -88,6 +78,16 @@
     "link": "https://rausgegangen.de/events/sos-stage-of-solidarity-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Bei SOS – Stage of Solidarity treffen politische Texte auf energiereichen Punk und Hip-Hop, alles von Auszubildenden organisiert und mit klarem Einsatz für Demokratie und Menschenrechte. Hier geht’s um mehr als Musik, es"
+  },
+  {
+    "titel": "SimultanProjekte 2026 - Ausstellung wittern",
+    "datum": "30. Mai 2026",
+    "datum_raw": "2026-05-30T16:00+0200",
+    "ort": "Simultanhalle, Volkhovener Weg 209",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/simultanprojekte-2026-ausstellung-wittern-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "In dieser Ausstellung verbinden Mira Siering und Nadine Karl Kunst, Landschaft und Architektur zu fiktiven Räumen, die von Wetter und Zeit geprägt sind. Performative Einsprengsel von Darcy Neven, Philip Nürnberger und Mo"
   },
   {
     "titel": "Second Circle - \"Chasing the Wonder\"",
