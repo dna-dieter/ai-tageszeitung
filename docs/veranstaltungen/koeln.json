@@ -60,16 +60,6 @@
     "teaser": "Nikolai Rimski-Korsakows Scheherazade ist ein dramatisches Stück für Orchester. Das Klang Ensemble Köln bringt die abenteuerliche Musik auf die Bühne – und Lorna Bowden erzählt mit dem Schauspieler Christoph Bertram"
   },
   {
-    "titel": "Kölner Kantorei",
-    "datum": "31. Mai 2026",
-    "datum_raw": "2026-05-31T11:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 12 €",
-    "link": "https://rausgegangen.de/events/kolner-kantorei-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Johann Sebastian Bach: Messe h-Moll BWV 232Isabel Schicketanz | Alice Lackner | Florian Cramer | Jens Hamann | Kölner Kantorei | Kammerchor BachVokal | Barockorchester arcipelago | Georg Hage: BachSeit 2015 gehört Joha"
-  },
-  {
     "titel": "Live Piano Meditation 🎹 & Yin Yoga 🧘🏽‍♀️",
     "datum": "31. Mai 2026",
     "datum_raw": "2026-05-31T11:00+0200",
@@ -168,16 +158,6 @@
     "link": "https://rausgegangen.de/events/veedelperlen-veedeltour-2024-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Unsere liebsten Perlen versorgen dich wieder mit stimmgewaltigen Sounds - und das komplett for free! Am Sonntag heißt es: Ohren auf, denn die Veedelperlen bringen den Rathenauplatz zum Beben. Freu dich auf starke Stimmen"
-  },
-  {
-    "titel": "Kölner Kammerorchester",
-    "datum": "31. Mai 2026",
-    "datum_raw": "2026-05-31T16:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 19 €",
-    "link": "https://rausgegangen.de/events/kolner-kammerorchester-10/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "FrühlingsrauschDaniel Müller-Schott | Kölner Kammerorchester | Christoph Poppen: Mendelssohn Bartholdy | Schumann"
   },
   {
     "titel": "GONG SOUNDBATH & KUNDALINI KRIYA",
@@ -398,5 +378,25 @@
     "link": "https://rausgegangen.de/events/la-nuit-dafrique-from-sahel-to-rhine-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Over the Border 2026Am 1. Juni 2026 feiert das Over the Border Festival sein zehnjähriges Bestehen mit einem außergewöhnlichen Konzertabend in der Kölner Philharmonie. Er steht ganz im Zeichen eines musikalischen Dial"
+  },
+  {
+    "titel": "quickly, quickly",
+    "datum": "1. Jun 2026",
+    "datum_raw": "2026-06-01T20:00+0200",
+    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/quickly-quickly-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "quickly, quickly verbindet Folk-Feeling mit verspielten Soundexperimenten, die an Nick Drake und Dijon erinnern. Graham Jonson spielt mit unerwarteten Wendungen und schafft intime Momente voller Klangfarben. Freu dich au"
+  },
+  {
+    "titel": "Songs to Sing! - das MitSingDing mit Constantin Gold",
+    "datum": "1. Jun 2026",
+    "datum_raw": "2026-06-01T20:00+0200",
+    "ort": "die wohngemeinschaft, Richard-Wagner-Straße 39",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/songs-to-sing-das-mitsingding-mit-constantin-gold-14/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Constantin Gold lädt zum entspannten Karaoke für alle, die gern gemeinsam singen und Spaß an Chorharmonien haben. Hier gibt’s keinen perfekten Ton, sondern einfach Songs, die freuen und verbinden. Ideal, wenn du Lust auf"
   }
 ]
