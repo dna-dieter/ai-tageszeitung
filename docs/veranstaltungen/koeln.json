@@ -104,7 +104,7 @@
     "datum": "31. Mai 2026",
     "datum_raw": "2026-05-31T13:30+0200",
     "ort": "Melis Soul Café, Friesenwall 122",
-    "preis": "ab 21 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/coffeepaint-mit-kuchen-salatbuffett-4/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Im Melis Soul Café kannst du mit LeCrochelle eigene Postkarten im CoffeePainting gestalten – ganz ohne Vorkenntnisse. Während du kreativ wirst, stärkt dich ein leckeres Salatbuffet und Kuchen laden zum Austausch und Kenn"
@@ -134,7 +134,7 @@
     "datum": "31. Mai 2026",
     "datum_raw": "2026-05-31T15:00+0200",
     "ort": "Barness Crossing, Industriestraße 170",
-    "preis": "ab 0 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/soloduo-festival-nrw-friends-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Beim SoloDuo Festival nrw + friends entscheidet eine internationale Jury über fünf Förderpreise, die Geldpreise und Residenzen im Quartier am Hafen beinhalten. Dabei sorgen barrierefreie Angebote wie Audiodeskription und"
@@ -238,6 +238,16 @@
     "link": "https://rausgegangen.de/events/jamsession-open-stage-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Die offene Jamsession des Kulturbunker lädt zum gemeinsamen Musizieren und Jamen ein. Musiker*innen und Zuhörer*innen sind herzlich willkommen. Wir haben einen kleinen Grundstock an Kabeln und Technik. Instrumente bitt"
+  },
+  {
+    "titel": "Mitsingkonzert mit Flow on a mission",
+    "datum": "31. Mai 2026",
+    "datum_raw": "2026-05-31T18:00+0200",
+    "ort": "Garagen, Oskar-Jäger-Straße 179",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/mitsingkonzert-mit-flow-on-a-mission-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Kommt und singt mit uns!Flo hat seine Gitarre, loopstation und Stimme dabei. Mit seiner ausgiebigen Setlist gibt es genug Auswahl, um laut mitzusingen. Wer ganz mutig ist, darf sich auch selber auf die Bühne trauen - ei"
   },
   {
     "titel": "Nino D'Angelo - I miei meravigliosi anni ’80 …bis!",
@@ -388,15 +398,5 @@
     "link": "https://rausgegangen.de/events/la-nuit-dafrique-from-sahel-to-rhine-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Over the Border 2026Am 1. Juni 2026 feiert das Over the Border Festival sein zehnjähriges Bestehen mit einem außergewöhnlichen Konzertabend in der Kölner Philharmonie. Er steht ganz im Zeichen eines musikalischen Dial"
-  },
-  {
-    "titel": "quickly, quickly",
-    "datum": "1. Jun 2026",
-    "datum_raw": "2026-06-01T20:00+0200",
-    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/quickly-quickly-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "quickly, quickly verbindet Folk-Feeling mit verspielten Soundexperimenten, die an Nick Drake und Dijon erinnern. Graham Jonson spielt mit unerwarteten Wendungen und schafft intime Momente voller Klangfarben. Freu dich au"
   }
 ]
