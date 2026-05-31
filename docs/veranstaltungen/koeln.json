@@ -30,46 +30,6 @@
     "teaser": "Triff beim Bark Date bis zu 30 tolle Hunde aus dem Tierschutz und lerne sie ganz entspannt im Park kennen. ✨ Ob klein, groß, jung oder wuschelig – hier zählt der Charakter, und vielleicht funkt es ja direkt beim ersten D"
   },
   {
-    "titel": "Bergische Brahms",
-    "datum": "31. Mai 2026",
-    "datum_raw": "2026-05-31T11:00+0200",
-    "ort": "Wallraf-Richartz-Museum, Stiftersaal, Obenmarspforten 40",
-    "preis": "ab 9 €",
-    "link": "https://rausgegangen.de/events/bergische-brahms-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Programm Ewald Strässer Quintett für Klarinette, zwei Violinen, Viola und Violoncello G-Dur op. 34 1915Johannes Brahms Quintett für zwei Violinen, Viola, Violoncello und Klavier f- Moll Op. 34 1864Besetzung Tino Plene"
-  },
-  {
-    "titel": "Joy of Singing mehrstimmig - Workshop - einfach mitsingen in Köln-Sülz",
-    "datum": "31. Mai 2026",
-    "datum_raw": "2026-05-31T11:00+0200",
-    "ort": "St. Karl Borromäus Köln, Zülpicher Straße 275",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/joy-of-singing-mehrstimmig-workshop-einfach-mitsingen-in-kol-8/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bitte anmelden an: ninaherwig@gmx.de Wie immer gilt: Hemmungen und Frosch im Hals sind ebenso willkommen wie Gold in der Kehle. Falls du Infos zu weiteren Terminen möchtest, schreibe mir gerne eine Mail an: ninaherwig@g"
-  },
-  {
-    "titel": "Familienkonzert \"Scheherazade\"",
-    "datum": "31. Mai 2026",
-    "datum_raw": "2026-05-31T11:00+0200",
-    "ort": "VENTANA, Elisabeth-von-Mumm-Platz 1",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/kinderkonzert-scheherazade-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Nikolai Rimski-Korsakows Scheherazade ist ein dramatisches Stück für Orchester. Das Klang Ensemble Köln bringt die abenteuerliche Musik auf die Bühne – und Lorna Bowden erzählt mit dem Schauspieler Christoph Bertram"
-  },
-  {
-    "titel": "Live Piano Meditation 🎹 & Yin Yoga 🧘🏽‍♀️",
-    "datum": "31. Mai 2026",
-    "datum_raw": "2026-05-31T11:00+0200",
-    "ort": "Studio Geschmeidig, Heinrich-Brüning-Straße 8",
-    "preis": "ab 69 €",
-    "link": "https://rausgegangen.de/events/live-piano-meditation-yin-yoga-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Live Piano Meditation 🎹 & Yin Yoga 🧘🏽‍♀️ 📆 Sonntag, 31.05.🕚 11:00 – 14:00 Uhr📍 geschmeidig Studio Köln Südstadt/Zollstock Was dich erwartet:•⁠  ⁠Tief entspannendes & nährendes Yin Yoga•⁠  ⁠Geführte Meditation begleit"
-  },
-  {
     "titel": "Frühlingsfest in der Minhafaktur",
     "datum": "31. Mai 2026",
     "datum_raw": "2026-05-31T12:00+0200",
@@ -398,5 +358,45 @@
     "link": "https://rausgegangen.de/events/songs-to-sing-das-mitsingding-mit-constantin-gold-14/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Constantin Gold lädt zum entspannten Karaoke für alle, die gern gemeinsam singen und Spaß an Chorharmonien haben. Hier gibt’s keinen perfekten Ton, sondern einfach Songs, die freuen und verbinden. Ideal, wenn du Lust auf"
+  },
+  {
+    "titel": "Songs To Sing | Der Kneipenchor",
+    "datum": "1. Jun 2026",
+    "datum_raw": "2026-06-01T20:00+0200",
+    "ort": "die wohngemeinschaft, Richard-Wagner-Straße 39",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/songs-to-sing-der-kneipenchor-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der Kneipenchor lädt mit Songs to Sing zum gemeinsamen Singen ein – angeleitet vom bekannten Chorfluencer Constantin Gold. Hier kannst du ganz ungezwungen mitmachen und Musik als Gemeinschaft erleben. Einfach vorbeikomme"
+  },
+  {
+    "titel": "Kostenloser Trompeten-Workshop - Jetzt ausprobieren!",
+    "datum": "2. Jun 2026",
+    "datum_raw": "2026-06-02T17:00+0200",
+    "ort": "Musik- und Kunstschule ImKlang, Waltherstraße 80",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/kostenloser-trompeten-workshop-jetzt-ausprobieren-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Stell dir vor, du hältst zum ersten Mal eine Trompete in der Hand – und merkst: Das ist es.Es fängt heute an – mit einer Stunde, die nichts kostet.Am 2. Juni öffnen wir die Türen der Musik- und Kunstschule ImKlang fu"
+  },
+  {
+    "titel": "Psychedelic Light & Sound",
+    "datum": "2. Jun 2026",
+    "datum_raw": "2026-06-02T18:00+0200",
+    "ort": "Klangkino, Hansaring 61",
+    "preis": "ab 55 €",
+    "link": "https://rausgegangen.de/events/psychedelic-light-sound-18/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Psychedelic Light & Sound Journey verbindet eines der ältesten Instrumente der Erde mit den neusten Erkenntnissen und Technologien aus der Forschung.  Mit dem Einsatz des Gongs in Kombination mit der Roxiva-Lichttec"
+  },
+  {
+    "titel": "Frei Töne Konzert",
+    "datum": "2. Jun 2026",
+    "datum_raw": "2026-06-02T19:00+0200",
+    "ort": "Cellitinnen-Krankenhaus St. Marien, Kunibertskloster 11-13",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/frei-tone-konzert-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "In unserer Konzertreihe \"Frei Töne - von früher Musik bis Jazz\" steht am 2. Juni 2026 ein Jazz Konzert auf dem Programm: Wir freuen uns auf Kateryna Kravchenko (Jazz-Gesang)Béla Bluche (Jazz-Kontrabass)Mit Werken von "
   }
 ]
