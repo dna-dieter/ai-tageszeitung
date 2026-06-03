@@ -50,16 +50,6 @@
     "teaser": "Die Psychedelic Light & Sound Journey verbindet eines der ältesten Instrumente der Erde mit den neusten Erkenntnissen und Technologien aus der Forschung.  Mit dem Einsatz des Gongs in Kombination mit der Roxiva-Lichttec"
   },
   {
-    "titel": "Saisoneröffnung: Mamma Mia! // Kultfilm",
-    "datum": "3. Jun 2026",
-    "datum_raw": "2026-06-03T19:00+0200",
-    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/saisoneroeffnung-mamma-mia-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Sonne, Dom-Blick und ABBA – was will man mehr? Beim naturstorm-openairkino steht Mamma Mia! auf dem Programm: Die humorvolle Suche von Sophie nach ihrem Vater entführt dich zu sommerlichen Tagebucherinnerungen auf einer "
-  },
-  {
     "titel": "Another Open Stage",
     "datum": "3. Jun 2026",
     "datum_raw": "2026-06-03T19:00+0200",
@@ -70,16 +60,6 @@
     "teaser": "Bei der Open Stage im kleinen Turistarama, wird das Kino zum Ort für Begegnung und kreativer Entfaltung - 6 Acts, jeweils drei Songs. Da ist für jede:n was dabei."
   },
   {
-    "titel": "Forever Young – White Edition | Mittwoch vor Feiertag 🎉",
-    "datum": "3. Jun 2026",
-    "datum_raw": "2026-06-03T19:00+0200",
-    "ort": "Goldfinger, Friesenstraße 54",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/forever-young-white-edition-mittwoch-vor-feiertag-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier dreht sich alles um die Kult-Hits der 80er, 90er und 2000er. Bei der White Edition triffst du auf entspannte Terrace-Momente und ein Aperitivo Special, das perfekt auf den Start in den Feiertag einstimmt 🤍🫂"
-  },
-  {
     "titel": "Nachtflohmarkt SIP & THRIFT",
     "datum": "3. Jun 2026",
     "datum_raw": "2026-06-03T19:00+0200",
@@ -88,6 +68,16 @@
     "link": "https://rausgegangen.de/events/sipthrift-nachtflohmarkt-2/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Thriftshoppen während man nen kühlen Drink genießt und im Hintergrund läuft nen DJ Set. Sip & Thrift geht in die nächste Runde, mit dem coolsten Flohmarkt in Ehrenfeld 🪩✨"
+  },
+  {
+    "titel": "Saisoneröffnung: Mamma Mia! // Kultfilm",
+    "datum": "3. Jun 2026",
+    "datum_raw": "2026-06-03T19:00+0200",
+    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/saisoneroeffnung-mamma-mia-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Sonne, Dom-Blick und ABBA – was will man mehr? Beim naturstorm-openairkino steht Mamma Mia! auf dem Programm: Die humorvolle Suche von Sophie nach ihrem Vater entführt dich zu sommerlichen Tagebucherinnerungen auf einer "
   },
   {
     "titel": "Elimako Silent Concert | At The B-Sites",
@@ -200,6 +190,16 @@
     "teaser": "...per forza d'amorerömische Kompositionen um 170090 Min | Ohne Pauserömische Kompositionen um 1700 von Pasquini, Scarlatti, Ariosti, Legrenzi & HändelThomas Bonni Bassbariton Lalita Svete Violine Nataliia Neshmonina "
   },
   {
+    "titel": "Forever Young – White Edition | Mittwoch vor Feiertag 🎉",
+    "datum": "3. Jun 2026",
+    "datum_raw": "2026-06-03T21:15+0200",
+    "ort": "Goldfinger, Friesenstraße 54",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/forever-young-white-edition-mittwoch-vor-feiertag-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Hier dreht sich alles um die Kult-Hits der 80er, 90er und 2000er. Bei der White Edition triffst du auf entspannte Terrace-Momente und ein Aperitivo Special, das perfekt auf den Start in den Feiertag einstimmt 🤍🫂"
+  },
+  {
     "titel": "Disco Babes X BOIze CTC PARTY - Der offizielle COME-TOGETHER-CUP Warm Up Party 2026",
     "datum": "3. Jun 2026",
     "datum_raw": "2026-06-03T22:00+0200",
@@ -224,7 +224,7 @@
     "datum": "3. Jun 2026",
     "datum_raw": "2026-06-03T23:00+0200",
     "ort": "Ursprung fi, Widdersdorfer Straße 246",
-    "preis": "kostenlos",
+    "preis": "ab 25 €",
     "link": "https://rausgegangen.de/events/fi-x-stil-vor-talent-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Am 3. Juni mischt fi x Stil vor Talent elektronische Sounds mit frischen Beats von CIOZ, ELISA ELISA und Oliver Koletzki. Gemeinsam bringen sie die Nacht zum Leuchten, unterstützt von Fabian Krooss und KOTOE. Freu dich a"
