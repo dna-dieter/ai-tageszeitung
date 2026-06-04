@@ -60,16 +60,6 @@
     "teaser": "Feel the Flow, Feel the ConnectionErlebe einen unvergesslichen Tag voller Musik, Bewegung und Emotion! Der Urban Kizomba Day Cologne  ist die perfekte Gelegenheit, Urban Kiz zu entdecken, zu vertiefen und gemeinsam zu fe"
   },
   {
-    "titel": "Richard Wagner: Götterdämmerung",
-    "datum": "4. Jun 2026",
-    "datum_raw": "2026-06-04T16:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/richard-wagner-gotterdammerung-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Dresdner Festspielorchester | Concerto Köln | Kent NaganoDas Finale des »Rings«: Kent Nagano, das Dresdner Festspielorchester und Concerto Köln vollenden Wagners Meisterwerk im Originalklang.Der Ring ist geschmiedet. M"
-  },
-  {
     "titel": "Golden Hour at Carls Café Tagesbar",
     "datum": "4. Jun 2026",
     "datum_raw": "2026-06-04T17:00+0200",
@@ -200,6 +190,16 @@
     "teaser": "Begib dich auf eine Reise durch die Welten der Frequenzen und lass dich von ihren Wirkungen auf dich überraschen und faszinieren. Hier ist die Fusion von Entertainment, Meditation und tiefen Bewusstseinszuständen Progr"
   },
   {
+    "titel": "Groove Cologne - Concert & Jam-Session",
+    "datum": "4. Jun 2026",
+    "datum_raw": "2026-06-04T21:00+0200",
+    "ort": "Jameson Distillery Pub, Friesenstr 30-40",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/groove-cologne-concert-jam-session-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Our Jam-Session will be opened by Maude N'Diaye playing with our house-band. If you like to jam, bring your instrument or use ours and lets rock into the night! Everybody and every style is welcome!!! Our equipment for y"
+  },
+  {
     "titel": "Original Egerländer Festival",
     "datum": "5. Jun 2026",
     "datum_raw": "2026-06-05T00:00+0200",
@@ -270,7 +270,7 @@
     "teaser": "Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge entdecken Spaß macht "
   },
   {
-    "titel": "Geheimkonzert Köln #47 by Rausgegangen | Open Air",
+    "titel": "Geheimkonzert Köln #47 OPEN AIR by Rausgegangen",
     "datum": "5. Jun 2026",
     "datum_raw": "2026-06-05T18:30+0200",
     "ort": "Fühlinger See, Oranjehofstraße 103",
