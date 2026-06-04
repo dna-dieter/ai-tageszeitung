@@ -14,7 +14,7 @@
     "datum": "4. Jun 2026",
     "datum_raw": "2026-06-04T12:00+0200",
     "ort": "Zappes Zentrale, Roonstraße 71",
-    "preis": "ab 11 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/offdays-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "TØM RASS nimmt dich mit auf eine entspannte Reise von House bis Hip-Hop, ganz ohne Zeitlimit. Die perfekte Gelegenheit, den Tag langsam zu genießen und zwischendurch einen Aperol oder Spritz zu schlürfen🙂"
@@ -260,16 +260,6 @@
     "teaser": "Nach einem nahezu ausverkauften ersten Event geht „Giu & Friends“ in die zweite Runde und bringt erneut die spannendsten Artists der Underground-Szene zusammen.„Giu & Friends“ versteht sich als Plattform für junge Artis"
   },
   {
-    "titel": "GONG WAH LIVE @ ODONIEN OPEN AIR KÖLN",
-    "datum": "5. Jun 2026",
-    "datum_raw": "2026-06-05T18:00+0200",
-    "ort": "Odonien, Hornstraße 85",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/gong-wah-live-odonien-open-air-koln-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "GONG WAH is a German alternative rock music band from Cologne, known for their wild Fuzzwave sound. A mix of distorted guitars, 80s New Wave, Shoegaze and a touch of Synth Pop. With the unmistakable voice of Inga Nelke, "
-  },
-  {
     "titel": "Odonische Freitagsbühne",
     "datum": "5. Jun 2026",
     "datum_raw": "2026-06-05T18:00+0200",
@@ -288,6 +278,16 @@
     "link": "https://rausgegangen.de/events/geheimkonzert-koln-47-by-rausgegangen-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Na Hallo! Es ist wieder so weit: Ein Abend voller Überraschung - denn wer auf der Bühne steht, bleibt bis zum ersten Ton geheim. Wir hatten schon Blond, Berq, Ennio, Futurebae, Jassin, Anais, Katha Pauer & viele mehr zu "
+  },
+  {
+    "titel": "GONG WAH LIVE @ ODONIEN OPEN AIR KÖLN",
+    "datum": "5. Jun 2026",
+    "datum_raw": "2026-06-05T18:30+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/gong-wah-live-odonien-open-air-koln-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "— free entry, loud guitars & good vibes only w/ „this:array“ & „Take Off To Nova“ — GONG WAH is a German alternative rock music band from Cologne, known for their wild Fuzzwave sound. A mix of distorted guitars, 80s New "
   },
   {
     "titel": "Cozy Concert",
