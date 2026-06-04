@@ -50,16 +50,6 @@
     "teaser": "Am 4. Juni bringt Pan di Bank mit einer All-White-Day-Party verschiedene Sounds von Dancehall bis Afrobeats zusammen. DJs wie Ebi Brown und LOLO SACE sorgen für Musik, die die Stimmung bis in den Abend trägt. Pack dein w"
   },
   {
-    "titel": "Urban Kizomba Day Cologne",
-    "datum": "4. Jun 2026",
-    "datum_raw": "2026-06-04T14:00+0200",
-    "ort": "Lutherkirche Südstadt, Martin-Luther-Platz 2-4",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/urban-kizomba-day-cologne-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Feel the Flow, Feel the ConnectionErlebe einen unvergesslichen Tag voller Musik, Bewegung und Emotion! Der Urban Kizomba Day Cologne  ist die perfekte Gelegenheit, Urban Kiz zu entdecken, zu vertiefen und gemeinsam zu fe"
-  },
-  {
     "titel": "Golden Hour at Carls Café Tagesbar",
     "datum": "4. Jun 2026",
     "datum_raw": "2026-06-04T17:00+0200",
@@ -78,16 +68,6 @@
     "link": "https://rausgegangen.de/events/aidas-rivalin-nach-giuseppe-verdi-5/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Aidas RivalinMit Musik von Giuseppe VerdiEine Koproduktion mit der Oper Köln Idee Dalia Schaechter | Musikalische Leitung und Arrangement Theresia Renelt | Regie Arne Böge | Dramaturgie René Michaelsen und Stephan Ste"
-  },
-  {
-    "titel": "Jure Pukl Analog AI, Mrk & Širom",
-    "datum": "4. Jun 2026",
-    "datum_raw": "2026-06-04T18:00+0200",
-    "ort": "Stadtgarten Köln, Venloer Straße 40",
-    "preis": "ab 12 €",
-    "link": "https://rausgegangen.de/events/close-up-slovenia-jazz-beyond-w-jure-pukl-analog-ai-mrk-siro-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "18:00 I Festival I Konzertsaal + JAKI Anfang Juni richten wir den Blick nach Slowenien: Das eintägige Festival Close Up Slovenia: Jazz & Beyond stellt die kreative und überraschend vielfältige zeitgenössische Musiksz"
   },
   {
     "titel": "Flo Wurm EP Release Konzert",
@@ -124,7 +104,7 @@
     "datum": "4. Jun 2026",
     "datum_raw": "2026-06-04T19:30+0200",
     "ort": "Kulturraum 405 e.V., Venloer Straße 405",
-    "preis": "ab 0 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/open-stage-im-kulturraum-405-111/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Wenn du schon immer wusstest, dass du auf die Bühne gehörst, dann ist genau jetzt deine Chance. Pack dein Instrument ein und Bühne frei für dich bei der Open Stage im Kulturraum 405!!! 🎙🎶🎸"
@@ -188,16 +168,6 @@
     "link": "https://rausgegangen.de/events/prime-time-sound-journey-6/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Begib dich auf eine Reise durch die Welten der Frequenzen und lass dich von ihren Wirkungen auf dich überraschen und faszinieren. Hier ist die Fusion von Entertainment, Meditation und tiefen Bewusstseinszuständen Progr"
-  },
-  {
-    "titel": "Groove Cologne - Concert & Jam-Session",
-    "datum": "4. Jun 2026",
-    "datum_raw": "2026-06-04T21:00+0200",
-    "ort": "Jameson Distillery Pub, Friesenstr 30-40",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/groove-cologne-concert-jam-session-4/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Our Jam-Session will be opened by Maude N'Diaye playing with our house-band. If you like to jam, bring your instrument or use ours and lets rock into the night! Everybody and every style is welcome!!! Our equipment for y"
   },
   {
     "titel": "Original Egerländer Festival",
@@ -398,5 +368,35 @@
     "link": "https://rausgegangen.de/events/singalong-das-grosse-mitsing-event-hits-der-80er-90er-44/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Bist du bereit für ein tolles Mitsing-Event in Köln? SingAlong - Das große Mitsing-Event lädt dich ein, gemeinsam mit Hunderten von Menschen die größten 80er und 90er-Hits zu singen!Die Songauswahl und das Moderator-"
+  },
+  {
+    "titel": "MitSingKunzät vür Naaksüüle, kostenloses Mitsingkonzert mit Katja Henz",
+    "datum": "5. Jun 2026",
+    "datum_raw": "2026-06-05T21:30+0200",
+    "ort": "Peters am Hahnentor, Hahnenstraße 22",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/mitsingkunzat-vur-naaksuule-kostenloses-mitsingkonzert-mit-k-8/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "MitSingKunzät vür Naaksüüle, kostenloses Mitsingkonzert mit Katja Henz Eintritt frei"
+  },
+  {
+    "titel": "Kölner Chaos Orchester | Parade",
+    "datum": "6. Jun 2026",
+    "datum_raw": "2026-06-06T12:00+0200",
+    "ort": "Innerer Grüngürtel, Innerer Grüngürtel",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/kolner-chaos-orchester-parade-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Kölner Chaos Parade durch den GrüngürtelDas Kölner Chaos Orchester lädt am 6. Juni 2026 zu einer musikalischen Entdeckungstour ein. Ab 12:00 zieht die Parade von Richtung Subbelrather Straße als akustische Prozessio"
+  },
+  {
+    "titel": "Wasi Kölle Lateinamerikaniches Kultur Festival",
+    "datum": "6. Jun 2026",
+    "datum_raw": "2026-06-06T12:00+0200",
+    "ort": "Köln- Südstadt, Severinskirchplatz, Severinstr.",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/wasi-kolle-lateinamerikaniches-kultur-festival-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wir freuen uns, euch zu informieren:3. Wasi Kölle Festival 📅 06. Juni 2026 🕛 Von 12:00 bis 21:00 Uhr📍 Severinskirchplatz 50678 Köln – Südstadt⸻ 💛 Freier Eintritt – Open Air Event🌎✨ Ein Stück Lateinamerika unter freie"
   }
 ]
