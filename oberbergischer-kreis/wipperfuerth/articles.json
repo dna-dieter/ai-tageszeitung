@@ -5069,6 +5069,18 @@
     "fetched": "2026-05-05T21:23:25.225515"
   },
   {
+    "id": "1c7b5dc425ca",
+    "title": "Information",
+    "summary": "Aufgrund einer technischen Störung ist die Stadtverwaltung aktuell telefonisch nicht erreichbar.",
+    "link": "https://www.wipperfuerth.de/detailansicht/information.html",
+    "published": "Fri, 05 Jun 2026 09:18:22 +0200",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-06-05T08:51:50.680568"
+  },
+  {
     "id": "c5cd277c3b43",
     "title": "Neue Verkehrsführung Hochstraße",
     "summary": "Hochstraße künftig nur noch über die Untere Straße befahrbar.",
