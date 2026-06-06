@@ -4,20 +4,10 @@
     "datum": "6. Jun 2026",
     "datum_raw": "2026-06-06T12:00+0200",
     "ort": "Fühlinger See, Oranjehofstraße 103-105",
-    "preis": "kostenlos",
+    "preis": "ab 32 €",
     "link": "https://rausgegangen.de/events/neondreams-x-artofurbanlife-open-air-fuhlingersee-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Am Fühlinger See erwartet dich ein Tag voller vielfältiger Sounds von lokalen DJs, die elektronische Musik mit einer urbanen Note verbinden. Von entspannter Trance bis zu mitreißendem Bounce – hier findest du Musik, die "
-  },
-  {
-    "titel": "Kölner Chaos Orchester | Parade",
-    "datum": "6. Jun 2026",
-    "datum_raw": "2026-06-06T12:00+0200",
-    "ort": "Innerer Grüngürtel, Innerer Grüngürtel",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/kolner-chaos-orchester-parade-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Kölner Chaos Parade durch den GrüngürtelDas Kölner Chaos Orchester lädt am 6. Juni 2026 zu einer musikalischen Entdeckungstour ein. Ab 12:00 zieht die Parade von Richtung Subbelrather Straße als akustische Prozessio"
   },
   {
     "titel": "Wasi Kölle Lateinamerikaniches Kultur Festival",
@@ -114,7 +104,7 @@
     "datum": "6. Jun 2026",
     "datum_raw": "2026-06-06T19:00+0200",
     "ort": "Blue Shell, Luxemburger Straße 32",
-    "preis": "ab 11 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/fritz-band-ryoko-valor-absteige-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Sa.,06.06.26Einlass 19 Uhr  Beginn 19:30 Uhr Blue Shell Live:  FRITZ (+Band) ‧ RYOKO VALOR ‧ ABSTEIGE  fritz(+band)Indie Rock/Pop fritz vereint Einflüsse aus Indie-Rock und Pop zu einem eigenständigen rohen Sound, der "
@@ -134,7 +124,7 @@
     "datum": "6. Jun 2026",
     "datum_raw": "2026-06-06T19:30+0200",
     "ort": "Zentrum für Kunst und Urbanistik, ZK/U Berlin, Siemensstr. 27,10551 Berlin",
-    "preis": "ab 20 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/stoerenfred-friends-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Stoerenfred veröffentlicht sein erstes Soloalbum - Und das muss gefeiert werden! Zu diesem Anlass versammelt sich die Creme de la Creme des berliner Indie-Pop-Punk-Undergrounds am 06.06.2026 im Zentrum für Kunst und Ur"
@@ -194,7 +184,7 @@
     "datum": "6. Jun 2026",
     "datum_raw": "2026-06-06T20:00+0200",
     "ort": "Theater in der Filmdose, Zülpicher Straße 39",
-    "preis": "ab 11 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/grandlux/",
     "quelle": "Rausgegangen Köln",
     "teaser": "After a brief 20-year sabbatical devoted to accumulating wealth and perpetuating the species, the five members of GrandLux finally dusted off their instruments and returned to the rehearsal studios to tackle once again t"
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/bachelorkonzert-simon-eckert-jazz-orchestra-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Konzert | 20:00 | KonzertsaalErstmalig, einzigartig und wahrscheinlich einmalig tritt das Simon Eckert Jazz Orchestra, ein Ensemble aus Studierenden und bereits renommierten Jazzmusiker:innen, im Rahmen des Bachelorkonze"
+  },
+  {
+    "titel": "Die Toten Hosen • Trink aus! Wir müssen gehen - Tour 2026",
+    "datum": "7. Jun 2026",
+    "datum_raw": "2026-06-07T20:00+0200",
+    "ort": "Rockhal, 5 Avenue du Rock'n'Roll",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/die-toten-hosen-trink-aus-wir-mussen-gehen-tour-2026-6/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Trink aus! Wir müssen gehen – Tour 2026 Nach drei Jahren Pause gehen die Toten Hosen wieder auf eine große Tournee und kündigen Stadion- und Open-Air-Konzerte anIm fünften Jahrzehnt nach unserer Gründung verspüren w"
   }
 ]
