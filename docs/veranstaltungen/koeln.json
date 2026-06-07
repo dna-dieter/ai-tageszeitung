@@ -30,16 +30,6 @@
     "teaser": "Bei der Kölner Weinwoche bekommst du zwei Wochen lang eine feine Auswahl von 30 Winzer:innen aus neun deutschen Anbaugebieten auf den Tisch, darunter Pfalz und Mosel. Neben spannenden Weinen wie Riesling und Spätburgunde"
   },
   {
-    "titel": "Jugendchor St. Stephan",
-    "datum": "7. Jun 2026",
-    "datum_raw": "2026-06-07T11:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 12 €",
-    "link": "https://rausgegangen.de/events/jugendchor-st-stephan-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Singen macht glücklich – Sommerkonzert 2026Kölner Jugendchor St. Stephan | Lucky Kids – Kinder- und Jugendchor der Rheinischen Musikschule Köln | Michael Kokott: Singen macht glücklich - Sommerkonzert 2026Dass Singen"
-  },
-  {
     "titel": "Souvenir de Florence",
     "datum": "7. Jun 2026",
     "datum_raw": "2026-06-07T11:00+0200",
@@ -388,6 +378,16 @@
     "link": "https://rausgegangen.de/events/julian-pregardien-kristian-bezuidenhout-2/",
     "quelle": "Rausgegangen Köln",
     "teaser": "»Die schöne Müllerin«Tenor trifft Hammerklavier: Schuberts Liederzyklus »Die schöne Müllerin« in intimem KlangSchuberts berühmter Liederzyklus »Die schöne Müllerin« in prominenter Besetzung: Tenor Julian Prégardi"
+  },
+  {
+    "titel": "Psychedelic Light & Sound",
+    "datum": "9. Jun 2026",
+    "datum_raw": "2026-06-09T20:00+0200",
+    "ort": "Klangkino, Hansaring 61",
+    "preis": "ab 55 €",
+    "link": "https://rausgegangen.de/events/psychedelic-light-sound-20/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Psychedelic Light & Sound Journey verbindet eines der ältesten Instrumente der Erde mit den neusten Erkenntnissen und Technologien aus der Forschung.  Mit dem Einsatz des Gongs in Kombination mit der Roxiva-Lichttec"
   },
   {
     "titel": "Kopfkino Vol.22: Comedy • Poetry • Live Musik in Köln \"Open Air\"",
