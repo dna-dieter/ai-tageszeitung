@@ -30,26 +30,6 @@
     "teaser": "Bei der Kölner Weinwoche bekommst du zwei Wochen lang eine feine Auswahl von 30 Winzer:innen aus neun deutschen Anbaugebieten auf den Tisch, darunter Pfalz und Mosel. Neben spannenden Weinen wie Riesling und Spätburgunde"
   },
   {
-    "titel": "Souvenir de Florence",
-    "datum": "7. Jun 2026",
-    "datum_raw": "2026-06-07T11:00+0200",
-    "ort": "Wallraf-Richartz-Museum, Stiftersaal, Obenmarspforten 40",
-    "preis": "ab 9 €",
-    "link": "https://rausgegangen.de/events/souvenir-de-florence-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": " Programm Antonín Dvořák Streichsextett A-Dur op. 48 1878Peter Tschaikowsky Streichsextett d-Moll op. 70 »Souvenir de Florence« 1890–92Besetzung Jordan Ofiesh Violine Marie Šparovec Violine Felix Weischedel Viola Ric"
-  },
-  {
-    "titel": "Deepejasser Kirmes",
-    "datum": "7. Jun 2026",
-    "datum_raw": "2026-06-07T11:00+0200",
-    "ort": "Mauritiuskirchplatz, Mauritiuskirchplatz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/deepejasser-kirmes-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Am Wochenende nach Fronleichnam wird vom 5. bis zum 7. Juni 2026 auf dem Mauritiuskirchplatz in der Altstadt-Süd die Deepejasser Kirmes gefeiert. Auf dem Programm stehen unter anderem der Jazz- und Bluesabend am Freitag"
-  },
-  {
     "titel": "Sunday Cinema Brunch",
     "datum": "7. Jun 2026",
     "datum_raw": "2026-06-07T11:30+0200",
@@ -60,14 +40,14 @@
     "teaser": "Jeden dritten Sonntag zeigt der Sunday Cinema Brunch spannende Filme rund um Nähe und Distanz – vom Geheimtipp bis zum verpassten Meisterwerk. Genieße Kaffee, Croissant und Austausch in gemütlicher Wohnzimmeratmosphäre, "
   },
   {
-    "titel": "Ich würde so gerne mal im Chor singen, aber . . .",
+    "titel": "Marmor, Quecksilber, Nebel. Woraus die Welt gemacht ist. Mit Judith Schalansky",
     "datum": "7. Jun 2026",
-    "datum_raw": "2026-06-07T14:30+0200",
-    "ort": "VHS Studienhaus, Cäcilienstraße 35",
-    "preis": "ab 22 €",
-    "link": "https://rausgegangen.de/events/ich-wurde-so-gerne-mal-im-chor-singen-aber-1/",
+    "datum_raw": "2026-06-07T17:00+0200",
+    "ort": "Filmforum NRW im Museum Ludwig, Bischofsgartenstraße 1",
+    "preis": "ab 21 €",
+    "link": "https://rausgegangen.de/events/marmor-quecksilber-nebel-woraus-die-welt-gemacht-ist-mit-jud-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Für Menschen, die das Singen im Chor ausprobieren und ihre Stimme kennenlernen möchtenDass es großen Spaß macht, in einem Chor zu singen, ist bekannt. Oft jedoch verhindern die verschiedensten „Abers“ den ersten Schrit"
+    "teaser": "Judith Schalansky geht in ihrem neuen Buch Marmor, Quecksilber, Nebel auf eine Reise durch die materiellen Bedingungen unserer Welt. Ausgehend von einem fast 17 Tonnen schweren Marmorblock, der sie nach einer Fährfahrt "
   },
   {
     "titel": "Workshop & Social Night für Paare & Alleinstehende,  Tanzen verbindet",
@@ -388,6 +368,26 @@
     "link": "https://rausgegangen.de/events/psychedelic-light-sound-20/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Die Psychedelic Light & Sound Journey verbindet eines der ältesten Instrumente der Erde mit den neusten Erkenntnissen und Technologien aus der Forschung.  Mit dem Einsatz des Gongs in Kombination mit der Roxiva-Lichttec"
+  },
+  {
+    "titel": "SEAFRET",
+    "datum": "9. Jun 2026",
+    "datum_raw": "2026-06-09T20:00+0200",
+    "ort": "Gebäude 9, Deutz-Mülheimer Straße 117",
+    "preis": "ab 28 €",
+    "link": "https://rausgegangen.de/events/seafret-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "“Erwarte das Unerwartete”: So lässt sich die Karriere von Seafret wohl am besten beschreiben. In über 15 Jahren Bandgeschichte hat das britische Indie-Rock-Duo so einiges erlebt - und dabei mit herzerwärmender Musik i"
+  },
+  {
+    "titel": "büdchenpop in concert 🎶",
+    "datum": "10. Jun 2026",
+    "datum_raw": "2026-06-10T19:00+0200",
+    "ort": "Turistarama, Mauritiussteinweg 102",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/budchenpop-in-concert-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "büdchenpopAm 10.06.26 kommt büdchenpop ins TURISTARAMA in Köln. Beginn 19 Uhr 🎶Was in der Bahn begonnen hat, ist längst mehr geworden: Ein Chor, der sich durch die Stadt bewegt, von Ort zu Ort zieht und dabei Mensche"
   },
   {
     "titel": "Kopfkino Vol.22: Comedy • Poetry • Live Musik in Köln \"Open Air\"",
