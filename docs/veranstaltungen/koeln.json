@@ -10,26 +10,6 @@
     "teaser": "MitsingKonzert mit dem Kölner Musiker Jochen ten Hoevel für junge und alte Menschen mit und ohne Demenz!Montag, 8. Juni 2026, 17:30 Uhr, Domforum, Domkloster 3Eintritt frei!Dauer ca. 1,5 hAnmeldung über: www.pretix.eu"
   },
   {
-    "titel": "Der Fürst und seine Erben – Peter Sloterdijk über große Männer im Zeitalter der gewöhnlichen Leute",
-    "datum": "8. Jun 2026",
-    "datum_raw": "2026-06-08T17:30+0200",
-    "ort": "WDR Funkhaus Köln, Wallrafplatz 5",
-    "preis": "ab 26 €",
-    "link": "https://rausgegangen.de/events/der-furst-und-seine-erben-peter-sloterdijk-uber-groe-manner--0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "„Ich bin der Auserwählte“, wusste Donald Trump 2019 über sich zu berichten. Seit Wiederamtsantritt lebt er die Madman-Theorie aus: Wer als unkalkulierbar gilt, macht die besten Deals. Auf der anderen Seite der Erdkugel"
-  },
-  {
-    "titel": "Ethische Intelligenz – Markus Gabriel über die Chancen der digitalen Revolution",
-    "datum": "8. Jun 2026",
-    "datum_raw": "2026-06-08T17:30+0200",
-    "ort": "Brunosaal, Klettenberggürtel 65",
-    "preis": "ab 23 €",
-    "link": "https://rausgegangen.de/events/ethische-intelligenz-markus-gabriel-uber-die-chancen-der-dig-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Eine humane Künstliche Intelligenz – ist das ein Widerspruch? Für den Philosophen Markus Gabriel ist es vielmehr eine Notwendigkeit. In der sich rasant beschleunigenden digitalen Revolution erkennt er eine Chance – ein"
-  },
-  {
     "titel": "Linoldruck-Workshop im Deli Sülz",
     "datum": "8. Jun 2026",
     "datum_raw": "2026-06-08T18:00+0200",
@@ -54,7 +34,7 @@
     "datum": "8. Jun 2026",
     "datum_raw": "2026-06-08T19:00+0200",
     "ort": "Rheinloft Cologne, Frankenwerft 35",
-    "preis": "ab 83 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/76-blue-monday-lounge-stapelfux-ki-professionell-steuern-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Die Blue Monday Lounge bringt seit 2002 Führungskräfte zusammen, um kluge Impulse und echte Gespräche zu Wirtschaft und Technik zu fördern. Diesmal steht KI als strategische Herausforderung im Fokus – wie verändern Mensc"
@@ -84,7 +64,7 @@
     "datum": "8. Jun 2026",
     "datum_raw": "2026-06-08T20:00+0200",
     "ort": "Joode Lade, Lindenstraße 62",
-    "preis": "ab 11 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/impro-stand-up-comedy-ich-hab-da-mal-nichts-vorbereitet-45/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Vier Comedians aus Nightwash und Quatsch Comedy Club legen ihre Skripte ab und konzentrieren sich nur auf den Moment. Ohne Vorbereitung entsteht so eine Show, die spontan, überraschend und echt ist. Hier findest du Comed"
@@ -150,6 +130,16 @@
     "teaser": "John Lydons Projekt Public Image Ltd. mixt seit den 70ern Post-Punk mit Dub, Folk und Pop und hat mit Alben wie Metal Box Musikgeschichte geschrieben. Nach schweren Verlusten fand er durch die Fan-Unterstützung wieder Kr"
   },
   {
+    "titel": "Florian Schroeder trifft Paul Ronzheimer. Über Presse, Politik und die Konflikte der Gegenwart",
+    "datum": "8. Jun 2026",
+    "datum_raw": "2026-06-08T20:30+0200",
+    "ort": "WDR Funkhaus Köln, Wallrafplatz 5",
+    "preis": "ab 23 €",
+    "link": "https://rausgegangen.de/events/florian-schroeder-trifft-paul-ronzheimer-uber-presse-politik-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der Journalist Paul Ronzheimer geht für seine Arbeit bis an die Unruheherde der Welt: Als Reporter berichtet er aus Kriegs- und Krisengebieten wie der Ukraine, Syrien oder Afghanistan. In Deutschland fungiert er als ste"
+  },
+  {
     "titel": "Mitmach-Jamsession für Anfänger und Fortgeschrittene",
     "datum": "9. Jun 2026",
     "datum_raw": "2026-06-09T18:00+0200",
@@ -158,6 +148,16 @@
     "link": "https://rausgegangen.de/events/mitmach-jamsession-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Lust, Musik zu machen? Du bist der Sound! Vergiss das Publikum – bei unserer offenen Jamsession im Allerweltshaus werden wir alle zu einer gemeinsamen Band.Hier geht es nur um die Freude am Ausprobieren, ganz ohne Leistu"
+  },
+  {
+    "titel": "Kohei Saito: Am Ende des Fortschritts. Überleben in den Ruinen des Kapitalismus",
+    "datum": "9. Jun 2026",
+    "datum_raw": "2026-06-09T18:00+0200",
+    "ort": "COMEDIA Theater, Vondelstraße 4-8",
+    "preis": "ab 26 €",
+    "link": "https://rausgegangen.de/events/kohei-saito-am-ende-des-fortschritts-uberleben-in-den-ruinen-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der japanische Philosoph und Politökonom Kohei Saito ist einer der weltweit bekanntesten ökonomischen Vordenker. Sein Buch „Systemsturz“ verkaufte sich allein in Japan über eine halbe Million Mal. In Am Ende des Forts"
   },
   {
     "titel": "Singen - Joy of Singing - einfach singen in Köln-Sülz - Chor auf Zeit",
