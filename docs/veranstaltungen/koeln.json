@@ -34,7 +34,7 @@
     "datum": "8. Jun 2026",
     "datum_raw": "2026-06-08T18:00+0200",
     "ort": "Deli Sülz, Berrenrather Str. 221",
-    "preis": "ab 35 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/linoldruck-workshop-im-deli-sulz-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Im Linoldruck-Workshop gestaltest du dein ganz eigenes Motiv und lernst den Prozess vom Entwurf bis zum Druck kennen – ideal, wenn du Lust auf kreative Auszeit hast. Alle Materialien sind dabei, damit du bis zu zehn indi"
@@ -148,6 +148,16 @@
     "link": "https://rausgegangen.de/events/public-image-ltd-this-is-not-the-last-tour-2026-2/",
     "quelle": "Rausgegangen Köln",
     "teaser": "John Lydons Projekt Public Image Ltd. mixt seit den 70ern Post-Punk mit Dub, Folk und Pop und hat mit Alben wie Metal Box Musikgeschichte geschrieben. Nach schweren Verlusten fand er durch die Fan-Unterstützung wieder Kr"
+  },
+  {
+    "titel": "Mitmach-Jamsession für Anfänger und Fortgeschrittene",
+    "datum": "9. Jun 2026",
+    "datum_raw": "2026-06-09T18:00+0200",
+    "ort": "Allerweltshaus Köln, Geisselstraße 3-5",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/mitmach-jamsession-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Lust, Musik zu machen? Du bist der Sound! Vergiss das Publikum – bei unserer offenen Jamsession im Allerweltshaus werden wir alle zu einer gemeinsamen Band.Hier geht es nur um die Freude am Ausprobieren, ganz ohne Leistu"
   },
   {
     "titel": "Singen - Joy of Singing - einfach singen in Köln-Sülz - Chor auf Zeit",
@@ -388,15 +398,5 @@
     "link": "https://rausgegangen.de/events/listeninglounge-2/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Für vieles nimmt man sich die Zeit, und vieles nimmt einem die Zeit. Manches Bild braucht einen Rahmen, um zur Geltung zu kommen – manchmal braucht es das Kino, um einen Film zu sehen.Nach kurzer Einführung hören wir "
-  },
-  {
-    "titel": "Annie WE und Samuel der Ukulelenprediger - Konzert",
-    "datum": "11. Jun 2026",
-    "datum_raw": "2026-06-11T20:00+0200",
-    "ort": "Theater 509, Dreikönigenstraße 23",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/annie-we-und-samuel-der-ukulelenprediger-konzert-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Annie WE und Samuel der Ukulelenprediger KonzertAnnie und Samuel trafen sich einst auf dem Berliner Ukulele-Festival, wo sie bei der Aftershow-Party in gemütlicher Runde im Café saßen und die Nacht hindurch plauderten "
   }
 ]
