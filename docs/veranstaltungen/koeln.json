@@ -1,5 +1,15 @@
 [
   {
+    "titel": "Frauenfußball Watch Party für FLINTA* - Honeyball Club",
+    "datum": "9. Jun 2026",
+    "datum_raw": "2026-06-09T17:00+0200",
+    "ort": "Dopamine Concept Store und Café, Alteburger Straße 2",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/honeyball-club-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der Honeyball Club verbindet Frauenfußball mit entspanntem Beisammensein zwischen Drinks und Shopping. Bei der Watch Party für FLINTA* kannst du das WM-Quali-Spiel erleben und dich in einer lockeren, offenen Community au"
+  },
+  {
     "titel": "Mitmach-Jamsession für Anfänger und Fortgeschrittene",
     "datum": "9. Jun 2026",
     "datum_raw": "2026-06-09T18:00+0200",
@@ -30,16 +40,6 @@
     "teaser": "Die unausgesprochene Grundlage der deutschen Außenpolitik lautete jahrzehntelang: Die USA garantieren unsere Sicherheit, China kauft unsere Waren, Russland liefert die Energie. Diese Gleichung ist zerbrochen. Der früher"
   },
   {
-    "titel": "Westend Girl",
-    "datum": "9. Jun 2026",
-    "datum_raw": "2026-06-09T18:15+0200",
-    "ort": "CINENOVA Köln-Ehrenfeld, Herbrandstraße 11",
-    "preis": "ab 3 €",
-    "link": "https://rausgegangen.de/events/westend-girl-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Q&A MIT SERIENMACHER:INNEN UND SCHAUSPIELER:INNEN VOR ORT!Sie heißt Ronja und ihre Eltern betreiben einen lukrativen Kokainring. So weit könnte das auch in modernen Coming-of-age-Stoffen mit eher krimineller Stoßrichtun"
-  },
-  {
     "titel": "Singen - Joy of Singing - einfach singen in Köln-Sülz - Chor auf Zeit",
     "datum": "9. Jun 2026",
     "datum_raw": "2026-06-09T18:30+0200",
@@ -48,16 +48,6 @@
     "link": "https://rausgegangen.de/events/singen-joy-of-singing-einfach-singen-in-koln-sulz-chor-auf-z-6/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Herzliche Einladung zu „Joy of Singing“ – gemeinsames Singen von Liedern, die verbinden und gut tun.Wir singen Lieder, die leicht zu lernen sind und ohne Noten oder Textblätter auskommen. Durch das wiederholte Singen en"
-  },
-  {
-    "titel": "🏓 Tischtennis-Rundlauf-Turnier am Ebertplatz🎉",
-    "datum": "9. Jun 2026",
-    "datum_raw": "2026-06-09T19:00+0200",
-    "ort": "Ebertplatz, Ebertplatz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/tischtennis-rundlauf-turnier-am-ebertplatz-8/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Egal ob du gerade erst mit Tischtennis anfängst oder schon Profi bist, beim Rundlauf-Turnier am Ebertplatz spielt jede:r mit. Je nach Wetter wird drinnen oder draußen gespielt, und die Gemeinschaft steht klar im Vordergr"
   },
   {
     "titel": "🌈Lesen in Ehren*feld – die queerfeministische-Lesereihe in Köln",
@@ -78,6 +68,16 @@
     "link": "https://rausgegangen.de/events/ocean-film-tour-vol-12-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Bei der Ocean Film Tour Vol. 12 begleiten dich spannende Geschichten von Menschen, die sich auf unbekanntes Meer wagen – von einer Surffotografin bis zu einer Familie, die ihr Zuhause auf dem Segelboot hat. Freu dich auf"
+  },
+  {
+    "titel": "🏓 Tischtennis-Rundlauf-Turnier am Ebertplatz🎉",
+    "datum": "9. Jun 2026",
+    "datum_raw": "2026-06-09T19:00+0200",
+    "ort": "Ebertplatz, Ebertplatz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/tischtennis-rundlauf-turnier-am-ebertplatz-8/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Egal ob du gerade erst mit Tischtennis anfängst oder schon Profi bist, beim Rundlauf-Turnier am Ebertplatz spielt jede:r mit. Je nach Wetter wird drinnen oder draußen gespielt, und die Gemeinschaft steht klar im Vordergr"
   },
   {
     "titel": "DING HÄTZ FÖR PÄNZ",
@@ -110,16 +110,6 @@
     "teaser": "OYA MÜLLEM Live Concert Julibrise & Support  09.06.2026  I Doors Open: 7PM Donations I 5-15€ (tickets in advance or at the door) Location I OYA MÜLLEM, Buchheimer Str. 17, 51063  With dreamy and nostalgic sounds that i"
   },
   {
-    "titel": "Jazz Against The Machine",
-    "datum": "9. Jun 2026",
-    "datum_raw": "2026-06-09T20:00+0200",
-    "ort": "artheater Köln, Ehrenfeldgürtel 127",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/jazz-against-the-machine-20/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Jazz Against The Machine Festival bringen Studierende der HfMT Köln vom 9. bis 11. Juni 2026 verschiedenste Musikstile von Jazz bis Indie-Pop zusammen und sprechen mit ihren Songs persönliche, politische und poetisc"
-  },
-  {
     "titel": "Kölner Comedy Open Air",
     "datum": "9. Jun 2026",
     "datum_raw": "2026-06-09T20:00+0200",
@@ -128,6 +118,16 @@
     "link": "https://rausgegangen.de/events/doppelpunkt-comedy-open-air-42/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Bei den Kölner Comedy Open Airs erwartet dich alle zwei Wochen ein Mix aus bekannten Gesichtern und frischen Talenten der deutschsprachigen Szene. Johannes Steuding und Lennard Rosar sorgen mit ihrem charmanten Humor für"
+  },
+  {
+    "titel": "Jazz Against The Machine",
+    "datum": "9. Jun 2026",
+    "datum_raw": "2026-06-09T20:00+0200",
+    "ort": "artheater Köln, Ehrenfeldgürtel 127",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/jazz-against-the-machine-20/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim Jazz Against The Machine Festival bringen Studierende der HfMT Köln vom 9. bis 11. Juni 2026 verschiedenste Musikstile von Jazz bis Indie-Pop zusammen und sprechen mit ihren Songs persönliche, politische und poetisc"
   },
   {
     "titel": "TRASH-TV QUIZ NIGHT – Für echte Reality-Fans!",
