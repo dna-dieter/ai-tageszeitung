@@ -80,16 +80,6 @@
     "teaser": "Ein Schauspieler liest den Text erstmals vor Publikum und darf das Stück danach nie wieder spielen. Das macht das Theaterexperiment von Nassim Soleimanpour zu einem einzigartigen Erlebnis über Macht und Gehorsam voller u"
   },
   {
-    "titel": "Ich hab da mal nichts vorbereitet",
-    "datum": "10. Jun 2026",
-    "datum_raw": "2026-06-10T20:00+0200",
-    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/ich-hab-da-mal-nichts-vorbereitet-70/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Vier Comedians aus Nightwash und Quatsch Comedy Club zeigen, wie Stand-up ohne Skript funktioniert. Ohne Vorbereitung entsteht ein spontaner Abend mit viel Witz und Reaktion auf den Moment. Gastgeber Philipp Siedau sorgt"
-  },
-  {
     "titel": "Skullcrusher: And your song is like a circle Tour 2026 + Support (Jo from school)",
     "datum": "10. Jun 2026",
     "datum_raw": "2026-06-10T20:00+0200",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/kakao-klang-zeremonie-mit-sound-healing-live-musik-zum-fuhle-32/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Zeremonieller Rohkakao – die Medizin des HerzensZeremonieller Rohkakao ist weit mehr als ein Getränk. Seit Jahrtausenden wird er in mittel- und südamerikanischen Kulturen als heilige Pflanzenmedizin verehrt – als „Spei"
+  },
+  {
+    "titel": "Ich hab da mal nichts vorbereitet",
+    "datum": "23. Jun 2026",
+    "datum_raw": "2026-06-23T20:00+0200",
+    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/ich-hab-da-mal-nichts-vorbereitet-70/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Vier Comedians aus Nightwash und Quatsch Comedy Club zeigen, wie Stand-up ohne Skript funktioniert. Ohne Vorbereitung entsteht ein spontaner Abend mit viel Witz und Reaktion auf den Moment. Gastgeber Philipp Siedau sorgt"
   }
 ]
