@@ -10,16 +10,6 @@
     "teaser": "Karosh Taha entwirft mit ihren Texten Brücken zwischen kurdischer Geschichte und sumerischer Poesie. In ihrer Lunch Lecture beleuchtet sie Enheduanna, die erste bekannte Autorin, und verbindet dabei Forschung mit lebendi"
   },
   {
-    "titel": "Meinungsfreiheit! Mit Ronen Steinke und Mithu Sanyal",
-    "datum": "10. Jun 2026",
-    "datum_raw": "2026-06-10T17:30+0200",
-    "ort": "COMEDIA Theater, Vondelstraße 4-8",
-    "preis": "ab 21 €",
-    "link": "https://rausgegangen.de/events/meinungsfreiheit-mit-ronen-steinke-und-mithu-sanyal-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Noch nie gab es so viele Ermittlungen wegen bloßer Worte, egal ob es um Migration, Klimapolitik, die Ukraine oder den Nahostkonflikt geht. Der Staat definiert heute etliche politische Aussagen als strafbar, die noch vor "
-  },
-  {
     "titel": "Spritzwoch - Der Aperitif Walk im Kwartier",
     "datum": "10. Jun 2026",
     "datum_raw": "2026-06-10T18:00+0200",
@@ -44,7 +34,7 @@
     "datum": "10. Jun 2026",
     "datum_raw": "2026-06-10T18:45+0200",
     "ort": "CINENOVA Köln-Ehrenfeld, Herbrandstraße 11",
-    "preis": "ab 3 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/fadia-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "„Fadia“ erzählt von einem schweren Thema, das sonst oft übersehen wird: Femizide im Namen von Familienehre. Die Serie zeigt, wie Frauen selbst in vermeintlichen Schutzräumen ums Überleben kämpfen und eine neue Stimme fin"
@@ -70,6 +60,16 @@
     "teaser": "Die Psychedelic Light & Sound Journey verbindet eines der ältesten Instrumente der Erde mit den neusten Erkenntnissen und Technologien aus der Forschung.  Mit dem Einsatz des Gongs in Kombination mit der Roxiva-Lichttec"
   },
   {
+    "titel": "All Heroes Are Bastards",
+    "datum": "10. Jun 2026",
+    "datum_raw": "2026-06-10T19:00+0200",
+    "ort": "CINENOVA Köln-Ehrenfeld, Herbrandstraße 11",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/all-heroes-are-bastards-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Q&A mit Schauspieler:innen & Serienmacher:innen! Moderiert von Dominik Porschen.Mit ihrer Rap-Musical-Serie “Hype” haben Esra und Patrick Phul für Aufsehen gesorgt und gezeigt, wie man Genregrenzen verschieben kann. Jet"
+  },
+  {
     "titel": "Weißes Kaninchen, rotes Kaninchen",
     "datum": "10. Jun 2026",
     "datum_raw": "2026-06-10T19:30+0200",
@@ -84,7 +84,7 @@
     "datum": "10. Jun 2026",
     "datum_raw": "2026-06-10T20:00+0200",
     "ort": "die wohngemeinschaft, Richard-Wagner-Straße 39",
-    "preis": "ab 32 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/skullcrusher-and-your-song-is-like-a-circle-tour-2026-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Skullcrusher mischt auf ihrem neuen Album sanften Folk mit kühlen Elektronik-Sounds und zeigt, wie Trauer in ungewohnte Formen fließt. Jo from school eröffnet mit Songs, die trotz jungen Alters viel Tiefe und eigene Ecke"
@@ -164,7 +164,7 @@
     "datum": "10. Jun 2026",
     "datum_raw": "2026-06-10T20:00+0200",
     "ort": "King Georg, Sudermanstraße 2",
-    "preis": "ab 11 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/young-talents-carmen-mcrae-betty-carter-a-tribute-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Cansu Arat (Gesang), Lilli Kornhuber (Gesang), Benedikt Göb (Piano), Sebastian Claas (Bass), Jacob Wagener (Schlagzeug)Mit ihrem legendären Duet-Album setzten Carmen McRae und Betty Carter 1987 Maßstäbe für vokalen J"
