@@ -1,15 +1,5 @@
 [
   {
-    "titel": "PhilharmonieVeedel Pänz",
-    "datum": "11. Jun 2026",
-    "datum_raw": "2026-06-11T10:30+0200",
-    "ort": "Bürgerzentrum Chorweiler, Pariser Platz 1,",
-    "preis": "ab 3 €",
-    "link": "https://rausgegangen.de/events/philharmonieveedel-panz-241/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "»Tanz, tanz, tanz!«Linos Piano TrioEs ist still - mein Körper ist schläfrig, nichts bewegt sich .... Doch da! Der erste Ton! Ich spüre ein Kribbeln in den Beinen, meine Füße zappeln, meine Schultern zucken auf und ab"
-  },
-  {
     "titel": "Kölner Weinwoche",
     "datum": "11. Jun 2026",
     "datum_raw": "2026-06-11T13:00+0200",
@@ -64,7 +54,7 @@
     "datum": "11. Jun 2026",
     "datum_raw": "2026-06-11T19:00+0200",
     "ort": "ST. LOUIS Breakfast, Meister-Gerhard-Straße 30",
-    "preis": "ab 16 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/pams-quiz-club-im-st-louis-breakfast-5/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Bei Pam’s Quiz Club mischen sich schlaue Fragen mit glitzerndem Drag-Charme und Comedy. Pam Pengco sorgt als charmante Quizmaster:in für jede Menge Spaß und Überraschungen, egal ob als Team oder Einzelkämpfer:in, das wir"
@@ -114,7 +104,7 @@
     "datum": "11. Jun 2026",
     "datum_raw": "2026-06-11T20:00+0200",
     "ort": "NightWash club, Hohenstaufenring 25-27",
-    "preis": "ab 10 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/comedy-open-mic-hosted-by-luisa-charlotte-schulz-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Beim wöchentlichen Comedy Open Mic im NightWash Club trifft Nachwuchsförderung auf Live-Erlebnis: Sechs Comedians testen ihre Gags in authentischer, unterstützender Atmosphäre 🎤💜"
@@ -124,7 +114,7 @@
     "datum": "11. Jun 2026",
     "datum_raw": "2026-06-11T20:00+0200",
     "ort": "die wohngemeinschaft, Richard-Wagner-Straße 39",
-    "preis": "ab 7 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/literaturklub-barfu-schuhe-oder-benzindampf-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Jonas Linnebank und Roland Schappert nehmen dich mit auf eine lyrische Reise zwischen Vergangenheit und Gegenwart, die mit neuen Gedichtbänden Fragen zu Identität und Sprache auslotet. Ihre Texte laden zu einem offenen D"
@@ -204,7 +194,7 @@
     "datum": "11. Jun 2026",
     "datum_raw": "2026-06-11T20:00+0200",
     "ort": "King Georg  Köln, Sudermanstraße 2",
-    "preis": "ab 19 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/king-georg-session-42/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Stefan Pfeifer-Galilea (Saxophon), Francois de Ribaupierre (Saxophon), Jerry Lu (Piano), Caris Hermes (Bass), Niklas Walter (Schlagzeug)Monatliche Jam-Session unter neuer Leitung von Stefan Pfeifer-Galilea, Malte Dürrsc"
@@ -244,7 +234,7 @@
     "datum": "11. Jun 2026",
     "datum_raw": "2026-06-11T20:45+0200",
     "ort": "CINENOVA Köln-Ehrenfeld, Herbrandstraße 11",
-    "preis": "ab 3 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/happiness-6/",
     "quelle": "Rausgegangen Köln",
     "teaser": "„Happiness“ erzählt von Shadis Suche nach Heimat zwischen zwei Welten und der Kraft neuer Verbindungen. Die Serie zeigt, wie Exilerfahrung zur politischen Stimme wird und bildet damit ein fesselndes Spiegelbild aktueller"
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/ben-camden-live-2026-2/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Rollstuhlfahrer/Schwerbehinderte Personen mit Merkzeichen „B“ wählen bitte die Telefonnummer +49 (0)30 - 40 818 824 (Ortstarif). Unsere kompetenten Kollegen aus dem Call Center helfen Ihnen täglich von 10 Uhr - 18 Uhr "
+  },
+  {
+    "titel": "Ben Camden - Live 2026",
+    "datum": "12. Jun 2026",
+    "datum_raw": "2026-06-12T20:00+0200",
+    "ort": "Veedel Club, Luxemburger Straße 37",
+    "preis": "ab 24 €",
+    "link": "https://rausgegangen.de/events/ben-camden-live-2026-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Ben Camden - Live 2026Fr. 12. Juni 2026, 20:00Veedel Club, Köln"
   }
 ]
