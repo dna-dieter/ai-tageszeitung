@@ -5,16 +5,6 @@
     "datum_raw": "2026-06-11T10:30+0200",
     "ort": "Bürgerzentrum Chorweiler, Pariser Platz 1,",
     "preis": "ab 3 €",
-    "link": "https://rausgegangen.de/events/philharmonieveedel-panz-116/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "»Tanz, tanz, tanz!«Linos Piano TrioEs ist still - mein Körper ist schläfrig, nichts bewegt sich .... Doch da! Der erste Ton! Ich spüre ein Kribbeln in den Beinen, meine Füße zappeln, meine Schultern zucken auf und ab"
-  },
-  {
-    "titel": "PhilharmonieVeedel Pänz",
-    "datum": "11. Jun 2026",
-    "datum_raw": "2026-06-11T10:30+0200",
-    "ort": "Bürgerzentrum Chorweiler, Pariser Platz 1,",
-    "preis": "ab 3 €",
     "link": "https://rausgegangen.de/events/philharmonieveedel-panz-241/",
     "quelle": "Rausgegangen Köln",
     "teaser": "»Tanz, tanz, tanz!«Linos Piano TrioEs ist still - mein Körper ist schläfrig, nichts bewegt sich .... Doch da! Der erste Ton! Ich spüre ein Kribbeln in den Beinen, meine Füße zappeln, meine Schultern zucken auf und ab"
@@ -44,7 +34,7 @@
     "datum": "11. Jun 2026",
     "datum_raw": "2026-06-11T18:00+0200",
     "ort": "VeedelMoms, Bauerbankstraße 33",
-    "preis": "ab 23 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/6pm-reset-club-afterwork-aber-diesmal-anders-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Beim 6PM RESET CLUB erwartet dich eine ungewöhnliche Mischung aus Yoga und entspannten Gesprächen rund ums Thema Finanzen, ganz ohne Fachchinesisch. Hier gibt’s Raum, Körper und Kopf zu verbinden und nebenbei auch mal eh"
@@ -258,6 +248,16 @@
     "link": "https://rausgegangen.de/events/happiness-6/",
     "quelle": "Rausgegangen Köln",
     "teaser": "„Happiness“ erzählt von Shadis Suche nach Heimat zwischen zwei Welten und der Kraft neuer Verbindungen. Die Serie zeigt, wie Exilerfahrung zur politischen Stimme wird und bildet damit ein fesselndes Spiegelbild aktueller"
+  },
+  {
+    "titel": "Groove Cologne - Concert & Jam-Session",
+    "datum": "11. Jun 2026",
+    "datum_raw": "2026-06-11T21:00+0200",
+    "ort": "Jameson Distillery Pub, Friesenstr 30-40",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/groove-cologne-concert-jam-session-5/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Live-Concert and Jam-Session tonight! Opening concert by Bye Bye Soleil and our house-band, afterwards the stage will be open to jam. Bring your instrument or use ours and lets rock into the night! Everybody and every st"
   },
   {
     "titel": "PhilharmonieVeedel Pänz",
