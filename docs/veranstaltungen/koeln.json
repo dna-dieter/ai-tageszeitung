@@ -130,16 +130,6 @@
     "teaser": "Liebe Freund*innen des Atelier Jorsiac,  am nächsten Freitag, den 12.06., laden wir euch zu einer Bolero-Nacht mit dem südamerikanischen Duo Macaya-Véjar im Rahmen der Ausstellung \"Estudios al pastel\" von Fernando Vil"
   },
   {
-    "titel": "Cozy Concert",
-    "datum": "12. Jun 2026",
-    "datum_raw": "2026-06-12T19:00+0200",
-    "ort": "IGLU, Sudermanplatz 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/cozy-concerts-by-hidden-stage-sessions-ev-21/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die Cozy Concerts sind eine Geheimkonzertreihe in gemütlicher Atmosphäre* – in Wohnzimmern, Buchläden, Ateliers, Gärten und anderen besonderen Orten. Intim, authentisch, entspannend. 80–90 % der Musiker*innen bei den"
-  },
-  {
     "titel": "Teilen In sozialen Netzwerken teilen Musikabend mit Studierenden der Hochschule für Musik und Tanz Köln",
     "datum": "12. Jun 2026",
     "datum_raw": "2026-06-12T19:00+0200",
@@ -208,6 +198,16 @@
     "link": "https://rausgegangen.de/events/ben-camden-live-2026-4/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Ben Camden - Live 2026Fr. 12. Juni 2026, 20:00Veedel Club, Köln"
+  },
+  {
+    "titel": "Cozy Concert",
+    "datum": "12. Jun 2026",
+    "datum_raw": "2026-06-12T20:00+0200",
+    "ort": "IGLU, Sudermanplatz 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/cozy-concerts-by-hidden-stage-sessions-ev-21/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Cozy Concerts sind eine Geheimkonzertreihe in gemütlicher Atmosphäre* – in Wohnzimmern, Buchläden, Ateliers, Gärten und anderen besonderen Orten. Intim, authentisch, entspannend. 80–90 % der Musiker*innen bei den"
   },
   {
     "titel": "DAVIDS BEJERS „Philosophie“",
