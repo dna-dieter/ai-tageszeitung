@@ -104,7 +104,7 @@
     "datum": "12. Jun 2026",
     "datum_raw": "2026-06-12T20:00+0200",
     "ort": "King Georg, Sudermanstraße 2",
-    "preis": "ab 13 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/marcus-barteltpaul-heller-super-sax-cologne-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Die neue Kölner Formation „Super Sax Cologne“ entfacht mit fünf Saxofonen und einer starken Rhythmusgruppe den Geist der legendären Supersax-Band. Zwischen Generationen verwebt das Ensemble raffinierte Arrangements und S"
@@ -204,7 +204,7 @@
     "datum": "12. Jun 2026",
     "datum_raw": "2026-06-12T20:00+0200",
     "ort": "Tsunami Club, Im Ferkulum 9",
-    "preis": "ab 11 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/jakob-dobers-live-in-koln-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Mit einem Ticket für dieses Event habt Ihr automatisch auch Zugang zur darauf folgenden Radio Nana Party im Tsunami Club.Jakob Dobers ist schon lange mit unterschiedlichsten Bands und Projekten in der Berliner Musikszen"
@@ -268,16 +268,6 @@
     "link": "https://rausgegangen.de/events/fritzis-funky-hour-5/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Bei Fritzi*s Funky Hour legen FLINTA* nur DJs auf, die mit funky Sounds für entspannten Groove sorgen und gleichzeitig einen sicheren Raum feiern. Dazu gibt’s kühle Drinks und vegane Snacks unter freiem Himmel, perfekt f"
-  },
-  {
-    "titel": "Hifari Hifi",
-    "datum": "12. Jun 2026",
-    "datum_raw": "2026-06-12T21:00+0200",
-    "ort": "Asimmetric Bar, Venloer Straße 196",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/hifari-hifi-15/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Black Gold - Roots, Dub, Afrobeat"
   },
   {
     "titel": "MitSingKunzät vür Naaksüüle, kostenloses Mitsingkonzert mit KEV",
@@ -388,6 +378,16 @@
     "link": "https://rausgegangen.de/events/philharmonieveedel-panz-245/",
     "quelle": "Rausgegangen Köln",
     "teaser": "»Tanz, tanz, tanz!«Linos Piano TrioEs ist still - mein Körper ist schläfrig, nichts bewegt sich .... Doch da! Der erste Ton! Ich spüre ein Kribbeln in den Beinen, meine Füße zappeln, meine Schultern zucken auf und ab"
+  },
+  {
+    "titel": "Live Music & Drink",
+    "datum": "13. Jun 2026",
+    "datum_raw": "2026-06-13T17:00+0200",
+    "ort": "Cafe No 5, Barbarossaplatz 5",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/live-music-drink-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Neue Musik entdecken, bevor es alle anderen tun: Bei den Let Me Introduce Sessions stehen aufstrebende Artists aus Köln und Umgebung im Mittelpunkt. Am 13.06. von 17-21 Uhr im Café No. 5 erwarten euch Live-Performances"
   },
   {
     "titel": "Kimiko Isle Of Campus 2026",
