@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Der Stoff der Nation",
-    "datum": "13. Jun 2026",
-    "datum_raw": "2026-06-13T10:00+0200",
-    "ort": "Deutsches Sport & Olympia Museum, Im Zollhafen 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/der-stoff-der-nation-12/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "„Der Stoff der Nation“ zeigt die Entwicklung der Nationaltrikot-Designs von Klassiker Schwarz-Weiß bis zu den modernen Varianten seit den 80ern. Neben Materialien und Schnitten erzählen die Trikots von Stimmung und Gesch"
-  },
-  {
     "titel": "Flohmarkt an der alten Feuerwache",
     "datum": "13. Jun 2026",
     "datum_raw": "2026-06-13T10:00+0200",
@@ -18,6 +8,16 @@
     "link": "https://rausgegangen.de/events/flohmarkt-6345/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Hier findest du alles von Vintage-Schätzen bis Buchraritäten, verpackt in entspannte Plauderrunden mit Nachbar:innen und Familien. Nachhaltigkeit trifft auf bunte Stände, die nach neuem Leben suchen. Wenn du auch Sachen "
+  },
+  {
+    "titel": "Der Stoff der Nation",
+    "datum": "13. Jun 2026",
+    "datum_raw": "2026-06-13T10:00+0200",
+    "ort": "Deutsches Sport & Olympia Museum, Im Zollhafen 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/der-stoff-der-nation-12/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "„Der Stoff der Nation“ zeigt die Entwicklung der Nationaltrikot-Designs von Klassiker Schwarz-Weiß bis zu den modernen Varianten seit den 80ern. Neben Materialien und Schnitten erzählen die Trikots von Stimmung und Gesch"
   },
   {
     "titel": "PhilharmonieVeedel Pänz",
@@ -40,16 +40,6 @@
     "teaser": "»Tanz, tanz, tanz!«Linos Piano TrioEs ist still - mein Körper ist schläfrig, nichts bewegt sich .... Doch da! Der erste Ton! Ich spüre ein Kribbeln in den Beinen, meine Füße zappeln, meine Schultern zucken auf und ab"
   },
   {
-    "titel": "Flohmarkt Boulderplanet Ehrenfeld",
-    "datum": "13. Jun 2026",
-    "datum_raw": "2026-06-13T12:00+0200",
-    "ort": "Boulderplanet, Oskar-Jäger-Straße 143H",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/flohmarkt-boulderplanet-ehrenfeld-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Flohmarkt im Boulderplanet kannst du deine Schätze loswerden, neue Lieblingsstücke entdecken und in netter Runde den Tag genießen. Für das leibliche Wohl sorgen vegane Burger und Grillgut, abends gibt’s entspannte T"
-  },
-  {
     "titel": "Südstadtfest 2026 – Die Bonner Straße gehört euch!",
     "datum": "13. Jun 2026",
     "datum_raw": "2026-06-13T12:00+0200",
@@ -60,21 +50,21 @@
     "teaser": "Zwei Tage lang zeigt die Südstadt auf der Bonner Straße, wie vielseitig Köln sein kann: Von handgemachtem Schmuck bis zu exotischem Streetfood ist für jeden was dabei. Dazu gibt’s Musik und eine Modenschau, die lokale De"
   },
   {
-    "titel": "Unfollow Bundeswehr: Das Anti-Wehrpflicht-Festival mit HeXer, SARAH4K und Yung Pepp LIVE und KOSTENLOS",
+    "titel": "Flohmarkt Boulderplanet Ehrenfeld",
     "datum": "13. Jun 2026",
-    "datum_raw": "2026-06-13T13:00+0200",
-    "ort": "ZK/U (Zentrum für Kunst und Urbanistik), Siemensstraße 27, 10551 Berlin",
+    "datum_raw": "2026-06-13T12:00+0200",
+    "ort": "Boulderplanet, Oskar-Jäger-Straße 143H",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/unfollow-bundeswehr-das-anti-wehrpflicht-festival-mit-hexer--0/",
+    "link": "https://rausgegangen.de/events/flohmarkt-boulderplanet-ehrenfeld-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Anti-Wehrpflicht-Festival trifft Musik von HeXer, SARAH4K und Yung Pepp auf Diskussionen mit Kriegsdienstverweigernden und kreative Aktionen wie Graffiti und Gaming. Junge Menschen setzen hier klare Zeichen für Frie"
+    "teaser": "Beim Flohmarkt im Boulderplanet kannst du deine Schätze loswerden, neue Lieblingsstücke entdecken und in netter Runde den Tag genießen. Für das leibliche Wohl sorgen vegane Burger und Grillgut, abends gibt’s entspannte T"
   },
   {
     "titel": "Handball Champions League - Opening-Act-CHOR",
     "datum": "13. Jun 2026",
     "datum_raw": "2026-06-13T13:00+0200",
     "ort": "LANXESS arena, Willy-Brandt-Platz 3",
-    "preis": "ab 0 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/handball-champions-league-opening-act-chor-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Superbowl-Halbzeitshow gesehen? Ganz nett... aber wir legen noch einen drauf. 😏 Die European Handball Federation bringt ihr Finale in die LANXESS arena – und die Eröffnungsshow hat es in sich:Eine der besten deutschen C"
@@ -120,16 +110,6 @@
     "teaser": "Sechs starke Matches bringen frischen Wind in die Szene und zeigen, warum die FOB-Card so besonders ist. Mit diesem Comeback-Event kannst du neue Perspektiven auf gesprochenes Wort erleben und das Weiterbestehen einer wi"
   },
   {
-    "titel": "Daily Lemon Daytime",
-    "datum": "13. Jun 2026",
-    "datum_raw": "2026-06-13T15:00+0200",
-    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/daily-lemon-daytime-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Daily Lemon Daytime wird schon am frühen Nachmittag im Backyard die Stimmung angeheizt. DJ Durstlöscher, Sneaky Pete, Arninho und Hannah G. sorgen für entspannte Sounds und gute Laune, und wer vor 15 Uhr auftaucht, "
-  },
-  {
     "titel": "Funky Monkey Festival 2026",
     "datum": "13. Jun 2026",
     "datum_raw": "2026-06-13T15:00+0200",
@@ -138,6 +118,16 @@
     "link": "https://rausgegangen.de/events/funky-monkey-festival-2026-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Das Funky Monkey Festival bringt mit frischen Acts aus Funk, Soul, RnB, Disco und House handgemachte Sounds an die frische Luft. Freu dich auf einen Tag, der eindeutig nach Tanzen und Sonne schreit, mitten im kreativen O"
+  },
+  {
+    "titel": "Daily Lemon Daytime",
+    "datum": "13. Jun 2026",
+    "datum_raw": "2026-06-13T15:00+0200",
+    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/daily-lemon-daytime-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim Daily Lemon Daytime wird schon am frühen Nachmittag im Backyard die Stimmung angeheizt. DJ Durstlöscher, Sneaky Pete, Arninho und Hannah G. sorgen für entspannte Sounds und gute Laune, und wer vor 15 Uhr auftaucht, "
   },
   {
     "titel": "PhilharmonieVeedel Pänz",
@@ -210,16 +200,6 @@
     "teaser": "KAKAO ZEREMONIE & PSYTRANCE DANCE Samstag 13.06.2026, ab 18:30 Uhr bist du herzlich eingeladen, in Ruhe anzukommen. Nimm dir Zeit, den Raum auf dich wirken zu lassen, dich einzustimmen und langsam im Hier und Jetzt zu la"
   },
   {
-    "titel": "Der Teufel trägt Prada 2 Open-Air Kino",
-    "datum": "13. Jun 2026",
-    "datum_raw": "2026-06-13T19:00+0200",
-    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/der-teufel-tragt-prada-2-16/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Fast 20 Jahre nach dem Kultfilm dreht sich alles wieder um Karriere und Modezwist zwischen Andy, Emily und Miranda. Im Open-Air Kino erlebst du, wie sich alte Geschichten neu verknüpfen – ein Film, der mehr als nur Fashi"
-  },
-  {
     "titel": "Cityrama 3 - Archäologie der Zukunft // ein AUSWÄRTSSPIEL der studiobühneköln",
     "datum": "13. Jun 2026",
     "datum_raw": "2026-06-13T19:00+0200",
@@ -228,6 +208,16 @@
     "link": "https://rausgegangen.de/events/cityrama-3-eine-hommage-an-wolf-vostell-3/",
     "quelle": "Rausgegangen Köln",
     "teaser": "LIGNA lädt dich auf eine spielerische Spurensuche durch die urbane Fantasie von Köln ein, inspiriert vom ersten deutschen Happening Cityrama von Wolf Vostell. Zwischen Ruinen und Zukunftsvisionen verwebt die Performance "
+  },
+  {
+    "titel": "Der Teufel trägt Prada 2 Open-Air Kino",
+    "datum": "13. Jun 2026",
+    "datum_raw": "2026-06-13T19:00+0200",
+    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/der-teufel-tragt-prada-2-16/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Fast 20 Jahre nach dem Kultfilm dreht sich alles wieder um Karriere und Modezwist zwischen Andy, Emily und Miranda. Im Open-Air Kino erlebst du, wie sich alte Geschichten neu verknüpfen – ein Film, der mehr als nur Fashi"
   },
   {
     "titel": "cafe konzert - APOLLO ONLINE",
@@ -360,16 +350,6 @@
     "teaser": "Roda de Samba do Alemão – Brasilien vs. Marokko Samba, cerveja gelada, gente bonita & muita alegria. Wenn die brasilianische Nationalmannschaft spielt, verwandeln sich Bars, Plätze und Wohnzimmer auf der ganzen Welt in"
   },
   {
-    "titel": "WHY SO SHY",
-    "datum": "13. Jun 2026",
-    "datum_raw": "2026-06-13T22:00+0200",
-    "ort": "Bogen 2, Gladbacher Wall 5",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/why-so-shy-7/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "WHY SO SHY ist Kölner FLINTA* Party mit zwei Floors voll Techno, Afrobeats und RnB – ohne Male Gaze, dafür mit viel Raum für queere Vielfalt und Body Positivity. Bring den besonderen Dresscode mit und freu dich auf eine "
-  },
-  {
     "titel": "11 Jahre Retro Clash - ABGESAGT",
     "datum": "13. Jun 2026",
     "datum_raw": "2026-06-13T22:00+0200",
@@ -378,6 +358,16 @@
     "link": "https://rausgegangen.de/events/11-jahre-retro-clash-beachparty-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Beim 11-jährigen Retro Clash gibt’s Sommer-Playlist mit Hits aus 80er bis 2000er. DJ Tricky Martin sorgt für die perfekte Mischung, während du an der Strandbar Drinks genießt und beim Quiz oder Memory dein Retro-Wissen p"
+  },
+  {
+    "titel": "WHY SO SHY",
+    "datum": "13. Jun 2026",
+    "datum_raw": "2026-06-13T22:00+0200",
+    "ort": "Bogen 2, Gladbacher Wall 5",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/why-so-shy-7/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "WHY SO SHY ist Kölner FLINTA* Party mit zwei Floors voll Techno, Afrobeats und RnB – ohne Male Gaze, dafür mit viel Raum für queere Vielfalt und Body Positivity. Bring den besonderen Dresscode mit und freu dich auf eine "
   },
   {
     "titel": "Brauhaus Beats mit Constantin und Moritz",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/fi-x-setaoc-mass-rauton-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Setaoc Mass und rau.ton kombinieren bei Nacht #178 treibende Sounds in verschiedenen Back-to-Back-Sets, die den Abend abwechslungsreich gestalten. Neben knackigen Grooves wird das Line-up mit frischen Perspektiven von IA"
+  },
+  {
+    "titel": "Nacht",
+    "datum": "14. Jun 2026",
+    "datum_raw": "2026-06-14T11:00+0200",
+    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
+    "preis": "ab 12 €",
+    "link": "https://rausgegangen.de/events/nacht-1850/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "ProgrammPaul Dukas Ariane et Barbe-Bleue – Ouvertüre zum 3. Akt 1907 Claude Debussy Nuages und Fêtes aus Trois Nocturnes 1900Béla Bartók Herzog Blaubarts Burg Oper in einem Akt op. 11, Sz 48 1911Besetzung Victoria Ka"
   }
 ]
