@@ -25,16 +25,6 @@
     "datum_raw": "2026-06-13T11:00+0200",
     "ort": "Bürgerzentrum Ehrenfeld, Venloer Str. 429",
     "preis": "ab 4 €",
-    "link": "https://rausgegangen.de/events/philharmonieveedel-panz-119/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "»Tanz, tanz, tanz!«Linos Piano TrioEs ist still - mein Körper ist schläfrig, nichts bewegt sich .... Doch da! Der erste Ton! Ich spüre ein Kribbeln in den Beinen, meine Füße zappeln, meine Schultern zucken auf und ab"
-  },
-  {
-    "titel": "PhilharmonieVeedel Pänz",
-    "datum": "13. Jun 2026",
-    "datum_raw": "2026-06-13T11:00+0200",
-    "ort": "Bürgerzentrum Ehrenfeld, Venloer Str. 429",
-    "preis": "ab 4 €",
     "link": "https://rausgegangen.de/events/philharmonieveedel-panz-244/",
     "quelle": "Rausgegangen Köln",
     "teaser": "»Tanz, tanz, tanz!«Linos Piano TrioEs ist still - mein Körper ist schläfrig, nichts bewegt sich .... Doch da! Der erste Ton! Ich spüre ein Kribbeln in den Beinen, meine Füße zappeln, meine Schultern zucken auf und ab"
@@ -135,16 +125,6 @@
     "datum_raw": "2026-06-13T15:00+0200",
     "ort": "Bürgerzentrum Ehrenfeld, Venloer Str. 429",
     "preis": "ab 4 €",
-    "link": "https://rausgegangen.de/events/philharmonieveedel-panz-120/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "»Tanz, tanz, tanz!«Linos Piano TrioEs ist still - mein Körper ist schläfrig, nichts bewegt sich .... Doch da! Der erste Ton! Ich spüre ein Kribbeln in den Beinen, meine Füße zappeln, meine Schultern zucken auf und ab"
-  },
-  {
-    "titel": "PhilharmonieVeedel Pänz",
-    "datum": "13. Jun 2026",
-    "datum_raw": "2026-06-13T15:00+0200",
-    "ort": "Bürgerzentrum Ehrenfeld, Venloer Str. 429",
-    "preis": "ab 4 €",
     "link": "https://rausgegangen.de/events/philharmonieveedel-panz-245/",
     "quelle": "Rausgegangen Köln",
     "teaser": "»Tanz, tanz, tanz!«Linos Piano TrioEs ist still - mein Körper ist schläfrig, nichts bewegt sich .... Doch da! Der erste Ton! Ich spüre ein Kribbeln in den Beinen, meine Füße zappeln, meine Schultern zucken auf und ab"
@@ -154,7 +134,7 @@
     "datum": "13. Jun 2026",
     "datum_raw": "2026-06-13T16:00+0200",
     "ort": "Südbrücke, Alfred-Schütte-Allee 34",
-    "preis": "ab 17 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/radio-sabor-day-party-open-air-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Am 13. Juni gibt’s bei RADIO SABOR eine heiße Open-Air-Party mit den besten Sounds aus Reggaeton, urban Latin und Dembow. DOFRA, MANU und NASSIO sorgen für eine richtig mitreißende Stimmung unter freiem Himmel. Bring dei"
@@ -398,5 +378,25 @@
     "link": "https://rausgegangen.de/events/nacht-1850/",
     "quelle": "Rausgegangen Köln",
     "teaser": "ProgrammPaul Dukas Ariane et Barbe-Bleue – Ouvertüre zum 3. Akt 1907 Claude Debussy Nuages und Fêtes aus Trois Nocturnes 1900Béla Bartók Herzog Blaubarts Burg Oper in einem Akt op. 11, Sz 48 1911Besetzung Victoria Ka"
+  },
+  {
+    "titel": "PhilharmonieVeedel Pänz",
+    "datum": "14. Jun 2026",
+    "datum_raw": "2026-06-14T11:00+0200",
+    "ort": "COMEDIA Theater, Vondelstraße 4-8",
+    "preis": "ab 4 €",
+    "link": "https://rausgegangen.de/events/philharmonieveedel-panz-121/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "»Tanz, tanz, tanz!«Linos Piano TrioEs ist still - mein Körper ist schläfrig, nichts bewegt sich .... Doch da! Der erste Ton! Ich spüre ein Kribbeln in den Beinen, meine Füße zappeln, meine Schultern zucken auf und ab"
+  },
+  {
+    "titel": "MATINEE KONZERT // So. 14.6.2026 // 11:30h „Roots of Possibility“ catinblack ensemble",
+    "datum": "14. Jun 2026",
+    "datum_raw": "2026-06-14T11:30+0200",
+    "ort": "O-Ton.koeln : Konzerte, Recording, Proben, Events, Kyllstraße 7a",
+    "preis": "ab 9 €",
+    "link": "https://rausgegangen.de/events/matinee-konzert-so-1462026-1130h-roots-of-possibility-catinb-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das Roots of Possibility vereint verschiedene Werke, die sich auf sehr unterschiedliche Weise Fragen nach Identität, Struktur und Wirklichkeit stellen. Hierarchie, Erinnerung, Dialog, Erdung und Aufbruch erscheinen dabe"
   }
 ]
