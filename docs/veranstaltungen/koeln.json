@@ -80,21 +80,11 @@
     "teaser": "Die Fußball WM 2026 bringt dich live auf große Leinwand und im Biergarten zusammen, wenn du Lust auf spannende Matches in guter Gesellschaft hast. Ab eine Stunde vor Anpfiff kannst du entspannt eintreffen und die Atmosph"
   },
   {
-    "titel": "Kakao & Klang - Zeremonie mit Sound Healing, live Musik zum Fühlen, Schokolade zum Trinken",
-    "datum": "14. Jun 2026",
-    "datum_raw": "2026-06-14T18:00+0200",
-    "ort": "room for emotions, Am Maarhof 25",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kakao-klang-zeremonie-mit-sound-healing-live-musik-zum-fuhle-34/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zeremonieller Rohkakao – die Medizin des HerzensZeremonieller Rohkakao ist weit mehr als ein Getränk. Seit Jahrtausenden wird er in mittel- und südamerikanischen Kulturen als heilige Pflanzenmedizin verehrt – als „Spei"
-  },
-  {
     "titel": "Deutschland : Curaçao",
     "datum": "14. Jun 2026",
     "datum_raw": "2026-06-14T19:00+0200",
     "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
-    "preis": "ab 12 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/deutschland-curacao/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Wenn du Lust auf echtes Fan-Feeling am Sommerabend hast, wird das Open-Air-Kino ab 17 Uhr dein Place-to-be. Das Spiel Deutschland gegen Curaçao flimmert live auf einer riesigen LED-Leinwand, dazu gibt es Drinks und gute "
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/jorg-achim-keller-king-georg-12-34/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Drums & Arrangements: Jörg Achim Keller, Alto Sax 1: Heinz Dieter Sauerborn, Tenor Sax 2: Paul Heller, Tenor Sax 3: Andi Maile, Trp 1: Wim Both, Trp 2:  Ruud Breuls, Trb 1:  Günter Bollmann, Trb 2:  Uli Plettendorff, T"
+  },
+  {
+    "titel": "Latin & Salsa Session",
+    "datum": "17. Jun 2026",
+    "datum_raw": "2026-06-17T20:00+0200",
+    "ort": "artheater Köln, Ehrenfeldgürtel 127",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/latin-salsa-session-29/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei der Latin & Salsa Session kommen Musiker:innen aus Köln zusammen, um kubanische und kolumbianische Rhythmen lebendig werden zu lassen. Die Band Marcando eröffnet den Abend mit ihrem präzisen und mitreißenden Sound. E"
   }
 ]
