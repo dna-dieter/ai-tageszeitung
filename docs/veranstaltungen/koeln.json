@@ -50,16 +50,6 @@
     "teaser": "Zwei Tage lang zeigt die Südstadt auf der Bonner Straße, wie vielseitig Köln sein kann: Von handgemachtem Schmuck bis zu exotischem Streetfood ist für jeden was dabei. Dazu gibt’s Musik und eine Modenschau, die lokale De"
   },
   {
-    "titel": "WIR Schwestern im Kessel - Südbrücke - Open Air (abgesagt)",
-    "datum": "14. Jun 2026",
-    "datum_raw": "2026-06-14T14:00+0200",
-    "ort": "Südbrücke, Alfred Schütte Allee 34, Köln Poll 51105, Alfred-Schütte-Allee 34",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/wir-schwestern-spontan-im-kessel-sudbrucke-open-air-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier gibt’s elektronische Klänge von House bis Techno unter freiem Himmel. Das Line-up folgt bald, doch eins ist sicher: Der sonnige Nachmittag verspricht entspannte, gemeinsame Stunden mit feinen Beats und guter Stimmun"
-  },
-  {
     "titel": "Flohmarkt! Burlesque, Drag, Kinky, Vintage, Show, Kostüme",
     "datum": "14. Jun 2026",
     "datum_raw": "2026-06-14T14:00+0200",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/psychedelic-light-sound-22/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Die Psychedelic Light & Sound Journey verbindet eines der ältesten Instrumente der Erde mit den neusten Erkenntnissen und Technologien aus der Forschung.  Mit dem Einsatz des Gongs in Kombination mit der Roxiva-Lichttec"
+  },
+  {
+    "titel": "Friska Viljor | LIVE",
+    "datum": "17. Jun 2026",
+    "datum_raw": "2026-06-17T19:00+0200",
+    "ort": "Kulturkirche Köln, Siebachstraße 85",
+    "preis": "ab 38 €",
+    "link": "https://rausgegangen.de/events/friska-viljor-live-7/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Friska Viljor – Die Songs, das Leben, das Publikum Wir haben Friska Viljor früh gegründet – als junge Erwachsene, verwirrt, ruhelos und ohne klare Richtung. Wir wussten nur, dass wir Songs schreiben, sie mit anderen te"
   }
 ]
