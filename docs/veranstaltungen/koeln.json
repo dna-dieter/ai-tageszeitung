@@ -10,26 +10,6 @@
     "teaser": "Der Cologne Drag Brunch verbindet entspanntes Schlemmen mit einer Show, die auf Humor und Glamour setzt. Zwischen Brunch und Varieté erwartet dich eine bunte Mischung aus Queer-Performance, Tanz und Comedy, die für gute "
   },
   {
-    "titel": "Nacht",
-    "datum": "14. Jun 2026",
-    "datum_raw": "2026-06-14T11:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 12 €",
-    "link": "https://rausgegangen.de/events/nacht-1850/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "ProgrammPaul Dukas Ariane et Barbe-Bleue – Ouvertüre zum 3. Akt 1907 Claude Debussy Nuages und Fêtes aus Trois Nocturnes 1900Béla Bartók Herzog Blaubarts Burg Oper in einem Akt op. 11, Sz 48 1911Besetzung Victoria Ka"
-  },
-  {
-    "titel": "MATINEE KONZERT // So. 14.6.2026 // 11:30h „Roots of Possibility“ catinblack ensemble",
-    "datum": "14. Jun 2026",
-    "datum_raw": "2026-06-14T11:30+0200",
-    "ort": "O-Ton.koeln : Konzerte, Recording, Proben, Events, Kyllstraße 7a",
-    "preis": "ab 9 €",
-    "link": "https://rausgegangen.de/events/matinee-konzert-so-1462026-1130h-roots-of-possibility-catinb-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Das Roots of Possibility vereint verschiedene Werke, die sich auf sehr unterschiedliche Weise Fragen nach Identität, Struktur und Wirklichkeit stellen. Hierarchie, Erinnerung, Dialog, Erdung und Aufbruch erscheinen dabe"
-  },
-  {
     "titel": "Südstadtfest 2026 – Die Bonner Straße gehört euch!",
     "datum": "14. Jun 2026",
     "datum_raw": "2026-06-14T13:00+0200",
@@ -60,16 +40,6 @@
     "teaser": "velopop #8 Radtour mit 3 secret Gigs an secret Spots Infos + Anmeldung: www.velopop.de"
   },
   {
-    "titel": "Tanz und neue Kammermusik · REMEMBER. JAMES SAUNDERS",
-    "datum": "14. Jun 2026",
-    "datum_raw": "2026-06-14T15:00+0200",
-    "ort": "Wallraf-Richartz-Museum, Stiftersaal, Obenmarspforten 40",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/tanz-und-neue-kammermusik-remember-james-saunders-1946-1996--0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": " Zeitgenössischer Tanz trifft auf neue Klänge und das globale Musikverständnis des E-MEX Ensembles auf Germaine Acogny, die Grande Dame des afrikanischen Tanzes. Ausgangspunkt dieses künstlerischen Gipfeltreffens am "
-  },
-  {
     "titel": "Public Viewing Fußball-WM: Deutschland - Curaçao | DIE HALLE Tor 2",
     "datum": "14. Jun 2026",
     "datum_raw": "2026-06-14T17:30+0200",
@@ -94,7 +64,7 @@
     "datum": "14. Jun 2026",
     "datum_raw": "2026-06-14T18:00+0200",
     "ort": "H26, Zülpicher Straße 26",
-    "preis": "ab 0 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/wm-2026-public-viewing-im-h26-3/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Im Hidden Garden verschmilzt Fußball mit entspannter Baratmosphäre. Statt Gedränge gibt’s reservierte Plätze und kalte Drinks. Drei Abende, drei Spiele und ein bisschen Sommerzauber abseits des Mainstreams erwarten dich "
@@ -178,6 +148,16 @@
     "link": "https://rausgegangen.de/events/cass-mccombs-band-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Manchmal hat man das Gefühl, ein Künstler kommt erst richtig an, wenn er einen Umweg gemacht hat. Bei Cass McCombs ist das so. Der Mann, dessen Songs immer schon eine eigene Welt waren, hat im August 2025 sein fantasti"
+  },
+  {
+    "titel": "Nacht",
+    "datum": "15. Jun 2026",
+    "datum_raw": "2026-06-15T20:00+0200",
+    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/nacht-1851/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "ProgrammPaul Dukas Ariane et Barbe-Bleue – Ouvertüre zum 3. Akt 1907 Claude Debussy Nuages und Fêtes aus Trois Nocturnes 1900Béla Bartók Herzog Blaubarts Burg Oper in einem Akt op. 11, Sz 48 1911Besetzung Victoria Ka"
   },
   {
     "titel": "Off Campus Club: ECM Music meets Zwölfton",
@@ -398,5 +378,25 @@
     "link": "https://rausgegangen.de/events/500-jahre-musik-der-ukraine-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "500 Jahre Musik der UkraineUkrainische Chormusik zwischen Tradition und Gegenwart70 Min | Ohne PauseAuf der Rückreise von einem Gastspiel in Paris macht der renommierte Knaben- und Männerchor Dudaryk aus dem ukrainisch"
+  },
+  {
+    "titel": "BILLY TALENT",
+    "datum": "17. Jun 2026",
+    "datum_raw": "2026-06-17T20:00+0200",
+    "ort": "Die Kantine, Neusser Landstraße 2",
+    "preis": "ab 20 €",
+    "link": "https://rausgegangen.de/events/billy-talent-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Billy Talent feiern das Jubiläum ihres Erfolgsalbums „Billy Talent II“ in Deutschland!    Im Juni dieses Jahres feiert das schon jetzt legendäre Album einer der bekanntesten kanadischen Rock-Bands sein 20. Jubiläum – "
+  },
+  {
+    "titel": "Jörg Achim Keller King Georg 12",
+    "datum": "17. Jun 2026",
+    "datum_raw": "2026-06-17T20:00+0200",
+    "ort": "King Georg, Sudermanstraße 2",
+    "preis": "ab 13 €",
+    "link": "https://rausgegangen.de/events/jorg-achim-keller-king-georg-12-34/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Drums & Arrangements: Jörg Achim Keller, Alto Sax 1: Heinz Dieter Sauerborn, Tenor Sax 2: Paul Heller, Tenor Sax 3: Andi Maile, Trp 1: Wim Both, Trp 2:  Ruud Breuls, Trb 1:  Günter Bollmann, Trb 2:  Uli Plettendorff, T"
   }
 ]
