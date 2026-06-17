@@ -30,16 +30,6 @@
     "teaser": "Im CBE kannst du die WM 2026 ohne Eintritt mitverfolgen und dich für entspannte Spiele zwischen Portugal und DR Kongo deinen Sitzplatz sichern. Freie Plätze gibt’s nach dem Motto, wer zuerst kommt, schaut zuerst. So wird"
   },
   {
-    "titel": "Psychedelic Light & Sound",
-    "datum": "17. Jun 2026",
-    "datum_raw": "2026-06-17T18:00+0200",
-    "ort": "Klangkino, Hansaring 61",
-    "preis": "ab 55 €",
-    "link": "https://rausgegangen.de/events/psychedelic-light-sound-22/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die Psychedelic Light & Sound Journey verbindet eines der ältesten Instrumente der Erde mit den neusten Erkenntnissen und Technologien aus der Forschung.  Mit dem Einsatz des Gongs in Kombination mit der Roxiva-Lichttec"
-  },
-  {
     "titel": "Friska Viljor | LIVE",
     "datum": "17. Jun 2026",
     "datum_raw": "2026-06-17T19:00+0200",
@@ -168,6 +158,16 @@
     "link": "https://rausgegangen.de/events/already-loud-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Am 17. Juni gibt’s bei Already Loud eine Sause mit den besten 2010er Hymnen, Hip Hop und R’n’B der neuen Generation. Keine Verkleidung, nur entspannte Stimmung und Musik, die dich direkt aus dem Alltag holt. Start ist um"
+  },
+  {
+    "titel": "Psychedelic Light & Sound",
+    "datum": "17. Jun 2026",
+    "datum_raw": "2026-06-17T21:00+0200",
+    "ort": "Klangkino, Hansaring 61",
+    "preis": "ab 55 €",
+    "link": "https://rausgegangen.de/events/psychedelic-light-sound-23/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Psychedelic Light & Sound Journey verbindet eines der ältesten Instrumente der Erde mit den neusten Erkenntnissen und Technologien aus der Forschung.  Mit dem Einsatz des Gongs in Kombination mit der Roxiva-Lichttec"
   },
   {
     "titel": "Tage der offenen Tür der TH Köln",
