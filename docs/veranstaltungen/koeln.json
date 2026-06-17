@@ -84,7 +84,7 @@
     "datum": "17. Jun 2026",
     "datum_raw": "2026-06-17T19:30+0200",
     "ort": "Stereo Wonderland, Trierer Straße 65",
-    "preis": "ab 11 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/konzert-mara-chiaki-faira-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Konzert - Mara Chiaki & FAIRA Datum: Mi. 17.06.2026 Einlass: 19:30 Uhr Beginn: 20:00 Uhr Eintritt: 10€ VVK + Gebühren / 13€ AK Die junge Band MARA CHIAKI aus Marburg überzeugt mit ihren Eigenkompositionen, die von ener"
@@ -134,7 +134,7 @@
     "datum": "17. Jun 2026",
     "datum_raw": "2026-06-17T20:00+0200",
     "ort": "King Georg, Sudermanstraße 2",
-    "preis": "ab 13 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/jorg-achim-keller-king-georg-12-34/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Drums & Arrangements: Jörg Achim Keller, Alto Sax 1: Heinz Dieter Sauerborn, Tenor Sax 2: Paul Heller, Tenor Sax 3: Andi Maile, Trp 1: Wim Both, Trp 2:  Ruud Breuls, Trb 1:  Günter Bollmann, Trb 2:  Uli Plettendorff, T"
@@ -178,16 +178,6 @@
     "link": "https://rausgegangen.de/events/tage-der-offenen-tur-19/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Du möchtest wissen, was dich beim Studium an der TH Köln erwartet?Dann komm zu den Tagen der offenen Tür! Hier kannst du mehr zu den Studiengängen und Voraussetzungen erfahren, echte Einblicke in den Studienalltag be"
-  },
-  {
-    "titel": "Sundowner Biergarten",
-    "datum": "18. Jun 2026",
-    "datum_raw": "2026-06-18T17:00+0200",
-    "ort": "Kartäuserkirche Köln, Kartäusergasse 7",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/sundowner-biergarten-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Im Sundowner Biergarten erwarten dich entspannte Stunden mit Drinks und Snacks in cooler Biergartenatmosphäre. Dabei tust du auch noch Gutes, denn alle Einnahmen unterstützen Menschen im Kirchenasyl in Köln. Dazu gibt’s "
   },
   {
     "titel": "Yin & Ambient",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/one-day-choir-workshop-koln-ein-tag-gemeinsam-im-chor-singen-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Beginn 18:00 Uhr. Einlass 17:30 Uhr.ONE-DAY CHOIR Workshop| Köln | Das Chorerlebnis für einen TagHast du Freude am Singen und möchtest mehrstimmig mit anderen singen – und dabei ganz nebenbei deine Stimme und dein mus"
+  },
+  {
+    "titel": "Yola's OFF Stage Session X Blue Tomato",
+    "datum": "19. Jun 2026",
+    "datum_raw": "2026-06-19T18:45+0200",
+    "ort": "Blue Tomato Köln, Schildergasse 112",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/off-stage-session-x-blue-tomato-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die OFF Stage geht in die zweite Runde und diesmal nicht alleine. Gemeinsam mit Blue Tomato bringen wir das neue Konzertformat nach Köööllee! Und das ganze mitten in der Innenstadt. Wenn alle Stores bereits schließen,"
   }
 ]
