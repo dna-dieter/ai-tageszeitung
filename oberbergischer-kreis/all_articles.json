@@ -1350,6 +1350,43 @@
     "fetched": "2026-05-05T21:11:16.625182"
   },
   {
+    "id": "f001d714ce07",
+    "title": "Kostenlose geführte (E-)MTB-Touren in Wipperfürth",
+    "summary": "Am Sonntag, 21.06. um 10 Uhr geht es zum Steinbruch in Lindlar und auf den Vogelberg. Mehr Informationen finden Sie hier.",
+    "link": "https://tourismus.wipperfuerth.de/aktivitaeten/radfahren/gefuehrte-radtouren.html",
+    "published": "Wed, 17 Jun 2026 12:28:06 +0200",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth",
+      "lindlar"
+    ],
+    "fetched": "2026-06-17T11:15:30.311026"
+  },
+  {
+    "id": "fbcc100d491c",
+    "title": "WLS-Bad heute ab 14 Uhr geschlossen",
+    "summary": "Das WLS-Bad muss heute ab 14 Uhr krankheitsbedingt schließen.",
+    "link": "https://www.wipperfuerth.de/detailansicht/wls-bad-heute-ab-14-uhr-geschlossen.html",
+    "published": "Wed, 17 Jun 2026 09:51:01 +0200",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-06-17T11:15:30.311056"
+  },
+  {
+    "id": "ac79c3d2e19c",
+    "title": "POL-GM: Einbrüche in Gaststätte und Garagen",
+    "summary": "Gummersbach (ots) - In der Hesselbacher Straße sind Unbekannte am Dienstag (16. Juni) zwischen 19 und 22 Uhr in eine Garage eingebrochen. Die Unbekannten durchwühlten sämtliche Schränke und durchsuchten das in der Garage abgestellte Auto. Beute ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6296000",
+    "published": "Wed, 17 Jun 2026 09:20:59 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-06-17T11:15:41.200163"
+  },
+  {
     "id": "78238f18bca2",
     "title": "Oberberg: Bis 32 Grad – so kommt die Region cool durch die Hitze",
     "summary": "Bis 32 Grad in Oberberg und NRW: Tipps für heiße Tage, Ideen zum gemeinsamen Abkühlen und ein Blick auf Oberbergs Talsperren mit Bestnoten.",
@@ -1369,7 +1406,8 @@
     "published": "Wed, 17 Jun 2026 01:33:10 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "gummersbach"
     ],
     "fetched": "2026-06-17T05:07:01.372670"
   },
