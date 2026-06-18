@@ -210,16 +210,6 @@
     "teaser": "Vossi GVO und Cassius Creed bringen eine Nacht voller globaler Sounds zusammen, von Dancehall über Hip Hop bis Latin. Zeig deine Herkunft laut und bunt, schnapp dir Flagge oder Trikot und lass sie zum lebendigen Erinneru"
   },
   {
-    "titel": "Mittsommerfest",
-    "datum": "19. Jun 2026",
-    "datum_raw": "2026-06-19T11:00+0200",
-    "ort": "Schokoladenmuseum Vorplatz, Am Schokoladenmuseum 1A",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/mittsommerfest-4/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Mittsommerfest in Köln erwarten dich handgemachte Schätze von Kunsthandwerker:innen, leckeres Streetfood und ein buntes Bühnenprogramm, das die längste Tageszeit des Jahres feiert. Kinder können sich im Spielzelt od"
-  },
-  {
     "titel": "PRE-PARTY I OFF Stage Session x Blue Tomato",
     "datum": "19. Jun 2026",
     "datum_raw": "2026-06-19T12:00+0200",
@@ -268,6 +258,16 @@
     "link": "https://rausgegangen.de/events/singen-joy-of-singing-einfach-singen-in-koln-sulz-chor-auf-z-7/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Herzliche Einladung zu „Joy of Singing“ – gemeinsames Singen von Liedern, die verbinden und gut tun.Wir singen Lieder, die leicht zu lernen sind und ohne Noten oder Textblätter auskommen. Durch das wiederholte Singen en"
+  },
+  {
+    "titel": "KDK OPEN AIR 4.0",
+    "datum": "19. Jun 2026",
+    "datum_raw": "2026-06-19T16:30+0200",
+    "ort": "Südbrücke, Alfred-Schütte-Allee 34",
+    "preis": "ab 50 €",
+    "link": "https://rausgegangen.de/events/kdk-open-air-40-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das KDK Open Air versammelt zum vierten Mal die spannendsten Stimmen aus dem Deutschrap und legt den Fokus auf starke Tracks sowie neue Talente. Lugatti & 9ine laden dich ein, zwei Tage lang gemeinsam entspannt gute Musi"
   },
   {
     "titel": "Odonische Freitagsbühne",
