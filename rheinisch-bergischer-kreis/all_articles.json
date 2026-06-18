@@ -1572,6 +1572,18 @@
     "fetched": "2026-06-17T15:58:58.636320"
   },
   {
+    "id": "bee979c04504",
+    "title": "Haus & Grund kritisiert hohe Müllgebühren",
+    "summary": "Bergisch Gladbach ist die teuerste Stadt Deutschlands bei den Müllgebühren. Zu diesem Ergebnis kommt das neue Ranking der 100 größten deutschen Städte, das Haus &#038; Grund regelmäßig veröffentlicht. Für die Interessenvertretung der Hauseigentümer in Rhein-Berg ist das ein deutliches Warnsignal für Politik und Verwaltung.",
+    "link": "https://in-gl.de/2026/06/17/haus-grund-kritisiert-hohe-muellgebuehren/",
+    "published": "Wed, 17 Jun 2026 14:22:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-06-18T04:55:46.725023"
+  },
+  {
     "id": "c3485c3d9815",
     "title": "Container-Einbruch in Odenthal",
     "summary": "Unbekannte sind in Container auf einem Sportplatz an der Bergisch Gladbacher Straße eingebrochen. Mehrere Türen wurden aufgebrochen, der Schaden liegt im mittleren vierstelligen Bereich.",
@@ -9106,6 +9118,43 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-05-05T21:10:26.240939"
+  },
+  {
+    "id": "b0168bded62a",
+    "title": "Der Mann am Grill aus Wermelskirchen empfiehlt bergische Produkte",
+    "summary": "Hans Müller aus Wermelskirchen hat ein Grillbuch geschrieben. Mit seinem Werk „So grillt das Bergische Land“ möchte er vermitteln, dass Grillen so einfach sein kann.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/der-mann-am-grill-aus-wermelskirchen-empfiehlt-bergische-produkte-ORCQNCWEYJANFFLKFGZ3QZIL6A.html",
+    "published": "Thu, 18 Jun 2026 06:00:07 +0200",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen",
+      "burscheid"
+    ],
+    "fetched": "2026-06-18T04:56:07.064795"
+  },
+  {
+    "id": "30b222ff4787",
+    "title": "Das sagt die Kreispolizei zu den Diebstählen in der Burscheider City",
+    "summary": "Unter anderem liefern die Beamten Zahlen zu aktuellen Delikten - und empfehlen, was zu tun ist, wenn Händler oder Kunden eine Tat beobachten.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/das-sagt-die-kreispolizei-zu-den-diebstaehlen-in-der-burscheider-city-F3PA7PQP4ZHIJFC4JIGMKZLJKU.html",
+    "published": "Thu, 18 Jun 2026 05:00:10 +0200",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-06-18T04:56:07.544875"
+  },
+  {
+    "id": "16eca93652d3",
+    "title": "Wermelskirchen: Instagram-Suche endet vor dem Amtsgericht",
+    "summary": "Ein 31-Jähriger hat gestanden, kinderpornografische Dateien besessen zu haben – und erklärt, er habe sie „versehentlich“ heruntergeladen. Das Gericht folgte dieser Erklärung nur bedingt.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/wermelskirchen-instagram-suche-endet-vor-dem-amtsgericht-D473H4XWY7ARKFDYJ66UF2UCQA.html",
+    "published": "Thu, 18 Jun 2026 02:00:00 +0200",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-06-18T04:56:07.064834"
   },
   {
     "id": "40ce40486267",
