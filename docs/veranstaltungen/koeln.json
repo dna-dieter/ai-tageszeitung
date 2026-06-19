@@ -50,16 +50,6 @@
     "teaser": "Das KDK Open Air versammelt zum vierten Mal die spannendsten Stimmen aus dem Deutschrap und legt den Fokus auf starke Tracks sowie neue Talente. Lugatti & 9ine laden dich ein, zwei Tage lang gemeinsam entspannt gute Musi"
   },
   {
-    "titel": "Parkplatztickets | KDK Open Air 4.0",
-    "datum": "19. Jun 2026",
-    "datum_raw": "2026-06-19T16:30+0200",
-    "ort": "Südbrücke, Alfred-Schütte-Allee 34",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/parkplatztickets-kdk-open-air-40-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Gültig für ein Fahrzeug. Der Parkplatz öffnet am Veranstaltungstag (19.06.) ab 16:30 und am Veranstaltungstag (20.06.) ab 15:00 Uhr.Der benachbarte Betrieb „Alfred Schütte“ stellt uns seine bereits vorhandenen Mitarb"
-  },
-  {
     "titel": "Singen - Joy of Singing - einfach singen in Köln-Sülz - Chor auf Zeit",
     "datum": "19. Jun 2026",
     "datum_raw": "2026-06-19T16:30+0200",
@@ -168,6 +158,16 @@
     "link": "https://rausgegangen.de/events/audio88-yassin-neues-album-2025-tour-5/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Audio88 & Yassin melden sich mit ihrem neuen Album „Zeit zu sterben“ zurück und nehmen kein Blatt vor den Mund, wenn sie aktuelle Krisen und eigene Fehler unter die Lupe nehmen. Mit Gästen wie Morlockk Dilemma und einer "
+  },
+  {
+    "titel": "Cozy Concert",
+    "datum": "19. Jun 2026",
+    "datum_raw": "2026-06-19T19:00+0200",
+    "ort": "Galerie daneben neu, Lindenstraße 99",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/cozy-concerts-by-hidden-stage-sessions-ev-18/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Cozy Concerts sind eine Geheimkonzertreihe in gemütlicher Atmosphäre* – in Wohnzimmern, Buchläden, Ateliers, Gärten und anderen besonderen Orten. Intim, authentisch, entspannend. 80–90 % der Musiker*innen bei den"
   },
   {
     "titel": "FAOUZIA",

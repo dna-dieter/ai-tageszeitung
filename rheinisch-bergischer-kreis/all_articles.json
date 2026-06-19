@@ -9364,6 +9364,30 @@
     "fetched": "2026-06-18T04:56:07.544875"
   },
   {
+    "id": "91f26f387ff7",
+    "title": "Sprechstunde: Schlüsselnährstoff Vitamin B12",
+    "summary": "Vitamin B12 gilt oft als reines „Veganer-Thema“. Tatsächlich kann ein Mangel aber auch Kinder betreffen, die grundsätzlich Fisch, Milchprodukte, Eier oder Fleisch essen. Wie entsteht ein Mangel, woran erkennt man ihn, und wann ist eine Ergänzung sinnvoll? Dr. Uta Römer klärt die wichtigsten Fragen.",
+    "link": "https://in-gl.de/2026/06/18/sprechstunde-schluesselnaehrstoff-vitamin-b12-sprechstunde-uta-roemer/",
+    "published": "Thu, 18 Jun 2026 04:28:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-06-19T16:12:12.087344"
+  },
+  {
+    "id": "b9c744212d4d",
+    "title": "Hochsensibilität: Der große Überblick",
+    "summary": "Unsere Autorin erfährt durch ihr Kind, dass sie selbst hochsensibel ist – so wie bis zu 20 Prozent der Bevölkerung. Obwohl es so weit verbreitet ist, weiß kaum jemand über das Thema Bescheid. Dabei kann es, unerkannt, zu großen Problemen führen. Was ist Hochsensibilität? Wie erkennen Eltern, ob ihr Kind betroffen ist? Und wie gehen sie damit um? Viele Fragen, viele Antworten im großen Überblick.",
+    "link": "https://in-gl.de/2026/06/18/hochsensibilitaet-der-grosse-ueberblick/",
+    "published": "Thu, 18 Jun 2026 03:43:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-06-19T16:12:12.087396"
+  },
+  {
     "id": "16eca93652d3",
     "title": "Wermelskirchen: Instagram-Suche endet vor dem Amtsgericht",
     "summary": "Ein 31-Jähriger hat gestanden, kinderpornografische Dateien besessen zu haben – und erklärt, er habe sie „versehentlich“ heruntergeladen. Das Gericht folgte dieser Erklärung nur bedingt.",
@@ -9374,6 +9398,18 @@
       "wermelskirchen"
     ],
     "fetched": "2026-06-18T04:56:07.064834"
+  },
+  {
+    "id": "aba8cb7a3242",
+    "title": "Wie der Alltag mit hochsensiblen Kindern leichter wird",
+    "summary": "Susanne Hillar arbeitet als Coachin mit hochsensiblen Kindern, Jugendlichen, Erwachsenen und ganzen Familien zusammen. Im Interview erzählt sie, wie Eltern ihr betroffenes Kind am besten unterstützen – und so das gesamte Familienleben erleichtern können.",
+    "link": "https://in-gl.de/2026/06/18/wie-der-alltag-mit-hochsensiblen-kindern-leichter-wird/",
+    "published": "Thu, 18 Jun 2026 01:20:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-06-19T16:12:12.087435"
   },
   {
     "id": "40ce40486267",
@@ -17967,6 +18003,30 @@
     "fetched": "2026-05-05T21:10:26.240735"
   },
   {
+    "id": "07ddf28dfdb7",
+    "title": "Rudelgucken am Alten Bahnhof Burscheid: Bei Kojics ist es familiär",
+    "summary": "Bierbänke und Stühle, eine große Leinwand, Knabberzeug und Getränke: Wer am Samstag Lust auf Fußball in Gemeinschaft hat, ist im Lokal an der Balkantrasse goldrichtig.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/rudelgucken-am-alten-bahnhof-burscheid-bei-kojics-ist-es-familiaer-BSVPIBZ2SREHFKETZF44KT6BF4.html",
+    "published": "Fri, 19 Jun 2026 18:10:04 +0200",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-06-19T16:12:33.799805"
+  },
+  {
+    "id": "d17594d3fe3d",
+    "title": "Remscheid: Orthopädietechnik Rehatechnik Sanitätshaus \"Die flotte Krabbe\"? in Lennep eröffnet - Behinderung behindert",
+    "summary": "An der Kölner Straße drücken sich in diesen Tagen Neugierige die Nase platt: Ist es ein Spielparadies? Oder eine Werkstatt? Beides, sagt der Inhaber. Und kümmert sich hier um ein Geschäft, bei dem es um viel Vertrauen geht. Was dahintersteckt.",
+    "link": "https://www.rga.de/lokales/remscheid/remscheid-orthopaedietechnik-rehatechnik-sanitaetshaus-die-flotte-krabbe-in-lennep-eroeffnet-BFA6MQSEJFDAJFTQ4G4OZJLINA.html",
+    "published": "Fri, 19 Jun 2026 16:00:00 +0200",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-06-19T16:12:33.799851"
+  },
+  {
     "id": "2bd2623a7885",
     "title": "Burscheid: Feierabendmarkt startet mit 20 Grad und voller Stimmung",
     "summary": "Der erste Feierabendmarkt dieser Saison fand am Donnerstagabend bei sommerlichen Temperaturen und bester Stimmung auf dem Burscheider Marktplatz statt.",
@@ -18025,6 +18085,18 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-06-19T12:15:55.505702"
+  },
+  {
+    "id": "2393508da457",
+    "title": "Fußballfieber in der Stadtbücherei",
+    "summary": "Die Fußball-WM 2026 begeistert Fans auf der ganzen Welt – und auch in der Stadtbücherei Bergisch Gladbach dreht sich am Donnerstag alles um den beliebten Mannschaftssport. Mit einer Sticker- und Kartentauschbörse sowie einem Bilderbuchkino für Kinder bietet die Stadtbücherei einen abwechslungsreichen Fußballnachmittag für die ganze Familie.",
+    "link": "https://in-gl.de/2026/06/19/fussballfieber-in-der-stadtbuecherei/",
+    "published": "Fri, 19 Jun 2026 05:37:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-06-19T16:12:12.087155"
   },
   {
     "id": "ce421ef92fe5",
