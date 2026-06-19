@@ -20,16 +20,6 @@
     "teaser": "Von Malerei bis 3D Art zeigen nationale und internationale Künstler:innen bei der 1000freund Gallery x Farina 1709, wie Kunst multisensorisch zum Erlebnis wird. Passend dazu entstehen Duftinterpretationen, die deine Wahr"
   },
   {
-    "titel": "PRE-PARTY I OFF Stage Session x Blue Tomato",
-    "datum": "19. Jun 2026",
-    "datum_raw": "2026-06-19T12:00+0200",
-    "ort": "Blue Tomato Köln, Schildergasse 112",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/off-stage-warm-up-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wir schmeißen eine Pre-Party!Zusammen mit Blue Tomato veranstalten wir den ganzen Tag eine Warm-Up Party um uns auf die zweite OFF Stage Session am Abend einzustimmen. Damit das ganze aber nicht ein langweiliges Store-Ev"
-  },
-  {
     "titel": "Summer Vibes: Feierabendmarkt am Neptunplatz",
     "datum": "19. Jun 2026",
     "datum_raw": "2026-06-19T16:00+0200",
@@ -68,16 +58,6 @@
     "link": "https://rausgegangen.de/events/jeck-im-sunnesching-em-veedel-2/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Die Kölner Veedel feiern am 19. Juni wieder richtig jeck und bringen die kölsche Lebensfreude in Kneipen, Brauhäuser und Biergärten von Ehrenfeld bis Friesenviertel. Der perfekte Auftakt zum großen Festival, oft sogar oh"
-  },
-  {
-    "titel": "DRAG INFERNO 🔥 - ColognePride Beach & Village Opening Event 🏖️",
-    "datum": "19. Jun 2026",
-    "datum_raw": "2026-06-19T18:00+0200",
-    "ort": "Elogiusplatz, Köln",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/drag-inferno-colognepride-beach-village-opening-event-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Am 19. Juni verwandelt sich der ColognePride Beach & Village am Elogiusplatz in eine Bühne voller Glamour, Talent und unvergesslicher Momente ✨  Nach der offiziellen Eröffnung des ColognePride 2026 durch den Vorstand d"
   },
   {
     "titel": "Odonische Freitagsbühne",
@@ -254,7 +234,7 @@
     "datum": "19. Jun 2026",
     "datum_raw": "2026-06-19T19:30+0200",
     "ort": "Liebig 257 - Klug e.V., Liebigstraße 257",
-    "preis": "ab 0 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/wohnzimmerkonzerte-von-2acts-cologne-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Jeden zweiten Freitag wird ein Wohnzimmer in Köln-Nippes zur Bühne, auf der Musiker*innen ihre Songs ganz nah und authentisch teilen. Die vielseitigen Acts bringen unterschiedlichste Stile und Sprachen zusammen, was für "
@@ -304,7 +284,7 @@
     "datum": "19. Jun 2026",
     "datum_raw": "2026-06-19T20:00+0200",
     "ort": "Blue Shell, Luxemburger Straße 32",
-    "preis": "ab 27 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/melt-banana-from-tokyojapan-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Fr.,19.06.26Einlass 20 Uhr  Beginn 21 Uhr Blue Shell Live: Klub der 40 präsentiert: MELT-BANANA ...from Tokyo/JapanNoise Industrial Rock   MELT-BANANA kommen aus Tokio/Japan. Der intensive Sound von MELT-BANANA ist län"
@@ -354,10 +334,30 @@
     "datum": "19. Jun 2026",
     "datum_raw": "2026-06-19T21:00+0200",
     "ort": "King Georg, Sudermanstraße 2",
-    "preis": "ab 12 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/heike-geiler-michaela-kohlhaas-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Eine Veranstaltung aus der Reihe Literatur zur ZeitModeration: Wolfgang Frömberg»Das Rechtgefühl machte ihn zum Räuber und Mörder.« So erzählt es Heinrich von Kleist in seiner gleichnamigen Novelle über den Pferdeh"
+  },
+  {
+    "titel": "Soft Noise Club",
+    "datum": "19. Jun 2026",
+    "datum_raw": "2026-06-19T21:00+0200",
+    "ort": "Asimmetric Bar, Venloer Straße 196",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/soft-noise-club-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "celebrating grima’s new single with birthday drinks, dj sets & hazy sounds"
+  },
+  {
+    "titel": "MitSingKunzät vür Naaksüüle, kostenloses Mitsingkonzert mit Max Biermann",
+    "datum": "19. Jun 2026",
+    "datum_raw": "2026-06-19T21:30+0200",
+    "ort": "Peters am Hahnentor, Hahnenstraße 22",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/mitsingkunzat-vur-naaksuule-kostenloses-mitsingkonzert-mit-m-5/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "MitSingKunzät vür Naaksüüle, kostenloses Mitsingkonzert mit Max Biermann Eintritt frei!"
   },
   {
     "titel": "bratty • w/ charli xcx & other brat coded artists • köln",
