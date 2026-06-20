@@ -210,16 +210,6 @@
     "teaser": "Beim HASEN RASEN RUDELGUCKEN trifft Fußballfieber auf Gemeinschaftssinn: Gemeinsam fiebere und feuere hier das Team bei allen Deutschlandspielen und später auch bei den Halbfinals an. Bring deine Leute mit und genieße di"
   },
   {
-    "titel": "Miss O",
-    "datum": "20. Jun 2026",
-    "datum_raw": "2026-06-20T21:00+0200",
-    "ort": "Asimmetric Bar, Venloer Straße 196",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/miss-o-17/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "\"Miss O\" und die Musikgenres sind Experimental, International Rare Grooves, Electronica."
-  },
-  {
     "titel": "fi x Polygonia & Out Of System",
     "datum": "20. Jun 2026",
     "datum_raw": "2026-06-20T23:00+0200",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/chezile-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Noch während er seinen Song „Beanie“ schrieb, lebte Chezile in seinem Auto auf den Straßen von Los Angeles. Das änderte sich mit dem viralen Erfolg der Psych-Indie-Pop-Single jedoch schlagartig. Seine rohen Emotionen u"
+  },
+  {
+    "titel": "Chezile - Wish You Were Here EU/UK Tour",
+    "datum": "21. Jun 2026",
+    "datum_raw": "2026-06-21T20:00+0200",
+    "ort": "Garagen, Oskar-Jäger-Straße 179",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/chezile-wish-you-were-here-euuk-tour-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) zahlen den normalen Kartenpreis. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte."
   }
 ]
