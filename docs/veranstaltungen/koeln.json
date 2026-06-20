@@ -50,16 +50,6 @@
     "teaser": "Das KDK Open Air versammelt zum vierten Mal die spannendsten Stimmen aus dem Deutschrap und legt den Fokus auf starke Tracks sowie neue Talente. Lugatti & 9ine laden dich ein, zwei Tage lang gemeinsam entspannt gute Musi"
   },
   {
-    "titel": "Sommerkonzert",
-    "datum": "20. Jun 2026",
-    "datum_raw": "2026-06-20T16:00+0200",
-    "ort": "Aula Uni Köln, Albertus-Magnus-Platz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/sommerkonzert-133/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "UNIVERSITÄTSKONZERTESommerkonzert60 Min | Ohne PauseDer KölnerKinderUni-Chor lädt zu einem sommerlichen Konzert voller musikalischer Vielfalt ein. Die Kinder und Jugendlichen präsentieren ein abwechslungsreiches Prog"
-  },
-  {
     "titel": "Museumseröffnung    -   TEMPO___K   -   temporäres Museum für zeitgenössische Wandmalerei",
     "datum": "20. Jun 2026",
     "datum_raw": "2026-06-20T18:00+0200",
@@ -174,7 +164,7 @@
     "datum": "20. Jun 2026",
     "datum_raw": "2026-06-20T20:00+0200",
     "ort": "King Georg, Sudermanstraße 2",
-    "preis": "ab 13 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/swing-georg-thimo-niesterok-quartett-feat-cleo-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Mit der Konzertreihe „SWING GEORG“ zelebriert der in Köln lebende Trompeter Thimo Niesterok die Musik der Swing-Ära in wechselnden, hochkarätigen Besetzungen. Mit der Sängerin CLEO ist eine weitere herausragende Musi"
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/femtanyl-man-bites-dog-tour-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "femtanylMan Bites Dog TourPräsentiert von Live Nation 21.06.2026 Köln, Club Bahnhof Ehrenfeld Einlass: 19:00 Uhr | Beginn: 20:00 Uhr Das US-amerikanische Duo femtanyl vereint ihre Affinität zu Hardcore, Breakcore, Ind"
+  },
+  {
+    "titel": "femtanyl - Man Bites Dog Tour",
+    "datum": "21. Jun 2026",
+    "datum_raw": "2026-06-21T20:00+0200",
+    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/femtanyl-man-bites-dog-tour-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Presented by Live NationRollstuhlfahrer mit Merkzeichen „B“ wählen bitte die Telefonnummer +49 (0)30 - 40 818 824 (Ortstarif). Unsere kompetenten Kollegen aus dem Call Center helfen Ihnen täglich von 10 Uhr - 18 Uhr sc"
   }
 ]
