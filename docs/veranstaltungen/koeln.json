@@ -120,16 +120,6 @@
     "teaser": "Tanzeinführung ab 16 UhrAlle tanzen mit! In Paaren, im Kreis, in Ketten, in Gruppen aus mehreren Personen oder alleine. Live-Musik, Spaß, Freude an Bewegung und Geselligkeit in einer besonderen Atmosphäre. Das hört si"
   },
   {
-    "titel": "Deutz-Chor Köln",
-    "datum": "21. Jun 2026",
-    "datum_raw": "2026-06-21T16:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 10 €",
-    "link": "https://rausgegangen.de/events/deutz-chor-koln-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "80 Jahre Deutz-Chor Köln – Best of Musical "
-  },
-  {
     "titel": "eos chamber orchestra feat. Theresia Philipp & Bastian Stein",
     "datum": "21. Jun 2026",
     "datum_raw": "2026-06-21T18:00+0200",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/chorkonzert-73/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Chorkonzert im Zirkuszelt"
+  },
+  {
+    "titel": "FAT FREDDYS DROP",
+    "datum": "23. Jun 2026",
+    "datum_raw": "2026-06-23T20:00+0200",
+    "ort": "Palladium, Schanzenstraße 36",
+    "preis": "ab 47 €",
+    "link": "https://rausgegangen.de/events/fat-freddys-drop-6/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die legendäre Band Fat Freddy’s Drop kehrt 2026 endlich wieder auf deutsche Bühnen zurück: Im Rahmen ihrer „Based On A True Story 21st Anniversary Tour 2026“ feiern sie das Jubiläum ihres bahnbrechenden Debütalbums "
   }
 ]
