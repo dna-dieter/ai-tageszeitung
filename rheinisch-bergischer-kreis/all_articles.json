@@ -4822,6 +4822,19 @@
     "fetched": "2026-05-05T21:10:26.240006"
   },
   {
+    "id": "48b418df0385",
+    "title": "DWD warnt: Es bleibt weiter sehr heiß in Remscheid",
+    "summary": "Die Hitze hat das bergische Land fest im Griff. Seit Tagen warnt der Deutsche Wetterdienst (DWD) vor extremen Temperaturen. Alle Infos in unserem Liveticker.",
+    "link": "https://www.rga.de/lokales/remscheid/dwd-warnt-es-bleibt-weiter-sehr-heiss-in-remscheid-MBYP6IG2KVFYTFUVCTKHZZRA7A.html",
+    "published": "Tue, 23 Jun 2026 13:11:39 +0200",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen",
+      "burscheid"
+    ],
+    "fetched": "2026-06-23T12:13:46.314454"
+  },
+  {
     "id": "ffdf9ffbc1d8",
     "title": "POL-RBK: Rösrath - Einbruch in Getränkemarkt",
     "summary": "Rösrath (ots) - Bargeld aus der Kasse und eine nicht bekannte Anzahl Zigarettenpackungen: Unbekannte waren am vergangenen Wochenende bei einem Einbruch in einen Getränkemarkt erfolgreich. Gestern Morgen (22.06.) wurde die Polizei informiert. Ein ...",
@@ -4846,6 +4859,18 @@
     "fetched": "2026-06-23T08:36:32.852159"
   },
   {
+    "id": "0814d428fe66",
+    "title": "185 OGS-Plätze fehlen – Stadt erfüllt Rechtsanspruch nicht",
+    "summary": "Ab dem kommenden Schuljahr haben Erstklässler einen Rechtsanspruch auf eine Ganztagsbetreuung. Doch der Mangel an OGS-Plätzen in Bergisch Gladbach bleibt auf hohem Niveau. Besonders groß ist der Engpass in Moitzfeld. Hier fehlen nicht nur Dutzende Betreuungsplätze für höhere Klassen, sondern auch etliche I-Dötzchen gehen leer aus.",
+    "link": "https://in-gl.de/2026/06/23/185-ogs-platze-fehlen-stadt-bergisch-gladbach-kann-rechtsanspruch-nicht-erfullen/",
+    "published": "Tue, 23 Jun 2026 08:51:55 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-06-23T12:13:28.441812"
+  },
+  {
     "id": "c3c6020e4a6d",
     "title": "POL-RBK: Burscheid - Diebstahl aus einem Holzschuppen - Tatverdächtige flüchten auf E-Scootern",
     "summary": "Burscheid (ots) - Am gestrigen Montag (22.06.), gegen circa 16:00 Uhr, ist es in der Bahnhofstraße in Hilgen zu einem Diebstahl aus einem verschlossenen Holzschuppen gekommen. Ein Zeuge hatte drei Jugendliche beobachtet, die sich an einem Schuppen ...",
@@ -4856,6 +4881,66 @@
       "burscheid"
     ],
     "fetched": "2026-06-23T08:36:32.852192"
+  },
+  {
+    "id": "669a34647651",
+    "title": "CDU fordert Priorität für Sicherheit auf dem  Schulweg",
+    "summary": "Die Fraktion der CDU reagiert auf Hinweise der Stadtverwaltung, den Zeitplan bei der Einführung weiterer Schulstraßen nicht einhalten zu können, mit „Sorge und Unverständnis“. Die Sicherheit auf dem Schulweg brauche eine konsequente Umsetzung, die Personalnot könne man durch richtige Setzung der Prioritäten überwinden.",
+    "link": "https://in-gl.de/2026/06/23/cdu-fordert-prioritaet-fuer-sicherheit-auf-dem-schulweg/",
+    "published": "Tue, 23 Jun 2026 05:36:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-06-23T12:13:28.441867"
+  },
+  {
+    "id": "fe64ea071809",
+    "title": "Kidical Mass demonstriert für kindersichere Geh- und Radwege",
+    "summary": "Schulstraßen, baulich getrennte Radwege, Tempo 30: Das sind einige der Maßnahmen, für die sich die Kidical Mass einsetzt, um für mehr Sicherheit",
+    "link": "https://in-gl.de/2026/06/23/kidical-mass-demonstriert-fur-kindersichere-geh-und-radwege-verkehr-bergisch-gladbach/",
+    "published": "Tue, 23 Jun 2026 05:23:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-06-23T12:13:28.441896"
+  },
+  {
+    "id": "5e85637d37d3",
+    "title": "Einführung der Gelben Tonne hat begonnen",
+    "summary": "Bereits seit einem Monat werden die neuen Gelben Tonnen in Bergisch Gladbach ausgeliefert, teilt die Stadt jetzt mit. In Betrieb genommen werden sie allerdings erst am 1. Oktober - bis dahin müssen noch die Gelben Säcke befüllt werden.",
+    "link": "https://in-gl.de/2026/06/23/einfuehrung-der-gelben-tonne-hat-begonnen/",
+    "published": "Tue, 23 Jun 2026 05:20:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-06-23T12:13:28.441926"
+  },
+  {
+    "id": "b7924e888074",
+    "title": "Waldfest am Steinhaus – Wald erleben, entdecken und mitmachen",
+    "summary": "Das Regionalforstamt Bergisches Land lädt zum Waldfest am Waldinformationszentrum Steinhaus ein: mit Führungen, Kreativprogramm, Infoständen und Mitmachaktionen für Kinder. Im Mittelpunkt steht die waldpädagogische Arbeit des Steinhauses.",
+    "link": "https://in-gl.de/2026/06/23/waldfest-am-steinhaus-wald-erleben-entdecken-und-mitmachen/",
+    "published": "Tue, 23 Jun 2026 05:07:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-06-23T12:13:28.441959"
+  },
+  {
+    "id": "bd351bf023ae",
+    "title": "Bergisches Museum wird am 1. Juli teilweise wieder geöffnet",
+    "summary": "Im Februar legte der TÜV das Bergische Museum für Bergbau, Handwerk und Gewerbe in Bensberg wegen massiver Mängel still. Ab dem 1. Juli stehen Besucherinnen und Besuchern wieder einige Bereiche und Angebote zur Verfügung. Das Haupthaus und der Besucherstollen bleiben allerdings weiterhin geschlossen.",
+    "link": "https://in-gl.de/2026/06/23/bergisches-museum-wird-am-1-juli-teilweise-wieder-geoeffnet/",
+    "published": "Tue, 23 Jun 2026 05:05:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-06-23T12:13:28.441993"
   },
   {
     "id": "b3b6bad26bce",
