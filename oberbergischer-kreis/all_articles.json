@@ -738,6 +738,42 @@
     "fetched": "2026-05-05T21:11:09.377485"
   },
   {
+    "id": "35c8ecbd7362",
+    "title": "POL-GM: Pedelec-Fahrerin bei Unfall leicht verletzt",
+    "summary": "Waldbröl (ots) - Ein 14-Jähriger aus Waldbröl fuhr am Dienstag (23. Juni) gegen 16:30 Uhr verbotswidrig mit seinem E-Scooter auf dem Bürgersteig der Homburger Straße und beabsichtigte, nach links in die Turnerstraße zu fahren. In der Kurve kam ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6300955",
+    "published": "Wed, 24 Jun 2026 09:53:42 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-06-24T09:49:34.488480"
+  },
+  {
+    "id": "4090aa65745e",
+    "title": "POL-GM: Cyber-Kriminielle mit Betrugsmasche leider erfolgreich",
+    "summary": "Wiehl (ots) - Eine 67-Jährige aus Wiehl ist kürzlich auf Cyber-Kriminelle hereingefallen. Während sie am Computer saß, erschien plötzlich eine Meldung auf dem Bildschirm, dass sie den Bildschirm nicht ausschalten und eine Telefonnummer anrufen ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6300952",
+    "published": "Wed, 24 Jun 2026 09:51:57 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-06-24T09:49:34.488522"
+  },
+  {
+    "id": "8b9d299f1b9d",
+    "title": "POL-GM: 47-Jähriger geht in Fußgängerzone auf Frau los",
+    "summary": "Gummersbach (ots) - Ein 47-Jähriger ohne festen Wohnsitz war am Dienstag (23. Juni) gegen 15 Uhr in der Fußgängerzone der Hindenburgstraße unterwegs und schrie herum. Plötzlich ging er auf eine 51-jährige Gummersbacherin zu und schlug ihr ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6300951",
+    "published": "Wed, 24 Jun 2026 09:51:12 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-06-24T09:49:34.488555"
+  },
+  {
     "id": "4074760201d5",
     "title": "Einfach heiraten in Oberberg: Festival lockt nach Wiedenest und Wipperfürth",
     "summary": "Einfach heiraten in Oberberg: Der Kirchenkreis An der Agger lädt am 26. und 27. Juni zum Pop-Up-Hochzeitsfestival nach Wiedenest und Wipperfürth.",
@@ -745,7 +781,8 @@
     "published": "Wed, 24 Jun 2026 02:44:18 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "wipperfuerth"
+      "wipperfuerth",
+      "bergneustadt"
     ],
     "fetched": "2026-06-24T05:09:38.943892"
   },

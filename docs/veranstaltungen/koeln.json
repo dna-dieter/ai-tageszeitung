@@ -44,7 +44,7 @@
     "datum": "24. Jun 2026",
     "datum_raw": "2026-06-24T19:00+0200",
     "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
-    "preis": "kostenlos",
+    "preis": "ab 6 €",
     "link": "https://rausgegangen.de/events/singmittwoch-ein-abend-zum-mitsingen-8/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Gesa und Johannes bringen Klassiker zum Mitsingen, die einfach alle packen. Bei lockerer Atmosphäre und Drinks an der Bar kannst du mit deinen Lieblingsmenschen gemeinsam laut werden und einfach Spaß haben auf einem Aben"
@@ -178,16 +178,6 @@
     "link": "https://rausgegangen.de/events/counting-crows-the-complete-sweets-tour-3/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Presented by Live NationRollstuhlnutzende (mit „B“ im Ausweis) buchen ihre Tickets (max. 4) über die Ticketmaster Hotline (+49 (0)30-40 818 824. Die Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte"
-  },
-  {
-    "titel": "Roda de Samba do Alemão – Brasilien vs. Schottland",
-    "datum": "24. Jun 2026",
-    "datum_raw": "2026-06-24T20:00+0200",
-    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
-    "preis": "ab 8 €",
-    "link": "https://rausgegangen.de/events/roda-de-samba-do-alemao-brasilien-vs-schottland-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Roda de Samba do Alemão – Brasilien vs. Schottland Samba, cerveja gelada, gente bonita & muita alegria. Wenn die brasilianische Nationalmannschaft spielt, verwandeln sich Bars, Plätze und Wohnzimmer auf der ganzen Welt"
   },
   {
     "titel": "we are ALVA - Proud Snail! Tour 2026",
@@ -388,6 +378,16 @@
     "link": "https://rausgegangen.de/events/ein-besonderer-blues-abend-in-der-kolner-sudstadt-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "🎟 Eintritt frei ✨ Freiwillige Spenden (Hutspende) sind herzlich willkommen. Zum ersten Mal ist der renommierte Blues-Musiker Richard Bargel bei WASI Kölle e.V. zu Gast. Freuen Sie sich auf einen besonderen Konzertabend "
+  },
+  {
+    "titel": "Erobique LIVE - ACHTUNG: Konzert verlegt! NEUER ORT: Carlswerk Victoria",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T19:00+0200",
+    "ort": "Carlswerk Victoria, Schanzenstr. 6-20",
+    "preis": "ab 40 €",
+    "link": "https://rausgegangen.de/events/erobique-live-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Erobique feiert mit seinem unverwechselbaren Funk-Sound das Open-Air-Debüt in Köln. Seit über 30 Jahren verbindet er Disco und Funk zu einer spontanen Jam-Session, die Generationen und Fremde auf magische Weise zusammenb"
   },
   {
     "titel": "Girl Group",
