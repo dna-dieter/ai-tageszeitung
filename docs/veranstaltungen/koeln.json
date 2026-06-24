@@ -1,215 +1,5 @@
 [
   {
-    "titel": "Lunch Lecture mit Christoph Wenzel",
-    "datum": "24. Jun 2026",
-    "datum_raw": "2026-06-24T13:15+0200",
-    "ort": "Interim Zentralbibliothek, Stadtbibliothek Köln, Hohe Straße 68-82",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/lunch-lecture-mit-christoph-wenzel-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Christoph Wenzel erinnert mit seiner Lunch Lecture an Ilse Kibgis, die mit feinen Alltagsbildern das Leben im Ruhrgebiet einfing. Er bringt dabei eine spürbare Nähe zur Region und Literatur ins Spiel und zeigt, wie Poesi"
-  },
-  {
-    "titel": "SPAZIERGANG CLUB #2",
-    "datum": "24. Jun 2026",
-    "datum_raw": "2026-06-24T18:00+0200",
-    "ort": "Wiese am Colonius (Grüngürtel), Innere Kanalstraße",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/spaziergang-club-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Für alle die Spazierengehen lieben und Bock haben neue Leute kennenzulernen."
-  },
-  {
-    "titel": "HofKultur 2026 – #2 Otter",
-    "datum": "24. Jun 2026",
-    "datum_raw": "2026-06-24T18:30+0200",
-    "ort": "Bürgerzentrum Nippes Altenberger Hof, Mauenheimer Straße 92",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/hofkultur-2026-2-otter-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die Kölner Band OTTER steht für musikalischen Eskapismus im Dreieinhalbminutentakt. Ihre Songs klingen so unterschiedlich wie die Geschichten, die sie erzählen: vom tanzbaren Partypophit bis zur Punkrock-Kapitalismusk"
-  },
-  {
-    "titel": "Impact in Concert",
-    "datum": "24. Jun 2026",
-    "datum_raw": "2026-06-24T18:30+0200",
-    "ort": "Impact Café, Luxemburger Str. 190",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/impact-in-concert-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Ein Konzertabend im Café? Sounds like a dream! Genießt die Musik mit nem 5€ Aperölchen in der Hand🍹✨"
-  },
-  {
-    "titel": "SingMITtwoch - Ein Abend zum Mitsingen!",
-    "datum": "24. Jun 2026",
-    "datum_raw": "2026-06-24T19:00+0200",
-    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/singmittwoch-ein-abend-zum-mitsingen-8/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Gesa und Johannes bringen Klassiker zum Mitsingen, die einfach alle packen. Bei lockerer Atmosphäre und Drinks an der Bar kannst du mit deinen Lieblingsmenschen gemeinsam laut werden und einfach Spaß haben auf einem Aben"
-  },
-  {
-    "titel": "Losdemokratie Open Space",
-    "datum": "24. Jun 2026",
-    "datum_raw": "2026-06-24T19:00+0200",
-    "ort": "OYA MÜLLEM, Buchheimer Straße 17",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/losdemokratie-open-space-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Losdemokratie Open Space kannst du mitreden, wenn es darum geht, wie Demokratie wirklich für alle funktioniert und das Losverfahren mehr Chancen bietet. Es geht um gemeinsames Zuhören und Entdecken, was unsere Gesel"
-  },
-  {
-    "titel": "Quiz Night (Pop Culture Edition) @ The Bär",
-    "datum": "24. Jun 2026",
-    "datum_raw": "2026-06-24T19:00+0200",
-    "ort": "The Bär, Thebäerstraße 10",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/quiz-night-the-bar-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei der Quiz Night geht es um popkulturelle Highlights aus Film, Musik und TV, die in lockerer Runde abgefragt werden. Egal ob du im Team antrittst oder solo mitmachst, es wartet eine bunte Mischung aus Deutsch und Engli"
-  },
-  {
-    "titel": "Ocean Film Tour Vol. 12 (OMU)",
-    "datum": "24. Jun 2026",
-    "datum_raw": "2026-06-24T19:00+0200",
-    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/ocean-film-tour-vol-12-omu-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei der Ocean Film Tour Vol. 12 begleiten dich spannende Geschichten von Menschen, die sich auf unbekanntes Meer wagen – von einer Surffotografin bis zu einer Familie, die ihr Zuhause auf dem Segelboot hat. Freu dich auf"
-  },
-  {
-    "titel": "DEEP PURPLE",
-    "datum": "24. Jun 2026",
-    "datum_raw": "2026-06-24T19:00+0200",
-    "ort": "SparkassenPark Mönchengladbach, Am Hockeypark 1",
-    "preis": "ab 87 €",
-    "link": "https://rausgegangen.de/events/deep-purple-14/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Seit mehr als fünf Jahrzehnten zählen DEEP PURPLE zu den prägendsten und einflussreichsten Bands der Rockgeschichte. Mit Klassikern wie „Smoke on the Water“ oder „Highway Star“ haben sie das Fundament des Hardrock gel"
-  },
-  {
-    "titel": "Music Pub Quiz in der Braustelle",
-    "datum": "24. Jun 2026",
-    "datum_raw": "2026-06-24T19:00+0200",
-    "ort": "Braustelle, Christianstraße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/music-pub-quiz-in-der-braustelle-8/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Konzertfeeling, Quizspaß und frisches Brauerei-Bier – beim Musikquiz wird Livemusik mit kniffligen Fragen gemixt. Team schnappen, mitraten und los geht's🎲"
-  },
-  {
-    "titel": "TRICKY",
-    "datum": "24. Jun 2026",
-    "datum_raw": "2026-06-24T19:00+0200",
-    "ort": "Die Kantine / Yard Club, Neusser Landstr. 2",
-    "preis": "ab 40 €",
-    "link": "https://rausgegangen.de/events/tricky-6/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Tricky, einer der innovativsten und einflussreichsten Künstler der vergangenen Jahrzehnte, kehrt 2026 mit einer neu konzipierten Liveshow auf die Bühne zurück. Seit seinem bahnbrechenden Debüt und den prägenden Arbe"
-  },
-  {
-    "titel": "TRICKY – LIVE 2026! | Köln",
-    "datum": "24. Jun 2026",
-    "datum_raw": "2026-06-24T19:00+0200",
-    "ort": "Kantine Köln, Neusser Landstraße 2",
-    "preis": "ab 47 €",
-    "link": "https://rausgegangen.de/events/tricky-live-2026-berlin-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "TRICKY – LIVE 2026!Tricky geht im Juni 2026 in Deutschland auf Tour mit drei Showterminen in Berlin, Hamburg und Köln.Tricky, der als einer der innovativsten und einflussreichsten Künstler der letzten Jahrzehnte gilt, "
-  },
-  {
-    "titel": "CJW Ahead: acoustic ambient ensemble",
-    "datum": "24. Jun 2026",
-    "datum_raw": "2026-06-24T19:30+0200",
-    "ort": "Apostelgymnasium Köln, Biggestraße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/cjw-ahead-acoustic-ambient-ensemble-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Unser zweites Cologne Jazzweek Pre-Event 2026: Das acoustic ambient ensemble in einem besonderen Raum: Der Aula des Apostelgymnasiums Köln!Mit dem „acoustic ambient ensemble“ entwickelt Pascal Klewer seine Arbeit zwisch"
-  },
-  {
-    "titel": "Kölsch und Comedy",
-    "datum": "24. Jun 2026",
-    "datum_raw": "2026-06-24T20:00+0200",
-    "ort": "Franky's Bar, Venloer Straße 403",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kolsch-und-comedy-88/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Du hast Lust auf Kölsch und Comedy? Dann bist du bei Kölsch und Comedy genau richtig! Hier kommen regelmäßig Stand-Up Comedians zusammen, um ihre neuen Nummern zu testen. Von Newcomern bis zu etablierten Künstler*innen d"
-  },
-  {
-    "titel": "Comedy Frischgezapft",
-    "datum": "24. Jun 2026",
-    "datum_raw": "2026-06-24T20:00+0200",
-    "ort": "Kölschbar, Lindenstraße 56",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/comedy-frischgezapft-58/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "In der Comedy Frischgezapft Show trifft frisches Kölsch auf scharfen Humor von bekannten Comedians und spannenden Neuentdeckungen. Host Kevin Ray sorgt für eine lockere Atmosphäre, in der du immer mit guten Lachern rechn"
-  },
-  {
-    "titel": "A DAY TO REMEMBER",
-    "datum": "24. Jun 2026",
-    "datum_raw": "2026-06-24T20:00+0200",
-    "ort": "Palladium, Schanzenstraße 36",
-    "preis": "ab 45 €",
-    "link": "https://rausgegangen.de/events/a-day-to-remember-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Seit ihrer Gründung im Jahr 2003 haben sich A Day To Remember zu einer der erfolgreichsten Underground-Rockbands weltweit entwickelt. Die Band aus Florida erreichte unter anderem ein Platin-Album, zwei Gold-Alben sowie "
-  },
-  {
-    "titel": "COUNTING CROWS",
-    "datum": "24. Jun 2026",
-    "datum_raw": "2026-06-24T20:00+0200",
-    "ort": "E-Werk Köln, Schanzenstraße 37",
-    "preis": "ab 55 €",
-    "link": "https://rausgegangen.de/events/counting-crows-4/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Seit Beginn ihrer Karriere haben Counting Crows ihr Publikum mit einer intensiven, gefühlvollen und komplexen Interpretation des zeitlosen Rock’n’Roll-Sounds verzaubert. Bereits 1993 gelang der Band mit ihrem Multi-Plat"
-  },
-  {
-    "titel": "Counting Crows - The Complete Sweets Tour",
-    "datum": "24. Jun 2026",
-    "datum_raw": "2026-06-24T20:00+0200",
-    "ort": "E-Werk Köln, Schanzenstraße 37",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/counting-crows-the-complete-sweets-tour-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Presented by Live NationRollstuhlnutzende (mit „B“ im Ausweis) buchen ihre Tickets (max. 4) über die Ticketmaster Hotline (+49 (0)30-40 818 824. Die Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte"
-  },
-  {
-    "titel": "we are ALVA - Proud Snail! Tour 2026",
-    "datum": "24. Jun 2026",
-    "datum_raw": "2026-06-24T20:00+0200",
-    "ort": "Blue Shell, Luxemburger Straße 32",
-    "preis": "ab 25 €",
-    "link": "https://rausgegangen.de/events/we-are-alva-proud-snail-tour-2026-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "we are ALVA sind Jan und Jannike – Singer-Songwriter-Duo, geformt auf Lanzarote, zurückgekehrt mit Songs, die bleiben.  Zwei Stimmen, eine Gitarre, ein Klavier. Und das Gefühl, dass jemand genau das in Musik verwandelt"
-  },
-  {
-    "titel": "Young Talents: Max Autsch Quartett",
-    "datum": "24. Jun 2026",
-    "datum_raw": "2026-06-24T20:00+0200",
-    "ort": "King Georg, Sudermanstraße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/young-talents-maximilian-autsch-quartett-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Paul Scheugenpflug (sax & flute), Justin Zitt (piano),Julian Grüneberg (bass), MaxAutsch (drums & composition)Der junge Jazz-Schlagzeuger und Komponist, Max Autsch, präsentiert mit seinenMitmusikern, Paul Scheugenpflug"
-  },
-  {
-    "titel": "Prime Time Sound Journey",
-    "datum": "24. Jun 2026",
-    "datum_raw": "2026-06-24T20:15+0200",
-    "ort": "Klangkino, Hansaring 61",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/prime-time-sound-journey-8/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Begib dich auf eine Reise durch die Welten der Frequenzen und lass dich von ihren Wirkungen auf dich überraschen und faszinieren. Hier ist die Fusion von Entertainment, Meditation und tiefen Bewusstseinszuständen Progr"
-  },
-  {
     "titel": "Singen mit Klasse!",
     "datum": "25. Jun 2026",
     "datum_raw": "2026-06-25T12:00+0200",
@@ -218,6 +8,26 @@
     "link": "https://rausgegangen.de/events/singen-mit-klasse-2/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Grundschulkonzert12 Kölner Grundschulklassen | Gürzenich-Orchester Köln | Mariano Chiacchiarini | Ruth Dobernecker | Maike Hiller | Johanna Risse | Clara Siegmund | Payam Yazdani | Natalija Stanković | Georgios Kolio"
+  },
+  {
+    "titel": "MarktTreff Rudolfplatz",
+    "datum": "25. Jun 2026",
+    "datum_raw": "2026-06-25T16:00+0200",
+    "ort": "Köln, Rudolfplatz, Rudolfplatz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/markttreff-rudolfplatz-7/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jeden Donnerstag von 16 bis 21 Uhr gibt es am Rudolfplatz frische Wochenmarktprodukte und Street Food aus der Region zu entdecken. Dazu kannst du entspannten Weingenuss genießen und deinen Feierabend mit leckerem Essen d"
+  },
+  {
+    "titel": "ColognePride Beach & Village",
+    "datum": "25. Jun 2026",
+    "datum_raw": "2026-06-25T16:00+0200",
+    "ort": "Elogiusplatz, Köln",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/colognepride-beach-village-6/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim ColognePride Beach & Village erwartet dich ein entspannter Queer-Strand mit Palmen, Sand und einem XXL-Pool, der mitten in der Stadt zum Abhängen und Feiern einlädt. Lass dich von Ibiza-Sounds treiben, genieße coole"
   },
   {
     "titel": "Yin & Ambient",
@@ -310,6 +120,56 @@
     "teaser": "The Roaring 80s Neue Deutsche Welle im im Goldrausch der 1920er Babylon Berlin Fans aufgepasst! Mit ihrem neuen Bühnenprogramm schlagen die Kölner Sängerin Daria Assmus und der Bonner Pianist Marcus Schinkel eine fasz"
   },
   {
+    "titel": "Public Viewing: Deutschland - Ecuador",
+    "datum": "25. Jun 2026",
+    "datum_raw": "2026-06-25T22:00+0200",
+    "ort": "GLORIA Köln, Apostelnstraße 11",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/public-viewing-deutschland-ecuador-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wenn Deutschland gegen Ecuador antritt, trifft sich im GLORIA ein bunt gemischtes Publikum zum gemeinsamen Jubeln und Mitfiebern – hier wird das Spiel mit bester Bild- und Soundqualität zur echten Gemeinschaftserfahrung "
+  },
+  {
+    "titel": "RADIO SABROSITA• JEDEN DONNERSTAG • AB 23 H IM VEEDEL CLUB • STUDENTSNIGHT",
+    "datum": "25. Jun 2026",
+    "datum_raw": "2026-06-25T23:00+0200",
+    "ort": "Veedel Club, Luxemburger Straße 37",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/radio-sabrosita-jeden-donnerstag-ab-23-h-im-veedel-club-stud-9/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jeden Donnerstag findet im Veedel Club die RADIO SABROSITA Studentsnight statt, wo DJs wie Henkwart und DJANE JULIA mit karibischen Sounds von Reggaeton bis Bachata für Stimmung sorgen. Hier trifft sich eine bunte Mischu"
+  },
+  {
+    "titel": "Sommer in der Südstadt: Feierabendmarkt Chlodwigplatz",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T16:00+0200",
+    "ort": "Chlodwigplatz, Chlodwigplatz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/sommer-in-der-sudstadt-feierabendmarkt-chlodwigplatz-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Feierabendmarkt am Chlodwigplatz: Streetfood auf die Hand, kalte Drinks und Sommerabend-Vibes direkt vor der Severinstorburg. Perfekt, um mit Freunden entspannt ins Wochenende zu starten. Wir sehen uns auf ein Kölsch! 🍻🌯"
+  },
+  {
+    "titel": "Laut. Bunt. Solidarisch. - Das Sommerfest der DGB Jugend Köln",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T16:00+0200",
+    "ort": "DGB Jugendraum Köln, Hans-Böckler-Platz 1",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/laut-bunt-solidarisch-das-sommerfest-der-dgb-jugend-koln-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Du willst coole Leute kennen lernen? Bei guter Musik und leckerem Essen kannst du uns als Gewerkschaftsjugend kennenlernen.Am 26. Juni ab 16 Uhr steigt unser DGB Jugend Sommerfest in Köln – und du bist eingeladen! 💥🎨 We"
+  },
+  {
+    "titel": "LATEINAMERIKANISCHES WOCHENENDE - KÖLN",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T17:00+0200",
+    "ort": "Südbrücke, Alfred-Schütte-Allee 34",
+    "preis": "ab 6 €",
+    "link": "https://rausgegangen.de/events/lateinamerikanisches-wochenende-koln-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim Lateinamerikanischen Wochenende in Köln dreht sich alles um authentische Rhythmen, buntes Handwerk und vielfältige Aromen von Foodtrucks, die echte Geschmackserlebnisse liefern. Das Programm bietet von Samba über Fo"
+  },
+  {
     "titel": "Klangräume – Stimme im Kosmos der Schalen",
     "datum": "26. Jun 2026",
     "datum_raw": "2026-06-26T17:30+0200",
@@ -390,13 +250,153 @@
     "teaser": "Erobique feiert mit seinem unverwechselbaren Funk-Sound das Open-Air-Debüt in Köln. Seit über 30 Jahren verbindet er Disco und Funk zu einer spontanen Jam-Session, die Generationen und Fremde auf magische Weise zusammenb"
   },
   {
-    "titel": "Girl Group",
-    "datum": "24. Sep 2026",
-    "datum_raw": "2026-09-24T20:00+0200",
-    "ort": "artheater Köln, Ehrenfeldgürtel 127",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/girl-group-0/",
+    "titel": "Wortcafé (Live Musik & Poetry Texte)",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T19:00+0200",
+    "ort": "KKT. Kölner Künstler:innen Theater, Grüner Weg 5",
+    "preis": "ab 11 €",
+    "link": "https://rausgegangen.de/events/wortcafe-11/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Girl Group aus Liverpool mischt Indie-Pop mit Post-Punk und elektronischen Sounds, dabei geben sie feministische Stimmen Raum und machen alles selbst – vom Text bis zum Beat. Du kannst dich auf ehrliche, unverfälschte Mu"
+    "teaser": "Im Wortcafé treffen Songwriter:innen und Poet:innen zusammen, die mit ihren Texten über Herkunft, Identität und Alltagsthemen ehrlich und mit einer Prise Humor erzählen. Das Programm wechselt zwischen nachdenklichen Mome"
+  },
+  {
+    "titel": "Killer Comedy Summer Special",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T19:30+0200",
+    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/killer-comedy-summer-special-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Im Killer Comedy Summer Special treffen erfahrene TV-Gesichter und frische Talente der deutschen Stand-Up Szene aufeinander. Maria Clara Croppler und Tobi Freudenthal sorgen dafür, dass die Bühnenzeit genauso entspannt w"
+  },
+  {
+    "titel": "Die Hektischen Flecken (INDIE/POSTPUNK)",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T19:30+0200",
+    "ort": "Stereo Wonderland, Trierer Straße 65",
+    "preis": "ab 13 €",
+    "link": "https://rausgegangen.de/events/die-hektischen-flecken-indiepostpunk-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Hektischen Flecken kommen aus Düsseldorf und spielen Indie-Rock mit 90er Jahre Prägung (Bullet Lavolta, Moving Targets, Lemonheads, Quicksand). In den Liedtexten geht es um die Kreuzschlitz-Stellschrauben des Leben"
+  },
+  {
+    "titel": "Flow's Mitsingfenster - Das Mitsingkonzert für alle!",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T19:30+0200",
+    "ort": "Franky's Bar, Venloer Straße 403",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/flows-mitsingfenster-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "FLOW’S MITSINGFENSTER Am Freitag, den 26. Juni 2026, wird die Straße vor Franky’s Bar zur Bühne für einen ganz besonderen Sommerabend. Bei Flow’s Mitsingfenster kommt die Musik nicht von einer großen Bühne, sondern di"
+  },
+  {
+    "titel": "Helene Fischer - 360° Stadion Tour 2026",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T19:30+0200",
+    "ort": "RheinEnergieSTADION, Aachener Straße 999",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/helene-fischer-360-stadion-tour-2026-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Presented by Live NationHelene Fischer hat mir ihrer von 800.000 Fans gefeierten und international viel beachteten Arena-Tour der Rekorde Maßstäbe gesetzt. Jetzt wird die herausragende Sängerin und Entertainerin ein at"
+  },
+  {
+    "titel": "Helene Fischer - 360° Stadion Tour 2026 - VIP Packages",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T19:30+0200",
+    "ort": "RheinEnergieSTADION, Aachener Straße 999",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/helene-fischer-360-stadion-tour-2026-vip-packages-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bitte beachten Sie :• Für das Konzert stehen Mobile Tickets oder Print Tickets zur Verfügung. Die Tickets werden zu einem späteren Zeitpunkt verschickt (Printtickets) oder sind zu einem späteren Zeitpunkt über die T"
+  },
+  {
+    "titel": "Scenes from Broadway to Cinema - Wolfgang Behrendt and friends",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T19:30+0200",
+    "ort": "ABOUT:EVENTS, Barbarastraße 15-17",
+    "preis": "ab 25 €",
+    "link": "https://rausgegangen.de/events/scenes-from-broadway-to-cinema-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Am 26. Juni laden Wolfgang Behrendt and friends zu einem besonderen Konzertabend in der ABOUT:EVENTS Eventlocation in Köln Rodenkirchen ein. Freut euch auf Jazz, der seinen Ursprung in den großen Theatern und auf der Le"
+  },
+  {
+    "titel": "A Tribute to Tom Petty - The Pretty Heartbreakers",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T20:00+0200",
+    "ort": "Freideck - Kantine Open Air, Neusser Landstraße 2",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/a-tribute-to-tom-petty-the-pretty-heartbreakers-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim ersten Mal war es ein Versuch, beim zweiten Mal Tradition und jetzt - beim dritten Mal - sprechen wir von Brauchtum: Nach der umjubelten Premiere 2024 und dem ebenso gefeierten Konzert im Vorjahr kommen The Pretty H"
+  },
+  {
+    "titel": "Bu Kolthoum & Emp1re // KONZERT",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T20:00+0200",
+    "ort": "Kulturbunker Köln-Mülheim, Berliner Straße 20",
+    "preis": "ab 30 €",
+    "link": "https://rausgegangen.de/events/bu-kolthoum-emp1re-konzert-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "HESS Concept & Schu Fi Ma Fi Collective are taking over Cologne, Germany for their very first collaboration.Two iconic artists: EMP1RE and BU KOLTHOUM will share the stage together for the first time ever.Bu Kolthoum is "
+  },
+  {
+    "titel": "Helene Fischer - 360° Stadion Tour",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T20:00+0200",
+    "ort": "Rhein Energie Stadion, Heinrich-Billstein-Weg",
+    "preis": "ab 72 €",
+    "link": "https://rausgegangen.de/events/helene-fischer-360-stadion-tour-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Helene Fischer hat mir ihrer von 800.000 Fans gefeierten und international viel beachteten Arena-Tour der Rekorde Maßstäbe gesetzt. Jetzt wird die herausragende Sängerin und Entertainerin ein atemberaubendes Open Air-E"
+  },
+  {
+    "titel": "ImKlang Session",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T20:00+0200",
+    "ort": "Musik- und Kunstschule ImKlang, Waltherstraße 80",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/imklang-session-22/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": " IMKLANG SESSION  Offene Jam Session · jeden Freitag · ab 20:00 Uhr Die IMKLANG Session ist eine wöchentliche, offene Jam Session für Musikerinnen und Musiker aller Erfahrungsstufen – und für alle, die Musik gerne liv"
+  },
+  {
+    "titel": "Kempes Feinest",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T20:00+0200",
+    "ort": "GLORIA Köln, Apostelnstraße 11",
+    "preis": "ab 30 €",
+    "link": "https://rausgegangen.de/events/kempes-feinest-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Einlass: 18:30 Uhr unbestuhlt  11 Jahre Kempes Feinest... Ein jeckes Jubiläum und trotzdem wollen Nici, Victor, Vince, Tomek und Jannik einfach ,,nie erwachse sin\". Freut euch auf ein Konzert voller Musik, Energie und d"
+  },
+  {
+    "titel": "🎷 La Bohemia: Frente Salsero presents LOS PIPOS (Live) 🎺",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T20:30+0200",
+    "ort": "King Georg, Sudermanstraße 2",
+    "preis": "ab 22 €",
+    "link": "https://rausgegangen.de/events/la-bohemia-frente-salsero-presents-los-pipos-live-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "La Bohemia: Frente Salsero presents LOS PIPOS (Live)  Mit freundlicher Unterstützung des Kulturamts Köln.  Querida Comunidad,  El 26. de Juni verwandeln wir das King Georg en un Templo de Latin-Jazz y Salsa, denn wir h"
+  },
+  {
+    "titel": "MitSingKunzät vür Naaksüüle, kostenloses Mitsingkonzert mit Bremsklötz",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T21:30+0200",
+    "ort": "Peters am Hahnentor, Hahnenstraße 22",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/mitsingkunzat-vur-naaksuule-kostenloses-mitsingkonzert-mit-b-9/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "MitSingKunzät vür Naaksüüle, kostenloses Mitsingkonzert mit Bremsklötz Eintritt frei!"
+  },
+  {
+    "titel": "SING IT OUT! Maxis Karaoke Nacht",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T21:30+0200",
+    "ort": "NightWash club, Hohenstaufenring 25-27",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/sing-it-out-maxis-karaoke-nacht-25/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Hier gibt’s keinen Jury-Stress und keine falschen Töne, sondern einfach 53.000 Songs zum Austoben – von 90s Trash bis RnB. Maxi macht seit Jahren Karaoke-Abende zur Party, bei denen du zum Held:in oder Meme wirst. Zwisch"
   }
 ]
