@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Singen mit Klasse!",
-    "datum": "25. Jun 2026",
-    "datum_raw": "2026-06-25T12:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/singen-mit-klasse-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Grundschulkonzert12 Kölner Grundschulklassen | Gürzenich-Orchester Köln | Mariano Chiacchiarini | Ruth Dobernecker | Maike Hiller | Johanna Risse | Clara Siegmund | Payam Yazdani | Natalija Stanković | Georgios Kolio"
-  },
-  {
     "titel": "MarktTreff Rudolfplatz",
     "datum": "25. Jun 2026",
     "datum_raw": "2026-06-25T16:00+0200",
@@ -240,6 +230,16 @@
     "teaser": "Das portugiesische Ensemble Cantvs Portugueses aus Köln ist bereits bekannt für seine Vielfalt an Instrumenten, Stimmen und Repertoire, dass zwischen portugiesischer Volksmusik, Revolutionsliedern von beispielsweise Jo"
   },
   {
+    "titel": "Cozy Concert",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T19:00+0200",
+    "ort": "Liebig 257, Liebigstraße 257",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/cozy-concerts-by-hidden-stage-sessions-ev-20/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Cozy Concerts sind eine Geheimkonzertreihe in gemütlicher Atmosphäre* – in Wohnzimmern, Buchläden, Ateliers, Gärten und anderen besonderen Orten. Intim, authentisch, entspannend. 80–90 % der Musiker*innen bei den"
+  },
+  {
     "titel": "Ein besonderer Blues-Abend in der Kölner Südstadt",
     "datum": "26. Jun 2026",
     "datum_raw": "2026-06-26T19:00+0200",
@@ -248,16 +248,6 @@
     "link": "https://rausgegangen.de/events/ein-besonderer-blues-abend-in-der-kolner-sudstadt-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "🎟 Eintritt frei ✨ Freiwillige Spenden (Hutspende) sind herzlich willkommen. Zum ersten Mal ist der renommierte Blues-Musiker Richard Bargel bei WASI Kölle e.V. zu Gast. Freuen Sie sich auf einen besonderen Konzertabend "
-  },
-  {
-    "titel": "Erobique LIVE - ACHTUNG: Konzert verlegt! NEUER ORT: Carlswerk Victoria",
-    "datum": "26. Jun 2026",
-    "datum_raw": "2026-06-26T19:00+0200",
-    "ort": "Carlswerk Victoria, Schanzenstr. 6-20",
-    "preis": "ab 40 €",
-    "link": "https://rausgegangen.de/events/erobique-live-4/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Erobique feiert mit seinem unverwechselbaren Funk-Sound das Open-Air-Debüt in Köln. Seit über 30 Jahren verbindet er Disco und Funk zu einer spontanen Jam-Session, die Generationen und Fremde auf magische Weise zusammenb"
   },
   {
     "titel": "Wortcafé (Live Musik & Poetry Texte)",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/juba-kopfchaos-ein-hauch-von-zukunft-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Wir machen das selbst! Beim :juba – jugend barock musik festival gestalten Jugendliche ihr eigenes Festival für Alte Musik. Zusammen mit dem Furore Ensemble und dem Duo Merzouga entwickeln Schüler:innen der Gesamtschul"
+  },
+  {
+    "titel": "Northern Lights",
+    "datum": "27. Jun 2026",
+    "datum_raw": "2026-06-27T16:00+0200",
+    "ort": "St. Gereon, Köln-Merheim, Von-Eltz-Platz",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/northern-lights-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Northern Lights🤝 Der Erlös des Benefizkonzerts fließt direkt in lokale Projekte der Bürgerstiftung St. Gereon – alle weiteren Infos hier: www.stiftung-merheim.de . Erlebt mit dem Ensemble \"unmuted\" eine magische Klangr"
   }
 ]
