@@ -1,173 +1,43 @@
 [
   {
-    "titel": "MarktTreff Rudolfplatz",
-    "datum": "25. Jun 2026",
-    "datum_raw": "2026-06-25T16:00+0200",
-    "ort": "Köln, Rudolfplatz, Rudolfplatz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/markttreff-rudolfplatz-7/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Jeden Donnerstag von 16 bis 21 Uhr gibt es am Rudolfplatz frische Wochenmarktprodukte und Street Food aus der Region zu entdecken. Dazu kannst du entspannten Weingenuss genießen und deinen Feierabend mit leckerem Essen d"
-  },
-  {
     "titel": "ColognePride Beach & Village",
-    "datum": "25. Jun 2026",
-    "datum_raw": "2026-06-25T16:00+0200",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T14:00+0200",
     "ort": "Elogiusplatz, Köln",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/colognepride-beach-village-6/",
+    "link": "https://rausgegangen.de/events/colognepride-beach-village-7/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Beim ColognePride Beach & Village erwartet dich ein entspannter Queer-Strand mit Palmen, Sand und einem XXL-Pool, der mitten in der Stadt zum Abhängen und Feiern einlädt. Lass dich von Ibiza-Sounds treiben, genieße coole"
   },
   {
-    "titel": "Pommes & Champagner",
-    "datum": "25. Jun 2026",
-    "datum_raw": "2026-06-25T17:00+0200",
-    "ort": "SUDERMAN, Sudermanplatz 3",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/open-champagne-thursday-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Jeder Donnerstag steht im Zeichen von prickelnder Vielfalt, wenn exklusive Champagner und Schaumweine glasweise erkundet werden. Es begegnen sich bekannte Marken und spannende Entdeckungen, die deinen Gaumen überraschen."
-  },
-  {
-    "titel": "Yin & Ambient",
-    "datum": "25. Jun 2026",
-    "datum_raw": "2026-06-25T17:30+0200",
-    "ort": "PURE SPACE - Yoga & Sound Studio, Barbarastraße 3-9 Block 2",
-    "preis": "ab 22 €",
-    "link": "https://rausgegangen.de/events/yin-ambient-22/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier erwarten dich Yin-Yoga-Haltungen, begleitet von Ambient-Klängen über unser Hi-Fi-Soundsystem.Das längere Verweilen in den Positionen wirkt auf Faszien und Gelenke, unterstützt Entspannung und innere Ruhe.Du wirs"
-  },
-  {
-    "titel": "Nothing, Haywire",
-    "datum": "25. Jun 2026",
-    "datum_raw": "2026-06-25T18:00+0200",
-    "ort": "Club Volta, Schanzenstraße 6-20",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/nothing-haywire-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Roam Artists präsentiert NOTHING HAYWIRE VENENÖ GLOW Einlass 18:30 Start 19:00 Wenn zwei der aktuell meistdiskutierten Acts der alternativen Gitarrenszene aufeinandertreffen, ist klar, dass dieser Abend mehr ist als nu"
-  },
-  {
-    "titel": "Kneipenquiz #11 \"Wie blöd kannste sein?!\"",
-    "datum": "25. Jun 2026",
-    "datum_raw": "2026-06-25T19:00+0200",
-    "ort": "artheater, Ehrenfeldgürtel, Ehrenfeld, Deutschland, Ehrenfeldgürtel 127",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kneipenquiz-11-wie-blod-kannste-sein-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Kneipenquiz „Wie blöd kannste sein?!“ sind nicht nur deine Allgemeinbildung, sondern auch dein Humor gefragt. Buurmann und Gerke werfen Fragen aus Kunst, Kultur und Musik rein, wobei keiner den Spieß umdrehen darf. "
-  },
-  {
-    "titel": "Kip Moore x Jackson Dean - Live 2026",
-    "datum": "25. Jun 2026",
-    "datum_raw": "2026-06-25T19:00+0200",
-    "ort": "Carlswerk Victoria, Schanzenstr. 6-20",
-    "preis": "ab 57 €",
-    "link": "https://rausgegangen.de/events/kip-moore-x-jackson-dean-live-2026-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Jackson Dean und Kip Moore gehören zu den spannendsten Künstlern der modernen Country-Musik. Ihre ausdrucksstarken Stimmen, packenden Songs und energiegeladenen Live-Shows haben ihnen internationale Anerkennung eingebr"
-  },
-  {
-    "titel": "Nina Chuba /// Live 2026",
-    "datum": "25. Jun 2026",
-    "datum_raw": "2026-06-25T19:00+0200",
-    "ort": "Fühlinger See, Oranjehofstraße 103",
-    "preis": "ab 65 €",
-    "link": "https://rausgegangen.de/events/nina-chuba-live-2026-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Nina Chuba mischt mit ihren Geschichten und Sounds aus Synthies, Gitarre und Bläsern Pop, Hip Hop und mehr ganz lässig. Nach ihrem zweiten Album und ausverkaufter Arena Tour setzt sie 2026 auf riesige Open Air Shows, die"
-  },
-  {
-    "titel": "Offene Bühne im Café Fridolin",
-    "datum": "25. Jun 2026",
-    "datum_raw": "2026-06-25T19:00+0200",
-    "ort": "Café Fridolin, Venloer Straße 429",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/offene-buhne-im-cafe-fridolin-24/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Komm vorbei und läute das Osterwochenende auf der offenen Bühne in gemütlicher Atmosphäre ein! 🎤 Ein perfekter Abend für alle, die Kultur in einer offenen und respektvollen Umgebung erleben möchten."
-  },
-  {
-    "titel": "ReimGold Poetry Slam - Jahresfinale",
-    "datum": "25. Jun 2026",
-    "datum_raw": "2026-06-25T19:30+0200",
-    "ort": "Odonien, Hornstraße 85",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/reimgold-poetry-slam-jahresfinale-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim ReimGold Jahresfinale zeigen sechs Top-Poet:innen, wie viel Power in Worten steckt – von witzig bis bewegend. Luca Swieter führt dich durch den Abend, während DJ Jiji für den Sound sorgt, der sonst in Clubs läuft 🤩"
-  },
-  {
-    "titel": "ListeningLounge",
-    "datum": "25. Jun 2026",
-    "datum_raw": "2026-06-25T19:30+0200",
-    "ort": "Hallmackenreuther, Brüsseler Platz 9",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/listeninglounge-4/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "25.06. Sade - Stronger than Pride09.07. Frank Ocean - Blond23.07. Air - Moon Safari06.08. Rosalía - El Mal Querer Für vieles nimmt man sich die Zeit, und vieles nimmt einem die Zeit. Manches Bild braucht einen Rahmen, "
-  },
-  {
-    "titel": "Bachelorkonzert: Marie Schneider",
-    "datum": "25. Jun 2026",
-    "datum_raw": "2026-06-25T20:00+0200",
-    "ort": "JAKI, Venloer Str. 40",
-    "preis": "ab 8 €",
-    "link": "https://rausgegangen.de/events/bachelorkonzert-marie-schneider-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "20:00 I Konzert I Konzertsaal Marie Schneider ist Sängerin und Songwriterin aus Köln. Im Zusammenspiel von Musik und Text finden sich persönliche Geschichten und offene Fragen wieder, die sie gemeinsam mit ihrer Band "
-  },
-  {
-    "titel": "Villa Band feat. Paul Heller “Jugendarbeit meets Jazz”",
-    "datum": "25. Jun 2026",
-    "datum_raw": "2026-06-25T20:00+0200",
-    "ort": "King Georg, Sudermanstraße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/villa-band-feat-paul-heller-jugendarbeit-meets-jazz-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Cem Günes (Klavier), Daniel Emumwen (Schlagzeug), José Díaz de León (E-Bass),Special Guest: Paul HellerDie \"Villa Band“ des Jugendzentrums „Die Villa“ in Volkhoven/Chorweiler ist ein Sozialprojekt des SKM welches inz"
-  },
-  {
-    "titel": "Marcus Schinkel & Daria Assmus",
-    "datum": "25. Jun 2026",
-    "datum_raw": "2026-06-25T20:15+0200",
-    "ort": "Senftöpfchen Theater, Große Neugasse 2-4",
-    "preis": "ab 34 €",
-    "link": "https://rausgegangen.de/events/marcus-schinkel-daria-assmus-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "The Roaring 80s Neue Deutsche Welle im im Goldrausch der 1920er Babylon Berlin Fans aufgepasst! Mit ihrem neuen Bühnenprogramm schlagen die Kölner Sängerin Daria Assmus und der Bonner Pianist Marcus Schinkel eine fasz"
-  },
-  {
-    "titel": "Public Viewing: Deutschland - Ecuador",
-    "datum": "25. Jun 2026",
-    "datum_raw": "2026-06-25T22:00+0200",
-    "ort": "GLORIA Köln, Apostelnstraße 11",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/public-viewing-deutschland-ecuador-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wenn Deutschland gegen Ecuador antritt, trifft sich im GLORIA ein bunt gemischtes Publikum zum gemeinsamen Jubeln und Mitfiebern – hier wird das Spiel mit bester Bild- und Soundqualität zur echten Gemeinschaftserfahrung "
-  },
-  {
-    "titel": "RADIO SABROSITA• JEDEN DONNERSTAG • AB 23 H IM VEEDEL CLUB • STUDENTSNIGHT",
-    "datum": "25. Jun 2026",
-    "datum_raw": "2026-06-25T23:00+0200",
-    "ort": "Veedel Club, Luxemburger Straße 37",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/radio-sabrosita-jeden-donnerstag-ab-23-h-im-veedel-club-stud-9/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Jeden Donnerstag findet im Veedel Club die RADIO SABROSITA Studentsnight statt, wo DJs wie Henkwart und DJANE JULIA mit karibischen Sounds von Reggaeton bis Bachata für Stimmung sorgen. Hier trifft sich eine bunte Mischu"
-  },
-  {
-    "titel": "Laut. Bunt. Solidarisch. - Das Sommerfest der DGB Jugend Köln",
+    "titel": "Sommer in der Südstadt: Feierabendmarkt Chlodwigplatz",
     "datum": "26. Jun 2026",
     "datum_raw": "2026-06-26T16:00+0200",
-    "ort": "DGB Jugendraum Köln, Hans-Böckler-Platz 1",
+    "ort": "Chlodwigplatz, Chlodwigplatz",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/laut-bunt-solidarisch-das-sommerfest-der-dgb-jugend-koln-0/",
+    "link": "https://rausgegangen.de/events/sommer-in-der-sudstadt-feierabendmarkt-chlodwigplatz-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Du willst coole Leute kennen lernen? Bei guter Musik und leckerem Essen kannst du uns als Gewerkschaftsjugend kennenlernen.Am 26. Juni ab 16 Uhr steigt unser DGB Jugend Sommerfest in Köln – und du bist eingeladen! 💥🎨 We"
+    "teaser": "Feierabendmarkt am Chlodwigplatz: Streetfood auf die Hand, kalte Drinks und Sommerabend-Vibes direkt vor der Severinstorburg. Perfekt, um mit Freunden entspannt ins Wochenende zu starten. Wir sehen uns auf ein Kölsch! 🍻🌯"
+  },
+  {
+    "titel": "APERITIVO ZERO, ZERO",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T17:00+0200",
+    "ort": "Frohnatur Coffeeshop, Neusser Straße 34",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/aperitivo-zero-zero-8/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Freitags geht’s bei APERITIVO ZERO um feine alkoholfreie Drinks von Verjus bis Pet Nat, alles handverlesen von Winzer:innen aus Rheinhessen und der Pfalz. So genießt du entspannt den Start ins Wochenende ohne Kater🫶"
+  },
+  {
+    "titel": "LATEINAMERIKANISCHES WOCHENENDE - KÖLN",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T17:00+0200",
+    "ort": "Südbrücke, Alfred-Schütte-Allee 34",
+    "preis": "ab 6 €",
+    "link": "https://rausgegangen.de/events/lateinamerikanisches-wochenende-koln-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim Lateinamerikanischen Wochenende in Köln dreht sich alles um authentische Rhythmen, buntes Handwerk und vielfältige Aromen von Foodtrucks, die echte Geschmackserlebnisse liefern. Das Programm bietet von Samba über Fo"
   },
   {
     "titel": "Klangräume – Stimme im Kosmos der Schalen",
@@ -178,6 +48,26 @@
     "link": "https://rausgegangen.de/events/klangraume-stimme-im-kosmos-der-schalen-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Klangräume – Stimme im Kosmos der Schalen Ein Gesangskonzert der Sopranistin Sunja Wehmeier Im Rahmen der Ausstellung „99 Schalen – ein Kosmos“ der Keramikkünstlerin Young-Jae Lee gestaltet die Sopranistin Sunja Wehmei"
+  },
+  {
+    "titel": "Korken & Klub Afterwork",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T18:00+0200",
+    "ort": "CBE Sommergarten, Bartholomäus-Schink-Straße 65/67",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/korken-klub-afterwork-10/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei Korken & Klub mixt eine coole Crew House-Sounds mit Saxofon-Improvisation – genau der richtige Soundtrack für entspannte Sommerabende. Dazu gibt’s eine feine Weinauswahl und leckere Snacks vom Food Truck, damit du en"
+  },
+  {
+    "titel": "FÄLLT AUS AM 26.06. / Odonische Freitagsbühne",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T18:00+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/odonische-freitagsbuhne-72/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge entdecken Spaß macht "
   },
   {
     "titel": "Cosmic Gong Bath",
@@ -200,16 +90,6 @@
     "teaser": "Zeremonieller Rohkakao – die Medizin des HerzensZeremonieller Rohkakao ist weit mehr als ein Getränk. Seit Jahrtausenden wird er in mittel- und südamerikanischen Kulturen als heilige Pflanzenmedizin verehrt – als „Spei"
   },
   {
-    "titel": "FÄLLT AUS AM 26.06. / Odonische Freitagsbühne",
-    "datum": "26. Jun 2026",
-    "datum_raw": "2026-06-26T18:00+0200",
-    "ort": "Odonien, Hornstraße 85",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/odonische-freitagsbuhne-72/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge entdecken Spaß macht "
-  },
-  {
     "titel": "KEMPES FEINEST | Gloria",
     "datum": "26. Jun 2026",
     "datum_raw": "2026-06-26T18:30+0200",
@@ -218,6 +98,16 @@
     "link": "https://rausgegangen.de/events/kempes-feinest-gloria-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "11 Jahre Kempes Feinest... Ein jeckes Jubiläum und trotzdem wollen Nici, Victor, Vince, Tomek und Jannik einfach „nie erwachse sin“. Freut euch auf ein Konzert voller Musik, Energie und definitiv jeder Menge Spaß! Mit T"
+  },
+  {
+    "titel": "Wortcafé (Live Musik & Poetry Texte)",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T19:00+0200",
+    "ort": "KKT. Kölner Künstler:innen Theater, Grüner Weg 5",
+    "preis": "ab 11 €",
+    "link": "https://rausgegangen.de/events/wortcafe-11/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Im Wortcafé treffen Songwriter:innen und Poet:innen zusammen, die mit ihren Texten über Herkunft, Identität und Alltagsthemen ehrlich und mit einer Prise Humor erzählen. Das Programm wechselt zwischen nachdenklichen Mome"
   },
   {
     "titel": "Cantvs Portugueses (Portugiesische Gesänge/Konzert)",
@@ -250,14 +140,14 @@
     "teaser": "🎟 Eintritt frei ✨ Freiwillige Spenden (Hutspende) sind herzlich willkommen. Zum ersten Mal ist der renommierte Blues-Musiker Richard Bargel bei WASI Kölle e.V. zu Gast. Freuen Sie sich auf einen besonderen Konzertabend "
   },
   {
-    "titel": "Wortcafé (Live Musik & Poetry Texte)",
+    "titel": "Killer Comedy Summer Special",
     "datum": "26. Jun 2026",
-    "datum_raw": "2026-06-26T19:00+0200",
-    "ort": "KKT. Kölner Künstler:innen Theater, Grüner Weg 5",
-    "preis": "ab 11 €",
-    "link": "https://rausgegangen.de/events/wortcafe-11/",
+    "datum_raw": "2026-06-26T19:30+0200",
+    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/killer-comedy-summer-special-2/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Im Wortcafé treffen Songwriter:innen und Poet:innen zusammen, die mit ihren Texten über Herkunft, Identität und Alltagsthemen ehrlich und mit einer Prise Humor erzählen. Das Programm wechselt zwischen nachdenklichen Mome"
+    "teaser": "Im Killer Comedy Summer Special treffen erfahrene TV-Gesichter und frische Talente der deutschen Stand-Up Szene aufeinander. Maria Clara Croppler und Tobi Freudenthal sorgen dafür, dass die Bühnenzeit genauso entspannt w"
   },
   {
     "titel": "Die Hektischen Flecken (INDIE/POSTPUNK)",
@@ -370,6 +260,16 @@
     "teaser": "Hier gibt’s keinen Jury-Stress und keine falschen Töne, sondern einfach 53.000 Songs zum Austoben – von 90s Trash bis RnB. Maxi macht seit Jahren Karaoke-Abende zur Party, bei denen du zum Held:in oder Meme wirst. Zwisch"
   },
   {
+    "titel": "Bieberchella • Garagen Köln",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T23:00+0200",
+    "ort": "Garagen, Oskar-Jäger-Straße 179",
+    "preis": "ab 12 €",
+    "link": "https://rausgegangen.de/events/bieberchella-garagen-koln-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wenn du auf Justin Biebers Hits von „Baby“ bis „Peaches“ stehst, ist Bieberchella genau dein Ding. Die DJ-Party bringt dir alle Biebs-Epochen direkt auf die Tanzfläche – fühl Love Yourself und sing mit bei allen Klassike"
+  },
+  {
     "titel": "Psychedelic Light & Sound",
     "datum": "27. Jun 2026",
     "datum_raw": "2026-06-27T11:00+0200",
@@ -398,5 +298,105 @@
     "link": "https://rausgegangen.de/events/northern-lights-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Northern Lights🤝 Der Erlös des Benefizkonzerts fließt direkt in lokale Projekte der Bürgerstiftung St. Gereon – alle weiteren Infos hier: www.stiftung-merheim.de . Erlebt mit dem Ensemble \"unmuted\" eine magische Klangr"
+  },
+  {
+    "titel": "Serenaden und Barkarolen. Gesprächskonzert",
+    "datum": "27. Jun 2026",
+    "datum_raw": "2026-06-27T17:00+0200",
+    "ort": "Cologne Beach House, Roonstraße 63A",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/serenaden-und-barkarolen-gesprachskonzert-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Lieben Sie klassische Musik?  Faszinieren Sie die Musikgeschichte und Italien?  Vielleicht denken manche, klassische Musik sei zu ernst. Doch sie ist voller Leidenschaft, lebendiger Emotionen und Humor. Wenn Sie neugieri"
+  },
+  {
+    "titel": "Secret Living Room Concert",
+    "datum": "27. Jun 2026",
+    "datum_raw": "2026-06-27T18:30+0200",
+    "ort": "Geheimer Ort, Köln",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/secret-living-room-concert-130/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wir freuen uns auf ein weiteres geheimes Wohnzimmerkonzert. Da sowohl die Musiker*In als auch die Location geheim sind, gibt es nicht viel zu sagen, außer: lasst euch überraschen! Einlass: 18:30 Uhr Beginn: 19:00 Uhr Al"
+  },
+  {
+    "titel": "EIN DUFT VON HEIMAT - Wer ist denn schon zu Hause? Chorkonzert der Kolner Kurrende und amé toki",
+    "datum": "27. Jun 2026",
+    "datum_raw": "2026-06-27T19:00+0200",
+    "ort": "Bürgerhaus Kalk, Kalk-Mülheimer Str. 58",
+    "preis": "ab 25 €",
+    "link": "https://rausgegangen.de/events/ein-duft-von-heimat-wer-ist-denn-schon-zu-hause-chorkonzert--0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Dieser Abend ist eine musikalisch-literarische Annäherung an das Thema Heimat, mit Texten von Goethe bis Benn, neu vertont und mit Soundscapes verbunden. Neue Blicke werden auf die eigenen Heimaten geworfen, inmitten ei"
+  },
+  {
+    "titel": "CHLOEBËTH LIVE",
+    "datum": "27. Jun 2026",
+    "datum_raw": "2026-06-27T19:30+0200",
+    "ort": "Hej Love Cologne, Große Brinkgasse 2",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/cloebeth-opera-live-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Exclusive Opera Concert with Cloebeth's etheral heavenly & healing voice right in front of you in the heart of Cologne "
+  },
+  {
+    "titel": "Helene Fischer - 360° Stadion Tour 2026",
+    "datum": "27. Jun 2026",
+    "datum_raw": "2026-06-27T19:30+0200",
+    "ort": "RheinEnergieSTADION, Aachener Straße 999",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/helene-fischer-360-stadion-tour-2026-26/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Presented by Live NationHelene Fischer hat mir ihrer von 800.000 Fans gefeierten und international viel beachteten Arena-Tour der Rekorde Maßstäbe gesetzt. Jetzt wird die herausragende Sängerin und Entertainerin ein at"
+  },
+  {
+    "titel": "POESIE DES AUFBRUCHS",
+    "datum": "27. Jun 2026",
+    "datum_raw": "2026-06-27T19:30+0200",
+    "ort": "Sankt Aposteln Neumarkt Aula, Apostelnstraße",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/poesie-des-aufbruchs-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Ein Benefizkonzert für ÄRZTE OHNE GRENZEN in der Apostelkirche am Neumarkt.Joachim Kubowitz aka Monsieur Kubo und Lotta Corradini vertonen Lyrik aus drei Jahrhunderten: POESIE DES AUFBRUCHS – vor allem von Dichterinnen"
+  },
+  {
+    "titel": "Love, Peace and Revolution: Chorkonzert mit den deineMaids",
+    "datum": "27. Jun 2026",
+    "datum_raw": "2026-06-27T20:00+0200",
+    "ort": "Lutherkirche Köln-Südstadt, Martin-Luther-Platz 4",
+    "preis": "ab 10 €",
+    "link": "https://rausgegangen.de/events/bewegte-zeiten-verlangen-bewegte-lieder-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "deineMaids – ChorkonzertLove, Peace and Revolution – Bewegte Zeiten verlangen bewegte Lieder  Die deineMaids aus Köln stellen sich musikalisch den Themen der Zeit. Mit ihrer ganz eigenen Interpretation populärer Pop- u"
+  },
+  {
+    "titel": "deineMaids – Love, Peace and Revolution",
+    "datum": "27. Jun 2026",
+    "datum_raw": "2026-06-27T20:00+0200",
+    "ort": "Lutherkirche Südstadt, Martin-Luther-Platz 2-4",
+    "preis": "ab 10 €",
+    "link": "https://rausgegangen.de/events/deinemaids-love-peace-and-revolution-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Love, Peace and Revolution – Bewegte Zeiten verlangen bewegte Lieder  Die deineMaids aus Köln stellen sich musikalisch den Themen der Zeit. Mit ihrer ganz eigenen Interpretation populärer Pop- und Rock-Songs entfalten "
+  },
+  {
+    "titel": "gallery:concert #22 trio in feral",
+    "datum": "27. Jun 2026",
+    "datum_raw": "2026-06-27T20:00+0200",
+    "ort": "Galerie Lindemann, Mauenheimer Straße 21",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/galleryconcert-22-trio-in-feral-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "trio in feralelectronical synapsis, ambient, dark electronics, diy synth, self developed contollers, I-pad Art, improvisation trio in feral ist ein Kölner Ensemble für experimentelle elektronische Improvisation. Die dr"
+  },
+  {
+    "titel": "Erobique LIVE - ACHTUNG: Konzert verlegt! NEUER ORT: Carlswerk Victoria",
+    "datum": "3. Jan 2027",
+    "datum_raw": "2027-01-03T19:00+0100",
+    "ort": "Carlswerk Victoria, Schanzenstr. 6-20",
+    "preis": "ab 40 €",
+    "link": "https://rausgegangen.de/events/erobique-live-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Erobique feiert mit seinem unverwechselbaren Funk-Sound das Open-Air-Debüt in Köln. Seit über 30 Jahren verbindet er Disco und Funk zu einer spontanen Jam-Session, die Generationen und Fremde auf magische Weise zusammenb"
   }
 ]
