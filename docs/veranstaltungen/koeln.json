@@ -290,26 +290,6 @@
     "teaser": "FLOW’S MITSINGFENSTER Am Freitag, den 26. Juni 2026, wird die Straße vor Franky’s Bar zur Bühne für einen ganz besonderen Sommerabend. Bei Flow’s Mitsingfenster kommt die Musik nicht von einer großen Bühne, sondern di"
   },
   {
-    "titel": "Helene Fischer - 360° Stadion Tour 2026",
-    "datum": "26. Jun 2026",
-    "datum_raw": "2026-06-26T19:30+0200",
-    "ort": "RheinEnergieSTADION, Aachener Straße 999",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/helene-fischer-360-stadion-tour-2026-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Presented by Live NationHelene Fischer hat mir ihrer von 800.000 Fans gefeierten und international viel beachteten Arena-Tour der Rekorde Maßstäbe gesetzt. Jetzt wird die herausragende Sängerin und Entertainerin ein at"
-  },
-  {
-    "titel": "Helene Fischer - 360° Stadion Tour 2026 - VIP Packages",
-    "datum": "26. Jun 2026",
-    "datum_raw": "2026-06-26T19:30+0200",
-    "ort": "RheinEnergieSTADION, Aachener Straße 999",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/helene-fischer-360-stadion-tour-2026-vip-packages-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bitte beachten Sie :• Für das Konzert stehen Mobile Tickets oder Print Tickets zur Verfügung. Die Tickets werden zu einem späteren Zeitpunkt verschickt (Printtickets) oder sind zu einem späteren Zeitpunkt über die T"
-  },
-  {
     "titel": "Scenes from Broadway to Cinema - Wolfgang Behrendt and friends",
     "datum": "26. Jun 2026",
     "datum_raw": "2026-06-26T19:30+0200",
@@ -398,5 +378,25 @@
     "link": "https://rausgegangen.de/events/sing-it-out-maxis-karaoke-nacht-25/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Hier gibt’s keinen Jury-Stress und keine falschen Töne, sondern einfach 53.000 Songs zum Austoben – von 90s Trash bis RnB. Maxi macht seit Jahren Karaoke-Abende zur Party, bei denen du zum Held:in oder Meme wirst. Zwisch"
+  },
+  {
+    "titel": "Psychedelic Light & Sound",
+    "datum": "27. Jun 2026",
+    "datum_raw": "2026-06-27T11:00+0200",
+    "ort": "Klangkino, Hansaring 61",
+    "preis": "ab 55 €",
+    "link": "https://rausgegangen.de/events/psychedelic-light-sound-26/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Psychedelic Light & Sound Journey verbindet eines der ältesten Instrumente der Erde mit den neusten Erkenntnissen und Technologien aus der Forschung.  Mit dem Einsatz des Gongs in Kombination mit der Roxiva-Lichttec"
+  },
+  {
+    "titel": ":juba | Kopfchaos – Ein Hauch von Zukunft",
+    "datum": "27. Jun 2026",
+    "datum_raw": "2026-06-27T16:00+0200",
+    "ort": "TanzFaktur, Siegburger Straße 233w",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/juba-kopfchaos-ein-hauch-von-zukunft-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wir machen das selbst! Beim :juba – jugend barock musik festival gestalten Jugendliche ihr eigenes Festival für Alte Musik. Zusammen mit dem Furore Ensemble und dem Duo Merzouga entwickeln Schüler:innen der Gesamtschul"
   }
 ]
