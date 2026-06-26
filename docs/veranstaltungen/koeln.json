@@ -20,6 +20,16 @@
     "teaser": "Feierabendmarkt am Chlodwigplatz: Streetfood auf die Hand, kalte Drinks und Sommerabend-Vibes direkt vor der Severinstorburg. Perfekt, um mit Freunden entspannt ins Wochenende zu starten. Wir sehen uns auf ein Kölsch! 🍻🌯"
   },
   {
+    "titel": "Laut. Bunt. Solidarisch. - Das Sommerfest der DGB Jugend Köln",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T16:00+0200",
+    "ort": "DGB Jugendraum Köln, Hans-Böckler-Platz 1",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/laut-bunt-solidarisch-das-sommerfest-der-dgb-jugend-koln-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Du willst coole Leute kennen lernen? Bei guter Musik und leckerem Essen kannst du uns als Gewerkschaftsjugend kennenlernen.Am 26. Juni ab 16 Uhr steigt unser DGB Jugend Sommerfest in Köln – und du bist eingeladen! 💥🎨 We"
+  },
+  {
     "titel": "APERITIVO ZERO, ZERO",
     "datum": "26. Jun 2026",
     "datum_raw": "2026-06-26T17:00+0200",
@@ -28,16 +38,6 @@
     "link": "https://rausgegangen.de/events/aperitivo-zero-zero-8/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Freitags geht’s bei APERITIVO ZERO um feine alkoholfreie Drinks von Verjus bis Pet Nat, alles handverlesen von Winzer:innen aus Rheinhessen und der Pfalz. So genießt du entspannt den Start ins Wochenende ohne Kater🫶"
-  },
-  {
-    "titel": "LATEINAMERIKANISCHES WOCHENENDE - KÖLN",
-    "datum": "26. Jun 2026",
-    "datum_raw": "2026-06-26T17:00+0200",
-    "ort": "Südbrücke, Alfred-Schütte-Allee 34",
-    "preis": "ab 6 €",
-    "link": "https://rausgegangen.de/events/lateinamerikanisches-wochenende-koln-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Lateinamerikanischen Wochenende in Köln dreht sich alles um authentische Rhythmen, buntes Handwerk und vielfältige Aromen von Foodtrucks, die echte Geschmackserlebnisse liefern. Das Programm bietet von Samba über Fo"
   },
   {
     "titel": "Klangräume – Stimme im Kosmos der Schalen",
@@ -50,16 +50,6 @@
     "teaser": "Klangräume – Stimme im Kosmos der Schalen Ein Gesangskonzert der Sopranistin Sunja Wehmeier Im Rahmen der Ausstellung „99 Schalen – ein Kosmos“ der Keramikkünstlerin Young-Jae Lee gestaltet die Sopranistin Sunja Wehmei"
   },
   {
-    "titel": "Korken & Klub Afterwork",
-    "datum": "26. Jun 2026",
-    "datum_raw": "2026-06-26T18:00+0200",
-    "ort": "CBE Sommergarten, Bartholomäus-Schink-Straße 65/67",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/korken-klub-afterwork-10/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei Korken & Klub mixt eine coole Crew House-Sounds mit Saxofon-Improvisation – genau der richtige Soundtrack für entspannte Sommerabende. Dazu gibt’s eine feine Weinauswahl und leckere Snacks vom Food Truck, damit du en"
-  },
-  {
     "titel": "FÄLLT AUS AM 26.06. / Odonische Freitagsbühne",
     "datum": "26. Jun 2026",
     "datum_raw": "2026-06-26T18:00+0200",
@@ -68,6 +58,16 @@
     "link": "https://rausgegangen.de/events/odonische-freitagsbuhne-72/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge entdecken Spaß macht "
+  },
+  {
+    "titel": "Korken & Klub Afterwork",
+    "datum": "26. Jun 2026",
+    "datum_raw": "2026-06-26T18:00+0200",
+    "ort": "CBE Sommergarten, Bartholomäus-Schink-Straße 65/67",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/korken-klub-afterwork-10/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei Korken & Klub mixt eine coole Crew House-Sounds mit Saxofon-Improvisation – genau der richtige Soundtrack für entspannte Sommerabende. Dazu gibt’s eine feine Weinauswahl und leckere Snacks vom Food Truck, damit du en"
   },
   {
     "titel": "Cosmic Gong Bath",
