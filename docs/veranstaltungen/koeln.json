@@ -20,16 +20,6 @@
     "teaser": "Hier kannst du Demokratie mal anders entdecken: In einer interaktiven Mitmach-Baustelle bringen politische Initiativen aus Köln ihre Anliegen ein und regen zum Austausch an. Der Live-Podcast mit Nicole Schweiß und Alice "
   },
   {
-    "titel": "Psychedelic Light & Sound",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T11:00+0200",
-    "ort": "Klangkino, Hansaring 61",
-    "preis": "ab 55 €",
-    "link": "https://rausgegangen.de/events/psychedelic-light-sound-26/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die Psychedelic Light & Sound Journey verbindet eines der ältesten Instrumente der Erde mit den neusten Erkenntnissen und Technologien aus der Forschung.  Mit dem Einsatz des Gongs in Kombination mit der Roxiva-Lichttec"
-  },
-  {
     "titel": "STUDIO OPENING",
     "datum": "27. Jun 2026",
     "datum_raw": "2026-06-27T12:00+0200",
@@ -108,16 +98,6 @@
     "link": "https://rausgegangen.de/events/juba-kopfchaos-ein-hauch-von-zukunft-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Wir machen das selbst! Beim :juba – jugend barock musik festival gestalten Jugendliche ihr eigenes Festival für Alte Musik. Zusammen mit dem Furore Ensemble und dem Duo Merzouga entwickeln Schüler:innen der Gesamtschul"
-  },
-  {
-    "titel": "Northern Lights",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T16:00+0200",
-    "ort": "St. Gereon, Köln-Merheim, Von-Eltz-Platz",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/northern-lights-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Northern Lights🤝 Der Erlös des Benefizkonzerts fließt direkt in lokale Projekte der Bürgerstiftung St. Gereon – alle weiteren Infos hier: www.stiftung-merheim.de . Erlebt mit dem Ensemble \"unmuted\" eine magische Klangr"
   },
   {
     "titel": "Serenaden und Barkarolen. Gesprächskonzert",
@@ -398,5 +378,25 @@
     "link": "https://rausgegangen.de/events/workshop-social-night-fur-paare-alleinstehende-tanzen-verbin-122/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Es geht um neue Kontakte und ein neues Hobby, das deine Weltsicht verändern und den Kontakt zu Menschen viel einfacher machen kann. Durch das Tanzen verbinden sich Menschen und bleiben präsent.Meine Aufgabe als Worksho"
+  },
+  {
+    "titel": "BURLESQUE BIJOUX -Show- Die Juwelen des Burlesques!",
+    "datum": "28. Jun 2026",
+    "datum_raw": "2026-06-28T18:00+0200",
+    "ort": "Echtzeit Grill & Thrill, Friesenstraße 33",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/burlesque-bijoux-show-die-juwelen-des-burlesques-30/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Willkommen in unserer extravaganten Brasserie, wo Eleganz auf Versuchung trifft.Tauchen Sie ein in eine Welt voller Glamour, Sinnlichkeit und Überraschungen. Unsere bezaubernden Künstler werden Sie mit einer atemberaub"
+  },
+  {
+    "titel": "Cleo Reed",
+    "datum": "28. Jun 2026",
+    "datum_raw": "2026-06-28T18:00+0200",
+    "ort": "JAKI, Venloer Str. 40",
+    "preis": "ab 10 €",
+    "link": "https://rausgegangen.de/events/cleo-reed-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Cleo Reed mixt auf ihrem neuen Doppelalbum CUNTRY Folk, Blues und Soul mit elektronischen Sounds und rapbasierten Texten. Die Musik spiegelt eine Auseinandersetzung mit Arbeit und Wut im Alltag, die du hautnah miterleben"
   }
 ]
