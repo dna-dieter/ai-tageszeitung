@@ -1,303 +1,23 @@
 [
   {
-    "titel": "Lichtstraßenfest",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T10:00+0200",
-    "ort": "Lichtstraße, Lichtstraße",
+    "titel": "Flohmarkt in den Garagen pres. by Diffora",
+    "datum": "28. Jun 2026",
+    "datum_raw": "2026-06-28T10:00+0200",
+    "ort": "Garagen, Oskar-Jäger-Straße 179",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/lichtstraenfest-0/",
+    "link": "https://rausgegangen.de/events/flohmarkt-in-den-garagen-pres-by-diffora-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Lichtstraßenfest geht es darum, die Straße für alle zurückzuerobern und zusammen einen Ort zu schaffen, an dem Kunst, Kultur und richtig gute Musik aufeinandertreffen. Von Familien bis Nachbar:innen erwartet dich ei"
+    "teaser": "Der Flohmarkt von Diffora vereint chillige Garagen-Atmosphäre mit Open-Air-Feeling und House-Sounds vom Funky Fungi Kollektiv. Neben coolen Klamotten entdeckst du spannende Initiativen, die mit ihrer Arbeit das Kölner Fr"
   },
   {
-    "titel": "UNDER CONSTRUCTION: Baustelle Demokratie",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T11:00+0200",
-    "ort": "NS-Dokumentationszentrum Köln - EL-DE-Haus, Appellhofplatz 23-25",
+    "titel": "Flohmarkt Orangerie Theater",
+    "datum": "28. Jun 2026",
+    "datum_raw": "2026-06-28T10:00+0200",
+    "ort": "Orangerie Theater, Volksgartenstr. Köln, Volksgartenstraße 25",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/under-construction-baustelle-demokratie-0/",
+    "link": "https://rausgegangen.de/events/flohmarkt-orangerie-theater-2/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Hier kannst du Demokratie mal anders entdecken: In einer interaktiven Mitmach-Baustelle bringen politische Initiativen aus Köln ihre Anliegen ein und regen zum Austausch an. Der Live-Podcast mit Nicole Schweiß und Alice "
-  },
-  {
-    "titel": "STUDIO OPENING",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T12:00+0200",
-    "ort": "STUDIO MARTINI, Liebigstraße 165",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/studio-opening-6/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Kim öffnet ihr neues Atelier und lädt dich ein, ihre abstrakten Werke in entspannter Atmosphäre zu entdecken. Neben Kunst gibt’s Workshops und Raum für gemeinsame Kreativität, ganz ohne großen Schnickschnack und mit viel"
-  },
-  {
-    "titel": "Rainbow Festival 2026",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T13:00+0200",
-    "ort": "Fühlinger See, Oranjehofstraße 103-105",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/rainbow-festival-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Am 27. Juni wird das Rainbow Festival zum Treffpunkt für alle, die Vielfalt und Musik feiern. Bei entspannter Atmosphäre am See kannst du starken Acts lauschen und neue Lieblingsmomente sammeln. Ein Sommer-Highlight, das"
-  },
-  {
-    "titel": "fi Garten x Langer Tag x Audrey Danza & Vement & Hoove & Etage147",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T14:00+0200",
-    "ort": "Ursprung fi, Widdersdorfer Straße 246",
-    "preis": "ab 22 €",
-    "link": "https://rausgegangen.de/events/fi-garten-x-langer-tag-x-audrey-danza-vement-hoove-etage147-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Am Samstag startet eine lange Nacht voll spannender Sounds mit DJs wie Audrey Danza und Vement, die sich gegenseitig mit frischen Sets inspirieren. Neben Hoove und Etage147 zeigen sich weitere Acts in packenden B2B-Runde"
-  },
-  {
-    "titel": "Straußitag - Strausswirtschaft mit Wein, DJ's & good Vibes",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T15:00+0200",
-    "ort": "IMI Winery, Körnerstraße  20",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/strauitag-wine-latin-grooves-mit-a-lo-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei Straußitag trifft entspanntes Day-Drinking auf eine feine Auswahl an Weinen direkt aus eigener Produktion. DJs und Live-Musik sorgen ab 15 Uhr für eine entspannte, lockere Atmosphäre, die perfekt zum Genießen und Sna"
-  },
-  {
-    "titel": "Vice Boat Cruise 2026 [sold out]",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T15:45+0200",
-    "ort": "Anleger Nr. 5, Trankgassenwerft",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/vice-boat-cruise-2026-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei der Vice Boat Cruise gleitet ihr entspannt über den Rhein, während chunky House-Beats vom feinen Soundsystem um euch herumtragen. Das Line-up steht noch aus, verspricht aber erneut einen Mix aus Deep und Tech House, "
-  },
-  {
-    "titel": "Best Foot Forward - All Day & Night",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T16:00+0200",
-    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/best-foot-forward-all-day-night-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zwei Top-DJs aus Köln legen Hausmusik auf, die dich vom Nachmittag bis spät in die Nacht begleitet. Freu dich auf entspannten Flow und groovige Stunden, die dich ganz nebenbei mit Erinnerungen an den Sommer füllen 🫶"
-  },
-  {
-    "titel": "EARLY SUMMER DESIGNFESTIVAL 2026 x schøn.",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T16:00+0200",
-    "ort": "Wachsfabrik, Industriestr. 170",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/early-summer-designfestival-2026-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Das Early Summer Designfestival präsentiert dir zwei Tage voll gelebter Kreativität mit fairen, handgemachten Schätzen von rund 50 regionalen Labels. Hier kannst du nicht nur shoppen, sondern beim Basteln und Tattoos ste"
-  },
-  {
-    "titel": ":juba | Kopfchaos – Ein Hauch von Zukunft",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T16:00+0200",
-    "ort": "TanzFaktur, Siegburger Straße 233w",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/juba-kopfchaos-ein-hauch-von-zukunft-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wir machen das selbst! Beim :juba – jugend barock musik festival gestalten Jugendliche ihr eigenes Festival für Alte Musik. Zusammen mit dem Furore Ensemble und dem Duo Merzouga entwickeln Schüler:innen der Gesamtschul"
-  },
-  {
-    "titel": "Serenaden und Barkarolen. Gesprächskonzert",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T17:00+0200",
-    "ort": "Cologne Beach House, Roonstraße 63A",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/serenaden-und-barkarolen-gesprachskonzert-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Lieben Sie klassische Musik?  Faszinieren Sie die Musikgeschichte und Italien?  Vielleicht denken manche, klassische Musik sei zu ernst. Doch sie ist voller Leidenschaft, lebendiger Emotionen und Humor. Wenn Sie neugieri"
-  },
-  {
-    "titel": "20 Grad im Raum! Kakao & Klang - Zeremonie mit Sound Healing, live Musik zum Fühlen, Schokolade zum Trinken",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T18:00+0200",
-    "ort": "room for emotions, Am Maarhof 25",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kakao-klang-zeremonie-mit-sound-healing-live-musik-zum-fuhle-39/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zeremonieller Rohkakao – die Medizin des HerzensZeremonieller Rohkakao ist weit mehr als ein Getränk. Seit Jahrtausenden wird er in mittel- und südamerikanischen Kulturen als heilige Pflanzenmedizin verehrt – als „Spei"
-  },
-  {
-    "titel": "Secret Living Room Concert",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T18:30+0200",
-    "ort": "Geheimer Ort, Köln",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/secret-living-room-concert-130/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wir freuen uns auf ein weiteres geheimes Wohnzimmerkonzert. Da sowohl die Musiker*In als auch die Location geheim sind, gibt es nicht viel zu sagen, außer: lasst euch überraschen! Einlass: 18:30 Uhr Beginn: 19:00 Uhr Al"
-  },
-  {
-    "titel": "EIN DUFT VON HEIMAT - Wer ist denn schon zu Hause? Chorkonzert der Kolner Kurrende und amé toki",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T19:00+0200",
-    "ort": "Bürgerhaus Kalk, Kalk-Mülheimer Str. 58",
-    "preis": "ab 25 €",
-    "link": "https://rausgegangen.de/events/ein-duft-von-heimat-wer-ist-denn-schon-zu-hause-chorkonzert--0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Dieser Abend ist eine musikalisch-literarische Annäherung an das Thema Heimat, mit Texten von Goethe bis Benn, neu vertont und mit Soundscapes verbunden. Neue Blicke werden auf die eigenen Heimaten geworfen, inmitten ei"
-  },
-  {
-    "titel": "CHLOEBËTH LIVE",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T19:30+0200",
-    "ort": "Hej Love Cologne, Große Brinkgasse 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/cloebeth-opera-live-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Exclusive Opera Concert with Cloebeth's etheral heavenly & healing voice right in front of you in the heart of Cologne "
-  },
-  {
-    "titel": "Helene Fischer - 360° Stadion Tour 2026",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T19:30+0200",
-    "ort": "RheinEnergieSTADION, Aachener Straße 999",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/helene-fischer-360-stadion-tour-2026-26/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Presented by Live NationHelene Fischer hat mir ihrer von 800.000 Fans gefeierten und international viel beachteten Arena-Tour der Rekorde Maßstäbe gesetzt. Jetzt wird die herausragende Sängerin und Entertainerin ein at"
-  },
-  {
-    "titel": "POESIE DES AUFBRUCHS",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T19:30+0200",
-    "ort": "Sankt Aposteln Neumarkt Aula, Apostelnstraße",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/poesie-des-aufbruchs-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Ein Benefizkonzert für ÄRZTE OHNE GRENZEN in der Apostelkirche am Neumarkt.Joachim Kubowitz aka Monsieur Kubo und Lotta Corradini vertonen Lyrik aus drei Jahrhunderten: POESIE DES AUFBRUCHS – vor allem von Dichterinnen"
-  },
-  {
-    "titel": "Echtzeit Comedy - Stand-Up am Samstag",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T20:00+0200",
-    "ort": "Echtzeit Grill & Thrill, Friesenstraße 33",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/echtzeit-comedy-stand-up-am-samstag-74/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "„Samstag ist Comedy-Time! 🎤🔥 Um 20 Uhr rocken drei Comedians die Bühne – freut euch auf gute Stimmung, BBQ und Drinks🍔✨“"
-  },
-  {
-    "titel": "Love, Peace and Revolution: Chorkonzert mit den deineMaids",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T20:00+0200",
-    "ort": "Lutherkirche Köln-Südstadt, Martin-Luther-Platz 4",
-    "preis": "ab 10 €",
-    "link": "https://rausgegangen.de/events/bewegte-zeiten-verlangen-bewegte-lieder-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "deineMaids – ChorkonzertLove, Peace and Revolution – Bewegte Zeiten verlangen bewegte Lieder  Die deineMaids aus Köln stellen sich musikalisch den Themen der Zeit. Mit ihrer ganz eigenen Interpretation populärer Pop- u"
-  },
-  {
-    "titel": "deineMaids – Love, Peace and Revolution",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T20:00+0200",
-    "ort": "Lutherkirche Südstadt, Martin-Luther-Platz 2-4",
-    "preis": "ab 10 €",
-    "link": "https://rausgegangen.de/events/deinemaids-love-peace-and-revolution-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Love, Peace and Revolution – Bewegte Zeiten verlangen bewegte Lieder  Die deineMaids aus Köln stellen sich musikalisch den Themen der Zeit. Mit ihrer ganz eigenen Interpretation populärer Pop- und Rock-Songs entfalten "
-  },
-  {
-    "titel": "gallery:concert #22 trio in feral",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T20:00+0200",
-    "ort": "Galerie Lindemann, Mauenheimer Straße 21",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/galleryconcert-22-trio-in-feral-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "trio in feralelectronical synapsis, ambient, dark electronics, diy synth, self developed contollers, I-pad Art, improvisation trio in feral ist ein Kölner Ensemble für experimentelle elektronische Improvisation. Die dr"
-  },
-  {
-    "titel": "Jazz at JAKI: Parzhuber Trio",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T20:00+0200",
-    "ort": "JAKI, Venloer Str. 40",
-    "preis": "ab 8 €",
-    "link": "https://rausgegangen.de/events/jazz-at-jaki-parzhuber-trio-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "20:00 I Konzert I JAKI Der Name ist Programm: PARZ ist die radikale Reduktion des Kölner Schlagzeugers Alex Parzhuber auf das Wesentliche. Aktuell präsentiert die Band das Material ihres zweiten Albums – ein Sound, der"
-  },
-  {
-    "titel": "NU POSITION",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T20:00+0200",
-    "ort": "Hinterhofsalon, Aachener Straße 68",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/nu-position-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "different funky cover musicNuPosition, die funky Cover-Band der etwas anderen Art, hat im Laufe ihres über 20-jährgen Bestehens einen besonderen Stilmix aus groovigen songs verschiedener Genres entwickelt. Wir beschrä"
-  },
-  {
-    "titel": "Universen – Măcelaru & Isabelle Faust",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T20:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 14 €",
-    "link": "https://rausgegangen.de/events/universen-macelaru-isabelle-faust-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Isabelle Faust | WDR Rundfunkchor | WDR Sinfonieorchester | Cristian MăcelaruIsabelle Faust spielt Schostakowitschs 2. Violinkonzert mit dem WDR SinfonieorchesterKlangintensiv und berührend ist Dmitri Schostakowitschs "
-  },
-  {
-    "titel": "LES LOVE - CSD Special",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T22:00+0200",
-    "ort": "Die Garagen, Oskar-Jäger-Straße 179",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/les-love-csd-special-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim LES LOVE CSD Special feiern FLINTA* und queere Unterstützer:innen zusammen mit sieben Live-Acts und DJs eine Nacht abseits des Mainstreams. Draußen lockt der chillige Beergarden, drinnen bringt eine bunte Soundmisch"
-  },
-  {
-    "titel": "Die bunte Kinky Party: KINKY CIRCUS 😈 27.06.2026 • Köln • Club-Bahnhof-Ehrenfeld 🖤🦄",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T22:00+0200",
-    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
-    "preis": "ab 25 €",
-    "link": "https://rausgegangen.de/events/die-bunte-kinky-party-kinky-circus-27062026-koln-club-bahnho-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei der Kinky Circus Party erwarten dich zwei Floors mit Techno, House und Hard-Techno und dazu überraschende Showacts sowie Bereiche zum Entspannen oder Austoben. Alles ist bunt, laut und voller überraschender Details –"
-  },
-  {
-    "titel": "Brauhaus Beats mit Josh",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T22:00+0200",
-    "ort": "Gaffel am Dom, Bahnhofsvorplatz 1",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/brauhaus-beats-mit-josh-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Auch 2026 wird im Gaffel am Dom bis in den Sonntag hinein gefeiert! Die Party-Reihe Brauhaus Beats lädt zu außergewöhnlichen Mitsingabenden ein. Ab 22 Uhr sorgt Josh für Stimmung. Ein einzigartiges Acoustic Solo Loope"
-  },
-  {
-    "titel": "KERSTIN EDEN vs PAPPENHEIMER / TALLBOY vs DISCOSTOFF & more by ONLYRAVES & TAUSENDNAMEN",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T23:00+0200",
-    "ort": "Odonien, Hornstraße 85",
-    "preis": "ab 25 €",
-    "link": "https://rausgegangen.de/events/kerstin-eden-vs-pappenheimer-tallboy-vs-discostoff-more-by-o-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Kerstin Eden und Pappenheimer starten ein DJ-Duell, das durch überraschende B2B-Sets von Tallboy und Discostoff ergänzt wird. Die Kombination aus wechselnden Partner:innen verspricht unterschiedliche Sounds und spannende"
-  },
-  {
-    "titel": "XOXO - Die 2000er-Party im GLORIA",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T23:00+0200",
-    "ort": "GLORIA Köln, Apostelnstraße 11",
-    "preis": "ab 16 €",
-    "link": "https://rausgegangen.de/events/xoxo-die-2000er-party-im-gloria-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Erinnere dich an die wilden 2000er mit XOXO: Diese Party bringt den Charme von MTV, Denim und Dancefloor zurück. Freu dich auf eine Nacht voller Hits und Erinnerungen, die dich direkt in die Nullerjahre katapultiert 🤩"
-  },
-  {
-    "titel": "Tom-Tom Discotec presents: Cheb Mimo",
-    "datum": "27. Jun 2026",
-    "datum_raw": "2026-06-27T23:30+0200",
-    "ort": "JAKI, Venloer Str. 40",
-    "preis": "ab 12 €",
-    "link": "https://rausgegangen.de/events/tom-tom-discotec-presents-cheb-mimo-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Cheb Mimo verwebt in seinen Sets nordafrikanische Popklassiker mit analogen Synths und globalen Rhythmen, die einen ganz eigenen Puls erzeugen. Die Tom-Tom Discotec präsentiert ihn mit Support, der zwischen Brazil, Zouk "
+    "teaser": "Hier findest du eine bunte Mischung aus Secondhand-Schätzen, Drinks und entspannter Musik zum Stöbern und Plaudern. Ein entspannter Markt, bei dem du deinen Kleiderschrank erleichtern und gleichzeitig andere glücklich ma"
   },
   {
     "titel": "Joy of Singing mehrstimmig - Workshop - einfach mitsingen in Köln-Sülz",
@@ -330,6 +50,16 @@
     "teaser": "Familienkonzert 12 Kölner Grundschulklassen | Gürzenich-Orchester Köln | Mariano Chiacchiarini | Ruth Dobernecker | Maike Hiller | Johanna Risse | Clara Siegmund | Payam Yazdani | Natalija Stanković | Georgios Kolios"
   },
   {
+    "titel": "EARLY SUMMER DESIGNFESTIVAL 2026",
+    "datum": "28. Jun 2026",
+    "datum_raw": "2026-06-28T14:00+0200",
+    "ort": "Wachsfabrik, Industriestraße 170",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/early-summer-designfestival-2026-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim Early Summer Designfestival entdeckst du faire und liebevoll gemachte Unikate von rund 50 regionalen Brands, während du in der DIY Area selbst kreativ wirst. Abgerundet wird das Ganze durch Streetfood, Tattoos und e"
+  },
+  {
     "titel": "Perlen im Veedel · Veedeltour 2026 | die Veedelperlen",
     "datum": "28. Jun 2026",
     "datum_raw": "2026-06-28T14:00+0200",
@@ -340,6 +70,26 @@
     "teaser": "Unsere liebsten Perlen versorgen dich wieder mit stimmgewaltigen Sounds - und das komplett for free! Am Sonntag heißt es: Ohren auf, denn die Veedelperlen bringen den Rathenauplatz zum Beben. Freu dich auf starke Stimmen"
   },
   {
+    "titel": "ColognePride Beach & Village",
+    "datum": "28. Jun 2026",
+    "datum_raw": "2026-06-28T14:00+0200",
+    "ort": "Elogiusplatz, Köln",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/colognepride-beach-village-9/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim ColognePride Beach & Village erwartet dich ein entspannter Queer-Strand mit Palmen, Sand und einem XXL-Pool, der mitten in der Stadt zum Abhängen und Feiern einlädt. Lass dich von Ibiza-Sounds treiben, genieße coole"
+  },
+  {
+    "titel": "SummerKLAENG 2026",
+    "datum": "28. Jun 2026",
+    "datum_raw": "2026-06-28T14:00+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/summerklaeng-2026-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim SummerKLAENG gibt’s entspannten Sound quer durch Pop, Jazz und Folk – vom ukrainischen Ethno-Jazz bis zur herzlichen Americana. Freu dich auf ein kleines Festival mit Lieblingsbands und einer Saxofonistin, die gerad"
+  },
+  {
     "titel": "Coffee Concert Cologne",
     "datum": "28. Jun 2026",
     "datum_raw": "2026-06-28T15:00+0200",
@@ -348,6 +98,16 @@
     "link": "https://rausgegangen.de/events/coffee-concert-cologne-9/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Acoustic Sundays bei LalibeeWillkommen zu einer neuen Konzertreihe in Köln-Zollstock! CCC - Coffee Concert Cologne bringt Live-Musik direkt ins Herz des gemütlichen Veedels. An ausgewählten Sonntagnachmittagen verwand"
+  },
+  {
+    "titel": "STRANGER TO FRIENDS WALK",
+    "datum": "28. Jun 2026",
+    "datum_raw": "2026-06-28T16:00+0200",
+    "ort": "Volksgarten Köln, Köln",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/stranger-to-friends-walk-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim Stranger to Friends Walk lernst du ganz entspannt neue Leute aus Köln kennen und kommst dabei in Bewegung. Der gemeinsame Spaziergang führt dich durch die Südstat, perfekt um ungezwungen ins Gespräch zu kommen und v"
   },
   {
     "titel": "JSO meets GO",
@@ -380,6 +140,16 @@
     "teaser": "Es geht um neue Kontakte und ein neues Hobby, das deine Weltsicht verändern und den Kontakt zu Menschen viel einfacher machen kann. Durch das Tanzen verbinden sich Menschen und bleiben präsent.Meine Aufgabe als Worksho"
   },
   {
+    "titel": "Cleo Reed",
+    "datum": "28. Jun 2026",
+    "datum_raw": "2026-06-28T18:00+0200",
+    "ort": "JAKI, Venloer Str. 40",
+    "preis": "ab 10 €",
+    "link": "https://rausgegangen.de/events/cleo-reed-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Cleo Reed mixt auf ihrem neuen Doppelalbum CUNTRY Folk, Blues und Soul mit elektronischen Sounds und rapbasierten Texten. Die Musik spiegelt eine Auseinandersetzung mit Arbeit und Wut im Alltag, die du hautnah miterleben"
+  },
+  {
     "titel": "BURLESQUE BIJOUX -Show- Die Juwelen des Burlesques!",
     "datum": "28. Jun 2026",
     "datum_raw": "2026-06-28T18:00+0200",
@@ -390,13 +160,243 @@
     "teaser": "Willkommen in unserer extravaganten Brasserie, wo Eleganz auf Versuchung trifft.Tauchen Sie ein in eine Welt voller Glamour, Sinnlichkeit und Überraschungen. Unsere bezaubernden Künstler werden Sie mit einer atemberaub"
   },
   {
-    "titel": "Cleo Reed",
+    "titel": "EIN DUFT VON HEIMAT - Wer ist denn schon zu Hause? Chorkonzert der Kolner Kurrende und amé toki",
     "datum": "28. Jun 2026",
     "datum_raw": "2026-06-28T18:00+0200",
-    "ort": "JAKI, Venloer Str. 40",
-    "preis": "ab 10 €",
-    "link": "https://rausgegangen.de/events/cleo-reed-0/",
+    "ort": "Bürgerhaus Kalk, Kalk-Mülheimer Str. 58",
+    "preis": "ab 25 €",
+    "link": "https://rausgegangen.de/events/ein-duft-von-heimat-wer-ist-denn-schon-zu-hause-chorkonzert--1/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Cleo Reed mixt auf ihrem neuen Doppelalbum CUNTRY Folk, Blues und Soul mit elektronischen Sounds und rapbasierten Texten. Die Musik spiegelt eine Auseinandersetzung mit Arbeit und Wut im Alltag, die du hautnah miterleben"
+    "teaser": "Dieser Abend ist eine musikalisch-literarische Annäherung an das Thema Heimat, mit Texten von Goethe bis Benn, neu vertont und mit Soundscapes verbunden. Neue Blicke werden auf die eigenen Heimaten geworfen, inmitten ei"
+  },
+  {
+    "titel": "Jamsession im Kulturbunker // OPEN STAGE",
+    "datum": "28. Jun 2026",
+    "datum_raw": "2026-06-28T18:00+0200",
+    "ort": "Kulturbunker Köln-Mülheim, Berliner Straße 20",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/jamsession-im-kulturbunker-open-stage-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "!!! Bei gutem Wetter findet die Jamsession draußen im Biergarten ab 17 Uhr statt !!! Die offene Jamsession des Kulturbunker lädt zum gemeinsamen Musizieren und Jamen ein. Musiker*innen und Zuhörer*innen sind herzlich w"
+  },
+  {
+    "titel": "Cory Wong",
+    "datum": "28. Jun 2026",
+    "datum_raw": "2026-06-28T18:30+0200",
+    "ort": "Carlswerk Victoria, Schanzenstr. 6-20",
+    "preis": "ab 40 €",
+    "link": "https://rausgegangen.de/events/cory-wong-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Cory Wong ist ein Grammy-nominierter Gitarrist, Komponist und Produzent, der für seine explosive Live-Energie, messerscharfen Funk-Grooves und genreübergreifenden, grenzüberschreitenden Kollaborationen gefeiert wird. "
+  },
+  {
+    "titel": "European Outdoor Film Tour 2025 (OMU)",
+    "datum": "28. Jun 2026",
+    "datum_raw": "2026-06-28T19:00+0200",
+    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/european-outdoor-film-tour-2025-omu-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die European Outdoor Film Tour 2025 zeigt atemberaubende Abenteuer von Alaska bis in die Schweizer Berge und begleitet Menschen, die Grenzen neu definieren. Vom innovativen Packraft-Design bis zur Rückkehr an die Kletter"
+  },
+  {
+    "titel": "Acts ‘n Sounds 18 – no vintage",
+    "datum": "28. Jun 2026",
+    "datum_raw": "2026-06-28T19:00+0200",
+    "ort": "Alte Feuerwache Köln, Melchiorstraße 3",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/acts-n-sounds-18-no-vintage-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Mit dem Programm No Vintage widmet sich Ensemble Garage Perspektiven auf zeitgenössische Musik, in denen Elektronik und Instrumentalklang in einen lebendigen Dialog treten. Im Zentrum steht die Frage, wie elektronische "
+  },
+  {
+    "titel": "Voice Boys",
+    "datum": "28. Jun 2026",
+    "datum_raw": "2026-06-28T19:00+0200",
+    "ort": "Senftöpfchen Theater, Große Neugasse 2-4",
+    "preis": "ab 31 €",
+    "link": "https://rausgegangen.de/events/voice-boys-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die \"Voice Boys“ bestehen aus 10 junggebliebenen Männern, die seit 1993 zusammen singen und Spaß haben. Sie haben sich dem a cappella Gesang verschrieben und covern auf lustige Art und Weise die Songs anderer kölscher "
+  },
+  {
+    "titel": "ShitKid",
+    "datum": "28. Jun 2026",
+    "datum_raw": "2026-06-28T19:30+0200",
+    "ort": "Blue Shell, Luxemburger Straße 32",
+    "preis": "ab 23 €",
+    "link": "https://rausgegangen.de/events/shitkid-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Seit ihrem Durchbruch im Jahr 2016 ist Åsa Söderqvists Lo-Fi-Rock-Projekt ShitKid einer der faszinierendsten Acts Schwedens, der stets Erwartungen unterläuft und Konventionen bricht, während er von Medien wie The FAD"
+  },
+  {
+    "titel": "Die Garde der Garstigen präsentiert: Stöckelspiel",
+    "datum": "28. Jun 2026",
+    "datum_raw": "2026-06-28T20:00+0200",
+    "ort": "artheater Köln, Ehrenfeldgürtel 127",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/garde-der-garstigen-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Garde der Garstigen bringt mit „Stöckelspiel“ erneut schillernde Queer-Performances voll Humor und Mut auf die Bühne. Zwischen groovigem Lip-Sync und frecher Performance-Art geht es um Gender, Feminismus und Selbstir"
+  },
+  {
+    "titel": "fakemink - a Terrible Beauty . - The Tour",
+    "datum": "28. Jun 2026",
+    "datum_raw": "2026-06-28T20:00+0200",
+    "ort": "Live Music Hall, Lichtstraße 30",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/fakemink-a-terrible-beauty-the-tour-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": " Die Veranstaltung wurde von der Kantine in die Live Music Hall verlegt. Bereits gekaufte Karten behalten ihre Gültigkeit.Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) zahlen den no"
+  },
+  {
+    "titel": "fakemink - a Terrible Beauty . - The Tour |  VIP Early Entry",
+    "datum": "28. Jun 2026",
+    "datum_raw": "2026-06-28T20:00+0200",
+    "ort": "Live Music Hall, Lichtstraße 30",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/fakemink-a-terrible-beauty-the-tour-vip-early-entry-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": " Die Veranstaltung wurde von der Kantine in die Live Music Hall verlegt. Bereits gekaufte Karten behalten ihre Gültigkeit."
+  },
+  {
+    "titel": "Watermelon Men",
+    "datum": "28. Jun 2026",
+    "datum_raw": "2026-06-28T20:00+0200",
+    "ort": "Papa Joe's, Alter Markt 50-52",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/watermelon-men-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Funky Sundays in Papa Joe’s! Jeden 4. Sonntag im Monat bringen die Watermelon Men frischen Wind in Kölns ältestes Jazzlokal – mit sattem Funk, Jazz, Swing und Modern Jazz. Angeführt von Tobias Naaber (Saxophon), Rolan"
+  },
+  {
+    "titel": "ShitKid",
+    "datum": "28. Jun 2026",
+    "datum_raw": "2026-06-28T21:00+0200",
+    "ort": "Blue Shell, Luxemburger Straße 32",
+    "preis": "ab 23 €",
+    "link": "https://rausgegangen.de/events/shitkid-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "ShitKid meldet sich zurück und rüttelt mit Lo-Fi-Rock zwischen Melvins-Einfluss und unverkennbarer Eigenart kräftig an den Erwartungen. Nach ihrer Pause seit 2020 zeigt Åsa Söderqvists Projekt, warum es noch immer polari"
+  },
+  {
+    "titel": "Grigory Sokolov",
+    "datum": "29. Jun 2026",
+    "datum_raw": "2026-06-29T20:00+0200",
+    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
+    "preis": "ab 21 €",
+    "link": "https://rausgegangen.de/events/grigory-sokolov-14/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Ein Pianist wie kein anderer: intensiv und immer einzigartigGrigory Sokolov: Sein Klang, seine Nuancen, seine Fähigkeit, Werke zu durchdringen, machen ihn zu einem ganz besonderen Interpreten, der für ein außergewöhnl"
+  },
+  {
+    "titel": "Off Campus Club: Saxophone Summit",
+    "datum": "29. Jun 2026",
+    "datum_raw": "2026-06-29T20:00+0200",
+    "ort": "King Georg, Sudermanstraße 2",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/off-campus-club-saxophone-summit-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Mit Studierenden der Klassen von Niels Klein, Claudius Valk, Theresia Phillip, Roger Hanschel und Frank Gratkowski und ihren Ensembles.Der Fachbereich Jazz/Pop der Hochschule für Musik und Tanz Köln startet eine brandn"
+  },
+  {
+    "titel": "PULP",
+    "datum": "29. Jun 2026",
+    "datum_raw": "2026-06-29T20:00+0200",
+    "ort": "Palladium, Schanzenstraße 36",
+    "preis": "ab 65 €",
+    "link": "https://rausgegangen.de/events/pulp-77/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Vor vier, vielleicht fünf Jahren, fand sich Jarvis Cocker in der unerwarteten Situation wieder, über Gefühle zu schreiben. Lange Jahre hatte er bis dahin vor allem über Gedanken, über Ideen und Konzepte geschrieben."
+  },
+  {
+    "titel": "Deep State Session",
+    "datum": "29. Jun 2026",
+    "datum_raw": "2026-06-29T21:00+0200",
+    "ort": "Klangkino, Hansaring 61",
+    "preis": "ab 20 €",
+    "link": "https://rausgegangen.de/events/deep-state-session-6/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Erlebe jede Woche neue Achtsamkeits- bzw Türöffnerübungen, die dich tiefer ins Erleben bringen. Diese Klangreise ist höchst intuitiv und jedes mal anders. Wechselnde Technik-Kombinationen aus Achtsamkeit/Energie/Brea"
+  },
+  {
+    "titel": "Vom Ich zum Wir  „Einführung in das Veto-Prinzip“",
+    "datum": "30. Jun 2026",
+    "datum_raw": "2026-06-30T19:00+0200",
+    "ort": "Café Storch, Aachener Straße 17",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/storch-session-plasma-hal-melanie-monyer/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Einführung in das Veto Prinzip Das Veto-Prinzip®️ zielt darauf ab, Räume zu erschaffen, in denen Menschen zunehmend selbstverantwortlich handeln, Entscheidungen auf Basis ihrer eigenen Integrität treffen und gleichzei"
+  },
+  {
+    "titel": "Brenn! - Amateur At Best World Tour 2026",
+    "datum": "30. Jun 2026",
+    "datum_raw": "2026-06-30T20:00+0200",
+    "ort": "Freideck - Kantine Open Air, Neusser Landstraße 2",
+    "preis": "ab 33 €",
+    "link": "https://rausgegangen.de/events/brenn-amateur-at-best-world-tour-2026-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Mit mehr als drei Millionen monatlichen Hörer:innen auf Spotify und einer stetig wachsenden internationalen Fangemeinde zählt Brenn! zu den spannendsten neuen Stimmen im modernen Folk Pop. Der junge Künstler begeister"
+  },
+  {
+    "titel": "December 10 - The Next Step",
+    "datum": "30. Jun 2026",
+    "datum_raw": "2026-06-30T20:00+0200",
+    "ort": "Luxor, Luxemburger Straße 40",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/december-10-the-next-step-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) buchen reguläre Tickets. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte."
+  },
+  {
+    "titel": "December 10 - The Next Step | Meet & Greet VIP Package\t",
+    "datum": "30. Jun 2026",
+    "datum_raw": "2026-06-30T20:00+0200",
+    "ort": "Luxor, Luxemburger Straße 40",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/december-10-the-next-step-meet-greet-vip-package-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jugendschutz: Kinder unter 6 Jahren erhalten keinen Zutritt! Kinder zwischen 6 und 16 Jahren erhalten nur Eintritt in Begleitung einer erziehungsberechtigten oder erziehungsbeauftragten Person (mindestens 18 Jahre alt)."
+  },
+  {
+    "titel": "Jazzorama Sommergarten - Armbruster/Scherer/Jäger/Puchau + Jamsession",
+    "datum": "30. Jun 2026",
+    "datum_raw": "2026-06-30T20:00+0200",
+    "ort": "artheater, Ehrenfeldgürtel, Ehrenfeld, Deutschland, Ehrenfeldgürtel 127",
+    "preis": "ab 10 €",
+    "link": "https://rausgegangen.de/events/jazzorama-armbrusterschererjagerpuchau-jamsession-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei Jazzorama! trifft das Quartett aus Amsterdam, Berlin und Köln mit frischen Eigenkompositionen aufeinander, die ihre gemeinsamen Erfahrungen und Neugier verbinden. Das Ergebnis ist ein moderner Jazz, der Grenzen spiel"
+  },
+  {
+    "titel": "Off Campus Club: Miles ahead",
+    "datum": "30. Jun 2026",
+    "datum_raw": "2026-06-30T20:00+0200",
+    "ort": "King Georg, Sudermanstraße 2",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/off-campus-club-miles-ahead-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jazztrompetenabend rund um Miles Davis mit Studierenden der Klassen Andy Haderer und Matthias Bergmann Der Fachbereich Jazz/Pop der Hochschule für Musik und Tanz Köln startet eine brandneue Kooperation mit dem legendä"
+  },
+  {
+    "titel": "reiheM präsentiert:  Karen Willems  Adomas Palekas",
+    "datum": "30. Jun 2026",
+    "datum_raw": "2026-06-30T20:00+0200",
+    "ort": "Kulturhof Kalk, Dillenburger Straße 65",
+    "preis": "ab 10 €",
+    "link": "https://rausgegangen.de/events/reihem-prasentiert-karen-willems-adomas-palekas-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "reiheM präsentiert: Karen Willems  / Adomas PalekasKaren Willems (Belgien) ist eine unkonventionelle Schlagzeugerin, Perkussionistin, Komponistin und Musikerin. Ihr 2025 erschienenes Album „A Fool’s Guide to Reality“, d"
+  },
+  {
+    "titel": "DECEMBER 10",
+    "datum": "30. Jun 2026",
+    "datum_raw": "2026-06-30T20:30+0200",
+    "ort": "Luxor, Luxemburger Straße 40",
+    "preis": "ab 30 €",
+    "link": "https://rausgegangen.de/events/december-10-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wie schnell ein Hype entstehen kann, hat die englisch-irische Boyband December 10 in den letzten Monaten eindrucksvoll bewiesen. Ende 2025 offiziell gegründet, ist die Formation aus der Netflix-Serie „The Next Act“ von "
   }
 ]
