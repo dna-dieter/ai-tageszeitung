@@ -40,16 +40,6 @@
     "teaser": "UNIVERSITÄTSKONZERTEQuell des LebensKammerchöre der Unis Köln und Tübingen75 Min | Ohne Pause\"Quell des Lebens\" betiteln die Camerata Vocalis der Uni Tübingen und der Kammerchor der Universität zu Köln ihr gemeins"
   },
   {
-    "titel": "Singen mit Klasse!",
-    "datum": "28. Jun 2026",
-    "datum_raw": "2026-06-28T11:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 9 €",
-    "link": "https://rausgegangen.de/events/singen-mit-klasse-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Familienkonzert 12 Kölner Grundschulklassen | Gürzenich-Orchester Köln | Mariano Chiacchiarini | Ruth Dobernecker | Maike Hiller | Johanna Risse | Clara Siegmund | Payam Yazdani | Natalija Stanković | Georgios Kolios"
-  },
-  {
     "titel": "EARLY SUMMER DESIGNFESTIVAL 2026",
     "datum": "28. Jun 2026",
     "datum_raw": "2026-06-28T14:00+0200",
@@ -108,16 +98,6 @@
     "link": "https://rausgegangen.de/events/stranger-to-friends-walk-3/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Beim Stranger to Friends Walk lernst du ganz entspannt neue Leute aus Köln kennen und kommst dabei in Bewegung. Der gemeinsame Spaziergang führt dich durch die Südstat, perfekt um ungezwungen ins Gespräch zu kommen und v"
-  },
-  {
-    "titel": "JSO meets GO",
-    "datum": "28. Jun 2026",
-    "datum_raw": "2026-06-28T16:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 24 €",
-    "link": "https://rausgegangen.de/events/jso-meets-go-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Jugendsinfonieorchester der Rheinischen Musikschule | Gürzenich-Orchester Köln | Juya ShinWerke von Weber, Dvořák und Tschaikowski"
   },
   {
     "titel": "🌈🎙️ Rainbow Song Contest 2026 - ColognePride Beach & Village",
@@ -398,5 +378,25 @@
     "link": "https://rausgegangen.de/events/december-10-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Wie schnell ein Hype entstehen kann, hat die englisch-irische Boyband December 10 in den letzten Monaten eindrucksvoll bewiesen. Ende 2025 offiziell gegründet, ist die Formation aus der Netflix-Serie „The Next Act“ von "
+  },
+  {
+    "titel": "Steloolive & Smoked Salt | the cosmos",
+    "datum": "1. Jul 2026",
+    "datum_raw": "2026-07-01T19:00+0200",
+    "ort": "JAKI, Venloer Str. 40",
+    "preis": "ab 5 €",
+    "link": "https://rausgegangen.de/events/steloolive-smoked-salt-the-cosmos-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Steloolive und Smoked Salt kombinieren elektronische Klänge mit ghanaischer Folklore und Sounds aus Accras Straßen zu einem offenen Raum zwischen Struktur und Improvisation. Vor dem Konzert kannst du bei einem gemeinsame"
+  },
+  {
+    "titel": "Bjørn Solli Quartet",
+    "datum": "1. Jul 2026",
+    "datum_raw": "2026-07-01T20:00+0200",
+    "ort": "Salon De Jazz, Severinskloster 3a",
+    "preis": "ab 15 €",
+    "link": "https://rausgegangen.de/events/bjrn-solli-quartet-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bjørn Solli was born in 1979. One of Norway’s foremost jazz guitarist for the last 20 years – 5 of those years he spent in New York working with some of the world’s best musicians. He has received numerous awards (Switze"
   }
 ]
