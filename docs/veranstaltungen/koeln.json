@@ -1,93 +1,63 @@
 [
   {
-    "titel": "ColognePride Beach & Village",
-    "datum": "29. Jun 2026",
-    "datum_raw": "2026-06-29T16:00+0200",
-    "ort": "Elogiusplatz, Köln",
+    "titel": "Taco Tuesday mit Los Carnales",
+    "datum": "30. Jun 2026",
+    "datum_raw": "2026-06-30T17:00+0200",
+    "ort": "SUDERMAN, Sudermanplatz 3",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/colognepride-beach-village-10/",
+    "link": "https://rausgegangen.de/events/taco-tuesday-mit-los-carnales-5/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Beim ColognePride Beach & Village erwartet dich ein entspannter Queer-Strand mit Palmen, Sand und einem XXL-Pool, der mitten in der Stadt zum Abhängen und Feiern einlädt. Lass dich von Ibiza-Sounds treiben, genieße coole"
+    "teaser": "Los Carnales bringen jeden Dienstag frische Tacos auf den Tisch, dazu gibt’s Tequila und Mezcal in Sonderaktionen. Auf der Terrasse triffst du entspannte Leute und genießt den Abend, der gern mal länger wird als geplant "
   },
   {
-    "titel": "DI(Y)versity - Prideschilder basteln für den CSD",
-    "datum": "29. Jun 2026",
-    "datum_raw": "2026-06-29T17:00+0200",
-    "ort": "IKEA Butzweilerhof, Butzweilerstraße 51",
+    "titel": "GRÜNDEN. WACHSEN. VERSTEHEN",
+    "datum": "30. Jun 2026",
+    "datum_raw": "2026-06-30T17:00+0200",
+    "ort": "Lass uns Freunde werden, Bismarckstraße 56-62",
+    "preis": "ab 48 €",
+    "link": "https://rausgegangen.de/events/grunden-wachsen-verstehen-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Volker Ahlgrimm bringt dir im Workshop die Basics für deine Selbstständigkeit verständlich nahe – von Motivationscheck bis Businessplan, Steuer und Fördermittel. Dabei bekommst du praxisnahe Tipps, egal ob du gerade star"
+  },
+  {
+    "titel": "Quiz für U27 @ anyway - Quizzical Cologne",
+    "datum": "30. Jun 2026",
+    "datum_raw": "2026-06-30T18:00+0200",
+    "ort": "anyway | 🌈 Bar, Club, Communityspace, Kamekestraße 14",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/diyversity-prideschilder-basteln-fur-den-csd-1/",
+    "link": "https://rausgegangen.de/events/quiz-night-fur-u27-anyway-quizzical-cologne-4/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Hier kannst du deine Kreativität frei ausleben und dein ganz persönliches Zeichen für Vielfalt und Zusammenhalt gestalten. Egal ob mit Botschaft oder einfach viel Farbe, bei DI(Y)versity geht’s darum, genau das sichtbar "
+    "teaser": "Spannende Fragen, wechselnde Kategorien und ein Überraschungspreis sorgen für gute Stimmung und viel Spaß – spontan Teams bilden und mitraten!✨"
   },
   {
-    "titel": "SOCIAL READING CLUB #1",
-    "datum": "29. Jun 2026",
-    "datum_raw": "2026-06-29T19:00+0200",
-    "ort": "Volksgarten Köln, Köln",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/social-reading-club-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier findest du Leute, die genauso Lust aufs Lesen haben wie du – ganz entspannt und ohne Ablenkung. Schnapp dir dein Buch oder stöber in der vor Ort bereitliegenden Auswahl, genieße die Gemeinschaft und vielleicht entst"
-  },
-  {
-    "titel": "WM 2026 Sechzehntelfinale - Public Viewing im CBE: Deutschland - Paraguay",
-    "datum": "29. Jun 2026",
-    "datum_raw": "2026-06-29T19:30+0200",
-    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/wm-2026-public-viewing-im-cbe-deutschland-xxx-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Im CBE kannst du das WM-Sechzehntelfinale Deutschland gegen Paraguay live mitverfolgen, ganz ohne Eintritt. Wer es gemütlich mag, sichert sich einen Tisch inklusive 10 Liter Gaffel Kölsch – perfekt für entspanntes Mitfie"
-  },
-  {
-    "titel": "Bitchy Bingo im Boulderplanet",
-    "datum": "29. Jun 2026",
-    "datum_raw": "2026-06-29T20:00+0200",
-    "ort": "Boulderplanet, Oskar-Jäger-Straße 143H",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/bitchy-bingo-im-boulderplanet-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die Only Trashy Gorgeous bringt mit Bitchy Bingo eine bunte Mischung aus Witz, Glitzer und frechen Sprüchen auf die Bühne. Hier erwartet dich ein lockerer Abend, bei dem Lachen und gemeinsamer Spaß im Mittelpunkt stehen "
-  },
-  {
-    "titel": "Grigory Sokolov",
-    "datum": "29. Jun 2026",
-    "datum_raw": "2026-06-29T20:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 21 €",
-    "link": "https://rausgegangen.de/events/grigory-sokolov-14/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Ein Pianist wie kein anderer: intensiv und immer einzigartigGrigory Sokolov: Sein Klang, seine Nuancen, seine Fähigkeit, Werke zu durchdringen, machen ihn zu einem ganz besonderen Interpreten, der für ein außergewöhnl"
-  },
-  {
-    "titel": "Off Campus Club: Saxophone Summit",
-    "datum": "29. Jun 2026",
-    "datum_raw": "2026-06-29T20:00+0200",
-    "ort": "King Georg, Sudermanstraße 2",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/off-campus-club-saxophone-summit-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Mit Studierenden der Klassen von Niels Klein, Claudius Valk, Theresia Phillip, Roger Hanschel und Frank Gratkowski und ihren Ensembles.Der Fachbereich Jazz/Pop der Hochschule für Musik und Tanz Köln startet eine brandn"
-  },
-  {
-    "titel": "PULP",
-    "datum": "29. Jun 2026",
-    "datum_raw": "2026-06-29T20:00+0200",
-    "ort": "Palladium, Schanzenstraße 36",
-    "preis": "ab 65 €",
-    "link": "https://rausgegangen.de/events/pulp-77/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Vor vier, vielleicht fünf Jahren, fand sich Jarvis Cocker in der unerwarteten Situation wieder, über Gefühle zu schreiben. Lange Jahre hatte er bis dahin vor allem über Gedanken, über Ideen und Konzepte geschrieben."
-  },
-  {
-    "titel": "Deep State Session",
-    "datum": "29. Jun 2026",
-    "datum_raw": "2026-06-29T21:00+0200",
+    "titel": "The Reset Club",
+    "datum": "30. Jun 2026",
+    "datum_raw": "2026-06-30T18:30+0200",
     "ort": "Klangkino, Hansaring 61",
-    "preis": "ab 20 €",
-    "link": "https://rausgegangen.de/events/deep-state-session-6/",
+    "preis": "ab 24 €",
+    "link": "https://rausgegangen.de/events/the-reset-club-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Erlebe jede Woche neue Achtsamkeits- bzw Türöffnerübungen, die dich tiefer ins Erleben bringen. Diese Klangreise ist höchst intuitiv und jedes mal anders. Wechselnde Technik-Kombinationen aus Achtsamkeit/Energie/Brea"
+    "teaser": "The Reset Club verbindet sanfte Klänge mit einer Journaling-Session, um Kopf und Herz Raum zu schenken. Hier findest du die perfekte Pause, um neue Energie zu tanken und neue Frauen aus der Region kennenzulernen. Ein Mom"
+  },
+  {
+    "titel": "WeRoad Afterwork: Neue Leute, gute Laune & Zappes Bier",
+    "datum": "30. Jun 2026",
+    "datum_raw": "2026-06-30T19:00+0200",
+    "ort": "Zappes Süd, Dreikönigenstraße 23",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/wemeet-afterwork-neue-leute-gute-laune-zappes-bier-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Hier gibt’s gute Laune, spannende Geschichten und Craft Bier aus der Region. Triff Leute, die genauso Lust auf neue Begegnungen und Fernweh haben wie du, und hör von abenteuerlichen Reisen mit WeRoad. Ein entspannter Abe"
+  },
+  {
+    "titel": "Bitchy Bingo - 11th Birthday Bash - Vol. I",
+    "datum": "30. Jun 2026",
+    "datum_raw": "2026-06-30T19:00+0200",
+    "ort": "Exile, Schaafenstraße 61A",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/bitchy-bingo-11th-birthday-bash-vol-i-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bitchy Bingo feiert elf Jahre Chaos, Comedy und queer Power mit jeder Menge Schlagfertigkeit und Überraschungen. Die Rollen klirren, wenn die Lieblings-Dragqueens die Bühne übernehmen und dich mit ihrem verrückten Humor "
   },
   {
     "titel": "Michael // Aperol Kinotag 🧡",
@@ -108,6 +78,16 @@
     "link": "https://rausgegangen.de/events/storch-session-plasma-hal-melanie-monyer/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Einführung in das Veto Prinzip Das Veto-Prinzip®️ zielt darauf ab, Räume zu erschaffen, in denen Menschen zunehmend selbstverantwortlich handeln, Entscheidungen auf Basis ihrer eigenen Integrität treffen und gleichzei"
+  },
+  {
+    "titel": "Jazzorama Sommergarten - Armbruster/Scherer/Jäger/Puchau + Jamsession",
+    "datum": "30. Jun 2026",
+    "datum_raw": "2026-06-30T20:00+0200",
+    "ort": "artheater, Ehrenfeldgürtel, Ehrenfeld, Deutschland, Ehrenfeldgürtel 127",
+    "preis": "ab 10 €",
+    "link": "https://rausgegangen.de/events/jazzorama-armbrusterschererjagerpuchau-jamsession-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei Jazzorama! trifft das Quartett aus Amsterdam, Berlin und Köln mit frischen Eigenkompositionen aufeinander, die ihre gemeinsamen Erfahrungen und Neugier verbinden. Das Ergebnis ist ein moderner Jazz, der Grenzen spiel"
   },
   {
     "titel": "Brenn! - Amateur At Best World Tour 2026",
@@ -140,16 +120,6 @@
     "teaser": "Jugendschutz: Kinder unter 6 Jahren erhalten keinen Zutritt! Kinder zwischen 6 und 16 Jahren erhalten nur Eintritt in Begleitung einer erziehungsberechtigten oder erziehungsbeauftragten Person (mindestens 18 Jahre alt)."
   },
   {
-    "titel": "Jazzorama Sommergarten - Armbruster/Scherer/Jäger/Puchau + Jamsession",
-    "datum": "30. Jun 2026",
-    "datum_raw": "2026-06-30T20:00+0200",
-    "ort": "artheater, Ehrenfeldgürtel, Ehrenfeld, Deutschland, Ehrenfeldgürtel 127",
-    "preis": "ab 10 €",
-    "link": "https://rausgegangen.de/events/jazzorama-armbrusterschererjagerpuchau-jamsession-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei Jazzorama! trifft das Quartett aus Amsterdam, Berlin und Köln mit frischen Eigenkompositionen aufeinander, die ihre gemeinsamen Erfahrungen und Neugier verbinden. Das Ergebnis ist ein moderner Jazz, der Grenzen spiel"
-  },
-  {
     "titel": "Off Campus Club: Miles ahead",
     "datum": "30. Jun 2026",
     "datum_raw": "2026-06-30T20:00+0200",
@@ -170,6 +140,16 @@
     "teaser": "reiheM präsentiert: Karen Willems  / Adomas PalekasKaren Willems (Belgien) ist eine unkonventionelle Schlagzeugerin, Perkussionistin, Komponistin und Musikerin. Ihr 2025 erschienenes Album „A Fool’s Guide to Reality“, d"
   },
   {
+    "titel": "Bingo Pride Night - After Speed Dating - Friends Edition",
+    "datum": "30. Jun 2026",
+    "datum_raw": "2026-06-30T20:30+0200",
+    "ort": "Impact Café, Luxemburger Str. 190",
+    "preis": "ab 14 €",
+    "link": "https://rausgegangen.de/events/bingo-pride-night-after-speed-dating-friends-edition-6/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Neue Queers in Köln kennenlernen? Kannst du hier, denn nach dem Speeddating Event werden die Türen für alle geöffnet, die Lust haben neue Leute kennenzulernen.  Gute Musik & Drinks gibt's natürlich auch. Cheers to the Qu"
+  },
+  {
     "titel": "DECEMBER 10",
     "datum": "30. Jun 2026",
     "datum_raw": "2026-06-30T20:30+0200",
@@ -178,16 +158,6 @@
     "link": "https://rausgegangen.de/events/december-10-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Wie schnell ein Hype entstehen kann, hat die englisch-irische Boyband December 10 in den letzten Monaten eindrucksvoll bewiesen. Ende 2025 offiziell gegründet, ist die Formation aus der Netflix-Serie „The Next Act“ von "
-  },
-  {
-    "titel": "FLINTA* Community Evening  PRIDE 🧡",
-    "datum": "1. Jul 2026",
-    "datum_raw": "2026-07-01T17:30+0200",
-    "ort": "OnlyYou Holistic Center, Venloer Straße 497",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/flinta-community-evening-pride-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "FLINTA* Community Evening PIRDE SPECIALEinmal im Monat kommen wir als Community zusammen – zum Austauschen, Verbinden und gemeinsamen Wachsen.Unser Community Evening Freitags 1 mal  im Monat statt und ist ein geschützte"
   },
   {
     "titel": "Steloolive & Smoked Salt | the cosmos",
@@ -350,16 +320,6 @@
     "teaser": "Begib dich auf eine Reise durch die Welten der Frequenzen und lass dich von ihren Wirkungen auf dich überraschen und faszinieren. Hier ist die Fusion von Entertainment, Meditation und tiefen Bewusstseinszuständen Progr"
   },
   {
-    "titel": "CSD-Straßenfest 2026",
-    "datum": "3. Jul 2026",
-    "datum_raw": "2026-07-03T10:00+0200",
-    "ort": "Verschiedene Orte in Köln, Verschiedene Orte in Köln",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/csd-straenfest-2026-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Drei Tage lang knallt Köln Farbe und Vielfalt auf die Straßen, beim CSD-Straßenfest 2026. Lebendige Talks, internationale Acts und eine entspannte Chill-Out-Zone warten auf dich – hier trifft Engagement auf gute Laune un"
-  },
-  {
     "titel": "Psychedelic Light & Sound",
     "datum": "3. Jul 2026",
     "datum_raw": "2026-07-03T17:00+0200",
@@ -398,5 +358,45 @@
     "link": "https://rausgegangen.de/events/odonische-freitagsbuhne-73/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge entdecken Spaß macht "
+  },
+  {
+    "titel": "Jörg Dahmen mit \"Leise Leeder\"",
+    "datum": "3. Jul 2026",
+    "datum_raw": "2026-07-03T19:00+0200",
+    "ort": "Kunstzentrum Wachsfabrik Köln, Industriestr. 170",
+    "preis": "ab 25 €",
+    "link": "https://rausgegangen.de/events/jorg-dahmen-mit-leise-leeder-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jörg Dahmen mit seinem Solo-Programm „Leise Leeder“.Kölsche Texte zu Musik, die in so gar keine Schublade passen will, ist sie doch eine Mischung aus Pop, Rock und Blues. Die am Computer entstandenen Songs werden von K"
+  },
+  {
+    "titel": "Konzerthopping",
+    "datum": "3. Jul 2026",
+    "datum_raw": "2026-07-03T19:00+0200",
+    "ort": "Verschiedene Orte in Köln, Verschiedene Orte in Köln",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/konzerthopping-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Es ist wieder soweit - Menschen bleiben stehen und pilgern mit uns:büdchenpop goes Konzerthopping durch Köln!Save the Date: 03.07.26Wir singen und genießen das Leben an diesen Station:19 Uhr Kiosk Lui & Flitze, Blument"
+  },
+  {
+    "titel": "Terra Est – Protecting Earth What are we waiting for?",
+    "datum": "3. Jul 2026",
+    "datum_raw": "2026-07-03T19:00+0200",
+    "ort": "Lutherkirche Südstadt, Martin-Luther-Platz 2-4",
+    "preis": "ab 15 €",
+    "link": "https://rausgegangen.de/events/terra-est-protecting-earth-what-are-we-waiting-for-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Für Chor, Sopran, Sprecher, Flöte, Gitarre, Klavier, Percussion und Kontrabass   Terra Est ist eine eindringliche musikalische Mahnung und zugleich eine hoffnungsvolle Vision: eine Hommage an die Schönheit unserer Erd"
+  },
+  {
+    "titel": "TERRA EST – PROTECTING EARTH – WHAT ARE WE WAITING FOR?",
+    "datum": "3. Jul 2026",
+    "datum_raw": "2026-07-03T19:00+0200",
+    "ort": "Lutherkirche Köln-Südstadt, Martin-Luther-Platz 4",
+    "preis": "ab 17 €",
+    "link": "https://rausgegangen.de/events/terra-est-protecting-earth-what-are-we-waiting-for-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Terra Est ist eine eindringliche musikalische Mahnung und zugleich eine hoffnungsvolle Vision: eine Hommage an die Schönheit unserer Erde und ein Aufruf zu ihrer Bewahrung. Die Kantate widmet sich der Liebe zur Natur un"
   }
 ]
