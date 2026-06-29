@@ -2294,6 +2294,18 @@
     "fetched": "2026-06-10T12:35:11.115570"
   },
   {
+    "id": "bbaab5716bee",
+    "title": "Verleihung Ehrenamtspreis 2026",
+    "summary": "Die Verleihung des Ehrenamtspreises 2026 findet im Rahmen der Ratsitzung am 07.07.2026 in der Alten Drahtzieherei statt.",
+    "link": "https://www.wipperfuerth.de/detailansicht/verleihung-ehrenamtspreis-2026.html",
+    "published": "Wed, 10 Jun 2026 13:15:26 +0200",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-06-29T11:22:10.287956"
+  },
+  {
     "id": "de3584ff4ec9",
     "title": "Baumpflegearbeiten - Einschränkungen auf der Bahntrasse",
     "summary": "Vom 23.-26.6.2026 finden Baumpflegearbeiten an der Bahntrasse statt. Daher kommt es zeitweise zu Beeinträchtigungen. Die Strecke bleibt weiter befahrbar.",
@@ -12112,6 +12124,115 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-05-05T21:11:09.381764"
+  },
+  {
+    "id": "e107b5497c62",
+    "title": "Bauarbeiten Grundschule Kreuzberg beginnen",
+    "summary": "Anfang Juli 2026 beginnen die Bauarbeiten an der Grundschule Kreuzberg. Der Parkplatz muss daher teilweise gesperrt werden. Die E-Ladesäule an der Westfalenstraße 32 steht während der Arbeiten nicht zur Verfügung.",
+    "link": "https://www.wipperfuerth.de/detailansicht/bauarbeiten-grundschule-kreuzberg-beginnen.html",
+    "published": "Mon, 29 Jun 2026 12:52:46 +0200",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-06-29T11:22:10.287868"
+  },
+  {
+    "id": "a9a64ecbcefc",
+    "title": "POL-GM: Traktor gestohlen",
+    "summary": "Bergneustadt (ots) - Gegen 02:42 Uhr am Montagmorgen (29. Juni) hat ein Unbekannter einen Traktor von einem Hof in der Straße \"Rosenthal\" gestohlen. Auf Aufzeichnungen einer Überwachungskamera ist zu sehen, wie der Unbekannte den grünen Traktor ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6304109",
+    "published": "Mon, 29 Jun 2026 10:23:40 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-06-29T11:22:19.936209"
+  },
+  {
+    "id": "83d1ece3cd9e",
+    "title": "POL-GM: Diebe plündern Hofladen-Kasse",
+    "summary": "Reichshof (ots) - In der Nacht von Sonntag auf Montag (28./29. Juni) hat ein Dieb die Geldkassette eines Hofladens in der Straße \"Am Eichenholz\" geplündert. Der Landwirt hörte gegen 01:30 Uhr Motorgeräusche. Als er aus dem Fenster schaute, sah ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6304104",
+    "published": "Mon, 29 Jun 2026 10:23:01 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "reichshof"
+    ],
+    "fetched": "2026-06-29T11:22:19.936252"
+  },
+  {
+    "id": "9503fc2c9675",
+    "title": "POL-GM: Pedelecfahrerin bei Unfall lebensgefährlich verletzt",
+    "summary": "Waldbröl (ots) - Eine 27-Jährige aus Waldbröl hat sich bei einem Alleinunfall auf einem Land- und Forstwirtschaftsweg lebensgefährliche Verletzungen zugezogen. Die 27-Jährige fuhr gegen 21:20 Uhr mit einem weiteren Pedelecfahrer auf dem Weg ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6304101",
+    "published": "Mon, 29 Jun 2026 10:22:23 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-06-29T11:22:19.936287"
+  },
+  {
+    "id": "ad7c7f4e8cbd",
+    "title": "Reichshof: Dieb plündert Hofladen-Kasse am Eichenholz",
+    "summary": "Hofladen in Reichshof bestohlen: Ein Unbekannter brach die Geldkassette am Eichenholz auf und floh mit einem Volvo Richtung Allenbach.",
+    "link": "https://www.news-on-tour.de/204719/reichshof-hofladen-diebstahl-kasse/",
+    "published": "Mon, 29 Jun 2026 10:17:26 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "reichshof"
+    ],
+    "fetched": "2026-06-29T11:22:07.046018"
+  },
+  {
+    "id": "9e10598e64f1",
+    "title": "Bergneustadt: Fendt-Traktor gestohlen – Unbekannter flüchtet vom Hof",
+    "summary": "In Bergneustadt wurde am Montagmorgen ein grüner Fendt-Traktor vom Hof „Rosenthal“ gestohlen. Die Überwachungskamera filmte den Unbekannten. Die Polizei ermittelt.",
+    "link": "https://www.news-on-tour.de/204708/bergneustadt-traktordiebstahl-fendt/",
+    "published": "Mon, 29 Jun 2026 09:47:06 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-06-29T11:22:07.046062"
+  },
+  {
+    "id": "d0666e75813a",
+    "title": "POL-GM: Sicher in den Urlaub - Polizei gibt Tipps für eine sichere Urlaubsreise",
+    "summary": "Oberbergischer Kreis; Hückeswagen; Gummersbach (ots) - Mitarbeitende der Verkehrsunfall- und der Kriminalprävention der Polizei beraten im Juli rund um das Thema \"Sicher in den Urlaub\". Am Freitag, dem 3. Juli, steht ein Info-Stand der Polizei von ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6304002",
+    "published": "Mon, 29 Jun 2026 09:30:00 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-06-29T11:22:19.936335"
+  },
+  {
+    "id": "61cb22699ed5",
+    "title": "Bergneustädter Rathausplatz Open Air kehrt am 15. August 2026 zurück",
+    "summary": "Das Rathausplatz Open Air kehrt am 15. August 2026 nach Bergneustadt zurück. Ab 17 Uhr spielen Cool Chocolate, StockBrot und DJ Roland Reh.",
+    "link": "https://www.news-on-tour.de/204698/bergneustadt-rathausplatz-open-air-2026/",
+    "published": "Mon, 29 Jun 2026 08:29:58 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-06-29T11:22:07.046093"
+  },
+  {
+    "id": "90a4f0d2694e",
+    "title": "Schutzbach/RP: Mann aus Reichshof eskaliert! 4 Polizisten bei Gartenparty verletzt",
+    "summary": "Gartenparty in Schutzbach eskaliert: Ein 27-jähriger Mann griff Polizisten an und verletzte vier Beamte. Ermittlungen eingeleitet.",
+    "link": "https://www.news-on-tour.de/204694/schutzbach-gartenparty-polizei-verletzt/",
+    "published": "Mon, 29 Jun 2026 07:44:52 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "reichshof"
+    ],
+    "fetched": "2026-06-29T11:22:07.046120"
   },
   {
     "id": "87c3c3ca370b",
