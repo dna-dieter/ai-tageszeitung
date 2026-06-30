@@ -1,5 +1,15 @@
 [
   {
+    "titel": "ColognePride Beach & Village",
+    "datum": "30. Jun 2026",
+    "datum_raw": "2026-06-30T16:00+0200",
+    "ort": "Elogiusplatz, Köln",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/colognepride-beach-village-11/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim ColognePride Beach & Village erwartet dich ein entspannter Queer-Strand mit Palmen, Sand und einem XXL-Pool, der mitten in der Stadt zum Abhängen und Feiern einlädt. Lass dich von Ibiza-Sounds treiben, genieße coole"
+  },
+  {
     "titel": "Taco Tuesday mit Los Carnales",
     "datum": "30. Jun 2026",
     "datum_raw": "2026-06-30T17:00+0200",
@@ -58,16 +68,6 @@
     "link": "https://rausgegangen.de/events/bitchy-bingo-11th-birthday-bash-vol-i-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Bitchy Bingo feiert elf Jahre Chaos, Comedy und queer Power mit jeder Menge Schlagfertigkeit und Überraschungen. Die Rollen klirren, wenn die Lieblings-Dragqueens die Bühne übernehmen und dich mit ihrem verrückten Humor "
-  },
-  {
-    "titel": "Michael // Aperol Kinotag 🧡",
-    "datum": "30. Jun 2026",
-    "datum_raw": "2026-06-30T19:00+0200",
-    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/michael-aperol-kinotag-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Der Film zeigt, wie Michael Jackson als Kind in einer strengen Musikerfamilie groß wird und schon früh den Weg zum Popstar geht. Du bekommst Einblicke in seinen Wandel, der mit Größen wie Quincy Jones und Diana Ross sein"
   },
   {
     "titel": "PLASMA HAL - The E-Piano Show & Melanie Monyer  Workshop „Einführung in das Veto-Prinzip“",
