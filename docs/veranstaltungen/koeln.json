@@ -137,7 +137,7 @@
     "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/philharmonielunch-82/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Gürzenich-Orchester KölnGürzenich-Orchester Köln | Andrés Orozco-EstradaErleben Sie in der Kölner Philharmonie Ihre kleine Pause vom Alltag – inspirierend, berührend, authentisch. Ein Lunch voller Musik, für eine"
+    "teaser": "Gürzenich-Orchester KölnGürzenich-Orchester Köln | Andrés Orozco-Estrada: StrawinskyErleben Sie in der Kölner Philharmonie Ihre kleine Pause vom Alltag – inspirierend, berührend, authentisch. Ein Lunch voller Musi"
   },
   {
     "titel": "Nizi19",
@@ -280,6 +280,16 @@
     "teaser": "Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge entdecken Spaß macht "
   },
   {
+    "titel": "BOOTS & BEANS - LIVE MUSIC",
+    "datum": "3. Jul 2026",
+    "datum_raw": "2026-07-03T19:00+0200",
+    "ort": "RADIX & ANIMA, Deutz-Mülheimer Straße 183",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/boots-beans-live-music-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Country-Vibes im industriellen Hinterhof vom Radix & Anima in Köln-Mülheim!  Am Freitag, den 3. Juli 2026 um 19:00 Uhr, spielen \"no horses yet\" ihr erstes öffentliches Konzert im Café @radixundanima !  Freut euch auf"
+  },
+  {
     "titel": "Jörg Dahmen mit \"Leise Leeder\"",
     "datum": "3. Jul 2026",
     "datum_raw": "2026-07-03T19:00+0200",
@@ -388,15 +398,5 @@
     "link": "https://rausgegangen.de/events/cozy-concerts-by-hidden-stage-sessions-ev-19/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Die Cozy Concerts sind eine Geheimkonzertreihe in gemütlicher Atmosphäre* – in Wohnzimmern, Buchläden, Ateliers, Gärten und anderen besonderen Orten. Intim, authentisch, entspannend. 80–90 % der Musiker*innen bei den"
-  },
-  {
-    "titel": "Fabian Kratzer – Elements",
-    "datum": "3. Jul 2026",
-    "datum_raw": "2026-07-03T20:00+0200",
-    "ort": "Theater Salz+Pfeffer, Frauentorgraben 73",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/fabian-kratzer-elements-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Der preisgekrönte Filmkomponist und Neo-Klassik-Künstler Fabian Kratzer präsentiert seine neue EP Elements, in der er den fünf Elementen – Erde, Wasser, Feuer, Luft und Holz – jeweils ein eigenes musikalisches Werk g"
   }
 ]
