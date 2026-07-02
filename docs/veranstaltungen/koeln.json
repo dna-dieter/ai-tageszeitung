@@ -1,15 +1,5 @@
 [
   {
-    "titel": "PhilharmonieLunch",
-    "datum": "2. Jul 2026",
-    "datum_raw": "2026-07-02T12:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/philharmonielunch-82/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Gürzenich-Orchester KölnGürzenich-Orchester Köln | Andrés Orozco-Estrada: StrawinskyErleben Sie in der Kölner Philharmonie Ihre kleine Pause vom Alltag – inspirierend, berührend, authentisch. Ein Lunch voller Musi"
-  },
-  {
     "titel": "Nizi19",
     "datum": "2. Jul 2026",
     "datum_raw": "2026-07-02T14:00+0200",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/matt-berninger-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Manche Musiker*innen schreiben Songs, andere schaffen ganze Klangwelten. Matt Berninger gehört zur zweiten Kategorie. Seine tiefgehenden Texte, sein melancholischer Bariton und seine Fähigkeit, Stimmungen zu erschaffen"
+  },
+  {
+    "titel": "TORTÜ",
+    "datum": "3. Jul 2026",
+    "datum_raw": "2026-07-03T20:00+0200",
+    "ort": "Hinterhofsalon, Aachener Straße 68",
+    "preis": "ab 22 €",
+    "link": "https://rausgegangen.de/events/tortu-17/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Duo mit vielseitigen Instrumenten und Klängen und in vier SprachenDas Musikerduo  Marie Weis (Gesang, Klavier, Bariton-Ukulele) und Pascal Burbach (Schlagzeug, Glockenspiel), spielen akustische und ehrliche Musik. Durch"
   }
 ]
