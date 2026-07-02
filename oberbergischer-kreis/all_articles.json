@@ -3252,6 +3252,18 @@
     "fetched": "2026-07-01T10:08:22.273332"
   },
   {
+    "id": "535405760b99",
+    "title": "Hückeswagen: Pedelec-Fahrer bei Alleinunfall schwer verletzt",
+    "summary": "Pedelec-Fahrer stürzt schwer verletzt in Hückeswagen: Ein 59-Jähriger aus Pulheim verliert auf der abschüssigen Großberghauser Straße die Kontrolle und wird ins Krankenhaus gebracht.",
+    "link": "https://www.news-on-tour.de/204812/hueckeswagen-pedelec-fahrer-sturz/",
+    "published": "Wed, 01 Jul 2026 08:44:39 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-07-02T08:21:28.490168"
+  },
+  {
     "id": "f9f0e6ab5e60",
     "title": "Gummersbach: Frontalzusammenstoß auf Nochener Straße – zwei Verletzte",
     "summary": "Frontalzusammenstoß auf Nochener Straße in Gummersbach – zwei Verletzte. Ein 45-Jähriger geriet in den Gegenverkehr.",
@@ -10244,6 +10256,43 @@
       "bergneustadt"
     ],
     "fetched": "2026-05-05T21:11:09.380484"
+  },
+  {
+    "id": "c2db8a009424",
+    "title": "POL-GM: Geldbörse beim Einkauf gestohlen",
+    "summary": "Radevormwald (ots) - Am Mittwoch (1. Juli) erledigte eine 69-Jährige aus Radevormwald ihre Einkäufe in einem Discounter in der Erlenbacher Straße. Die 69-Jährige betrat gegen 16:30 Uhr das Lebensmittelgeschäft, ihre Handtasche trug sie über ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6306527",
+    "published": "Thu, 02 Jul 2026 09:00:09 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-07-02T08:21:45.317602"
+  },
+  {
+    "id": "e9ac335708a2",
+    "title": "POL-GM: Diebstahl aus Auto in Dieringhausen",
+    "summary": "Gummersbach (ots) - Zwischen 19:00 Uhr am Mittwoch und 3:30 Uhr am Donnerstag (2. Juli) haben Unbekannte eine JBL-Lautsprecher-Box und einen niedrigen, dreistelligen Bargeldbetrag aus einem Auto gestohlen. Der grüne Seat parkte zur Tatzeit in der ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6306526",
+    "published": "Thu, 02 Jul 2026 09:00:07 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-07-02T08:21:45.317645"
+  },
+  {
+    "id": "81ef7bd45269",
+    "title": "Oberberg: Taschendiebstahl und Autoaufbruch – Polizei warnt",
+    "summary": "Taschendiebstahl in Radevormwald, Autoaufbruch in Gummersbach: Zwei Fälle beschäftigen die Kreispolizei Oberberg – die Ermittlungen laufen.",
+    "link": "https://www.news-on-tour.de/204859/oberberg-taschendiebstahl-autoaufbruch/",
+    "published": "Thu, 02 Jul 2026 07:40:09 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "radevormwald",
+      "gummersbach"
+    ],
+    "fetched": "2026-07-02T08:21:28.490103"
   },
   {
     "id": "49fbec284555",
