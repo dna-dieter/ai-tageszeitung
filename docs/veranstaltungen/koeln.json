@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Nizi19",
-    "datum": "2. Jul 2026",
-    "datum_raw": "2026-07-02T14:00+0200",
-    "ort": "splash! Festival, Ferropolisstraße 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/nizi19-18/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Nizi ist in West-Berlin aufgewachsen – vom Theodor-Heuss-Platz bis zur Bismarckstraße nennt er alles sein Zuhause. Mit einer Mischung aus komplexen Texten und eingängigen Beats schafft er es, seine Hörer*innen auf eine"
-  },
-  {
     "titel": "Hempies Flohmarkt im machwerkhaus köln",
     "datum": "2. Jul 2026",
     "datum_raw": "2026-07-02T16:00+0200",
@@ -124,7 +114,7 @@
     "datum": "2. Jul 2026",
     "datum_raw": "2026-07-02T19:30+0200",
     "ort": "Kulturraum 405 e.V., Venloer Straße 405",
-    "preis": "ab 0 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/open-stage-im-kulturraum-405-113/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Wenn du schon immer wusstest, dass du auf die Bühne gehörst, dann ist genau jetzt deine Chance. Pack dein Instrument ein und Bühne frei für dich bei der Open Stage im Kulturraum 405!!! 🎙🎶🎸"
@@ -164,7 +154,7 @@
     "datum": "2. Jul 2026",
     "datum_raw": "2026-07-02T20:00+0200",
     "ort": "artheater, Ehrenfeldgürtel 127",
-    "preis": "ab 0 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/bachelorkonzert-franzi-becker-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Es ist soweit! Nach Jahren des Studierens und Musizierens steht nun endlich Franzi Beckers Bachelorkonzert vor der Tür! Mit einem musikalischen Doppelschlag der Extraklasse will die leidenschaftliche Lead-Trompeterin ih"
@@ -174,7 +164,7 @@
     "datum": "2. Jul 2026",
     "datum_raw": "2026-07-02T20:00+0200",
     "ort": "King Georg, Sudermanstraße 2",
-    "preis": "ab 11 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/bachelorkonzert-noomi-coleman-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Basti Lohmar (Bass), Johannes Sauer (Gitarre), Tim Schmiedner (Keys), Jonas Heck (Schlagzeug) und Noomi Mae Coleman (Gesang, Komposition). Noomi Coleman lädt herzlich zu ihrem Bachelorabschlusskonzert ins King Georg ein"
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/tortu-17/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Duo mit vielseitigen Instrumenten und Klängen und in vier SprachenDas Musikerduo  Marie Weis (Gesang, Klavier, Bariton-Ukulele) und Pascal Burbach (Schlagzeug, Glockenspiel), spielen akustische und ehrliche Musik. Durch"
+  },
+  {
+    "titel": "Cologne Nightlife Tour: 4 Locations, Shots & Club Entry",
+    "datum": "3. Jul 2026",
+    "datum_raw": "2026-07-03T21:15+0200",
+    "ort": "Zülpicher Pl., Zülpicher Pl., 50674 Köln, Germany",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/cologne-nightlife-tour-4-locations-shots-club-entry-30/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Experience Cologne nightlife the easy way with a fun group and a local host. After check-in at the meeting point, the night starts with a welcome shot. Then you’ll visit 4 lively nightlife locations, a mix of popular bar"
   }
 ]
