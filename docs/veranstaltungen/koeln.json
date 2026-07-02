@@ -24,7 +24,7 @@
     "datum": "2. Jul 2026",
     "datum_raw": "2026-07-02T16:00+0200",
     "ort": "Hempies im machwerkhaus köln, Dillenburger Straße 87",
-    "preis": "ab 13 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/hempies-flohmarkt-im-machwerkhaus-koln-4/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Beim Hempies Flohmarkt findest du jeden ersten Donnerstag des Monats nachhaltige Lieblingsstücke und kreative Schätze aus Kölns Szene. Dazu gibt's vegane Snacks und Drinks, während Einblicke in lokale Werkstätten Lust au"
@@ -198,6 +198,16 @@
     "link": "https://rausgegangen.de/events/prime-time-sound-journey-9/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Begib dich auf eine Reise durch die Welten der Frequenzen und lass dich von ihren Wirkungen auf dich überraschen und faszinieren. Hier ist die Fusion von Entertainment, Meditation und tiefen Bewusstseinszuständen Progr"
+  },
+  {
+    "titel": "Groove Cologne - Concert & Jam-Session",
+    "datum": "2. Jul 2026",
+    "datum_raw": "2026-07-02T21:00+0200",
+    "ort": "Jameson Pub Cologne, Friesenstr 30 - 40",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/groove-cologne-concert-jam-session-7/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Live-Concert and Jam-Session tonight! Opening concert by The Streetles, afterwards the stage will be open to jam. Bring your instrument or use ours and lets rock into the night! Everybody and every style is welcome!!! Ou"
   },
   {
     "titel": "Psychedelic Light & Sound",
@@ -388,15 +398,5 @@
     "link": "https://rausgegangen.de/events/matt-berninger-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Manche Musiker*innen schreiben Songs, andere schaffen ganze Klangwelten. Matt Berninger gehört zur zweiten Kategorie. Seine tiefgehenden Texte, sein melancholischer Bariton und seine Fähigkeit, Stimmungen zu erschaffen"
-  },
-  {
-    "titel": "TORTÜ",
-    "datum": "3. Jul 2026",
-    "datum_raw": "2026-07-03T20:00+0200",
-    "ort": "Hinterhofsalon, Aachener Straße 68",
-    "preis": "ab 22 €",
-    "link": "https://rausgegangen.de/events/tortu-17/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Duo mit vielseitigen Instrumenten und Klängen und in vier SprachenDas Musikerduo  Marie Weis (Gesang, Klavier, Bariton-Ukulele) und Pascal Burbach (Schlagzeug, Glockenspiel), spielen akustische und ehrliche Musik. Durch"
   }
 ]
