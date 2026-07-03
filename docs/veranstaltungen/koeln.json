@@ -30,16 +30,6 @@
     "teaser": "Ausnahmezustand in Sülz! Der Feierabendmarkt auf dem Hermeskeiler Platz geht in die XXL-Runde: Freitag bis Sonntag verwandelt sich das Veedel in eine riesige Genuss-Meile – mit noch mehr Food-Trucks, einer riesigen Auswa"
   },
   {
-    "titel": "Feminist Law Clinic Vorlesung: Selbstbestimmungsgesetz Teil I",
-    "datum": "3. Jul 2026",
-    "datum_raw": "2026-07-03T16:00+0200",
-    "ort": "Universität zu Köln Hörsaal II, Albertus-Magnus-Platz 1",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/feminist-law-clinic-vorlesung-selbstbestimmungsgesetz-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Julia Heinicke erklärt, wie das neue Selbstbestimmungsgesetz das Recht auf Geschlechts- und Namensänderung vereinfacht und beleuchtet die hitzigen Debatten drumherum. Egal ob du dich für Gender, Recht oder Politik intere"
-  },
-  {
     "titel": "Detroit Friday with Double Zero Pizza",
     "datum": "3. Jul 2026",
     "datum_raw": "2026-07-03T17:00+0200",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/zwischen-licht-und-schatten-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Musikalischer Dialog für Violine und Akkordeon: Am 4. Juli 2026 um 18:00 Uhr sindMaximiliane Wilms und Tetiana Muchychka in der Karthäuserkirche Köln zu erleben. Aufdem Programm stehen Werke von Bach, Rachmaninow, Sch"
+  },
+  {
+    "titel": "Hot Rhythm Boys",
+    "datum": "4. Jul 2026",
+    "datum_raw": "2026-07-04T19:00+0200",
+    "ort": "PianoOptik, Luxemburger Str. 234",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/hot-rhythm-boys-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Nach dem Vorbild amerikanischer Gesangsgruppen wie den „Delta Rhythm Boys“ und den „Ink Spots“ hören Sie vierstimmig Swing und Schlager der 30er und 40er Jahre - begleitet an Gitarre, Violine und Kontrabaß. Sebastian As"
   }
 ]
