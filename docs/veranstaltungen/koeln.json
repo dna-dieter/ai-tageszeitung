@@ -80,16 +80,6 @@
     "teaser": "Version espanol mas abajo Zwei besondere Konzerte an diesem Tag:  Ab 18 Uhr gibt es unter Kastanien Getränke und kleine Snacks im Allerweltsgarten, ab 20 Uhr erwartet euch das Cafe.Anahí Mariluan macht auf ihrer Tourne"
   },
   {
-    "titel": "20 Grad im Raum! Kakao & Klang - Zeremonie mit Sound Healing, live Musik zum Fühlen, Schokolade zum Trinken",
-    "datum": "3. Jul 2026",
-    "datum_raw": "2026-07-03T18:00+0200",
-    "ort": "room for emotions, Am Maarhof 25",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kakao-klang-zeremonie-mit-sound-healing-live-musik-zum-fuhle-41/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zeremonieller Rohkakao – die Medizin des HerzensZeremonieller Rohkakao ist weit mehr als ein Getränk. Seit Jahrtausenden wird er in mittel- und südamerikanischen Kulturen als heilige Pflanzenmedizin verehrt – als „Spei"
-  },
-  {
     "titel": "Odonische Freitagsbühne",
     "datum": "3. Jul 2026",
     "datum_raw": "2026-07-03T18:00+0200",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/dialoge-der-zeit-von-mozart-bis-lobanov-2/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Dialoge der Zeit – eine musikalische Reise durch drei JahrhunderteDrei Epochen, drei musikalische Sprachen, ein Dialog.Das Konzert verbindet die Eleganz von Wolfgang Amadeus Mozart, die poetische Ausdruckskraft von Alfre"
+  },
+  {
+    "titel": "Zwischen Licht und Schatten",
+    "datum": "4. Jul 2026",
+    "datum_raw": "2026-07-04T18:00+0200",
+    "ort": "Kartäuserkirche Köln, Kartäusergasse 7",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/zwischen-licht-und-schatten-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Musikalischer Dialog für Violine und Akkordeon: Am 4. Juli 2026 um 18:00 Uhr sindMaximiliane Wilms und Tetiana Muchychka in der Karthäuserkirche Köln zu erleben. Aufdem Programm stehen Werke von Bach, Rachmaninow, Sch"
   }
 ]
