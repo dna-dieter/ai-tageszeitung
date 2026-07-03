@@ -18975,6 +18975,80 @@
     "fetched": "2026-05-06T15:52:46.537536"
   },
   {
+    "id": "f0c4fc4fab0d",
+    "title": "Akutes Finanzproblem: Der Kräwi in Remscheid droht das Aus",
+    "summary": "Den Betreibern der Freizeitanlage droht endgültig die Zahlungsunfähigkeit. Betroffen wären 44 Mitarbeitende und zahlreiche Ein-Euro-Jobber. Das steckt dahinter.",
+    "link": "https://www.rga.de/lokales/remscheid/akutes-finanzproblem-der-kraewi-in-remscheid-droht-das-aus-RP7VUZWCNJE7RLZ4MFSJBAZBBY.html",
+    "published": "Fri, 03 Jul 2026 13:11:35 +0200",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald",
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-07-03T11:40:35.689187"
+  },
+  {
+    "id": "c917504dab67",
+    "title": "Bergneustadt: Neuer Laden „StandPunkt“ eröffnet am Kirchplatz",
+    "summary": "Am Kirchplatz in Bergneustadt öffnet ein neues Geschäft für Wohnaccessoires, Feinkost und Geschenke für Zuhause und zum Verschenken.",
+    "link": "https://www.news-on-tour.de/204985/standpunkt-bergneustadt/",
+    "published": "Fri, 03 Jul 2026 10:11:44 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-07-03T11:40:33.548088"
+  },
+  {
+    "id": "2ae5a46a4f43",
+    "title": "POL-GM: Flüchtige Autofahrerin nach Zeugenhinweis angetroffen",
+    "summary": "Marienheide (ots) - Auf der Leppestraße auf dem Parkplatz \"Heier-Platz\" kam es am Donnerstag (2. Juli) zu einer Unfallflucht. Eine 51-Jährige und ein 55-Jähriger aus Wipperfürth parkten ihren VW auf dem Platz. Noch während sie einen Parkschein ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6307451",
+    "published": "Fri, 03 Jul 2026 09:58:00 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wipperfuerth",
+      "marienheide"
+    ],
+    "fetched": "2026-07-03T11:40:50.343239"
+  },
+  {
+    "id": "eb05a11649d5",
+    "title": "POL-GM: Parkbänke beschädigt",
+    "summary": "Wipperfürth (ots) - Unbekannte haben zwischen Freitag (26. Juni) und Samstag (27. Juni) zwei Parkbänke in der Wupperstraße beschädigt. Eine der Bänke rissen die Vandalen aus der Verankerung, die andere zerstörten sie völlig. Hinweise nimmt ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6307448",
+    "published": "Fri, 03 Jul 2026 09:57:07 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-07-03T11:40:50.343283"
+  },
+  {
+    "id": "97789a4742c4",
+    "title": "POL-GM: Einbruch in Einfamilienhaus",
+    "summary": "Radevormwald (ots) - Unbekannte sind zwischen 14 Uhr am Mittwoch (1. Juli) und Donnerstagmittag in ein Einfamilienhaus in der Straße \"Kattenbusch\" eingebrochen. Die Unbekannten brachen ein Fenster aus dem Rahmen und gelangten so in das Haus. Dann ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6307443",
+    "published": "Fri, 03 Jul 2026 09:54:58 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-07-03T11:40:50.343318"
+  },
+  {
+    "id": "3db94c117b15",
+    "title": "POL-GM: 32-Jähriger löst Polizeieinsatz aus",
+    "summary": "Nümbrecht (ots) - Ein 32-Jähriger aus Nümbrecht randalierte am Donnerstag (2. Juli) auf der Gouvieuxstraße. Gegen 11:40 Uhr diskutierte er lautstark mit einem Busfahrer, schrie herum und hinderte den Bus am Weiterfahren, indem er sich vor den ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6307441",
+    "published": "Fri, 03 Jul 2026 09:54:21 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-07-03T11:40:50.343351"
+  },
+  {
     "id": "d7890b1182fb",
     "title": "Geschwindigkeitsmessung Lüdenscheiderstraße",
     "summary": "Ergebnisse der Geschwindigkeitsmessung am EvB-Gymnasium in der Zeit vom 21.05. bis 15.06.2026.",
@@ -18985,6 +19059,18 @@
       "wipperfuerth"
     ],
     "fetched": "2026-07-03T08:21:16.678113"
+  },
+  {
+    "id": "213133bd826e",
+    "title": "Geschwindigkeitsmessung Lüdenscheiderstraße",
+    "summary": "Ergebnisse der Geschwindigkeitsmessung am EvB-Gymnasium in der Zeit vom 21.05. bis 15.06.2026.",
+    "link": "https://wipperfuerth.de/fileadmin/redaktion/Hansestadt_Wipperfuerth/Strassenverkehr/Geschwindigkeitsmessung_EvB_Gymnasium.pdf",
+    "published": "Fri, 03 Jul 2026 09:20:51 +0200",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-07-03T11:40:37.784482"
   },
   {
     "id": "f6ed1da24243",
