@@ -70,16 +70,6 @@
     "teaser": "Hier findest du einen ganztägigen Open Air Rave unter der Südbrücke in Köln, der ohne Ticketzwang und Kommerz auskommt. Acht Stunden lang geht es nonstop mit Trance, Groove und Speedhouse – ganz entspannt mit kostenlosem"
   },
   {
-    "titel": "Handpan/ Hang - Rhythmus & Klang Workshop mit Mantao (Florian Pape)",
-    "datum": "4. Jul 2026",
-    "datum_raw": "2026-07-04T14:00+0200",
-    "ort": "Rhythmus Tempel Tajet Garden, Alteburger Straße 250",
-    "preis": "ab 60 €",
-    "link": "https://rausgegangen.de/events/handpan-hang-rhythmus-klang-workshop-mit-mantao-florian-pape-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Erlebe die Handpan in ihrer ganzen Klangvielfalt!In diesem 2,5-stündigen Workshop tauchen wir ein in die Welt von polyrhythmischen Grooves und vielschichtigen Melodien, die das Instrument so einzigartig machen. Gemeinsa"
-  },
-  {
     "titel": "Gloindfest",
     "datum": "4. Jul 2026",
     "datum_raw": "2026-07-04T15:00+0200",
@@ -98,16 +88,6 @@
     "link": "https://rausgegangen.de/events/groe-grune-wiese-open-air-hosted-by-bekkaa-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Bekkaa versammelt 2026 ihre Freund:innen für ein entspanntes Indie-Pop-Treffen mit ehrlichen Texten und Geschichten aus dem Alltag. Freu dich auf gelassene Momente voller Poesie von ihr und Gästen wie Katlix und Jonny Ma"
-  },
-  {
-    "titel": "DIALOGE der Zeit - Von Mozart bis Lobanov",
-    "datum": "4. Jul 2026",
-    "datum_raw": "2026-07-04T16:30+0200",
-    "ort": "Antoniterkirche Köln Gemeindezentrum, Antoniterstraße 14-16",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/dialoge-der-zeit-von-mozart-bis-lobanov-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Dialoge der Zeit – eine musikalische Reise durch drei JahrhunderteDrei Epochen, drei musikalische Sprachen, ein Dialog.Das Konzert verbindet die Eleganz von Wolfgang Amadeus Mozart, die poetische Ausdruckskraft von Alfre"
   },
   {
     "titel": "Psychedelic Light & Sound",
@@ -398,5 +378,25 @@
     "link": "https://rausgegangen.de/events/deine-freunde-44/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Ihr braucht einen kleinen Lichtblick, bevor es wieder so richtig kalt, grau und ungemütlich wird? Deine Freunde haben da was: 2026 gibt es mehr. Mehr Konzerte, mehr Sonne, mehr neue Songs. Genau so wie es sich gehört, "
+  },
+  {
+    "titel": "Workshop & Social Night für Paare & Alleinstehende,  Tanzen verbindet",
+    "datum": "5. Jul 2026",
+    "datum_raw": "2026-07-05T17:45+0200",
+    "ort": "Salsa Bachata Mastery Zentrum, Georgstraße 5",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/workshop-social-night-fur-paare-alleinstehende-tanzen-verbin-123/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Es geht um neue Kontakte und ein neues Hobby, das deine Weltsicht verändern und den Kontakt zu Menschen viel einfacher machen kann. Durch das Tanzen verbinden sich Menschen und bleiben präsent.Meine Aufgabe als Worksho"
+  },
+  {
+    "titel": "Odysseus",
+    "datum": "5. Jul 2026",
+    "datum_raw": "2026-07-05T18:00+0200",
+    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
+    "preis": "ab 13 €",
+    "link": "https://rausgegangen.de/events/odysseus-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Ein Superheld kehrt heimMartin Berner | Monica Mascus | Samantha Gaul | Stefan Wilkening | Kölner Männer-Gesang-Verein | KonzertChor Stuttgart | stuttgart vokal | Frauenchor BonnSonata | Mädchen- und Frauenchor der Sc"
   }
 ]
