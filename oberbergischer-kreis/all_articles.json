@@ -11552,6 +11552,57 @@
     "fetched": "2026-06-07T09:34:49.812383"
   },
   {
+    "id": "0bc693a21b1c",
+    "title": "Fünf Motorradunfälle: Frau prallt in Radevormwald gegen die Leitplanke",
+    "summary": "Eine 61-jährige Essenerin erleidet auf der K8 bei Remlingrade schwere Verletzungen. Am Wochenende krachte es weitere vier Male im Oberbergischen Kreis.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/fuenf-motorradunfaelle-frau-prallt-in-radevormwald-gegen-die-leitplanke-6X2WSDDGBJC6LFFTVNNIVDCWGM.html",
+    "published": "Sun, 05 Jul 2026 11:56:45 +0200",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen",
+      "radevormwald"
+    ],
+    "fetched": "2026-07-05T11:45:50.420520"
+  },
+  {
+    "id": "55d76e71d267",
+    "title": "Neyetalsperre: Exhibitionist rennt 29-jähriger Frau hinterher",
+    "summary": "Unbekannter Mann zeigt sich auf Wanderweg. Spaziergängerin schlägt ihn in die Flucht.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/neyetalsperre-exhibitionist-rennt-29-jaehriger-frau-hinterher-6MYC5FOW4ZBCREGBBP3WRK5B74.html",
+    "published": "Sun, 05 Jul 2026 11:51:52 +0200",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen",
+      "radevormwald",
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-07-05T11:45:50.420549"
+  },
+  {
+    "id": "2047887a085e",
+    "title": "Wipperfürth: Exhibitionist auf Waldweg – Zeugen gesucht",
+    "summary": "Exhibitionist auf Waldweg in Wipperfürth: Ein unbekannter Mann zeigte sich einer 29-Jährigen unsittlich. Polizei sucht Zeugen und Hinweisgeber.",
+    "link": "https://www.news-on-tour.de/205148/wipperfuerth-exhibitionist-waldweg/",
+    "published": "Sun, 05 Jul 2026 10:59:45 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-07-05T11:45:49.814951"
+  },
+  {
+    "id": "d2fcfe815646",
+    "title": "POL-GM: Exhibitionist auf Waldweg unterwegs",
+    "summary": "Wipperfürth (ots) - Ein Unbekannter hat sich am Freitag (3. Juli) auf einem Waldweg zwischen Klitzhaufe und Neyetalsperre einer 29-Jährigen gegenüber in unsittlicher Art und Weise gezeigt. Die Geschädigte war gegen 16:40 Uhr mit einem Hund auf ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6308311",
+    "published": "Sun, 05 Jul 2026 10:55:01 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-07-05T11:46:03.127173"
+  },
+  {
     "id": "59a46c75ec5e",
     "title": "POL-GM: Mehrere Motorradunfälle im Oberbergischen am Wochenende",
     "summary": "Oberbergischer Kreis (ots) - Ein 63-jähriger Kradfahrer aus Wiehl fuhr am Freitag (3. Juli) gegen 16:30 Uhr auf der L341 aus Koppelweide kommend in Richtung Ohlhagen. In einer Linkskurve kam er aus bislang ungeklärter Ursache nach rechts von der ...",
@@ -11576,6 +11627,18 @@
     "fetched": "2026-07-05T09:21:00.596585"
   },
   {
+    "id": "96081a419c48",
+    "title": "Bergneustadt: StandPunkt eröffnet am Kirchplatz – Schönes & Feines lockt in die historische Altstadt",
+    "summary": "Am Kirchplatz in Bergneustadt öffnet ein neues Geschäft für Wohnaccessoires, Feinkost und Geschenke für Zuhause und zum Verschenken.",
+    "link": "https://www.news-on-tour.de/204985/standpunkt-bergneustadt/",
+    "published": "Sun, 05 Jul 2026 09:18:44 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-07-05T11:45:49.814991"
+  },
+  {
     "id": "6c60fac810ec",
     "title": "Oberberg: Mehrere Motorradunfälle am Wochenende – 63-Jähriger lebensgefährlich verletzt",
     "summary": "Das vergangene Wochenende war im Oberbergischen Kreis von einer Serie von Motorradunfällen geprägt. Fünf Kradfahrer stürzten, ein 63-Jähriger erlitt lebensgefährliche Verletzungen.",
@@ -11583,7 +11646,8 @@
     "published": "Sun, 05 Jul 2026 09:08:01 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "lindlar"
     ],
     "fetched": "2026-07-05T09:20:43.559610"
   },
