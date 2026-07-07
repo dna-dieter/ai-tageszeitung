@@ -6362,6 +6362,18 @@
     "fetched": "2026-05-05T21:11:09.380290"
   },
   {
+    "id": "3c15055d7172",
+    "title": "Bauarbeiten Neubau Brücke Voßkuhle",
+    "summary": "In KW 29 starten die Bauarbeiten zum Neubau der Brücke Voßkuhle. Die Brücke wurde durch das Hochwasserereignis 2021 beschädigt. Die Arbeiten dauern voraussichtlich acht Wochen. Anlieger können den Bereich befahren.",
+    "link": "https://www.wipperfuerth.de/detailansicht/bauarbeiten-neubau-bruecke-vosskuhle.html",
+    "published": "Tue, 07 Jul 2026 15:33:39 +0200",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-07-07T15:48:50.237966"
+  },
+  {
     "id": "69b4ad1d53b4",
     "title": "POL-GM: Gestohlener Traktor nach Zeugenhinweis aufgefunden",
     "summary": "Bergneustadt; Lindlar (ots) - Am Mittwoch (1. Juli) meldete sich eine Zeugin bei der Polizei und gab einen Hinweis zu dem in Bergneustadt gestohlenen Traktor (https://www.presseportal.de/blaulicht/pm/65843/6304109 ). Auf einem Hof in Frielingsdorf ...",
@@ -6445,7 +6457,8 @@
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "bergneustadt",
-      "lindlar"
+      "lindlar",
+      "gummersbach"
     ],
     "fetched": "2026-07-07T12:07:48.340033"
   },
