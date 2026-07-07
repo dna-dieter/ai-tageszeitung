@@ -6362,6 +6362,94 @@
     "fetched": "2026-05-05T21:11:09.380290"
   },
   {
+    "id": "69b4ad1d53b4",
+    "title": "POL-GM: Gestohlener Traktor nach Zeugenhinweis aufgefunden",
+    "summary": "Bergneustadt; Lindlar (ots) - Am Mittwoch (1. Juli) meldete sich eine Zeugin bei der Polizei und gab einen Hinweis zu dem in Bergneustadt gestohlenen Traktor (https://www.presseportal.de/blaulicht/pm/65843/6304109 ). Auf einem Hof in Frielingsdorf ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6309675",
+    "published": "Tue, 07 Jul 2026 10:52:35 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "bergneustadt",
+      "lindlar"
+    ],
+    "fetched": "2026-07-07T12:08:02.859794"
+  },
+  {
+    "id": "32690578ebf0",
+    "title": "POL-GM: Einbruch in Einfamilienhaus - Kriminelle kamen zweimal",
+    "summary": "Waldbröl (ots) - In der Nacht von Sonntag (5. Juli) auf Montag hebelten Unbekannte zwischen 17 Uhr und 8 Uhr ein Fenster eines Einfamilienhauses in der Gartenstraße auf. Die Einbrecher durchsuchten die Kellerräume sowie die Räume im Erdgeschoss, ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6309600",
+    "published": "Tue, 07 Jul 2026 10:10:06 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-07-07T12:08:02.859840"
+  },
+  {
+    "id": "238822ba48d1",
+    "title": "Bergneustadt: Traktordiebstahl – Fendt gefunden, Verdächtiger flüchtet",
+    "summary": "Traktordiebstahl in Bergneustadt: Zwei Tage nach der Tat fand die Polizei den grünen Fendt in Frielingsdorf – samt Drogen, Bargeld und Langwaffe.",
+    "link": "https://www.news-on-tour.de/205320/bergneustadt-traktordiebstahl-fund/",
+    "published": "Tue, 07 Jul 2026 10:09:15 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt",
+      "lindlar"
+    ],
+    "fetched": "2026-07-07T12:07:48.339965"
+  },
+  {
+    "id": "b0ab366efdd0",
+    "title": "POL-GM: Unfall im Einmündungsbereich",
+    "summary": "Bergneustadt (ots) - Am Montag (6. Juli) wollte eine 22-jährige Gummersbacherin mit ihrem Mercedes von der Bruchhausener Straße nach links auf die Straße \"In der Bockemühle\" abbiegen. Dabei kam es gegen 19:10 Uhr zum Zusammenstoß mit dem ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6309598",
+    "published": "Tue, 07 Jul 2026 10:08:47 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach",
+      "bergneustadt"
+    ],
+    "fetched": "2026-07-07T12:08:02.859874"
+  },
+  {
+    "id": "ea52f5c30176",
+    "title": "POL-GM: Fußgängerin bei Verkehrsunfall verletzt",
+    "summary": "Lindlar (ots) - Bei einem Verkehrsunfall in Lindlar Breun wurde am Montag (6. Juli) eine Fußgängerin leicht verletzt. Die 90-jährige Lindlarerin wollte gegen 14:40 Uhr die L284 in Breun überqueren. Dabei wurde sie von einem 63-jährigen ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6309594",
+    "published": "Tue, 07 Jul 2026 10:06:21 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-07-07T12:08:02.859904"
+  },
+  {
+    "id": "a57704a53181",
+    "title": "Waldbröl: Wohnungseinbruch – Einbrecher kehren zurück und flüchten",
+    "summary": "Wohnungseinbruch in Waldbröl: Unbekannte drangen in der Gartenstraße binnen zwei Nächten zweimal in ein Einfamilienhaus ein – ohne Beute.",
+    "link": "https://www.news-on-tour.de/205314/waldbroel-wohnungseinbruch/",
+    "published": "Tue, 07 Jul 2026 08:42:40 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-07-07T12:07:48.340004"
+  },
+  {
+    "id": "4820aaedacb6",
+    "title": "Oberberg: Zwei Verkehrsunfälle – Kind und Seniorin verletzt",
+    "summary": "Zwei Verkehrsunfälle im Oberberg: In Bergneustadt und Lindlar wurden am Montag ein Kind und eine 90-jährige Fußgängerin leicht verletzt.",
+    "link": "https://www.news-on-tour.de/205311/oberberg-verkehrsunfaelle-verletzte/",
+    "published": "Tue, 07 Jul 2026 08:35:53 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt",
+      "lindlar"
+    ],
+    "fetched": "2026-07-07T12:07:48.340033"
+  },
+  {
     "id": "194daf12caa2",
     "title": "VHS Oberberg: Neues Kursprogramm startet ab 20. Juli – Vom Kochkurs bis zum Bogenschießen",
     "summary": "Die VHS Oberberg legt ihr neues Herbst-Angebot vor: Ab 20. Juli 2026 sind Kochkurse, VR-Programmierung und Bildungsurlaube online buchbar.",
