@@ -190,16 +190,6 @@
     "teaser": "Das Konzert der Bundespreisträger:innen 2026 aus NRWMehr als eine halbe Million Jugendliche haben seit der Gründung des Wettbewerbs »Jugend musiziert« im Jahr 1964 mitgemacht. Viele von ihnen spielen heute in renommier"
   },
   {
-    "titel": "Shelly Quest - With Friends Live In Cologne",
-    "datum": "9. Jul 2026",
-    "datum_raw": "2026-07-09T18:00+0200",
-    "ort": "Bürgerzentrum Ehrenfeld, Venloer Str. 429",
-    "preis": "ab 17 €",
-    "link": "https://rausgegangen.de/events/shelly-quest-with-friends-live-in-cologne-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Macht euch bereit für eines der spannendsten Live-Musik-Events in Köln!Shelly Quest und The Soul Pushas begrüßen voller Stolz Chaski, Nange, Cherubin, Didi, DeeMC und GoiKaiser zu einer unvergesslichen Nacht voller Mu"
-  },
-  {
     "titel": "ListeningLounge",
     "datum": "9. Jul 2026",
     "datum_raw": "2026-07-09T19:30+0200",
@@ -268,6 +258,16 @@
     "link": "https://rausgegangen.de/events/odonische-freitagsbuhne-74/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge entdecken Spaß macht "
+  },
+  {
+    "titel": "Shelly Quest - With Friends Live In Cologne",
+    "datum": "10. Jul 2026",
+    "datum_raw": "2026-07-10T18:00+0200",
+    "ort": "Bürgerzentrum Ehrenfeld, Venloer Str. 429",
+    "preis": "ab 17 €",
+    "link": "https://rausgegangen.de/events/shelly-quest-with-friends-live-in-cologne-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Macht euch bereit für eines der spannendsten Live-Musik-Events in Köln!Shelly Quest und The Soul Pushas begrüßen voller Stolz Chaski, Nange, Cherubin, Didi, DeeMC und GoiKaiser zu einer unvergesslichen Nacht voller Mu"
   },
   {
     "titel": "Adventure #16",
@@ -383,7 +383,7 @@
     "titel": "Alice Phoebe Lou",
     "datum": "11. Jul 2026",
     "datum_raw": "2026-07-11T14:00+0200",
-    "ort": "Tanzbrunnen Köln, Rheinparkweg 1",
+    "ort": "",
     "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/alice-phoebe-lou-23/",
     "quelle": "Rausgegangen Köln",
