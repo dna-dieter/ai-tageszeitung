@@ -9972,6 +9972,103 @@
     "fetched": "2026-05-05T21:11:09.380137"
   },
   {
+    "id": "ace83edf3e35",
+    "title": "POL-GM: Versuchter Einbruch in Gummersbach",
+    "summary": "Gummersbach (ots) - In der Nacht von Dienstag (7. Juli) auf Mittwoch versuchten Unbekannte gegen 1:50 Uhr die Tür einer Firmenküche in der Karlstraße aufzuhebeln. Auf der Überwachungskamera sind zwei männliche Personen zu erkennen, die sich zur ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6311164",
+    "published": "Thu, 09 Jul 2026 10:06:30 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-07-09T08:37:25.747493"
+  },
+  {
+    "id": "fa8eddde48a1",
+    "title": "POL-GM: Unbekannte brechen Münzautomat auf",
+    "summary": "Wiehl (ots) - In der Nacht von Dienstag (7. Juli) auf Mittwoch brachen Kriminelle zwischen 21 Uhr und 10:30 Uhr einen Münzautomaten auf einem Campingplatz an der Jahnstraße in Bielstein auf. Die Unbekannten erbeuteten eine geringe Menge Bargeld ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6311158",
+    "published": "Thu, 09 Jul 2026 10:04:41 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-07-09T08:37:25.747534"
+  },
+  {
+    "id": "910ac3a73898",
+    "title": "POL-GM: Zwei Verletzte nach Frontalzusammenstoß",
+    "summary": "Marienheide (ots) - Bei einem Verkehrsunfall zwischen Himmerkusen und Hütte wurden am Mittwoch (8. Juli) zwei Autofahrer leicht verletzt. Ein 61-Jähriger aus Bergneustadt war gegen 7:30 Uhr mit seinem Ford auf der Leppestraße von Himmerkusen in ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6311156",
+    "published": "Thu, 09 Jul 2026 10:03:31 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "bergneustadt",
+      "marienheide"
+    ],
+    "fetched": "2026-07-09T08:37:25.747567"
+  },
+  {
+    "id": "de923751f10b",
+    "title": "Foodcourt im Forum Gummersbach lockt mit drei Küchen und neuem Design",
+    "summary": "Drei Küchen, begrünte Säulen, Schließfächer mit Ladefunktion: Der neu gestaltete Treffpunkt im Forum Gummersbach ist seit Mai geöffnet.",
+    "link": "https://www.news-on-tour.de/205452/gummersbach-foodcourt-forum/",
+    "published": "Thu, 09 Jul 2026 08:36:39 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-07-09T08:37:12.223442"
+  },
+  {
+    "id": "d92df2c18e8a",
+    "title": "Bielstein: Motocross-Absage trifft Waldkurs – Jubiläum fällt aus",
+    "summary": "Waldkurs in Wiehl ohne Rennen: Der MSC sagt auch die DM Open ab – nach den ADAC MX Masters fällt 2026 der zweite Lauf am Waldkurs aus.",
+    "link": "https://www.news-on-tour.de/205449/bielstein-motocross-absage/",
+    "published": "Thu, 09 Jul 2026 08:32:01 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-07-09T08:37:12.223483"
+  },
+  {
+    "id": "813a03de2a33",
+    "title": "Marienheide: Frontalzusammenstoß fordert zwei Verletzte",
+    "summary": "Bei einem Frontalzusammenstoß auf der Leppestraße in Marienheide wurden zwei Autofahrer leicht verletzt. Beide Fahrzeuge mussten abgeschleppt werden.",
+    "link": "https://www.news-on-tour.de/205447/marienheide-frontalzusammenstoss-verletzte/",
+    "published": "Thu, 09 Jul 2026 08:24:27 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-07-09T08:37:12.223512"
+  },
+  {
+    "id": "adf75fbc8560",
+    "title": "Gummersbach: Einbruchsversuch scheitert – Überwachungskamera filmt Täter",
+    "summary": "Einbruchsversuch in Gummersbach: Zwei Unbekannte versuchten in der Karlstraße eine Firmenküche aufzubrechen. Sie scheiterten und flüchteten. Die Überwachungskamera filmte die Täter.",
+    "link": "https://www.news-on-tour.de/205444/gummersbach-einbruchsversuch-karlstrasse/",
+    "published": "Thu, 09 Jul 2026 08:21:47 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-07-09T08:37:12.223543"
+  },
+  {
+    "id": "d684ffb5bff0",
+    "title": "Wiehl: Münzautomat auf Campingplatz aufgebrochen – Polizei ermittelt",
+    "summary": "Unbekannte haben auf einem Campingplatz in Wiehl-Bielstein einen Münzautomaten aufgebrochen und Bargeld erbeutet. Die Polizei sucht Zeugen für den Einbruch.",
+    "link": "https://www.news-on-tour.de/205442/wiehl-muenzautomat-aufgebrochen/",
+    "published": "Thu, 09 Jul 2026 08:19:33 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-07-09T08:37:12.223570"
+  },
+  {
     "id": "67a0099816dd",
     "title": "Bau-Boom in Hückeswagen in West 3",
     "summary": "Das jüngste Gewerbegebiet füllt sich rasant. Aktuell sind nur noch zwei Flächen verfügbar. BS Rollen baut auf einem Drittel des Areals, GP Karosserie & Lack erweitert bereits. Doch wo entstehen künftig neue Gewerbeflächen?",
