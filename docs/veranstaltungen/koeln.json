@@ -1,135 +1,5 @@
 [
   {
-    "titel": "MarktTreff Rudolfplatz",
-    "datum": "9. Jul 2026",
-    "datum_raw": "2026-07-09T16:00+0200",
-    "ort": "Köln, Rudolfplatz, Rudolfplatz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/markttreff-rudolfplatz-9/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Jeden Donnerstag von 16 bis 21 Uhr gibt es am Rudolfplatz frische Wochenmarktprodukte und Street Food aus der Region zu entdecken. Dazu kannst du entspannten Weingenuss genießen und deinen Feierabend mit leckerem Essen d"
-  },
-  {
-    "titel": "festival contre le racisme",
-    "datum": "9. Jul 2026",
-    "datum_raw": "2026-07-09T16:00+0200",
-    "ort": "Universität zu Köln - Hauptgebäude, Albertus-Magnus-Platz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/festival-contre-le-racisme-8/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Das festival contre le racisme bringt seit 2004 politische Debatten und kulturelle Vielfalt an die Uni Köln. Mit Fokus auf Antirassismus und Feminismus erwartet dich ein Programm voller Gespräche und Konzerte von Pilz bi"
-  },
-  {
-    "titel": "Tag der offenen Tür im &REPEAT Köln Airport",
-    "datum": "9. Jul 2026",
-    "datum_raw": "2026-07-09T16:00+0200",
-    "ort": "&REPEAT Köln Airport, Heidestraße 246",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/tag-der-offenen-tur-im-repeat-koln-airport-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Entdecke Sie das &REPEAT Köln Airport als vielseitige Location für Feiern, Meetings & besondere Erlebnisse. Was Sie bei uns erwartet:Live-Musik & BBQ im BiergartenHausführungen & Event-SetupsHochzeit-, Business- & Pri"
-  },
-  {
-    "titel": "Jugend musiziert",
-    "datum": "9. Jul 2026",
-    "datum_raw": "2026-07-09T18:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 7 €",
-    "link": "https://rausgegangen.de/events/jugend-musiziert-12/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Das Konzert der Bundespreisträger:innen 2026 aus NRWMehr als eine halbe Million Jugendliche haben seit der Gründung des Wettbewerbs »Jugend musiziert« im Jahr 1964 mitgemacht. Viele von ihnen spielen heute in renommier"
-  },
-  {
-    "titel": "Craft Night Mosaic Coasters- Afterwork Special",
-    "datum": "9. Jul 2026",
-    "datum_raw": "2026-07-09T19:00+0200",
-    "ort": "Ario Coffee Manufactory, Zülpicher Str. 286",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/matcha-mosaik-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier findest du einen entspannten Abend unter Frauen, bei dem du zwei Mosaik-Glasuntersetzer selbst gestaltest und einfach kreativ sein kannst. Alle Materialien und Snacks sind dabei, sodass du dich ganz auf den Flow und"
-  },
-  {
-    "titel": "Der Teufel trägt Prada 2",
-    "datum": "9. Jul 2026",
-    "datum_raw": "2026-07-09T19:00+0200",
-    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/der-teufel-tragt-prada-2-741/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Fast 20 Jahre nach dem Kultfilm dreht sich alles wieder um Karriere und Modezwist zwischen Andy, Emily und Miranda. Im Open-Air Kino erlebst du, wie sich alte Geschichten neu verknüpfen – ein Film, der mehr als nur Fashi"
-  },
-  {
-    "titel": "Solarparty",
-    "datum": "9. Jul 2026",
-    "datum_raw": "2026-07-09T19:00+0200",
-    "ort": "Bürgerzentrum Ehrenfeld, Venloer Str. 429",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/solarparty-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei der Solarparty triffst du Menschen aus Ehrenfeld, die ihre Solaranlagen vorstellen und ihre Erfahrungen teilen. In einem lockeren Talk lernst du das Wichtigste über Solarenergie und kannst direkt deine Fragen loswerd"
-  },
-  {
-    "titel": "ListeningLounge",
-    "datum": "9. Jul 2026",
-    "datum_raw": "2026-07-09T19:30+0200",
-    "ort": "Hallmackenreuther, Brüsseler Platz 9",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/listeninglounge-5/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "In der ListeningLounge gibt’s Alben ohne Unterbrechungen – von Sade bis Rosalía, Klassiker und Geheimtipps. Nach einer kurzen Einleitung kannst du voll ins Hörerlebnis eintauchen und dich danach mit anderen austauschen "
-  },
-  {
-    "titel": "\"Und jetzt queer!\" - Lesung und Gespräch mit Marlon Brand",
-    "datum": "9. Jul 2026",
-    "datum_raw": "2026-07-09T20:00+0200",
-    "ort": "Maurits Buch & Handlung, Mauritiussteinweg 72",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/und-jetzt-queer-lesung-und-gesprach-mit-marlon-brand-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Marlon Brand nimmt dich mit auf eine Reise durch queere Literatur abseits der üblichen Pfade, dabei geht es um Sichtbarkeit und neue Perspektiven auf bekannte Klassiker. Die Lesung öffnet Räume, in denen Identität und Fr"
-  },
-  {
-    "titel": "Glotzt nicht so romantisch!",
-    "datum": "9. Jul 2026",
-    "datum_raw": "2026-07-09T20:00+0200",
-    "ort": "Alte Feuerwache Köln, Melchiorstraße 3",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/glotzt-nicht-so-romantisch-6/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Futur3 nimmt dich mit auf eine Flussreise, die den Rhein zwischen Romantik und Realität neu auslotet. Was erzählen die alten Sagen heute über Identität und Sehnsüchte in Deutschland? Das Ensemble mischt historische Stimm"
-  },
-  {
-    "titel": "Ghoststories",
-    "datum": "9. Jul 2026",
-    "datum_raw": "2026-07-09T20:00+0200",
-    "ort": "Bar Dessous (at Café de Paris), Benesisstraße 61",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/ghoststories-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Andersherum: Wir sind es gewohnt, Geschichten, Gedichte oder Lieder zu interpretieren. Aber gehen wir doch einmal den Weg andersherum. Lassen wir die Lieder unser Leben interpretieren. Diesem Konzept hat sich das Ghostst"
-  },
-  {
-    "titel": "Lied United am 09. Juli 2026",
-    "datum": "9. Jul 2026",
-    "datum_raw": "2026-07-09T20:00+0200",
-    "ort": "Loreley, Lindenstraße 65",
-    "preis": "ab 8 €",
-    "link": "https://rausgegangen.de/events/lied-united-am-09-juli-2026-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zwischen Sinnlichkeit und NotbeleuchtungZwischen Baggersee und Fußball, zwischen Sommerhitze und dem Dröhnen von Klimaanlagen passt immer noch ein erfrischender Konzertabend in der bezaubernden Schankwirtschaft Loreley."
-  },
-  {
-    "titel": "White Noise Gong Bath",
-    "datum": "9. Jul 2026",
-    "datum_raw": "2026-07-09T20:15+0200",
-    "ort": "Klangkino, Hansaring 61",
-    "preis": "ab 40 €",
-    "link": "https://rausgegangen.de/events/white-noise-gong-bath-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Der Gong in seiner mächtigsten Form  Transformative und auch stark emotionale Erlebnisse sind möglich. Hier kann sich vieles lösen. Du musst nichts tun, außer dich dem Klang hinzugeben. Finde zu innerer Stille und tau"
-  },
-  {
     "titel": "Baby got Business Öffentliche Kommunikation & Resilienz Crashkurs",
     "datum": "10. Jul 2026",
     "datum_raw": "2026-07-10T09:30+0200",
@@ -140,6 +10,26 @@
     "teaser": "Der Öffentliche Kommunikation & Resilienz Crashkurs ist ein intensiver Ein-Tages-Workshop für alle, die lernen möchten, wie du in öffentlichen Debatten oder Konflikten handlungsfähig bleibst.Wer sichtbar arbeitet, w"
   },
   {
+    "titel": "festival contre le racisme",
+    "datum": "10. Jul 2026",
+    "datum_raw": "2026-07-10T13:30+0200",
+    "ort": "AStA Uni Köln, Universitätsstraße 16",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/festival-contre-le-racisme-9/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das festival contre le racisme bringt seit 2004 politische Debatten und kulturelle Vielfalt an die Uni Köln. Mit Fokus auf Antirassismus und Feminismus erwartet dich ein Programm voller Gespräche und Konzerte von Pilz bi"
+  },
+  {
+    "titel": "Hochsommer & Drinks: Feierabendmarkt Neptunplatz",
+    "datum": "10. Jul 2026",
+    "datum_raw": "2026-07-10T16:00+0200",
+    "ort": "Neptunplatz, Neptunplatz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/xxl-sonderausgabe-3-tage-feierabendmarkt-ehrenfeld-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Im Ehrenfelder Feierabendmarkt findest du gekühltes Kölsch und Streetfood-Trends, perfekt für entspannte Sommerabende mit Freund:innen. Nach der Arbeit richtet sich hier alles aufs gemeinsame Runterkommen und den leisen "
+  },
+  {
     "titel": "Psychedelic Light & Sound",
     "datum": "10. Jul 2026",
     "datum_raw": "2026-07-10T17:00+0200",
@@ -148,6 +38,16 @@
     "link": "https://rausgegangen.de/events/psychedelic-light-sound-31/",
     "quelle": "Rausgegangen Köln",
     "teaser": "intensiv, transformativ, trippyDie Psychedelic Light & Sound Journey verbindet eines der ältesten Instrumente der Erde mit den neusten Erkenntnissen und Technologien aus der Forschung. Mit dem Einsatz des Gongs in Kombi"
+  },
+  {
+    "titel": "Save COSMO Radio Demo",
+    "datum": "10. Jul 2026",
+    "datum_raw": "2026-07-10T18:00+0200",
+    "ort": "Roncalliplatz, Roncalliplatz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/save-cosmo-radio-demo-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Über 500 Organisationen setzen ein Zeichen für COSMO, den einzigen mehrsprachigen Radiosender der ARD, der jetzt wegfallen soll. Es erwarten dich Reden von Engagierten und Musik von Patrice, MC René und vielen mehr – gem"
   },
   {
     "titel": "Odonische Freitagsbühne",
@@ -168,6 +68,26 @@
     "link": "https://rausgegangen.de/events/shelly-quest-with-friends-live-in-cologne-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Macht euch bereit für eines der spannendsten Live-Musik-Events in Köln!Shelly Quest und The Soul Pushas begrüßen voller Stolz Chaski, Nange, Cherubin, Didi, DeeMC und GoiKaiser zu einer unvergesslichen Nacht voller Mu"
+  },
+  {
+    "titel": "Parche Colectivo | La Casa del Perreo x Radio Sabor | Summer Fest",
+    "datum": "10. Jul 2026",
+    "datum_raw": "2026-07-10T19:00+0200",
+    "ort": "Bootshaus Köln, Auenweg 173",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/summer-fest-parche-colectivo-la-casa-del-perreo-x-radio-sabo-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei Parche Colectivo trifft latinoamerikanische Clubkultur auf fünf Floors voller Reggaeton, Dembow und Salsa-Klassiker, dazu gibt’s Food Trucks und Public Viewing zur WM. Die Mischung aus Outdoor-Festival und Indoor-Aft"
+  },
+  {
+    "titel": "Disclosure Day – Der Tag der Wahrheit",
+    "datum": "10. Jul 2026",
+    "datum_raw": "2026-07-10T19:00+0200",
+    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/disclosure-day-der-tag-der-wahrheit-59/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Im Film „Disclosure Day“ prallt die Suche einer Wettermoderatorin nach Wahrheit auf die Vertuschungen einer Geheimorganisation. Zwischen politischem Druck und außerirdischen Geheimnissen entfaltet sich eine spannende Deb"
   },
   {
     "titel": "Adventure #16",
@@ -270,6 +190,16 @@
     "teaser": "Experience Cologne nightlife the easy way with a fun group and a local host. After check-in at the meeting point, the night starts with a welcome shot. Then you’ll visit 4 lively nightlife locations, a mix of popular bar"
   },
   {
+    "titel": "THE DRAMA | MAKK Open-Air",
+    "datum": "10. Jul 2026",
+    "datum_raw": "2026-07-10T21:30+0200",
+    "ort": "Open Air Kino MAKK, An d. Rechtschule 7",
+    "preis": "ab 9 €",
+    "link": "https://rausgegangen.de/events/the-drama-makk-open-air-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "THE DRAMA zeigt, wie zerbrechlich unsere Vorstellungen von Liebe heute sind – wenn sich hinter der perfekten Beziehung Risse auftun und eine Enthüllung alles ins Wanken bringt. Der Film mit Zendaya und Robert Pattinson v"
+  },
+  {
     "titel": "SING IT OUT! Maxis Karaoke Nacht",
     "datum": "10. Jul 2026",
     "datum_raw": "2026-07-10T21:30+0200",
@@ -278,6 +208,36 @@
     "link": "https://rausgegangen.de/events/sing-it-out-maxis-karaoke-nacht-5/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Hier gibt’s keinen Jury-Stress und keine falschen Töne, sondern einfach 53.000 Songs zum Austoben – von 90s Trash bis RnB. Maxi macht seit Jahren Karaoke-Abende zur Party, bei denen du zum Held:in oder Meme wirst. Zwisch"
+  },
+  {
+    "titel": "árbol w/ Grace Dahl, Caniche, Medea, Schwesta p, Atta, Lemonara",
+    "datum": "10. Jul 2026",
+    "datum_raw": "2026-07-10T23:00+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/arbol-w-grace-dahl-caniche-medea-schwesta-p-atta-lemonara-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": ""
+  },
+  {
+    "titel": "fi x NUOBN x  Uptown Records Vinyl Bus",
+    "datum": "10. Jul 2026",
+    "datum_raw": "2026-07-10T23:00+0200",
+    "ort": "Ursprung fi, Widdersdorfer Straße 246",
+    "preis": "ab 13 €",
+    "link": "https://rausgegangen.de/events/fi-x-nuobn-x-uptown-records-vinyl-bus-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "fi x NUOBN und Uptown Records bringen ihre Plattenwahl im Vinyl Bus auf die Straße. Erwarte eine Nacht mit schwebenden Sounds von Björn Torwellen, Christiano Ferragamo und G.A.R.O. Becker, die durch sorgsam kuratierte Se"
+  },
+  {
+    "titel": "Ascension w/ DJ Sonnenbrand, DJ Sodbrennen, Ademes & more at Helios37",
+    "datum": "10. Jul 2026",
+    "datum_raw": "2026-07-10T23:00+0200",
+    "ort": "Helios37, Heliosstraße 37",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/ascension-w-dj-sonnenbrand100726/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Ascension ist zurück mit zwei Floors voller Energie – von Trance bis Hard Techno. DJ Sodbrennen & Co. sorgen für fette Beats und eine unvergessliche Nacht 🪩"
   },
   {
     "titel": "Alice Phoebe Lou",
@@ -398,5 +358,45 @@
     "link": "https://rausgegangen.de/events/koln-mamma-mia-konzert-party-4/",
     "quelle": "Rausgegangen Köln",
     "teaser": ""
+  },
+  {
+    "titel": "KÖLN - MAMMA MIA PARTY / MITSING KONZERT - ABBA TOUR",
+    "datum": "11. Jul 2026",
+    "datum_raw": "2026-07-11T19:30+0200",
+    "ort": "Hohenzollernring 89-93, Hohenzollernring 89-93, 50672 Köln, Deutschland",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/koln-mamma-mia-party-mitsing-konzert-abba-tour-6/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "🎟️ ACHTUNG DIE TICKETS WERDEN KNAPP!👉🏼 WEBSEITE 💻: www.mammamiaparty.info👉🏼 INSTAGRAM📲: @Mammamia.Partymotto / https://www.instagram.com/mammamia.partymottoMAMMA MIA PARTY / MITSING KONZERT – DIE GROßE DEUTSCHLANDTOUR!🎤 "
+  },
+  {
+    "titel": "TOM IST TOT",
+    "datum": "11. Jul 2026",
+    "datum_raw": "2026-07-11T19:30+0200",
+    "ort": "Stereo Wonderland, Trierer Straße 65",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/tom-ist-tot-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "TOM IST TOT (Punkrock) - Live im Stereo Wonderland in KölnEinlass: 19:30 Uhr Beginn: 20:00 Uhr Support: TiltEintritt: 10€ AKWenn TOM IST TOT spielt, wird es laut, wild und nass! Die deutsche Punk-Band aus Köln kommt mi"
+  },
+  {
+    "titel": "Cozy Concert",
+    "datum": "11. Jul 2026",
+    "datum_raw": "2026-07-11T20:00+0200",
+    "ort": "Geheimer Ort, Köln",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/cozy-concerts-by-hidden-stage-sessions-ev-22/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Cozy Concerts sind eine Geheimkonzertreihe in gemütlicher Atmosphäre* – in Wohnzimmern, Buchläden, Ateliers, Gärten und anderen besonderen Orten. Intim, authentisch, entspannend. 80–90 % der Musiker*innen bei den"
+  },
+  {
+    "titel": "Die Heiterkeit",
+    "datum": "11. Jul 2026",
+    "datum_raw": "2026-07-11T20:00+0200",
+    "ort": "Tanzbrunnen Köln, Rheinparkweg 1",
+    "preis": "ab 17 €",
+    "link": "https://rausgegangen.de/events/die-heiterkeit-11/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Von denen ganz da oben ist nichts mehr zu erwarten, das ist klar. Die Götter sind malade und kraftlos, die Geister zu porös zum Spuken. Und so liegt es wieder einmal an Die Heiterkeit, uns mit der für sie ureigenen za"
   }
 ]
