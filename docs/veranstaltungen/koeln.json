@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Die Philharmonie singt – met Fööss un Fründe un 2000 Pänz",
-    "datum": "9. Jul 2026",
-    "datum_raw": "2026-07-09T11:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/die-philharmonie-singt-met-fooss-un-frunde-un-2000-panz-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Geschlossene VeranstaltungUnter dem Motto »Unsere Stammbaum – Su sin mer all he hinjekumme« findet bereits zum achtzehnten Mal das Singen in der Philharmonie mit den Bläck Fööss und befreundeten Musiker:innen statt. S"
-  },
-  {
     "titel": "MarktTreff Rudolfplatz",
     "datum": "9. Jul 2026",
     "datum_raw": "2026-07-09T16:00+0200",
@@ -87,7 +77,7 @@
     "preis": "ab 0 €",
     "link": "https://rausgegangen.de/events/listeninglounge-5/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "25.06. Sade - Stronger than Pride09.07. Frank Ocean - Blond23.07. Air - Moon Safari06.08. Rosalía - El Mal Querer Für vieles nimmt man sich die Zeit, und vieles nimmt einem die Zeit. Manches Bild braucht einen Rahmen, "
+    "teaser": "In der ListeningLounge gibt’s Alben ohne Unterbrechungen – von Sade bis Rosalía, Klassiker und Geheimtipps. Nach einer kurzen Einleitung kannst du voll ins Hörerlebnis eintauchen und dich danach mit anderen austauschen "
   },
   {
     "titel": "\"Und jetzt queer!\" - Lesung und Gespräch mit Marlon Brand",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/soundgarden-festival-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Cara aus Köln erzählt in ihren ehrlichen Songs von Liebe, Verlust und Familie, ihre Stimme öffnet Türen zu inneren Welten. Das Indie-Folk-Trio Animat ergänzt das Festival mit mehrstimmigem Gesang und Geschichten über das"
+  },
+  {
+    "titel": "KÖLN - MAMMA MIA KONZERT / PARTY",
+    "datum": "11. Jul 2026",
+    "datum_raw": "2026-07-11T19:30+0200",
+    "ort": "Nachtflug, Hohenzollernring 89-93",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/koln-mamma-mia-konzert-party-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": ""
   }
 ]
