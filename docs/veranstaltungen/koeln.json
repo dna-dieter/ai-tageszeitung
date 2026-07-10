@@ -210,7 +210,7 @@
     "teaser": "THE DRAMA zeigt, wie zerbrechlich unsere Vorstellungen von Liebe heute sind – wenn sich hinter der perfekten Beziehung Risse auftun und eine Enthüllung alles ins Wanken bringt. Der Film mit Zendaya und Robert Pattinson v"
   },
   {
-    "titel": "SING IT OUT! Maxis Karaoke Nacht",
+    "titel": "Karaoke - Sing It Out!",
     "datum": "10. Jul 2026",
     "datum_raw": "2026-07-10T21:30+0200",
     "ort": "NightWash club, Hohenstaufenring 25-27",
@@ -350,6 +350,16 @@
     "teaser": "Erlebe den Sommer mit NIEMALS, Charlotte Kudella, George JR & HausF! Im Odonien warten nicht nur die 4 Künstler:innen auf dich (die unterschiedlicher nicht sein könnten) - sondern noch super viele andere Goodies - nebe"
   },
   {
+    "titel": "cafe konzert - KAZIM-KAMER KALAYCI",
+    "datum": "11. Jul 2026",
+    "datum_raw": "2026-07-11T19:00+0200",
+    "ort": "lebens.art - café · concept store · gallery, Wißmannstraße 40",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/cafe-konzert-kazim-kamer-kalayci-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "In seinem Solo-Programm verbindet Kazım-Kamer Kalaycı türkische Klassiker, anatolische Lieder und Popsongs zu einem nahbaren Konzertabend. Seine Musik klingt akustisch, warm und persönlich – mit kleinen improvisatorisc"
+  },
+  {
     "titel": "SOUNDGARDEN Festival",
     "datum": "11. Jul 2026",
     "datum_raw": "2026-07-11T19:00+0200",
@@ -388,15 +398,5 @@
     "link": "https://rausgegangen.de/events/tom-ist-tot-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "TOM IST TOT (Punkrock) - Live im Stereo Wonderland in KölnEinlass: 19:30 Uhr Beginn: 20:00 Uhr Support: TiltEintritt: 10€ AKWenn TOM IST TOT spielt, wird es laut, wild und nass! Die deutsche Punk-Band aus Köln kommt mi"
-  },
-  {
-    "titel": "Cozy Concert",
-    "datum": "11. Jul 2026",
-    "datum_raw": "2026-07-11T20:00+0200",
-    "ort": "Geheimer Ort, Köln",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/cozy-concerts-by-hidden-stage-sessions-ev-22/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die Cozy Concerts sind eine Geheimkonzertreihe in gemütlicher Atmosphäre* – in Wohnzimmern, Buchläden, Ateliers, Gärten und anderen besonderen Orten. Intim, authentisch, entspannend. 80–90 % der Musiker*innen bei den"
   }
 ]
