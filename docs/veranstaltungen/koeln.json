@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Baby got Business Öffentliche Kommunikation & Resilienz Crashkurs",
-    "datum": "10. Jul 2026",
-    "datum_raw": "2026-07-10T09:30+0200",
-    "ort": "Christophstraße 15-17, Christophstraße 15-17, 50670 Köln, Deutschland",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/baby-got-business-offentliche-kommunikation-resilienz-crashk-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Der Öffentliche Kommunikation & Resilienz Crashkurs ist ein intensiver Ein-Tages-Workshop für alle, die lernen möchten, wie du in öffentlichen Debatten oder Konflikten handlungsfähig bleibst.Wer sichtbar arbeitet, w"
-  },
-  {
     "titel": "festival contre le racisme",
     "datum": "10. Jul 2026",
     "datum_raw": "2026-07-10T13:30+0200",
@@ -64,7 +54,7 @@
     "datum": "10. Jul 2026",
     "datum_raw": "2026-07-10T18:00+0200",
     "ort": "Bürgerzentrum Ehrenfeld, Venloer Str. 429",
-    "preis": "ab 17 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/shelly-quest-with-friends-live-in-cologne-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Macht euch bereit für eines der spannendsten Live-Musik-Events in Köln!Shelly Quest und The Soul Pushas begrüßen voller Stolz Chaski, Nange, Cherubin, Didi, DeeMC und GoiKaiser zu einer unvergesslichen Nacht voller Mu"
@@ -144,7 +134,7 @@
     "datum": "10. Jul 2026",
     "datum_raw": "2026-07-10T19:30+0200",
     "ort": "Liebig 257 - Klug e.V., Liebigstraße 257",
-    "preis": "ab 0 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/wohnzimmerkonzerte-von-2acts-cologne-2/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Jeden zweiten Freitag wird ein Wohnzimmer in Köln-Nippes zur Bühne, auf der Musiker*innen ihre Songs ganz nah und authentisch teilen. Die vielseitigen Acts bringen unterschiedlichste Stile und Sprachen zusammen, was für "
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/tom-ist-tot-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "TOM IST TOT (Punkrock) - Live im Stereo Wonderland in KölnEinlass: 19:30 Uhr Beginn: 20:00 Uhr Support: TiltEintritt: 10€ AKWenn TOM IST TOT spielt, wird es laut, wild und nass! Die deutsche Punk-Band aus Köln kommt mi"
+  },
+  {
+    "titel": "Cozy Concert",
+    "datum": "11. Jul 2026",
+    "datum_raw": "2026-07-11T20:00+0200",
+    "ort": "Geheimer Ort, Köln",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/cozy-concerts-by-hidden-stage-sessions-ev-22/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Cozy Concerts sind eine Geheimkonzertreihe in gemütlicher Atmosphäre* – in Wohnzimmern, Buchläden, Ateliers, Gärten und anderen besonderen Orten. Intim, authentisch, entspannend. 80–90 % der Musiker*innen bei den"
   }
 ]
