@@ -40,16 +40,6 @@
     "teaser": "Beim Kalkfest 2026 gestalten Menschen aus dem Viertel ihre Welt und machen den Stadtteil so bunt und offen wie nie Dazwischen gibt’s Musik, Kunst und Mitmachaktionen für alle Neugierigen bis spät in den Abend 🤝"
   },
   {
-    "titel": "Alice Phoebe Lou",
-    "datum": "11. Jul 2026",
-    "datum_raw": "2026-07-11T14:00+0200",
-    "ort": "",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/alice-phoebe-lou-23/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Singer-Songwriterin Alice Phoebe Lou kommt ursprünglich aus Kapstadt, nennt aber seit einem Jahrzehnt Berlin ihre Heimat. Mit dem experimentellen Mix aus Indie, Electronic und Jazz ihrer bisher fünf veröffentlichten A"
-  },
-  {
     "titel": "Colombina Colonia | Sommerfest & BBQ für den Guten Zweck",
     "datum": "11. Jul 2026",
     "datum_raw": "2026-07-11T14:00+0200",
@@ -58,26 +48,6 @@
     "link": "https://rausgegangen.de/events/colombina-colonia-sommerfest-bbq-fur-den-guten-zweck-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Unter dem Motto „Sonne, Spaß & Spende“ lädt der Colombina Colonia e.V. auch 2026 wieder zu seinem beliebten Sommerfest für den guten Zweck ein – dieses Jahr an einem neuen Standort!Freut euch auf einen unvergesslichen "
-  },
-  {
-    "titel": "One Day Choir Ep. 7 - EW&F \"Fantasy\"",
-    "datum": "11. Jul 2026",
-    "datum_raw": "2026-07-11T14:30+0200",
-    "ort": "zamus: großer Probensaal, Heliosstraße 15",
-    "preis": "ab 35 €",
-    "link": "https://rausgegangen.de/events/one-day-choir-ep-7-fantasy-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "One Day Choir Köln, Ep.7 - Fantasy Wir freuen uns auf einen weiteren One Day Choir in Köln! No audition, no competition - just fun! Everybody is welcome. Singer, Want-To-Be-Singer, Non-Singer, “I like to sing but I don"
-  },
-  {
-    "titel": "Erregung Öffentlicher Erregung",
-    "datum": "11. Jul 2026",
-    "datum_raw": "2026-07-11T15:00+0200",
-    "ort": "PACT Zollverein, Bullmannaue 20A",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/erregung-offentlicher-erregung-10/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wie keine andere deutsche Band schafft es Erregung Öffentlicher Erregung, komplexe zeitgeistige Themen und gesellschaftliche Absurditäten in bissige Miniaturen zu verwandeln – so auch auf ihrem aktuellen Album „Speisek"
   },
   {
     "titel": "Kulturspur",
@@ -130,34 +100,14 @@
     "teaser": "Ska in the Yard - umsonst und draußen im Biergarten Headliner sind Change The Mood aus Amsterdam. Die Bandmitglieder sammelten Erfahrung bei Rude Rich and the High Notes und standen bereits mit Legenden wie Rico Rodrigue"
   },
   {
-    "titel": "AnnenMayKantereit",
-    "datum": "11. Jul 2026",
-    "datum_raw": "2026-07-11T17:30+0200",
-    "ort": "RheinEnergieStadion, Aachener Straße 999",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/annenmaykantereit-11/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "\"Alles nix Konkretes\": So hieß 2016 das erste Album der Kölner Band AnnenMayKantereit. Es hätte keinen besseren Titel geben können. Denn es gab ja damals tatsächlich keinen Karriereplan, das Motto war eher: erst mal "
-  },
-  {
     "titel": "Gabriel Macaya und das Trio Sudamericano – Eine musikalische Reise nach Südamerika",
     "datum": "11. Jul 2026",
     "datum_raw": "2026-07-11T18:00+0200",
     "ort": "Uni-Center Köln, Luxemburger Straße 124",
-    "preis": "ab 10 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/gabriel-macaya-und-das-trio-sudamericano-eine-musikalische-r-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Am Samstag, den 11. Juli, erwartet Sie ein Konzert, das die Herzen aller Liebhaber lateinamerikanischer Musik höherschlagen lässt. Der chilenische Sänger und Songwriter Gabriel Macaya bringt gemeinsam mit Giordano Vej"
-  },
-  {
-    "titel": "NIEMALS Open Air",
-    "datum": "11. Jul 2026",
-    "datum_raw": "2026-07-11T18:00+0200",
-    "ort": "Odonien, Hornstraße 85",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/niemals-open-air-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Erlebe den Sommer mit NIEMALS, Charlotte Kudella, George JR & HausF! Im Odonien warten nicht nur die 4 Künstler:innen auf dich (die unterschiedlicher nicht sein könnten) - sondern noch super viele andere Goodies - nebe"
   },
   {
     "titel": "SOUNDGARDEN Festival",
@@ -398,5 +348,55 @@
     "link": "https://rausgegangen.de/events/jahreskonzert-across-the-irish-sea-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "„Across the Irish Sea“ – Jahreskonzert 2026Unter dem Titel „Across the Irish Sea“ nehmen wir Sie in unseren Jahreskonzerten mit auf eine Reise durch das vereinigte Königreich.Es erwartet Sie ein Konzert durch die Vielfa"
+  },
+  {
+    "titel": "BURLESQUE BIJOUX -Show- Die Juwelen des Burlesques!",
+    "datum": "12. Jul 2026",
+    "datum_raw": "2026-07-12T18:00+0200",
+    "ort": "Echtzeit Grill & Thrill, Friesenstraße 33",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/burlesque-bijoux-show-die-juwelen-des-burlesques-31/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Willkommen in unserer extravaganten Brasserie, wo Eleganz auf Versuchung trifft.Tauchen Sie ein in eine Welt voller Glamour, Sinnlichkeit und Überraschungen. Unsere bezaubernden Künstler werden Sie mit einer atemberaub"
+  },
+  {
+    "titel": "Jazz at Green Room: Jonathan Böbel Quartett",
+    "datum": "12. Jul 2026",
+    "datum_raw": "2026-07-12T18:00+0200",
+    "ort": "GREEN ROOM, Venloer Straße 40",
+    "preis": "ab 8 €",
+    "link": "https://rausgegangen.de/events/jazz-at-green-room-jonathan-bobel-quartett-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "18:00 I Konzert I GREEN ROOM Unter seinem Namen versammelt der Kölner Posaunist Jonathan Böbel ein Quartett aus langjährigen musikalischen Weggefährten. In unterschiedlichsten Formationen sind sie sich immer wieder b"
+  },
+  {
+    "titel": "Klang der Stille – Einheit in Vielfalt",
+    "datum": "12. Jul 2026",
+    "datum_raw": "2026-07-12T19:00+0200",
+    "ort": "Quäker Nachbarschaftsheim, Kreutzerstr. 5-7",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/klang-der-stille-einheit-in-vielfalt-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Europäische Sahaja-Yoga-Tour 2026 zu Gast in Köln Kulturprogramm „Klang der Stille – Einheit in Vielfalt“ Am Sonntag, den 12. Juli 2026, lädt die Europäische Sahaja-Yoga-Tour zu einem besonderen Kulturabend nach Köl"
+  },
+  {
+    "titel": "Kwartett Latäng",
+    "datum": "12. Jul 2026",
+    "datum_raw": "2026-07-12T19:00+0200",
+    "ort": "Senftöpfchen Theater, Große Neugasse 2-4",
+    "preis": "ab 32 €",
+    "link": "https://rausgegangen.de/events/kwartett-latang-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Musik des „Kwartett Latäng“ ist vor allem eins: kölsch. Die vier Musikerinnen aus Köln bringen kölsche Musik mit klassischen Streichinstrumenten zum Klingen und hüllen altbekannte Klassiker und moderne Kölsch-H"
+  },
+  {
+    "titel": "Blue Lotus Tee-Zeremonie",
+    "datum": "13. Jul 2026",
+    "datum_raw": "2026-07-13T19:00+0200",
+    "ort": "Klangkino, Hansaring 61",
+    "preis": "ab 45 €",
+    "link": "https://rausgegangen.de/events/blue-lotus-tee-zeremonie-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Erlebe ein achtsames Ritual im Klangkino, getragen von den sanften Frequenzen ausgewählter Instrumente. Kakao und Blue Lotus öffnen auf ihre eigene Weise einen Raum für Entspannung, Herzverbindung und innere Weite.In "
   }
 ]
