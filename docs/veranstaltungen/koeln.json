@@ -20,16 +20,6 @@
     "teaser": "Bitte anmelden an: ninaherwig@gmx.de Wie immer gilt: Hemmungen und Frosch im Hals sind ebenso willkommen wie Gold in der Kehle. Falls du Infos zu weiteren Terminen möchtest, schreibe mir gerne eine Mail an: ninaherwig@g"
   },
   {
-    "titel": "Kinderkonzert",
-    "datum": "12. Jul 2026",
-    "datum_raw": "2026-07-12T11:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 9 €",
-    "link": "https://rausgegangen.de/events/kinderkonzert-134/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Für Kinder ab 6 JahrenVier Pinguine auf Abenteuerreise: Ardemus Quartet trifft Debussy, Gershwin und Spaß!Irgendwo am Südpol leben die letzten vier Pinguine von Katona. Das Ardemus Quartet macht sich mit ihnen auf die "
-  },
-  {
     "titel": "Neuland",
     "datum": "12. Jul 2026",
     "datum_raw": "2026-07-12T11:00+0200",
@@ -110,21 +100,11 @@
     "teaser": "Tanzeinführung ab 16 UhrAlle tanzen mit! In Paaren, im Kreis, in Ketten, in Gruppen aus mehreren Personen oder alleine. Live-Musik, Spaß, Freude an Bewegung und Geselligkeit in einer besonderen Atmosphäre. Das hört si"
   },
   {
-    "titel": "Kartäuserkantorei Köln | Philharmonischer Chor Bonn",
-    "datum": "12. Jul 2026",
-    "datum_raw": "2026-07-12T16:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 12 €",
-    "link": "https://rausgegangen.de/events/kartauserkantorei-koln-philharmonischer-chor-bonn-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "»Walpurgisnacht«Ulrike Malotta | Patrick Grahl | Daniel Ochoa | Kartäuserkantorei Köln | Philharmonischer Chor der Stadt Bonn | Philharmonisches Orchester Hagen | Paul Krämer: Liszt | Mendelssohn Bartholdy | Saint-Sae"
-  },
-  {
     "titel": "Forever Fresh Präsentiert: Disco Never Dies",
     "datum": "12. Jul 2026",
     "datum_raw": "2026-07-12T17:00+0200",
     "ort": "Tsunami Club, Im Ferkulum 9",
-    "preis": "ab 6 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/forever-fresh-prasentiert-disco-never-dies-2/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Hier findest du die geballte Disco-Power von Ü70-DJs, die mit Hits aus den 70ern und 80ern zeigen, wie Party wirklich funktioniert. Ohne Algorithmus, dafür mit viel Herz und Erfahrung, gibt’s beste Songs zum Tanzen und M"
@@ -398,5 +378,25 @@
     "link": "https://rausgegangen.de/events/game-music-composer-concert-with-zanshin-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "GAME MUSIC COMPOSER CONCERTS ist eine Konzertreihe in Köln, die von Uli Sigg und Bob Humid gehostet wird und Komponisten und Produzenten von Spielemusik als immersive Live-Performances präsentiert. Ein Künstler, ein A"
+  },
+  {
+    "titel": "Storch Session Daniel Tamayo, Clemens Köhler & Detox Identity",
+    "datum": "15. Jul 2026",
+    "datum_raw": "2026-07-15T19:30+0200",
+    "ort": "Café Storch, Aachener Straße 17",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/storch-session-daniel-tamayo-clemens-kohler-detox-identity-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Storch SessionDaniel Tamayo (Gitarre) & Clemens Köhler Saxophon& Impuls Tobi Spiegelberg (Soziologe Detox Identity)"
+  },
+  {
+    "titel": "Latin & Salsa Session",
+    "datum": "15. Jul 2026",
+    "datum_raw": "2026-07-15T20:00+0200",
+    "ort": "artheater Köln, Ehrenfeldgürtel 127",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/latin-salsa-session-30/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei der Latin & Salsa Session kommen Musiker:innen aus Köln zusammen, um kubanische und kolumbianische Rhythmen lebendig werden zu lassen. Die Band Marcando eröffnet den Abend mit ihrem präzisen und mitreißenden Sound. E"
   }
 ]

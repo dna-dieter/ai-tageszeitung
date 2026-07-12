@@ -11726,6 +11726,18 @@
     "fetched": "2026-07-12T13:50:13.620656"
   },
   {
+    "id": "d5c6957b8e11",
+    "title": "Böhse Onkelz feiern Tourfinale: Rund 62.000 in Gelsenkirchen",
+    "summary": "Ausverkaufte Veltins-Arena, erstmals eine 360-Grad-Bühne, 26 Songs: So lief das Finale der Stadiontour in Gelsenkirchen – mit allen Zahlen.",
+    "link": "https://www.news-on-tour.de/205613/boehse-onkelz-gelsenkirchen-tourfinale/",
+    "published": "Sun, 12 Jul 2026 14:53:26 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-07-12T15:09:07.126797"
+  },
+  {
     "id": "96f50b1cfb79",
     "title": "Engelskirchen: Autofahrer bei Verkehrsunfall schwer verletzt",
     "summary": "Verkehrsunfall in Engelskirchen-Osberghausen: Ein 31-jähriger Berliner erlitt lebensgefährliche Verletzungen. Ein Rettungshubschrauber transportierte ihn ins Krankenhaus.",
@@ -11733,7 +11745,8 @@
     "published": "Sun, 12 Jul 2026 13:40:46 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "engelskirchen"
+      "engelskirchen",
+      "gummersbach"
     ],
     "fetched": "2026-07-12T13:50:11.468691"
   },
