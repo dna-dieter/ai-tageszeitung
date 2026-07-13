@@ -408,6 +408,21 @@
     "fetched": "2026-05-18T10:24:16.245080"
   },
   {
+    "id": "ce18e4c0dede",
+    "title": "Hückeswagen: Badeunfall an Wuppertalsperre – Mann (20) stirbt",
+    "summary": "Ein tragischer Badeunfall ereignete sich in Hückeswagen an der Wuppertalsperre: Ein 20-Jähriger wurde nach dem Untergehen tot geborgen. Ermittlungen laufen.",
+    "link": "https://www.news-on-tour.de/205642/hueckeswagen-badeunfall-wuppertalsperre/",
+    "published": "Mon, 13 Jul 2026 16:39:01 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "hueckeswagen",
+      "bergneustadt",
+      "marienheide",
+      "gummersbach"
+    ],
+    "fetched": "2026-07-13T18:03:55.573495"
+  },
+  {
     "id": "102ba0d4bc0b",
     "title": "Marienheide: Fahrradunfall auf der Hauptstraße – Polizei sucht Zeugen",
     "summary": "Ein 18-jähriger Radfahrer wurde in Marienheide bei einem Fahrradunfall schwer verletzt, als ein unbekannter Autofahrer abbiegen wollte und anschließend flüchtete. Die Polizei sucht dringend Zeugen des Vorfalls.",
@@ -415,7 +430,8 @@
     "published": "Mon, 13 Jul 2026 16:34:53 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "marienheide"
+      "marienheide",
+      "gummersbach"
     ],
     "fetched": "2026-07-13T18:03:55.573542"
   },
