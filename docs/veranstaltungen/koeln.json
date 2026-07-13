@@ -330,16 +330,6 @@
     "teaser": "Beim SONIC CHESS CLUB Vol. 5 erwarten dich entspannte Runden Schach gepaart mit handverlesenen Vinyl-Sounds und lockeren Gesprächen. Egal wie gut du spielst, hier steht der Spaß an smarter Unterhaltung im Vordergrund und"
   },
   {
-    "titel": "The Karaoke Club",
-    "datum": "16. Jul 2026",
-    "datum_raw": "2026-07-16T18:30+0200",
-    "ort": "die kunstbar, Chargesheimerplatz 1",
-    "preis": "ab 8 €",
-    "link": "https://rausgegangen.de/events/the-karaoke-club-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Karaoke Club triffst du auf eine bunte Runde, die Spaß am Singen und neue Freundschaften verbindet. In entspannter Atmosphäre kannst du Lieblingssongs zum Besten geben und beim Speeddating gleich neue Girls kennenle"
-  },
-  {
     "titel": "Mei Semones",
     "datum": "16. Jul 2026",
     "datum_raw": "2026-07-16T19:00+0200",
@@ -388,6 +378,16 @@
     "link": "https://rausgegangen.de/events/pulp-funk-rock-at-mtc-live-music-club-cologne-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Pulp Funk-Rock that rips straight through to the soul!Magic Bullet kicks of their summer tour with a show at MTC Live Music Club at cologne on the 16th of july. Doors open at 19.00. Show starts at 20.00Support act t.b.a."
+  },
+  {
+    "titel": "SIX60",
+    "datum": "16. Jul 2026",
+    "datum_raw": "2026-07-16T20:00+0200",
+    "ort": "Luxor, Luxemburger Straße 40",
+    "preis": "ab 34 €",
+    "link": "https://rausgegangen.de/events/six60-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "SIX60 startet mit frischem Album und ihrer charakteristischen Mischung aus eingängigen Melodien und kraftvollem Live-Spirit in eine neue Phase. Nach Rekorden und 1.200 Wochen in den Charts bleibt die Band ihrem Sound so "
   },
   {
     "titel": "Rheinuferfest an der Hohenzollernbrücke",
