@@ -1,25 +1,5 @@
 [
   {
-    "titel": "De Fanfare van de Eerste Liefdesnacht",
-    "datum": "14. Jul 2026",
-    "datum_raw": "2026-07-14T14:00+0200",
-    "ort": "Ebertplatz, Ebertplatz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/de-fanfare-van-de-eerste-liefdesnacht-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die Fanfare van de Eerste Liefdesnacht ist ein farbenfrohes und sozial engagiertes Amsterdamer Straßenorchester. Seit über vierzig Jahren sorgen sie überall, wo sie auftreten, musikalisch für Aufsehen — in den Niederl"
-  },
-  {
-    "titel": "Fanfare van de Eerste Liefdesnacht",
-    "datum": "14. Jul 2026",
-    "datum_raw": "2026-07-14T14:00+0200",
-    "ort": "Ebertplatz, Ebertplatz",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/fanfare-van-de-eerste-liefdesnacht-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die Fanfare der Ersten Nacht der Liebe... ist ein farbenfrohes und sozial engagiertes Straßenorchester in Amsterdam. Seit über vierzig Jahren stellen wir musikalisch überall alles auf den Kopf. In den Niederlanden und "
-  },
-  {
     "titel": "Et Thekenterzett & Widersacher aller Liedermacher",
     "datum": "14. Jul 2026",
     "datum_raw": "2026-07-14T17:00+0200",
@@ -54,7 +34,7 @@
     "datum": "14. Jul 2026",
     "datum_raw": "2026-07-14T18:30+0200",
     "ort": "Impact Café, Luxemburger Str. 190",
-    "preis": "ab 24 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/bipan-speed-dating-3/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Beim bi/pan Speed Dating triffst du auf queerfreundliche Menschen, die sich zu mehreren Geschlechtern hingezogen fühlen, und kannst neue Kontakte oder mehr knüpfen. Nach den kurzen Gesprächen gibt’s Zeit, bei Drinks ins "
@@ -398,5 +378,25 @@
     "link": "https://rausgegangen.de/events/kurs-shamisen-kikutomo-schmidt-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Wild, dramatisch und doch gleichzeitig so elegant: Die dreisaitige Langhalslaute Shamisen erzeugt mit ihrem charakteristischen Plektrum Töne, die von Leidenschaft bis Melancholie jedes Gefühl transportieren.Die Meister"
+  },
+  {
+    "titel": "Singen - Joy of Singing - einfach singen in Köln-Sülz - Chor auf Zeit",
+    "datum": "17. Jul 2026",
+    "datum_raw": "2026-07-17T16:30+0200",
+    "ort": "St. Karl Borromäus Köln, Zülpicher Straße 275",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/singen-joy-of-singing-einfach-singen-in-koln-sulz-chor-auf-z-10/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Herzliche Einladung zu „Joy of Singing“ – gemeinsames Singen von Liedern, die verbinden und gut tun.Wir singen Lieder, die leicht zu lernen sind und ohne Noten oder Textblätter auskommen. Durch das wiederholte Singen en"
+  },
+  {
+    "titel": "DIE TOTEN HOSEN - Zusatzshow",
+    "datum": "17. Jul 2026",
+    "datum_raw": "2026-07-17T17:30+0200",
+    "ort": "RheinEnergieStadion, Aachener Straße 999",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/die-toten-hosen-zusatzshow-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Kavaliersstart für die „Opelgang“:    Über eine halbe Million Fans sichern sich zum Vorverkaufsstart Tickets für    „Trink Aus! Wir Müssen Gehen“ - Tour 2026    Zusatzkonzerte in Köln, München, Nohfelden und Esch/A"
   }
 ]
