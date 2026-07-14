@@ -5532,6 +5532,43 @@
     "fetched": "2026-05-05T21:11:09.371903"
   },
   {
+    "id": "357fa53ec3aa",
+    "title": "POL-GM: Einbrecher hatten es auf Metall abgesehen",
+    "summary": "Gummersbach/Wiehl (ots) - Im Zeitraum Freitag (10. Juli) bis Montag verschafften sich Unbekannte Zugang zu einem Firmengelände in der Hagener Straße in Gummersbach-Dümmlinghausen. Anschließend gelangten sie in eine Produktionshalle, wo die ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6314124",
+    "published": "Tue, 14 Jul 2026 10:26:51 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach",
+      "wiehl"
+    ],
+    "fetched": "2026-07-14T09:14:34.438912"
+  },
+  {
+    "id": "dbb4a203d9e1",
+    "title": "POL-GM: Unfall im Einmündungsbereich",
+    "summary": "Wiehl (ots) - Bei einem Verkehrsunfall in Oberwiehl wurde am Montag (13. Juli) ein Kind verletzt. Das 10-jährige Mädchen aus Wiehl war gegen 14:30 Uhr mit ihrem Mountainbike auf dem Gehweg an der Derschlager Straße aus Richtung Oberwiehler ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6314122",
+    "published": "Tue, 14 Jul 2026 10:25:35 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-07-14T09:14:34.438956"
+  },
+  {
+    "id": "dc1ae007431c",
+    "title": "POL-GM: Motorradfahrer bei Verkehrsunfall verletzt",
+    "summary": "Gummersbach (ots) - Am Montag (13. Juli) wollte ein 37-jähriger Gummersbacher gegen 22:20 Uhr mit seinem Dacia von der Dieringhauser Straße nach links auf den Parkstreifen vor dem Dieringhauser Bahnhof abbiegen. Dabei kam es zum Zusammenstoß mit ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6314118",
+    "published": "Tue, 14 Jul 2026 10:24:32 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-07-14T09:14:34.438992"
+  },
+  {
     "id": "c3e6b6ee2a97",
     "title": "Insolvenzen in Solingen und Remscheid: Firmen haben weiter Probleme",
     "summary": "Die Wirtschaftsauskunftei Creditreform hat in der Region rund um die Großstädte Solingen, Remscheid und Leverkusen 180 Insolvenzen im ersten Halbjahr ermittelt. Das ist ein ordentlicher Sprung nach oben, der viele Mitarbeiter und Familien in der Region hart trifft.",
@@ -20558,6 +20595,18 @@
       "wipperfuerth"
     ],
     "fetched": "2026-07-06T09:08:36.396790"
+  },
+  {
+    "id": "df8bc662900a",
+    "title": "Geführte Fahrradtour mit Stadtführung in Wipperfürth",
+    "summary": "Am 19.07.2026 laden wir Sie herzlich zu einer geführten Fahrradtour durch Wipperfürth ein",
+    "link": "https://tourismus.wipperfuerth.de/service-navigation/termine/details/5597.html",
+    "published": "Fri, 03 Jul 2026 07:33:02 +0200",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-07-14T09:14:24.595136"
   },
   {
     "id": "3eb5dafe58ba",
