@@ -2072,6 +2072,30 @@
     "fetched": "2026-05-06T16:22:29.319344"
   },
   {
+    "id": "31633a2dc470",
+    "title": "Sicherheit bei Großveranstaltungen: Stadt Wermelskirchen hält an Zufahrtssperren fest",
+    "summary": "Der Vorschlag vom WiW-Vorsitzenden André Frowein, die Zufahrtssperren etwa für die Herbstkirmes zu erneuern, sorgt jetzt für Diskussionen.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/sicherheit-bei-grossveranstaltungen-stadt-wermelskirchen-haelt-an-zufahrtssperren-fest-XCZJBXJQKVH63MEJQ4TOHS4ZKI.html",
+    "published": "Wed, 15 Jul 2026 14:34:28 +0200",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-07-15T14:04:01.619754"
+  },
+  {
+    "id": "b9c524bc513c",
+    "title": "Fünf Jahre nach der Flut in Solingen: „Das Wasser stand mir bis zum Bauch“",
+    "summary": "Bei der Flutkatastrophe 2021 wurden auch zwei Senioreneinrichtungen in Unterburg überschwemmt. Natalie Sichelschmidt arbeitete damals an der Eschbachstraße. Das hat sie während des Hochwassers und in den Tagen danach erlebt.",
+    "link": "https://www.rga.de/lokales/solingen/fuenf-jahre-nach-der-flut-in-solingen-das-wasser-stand-mir-bis-zum-bauch-BW7UXHIH75A4BF5UAESNC7H6G4.html",
+    "published": "Wed, 15 Jul 2026 14:06:07 +0200",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-07-15T14:04:01.619797"
+  },
+  {
     "id": "2388c1849304",
     "title": "„Man wird fast überfahren“ – Mit dem Rad in die Otto-Hahn-Schulen",
     "summary": "Morgens spielen sich an den Otto-Hahn-Schulen für Fahrradfahrer heikle Situationen ab. Lehrer und Schüler sprechen von „abenteuerlichen Szenen“ oder „Kamikaze“. Zwar wurden die Stellplätze mit viel Geld aufgewertet, aber für die Wege zur Schule gibt es keine gute, sichere Verkehrsführung. Hier zeigt sich, dass die Elterntaxis auch an den weiterführenden Schulen ein großes Problem sind.",
@@ -2130,6 +2154,42 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-07-15T11:43:54.542198"
+  },
+  {
+    "id": "3d89db912338",
+    "title": "Fünf Jahre nach dem Hochwasser: FWG wirft Stadt Versäumnisse vor",
+    "summary": "Genau vor fünf Jahren verursachte das Hochwasserereignis mit dem vorangegangenen Starkregen auch in Bergisch Gladbach schwere Schäden. Zu einer vollständigen Aufklärung der Ursachen gegenüber den betroffenen Bürgerinnen und Bürger ist es seitdem nie gekommen. Darauf drängt die FWG nun zum wiederholten Mal. Wir veröffentlichen einen Beitrag der FWG Bereits 2023 hatte die FWG einen Antrag [&#8230;]",
+    "link": "https://in-gl.de/2026/07/15/fuenf-jahre-nach-dem-hochwasser-fwg-wirft-stadt-versaeumnisse-vor/",
+    "published": "Wed, 15 Jul 2026 06:58:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-07-15T14:03:43.682604"
+  },
+  {
+    "id": "90003ab102b9",
+    "title": "SPD und Grüne warnen vor einem „Kaputtsparen“",
+    "summary": "SPD und Grüne begrüßen die Spar- und Reformbemühungen des Bürgermeisters. Gleichzeitig warnen sie aber davor, die „Fehler der Vergangenheit“ zu wiederholen und nennen Bereiche, in denen nicht gespart werden dürfe. Die Stadt könne ihr Defizit nicht aus eigener Kraft überwinden, die Kommunen seien auf eine strukturelle Förderung des Landes angewiesen.",
+    "link": "https://in-gl.de/2026/07/15/spd-und-gruene-warnen-vor-einem-kaputtsparen/",
+    "published": "Wed, 15 Jul 2026 06:32:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-07-15T14:03:43.682691"
+  },
+  {
+    "id": "242ceefad34c",
+    "title": "FHDW baut Hochwasserschutz-System für die Strunde aus",
+    "summary": "Vor fünf Jahren wurde vor allem das Ahrtal, aber auch Bergisch Gladbach von einem der größten Unwetter Deutschlands getroffen. Studierende der Wirtschaftsinformatik an der FHDW entwickelten ein Frühwarnsystem für gefährliche Pegelstände an der Strunde. Jetzt hat eine neue Gruppe der FHDW das System mit verschiedenen KI-Modellen weiterentwickelt.",
+    "link": "https://in-gl.de/2026/07/15/fhdw-baut-hochwasserschutz-system-fuer-die-strunde-aus/",
+    "published": "Wed, 15 Jul 2026 06:31:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-07-15T14:03:43.682750"
   },
   {
     "id": "efae271ce512",
@@ -18087,6 +18147,30 @@
     "fetched": "2026-05-05T21:10:26.249074"
   },
   {
+    "id": "fa219da52a53",
+    "title": "Wie wir in Konflikten wieder „runterkommen“",
+    "summary": "Angriff, Flucht oder Erstarrung: Was tun, wenn unser Körper mit einem Überlebensprogramm reagiert, obwohl es eigentlich nur darum geht, dass der Partner mal wieder den Müll nicht rausgebracht hat? Susanne Hucklenbroich-Ley von der Evangelischen Beratungsstelle Bensberg erklärt ganz konkret, was in Konfliktsituationen in uns passiert – und wie wir wieder ins Denken und Handeln kommen können.",
+    "link": "https://in-gl.de/2026/07/14/wie-wir-in-konflikten-wieder-runterkommen/",
+    "published": "Mon, 13 Jul 2026 22:39:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-07-15T14:03:43.682973"
+  },
+  {
+    "id": "8e0559867aa1",
+    "title": "Sprechstunde: Wie Kinder im Sommer sicher Sport treiben",
+    "summary": "Seit Wochen sind die Temperaturen hoch, teilweise über 30 Grad. Viele Eltern fragen sich: Sollte mein Kind bei dieser Hitze draußen Sport machen, oder ist das gefährlich? Die gute Nachricht vorweg: Bewegung im Sommer ist möglich und gesund, wenn ein paar einfache Regeln beachtet werden. Welche das sind, erklärt Kinder- und Jugendärztin Dr. med Uta Römer in dieser Sprechstunde.",
+    "link": "https://in-gl.de/2026/07/14/sprechstunde-wie-kinder-im-sommer-sicher-sport-treiben/",
+    "published": "Mon, 13 Jul 2026 22:25:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-07-15T14:03:43.683019"
+  },
+  {
     "id": "f48f8aa4744d",
     "title": "Ein „Herz für große Flächen“: Maike Krallinger  soll Zanders in die Zukunft führen",
     "summary": "Nach dem kurzen Antritt des ersten Geschäftsführers bekommt die Zanders-Entwicklungsgesellschaft eine neue Chefin: Maike Krallinger ist in Bergisch Gladbach aufgewachsen und hat vielfältige Erfahrungen in der Immobilienwirtschaft gesammelt. Die Raumplanerin und Immobilienökonomin startet mit einigen Vorschusslorbeeren und dennoch betont nüchtern in die für Bergisch Gladbach so wichtige Aufgabe.",
@@ -18253,6 +18337,18 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-07-13T12:15:26.703967"
+  },
+  {
+    "id": "95566f21508a",
+    "title": "SV Refrath sucht Trainer für Jugendmannschaften",
+    "summary": "Der SV Refrath / Frankenforst verstärkt sein Trainerteam zur kommenden Saison. Die neuen Stellen sind teils noch offen. Der Verein wünscht sich vor allem engagierte Menschen, die Spaß am Sport haben und diesen auch vermitteln wollen.",
+    "link": "https://in-gl.de/2026/07/13/sv-refrath-sucht-trainer-fuer-jugendmannschaften/",
+    "published": "Mon, 13 Jul 2026 05:46:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-07-15T14:03:43.683247"
   },
   {
     "id": "c5c42db0e1be",
