@@ -1739,6 +1739,55 @@
     "fetched": "2026-05-05T21:23:25.225267"
   },
   {
+    "id": "bfe7218783f6",
+    "title": "POL-GM: Drei beteiligte Autos bei Auffahrunfall",
+    "summary": "Gummersbach (ots) - Drei Autos waren bei einem Auffahrunfall in Gummersbach am Dienstagmorgen (14. Juli) beteiligt. Eine 56-Jährige aus Gummersbach war gegen 8:50 Uhr mit ihrem VW auf der Westtangente in Richtung Wiehl unterwegs. Im ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6314936",
+    "published": "Wed, 15 Jul 2026 10:50:06 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach",
+      "wiehl"
+    ],
+    "fetched": "2026-07-15T09:20:10.521345"
+  },
+  {
+    "id": "f2f27d2a63e9",
+    "title": "POL-GM: Einbrecher machen keine Beute",
+    "summary": "Gummersbach (ots) - Am Dienstag (14. Juli, 2:07 Uhr) sind vier Unbekannte in eine Firma in der Robert-Bosch-Straße in Windhagen eingebrochen. Die Kriminellen schlugen das Fenster einer Lagerhalle ein und gelangten so in die Räumlichkeiten. Auf ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6314935",
+    "published": "Wed, 15 Jul 2026 10:50:03 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-07-15T09:20:10.521388"
+  },
+  {
+    "id": "e4d49f1e9179",
+    "title": "POL-GM: Diebe auf Schrottplatz unterwegs",
+    "summary": "Waldbröl (ots) - In der Nacht von Montag auf Dienstag (13./14. Juli) sind Unbekannte auf einen Schrottplatz in der Adolf-Kolping-Straße in Waldbröl eingedrungen, indem sie das Kettenschloss des Eingangstores aufbrachen. Die Kriminellen stahlen ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6314934",
+    "published": "Wed, 15 Jul 2026 10:50:00 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-07-15T09:20:10.521419"
+  },
+  {
+    "id": "c9a8beb573fb",
+    "title": "Landtagswahl 2027: Cayan Yildiz tritt für die Grünen in Remscheid und Radevormwald an",
+    "summary": "Parteifreunde in Remscheid und Radevormwald haben festgelegt, wer für sie bei den Landtagswahlen in den beiden Städten antreten wird. Sie setzen auf einen jungen Politiker. Das ist er.",
+    "link": "https://www.rga.de/lokales/remscheid/landtagswahl-2027-dieser-kandidat-tritt-fuer-die-gruenen-in-remscheid-und-radevormwald-an-HBW55ONP5RFBZCKOXQD7EJOXQI.html",
+    "published": "Wed, 15 Jul 2026 10:02:47 +0200",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-07-15T09:19:23.694022"
+  },
+  {
     "id": "f0aa5d7e2359",
     "title": "Wiehl: Sprengversuch scheitert – Täter fliehen zum dritten Mal",
     "summary": "Sprengversuch in Wiehl: Unbekannte scheitern zum dritten Mal an einem Bankautomaten in der Oberwiehler Straße – erneut ohne Beute.",
@@ -1746,7 +1795,9 @@
     "published": "Wed, 15 Jul 2026 05:23:51 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "wiehl"
+      "wiehl",
+      "gummersbach",
+      "bergneustadt"
     ],
     "fetched": "2026-07-15T06:25:05.744369"
   },

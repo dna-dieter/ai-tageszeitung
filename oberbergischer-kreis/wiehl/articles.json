@@ -24,6 +24,19 @@
     "fetched": "2026-06-24T09:49:34.488522"
   },
   {
+    "id": "bfe7218783f6",
+    "title": "POL-GM: Drei beteiligte Autos bei Auffahrunfall",
+    "summary": "Gummersbach (ots) - Drei Autos waren bei einem Auffahrunfall in Gummersbach am Dienstagmorgen (14. Juli) beteiligt. Eine 56-Jährige aus Gummersbach war gegen 8:50 Uhr mit ihrem VW auf der Westtangente in Richtung Wiehl unterwegs. Im ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6314936",
+    "published": "Wed, 15 Jul 2026 10:50:06 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach",
+      "wiehl"
+    ],
+    "fetched": "2026-07-15T09:20:10.521345"
+  },
+  {
     "id": "f0aa5d7e2359",
     "title": "Wiehl: Sprengversuch scheitert – Täter fliehen zum dritten Mal",
     "summary": "Sprengversuch in Wiehl: Unbekannte scheitern zum dritten Mal an einem Bankautomaten in der Oberwiehler Straße – erneut ohne Beute.",
@@ -31,7 +44,9 @@
     "published": "Wed, 15 Jul 2026 05:23:51 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "wiehl"
+      "wiehl",
+      "gummersbach",
+      "bergneustadt"
     ],
     "fetched": "2026-07-15T06:25:05.744369"
   },
