@@ -134,7 +134,7 @@
     "datum": "16. Jul 2026",
     "datum_raw": "2026-07-16T19:30+0200",
     "ort": "Kulturraum 405 e.V., Venloer Straße 405",
-    "preis": "ab 0 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/open-stage-im-kulturraum-405-114/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Wenn du schon immer wusstest, dass du auf die Bühne gehörst, dann ist genau jetzt deine Chance. Pack dein Instrument ein und Bühne frei für dich bei der Open Stage im Kulturraum 405!!! 🎙🎶🎸"
@@ -178,16 +178,6 @@
     "link": "https://rausgegangen.de/events/vocal-vibes-koln-das-groe-popchor-konzert-2/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Einlass: 19:00 Uhr unbestuhlt  Mit dabei sind folgende Chöre:  DaCapo Chor Chor der TH Köln Der Chor der Donnerstags probt Büdchenpop Klangfang  Veranstalter: Gastro-Event GmbH / GLORIA Fotocredit: Nils Mathias"
-  },
-  {
-    "titel": "Groove Cologne - Concert & Jam-Session",
-    "datum": "16. Jul 2026",
-    "datum_raw": "2026-07-16T21:00+0200",
-    "ort": "Jameson Pub Cologne, Friesenstr 30 - 40",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/groove-cologne-concert-jam-session-8/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Live-Concert and Jam-Session! Opening concert of our house-band, afterwards the stage will be open to jam. Bring your instrument or use ours and lets rock into the night! Everybody and every style is welcome!!! Our equip"
   },
   {
     "titel": "PARIS MURDER MYSTERY |  MAKK Open-Air",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/akustikgitarrenkonzert-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Akustikgitarrenkonzert im motoki-Wohnzimmer Während des Körnerstraßenfests am 18. Juli gibt's bei uns wunderschöne Klänge aus der Akustikgitarre, liebevoll gespielt von Julian.   Schwingt euch rüber ins motoki und s"
+  },
+  {
+    "titel": "20 Jahre DOMSTüRMER – „Das Jubiläumsding“ Open Air",
+    "datum": "18. Jul 2026",
+    "datum_raw": "2026-07-18T16:30+0200",
+    "ort": "Eltzhof Das Kulturgut, St. Sebastianusstr. 10",
+    "preis": "ab 34 €",
+    "link": "https://rausgegangen.de/events/20-jahre-domsturmer-das-jubilaumsding-open-air-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "20 Jahre DOMSTüRMER.„Das Jubiläumsding“ wird am 18. Juli 2026 als Open Air im Eltzhof in Köln-Porz gefeiert. Seit 2006 stehen die DOMSTüRMER für kölsche Musik, spontanes Entertainment und intensive Live-Momente. Ü"
   }
 ]
