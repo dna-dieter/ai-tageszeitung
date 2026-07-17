@@ -70,16 +70,6 @@
     "teaser": "Auf der Hörspielwiese 2026 erlebst du spannende Hörstücke und Live-Acts mitten im Grünen, perfekt für alle, die Geschichten lieber hören als sehen. Das Festival bringt verschiedenste Formate und Themen zusammen – vom Kri"
   },
   {
-    "titel": "DIE TOTEN HOSEN - Zusatzshow",
-    "datum": "17. Jul 2026",
-    "datum_raw": "2026-07-17T17:30+0200",
-    "ort": "RheinEnergieStadion, Aachener Straße 999",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/die-toten-hosen-zusatzshow-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Kavaliersstart für die „Opelgang“:    Über eine halbe Million Fans sichern sich zum Vorverkaufsstart Tickets für    „Trink Aus! Wir Müssen Gehen“ - Tour 2026    Zusatzkonzerte in Köln, München, Nohfelden und Esch/A"
-  },
-  {
     "titel": "Westbahnhof pres. THE FUNKY CHICKEN CLUB – The Revival | Disco & House Open Air",
     "datum": "17. Jul 2026",
     "datum_raw": "2026-07-17T18:00+0200",
@@ -214,7 +204,7 @@
     "datum": "17. Jul 2026",
     "datum_raw": "2026-07-17T20:00+0200",
     "ort": "King Georg  Köln, Sudermanstraße 2",
-    "preis": "ab 18 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/tovte-3/",
     "quelle": "Rausgegangen Köln",
     "teaser": "\"Mit raffinierten Arrangements und energiegeladenen Rhythmen lassen die fünf Kölner MusikerInnen ihr Publikum genauso leicht andächtig zuhören wie ausgelassen tanzen. Tovte, das sind: Tobias Gubesch (Klarinette), Nat"
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/the-snuts-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Spätestens als The Snuts aus dem schottischen West Lothian sich 2021 ein regelrechtes Chart-Battle mit Weltstar Demi Lovato lieferten, wurden sie in ganz Großbritannien zu absoluten Underdog-Helden. Das Resultat des eng"
+  },
+  {
+    "titel": "The Snuts",
+    "datum": "18. Jul 2026",
+    "datum_raw": "2026-07-18T19:00+0200",
+    "ort": "Luxor, Luxemburger Straße 40",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/the-snuts-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) buchen reguläre Tickets. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte."
   }
 ]
