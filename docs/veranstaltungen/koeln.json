@@ -20,16 +20,6 @@
     "teaser": "Die Körnerstraße verwandelt sich in ein entspanntes Wohnzimmer unter freiem Himmel mit Essen, kleinen Läden und guter Nachbarschaft✨"
   },
   {
-    "titel": "XL Offline Rooftop Hangout 🌇🎶 | Live Handpan & Loop with Arachai | Monkey Bar",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T12:00+0200",
-    "ort": "Monkey Bar, 25hours Hotel Köln The Circle, Im Klapperhof 22-24",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/xl-offline-rooftop-hangout-live-handpan-loop-with-arachai-mo-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Join The Offline Club at the Monkey Bar (the rooftop bar of the 25hours Hotel) for a vibey Saturday afternoon of relaxation, live music and connection 💛​This is your chance to enjoy the most unique rooftop in Cologne... "
-  },
-  {
     "titel": "PULZ. Day & Night Sommerfest",
     "datum": "18. Jul 2026",
     "datum_raw": "2026-07-18T13:00+0200",
@@ -130,16 +120,6 @@
     "teaser": "Jeden Samstag mischen wechselnde DJs Latin House, House und versteckte Perlen im Open Air Bogen des CBE. Dazu gibt’s entspannten Lunch, Drinks und Wein zum Teilen – perfekt, um entspannt in den Abend zu starten oder die "
   },
   {
-    "titel": "Akustikgitarrenkonzert",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T16:00+0200",
-    "ort": "motoki, Stammstr. 32 - 34",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/akustikgitarrenkonzert-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Akustikgitarrenkonzert im motoki-Wohnzimmer Während des Körnerstraßenfests am 18. Juli gibt's bei uns wunderschöne Klänge aus der Akustikgitarre, liebevoll gespielt von Julian.   Schwingt euch rüber ins motoki und s"
-  },
-  {
     "titel": "20 Jahre DOMSTüRMER – „Das Jubiläumsding“ Open Air",
     "datum": "18. Jul 2026",
     "datum_raw": "2026-07-18T16:30+0200",
@@ -194,7 +174,7 @@
     "datum": "18. Jul 2026",
     "datum_raw": "2026-07-18T18:30+0200",
     "ort": "Café Herzhäuschen, Mathilde-Herz-Weg 32",
-    "preis": "ab 0 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/read-write-show-lesung-und-musikacts-von-jungen-menschen-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Hier findest du junge Stimmen, die mit Prosa, Lyrik und Songs ihre Gedanken offen teilen und zum Nachdenken einladen. Read.Write.Show. schafft Raum für ehrlichen Austausch und zeigt, wie vielfältig Wortkunst sein kann 👀"
@@ -388,6 +368,26 @@
     "link": "https://rausgegangen.de/events/workshop-social-night-fur-paare-alleinstehende-tanzen-verbin-125/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Es geht um neue Kontakte und ein neues Hobby, das deine Weltsicht verändern und den Kontakt zu Menschen viel einfacher machen kann. Durch das Tanzen verbinden sich Menschen und bleiben präsent.Meine Aufgabe als Worksho"
+  },
+  {
+    "titel": "MUSIK IM BÜDCHEN - PULSATIVE Neo Brass Kollektiv",
+    "datum": "19. Jul 2026",
+    "datum_raw": "2026-07-19T19:00+0200",
+    "ort": "Büdchen Casablanca, Sülzburgstraße 164",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/musik-im-budchen-pulsative-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "🎺 Sonntag, 19.07. | 19 UhrPULSATIVE bringt das Casablanca zum Beben: Neo-Brass mit Pauken und Trompeten und ordentlich Druck – laut, wild und tanzbar.Die perfekte Einstimmung, bevor das WM-Finale über die Leinwand flimm"
+  },
+  {
+    "titel": "Psychedelic Light & Sound",
+    "datum": "19. Jul 2026",
+    "datum_raw": "2026-07-19T19:00+0200",
+    "ort": "Klangkino, Hansaring 61",
+    "preis": "ab 55 €",
+    "link": "https://rausgegangen.de/events/psychedelic-light-sound-32/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "intensiv, transformativ, trippyDie Psychedelic Light & Sound Journey verbindet eines der ältesten Instrumente der Erde mit den neusten Erkenntnissen und Technologien aus der Forschung. Mit dem Einsatz des Gongs in Kombi"
   },
   {
     "titel": "PLAY! Open Air – Bootshaus Köln",
