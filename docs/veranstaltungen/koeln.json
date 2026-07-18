@@ -1,363 +1,73 @@
 [
   {
-    "titel": "Rosenhöfe Ehrenfeld Open House 18-19 Juli",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T12:00+0200",
-    "ort": "Rosenhöfe, Venloer Straße 193",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/rosenhofe-ehrenfeld-open-house-18-19-juli-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "In den Rosenhöfen entsteht ein Kulturquartier, das Kunst, Musik und Unternehmergeist locker verbindet. Beim Open House kannst du ganz entspannt reinschauen, dich austauschen und entdecken, was hier künftig wachsen will –"
-  },
-  {
-    "titel": "Körnerstraßenfest",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T12:00+0200",
-    "ort": "Körnerstraße, Körnerstraße",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/kornerstraenfest-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die Körnerstraße verwandelt sich in ein entspanntes Wohnzimmer unter freiem Himmel mit Essen, kleinen Läden und guter Nachbarschaft✨"
-  },
-  {
-    "titel": "PULZ. Day & Night Sommerfest",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T13:00+0200",
-    "ort": "Garagen Club, Oskar-Jäger-Straße 179",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/pulz-day-night-sommerfest-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim PULZ. Sommerfest gibt’s von Disco House bis Trance alles, was dich den ganzen Tag über tanzen lässt. Dank freiem Eintritt kannst du nicht nur feiern, sondern mit deinem Spendenguthaben auch lokale Projekte unterstüt"
-  },
-  {
-    "titel": "Talk \"Weibliche Lust im Patriarchat\"",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T13:00+0200",
-    "ort": "entzück dich selbst, Zeughausstraße 10",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/talk-weibliche-lust-im-patriarchat-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Fast 4500 Menschen mit Vulva haben beim Projekt „Entzück Dich Selbst“ über ihre Lust und Masturbation gesprochen – fernab der üblichen Klischees und Normen. Im Talk geht’s darum, wie patriarchale Vorstellungen unser Selb"
-  },
-  {
-    "titel": "Rundgang der KHM 2026: Ausstellungen, Performances, Filmprogramme, Lesungen und Konzerte",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T14:00+0200",
-    "ort": "Hauptgebäude der Kunsthochschule für Medien Köln (KHM), Heumarkt 14",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/rundgang-der-khm-2026-ausstellungen-performances-filmprogram-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim KHM-Rundgang 2026 treffen sich Kunst, Musik, Film und Performance – live und kostenlos. Fünf Tage lang kannst du 150 aktuelle Arbeiten entdecken und die Kunsthochschule für Medien Köln kennenlernen. Komm vorbei! ✨"
-  },
-  {
-    "titel": "HEAT.WAV2000 & FRIENDS - DAYPARTY",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T14:00+0200",
-    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/heatwav2000-friends-dayparty-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "heat.wav2000 und Freund:innen legen am 18.07. House, Bounce und Trance nonstop auf, genau richtig, um den Sommer in entspannten Stunden zu feiern. Wer früh da ist, bekommt sogar einen Spritz aufs Haus – für den perfekten"
-  },
-  {
-    "titel": "Closing Party vom \"entzück dich selbst\" Store mit Retourensale",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T14:00+0200",
-    "ort": "entzück dich selbst, Zeughausstraße 10",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/closing-party-vom-entzuck-dich-selbst-store-mit-retourensale-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Der „entzück dich selbst“ Store verabschiedet sich mit einer entspannten Party und einem Retourensale, der echten Kissenreiter:innen ein Zuhause bot. Hier findest du textile Innovationen, die Selbstliebe neu denken, dazu"
-  },
-  {
-    "titel": "RADICAL PRIDE KÖLN",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T14:00+0200",
-    "ort": "Ottmar-Pohl-Platz, Köln Kalk, Ottmar-Pohl-Platz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/radical-pride-koln-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei der Radical Pride Köln erwarten dich starke Stimmen, kreative Performances und ein buntes Programm, das queere Vielfalt feiert – barrierefrei und ohne Kommerz. Es gibt vieles zum Mitmachen, leckeres Essen und eine At"
-  },
-  {
     "titel": "Art(e)facts Festival 2026",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T14:00+0200",
-    "ort": "PARK Café, Köln",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/artefacts-festival-1/",
+    "datum": "19. Jul 2026",
+    "datum_raw": "2026-07-19T08:00+0200",
+    "ort": "ParkCafé, Auenweg",
+    "preis": "ab 15 €",
+    "link": "https://rausgegangen.de/events/artefacts-festival-2026-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Beim Art(e)facts Festival 2026 trifft Kunst auf non-stop House und elektronische Sounds, die von internationalen und lokalen Künstler:innen kommen. Tagsüber entdeckst du Installationen, Filme und Skate-Action, während na"
   },
   {
-    "titel": "Chargesheimer JAZZ BAR - Körnerstr.-Fest!",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T14:00+0200",
-    "ort": "Atelier Colonia, Körnerstraße 37",
+    "titel": "Flohmarkt an der alten Feuerwache",
+    "datum": "19. Jul 2026",
+    "datum_raw": "2026-07-19T10:00+0200",
+    "ort": "Alte Feuerwache Köln, Melchiorstraße 3",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/chargesheimer-jazz-bar-0/",
+    "link": "https://rausgegangen.de/events/flohmarkt-6348/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "It's Körnerstrassenfest ! Open Chargesheimer Jazz Bar mit Live Jazz bz SPIELGEMEINSCHAFT ! Welcome "
+    "teaser": "Hier findest du alles von Vintage-Schätzen bis Buchraritäten, verpackt in entspannte Plauderrunden mit Nachbar:innen und Familien. Nachhaltigkeit trifft auf bunte Stände, die nach neuem Leben suchen. Wenn du auch Sachen "
   },
   {
-    "titel": "local.cologne Hangout vol. 2 bei Frohnatur Coffeeshop",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T15:00+0200",
-    "ort": "Frohnatur Coffeeshop, Neusser Straße 34",
+    "titel": "Cologne Drag Brunch",
+    "datum": "19. Jul 2026",
+    "datum_raw": "2026-07-19T10:30+0200",
+    "ort": "TörtchenTörtchen, Apostelnstraße 19",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/cologne-drag-brunch-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der Cologne Drag Brunch verbindet entspanntes Schlemmen mit einer Show, die auf Humor und Glamour setzt. Zwischen Brunch und Varieté erwartet dich eine bunte Mischung aus Queer-Performance, Tanz und Comedy, die für gute "
+  },
+  {
+    "titel": "Hörspielwiese 2026",
+    "datum": "19. Jul 2026",
+    "datum_raw": "2026-07-19T10:45+0200",
+    "ort": "Stadtgarten, Venloer Straße 40",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/localcologne-hangout-vol-2-bei-frohnatur-coffeeshop-0/",
+    "link": "https://rausgegangen.de/events/horspielwiese-2026-2/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Beim zweiten local.cologne Hangout erwarten dich entspannte Momente mit Specialty Coffee, Naturwein und coolen Locals aus Köln. Das „holidays at the coffeeshop“-Feeling lädt zum Genießen und Entdecken regionaler Marken u"
+    "teaser": "Auf der Hörspielwiese 2026 erlebst du spannende Hörstücke und Live-Acts mitten im Grünen, perfekt für alle, die Geschichten lieber hören als sehen. Das Festival bringt verschiedenste Formate und Themen zusammen – vom Kri"
   },
   {
-    "titel": "Korken & Klub Day Affair",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T16:00+0200",
-    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
+    "titel": "Flohmarkt Nippes",
+    "datum": "19. Jul 2026",
+    "datum_raw": "2026-07-19T11:00+0200",
+    "ort": "Wilhelmplatz, undefined",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/korken-klub-day-affair-0/",
+    "link": "https://rausgegangen.de/events/flohmarkt-nippes-22/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Jeden Samstag mischen wechselnde DJs Latin House, House und versteckte Perlen im Open Air Bogen des CBE. Dazu gibt’s entspannten Lunch, Drinks und Wein zum Teilen – perfekt, um entspannt in den Abend zu starten oder die "
+    "teaser": "Wer suchet, der findet - so gehts auch auf dem Wilhelmplatz zu, wenn sich Trödel Liebhaber:innen durch die vielen kleinen Schätze stöbern! Zwischen Klamotten, Büchern und tollen antiken Stücken ist noch nie jemand mit le"
   },
   {
-    "titel": "20 Jahre DOMSTüRMER – „Das Jubiläumsding“ Open Air",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T16:30+0200",
-    "ort": "Eltzhof Das Kulturgut, St. Sebastianusstr. 10",
-    "preis": "ab 34 €",
-    "link": "https://rausgegangen.de/events/20-jahre-domsturmer-das-jubilaumsding-open-air-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "20 Jahre DOMSTüRMER.„Das Jubiläumsding“ wird am 18. Juli 2026 als Open Air im Eltzhof in Köln-Porz gefeiert. Seit 2006 stehen die DOMSTüRMER für kölsche Musik, spontanes Entertainment und intensive Live-Momente. Ü"
-  },
-  {
-    "titel": "DIE TOTEN HOSEN",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T17:00+0200",
-    "ort": "RheinEnergieStadion, Aachener Straße 999",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/die-toten-hosen-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Nach drei Jahren Pause gehen die Toten Hosen wieder auf eine große Tournee und kündigen Stadion- und Open-Air-Konzerte an    Im fünften Jahrzehnt nach unserer Gründung verspüren wir eine Lust und einen Hunger auf Kon"
-  },
-  {
-    "titel": "Live Music & Drink",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T17:00+0200",
-    "ort": "Cafe No 5, Barbarossaplatz 5",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/live-music-drink-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Let Me Introduce Sessions #2Neue Musik entdecken, besondere Drinks genießen und einen entspannten Abend mit der Kölner Musikszene verbringen.Bei den Let Me Introduce Sessions präsentieren wir aufstrebende Artists in ge"
-  },
-  {
-    "titel": "Can't help falling in love with you",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T18:00+0200",
-    "ort": "Rochuskirche, Rochusstraße 100",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/cant-help-falling-in-love-with-you-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Der Jazzchor der Uni Köln bringt mit „Can't help falling in love with you“ eine bunte Mischung aus Jazz und Pop auf die Bühne. Unter Leitung von Julia Reckendrees erwarten dich 90 Minuten voller stimmlicher Leidenschaft "
-  },
-  {
-    "titel": "F.I.N.K. unplugged",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T18:00+0200",
-    "ort": "Akazienweg 200, 50829 Köln, Akazienweg 200",
+    "titel": "Rheinuferfest an der Hohenzollernbrücke",
+    "datum": "19. Jul 2026",
+    "datum_raw": "2026-07-19T11:00+0200",
+    "ort": "Rheinpromenade, Konrad-Adenauer-Ufer",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/fink-unplugged-2/",
+    "link": "https://rausgegangen.de/events/rheinuferfest-an-der-hohenzollernbrucke-3/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "🎶🌿 Liebe Musikfreund*innen, aufgepasst! 🌿🎶Der Gemeinschaftsgarten Finkennest verwandelt sich wieder in eine stimmungsvolle Open-Air-Bühne! Freut euch auf einen besonderen Sommerabend voller handgemachter Musik, guter Ge"
+    "teaser": "Am Rheinuferfest in Köln findest du handgemachte Schätze von Naturseifen bis Schmuck in entspannter Atmosphäre am Fluss. Bei sommerlichem Wetter sorgt das Angebot aus Kölsch, Flammlachs und Rievkooche für genussvolle Pau"
   },
   {
-    "titel": "Read. Write. Show. - Lesung und Musikacts von jungen Menschen",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T18:30+0200",
-    "ort": "Café Herzhäuschen, Mathilde-Herz-Weg 32",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/read-write-show-lesung-und-musikacts-von-jungen-menschen-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier findest du junge Stimmen, die mit Prosa, Lyrik und Songs ihre Gedanken offen teilen und zum Nachdenken einladen. Read.Write.Show. schafft Raum für ehrlichen Austausch und zeigt, wie vielfältig Wortkunst sein kann 👀"
-  },
-  {
-    "titel": "Viva con Agua Wohnzimmerkonzert mit Mara & Ijaz am 18.07.26 in Köln",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T18:30+0200",
-    "ort": "VcA Wohnzimmerkonzerte Köln, Köln",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/viva-con-agua-wohnzimmerkonzert-mit-mara-ijaz-am-180726-in-k-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Introspektiver Akustik-Pop trifft auf gefühlvollen Deutsch-Pop - in gemütlichster Atmosphäre in Bickendorfs wahrscheinlich schönstem Wohnzimmer.Ab 18:30 Uhr sind die Türen geöffnet für einen wunderbar musikalische"
-  },
-  {
-    "titel": "Viva con Agua Wohnzimmerkonzert mit Mara & Ilyaz",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T18:30+0200",
-    "ort": "Geheimer Ort, Köln",
+    "titel": "Silent Book Club Köln",
+    "datum": "19. Jul 2026",
+    "datum_raw": "2026-07-19T13:00+0200",
+    "ort": "Cafe Goldmund, Glasstr., 2, Goldmund GmbH",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/viva-con-agua-wohnzimmerkonzert-mit-mara-ilyaz-0/",
+    "link": "https://rausgegangen.de/events/silent-book-club-126/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Introspektiver Akustik-Pop trifft auf gefühlvollen Deutsch-Pop - in gemütlichster Atmosphäre in Bickendorfs wahrscheinlich schönstem Wohnzimmer.Ab 18:30 Uhr sind die Türen geöffnet für einen wunderbar musikalische"
-  },
-  {
-    "titel": "LOWTRACK | NO ONE WILL STOP US RIGHT NOW | ON TOUR 2026",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T18:45+0200",
-    "ort": "artheater Köln, Ehrenfeldgürtel 127",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/lowtrack-no-one-will-stop-us-right-now-on-tour-2026-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Don't get lost in scary times — stay connected — hold the line — dass ist die Botschaft, die LOWTRACK euch von der Bühne übermittelt.Das energiegeladene Kölner Sextett mit Jam-Band Tradition zelebriert funky, bluesy, "
-  },
-  {
-    "titel": "THE SNUTS",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T19:00+0200",
-    "ort": "Luxor, Luxemburger Straße 40",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/the-snuts-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Spätestens als The Snuts aus dem schottischen West Lothian sich 2021 ein regelrechtes Chart-Battle mit Weltstar Demi Lovato lieferten, wurden sie in ganz Großbritannien zu absoluten Underdog-Helden. Das Resultat des eng"
-  },
-  {
-    "titel": "The Snuts",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T19:00+0200",
-    "ort": "Luxor, Luxemburger Straße 40",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/the-snuts-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) buchen reguläre Tickets. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte."
-  },
-  {
-    "titel": "The Snuts",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T19:00+0200",
-    "ort": "Luxor, Luxemburger Straße 40",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/the-snuts-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) buchen reguläre Tickets. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte."
-  },
-  {
-    "titel": "LOMA REQS // SOMMERKONZERT",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T19:30+0200",
-    "ort": "Kulturbunker Köln-Mülheim, Berliner Straße 20",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/loma-reqs-sommerkonzert-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Open-Air-KonzertLOMA REQS ist eine gewagte Kollision aus moderner kurdischer Poesie, elektronischer Musik, Improvisation, Rap und traditionellem Gesang. Von ironischen feministischen Hochzeitsliedern bis hin zu schonungs"
-  },
-  {
-    "titel": "Backstage on Stage - Mit Herban Fog, Playsi, Aster und Café Şamata",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T20:00+0200",
-    "ort": "Gloria Köln, Apostelnstraße 11",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/backstage-on-stage-mit-herban-fog-aster-und-cafe-samata-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hinter den Kulissen des GLORIA arbeiten sie, diesmal stehen sie selber im Rampenlicht: Herban Fog, Aster und Café Şamata zeigen mit ihrem Sound, was im Backstage wirklich steckt. Freu dich auf echte Band-Power und Afters"
-  },
-  {
-    "titel": "Guitarras del sur: Carlos Gabriel Klein & Juan Schroeder",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T20:00+0200",
-    "ort": "KONSTANTIN cologne, Berrenrather Straße 377",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/guitarras-del-sur-carlos-gabriel-klein-juan-schroeder-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Guitarras del sur: Carlos Gabriel Klein & Juan Schroeder Samstag, 18.7. ab 20 Uhr Konstantin Cologne Berrenrather Str. 377, 50937 Köln-Sülz Eintritt frei, Spende erbeten.  Zwei Komponisten/Singer-Songwriter zeigen ihre"
-  },
-  {
-    "titel": "Les Agamemnonz + Chien Fer",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T20:00+0200",
-    "ort": "Bauwagenplatz \"Wem gehört die Welt\", Krefelder Straße 107",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/les-agamemnonz-chien-fer-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Les AgamemnonzHigh End Surf from Rouen. Their last show here was pure magic.On tour with their new Record    Chien Fer  amplified banjo. distorted traditionals - current lyrics.  First time here!   https://lesagamemnonz."
-  },
-  {
-    "titel": "Romeo Santos & Prince Royce",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T20:00+0200",
-    "ort": "LANXESS arena, Willy-Brandt-Platz 3",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/romeo-santos-prince-royce-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "EINZIGER TERMIN IN DEUTSCHLANDRomeo Santos und Prince Royce kommen nach Deutschland und kündigen ihr exklusives Konzert in Köln auf ihrer Europa-Tour „Mejor Tarde Que Nunca” an.Europa · Juni – August 2026Zwei der weltw"
-  },
-  {
-    "titel": "Ziryab Quartett - Flamenco meets Orient",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T20:00+0200",
-    "ort": "MACHADO, Severinsmühlengasse 1",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/ziryab-quartett-flamenco-meets-orient-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "SAMSTAG/SÁBADO/SATURDAY 18.07.2026  20:00h FLAMENCO/LEVANTE/ ARABIC FUSIONZIRYAB PROJEKT Centro MACHADO Severinsmühlengasse 1 (Close to Chlodwigplatz) 50678 Cologne Toca El timbre/ Ring the bell at/ Klingel bei Deutsch"
-  },
-  {
-    "titel": "KitKatClub - Kinks of Berlin",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T21:00+0200",
-    "ort": "Filmhaus Köln, Maybachstraße 111",
-    "preis": "ab 8 €",
-    "link": "https://rausgegangen.de/events/kitkatclub-kinks-of-berlin-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Der Film begleitet ungewöhnliche Berliner Nächte und zeigt, wie Menschen mit unterschiedlichen Sehnsüchten und Identitäten Freiheit erleben und Scham ablegen. Von Drag bis BDSM – hier gibt es intime Einblicke in eine Wel"
-  },
-  {
-    "titel": "Cologne Nightlife Tour: 4 Locations, Shots & Club Entry",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T21:15+0200",
-    "ort": "Zülpicher Pl., Zülpicher Pl., 50674 Köln, Germany",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/cologne-nightlife-tour-4-locations-shots-club-entry-67/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Experience Cologne nightlife the easy way with a fun group and a local host. After check-in at the meeting point, the night starts with a welcome shot. Then you’ll visit 4 lively nightlife locations, a mix of popular bar"
-  },
-  {
-    "titel": "DER TEUFEL TRÄGT PRADA 2",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T21:30+0200",
-    "ort": "Open Air Kino MAKK, An d. Rechtschule 7",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/der-teufel-tragt-prada-2-926/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Miranda Priestly meldet sich zurück und bringt mit gewohnt scharfem Witz und Glanz die Welt des Runway Magazins auf die Leinwand. Freu dich auf eine Mischung aus Drama und Comedy, die Mode und Intrigen neu verbindet 😌"
-  },
-  {
-    "titel": "RADIO SABOR | JULI",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T23:00+0200",
-    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/radio-sabor-juli-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei RADIO SABOR geht’s durch die bunte Welt von Reggaeton, Salsa und mehr – mit Sounds aus ganz Lateinamerika, vom harten Beat bis zur romantischen Melodie. Hier triffst du auf ein musikalisches Fest voller Vielfalt und "
-  },
-  {
-    "titel": "Cologne Urban Beats",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T23:00+0200",
-    "ort": "H26, Zülpicher Straße 26",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/cologne-urban-beats-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Cologne Urban Beats verbindet Baile Funk, Amapiano, Afro und Latin Sounds in einer Nacht, die sich mehr nach Hausparty als Club anfühlt. Mit offener Atmosphäre und Respekt wird hier ein Raum geschaffen, in dem du locker "
-  },
-  {
-    "titel": "KeineSorgen goes Artheater",
-    "datum": "18. Jul 2026",
-    "datum_raw": "2026-07-18T23:30+0200",
-    "ort": "artheater Köln, Ehrenfeldgürtel 127",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/keinesorgen-goes-artheater-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "KeineSorgen dreht in Köln richtig auf und bringt lokale Talente zusammen, die den Mainfloor mit Energie füllen. Ob live oder am Hardhouse-Café, hier findest du knackigen Sound und ein Sommerfeeling an der Theke, das dich"
+    "teaser": "Sonntagnachmittag entspannt bei Kaffee oder Tee in Gesellschaft anderer Lesefreund:innen verbringen – ganz ohne Programmstress. Hier findest du Raum für deine Lieblingsgeschichten und kannst zum Schluss bei einem lockere"
   },
   {
     "titel": "Workshop & Social Night für Paare & Alleinstehende,  Tanzen verbindet",
@@ -390,13 +100,303 @@
     "teaser": "intensiv, transformativ, trippyDie Psychedelic Light & Sound Journey verbindet eines der ältesten Instrumente der Erde mit den neusten Erkenntnissen und Technologien aus der Forschung. Mit dem Einsatz des Gongs in Kombi"
   },
   {
-    "titel": "PLAY! Open Air – Bootshaus Köln",
-    "datum": "1. Aug 2026",
-    "datum_raw": "2026-08-01T14:00+0200",
-    "ort": "Bootshaus, Auenweg 173",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/play-open-air-sudbrucke-koln-0/",
+    "titel": "Finale. Live. Unter freiem Himmel.",
+    "datum": "19. Jul 2026",
+    "datum_raw": "2026-07-19T21:00+0200",
+    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
+    "preis": "ab 12 €",
+    "link": "https://rausgegangen.de/events/wm-finale-live-unter-freiem-himmel-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Drum & Bass aus aller Welt trifft Kölner Szene auf dem Kessel-Floor mit zwei Areas und acht Stunden voller Basspower. Das OPEN AIR verbindet internationale Top-Acts mit lokalen Helden, alles in entspannter Festivalatmosp"
+    "teaser": "Auf einer kleinen Rheinauhafeninsel geht’s live um den Titel – mit Stadionfeeling unter offenem Himmel. Die erste Halbzeit flimmert auf einer riesigen LED-Wand, für den zweiten Teil gibt’s Kinoatmosphäre vom Feinsten. Pe"
+  },
+  {
+    "titel": "Baby got Business How to start Social Media Crash Kurs",
+    "datum": "20. Jul 2026",
+    "datum_raw": "2026-07-20T09:30+0200",
+    "ort": "Christophstraße 15-17, Christophstraße 15-17, 50670 Köln, Deutschland",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/baby-got-business-how-to-start-social-media-crash-kurs-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der Social Media Crash Kurs ist ein intensiver Ein-Tages-Workshop für alle, die lernen möchten, wie Social Media wirklich funktioniert.Ob eigenes Business, Personal Brand oder Corporate Influencer - hier lernst du, wie"
+  },
+  {
+    "titel": "Deep State Session",
+    "datum": "20. Jul 2026",
+    "datum_raw": "2026-07-20T19:00+0200",
+    "ort": "Klangkino, Hansaring 61",
+    "preis": "ab 20 €",
+    "link": "https://rausgegangen.de/events/deep-state-session-8/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "einsteigerfreundliche Klangmeditation Erlebe jede Woche neue Achtsamkeits- bzw Türöffnerübungen, die dich tiefer ins Erleben bringen. Diese Klangreise ist höchst intuitiv und jedes mal anders. Wechselnde Technik-Komb"
+  },
+  {
+    "titel": "SEAL - Celebrating 30+ years of the classic albums I & II",
+    "datum": "20. Jul 2026",
+    "datum_raw": "2026-07-20T19:00+0200",
+    "ort": "Tanzbrunnen Köln, Rheinparkweg 1",
+    "preis": "ab 83 €",
+    "link": "https://rausgegangen.de/events/seal-celebrating-30-years-of-the-classic-albums-i-ii-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Er ist eine der markantesten Stimmen aller Zeiten: Seal hat im Laufe seiner Karriere einen unauslöschlichen Eindruck in der Pop-, R&B-, Soul- und Dance-Musik hinterlassen. Nun kommt der vielfach aus-gezeichnete Sänger "
+  },
+  {
+    "titel": "NICA live: Felix Hauptmann SEEN",
+    "datum": "20. Jul 2026",
+    "datum_raw": "2026-07-20T20:00+0200",
+    "ort": "GREEN ROOM, Venloer Straße 40",
+    "preis": "ab 8 €",
+    "link": "https://rausgegangen.de/events/nica-live-felix-hauptmann-seen-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Mit SEEN bringt der Kölner Pianist, Komponist und NICA artist Felix Hauptmann Musiker zusammen, deren künstlerische Handschriften ebenso eigenständig wie offen für kollektive Prozesse sind. Ausgangspunkt des Projekts"
+  },
+  {
+    "titel": "SommerKöln: RAKETEN ERNA  - Gören Blues aus Berlin",
+    "datum": "21. Jul 2026",
+    "datum_raw": "2026-07-21T17:00+0200",
+    "ort": "Bürgerzentrum Nippes, Mauenheimer Straße 92",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/raketen-erna-goren-blues-aus-berlin-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "DAS Kinderrock-Trio aus Berlin-Kreuzberg, bringt schon seit vielen Jahren Farbe und alle möglichen Genres in die Kinderzimmer und Autoradios der Eltern. Aber nicht nur das. Raketen Erna haben sich mit zahlreichen Festiv"
+  },
+  {
+    "titel": "Cosmic Gong Bath",
+    "datum": "21. Jul 2026",
+    "datum_raw": "2026-07-21T20:00+0200",
+    "ort": "Klangkino, Hansaring 61",
+    "preis": "ab 20 €",
+    "link": "https://rausgegangen.de/events/cosmic-gong-bath-10/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "einsteigerfreundliches Gongbad „Mystisch, kosmisch, durchdringend\"  Erlebe den Gong in seiner reinsten Form. In diesem Format werden die 3 großen Hauptgongs des Klangkinos ganz sanft in höhere Schwingungen gebracht.   F"
+  },
+  {
+    "titel": "Jazzorama Sommergarten - Ursula Wienken Trio + Jamsession",
+    "datum": "21. Jul 2026",
+    "datum_raw": "2026-07-21T20:00+0200",
+    "ort": "artheater Köln, Ehrenfeldgürtel 127",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/jazzorama-sommergarten-ursula-wienken-trio-jamsession-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das Ursula Wienken Trio vereint frische und vertraute Jazzstücke mit feinem Zusammenspiel und entspanntem Flair. Gemeinsam mit zwei Top-Musiker:innen aus Spanien entsteht ein offener Sound, der Lust auf Jams und Sommer m"
+  },
+  {
+    "titel": "KURS: KOTO/ NAOKO KIKUCHI (SAWAI UNIVERSAL)",
+    "datum": "22. Jul 2026",
+    "datum_raw": "2026-07-22T13:00+0200",
+    "ort": "Tenri Japanisch-Deutsche Kulturwerkstatt e.V., Kartäuserwall 20",
+    "preis": "ab 150 €",
+    "link": "https://rausgegangen.de/events/kurs-koto-naoko-kikuchi-sawai-universal-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das 13-saitige Instrument Koto begeistert seit dem 17. Jahrhundert Musikliebhaber und lässt fernöstliche Melodien tief im Herzen erklingen.Naoko Kikuchi, eine der renommiertesten Kotospielerinnen Europas, vermittelt de"
+  },
+  {
+    "titel": "The Harvard Krokodiloes - Harvards älteste A-Cappella Gruppe",
+    "datum": "22. Jul 2026",
+    "datum_raw": "2026-07-22T16:00+0200",
+    "ort": "Volksbühne am Rudolfplatz, Aachener Straße 5",
+    "preis": "ab 38 €",
+    "link": "https://rausgegangen.de/events/the-harvard-krokodiloes-harvards-alteste-a-cappella-gruppe-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Harvard Krokodiloes sind die älteste A-cappella-Gesangsgruppe der Harvard University und wurden 1946 gegründet. In den vergangenen 76 Jahren haben die Kroks die Musik des Great American Songbook und vielweitere Tit"
+  },
+  {
+    "titel": "Music Pub Quiz in der Braustelle",
+    "datum": "22. Jul 2026",
+    "datum_raw": "2026-07-22T19:00+0200",
+    "ort": "Braustelle, Christianstraße 2",
+    "preis": "ab 6 €",
+    "link": "https://rausgegangen.de/events/music-pub-quiz-in-der-braustelle-9/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Konzertfeeling, Quizspaß und frisches Brauerei-Bier – beim Musikquiz wird Livemusik mit kniffligen Fragen gemixt. Team schnappen, mitraten und los geht's🎲"
+  },
+  {
+    "titel": "Can't help falling in love with you",
+    "datum": "22. Jul 2026",
+    "datum_raw": "2026-07-22T20:00+0200",
+    "ort": "Aula Uni Köln, Albertus-Magnus-Platz",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/cant-help-falling-in-love-with-you-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der Jazzchor der Uni Köln bringt mit „Can't help falling in love with you“ eine bunte Mischung aus Jazz und Pop auf die Bühne. Unter Leitung von Julia Reckendrees erwarten dich 90 Minuten voller stimmlicher Leidenschaft "
+  },
+  {
+    "titel": "LA DELIO VALDEZ",
+    "datum": "22. Jul 2026",
+    "datum_raw": "2026-07-22T20:00+0200",
+    "ort": "Stadtgarten, Venloer Straße 40",
+    "preis": "ab 35 €",
+    "link": "https://rausgegangen.de/events/la-delio-valdez-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "La Delio Valdez is a cumbia orchestra from Buenos Aires,  Argentina. Since 2009, they have been developing a unique  artistic proposal, as they consider cumbia a common musical  language, shared by the entire Latin Ameri"
+  },
+  {
+    "titel": "Prime Time Sound Journey",
+    "datum": "22. Jul 2026",
+    "datum_raw": "2026-07-22T20:15+0200",
+    "ort": "Klangkino, Hansaring 61",
+    "preis": "ab 30 €",
+    "link": "https://rausgegangen.de/events/prime-time-sound-journey-11/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Entertainment meets Meditation Begib dich auf eine Reise durch die Welten der Frequenzen und lass dich von ihren Wirkungen auf dich überraschen und faszinieren. Hier ist die Fusion von Entertainment, Meditation und tief"
+  },
+  {
+    "titel": "Der Chor vom Roten Stern",
+    "datum": "23. Jul 2026",
+    "datum_raw": "2026-07-23T18:00+0200",
+    "ort": "Miteinander NEUmarkt, Neumarkt",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/der-chor-vom-roten-stern-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der Chor des selbstorganisierten Sport- und Kulturverein Roter Stern Köln e.V. läd ein zum Zuhören, Mitsingen und Mitmachen! Auch in diesem Sommer bieten wir ein vielfältiges Freizeitprogramm auf dem Neumarkt. Neben "
+  },
+  {
+    "titel": "Blue Lotus Tee-Zeremonie",
+    "datum": "23. Jul 2026",
+    "datum_raw": "2026-07-23T19:00+0200",
+    "ort": "Klangkino, Hansaring 61",
+    "preis": "ab 45 €",
+    "link": "https://rausgegangen.de/events/blue-lotus-tee-zeremonie-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Erlebe ein achtsames Ritual im Klangkino, getragen von den sanften Frequenzen ausgewählter Instrumente. Kakao und Blue Lotus öffnen auf ihre eigene Weise einen Raum für Entspannung, Herzverbindung und innere Weite.In "
+  },
+  {
+    "titel": "Twisted Sister",
+    "datum": "23. Jul 2026",
+    "datum_raw": "2026-07-23T19:00+0200",
+    "ort": "LANXESS arena, Willy-Brandt-Platz 3",
+    "preis": "ab 80 €",
+    "link": "https://rausgegangen.de/events/twisted-sister-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "EINZIGER TERMIN IN DEUTSCHLANDLegendäre Metal-Ikonen Twisted Sister kündigen exklusives Deutschland-Konzert zum 50- jährigen Jubiläum anNew York, NY – Twisted Sister sind zurück – größer, lauter und kompromissloser"
+  },
+  {
+    "titel": "COZY WOHNZIMMERKONZERT - MIT CALLMEMAIKE",
+    "datum": "23. Jul 2026",
+    "datum_raw": "2026-07-23T19:00+0200",
+    "ort": "Adeli, Venloer Straße 19",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/wohnzimmerkonzert-mit-callmemaike-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Schnapp dir deine Friends und macht euch einen gemütlichen Abend im Café Adeli mit einer Acoustic Jam Session von @callmemaike und Gitarrist Olli.Lauscht den Beiden einfach nur, trinkt & esst entspannt was dabei ODER s"
+  },
+  {
+    "titel": "ListeningLounge",
+    "datum": "23. Jul 2026",
+    "datum_raw": "2026-07-23T19:30+0200",
+    "ort": "Hallmackenreuther, Brüsseler Platz 9",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/listeninglounge-6/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "In der ListeningLounge gibt’s Alben ohne Unterbrechungen – von Sade bis Rosalía, Klassiker und Geheimtipps. Nach einer kurzen Einleitung kannst du voll ins Hörerlebnis eintauchen und dich danach mit anderen austauschen "
+  },
+  {
+    "titel": "GLU",
+    "datum": "23. Jul 2026",
+    "datum_raw": "2026-07-23T20:00+0200",
+    "ort": "MTC - LIVE❌MUSIC❌CLUB, Zülpicher Str. 10",
+    "preis": "ab 25 €",
+    "link": "https://rausgegangen.de/events/glu-1217/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Esoteric melodies collide with moody beats and a dynamic flow in GLU; the solo  project from Michael Shuman (Queens Of The Stone Age, Mini Mansions). With  no major concentration of genre aside from melding them, Shuman "
+  },
+  {
+    "titel": "Soul Café",
+    "datum": "24. Jul 2026",
+    "datum_raw": "2026-07-24T14:00+0200",
+    "ort": "Café GLORIA, Apostelnstraße 11",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/soul-cafe-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Einlass: 14 Uhr teilbestuhlt  Musik, Kaffee und ein entspannter Nachmittag: Gemeinsam mit dem Northern Soul Club Cologne lädt das Café GLORIA zum ,,Soul Café\" ein. Von 14 bis 20 Uhr stehen feinster Soul und ausgewähl"
+  },
+  {
+    "titel": "Der singende Mediapark – Das Mitsingding von Constantin Gold & friends | SOMMER KÖLN",
+    "datum": "24. Jul 2026",
+    "datum_raw": "2026-07-24T18:00+0200",
+    "ort": "Mediapark, Im Mediapark 7",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/der-singende-mediapark-das-mitsingding-von-constantin-gold-f-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Konstantin Gold und sein Team bringen beim singenden Mediapark bekannte Songs und Live-Karaoke-Überraschungen auf die Bühne. Ganz egal, ob du gern mal lauter mitträllerst oder lieber leise mitsummst – hier darf jede Pers"
+  },
+  {
+    "titel": "Odonische Freitagsbühne",
+    "datum": "24. Jul 2026",
+    "datum_raw": "2026-07-24T18:00+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/odonische-freitagsbuhne-76/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge entdecken Spaß macht "
+  },
+  {
+    "titel": "ChurchChill",
+    "datum": "24. Jul 2026",
+    "datum_raw": "2026-07-24T19:00+0200",
+    "ort": "Auferstehungskirche Sürth, Auferstehungskirchweg 7",
+    "preis": "ab 25 €",
+    "link": "https://rausgegangen.de/events/churchchill-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Ein Abend zwischen Ruhe, Musik und HumorChurchChill ist kein klassisches Konzert, keine Lesung, keine Comedyshow und schon gar keine Party. Es ist ein Abend, der bewusst dazwischen liegt.Musik trägt durch den Abend. Liv"
+  },
+  {
+    "titel": "Cozy Concert",
+    "datum": "24. Jul 2026",
+    "datum_raw": "2026-07-24T20:00+0200",
+    "ort": "Brillen Thomas Nachhaltige Augenoptik, Venloer Str. 24",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/cozy-concert-29/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Cozy Concerts sind eine Geheimkonzertreihe in gemütlicher Atmosphäre* – in Wohnzimmern, Buchläden, Ateliers, Gärten und anderen besonderen Orten. Intim, authentisch, entspannend. 80–90 % der Musiker*innen bei den"
+  },
+  {
+    "titel": "ImKlang Session",
+    "datum": "24. Jul 2026",
+    "datum_raw": "2026-07-24T20:00+0200",
+    "ort": "Musik- und Kunstschule ImKlang, Waltherstraße 80",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/imklang-session-26/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": " IMKLANG SESSION  Offene Jam Session · jeden Freitag · ab 20:00 Uhr Die IMKLANG Session ist eine wöchentliche, offene Jam Session für Musikerinnen und Musiker aller Erfahrungsstufen – und für alle, die Musik gerne liv"
+  },
+  {
+    "titel": "katyadotcom",
+    "datum": "24. Jul 2026",
+    "datum_raw": "2026-07-24T20:00+0200",
+    "ort": "die wohngemeinschaft, Richard-Wagner-Straße 39",
+    "preis": "ab 19 €",
+    "link": "https://rausgegangen.de/events/katyadotcom-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Katyadotcom mixt verträumten Indie mit klarem Pop, dabei bringt Katja Frießnegg ehrliche Texte zu Selbstakzeptanz und inneren Konflikten ins Spiel. Ihr roher, verletzlicher Sound zwischen UK- und Scandi-Pop lädt dich auf"
+  },
+  {
+    "titel": "White Noise Gong Bath",
+    "datum": "24. Jul 2026",
+    "datum_raw": "2026-07-24T20:00+0200",
+    "ort": "Klangkino, Hansaring 61",
+    "preis": "ab 40 €",
+    "link": "https://rausgegangen.de/events/white-noise-gong-bath-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der Gong in seiner mächtigsten Form  Transformative und auch stark emotionale Erlebnisse sind möglich. Hier kann sich vieles lösen. Du musst nichts tun, außer dich dem Klang hinzugeben. Finde zu innerer Stille und tau"
+  },
+  {
+    "titel": "DJ Zoni",
+    "datum": "24. Jul 2026",
+    "datum_raw": "2026-07-24T21:00+0200",
+    "ort": "Asimmetric Bar, Venloer Straße 196",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/dj-zoni-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Zoni serviert Jerk Chicken Sounds von Dancehall, Roots bis Rub-a-dub alles in einem dubbigen Gewürzmantel und mit teils elektronisch pikanter Schärfe"
+  },
+  {
+    "titel": "Cologne Nightlife Tour: 4 Locations, Shots & Club Entry",
+    "datum": "24. Jul 2026",
+    "datum_raw": "2026-07-24T21:15+0200",
+    "ort": "Zülpicher Pl., Zülpicher Pl., 50674 Köln, Germany",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/cologne-nightlife-tour-4-locations-shots-club-entry-86/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Experience Cologne nightlife the easy way with a fun group and a local host. After check-in at the meeting point, the night starts with a welcome shot. Then you’ll visit 4 lively nightlife locations, a mix of popular bar"
   }
 ]
