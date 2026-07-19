@@ -30,16 +30,6 @@
     "teaser": "Der Cologne Drag Brunch verbindet entspanntes Schlemmen mit einer Show, die auf Humor und Glamour setzt. Zwischen Brunch und Varieté erwartet dich eine bunte Mischung aus Queer-Performance, Tanz und Comedy, die für gute "
   },
   {
-    "titel": "Hörspielwiese 2026",
-    "datum": "19. Jul 2026",
-    "datum_raw": "2026-07-19T10:45+0200",
-    "ort": "Stadtgarten, Venloer Straße 40",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/horspielwiese-2026-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Auf der Hörspielwiese 2026 erlebst du spannende Hörstücke und Live-Acts mitten im Grünen, perfekt für alle, die Geschichten lieber hören als sehen. Das Festival bringt verschiedenste Formate und Themen zusammen – vom Kri"
-  },
-  {
     "titel": "Flohmarkt Nippes",
     "datum": "19. Jul 2026",
     "datum_raw": "2026-07-19T11:00+0200",
@@ -94,7 +84,7 @@
     "datum": "19. Jul 2026",
     "datum_raw": "2026-07-19T18:00+0200",
     "ort": "room for emotions, Am Maarhof",
-    "preis": "ab 55 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/klangreise-mit-kakaozeremonie-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Kakaozeremonie & Klangreise – Eine Auszeit für Herz, Körper und SeeleManchmal braucht es nur einen Moment des Innehaltens, um wieder bei sich selbst anzukommen.Ich lade dich herzlich zu einer besonderen Reise ein, bei "
@@ -318,6 +308,16 @@
     "link": "https://rausgegangen.de/events/glu-1217/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Esoteric melodies collide with moody beats and a dynamic flow in GLU; the solo  project from Michael Shuman (Queens Of The Stone Age, Mini Mansions). With  no major concentration of genre aside from melding them, Shuman "
+  },
+  {
+    "titel": "Gourmet Festival",
+    "datum": "24. Jul 2026",
+    "datum_raw": "2026-07-24T13:00+0200",
+    "ort": "Platz vor dem Schokoladenmuseum Köln, Am Schokoladenmuseum 1a, 50678 Köln, Am Schokoladenmuseum 1A",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/gourmet-festival-26/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das Gourmet Festival  lädt wieder ein in Krefeld, Köln und Düsseldorf zu schlemmen, zu schlendern und zu genießen. Auch in diesem Jahr erwartet die Besucher:innen erneut eine Vielzahl exklusiver kulinarischer Genüsse"
   },
   {
     "titel": "Soul Café",
