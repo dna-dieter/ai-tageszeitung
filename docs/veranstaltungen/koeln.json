@@ -64,10 +64,20 @@
     "datum": "19. Jul 2026",
     "datum_raw": "2026-07-19T13:00+0200",
     "ort": "Cafe Goldmund, Glasstr., 2, Goldmund GmbH",
-    "preis": "ab 0 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/silent-book-club-126/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Sonntagnachmittag entspannt bei Kaffee oder Tee in Gesellschaft anderer Lesefreund:innen verbringen – ganz ohne Programmstress. Hier findest du Raum für deine Lieblingsgeschichten und kannst zum Schluss bei einem lockere"
+  },
+  {
+    "titel": "KONZERT // 19.7.26 // 17:00h // Sanjurjo-Sued-Sinesi – Trío Argentino // Kompositionen, Tangos & moderne Folklore",
+    "datum": "19. Jul 2026",
+    "datum_raw": "2026-07-19T17:00+0200",
+    "ort": "O-Ton.koeln : Konzerte, Recording, Proben, Events, Kyllstraße 7a",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/konzert-19726-1700h-sanjurjo-sued-sinesi-trio-argentino-komp-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "An diesem frühen Sonntagabend (und noch vor dem WM-Finale) kommen im o-ton drei große argentinische Musiker zusammen, um Interpretationen des argentinischen Repertoires und Originalkompositionen zu präsentieren. Wieder"
   },
   {
     "titel": "Workshop & Social Night für Paare & Alleinstehende,  Tanzen verbindet",
@@ -78,6 +88,16 @@
     "link": "https://rausgegangen.de/events/workshop-social-night-fur-paare-alleinstehende-tanzen-verbin-125/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Es geht um neue Kontakte und ein neues Hobby, das deine Weltsicht verändern und den Kontakt zu Menschen viel einfacher machen kann. Durch das Tanzen verbinden sich Menschen und bleiben präsent.Meine Aufgabe als Worksho"
+  },
+  {
+    "titel": "Klangreise mit Kakaozeremonie",
+    "datum": "19. Jul 2026",
+    "datum_raw": "2026-07-19T18:00+0200",
+    "ort": "room for emotions, Am Maarhof",
+    "preis": "ab 55 €",
+    "link": "https://rausgegangen.de/events/klangreise-mit-kakaozeremonie-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Kakaozeremonie & Klangreise – Eine Auszeit für Herz, Körper und SeeleManchmal braucht es nur einen Moment des Innehaltens, um wieder bei sich selbst anzukommen.Ich lade dich herzlich zu einer besonderen Reise ein, bei "
   },
   {
     "titel": "MUSIK IM BÜDCHEN - PULSATIVE Neo Brass Kollektiv",
@@ -378,25 +398,5 @@
     "link": "https://rausgegangen.de/events/white-noise-gong-bath-4/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Der Gong in seiner mächtigsten Form  Transformative und auch stark emotionale Erlebnisse sind möglich. Hier kann sich vieles lösen. Du musst nichts tun, außer dich dem Klang hinzugeben. Finde zu innerer Stille und tau"
-  },
-  {
-    "titel": "DJ Zoni",
-    "datum": "24. Jul 2026",
-    "datum_raw": "2026-07-24T21:00+0200",
-    "ort": "Asimmetric Bar, Venloer Straße 196",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/dj-zoni-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zoni serviert Jerk Chicken Sounds von Dancehall, Roots bis Rub-a-dub alles in einem dubbigen Gewürzmantel und mit teils elektronisch pikanter Schärfe"
-  },
-  {
-    "titel": "Cologne Nightlife Tour: 4 Locations, Shots & Club Entry",
-    "datum": "24. Jul 2026",
-    "datum_raw": "2026-07-24T21:15+0200",
-    "ort": "Zülpicher Pl., Zülpicher Pl., 50674 Köln, Germany",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/cologne-nightlife-tour-4-locations-shots-club-entry-86/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Experience Cologne nightlife the easy way with a fun group and a local host. After check-in at the meeting point, the night starts with a welcome shot. Then you’ll visit 4 lively nightlife locations, a mix of popular bar"
   }
 ]
