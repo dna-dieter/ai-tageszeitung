@@ -11869,6 +11869,19 @@
     "fetched": "2026-06-21T06:15:32.373619"
   },
   {
+    "id": "db3673aa2959",
+    "title": "Oberberg: Einbruch in Waldbröl-Rossenbach, Diebstahl von drei Hähnen in Wiedenest und versuchter Aufbruch in Gummersbach",
+    "summary": "Einbruch in eine Bäckerei in Waldbröl-Rossenbach, drei gestohlene Hähne in Wiedenest und ein Fehlschlag in Gummersbach: Die Polizei Oberberg meldet drei getrennte Fälle am 19. Juli 2026 und sucht Zeugen.",
+    "link": "https://www.news-on-tour.de/205992/oberberg-einbruch-waldbroel/",
+    "published": "Sun, 19 Jul 2026 23:12:50 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach",
+      "waldbroel"
+    ],
+    "fetched": "2026-07-20T03:57:29.304766"
+  },
+  {
     "id": "1be60e733805",
     "title": "POL-GM: Kleinkraftradfahrer flüchtet vor der Polizei",
     "summary": "Gummersbach (ots) - Am Samstag (18. Juli, 00:15 Uhr) wollten Polizeibeamte ein mit zwei Personen besetztes Kleinkraftrad kontrollieren, welches ihnen auf der Lindenstockstraße (Höhe der Einmündung \"In der Steinerwiese\") entgegenkam und in ...",
@@ -15365,6 +15378,31 @@
       "wipperfuerth"
     ],
     "fetched": "2026-05-05T21:23:25.225921"
+  },
+  {
+    "id": "5d6eb21164dd",
+    "title": "Sonderprüfung: Noch keine Entlastung für Bürgermeister Mans",
+    "summary": "Im Jahresabschluss 2025 bescheinigen die Prüfer der Stadt einen ordnungsgemäßen Abschluss – stellen aber auch zwei Verstöße fest.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/sonderpruefung-noch-keine-entlastung-fuer-buergermeister-mans-JBNBL3OMHNWQDW3FEGDPG5WPEE.html",
+    "published": "Mon, 20 Jul 2026 04:59:00 +0200",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald",
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-07-20T03:57:31.813639"
+  },
+  {
+    "id": "adc5f76dae1d",
+    "title": "Hückeswagen: Schützenfestkirmes mit stabilen Preisen – Familientag am Montag",
+    "summary": "Während Familien auf ein bezahlbares Vergnügen hoffen und Jugendliche sich mehr Fahrgeschäfte wünschen, setzen die Schausteller auf stabile Preise und gute Atmosphäre.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/hueckeswagen-schuetzenfestkirmes-mit-stabilen-preisen-familientag-am-montag-3VC6OUR3KHFQIJ5DPRA2PIEL5A.html",
+    "published": "Mon, 20 Jul 2026 04:58:00 +0200",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-07-20T03:57:30.799457"
   },
   {
     "id": "33ef13591d34",
