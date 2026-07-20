@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Baby got Business How to start Social Media Crash Kurs",
-    "datum": "20. Jul 2026",
-    "datum_raw": "2026-07-20T09:30+0200",
-    "ort": "Christophstraße 15-17, Christophstraße 15-17, 50670 Köln, Deutschland",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/baby-got-business-how-to-start-social-media-crash-kurs-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Der Social Media Crash Kurs ist ein intensiver Ein-Tages-Workshop für alle, die lernen möchten, wie Social Media wirklich funktioniert.Ob eigenes Business, Personal Brand oder Corporate Influencer - hier lernst du, wie"
-  },
-  {
     "titel": "Kneipenquiz",
     "datum": "20. Jul 2026",
     "datum_raw": "2026-07-20T18:30+0200",
@@ -74,7 +64,7 @@
     "datum": "20. Jul 2026",
     "datum_raw": "2026-07-20T20:00+0200",
     "ort": "Joode Lade, Lindenstraße 62",
-    "preis": "ab 12 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/kolsch-und-comedy-90/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Du hast Lust auf Kölsch und Comedy? Dann bist du bei Kölsch und Comedy genau richtig! Hier kommen regelmäßig Stand-Up Comedians zusammen, um ihre neuen Nummern zu testen. Von Newcomern bis zu etablierten Künstler*innen d"
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/blackout-problems-summer-open-airs-koln-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "BLACKOUT PROBLEMS - Summer 26 Open Airs  Im Sommer 2026 schlagen BLACKOUT PROBLEMS ein neues Kapitel auf: Mit ihren ersten eigenen Open-Air-Shows bringt die Band ihre intensive Live-Energie erstmals unter freiem Himmel. "
+  },
+  {
+    "titel": "Keine Faxxen & Jailbait",
+    "datum": "25. Jul 2026",
+    "datum_raw": "2026-07-25T19:00+0200",
+    "ort": "MTC Live Music Club, Zülpicher Straße 10",
+    "preis": "ab 13 €",
+    "link": "https://rausgegangen.de/events/keine-faxxen-jailbait-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Ihr lieben Leute – hereinspaziert!Die beiden sich innig liebenden Bands Keine Faxxen und Jailbait läuten am 25. Juli die großen Ferien ein!!!Keine Faxxen – gleichermaßen aus Köln und Düsseldorf (sie haben sich trotzde"
   }
 ]
