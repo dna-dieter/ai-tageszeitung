@@ -1,83 +1,23 @@
 [
   {
-    "titel": "Kneipenquiz",
-    "datum": "20. Jul 2026",
-    "datum_raw": "2026-07-20T18:30+0200",
-    "ort": "Ebertplatz, Ebertplatz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/kneipenquiz-383/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Kneipenquiz mischt sich lokales Wissen mit spannenden Themen querbeet, von Leibesübungen bis Stadt, Land, Fluss. Schnapp dir einen Platz, knack knifflige Fragen und unterstütze dabei Kölner Vereine – mitmachen koste"
-  },
-  {
-    "titel": "Klassiker: Manche mögen's heiß // Aperol Kinotag 🧡",
-    "datum": "20. Jul 2026",
-    "datum_raw": "2026-07-20T19:00+0200",
-    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
+    "titel": "Siebdruckworksop für Kinder und Jügendliche",
+    "datum": "21. Jul 2026",
+    "datum_raw": "2026-07-21T14:00+0200",
+    "ort": "Kolbhalle Köln, Leyendeckerstraße 9",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/klassiker-manche-mogens-hei-aperol-kinotag-0/",
+    "link": "https://rausgegangen.de/events/siebdruckworksop-fur-kinder-und-jugendliche-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "„Manche mögen’s heiß“ entführt dich in die Jazzszene Chicagos 1929, wo zwei Musiker auf der Flucht in turbulente Verkleidungen und schräge Liebeswirrungen stolpern. Freu dich auf charmante Verwechslungen und schlauer Hum"
+    "teaser": "Im Siebdruckworkshop für junge Kreative gestaltest du eigene Motive, mischst Farben und kreierst coole Designs auf Textilien oder Papier zum Mitnehmen. Bring deine Lieblingskleidung mit oder nutze die Materialien vor Ort"
   },
   {
-    "titel": "Social Reading Club",
-    "datum": "20. Jul 2026",
-    "datum_raw": "2026-07-20T19:00+0200",
-    "ort": "Volksgarten Köln, Köln",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/social-reading-club-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Social Reading Club triffst du entspannte Leser:innen, die gemeinsam Ruhe und Fokus aufs Buch suchen. Ob mit eigenem Lieblingsbuch oder aus der vor Ort bereitgestellten Kiste, es entsteht eine gemütliche Atmosphäre "
-  },
-  {
-    "titel": "Kritzeln und Klimpern",
-    "datum": "20. Jul 2026",
-    "datum_raw": "2026-07-20T19:00+0200",
-    "ort": "motoki, Stammstr. 32 - 34",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/kritzeln-und-klimpern-66/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Kreativ sein, neue Leute & ein entspannter Abend? Ab ins  motoki-Wohnzimmer in Ehrenfeld 🎨  Ganz egal, ob du Bock hast dich malerisch auszutoben oder mit anderen zu musizieren – hier kannst du in der Gruppe kreativ werde"
-  },
-  {
-    "titel": "Deep State Session",
-    "datum": "20. Jul 2026",
-    "datum_raw": "2026-07-20T19:00+0200",
-    "ort": "Klangkino, Hansaring 61",
-    "preis": "ab 20 €",
-    "link": "https://rausgegangen.de/events/deep-state-session-8/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "einsteigerfreundliche Klangmeditation Erlebe jede Woche neue Achtsamkeits- bzw Türöffnerübungen, die dich tiefer ins Erleben bringen. Diese Klangreise ist höchst intuitiv und jedes mal anders. Wechselnde Technik-Komb"
-  },
-  {
-    "titel": "SEAL - Celebrating 30+ years of the classic albums I & II",
-    "datum": "20. Jul 2026",
-    "datum_raw": "2026-07-20T19:00+0200",
-    "ort": "Tanzbrunnen Köln, Rheinparkweg 1",
-    "preis": "ab 83 €",
-    "link": "https://rausgegangen.de/events/seal-celebrating-30-years-of-the-classic-albums-i-ii-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Er ist eine der markantesten Stimmen aller Zeiten: Seal hat im Laufe seiner Karriere einen unauslöschlichen Eindruck in der Pop-, R&B-, Soul- und Dance-Musik hinterlassen. Nun kommt der vielfach aus-gezeichnete Sänger "
-  },
-  {
-    "titel": "Kölsch und Comedy",
-    "datum": "20. Jul 2026",
-    "datum_raw": "2026-07-20T20:00+0200",
-    "ort": "Joode Lade, Lindenstraße 62",
+    "titel": "GAME NIGHT",
+    "datum": "21. Jul 2026",
+    "datum_raw": "2026-07-21T17:00+0200",
+    "ort": "Gloria Köln, Apostelnstraße 11",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kolsch-und-comedy-90/",
+    "link": "https://rausgegangen.de/events/game-night-28/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Du hast Lust auf Kölsch und Comedy? Dann bist du bei Kölsch und Comedy genau richtig! Hier kommen regelmäßig Stand-Up Comedians zusammen, um ihre neuen Nummern zu testen. Von Newcomern bis zu etablierten Künstler*innen d"
-  },
-  {
-    "titel": "NICA live: Felix Hauptmann SEEN",
-    "datum": "20. Jul 2026",
-    "datum_raw": "2026-07-20T20:00+0200",
-    "ort": "GREEN ROOM, Venloer Straße 40",
-    "preis": "ab 8 €",
-    "link": "https://rausgegangen.de/events/nica-live-felix-hauptmann-seen-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Mit SEEN bringt der Kölner Pianist, Komponist und NICA artist Felix Hauptmann Musiker zusammen, deren künstlerische Handschriften ebenso eigenständig wie offen für kollektive Prozesse sind. Ausgangspunkt des Projekts"
+    "teaser": "Hier findest du alles von kleinen Kartenspielen bis zu komplexen Strategiespielen, die du sofort mit neuen Mitspieler:innen ausprobieren kannst. Außerdem kannst du beim Spieletausch dein Regal entrümpeln und tolle neue B"
   },
   {
     "titel": "SommerKöln: RAKETEN ERNA  - Gören Blues aus Berlin",
@@ -90,14 +30,54 @@
     "teaser": "DAS Kinderrock-Trio aus Berlin-Kreuzberg, bringt schon seit vielen Jahren Farbe und alle möglichen Genres in die Kinderzimmer und Autoradios der Eltern. Aber nicht nur das. Raketen Erna haben sich mit zahlreichen Festiv"
   },
   {
-    "titel": "Cosmic Gong Bath",
+    "titel": "Forumtheater „Gemeinsam Haltung zeigen“",
+    "datum": "21. Jul 2026",
+    "datum_raw": "2026-07-21T19:00+0200",
+    "ort": "Bürgerzentrum Nippes, Mauenheimer Straße 92",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/forumtheater-gemeinsam-haltung-zeigen-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das Forumtheater „Gemeinsam Haltung zeigen“ probt Situationen, in denen Diskriminierung Alltag wird, und sucht nach neuen Wegen, dagegen anzugehen. Hier übst du, wie solidarische Reaktionen gelingen und ein respektvolles"
+  },
+  {
+    "titel": "LOVE AT FIRST SLIDE Köln | Power Point Dating by Rausgegangen 💖",
+    "datum": "21. Jul 2026",
+    "datum_raw": "2026-07-21T19:00+0200",
+    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/love-at-first-slide-koln-power-point-dating-by-rausgegangen-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wir bringen mit LOVE AT FIRST SLIDE Dating auf die Bühne: Freund:innen stellen in kurzen Power Point Präsentationen ihre Lieblingssingle vor – charmant, humorvoll und ganz ohne Swipe. Nach den witzigen Pitches kannst du "
+  },
+  {
+    "titel": "Demokratie Dienstage",
+    "datum": "21. Jul 2026",
+    "datum_raw": "2026-07-21T19:30+0200",
+    "ort": "Theater in der Filmdose, Zülpicher Straße 39",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/demokratie-dienstage-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei den Demokratie Dienstagen kommst du ins Gespräch über direkte Mitbestimmung, Bürgerbegehren und wie Demokratie im Alltag wirklich funktioniert. Mit Grüßen von Mehr Demokratie e.V. gibt’s lockere Talks, Quiz und ganz "
+  },
+  {
+    "titel": "Stand Up 221 Sommershow",
     "datum": "21. Jul 2026",
     "datum_raw": "2026-07-21T20:00+0200",
-    "ort": "Klangkino, Hansaring 61",
-    "preis": "ab 20 €",
-    "link": "https://rausgegangen.de/events/cosmic-gong-bath-10/",
+    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/stand-up-221-sommershow-3/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "einsteigerfreundliches Gongbad „Mystisch, kosmisch, durchdringend\"  Erlebe den Gong in seiner reinsten Form. In diesem Format werden die 3 großen Hauptgongs des Klangkinos ganz sanft in höhere Schwingungen gebracht.   F"
+    "teaser": "Die Stand Up 221 Sommershow bringt die besten Comedy-Stimmen aus Köln unter freiem Himmel zusammen. Host Paul Wolter, bekannt aus Nightwash, führt durch einen Abend voller überraschender Gags und frischer Perspektiven au"
+  },
+  {
+    "titel": "Kölner Comedy Open Air",
+    "datum": "21. Jul 2026",
+    "datum_raw": "2026-07-21T20:00+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/doppelpunkt-comedy-open-air-45/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei den Kölner Comedy Open Airs erwartet dich alle zwei Wochen ein Mix aus bekannten Gesichtern und frischen Talenten der deutschsprachigen Szene. Johannes Steuding und Lennard Rosar sorgen mit ihrem charmanten Humor für"
   },
   {
     "titel": "Jazzorama Sommergarten - Ursula Wienken Trio + Jamsession",
@@ -108,6 +88,16 @@
     "link": "https://rausgegangen.de/events/jazzorama-sommergarten-ursula-wienken-trio-jamsession-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Das Ursula Wienken Trio vereint frische und vertraute Jazzstücke mit feinem Zusammenspiel und entspanntem Flair. Gemeinsam mit zwei Top-Musiker:innen aus Spanien entsteht ein offener Sound, der Lust auf Jams und Sommer m"
+  },
+  {
+    "titel": "Cosmic Gong Bath",
+    "datum": "21. Jul 2026",
+    "datum_raw": "2026-07-21T20:00+0200",
+    "ort": "Klangkino, Hansaring 61",
+    "preis": "ab 20 €",
+    "link": "https://rausgegangen.de/events/cosmic-gong-bath-10/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "einsteigerfreundliches Gongbad „Mystisch, kosmisch, durchdringend\"  Erlebe den Gong in seiner reinsten Form. In diesem Format werden die 3 großen Hauptgongs des Klangkinos ganz sanft in höhere Schwingungen gebracht.   F"
   },
   {
     "titel": "KURS: KOTO/ NAOKO KIKUCHI (SAWAI UNIVERSAL)",
@@ -350,26 +340,6 @@
     "teaser": "Hier gibt’s keinen Jury-Stress und keine falschen Töne, sondern einfach 53.000 Songs zum Austoben – von 90s Trash bis RnB. Maxi macht seit Jahren Karaoke-Abende zur Party, bei denen du zum Held:in oder Meme wirst. Zwisch"
   },
   {
-    "titel": "OnlyInvites Open Sesh III",
-    "datum": "25. Jul 2026",
-    "datum_raw": "2026-07-25T14:00+0200",
-    "ort": "Köln, Köln",
-    "preis": "ab 59 €",
-    "link": "https://rausgegangen.de/events/open-sesh-iii-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Open Sesh III ist das Main Event von OnlyInvites und bringt am 25.07.2026 die Community in einer besonderen Location in Köln zusammen. Dich erwarten ein exklusives Ambiente, starke Vibes, hochwertiges Entertainment, gut"
-  },
-  {
-    "titel": "Sommerfest der Domstädter Köln & der KG Kölle bliev Kölle",
-    "datum": "25. Jul 2026",
-    "datum_raw": "2026-07-25T14:11+0200",
-    "ort": "\"Dommizil\" der Domstädter, Oskar-Jäger-Straße 175",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/sommerfest-der-domstadter-koln-der-kg-kolle-bliev-kolle-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die Domstädter Köln e.V. und die KG Kölle bliev Kölle e.V. laden euch herzlich zum großen Sommerfest ein!  📅 Samstag, 25. Juli 2026🕒 Beginn: 14:11 Uhr📍 Dommizil der Domstädter – Oskar-Jäger-Straße 175, Köln 🎶 Mit "
-  },
-  {
     "titel": "Mapping Waidmarkt Event 1",
     "datum": "25. Jul 2026",
     "datum_raw": "2026-07-25T18:00+0200",
@@ -398,5 +368,35 @@
     "link": "https://rausgegangen.de/events/keine-faxxen-jailbait-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Ihr lieben Leute – hereinspaziert!Die beiden sich innig liebenden Bands Keine Faxxen und Jailbait läuten am 25. Juli die großen Ferien ein!!!Keine Faxxen – gleichermaßen aus Köln und Düsseldorf (sie haben sich trotzde"
+  },
+  {
+    "titel": "Tzigan // SOMMERKONZERT",
+    "datum": "25. Jul 2026",
+    "datum_raw": "2026-07-25T19:30+0200",
+    "ort": "Kulturbunker Köln-Mülheim, Berliner Straße 20",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/tzigan-sommerkonzert-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Open-Air-KonzertTzigan, beheimatet in Cordoba, Argentinien, gehört mittlerweile zu den namhaftesten Formationen im Bereich Tango, Jazz und osteuropäischer Musik. Das Trio vereinigt traditionelle Romamelodien mit der No"
+  },
+  {
+    "titel": "Gong & Sound Journey",
+    "datum": "25. Jul 2026",
+    "datum_raw": "2026-07-25T20:00+0200",
+    "ort": "Osho UTA Institut, Venloer Straße 5-7",
+    "preis": "ab 27 €",
+    "link": "https://rausgegangen.de/events/gong-sound-journey-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei dieser Gong & Sound Journey bilden die tiefen, vielschichtigen Klänge des Gongs die Basis der Reise und werden durch verschiedene kleine Klanginstrumente ergänzt, die mit ihren feinen und klaren Tönen den Raum erw"
+  },
+  {
+    "titel": "Hofklänge | SOMMER KÖLN",
+    "datum": "25. Jul 2026",
+    "datum_raw": "2026-07-25T20:00+0200",
+    "ort": "Hochschule für Musik und Tanz Köln, Unter Krahnenbäumen 87",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/hofklange-sommer-koln-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das Programm Hofklänge bietet dir einen vielseitigen Mix von französischem Barock bis Latin-Rock der 70er, präsentiert von wechselnden Ensembles und Künstler:innen. Hier trifft klassische Präzision auf jazzige und weltmu"
   }
 ]
