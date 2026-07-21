@@ -20,16 +20,6 @@
     "teaser": "Hier findest du alles von kleinen Kartenspielen bis zu komplexen Strategiespielen, die du sofort mit neuen Mitspieler:innen ausprobieren kannst. Außerdem kannst du beim Spieletausch dein Regal entrümpeln und tolle neue B"
   },
   {
-    "titel": "SommerKöln: RAKETEN ERNA  - Gören Blues aus Berlin",
-    "datum": "21. Jul 2026",
-    "datum_raw": "2026-07-21T17:00+0200",
-    "ort": "Bürgerzentrum Nippes, Mauenheimer Straße 92",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/raketen-erna-goren-blues-aus-berlin-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "DAS Kinderrock-Trio aus Berlin-Kreuzberg, bringt schon seit vielen Jahren Farbe und alle möglichen Genres in die Kinderzimmer und Autoradios der Eltern. Aber nicht nur das. Raketen Erna haben sich mit zahlreichen Festiv"
-  },
-  {
     "titel": "Forumtheater „Gemeinsam Haltung zeigen“",
     "datum": "21. Jul 2026",
     "datum_raw": "2026-07-21T19:00+0200",
@@ -54,7 +44,7 @@
     "datum": "21. Jul 2026",
     "datum_raw": "2026-07-21T19:30+0200",
     "ort": "Theater in der Filmdose, Zülpicher Straße 39",
-    "preis": "ab 0 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/demokratie-dienstage-2/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Bei den Demokratie Dienstagen kommst du ins Gespräch über direkte Mitbestimmung, Bürgerbegehren und wie Demokratie im Alltag wirklich funktioniert. Mit Grüßen von Mehr Demokratie e.V. gibt’s lockere Talks, Quiz und ganz "
@@ -350,16 +340,6 @@
     "teaser": "Hier gibt’s keinen Jury-Stress und keine falschen Töne, sondern einfach 53.000 Songs zum Austoben – von 90s Trash bis RnB. Maxi macht seit Jahren Karaoke-Abende zur Party, bei denen du zum Held:in oder Meme wirst. Zwisch"
   },
   {
-    "titel": "OnlyInvites Open Sesh III",
-    "datum": "25. Jul 2026",
-    "datum_raw": "2026-07-25T14:00+0200",
-    "ort": "Köln, Köln",
-    "preis": "ab 59 €",
-    "link": "https://rausgegangen.de/events/open-sesh-iii-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Open Sesh III ist das Main Event von OnlyInvites und bringt am 25.07.2026 die Community in einer besonderen Location in Köln zusammen. Dich erwarten ein exklusives Ambiente, starke Vibes, hochwertiges Entertainment, gut"
-  },
-  {
     "titel": "Mapping Waidmarkt Event 1",
     "datum": "25. Jul 2026",
     "datum_raw": "2026-07-25T18:00+0200",
@@ -398,5 +378,25 @@
     "link": "https://rausgegangen.de/events/tzigan-sommerkonzert-2/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Open-Air-KonzertTzigan, beheimatet in Cordoba, Argentinien, gehört mittlerweile zu den namhaftesten Formationen im Bereich Tango, Jazz und osteuropäischer Musik. Das Trio vereinigt traditionelle Romamelodien mit der No"
+  },
+  {
+    "titel": "Gong & Sound Journey",
+    "datum": "25. Jul 2026",
+    "datum_raw": "2026-07-25T20:00+0200",
+    "ort": "Osho UTA Institut, Venloer Straße 5-7",
+    "preis": "ab 27 €",
+    "link": "https://rausgegangen.de/events/gong-sound-journey-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei dieser Gong & Sound Journey bilden die tiefen, vielschichtigen Klänge des Gongs die Basis der Reise und werden durch verschiedene kleine Klanginstrumente ergänzt, die mit ihren feinen und klaren Tönen den Raum erw"
+  },
+  {
+    "titel": "Hofklänge | SOMMER KÖLN",
+    "datum": "25. Jul 2026",
+    "datum_raw": "2026-07-25T20:00+0200",
+    "ort": "Hochschule für Musik und Tanz Köln, Unter Krahnenbäumen 87",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/hofklange-sommer-koln-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das Programm Hofklänge bietet dir einen vielseitigen Mix von französischem Barock bis Latin-Rock der 70er, präsentiert von wechselnden Ensembles und Künstler:innen. Hier trifft klassische Präzision auf jazzige und weltmu"
   }
 ]
