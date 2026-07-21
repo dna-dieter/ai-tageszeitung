@@ -90,16 +90,6 @@
     "teaser": "Das Ursula Wienken Trio vereint frische und vertraute Jazzstücke mit feinem Zusammenspiel und entspanntem Flair. Gemeinsam mit zwei Top-Musiker:innen aus Spanien entsteht ein offener Sound, der Lust auf Jams und Sommer m"
   },
   {
-    "titel": "Cosmic Gong Bath",
-    "datum": "21. Jul 2026",
-    "datum_raw": "2026-07-21T20:00+0200",
-    "ort": "Klangkino, Hansaring 61",
-    "preis": "ab 20 €",
-    "link": "https://rausgegangen.de/events/cosmic-gong-bath-10/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "einsteigerfreundliches Gongbad „Mystisch, kosmisch, durchdringend\"  Erlebe den Gong in seiner reinsten Form. In diesem Format werden die 3 großen Hauptgongs des Klangkinos ganz sanft in höhere Schwingungen gebracht.   F"
-  },
-  {
     "titel": "KURS: KOTO/ NAOKO KIKUCHI (SAWAI UNIVERSAL)",
     "datum": "22. Jul 2026",
     "datum_raw": "2026-07-22T13:00+0200",
@@ -358,6 +348,16 @@
     "link": "https://rausgegangen.de/events/sing-it-out-maxis-karaoke-nacht-7/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Hier gibt’s keinen Jury-Stress und keine falschen Töne, sondern einfach 53.000 Songs zum Austoben – von 90s Trash bis RnB. Maxi macht seit Jahren Karaoke-Abende zur Party, bei denen du zum Held:in oder Meme wirst. Zwisch"
+  },
+  {
+    "titel": "OnlyInvites Open Sesh III",
+    "datum": "25. Jul 2026",
+    "datum_raw": "2026-07-25T14:00+0200",
+    "ort": "Köln, Köln",
+    "preis": "ab 59 €",
+    "link": "https://rausgegangen.de/events/open-sesh-iii-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Open Sesh III ist das Main Event von OnlyInvites und bringt am 25.07.2026 die Community in einer besonderen Location in Köln zusammen. Dich erwarten ein exklusives Ambiente, starke Vibes, hochwertiges Entertainment, gut"
   },
   {
     "titel": "Mapping Waidmarkt Event 1",

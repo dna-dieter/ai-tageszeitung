@@ -392,6 +392,19 @@
     "fetched": "2026-05-05T21:11:09.377615"
   },
   {
+    "id": "41ac5a91ffe0",
+    "title": "POL-GM: Fahrradfahrer bei Verkehrsunfall schwer verletzt",
+    "summary": "Bergneustadt (ots) - Ein 74-jähriger Gummersbacher wollte am Montag (20. Juli, 10 Uhr) mit seinem Mini Cooper von der Straße \"Am Wäcker\" auf die Kölner Straße abbiegen. Dabei kam es zum Zusammenstoß mit einem 70-Jährigen auf seinem Fahrrad, ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6318603",
+    "published": "Tue, 21 Jul 2026 11:15:09 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "bergneustadt",
+      "gummersbach"
+    ],
+    "fetched": "2026-07-21T11:57:01.913446"
+  },
+  {
     "id": "9fa689a54c9d",
     "title": "Bergneustadt: Fahrradfahrer bei Unfall schwer verletzt – Rettungseinsatz",
     "summary": "Schwerer Fahrradunfall in Bergneustadt: Ein 70-jähriger Radfahrer stürzte am Montag auf der Kölner Straße nach Kollision mit einem Mini Cooper und wurde schwer verletzt.",
@@ -399,7 +412,8 @@
     "published": "Tue, 21 Jul 2026 09:22:17 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "bergneustadt"
+      "bergneustadt",
+      "gummersbach"
     ],
     "fetched": "2026-07-21T09:34:15.352167"
   },
