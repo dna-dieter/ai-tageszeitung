@@ -200,6 +200,16 @@
     "teaser": "GRUPO MANZANARspielt am Donnerstag den 23. Juli, um 20 Uhr im Centro Machado,Severinsmühlengasse 1,50678 Köln(Einlass 19.30 Uhr):Eduardo Cisternas (Gitarre, Gesang)Michaela Weyand (Querflöte, Quena, Akkordeon, Gesang)"
   },
   {
+    "titel": "King Georg Summer Session",
+    "datum": "23. Jul 2026",
+    "datum_raw": "2026-07-23T20:00+0200",
+    "ort": "King Georg, Sudermanstraße 2",
+    "preis": "ab 5 €",
+    "link": "https://rausgegangen.de/events/king-georg-summer-session-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Unsere monatliche Jam-Session. Ein spontanes, musikalisches Zusammentreffen, alles dabei von Kenny Dorham bis Turner Layton. AK: 5 Euro"
+  },
+  {
     "titel": "Gourmet Festival",
     "datum": "24. Jul 2026",
     "datum_raw": "2026-07-24T13:00+0200",
@@ -388,15 +398,5 @@
     "link": "https://rausgegangen.de/events/hofklange-sommer-koln-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Das Programm Hofklänge bietet dir einen vielseitigen Mix von französischem Barock bis Latin-Rock der 70er, präsentiert von wechselnden Ensembles und Künstler:innen. Hier trifft klassische Präzision auf jazzige und weltmu"
-  },
-  {
-    "titel": "multipol presents ☆ RE:BOUND #1 feat. LOU KILGER & RIA REHFUß",
-    "datum": "25. Jul 2026",
-    "datum_raw": "2026-07-25T20:00+0200",
-    "ort": "Niehler Freiheit, Vogelsangerstrasse 385",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/multipol-presents-rebound-1-feat-lou-kilger-ria-rehfu-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "multipol proudly presentsRE:BOUND – interdisciplinary • performance • lab Eine interdisziplinäre Veranstaltungsreihe von multipol aka. Lola Rubio & Benjamin GrauFür #1 freuen wir uns auf einen poetischen Abend zwischen"
   }
 ]
