@@ -9047,6 +9047,44 @@
     "fetched": "2026-07-23T15:20:41.080991"
   },
   {
+    "id": "9cb48a1ff024",
+    "title": "Oberberg: Polizeimeldungen zeigen vier dreiste Taten",
+    "summary": "Polizeimeldungen aus Oberberg: Vier Fälle in Gummersbach, Bergneustadt und Lindlar beschäftigen die Ermittler und führen zu Zeugenaufrufen.",
+    "link": "https://www.news-on-tour.de/206212/oberberg-polizeimeldungen-diebstahl/",
+    "published": "Thu, 23 Jul 2026 15:49:17 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt",
+      "lindlar",
+      "gummersbach"
+    ],
+    "fetched": "2026-07-23T17:42:08.750072"
+  },
+  {
+    "id": "1b1a3727ffba",
+    "title": "Radevormwald: Kofferdieb stiehlt Reisegepäck und flüchtet",
+    "summary": "Kofferdieb in Radevormwald: Ein Mann stahl zwei Koffer vor einem Wohnhaus und flüchtete mit einem silbernen VW Sharan.",
+    "link": "https://www.news-on-tour.de/206209/radevormwald-kofferdieb-reisegepaeck/",
+    "published": "Thu, 23 Jul 2026 15:39:30 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-07-23T17:42:08.750142"
+  },
+  {
+    "id": "d9518eb5683d",
+    "title": "Waldbröl: E-Scooter-Unfall – Fahrer flüchtet nach Kollision",
+    "summary": "Waldbröl: Ein 65-jähriger Radfahrer wird bei einer Kollision leicht verletzt. Der unbekannte Jugendliche flüchtet, Zeugen werden gesucht.",
+    "link": "https://www.news-on-tour.de/206206/waldbroel-e-scooter-unfall-radfahrer/",
+    "published": "Thu, 23 Jul 2026 15:35:16 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-07-23T17:42:08.750173"
+  },
+  {
     "id": "a044e88892b9",
     "title": "Bergneustadt: Fahrzeugbrand – Fiat brennt auf Parkplatz aus",
     "summary": "Fahrzeugbrand in Bergneustadt: Ein Fiat brannte frühmorgens an der Brückenstraße aus. Die Ursache ist laut Polizei noch unklar.",
@@ -9078,7 +9116,10 @@
     "published": "Thu, 23 Jul 2026 14:07:41 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "bergneustadt",
+      "marienheide",
+      "gummersbach"
     ],
     "fetched": "2026-07-23T15:20:39.869121"
   },
