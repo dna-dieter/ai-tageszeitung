@@ -30,16 +30,6 @@
     "teaser": "Der Chor des selbstorganisierten Sport- und Kulturverein Roter Stern Köln e.V. läd ein zum Zuhören, Mitsingen und Mitmachen! Auch in diesem Sommer bieten wir ein vielfältiges Freizeitprogramm auf dem Neumarkt. Neben "
   },
   {
-    "titel": "Blue Lotus Tee-Zeremonie",
-    "datum": "23. Jul 2026",
-    "datum_raw": "2026-07-23T19:00+0200",
-    "ort": "Klangkino, Hansaring 61",
-    "preis": "ab 45 €",
-    "link": "https://rausgegangen.de/events/blue-lotus-tee-zeremonie-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Erlebe ein achtsames Ritual im Klangkino, getragen von den sanften Frequenzen ausgewählter Instrumente. Kakao und Blue Lotus öffnen auf ihre eigene Weise einen Raum für Entspannung, Herzverbindung und innere Weite.In "
-  },
-  {
     "titel": "Twisted Sister",
     "datum": "23. Jul 2026",
     "datum_raw": "2026-07-23T19:00+0200",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/coffee-concert-cologne-10/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Acoustic Sundays bei LalibeeWillkommen zu einer neuen Konzertreihe in Köln-Zollstock! CCC - Coffee Concert Cologne bringt Live-Musik direkt ins Herz des gemütlichen Veedels. An ausgewählten Sonntagnachmittagen verwand"
+  },
+  {
+    "titel": "Manifest YOUR DREAM LIFE Manifest Evening",
+    "datum": "26. Jul 2026",
+    "datum_raw": "2026-07-26T18:00+0200",
+    "ort": "OnlyYou Holistic Center, Venloer Straße 497",
+    "preis": "ab 30 €",
+    "link": "https://rausgegangen.de/events/manifest-your-dream-life-manifest-evening-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "How to Manifest 💛Meditation & Manifestieren – Lerne, wie du deine Träume wirklich lebst✨Ein Workshop für innere Klarheit, Ausrichtung & kraftvolle Intentionen2026 darf dein Jahr werden – ein Jahr, in dem du nicht nur t"
   }
 ]
