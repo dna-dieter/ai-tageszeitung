@@ -1,135 +1,5 @@
 [
   {
-    "titel": "Schäl Sick Sundowner",
-    "datum": "23. Jul 2026",
-    "datum_raw": "2026-07-23T00:00+0200",
-    "ort": "RADIX & ANIMA, Deutz-Mülheimer Straße 183",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/schal-sick-sundowner-7/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Yes, es ist noch immer so richtig Sommer. Und der nächste Schäl Sick Sundowner bringt auch keine Abkühlung. Saucool wird’s aber allemal – bei diesem Line-up.  🎶 Lia L. Shoshann @lialshoshann 🎵 Mattes Decke Trumm 🎶 Swe"
-  },
-  {
-    "titel": "MarktTreff Rudolfplatz",
-    "datum": "23. Jul 2026",
-    "datum_raw": "2026-07-23T16:00+0200",
-    "ort": "Köln, Rudolfplatz, Rudolfplatz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/markttreff-rudolfplatz-11/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Jeden Donnerstag von 16 bis 21 Uhr gibt es am Rudolfplatz frische Wochenmarktprodukte und Street Food aus der Region zu entdecken. Dazu kannst du entspannten Weingenuss genießen und deinen Feierabend mit leckerem Essen d"
-  },
-  {
-    "titel": "Weintage am RheinEnergie Stadion",
-    "datum": "23. Jul 2026",
-    "datum_raw": "2026-07-23T16:00+0200",
-    "ort": "RheinEnergieStadion, Rückseite vom Stadion, Eingang Junkersdorferstr, gegenüber Jahnwiese",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/weintage-am-rheinenergie-stadion-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei den Weintagen am RheinEnergie Stadion stößt du auf eine spannende Mischung aus feinen Weinen, leckerem Streetfood und coolen Oldtimern. Das Programm sorgt für lockere Stimmung und abwechslungsreichen Genuss in entspa"
-  },
-  {
-    "titel": "Der Chor vom Roten Stern",
-    "datum": "23. Jul 2026",
-    "datum_raw": "2026-07-23T18:00+0200",
-    "ort": "Miteinander NEUmarkt, Neumarkt",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/der-chor-vom-roten-stern-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Der Chor des selbstorganisierten Sport- und Kulturverein Roter Stern Köln e.V. läd ein zum Zuhören, Mitsingen und Mitmachen! Auch in diesem Sommer bieten wir ein vielfältiges Freizeitprogramm auf dem Neumarkt. Neben "
-  },
-  {
-    "titel": "Twisted Sister",
-    "datum": "23. Jul 2026",
-    "datum_raw": "2026-07-23T19:00+0200",
-    "ort": "LANXESS arena, Willy-Brandt-Platz 3",
-    "preis": "ab 80 €",
-    "link": "https://rausgegangen.de/events/twisted-sister-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "EINZIGER TERMIN IN DEUTSCHLANDLegendäre Metal-Ikonen Twisted Sister kündigen exklusives Deutschland-Konzert zum 50- jährigen Jubiläum anNew York, NY – Twisted Sister sind zurück – größer, lauter und kompromissloser"
-  },
-  {
-    "titel": "COZY WOHNZIMMERKONZERT - MIT CALLMEMAIKE",
-    "datum": "23. Jul 2026",
-    "datum_raw": "2026-07-23T19:00+0200",
-    "ort": "Adeli, Venloer Straße 19",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/wohnzimmerkonzert-mit-callmemaike-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Schnapp dir deine Friends und macht euch einen gemütlichen Abend im Café Adeli mit einer Acoustic Jam Session von @callmemaike und Gitarrist Olli.Lauscht den Beiden einfach nur, trinkt & esst entspannt was dabei ODER s"
-  },
-  {
-    "titel": "ListeningLounge",
-    "datum": "23. Jul 2026",
-    "datum_raw": "2026-07-23T19:30+0200",
-    "ort": "Hallmackenreuther, Brüsseler Platz 9",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/listeninglounge-6/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "In der ListeningLounge gibt’s Alben ohne Unterbrechungen – von Sade bis Rosalía, Klassiker und Geheimtipps. Nach einer kurzen Einleitung kannst du voll ins Hörerlebnis eintauchen und dich danach mit anderen austauschen "
-  },
-  {
-    "titel": "Comedy Open Mic - hosted by Sandra Sprünken",
-    "datum": "23. Jul 2026",
-    "datum_raw": "2026-07-23T20:00+0200",
-    "ort": "NightWash club, Hohenstaufenring 25-27",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/comedy-open-mic-hosted-by-sandra-sprunken-5/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Du hast mal wieder Lust so richtig von Herzen zu lachen? Dann solltest du diese Comedyshow auf jeden Fall nicht verpassen!!✨🤝"
-  },
-  {
-    "titel": "GLU",
-    "datum": "23. Jul 2026",
-    "datum_raw": "2026-07-23T20:00+0200",
-    "ort": "MTC - LIVE❌MUSIC❌CLUB, Zülpicher Str. 10",
-    "preis": "ab 25 €",
-    "link": "https://rausgegangen.de/events/glu-1217/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Esoteric melodies collide with moody beats and a dynamic flow in GLU; the solo  project from Michael Shuman (Queens Of The Stone Age, Mini Mansions). With  no major concentration of genre aside from melding them, Shuman "
-  },
-  {
-    "titel": "Grupo Manzanar - Musikalisches und Poetisches Quintett aus Lateinamerika",
-    "datum": "23. Jul 2026",
-    "datum_raw": "2026-07-23T20:00+0200",
-    "ort": "MACHADO, Severinsmühlengasse 1",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/grupo-manzanar-musikalisches-und-poetisches-quintett-aus-lat-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "GRUPO MANZANARspielt am Donnerstag den 23. Juli, um 20 Uhr im Centro Machado,Severinsmühlengasse 1,50678 Köln(Einlass 19.30 Uhr):Eduardo Cisternas (Gitarre, Gesang)Michaela Weyand (Querflöte, Quena, Akkordeon, Gesang)"
-  },
-  {
-    "titel": "King Georg Summer Session",
-    "datum": "23. Jul 2026",
-    "datum_raw": "2026-07-23T20:00+0200",
-    "ort": "King Georg, Sudermanstraße 2",
-    "preis": "ab 5 €",
-    "link": "https://rausgegangen.de/events/king-georg-summer-session-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Unsere monatliche Jam-Session. Ein spontanes, musikalisches Zusammentreffen, alles dabei von Kenny Dorham bis Turner Layton. AK: 5 Euro"
-  },
-  {
-    "titel": "H WIE HABICHT | MAKK Open-Air",
-    "datum": "23. Jul 2026",
-    "datum_raw": "2026-07-23T21:30+0200",
-    "ort": "Open Air Kino MAKK, An d. Rechtschule 7",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/h-wie-habicht-makk-open-air-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "H WIE HABICHT erzählt in eindringlichen Bildern von Verlust und einer besonderen Freundschaft zwischen Helen und einem Falken. Philippa Lowthorpes Verfilmung der Memoiren taucht tief in Trauer, Erinnerung und Heilung ein"
-  },
-  {
-    "titel": "Gourmet Festival",
-    "datum": "24. Jul 2026",
-    "datum_raw": "2026-07-24T13:00+0200",
-    "ort": "Platz vor dem Schokoladenmuseum Köln, Am Schokoladenmuseum 1a, 50678 Köln, Am Schokoladenmuseum 1A",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/gourmet-festival-26/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Das Gourmet Festival  lädt wieder ein in Krefeld, Köln und Düsseldorf zu schlemmen, zu schlendern und zu genießen. Auch in diesem Jahr erwartet die Besucher:innen erneut eine Vielzahl exklusiver kulinarischer Genüsse"
-  },
-  {
     "titel": "Soul Café",
     "datum": "24. Jul 2026",
     "datum_raw": "2026-07-24T14:00+0200",
@@ -138,6 +8,36 @@
     "link": "https://rausgegangen.de/events/soul-cafe-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Im Soul Café trifft Vinyl-Soul auf entspannte Café-Atmosphäre, dabei sorgen ausgewählte Jazz- und Soul-Perlen vom Northern Soul Club Cologne für einen lässigen Nachmittag. Ob du lieber tanzt oder gemütlich mit Kaffee in "
+  },
+  {
+    "titel": "Das HALLE Tor 2 WEINFEST | DIE HALLE Tor 2",
+    "datum": "24. Jul 2026",
+    "datum_raw": "2026-07-24T17:00+0200",
+    "ort": "DIE HALLE Tor 2, Girlitzweg 30",
+    "preis": "ab 10 €",
+    "link": "https://rausgegangen.de/events/kopie-von-gluhwein-beats-die-halle-tor-2-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das HALLE Tor 2 Weinfest bringt sommerliche Abende mit einer feinen Auswahl an Winzer:innen und entspannten DJ-Sets zusammen. Genieße dazu abwechslungsreiches Streetfood und eine lockere Atmosphäre unter freiem Himmel ga"
+  },
+  {
+    "titel": "Surfskate Welcome Ride by Coastless Ride",
+    "datum": "24. Jul 2026",
+    "datum_raw": "2026-07-24T18:00+0200",
+    "ort": "Deutzer Werft",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/surfskate-welcome-ride-by-coastless-ride-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Hier gibt’s die perfekte Gelegenheit, beim ersten Coastless Ride in Köln mit coolen Leute auf dem Surfskate anzudocken. Egal, ob du fit auf dem Board bist oder gerade erst startest – zusammen cruisen und Spaß haben ist d"
+  },
+  {
+    "titel": "Odonische Freitagsbühne",
+    "datum": "24. Jul 2026",
+    "datum_raw": "2026-07-24T18:00+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/odonische-freitagsbuhne-76/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge entdecken Spaß macht "
   },
   {
     "titel": "Der singende Mediapark – Das Mitsingding von Constantin Gold & friends | SOMMER KÖLN",
@@ -150,14 +50,34 @@
     "teaser": "Konstantin Gold und sein Team bringen beim singenden Mediapark bekannte Songs und Live-Karaoke-Überraschungen auf die Bühne. Ganz egal, ob du gern mal lauter mitträllerst oder lieber leise mitsummst – hier darf jede Pers"
   },
   {
-    "titel": "Odonische Freitagsbühne",
+    "titel": "Korken & Klub Afterwork",
     "datum": "24. Jul 2026",
     "datum_raw": "2026-07-24T18:00+0200",
-    "ort": "Odonien, Hornstraße 85",
+    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/odonische-freitagsbuhne-76/",
+    "link": "https://rausgegangen.de/events/korken-klub-afterwork-2/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge entdecken Spaß macht "
+    "teaser": "Freitagabend im CBE Garten heißt es entspannt bei House- und R&B-Sounds mit Live-Instrumenten. Neben leckeren Foodtrucks gibt’s faire Flaschenpreise und eine feine Weinauswahl – perfekt zum Runterkommen vor’m Wochenende "
+  },
+  {
+    "titel": "MIDDANCE CRISIS – Summer Special!",
+    "datum": "24. Jul 2026",
+    "datum_raw": "2026-07-24T19:00+0200",
+    "ort": "Blue Shell, Luxemburger Straße 32",
+    "preis": "ab 9 €",
+    "link": "https://rausgegangen.de/events/middance-crisis-summer-special-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim Middance Crisis Sommer-Special legen drei DJs eine breitgefächerte Playlist von Rock bis Funk auf, die die Tanzfläche schon früh zum Kochen bringt. Hier trifft musikalische Vielfalt auf entspannte Sommerlaune – perf"
+  },
+  {
+    "titel": "SIP&THRIFT Nachtflohmarkt",
+    "datum": "24. Jul 2026",
+    "datum_raw": "2026-07-24T19:00+0200",
+    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/sipthrift-nachtflohmarkt-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim SIP&THRIFT Nachtflohmarkt triffst du auf coole Vintage-Fundstücke, Toothgems und entspannte Drinks unter freiem Himmel – perfekt für einen entspannten Sommerabend mit Freund:innen. Wenn’s dunkel wird, verwandelt sic"
   },
   {
     "titel": "ChurchChill",
@@ -180,6 +100,16 @@
     "teaser": "Freitag, den 24. Juli 2026 um 19:30 Uhr MACHADOSeverinsmühlengasse 150678 KölnFreier EintrittKarina und ihr Duo „Radiocafetal“ haben es sich zur Aufgabe gemacht, mexikanische Musiktraditionen der 1930er und 1940er Jahr"
   },
   {
+    "titel": "katyadotcom",
+    "datum": "24. Jul 2026",
+    "datum_raw": "2026-07-24T20:00+0200",
+    "ort": "die wohngemeinschaft, Richard-Wagner-Straße 39",
+    "preis": "ab 19 €",
+    "link": "https://rausgegangen.de/events/katyadotcom-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Katyadotcom mixt verträumten Indie mit klarem Pop, dabei bringt Katja Frießnegg ehrliche Texte zu Selbstakzeptanz und inneren Konflikten ins Spiel. Ihr roher, verletzlicher Sound zwischen UK- und Scandi-Pop lädt dich auf"
+  },
+  {
     "titel": "Cozy Concert",
     "datum": "24. Jul 2026",
     "datum_raw": "2026-07-24T20:00+0200",
@@ -198,16 +128,6 @@
     "link": "https://rausgegangen.de/events/imklang-session-26/",
     "quelle": "Rausgegangen Köln",
     "teaser": " IMKLANG SESSION  Offene Jam Session · jeden Freitag · ab 20:00 Uhr Die IMKLANG Session ist eine wöchentliche, offene Jam Session für Musikerinnen und Musiker aller Erfahrungsstufen – und für alle, die Musik gerne liv"
-  },
-  {
-    "titel": "katyadotcom",
-    "datum": "24. Jul 2026",
-    "datum_raw": "2026-07-24T20:00+0200",
-    "ort": "die wohngemeinschaft, Richard-Wagner-Straße 39",
-    "preis": "ab 19 €",
-    "link": "https://rausgegangen.de/events/katyadotcom-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Katyadotcom mixt verträumten Indie mit klarem Pop, dabei bringt Katja Frießnegg ehrliche Texte zu Selbstakzeptanz und inneren Konflikten ins Spiel. Ihr roher, verletzlicher Sound zwischen UK- und Scandi-Pop lädt dich auf"
   },
   {
     "titel": "White Noise Gong Bath",
@@ -240,6 +160,16 @@
     "teaser": "Experience Cologne nightlife the easy way with a fun group and a local host. After check-in at the meeting point, the night starts with a welcome shot. Then you’ll visit 4 lively nightlife locations, a mix of popular bar"
   },
   {
+    "titel": "22 BAHNEN | MAKK Open.Air",
+    "datum": "24. Jul 2026",
+    "datum_raw": "2026-07-24T21:30+0200",
+    "ort": "Open Air Kino MAKK, An d. Rechtschule 7",
+    "preis": "ab 9 €",
+    "link": "https://rausgegangen.de/events/22-bahnen-makk-openair-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "In „22 Bahnen“ beobachtest du Tilda, die zwischen Verantwortung für ihre Familie und ihrem Wunsch nach Freiheit jongliert. Der Film bringt dir einen Sommer voller kleiner Hoffnungsschimmer und großer Entscheidungen in ei"
+  },
+  {
     "titel": "Karaoke - Sing It Out!",
     "datum": "24. Jul 2026",
     "datum_raw": "2026-07-24T21:30+0200",
@@ -250,34 +180,34 @@
     "teaser": "Hier gibt’s keinen Jury-Stress und keine falschen Töne, sondern einfach 53.000 Songs zum Austoben – von 90s Trash bis RnB. Maxi macht seit Jahren Karaoke-Abende zur Party, bei denen du zum Held:in oder Meme wirst. Zwisch"
   },
   {
-    "titel": "Neueröffnung  | Cleverbikes  | Dein Store für Refurbished Rennrad, Gravel, MTB",
-    "datum": "25. Jul 2026",
-    "datum_raw": "2026-07-25T14:00+0200",
-    "ort": "Cleverbikes \"Bio-Bike-Store\", Christophstraße 14",
+    "titel": "Kurzfilm am See - Kopfhörerkino | SOMMER KÖLN",
+    "datum": "24. Jul 2026",
+    "datum_raw": "2026-07-24T22:00+0200",
+    "ort": "Mediapark, Im Mediapark 7",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/cleverbikes-storeeroeffnung/",
+    "link": "https://rausgegangen.de/events/kurzfilm-am-see-kopfhorerkino-sommer-koln-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Cleverbikes lädt dich ein, den neuen Spot für aufgearbeitete Rennräder, Gravelbikes und Mountainbikes zu entdecken. Probier verschiedene Modelle aus, triff andere Fahrradfans und genieß Snacks und Drinks bei entspannter "
+    "teaser": "An zwei Abenden zeigen lokale Filmschaffende und kuratierte Highlights der SK Stiftung eine vielfältige Kurzfilmsammlung mit spannenden Perspektiven und eigenem Stil. Das kabellose Kopfhörerkino sorgt dabei für erstklass"
   },
   {
-    "titel": "OnlyInvites Open Sesh III",
-    "datum": "25. Jul 2026",
-    "datum_raw": "2026-07-25T14:00+0200",
-    "ort": "Köln, Köln",
-    "preis": "ab 59 €",
-    "link": "https://rausgegangen.de/events/open-sesh-iii-0/",
+    "titel": "KRAWALL X ART OF URBAN LIFE",
+    "datum": "24. Jul 2026",
+    "datum_raw": "2026-07-24T23:00+0200",
+    "ort": "Reineke Fuchs, Aachener Straße 52",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/krawall-x-art-of-urban-life-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Open Sesh III ist das Main Event von OnlyInvites und bringt am 25.07.2026 die Community in einer besonderen Location in Köln zusammen. Dich erwarten ein exklusives Ambiente, starke Vibes, hochwertiges Entertainment, gut"
+    "teaser": "Bei KRAWALL X ART OF URBAN LIFE sorgen Newcomer aus Köln und Umgebung mit ihrem Mix aus Elektro, Techno und Trance für einen Abend voller frischer Sounds und kreativer Energie. Die b2b-Sets versprechen Beats, die Lust au"
   },
   {
-    "titel": "Sommerfest der Domstädter Köln & der KG Kölle bliev Kölle",
-    "datum": "25. Jul 2026",
-    "datum_raw": "2026-07-25T14:11+0200",
-    "ort": "\"Dommizil\" der Domstädter, Oskar-Jäger-Straße 175",
+    "titel": "TIME LESS – DIE 2000er & 2010er PARTY 🚨",
+    "datum": "24. Jul 2026",
+    "datum_raw": "2026-07-24T23:00+0200",
+    "ort": "Club Subway, Aachener Straße 82-84",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/sommerfest-der-domstadter-koln-der-kg-kolle-bliev-kolle-0/",
+    "link": "https://rausgegangen.de/events/time-less-die-2000er-2010er-party-2/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Die Domstädter Köln e.V. und die KG Kölle bliev Kölle e.V. laden euch herzlich zum großen Sommerfest ein!  📅 Samstag, 25. Juli 2026🕒 Beginn: 14:11 Uhr📍 Dommizil der Domstädter – Oskar-Jäger-Straße 175, Köln 🎶 Mit "
+    "teaser": "Hier gibt’s die größten Hits der 2000er und 2010er auf die Ohren – von Hip Hop-Klassikern bis zu den unvergesslichen Partytracks deiner Jugend. Die Playlist klingt durch die Nacht und bringt garantiert Erinnerungen zurüc"
   },
   {
     "titel": "Mapping Waidmarkt Event 1",
@@ -398,5 +328,75 @@
     "link": "https://rausgegangen.de/events/coffee-concert-cologne-10/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Acoustic Sundays bei LalibeeWillkommen zu einer neuen Konzertreihe in Köln-Zollstock! CCC - Coffee Concert Cologne bringt Live-Musik direkt ins Herz des gemütlichen Veedels. An ausgewählten Sonntagnachmittagen verwand"
+  },
+  {
+    "titel": "Nach Temperatursturz das Hoch MIRTA",
+    "datum": "26. Jul 2026",
+    "datum_raw": "2026-07-26T15:00+0200",
+    "ort": "Vorhof-Flimmern, Xantener Straße 145",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/nach-temperatursturz-das-hoch-mirta-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Liebe abgekühlte Vorhof-Flimmer*innen!Wie kündigt man einen Publikumsliebling an? Eigentlich braucht es kaum größere Vorschusslorbeeren, als von den Gästen der Vorhof-Flimmern Konzerte auf Platz 1 gewählt worden zu "
+  },
+  {
+    "titel": "Workshop & Social Night für Paare & Alleinstehende,  Tanzen verbindet",
+    "datum": "26. Jul 2026",
+    "datum_raw": "2026-07-26T17:45+0200",
+    "ort": "Salsa Bachata Mastery Zentrum, Georgstraße 5",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/workshop-social-night-fur-paare-alleinstehende-tanzen-verbin-126/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Es geht um neue Kontakte und ein neues Hobby, das deine Weltsicht verändern und den Kontakt zu Menschen viel einfacher machen kann. Durch das Tanzen verbinden sich Menschen und bleiben präsent.Meine Aufgabe als Worksho"
+  },
+  {
+    "titel": "Album Listening Club Vol. 2:  Little Simz (RSVP)",
+    "datum": "26. Jul 2026",
+    "datum_raw": "2026-07-26T18:00+0200",
+    "ort": "Café Boxenstopp, Waidmarkt 10-12",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/album-listening-club-vol-2-little-simz-rsvp-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "💿 Unser zweites Album ist eines der meistgelobten Hip-Hop-Alben der letzten Jahre: „Sometimes I Might Be Introvert“ von Little Simz. Ein Album über Identität, Selbstzweifel und das Erwachsenwerden. Zusammen analysieren"
+  },
+  {
+    "titel": "BURLESQUE BIJOUX -Show- Die Juwelen des Burlesques!",
+    "datum": "26. Jul 2026",
+    "datum_raw": "2026-07-26T18:00+0200",
+    "ort": "Echtzeit Grill & Thrill, Friesenstraße 33",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/burlesque-bijoux-show-die-juwelen-des-burlesques-32/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Willkommen in unserer extravaganten Brasserie, wo Eleganz auf Versuchung trifft.Tauchen Sie ein in eine Welt voller Glamour, Sinnlichkeit und Überraschungen. Unsere bezaubernden Künstler werden Sie mit einer atemberaub"
+  },
+  {
+    "titel": "Jamsession im Kulturbunker // OPEN STAGE",
+    "datum": "26. Jul 2026",
+    "datum_raw": "2026-07-26T18:00+0200",
+    "ort": "Kulturbunker Köln-Mülheim, Berliner Straße 20",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/jamsession-im-kulturbunker-open-stage-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die offene Jamsession des Kulturbunker lädt zum gemeinsamen Musizieren und Jamen ein. Musiker*innen und Zuhörer*innen sind herzlich willkommen. Wir haben einen kleinen Grundstock an Kabeln und Technik. Instrumente bitt"
+  },
+  {
+    "titel": "Jazz at Green Room: Jakob Jäger Quartett",
+    "datum": "26. Jul 2026",
+    "datum_raw": "2026-07-26T18:00+0200",
+    "ort": "GREEN ROOM, Venloer Straße 40",
+    "preis": "ab 8 €",
+    "link": "https://rausgegangen.de/events/jazz-at-green-room-jakob-jager-quartett-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "18:00 I Konzert I GREEN ROOM Blues! Nothing but the blues! – das ist das aktuelle Album von „Henning Sieverts Symmethree“.Seit 2011 und auf bisher drei Alben beschäftigt sich das Virtuosen-Triumphirat mit den schillernd"
+  },
+  {
+    "titel": "Joshua Ray Walker - Ain't Dead Yet Tour",
+    "datum": "26. Jul 2026",
+    "datum_raw": "2026-07-26T19:00+0200",
+    "ort": "Freideck - Kantine Open Air, Neusser Landstraße 2",
+    "preis": "ab 31 €",
+    "link": "https://rausgegangen.de/events/joshua-ray-walker-aint-dead-yet-tour-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Mit über 2.000 gespielten Konzerten in den USA und Europa, Präsenz im nationalen Fernsehen sowie mehreren Gastspielen in der Grand Ole Opry hat sich Joshua Ray Walker als prägende Stimme im zeitgenössischen Country u"
   }
 ]
