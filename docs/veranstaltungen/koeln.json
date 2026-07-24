@@ -130,16 +130,6 @@
     "teaser": " IMKLANG SESSION  Offene Jam Session · jeden Freitag · ab 20:00 Uhr Die IMKLANG Session ist eine wöchentliche, offene Jam Session für Musikerinnen und Musiker aller Erfahrungsstufen – und für alle, die Musik gerne liv"
   },
   {
-    "titel": "White Noise Gong Bath",
-    "datum": "24. Jul 2026",
-    "datum_raw": "2026-07-24T20:00+0200",
-    "ort": "Klangkino, Hansaring 61",
-    "preis": "ab 40 €",
-    "link": "https://rausgegangen.de/events/white-noise-gong-bath-4/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Der Gong in seiner mächtigsten Form  Transformative und auch stark emotionale Erlebnisse sind möglich. Hier kann sich vieles lösen. Du musst nichts tun, außer dich dem Klang hinzugeben. Finde zu innerer Stille und tau"
-  },
-  {
     "titel": "DJ Zoni",
     "datum": "24. Jul 2026",
     "datum_raw": "2026-07-24T21:00+0200",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/joshua-ray-walker-aint-dead-yet-tour-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Mit über 2.000 gespielten Konzerten in den USA und Europa, Präsenz im nationalen Fernsehen sowie mehreren Gastspielen in der Grand Ole Opry hat sich Joshua Ray Walker als prägende Stimme im zeitgenössischen Country u"
+  },
+  {
+    "titel": "WG Bigband",
+    "datum": "26. Jul 2026",
+    "datum_raw": "2026-07-26T19:00+0200",
+    "ort": "die wohngemeinschaft, Richard-Wagner-Straße 39",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/wg-bigband-fete-de-la-musique-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Sechzehn Musiker:innen aus Köln bringen dir Jazzklassiker von Bill Holman bis Thad Jones in der Bar zum Klingen und schaffen so ein Flair wie in den hitzigen Nächten der Bigband-Ära Es wird ein Abend voller guter Laune u"
   }
 ]
