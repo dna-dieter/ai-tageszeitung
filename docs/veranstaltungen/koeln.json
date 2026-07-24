@@ -80,7 +80,7 @@
     "teaser": "Beim SIP&THRIFT Nachtflohmarkt triffst du auf coole Vintage-Fundstücke, Toothgems und entspannte Drinks unter freiem Himmel – perfekt für einen entspannten Sommerabend mit Freund:innen. Wenn’s dunkel wird, verwandelt sic"
   },
   {
-    "titel": "ChurchChill",
+    "titel": "ChurchChill / AUSVERKAUFT!",
     "datum": "24. Jul 2026",
     "datum_raw": "2026-07-24T19:00+0200",
     "ort": "Auferstehungskirche Sürth, Auferstehungskirchweg 7",
@@ -303,7 +303,7 @@
     "titel": "N8SCHICHT Summer Special",
     "datum": "25. Jul 2026",
     "datum_raw": "2026-07-25T23:00+0200",
-    "ort": "artheater, Ehrenfeldgürtel, Ehrenfeld, Deutschland, Ehrenfeldgürtel 127",
+    "ort": "artheater Köln, Ehrenfeldgürtel 127",
     "preis": "ab 5 €",
     "link": "https://rausgegangen.de/events/n8schicht-summer-special-0/",
     "quelle": "Rausgegangen Köln",
@@ -328,6 +328,16 @@
     "link": "https://rausgegangen.de/events/nach-temperatursturz-das-hoch-mirta-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Liebe abgekühlte Vorhof-Flimmer*innen!Wie kündigt man einen Publikumsliebling an? Eigentlich braucht es kaum größere Vorschusslorbeeren, als von den Gästen der Vorhof-Flimmern Konzerte auf Platz 1 gewählt worden zu "
+  },
+  {
+    "titel": "Jamsession im Biergarten // OPEN STAGE",
+    "datum": "26. Jul 2026",
+    "datum_raw": "2026-07-26T17:00+0200",
+    "ort": "Kulturbunker Köln-Mülheim, Berliner Straße 20",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/jamsession-im-kulturbunker-open-stage-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Im Sommer findet die Jamsession im Biergarten des Kulturbunkers statt und beginnt um 17 Uhr. Die offene Jamsession des Kulturbunker lädt zum gemeinsamen Musizieren und Jamen ein. Musiker*innen und Zuhörer*innen sind he"
   },
   {
     "titel": "Workshop & Social Night für Paare & Alleinstehende,  Tanzen verbindet",
@@ -358,16 +368,6 @@
     "link": "https://rausgegangen.de/events/burlesque-bijoux-show-die-juwelen-des-burlesques-32/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Willkommen in unserer extravaganten Brasserie, wo Eleganz auf Versuchung trifft.Tauchen Sie ein in eine Welt voller Glamour, Sinnlichkeit und Überraschungen. Unsere bezaubernden Künstler werden Sie mit einer atemberaub"
-  },
-  {
-    "titel": "Jamsession im Kulturbunker // OPEN STAGE",
-    "datum": "26. Jul 2026",
-    "datum_raw": "2026-07-26T18:00+0200",
-    "ort": "Kulturbunker Köln-Mülheim, Berliner Straße 20",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/jamsession-im-kulturbunker-open-stage-4/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die offene Jamsession des Kulturbunker lädt zum gemeinsamen Musizieren und Jamen ein. Musiker*innen und Zuhörer*innen sind herzlich willkommen. Wir haben einen kleinen Grundstock an Kabeln und Technik. Instrumente bitt"
   },
   {
     "titel": "Jazz at Green Room: Jakob Jäger Quartett",
