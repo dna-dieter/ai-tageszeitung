@@ -15767,6 +15767,18 @@
     "fetched": "2026-05-05T21:10:26.247681"
   },
   {
+    "id": "5ac6174111f2",
+    "title": "Wermelskirchen: 21-Jähriger verunfallt auf der K16 schwer",
+    "summary": "Die Fahrt eines Heranwachsenden brachte diesen ins Krankenhaus – und zwei Fahrzeuge zum wirtschaftlichen Totalschaden.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/wermelskirchen-21-jaehriger-verunfallt-auf-der-k16-schwer-OOPDPPLOONBQLDJL4A6STCTRBA.html",
+    "published": "Sat, 25 Jul 2026 12:57:45 +0200",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-07-25T11:21:48.357323"
+  },
+  {
     "id": "ec1215b5901e",
     "title": "Wir machen Ferien",
     "summary": "Die Redaktion des Bürgerportals nutzt die zweite Woche der Herbstferien und macht bis zum 26. Oktober Betriebsferien. Der nächste Newsletter mit einer Zusammenfassung der ganzen Woche erscheint am Montag. Falls Sie etwas Lesestoff suchen, hier finden Sie einige Beiträge aus der vergangenen Zeit:",
@@ -22347,7 +22359,8 @@
     "published": "Fri, 24 Jul 2026 05:55:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "bergisch-gladbach"
     ],
     "fetched": "2026-07-25T09:07:35.052438"
   },
