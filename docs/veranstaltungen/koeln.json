@@ -120,16 +120,6 @@
     "teaser": "Willkommen in unserer extravaganten Brasserie, wo Eleganz auf Versuchung trifft.Tauchen Sie ein in eine Welt voller Glamour, Sinnlichkeit und Überraschungen. Unsere bezaubernden Künstler werden Sie mit einer atemberaub"
   },
   {
-    "titel": "Jazz at Green Room: Jakob Jäger Quartett",
-    "datum": "26. Jul 2026",
-    "datum_raw": "2026-07-26T18:00+0200",
-    "ort": "GREEN ROOM, Venloer Straße 40",
-    "preis": "ab 8 €",
-    "link": "https://rausgegangen.de/events/jazz-at-green-room-jakob-jager-quartett-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "18:00 I Konzert I GREEN ROOM Blues! Nothing but the blues! – das ist das aktuelle Album von „Henning Sieverts Symmethree“.Seit 2011 und auf bisher drei Alben beschäftigt sich das Virtuosen-Triumphirat mit den schillernd"
-  },
-  {
     "titel": "Manifest YOUR DREAM LIFE Manifest Evening",
     "datum": "26. Jul 2026",
     "datum_raw": "2026-07-26T18:00+0200",
@@ -144,7 +134,7 @@
     "datum": "26. Jul 2026",
     "datum_raw": "2026-07-26T19:00+0200",
     "ort": "NightWash club, Hohenstaufenring 25-27",
-    "preis": "ab 30 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/nightwash-live-232/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Four Comedians bringen bei NightWash Live frische Perspektiven und präg­enden Humor auf die Bühne. Die Mischung aus Szenegrößen und Newcomer:innen macht den Abend direkt, ehrlich und nah am Publikum – ein echtes Highligh"
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/cozy-rooftop-garden-concert-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Die Cozy Concerts sind eine Geheimkonzertreihe in gemütlicher Atmosphäre* – in Wohnzimmern, Buchläden, Ateliers, Gärten und anderen besonderen Orten. Intim, authentisch, entspannend. 80–90 % der Musiker*innen bei den"
+  },
+  {
+    "titel": "Die Weiße Rose – Musical von Alex Melcher & Vera Bolten",
+    "datum": "31. Jul 2026",
+    "datum_raw": "2026-07-31T20:00+0200",
+    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
+    "preis": "ab 50 €",
+    "link": "https://rausgegangen.de/events/die-weie-rose-musical-von-alex-melcher-vera-bolten-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "37. Kölner Sommerfestival»Die Weiße Rose – Ein Musical über Umdenken, Verantwortung und Mut« widmet sich den jungen Menschen um Hans und Sophie Scholl, Alexander Schmorell, Christoph Probst, Willi Graf und Professor Ku"
   }
 ]
