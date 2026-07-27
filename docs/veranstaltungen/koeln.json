@@ -20,7 +20,7 @@
     "teaser": "Beim Schocken im neuen Vereinsheim vom Zappes geht’s gesellig und locker zur Sache, egal ob du Profi oder Neuling bist. Ein kurzes Training wärmt dich auf, bevor das Turnier startet und dabei süße Preise winken Es gibt s"
   },
   {
-    "titel": "Kneipenquiz",
+    "titel": "Kneipenquiz am Ebertplatz",
     "datum": "27. Jul 2026",
     "datum_raw": "2026-07-27T18:30+0200",
     "ort": "Ebertplatz, Ebertplatz",
@@ -38,16 +38,6 @@
     "link": "https://rausgegangen.de/events/european-outdoor-film-tour-2025-omu-aperol-kinotag-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Die European Outdoor Film Tour zeigt, wie Abenteuer echte Freundschaften formen und Grenzen verschieben. Freu dich auf Stories von schroffen Gipfeln, waghalsigen Ski-Traversen und mutigen Visionär:innen, die Outdoor-Erle"
-  },
-  {
-    "titel": "Impro Stand-up Comedy - Ich hab da mal nichts vorbereitet",
-    "datum": "27. Jul 2026",
-    "datum_raw": "2026-07-27T20:00+0200",
-    "ort": "Joode Lade, Lindenstraße 62",
-    "preis": "ab 11 €",
-    "link": "https://rausgegangen.de/events/impro-stand-up-comedy-ich-hab-da-mal-nichts-vorbereitet-49/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Vier Comedy-Profis aus Nightwash und Quatsch Comedy Club legen ihre Skripte ab und improvisieren live, was das Zeug hält. Kein Plan, keine Vorgaben – nur echtes Comedy-Feeling, bei dem alles passieren kann. So frisch has"
   },
   {
     "titel": "College Monday",
@@ -187,7 +177,7 @@
     "preis": "ab 0 €",
     "link": "https://rausgegangen.de/events/maika-softpower-neumarkt-eintritt-frei-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Neu, kaputt, Kulturhof Kalk & Miteinander NEUmarkt präsentierenMAIKA, SOFTPOWER18:09 SOFTPOWER19:02 MAIKAEintritt frei!<3"
+    "teaser": "Maika bringt deutschsprachigen Pop mit 80s-Synthies zusammen und verbindet dabei nostalgische Sounds mit moderner Leichtigkeit. SOFTPOWER öffnet den Abend mit einer frischen Brise Synth-Pop, die dir die Freude an einfach"
   },
   {
     "titel": "Die Weiße Rose – Musical von Alex Melcher & Vera Bolten",
@@ -348,6 +338,16 @@
     "link": "https://rausgegangen.de/events/multiple-voices-spem-in-alium-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "01.08.2025, 13:00 – 22:00, Christuskirche Während dem Konzert ist alle 10 Minuten ein Betreten oder Verlassen der Kirche möglich. Vor dem Konzert findet ein gemeinsamer Hör-Spaziergang statt. Treffpunkt: 13h vor dem E"
+  },
+  {
+    "titel": "Deutz feiert!",
+    "datum": "1. Aug 2026",
+    "datum_raw": "2026-08-01T13:00+0200",
+    "ort": "Deutzer Freiheit, Deutzer Freiheit",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/deutz-feiert-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "„Deutz feiert!“ ist das Kölner Stadtteilfest auf der rechten Rheinseite. Zahlreiche Stände, Bühnenprogramm und Entertainment für die ganze Familie locken zwei Tage lang auf die Schäl Sick.Zum Familien- und Stadtteil"
   },
   {
     "titel": "Die Weiße Rose – Musical von Alex Melcher & Vera Bolten",
