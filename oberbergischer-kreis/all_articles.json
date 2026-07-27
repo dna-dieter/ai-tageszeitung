@@ -15248,6 +15248,32 @@
     "fetched": "2026-05-05T21:11:09.379634"
   },
   {
+    "id": "d15c5a4c7596",
+    "title": "POL-GM: Unbekannter überfällt Tankstelle",
+    "summary": "Engelskirchen (ots) - Am Samstagabend (25. Juli) überfiel ein Unbekannter eine Tankstelle in der Straße \"Albertsthal\" in Engelskirchen-Grünscheid. Der maskierte Mann betrat um 21:55 Uhr die Tankstelle und forderte die Herausgabe von Bargeld von ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6321992",
+    "published": "Mon, 27 Jul 2026 12:19:45 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-07-27T12:35:44.367011"
+  },
+  {
+    "id": "6315486306da",
+    "title": "Drei Verletzten ach Unfall",
+    "summary": "Eine 19-jährige Autofahrerin aus Wermelskirchen fuhr am Sonntag um 12.20 Uhr auf der B483 aus Hückeswagen kommend in Richtung Radevormwald. Sie beabsichtigte, nach links in Richtung Linde abzubiegen.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/drei-verletzten-ach-unfall-4FD7ISNOBDFA7GK63AXE6DRSNU.html",
+    "published": "Mon, 27 Jul 2026 10:50:43 +0200",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "lindlar",
+      "radevormwald",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-07-27T12:35:30.647310"
+  },
+  {
     "id": "ecc14de1ec33",
     "title": "POL-GM: 78 Geschwindigkeitsverstöße bei Kontrollen festgestellt",
     "summary": "Oberbergischer Kreis (ots) - Im Rahmen von kreisweiten Krad- und weiteren Verkehrskontrollen am Sonntag (26. Juli) wurden 78 Geschwindigkeitsverstöße festgestellt. 25 davon bei Kradfahrenden. 19 Verkehrsteilnehmende erwarten in diesem Zusammenhang ...",
@@ -15258,6 +15284,18 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-07-27T08:41:56.399089"
+  },
+  {
+    "id": "f5d813bf4eaf",
+    "title": "Gummersbach: Verkehrsunfall – Auto crasht in Böschung",
+    "summary": "Alleinunfall in Gummersbach-Windhagen: Ein 68-Jähriger prallte gegen einen Poller, überschlug sich und kam schwer verletzt ins Krankenhaus.",
+    "link": "https://www.news-on-tour.de/206343/gummersbach-verkehrsunfall-windhagen/",
+    "published": "Mon, 27 Jul 2026 09:59:05 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-07-27T12:35:29.486019"
   },
   {
     "id": "6a2d6fd648c5",
