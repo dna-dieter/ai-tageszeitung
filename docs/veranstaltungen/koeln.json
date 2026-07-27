@@ -1,20 +1,10 @@
 [
   {
-    "titel": "Play Guitar - Spür Deinen ersten echten Groove",
-    "datum": "27. Jul 2026",
-    "datum_raw": "2026-07-27T11:00+0200",
-    "ort": "Musik- und Kunstschule ImKlang, Waltherstraße 80",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/play-guitar-spur-deinen-ersten-echten-groove-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Gitarre spielen – pure EnergieDu schlägst die ersten Saiten an und plötzlich entsteht Groove.Direkt, kraftvoll, mitreißend. In diesem kostenfreien Einstieg erlebst Du, wie es sich anfühlt,selbst Gitarre zu spielen – i"
-  },
-  {
     "titel": "All Stars Schocken im Zappes - Turnier & Stammtisch",
     "datum": "27. Jul 2026",
     "datum_raw": "2026-07-27T18:30+0200",
     "ort": "Zappes Zentrale, Roonstraße 71",
-    "preis": "ab 5 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/all-stars-schocken-im-zappes-turnier-stammtisch-2/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Beim Schocken im neuen Vereinsheim vom Zappes geht’s gesellig und locker zur Sache, egal ob du Profi oder Neuling bist. Ein kurzes Training wärmt dich auf, bevor das Turnier startet und dabei süße Preise winken Es gibt s"
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/cro-mags-40th-anniversary-of-the-age-of-quarrel-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "CRO-MAGS 40th Anniversary Tour »The Age of Quarrel« NYHC Classic!Special Guest: Conservative Military Image"
+  },
+  {
+    "titel": "Wincent Weiss - Sommertour 2026",
+    "datum": "1. Aug 2026",
+    "datum_raw": "2026-08-01T19:00+0200",
+    "ort": "SparkassenPark Mönchengladbach, Am Hockeypark 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/wincent-weiss-sommertour-2026-34/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Tickets für Rollstuhlfahrer:innen und schwerbehinderte Personen (ab 70% + B im Ausweis, eine Begleitung ist jeweils frei) erhalten Sie hier: bestellung@sparkassenpark.de"
   }
 ]
