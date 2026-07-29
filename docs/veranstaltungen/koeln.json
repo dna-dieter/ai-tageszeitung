@@ -160,16 +160,6 @@
     "teaser": "37. Kölner Sommerfestival»Die Weiße Rose – Ein Musical über Umdenken, Verantwortung und Mut« widmet sich den jungen Menschen um Hans und Sophie Scholl, Alexander Schmorell, Christoph Probst, Willi Graf und Professor Ku"
   },
   {
-    "titel": "Karaoke with a Live Band SWAG (Sing With A Gang)",
-    "datum": "30. Jul 2026",
-    "datum_raw": "2026-07-30T20:00+0200",
-    "ort": "Hard Rock Cafe Cologne, Gürzenichstraße 8",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/karaoke-with-a-live-band-swag-sing-with-a-gang-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "SWAG Pride Edition – Karaoke with a Live BandBei SWAG – Sing With A Gang wird Karaoke zum echten Live-Erlebnis. Du singst nicht zu einem Playback, sondern gemeinsam mit einer professionellen Live-Band auf der Bühne.Die "
-  },
-  {
     "titel": "Prime Time Sound Journey",
     "datum": "30. Jul 2026",
     "datum_raw": "2026-07-30T20:15+0200",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/die-weie-rose-musical-von-alex-melcher-vera-bolten-6/",
     "quelle": "Rausgegangen Köln",
     "teaser": "37. Kölner Sommerfestival»Die Weiße Rose – Ein Musical über Umdenken, Verantwortung und Mut« widmet sich den jungen Menschen um Hans und Sophie Scholl, Alexander Schmorell, Christoph Probst, Willi Graf und Professor Ku"
+  },
+  {
+    "titel": "One Family Music Circle - Indigene Version",
+    "datum": "2. Aug 2026",
+    "datum_raw": "2026-08-02T14:00+0200",
+    "ort": "Yoga Liebe Köln - Yoga und Pilates, Niehler Straße 104",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/one-family-music-circle-indigene-version-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Ein Raum, der dich daran erinnert, deinen eigenen Weg zu leben  Denn wenn du beginnst, dich selbst zu leben, wird innerer Frieden Teil deines Lebens  Begleiter des Kreises:  ✨ Zeremonieller Kakao aus Peru Für Aktivierun"
   }
 ]
