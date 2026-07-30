@@ -8789,6 +8789,44 @@
     "fetched": "2026-05-05T21:11:09.379566"
   },
   {
+    "id": "aa3fe755ed10",
+    "title": "Einbrecher hebeln Terrassentür auf",
+    "summary": "Zwischen 13.20 und 14.45 Uhr sind Unbekannte am Mittwoch (29. Juli) in ein Einfamilienhaus in Hückeswagen eingebrochen. Das teilte die Polizei gestern mit.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/einbrecher-hebeln-terrassentuer-auf-EZPG3DZOJMSFPKUQDIZHJH46DA.html",
+    "published": "Thu, 30 Jul 2026 13:10:26 +0200",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-07-30T12:00:26.398234"
+  },
+  {
+    "id": "20e8f877eb56",
+    "title": "Falscher Polizist nimmt Schmuck mit",
+    "summary": "Am Mittwoch (29. Juli) klingelte es gegen 16 Uhr an der Haustür eines 76-Jährigen in Radevormwald. Vor der Tür stand ein Mann, der sich als Polizeibeamter vorstellte.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/falscher-polizist-nimmt-schmuck-mit-XKRQESTACHF766J5DPK36OP4YY.html",
+    "published": "Thu, 30 Jul 2026 13:07:29 +0200",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-07-30T12:00:27.284261"
+  },
+  {
+    "id": "52e63822d4b7",
+    "title": "Abkühlung bei Hitze: In diesen Talsperren um Remscheid und Solingen ist das Baden erlaubt",
+    "summary": "Bei hohen Temperaturen kann der Sprung ins kalte Nass erfrischen. Doch das Freibad Eschbachtal ist geschlossen. Eine Alternative muss also her. Wir haben eine Übersicht erstellt, in welchen Talsperren das Schwimmen erlaubt ist – und was es zu beachten gibt.",
+    "link": "https://www.rga.de/lokales/remscheid/abkuehlung-bei-hitze-in-diesen-talsperren-um-remscheid-und-solingen-ist-das-baden-erlaubt-O3MB6T4EQVCIPIQZMOFENSUE3A.html",
+    "published": "Thu, 30 Jul 2026 12:45:36 +0200",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen",
+      "radevormwald",
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-07-30T12:00:26.398283"
+  },
+  {
     "id": "87ddb5862976",
     "title": "POL-GM: Betrüger auf Verkaufsportal unterwegs",
     "summary": "Nümbrecht (ots) - Eine 40-jährige Nümbrechterin wollte zwei Produkte über ein Kleinanzeigen-Portal im Internet verkaufen. Zwei vermeintliche Käufer gaben vor, über PayPal bezahlen zu wollen, dies würde aber nicht funktionieren. Daraufhin ...",
@@ -8876,6 +8914,44 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-07-30T09:36:57.960359"
+  },
+  {
+    "id": "49ddf3de6dc4",
+    "title": "Gebrauchte Elektroautos kaufen: Experten warnen vor 5 Fallen",
+    "summary": "Batteriezustand, Reichweite und Vertrag entscheiden beim Gebrauchtkauf. Fünf Prüfungen schützen Käufer vor teuren Risiken und Betrug.",
+    "link": "https://www.news-on-tour.de/206493/stuttgart-elektroauto-gebrauchtkauf/",
+    "published": "Thu, 30 Jul 2026 10:30:31 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-07-30T12:00:25.608547"
+  },
+  {
+    "id": "755f660b9cd4",
+    "title": "Morsbach: Kradunfälle – Honda-Fahrer crasht. Zwei Fahrer verletzt",
+    "summary": "Kradunfälle in Morsbach und Marienheide: Zwei Zweiradfahrer wurden leicht verletzt, einer kam zur ambulanten Behandlung ins Krankenhaus.",
+    "link": "https://www.news-on-tour.de/206490/morsbach-kradunfaelle-marienheide/",
+    "published": "Thu, 30 Jul 2026 10:20:43 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "morsbach",
+      "marienheide"
+    ],
+    "fetched": "2026-07-30T12:00:25.608585"
+  },
+  {
+    "id": "d4cf9c1157b1",
+    "title": "Oberberg: Betrugsmaschen in Nümbrecht und Radevormwald – Polizei warnt",
+    "summary": "Zwei Betrugsfälle in Nümbrecht und Radevormwald: Eine Frau verliert Geld beim Onlineverkauf, ein Senior Schmuck an einen falschen Polizisten.",
+    "link": "https://www.news-on-tour.de/206485/oberberg-betrugsmaschen-faelle/",
+    "published": "Thu, 30 Jul 2026 10:02:24 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "radevormwald",
+      "nuembrecht"
+    ],
+    "fetched": "2026-07-30T12:00:25.608615"
   },
   {
     "id": "0f31ab349487",
