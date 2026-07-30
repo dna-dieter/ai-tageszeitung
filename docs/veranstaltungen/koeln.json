@@ -100,6 +100,16 @@
     "teaser": "37. Kölner Sommerfestival»Die Weiße Rose – Ein Musical über Umdenken, Verantwortung und Mut« widmet sich den jungen Menschen um Hans und Sophie Scholl, Alexander Schmorell, Christoph Probst, Willi Graf und Professor Ku"
   },
   {
+    "titel": "Feierabend mit Rosenkavalier",
+    "datum": "30. Jul 2026",
+    "datum_raw": "2026-07-30T20:00+0200",
+    "ort": "Die hängenden Gärten von Ehrenfeld, Vogelsanger Straße 140",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/feierabend-mit-rosenkavalier-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Verbringe deinen Feierabend am 12.08.2026 mit Ein Rosenkavalier in den Hängenden Gärten. "
+  },
+  {
     "titel": "Hofklänge | SOMMER KÖLN",
     "datum": "30. Jul 2026",
     "datum_raw": "2026-07-30T20:00+0200",
@@ -388,15 +398,5 @@
     "link": "https://rausgegangen.de/events/jazz-at-green-room-tony-lakatos-martin-sasse-quartett-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "18:00 | Konzert | GREEN ROOMTony Lakatos und Martin Sasse sind seit langer Zeit aus der Jazzwelt in Deutschland - wie auch darüber hinaus - nicht wegzudenken. Ihre Vitae schmücken unter anderem Konzerte und Aufnahmen m"
-  },
-  {
-    "titel": "Deafheaven",
-    "datum": "2. Aug 2026",
-    "datum_raw": "2026-08-02T19:00+0200",
-    "ort": "Kantine & Yard Club, Neusser Landstraße 2",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/deafheaven-4/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "DEAFHEAVENEinlass 19:00 Start 20:00Seit ihrer Gründung stehen Deafheaven für eine radikale ästhetische Öffnung extremer Musik. Was einst aus der Tradition des Black Metal hervorging, wurde von der Band zu einer klang"
   }
 ]
