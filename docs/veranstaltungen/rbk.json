@@ -198,6 +198,15 @@
     "teaser": "Jugendzentren, Museen, Sportvereine, Bibliotheken, Theater und einige weitere Veranstalter haben in den Sommerferien eine Menge Angebote für Kinder und Jugendliche im Programm. Dabei sind mehrtägige E"
   },
   {
+    "titel": "POL-RBK: Bergisch Gladbach - Drei Festnahmen nach Diebstahl in Discounter",
+    "datum": "31. Jul 2026",
+    "datum_raw": "Fri, 31 Jul 2026 08:23:41 +0200",
+    "ort": "",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6324776",
+    "quelle": "Presseportal Polizei RBK",
+    "teaser": "Bergisch Gladbach (ots) - Am Donnerstag (30.07.) nahm die Polizei drei Personen vorläufig fest, nachdem sie Lebensmittel im Wert von über 800 Euro aus einem Discounter an der Kölner Straße in Bergisch"
+  },
+  {
     "titel": "Grundschulmeisterschaften 2026: Sport und Teamgeist in Bergisch Gladbach",
     "datum": "24. Jul 2026",
     "datum_raw": "Fri, 24 Jul 2026 11:14:18 +0000",
@@ -241,32 +250,5 @@
     "link": "https://www.presseportal.de/blaulicht/pm/62459/6316647",
     "quelle": "Presseportal Polizei RBK",
     "teaser": "Overath (ots) - Nachtrag zu den Pressemitteilungen vom 11. Juli (Ziffer 2) und 16. Juli (Ziffer 5): https://www.presseportal.de/blaulicht/pm/12415/6312600 https://www.presseportal.de/blaulicht/pm/1241"
-  },
-  {
-    "titel": "Salyutov holt neue Klangwelt nach Bergisch Gladbach",
-    "datum": "17. Jul 2026",
-    "datum_raw": "Fri, 17 Jul 2026 06:59:00 +0000",
-    "ort": "",
-    "link": "https://in-gl.de/2026/07/17/salyutov-holt-neue-klangwelt-nach-bergisch-gladbach/",
-    "quelle": "iGL Bürgerportal Bergisch Gladbach",
-    "teaser": "Mal wieder handelt Roman Salyutov, Konzertpianist und Leiter des Sinfonieorchesters Bergisch Gladbach, unkonventionell und pragmatisch, wenn es darum geht, die Musikszene der Stadt zu stärken. Er hat "
-  },
-  {
-    "titel": "Baustellen-Ticker: Unterführung Steinstraße wird saniert",
-    "datum": "17. Jul 2026",
-    "datum_raw": "Fri, 17 Jul 2026 05:45:00 +0000",
-    "ort": "",
-    "link": "https://in-gl.de/2026/07/17/baustellen-ticker-neues-zur-laurentius-und-zur-johann-wilhelm-lindlar-strasse/",
-    "quelle": "iGL Bürgerportal Bergisch Gladbach",
-    "teaser": "Die Unterführung der Steinstraße zur Stadtbahnhaltestelle Bensberg wird ab Montag für rund drei Wochen gesperrt. In dieser Zeit werden Betonsanierungsarbeiten erledigt."
-  },
-  {
-    "titel": "Bunter Empfang für Merz und Macron in Bensberg",
-    "datum": "17. Jul 2026",
-    "datum_raw": "Fri, 17 Jul 2026 04:41:48 +0000",
-    "ort": "",
-    "link": "https://in-gl.de/2026/07/17/bunter-empfang-fuer-merz-und-macron-in-bensberg/",
-    "quelle": "iGL Bürgerportal Bergisch Gladbach",
-    "teaser": "Rund 200 Menschen sind am Donnerstagabend zum Schloss in Bensberg gekommen, das zum Treffen von Bundeskanzler Friedrich Merz und Frankreichs Präsident Emmanuele Macron von einem sehr großen Polizeiauf"
   }
 ]
