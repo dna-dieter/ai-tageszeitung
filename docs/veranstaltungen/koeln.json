@@ -24,7 +24,7 @@
     "datum": "31. Jul 2026",
     "datum_raw": "2026-07-31T19:00+0200",
     "ort": "ST. LOUIS Breakfast, Meister-Gerhard-Straße 30",
-    "preis": "ab 16 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/disco-bingo-im-st-louis-breakfast-das-original-in-koln-35/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Disco Bingo mischt Klassiker und aktuelle Hits zu einem Spielabend, bei dem du nicht nur Zahlen, sondern auch Songs ankreuzt und mit ein bisschen Glück Preise abräumst Hier bringen die Gastgeber:innen mit Witz und ordent"
@@ -44,7 +44,7 @@
     "datum": "31. Jul 2026",
     "datum_raw": "2026-07-31T19:30+0200",
     "ort": "Tsunami Club, Im Ferkulum 9",
-    "preis": "ab 29 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/grausame-tochter-vampyros-lesbos-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Weit über hundert hedonistische Bühnenshows, provokante Fragen, philosophische Grenzgänge und die stetige Suche nach künstlerischem Ausdruck bis an die Grenzen des Möglichen: GRAUSAME TÖCHTER haben sich einen feste"
@@ -74,7 +74,7 @@
     "datum": "31. Jul 2026",
     "datum_raw": "2026-07-31T20:00+0200",
     "ort": "NightWash club, Hohenstaufenring 25-27",
-    "preis": "ab 35 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/tell-me-mord-der-true-crime-podcast-mit-meli-und-phuxi-live-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Meli und Phuxi nehmen dich mit auf eine Reise zu mysteriösen Kriminalfällen und tauchen tief in die Motive der Täter ein. Ihr Podcast „Tell Me Mord“ lebt von kluger Recherche und schwarzem Humor – live ein spannendes Erl"
@@ -240,6 +240,16 @@
     "teaser": "Krach in Kalk   Am 1. August gibt es Krach auf Anordnung auf dem Kulturhof Kalk. Open Air Konzerte mit drei Bands im Zeichern einer amtlichen Geräuschsmessung.Start: 18 Uhr  Ende: 22 Uhr  Live: SILK, Tellarek, Abfahrtsa"
   },
   {
+    "titel": "Salsa am Brunnen - Ebertplatz",
+    "datum": "1. Aug 2026",
+    "datum_raw": "2026-08-01T18:00+0200",
+    "ort": "Ebertplatz, Ebertplatz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/salsa-am-brunnen-ebertplatz-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Samstag am Brunnen. 🌅La Cata Montesa & Chila del Mar spielen Salsa – draußen, ab 18:00, mit dem leckersten kühlen Getränk in der Hand.Und danach? Kölner Lichter. Besseren Abend kann man sich kaum bauen.📍 Biergarten Eb"
+  },
+  {
     "titel": "Art Nouveau - Arcadia: Legenden der Leidenschaft",
     "datum": "1. Aug 2026",
     "datum_raw": "2026-08-01T19:00+0200",
@@ -388,15 +398,5 @@
     "link": "https://rausgegangen.de/events/dance-me-die-musik-von-leonard-cohen-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "37. Kölner SommerfestivalBallets Jazz MontrealDANCE ME ist eine moderne, mitreißende Tanzproduktion, inspiriert von der Musik und den Texten des kanadischen Sängers, Songwriters und Dichters Leonard Cohen. Seine Lieder"
-  },
-  {
-    "titel": "Jazzorama Sommergarten: Maxi valdes Hammond Trio + Jamsession",
-    "datum": "4. Aug 2026",
-    "datum_raw": "2026-08-04T20:00+0200",
-    "ort": "artheater Köln, Ehrenfeldgürtel 127",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/jazzorama-sommergarten-maxi-valdes-hammond-trio-jamsession-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Im Maxi Valdes Hammond Trio trifft tiefe Black American Music auf pure Improvisationskunst, die im Moment zu einem unverwechselbaren Sound verschmilzt. Es erwartet dich ein offenes Zusammenspiel, das jedes Mal aufs Neue "
   }
 ]
