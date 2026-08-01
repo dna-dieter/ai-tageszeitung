@@ -1,5 +1,15 @@
 [
   {
+    "titel": "UMSONST&DRAUSSEN Charity OpenAir @Niehler Hafen + TruckClub by Freunde Legen Auf",
+    "datum": "1. Aug 2026",
+    "datum_raw": "2026-08-01T12:00+0200",
+    "ort": "Köln Niehl, Köln",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/umsonstdraussen-charity-openair-niehler-hafen-truckclub-by-f-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim UMSONST&DRAUSSEN Charity OpenAir geht es um echte Clubkultur ohne Ego, mit DJs, die Musik als handwerkliches Erlebnis sehen. Hier findest du sorgfältig kuratierte Sets, die abseits vom Rampenlicht Kraft und Gemeinsc"
+  },
+  {
     "titel": "Riton x Lidl Croissant Eis 🥐🍦",
     "datum": "1. Aug 2026",
     "datum_raw": "2026-08-01T12:00+0200",
@@ -8,16 +18,6 @@
     "link": "https://rausgegangen.de/events/croissant-eis/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Riton und Lidl servieren in Köln ein Croissant Eis, das mit drei Kugeln und extra Toppings richtig was hermacht. Am Samstag mixt Riton seine eigene Variante und ist persönlich am Start. Wer früh da ist, ergattert sogar e"
-  },
-  {
-    "titel": "UMSONST&DRAUSSEN Charity OpenAir @Niehler Hafen + TruckClub by Freunde Legen Auf",
-    "datum": "1. Aug 2026",
-    "datum_raw": "2026-08-01T12:00+0200",
-    "ort": "Köln Niehl, Köln",
-    "preis": "ab 10 €",
-    "link": "https://rausgegangen.de/events/umsonstdraussen-charity-openair-niehler-hafen-truckclub-by-f-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim UMSONST&DRAUSSEN Charity OpenAir geht es um echte Clubkultur ohne Ego, mit DJs, die Musik als handwerkliches Erlebnis sehen. Hier findest du sorgfältig kuratierte Sets, die abseits vom Rampenlicht Kraft und Gemeinsc"
   },
   {
     "titel": "Multiple Voices & Spem in Alium",
@@ -110,16 +110,6 @@
     "teaser": "Samstag am Brunnen. 🌅La Cata Montesa & Chila del Mar spielen Salsa – draußen, ab 18:00, mit dem leckersten kühlen Getränk in der Hand.Und danach? Kölner Lichter. Besseren Abend kann man sich kaum bauen.📍 Biergarten Eb"
   },
   {
-    "titel": "Ocean Eyes presents: Violet Chachki",
-    "datum": "1. Aug 2026",
-    "datum_raw": "2026-08-01T19:00+0200",
-    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/ocean-eyes-presents-violet-chachki-5/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Violet Chachki bringt queer Glamour mit einem zweistündigen DJ-Set auf die Tanzfläche, nachdem lokale Drag-Stars und Special Guest Hungry den Abend mit spannenden Performances starten. Eine Nacht voll Energie für alle, d"
-  },
-  {
     "titel": "Lese WG Party",
     "datum": "1. Aug 2026",
     "datum_raw": "2026-08-01T19:00+0200",
@@ -128,6 +118,16 @@
     "link": "https://rausgegangen.de/events/lese-wg-party-koeln/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Bring ein Buch mit, verpackt in Zeitungspapier, und tausche es heimlich gegen eine neue Lektüre. Bei der Lese WG Party triffst du Leute, die genauso gerne quatschen und spielen wie du – ganz entspannt bei Kaffee und Matc"
+  },
+  {
+    "titel": "Ocean Eyes presents: Violet Chachki",
+    "datum": "1. Aug 2026",
+    "datum_raw": "2026-08-01T19:00+0200",
+    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/ocean-eyes-presents-violet-chachki-5/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Violet Chachki bringt queer Glamour mit einem zweistündigen DJ-Set auf die Tanzfläche, nachdem lokale Drag-Stars und Special Guest Hungry den Abend mit spannenden Performances starten. Eine Nacht voll Energie für alle, d"
   },
   {
     "titel": "Mamma Mia! // Kultfilm",
@@ -220,16 +220,6 @@
     "teaser": "Bei BAILOTEO geht’s um mehr als Musik – hier lebt Reggaeton in seiner puren, lauten Form. Mit Acts wie Dofra und PistoMickyDon wird die Tanzfläche zum Ort, an dem Latin-Rhythmen und echte Community verschmelzen und jede:"
   },
   {
-    "titel": "WIR Schwestern 20 Years - New Frequencies - August Rush",
-    "datum": "1. Aug 2026",
-    "datum_raw": "2026-08-01T23:00+0200",
-    "ort": "Odonien, Hornstraße 85",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/wir-schwestern-new-frequencies-august-rush-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "New Frequencies bringt junge FLINTA*-Artists aus NRW und darüber hinaus zusammen und verbindet Clubklänge mit frischen elektronischen Sounds. Die Mischung aus House, Hip-Hop und Techno sorgt für eine Nacht voller Vielfal"
-  },
-  {
     "titel": "Peinlo Pop Party • Helios37 • Köln",
     "datum": "1. Aug 2026",
     "datum_raw": "2026-08-01T23:00+0200",
@@ -240,6 +230,16 @@
     "teaser": "Bei der Peinlo Pop Party geht’s um deine Lieblingssongs, die du sonst heimlich aufdrehst – egal ob Avril, Taylor oder Rihanna. Hier singst du textsicher, gibst richtig Gas und feierst deine Hauptrollen-Momente ohne Scham"
   },
   {
+    "titel": "WIR Schwestern 20 Years - New Frequencies - August Rush",
+    "datum": "1. Aug 2026",
+    "datum_raw": "2026-08-01T23:00+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/wir-schwestern-new-frequencies-august-rush-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "New Frequencies bringt junge FLINTA*-Artists aus NRW und darüber hinaus zusammen und verbindet Clubklänge mit frischen elektronischen Sounds. Die Mischung aus House, Hip-Hop und Techno sorgt für eine Nacht voller Vielfal"
+  },
+  {
     "titel": "Fresh Fruits - A Celebration Of House Music (Outdoor Session FOR FREE! 18:00 - 22:00!)",
     "datum": "1. Aug 2026",
     "datum_raw": "2026-08-01T23:00+0200",
@@ -248,6 +248,16 @@
     "link": "https://rausgegangen.de/events/fresh-fruits-a-celebration-of-house-music-3/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Fresh Fruits feiert House ganz ohne Schnickschnack: Warme Beats, entspannte Stimmung und ein Raum, in dem jede:r ganz im Moment ankommt. Hier geht’s nicht um Fame, sondern um echtes Musikgefühl und gemeinsame Freude auf "
+  },
+  {
+    "titel": "IPWIW x CANDID COLOGNE",
+    "datum": "1. Aug 2026",
+    "datum_raw": "2026-08-01T23:30+0200",
+    "ort": "YUCA, Bartholomäus-Schink-Straße 65",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/ipwiw-x-candid-cologne-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "On August 1st, IPWIW and Candid come together for a sexy lovestory at YUCA.Share the dancefloor with a massive lineup and house music all nite long.Music by: Nina // Beace // Junior B2B Airmax // iamluie // Dj Hot // CHU"
   },
   {
     "titel": "Die Weiße Rose – Musical von Alex Melcher & Vera Bolten",
@@ -388,15 +398,5 @@
     "link": "https://rausgegangen.de/events/cage-band-day-2-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Cage kombiniert mit ihrer samtigen Stimme Soul vergangener Zeiten mit moderner Offenheit und sprengt Grenzen mühelos. Begleitet von einer Band voller internationaler Einflüsse erwartet dich eine ehrliche Show, die spürba"
-  },
-  {
-    "titel": "DANCE ME: Die Musik von Leonard Cohen",
-    "datum": "5. Aug 2026",
-    "datum_raw": "2026-08-05T20:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 50 €",
-    "link": "https://rausgegangen.de/events/dance-me-die-musik-von-leonard-cohen-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "37. Kölner SommerfestivalBallets Jazz MontrealDANCE ME ist eine moderne, mitreißende Tanzproduktion, inspiriert von der Musik und den Texten des kanadischen Sängers, Songwriters und Dichters Leonard Cohen. Seine Lieder"
   }
 ]
