@@ -1,143 +1,63 @@
 [
   {
-    "titel": "Handwerks- und Flohmarkt im BüzE",
-    "datum": "2. Aug 2026",
-    "datum_raw": "2026-08-02T10:00+0200",
-    "ort": "Bürgerzentrum Ehrenfeld, Venloer Str. 429",
+    "titel": "Aperol & Plants",
+    "datum": "3. Aug 2026",
+    "datum_raw": "2026-08-03T17:00+0200",
+    "ort": "Deli Sülz, Berrenrather Str. 221",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/handwerks-und-flohmarkt-im-buze-33/",
+    "link": "https://rausgegangen.de/events/aperol-plants-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Entspanntes Stöbern und Second-Hand-Schnapper mitten in Ehrenfeld! Einmal im Monat wird das BüZe zur richtigen Flohmi-Schatzkiste. Ob neues Outfit oder Handgemachtes - hier findet jede:r ein Lieblingsteil zum kleinen Pre"
+    "teaser": "Hier gibt’s Pflanzen und passende Töpfe zum Stöbern, Tauschen und Mitnehmen – perfekt für alle, die’s gern grün mögen. Dazu ein Aperol Spritz in entspannter Atmosphäre und Montagsgefühl, das entspannt in die Woche führt "
   },
   {
-    "titel": "Was längst in dir steckt - Ein Tagesworkshop für Frauen",
-    "datum": "2. Aug 2026",
-    "datum_raw": "2026-08-02T10:00+0200",
-    "ort": "IGLU gUG - DREHSCHEIBE FÜR NACHHALTIGEN KONSUM, Sudermanplatz 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/was-langst-in-dir-steckt-ein-tagesworkshop-fur-frauen-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "In diesem Workshop geht es darum, all das anzuerkennen, was du längst kannst, ohne es ständig zu hinterfragen. Mit systemischen Übungen und Austausch findest du einen Raum, um deine Fähigkeiten klarer zu sehen und für di"
-  },
-  {
-    "titel": "Deutz feiert!",
-    "datum": "2. Aug 2026",
-    "datum_raw": "2026-08-02T12:00+0200",
-    "ort": "Deutzer Freiheit, Deutzer Freiheit",
+    "titel": "LEZ*MEET ... dein neuer sapphic Treff in Köln!",
+    "datum": "3. Aug 2026",
+    "datum_raw": "2026-08-03T18:00+0200",
+    "ort": "anyway | 🌈 Bar, Club, Communityspace, Kamekestraße 14",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/deutz-feiert-5/",
+    "link": "https://rausgegangen.de/events/lezmeet-dein-neuer-sapphic-treff-in-koln-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "„Deutz feiert!“ ist das Kölner Stadtteilfest auf der rechten Rheinseite. Zahlreiche Stände, Bühnenprogramm und Entertainment für die ganze Familie locken zwei Tage lang auf die Schäl Sick.Zum Familien- und Stadtteil"
+    "teaser": "Bei LEZ*MEET triffst du andere junge sapphische und queere Frauen zwischen 24 und 35 für entspannte Abende mit Raum zum Reden, Spielen und Vernetzen. Hier findest du einen sicheren Ort, um ganz du selbst zu sein und neue"
   },
   {
-    "titel": "Die Weiße Rose – Musical von Alex Melcher & Vera Bolten",
-    "datum": "2. Aug 2026",
-    "datum_raw": "2026-08-02T14:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 40 €",
-    "link": "https://rausgegangen.de/events/die-weie-rose-musical-von-alex-melcher-vera-bolten-6/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "37. Kölner Sommerfestival»Die Weiße Rose – Ein Musical über Umdenken, Verantwortung und Mut« widmet sich den jungen Menschen um Hans und Sophie Scholl, Alexander Schmorell, Christoph Probst, Willi Graf und Professor Ku"
-  },
-  {
-    "titel": "One Family Music Circle - Indigene Version",
-    "datum": "2. Aug 2026",
-    "datum_raw": "2026-08-02T14:00+0200",
-    "ort": "Yoga Liebe Köln - Yoga und Pilates, Niehler Straße 104",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/one-family-music-circle-indigene-version-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Ein Raum, der dich daran erinnert, deinen eigenen Weg zu leben  Denn wenn du beginnst, dich selbst zu leben, wird innerer Frieden Teil deines Lebens  Begleiter des Kreises:  ✨ Zeremonieller Kakao aus Peru Für Aktivierun"
-  },
-  {
-    "titel": "Feministischer Salon zur Stärkung der Moral in harten Zeiten",
-    "datum": "2. Aug 2026",
-    "datum_raw": "2026-08-02T14:30+0200",
-    "ort": "Agnesviertel Köln, Köln",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/feministischer-brunch-zur-starkung-der-moral-in-harten-zeite-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Der Feministische Salon lädt dich zu einem kleinen Brunch ein, bei dem es um echte Gespräche und gegenseitige Unterstützung geht. Gemeinsam geht ihr den Herausforderungen weiblicher Sozialisation auf den Grund und stärkt"
-  },
-  {
-    "titel": "Sonntagsbühne",
-    "datum": "2. Aug 2026",
-    "datum_raw": "2026-08-02T15:00+0200",
-    "ort": "Odonien, Hornstraße 85",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/sonntagsbuhne-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Auf der Sonntagsbühne treten verschiedene Musiker:innen aus Köln und Umgebung auf, die ihre Songs mitten im Skulpturenpark vorstellen. Das Programm bietet eine entspannte Mischung und lädt ein, bei veganem Flammkuchen un"
-  },
-  {
-    "titel": "Das Climate Crashout Cinema",
-    "datum": "2. Aug 2026",
-    "datum_raw": "2026-08-02T15:00+0200",
-    "ort": "Allerweltshaus Köln, Geisselstraße 3-5",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/das-climate-crashout-cinema-4/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Climate Crashout Cinema erwartet dich ein offenes Festival mit Dokumentarfilmen und Gesprächen zu Klima, globaler Gerechtigkeit und Widerstand. Die Filme zeigen Verbindungen von Umweltthemen zu Rassismus und Kolonia"
-  },
-  {
-    "titel": "SOULFUL SUNDAY #03 🌿 Rooftop Party",
-    "datum": "2. Aug 2026",
-    "datum_raw": "2026-08-02T16:00+0200",
-    "ort": "PARK Café, Auenweg",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/soulful-sunday-03-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier gibt’s coole HipHop-, Afrobeats- und RnB-Klassiker, die den Sonntag in eine entspannte Rooftop-Session verwandeln. Sonnenstrahlen, Drinks und entspannte Crowd sorgen für einen lässigen Nachmittag über den Dächern de"
-  },
-  {
-    "titel": "Workshop & Social Night für Paare & Alleinstehende,  Tanzen verbindet",
-    "datum": "2. Aug 2026",
-    "datum_raw": "2026-08-02T17:45+0200",
-    "ort": "Salsa Bachata Mastery Zentrum, Georgstraße 5",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/workshop-social-night-fur-paare-alleinstehende-tanzen-verbin-127/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Es geht um neue Kontakte und ein neues Hobby, das deine Weltsicht verändern und den Kontakt zu Menschen viel einfacher machen kann. Durch das Tanzen verbinden sich Menschen und bleiben präsent.Meine Aufgabe als Worksho"
-  },
-  {
-    "titel": "Beyond the Roots feat. Oded Geizhals",
-    "datum": "2. Aug 2026",
-    "datum_raw": "2026-08-02T18:00+0200",
-    "ort": "Welträume Köln, Lochnerstraße 12-14",
-    "preis": "ab 12 €",
-    "link": "https://rausgegangen.de/events/beyond-the-roots-feat-oded-geizhals-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "as Ensemble Beyond the Roots widmet sich dem lebendigen Austausch über kulturelle und musikalische Grenzen hinweg. In ihren Eigenkompositionen und Improvisationen entfalten die sechs Musiker:innen einen polyästhetische"
-  },
-  {
-    "titel": "Jazz at Green Room: Tony Lakatos - Martin Sasse Quartett",
-    "datum": "2. Aug 2026",
-    "datum_raw": "2026-08-02T18:00+0200",
-    "ort": "Stadtgarten, Venloer Straße 40",
-    "preis": "ab 8 €",
-    "link": "https://rausgegangen.de/events/jazz-at-green-room-tony-lakatos-martin-sasse-quartett-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "18:00 | Konzert | GREEN ROOMTony Lakatos und Martin Sasse sind seit langer Zeit aus der Jazzwelt in Deutschland - wie auch darüber hinaus - nicht wegzudenken. Ihre Vitae schmücken unter anderem Konzerte und Aufnahmen m"
-  },
-  {
-    "titel": "Segeljungs – Mit null Ahnung um die Welt",
-    "datum": "2. Aug 2026",
-    "datum_raw": "2026-08-02T19:00+0200",
+    "titel": "The Piano Tuner // Aperol Kinotag 🧡",
+    "datum": "3. Aug 2026",
+    "datum_raw": "2026-08-03T19:00+0200",
     "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/segeljungs-mit-null-ahnung-um-die-welt-62/",
+    "link": "https://rausgegangen.de/events/the-piano-tuner-aperol-kinotag-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Vier Freunde aus Bayern starten ohne Erfahrung und viel Mut zu einem Segeltörn abenteuerlich um die Welt – vom Atlantik bis in die Südsee. Ihr Film zeigt, wie Träume, Freundschaft und Willenskraft das Leben verändern kön"
+    "teaser": "Niki, ein außergewöhnlicher Klavierstimmer zwischen Musik und kriminellen Aufträgen in New York, verliert sich in einer zarten Liebesgeschichte mit einer Kompositionsstudentin. The Piano Tuner erzählt von Grenzgängen und"
   },
   {
-    "titel": "Deafheaven",
-    "datum": "2. Aug 2026",
-    "datum_raw": "2026-08-02T19:00+0200",
-    "ort": "Die Kantine / Yard Club, Neusser Landstraße 2",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/deafheaven-4/",
+    "titel": "Let's Quiz Again im Brauhaus",
+    "datum": "3. Aug 2026",
+    "datum_raw": "2026-08-03T19:15+0200",
+    "ort": "Brauhaus Stüsser, Neusser Straße 47",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/lets-quiz-again-im-brauhaus-9/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "DEAFHEAVENEinlass 19:00 Start 20:00Seit ihrer Gründung stehen Deafheaven für eine radikale ästhetische Öffnung extremer Musik. Was einst aus der Tradition des Black Metal hervorging, wurde von der Band zu einer klang"
+    "teaser": "Beim Let’s Quiz Again geht’s nicht nur ums Wissen, sondern um ‘nen locker-flotten Abend mit jeder Menge Spaß, Musik und echten Köln-Kolorit. Ob Allgemeinbildung oder FC und Karneval, die Quizmaster halten die Stimmung ho"
+  },
+  {
+    "titel": "Kölsch und Comedy",
+    "datum": "3. Aug 2026",
+    "datum_raw": "2026-08-03T20:00+0200",
+    "ort": "Joode Lade, Lindenstraße 62",
+    "preis": "ab 12 €",
+    "link": "https://rausgegangen.de/events/kolsch-und-comedy-91/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Du hast Lust auf Kölsch und Comedy? Dann bist du bei Kölsch und Comedy genau richtig! Hier kommen regelmäßig Stand-Up Comedians zusammen, um ihre neuen Nummern zu testen. Von Newcomern bis zu etablierten Künstler*innen d"
+  },
+  {
+    "titel": "College Monday",
+    "datum": "3. Aug 2026",
+    "datum_raw": "2026-08-03T22:00+0200",
+    "ort": "Roonburg, Roonstraße 33",
+    "preis": "ab 8 €",
+    "link": "https://rausgegangen.de/events/college-monday-71/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der College Monday bringt mit poppigen Clubklassikern und Throwbacks die Roonburg jeden Montagabend zum Leben. Bei halbem Getränkepreis und Spielen wie Beer Pong erwartet dich ein entspannter Abend im College-Flair. Für "
   },
   {
     "titel": "Cage & Band Day 1",
@@ -310,6 +230,16 @@
     "teaser": "37. Kölner SommerfestivalBallets Jazz MontrealDANCE ME ist eine moderne, mitreißende Tanzproduktion, inspiriert von der Musik und den Texten des kanadischen Sängers, Songwriters und Dichters Leonard Cohen. Seine Lieder"
   },
   {
+    "titel": "Midsummer & Drinks: Feierabendmarkt Hermeskeiler Platz",
+    "datum": "7. Aug 2026",
+    "datum_raw": "2026-08-07T16:00+0200",
+    "ort": "Sülz - Hermeskeiler Platz, Hermeskeiler Platz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/feierabendmarkt-auf-dem-hermeskeilerplatz-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wer braucht den Süden, wenn Sülz so schön ist? Der Feierabendmarkt auf dem Hermeskeiler Platz sorgt für Urlaubs-Feeling pur: Streetfood frisch auf die Hand, kaltes Kölsch und Zeit zum Seele baumeln lassen! 🌯🍺"
+  },
+  {
     "titel": "Becks - Open Air 2026",
     "datum": "7. Aug 2026",
     "datum_raw": "2026-08-07T18:00+0200",
@@ -398,5 +328,75 @@
     "link": "https://rausgegangen.de/events/juju-releasekonzert-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": ""
+  },
+  {
+    "titel": "Cologne Nightlife Tour: 4 Locations, Shots & Club Entry",
+    "datum": "7. Aug 2026",
+    "datum_raw": "2026-08-07T21:15+0200",
+    "ort": "Zülpicher Pl., Zülpicher Pl., 50674 Köln, Germany",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/cologne-nightlife-tour-4-locations-shots-club-entry-61/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Experience Cologne nightlife the easy way with a fun group and a local host. After check-in at the meeting point, the night starts with a welcome shot. Then you’ll visit 4 lively nightlife locations, a mix of popular bar"
+  },
+  {
+    "titel": "Karaoke - Sing It Out!",
+    "datum": "7. Aug 2026",
+    "datum_raw": "2026-08-07T21:30+0200",
+    "ort": "NightWash club, Hohenstaufenring 25-27",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/sing-it-out-maxis-karaoke-nacht-9/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Hier gibt’s keinen Jury-Stress und keine falschen Töne, sondern einfach 53.000 Songs zum Austoben – von 90s Trash bis RnB. Maxi macht seit Jahren Karaoke-Abende zur Party, bei denen du zum Held:in oder Meme wirst. Zwisch"
+  },
+  {
+    "titel": "DANCE ME: Die Musik von Leonard Cohen",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T15:00+0200",
+    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
+    "preis": "ab 60 €",
+    "link": "https://rausgegangen.de/events/dance-me-die-musik-von-leonard-cohen-5/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "37. Kölner SommerfestivalBallets Jazz MontrealDANCE ME ist eine moderne, mitreißende Tanzproduktion, inspiriert von der Musik und den Texten des kanadischen Sängers, Songwriters und Dichters Leonard Cohen. Seine Lieder"
+  },
+  {
+    "titel": "Pelemele POP ’N’ ROLL – Kinderrockmusik | Sommer Köln",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T16:00+0200",
+    "ort": "Rudolfplatz, Rudolfplatz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/pelemele-pop-n-roll-kinderrockmusik-sommer-koln-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Pelemele mischen Rock, Funk und Hip Hop zu einem Sound, der kleine und große Ohren in Bewegung bringt. Mit bekannten Gästen wird die Show zum bunten Spektakel voller Energie und Spaß für die ganze Familie 🤩"
+  },
+  {
+    "titel": "Borsch4breakfast | Balkan | Jazz",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T18:30+0200",
+    "ort": "Et Kapellchen e.V. Köln-Mülheim, Holsteinstraße",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/borsch4breakfast-balkan-jazz-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Deftige musikalische Suppe zum Frühstück! Die vier jungen Profimusiker formen Perlen des klassischen Musikkanons und ungewohnte Musikgenres zu einem außergewöhnlichen Klangbild.Inspiriert von osteuropäischer Folklore"
+  },
+  {
+    "titel": "Sofa Sessions am Zülpi 🎶🛋️",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T19:00+0200",
+    "ort": "Social Studio Köln, Friedrichstraße 63",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/sofa-sessions-am-zulpi-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "🛋️ Sofa Session am Zülpi #1: MattiHoff 🎶Mache es dir gemütlich, schalte den Kopf aus und tauche ein in einen ganz besonderen Abend: Wir starten unsere allererste Sofa Session am Zülpi im Social Studio!Für diese Premi"
+  },
+  {
+    "titel": "YEVEH – afro-elektronische Musik | Sommer Köln",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T19:00+0200",
+    "ort": "Rudolfplatz, Rudolfplatz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/yeveh-afro-elektronische-musik-sommer-koln-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "YEVEH mischt westafrikanische Klänge mit pulsierendem Afro-House und Afrotech zu einem Sound, der tief aus ihrer kulturellen Identität schöpft. Bei ihrer Performance erlebst du eine frische Fusion, die elektronische Musi"
   }
 ]
