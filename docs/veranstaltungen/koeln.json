@@ -1,63 +1,43 @@
 [
   {
-    "titel": "Aperol & Plants",
-    "datum": "3. Aug 2026",
-    "datum_raw": "2026-08-03T17:00+0200",
-    "ort": "Deli Sülz, Berrenrather Str. 221",
+    "titel": "APERITIVO CLUB",
+    "datum": "4. Aug 2026",
+    "datum_raw": "2026-08-04T17:00+0200",
+    "ort": "Plüsch Bar & Lounge, Johannisstraße 76-80",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/aperol-plants-0/",
+    "link": "https://rausgegangen.de/events/aperitivo-club-15/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Hier gibt’s Pflanzen und passende Töpfe zum Stöbern, Tauschen und Mitnehmen – perfekt für alle, die’s gern grün mögen. Dazu ein Aperol Spritz in entspannter Atmosphäre und Montagsgefühl, das entspannt in die Woche führt "
+    "teaser": "Jeden Dienstag kannst du den Arbeitstag stilvoll mit ausgewählten Drinks und kleinen Snacks ausklingen lassen. Es erwartet dich eine entspannte Atmosphäre auf der Terrasse, ideal für entspannte Gespräche und sommerliche "
   },
   {
-    "titel": "LEZ*MEET ... dein neuer sapphic Treff in Köln!",
-    "datum": "3. Aug 2026",
-    "datum_raw": "2026-08-03T18:00+0200",
-    "ort": "anyway | 🌈 Bar, Club, Communityspace, Kamekestraße 14",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/lezmeet-dein-neuer-sapphic-treff-in-koln-0/",
+    "titel": "The ROOTS & ROUTES Experience 2026",
+    "datum": "4. Aug 2026",
+    "datum_raw": "2026-08-04T19:00+0200",
+    "ort": "Alte Feuerwache Köln, Melchiorstraße 3",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/the-roots-routes-experience-2026-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Bei LEZ*MEET triffst du andere junge sapphische und queere Frauen zwischen 24 und 35 für entspannte Abende mit Raum zum Reden, Spielen und Vernetzen. Hier findest du einen sicheren Ort, um ganz du selbst zu sein und neue"
+    "teaser": "42 junge Künstler:innen aus ganz Europa haben sich zwei Wochen lang intensiv ausgetauscht und ihre Perspektiven in ein ungewöhnliches Bühnenprojekt gebündelt. Tanz, Live-Musik, Theater und digitale Medien verschmelzen hi"
   },
   {
-    "titel": "The Piano Tuner // Aperol Kinotag 🧡",
-    "datum": "3. Aug 2026",
-    "datum_raw": "2026-08-03T19:00+0200",
+    "titel": "Der Teufel trägt Prada 2 (OmU)",
+    "datum": "4. Aug 2026",
+    "datum_raw": "2026-08-04T19:00+0200",
     "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/the-piano-tuner-aperol-kinotag-0/",
+    "link": "https://rausgegangen.de/events/der-teufel-tragt-prada-2-omu-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Niki, ein außergewöhnlicher Klavierstimmer zwischen Musik und kriminellen Aufträgen in New York, verliert sich in einer zarten Liebesgeschichte mit einer Kompositionsstudentin. The Piano Tuner erzählt von Grenzgängen und"
+    "teaser": "Fast 20 Jahre nach den Tagen bei „Runway“ treffen Andy, Emily und Miranda wieder aufeinander, diesmal zwischen Mode, Macht und neuen Herausforderungen im digitalen Zeitalter. Die Fortsetzung beleuchtet, wie sich Karriere"
   },
   {
-    "titel": "Let's Quiz Again im Brauhaus",
-    "datum": "3. Aug 2026",
-    "datum_raw": "2026-08-03T19:15+0200",
-    "ort": "Brauhaus Stüsser, Neusser Straße 47",
+    "titel": "Kölner Comedy Open Air",
+    "datum": "4. Aug 2026",
+    "datum_raw": "2026-08-04T20:00+0200",
+    "ort": "Odonien, Hornstraße 85",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/lets-quiz-again-im-brauhaus-9/",
+    "link": "https://rausgegangen.de/events/doppelpunkt-comedy-open-air-46/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Let’s Quiz Again geht’s nicht nur ums Wissen, sondern um ‘nen locker-flotten Abend mit jeder Menge Spaß, Musik und echten Köln-Kolorit. Ob Allgemeinbildung oder FC und Karneval, die Quizmaster halten die Stimmung ho"
-  },
-  {
-    "titel": "Kölsch und Comedy",
-    "datum": "3. Aug 2026",
-    "datum_raw": "2026-08-03T20:00+0200",
-    "ort": "Joode Lade, Lindenstraße 62",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kolsch-und-comedy-91/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Du hast Lust auf Kölsch und Comedy? Dann bist du bei Kölsch und Comedy genau richtig! Hier kommen regelmäßig Stand-Up Comedians zusammen, um ihre neuen Nummern zu testen. Von Newcomern bis zu etablierten Künstler*innen d"
-  },
-  {
-    "titel": "College Monday",
-    "datum": "3. Aug 2026",
-    "datum_raw": "2026-08-03T22:00+0200",
-    "ort": "Roonburg, Roonstraße 33",
-    "preis": "ab 8 €",
-    "link": "https://rausgegangen.de/events/college-monday-71/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Der College Monday bringt mit poppigen Clubklassikern und Throwbacks die Roonburg jeden Montagabend zum Leben. Bei halbem Getränkepreis und Spielen wie Beer Pong erwartet dich ein entspannter Abend im College-Flair. Für "
+    "teaser": "Bei den Kölner Comedy Open Airs erwartet dich alle zwei Wochen ein Mix aus bekannten Gesichtern und frischen Talenten der deutschsprachigen Szene. Johannes Steuding und Lennard Rosar sorgen mit ihrem charmanten Humor für"
   },
   {
     "titel": "Cage & Band Day 1",
@@ -358,6 +338,26 @@
     "link": "https://rausgegangen.de/events/sing-it-out-maxis-karaoke-nacht-9/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Hier gibt’s keinen Jury-Stress und keine falschen Töne, sondern einfach 53.000 Songs zum Austoben – von 90s Trash bis RnB. Maxi macht seit Jahren Karaoke-Abende zur Party, bei denen du zum Held:in oder Meme wirst. Zwisch"
+  },
+  {
+    "titel": "Electronic Summer of Love 2026 * The Odonien Festival Part XIV",
+    "datum": "7. Aug 2026",
+    "datum_raw": "2026-08-07T23:00+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/electronic-summer-of-love-2026-the-odonien-festival-part-xiv-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim Electronic Summer of Love 2026 treffen harte, dunkle Sounds und schnelle Grooves aufeinander und bringen ein vielfältiges Programm zwischen Hard Dance, Trance, Bounce und Drum & Bass. Das Festival bietet dir zwei Nä"
+  },
+  {
+    "titel": "Freigeist Open Air || der letzte Tanz 2026",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T14:00+0200",
+    "ort": "Carson City - Kulturgelände, Further Str. 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/freigeist-open-air-der-letzte-tanz-2026-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das Freigeist Open Air meldet sich 2026 mit drei Bühnen und einem Mix aus Melodic, Progressive und Psy-Trance zurück. Freu dich auf eine handverlesene Auswahl an DJ:innen, die elektronische Sounds in entspannter Natur ko"
   },
   {
     "titel": "DANCE ME: Die Musik von Leonard Cohen",
