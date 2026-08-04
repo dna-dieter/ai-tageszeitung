@@ -8084,6 +8084,30 @@
     "fetched": "2026-05-05T21:11:09.371549"
   },
   {
+    "id": "31b70aa758a3",
+    "title": "Rüttelplatte gestohlen",
+    "summary": "Von einer Baustelle an der Röntgenstraße haben Unbekannte eine Rüttelplatte gestohlen. Das teilte die oberbergische Polizei gestern mit. Der Tatzeitraum liegt demnach zwischen Samstag (1. August, 16 Uhr) und Montag, 6.30 Uhr.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/ruettelplatte-gestohlen-SFYEJ2RRE5PLAPM3ELWRMB3JJ4.html",
+    "published": "Tue, 04 Aug 2026 12:18:45 +0200",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-08-04T12:10:58.882015"
+  },
+  {
+    "id": "722d01eb277e",
+    "title": "Lindlar: Kreuzungsunfall – zwei Leichtverletzte, drei Autos crashen",
+    "summary": "Unfall an der L284/L304 in Lindlar: Zwei Fahrer wurden leicht verletzt, drei Autos waren am Montagabend an der Kollision beteiligt.",
+    "link": "https://www.news-on-tour.de/236248/lindlar-kreuzungsunfall-l304/",
+    "published": "Tue, 04 Aug 2026 10:16:39 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-08-04T12:10:57.471728"
+  },
+  {
     "id": "c860bfd51461",
     "title": "POL-GM: Zwei Leichtverletzte bei Unfall im Kreuzungsbereich",
     "summary": "Lindlar (ots) - Eine 23-jährige Ford-Fahrerin aus Bergisch Gladbach fuhr am Montag (3. August) gegen 17:10 Uhr auf der L304 aus Richtung Tüschen kommend und beabsichtigte an einer Kreuzung auf die L284 in Richtung Ebbinghausen zu fahren. Dabei kam ...",
@@ -8119,6 +8143,19 @@
       "wipperfuerth"
     ],
     "fetched": "2026-08-04T09:46:19.574463"
+  },
+  {
+    "id": "9830462beab7",
+    "title": "Wipperfürth / Hückeswagen : Einbruch und Diebstahl – Polizei warnt vor Risiken",
+    "summary": "Zwei Eigentumsdelikte in Oberberg: In Wipperfürth und Hückeswagen ermittelt die Polizei an einem Lagercontainer und auf einer Baustelle.",
+    "link": "https://www.news-on-tour.de/236243/oberberg-einbruch-ruettelplatte/",
+    "published": "Tue, 04 Aug 2026 09:47:01 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "hueckeswagen",
+      "wipperfuerth"
+    ],
+    "fetched": "2026-08-04T12:10:57.471769"
   },
   {
     "id": "d6d56220445d",
