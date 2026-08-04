@@ -1,85 +1,5 @@
 [
   {
-    "titel": "APERITIVO CLUB",
-    "datum": "4. Aug 2026",
-    "datum_raw": "2026-08-04T17:00+0200",
-    "ort": "Plüsch Bar & Lounge, Johannisstraße 76-80",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/aperitivo-club-15/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Jeden Dienstag kannst du den Arbeitstag stilvoll mit ausgewählten Drinks und kleinen Snacks ausklingen lassen. Es erwartet dich eine entspannte Atmosphäre auf der Terrasse, ideal für entspannte Gespräche und sommerliche "
-  },
-  {
-    "titel": "The ROOTS & ROUTES Experience 2026",
-    "datum": "4. Aug 2026",
-    "datum_raw": "2026-08-04T19:00+0200",
-    "ort": "Alte Feuerwache Köln, Melchiorstraße 3",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/the-roots-routes-experience-2026-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "42 junge Künstler:innen aus ganz Europa haben sich zwei Wochen lang intensiv ausgetauscht und ihre Perspektiven in ein ungewöhnliches Bühnenprojekt gebündelt. Tanz, Live-Musik, Theater und digitale Medien verschmelzen hi"
-  },
-  {
-    "titel": "Der Teufel trägt Prada 2 (OmU)",
-    "datum": "4. Aug 2026",
-    "datum_raw": "2026-08-04T19:00+0200",
-    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/der-teufel-tragt-prada-2-omu-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Fast 20 Jahre nach den Tagen bei „Runway“ treffen Andy, Emily und Miranda wieder aufeinander, diesmal zwischen Mode, Macht und neuen Herausforderungen im digitalen Zeitalter. Die Fortsetzung beleuchtet, wie sich Karriere"
-  },
-  {
-    "titel": "Kölner Comedy Open Air",
-    "datum": "4. Aug 2026",
-    "datum_raw": "2026-08-04T20:00+0200",
-    "ort": "Odonien, Hornstraße 85",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/doppelpunkt-comedy-open-air-46/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei den Kölner Comedy Open Airs erwartet dich alle zwei Wochen ein Mix aus bekannten Gesichtern und frischen Talenten der deutschsprachigen Szene. Johannes Steuding und Lennard Rosar sorgen mit ihrem charmanten Humor für"
-  },
-  {
-    "titel": "Cage & Band Day 1",
-    "datum": "4. Aug 2026",
-    "datum_raw": "2026-08-04T20:00+0200",
-    "ort": "Salon De Jazz, Severinskloster 3a",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/cage-band-day-1-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Cage überrascht mit ihrer neuen Band und einer Stimme, die Soulgeschichte mit moderner Musik verschmelzen lässt. Gemeinsam mit CTO und Co. erwartet dich ein Konzert, das durch authentische Intensität und vielfältige Einf"
-  },
-  {
-    "titel": "Corrosion of Conformity",
-    "datum": "4. Aug 2026",
-    "datum_raw": "2026-08-04T20:00+0200",
-    "ort": "Gebäude 9, Deutz-Mülheimer Straße 117",
-    "preis": "ab 41 €",
-    "link": "https://rausgegangen.de/events/corrosion-of-conformity-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "COC sind zurück. Und zwar im großen Stil. Zum letzten Mal wiedergeboren, könnte man sagen. Zwei Jahre nach der Veröffentlichung ihres gefeierten Albums “No Cross, No Crown” von 2018 musste die Band den tragischen Verl"
-  },
-  {
-    "titel": "DANCE ME: Die Musik von Leonard Cohen",
-    "datum": "4. Aug 2026",
-    "datum_raw": "2026-08-04T20:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 35 €",
-    "link": "https://rausgegangen.de/events/dance-me-die-musik-von-leonard-cohen-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "37. Kölner SommerfestivalBallets Jazz MontrealDANCE ME ist eine moderne, mitreißende Tanzproduktion, inspiriert von der Musik und den Texten des kanadischen Sängers, Songwriters und Dichters Leonard Cohen. Seine Lieder"
-  },
-  {
-    "titel": "Jazzorama Sommergarten: Maxi valdes Hammond Trio + Jamsession",
-    "datum": "4. Aug 2026",
-    "datum_raw": "2026-08-04T20:00+0200",
-    "ort": "artheater Köln, Ehrenfeldgürtel 127",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/jazzorama-sommergarten-maxi-valdes-hammond-trio-jamsession-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Im Maxi Valdes Hammond Trio trifft tiefe Black American Music auf pure Improvisationskunst, die im Moment zu einem unverwechselbaren Sound verschmilzt. Es erwartet dich ein offenes Zusammenspiel, das jedes Mal aufs Neue "
-  },
-  {
     "titel": "Weinfest am Rein",
     "datum": "5. Aug 2026",
     "datum_raw": "2026-08-05T16:00+0200",
@@ -90,14 +10,34 @@
     "teaser": "Beim Weinfest am Rhein kannst du verschiedene Weine aus deutschen und internationalen Regionen in entspannter Atmosphäre direkt am Wasser entdecken. Dazu gibt es kleine Leckereien, die perfekt zum Glas passen und den Gen"
   },
   {
+    "titel": "Bücher spenden für den guten Zweck!",
+    "datum": "5. Aug 2026",
+    "datum_raw": "2026-08-05T19:00+0200",
+    "ort": "Bücherbörse Köln, Claudiusstraße 1",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/bucher-spenden-fur-den-guten-zweck-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Du kannst wieder deine Lieblingsbücher loswerden und damit gleichzeitig den Schulbau in Ostafrika unterstützen. Wichtig dabei: Die Bücher sollten wirklich top in Schuss sein, denn nur so finden sie auf der Börse ein neue"
+  },
+  {
     "titel": "Geheimkonzert Köln #49 OPEN AIR by Rausgegangen",
     "datum": "5. Aug 2026",
     "datum_raw": "2026-08-05T19:00+0200",
     "ort": "Geheimer Ort, Köln",
-    "preis": "kostenlos",
+    "preis": "ab 30 €",
     "link": "https://rausgegangen.de/events/geheimkonzert-koln-48-by-rausgegangen-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Na Hallo! Es ist wieder so weit: Ein Abend voller Überraschung - denn wer auf der Bühne steht, bleibt bis zum ersten Ton geheim. Wir hatten schon Blond, Berq, Ennio, Futurebae, Jassin, Anais, Katha Pauer & viele mehr zu "
+  },
+  {
+    "titel": "In the Grey // HDI Special",
+    "datum": "5. Aug 2026",
+    "datum_raw": "2026-08-05T19:00+0200",
+    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/in-the-grey-hdi-special-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wenn du gerade in Ausbildung oder Studium bist, kannst du Becket Redfellows kalkulierte Kunstgriffe um ein riesiges Erbe fast zum Taschengeldpreis sehen. Der Thriller mixt clevere Pläne mit überraschenden Wendungen – per"
   },
   {
     "titel": "LESS THAN JAKE",
@@ -108,6 +48,46 @@
     "link": "https://rausgegangen.de/events/less-than-jake-5/",
     "quelle": "Rausgegangen Köln",
     "teaser": "From sweaty club shows to uproarious festival dates, LESS THAN JAKE’S deeds are best measured in the smiles they’ve generated for life-long fans and new listeners alike.    Uncharted, the ska-punkers’ brand new 7 song EP"
+  },
+  {
+    "titel": "NightWash",
+    "datum": "5. Aug 2026",
+    "datum_raw": "2026-08-05T20:00+0200",
+    "ort": "NightWash club, Hohenstaufenring 25-27",
+    "preis": "ab 25 €",
+    "link": "https://rausgegangen.de/events/nightwash-240/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Diese Show hat Kult-Status in Köln: Comedy im Waschsalon! Welche Comedians auftreten bleibt bis zum Schluss eine Überraschung."
+  },
+  {
+    "titel": "3 STÜNDCHEN INDIE Fresse - Die Indie-Turboparty",
+    "datum": "5. Aug 2026",
+    "datum_raw": "2026-08-05T20:00+0200",
+    "ort": "Tsunami Club, Im Ferkulum 9",
+    "preis": "ab 6 €",
+    "link": "https://rausgegangen.de/events/3-stundchen-indie-fresse-die-indie-turboparty-11/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Zwei Stunden Indie-Hits, die dich mitten in der Woche zum Tanzen bringen! 🍺  20 Uhr wird ruhig gestartet und 21 Uhr heißt es Vollgas mit Marcus Can't Dance bis 23 Uhr!💃"
+  },
+  {
+    "titel": "KINO OPEN AIR / Oh Boy",
+    "datum": "5. Aug 2026",
+    "datum_raw": "2026-08-05T20:00+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/kino-open-air-oh-boy-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "In Jan-Ole Gersters „Oh Boy“ begleitest du Niko, der zwischen ziellosen Tagen und der Suche nach Orientierung in der Stadt seinen Platz versucht zu finden. Die Tragikomödie zeigt leise Momente voller Beobachtungsgabe und"
+  },
+  {
+    "titel": "Comedy Frischgezapft",
+    "datum": "5. Aug 2026",
+    "datum_raw": "2026-08-05T20:00+0200",
+    "ort": "Kölschbar, Lindenstraße 56",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/comedy-frischgezapft-64/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei Comedy Frischgezapft trifft frisch gezapftes Kölsch auf Pointen von TV-erprobten Comedians und vielversprechenden Newcomer:innen. Host Kevin Ray sorgt dafür, dass der Mittwochabend zur Anlaufstelle für lockeres Lache"
   },
   {
     "titel": "Cage & Band Day 2",
@@ -340,26 +320,6 @@
     "teaser": "Hier gibt’s keinen Jury-Stress und keine falschen Töne, sondern einfach 53.000 Songs zum Austoben – von 90s Trash bis RnB. Maxi macht seit Jahren Karaoke-Abende zur Party, bei denen du zum Held:in oder Meme wirst. Zwisch"
   },
   {
-    "titel": "Electronic Summer of Love 2026 * The Odonien Festival Part XIV",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T23:00+0200",
-    "ort": "Odonien, Hornstraße 85",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/electronic-summer-of-love-2026-the-odonien-festival-part-xiv-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Electronic Summer of Love 2026 treffen harte, dunkle Sounds und schnelle Grooves aufeinander und bringen ein vielfältiges Programm zwischen Hard Dance, Trance, Bounce und Drum & Bass. Das Festival bietet dir zwei Nä"
-  },
-  {
-    "titel": "Freigeist Open Air || der letzte Tanz 2026",
-    "datum": "8. Aug 2026",
-    "datum_raw": "2026-08-08T14:00+0200",
-    "ort": "Carson City - Kulturgelände, Further Str. 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/freigeist-open-air-der-letzte-tanz-2026-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Das Freigeist Open Air meldet sich 2026 mit drei Bühnen und einem Mix aus Melodic, Progressive und Psy-Trance zurück. Freu dich auf eine handverlesene Auswahl an DJ:innen, die elektronische Sounds in entspannter Natur ko"
-  },
-  {
     "titel": "DANCE ME: Die Musik von Leonard Cohen",
     "datum": "8. Aug 2026",
     "datum_raw": "2026-08-08T15:00+0200",
@@ -398,5 +358,45 @@
     "link": "https://rausgegangen.de/events/sofa-sessions-am-zulpi-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "🛋️ Sofa Session am Zülpi #1: MattiHoff 🎶Mache es dir gemütlich, schalte den Kopf aus und tauche ein in einen ganz besonderen Abend: Wir starten unsere allererste Sofa Session am Zülpi im Social Studio!Für diese Premi"
+  },
+  {
+    "titel": "YEVEH – afro-elektronische Musik | Sommer Köln",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T19:00+0200",
+    "ort": "Rudolfplatz, Rudolfplatz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/yeveh-afro-elektronische-musik-sommer-koln-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "YEVEH mischt westafrikanische Klänge mit pulsierendem Afro-House und Afrotech zu einem Sound, der tief aus ihrer kulturellen Identität schöpft. Bei ihrer Performance erlebst du eine frische Fusion, die elektronische Musi"
+  },
+  {
+    "titel": "Concert: Common Space (فضای مشترک)",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T19:30+0200",
+    "ort": "Altes Pfandhaus, Kartäuserwall 20",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/concert-common-space-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "COMMON GROUND | فضای مشترک“Music remembers what borders cannot contain.”COMMON GROUND brings together artists with roots across the SWANA region (South West Asia and North Africa) for a week of artistic exchange, collect"
+  },
+  {
+    "titel": "Deivido // SOMMERKONZERT",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T19:30+0200",
+    "ort": "Kulturbunker Köln-Mülheim, Berliner Straße 20",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/deivido-sommerkonzert-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Deivido (David Aminkeng) verbindet Afro-Jazz, Reggae, Bossa Nova und weitere Einflüsse der Weltmusik zu einer einzigartigen musikalischen Sprache. In seinen Songs erzählt der in Kamerun aufgewachsene Sänger, Komponist"
+  },
+  {
+    "titel": "DANCE ME: Die Musik von Leonard Cohen",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T20:00+0200",
+    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
+    "preis": "ab 60 €",
+    "link": "https://rausgegangen.de/events/dance-me-die-musik-von-leonard-cohen-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "37. Kölner SommerfestivalBallets Jazz MontrealDANCE ME ist eine moderne, mitreißende Tanzproduktion, inspiriert von der Musik und den Texten des kanadischen Sängers, Songwriters und Dichters Leonard Cohen. Seine Lieder"
   }
 ]
