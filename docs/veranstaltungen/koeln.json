@@ -1,123 +1,33 @@
 [
   {
-    "titel": "Weinfest am Rein",
-    "datum": "5. Aug 2026",
-    "datum_raw": "2026-08-05T16:00+0200",
-    "ort": "Harry-Blum-Platz, Harry-Blum-Platz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/weinfest-am-rein-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Weinfest am Rhein kannst du verschiedene Weine aus deutschen und internationalen Regionen in entspannter Atmosphäre direkt am Wasser entdecken. Dazu gibt es kleine Leckereien, die perfekt zum Glas passen und den Gen"
-  },
-  {
-    "titel": "Bücher spenden für den guten Zweck!",
-    "datum": "5. Aug 2026",
-    "datum_raw": "2026-08-05T19:00+0200",
-    "ort": "Bücherbörse Köln, Claudiusstraße 1",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/bucher-spenden-fur-den-guten-zweck-4/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Du kannst wieder deine Lieblingsbücher loswerden und damit gleichzeitig den Schulbau in Ostafrika unterstützen. Wichtig dabei: Die Bücher sollten wirklich top in Schuss sein, denn nur so finden sie auf der Börse ein neue"
-  },
-  {
-    "titel": "Geheimkonzert Köln #49 OPEN AIR by Rausgegangen",
-    "datum": "5. Aug 2026",
-    "datum_raw": "2026-08-05T19:00+0200",
-    "ort": "Geheimer Ort, Köln",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/geheimkonzert-koln-48-by-rausgegangen-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Na Hallo! Es ist wieder so weit: Ein Abend voller Überraschung - denn wer auf der Bühne steht, bleibt bis zum ersten Ton geheim. Wir hatten schon Blond, Berq, Ennio, Futurebae, Jassin, Anais, Katha Pauer & viele mehr zu "
-  },
-  {
-    "titel": "In the Grey // HDI Special",
-    "datum": "5. Aug 2026",
-    "datum_raw": "2026-08-05T19:00+0200",
-    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/in-the-grey-hdi-special-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wenn du gerade in Ausbildung oder Studium bist, kannst du Becket Redfellows kalkulierte Kunstgriffe um ein riesiges Erbe fast zum Taschengeldpreis sehen. Der Thriller mixt clevere Pläne mit überraschenden Wendungen – per"
-  },
-  {
-    "titel": "LESS THAN JAKE",
-    "datum": "5. Aug 2026",
-    "datum_raw": "2026-08-05T19:00+0200",
-    "ort": "Bürgerhaus Stollwerck, Dreikönigenstraße 23",
-    "preis": "ab 32 €",
-    "link": "https://rausgegangen.de/events/less-than-jake-5/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "From sweaty club shows to uproarious festival dates, LESS THAN JAKE’S deeds are best measured in the smiles they’ve generated for life-long fans and new listeners alike.    Uncharted, the ska-punkers’ brand new 7 song EP"
-  },
-  {
-    "titel": "NightWash",
-    "datum": "5. Aug 2026",
-    "datum_raw": "2026-08-05T20:00+0200",
-    "ort": "NightWash club, Hohenstaufenring 25-27",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/nightwash-240/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Diese Show hat Kult-Status in Köln: Comedy im Waschsalon! Welche Comedians auftreten bleibt bis zum Schluss eine Überraschung."
-  },
-  {
-    "titel": "3 STÜNDCHEN INDIE Fresse - Die Indie-Turboparty",
-    "datum": "5. Aug 2026",
-    "datum_raw": "2026-08-05T20:00+0200",
-    "ort": "Tsunami Club, Im Ferkulum 9",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/3-stundchen-indie-fresse-die-indie-turboparty-11/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zwei Stunden Indie-Hits, die dich mitten in der Woche zum Tanzen bringen! 🍺  20 Uhr wird ruhig gestartet und 21 Uhr heißt es Vollgas mit Marcus Can't Dance bis 23 Uhr!💃"
-  },
-  {
-    "titel": "KINO OPEN AIR / Oh Boy",
-    "datum": "5. Aug 2026",
-    "datum_raw": "2026-08-05T20:00+0200",
-    "ort": "Odonien, Hornstraße 85",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kino-open-air-oh-boy-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "In Jan-Ole Gersters „Oh Boy“ begleitest du Niko, der zwischen ziellosen Tagen und der Suche nach Orientierung in der Stadt seinen Platz versucht zu finden. Die Tragikomödie zeigt leise Momente voller Beobachtungsgabe und"
-  },
-  {
-    "titel": "Comedy Frischgezapft",
-    "datum": "5. Aug 2026",
-    "datum_raw": "2026-08-05T20:00+0200",
-    "ort": "Kölschbar, Lindenstraße 56",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/comedy-frischgezapft-64/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei Comedy Frischgezapft trifft frisch gezapftes Kölsch auf Pointen von TV-erprobten Comedians und vielversprechenden Newcomer:innen. Host Kevin Ray sorgt dafür, dass der Mittwochabend zur Anlaufstelle für lockeres Lache"
-  },
-  {
-    "titel": "Cage & Band Day 2",
-    "datum": "5. Aug 2026",
-    "datum_raw": "2026-08-05T20:00+0200",
-    "ort": "Salon De Jazz, Severinskloster 3a",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/cage-band-day-2-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Cage kombiniert mit ihrer samtigen Stimme Soul vergangener Zeiten mit moderner Offenheit und sprengt Grenzen mühelos. Begleitet von einer Band voller internationaler Einflüsse erwartet dich eine ehrliche Show, die spürba"
-  },
-  {
-    "titel": "DANCE ME: Die Musik von Leonard Cohen",
-    "datum": "5. Aug 2026",
-    "datum_raw": "2026-08-05T20:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 35 €",
-    "link": "https://rausgegangen.de/events/dance-me-die-musik-von-leonard-cohen-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "37. Kölner SommerfestivalBallets Jazz MontrealDANCE ME ist eine moderne, mitreißende Tanzproduktion, inspiriert von der Musik und den Texten des kanadischen Sängers, Songwriters und Dichters Leonard Cohen. Seine Lieder"
-  },
-  {
-    "titel": "Casita Summer Fest - Live Latin Music",
+    "titel": "Langer Donnerstag 15 YRS – Friendship Edition: SpardaStiftung x LADO",
     "datum": "6. Aug 2026",
-    "datum_raw": "2026-08-06T18:00+0200",
-    "ort": "Casita Mexicana Belgisches Viertel, Roonstraße 88",
+    "datum_raw": "2026-08-06T17:00+0200",
+    "ort": "Museum Ludwig, Heinrich-Böll-Platz",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/casita-summer-fest-live-latin-music-0/",
+    "link": "https://rausgegangen.de/events/langer-donnerstag-15-yrs-friendship-edition-spardastiftung-x-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Summer tastes better at Casita. ☀️🌮  Join us for two unforgettable afternoons filled with live music, latin vibes, margaritas, and your favorite Tacos & Quesadillas.FIRST STOP: COLOGNE 📍 August 6 – Casita Belgisches Vier"
+    "teaser": "Seit 15 Jahren feiern die LADO-Abende die Kraft von Freundschaft und Kunst. Dich erwarten spannende Improvisationen des Perkussion-Ensembles SPLASH NRW und kreative Aktionen rund um gemeinsame Erinnerungen im Museum 🎟️"
+  },
+  {
+    "titel": "Zappeln im Zappes",
+    "datum": "6. Aug 2026",
+    "datum_raw": "2026-08-06T17:00+0200",
+    "ort": "Zappes Zentrale, Roonstraße 71",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/zappeln-im-zappes-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jede Woche drehen unterschiedliche DJs die 2000er-Hits auf und lassen Erinnerungen an Pop, Hip-Hop und Clubklassiker wieder aufleben. Donnerstag wird hier zum Lieblingsabend für alle, die Lust auf Singen, Tanzen und gute"
+  },
+  {
+    "titel": "Pommes & Champagner",
+    "datum": "6. Aug 2026",
+    "datum_raw": "2026-08-06T17:00+0200",
+    "ort": "SUDERMAN, Sudermanplatz 3",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/open-champagne-thursday-6/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jeder Donnerstag steht im Zeichen von prickelnder Vielfalt, wenn exklusive Champagner und Schaumweine glasweise erkundet werden. Es begegnen sich bekannte Marken und spannende Entdeckungen, die deinen Gaumen überraschen."
   },
   {
     "titel": "GiGi Girls, HADE - Ebertplatz - Eintritt frei!",
@@ -128,6 +38,36 @@
     "link": "https://rausgegangen.de/events/gigi-girls-hade-ebertplatz-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "GiGi Girls verbinden Italo-Pop mit lässigen Beats, während HADE mit einem DJ-Set frischen Sound auflegt. Freu dich auf einen unkomplizierten Abend voller cooler Klänge und neuer Entdeckungen ohne Eintritt 😌"
+  },
+  {
+    "titel": "Café GLORIA Open Mic",
+    "datum": "6. Aug 2026",
+    "datum_raw": "2026-08-06T18:00+0200",
+    "ort": "GLORIA Köln, Apostelnstraße 11",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/cafe-gloria-open-mic-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim Café GLORIA Open Mic treten Newcomer:innen und erfahrene Comedians spontan ans Mikrofon, um neue Pointen und frische Texte zu präsentieren. Wer Lust auf ungefiltertes Lachen und locker Atmosphäre hat, erlebt hier pu"
+  },
+  {
+    "titel": "MAKK Kreativlabor – Dein Repaircafé für Nachhaltigkeit & Kreativität: Textil-Upcycling",
+    "datum": "6. Aug 2026",
+    "datum_raw": "2026-08-06T18:00+0200",
+    "ort": "MAKK Museum für Angewandte Kunst Köln, An der Rechtschule 7",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/makk-kreativlabor-dein-repaircafe-fur-nachhaltigkeit-kreativ-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Hier kannst du dein altes Lieblingsstück neu erfinden und lernst von Design-Studierenden, wie du mit Nähmaschine und Co. kreativ wirst. Alles, was du brauchst, liegt bereit – perfekt für alle, die Lust auf nachhaltige Up"
+  },
+  {
+    "titel": "Casita Summer Fest - Live Latin Music",
+    "datum": "6. Aug 2026",
+    "datum_raw": "2026-08-06T18:00+0200",
+    "ort": "Casita Mexicana Belgisches Viertel, Roonstraße 88",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/casita-summer-fest-live-latin-music-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Summer tastes better at Casita. ☀️🌮  Join us for two unforgettable afternoons filled with live music, latin vibes, margaritas, and your favorite Tacos & Quesadillas.FIRST STOP: COLOGNE 📍 August 6 – Casita Belgisches Vier"
   },
   {
     "titel": "Roots of the Nile: Reggae Train",
@@ -148,6 +88,16 @@
     "link": "https://rausgegangen.de/events/gong-wah-live-die-kantine-open-air-cologne-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "— free entry, loud guitars & good vibes only w/ special support „Mutz“ & „Korte am Nil“ — [ABOUT]GONG WAH is a German alternative rock band from Cologne, known for their wild Fuzzwave sound. A mix of distorted guitars, 8"
+  },
+  {
+    "titel": "The Rocky Horror Picture Show // Klassiker",
+    "datum": "6. Aug 2026",
+    "datum_raw": "2026-08-06T19:00+0200",
+    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/klassiker-the-rocky-horror-picture-show-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Du bist mit Brad und Janet unterwegs, als sie in ein Schloss stolpern, das so verrückt ist wie sein Gastgeber Frank N. Furter. Eine schräge Party im Kultklassiker The Rocky Horror Picture Show erwartet dich, bei der Dram"
   },
   {
     "titel": "MāttiHoff Live - Living Room Concerts",
@@ -190,6 +140,16 @@
     "teaser": "Chocolate Remix schüttelt Reggaeton mit queerem Witz und feministischer Power ordentlich durch. Ihre Songs bringen lateinamerikanische Club-Klänge auf die Bühne – politisch und voller Energie. Es wird laut, bunt und voll"
   },
   {
+    "titel": "KINO OPEN AIR / Kein Land für Niemand",
+    "datum": "6. Aug 2026",
+    "datum_raw": "2026-08-06T20:00+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/kino-open-air-kein-land-fur-niemand-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der Film Kein Land für Niemand zeigt in eindrücklichen Bildern die Abschottung Europas und die Menschlichkeit an seinen Grenzen. Begleite Rettungseinsätze auf dem Meer und erfahre, warum diese Geschichten heute wichtig s"
+  },
+  {
     "titel": "DANCE ME: Die Musik von Leonard Cohen",
     "datum": "6. Aug 2026",
     "datum_raw": "2026-08-06T20:00+0200",
@@ -200,14 +160,14 @@
     "teaser": "37. Kölner SommerfestivalBallets Jazz MontrealDANCE ME ist eine moderne, mitreißende Tanzproduktion, inspiriert von der Musik und den Texten des kanadischen Sängers, Songwriters und Dichters Leonard Cohen. Seine Lieder"
   },
   {
-    "titel": "Green Parrot Festival",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T00:00+0200",
-    "ort": "Gotland, Vorgebirgstraße 20",
-    "preis": "ab 22 €",
-    "link": "https://rausgegangen.de/events/green-parrot-festival-2/",
+    "titel": "POMPEJI: UNTER DEN WOLKEN | CineMAKK Open Air",
+    "datum": "6. Aug 2026",
+    "datum_raw": "2026-08-06T21:15+0200",
+    "ort": "Open Air Kino MAKK, An d. Rechtschule 7",
+    "preis": "ab 9 €",
+    "link": "https://rausgegangen.de/events/pompeji-unter-den-wolken-cinemakk-open-air-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Erlebe mit uns ein zauberhaftes Wochenende voller mitreißender Klänge und gefühlvoller Melodien auf dem Green Parrot Festival in Köln! Von traditionellen Americana-Klängen bis zu keltischen Jigs und darüber hinaus f"
+    "teaser": "In brillantem Schwarz-Weiß zeigt der Film die vielschichtige Region um den Vesuv zwischen Geschichte und Gegenwart. Poetische Bilder und eine tiefgründige Erzählung laden dich ein, das antike und moderne Leben in einem f"
   },
   {
     "titel": "Becks - Open Air 2026",
@@ -398,5 +358,45 @@
     "link": "https://rausgegangen.de/events/dance-me-die-musik-von-leonard-cohen-4/",
     "quelle": "Rausgegangen Köln",
     "teaser": "37. Kölner SommerfestivalBallets Jazz MontrealDANCE ME ist eine moderne, mitreißende Tanzproduktion, inspiriert von der Musik und den Texten des kanadischen Sängers, Songwriters und Dichters Leonard Cohen. Seine Lieder"
+  },
+  {
+    "titel": "LeCrochelle Community Event mit LiveMusik",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T20:00+0200",
+    "ort": "Melis Soul Café, Friesenwall 122",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/lecrochelle-community-event-mit-livemusik-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "LiveMusik, Drinks & neue Connections! ✨Lerne neue Menschen kennen, genieße einen entspannten Sommerabend und werde Teil der LeCrochelle Community.Verbringe einen entspannten Sommerabend mit netten Menschen, Livemusik, le"
+  },
+  {
+    "titel": "TREAM | Open Air Tour 2026",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T20:00+0200",
+    "ort": "Tanzbrunnen Köln, Rheinparkweg 1",
+    "preis": "ab 75 €",
+    "link": "https://rausgegangen.de/events/tream-open-air-tour-2026-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "TREAM | Open Air Tour 2026Nach einem unglaublichen Jahr 2025 mit 21 Festival-Auftritten und der nahezu ausverkauften „Brotzeitour 2025“, kündigt Tream den nächsten Streich an: Im Sommer 2026 geht der Ausnahme-Künstler"
+  },
+  {
+    "titel": "Florence Besch – Dream Grunge | Sommer Köln",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T20:30+0200",
+    "ort": "Rudolfplatz, Rudolfplatz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/florence-besch-dream-grunge-sommer-koln-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Florence Besch mixt raue Punkklänge mit verträumtem Pop und bringt damit ihren eigenen Dream Grunge-Sound auf die Bühne. Ihre Songs drehen sich um Feminismus und Selbstbestimmung und strahlen dabei eine besondere Ehrlich"
+  },
+  {
+    "titel": "Brauhaus Beats mit Josh",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T22:00+0200",
+    "ort": "Gaffel am Dom, Bahnhofsvorplatz 1",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/brauhaus-beats-mit-josh-5/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Auch 2026 wird im Gaffel am Dom bis in den Sonntag hinein gefeiert! Die Party-Reihe Brauhaus Beats lädt zu außergewöhnlichen Mitsingabenden ein. Ab 22 Uhr sorgt Josh für Stimmung. Ein einzigartiges Acoustic Solo Loope"
   }
 ]
