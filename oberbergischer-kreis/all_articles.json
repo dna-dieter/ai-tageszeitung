@@ -3438,6 +3438,55 @@
     "fetched": "2026-05-06T15:52:46.538332"
   },
   {
+    "id": "db8f375c6f21",
+    "title": "POL-GM: Einbruch in Lagerhalle",
+    "summary": "Lindlar (ots) - In der Feilenhauerstraße sind Unbekannte am Mittwochmorgen (5. August) in eine Lagerhalle eingebrochen. Die Unbekannten verschafften sich gegen 01:50 Uhr über ein Rolltor Zugang zur Halle, wie auf einer Videoüberwachung zu sehen ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6327538",
+    "published": "Wed, 05 Aug 2026 09:05:04 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-08-05T09:44:35.883998"
+  },
+  {
+    "id": "5841821cf19d",
+    "title": "POL-GM: Einbruch in Café",
+    "summary": "Waldbröl (ots) - Ein Unbekannter ist in der Nacht von Dienstag auf Mittwoch (4./5. August) in ein Café in der Nümbrechter Straße eingebrochen. Wie auf Aufnahmen einer Überwachungskamera zu sehen ist, schlug der Unbekannte gegen 03:20 Uhr die ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6327537",
+    "published": "Wed, 05 Aug 2026 09:05:01 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "nuembrecht",
+      "waldbroel"
+    ],
+    "fetched": "2026-08-05T09:44:35.884039"
+  },
+  {
+    "id": "eefaf11bc172",
+    "title": "Waldbröl: Einbruch ins Café – Unbekannter schlägt Tür ein",
+    "summary": "Waldbröl: Ein Mann schlug nachts Tür und Fenster eines Cafés ein, stahl ein Sparfach und Münzen. Die Polizei bittet jetzt um Hinweise.",
+    "link": "https://www.news-on-tour.de/236292/waldbroel-einbruch-cafe/",
+    "published": "Wed, 05 Aug 2026 08:03:34 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-08-05T09:44:17.130388"
+  },
+  {
+    "id": "9f2298f21336",
+    "title": "Lindlar: Männer bei Lagerhalleneinbruch auf Video erwischt",
+    "summary": "Einbruch in Lindlar-Klause: Zwei Männer gelangen gegen 1.50 Uhr durch ein Rolltor in eine Lagerhalle. Die mögliche Tatbeute ist noch unklar.",
+    "link": "https://www.news-on-tour.de/236289/lindlar-lagerhalleneinbruch-rolltor/",
+    "published": "Wed, 05 Aug 2026 07:43:30 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-08-05T09:44:17.130423"
+  },
+  {
     "id": "062f77aad56b",
     "title": "Trockenheit – Talsperren geben weniger Wasser ab",
     "summary": "Das Wasserwirtschafts-jahr ist im Wuppergebiet deutlich zu trocken: Seit November liegt der Niederschlag 35 Prozent unter dem Durchschnitt.",
