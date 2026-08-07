@@ -1,233 +1,83 @@
 [
   {
-    "titel": "26. Kölner Bierbörse",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T15:00+0200",
-    "ort": "Rheinpromenade, Konrad-Adenauer-Ufer",
+    "titel": "Pop Up Shop mit Live-Lesung im Schaufenster",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T12:00+0200",
+    "ort": "Siebter Himmel, Brüsseler Straße 67",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/26-kolner-bierborse-0/",
+    "link": "https://rausgegangen.de/events/pop-up-shop-mit-live-lesung-im-schaufenster-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Mehr als 100 Biersorten aus aller Welt bringen Vielfalt in entspannter Atmosphäre direkt an den Rhein. Zwischen bayerischer Klassik und exotischen Neuentdeckungen findest du hier garantiert deine neue Lieblingssorte zum "
-  },
-  {
-    "titel": "Midsummer & Drinks: Feierabendmarkt Hermeskeiler Platz",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T16:00+0200",
-    "ort": "Sülz - Hermeskeiler Platz, Hermeskeiler Platz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/feierabendmarkt-auf-dem-hermeskeilerplatz-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wer braucht den Süden, wenn Sülz so schön ist? Der Feierabendmarkt auf dem Hermeskeiler Platz sorgt für Urlaubs-Feeling pur: Streetfood frisch auf die Hand, kaltes Kölsch und Zeit zum Seele baumeln lassen! 🌯🍺"
-  },
-  {
-    "titel": "Weinfest am Rein",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T16:00+0200",
-    "ort": "Harry-Blum-Platz, Harry-Blum-Platz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/weinfest-am-rein-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Weinfest am Rhein kannst du verschiedene Weine aus deutschen und internationalen Regionen in entspannter Atmosphäre direkt am Wasser entdecken. Dazu gibt es kleine Leckereien, die perfekt zum Glas passen und den Gen"
-  },
-  {
-    "titel": "Odonische Freitagsbühne",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T18:00+0200",
-    "ort": "Odonien, Hornstraße 85",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/odonische-freitagsbuhne-78/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge entdecken Spaß macht "
+    "teaser": "Beim Pop-up von Das Projekt kannst du zwischen Goodies stöbern, deine kuriosen Datinggeschichten teilen und live kurze Hörbuchlesungen genießen. Dabei lernst du, warum Liebe heute vielleicht eine andere Spielregel brauch"
   },
   {
     "titel": "Apéro Markt Köln - Das Aperitif-Sommer-Pop-Up 07. – 08.08.2026",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T18:00+0200",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T13:00+0200",
     "ort": "Vogelsanger Straße im Grüngürtel, Vogelsanger Straße",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/apero-markt-koln-das-aperitif-sommer-pop-up-2/",
+    "link": "https://rausgegangen.de/events/apero-markt-koln-das-aperitif-sommer-pop-up-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Der Apéro Markt Köln bringt mediterranes Flair in den Grüngürtel und lädt dazu ein, bei Spritz, Wein und kreativen Drinks entspannt die Seele baumeln zu lassen. Dazu gibt’s vielfältige internationale Snacks, darunter veg"
   },
   {
-    "titel": "SUNDOWNER auf dem PARK Café Rooftop 🌅",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T18:00+0200",
-    "ort": "PARK Café, Auenweg",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/sundowner-auf-dem-park-cafe-rooftop-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Du startest entspannt ins Wochenende mit kühlen Drinks und lässigem Elektro-Sound von Elektrotechniker, Seb Whist und PaKo DaPisk. Über der Stadt bringt der Sundowner auf dem Rooftop sommerliche Vibes und gute Stimmung z"
-  },
-  {
-    "titel": "Korken & Klub Afterwork",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T18:00+0200",
-    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
+    "titel": "Straßenfest Venloer Straße",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T14:00+0200",
+    "ort": "Venloer Straße, Venloer Straße 60",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/korken-klub-afterwork-4/",
+    "link": "https://rausgegangen.de/events/straenfest-venloer-strae-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Freitagabend im CBE Garten heißt es entspannt bei House- und R&B-Sounds mit Live-Instrumenten. Neben leckeren Foodtrucks gibt’s faire Flaschenpreise und eine feine Weinauswahl – perfekt zum Runterkommen vor’m Wochenende "
+    "teaser": "Die Venloer Straße wird zwei Tage lang zur bunten Bühne für alle, die Spaß an Musik, Streetfood und Trödel haben. Das Straßenfest bringt Kultur und Gemeinschaft eng zusammen, hier findest du für jede Stimmung das passend"
   },
   {
-    "titel": "Becks - Open Air 2026",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T18:00+0200",
-    "ort": "Die Kantine / Yard Club, Neusser Landstraße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/becks-open-air-2025-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Mit ihrer Stimme, Haltung und Energie gehört Becks zu den wichtigsten Pop-Artists des Landes und 2025 bringt sie all das auf die Open-Air-Bühne! Neue Songs, neue Show und gleichzeitig will sie mehr als nur unterhalten. M"
-  },
-  {
-    "titel": "KITTIE",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T18:00+0200",
-    "ort": "Gebäude 9, Deutz-Mülheimer Straße 117",
-    "preis": "ab 42 €",
-    "link": "https://rausgegangen.de/events/kittie-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "KITTIE Europe & UK Summer 2026 Supports: Crypta & Vexed 07.08.2026 - Köln, Gebäude 9Einlass: 18 Uhr Beginn 19 Uhr"
-  },
-  {
-    "titel": "BÖSE ZUNGEN - Die Standup Comedy Show",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T19:00+0200",
-    "ort": "Garagen, Oskar-Jäger-Straße 179",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/bose-zungen-die-standup-comedy-show-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "BÖSE ZUNGEN versammelt schon seit über sechs Jahren die schärfsten Comedy-Talente, die ihre besten Gags ohne Umschweife auf die Bühne bringen. Djavid sorgt mit Timing und Charme für einen reibungslosen Ablauf und verbind"
-  },
-  {
-    "titel": "Flow's Mitsingfenster - Das Mitsingkonzert für alle!",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T19:00+0200",
-    "ort": "Franky's Bar, Venloer Straße 403",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/flows-mitsingfenster-das-mitsingkonzert-fur-alle-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "FLOW’S MITSINGFENSTER Am Freitag, den 26. Juni 2026, wird die Straße vor Franky’s Bar zur Bühne für einen ganz besonderen Sommerabend. Bei Flow’s Mitsingfenster kommt die Musik nicht von einer großen Bühne, sondern di"
-  },
-  {
-    "titel": "auxkollektiv im mäurer",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T20:00+0200",
-    "ort": "Mäurer Bar, Roonstraße 19",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/auxkollektiv-im-maurer-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Paloma Groovemaster legt mit einem feinen Gespür für Musikgeschichten auf, die zwischen reduziertem Microhouse und Italo Disco changieren. Seine Sets, fast ausschließlich auf Vinyl, erzählen von alten Platten und fließen"
-  },
-  {
-    "titel": "Cozy Rooftop Concert",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T20:00+0200",
-    "ort": "Köln-Mülheim",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/cozy-concert-31/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die Cozy Concerts sind eine Geheimkonzertreihe in gemütlicher Atmosphäre* – in Wohnzimmern, Buchläden, Ateliers, Gärten und anderen besonderen Orten. Intim, authentisch, entspannend. 80–90 % der Musiker*innen bei den"
-  },
-  {
-    "titel": "DANCE ME: Die Musik von Leonard Cohen",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T20:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 35 €",
-    "link": "https://rausgegangen.de/events/dance-me-die-musik-von-leonard-cohen-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "37. Kölner SommerfestivalBallets Jazz MontrealDANCE ME ist eine moderne, mitreißende Tanzproduktion, inspiriert von der Musik und den Texten des kanadischen Sängers, Songwriters und Dichters Leonard Cohen. Seine Lieder"
-  },
-  {
-    "titel": "ImKlang Session",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T20:00+0200",
-    "ort": "Musik- und Kunstschule ImKlang, Waltherstraße 80",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/imklang-session-28/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": " IMKLANG SESSION  Offene Jam Session · jeden Freitag · ab 20:00 Uhr Die IMKLANG Session ist eine wöchentliche, offene Jam Session für Musikerinnen und Musiker aller Erfahrungsstufen – und für alle, die Musik gerne liv"
-  },
-  {
-    "titel": "JUJU - Releasekonzert",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T20:00+0200",
-    "ort": "",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/juju-releasekonzert-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": ""
-  },
-  {
-    "titel": "Cologne Nightlife Tour: 4 Locations, Shots & Club Entry",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T21:15+0200",
-    "ort": "Zülpicher Pl., Zülpicher Pl., 50674 Köln, Germany",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/cologne-nightlife-tour-4-locations-shots-club-entry-61/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Experience Cologne nightlife the easy way with a fun group and a local host. After check-in at the meeting point, the night starts with a welcome shot. Then you’ll visit 4 lively nightlife locations, a mix of popular bar"
-  },
-  {
-    "titel": "Rebel Screen Open-Air-Kino: Secretariat",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T21:30+0200",
-    "ort": "Galopprennbahn Köln, Rennbahnstraße 152",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/rebel-screen-open-air-kino-secretariat-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei Rebel Screen trifft die Geschichte von Secretariat, dem legendären Rennpferd, auf die besondere Atmosphäre der Kölner Galopprennbahn. Der Film läuft unter freiem Himmel, dazu hörst du den Sound über Nackenlautspreche"
-  },
-  {
-    "titel": "Karaoke - Sing It Out!",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T21:30+0200",
-    "ort": "NightWash club, Hohenstaufenring 25-27",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/sing-it-out-maxis-karaoke-nacht-9/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier gibt’s keinen Jury-Stress und keine falschen Töne, sondern einfach 53.000 Songs zum Austoben – von 90s Trash bis RnB. Maxi macht seit Jahren Karaoke-Abende zur Party, bei denen du zum Held:in oder Meme wirst. Zwisch"
-  },
-  {
-    "titel": "EYEKONIC • K-Pop Fandom Party • Köln",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T23:00+0200",
-    "ort": "Garagen, Oskar-Jäger-Straße 179",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/eyekonic-w-katseye-other-k-pop-coded-artists-koln-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei EYEKONIC trifft die gesamte K-Pop-Welt aufeinander, von BTS bis NewJeans, mit Tracks von KATSEYE und vielen mehr. Ob du im Y2K- oder Cyber-Streetwear-Style kommst, es erwarten dich synchronisierte Dance-Momente in ei"
-  },
-  {
-    "titel": "Electronic Summer of Love - FRIDAY NIGHT",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T23:00+0200",
+    "titel": "Electronic Summer of Love * OPEN AIR at ODONIEN",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T14:00+0200",
     "ort": "Odonien, Hornstraße 85",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/electronic-summer-of-love-friday-night-0/",
+    "preis": "ab 40 €",
+    "link": "https://rausgegangen.de/events/electronic-summer-of-love-open-air-at-odonien-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Electronic Summer of Love geht’s diesen Sommer wieder richtig rund, mit einem Mix aus Hardtechno, Trance und Drum & Bass, präsentiert von einem bunten Line-up aus Szenegrößen und Newcomer:innen. Freu dich auf ausgel"
+    "teaser": "Der Electronic Summer of Love bringt diesmal mit Acts wie Ben Techy, Lola Cerise und vielen anderen einen vielschichtigen Mix aus Bounce, Schranz und Trance. Freu dich auf einen tief in der Szene verwurzelten Festivalmix"
   },
   {
-    "titel": "BZZBZZ TECHNO",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T23:00+0200",
-    "ort": "Helios37, Heliosstraße 37",
+    "titel": "Freigeist Open Air || der letzte Tanz 2026",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T14:00+0200",
+    "ort": "Carson City - Kulturgelände, Further Str. 1",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/bzzbzz-techno-27/",
+    "link": "https://rausgegangen.de/events/freigeist-open-air-der-letzte-tanz-2026-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Bei BZZBZZ TECHNO erwarten dich treibende Grooves und pulsierende Beats von DURDENHAUER, KICHTA und mehr, die den ganzen Raum mit Energie füllen. Die Kombination aus Techno, Trance und Bounce und starke Visuals sorgen fü"
+    "teaser": "Das Freigeist Open Air meldet sich 2026 mit drei Bühnen und einem Mix aus Melodic, Progressive und Psy-Trance zurück. Freu dich auf eine handverlesene Auswahl an DJ:innen, die elektronische Sounds in entspannter Natur ko"
   },
   {
-    "titel": "Electronic Summer of Love 2026 * The Odonien Festival Part XIV",
-    "datum": "7. Aug 2026",
-    "datum_raw": "2026-08-07T23:00+0200",
-    "ort": "Odonien, Hornstraße 85",
+    "titel": "BACKYARD BOOGIE - DAY PARTY pres. by Cueless Club",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T14:00+0200",
+    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/electronic-summer-of-love-2026-the-odonien-festival-part-xiv-0/",
+    "link": "https://rausgegangen.de/events/backyard-boogie-day-party-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Electronic Summer of Love 2026 treffen harte, dunkle Sounds und schnelle Grooves aufeinander und bringen ein vielfältiges Programm zwischen Hard Dance, Trance, Bounce und Drum & Bass. Das Festival bietet dir zwei Nä"
+    "teaser": "Beim Backyard Boogie geht’s acht Stunden nonstop vom groovigen Disco House bis zum schnellen Hardhouse – immer mit Fokus aufs Tanzen. Die entspannte Crowd, kalte Drinks und ein überdachter Dancefloor sorgen für lässige S"
+  },
+  {
+    "titel": "Straußitag - Strausswirtschaft mit Wein, DJ's & good Vibes",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T15:00+0200",
+    "ort": "Weinkeller IMI Winery, Leyendeckerstraße 47",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/strauitag-wine-latin-grooves-mit-a-lo-6/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei Straußitag trifft entspanntes Day-Drinking auf eine feine Auswahl an Weinen direkt aus eigener Produktion. DJs und Live-Musik sorgen ab 15 Uhr für eine entspannte, lockere Atmosphäre, die perfekt zum Genießen und Sna"
+  },
+  {
+    "titel": "fi Garten x Langer Tag x Krystal Klear & avontuur",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T15:00+0200",
+    "ort": "Ursprung fi, Widdersdorfer Straße 246",
+    "preis": "ab 16 €",
+    "link": "https://rausgegangen.de/events/fi-garten-x-langer-tag-x-krystal-klear-avontuur-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Am Samstag bringen Krystal Klear und avontuur zusammen mit ARNDSON, Clara, Luise und Co. frische Sounds über Tag und Nacht. Freu dich auf einen Mix aus groovigen Beats und feinen House-Texturen, der die Stimmung entspann"
   },
   {
     "titel": "DANCE ME: Die Musik von Leonard Cohen",
@@ -240,6 +90,26 @@
     "teaser": "37. Kölner SommerfestivalBallets Jazz MontrealDANCE ME ist eine moderne, mitreißende Tanzproduktion, inspiriert von der Musik und den Texten des kanadischen Sängers, Songwriters und Dichters Leonard Cohen. Seine Lieder"
   },
   {
+    "titel": "Korken & Klub Day Affair",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T16:00+0200",
+    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/korken-klub-day-affair-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jeden Samstag mischen wechselnde DJs Latin House, House und versteckte Perlen im Open Air Bogen des CBE. Dazu gibt’s entspannten Lunch, Drinks und Wein zum Teilen – perfekt, um entspannt in den Abend zu starten oder die "
+  },
+  {
+    "titel": "Weinfest am Rein",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T16:00+0200",
+    "ort": "Harry-Blum-Platz, Harry-Blum-Platz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/weinfest-am-rein-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim Weinfest am Rhein kannst du verschiedene Weine aus deutschen und internationalen Regionen in entspannter Atmosphäre direkt am Wasser entdecken. Dazu gibt es kleine Leckereien, die perfekt zum Glas passen und den Gen"
+  },
+  {
     "titel": "Pelemele POP ’N’ ROLL – Kinderrockmusik | Sommer Köln",
     "datum": "8. Aug 2026",
     "datum_raw": "2026-08-08T16:00+0200",
@@ -248,6 +118,16 @@
     "link": "https://rausgegangen.de/events/pelemele-pop-n-roll-kinderrockmusik-sommer-koln-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Pelemele mischen Rock, Funk und Hip Hop zu einem Sound, der kleine und große Ohren in Bewegung bringt. Mit bekannten Gästen wird die Show zum bunten Spektakel voller Energie und Spaß für die ganze Familie 🤩"
+  },
+  {
+    "titel": "Soli-Party Cumbiera",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T18:00+0200",
+    "ort": "SSK Ehrenfeld, Liebigstraße 25",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/soli-party-cumbiera-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Hier trifft mexikanische Lebensfreude auf solidarische Energie, mit Tacos, Cocktails und Musik, die dich nicht stillstehen lässt Du unterstützt dabei einen selbstverwalteten Freiraum in Mexiko-Stadt und feierst gemeinsam"
   },
   {
     "titel": "Borsch4breakfast | Balkan | Jazz",
@@ -320,6 +200,16 @@
     "teaser": "37. Kölner SommerfestivalBallets Jazz MontrealDANCE ME ist eine moderne, mitreißende Tanzproduktion, inspiriert von der Musik und den Texten des kanadischen Sängers, Songwriters und Dichters Leonard Cohen. Seine Lieder"
   },
   {
+    "titel": "JUJU - Releasekonzert",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T20:00+0200",
+    "ort": "",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/juju-releasekonzert-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": ""
+  },
+  {
     "titel": "LeCrochelle Community Event mit LiveMusik",
     "datum": "8. Aug 2026",
     "datum_raw": "2026-08-08T20:00+0200",
@@ -360,6 +250,36 @@
     "teaser": "Florence Besch mixt raue Punkklänge mit verträumtem Pop und bringt damit ihren eigenen Dream Grunge-Sound auf die Bühne. Ihre Songs drehen sich um Feminismus und Selbstbestimmung und strahlen dabei eine besondere Ehrlich"
   },
   {
+    "titel": "MARTY SUPREME | MAKK Open-Air",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T21:15+0200",
+    "ort": "Open Air Kino MAKK, An d. Rechtschule 7",
+    "preis": "ab 9 €",
+    "link": "https://rausgegangen.de/events/marty-supreme-makk-open-air-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Timothéé Chalamet spielt in MARTY SUPREME den träumerischen Außenseiter, der mit viel Mut und Tischtennis ehrgeizig nach dem großen Coup greift. Der preisgekrönte Film von Josh Safdie zeigt, wie schnell Ruhm zur Verfolgu"
+  },
+  {
+    "titel": "Cologne Nightlife Tour: 4 Locations, Shots & Club Entry",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T21:15+0200",
+    "ort": "Zülpicher Pl., Zülpicher Pl., 50674 Köln, Germany",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/cologne-nightlife-tour-4-locations-shots-club-entry-85/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Experience Cologne nightlife the easy way with a fun group and a local host. After check-in at the meeting point, the night starts with a welcome shot. Then you’ll visit 4 lively nightlife locations, a mix of popular bar"
+  },
+  {
+    "titel": "Open-Air Kino Vorstellung: Jurassic Park",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T21:30+0200",
+    "ort": "Galopprennbahn Köln, Rennbahnstraße 152",
+    "preis": "ab 11 €",
+    "link": "https://rausgegangen.de/events/open-air-kino-vorstellung-jurassic-park-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei Rebel Screen trifft „Jurassic Park“ auf die besondere Atmosphäre der Kölner Galopprennbahn. Der Klassiker flimmert nicht nur groß auf, sondern klingt dank Nackenlautsprechern auch intensiv – so wird Kino zum gemeinsa"
+  },
+  {
     "titel": "Brauhaus Beats mit Josh",
     "datum": "8. Aug 2026",
     "datum_raw": "2026-08-08T22:00+0200",
@@ -368,6 +288,36 @@
     "link": "https://rausgegangen.de/events/brauhaus-beats-mit-josh-5/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Auch 2026 wird im Gaffel am Dom bis in den Sonntag hinein gefeiert! Die Party-Reihe Brauhaus Beats lädt zu außergewöhnlichen Mitsingabenden ein. Ab 22 Uhr sorgt Josh für Stimmung. Ein einzigartiges Acoustic Solo Loope"
+  },
+  {
+    "titel": "ACTIVE! Afrobeats, Afroswing, Amapiano, Shatta",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T23:00+0200",
+    "ort": "Club Subway, Aachener Straße 82-84",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/active-afrobeats-afroswing-amapiano-shatta-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei ACTIVE! gibt es Afrobeat, Afroswing, Amapiano und Shatta in einer Nacht, die den Moment feiert und dich tanzen lässt. Hier triffst du auf frische Sounds, die sofort ins Blut gehen und die Party mitgestalten. Ein Aben"
+  },
+  {
+    "titel": "SOUND SOUND SUMMER SESSION w/ DJ GUESTLIST, WOLTERS & MORE",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T23:00+0200",
+    "ort": "Schrotty, Vogelsanger Straße 406",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/sound-sound-summer-session-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "SOUND SOUND bringt elektronische Klänge mit frischen Beats in eine laue Sommernacht und sorgt für einen Dancefloor, der keine Pause kennt. Freu dich auf eine lange Session mit handverlesenen Sounds, die dich von der erst"
+  },
+  {
+    "titel": "OPEN DECKS TECHNO - Trance & Bounce",
+    "datum": "8. Aug 2026",
+    "datum_raw": "2026-08-08T23:00+0200",
+    "ort": "Helios37, Heliosstraße 37",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/open-decks-techno-trance-bounce-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei Open Decks Techno gehen 17 DJs auf zwei Floors an den Start und mixen Bounce mit Trance in ihren eigenen Stilen. Von Newcomern bis Profis erwarten dich Sets, die zeigen, wie vielfältig sich elektronische Musik heute "
   },
   {
     "titel": "DANCE ME: Die Musik von Leonard Cohen",
@@ -398,5 +348,55 @@
     "link": "https://rausgegangen.de/events/die-rockabellas-sommer-koln-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Eine Veranstaltung im Rahmen des Sommer Köln 2026:Die Rockabellas – Familien singenMusik für Groß & Klein mit Kinderliedern, Popsongs und Evergreens zum MitsingenDie Rockabellas bringen jede Menge Action auf die Bühne"
+  },
+  {
+    "titel": "Köln – Single Ice Cream Walk @ Rheinauhafen 🍦",
+    "datum": "9. Aug 2026",
+    "datum_raw": "2026-08-09T15:00+0200",
+    "ort": "Weyerstraße 77, Weyerstraße 77, 50676 Köln, Deutschland",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/koln-single-ice-cream-walk-rheinauhafen-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Na, Single aus Köln? 🍦Der Sommer ist viel zu schön, um ihn allein zu verbringen.Genau deshalb haben wir den Ice Cream Single Walk ins Leben gerufen.Der August ist die perfekte Zeit, um bei einem leckeren Eis, einem ent"
+  },
+  {
+    "titel": "Workshop & Social Night für Paare & Alleinstehende,  Tanzen verbindet",
+    "datum": "9. Aug 2026",
+    "datum_raw": "2026-08-09T17:45+0200",
+    "ort": "Salsa Bachata Mastery Zentrum, Georgstraße 5",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/workshop-social-night-fur-paare-alleinstehende-tanzen-verbin-128/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Es geht um neue Kontakte und ein neues Hobby, das deine Weltsicht verändern und den Kontakt zu Menschen viel einfacher machen kann. Durch das Tanzen verbinden sich Menschen und bleiben präsent.Meine Aufgabe als Worksho"
+  },
+  {
+    "titel": "Jazz at Green Room: Leonora Tomanoski Quartett",
+    "datum": "9. Aug 2026",
+    "datum_raw": "2026-08-09T18:00+0200",
+    "ort": "Stadtgarten, Venloer Straße 40",
+    "preis": "ab 8 €",
+    "link": "https://rausgegangen.de/events/jazz-at-green-room-leonora-tomanoski-quartett-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "18:00 | Konzert | GREEN ROOMDie Saxophonistin Leonora Tomanoski steht an diesem Abend gemeinsam mit einem Quartett junger Musiker aus der Kölner Jazzszene auf der Bühne. Kennengelernt hat sich die Formation an der Hoch"
+  },
+  {
+    "titel": "Voices of K-Pop! Projektchor Köln in Concert feat. Hopspot in Motion",
+    "datum": "9. Aug 2026",
+    "datum_raw": "2026-08-09T18:00+0200",
+    "ort": "Bürgerzentrum Nippes Altenberger Hof, Mauenheimer Straße 92",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/voices-of-k-pop-projektchor-koln-in-concert-feat-hopspot-in--0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der Projektchor Köln zeigt zum allerersten Mal, was in nur 6 Zusammentreffen aus einem Haufen fremder Menschen jeglichen Alters, Geschlechts und unterschiedlichen Vorerfahrungen entstehen kann. Gemeinsam hat der Projekt"
+  },
+  {
+    "titel": "WAHNSCHAFFE – Alternative Pop | Sommer Köln",
+    "datum": "9. Aug 2026",
+    "datum_raw": "2026-08-09T18:30+0200",
+    "ort": "Rudolfplatz, Rudolfplatz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/wahnschaffe-alternative-pop-sommer-koln-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "WAHNSCHAFFE verbindet vielschichtige Stimmen mit satten Rhythmen und feiert den Mut, echt zu sein. Sophia Wahnschaffe und Hanna von Tottleben bringen ehrliche Gefühle und kraftvolle Beats zusammen, die dich mitziehen. Es"
   }
 ]
