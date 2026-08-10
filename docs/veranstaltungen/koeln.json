@@ -1,73 +1,43 @@
 [
   {
-    "titel": "CITY BINGO Entdeckungstour | Köln Südstadt",
-    "datum": "10. Aug 2026",
-    "datum_raw": "2026-08-10T06:00+0200",
-    "ort": "Chlodwigplatz, Chlodwigplatz",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/city-bingo-sudstadt-by-rausgegangen-14/",
+    "titel": "DIY-Sticker-Workshop für Kinder - Gestalte dein eigenes cooles Sticker-Set!",
+    "datum": "11. Aug 2026",
+    "datum_raw": "2026-08-11T09:00+0200",
+    "ort": "IGLU gUG - DREHSCHEIBE FÜR NACHHALTIGEN KONSUM, Sudermanplatz 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/diy-sticker-workshop-fur-kinder-gestalte-dein-eigenes-cooles-2/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Beim CITY BINGO erkundest du die Kölner Südstadt auf spielerische Weise mit 16 spannenden Aufgaben, die dich zu echten Insider-Spots führen. Dabei lernst du Lokalkultur und Kurioses kennen, ohne lange planen zu müssen. P"
+    "teaser": "Kinder ab 8 Jahren können hier eigene Sticker-Kreationen gestalten und mit vielseitigem Material experimentieren. Wer mag, bringt sein Lieblingspapier oder Stifte mit und setzt persönliche Akzente. Kreativ sein und neue "
   },
   {
-    "titel": "KARAOKE",
-    "datum": "10. Aug 2026",
-    "datum_raw": "2026-08-10T19:00+0200",
-    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/karaoke-3482/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Am 9. März wird das Bumann & Sohn wieder zur Bühne für alle, die gern singen – egal ob Solo, Duo oder in der Gruppe. Torben Rich sorgt wie gewohnt für den passenden Sound und mit mehreren Mikrofonen kommt jeder gut zum Z"
-  },
-  {
-    "titel": "Kneipenquiz am Ebertplatz",
-    "datum": "10. Aug 2026",
-    "datum_raw": "2026-08-10T19:30+0200",
+    "titel": "🏓 Tischtennis-Rundlauf-Turnier am Ebertplatz🎉",
+    "datum": "11. Aug 2026",
+    "datum_raw": "2026-08-11T19:00+0200",
     "ort": "Ebertplatz, Ebertplatz",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/kneipenquiz-am-ebertplatz-6/",
+    "link": "https://rausgegangen.de/events/tischtennis-rundlauf-turnier-am-ebertplatz-10/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Kneipenquiz mischt sich lokales Wissen mit spannenden Themen querbeet, von Leibesübungen bis Stadt, Land, Fluss. Schnapp dir einen Platz, knack knifflige Fragen und unterstütze dabei Kölner Vereine – mitmachen koste"
+    "teaser": "Egal ob du gerade erst mit Tischtennis anfängst oder schon Profi bist, beim Rundlauf-Turnier am Ebertplatz spielt jede:r mit. Je nach Wetter wird drinnen oder draußen gespielt, und die Gemeinschaft steht klar im Vordergr"
   },
   {
-    "titel": "Montagsspiel - \"Wenn Fußball ausgrenzt\"",
-    "datum": "10. Aug 2026",
-    "datum_raw": "2026-08-10T19:30+0200",
-    "ort": "Kölschbar, Lindenstraße 56",
+    "titel": "Ocean Film Tour Vol. 12 (OMU)",
+    "datum": "11. Aug 2026",
+    "datum_raw": "2026-08-11T19:00+0200",
+    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/montagsspiel-wenn-fuball-ausgrenzt-0/",
+    "link": "https://rausgegangen.de/events/ocean-film-tour-vol-12-omu-2/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Beim „Montagsspiel“ geht’s darum, wie Fußball mehr sein kann als nur ein Spiel – mit Diskussionsrunden zu Ausgrenzung und Inklusion auf und neben dem Platz. David Johannes Berchem gibt Einblicke aus seinem Buch und gemei"
+    "teaser": "Bei der Ocean Film Tour Vol. 12 begleiten dich spannende Geschichten von Menschen, die sich auf unbekanntes Meer wagen – von einer Surffotografin bis zu einer Familie, die ihr Zuhause auf dem Segelboot hat. Freu dich auf"
   },
   {
-    "titel": "KLIMATISIERT: Impro Stand-up Comedy - Ich hab da mal nichts vorbereitet",
-    "datum": "10. Aug 2026",
-    "datum_raw": "2026-08-10T20:00+0200",
-    "ort": "Joode Lade, Lindenstraße 62",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/impro-stand-up-comedy-ich-hab-da-mal-nichts-vorbereitet-50/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Vier Comedy-Profis aus Nightwash und Quatsch Comedy Club legen ihre Skripte ab und improvisieren live, was das Zeug hält. Kein Plan, keine Vorgaben – nur echtes Comedy-Feeling, bei dem alles passieren kann. So frisch has"
-  },
-  {
-    "titel": "NICA live: Percussomnia feat. Gouffault, Philipp, Preisaitė, Wittbrodt",
-    "datum": "10. Aug 2026",
-    "datum_raw": "2026-08-10T20:00+0200",
-    "ort": "GREEN ROOM, Venloer Straße 40",
-    "preis": "ab 8 €",
-    "link": "https://rausgegangen.de/events/nica-live-percussomnia-feat-gouffault-philipp-preisaite-witt-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Percussomnia lotet mit Prepared Piano, Cello, Elektronik und Percussion eine neue Sprache für abstrakte Polyrhythmen aus. Die Musiker:innen aus Köln und Kopenhagen verbinden improvisierte Klangkunst mit dichten, lebendig"
-  },
-  {
-    "titel": "Best OFF FLINTA: Lady Bird",
-    "datum": "10. Aug 2026",
-    "datum_raw": "2026-08-10T20:00+0200",
-    "ort": "Off Broadway, Zülpicher Straße 24",
+    "titel": "Lachmuschel - Das Comedy Open Mic im Blue Shell",
+    "datum": "11. Aug 2026",
+    "datum_raw": "2026-08-11T20:00+0200",
+    "ort": "Blue Shell, Luxemburger Straße 32",
     "preis": "ab 10 €",
-    "link": "https://rausgegangen.de/events/best-off-flinta-lady-bird-0/",
+    "link": "https://rausgegangen.de/events/lachmuschel-das-comedy-open-mic-im-blue-shell-36/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Greta Gerwigs Lady Bird zeigt in ihrem ersten Solofilm, wie das letzte Highschool-Jahr zum Balanceakt zwischen Selbstbestimmung und Familienzwist wird. Die Coming-of-Age-Komödie bringt dir diesen modernen Klassiker mit v"
+    "teaser": "Comedy pur – von frischen Gags bis zum gefeierten Headliner, mit Überraschungen, Abstürzen und garantiert jeder Menge Spaß!"
   },
   {
     "titel": "Jazzorama Sommergarten: Mareille Merck LARUS + Jamsession",
@@ -360,6 +330,26 @@
     "teaser": "37. Kölner Sommerfestival»Romeo und Julia – Liebe ist alles«. Berührend, überraschend, befreiend – eines der erfolgreichsten deutschsprachigen Musicals unserer Zeit. Nie war Julia so wild, nie war Romeo so sexy, nie w"
   },
   {
+    "titel": "FREE FOOD EVENT by Creating Community Cologne e.V.",
+    "datum": "15. Aug 2026",
+    "datum_raw": "2026-08-15T15:00+0200",
+    "ort": "Pflanzstelle, Neuerburgstraße",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/free-food-event-by-creating-community-cologne-ev-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Creating Community Cologne pres.:⭐️ FREE FOOD EVENTS 2026 - 4th anniversay edition⭐️ 🎉 WE’RE TURNING 4! 🎉Four years of creating memories. Four years of bringing people together. Four years of fostering unity in diversity"
+  },
+  {
+    "titel": "Open Signals x Niehler Freiheit",
+    "datum": "15. Aug 2026",
+    "datum_raw": "2026-08-15T15:00+0200",
+    "ort": "Niehler Freiheit, Vogelsangerstrasse 385",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/open-signals-x-niehler-freiheit-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "TICKETBUTTON NICHT BEACHTEN - SPENDEN AM EINLASSopen signals x niehler freiheit, bringt am 15. August 2026 Live-Performances, Workshops und Showcases zusammen.Von 15 bis 17 Uhr laden Workshops und Showcases dazu ein, neu"
+  },
+  {
     "titel": "Frau Höpker bittet zum Gesang",
     "datum": "15. Aug 2026",
     "datum_raw": "2026-08-15T19:30+0200",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/salsa-bachata-night-musik-die-euch-tanzen-lasst-in-koln-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Gute Musik ist das Herzstück jeder Salsa & Bachata Night: Latin-Rhythmen, die euch von der ersten Minute an in Bewegung bringen. Bei dieser Night lernt ihr in zwei Workshops die Grundlagen und tanzt anschließend zur Mus"
+  },
+  {
+    "titel": "YAGUT LIVE ON TOUR KÖLN",
+    "datum": "15. Aug 2026",
+    "datum_raw": "2026-08-15T20:00+0200",
+    "ort": "Millennium Dance Complex Köln, Vogelsanger Straße 348",
+    "preis": "ab 15 €",
+    "link": "https://rausgegangen.de/events/yagut-live-on-tour-koln-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Nach ihrer viralen Live-Performance geht YAGUT endlich auf Tour. Um die Verbindung zu ihren Fans zu vertiefen, bringt YAGUT ihre Musik genau dorthin, wo ihre Community sie sich gewünscht hat. Erlebe einen Abend in ganz "
   }
 ]
