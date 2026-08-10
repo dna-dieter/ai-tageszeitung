@@ -240,16 +240,6 @@
     "teaser": "Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge entdecken Spaß macht "
   },
   {
-    "titel": "Wohnzimmerkonzerte von 2acts_cologne",
-    "datum": "14. Aug 2026",
-    "datum_raw": "2026-08-14T18:30+0200",
-    "ort": "Liebig 257 - Klug e.V., Liebigstraße 257",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/wohnzimmerkonzerte-von-2acts-cologne-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Jeden zweiten Freitag wird ein Wohnzimmer in Köln-Nippes zur Bühne, auf der Musiker*innen ihre Songs ganz nah und authentisch teilen. Die vielseitigen Acts bringen unterschiedlichste Stile und Sprachen zusammen, was für "
-  },
-  {
     "titel": "Dila Yavuz // SOMMERKONZERT",
     "datum": "14. Aug 2026",
     "datum_raw": "2026-08-14T19:30+0200",
@@ -268,6 +258,16 @@
     "link": "https://rausgegangen.de/events/klangraum-festival-barock-party-js-bach-gp-telemann-a-corell-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Ein feierliches Barock-Konzert mit dem seltenen Genuss von Cembaloklängen und persischen Trommeln. Nach dem großen Erfolg des Barockkonzerts im letzten Festival haben wir nun das Vergnügen zum zweiten Mal ein Cembalo i"
+  },
+  {
+    "titel": "Wohnzimmerkonzerte von 2acts_cologne",
+    "datum": "14. Aug 2026",
+    "datum_raw": "2026-08-14T19:30+0200",
+    "ort": "Liebig 257 - Klug e.V., Liebigstraße 257",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/wohnzimmerkonzerte-von-2acts-cologne-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jeden zweiten Freitag wird ein Wohnzimmer in Köln-Nippes zur Bühne, auf der Musiker*innen ihre Songs ganz nah und authentisch teilen. Die vielseitigen Acts bringen unterschiedlichste Stile und Sprachen zusammen, was für "
   },
   {
     "titel": "Cozy Rooftop Garden Concert",
