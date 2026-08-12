@@ -10,16 +10,6 @@
     "teaser": "Mach Schluss mit Alltagsstress und Plastikmüll – beim Feierabend-Cleanup am Rheinpark trifft Umweltschutz auf gute Laune. Gemeinsam sammeln wir Müll, schnacken eine Runde und genießen den Blick aufs Wasser. Handschuhe un"
   },
   {
-    "titel": "Snipes x adidas - Launch Auswärtstrikot 1. FC Köln",
-    "datum": "12. Aug 2026",
-    "datum_raw": "2026-08-12T18:00+0200",
-    "ort": "Snipes, Schildergasse 120",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/snipes-x-adidas-launch-auswartstrikot-1-fc-koln-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim gemeinsamen Launch vom neuen FC-Auswärtstrikot kannst du Profis aus dem Kader beim Kicker duelieren und nebenbei beim Fit Check dein Lieblingsoutfit mit adidas-Looks abräumen 🕺"
-  },
-  {
     "titel": "Ask a trans person!",
     "datum": "12. Aug 2026",
     "datum_raw": "2026-08-12T18:00+0200",
@@ -30,11 +20,21 @@
     "teaser": "In diesem Workshop kannst du ganz offen deine Fragen zur Trans*Community stellen und mehr über Transitionen und geschlechtliche Vielfalt erfahren. Kuem, selbst transmaskulin und erfahren in Körperarbeit, schafft einen en"
   },
   {
+    "titel": "Snipes x adidas - Launch Auswärtstrikot 1. FC Köln",
+    "datum": "12. Aug 2026",
+    "datum_raw": "2026-08-12T18:00+0200",
+    "ort": "Snipes, Schildergasse 120",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/snipes-x-adidas-launch-auswartstrikot-1-fc-koln-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim gemeinsamen Launch vom neuen FC-Auswärtstrikot kannst du Profis aus dem Kader beim Kicker duelieren und nebenbei beim Fit Check dein Lieblingsoutfit mit adidas-Looks abräumen 🕺"
+  },
+  {
     "titel": "SingMITtwoch - Ein Abend zum Mitsingen!",
     "datum": "12. Aug 2026",
     "datum_raw": "2026-08-12T19:00+0200",
     "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
-    "preis": "ab 6 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/singmittwoch-ein-abend-zum-mitsingen-10/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Gemeinsam singen macht hier wirklich Lust auf mehr: Gesa und Johannes bringen bekannte Songs zum Strahlen, ihr singt einfach mit. Es wird entspannt, fröhlich und voller guter Laune mit Drinks und echten Mitsingmomenten 🤗"
@@ -80,16 +80,6 @@
     "teaser": "37. Kölner Sommerfestival»Romeo und Julia – Liebe ist alles«. Berührend, überraschend, befreiend – eines der erfolgreichsten deutschsprachigen Musicals unserer Zeit. Nie war Julia so wild, nie war Romeo so sexy, nie w"
   },
   {
-    "titel": "Dinner in the Sky mit Rausgegangen | Köln",
-    "datum": "12. Aug 2026",
-    "datum_raw": "2026-08-12T20:30+0200",
-    "ort": "Mediapark, Im Mediapark 4",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/dinner-in-the-sky-koln-15/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "OMG: Tickets für diesen spektakulären Tapas-Flug gibt es exklusiv nur bei uns zu gewinnen. Mach jetzt mit. Wir sehen uns oben!"
-  },
-  {
     "titel": "5 Days of Summer - Die Sommerkinowoche im FIlmforum NRW",
     "datum": "12. Aug 2026",
     "datum_raw": "2026-08-12T20:30+0200",
@@ -100,14 +90,14 @@
     "teaser": "Im Filmforum NRW warten neun Filme, die vom Teenie-Drama bis zu Sommer-Blockbustern die unterschiedlichsten Seiten des heißen Augusts abbilden. Dazu gibt’s coole Drinks und Eis – perfekt, um den Sommer auf der Leinwand z"
   },
   {
-    "titel": "RADIO SABROSITA• JEDEN DONNERSTAG • AB 23 H IM VEEDEL CLUB • STUDENTSNIGHT",
-    "datum": "13. Aug 2026",
-    "datum_raw": "2026-08-13T00:00+0200",
-    "ort": "Veedel Club, Luxemburger Straße 37",
+    "titel": "Dinner in the Sky mit Rausgegangen | Köln",
+    "datum": "12. Aug 2026",
+    "datum_raw": "2026-08-12T20:30+0200",
+    "ort": "Mediapark, Im Mediapark 4",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/radio-sabrosita-jeden-donnerstag-ab-23-h-im-veedel-club-stud-16/",
+    "link": "https://rausgegangen.de/events/dinner-in-the-sky-koln-15/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Jeden Donnerstag bringt RADIO SABROSITA karibische Clubsounds von Reggaeton bis Salsa nach Köln und feiert internationale Vielfalt auf dem Dancefloor. Die DJs legen alles auf, um dir eine unvergessliche Nacht mit heißen "
+    "teaser": "OMG: Tickets für diesen spektakulären Tapas-Flug gibt es exklusiv nur bei uns zu gewinnen. Mach jetzt mit. Wir sehen uns oben!"
   },
   {
     "titel": "Volker Schmitz & David McKendrick",
@@ -210,6 +200,16 @@
     "teaser": "Im Soul Café trifft Vinyl-Soul auf entspannte Café-Atmosphäre, dabei sorgen ausgewählte Jazz- und Soul-Perlen vom Northern Soul Club Cologne für einen lässigen Nachmittag. Ob du lieber tanzt oder gemütlich mit Kaffee in "
   },
   {
+    "titel": "XL-Sonderausgabe: 2 Tage Feierabendmarkt Ehrenfeld!",
+    "datum": "14. Aug 2026",
+    "datum_raw": "2026-08-14T16:00+0200",
+    "ort": "Neptunplatz, Neptunplatz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/xxl-sonderausgabe-3-tage-feierabendmarkt-ehrenfeld-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Drei Tage lang versammeln sich die besten Foodtrucks in Ehrenfeld zu einer XXL-Sonderausgabe des Feierabendmarkts. Hier gibt’s eine bunte Mischung aus Spezialitäten und lockeren Drinks, die den Sommer in der Stadt perfek"
+  },
+  {
     "titel": "Kakaozeremonie & Klangreise, Kräuterreinigung, Meditation, erlebe etwas Neues!",
     "datum": "14. Aug 2026",
     "datum_raw": "2026-08-14T18:00+0200",
@@ -220,7 +220,7 @@
     "teaser": "Ein Erlebnis für alle Sinne. Musik zum Fühlen und nicht zum intellektuellen Erfassen. Schokolade in ihrer reinsten und ursprünglichen Form zum trinken und erfahren. Spüre wie sich dein Herz öffnet und du vom Kopf in"
   },
   {
-    "titel": "Odonische Freitagsbühne",
+    "titel": "14.08. FÄLLT AUS / Odonische Freitagsbühne",
     "datum": "14. Aug 2026",
     "datum_raw": "2026-08-14T18:00+0200",
     "ort": "Odonien, Hornstraße 85",
