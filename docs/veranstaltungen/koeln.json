@@ -1,105 +1,5 @@
 [
   {
-    "titel": "Feierabend Cleanup",
-    "datum": "12. Aug 2026",
-    "datum_raw": "2026-08-12T17:00+0200",
-    "ort": "Deutzer Rheinufer, Herbert-Liebertz-Weg",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/feierabend-cleanup-28/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Mach Schluss mit Alltagsstress und Plastikmüll – beim Feierabend-Cleanup am Rheinpark trifft Umweltschutz auf gute Laune. Gemeinsam sammeln wir Müll, schnacken eine Runde und genießen den Blick aufs Wasser. Handschuhe un"
-  },
-  {
-    "titel": "Ask a trans person!",
-    "datum": "12. Aug 2026",
-    "datum_raw": "2026-08-12T18:00+0200",
-    "ort": "OnlyYou Holistic Center, Venloer Straße 497",
-    "preis": "ab 35 €",
-    "link": "https://rausgegangen.de/events/ask-a-trans-person-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "In diesem Workshop kannst du ganz offen deine Fragen zur Trans*Community stellen und mehr über Transitionen und geschlechtliche Vielfalt erfahren. Kuem, selbst transmaskulin und erfahren in Körperarbeit, schafft einen en"
-  },
-  {
-    "titel": "Snipes x adidas - Launch Auswärtstrikot 1. FC Köln",
-    "datum": "12. Aug 2026",
-    "datum_raw": "2026-08-12T18:00+0200",
-    "ort": "Snipes, Schildergasse 120",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/snipes-x-adidas-launch-auswartstrikot-1-fc-koln-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim gemeinsamen Launch vom neuen FC-Auswärtstrikot kannst du Profis aus dem Kader beim Kicker duelieren und nebenbei beim Fit Check dein Lieblingsoutfit mit adidas-Looks abräumen 🕺"
-  },
-  {
-    "titel": "SingMITtwoch - Ein Abend zum Mitsingen!",
-    "datum": "12. Aug 2026",
-    "datum_raw": "2026-08-12T19:00+0200",
-    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/singmittwoch-ein-abend-zum-mitsingen-10/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Gemeinsam singen macht hier wirklich Lust auf mehr: Gesa und Johannes bringen bekannte Songs zum Strahlen, ihr singt einfach mit. Es wird entspannt, fröhlich und voller guter Laune mit Drinks und echten Mitsingmomenten 🤗"
-  },
-  {
-    "titel": "KLANGRAUM Festival | Kammermusik mit Streichern | Eröffnung mit Jungen Talenten | Beethoven",
-    "datum": "12. Aug 2026",
-    "datum_raw": "2026-08-12T19:30+0200",
-    "ort": "Et Kapellchen e.V. Köln-Mülheim, Holsteinstraße",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/klangraum-festival-eroffnung-mit-jungen-talenten-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Eine fulminante Eröffnung mit frischem Streicherprogramm und einer exklusiven Tanzdarbietung der Ballettänzerin Mami Fujii. Mit Meisterwerken von Beethoven, Glass und anderen. Auf der der Kapellchenbühne stehen junge "
-  },
-  {
-    "titel": "KINO OPEN AIR / Little Miss Sunshine",
-    "datum": "12. Aug 2026",
-    "datum_raw": "2026-08-12T20:00+0200",
-    "ort": "Odonien, Hornstraße 85",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kino-open-air-little-miss-sunshine-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Im Open Air Kino trifft der schräge Familienroadtrip von Little Miss Sunshine auf laue Sommernächte und echte Momente jenseits von Perfektion. Zwischen Chaos und Herzlichkeit erlebst du eine Tragikomödie, die zeigt, wie "
-  },
-  {
-    "titel": "Feierabend mit Ein Rosenkavalier",
-    "datum": "12. Aug 2026",
-    "datum_raw": "2026-08-12T20:00+0200",
-    "ort": "Die hängenden Gärten von Ehrenfeld, Vogelsanger Straße 140",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/feierabend-mit-rosenkavalier-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "“Komm Feierabende mit mir”Mit diesen Worten lädt dich Ein Rosenkavalier am 12.08.2026 zu seinem Gratis-Konzert in die Hängenden Gärten von Ehrenfeld ein. Der Anlass? Zum einen der Release seines neuen Hits “Feierabend"
-  },
-  {
-    "titel": "ROMEO UND JULIA - Liebe ist alles",
-    "datum": "12. Aug 2026",
-    "datum_raw": "2026-08-12T20:00+0200",
-    "ort": "Philharmonie Köln, Bischofsgartenstr. 1",
-    "preis": "ab 50 €",
-    "link": "https://rausgegangen.de/events/romeo-und-julia-liebe-ist-alles-92/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "37. Kölner Sommerfestival»Romeo und Julia – Liebe ist alles«. Berührend, überraschend, befreiend – eines der erfolgreichsten deutschsprachigen Musicals unserer Zeit. Nie war Julia so wild, nie war Romeo so sexy, nie w"
-  },
-  {
-    "titel": "5 Days of Summer - Die Sommerkinowoche im FIlmforum NRW",
-    "datum": "12. Aug 2026",
-    "datum_raw": "2026-08-12T20:30+0200",
-    "ort": "Filmforum NRW, Bischofsgartenstr. 1",
-    "preis": "ab 18 €",
-    "link": "https://rausgegangen.de/events/5-days-of-summer-die-sommerkinowoche-im-filmforum-nrw-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Im Filmforum NRW warten neun Filme, die vom Teenie-Drama bis zu Sommer-Blockbustern die unterschiedlichsten Seiten des heißen Augusts abbilden. Dazu gibt’s coole Drinks und Eis – perfekt, um den Sommer auf der Leinwand z"
-  },
-  {
-    "titel": "Dinner in the Sky mit Rausgegangen | Köln",
-    "datum": "12. Aug 2026",
-    "datum_raw": "2026-08-12T20:30+0200",
-    "ort": "Mediapark, Im Mediapark 4",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/dinner-in-the-sky-koln-15/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "OMG: Tickets für diesen spektakulären Tapas-Flug gibt es exklusiv nur bei uns zu gewinnen. Mach jetzt mit. Wir sehen uns oben!"
-  },
-  {
     "titel": "Volker Schmitz & David McKendrick",
     "datum": "13. Aug 2026",
     "datum_raw": "2026-08-13T00:00+0200",
@@ -108,6 +8,56 @@
     "link": "https://rausgegangen.de/events/volker-schmitz-david-mckendrick-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Volker Schmitz wuchs mit Musik auf und hörte im Wohnzimmer seines Elternhauses Jam-Sessions mit berühmten Jazzmusikern wie Niels Henning Ørsted Pederson, Eugen Cicero, Jean Warland und Francis Coppieters. Mit 16 hatte "
+  },
+  {
+    "titel": "CARLSWERK Sprizz & Beats After Work DAY DRINKING PARTY im Puriono",
+    "datum": "13. Aug 2026",
+    "datum_raw": "2026-08-13T17:00+0200",
+    "ort": "Purino KÖLN, Schanzenstraße",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/carlswerk-sprizz-beats-after-work-day-drinking-party-im-puri-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei CARLSWERK Sprizz & Beats trifft entspannter Feierabend auf Afro-Melodic-Latin-House und spritzige Drinks für 6,50 Euro. Ob chillen in der Relaxzone oder tanzen auf dem Floor, hier vernetzt du dich mit Feierabend-Crew"
+  },
+  {
+    "titel": "Zappeln im Zappes",
+    "datum": "13. Aug 2026",
+    "datum_raw": "2026-08-13T17:00+0200",
+    "ort": "Zappes Zentrale, Roonstraße 71",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/zappeln-im-zappes-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jede Woche drehen unterschiedliche DJs die 2000er-Hits auf und lassen Erinnerungen an Pop, Hip-Hop und Clubklassiker wieder aufleben. Donnerstag wird hier zum Lieblingsabend für alle, die Lust auf Singen, Tanzen und gute"
+  },
+  {
+    "titel": "BINGO",
+    "datum": "13. Aug 2026",
+    "datum_raw": "2026-08-13T18:30+0200",
+    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/bingo-w-freddy-60/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei BINGO geht’s entspannt zur Sache, du bringst nur deinen Stift mit und bist ready für coole Runden mit kleinen Einsätzen und Preisen. Kein Stress mit Reservierungen, einfach vorbeikommen und locker mitspielen im gemüt"
+  },
+  {
+    "titel": "5 Days of Summer - Die Sommerkinowoche im FIlmforum NRW",
+    "datum": "13. Aug 2026",
+    "datum_raw": "2026-08-13T19:00+0200",
+    "ort": "Filmforum NRW, Bischofsgartenstr. 1",
+    "preis": "ab 18 €",
+    "link": "https://rausgegangen.de/events/5-days-of-summer-die-sommerkinowoche-im-filmforum-nrw-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Im Filmforum NRW warten neun Filme, die vom Teenie-Drama bis zu Sommer-Blockbustern die unterschiedlichsten Seiten des heißen Augusts abbilden. Dazu gibt’s coole Drinks und Eis – perfekt, um den Sommer auf der Leinwand z"
+  },
+  {
+    "titel": "Rausgegangen Filmabend | 10 Dinge, die ich an dir hasse (OmU) | Community Choice",
+    "datum": "13. Aug 2026",
+    "datum_raw": "2026-08-13T19:00+0200",
+    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/rausgegangen-filmabend-community-choice-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Rausgegangen Filmabend mit Open Air Kino Vibes? Yes please! Dabei dann noch selber mitentscheiden können, welcher Film läuft? Count me in! Wir sehen uns vor der großen Leinwand mit Popcorn und Domblick. 🍿"
   },
   {
     "titel": "White Noise Gong Bath",
@@ -168,6 +118,16 @@
     "link": "https://rausgegangen.de/events/swae-lee-same-difference-tour-europe-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Swae LeeSame Difference Tour EuropePräsentiert von Live Nation 13.08.2026 Köln, Live Music Hall Einlass: 19:00 Uhr | Beginn: 20:00 Uhr Der Sänger Swae Lee, der in Inglewood, Kalifornien, als Khalif Malik Ibn Shaman Br"
+  },
+  {
+    "titel": "RADIO SABROSITA• JEDEN DONNERSTAG • AB 23 H IM VEEDEL CLUB • STUDENTSNIGHT",
+    "datum": "13. Aug 2026",
+    "datum_raw": "2026-08-13T23:00+0200",
+    "ort": "Veedel Club, Luxemburger Straße 37",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/radio-sabrosita-jeden-donnerstag-ab-23-h-im-veedel-club-stud-16/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jeden Donnerstag bringt RADIO SABROSITA karibische Clubsounds von Reggaeton bis Salsa nach Köln und feiert internationale Vielfalt auf dem Dancefloor. Die DJs legen alles auf, um dir eine unvergessliche Nacht mit heißen "
   },
   {
     "titel": "OFF THE RECORD - „RAHEEM“ ALBUM LISTENING EVENT",
@@ -330,6 +290,16 @@
     "teaser": "Hier gibt’s keinen Jury-Stress und keine falschen Töne, sondern einfach 53.000 Songs zum Austoben – von 90s Trash bis RnB. Maxi macht seit Jahren Karaoke-Abende zur Party, bei denen du zum Held:in oder Meme wirst. Zwisch"
   },
   {
+    "titel": "Straßenfest im Agnesviertel",
+    "datum": "15. Aug 2026",
+    "datum_raw": "2026-08-15T11:00+0200",
+    "ort": "Agnesviertel Köln, Köln",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/straenfest-im-agnesviertel-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Im Agnesviertel erwartet dich ein buntes Straßenfest mit Kölsch, Kunsthandwerk und Musik von lokalen Acts. Zwischen schöner Altbausubstanz und der Agneskirche zeigt sich das Viertel in besonderer Atmosphäre. Hier kannst "
+  },
+  {
     "titel": "ROMEO UND JULIA - Liebe ist alles",
     "datum": "15. Aug 2026",
     "datum_raw": "2026-08-15T15:00+0200",
@@ -398,5 +368,35 @@
     "link": "https://rausgegangen.de/events/romeo-und-julia-liebe-ist-alles-97/",
     "quelle": "Rausgegangen Köln",
     "teaser": "37. Kölner Sommerfestival»Romeo und Julia – Liebe ist alles«. Berührend, überraschend, befreiend – eines der erfolgreichsten deutschsprachigen Musicals unserer Zeit. Nie war Julia so wild, nie war Romeo so sexy, nie w"
+  },
+  {
+    "titel": "meoneo mit Fredericks Werten",
+    "datum": "16. Aug 2026",
+    "datum_raw": "2026-08-16T15:00+0200",
+    "ort": "Vorhof-Flimmern, Xantener Straße 145",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/meoneo-mit-fredericks-werten-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Vorhof-Flimmern mit meoneo!„Wer viel reist, erfährt viel.“ So ließe sich verkürzt die Botschaft von Don Quijote, dem Ritter von der traurigen Gestalt, an seinen Knappen und Weggefährten Sancho Panza zusammenfassen.Kei"
+  },
+  {
+    "titel": "Workshop & Social Night für Paare & Alleinstehende,  Tanzen verbindet",
+    "datum": "16. Aug 2026",
+    "datum_raw": "2026-08-16T17:45+0200",
+    "ort": "Salsa Bachata Mastery Zentrum, Georgstraße 5",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/workshop-social-night-fur-paare-alleinstehende-tanzen-verbin-129/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Es geht um neue Kontakte und ein neues Hobby, das deine Weltsicht verändern und den Kontakt zu Menschen viel einfacher machen kann. Durch das Tanzen verbinden sich Menschen und bleiben präsent.Meine Aufgabe als Worksho"
+  },
+  {
+    "titel": "Jazz at Green Room: van Rhee/Landfermann/Berger",
+    "datum": "16. Aug 2026",
+    "datum_raw": "2026-08-16T18:00+0200",
+    "ort": "Stadtgarten, Venloer Straße 40",
+    "preis": "ab 8 €",
+    "link": "https://rausgegangen.de/events/jazz-at-green-room-van-rheelandfermannberger-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "18:00 | Konzert | GREEN ROOMDer Kölner Saxophonist Julius van Rhee präsentiert gemeinsam mit Robert Landfermann und Leif Berger zum ersten Mal ein frisch komponiertes Programm in Trio-Besetzung. Die drei etablierten Mu"
   }
 ]
