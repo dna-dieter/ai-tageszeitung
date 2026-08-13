@@ -310,6 +310,16 @@
     "teaser": "37. Kölner Sommerfestival»Romeo und Julia – Liebe ist alles«. Berührend, überraschend, befreiend – eines der erfolgreichsten deutschsprachigen Musicals unserer Zeit. Nie war Julia so wild, nie war Romeo so sexy, nie w"
   },
   {
+    "titel": "Beach Kirtan",
+    "datum": "15. Aug 2026",
+    "datum_raw": "2026-08-15T17:45+0200",
+    "ort": "Claudius Therme Köln, Sachsenbergstraße 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/beach-kirtan-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "✨ Beach Kirtan, inspirierende Talks & veganes Dinner ✨  Am 15. August um 18:00 Uhr laden wir dich herzlich zu einem besonderen Sommerabend am Mülheimer Strand in Köln – in der Nähe der Claudius Therme – ein. 🌊☀️🎶  Las"
+  },
+  {
     "titel": "Frau Höpker bittet zum Gesang",
     "datum": "15. Aug 2026",
     "datum_raw": "2026-08-15T19:30+0200",
@@ -388,15 +398,5 @@
     "link": "https://rausgegangen.de/events/workshop-social-night-fur-paare-alleinstehende-tanzen-verbin-129/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Es geht um neue Kontakte und ein neues Hobby, das deine Weltsicht verändern und den Kontakt zu Menschen viel einfacher machen kann. Durch das Tanzen verbinden sich Menschen und bleiben präsent.Meine Aufgabe als Worksho"
-  },
-  {
-    "titel": "Jazz at Green Room: van Rhee/Landfermann/Berger",
-    "datum": "16. Aug 2026",
-    "datum_raw": "2026-08-16T18:00+0200",
-    "ort": "Stadtgarten, Venloer Straße 40",
-    "preis": "ab 8 €",
-    "link": "https://rausgegangen.de/events/jazz-at-green-room-van-rheelandfermannberger-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "18:00 | Konzert | GREEN ROOMDer Kölner Saxophonist Julius van Rhee präsentiert gemeinsam mit Robert Landfermann und Leif Berger zum ersten Mal ein frisch komponiertes Programm in Trio-Besetzung. Die drei etablierten Mu"
   }
 ]
