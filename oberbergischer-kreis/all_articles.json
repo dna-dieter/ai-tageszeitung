@@ -23243,6 +23243,18 @@
     "fetched": "2026-05-05T21:23:25.231867"
   },
   {
+    "id": "b4df49da88d6",
+    "title": "Pressemitteilung des Oberbergischen Kreises",
+    "summary": "Steigende Brandgefahr durch anhaltende Trockenheit",
+    "link": "https://wipperfuerth.de/fileadmin/redaktion/Hansestadt_Wipperfuerth/Presse/2026/2026_08_14_Steigende_Brandgefahr_durch_anhaltende_Trockenheit.pdf",
+    "published": "Fri, 14 Aug 2026 10:48:45 +0200",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-08-14T10:13:57.517848"
+  },
+  {
     "id": "4b46a8f20807",
     "title": "POL-GM: Einbruch in Bowlingcenter",
     "summary": "Bergneustadt (ots) - Auf den Inhalt von Spielautomaten hatte es ein Unbekannter am Donnerstag (13. August) in der Kölner Straße abgesehen. Der Kriminelle verschaffte sich gegen 2 Uhr Zutritt zu den Räumlichkeiten eines Bowlingcenters, brach ...",
@@ -23253,6 +23265,30 @@
       "bergneustadt"
     ],
     "fetched": "2026-08-14T08:24:41.481480"
+  },
+  {
+    "id": "0f4ff2fda403",
+    "title": "Oberberg: Waldbrandgefahr steigt – Kreis warnt vor Funken und Feuer",
+    "summary": "Waldbrandgefahr im Kreisgebiet steigt: DWD-Prognose, aktuelle Einsätze und klare Regeln für Wald, Garten, Grill sowie den Notruf 112.",
+    "link": "https://www.news-on-tour.de/240318/oberberg-waldbrandgefahr-trockenheit/",
+    "published": "Fri, 14 Aug 2026 09:21:32 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-08-14T10:13:53.149740"
+  },
+  {
+    "id": "ec86a1dcb585",
+    "title": "Bergneustadt: Dritter dokumentierter Einbruch im Bowlingcenter – Täter flüchtet",
+    "summary": "Bowlingcenter in Bergneustadt: Ein Unbekannter plündert Münzfächer aus Spielautomaten. NEWS-on-Tour zeigt zwei frühere dokumentierte Fälle.",
+    "link": "https://www.news-on-tour.de/240313/bowlingcenter-bergneustadt-einbruch_26/",
+    "published": "Fri, 14 Aug 2026 09:13:42 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-08-14T10:13:53.149783"
   },
   {
     "id": "a9bcb8763e41",
