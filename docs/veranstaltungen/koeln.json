@@ -1,183 +1,33 @@
 [
   {
-    "titel": "Flohmarkt Nippes",
-    "datum": "16. Aug 2026",
-    "datum_raw": "2026-08-16T11:00+0200",
-    "ort": "Wilhelmplatz, undefined",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/flohmarkt-nippes-23/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wer suchet, der findet - so gehts auch auf dem Wilhelmplatz zu, wenn sich Trödel Liebhaber:innen durch die vielen kleinen Schätze stöbern! Zwischen Klamotten, Büchern und tollen antiken Stücken ist noch nie jemand mit le"
-  },
-  {
-    "titel": "Häkeln für Anfänger",
-    "datum": "16. Aug 2026",
-    "datum_raw": "2026-08-16T11:00+0200",
-    "ort": "The Werkstatt Studio - Belgisches Viertel, Brüsseler Straße 56",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/hakeln-fur-anfanger-7/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Von altem Shirt zu It‑Bag: wir zeigen dir die Tricks, du bringst die Ideen ✨ Ein Drink, etwas Süßes und ganz viel DIY💜"
-  },
-  {
-    "titel": "Apéro Markt Köln - Das Aperitif-Sommer-Pop-Up 14.08. – 16.08.2026",
-    "datum": "16. Aug 2026",
-    "datum_raw": "2026-08-16T13:00+0200",
-    "ort": "Vogelsanger Straße im Grüngürtel, Vogelsanger Straße",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/apero-markt-koln-das-aperitif-sommer-pop-up-1408-16082026-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Im Grüngürtel gibt’s ein Sommer-Pop-up, das den Geist südlicher Aperitivo-Runden mitten in die Stadt holt. Freu dich auf Spritz, Wein und kreative Drinks plus internationale Snacks, auch vegan und vegetarisch, die Sonne "
-  },
-  {
-    "titel": "Wir Wollen Uns Lebend X Lunch Cube",
-    "datum": "16. Aug 2026",
-    "datum_raw": "2026-08-16T14:00+0200",
-    "ort": "Ebertplatz, Ebertplatz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/wir-wollen-uns-lebend-x-lunch-cube-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Das Kölner Netzwerk gegen Feminizide bringt aktiv kreative Zeichen gegen geschlechtsspezifische Gewalt in den Lunch Cube. Bei Gazpacho und Drinks kannst du Schilder für den „Ni-una-menos-Schrein“ gestalten und dich mit a"
-  },
-  {
-    "titel": "5 Days of Summer - Die Sommerkinowoche im FIlmforum NRW",
-    "datum": "16. Aug 2026",
-    "datum_raw": "2026-08-16T14:00+0200",
-    "ort": "Filmforum NRW, Bischofsgartenstr. 1",
-    "preis": "ab 18 €",
-    "link": "https://rausgegangen.de/events/5-days-of-summer-die-sommerkinowoche-im-filmforum-nrw-7/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Im Filmforum NRW warten neun Filme, die vom Teenie-Drama bis zu Sommer-Blockbustern die unterschiedlichsten Seiten des heißen Augusts abbilden. Dazu gibt’s coole Drinks und Eis – perfekt, um den Sommer auf der Leinwand z"
-  },
-  {
-    "titel": "ROMEO UND JULIA - Liebe ist alles",
-    "datum": "16. Aug 2026",
-    "datum_raw": "2026-08-16T14:00+0200",
-    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
-    "preis": "ab 60 €",
-    "link": "https://rausgegangen.de/events/romeo-und-julia-liebe-ist-alles-97/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "37. Kölner Sommerfestival»Romeo und Julia – Liebe ist alles«. Berührend, überraschend, befreiend – eines der erfolgreichsten deutschsprachigen Musicals unserer Zeit. Nie war Julia so wild, nie war Romeo so sexy, nie w"
-  },
-  {
-    "titel": "meoneo mit Fredericks Werten",
-    "datum": "16. Aug 2026",
-    "datum_raw": "2026-08-16T15:00+0200",
-    "ort": "Vorhof-Flimmern, Xantener Straße 145",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/meoneo-mit-fredericks-werten-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Vorhof-Flimmern mit meoneo!„Wer viel reist, erfährt viel.“ So ließe sich verkürzt die Botschaft von Don Quijote, dem Ritter von der traurigen Gestalt, an seinen Knappen und Weggefährten Sancho Panza zusammenfassen.Kei"
-  },
-  {
-    "titel": "✨ GLOW Rooftop Party @ PARK Café",
-    "datum": "16. Aug 2026",
-    "datum_raw": "2026-08-16T16:00+0200",
-    "ort": "PARK Café, Auenweg",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/glow-open-air-park-cafe-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Das schwedische Label House Music With Love bringt Deep House und melodische Sounds auf die Rooftop-Terrasse, dazu gibt es tropisches Grün und Drinks – perfekte Mischung für entspannte Stunden und stimmungsvolle Sonnenun"
-  },
-  {
-    "titel": "Veedelsspuren – Müllsammelnd die Stadt entdecken",
-    "datum": "16. Aug 2026",
-    "datum_raw": "2026-08-16T16:30+0200",
-    "ort": "Köln-Kunibertsviertel & Altstadt Nord",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/veedelsspuren-mullsammelnd-die-stadt-entdecken-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Sammeln von Müll entdeckst du hier verborgene Geschichten unserer Stadt: Architektur der 50er und 70er trifft auf die Spuren unserer Wegwerfgesellschaft. Gemeinsam schärfen wir den Blick für das, was oft übersehen w"
-  },
-  {
-    "titel": "Frau Höpker bittet zum Gesang",
-    "datum": "16. Aug 2026",
-    "datum_raw": "2026-08-16T17:00+0200",
+    "titel": "Kultfilm: Bohemian Rapsody // Aperol Kinotag 🧡",
+    "datum": "17. Aug 2026",
+    "datum_raw": "2026-08-17T19:00+0200",
     "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/frau-hoepker-bittet-zum-gesang-90/",
+    "link": "https://rausgegangen.de/events/kultfilm-bohemian-rapsody-aperol-kinotag-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Ahoi!Alle an Bord! Frau Höpker steigt wieder auf die schwimmende Hafenbühne! Mit ihr gemeinsam zu singen, und das mit Blick auf den Dom, macht jede Veranstaltung im Rheinauhafen für unsere Gäste und für uns zu einem"
+    "teaser": "Bohemian Rhapsody ist pure Leidenschaft auf der Leinwand – Freddie Mercury und Queen kämpfen sich vom Underground zur Legende, während sie gleichzeitig an ihre Grenzen stoßen. Erfolg, Einsamkeit, Zusammenhalt, Musik, die"
   },
   {
-    "titel": "Workshop & Social Night für Paare & Alleinstehende,  Tanzen verbindet",
-    "datum": "16. Aug 2026",
-    "datum_raw": "2026-08-16T17:45+0200",
-    "ort": "Salsa Bachata Mastery Zentrum, Georgstraße 5",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/workshop-social-night-fur-paare-alleinstehende-tanzen-verbin-129/",
+    "titel": "90er-JAHRE QUIZ - Open-Air",
+    "datum": "17. Aug 2026",
+    "datum_raw": "2026-08-17T19:00+0200",
+    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
+    "preis": "ab 12 €",
+    "link": "https://rausgegangen.de/events/90er-jahre-quiz-open-air-1/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Es geht um neue Kontakte und ein neues Hobby, das deine Weltsicht verändern und den Kontakt zu Menschen viel einfacher machen kann. Durch das Tanzen verbinden sich Menschen und bleiben präsent.Meine Aufgabe als Worksho"
+    "teaser": "Hier kannst du dein 90er-Wissen auf den Prüfstand stellen und dich an den Zeiten von Gameboy, Loveparade und Tamagotchi erinnern. Das interaktive Quiz bringt mit frischen Fragen die Highlights des bunten Jahrzehnts zurüc"
   },
   {
-    "titel": "Solo Primi x AYNI",
-    "datum": "16. Aug 2026",
-    "datum_raw": "2026-08-16T18:00+0200",
-    "ort": "AYNI em Stüverhoff, Im Stavenhof 5",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/solo-primi-x-ayni-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Giuseppe bringt mit Solo Primi ein italienisches 3-Gänge-Menü auf den Teller, das klassische Rezepte mit moderner Kochkunst verbindet. Dabei stehen hochwertige Zutaten und echter Geschmack im Fokus, begleitet von einer f"
-  },
-  {
-    "titel": "Jazz at Green Room: van Rhee/Landfermann/Berger",
-    "datum": "16. Aug 2026",
-    "datum_raw": "2026-08-16T18:00+0200",
-    "ort": "Stadtgarten, Venloer Straße 40",
-    "preis": "ab 8 €",
-    "link": "https://rausgegangen.de/events/jazz-at-green-room-van-rheelandfermannberger-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "18:00 | Konzert | GREEN ROOMDer Kölner Saxophonist Julius van Rhee präsentiert gemeinsam mit Robert Landfermann und Leif Berger zum ersten Mal ein frisch komponiertes Programm in Trio-Besetzung. Die drei etablierten Mu"
-  },
-  {
-    "titel": "Jazz Night! | Gipsy Jazz Nacht | Thimo Niesterok, Trompete | Fredi Gebhardt",
-    "datum": "16. Aug 2026",
-    "datum_raw": "2026-08-16T18:00+0200",
-    "ort": "Et Kapellchen e.V. Köln-Mülheim, Holsteinstraße",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/jazz-night-gipsy-jazz-nacht-thimo-niesterok-trompete-fredi-g-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Gipsy Jazz Nacht zum Abschluss des Festivals! Fredi Gebhardt ist vom KLANGRAUM Festival nicht wegzudenken und wird mit rasanten Soli an der Gitarre zu hören sein. Als “Special Guest” wird Thimo Niesterok an der Trompete"
-  },
-  {
-    "titel": "Kakaozeremonie & Klangreise, Kräuterreinigung, Meditation, erlebe etwas Neues!",
-    "datum": "16. Aug 2026",
-    "datum_raw": "2026-08-16T18:00+0200",
-    "ort": "room for emotions, Am Maarhof 25",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kakao-klang-zeremonie-mit-sound-healing-live-musik-zum-fuhle-61/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Ein Erlebnis für alle Sinne. Musik zum Fühlen und nicht zum intellektuellen Erfassen. Schokolade in ihrer reinsten und ursprünglichen Form zum trinken und erfahren. Spüre wie sich dein Herz öffnet und du vom Kopf in"
-  },
-  {
-    "titel": "Paves 16: Album Release Konzert Open Air in Köln",
-    "datum": "16. Aug 2026",
-    "datum_raw": "2026-08-16T18:00+0200",
-    "ort": "Odonien, Hornstraße 85",
-    "preis": "ab 32 €",
-    "link": "https://rausgegangen.de/events/paves-16-album-release-konzert-open-air-in-koln-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Am 14.08.2026 erscheint das Debütalbum AURA von Paves 16 – und am Sonntag, 16.08.2026, hörst du es komplett live. Erlebe Songs voller Ehrlichkeit, Substanz und emotionaler Tiefe sowie die persönlichen Stories dahinter"
-  },
-  {
-    "titel": "ROMEO UND JULIA - Liebe ist alles",
-    "datum": "16. Aug 2026",
-    "datum_raw": "2026-08-16T19:00+0200",
-    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
-    "preis": "ab 60 €",
-    "link": "https://rausgegangen.de/events/romeo-und-julia-liebe-ist-alles-98/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "37. Kölner Sommerfestival»Romeo und Julia – Liebe ist alles«. Berührend, überraschend, befreiend – eines der erfolgreichsten deutschsprachigen Musicals unserer Zeit. Nie war Julia so wild, nie war Romeo so sexy, nie w"
-  },
-  {
-    "titel": "Lunaves // SOMMERKONZERT",
-    "datum": "16. Aug 2026",
-    "datum_raw": "2026-08-16T19:30+0200",
-    "ort": "Kulturbunker Köln-Mülheim, Berliner Straße 20",
+    "titel": "Kneipenquiz am Ebertplatz",
+    "datum": "17. Aug 2026",
+    "datum_raw": "2026-08-17T19:30+0200",
+    "ort": "Ebertplatz, Ebertplatz",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/lunaves-sommerkonzert-0/",
+    "link": "https://rausgegangen.de/events/kneipenquiz-am-ebertplatz-7/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Open-Air-KonzertNach einer gemeinsamen Wohnzimmer-Jamsession im Stuttgarter Osten ist für Sänger und Neyspieler Ilter Ünal und Pianist Fabian Meyer eines klar, nämlich zusammen Musik zu machen. Fabian lädt Ilter zu "
+    "teaser": "Beim Kneipenquiz mischt sich lokales Wissen mit spannenden Themen querbeet, von Leibesübungen bis Stadt, Land, Fluss. Schnapp dir einen Platz, knack knifflige Fragen und unterstütze dabei Kölner Vereine – mitmachen koste"
   },
   {
     "titel": "NICA live: Jorik Bergman / Jonas Engel - Kirsan Ojsemble",
@@ -398,5 +248,155 @@
     "link": "https://rausgegangen.de/events/listeninglounge-8/",
     "quelle": "Rausgegangen Köln",
     "teaser": "In der ListeningLounge gibt’s Alben ohne Unterbrechungen – von Sade bis Rosalía, Klassiker und Geheimtipps. Nach einer kurzen Einleitung kannst du voll ins Hörerlebnis eintauchen und dich danach mit anderen austauschen "
+  },
+  {
+    "titel": "Open Stage im Kulturraum 405",
+    "datum": "20. Aug 2026",
+    "datum_raw": "2026-08-20T19:30+0200",
+    "ort": "Kulturraum 405 e.V., Venloer Straße 405",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/open-stage-im-kulturraum-405-116/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wenn du schon immer wusstest, dass du auf die Bühne gehörst, dann ist genau jetzt deine Chance. Pack dein Instrument ein und Bühne frei für dich bei der Open Stage im Kulturraum 405!!! 🎙🎶🎸"
+  },
+  {
+    "titel": "ROMEO UND JULIA - Liebe ist alles",
+    "datum": "20. Aug 2026",
+    "datum_raw": "2026-08-20T20:00+0200",
+    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
+    "preis": "ab 60 €",
+    "link": "https://rausgegangen.de/events/romeo-und-julia-liebe-ist-alles-101/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "37. Kölner Sommerfestival»Romeo und Julia – Liebe ist alles«. Berührend, überraschend, befreiend – eines der erfolgreichsten deutschsprachigen Musicals unserer Zeit. Nie war Julia so wild, nie war Romeo so sexy, nie w"
+  },
+  {
+    "titel": "Ron Sexsmith - Tour 2026",
+    "datum": "20. Aug 2026",
+    "datum_raw": "2026-08-20T20:00+0200",
+    "ort": "Lutherkirche Nippes, Siebachstraße 85",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/ron-sexsmith-tour-2026-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Please refer to the German language version for further information."
+  },
+  {
+    "titel": "VIOLET GROHL",
+    "datum": "20. Aug 2026",
+    "datum_raw": "2026-08-20T20:00+0200",
+    "ort": "Luxor, Luxemburgerstrasse 40",
+    "preis": "ab 24 €",
+    "link": "https://rausgegangen.de/events/violet-grohl-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Violet Grohl ist gerade einmal 20 Jahre alt und doch klingen ihre grungigen Rocksongs so ausgereift und in ihrem Sound gefestigt, als würde die Newcomerin bereits seit Jahrzehnten auf der Bühne stehen. Geprägt sind ih"
+  },
+  {
+    "titel": "BORDERLINE",
+    "datum": "20. Aug 2026",
+    "datum_raw": "2026-08-20T21:00+0200",
+    "ort": "Blue Shell, Luxemburger Straße 32",
+    "preis": "ab 20 €",
+    "link": "https://rausgegangen.de/events/borderline-14/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Sie sind aktuell einer der beliebtesten Indie-Exporte Neuseelands: Borderline erobern mit ihrer spürbaren Lebensfreude und charismatischen Energie mühelos jedes Publikum und sorgen auch hierzulande bereits für ordentl"
+  },
+  {
+    "titel": "GROOVE ON THE ROOF",
+    "datum": "21. Aug 2026",
+    "datum_raw": "2026-08-21T18:00+0200",
+    "ort": "PARK Café, Auenweg",
+    "preis": "ab 25 €",
+    "link": "https://rausgegangen.de/events/groove-on-the-roof/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Groove on the Roof – Internationales Open-Air-Musikfestival + Afterparty 🌴☀️🎶 Fr, 21.08.26 · Park Café im Rheinpark Einlass: 17:30 · Shows: 18:00–22:00 · Afterparty ab 22:00 🎉Internationale Künstler, karibisches Flair "
+  },
+  {
+    "titel": "MO-TORRES | Mein größtes Konzert. Zuhause",
+    "datum": "21. Aug 2026",
+    "datum_raw": "2026-08-21T18:00+0200",
+    "ort": "Tanzbrunnen Köln, Rheinparkweg 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/mo-torres-tanzbrunnen-open-air-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Konzert-Geburtstagssause auf kölsche Art! Mo Torres lädt dich zu seinem bisher größten Konzert ein und reißt mit dir den Tanzbrunnen ab. Taschentücher und Partyhüte eingepackt, hier gibt's die volle Ladung Emotionen und "
+  },
+  {
+    "titel": "14.08. FÄLLT AUS / Odonische Freitagsbühne",
+    "datum": "21. Aug 2026",
+    "datum_raw": "2026-08-21T18:00+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/odonische-freitagsbuhne-80/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge entdecken Spaß macht "
+  },
+  {
+    "titel": "ARXX",
+    "datum": "21. Aug 2026",
+    "datum_raw": "2026-08-21T19:00+0200",
+    "ort": "Blue Shell, Luxemburger Straße 32",
+    "preis": "ab 26 €",
+    "link": "https://rausgegangen.de/events/arxx-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Queer Brighton powerpop besties Hanni (they/them) and Clara (she/her) released their second album ‘Good Boy’ in Autumn 2024. They’ve toured with MUNA, Fletcher, Yungblud and The Big Moon, and they composed several origin"
+  },
+  {
+    "titel": "Flow's Mitsingfenster - Das Mitsingkonzert für alle!",
+    "datum": "21. Aug 2026",
+    "datum_raw": "2026-08-21T19:00+0200",
+    "ort": "Franky's Bar, Venloer Straße 403",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/flows-mitsingfenster-das-mitsingkonzert-fur-alle-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "FLOW’S MITSINGFENSTER Am Freitag, den 26. Juni 2026, wird die Straße vor Franky’s Bar zur Bühne für einen ganz besonderen Sommerabend. Bei Flow’s Mitsingfenster kommt die Musik nicht von einer großen Bühne, sondern di"
+  },
+  {
+    "titel": "Flinta* Brunch Tarot und Yoga",
+    "datum": "22. Aug 2026",
+    "datum_raw": "2026-08-22T10:00+0200",
+    "ort": "OnlyYou Holistic Center, Venloer Straße 497",
+    "preis": "ab 45 €",
+    "link": "https://rausgegangen.de/events/flinta-brunch-tarot-und-yoga-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "✨ FLINTA Brunch – Yoga, Tarot & Community* ✨📅 02.08.2026🕙 10:00–14:00 UhrEin Sonntagvormittag zum Ankommen, Verbinden und Auftanken – in einem liebevollen Safer Space für FLINTA*.Wir beginnen den Tag mit einer sanften Y"
+  },
+  {
+    "titel": "VIBE TRIBE FEST",
+    "datum": "22. Aug 2026",
+    "datum_raw": "2026-08-22T14:00+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "ab 20 €",
+    "link": "https://rausgegangen.de/events/vibe-tribe-fest-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "VIBE TRIBE FEST 2026SAVE THE DATE – VIBE TRIBE FEST 2026! 🌴🔥Das Vibe Tribe Fest kehrt 2026 zurück nach Köln – unsere Homebase, unsere Community, unsere City!Am 22. August 2026 feiern wir wieder gemeinsam ein Fest volle"
+  },
+  {
+    "titel": "Sommerfest I Timcheh x NF",
+    "datum": "22. Aug 2026",
+    "datum_raw": "2026-08-22T18:00+0200",
+    "ort": "Niehler Freiheit, Vogelsangerstrasse 385",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/sommerfest-i-timcheh-x-nf-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Tag Zwei des gemeinsam Sommerfests von Timcheh und der Niehler Freiheit. Heute gibt es tanzbare Musik und hausgemachte afghanisch-persische Küche. Vorab starten wir mit dem Workshop Digital Rights Catalyst.Musik und Ess"
+  },
+  {
+    "titel": "Salsa & Bachata Night: Ein Fest für alle Tänzer in Köln",
+    "datum": "22. Aug 2026",
+    "datum_raw": "2026-08-22T20:00+0200",
+    "ort": "Hop Spot Tanzstudio, Venloer Straße 420",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/salsa-bachata-night-ein-fest-fur-alle-tanzer-in-koln-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jeden Samstag verwandelt sich das Hop Spot Tanzstudio in ein kleines Fest für alle, die Salsa und Bachata lieben – oder lieben lernen wollen.Von 20:00 bis 22:00 Uhr gibt es Workshops für Salsa und Bachata, in denen erf"
+  },
+  {
+    "titel": "Rise Chica Rise",
+    "datum": "23. Aug 2026",
+    "datum_raw": "2026-08-23T13:00+0200",
+    "ort": "Sturmfreie Bude Köln, Luxemburger Straße 124-126",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/rise-chica-rise-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Stell dir einen Sommertag vor, an dem du mit Menschen zusammenkommst, die deine Energie teilen – ohne steife Gespräche, dafür mit echten Momenten, Workshops und einer besonderen Portion Empowerment. Hier kannst du entspa"
   }
 ]
