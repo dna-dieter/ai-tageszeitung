@@ -1,43 +1,33 @@
 [
   {
-    "titel": "Kultfilm: Bohemian Rapsody // Aperol Kinotag 🧡",
-    "datum": "17. Aug 2026",
-    "datum_raw": "2026-08-17T19:00+0200",
+    "titel": "CITY BINGO Entdeckungstour | Köln Südstadt",
+    "datum": "18. Aug 2026",
+    "datum_raw": "2026-08-18T06:00+0200",
+    "ort": "Chlodwigplatz, Chlodwigplatz",
+    "preis": "ab 15 €",
+    "link": "https://rausgegangen.de/events/city-bingo-sudstadt-by-rausgegangen-22/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim CITY BINGO erkundest du die Kölner Südstadt auf spielerische Weise mit 16 spannenden Aufgaben, die dich zu echten Insider-Spots führen. Dabei lernst du Lokalkultur und Kurioses kennen, ohne lange planen zu müssen. P"
+  },
+  {
+    "titel": "Flohmi x Tooth Gems x Tattoo im Bumi",
+    "datum": "18. Aug 2026",
+    "datum_raw": "2026-08-18T18:00+0200",
+    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/flohmi-im-bumi-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim Flohmi im Bumi triffst du auf Secondhand-Schätze, gute Musik und lecker Essen von den Foodtrucks. Für einen kleinen Standplatz bringst du Tisch und Kleiderstange selbst mit und verhandelst deine Fundstücke entspannt"
+  },
+  {
+    "titel": "Oh La La – Neue Tests, neues Chaos // Preview",
+    "datum": "18. Aug 2026",
+    "datum_raw": "2026-08-18T19:00+0200",
     "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kultfilm-bohemian-rapsody-aperol-kinotag-0/",
+    "link": "https://rausgegangen.de/events/oh-la-la-neue-tests-neues-chaos-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Bohemian Rhapsody ist pure Leidenschaft auf der Leinwand – Freddie Mercury und Queen kämpfen sich vom Underground zur Legende, während sie gleichzeitig an ihre Grenzen stoßen. Erfolg, Einsamkeit, Zusammenhalt, Musik, die"
-  },
-  {
-    "titel": "90er-JAHRE QUIZ - Open-Air",
-    "datum": "17. Aug 2026",
-    "datum_raw": "2026-08-17T19:00+0200",
-    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/90er-jahre-quiz-open-air-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier kannst du dein 90er-Wissen auf den Prüfstand stellen und dich an den Zeiten von Gameboy, Loveparade und Tamagotchi erinnern. Das interaktive Quiz bringt mit frischen Fragen die Highlights des bunten Jahrzehnts zurüc"
-  },
-  {
-    "titel": "Kneipenquiz am Ebertplatz",
-    "datum": "17. Aug 2026",
-    "datum_raw": "2026-08-17T19:30+0200",
-    "ort": "Ebertplatz, Ebertplatz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/kneipenquiz-am-ebertplatz-7/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Kneipenquiz mischt sich lokales Wissen mit spannenden Themen querbeet, von Leibesübungen bis Stadt, Land, Fluss. Schnapp dir einen Platz, knack knifflige Fragen und unterstütze dabei Kölner Vereine – mitmachen koste"
-  },
-  {
-    "titel": "NICA live: Jorik Bergman / Jonas Engel - Kirsan Ojsemble",
-    "datum": "17. Aug 2026",
-    "datum_raw": "2026-08-17T20:00+0200",
-    "ort": "GREEN ROOM, Venloer Straße 40",
-    "preis": "ab 8 €",
-    "link": "https://rausgegangen.de/events/nica-live-jorik-bergman-jonas-engel-kirsan-ojsemble-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Jorik Bergman und Jonas Engel verbinden Flöte und Saxophon mit präparierten Instrumenten zu einem Klangteppich zwischen akustisch und elektronisch. Das Kirsan Ojsemble klingt spontan und offen, ein Abend voller musikalis"
+    "teaser": "Frédéric und Gérard wollen Frieden schließen und die Hochzeit ihrer Kinder organisieren, doch ein überraschender Cousin und neue DNA-Tests bringen ihre Familiengeschichte kräftig durcheinander. Es erwartet dich eine w"
   },
   {
     "titel": "Jazzorama Sommergarten: Moritz Kröger Quartett + Jamsession",
@@ -48,6 +38,16 @@
     "link": "https://rausgegangen.de/events/jazzorama-sommergarten-moritz-kroger-quartett-jamsession-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Das Moritz Kröger Quartett mixt modernen Jazz mit einprägsamen Melos und treibendem Groove, inspiriert von Größen wie Avishai Cohen. Mit eigenen Stücken bringen sie frischen Wind und Kreativität in die Szene. Danach geht"
+  },
+  {
+    "titel": "TWO FEET",
+    "datum": "18. Aug 2026",
+    "datum_raw": "2026-08-18T20:00+0200",
+    "ort": "Bürgerhaus Stollwerck, Dreikönigenstraße 23",
+    "preis": "ab 40 €",
+    "link": "https://rausgegangen.de/events/two-feet-6/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Two Feet vereint jazzy Gitarren, düstere Synthesizer und ehrliche Texte, die tief unter die Haut gehen. Seine Songs entstehen aus Erfahrungen zwischen Erfolg und persönlichen Kämpfen – 2026 geht er mit frischer EP den nä"
   },
   {
     "titel": "ROMEO UND JULIA - Liebe ist alles",
@@ -68,16 +68,6 @@
     "link": "https://rausgegangen.de/events/ryosuke-kiyasu-martin-weinreich-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Zwei kompromisslose Klangkonzepte treffen aufeinander.Der japanische Noise-Musiker Ryosuke Kiyasu zerlegt mit seiner weltbekannten, radikal-minimalistischen Solo-Performance für Snare Drum traditionelle Hörgewohnheiten"
-  },
-  {
-    "titel": "TWO FEET",
-    "datum": "18. Aug 2026",
-    "datum_raw": "2026-08-18T20:00+0200",
-    "ort": "Bürgerhaus Stollwerck, Dreikönigenstraße 23",
-    "preis": "ab 40 €",
-    "link": "https://rausgegangen.de/events/two-feet-6/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Two Feet vereint jazzy Gitarren, düstere Synthesizer und ehrliche Texte, die tief unter die Haut gehen. Seine Songs entstehen aus Erfahrungen zwischen Erfolg und persönlichen Kämpfen – 2026 geht er mit frischer EP den nä"
   },
   {
     "titel": "Two Feet - The Next Steps Tour",
@@ -348,6 +338,16 @@
     "link": "https://rausgegangen.de/events/flows-mitsingfenster-das-mitsingkonzert-fur-alle-2/",
     "quelle": "Rausgegangen Köln",
     "teaser": "FLOW’S MITSINGFENSTER Am Freitag, den 26. Juni 2026, wird die Straße vor Franky’s Bar zur Bühne für einen ganz besonderen Sommerabend. Bei Flow’s Mitsingfenster kommt die Musik nicht von einer großen Bühne, sondern di"
+  },
+  {
+    "titel": "Magic Mantra Köln",
+    "datum": "21. Aug 2026",
+    "datum_raw": "2026-08-21T19:00+0200",
+    "ort": "Yoga Liebe 3.0, Hochstadenstraße 1-3",
+    "preis": "ab 15 €",
+    "link": "https://rausgegangen.de/events/magic-mantra-koln-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Lass dich vom kraftvollen Klang der Mantras verzaubern. Dieser Kirtan Singkreis im Herzen von Köln lädt dich ein ganz bei dir und deiner Stimme anzukommen. Ein Abend zum Eintauchen, Loslassen und verbinden. Mehr Infos "
   },
   {
     "titel": "TAKE UP SPACE",
