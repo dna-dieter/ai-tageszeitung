@@ -1,95 +1,5 @@
 [
   {
-    "titel": "CITY BINGO Entdeckungstour | Köln Südstadt",
-    "datum": "18. Aug 2026",
-    "datum_raw": "2026-08-18T06:00+0200",
-    "ort": "Chlodwigplatz, Chlodwigplatz",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/city-bingo-sudstadt-by-rausgegangen-22/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim CITY BINGO erkundest du die Kölner Südstadt auf spielerische Weise mit 16 spannenden Aufgaben, die dich zu echten Insider-Spots führen. Dabei lernst du Lokalkultur und Kurioses kennen, ohne lange planen zu müssen. P"
-  },
-  {
-    "titel": "Flohmi x Tooth Gems x Tattoo im Bumi",
-    "datum": "18. Aug 2026",
-    "datum_raw": "2026-08-18T18:00+0200",
-    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/flohmi-im-bumi-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Flohmi im Bumi triffst du auf Secondhand-Schätze, gute Musik und lecker Essen von den Foodtrucks. Für einen kleinen Standplatz bringst du Tisch und Kleiderstange selbst mit und verhandelst deine Fundstücke entspannt"
-  },
-  {
-    "titel": "Oh La La – Neue Tests, neues Chaos // Preview",
-    "datum": "18. Aug 2026",
-    "datum_raw": "2026-08-18T19:00+0200",
-    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/oh-la-la-neue-tests-neues-chaos-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Frédéric und Gérard wollen Frieden schließen und die Hochzeit ihrer Kinder organisieren, doch ein überraschender Cousin und neue DNA-Tests bringen ihre Familiengeschichte kräftig durcheinander. Es erwartet dich eine w"
-  },
-  {
-    "titel": "Jazzorama Sommergarten: Moritz Kröger Quartett + Jamsession",
-    "datum": "18. Aug 2026",
-    "datum_raw": "2026-08-18T20:00+0200",
-    "ort": "artheater Köln, Ehrenfeldgürtel 127",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/jazzorama-sommergarten-moritz-kroger-quartett-jamsession-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Das Moritz Kröger Quartett mixt modernen Jazz mit einprägsamen Melos und treibendem Groove, inspiriert von Größen wie Avishai Cohen. Mit eigenen Stücken bringen sie frischen Wind und Kreativität in die Szene. Danach geht"
-  },
-  {
-    "titel": "TWO FEET",
-    "datum": "18. Aug 2026",
-    "datum_raw": "2026-08-18T20:00+0200",
-    "ort": "Bürgerhaus Stollwerck, Dreikönigenstraße 23",
-    "preis": "ab 40 €",
-    "link": "https://rausgegangen.de/events/two-feet-6/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Two Feet vereint jazzy Gitarren, düstere Synthesizer und ehrliche Texte, die tief unter die Haut gehen. Seine Songs entstehen aus Erfahrungen zwischen Erfolg und persönlichen Kämpfen – 2026 geht er mit frischer EP den nä"
-  },
-  {
-    "titel": "ROMEO UND JULIA - Liebe ist alles",
-    "datum": "18. Aug 2026",
-    "datum_raw": "2026-08-18T20:00+0200",
-    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
-    "preis": "ab 60 €",
-    "link": "https://rausgegangen.de/events/romeo-und-julia-liebe-ist-alles-99/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "37. Kölner Sommerfestival»Romeo und Julia – Liebe ist alles«. Berührend, überraschend, befreiend – eines der erfolgreichsten deutschsprachigen Musicals unserer Zeit. Nie war Julia so wild, nie war Romeo so sexy, nie w"
-  },
-  {
-    "titel": "Ryosuke Kiyasu + Martin Weinreich",
-    "datum": "18. Aug 2026",
-    "datum_raw": "2026-08-18T20:00+0200",
-    "ort": "Asimmetric Bar, Venloer Straße 196",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/ryosuke-kiyasu-martin-weinreich-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zwei kompromisslose Klangkonzepte treffen aufeinander.Der japanische Noise-Musiker Ryosuke Kiyasu zerlegt mit seiner weltbekannten, radikal-minimalistischen Solo-Performance für Snare Drum traditionelle Hörgewohnheiten"
-  },
-  {
-    "titel": "Two Feet - The Next Steps Tour",
-    "datum": "18. Aug 2026",
-    "datum_raw": "2026-08-18T20:00+0200",
-    "ort": "Bürgerhaus Stollwerck, Dreikönigenstraße 23",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/two-feet-the-next-steps-tour-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) buchen reguläre Tickets. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte."
-  },
-  {
-    "titel": "Two Feet - The Next Steps Tour | VIP Packages",
-    "datum": "18. Aug 2026",
-    "datum_raw": "2026-08-18T20:00+0200",
-    "ort": "Live Music Hall, Lichtstraße 30",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/two-feet-the-next-steps-tour-vip-packages-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Jugendschutz: Kinder unter 6 Jahren erhalten keinen Zutritt! Kinder zwischen 6 und 16 Jahren erhalten nur Eintritt in Begleitung einer erziehungsberechtigten oder erziehungsbeauftragten Person (mindestens 18 Jahre alt)."
-  },
-  {
     "titel": "KURS: KOTO/ NAOKO KIKUCHI (SAWAI UNIVERSAL)",
     "datum": "19. Aug 2026",
     "datum_raw": "2026-08-19T13:00+0200",
@@ -98,6 +8,46 @@
     "link": "https://rausgegangen.de/events/kurs-koto-naoko-kikuchi-sawai-universal-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Das 13-saitige Instrument Koto begeistert seit dem 17. Jahrhundert Musikliebhaber und lässt fernöstliche Melodien tief im Herzen erklingen.Naoko Kikuchi, eine der renommiertesten Kotospielerinnen Europas, vermittelt de"
+  },
+  {
+    "titel": "Scratch on it - Turntable-Freestyle-Session",
+    "datum": "19. Aug 2026",
+    "datum_raw": "2026-08-19T18:00+0200",
+    "ort": "Bürgerhaus Kalk, Kalk-Mülheimer Str. 58",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/scratch-on-it-turntable-freestyle-session-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Scratch auflegen, Beats schneiden und zusammen improvisieren – bei der Turntable-Freestyle-Session probierst du dich an Vinyl und Plattenspielern aus oder hörst anderen beim Jammen zu. Bring gern deine eigenen Sachen mit"
+  },
+  {
+    "titel": "MEETwoch",
+    "datum": "19. Aug 2026",
+    "datum_raw": "2026-08-19T18:30+0200",
+    "ort": "Social Studio Köln, Friedrichstraße 63",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/meetwoch-5/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wenn du Lust auf ehrliche Gespräche ohne Stress und Konkurrenz hast, bist du beim MEETwoch genau richtig. In einer entspannten und reizarmen Atmosphäre lernst du Menschen aus deinem Veedel kennen, die auf Augenhöhe conne"
+  },
+  {
+    "titel": "Short Story Night",
+    "datum": "19. Aug 2026",
+    "datum_raw": "2026-08-19T19:00+0200",
+    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/short-story-night-15/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei der Short Story Night erwartet dich eine Runde frischer Kurzgeschichten von fünf unterschiedlichen Autor:innen, die in ihrer Kürze jede Menge Raum für Experimente bieten. Ein entspannter Abend in einem Kinoambiente, "
+  },
+  {
+    "titel": "SFB1601 Public talk: Die kosmische Entwicklung der Lebensräume massereicher Sterne",
+    "datum": "19. Aug 2026",
+    "datum_raw": "2026-08-19T19:00+0200",
+    "ort": "Aula der Universität zu Köln (im Hauptgebäude), Albertus-Magnus-Platz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/sfb1601-public-talk-die-kosmische-entwicklung-der-lebensraum-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Drei Wissenschaftler:innen erklären, wie Labordaten und Teleskope zusammenhelfen, um die Sternentwicklung zu entschlüsseln. Von der fliegenden Sternwarte bis zu Supercomputer-Simulationen erfährst du, wie moderne Astrono"
   },
   {
     "titel": "Week-End Fest XV: Line-up Release",
@@ -118,6 +68,16 @@
     "link": "https://rausgegangen.de/events/week-end-fest-xv-line-up-release-im-green-room-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Das Week-End Fest feiert die Bekanntgabe des diesjährigen Line-Ups am 19. August im Green Room. Mit dabei sind Opek, die ausgewählte Stücke von ihrem neuen Album Trafo spielen werden. Der Eintritt ist frei, Einlass ab"
+  },
+  {
+    "titel": "Latin & Salsa Session",
+    "datum": "19. Aug 2026",
+    "datum_raw": "2026-08-19T20:00+0200",
+    "ort": "artheater Köln, Ehrenfeldgürtel 127",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/latin-salsa-session-31/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei der Latin & Salsa Session kommen Musiker:innen aus Köln zusammen, um kubanische und kolumbianische Rhythmen lebendig werden zu lassen. Die Band Marcando eröffnet den Abend mit ihrem präzisen und mitreißenden Sound. E"
   },
   {
     "titel": "ASHNIKKO",
@@ -158,16 +118,6 @@
     "link": "https://rausgegangen.de/events/kastenfaul-ist-live-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Und schon wieder ganz spezielles Sonderprogramm zum Offenen Abend im Kulturhof: Kastenfaul aus Istanbul live on stage mit special guest Angelika NiescierKASTENFAUL ist ein Noise-Jazz-Impro Duo, das tief in der Avantgarde"
-  },
-  {
-    "titel": "Latin & Salsa Session",
-    "datum": "19. Aug 2026",
-    "datum_raw": "2026-08-19T20:00+0200",
-    "ort": "artheater Köln, Ehrenfeldgürtel 127",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/latin-salsa-session-31/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei der Latin & Salsa Session kommen Musiker:innen aus Köln zusammen, um kubanische und kolumbianische Rhythmen lebendig werden zu lassen. Die Band Marcando eröffnet den Abend mit ihrem präzisen und mitreißenden Sound. E"
   },
   {
     "titel": "ROMEO UND JULIA - Liebe ist alles",
@@ -350,6 +300,16 @@
     "teaser": "Lass dich vom kraftvollen Klang der Mantras verzaubern. Dieser Kirtan Singkreis im Herzen von Köln lädt dich ein ganz bei dir und deiner Stimme anzukommen. Ein Abend zum Eintauchen, Loslassen und verbinden. Mehr Infos "
   },
   {
+    "titel": "Sekt und Tränen",
+    "datum": "21. Aug 2026",
+    "datum_raw": "2026-08-21T19:00+0200",
+    "ort": "motoki, Stammstr. 32 - 34",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/sekt-und-tranen-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Fragt ihr euch nach der Hitzewelle auch, was an einem Freitagabend unter 30 Grad eigentlich eine gute Beschäftigung wäre? Wir wissen da was!  Eintauchen in melancholisch-nostalgische Stücke, die genau im Moment stattf"
+  },
+  {
     "titel": "TAKE UP SPACE",
     "datum": "21. Aug 2026",
     "datum_raw": "2026-08-21T19:00+0200",
@@ -358,6 +318,56 @@
     "link": "https://rausgegangen.de/events/take-up-space-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Hier findest du ein kreatives Zusammenkommen von FLINTA* und Allies, die gemeinsam Kultur sichtbar machen. Mit Live-Musik, Workshops und offener Bühne entsteht ein Raum voller künstlerischer Energie und Austausch unter G"
+  },
+  {
+    "titel": "Cozy Living Room Concert",
+    "datum": "21. Aug 2026",
+    "datum_raw": "2026-08-21T20:00+0200",
+    "ort": "Ehrenfeld, Köln",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/cozy-rooftop-garden-concert-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Cozy Concerts sind eine Geheimkonzertreihe in gemütlicher Atmosphäre* – in Wohnzimmern, Buchläden, Ateliers, Gärten und anderen besonderen Orten. Intim, authentisch, entspannend. 80–90 % der Musiker*innen bei den"
+  },
+  {
+    "titel": "ImKlang Session",
+    "datum": "21. Aug 2026",
+    "datum_raw": "2026-08-21T20:00+0200",
+    "ort": "Musik- und Kunstschule ImKlang, Waltherstraße 80",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/imklang-session-30/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": " IMKLANG SESSION  Offene Jam Session · jeden Freitag · ab 20:00 Uhr Die IMKLANG Session ist eine wöchentliche, offene Jam Session für Musikerinnen und Musiker aller Erfahrungsstufen – und für alle, die Musik gerne liv"
+  },
+  {
+    "titel": "Ein Abend mit MāttiHoff & Jana Leona",
+    "datum": "21. Aug 2026",
+    "datum_raw": "2026-08-21T20:00+0200",
+    "ort": "Hinterhofsalon, Aachener Straße 68",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/mattihoff-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Am 21. August spielt MāttiHoff in Köln das erste Konzert, für das sich Menschen ein Ticket kaufen müssen, um ihn zu sehen. 🎸Klingt unspektakulär. Für ihn ist es das gerade nicht.Acht Jahre Vertrieb, ein paar Hutkon"
+  },
+  {
+    "titel": "ROMEO UND JULIA - Liebe ist alles",
+    "datum": "21. Aug 2026",
+    "datum_raw": "2026-08-21T20:00+0200",
+    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
+    "preis": "ab 70 €",
+    "link": "https://rausgegangen.de/events/romeo-und-julia-liebe-ist-alles-102/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "37. Kölner Sommerfestival»Romeo und Julia – Liebe ist alles«. Berührend, überraschend, befreiend – eines der erfolgreichsten deutschsprachigen Musicals unserer Zeit. Nie war Julia so wild, nie war Romeo so sexy, nie w"
+  },
+  {
+    "titel": "Cologne Nightlife Tour: 4 Locations, Shots & Club Entry",
+    "datum": "21. Aug 2026",
+    "datum_raw": "2026-08-21T21:15+0200",
+    "ort": "Zülpicher Pl., Zülpicher Pl., 50674 Köln, Germany",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/cologne-nightlife-tour-4-locations-shots-club-entry-91/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Experience Cologne nightlife the easy way with a fun group and a local host. After check-in at the meeting point, the night starts with a welcome shot. Then you’ll visit 4 lively nightlife locations, a mix of popular bar"
   },
   {
     "titel": "Flinta* Brunch Tarot und Yoga",
@@ -388,15 +398,5 @@
     "link": "https://rausgegangen.de/events/vibe-tribe-fest-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "VIBE TRIBE FEST 2026SAVE THE DATE – VIBE TRIBE FEST 2026! 🌴🔥Das Vibe Tribe Fest kehrt 2026 zurück nach Köln – unsere Homebase, unsere Community, unsere City!Am 22. August 2026 feiern wir wieder gemeinsam ein Fest volle"
-  },
-  {
-    "titel": "Sommerfest I Timcheh x NF",
-    "datum": "22. Aug 2026",
-    "datum_raw": "2026-08-22T18:00+0200",
-    "ort": "Niehler Freiheit, Vogelsangerstrasse 385",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/sommerfest-i-timcheh-x-nf-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Timcheh lädt an zwei Tagen zu einem Sommerfest mit afghanisch-persischer Fusionsküche und einem Musikprogramm zwischen Rare Grooves und vielfältigen Sounds. Vorab kannst du beim Workshop Digital Rights Catalyst mehr über"
   }
 ]
