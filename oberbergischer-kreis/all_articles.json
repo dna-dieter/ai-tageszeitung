@@ -6181,6 +6181,19 @@
     "fetched": "2026-05-05T21:11:09.367468"
   },
   {
+    "id": "01a765db8d9f",
+    "title": "Ausgehtipps: Das ist am Wochenende los",
+    "summary": "Eine Zeitreise in die 70er erwartet die Gäste beim Löwenfestival. Der Feierabendmarkt ist noch mal in Lüttringhausen zu Gast. Außerdem zeigt das kleinste Theater der Welt bergische Sagen. Und: Lennep wird zur Picknick-Meile. Dazu gibt es die Feuerwehr-Party in Hasten, karibisches Flair in Radevormwald und Hardrock aus dem Bergischen in Hückeswagen.",
+    "link": "https://www.rga.de/lokales/remscheid/ausgehtipps-das-ist-am-wochenende-los-7ZLWHU6UU5AEBJCD4SXX7DGQAM.html",
+    "published": "Tue, 18 Aug 2026 17:30:00 +0200",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen",
+      "radevormwald"
+    ],
+    "fetched": "2026-08-18T15:40:45.178757"
+  },
+  {
     "id": "1e906524565a",
     "title": "Bauarbeiten B 506 - Update",
     "summary": "Sanierungsmaßnahmen im Kreuzungsbereich Ringstraße/Weststraße beginnen.",
@@ -6191,6 +6204,31 @@
       "wipperfuerth"
     ],
     "fetched": "2026-08-18T14:45:36.116210"
+  },
+  {
+    "id": "7c4f044498e4",
+    "title": "Oberberg: Glasfaser-Drücker an der Haustür – Verbraucherzentrale warnt",
+    "summary": "Glasfaser-Vertreter setzen Haushalte in Oberberg unter Druck: Was an der Tür stimmt, was nicht – und wie der Widerruf in 14 Tagen läuft.",
+    "link": "https://www.news-on-tour.de/240529/oberberg-glasfaser-haustuer/",
+    "published": "Tue, 18 Aug 2026 15:40:10 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-08-18T15:40:43.739678"
+  },
+  {
+    "id": "3fd13047af6e",
+    "title": "Waldbröl & Gummersbach: Einbruch, Unfall und Fenster beschädigt",
+    "summary": "Drei Polizeifälle in Waldbröl und Gummersbach: 13-Jährige leicht verletzt, Geldbörse aus Schlafzimmer gestohlen und Fenster beschädigt.",
+    "link": "https://www.news-on-tour.de/240526/waldbroel-einbruch-gummersbach/",
+    "published": "Tue, 18 Aug 2026 15:12:45 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach",
+      "waldbroel"
+    ],
+    "fetched": "2026-08-18T15:40:43.739717"
   },
   {
     "id": "c4168b47ef59",
