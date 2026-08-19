@@ -83,21 +83,11 @@
     "titel": "ASHNIKKO",
     "datum": "19. Aug 2026",
     "datum_raw": "2026-08-19T20:00+0200",
-    "ort": "Palladium, Schanzenstraße 36",
+    "ort": "Palladium, Schanzenstraße 40",
     "preis": "ab 40 €",
     "link": "https://rausgegangen.de/events/ashnikko-5/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Ashnikko mixt Rap, Hyperpop und Indie mit einer ordentlichen Portion Queerness und Feminismus. Auf ihrer SMOOCHIES TOUR zeigt sie mit markanten Looks und bissigem Humor, warum sie zu den spannendsten Stimmen der aktuelle"
-  },
-  {
-    "titel": "Ashnikko - Smoochies Tour",
-    "datum": "19. Aug 2026",
-    "datum_raw": "2026-08-19T20:00+0200",
-    "ort": "Palladium, Schanzenstraße 36",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/ashnikko-smoochies-tour-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die Veranstaltung wurde vom 03.02.2026 auf den 19.08.2026 verlegt. Bereits gekaufte Tickets behalten ihre Gültigkeit.Presented by Live NationSupport: Amelia Moore"
   },
   {
     "titel": "JOJI",
@@ -368,6 +358,16 @@
     "link": "https://rausgegangen.de/events/cologne-nightlife-tour-4-locations-shots-club-entry-91/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Experience Cologne nightlife the easy way with a fun group and a local host. After check-in at the meeting point, the night starts with a welcome shot. Then you’ll visit 4 lively nightlife locations, a mix of popular bar"
+  },
+  {
+    "titel": "Karaoke - Sing It Out!",
+    "datum": "21. Aug 2026",
+    "datum_raw": "2026-08-21T21:30+0200",
+    "ort": "NightWash club, Hohenstaufenring 25-27",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/sing-it-out-maxis-karaoke-nacht-11/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Hier gibt’s keinen Jury-Stress und keine falschen Töne, sondern einfach 53.000 Songs zum Austoben – von 90s Trash bis RnB. Maxi macht seit Jahren Karaoke-Abende zur Party, bei denen du zum Held:in oder Meme wirst. Zwisch"
   },
   {
     "titel": "Flinta* Brunch Tarot und Yoga",
