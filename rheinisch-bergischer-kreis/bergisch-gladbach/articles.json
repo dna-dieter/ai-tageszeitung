@@ -3744,7 +3744,8 @@
     "published": "Tue, 18 Aug 2026 11:44:38 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "bergisch-gladbach"
+      "bergisch-gladbach",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-08-18T13:52:37.280061"
   },
@@ -3756,7 +3757,8 @@
     "published": "Tue, 18 Aug 2026 06:42:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "bergisch-gladbach"
+      "bergisch-gladbach",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-08-18T15:39:52.559327"
   },
