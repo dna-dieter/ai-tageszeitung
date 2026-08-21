@@ -1,13 +1,13 @@
 [
   {
-    "titel": "Korken & Klub Afterwork",
+    "titel": "MO-TORRES | Mein größtes Konzert. Zuhause",
     "datum": "21. Aug 2026",
     "datum_raw": "2026-08-21T18:00+0200",
-    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/korken-klub-afterwork-6/",
+    "ort": "Tanzbrunnen Köln, Rheinparkweg 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/mo-torres-tanzbrunnen-open-air-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Freitagabend im CBE Garten heißt es entspannt bei House- und R&B-Sounds mit Live-Instrumenten. Neben leckeren Foodtrucks gibt’s faire Flaschenpreise und eine feine Weinauswahl – perfekt zum Runterkommen vor’m Wochenende "
+    "teaser": "Konzert-Geburtstagssause auf kölsche Art! Mo Torres lädt dich zu seinem bisher größten Konzert ein und reißt mit dir den Tanzbrunnen ab. Taschentücher und Partyhüte eingepackt, hier gibt's die volle Ladung Emotionen und "
   },
   {
     "titel": "Odonische Freitagsbühne",
@@ -30,14 +30,14 @@
     "teaser": "Im Aperó Markt Köln trifft südliches Flair auf kreative Drinks und ein buntes Foodangebot, das auch vegan und vegetarisch einiges bietet. Hier lässt du es dir mit Familie und Freund:innen entspannt gutgehen und probierst"
   },
   {
-    "titel": "MO-TORRES | Mein größtes Konzert. Zuhause",
+    "titel": "Korken & Klub Afterwork",
     "datum": "21. Aug 2026",
     "datum_raw": "2026-08-21T18:00+0200",
-    "ort": "Tanzbrunnen Köln, Rheinparkweg 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/mo-torres-tanzbrunnen-open-air-0/",
+    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/korken-klub-afterwork-6/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Konzert-Geburtstagssause auf kölsche Art! Mo Torres lädt dich zu seinem bisher größten Konzert ein und reißt mit dir den Tanzbrunnen ab. Taschentücher und Partyhüte eingepackt, hier gibt's die volle Ladung Emotionen und "
+    "teaser": "Freitagabend im CBE Garten heißt es entspannt bei House- und R&B-Sounds mit Live-Instrumenten. Neben leckeren Foodtrucks gibt’s faire Flaschenpreise und eine feine Weinauswahl – perfekt zum Runterkommen vor’m Wochenende "
   },
   {
     "titel": "GROOVE ON THE ROOF",
@@ -50,26 +50,6 @@
     "teaser": "Groove on the Roof – Internationales Open-Air-Musikfestival + Afterparty 🌴☀️🎶 Fr, 21.08.26 · Park Café im Rheinpark Einlass: 17:30 · Shows: 18:00–22:00 · Afterparty ab 22:00 🎉 Wichtiges Wetter-Update: Aufgrund der aktue"
   },
   {
-    "titel": "Erste Hilfe - von Mariana Leky",
-    "datum": "21. Aug 2026",
-    "datum_raw": "2026-08-21T19:00+0200",
-    "ort": "Studio 11, Gravenreuthstraße 11",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/erste-hilfe-von-mariana-leky-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Mariana Lekys Stück „Erste Hilfe“ erzählt von kleinen Verrücktheiten und dem großen Mut in einer Welt, die kurz aus den Fugen gerät. Im Fokus stehen Angst und Freundschaft, gespielt von einem lebendigen Ensemble, das das"
-  },
-  {
-    "titel": "Disco Bingo im ST. LOUIS Breakfast – Das Original in Köln!",
-    "datum": "21. Aug 2026",
-    "datum_raw": "2026-08-21T19:00+0200",
-    "ort": "ST. LOUIS Breakfast, Meister-Gerhard-Straße 30",
-    "preis": "ab 16 €",
-    "link": "https://rausgegangen.de/events/disco-bingo-im-st-louis-breakfast-das-original-in-koln-40/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Disco Bingo mischt Klassiker und aktuelle Hits zu einem Spielabend, bei dem du nicht nur Zahlen, sondern auch Songs ankreuzt. Hier bringen die Gastgeber:innen mit Witz und ordentlich Sound Stimmung an die Tische 🪩"
-  },
-  {
     "titel": "TAKE UP SPACE",
     "datum": "21. Aug 2026",
     "datum_raw": "2026-08-21T19:00+0200",
@@ -78,6 +58,16 @@
     "link": "https://rausgegangen.de/events/take-up-space-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Hier findest du ein kreatives Zusammenkommen von FLINTA* und Allies, die gemeinsam Kultur sichtbar machen. Mit Live-Musik, Workshops und offener Bühne entsteht ein Raum voller künstlerischer Energie und Austausch unter G"
+  },
+  {
+    "titel": "Erste Hilfe - von Mariana Leky",
+    "datum": "21. Aug 2026",
+    "datum_raw": "2026-08-21T19:00+0200",
+    "ort": "Studio 11, Gravenreuthstraße 11",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/erste-hilfe-von-mariana-leky-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Mariana Lekys Stück „Erste Hilfe“ erzählt von kleinen Verrücktheiten und dem großen Mut in einer Welt, die kurz aus den Fugen gerät. Im Fokus stehen Angst und Freundschaft, gespielt von einem lebendigen Ensemble, das das"
   },
   {
     "titel": "ARXX",
@@ -180,16 +170,6 @@
     "teaser": "Hier gibt’s keinen Jury-Stress und keine falschen Töne, sondern einfach 53.000 Songs zum Austoben – von 90s Trash bis RnB. Maxi macht seit Jahren Karaoke-Abende zur Party, bei denen du zum Held:in oder Meme wirst. Zwisch"
   },
   {
-    "titel": "x",
-    "datum": "21. Aug 2026",
-    "datum_raw": "2026-08-21T21:45+0200",
-    "ort": "Chlodwigplatz, Chlodwigplatz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/schlemmenschwaade-der-feierabendmarkt-auf-dem-chlodwigplatz-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Auf dem Feierabendmarkt auf dem Chlodwigplatz kommst du mit leckeren Gerichten aus der ganzen Welt und kühlen Drinks zusammen, während sich das Veedel entspannt beim gemeinsamen Afterwork austauscht. Das Event lebt vom l"
-  },
-  {
     "titel": "Flinta* Brunch Tarot und Yoga",
     "datum": "22. Aug 2026",
     "datum_raw": "2026-08-22T10:00+0200",
@@ -208,6 +188,16 @@
     "link": "https://rausgegangen.de/events/support-your-local-csd-busanreise-zum-1-csd-arnsberg-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "⁨🚌 22.08. – (P)ride Soli Cologne × Wir wollen uns lebend Köln → CSD Arnsberg 🌈🔥Der erste CSD in Arnsberg. Friedrich Merz’ Wahlkreis. Da darf ein Reisebus voller Queers, Friends & Feminists natürlich nicht fehlen.Gemein"
+  },
+  {
+    "titel": "VIBE TRIBE FEST",
+    "datum": "22. Aug 2026",
+    "datum_raw": "2026-08-22T14:00+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "ab 20 €",
+    "link": "https://rausgegangen.de/events/vibe-tribe-fest-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "VIBE TRIBE FEST 2026SAVE THE DATE – VIBE TRIBE FEST 2026! 🌴🔥Das Vibe Tribe Fest kehrt 2026 zurück nach Köln – unsere Homebase, unsere Community, unsere City!Am 22. August 2026 feiern wir wieder gemeinsam ein Fest volle"
   },
   {
     "titel": "ROMEO UND JULIA - Liebe ist alles",
@@ -258,6 +248,16 @@
     "link": "https://rausgegangen.de/events/the-zenmenn-neumarkt-eintritt-frei-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "The Zenmenn22. AugustNeumarktKonzert + Live Band KaraokeEintritt frei!<3"
+  },
+  {
+    "titel": "Sommerfest I Timcheh x NF",
+    "datum": "22. Aug 2026",
+    "datum_raw": "2026-08-22T18:00+0200",
+    "ort": "Niehler Freiheit, Vogelsangerstrasse 385",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/sommerfest-i-timcheh-x-nf-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Timcheh lädt an zwei Tagen zu einem Sommerfest mit afghanisch-persischer Fusionsküche und einem Musikprogramm zwischen Rare Grooves und vielfältigen Sounds. Vorab kannst du beim Workshop Digital Rights Catalyst mehr über"
   },
   {
     "titel": "HEART AT HOME TOUR 26",
