@@ -1,203 +1,43 @@
 [
   {
-    "titel": "Das RTL+ Sommerglück mit Paul Janke",
-    "datum": "22. Aug 2026",
-    "datum_raw": "2026-08-22T11:00+0200",
-    "ort": "Barracuda Bar, Bismarckstraße 44",
+    "titel": "Flohmarkt im Grünfeld",
+    "datum": "23. Aug 2026",
+    "datum_raw": "2026-08-23T11:00+0200",
+    "ort": "Grünfeld, Brüsseler Straße 47",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/das-rtl-sommergluck-mit-paul-janke-0/",
+    "link": "https://rausgegangen.de/events/flohmarkt-im-grunfeld-8/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Paul Janke bringt gute Laune und Sommerfeeling nach Köln. Beim RTL+ Sommerglück wartet nicht nur ein Glücksrad mit Erfrischungen und Preisen auf dich, sondern auch Zeit für ein entspanntes Meet & Greet mit dem Bachelor"
+    "teaser": "Beim Flohmarkt im Grünfeld findest du spannende Second-Hand-Schätze von Klamotten bis Schmuck, perfekt für alle, die gerne stöbern und entdecken. Die lockere Atmosphäre lädt dich ein, entspannt mit Freund:innen durch die"
   },
   {
-    "titel": "local.cologne Pop-Up Markt in Köln-Mülheim",
-    "datum": "22. Aug 2026",
-    "datum_raw": "2026-08-22T14:00+0200",
-    "ort": "Schanzenstraße 28a, 51063 Köln, Schanzenstraße 28a",
+    "titel": "Rise Chica Rise",
+    "datum": "23. Aug 2026",
+    "datum_raw": "2026-08-23T13:00+0200",
+    "ort": "Sturmfreie Bude Köln, Luxemburger Straße 124-126",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/rise-chica-rise-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Stell dir einen Sommertag vor, an dem du mit Menschen zusammenkommst, die deine Energie teilen – ohne steife Gespräche, dafür mit echten Momenten, Workshops und einer besonderen Portion Empowerment. Hier kannst du entspa"
+  },
+  {
+    "titel": "Apéro Markt Köln - Das Aperitif-Sommer-Pop-Up 21. – 23.08.2026",
+    "datum": "23. Aug 2026",
+    "datum_raw": "2026-08-23T13:00+0200",
+    "ort": "Vogelsanger Straße im Grüngürtel, Vogelsanger Straße",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/localcologne-pop-up-markt-in-koln-mulheim-0/",
+    "link": "https://rausgegangen.de/events/apero-markt-koln-das-aperitif-sommer-pop-up-21-23082026-2/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Der local.cologne Pop-Up Markt bringt kreative Köpfe aus Köln zusammen, die mit Mode, Musik und Kunst für einen vielseitigen Tag sorgen. Zwischen Vintage-Schätzen, Streetfood und DJ-Sets kannst du entspannt neue Liebling"
+    "teaser": "Im Aperó Markt Köln trifft südliches Flair auf kreative Drinks und ein buntes Foodangebot, das auch vegan und vegetarisch einiges bietet. Hier lässt du es dir mit Familie und Freund:innen entspannt gutgehen und probierst"
   },
   {
-    "titel": "TANZKLUB // DAY PARTY // POP x INDIE x 80s x 90s x 00s x 10s",
-    "datum": "22. Aug 2026",
-    "datum_raw": "2026-08-22T14:00+0200",
-    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
+    "titel": "RADIO SABOR | LATIN BOAT | MS RHEINGALAXIE",
+    "datum": "23. Aug 2026",
+    "datum_raw": "2026-08-23T14:00+0200",
+    "ort": "MS RheinFantasie Köln, Frankenwerft 35",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/tanzklub-day-party-0/",
+    "link": "https://rausgegangen.de/events/radio-sabor-latin-boat-ms-rheinfantasie-3/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Zwischen poppigen Indie-Tunes und Hits von 80s bis 10s bringt der Tanzklub eine bunte Playlist mit zum sommerlichen Biergarten-Abend. Für die ersten, die kommen, gibt’s einen Frozen Aperol – perfekter Start für entspannt"
-  },
-  {
-    "titel": "ROMEO UND JULIA - Liebe ist alles",
-    "datum": "22. Aug 2026",
-    "datum_raw": "2026-08-22T15:00+0200",
-    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
-    "preis": "ab 70 €",
-    "link": "https://rausgegangen.de/events/romeo-und-julia-liebe-ist-alles-104/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "37. Kölner Sommerfestival»Romeo und Julia – Liebe ist alles«. Berührend, überraschend, befreiend – eines der erfolgreichsten deutschsprachigen Musicals unserer Zeit. Nie war Julia so wild, nie war Romeo so sexy, nie w"
-  },
-  {
-    "titel": "Rooftop Tapes Cologne Summer Closing",
-    "datum": "22. Aug 2026",
-    "datum_raw": "2026-08-22T16:00+0200",
-    "ort": "Sonnenscheinetage, An Sankt Agatha 19-25",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/rooftop-tapes-cologne-summer-closing-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zum Abschluss der Rooftop-Saison gibt’s einen sonnigen Nachmittag voller entspannter House-Klänge und kühler Drinks. Erlebe mit anderen Musikfans diesen letzten Open-Air-Moment, der den Sommer entspannt ausklingen lässt "
-  },
-  {
-    "titel": "Humba Sommersause",
-    "datum": "22. Aug 2026",
-    "datum_raw": "2026-08-22T16:00+0200",
-    "ort": "Kahnstation am Blücherpark, Parkgürtel",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/humba-sommersause-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Humba Sommersause 30 Jahre Kahnstation Blücherpark – 20 Jahre Sommersause Reihenfolge: Ögünc Kardelen + Amouri Band + HopStopTrio + Fevronia    Wir präsentieren mitreißende, griechische, türkische, slawische, jiddis"
-  },
-  {
-    "titel": "Köln – Single Daydrinking @ Goldfinger",
-    "datum": "22. Aug 2026",
-    "datum_raw": "2026-08-22T17:00+0200",
-    "ort": "Friesenstraße 54, Friesenstraße 54, 50670 Köln, Deutschland",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/koln-single-daydrinking-goldfinger-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Samstag. Kalte Drinks. Gute Musik. Eine Terrasse mitten auf der Friesenstraße. Und viele Singles.Am 22. August wird das Goldfinger zum Treffpunkt für Singles aus Köln und Umgebung.Von 17:00 bis 22:00 Uhr verbringen wir"
-  },
-  {
-    "titel": "Sommerfest I Timcheh x NF",
-    "datum": "22. Aug 2026",
-    "datum_raw": "2026-08-22T18:00+0200",
-    "ort": "Niehler Freiheit, Vogelsangerstrasse 385",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/sommerfest-i-timcheh-x-nf-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Timcheh lädt an zwei Tagen zu einem Sommerfest mit afghanisch-persischer Fusionsküche und einem Musikprogramm zwischen Rare Grooves und vielfältigen Sounds. Vorab kannst du beim Workshop Digital Rights Catalyst mehr über"
-  },
-  {
-    "titel": "The Zenmenn - Neumarkt - Eintritt Frei!",
-    "datum": "22. Aug 2026",
-    "datum_raw": "2026-08-22T18:00+0200",
-    "ort": "Miteinander NEUmarkt, Neumarkt",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/the-zenmenn-neumarkt-eintritt-frei-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "The Zenmenn22. AugustNeumarktKonzert + Live Band KaraokeEintritt frei!<3"
-  },
-  {
-    "titel": "The Piano Tuner // Kinotag",
-    "datum": "22. Aug 2026",
-    "datum_raw": "2026-08-22T19:00+0200",
-    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/the-piano-tuner-aperol-kinotag-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Niki, ein außergewöhnlicher Klavierstimmer zwischen Musik und kriminellen Aufträgen in New York, verliert sich in einer zarten Liebesgeschichte mit einer Kompositionsstudentin. The Piano Tuner erzählt von Grenzgängen und"
-  },
-  {
-    "titel": "HEART AT HOME TOUR 26",
-    "datum": "22. Aug 2026",
-    "datum_raw": "2026-08-22T19:00+0200",
-    "ort": "MTC - LIVE❌MUSIC❌CLUB, Zülpicher Str. 10",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/heart-at-home-tour-26-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Es wird heiß im MTC:CALIBRE INFINITE bringt modernen, melodischen Metal auf die Bühne – hart, emotional und kompromisslos. Mit Songs, die wie Spiegel die Höhen und Tiefen des Menschseins reflektieren, erzeugen sie  Sch"
-  },
-  {
-    "titel": "Off Campus Party - Köln",
-    "datum": "22. Aug 2026",
-    "datum_raw": "2026-08-22T19:30+0200",
-    "ort": "Bürgerzentrum Chorweiler, Pariser Platz 1,",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/off-campus-party-koln-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei der Off Campus Party trifft deine Lieblingsbuchwelt auf eine Nacht voller Musik und Emotionen, die direkt aus den spannendsten Szenen stammen. Ob Team Garrett oder Dean, hier feierst du mit Leuten, die die gleichen G"
-  },
-  {
-    "titel": "Echtzeit Comedy - Stand-Up am Samstag",
-    "datum": "22. Aug 2026",
-    "datum_raw": "2026-08-22T20:00+0200",
-    "ort": "Echtzeit Grill & Thrill, Friesenstraße 33",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/echtzeit-comedy-stand-up-am-samstag-82/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "„Samstag ist Comedy-Time! 🎤🔥 Um 20 Uhr rocken drei Comedians die Bühne – freut euch auf gute Stimmung, BBQ und Drinks🍔✨“"
-  },
-  {
-    "titel": "Blind Feat Live @ Flora 6",
-    "datum": "22. Aug 2026",
-    "datum_raw": "2026-08-22T20:00+0200",
-    "ort": "Flora 6, 50733 Köln, Florastraße 6",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/blind-feat-live-flora-6-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Blind Feat präsentiert ihr Set aus Original Stücken in der Flora 6! Die eigenen Kompisitionen sind ein Mix aus Musikeinflüssen denen sie ausgesetzt waren. Von Bluesigen über etwas funky Rhythmen zu rockigen und balad"
-  },
-  {
-    "titel": "ROMEO UND JULIA - Liebe ist alles",
-    "datum": "22. Aug 2026",
-    "datum_raw": "2026-08-22T20:00+0200",
-    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
-    "preis": "ab 70 €",
-    "link": "https://rausgegangen.de/events/romeo-und-julia-liebe-ist-alles-103/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "37. Kölner Sommerfestival»Romeo und Julia – Liebe ist alles«. Berührend, überraschend, befreiend – eines der erfolgreichsten deutschsprachigen Musicals unserer Zeit. Nie war Julia so wild, nie war Romeo so sexy, nie w"
-  },
-  {
-    "titel": "Salsa & Bachata Night: Musik, die euch tanzen lässt in Köln",
-    "datum": "22. Aug 2026",
-    "datum_raw": "2026-08-22T20:00+0200",
-    "ort": "Hop Spot Tanzstudio, Venloer Straße 420",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/salsa-bachata-night-musik-die-euch-tanzen-lasst-in-koln-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Gute Musik ist das Herzstück jeder Salsa & Bachata Night: Latin-Rhythmen, die euch von der ersten Minute an in Bewegung bringen. Bei dieser Night lernt ihr in zwei Workshops die Grundlagen und tanzt anschließend zur Mus"
-  },
-  {
-    "titel": "TRIBUTE TO ELLA VENERA",
-    "datum": "22. Aug 2026",
-    "datum_raw": "2026-08-22T20:00+0200",
-    "ort": "King Georg, Sudermanstraße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/tribute-to-ella-venera-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "TRIBUTE TO ELLA - VENERA Die außergewöhnliche Jazz-Stimme aus Kasachstan STAR TRIOTim Heinz - DrumsMartin Gjakonovski — KontrabassVladimir Bukhardt - KlavierSPECIAL GUESTSAlex Tucchini - TrompeteIgor Epstein - Violine "
-  },
-  {
-    "titel": "Dorfadel",
-    "datum": "22. Aug 2026",
-    "datum_raw": "2026-08-22T21:00+0200",
-    "ort": "Asimmetric Bar, Venloer Straße 196",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/dorfadel-16/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "sautes d‘humeur"
-  },
-  {
-    "titel": "Cologne Nightlife Tour: 4 Locations, Shots & Club Entry",
-    "datum": "22. Aug 2026",
-    "datum_raw": "2026-08-22T21:15+0200",
-    "ort": "Zülpicher Pl., Zülpicher Pl., 50674 Köln, Germany",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/cologne-nightlife-tour-4-locations-shots-club-entry-54/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Experience Cologne nightlife the easy way with a fun group and a local host. After check-in at the meeting point, the night starts with a welcome shot. Then you’ll visit 4 lively nightlife locations, a mix of popular bar"
-  },
-  {
-    "titel": "jedermensch. x PhonoVision",
-    "datum": "22. Aug 2026",
-    "datum_raw": "2026-08-22T23:00+0200",
-    "ort": "artheater Köln, Ehrenfeldgürtel 127",
-    "preis": "ab 19 €",
-    "link": "https://rausgegangen.de/events/jedermensch-x-phonovision-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Kölns lokale DJs mixen House, Trance und Techno aus 2000er-Zeiten bis heute bei der zweiten gemeinsamen Session von jedermensch. und PhonoVision. Mit sichbaren Pausen und einem sicheren Raum wird das Tanzerlebnis offen f"
+    "teaser": "Radio Sabor bringt mit Latin Bass, Dembow und Salsa Karibikflair auf zwei Decks und eine entspannte Fahrt über den Rhein. Freu dich auf eine bunte Mischung aus Reggaeton, Merengue und Afro Beats, die dir eine Sommerparty"
   },
   {
     "titel": "ROMEO UND JULIA - Liebe ist alles",
@@ -230,6 +70,26 @@
     "teaser": "Veedeltour 2026 Finale 🎶Unsere liebsten Perlen versorgen euch ein letztes Mal für die diesjährige Veedeltour mit stimmgewaltigen Sounds – und das dank unseren Freund*innen von Mühlen Kölsch komplett for free! 💥🎶Am So"
   },
   {
+    "titel": "BOUNCE BOAT Summer Closing 2026 by Koeln ist Techno",
+    "datum": "23. Aug 2026",
+    "datum_raw": "2026-08-23T15:30+0200",
+    "ort": "Anleger 13, Köln, Konrad-Adenauer-Ufer",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/bounce-boat-vol-2-by-koeln-ist-techno-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Auf dem BOUNCE BOAT mischen DJs wie Sodbrennen und Super Dario treibenden Techno mit sommerlicher Leichtigkeit, während du unter freiem Himmel den tuckernden Bass auf dem Rhein spürst. Freu dich auf einen Soundtrack zwis"
+  },
+  {
+    "titel": "GEILOBINGO am Sonntag - Geile Preise & undurchsichtige Regeln",
+    "datum": "23. Aug 2026",
+    "datum_raw": "2026-08-23T16:00+0200",
+    "ort": "Tsunami Club, Im Ferkulum 9",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/geilobingo-am-sonntag-geile-preise-undurchsichtige-regeln-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim GEILOBINGO reiht sich Runde an Runde voller kniffliger Regeln und schrulliger Preise – von Goodies bis Überraschungen, die du nicht erwartet hast. Keine Vorkenntnisse nötig, Jones bringt dir den Spaß und das Chaos p"
+  },
+  {
     "titel": "Workshop & Social Night für Paare & Alleinstehende,  Tanzen verbindet",
     "datum": "23. Aug 2026",
     "datum_raw": "2026-08-23T17:45+0200",
@@ -238,6 +98,16 @@
     "link": "https://rausgegangen.de/events/workshop-social-night-fur-paare-alleinstehende-tanzen-verbin-130/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Es geht um neue Kontakte und ein neues Hobby, das deine Weltsicht verändern und den Kontakt zu Menschen viel einfacher machen kann. Durch das Tanzen verbinden sich Menschen und bleiben präsent.Meine Aufgabe als Worksho"
+  },
+  {
+    "titel": "Rooftop Comedy @SONNENSCHEIN ETAGE",
+    "datum": "23. Aug 2026",
+    "datum_raw": "2026-08-23T18:00+0200",
+    "ort": "Sonnenscheinetage, An Sankt Agatha 19-25",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/rooftop-comedy-sonnenschein-etage-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Über den Dächern Kölns liefern erfahrene Comedians und frische Talente jede Menge neue Witze direkt an die frische Luft. DJavid führt locker durch den Abend, der mit Blick auf den Dom für entspanntes Lachen sorgt und noc"
   },
   {
     "titel": "Abschlusskonzert der Teilnehmenden",
@@ -288,6 +158,16 @@
     "link": "https://rausgegangen.de/events/romeo-und-julia-liebe-ist-alles-106/",
     "quelle": "Rausgegangen Köln",
     "teaser": "37. Kölner Sommerfestival»Romeo und Julia – Liebe ist alles«. Berührend, überraschend, befreiend – eines der erfolgreichsten deutschsprachigen Musicals unserer Zeit. Nie war Julia so wild, nie war Romeo so sexy, nie w"
+  },
+  {
+    "titel": "ReimGold Poetry Slam - Best of Poetry Slam Open Air",
+    "datum": "23. Aug 2026",
+    "datum_raw": "2026-08-23T19:30+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "ab 16 €",
+    "link": "https://rausgegangen.de/events/reimgold-poetry-slam-best-of-poetry-slam-open-air-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "ReimGold versammelt die schärfsten Slam-Performer:innen des Landes, die hier mit Pointen und Herz ihre Texte präsentieren. Zwischen Lachen, Nachdenken und Gänsehaut entscheidest du, wer den Abend für sich dominiert und z"
   },
   {
     "titel": "Kammermusikabend",
@@ -398,5 +278,125 @@
     "link": "https://rausgegangen.de/events/kishi-bashi-5/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Kishi Bashi bringt im Sommer 2026 seine gefeierte Sonderlust Solo Tour nach Deutschland. Im Zentrum steht das 10-jährige Jubiläum seines Albums Sonderlust, das er in intimer Solo-Form vollständig live präsentiert. Di"
+  },
+  {
+    "titel": "LOVE SPELLS",
+    "datum": "25. Aug 2026",
+    "datum_raw": "2026-08-25T21:00+0200",
+    "ort": "Blue Shell, Luxemburger Straße 32",
+    "preis": "ab 23 €",
+    "link": "https://rausgegangen.de/events/love-spells-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Love Spells kommt im August nach Deutschland und bringt ein Projekt auf die Bühne, das sich in kurzer Zeit über digitale Plattformen hinaus eine wachsende internationale Aufmerksamkeit erarbeitet hat. Hinter dem Namen "
+  },
+  {
+    "titel": "Michael Cera Palin",
+    "datum": "26. Aug 2026",
+    "datum_raw": "2026-08-26T00:00+0200",
+    "ort": "Garagen, Oskar-Jäger-Straße 179",
+    "preis": "ab 22 €",
+    "link": "https://rausgegangen.de/events/michael-cera-palin-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Michael Cera Palin – exklusive Shows in DE und CHMichael Cera Palin sind ein emotionales Indie-Punk-Trio aus Atlanta, Georgia. Die Band ist bekannt für bewusst verletzliche Texte, einen kathartisch eingängigen Sound un"
+  },
+  {
+    "titel": "Manu Chao | Ultra Acustico Open Air",
+    "datum": "26. Aug 2026",
+    "datum_raw": "2026-08-26T17:00+0200",
+    "ort": "Südbrücke, Alfred-Schütte-Allee 34",
+    "preis": "ab 35 €",
+    "link": "https://rausgegangen.de/events/manu-chao-ultra-acustico-open-air-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": ""
+  },
+  {
+    "titel": "Impact in Concert",
+    "datum": "26. Aug 2026",
+    "datum_raw": "2026-08-26T18:30+0200",
+    "ort": "Impact Café, Luxemburger Str. 190",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/impact-in-concert-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Ein Konzertabend im Café? Sounds like a dream! Genießt die Musik mit nem 5€ Aperölchen in der Hand🍹✨"
+  },
+  {
+    "titel": "Günter Schlienz + Buck Moon",
+    "datum": "26. Aug 2026",
+    "datum_raw": "2026-08-26T20:00+0200",
+    "ort": "Asimmetric Bar, Venloer Straße 196",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/gunter-schlienz-buck-moon-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Günter Schlienz verbindet minimalistische elektronische Klänge mit selbstgebauten modularen Synthesizern zu skulpturalen Klangwelten zwischen Melancholie und Natur. Buck Moon entführt dich mit ihren ätherischen Drone-So"
+  },
+  {
+    "titel": "FUTURE OF BATTLERAP WÄHREND DER GAMESCOM",
+    "datum": "27. Aug 2026",
+    "datum_raw": "2026-08-27T18:00+0200",
+    "ort": "Xperion Köln, Hohe Straße 46-50",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/future-of-battlerap-wahrend-der-gamescom-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Xperion öffnet neu in Köln und was darf da nicht fehlen? Genau, hochqualitative Rap Battles zum günstigen Preis! Freut euch auf 8 starke On Beat Matches, fulminante Freestyle-Battles und jede Menge beste Unterhalt"
+  },
+  {
+    "titel": "Mitsingkonzert",
+    "datum": "27. Aug 2026",
+    "datum_raw": "2026-08-27T18:00+0200",
+    "ort": "Ebertplatz, Ebertplatz",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/mitsingkonzert-67/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Katharina Hüsch lädt dich zu einem entspannten Mitsingabend ein, bei dem Songs von Wir sind Helden bis Miley Cyrus auf dem Programm stehen. Ob du laut mitsingst oder leise summst, hier bist du richtig und alle Stimmen we"
+  },
+  {
+    "titel": "Mitsing-Konzert am Ebertplatz",
+    "datum": "27. Aug 2026",
+    "datum_raw": "2026-08-27T18:00+0200",
+    "ort": "Ebertplatz, Ebertplatz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/mitsing-konzert-am-ebertplatz-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Gemischte Tüte- mit Songs von den 70ern bis heute...Mitsingkonzert offen für alle, keinerlei Vorkenntnisse erforderlich, einfach vorbeikommen, Texte gibt es von uns vor Ort, der Eintritt ist frei, aber wir freuen uns u"
+  },
+  {
+    "titel": "Noya Wint, Sofia Freire",
+    "datum": "27. Aug 2026",
+    "datum_raw": "2026-08-27T18:00+0200",
+    "ort": "Miteinander NEUmarkt, Neumarkt",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/noya-wint-sofia-freire-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Noya Wint + Sofia Freire18:03 Sofia Freire19:01 Noya WintEintriff frei, <3"
+  },
+  {
+    "titel": "Mitsingkonzert im Brauhaus FRÜH am Dom",
+    "datum": "27. Aug 2026",
+    "datum_raw": "2026-08-27T19:00+0200",
+    "ort": "Brauhaus FRÜH am Dom, Am Hof 12-18",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/mitsingkonzert-im-brauhaus-fruh-am-dom-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Kocki & Schang – das kölsche Mitsing-Doppelpack kommen ins Brauhaus FRÜH am Dom und laden zum großen Mitsing-Erlebnis ein.Mitsing-Konzerte liegen voll im Trend und das aus gutem Grund: Gemeinsam singen verbindet, macht"
+  },
+  {
+    "titel": "Offene Bühne im Café Fridolin",
+    "datum": "27. Aug 2026",
+    "datum_raw": "2026-08-27T19:00+0200",
+    "ort": "Café Fridolin, Venloer Straße 429",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/offene-buhne-im-cafe-fridolin-26/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Komm vorbei und läute das Osterwochenende auf der offenen Bühne in gemütlicher Atmosphäre ein! 🎤 Ein perfekter Abend für alle, die Kultur in einer offenen und respektvollen Umgebung erleben möchten."
+  },
+  {
+    "titel": "JiggyTones: Gaming Music Live (feat. David Wise)",
+    "datum": "27. Aug 2026",
+    "datum_raw": "2026-08-27T20:00+0200",
+    "ort": "MTC - LIVE❌MUSIC❌CLUB, Zülpicher Str. 10",
+    "preis": "ab 12 €",
+    "link": "https://rausgegangen.de/events/jiggytones-gaming-music-live-feat-david-wise-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Passend zur gamescom findet Abends das Gaming Highlight in Köln statt. Die Rockband JiggyTones spielt eine große Auswahl an Gaming Musik Live im MTC. Bei dieser besonderen Show spielen sie zusammen mit dem Komponisten d"
   }
 ]
