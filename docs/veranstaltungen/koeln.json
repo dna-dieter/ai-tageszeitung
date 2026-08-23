@@ -1,193 +1,53 @@
 [
   {
-    "titel": "Flohmarkt im Grünfeld",
-    "datum": "23. Aug 2026",
-    "datum_raw": "2026-08-23T11:00+0200",
-    "ort": "Grünfeld, Brüsseler Straße 47",
+    "titel": "DFB-Pokal, 1. Runde, Würzburg - 1. FC Köln",
+    "datum": "24. Aug 2026",
+    "datum_raw": "2026-08-24T17:00+0200",
+    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/flohmarkt-im-grunfeld-8/",
+    "link": "https://rausgegangen.de/events/dfb-pokal-1-runde-wurzburg-1-fc-koln-1/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Flohmarkt im Grünfeld findest du spannende Second-Hand-Schätze von Klamotten bis Schmuck, perfekt für alle, die gerne stöbern und entdecken. Die lockere Atmosphäre lädt dich ein, entspannt mit Freund:innen durch die"
+    "teaser": "Für alle Fußballfans gibt’s in der ersten Pokalrunde was auf die Augen, wenn Würzburg auf den 1. FC Köln trifft. Erlebt das spannende Aufeinandertreffen in entspannter Atmosphäre und genießt das Spiel gemeinsam mit ander"
   },
   {
-    "titel": "Rise Chica Rise",
-    "datum": "23. Aug 2026",
-    "datum_raw": "2026-08-23T13:00+0200",
-    "ort": "Sturmfreie Bude Köln, Luxemburger Straße 124-126",
+    "titel": "Aperol & Flohmarkt Montag",
+    "datum": "24. Aug 2026",
+    "datum_raw": "2026-08-24T17:00+0200",
+    "ort": "Deli Sülz, Berrenrather Str. 221",
+    "preis": "ab 10 €",
+    "link": "https://rausgegangen.de/events/aperol-flohmarkt-montag-49/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "YEAH - Das Deli Sülz weiß, wie man eine neue Woche gebührend startet - und zwar mit Flohmarkt und Aperol Spritz. Diesen gibt’s für 5€."
+  },
+  {
+    "titel": "All Stars Schocken im Zappes - Turnier & Stammtisch",
+    "datum": "24. Aug 2026",
+    "datum_raw": "2026-08-24T18:30+0200",
+    "ort": "Zappes Zentrale, Roonstraße 71",
+    "preis": "ab 6 €",
+    "link": "https://rausgegangen.de/events/all-stars-schocken-im-zappes-turnier-stammtisch-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim Schocken im neuen Vereinsheim vom Zappes geht’s gesellig und locker zur Sache, egal ob du Profi oder Neuling bist. Ein kurzes Training wärmt dich auf, bevor das Turnier startet und dabei süße Preise winken Es gibt s"
+  },
+  {
+    "titel": "Dirty Dancing // Aperol Kinotag 🧡",
+    "datum": "24. Aug 2026",
+    "datum_raw": "2026-08-24T19:00+0200",
+    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/rise-chica-rise-0/",
+    "link": "https://rausgegangen.de/events/dirty-dancing-aperol-kinotag-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Stell dir einen Sommertag vor, an dem du mit Menschen zusammenkommst, die deine Energie teilen – ohne steife Gespräche, dafür mit echten Momenten, Workshops und einer besonderen Portion Empowerment. Hier kannst du entspa"
+    "teaser": "Bei „Dirty Dancing“ prallt Sommerromantik der 60er auf heiße Mambo-Schritte, während Baby lernt, nicht nur zu tanzen, sondern auch mutig zu sein. Die Geschichte von Liebe und Grenzen spielt sich mit einem Glas Aperol Spr"
   },
   {
-    "titel": "Apéro Markt Köln - Das Aperitif-Sommer-Pop-Up 21. – 23.08.2026",
-    "datum": "23. Aug 2026",
-    "datum_raw": "2026-08-23T13:00+0200",
-    "ort": "Vogelsanger Straße im Grüngürtel, Vogelsanger Straße",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/apero-markt-koln-das-aperitif-sommer-pop-up-21-23082026-2/",
+    "titel": "POLICA",
+    "datum": "24. Aug 2026",
+    "datum_raw": "2026-08-24T20:00+0200",
+    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
+    "preis": "ab 25 €",
+    "link": "https://rausgegangen.de/events/polica-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Im Aperó Markt Köln trifft südliches Flair auf kreative Drinks und ein buntes Foodangebot, das auch vegan und vegetarisch einiges bietet. Hier lässt du es dir mit Familie und Freund:innen entspannt gutgehen und probierst"
-  },
-  {
-    "titel": "RADIO SABOR | LATIN BOAT | MS RHEINGALAXIE",
-    "datum": "23. Aug 2026",
-    "datum_raw": "2026-08-23T14:00+0200",
-    "ort": "MS RheinFantasie Köln, Frankenwerft 35",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/radio-sabor-latin-boat-ms-rheinfantasie-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Radio Sabor bringt mit Latin Bass, Dembow und Salsa Karibikflair auf zwei Decks und eine entspannte Fahrt über den Rhein. Freu dich auf eine bunte Mischung aus Reggaeton, Merengue und Afro Beats, die dir eine Sommerparty"
-  },
-  {
-    "titel": "ROMEO UND JULIA - Liebe ist alles",
-    "datum": "23. Aug 2026",
-    "datum_raw": "2026-08-23T14:00+0200",
-    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
-    "preis": "ab 60 €",
-    "link": "https://rausgegangen.de/events/romeo-und-julia-liebe-ist-alles-105/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "37. Kölner Sommerfestival»Romeo und Julia – Liebe ist alles«. Berührend, überraschend, befreiend – eines der erfolgreichsten deutschsprachigen Musicals unserer Zeit. Nie war Julia so wild, nie war Romeo so sexy, nie w"
-  },
-  {
-    "titel": "Fiesta en el Barrio: Salsa am Ebertplatz",
-    "datum": "23. Aug 2026",
-    "datum_raw": "2026-08-23T15:00+0200",
-    "ort": "Ebertplatz, Ebertplatz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/fiesta-en-el-barrio-salsa-am-ebertplatz-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Querida Comunidad, Der Ebertplatz gehört uns nicht – aber am Sonntag, den 23. August machen wir ihn für ein paar Stunden zu unserem Wohnzimmer. Mit den Liedern unserer Eltern, dem Geruch von Sommer, Salsa, Cumbia y Afr"
-  },
-  {
-    "titel": "Veedelperlen | Veedeltourfinale",
-    "datum": "23. Aug 2026",
-    "datum_raw": "2026-08-23T15:00+0200",
-    "ort": "Schillplatz, Mauenheimer Str. 23",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/veedelperlen-veedeltourfinale-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Veedeltour 2026 Finale 🎶Unsere liebsten Perlen versorgen euch ein letztes Mal für die diesjährige Veedeltour mit stimmgewaltigen Sounds – und das dank unseren Freund*innen von Mühlen Kölsch komplett for free! 💥🎶Am So"
-  },
-  {
-    "titel": "BOUNCE BOAT Summer Closing 2026 by Koeln ist Techno",
-    "datum": "23. Aug 2026",
-    "datum_raw": "2026-08-23T15:30+0200",
-    "ort": "Anleger 13, Köln, Konrad-Adenauer-Ufer",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/bounce-boat-vol-2-by-koeln-ist-techno-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Auf dem BOUNCE BOAT mischen DJs wie Sodbrennen und Super Dario treibenden Techno mit sommerlicher Leichtigkeit, während du unter freiem Himmel den tuckernden Bass auf dem Rhein spürst. Freu dich auf einen Soundtrack zwis"
-  },
-  {
-    "titel": "GEILOBINGO am Sonntag - Geile Preise & undurchsichtige Regeln",
-    "datum": "23. Aug 2026",
-    "datum_raw": "2026-08-23T16:00+0200",
-    "ort": "Tsunami Club, Im Ferkulum 9",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/geilobingo-am-sonntag-geile-preise-undurchsichtige-regeln-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim GEILOBINGO reiht sich Runde an Runde voller kniffliger Regeln und schrulliger Preise – von Goodies bis Überraschungen, die du nicht erwartet hast. Keine Vorkenntnisse nötig, Jones bringt dir den Spaß und das Chaos p"
-  },
-  {
-    "titel": "Workshop & Social Night für Paare & Alleinstehende,  Tanzen verbindet",
-    "datum": "23. Aug 2026",
-    "datum_raw": "2026-08-23T17:45+0200",
-    "ort": "Salsa Bachata Mastery Zentrum, Georgstraße 5",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/workshop-social-night-fur-paare-alleinstehende-tanzen-verbin-130/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Es geht um neue Kontakte und ein neues Hobby, das deine Weltsicht verändern und den Kontakt zu Menschen viel einfacher machen kann. Durch das Tanzen verbinden sich Menschen und bleiben präsent.Meine Aufgabe als Worksho"
-  },
-  {
-    "titel": "Rooftop Comedy @SONNENSCHEIN ETAGE",
-    "datum": "23. Aug 2026",
-    "datum_raw": "2026-08-23T18:00+0200",
-    "ort": "Sonnenscheinetage, An Sankt Agatha 19-25",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/rooftop-comedy-sonnenschein-etage-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Über den Dächern Kölns liefern erfahrene Comedians und frische Talente jede Menge neue Witze direkt an die frische Luft. DJavid führt locker durch den Abend, der mit Blick auf den Dom für entspanntes Lachen sorgt und noc"
-  },
-  {
-    "titel": "Abschlusskonzert der Teilnehmenden",
-    "datum": "23. Aug 2026",
-    "datum_raw": "2026-08-23T18:00+0200",
-    "ort": "Beethoven-Haus Bonn - Kammermusiksaal, Bonngasse 24-26",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/abschlusskonzert-der-teilnehmenden-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Streichquartette von Ludwig van BeethovenErmöglicht wird der Meisterkurs 2026 von der Eva-Maria und Berthold Schneider-Stiftung.Gefördert von: Der Beauftragte der Bundesregierung für Kultur und MedienFlyerTeilnehmende"
-  },
-  {
-    "titel": "BURLESQUE BIJOUX -Show- Die Juwelen des Burlesques!",
-    "datum": "23. Aug 2026",
-    "datum_raw": "2026-08-23T18:00+0200",
-    "ort": "Echtzeit Grill & Thrill, Friesenstraße 33",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/burlesque-bijoux-show-die-juwelen-des-burlesques-33/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Willkommen in unserer extravaganten Brasserie, wo Eleganz auf Versuchung trifft.Tauchen Sie ein in eine Welt voller Glamour, Sinnlichkeit und Überraschungen. Unsere bezaubernden Künstler werden Sie mit einer atemberaub"
-  },
-  {
-    "titel": "Jazz at Green Room: Cliff Schmitt’s Deep in the Reeds",
-    "datum": "23. Aug 2026",
-    "datum_raw": "2026-08-23T18:00+0200",
-    "ort": "Stadtgarten, Venloer Straße 40",
-    "preis": "ab 8 €",
-    "link": "https://rausgegangen.de/events/jazz-at-green-room-cliff-schmitts-deep-in-the-reeds-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "18:00 | Konzert | GREEN ROOM Deep in the Reeds ist eine neue Band, die vom amerikanischen Bassisten Cliff Schmitt gegründet wurde. Inspiriert von Modern Jazz sowie von Astor Piazzolla, Guy Klucevsek, brasilianischem Cho"
-  },
-  {
-    "titel": "GEESE",
-    "datum": "23. Aug 2026",
-    "datum_raw": "2026-08-23T19:00+0200",
-    "ort": "Tanzbrunnen Köln, Rheinparkweg 1",
-    "preis": "ab 38 €",
-    "link": "https://rausgegangen.de/events/geese-5/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zu Beginn der „Getting Killed In Europe“-Tour mit insgesamt vier ausverkauften Terminen in Deutschland, kündigen Geese eine weitere Show hierzulande an. Im August wird die Band im Kölner Tanzbrunnen spielen.  Als die N"
-  },
-  {
-    "titel": "ROMEO UND JULIA - Liebe ist alles",
-    "datum": "23. Aug 2026",
-    "datum_raw": "2026-08-23T19:00+0200",
-    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
-    "preis": "ab 60 €",
-    "link": "https://rausgegangen.de/events/romeo-und-julia-liebe-ist-alles-106/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "37. Kölner Sommerfestival»Romeo und Julia – Liebe ist alles«. Berührend, überraschend, befreiend – eines der erfolgreichsten deutschsprachigen Musicals unserer Zeit. Nie war Julia so wild, nie war Romeo so sexy, nie w"
-  },
-  {
-    "titel": "ReimGold Poetry Slam - Best of Poetry Slam Open Air",
-    "datum": "23. Aug 2026",
-    "datum_raw": "2026-08-23T19:30+0200",
-    "ort": "Odonien, Hornstraße 85",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/reimgold-poetry-slam-best-of-poetry-slam-open-air-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "ReimGold versammelt die schärfsten Slam-Performer:innen des Landes, die hier mit Pointen und Herz ihre Texte präsentieren. Zwischen Lachen, Nachdenken und Gänsehaut entscheidest du, wer den Abend für sich dominiert und z"
-  },
-  {
-    "titel": "Kammermusikabend",
-    "datum": "23. Aug 2026",
-    "datum_raw": "2026-08-23T19:30+0200",
-    "ort": "St. Aposteln, Neumarkt 30,",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/kammermusikabend-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Vasyl Barvinsky – Antonín Dvořák Ukrainische Musik im Dialog mit europäischer Klassik23. August 2026, 19:30 Uhr Aula St. Aposteln, Neumarkt 30, KölnLemberger Trio Kateryna Shalayska – Violine Modest Mentsinskyi – Vi"
-  },
-  {
-    "titel": "Watermelon Men",
-    "datum": "23. Aug 2026",
-    "datum_raw": "2026-08-23T20:00+0200",
-    "ort": "Papa Joe's, Alter Markt 50-52",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/watermelon-men-7/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Funky Sundays in Papa Joe’s! Jeden 4. Sonntag im Monat bringen die Watermelon Men frischen Wind in Kölns ältestes Jazzlokal – mit sattem Funk, Jazz, Swing und Modern Jazz. Angeführt von Tobias Naaber (Saxophon), Rolan"
+    "teaser": "Poliça verbindet seit fast 15 Jahren auf einzigartige Weise Indie-Rock, Electronic und Goth-Pop, immer im Wechselspiel von Wärme und Distanz. Ihr neues Album „Dreams Go“ erzählt emotional von Verlust und Stärke und bilde"
   },
   {
     "titel": "NICA live: Jorik Bergman - Simple Songs",
@@ -200,14 +60,24 @@
     "teaser": "Jorik Bergman sucht mit ihrem Quartett die Ruhe in einfachen Liedern zwischen Jazzstandards, eigenen Stücken und freien Improvisationen. Die Komplexität weicht dabei einer gemeinschaftlichen Suche nach Klarheit und Gelas"
   },
   {
-    "titel": "POLICA",
+    "titel": "KLIMATISIERT: Impro Stand-up Comedy - Ich hab da mal nichts vorbereitet",
     "datum": "24. Aug 2026",
     "datum_raw": "2026-08-24T20:00+0200",
-    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
-    "preis": "ab 25 €",
-    "link": "https://rausgegangen.de/events/polica-0/",
+    "ort": "Joode Lade, Lindenstraße 62",
+    "preis": "ab 11 €",
+    "link": "https://rausgegangen.de/events/impro-stand-up-comedy-ich-hab-da-mal-nichts-vorbereitet-51/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Poliça verbindet seit fast 15 Jahren auf einzigartige Weise Indie-Rock, Electronic und Goth-Pop, immer im Wechselspiel von Wärme und Distanz. Ihr neues Album „Dreams Go“ erzählt emotional von Verlust und Stärke und bilde"
+    "teaser": "Vier Comedy-Profis aus Nightwash und Quatsch Comedy Club legen ihre Skripte ab und improvisieren live, was das Zeug hält. Kein Plan, keine Vorgaben – nur echtes Comedy-Feeling, bei dem alles passieren kann. So frisch has"
+  },
+  {
+    "titel": "🎨 Kreativen Stammtisch Köln: Get-Together der Kreativszene",
+    "datum": "24. Aug 2026",
+    "datum_raw": "2026-08-24T20:15+0200",
+    "ort": "Social Studio Köln, Friedrichstraße 63",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/kreativen-stammtisch-koln-get-together-der-kreativszene-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wenn du gerade als Freelancer:in in Kunst, Design oder Medien unterwegs bist, findest du hier entspannte Gesellschaft zum echten Austausch und frische Ideen fürs eigene Projekt. Ohne Stress und Businessgeplänkel entsteht"
   },
   {
     "titel": "Love Spells",
@@ -300,6 +170,16 @@
     "teaser": "Michael Cera Palin – exklusive Shows in DE und CHMichael Cera Palin sind ein emotionales Indie-Punk-Trio aus Atlanta, Georgia. Die Band ist bekannt für bewusst verletzliche Texte, einen kathartisch eingängigen Sound un"
   },
   {
+    "titel": "gamescom 2026",
+    "datum": "26. Aug 2026",
+    "datum_raw": "2026-08-26T13:00+0200",
+    "ort": "Koelnmesse, Messepl. 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/gamescom-2026-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Auf der gamescom 2026 triffst du auf alles, was Gaming ausmacht: Von frischen Blockbustern bis zu Indie-Perlen, mit Cosplay, E-Sport und jeder Menge Aktionen. Ob digital oder analog, hier kommen alle Spieltypen auf ihre "
+  },
+  {
     "titel": "Manu Chao | Ultra Acustico Open Air",
     "datum": "26. Aug 2026",
     "datum_raw": "2026-08-26T17:00+0200",
@@ -328,6 +208,16 @@
     "link": "https://rausgegangen.de/events/gunter-schlienz-buck-moon-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Günter Schlienz verbindet minimalistische elektronische Klänge mit selbstgebauten modularen Synthesizern zu skulpturalen Klangwelten zwischen Melancholie und Natur. Buck Moon entführt dich mit ihren ätherischen Drone-So"
+  },
+  {
+    "titel": "WEIRD DAYS",
+    "datum": "27. Aug 2026",
+    "datum_raw": "2026-08-27T00:00+0200",
+    "ort": "Dachlow, Neusser Straße 731",
+    "preis": "ab 5 €",
+    "link": "https://rausgegangen.de/events/weird-days-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "🌈 WEIRD DAYS KÖLN – 27.–30. AUGUST 2026Vier Tage Drag, DIY, Poetry, Kunst, Games, Shows, Begegnungen und kontrolliertes Chaos.Die WEIRD DAYS sind für alle, die Lust auf Kultur jenseits des üblichen Mainstreams haben.D"
   },
   {
     "titel": "FUTURE OF BATTLERAP WÄHREND DER GAMESCOM",
@@ -398,5 +288,115 @@
     "link": "https://rausgegangen.de/events/jiggytones-gaming-music-live-feat-david-wise-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Passend zur gamescom findet Abends das Gaming Highlight in Köln statt. Die Rockband JiggyTones spielt eine große Auswahl an Gaming Musik Live im MTC. Bei dieser besonderen Show spielen sie zusammen mit dem Komponisten d"
+  },
+  {
+    "titel": "Mondo Chôro feat. Paula Santoro",
+    "datum": "27. Aug 2026",
+    "datum_raw": "2026-08-27T20:00+0200",
+    "ort": "Loft Köln, Wissmannstr. 30",
+    "preis": "ab 16 €",
+    "link": "https://rausgegangen.de/events/mondo-choro-feat-paula-santoro-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Eine Hommage an Brasiliens eleganteste Musiktradition mit einer ihrer größten StimmenDie international gefeierte brasilianische Sängerin Paula Santoro trifft während ihrer Europatournee bei einem einzigartigen und ein"
+  },
+  {
+    "titel": "SVENJA GALAXY ‧ CARINA BRINKHAUS",
+    "datum": "27. Aug 2026",
+    "datum_raw": "2026-08-27T20:00+0200",
+    "ort": "Blue Shell, Luxemburger Straße 32",
+    "preis": "ab 11 €",
+    "link": "https://rausgegangen.de/events/svenja-galaxy-carina-brinkhaus-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Do.,27.08.26Einlass 20 Uhr  Beginn 21 UhrBlue Shell Live:  SVENJA GALAXYRock Pop Svenja Galaxy ist mehr als nur eine Musikerin, sie ist eine Geschichtenerzählerin. Ihre Musik spiegelt das wahre Leben wieder und entführ"
+  },
+  {
+    "titel": "Cozy Wohnzimmerkonzert bei Zippivintage",
+    "datum": "28. Aug 2026",
+    "datum_raw": "2026-08-28T18:00+0200",
+    "ort": "ZippiVintage, Baudristraße 6",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/cozy-wohnzimmerkonzert-bei-zippivintage-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Kleines, feines \"Wohnzimmerkonzert\" im Ladenlokal von Zippivintage in Nippes!Der neugeöffnete Laden für Vintagebekleidung wandelt sich am Freitag Abend um und wird zum Örtchen für musikalische Unterhaltung und Nachba"
+  },
+  {
+    "titel": "Florian Künstler | Open Air 2026",
+    "datum": "28. Aug 2026",
+    "datum_raw": "2026-08-28T18:00+0200",
+    "ort": "Tanzbrunnen Köln, Rheinparkweg 1",
+    "preis": "ab 55 €",
+    "link": "https://rausgegangen.de/events/florian-kunstler-open-air-2026-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Einst als Straßenmusiker begonnen, hat der Lübecker Sänger und Songschreiber inzwischen zwei Alben veröffentlicht und seine Fangemeinschaft wächst stetig weiter. Hat man Florian Künstler einmal live erlebt, weiß man"
+  },
+  {
+    "titel": "HafenSounds | Sommer Köln",
+    "datum": "28. Aug 2026",
+    "datum_raw": "2026-08-28T18:00+0200",
+    "ort": "Schokoladenmuseum Vorplatz, Am Schokoladenmuseum 1A",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/hafensounds-sommer-koln-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "HafenSounds lädt dich zu einer musikalischen Reise rund um den Globus ein. Mit DJ J Jan Ü und einem bunten Mix aus globalen Klängen bis hin zu packenden Chorstimmen ist für jeden Musikfreund was dabei 😌"
+  },
+  {
+    "titel": "Odonische Freitagsbühne",
+    "datum": "28. Aug 2026",
+    "datum_raw": "2026-08-28T18:00+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/odonische-freitagsbuhne-81/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge entdecken Spaß macht "
+  },
+  {
+    "titel": "🪷✨ Keshis Goodbye Party✨🪷 ft. Bhakti Lounge",
+    "datum": "28. Aug 2026",
+    "datum_raw": "2026-08-28T18:45+0200",
+    "ort": "Yoga-Studio Unity Training, Ebertplatz 9, 50668 Köln",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/keshis-goodbye-party-ft-bhakti-lounge-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "🪷✨ Keshis Goodbye Party✨🪷 ft. Bhakti Lounge  Bevor Keshi sich auf den Weg nach Vrindavan macht, möchten wir noch einmal gemeinsam zusammenkommen – mit Kirtan, gutem Essen, Musik und ganz viel Gemeinschaft. 🤍  Es geht ni"
+  },
+  {
+    "titel": "Endgegner – Games Music - Stummfilmkonzert",
+    "datum": "28. Aug 2026",
+    "datum_raw": "2026-08-28T19:00+0200",
+    "ort": "COMEDIA Theater, Vondelstraße 4-8",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/endgegner-games-music-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Endgegner ist eine vierköpfige Band aus Köln, die sich den Melodien und Themen der Videospielkultur verschrieben hat - und diese auf ganz eigene Weise neu interpretiert. Mit Wurzeln in Jazz und Rock, schlägt die Band "
+  },
+  {
+    "titel": "Atelierkonzert - Maxi Valdes",
+    "datum": "28. Aug 2026",
+    "datum_raw": "2026-08-28T20:00+0200",
+    "ort": "Atelier Jorsiac, Bachemer Straße 120",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/atelierkonzert-maxi-valdes-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Liebe Freund*innen des Atelier Jorsiac,wir laden euch ganz herzlich zum nächsten Konzert im Atelier ein, welches am 28.08.26 stattfinden wird. Diesmal besucht uns der Gitarrist und Komponist Maxi Valdez:Der chilenische "
+  },
+  {
+    "titel": "Cousines Like Shit (Wien, Indie-Avant Trash) in den hängenden Gärten von Ehrenfeld, Köln",
+    "datum": "28. Aug 2026",
+    "datum_raw": "2026-08-28T20:00+0200",
+    "ort": "Die hängenden Gärten von Ehrenfeld, Vogelsanger Straße 140",
+    "preis": "ab 16 €",
+    "link": "https://rausgegangen.de/events/cousines-like-shit-wien-indie-avant-trash-in-den-hangenden-g-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "annibale-booking, indie.cologne.events & die hängenden gärten von ehrenfeld präsentieren:was:☆ COUSINES LIKE SHIT ☆ (Indie-AVANT TRASH) aus Wien, kommen auf ihrer Concrete-Tour auch in Köln vorbei und spielen eine ex"
+  },
+  {
+    "titel": "Cozy Café Concert",
+    "datum": "28. Aug 2026",
+    "datum_raw": "2026-08-28T20:00+0200",
+    "ort": "Café KOR, Zülpicher Str. 233, 50937",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/cozy-cafe-concert-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Cozy Concerts sind eine Geheimkonzertreihe in gemütlicher Atmosphäre* – in Wohnzimmern, Buchläden, Ateliers, Gärten und anderen besonderen Orten. Intim, authentisch, entspannend. 80–90 % der Musiker*innen bei den"
   }
 ]
