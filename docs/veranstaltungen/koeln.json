@@ -1,83 +1,13 @@
 [
   {
-    "titel": "DFB-Pokal, 1. Runde, Würzburg - 1. FC Köln",
-    "datum": "24. Aug 2026",
-    "datum_raw": "2026-08-24T17:00+0200",
-    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
+    "titel": "Proudr LGBTIQ+ After Work Köln",
+    "datum": "25. Aug 2026",
+    "datum_raw": "2026-08-25T18:00+0200",
+    "ort": "Jim & June - NEW YORK BAR & KITCHEN, Meister-Gerhard-Straße 35",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/dfb-pokal-1-runde-wurzburg-1-fc-koln-1/",
+    "link": "https://rausgegangen.de/events/proudr-lgbtiq-after-work-koln-2/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Für alle Fußballfans gibt’s in der ersten Pokalrunde was auf die Augen, wenn Würzburg auf den 1. FC Köln trifft. Erlebt das spannende Aufeinandertreffen in entspannter Atmosphäre und genießt das Spiel gemeinsam mit ander"
-  },
-  {
-    "titel": "Aperol & Flohmarkt Montag",
-    "datum": "24. Aug 2026",
-    "datum_raw": "2026-08-24T17:00+0200",
-    "ort": "Deli Sülz, Berrenrather Str. 221",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/aperol-flohmarkt-montag-49/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "YEAH - Das Deli Sülz weiß, wie man eine neue Woche gebührend startet - und zwar mit Flohmarkt und Aperol Spritz. Diesen gibt’s für 5€."
-  },
-  {
-    "titel": "All Stars Schocken im Zappes - Turnier & Stammtisch",
-    "datum": "24. Aug 2026",
-    "datum_raw": "2026-08-24T18:30+0200",
-    "ort": "Zappes Zentrale, Roonstraße 71",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/all-stars-schocken-im-zappes-turnier-stammtisch-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Schocken im neuen Vereinsheim vom Zappes geht’s gesellig und locker zur Sache, egal ob du Profi oder Neuling bist. Ein kurzes Training wärmt dich auf, bevor das Turnier startet und dabei süße Preise winken Es gibt s"
-  },
-  {
-    "titel": "Dirty Dancing // Aperol Kinotag 🧡",
-    "datum": "24. Aug 2026",
-    "datum_raw": "2026-08-24T19:00+0200",
-    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/dirty-dancing-aperol-kinotag-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei „Dirty Dancing“ prallt Sommerromantik der 60er auf heiße Mambo-Schritte, während Baby lernt, nicht nur zu tanzen, sondern auch mutig zu sein. Die Geschichte von Liebe und Grenzen spielt sich mit einem Glas Aperol Spr"
-  },
-  {
-    "titel": "POLICA",
-    "datum": "24. Aug 2026",
-    "datum_raw": "2026-08-24T20:00+0200",
-    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
-    "preis": "ab 25 €",
-    "link": "https://rausgegangen.de/events/polica-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Poliça verbindet seit fast 15 Jahren auf einzigartige Weise Indie-Rock, Electronic und Goth-Pop, immer im Wechselspiel von Wärme und Distanz. Ihr neues Album „Dreams Go“ erzählt emotional von Verlust und Stärke und bilde"
-  },
-  {
-    "titel": "NICA live: Jorik Bergman - Simple Songs",
-    "datum": "24. Aug 2026",
-    "datum_raw": "2026-08-24T20:00+0200",
-    "ort": "GREEN ROOM, Venloer Straße 40",
-    "preis": "ab 8 €",
-    "link": "https://rausgegangen.de/events/nica-live-jorik-bergman-simple-songs-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Jorik Bergman sucht mit ihrem Quartett die Ruhe in einfachen Liedern zwischen Jazzstandards, eigenen Stücken und freien Improvisationen. Die Komplexität weicht dabei einer gemeinschaftlichen Suche nach Klarheit und Gelas"
-  },
-  {
-    "titel": "Heute nicht wegen EFFZEH: Impro Stand-up Comedy - Ich hab da mal nichts vorbereitet",
-    "datum": "24. Aug 2026",
-    "datum_raw": "2026-08-24T20:00+0200",
-    "ort": "Joode Lade, Lindenstraße 62",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/impro-stand-up-comedy-ich-hab-da-mal-nichts-vorbereitet-51/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Vier Comedy-Profis aus Nightwash und Quatsch Comedy Club legen ihre Skripte ab und improvisieren live, was das Zeug hält. Kein Plan, keine Vorgaben – nur echtes Comedy-Feeling, bei dem alles passieren kann. So frisch has"
-  },
-  {
-    "titel": "🎨 Kreativen Stammtisch Köln: Get-Together der Kreativszene",
-    "datum": "24. Aug 2026",
-    "datum_raw": "2026-08-24T20:15+0200",
-    "ort": "Social Studio Köln, Friedrichstraße 63",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kreativen-stammtisch-koln-get-together-der-kreativszene-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wenn du gerade als Freelancer:in in Kunst, Design oder Medien unterwegs bist, findest du hier entspannte Gesellschaft zum echten Austausch und frische Ideen fürs eigene Projekt. Ohne Stress und Businessgeplänkel entsteht"
+    "teaser": "Beim Proudr LGBTIQ+ After Work triffst du auf eine bunte Mischung aus Queers und Allies, die im entspannten Rahmen abseits vom Business-Alltag echte Einblicke und neue Impulse teilen. Egal ob Berufseinsteiger:in oder erf"
   },
   {
     "titel": "Love Spells",
@@ -90,14 +20,24 @@
     "teaser": "Love Spells mixt Dream Pop mit einem Hauch Shoegaze und psychedelischem Flair, ohne dabei klassische Songstrukturen zu bedienen. Sir Taegen C’aion Harris schafft so Räume voller Intimität und Nostalgie, die live ganz nah"
   },
   {
-    "titel": "CGNYC w/ Grey McMurray",
+    "titel": "Ruth-Maria Thomas: Lesung & Gespräch \"Die zweitgrößte Liebe\"",
     "datum": "25. Aug 2026",
-    "datum_raw": "2026-08-25T20:00+0200",
-    "ort": "GREEN ROOM, Venloer Straße 40",
-    "preis": "ab 8 €",
-    "link": "https://rausgegangen.de/events/cgnyc-w-grey-mcmurray-0/",
+    "datum_raw": "2026-08-25T19:30+0200",
+    "ort": "Orangerie-Theater, Volksgartenstraße 25",
+    "preis": "ab 22 €",
+    "link": "https://rausgegangen.de/events/ruth-maria-thomas-lesung-gesprach-die-zweitgrote-liebe-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "In der Reihe \"CGNYC - Cologne meets New York City\" lädt Florian Herzog New Yorker Musiker*innen ein, um in einem ersten Zusammentreffen mit Kölner*innen spannende Konzerte zu gestalten.Grey McMurray ist Gitarrist, Sän"
+    "teaser": "Ruth-Maria Thomas erzählt in ihrem zweiten Roman von Aufbruch und Gegensätzen zwischen Ost und West, Freiheit und Verantwortung. Mit ganz eigener Leichtigkeit bringt sie das Lebensgefühl einer Generation auf die Bühne. H"
+  },
+  {
+    "titel": "Demokratie Dienstage",
+    "datum": "25. Aug 2026",
+    "datum_raw": "2026-08-25T19:30+0200",
+    "ort": "Theater in der Filmdose, Zülpicher Straße 39",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/demokratie-dienstage-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei den Demokratie Dienstagen kommst du ins Gespräch über direkte Mitbestimmung, Bürgerbegehren und wie Demokratie im Alltag wirklich funktioniert. Mit Grüßen von Mehr Demokratie e.V. gibt’s lockere Talks, Quiz und ganz "
   },
   {
     "titel": "HUDSON FREEMAN",
@@ -108,6 +48,16 @@
     "link": "https://rausgegangen.de/events/hudson-freeman-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Hudson Freeman verbindet Lo-Fi-Folk mit Bedroom Pop, Post-Emo und Slowcore zu einem Sound, der nah und ehrlich wirkt. Seine Songs drehen sich um moderne Identität und digitale Schattenseiten – perfekt für alle, die auf g"
+  },
+  {
+    "titel": "CGNYC w/ Grey McMurray",
+    "datum": "25. Aug 2026",
+    "datum_raw": "2026-08-25T20:00+0200",
+    "ort": "GREEN ROOM, Venloer Straße 40",
+    "preis": "ab 8 €",
+    "link": "https://rausgegangen.de/events/cgnyc-w-grey-mcmurray-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "In der Reihe \"CGNYC - Cologne meets New York City\" lädt Florian Herzog New Yorker Musiker*innen ein, um in einem ersten Zusammentreffen mit Kölner*innen spannende Konzerte zu gestalten.Grey McMurray ist Gitarrist, Sän"
   },
   {
     "titel": "Jazzorama Sommergarten - STUDENT NIGHT: Tribute to Root70! + Jamsession",
@@ -148,6 +98,16 @@
     "link": "https://rausgegangen.de/events/kishi-bashi-5/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Kishi Bashi bringt im Sommer 2026 seine gefeierte Sonderlust Solo Tour nach Deutschland. Im Zentrum steht das 10-jährige Jubiläum seines Albums Sonderlust, das er in intimer Solo-Form vollständig live präsentiert. Di"
+  },
+  {
+    "titel": "Open-Air Kino: SMOKE SAUNA SISTERHOOD",
+    "datum": "25. Aug 2026",
+    "datum_raw": "2026-08-25T21:00+0200",
+    "ort": "Gotland, Vorgebirgstraße 20",
+    "preis": "ab 9 €",
+    "link": "https://rausgegangen.de/events/smoke-sauna-sisterhood-ffcgn-kino-sommer-2026/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "In SMOKE SAUNA SISTERHOOD erzählt Anna Hints von einer tief verwurzelten Saunakultur in Estland, die mehr als nur Tradition ist. Die Kamera fängt intime Momente im Dampf und Eis ein, die ein starkes Gefühl von Gemeinscha"
   },
   {
     "titel": "LOVE SPELLS",
@@ -320,6 +280,16 @@
     "teaser": "Do.,27.08.26Einlass 20 Uhr  Beginn 21 UhrBlue Shell Live:  SVENJA GALAXYRock Pop Svenja Galaxy ist mehr als nur eine Musikerin, sie ist eine Geschichtenerzählerin. Ihre Musik spiegelt das wahre Leben wieder und entführ"
   },
   {
+    "titel": "MHO-Adventurers' Feast",
+    "datum": "28. Aug 2026",
+    "datum_raw": "2026-08-28T11:30+0200",
+    "ort": "Haxenhaus Restaurant, Frankenwerft 19",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/mho-adventurers-feast-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "​IMPORTANT NOTICE​Free admission (Advance reservation required)​Food & drinks are available for purchase. (View menu)​Only phone-verified Luma accounts are eligible to register.​One reservation per participant.  ​About t"
+  },
+  {
     "titel": "Cozy Wohnzimmerkonzert bei Zippivintage",
     "datum": "28. Aug 2026",
     "datum_raw": "2026-08-28T18:00+0200",
@@ -398,5 +368,35 @@
     "link": "https://rausgegangen.de/events/cousines-like-shit-wien-indie-avant-trash-in-den-hangenden-g-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "annibale-booking, indie.cologne.events & die hängenden gärten von ehrenfeld präsentieren:was:☆ COUSINES LIKE SHIT ☆ (Indie-AVANT TRASH) aus Wien, kommen auf ihrer Concrete-Tour auch in Köln vorbei und spielen eine ex"
+  },
+  {
+    "titel": "Cozy Café Concert",
+    "datum": "28. Aug 2026",
+    "datum_raw": "2026-08-28T20:00+0200",
+    "ort": "Café KOR, Zülpicher Str. 233, 50937",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/cozy-cafe-concert-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Cozy Concerts sind eine Geheimkonzertreihe in gemütlicher Atmosphäre* – in Wohnzimmern, Buchläden, Ateliers, Gärten und anderen besonderen Orten. Intim, authentisch, entspannend. 80–90 % der Musiker*innen bei den"
+  },
+  {
+    "titel": "eRDe live im Block 7",
+    "datum": "28. Aug 2026",
+    "datum_raw": "2026-08-28T20:00+0200",
+    "ort": "Block 7, Barbarastraße 3-9",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/erde-live-im-block-7-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Freie Improvisation trifft Repetition, Elektronik auf Naturklänge. Geräusche  werden reflektiert, seziert, geschichtet und am Ende langsam zermahlen.  Klangflächen legen sich übereinander, ein Organismus entsteht, wi"
+  },
+  {
+    "titel": "Lindenthaler Sommerfest",
+    "datum": "29. Aug 2026",
+    "datum_raw": "2026-08-29T11:00+0200",
+    "ort": "Lindenthal, Karl-Schwering-Platz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/lindenthaler-sommerfest-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das Lindenthaler Sommerfest bringt die Nachbarschaft mit leckerem Essen, kühlen Getränken und vielen lokalen Ständen zusammen. Hier kannst du in entspannter Atmosphäre shoppen, quatschen und das Veedel genießen. Zwei Tag"
   }
 ]
