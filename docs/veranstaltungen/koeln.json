@@ -64,7 +64,7 @@
     "datum": "24. Aug 2026",
     "datum_raw": "2026-08-24T20:00+0200",
     "ort": "Joode Lade, Lindenstraße 62",
-    "preis": "ab 11 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/impro-stand-up-comedy-ich-hab-da-mal-nichts-vorbereitet-51/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Vier Comedy-Profis aus Nightwash und Quatsch Comedy Club legen ihre Skripte ab und improvisieren live, was das Zeug hält. Kein Plan, keine Vorgaben – nur echtes Comedy-Feeling, bei dem alles passieren kann. So frisch has"
@@ -178,6 +178,16 @@
     "link": "https://rausgegangen.de/events/gamescom-2026-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Auf der gamescom 2026 triffst du auf alles, was Gaming ausmacht: Von frischen Blockbustern bis zu Indie-Perlen, mit Cosplay, E-Sport und jeder Menge Aktionen. Ob digital oder analog, hier kommen alle Spieltypen auf ihre "
+  },
+  {
+    "titel": "Parkplatztickets | Manu Chao | Ultra Acustico Open Air",
+    "datum": "26. Aug 2026",
+    "datum_raw": "2026-08-26T16:30+0200",
+    "ort": "Südbrücke, Alfred-Schütte-Allee 34",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/parkplatztickets-manu-chao-ultra-acustico-open-air-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Gültig für ein Fahrzeug. Der Parkplatz öffnet am Veranstaltungstag (26.08.) ab 16:30 Uhr.Der benachbarte Betrieb „Alfred Schütte“ stellt uns seine bereits vorhandenen Mitarbeiterparkplätze für unsere Veranstaltunge"
   },
   {
     "titel": "Manu Chao | Ultra Acustico Open Air",
@@ -388,15 +398,5 @@
     "link": "https://rausgegangen.de/events/cousines-like-shit-wien-indie-avant-trash-in-den-hangenden-g-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "annibale-booking, indie.cologne.events & die hängenden gärten von ehrenfeld präsentieren:was:☆ COUSINES LIKE SHIT ☆ (Indie-AVANT TRASH) aus Wien, kommen auf ihrer Concrete-Tour auch in Köln vorbei und spielen eine ex"
-  },
-  {
-    "titel": "Cozy Café Concert",
-    "datum": "28. Aug 2026",
-    "datum_raw": "2026-08-28T20:00+0200",
-    "ort": "Café KOR, Zülpicher Str. 233, 50937",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/cozy-cafe-concert-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die Cozy Concerts sind eine Geheimkonzertreihe in gemütlicher Atmosphäre* – in Wohnzimmern, Buchläden, Ateliers, Gärten und anderen besonderen Orten. Intim, authentisch, entspannend. 80–90 % der Musiker*innen bei den"
   }
 ]
