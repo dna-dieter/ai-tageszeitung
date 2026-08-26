@@ -1,143 +1,33 @@
 [
   {
-    "titel": "Michael Cera Palin",
-    "datum": "26. Aug 2026",
-    "datum_raw": "2026-08-26T00:00+0200",
-    "ort": "Garagen, Oskar-Jäger-Straße 179",
-    "preis": "ab 22 €",
-    "link": "https://rausgegangen.de/events/michael-cera-palin-1/",
+    "titel": "WEIRD DAYS",
+    "datum": "27. Aug 2026",
+    "datum_raw": "2026-08-27T00:00+0200",
+    "ort": "Dachlow, Neusser Straße 731",
+    "preis": "ab 5 €",
+    "link": "https://rausgegangen.de/events/weird-days-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Michael Cera Palin – exklusive Shows in DE und CHMichael Cera Palin sind ein emotionales Indie-Punk-Trio aus Atlanta, Georgia. Die Band ist bekannt für bewusst verletzliche Texte, einen kathartisch eingängigen Sound un"
-  },
-  {
-    "titel": "CITY BINGO Entdeckungstour | Köln Südstadt",
-    "datum": "26. Aug 2026",
-    "datum_raw": "2026-08-26T06:00+0200",
-    "ort": "Chlodwigplatz, Chlodwigplatz",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/city-bingo-sudstadt-by-rausgegangen-30/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim CITY BINGO erkundest du die Kölner Südstadt auf spielerische Weise mit 16 spannenden Aufgaben, die dich zu echten Insider-Spots führen. Dabei lernst du Lokalkultur und Kurioses kennen, ohne lange planen zu müssen. P"
+    "teaser": "🌈 WEIRD DAYS KÖLN – 27.–30. AUGUST 2026Vier Tage Drag, DIY, Poetry, Kunst, Games, Shows, Begegnungen und kontrolliertes Chaos.Die WEIRD DAYS sind für alle, die Lust auf Kultur jenseits des üblichen Mainstreams haben.D"
   },
   {
     "titel": "gamescom 2026",
-    "datum": "26. Aug 2026",
-    "datum_raw": "2026-08-26T13:00+0200",
+    "datum": "27. Aug 2026",
+    "datum_raw": "2026-08-27T10:00+0200",
     "ort": "Koelnmesse, Messepl. 1",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/gamescom-2026-0/",
+    "link": "https://rausgegangen.de/events/gamescom-2026-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Auf der gamescom 2026 triffst du auf alles, was Gaming ausmacht: Von frischen Blockbustern bis zu Indie-Perlen, mit Cosplay, E-Sport und jeder Menge Aktionen. Ob digital oder analog, hier kommen alle Spieltypen auf ihre "
   },
   {
-    "titel": "Parkplatztickets | Manu Chao | Ultra Acustico Open Air",
-    "datum": "26. Aug 2026",
-    "datum_raw": "2026-08-26T16:30+0200",
-    "ort": "Südbrücke, Alfred-Schütte-Allee 34",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/parkplatztickets-manu-chao-ultra-acustico-open-air-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Gültig für ein Fahrzeug. Der Parkplatz öffnet am Veranstaltungstag (26.08.) ab 16:30 Uhr.Der benachbarte Betrieb „Alfred Schütte“ stellt uns seine bereits vorhandenen Mitarbeiterparkplätze für unsere Veranstaltunge"
-  },
-  {
-    "titel": "Feierabend Cleanup",
-    "datum": "26. Aug 2026",
-    "datum_raw": "2026-08-26T17:00+0200",
-    "ort": "Deutzer Rheinufer, Herbert-Liebertz-Weg",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/feierabend-cleanup-29/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Mach Schluss mit Alltagsstress und Plastikmüll – beim Feierabend-Cleanup am Rheinpark trifft Umweltschutz auf gute Laune. Gemeinsam sammeln wir Müll, schnacken eine Runde und genießen den Blick aufs Wasser. Handschuhe un"
-  },
-  {
-    "titel": "Manu Chao | Ultra Acustico Open Air",
-    "datum": "26. Aug 2026",
-    "datum_raw": "2026-08-26T17:00+0200",
-    "ort": "Südbrücke, Alfred-Schütte-Allee 34",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/manu-chao-ultra-acustico-open-air-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": ""
-  },
-  {
-    "titel": "Spritzwoch - Der Aperitif Walk im Kwartier",
-    "datum": "26. Aug 2026",
-    "datum_raw": "2026-08-26T18:00+0200",
-    "ort": "Kwatier Latäng, Zülpicher Straße 10",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/spritzwoch-der-aperitif-walk-im-kwartier-54/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Der Spritzwoch lädt dich ab Mitte April jeden Mittwoch zum entspannten Aperitif-Spaziergang durchs Kwartier Latäng ein. Unterschiedliche Lokale überraschen dich mit kreativen Spritz-Variationen und kleinen Snacks, die Lu"
-  },
-  {
-    "titel": "MEETwoch",
-    "datum": "26. Aug 2026",
-    "datum_raw": "2026-08-26T18:30+0200",
-    "ort": "Social Studio Köln, Friedrichstraße 63",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/meetwoch-6/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wenn du Lust auf ehrliche Gespräche ohne Stress und Konkurrenz hast, bist du beim MEETwoch genau richtig. In einer entspannten und reizarmen Atmosphäre lernst du Menschen aus deinem Veedel kennen, die auf Augenhöhe conne"
-  },
-  {
-    "titel": "Impact in Concert",
-    "datum": "26. Aug 2026",
-    "datum_raw": "2026-08-26T18:30+0200",
-    "ort": "Impact Café, Luxemburger Str. 190",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/impact-in-concert-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Ein Konzertabend im Café? Sounds like a dream! Genießt die Musik mit nem 5€ Aperölchen in der Hand🍹✨"
-  },
-  {
-    "titel": "Losdemokratie Open Space",
-    "datum": "26. Aug 2026",
-    "datum_raw": "2026-08-26T19:00+0200",
-    "ort": "OYA MÜLLEM, Buchheimer Straße 17",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/losdemokratie-open-space-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Im Losdemokratie Open Space triffst du Menschen, die sich für eine demokratische Beteiligung auf Augenhöhe starkmachen. Hier kannst du dich entspannt über neue Ideen austauschen oder einfach zuhören und ins Gespräch komm"
-  },
-  {
-    "titel": "KINO OPEN AIR / Der Rausch",
-    "datum": "26. Aug 2026",
-    "datum_raw": "2026-08-26T20:00+0200",
-    "ort": "Odonien, Hornstraße 85",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kino-open-air-der-rausch-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Vier Lehrer testen, wie das Leben mit ständig 0,5 Promille anders läuft – zwischen Aufbruch und zunehmendem Chaos. „Der Rausch“ verbindet Drama und Tragikkomik und lädt dich zu einer besonderen Sommernacht mit dänischem "
-  },
-  {
-    "titel": "Günter Schlienz + Buck Moon",
-    "datum": "26. Aug 2026",
-    "datum_raw": "2026-08-26T20:00+0200",
-    "ort": "Asimmetric Bar, Venloer Straße 196",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/gunter-schlienz-buck-moon-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Günter Schlienz verbindet minimalistische elektronische Klänge mit selbstgebauten modularen Synthesizern zu skulpturalen Klangwelten zwischen Melancholie und Natur. Buck Moon entführt dich mit ihren ätherischen Drone-So"
-  },
-  {
-    "titel": "BUT I'M A CHEERLEADER - OPEN AIR KINO im Kulturhof Kalk",
-    "datum": "26. Aug 2026",
-    "datum_raw": "2026-08-26T21:15+0200",
-    "ort": "kulturhof kalk, Dillenburger Straße 65",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/but-im-a-cheerleader-open-air-kino-im-kulturhof-kalk-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "„But I’m a Cheerleader“ bringt queer-feministische Themen mit einem Augenzwinkern auf die Leinwand. Das Open Air Kino zeigt den Kultfilm im Original mit Untertiteln – eine charmante Einladung, den Abend bei Sonnenunterga"
-  },
-  {
-    "titel": "FUTURE OF BATTLERAP WÄHREND DER GAMESCOM",
+    "titel": "Workout Cologne - Afterworkparty @ Playa in Cologne (Summer Open Air)",
     "datum": "27. Aug 2026",
-    "datum_raw": "2026-08-27T18:00+0200",
-    "ort": "Xperion Köln, Hohe Straße 46-50",
+    "datum_raw": "2026-08-27T17:00+0200",
+    "ort": "Playa in Cologne, Junkersdorfer Straße 1",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/future-of-battlerap-wahrend-der-gamescom-0/",
+    "link": "https://rausgegangen.de/events/workout-cologne-afterworkparty-playa-in-cologne-summer-open--1/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Die Xperion öffnet neu in Köln und was darf da nicht fehlen? Genau, hochqualitative Rap Battles zum günstigen Preis! Freut euch auf 8 starke On Beat Matches, fulminante Freestyle-Battles und jede Menge beste Unterhalt"
+    "teaser": "Bei WORKOUT COLOGNE kannst du nach der Arbeit mit DJ Cotone und Freunden entspannen und tanzen. Von House bis Hip Hop gibt es einen bunten Mix, perfekt für den Sommerabend am Rhein. Sneakers oder Flip Flops, Hauptsache d"
   },
   {
     "titel": "Mitsingkonzert",
@@ -148,6 +38,16 @@
     "link": "https://rausgegangen.de/events/mitsingkonzert-67/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Katharina Hüsch lädt dich zu einem entspannten Mitsingabend ein, bei dem Songs von Wir sind Helden bis Miley Cyrus auf dem Programm stehen. Ob du laut mitsingst oder leise summst, hier bist du richtig und alle Stimmen we"
+  },
+  {
+    "titel": "FUTURE OF BATTLERAP WÄHREND DER GAMESCOM",
+    "datum": "27. Aug 2026",
+    "datum_raw": "2026-08-27T18:00+0200",
+    "ort": "Xperion Köln, Hohe Straße 46-50",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/future-of-battlerap-wahrend-der-gamescom-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Xperion öffnet neu in Köln und was darf da nicht fehlen? Genau, hochqualitative Rap Battles zum günstigen Preis! Freut euch auf 8 starke On Beat Matches, fulminante Freestyle-Battles und jede Menge beste Unterhalt"
   },
   {
     "titel": "Mitsing-Konzert am Ebertplatz",
@@ -180,6 +80,26 @@
     "teaser": "Der Sommer geht in die Verlängerung, wir auch. Aber wo die Temperaturen langsam ein bisschen runtergehen, lassen wir es noch mal so richtig heiß werden.  🎶 Werter @werter_music 🎵 Laoura @laouralaouralaoura 🎶 Basti Smolk"
   },
   {
+    "titel": "Spiderman – Brand New Day",
+    "datum": "27. Aug 2026",
+    "datum_raw": "2026-08-27T19:00+0200",
+    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/spiderman-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Nach einem einschneidenden Deal verliert Spider-Man seine Superhelden-Hilfen und kämpft jetzt allein gegen Bedrohungen, die größer sind als seine Nachbarschaft. Tom Holland zeigt Peter Parker erneut als sympathischen Typ"
+  },
+  {
+    "titel": "GALLERY CRUSH | MUSEUM FÜR OSTASIATISCHE KUNST KÖLN",
+    "datum": "27. Aug 2026",
+    "datum_raw": "2026-08-27T19:00+0200",
+    "ort": "Museum für Ostasiatische Kunst, Universitätsstraße 100",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/gallery-crush-museum-fur-ostasiatische-kunst-koln-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei GALLERY CRUSH lernst du in kurzen Gesprächen vor Kunstwerken Menschen kennen, ohne die üblichen Smalltalkfragen. Ob Freundschaft, Inspiration oder mehr – hier geht’s um echte Verbindungen ganz ohne Smartphone und mit"
+  },
+  {
     "titel": "Mitsingkonzert im Brauhaus FRÜH am Dom",
     "datum": "27. Aug 2026",
     "datum_raw": "2026-08-27T19:00+0200",
@@ -198,6 +118,16 @@
     "link": "https://rausgegangen.de/events/offene-buhne-im-cafe-fridolin-26/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Komm vorbei und läute das Osterwochenende auf der offenen Bühne in gemütlicher Atmosphäre ein! 🎤 Ein perfekter Abend für alle, die Kultur in einer offenen und respektvollen Umgebung erleben möchten."
+  },
+  {
+    "titel": "Schnick Schnack Schluck - WM 2026",
+    "datum": "27. Aug 2026",
+    "datum_raw": "2026-08-27T19:30+0200",
+    "ort": "Stiefel, Zülpicher Straße 18",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/schnick-schnack-schluck-wm-2026-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Seit über zehn Jahren macht Schnick Schnack Schluck Kneipen zu Wettkampfarena für Schere, Stein, Papier Fans aus ganz Köln. Schau zu, wie beim Weltcup der Einsatz von Muccarones über 32 Startplätze entscheidet und der Si"
   },
   {
     "titel": "JiggyTones: Gaming Music Live (feat. David Wise)",
@@ -228,6 +158,16 @@
     "link": "https://rausgegangen.de/events/svenja-galaxy-carina-brinkhaus-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Do.,27.08.26Einlass 20 Uhr  Beginn 21 UhrBlue Shell Live:  SVENJA GALAXYRock Pop Svenja Galaxy ist mehr als nur eine Musikerin, sie ist eine Geschichtenerzählerin. Ihre Musik spiegelt das wahre Leben wieder und entführ"
+  },
+  {
+    "titel": "MHO-Adventurers' Feast",
+    "datum": "28. Aug 2026",
+    "datum_raw": "2026-08-28T11:30+0200",
+    "ort": "Haxenhaus Restaurant, Frankenwerft 19",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/mho-adventurers-feast-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "​IMPORTANT NOTICE​Free admission (Advance reservation required)​Food & drinks are available for purchase. (View menu)​Only phone-verified Luma accounts are eligible to register.​One reservation per participant.  ​About t"
   },
   {
     "titel": "Singen - Joy of Singing - einfach singen in Köln-Sülz - Chor auf Zeit",
@@ -398,5 +338,65 @@
     "link": "https://rausgegangen.de/events/sing-it-out-maxis-karaoke-nacht-12/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Hier gibt’s keinen Jury-Stress und keine falschen Töne, sondern einfach 53.000 Songs zum Austoben – von 90s Trash bis RnB. Maxi macht seit Jahren Karaoke-Abende zur Party, bei denen du zum Held:in oder Meme wirst. Zwisch"
+  },
+  {
+    "titel": "Lindenthaler Sommerfest",
+    "datum": "29. Aug 2026",
+    "datum_raw": "2026-08-29T11:00+0200",
+    "ort": "Lindenthal, Karl-Schwering-Platz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/lindenthaler-sommerfest-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das Lindenthaler Sommerfest bringt die Nachbarschaft mit leckerem Essen, kühlen Getränken und vielen lokalen Ständen zusammen. Hier kannst du in entspannter Atmosphäre shoppen, quatschen und das Veedel genießen. Zwei Tag"
+  },
+  {
+    "titel": "BIG BAG OF BEATS Open Air",
+    "datum": "29. Aug 2026",
+    "datum_raw": "2026-08-29T14:00+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "ab 20 €",
+    "link": "https://rausgegangen.de/events/big-bag-of-beats-open-air-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim Big Bag Of Beats II treffen Newcomer und alte Hasen aus Hip-Hop und Beatkultur aufeinander und sorgen acht Stunden lang für ordentlich Flow. Von Köln bis London zeigen MCs und Beatmaker*innen, was die Szene aktuell "
+  },
+  {
+    "titel": "🌸 GAURADESH – KIRTAN RASA 🌸",
+    "datum": "29. Aug 2026",
+    "datum_raw": "2026-08-29T14:00+0200",
+    "ort": "Gauradesh Tempel, Taunusstraße 42",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/gauradesh-kirtan-rasa-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "🌸 GAURADESH – KIRTAN RASA 🌸 ✨ Lust auf einen Tag voller Musik, Freude und echter Gemeinschaft? ✨ Am 29.08.26 laden wir dich herzlich zu Kirtan Rasa in Köln ein. 🙏Von 14:00 bis 20:00 Uhr wollen wir gemeinsam singen, tanz"
+  },
+  {
+    "titel": "ARTE-Mitsing-Karaoke beim gamescom city festival",
+    "datum": "29. Aug 2026",
+    "datum_raw": "2026-08-29T16:45+0200",
+    "ort": "Hauptbühne am Hohenzollernring, Hohenzollernring 76-78",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/arte-mitsing-karaoke-beim-gamescom-city-festival-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "ARTE\u001c-MITSING-\u001cKARAOKEAuch in diesem Jahr ist das ARTE-Mitsing-Karaoke, präsentiert von Bianca Hauda, wieder in Köln zu Gast. Neu dabei: die ARTE Live-Band. Kommt auf die Bühne und singt begleitet von der ARTE-Band al"
+  },
+  {
+    "titel": "gamescom city festival - Samstag 29.08.2026",
+    "datum": "29. Aug 2026",
+    "datum_raw": "2026-08-29T16:45+0200",
+    "ort": "Kölner Innenstadt, Rudolfplatz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/gamescom-city-festival-samstag-29082026-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das gamescom city festival bringt seit 16 Jahren vielfältige Sounds und bunte Begegnungen in Kölns Innenstadt auf die Bühne. Mit Thees Uhlmann, The Notwist und Special Guests wie Team Rhythmusgymnastik erwartet dich ein "
+  },
+  {
+    "titel": "DJ Damned Dan (Getaddicted/MMRS) beim gamescom city festival",
+    "datum": "29. Aug 2026",
+    "datum_raw": "2026-08-29T17:00+0200",
+    "ort": "Bühne am Rudolfplatz, Rudolfplatz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/dj-damned-dan-getaddictedmmrs-beim-gamescom-city-festival-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "DJ DAMNED DAN \u001b(GETADDICTED/MMRS\u001a) Daniel Rade, vielen besser bekannt als Damned Dan, legt seit vielen Jahren in Clubs, auf Festivals und bei Konzerten auf. Mit der Partyreihe getaddicted hat er die Kölner Alternative-,"
   }
 ]
