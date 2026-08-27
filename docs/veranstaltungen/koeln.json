@@ -34,7 +34,7 @@
     "datum": "27. Aug 2026",
     "datum_raw": "2026-08-27T18:00+0200",
     "ort": "Ebertplatz, Ebertplatz",
-    "preis": "kostenlos",
+    "preis": "ab 0 €",
     "link": "https://rausgegangen.de/events/mitsingkonzert-67/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Katharina Hüsch lädt dich zu einem entspannten Mitsingabend ein, bei dem Songs von Wir sind Helden bis Miley Cyrus auf dem Programm stehen. Ob du laut mitsingst oder leise summst, hier bist du richtig und alle Stimmen we"
@@ -370,6 +370,16 @@
     "teaser": "🌸 GAURADESH – KIRTAN RASA 🌸 ✨ Lust auf einen Tag voller Musik, Freude und echter Gemeinschaft? ✨ Am 29.08.26 laden wir dich herzlich zu Kirtan Rasa in Köln ein. 🙏Von 14:00 bis 20:00 Uhr wollen wir gemeinsam singen, tanz"
   },
   {
+    "titel": "Kostenloses Konzert: T'N'T im Sommergarten Bickendorf",
+    "datum": "29. Aug 2026",
+    "datum_raw": "2026-08-29T14:00+0200",
+    "ort": "Quartier B, Venloer Straße 769",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/sommergarten-bickendorf-kostenloses-konzert-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Titia Handoko (Gesang) und Til Schneider (Gitarre & Gesang) sind längst feste Größen der Kölner Musikszene. Am Samstag, den 29.08. um 17:00 Uhr, verzaubern die beiden den Sommergarten in Bickendorf mit ihrem aktuellen"
+  },
+  {
     "titel": "ARTE-Mitsing-Karaoke beim gamescom city festival",
     "datum": "29. Aug 2026",
     "datum_raw": "2026-08-29T16:45+0200",
@@ -388,15 +398,5 @@
     "link": "https://rausgegangen.de/events/gamescom-city-festival-samstag-29082026-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Das gamescom city festival bringt seit 16 Jahren vielfältige Sounds und bunte Begegnungen in Kölns Innenstadt auf die Bühne. Mit Thees Uhlmann, The Notwist und Special Guests wie Team Rhythmusgymnastik erwartet dich ein "
-  },
-  {
-    "titel": "DJ Damned Dan (Getaddicted/MMRS) beim gamescom city festival",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T17:00+0200",
-    "ort": "Bühne am Rudolfplatz, Rudolfplatz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/dj-damned-dan-getaddictedmmrs-beim-gamescom-city-festival-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "DJ DAMNED DAN \u001b(GETADDICTED/MMRS\u001a) Daniel Rade, vielen besser bekannt als Damned Dan, legt seit vielen Jahren in Clubs, auf Festivals und bei Konzerten auf. Mit der Partyreihe getaddicted hat er die Kölner Alternative-,"
   }
 ]
