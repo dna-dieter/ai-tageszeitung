@@ -24,7 +24,7 @@
     "datum": "27. Aug 2026",
     "datum_raw": "2026-08-27T17:00+0200",
     "ort": "Playa in Cologne, Junkersdorfer Straße 1",
-    "preis": "kostenlos",
+    "preis": "ab 4 €",
     "link": "https://rausgegangen.de/events/workout-cologne-afterworkparty-playa-in-cologne-summer-open--1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Bei WORKOUT COLOGNE kannst du nach der Arbeit mit DJ Cotone und Freunden entspannen und tanzen. Von House bis Hip Hop gibt es einen bunten Mix, perfekt für den Sommerabend am Rhein. Sneakers oder Flip Flops, Hauptsache d"
@@ -154,7 +154,7 @@
     "datum": "27. Aug 2026",
     "datum_raw": "2026-08-27T20:00+0200",
     "ort": "Blue Shell, Luxemburger Straße 32",
-    "preis": "ab 11 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/svenja-galaxy-carina-brinkhaus-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Do.,27.08.26Einlass 20 Uhr  Beginn 21 UhrBlue Shell Live:  SVENJA GALAXYRock Pop Svenja Galaxy ist mehr als nur eine Musikerin, sie ist eine Geschichtenerzählerin. Ihre Musik spiegelt das wahre Leben wieder und entführ"
@@ -178,6 +178,16 @@
     "link": "https://rausgegangen.de/events/singen-joy-of-singing-einfach-singen-in-koln-sulz-chor-auf-z-11/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Herzliche Einladung zu „Joy of Singing“ – gemeinsames Singen von Liedern, die verbinden und gut tun.Wir singen Lieder, die leicht zu lernen sind und ohne Noten oder Textblätter auskommen. Durch das wiederholte Singen en"
+  },
+  {
+    "titel": "Planschemalöör beim FC-Heimspiel der Frauen",
+    "datum": "28. Aug 2026",
+    "datum_raw": "2026-08-28T17:30+0200",
+    "ort": "Franz-Kremer-Stadion",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/planschemaloor-beim-fc-heimspiel-der-frauen-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Erstes Heimspiel für die FC-Frauen – und ein besonderer Act in der Halbzeitpause. Am Freitagabend, 28. August 2026, 18.30 Uhr, empfangen die FC-Frauen die TSG Hoffenheim zum ersten Saison-Heimspiel im Franz-Kremer-Stadi"
   },
   {
     "titel": "Cozy Wohnzimmerkonzert bei Zippivintage",
@@ -388,15 +398,5 @@
     "link": "https://rausgegangen.de/events/arte-mitsing-karaoke-beim-gamescom-city-festival-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "ARTE\u001c-MITSING-\u001cKARAOKEAuch in diesem Jahr ist das ARTE-Mitsing-Karaoke, präsentiert von Bianca Hauda, wieder in Köln zu Gast. Neu dabei: die ARTE Live-Band. Kommt auf die Bühne und singt begleitet von der ARTE-Band al"
-  },
-  {
-    "titel": "gamescom city festival - Samstag 29.08.2026",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T16:45+0200",
-    "ort": "Kölner Innenstadt, Rudolfplatz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/gamescom-city-festival-samstag-29082026-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Das gamescom city festival bringt seit 16 Jahren vielfältige Sounds und bunte Begegnungen in Kölns Innenstadt auf die Bühne. Mit Thees Uhlmann, The Notwist und Special Guests wie Team Rhythmusgymnastik erwartet dich ein "
   }
 ]
