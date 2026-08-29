@@ -30,16 +30,6 @@
     "teaser": "Das Lindenthaler Sommerfest bringt die Nachbarschaft mit leckerem Essen, kühlen Getränken und vielen lokalen Ständen zusammen. Hier kannst du in entspannter Atmosphäre shoppen, quatschen und das Veedel genießen. Zwei Tag"
   },
   {
-    "titel": "gamescom city festival",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T12:00+0200",
-    "ort": "Innenstadt Köln, Neumarkt 1",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/gamescom-city-festival-18/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Das gamescom city festival bringt unterschiedliche Musikstile und engagierte Diskussionen zusammen, lässt dich bei DJ-Sessions feiern und regt gleichzeitig zum Nachdenken an. Hier gibt es echtes Miteinander statt nur Par"
-  },
-  {
     "titel": "Gettin' Fizzy - Open Air",
     "datum": "29. Aug 2026",
     "datum_raw": "2026-08-29T14:00+0200",
@@ -100,16 +90,6 @@
     "teaser": "Wir bringen gemeinsam mit Mouth Propaganda ein Eis raus und du bekommst es geschenkt. Hol dir das lila Eis gratis über die Rausgegangen-App und genieße drei Tage lang das süße Geschenk der Kölner Szene. 🍦"
   },
   {
-    "titel": "Korken & Klub Day Affair",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T16:00+0200",
-    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/korken-klub-day-affair-6/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Jeden Samstag mischen wechselnde DJs Latin House, House und versteckte Perlen im Open Air Bogen des CBE. Dazu gibt’s entspannten Lunch, Drinks und Wein zum Teilen – perfekt, um entspannt in den Abend zu starten oder die "
-  },
-  {
     "titel": "Musical Chairs",
     "datum": "29. Aug 2026",
     "datum_raw": "2026-08-29T16:00+0200",
@@ -128,6 +108,16 @@
     "link": "https://rausgegangen.de/events/spokes-open-air-party-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Vor dem Sommerende bringt handundfuss die SPÖKES zurück in die Stadt und lädt auf eine ganz neue Dachterrasse ein. Freu dich auf eine Mischung aus House, Pop und RnB, die bis in die frühen Stunden für ausgelassene Stimmu"
+  },
+  {
+    "titel": "Korken & Klub Day Affair",
+    "datum": "29. Aug 2026",
+    "datum_raw": "2026-08-29T16:00+0200",
+    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/korken-klub-day-affair-6/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jeden Samstag mischen wechselnde DJs Latin House, House und versteckte Perlen im Open Air Bogen des CBE. Dazu gibt’s entspannten Lunch, Drinks und Wein zum Teilen – perfekt, um entspannt in den Abend zu starten oder die "
   },
   {
     "titel": "gamescom city festival - Samstag 29.08.2026",
@@ -378,6 +368,16 @@
     "link": "https://rausgegangen.de/events/brauhaus-beats-mit-josh-6/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Auch 2026 wird im Gaffel am Dom bis in den Sonntag hinein gefeiert! Die Party-Reihe Brauhaus Beats lädt zu außergewöhnlichen Mitsingabenden ein. Ab 22 Uhr sorgt Josh für Stimmung. Ein einzigartiges Acoustic Solo Loope"
+  },
+  {
+    "titel": "KÖLN | Old but Gold Ü30 Hip Hop Party Summer Special",
+    "datum": "29. Aug 2026",
+    "datum_raw": "2026-08-29T22:00+0200",
+    "ort": "Bootshaus Köln, Auenweg 173",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/koln-old-but-gold-u30-hip-hop-party-summer-special-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Am 29,08. feiern wir unser Old but Gold Ü30 Hip Hop Party Summer Special mit Ausweispflicht in Köln im Bootshaus auf zwei Floors + Oldschool RnB Open Air Floor mit einem übertrieben krassen Lineup! Seid nicht schücht"
   },
   {
     "titel": "LOVE THE GROOVE",
