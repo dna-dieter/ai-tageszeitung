@@ -290,16 +290,6 @@
     "teaser": "Höhner | Junge Sinfonie Köln | Sebastian Hässy"
   },
   {
-    "titel": "Salsa & Bachata Night: Musik, die euch tanzen lässt in Köln",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T20:00+0200",
-    "ort": "Hop Spot Tanzstudio, Venloer Straße 420",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/salsa-bachata-night-musik-die-euch-tanzen-lasst-in-koln-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Gute Musik ist das Herzstück jeder Salsa & Bachata Night: Latin-Rhythmen, die euch von der ersten Minute an in Bewegung bringen. Bei dieser Night lernt ihr in zwei Workshops die Grundlagen und tanzt anschließend zur Mus"
-  },
-  {
     "titel": "auxkollektiv im mäurer",
     "datum": "29. Aug 2026",
     "datum_raw": "2026-08-29T21:00+0200",
@@ -374,7 +364,7 @@
     "datum": "29. Aug 2026",
     "datum_raw": "2026-08-29T23:00+0200",
     "ort": "Helios37, Heliosstraße 37",
-    "preis": "ab 15 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/bratty-w-charli-xcx-other-brat-coded-artists-koln-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Hier trifft queer-poppige Energie auf Y2K-Style, wenn Bratty den Dancefloor mit Charli XCX und anderen Genre-Pionier:innen zum Glühen bringt. Eine Nacht, die jenseits vom Mainstream Raum für Ausgelassenheit und Vielfalt "
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/coffee-concert-cologne-11/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Acoustic Sundays bei LalibeeWillkommen zu einer neuen Konzertreihe in Köln-Zollstock! CCC - Coffee Concert Cologne bringt Live-Musik direkt ins Herz des gemütlichen Veedels. An ausgewählten Sonntagnachmittagen verwand"
+  },
+  {
+    "titel": "gamescom city festival – Sonntag 30.08.2026",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T16:30+0200",
+    "ort": "Kölner Innenstadt, Rudolfplatz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/gamescom-city-festival-sonntag-30082026-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das gamescom city festival bringt 2026 wieder eine bunte Mischung aus etablierten Musiker:innen und spannenden Newcomer:innen mitten in die City. Mit dabei sind The Notwist, Thees Uhlmann & Band sowie die ARTE Karaoke Ba"
   }
 ]
