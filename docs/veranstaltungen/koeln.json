@@ -1,383 +1,93 @@
 [
   {
-    "titel": "gamescom 2026",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T10:00+0200",
-    "ort": "Koelnmesse, Messepl. 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/gamescom-2026-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Auf der gamescom 2026 triffst du auf alles, was Gaming ausmacht: Von frischen Blockbustern bis zu Indie-Perlen, mit Cosplay, E-Sport und jeder Menge Aktionen. Ob digital oder analog, hier kommen alle Spieltypen auf ihre "
-  },
-  {
-    "titel": "WUT MUT Praxis: Rage kollektiv gestalten",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T11:00+0200",
-    "ort": "Bürgerzentrum Ehrenfeld, Venloer Str. 429",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/wut-mut-praxis-rage-kollektiv-gestalten-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "In der WUT MUT Praxis kannst du mit Ton, Farbe und Bewegung kollektive Wut sichtbar machen und gemeinsam Wege finden, dich selbst zu stärken. Der Workshop schafft Raum, um Erfahrungen zu teilen und in einem kreativen Gem"
-  },
-  {
-    "titel": "Lindenthaler Sommerfest",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T11:00+0200",
-    "ort": "Lindenthal, Karl-Schwering-Platz",
+    "titel": "Hallenmarkt",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T10:00+0200",
+    "ort": "Halle, Vondelstraße 4-8",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/lindenthaler-sommerfest-4/",
+    "link": "https://rausgegangen.de/events/hallenmarkt-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Das Lindenthaler Sommerfest bringt die Nachbarschaft mit leckerem Essen, kühlen Getränken und vielen lokalen Ständen zusammen. Hier kannst du in entspannter Atmosphäre shoppen, quatschen und das Veedel genießen. Zwei Tag"
+    "teaser": "Am Hallenmarkt kannst du märchenhafte Schätze entdecken und dich bei Drinks und Snacks eine Auszeit gönnen. Ob drinnen oder draußen – hier findest du handverlesene Fundstücke und kannst sogar selbst deine Lieblingsstücke"
   },
   {
-    "titel": "Gettin' Fizzy - Open Air",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T14:00+0200",
-    "ort": "Der schwarze Hase, Heliosstraße 35-39",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/gettin-fizzy-open-air-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Gettin' Fizzy bringt elektronische Klänge von Kölner Locals zusammen und sorgt mit House und Techno für entspannte Endsommer-Sounds auf einer großen Open-Air-Fläche. Freu dich auf abwechslungsreiche Sets bei kostenlosem "
-  },
-  {
-    "titel": "BIG BAG OF BEATS Open Air",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T14:00+0200",
-    "ort": "Odonien, Hornstraße 85",
+    "titel": "Flohmarkt, Tooth Gems und Mehr 🪩| Bass & Büdchen Festival",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T11:00+0200",
+    "ort": "YUCA, Bartholomäus-Schink-Straße 65",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/big-bag-of-beats-open-air-1/",
+    "link": "https://rausgegangen.de/events/flohmarkt-bass-budchen-festival-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Big Bag Of Beats II treffen Newcomer und alte Hasen aus Hip-Hop und Beatkultur aufeinander und sorgen acht Stunden lang für ordentlich Flow. Von Köln bis London zeigen MCs und Beatmaker*innen, was die Szene aktuell "
+    "teaser": "Beim Bass & Büdchen Flohmarkt findest du handverlesene Vintage-Schätze von echten Menschen, keine Neuware, und kannst selbst mitmachen, wenn du möchtest. Der Tag startet entspannt mit dezentem Sound und mündet im Outdoor"
   },
   {
-    "titel": "🌸 GAURADESH – KIRTAN RASA 🌸",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T14:00+0200",
-    "ort": "Gauradesh Tempel, Taunusstraße 42",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/gauradesh-kirtan-rasa-0/",
+    "titel": "| Bass & Büdchen Festival",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T11:00+0200",
+    "ort": "YUCA, Bartholomäus-Schink-Straße 65",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/kolschella-festival-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "🌸 GAURADESH – KIRTAN RASA 🌸 ✨ Lust auf einen Tag voller Musik, Freude und echter Gemeinschaft? ✨ Am 29.08.26 laden wir dich herzlich zu Kirtan Rasa in Köln ein. 🙏Von 14:00 bis 20:00 Uhr wollen wir gemeinsam singen, tanz"
+    "teaser": "Beim Bass & Büdchen Festival findest du handverlesene Flohmarkt-Schätze und eine bunte Mischung aus elektronischen Klängen und Live-Sounds der spannendsten Kölner Newcomer:innen. Das solidarische Prinzip und die FLINTA-Q"
+  },
+  {
+    "titel": "Tierheim Köln-Ostheim Sommerfest",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T11:00+0200",
+    "ort": "Tierheim Köln-Ostheim, Herkenrathweg 5",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/tierheim-koln-ostheim-sommerfest-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim Sommerfest im Tierheim Köln-Ostheim bekommst du einen Blick hinter die Kulissen, kannst mit deinen Vierbeinern den Hundefriseur testen oder dich von einer Tattoo-Künstlerin ein Erinnerungsstück stechen lassen. Ein b"
   },
   {
     "titel": "HafenSounds | Sommer Köln",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T14:00+0200",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T13:00+0200",
     "ort": "Schokoladenmuseum Vorplatz, Am Schokoladenmuseum 1A",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/hafensounds-sommer-koln-1/",
+    "link": "https://rausgegangen.de/events/hafensounds-sommer-koln-2/",
     "quelle": "Rausgegangen Köln",
     "teaser": "HafenSounds lädt dich zu einer musikalischen Reise rund um den Globus ein. Mit DJ J Jan Ü und einem bunten Mix aus globalen Klängen bis hin zu packenden Chorstimmen ist für jeden Musikfreund was dabei 😌"
   },
   {
+    "titel": "UNITE Vol. 3 - Tagesfestival im Odonien by Natural Bliss",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T13:30+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "ab 49 €",
+    "link": "https://rausgegangen.de/events/unite-vol-3-tagesfestival-im-odonien-by-natural-bliss-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei UNITE Vol. 3 verschmelzen Tanz, Klang und Gemeinschaft zu einem Festival ohne Substanzen, das Odonien in einen Raum voller Energie und Klarheit verwandelt. Hier triffst du auf Ecstatic Dance, Kakaozeremonien, Live-Mu"
+  },
+  {
     "titel": "Kostenloses Konzert: T'N'T im Sommergarten Bickendorf",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T14:00+0200",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T14:00+0200",
     "ort": "Quartier B, Venloer Straße 769",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/sommergarten-bickendorf-kostenloses-konzert-0/",
+    "link": "https://rausgegangen.de/events/sommergarten-bickendorf-kostenloses-konzert-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Titia Handoko (Gesang) und Til Schneider (Gitarre & Gesang) sind längst feste Größen der Kölner Musikszene. Am Samstag, den 29.08. um 17:00 Uhr, verzaubern die beiden den Sommergarten in Bickendorf mit ihrem aktuellen"
   },
   {
     "titel": "EIS FOR FREE – MOUTH PROPAGANDA x RAUSGEGANGEN",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T15:00+0200",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T15:00+0200",
     "ort": "MOUTH Propaganda, Kyffhäuserstraße 21",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/eis-for-free-mouth-propaganda-x-rausgegangen-1/",
+    "link": "https://rausgegangen.de/events/eis-for-free-mouth-propaganda-x-rausgegangen-2/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Wir bringen gemeinsam mit Mouth Propaganda ein Eis raus und du bekommst es geschenkt. Hol dir das lila Eis gratis über die Rausgegangen-App und genieße drei Tage lang das süße Geschenk der Kölner Szene. 🍦"
   },
   {
-    "titel": "SPÖKES Open Air Party",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T16:00+0200",
-    "ort": "Dachterrasse Los Carnales, Agrippinaufer 30",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/spokes-open-air-party-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Vor dem Sommerende bringt handundfuss die SPÖKES zurück in die Stadt und lädt auf eine ganz neue Dachterrasse ein. Freu dich auf eine Mischung aus House, Pop und RnB, die bis in die frühen Stunden für ausgelassene Stimmu"
-  },
-  {
-    "titel": "Musical Chairs",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T16:00+0200",
-    "ort": "Kölner Grüngürtel, Junkersdorfer Straße",
+    "titel": "Silent Dance Open Air | At The B-Sites",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T15:00+0200",
+    "ort": "Volksgarten Köln, Köln",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/musical-chairs-0/",
+    "link": "https://rausgegangen.de/events/silent-dance-open-air-at-the-b-sites-1/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Musical Chairs verlegt das Kultspiel auf die Wiese und sorgt mit guter Musik und lieben Leuten für eine entspannte Runde, die mehr Spaß macht als beim Sportunterricht. Bring deine Freunde mit und spiel um Tickets für die"
-  },
-  {
-    "titel": "gamescom city festival - Samstag 29.08.2026",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T16:45+0200",
-    "ort": "Kölner Innenstadt, Rudolfplatz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/gamescom-city-festival-samstag-29082026-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Das gamescom city festival bringt seit 16 Jahren vielfältige Sounds und bunte Begegnungen in Kölns Innenstadt auf die Bühne. Mit Thees Uhlmann, The Notwist und Special Guests wie Team Rhythmusgymnastik erwartet dich ein "
-  },
-  {
-    "titel": "ARTE-Mitsing-Karaoke beim gamescom city festival",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T16:45+0200",
-    "ort": "Hauptbühne am Hohenzollernring, Hohenzollernring 76-78",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/arte-mitsing-karaoke-beim-gamescom-city-festival-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "ARTE\u001c-MITSING-\u001cKARAOKEAuch in diesem Jahr ist das ARTE-Mitsing-Karaoke, präsentiert von Bianca Hauda, wieder in Köln zu Gast. Neu dabei: die ARTE Live-Band. Kommt auf die Bühne und singt begleitet von der ARTE-Band al"
-  },
-  {
-    "titel": "DJ Damned Dan (Getaddicted/MMRS) beim gamescom city festival",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T17:00+0200",
-    "ort": "Bühne am Rudolfplatz, Rudolfplatz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/dj-damned-dan-getaddictedmmrs-beim-gamescom-city-festival-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "DJ DAMNED DAN \u001b(GETADDICTED/MMRS\u001a) Daniel Rade, vielen besser bekannt als Damned Dan, legt seit vielen Jahren in Clubs, auf Festivals und bei Konzerten auf. Mit der Partyreihe getaddicted hat er die Kölner Alternative-,"
-  },
-  {
-    "titel": "Hexenkessel Festival 2026",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T17:00+0200",
-    "ort": "Bürgerhaus Stollwerk, Dreikönigenstraße",
-    "preis": "ab 50 €",
-    "link": "https://rausgegangen.de/events/hexenkessel-festival-2026-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "DER SUD WIRD NEU ANGESETZT!2026 WIRD WIEDER GEKOCHT!Am 29.08.2026 heizen wir mit Euch das Stollwerck in Köln so richtig ein. Kocht mit uns erneut im Hexenkessel! Gemeinsam mit unseren langjährigen Freunden von VERA LUX"
-  },
-  {
-    "titel": "Techno Dampfer Köln w/ SaltySis",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T17:30+0200",
-    "ort": "Techno Dampfer Köln, Konrad-Adenauer-Ufer",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/techno-dampfer-koln-w-saltysis-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "SaltySis begeistert mit energiegeladenen Sets, die treibende Beats, euphorische Drops und kreatives Sounddesign perfekt verbinden. Ihre Musik sorgt für intensive Partynächte, in denen Härte auf Melodie trifft – ideal "
-  },
-  {
-    "titel": "Kakaozeremonie & Klangreise, Kräuterreinigung, Meditation, erlebe etwas Neues!",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T18:00+0200",
-    "ort": "room for emotions, Am Maarhof 25",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kakao-klang-zeremonie-mit-sound-healing-live-musik-zum-fuhle-66/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Ein Erlebnis für alle Sinne. Musik zum Fühlen und nicht zum intellektuellen Erfassen. Schokolade in ihrer reinsten und ursprünglichen Form zum trinken und erfahren. Spüre wie sich dein Herz öffnet und du vom Kopf in"
-  },
-  {
-    "titel": "Kölsche Ovend OpenAir",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T18:00+0200",
-    "ort": "St. Seb. Sbr. Ensen-Westhoven 1926 e.V., Gremberghovener Straße 13",
-    "preis": "ab 25 €",
-    "link": "https://rausgegangen.de/events/kolsche-ovend-openair-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "🎉 KÖLSCHE OVEND OPEN AIR 2026 🎉 Am 29. August 2026 wird Ensen zur kölschen Party-Hochburg! Freut euch auf einen unvergesslichen Abend mit Top-Bands wie Räuber, Domstürmer, Bel Air, Kempes Feinest und Funky Marys. 📍 E"
-  },
-  {
-    "titel": "Mapping Waidmarkt Event 2 with Rainy Miller & Jacqueline Butzinger",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T18:00+0200",
-    "ort": "Waidmarkt",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/mapping-waidmarkt-event-2-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Am 29. August veranstalten wir das zweite öffentliche Event im Rahmen von „Mapping Waidmarkt\". Dafür haben Jacqueline Butzinger und Rainy Miller ortsspezifische Performances für den Waidmarkt entwickelt. Über eine me"
-  },
-  {
-    "titel": "Papercup & N,k Sommerfest",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T18:00+0200",
-    "ort": "kulturhof kalk, Dillenburger Straße 65",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/papercup-nk-sommerfest-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Papercup, Neu, kaputt & Keshavara feiern 10 jähriges29. August 2o26mitAndrew CollbergBaby SmithKeshavara (Dj Set)+ lokale Djs  "
-  },
-  {
-    "titel": "The Deadnotes beim gamescom city festival",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T18:00+0200",
-    "ort": "Bühne am Rudolfplatz, Rudolfplatz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/the-deadnotes-beim-gamescom-city-festival-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "THE DEADNOTES geben Rock’n’Roll ein längst überfälliges Update und erschaffen einen modernen, emotionalen Sound zwischen mitreißender Spielfreude und persönlichen Geschichten. Auf ihrem aktuellen Album \"Rock'n'Roll S"
-  },
-  {
-    "titel": "Team Rhythmusgymnastik & friends beim gamescom city festival",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T18:45+0200",
-    "ort": "Hauptbühne am Hohenzollernring, Hohenzollernring 76-78",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/team-rhythmusgymnastik-friends-beim-gamescom-city-festival-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "TEAM RHYTHMUSGYMNASTIK & FRIENDSKölns sportlichstes DJ Team übernimmt dieses Mal sogar die große Bühne auf dem Hohenzollernring und bringt noch Freunde mit! Lasst euch überraschen! Die knallharten action Paradies Vö"
-  },
-  {
-    "titel": "Bläck Fööss – 50 Jahre am Tanzbrunnen",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T19:00+0200",
-    "ort": "Tanzbrunnen Köln, Rheinparkweg 1",
-    "preis": "ab 40 €",
-    "link": "https://rausgegangen.de/events/black-fooss-50-jahre-am-tanzbrunnen-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die Bläck Fööss und der Tanzbrunnen: das ist pure kölsche Lebensfreude seit 50 Jahren. Mit authentischen Texten, mitreißender Performance und unverwechselbarem Charme schaffen sie ein unvergessliches Erlebnis voll ko"
-  },
-  {
-    "titel": "cafe konzert - KAZIM & OZAN",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T19:00+0200",
-    "ort": "lebens.art - café · concept store · gallery, Wißmannstraße 40",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/cafe-konzert-kazim-ozan-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "kazim kamer kalayci & ozan koç spielen authentische türkische klänge, gepaart mit jazzigen sounds und Überraschen uns sowohl mit neuinter-pretationen folkloristischer songs als auch mit klassikern der türkischen mus"
-  },
-  {
-    "titel": "The Moobies - KATABASIS EP Releaseshow",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T19:00+0200",
-    "ort": "Veedel Club, Luxemburger Straße 37",
-    "preis": "ab 16 €",
-    "link": "https://rausgegangen.de/events/the-moobies-katabasis-ep-releaseshow-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "The Moobies - KATABASIS EP Release ShowEinlass: 19:00 Beginn: 19:45The Moobies2018 unter Schulfreunden gegründet, spielen The Moobies Post-Punk zwischen nostalgischem Indie-Rock und lärmendem Crankwave. Am 28. August e"
-  },
-  {
-    "titel": "Klee beim gamescom city festival",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T19:30+0200",
-    "ort": "Bühne am Rudolfplatz, Rudolfplatz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/klee-beim-gamescom-city-festival-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "KLEE Wer die Kölner Band nur vom Radio kennt, erlebt live eine Überraschung: KLEE sind druckvoll, mitreißend und tanzbar. Elekropop-getränkte Songs mit treibenden Gitarren und Suzie Kerstgens` einzigartiger Stimme erg"
-  },
-  {
-    "titel": "The Moobies - KATABASIS EP Releaseshow",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T19:45+0200",
-    "ort": "Veedel Club, Luxemburger Straße 37",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/the-moobies-katabasis-ep-releaseshow-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "The Moobies - KATABASIS EP Release ShowEinlass: 19:00 Beginn: 19:45The Moobies2018 unter Schulfreunden gegründet, spielen The Moobies Post-Punk zwischen nostalgischem Indie-Rock und lärmendem Crankwave. Am 28. August e"
-  },
-  {
-    "titel": "gallery:concert #25 BEA",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T20:00+0200",
-    "ort": "Galerie Lindemann, Mauenheimer Straße 21",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/galleryconcert-25-bea-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "  gefördert durch das Kulturamt der Stadt Köln und den IFM Initiative Freie Musik e.V. gallery:concert #24 29.08.2026 / 20.00 BEA BEA, bürgerlich Beate Reiermann, bewegt sich als Solokünstlerin an der Akustikgitarre "
-  },
-  {
-    "titel": "Höhner Classic 2026",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T20:00+0200",
-    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
-    "preis": "ab 19 €",
-    "link": "https://rausgegangen.de/events/hohner-classic-2026-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Höhner | Junge Sinfonie Köln | Sebastian Hässy"
-  },
-  {
-    "titel": "auxkollektiv im mäurer",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T21:00+0200",
-    "ort": "Mäurer Bar, Roonstraße 19",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/auxkollektiv-im-maurer-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Paloma Groovemaster legt mit einem feinen Gespür für Musikgeschichten auf, die zwischen reduziertem Microhouse und Italo Disco changieren. Seine Sets, fast ausschließlich auf Vinyl, erzählen von alten Platten und fließen"
-  },
-  {
-    "titel": "Enjin",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T21:00+0200",
-    "ort": "Asimmetric Bar, Venloer Straße 196",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/enjin-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Tu doch nicht so - Enjin legt auf"
-  },
-  {
-    "titel": "Cologne Nightlife Tour: 4 Locations, Shots & Club Entry",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T21:15+0200",
-    "ort": "Zülpicher Pl., Zülpicher Pl., 50674 Köln, Germany",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/cologne-nightlife-tour-4-locations-shots-club-entry-90/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Experience Cologne nightlife the easy way with a fun group and a local host. After check-in at the meeting point, the night starts with a welcome shot. Then you’ll visit 4 lively nightlife locations, a mix of popular bar"
-  },
-  {
-    "titel": "Elias beim gamescom city festival",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T21:15+0200",
-    "ort": "Bühne am Rudolfplatz, Rudolfplatz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/elias-beim-gamescom-city-festival-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "ELIAS Der gebürtige Kölner Elias ist Sänger, Rapper und Producer und verbindet feinfühligen Indie-Pop mit basslastigen Hip-Hop-Einflüssen. Seine Musik zeichnet sich durch organische Instrumente, markante Bässe, vie"
-  },
-  {
-    "titel": "Thees Uhlmann & Band",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T21:15+0200",
-    "ort": "Hauptbühne am Hohenzollernring, Hohenzollernring 76-78",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/thees-uhlmann-band-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "THEES UHLMANN & BAND stehen für deutschsprachigen Indie-Rock mit riesigen Melodien und Geschichten, wie sie nur ihr Frontmann erzählen kann. Bekannt wurde Thees Uhlmann als Frontmann der Indie-Band Tomte, danach begann"
-  },
-  {
-    "titel": "Brauhaus Beats mit Josh",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T22:00+0200",
-    "ort": "Gaffel am Dom, Bahnhofsvorplatz 1",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/brauhaus-beats-mit-josh-6/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Auch 2026 wird im Gaffel am Dom bis in den Sonntag hinein gefeiert! Die Party-Reihe Brauhaus Beats lädt zu außergewöhnlichen Mitsingabenden ein. Ab 22 Uhr sorgt Josh für Stimmung. Ein einzigartiges Acoustic Solo Loope"
-  },
-  {
-    "titel": "KÖLN | Old but Gold Ü30 Hip Hop Party Summer Special",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T22:00+0200",
-    "ort": "Bootshaus Köln, Auenweg 173",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/koln-old-but-gold-u30-hip-hop-party-summer-special-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Am 29,08. feiern wir unser Old but Gold Ü30 Hip Hop Party Summer Special mit Ausweispflicht in Köln im Bootshaus auf zwei Floors + Oldschool RnB Open Air Floor mit einem übertrieben krassen Lineup! Seid nicht schücht"
-  },
-  {
-    "titel": "bratty • w/ charli xcx & other brat coded artists • köln",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T23:00+0200",
-    "ort": "Helios37, Heliosstraße 37",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/bratty-w-charli-xcx-other-brat-coded-artists-koln-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier trifft queer-poppige Energie auf Y2K-Style, wenn Bratty den Dancefloor mit Charli XCX und anderen Genre-Pionier:innen zum Glühen bringt. Eine Nacht, die jenseits vom Mainstream Raum für Ausgelassenheit und Vielfalt "
-  },
-  {
-    "titel": "LOVE THE GROOVE",
-    "datum": "29. Aug 2026",
-    "datum_raw": "2026-08-29T23:00+0200",
-    "ort": "Garagen Club Köln, Oskar-Jäger-Straße 179",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/love-the-groove-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier findest du eine Nacht voller grooviger Techno-Beats und mitreißender Drumrhythmen, die dich bis zum Morgengrauen begleiten. Es geht um den Moment, die Musik und Menschen, die ganz ohne Worte verbinden wollen ⚡"
+    "teaser": "Hier gibt’s zwei Stunden Sonne, FLINTA* DJs auf den Kopfhörern und eine Crowd, die zusammen tanzt ohne laute Musik, dafür mit viel guter Energie und kühlen Drinks von Mühlen Kölsch 🍻👯‍♀️"
   },
   {
     "titel": "Coffee Concert Cologne",
@@ -398,5 +108,295 @@
     "link": "https://rausgegangen.de/events/gamescom-city-festival-sonntag-30082026-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Das gamescom city festival bringt 2026 wieder eine bunte Mischung aus etablierten Musiker:innen und spannenden Newcomer:innen mitten in die City. Mit dabei sind The Notwist, Thees Uhlmann & Band sowie die ARTE Karaoke Ba"
+  },
+  {
+    "titel": "Sinfoglesia beim gamescom city festival",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T16:30+0200",
+    "ort": "Bühne am Rudolfplatz, Rudolfplatz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/sinfoglesia-beim-gamescom-city-festival-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "SINFOGLESIAHier betritt eine Band die Bühne, die opulente Orchesterklänge mit der Eingängigkeit moderner Pop-Rock-Hymnen verschmelzen lässt. Spätestens seit ihrer Nummer-eins-Hitsingle ist das Ensemble in aller Mund"
+  },
+  {
+    "titel": "Grenzkontrolle",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T17:00+0200",
+    "ort": "Hauptbühne am Hohenzollernring, Hohenzollernring 76-78",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/grenzkontrolle-9/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "GRENZKONTROLLEaus Köln verbinden energiegeladenen Post-Punk mit funkigen Elementen und einer klaren politischen Haltung. In ihren Songs greifen sie gesellschaftliche und historische Themen auf und schaffen einen Raum fu"
+  },
+  {
+    "titel": "O magnum mysterium – Ein großes Geheimnis",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T17:00+0200",
+    "ort": "Trinitatiskirche, Filzengraben 4, 50676 Köln, Filzengraben 4",
+    "preis": "ab 18 €",
+    "link": "https://rausgegangen.de/events/o-magnum-mysterium-ein-groes-geheimnis-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Kölner Chorkonzerte Extra 2026 in der Kölner Trinitatiskirche O magnum mysterium – Ein großes GeheimnisPalestrina „O magnum mysterium“ Zoltan Kodaly „Laudes Organi“  Hubert Parry „I was glad“ Maurice Duruflé „Quatre m"
+  },
+  {
+    "titel": "Workshop & Social Night für Paare & Alleinstehende,  Tanzen verbindet",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T17:45+0200",
+    "ort": "Salsa Bachata Mastery Zentrum, Georgstraße 5",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/workshop-social-night-fur-paare-alleinstehende-tanzen-verbin-131/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Es geht um neue Kontakte und ein neues Hobby, das deine Weltsicht verändern und den Kontakt zu Menschen viel einfacher machen kann. Durch das Tanzen verbinden sich Menschen und bleiben präsent.Meine Aufgabe als Worksho"
+  },
+  {
+    "titel": "Jazz at Green Room: Paul Prassel Quartett",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T18:00+0200",
+    "ort": "Stadtgarten, Venloer Straße 40",
+    "preis": "ab 8 €",
+    "link": "https://rausgegangen.de/events/jazz-at-green-room-paul-prassel-quartett-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Paul Prassel verbindet jazzige Sounds mit Einflüssen aus Klassik und Alltagserlebnissen zwischen Deutschland und Norwegen. Sein Quartett spielt mit einer Struktur wie bei Brettspielen, die immer vertraut, aber doch volle"
+  },
+  {
+    "titel": "Guildo Horn & Die Orthopädischen Strümpfe beim gamescom city festival",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T18:00+0200",
+    "ort": "Bühne am Rudolfplatz, Rudolfplatz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/guildo-horn-die-orthopadischen-strumpfe-beim-gamescom-city-f-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "GUILDO HORN & DIE ORTHOPÄDISCHEN STRÜMPFEpräsentieren Schlagerklassiker im rockigen Gewand und verbinden sie mit Disco-, Glamrock- und Pop-Elementen zu einer mitreißenden Live-Show. Gemeinsam mit seiner Band begeister"
+  },
+  {
+    "titel": "Jamsession im Kulturbunker // OPEN STAGE",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T18:00+0200",
+    "ort": "Kulturbunker Köln-Mülheim, Berliner Straße 20",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/jamsession-im-kulturbunker-open-stage-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "// In den Sommermonaten findet die Jamsession bei gutem Wetter im Biergarten des Kulturbunkers statt und startet bereits ab 17 Uhr. //Die offene Jamsession des Kulturbunker lädt zum gemeinsamen Musizieren und Jamen ein."
+  },
+  {
+    "titel": "Fewjar beim gamescom city festival",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T18:30+0200",
+    "ort": "Hauptbühne am Hohenzollernring, Hohenzollernring 76-78",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/fewjar-beim-gamescom-city-festival-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "FEWJAR verbinden Indie, Alternative und genreübergreifende Rock-Einflüsse zu einem emotionalen Sound zwischen Melancholie, Euphorie und mitreißender Energie. Die Band begeistert seit über 15 Jahren mit intensiven Live"
+  },
+  {
+    "titel": "Minions & Monsters",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T19:00+0200",
+    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/minions-monsters-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Minions versuchen sich als Horrorfilmheld:innen und sorgen mit einem magischen Monster für ziemliches Chaos. Es wird wild, urkomisch und überraschend, wenn die kleinen Chaoten den Planeten retten wollen 👀"
+  },
+  {
+    "titel": "THE NEIGHBOURHOOD",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T19:00+0200",
+    "ort": "LANXESS arena, Willy-Brandt-Platz 3",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/the-neighbourhood-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Als The Neighbourhood 2012 mit ihrem Song „Female Robbery“ im Internet auftauchte, war über die Band aus Kalifornien nichts bekannt. Mythisch anmaßend etabliert sich die Band bereits mit ihrem zweiten Song „Sweather Wea"
+  },
+  {
+    "titel": "WG Bigband",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T19:00+0200",
+    "ort": "die wohngemeinschaft, Richard-Wagner-Straße 39",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/wg-bigband-fete-de-la-musique-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Sechzehn Musiker:innen aus Köln bringen dir Jazzklassiker von Bill Holman bis Thad Jones in der Bar zum Klingen und schaffen so ein Flair wie in den hitzigen Nächten der Bigband-Ära Es wird ein Abend voller guter Laune u"
+  },
+  {
+    "titel": "AFI",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T20:00+0200",
+    "ort": "Live Music Hall, Lichtstraße 30",
+    "preis": "ab 45 €",
+    "link": "https://rausgegangen.de/events/afi-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "For more than three decades, AFI has thrived on reinvention, earning platinum records, major-label success, and a devoted, cult-like fanbase. From their scrappy beginnings as a hardcore band in the early ’90s, through th"
+  },
+  {
+    "titel": "Höhner Classic 2026",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T20:00+0200",
+    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
+    "preis": "ab 19 €",
+    "link": "https://rausgegangen.de/events/hohner-classic-2026-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Höhner | Junge Sinfonie Köln | Sebastian Hässy"
+  },
+  {
+    "titel": "KURT VILE & THE VIOLATORS",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T20:00+0200",
+    "ort": "GLORIA Köln, Apostelnstraße 11",
+    "preis": "ab 34 €",
+    "link": "https://rausgegangen.de/events/kurt-vile-the-violators-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Released in God’s year of 2026, the 250th anniversary of the founding of America in Kurt Vile’s fine city of Philadelphia, Philadelphia’s been good to me finds one of our nation’s greatest songwriters staking a claim on "
+  },
+  {
+    "titel": "MISSIO",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T20:00+0200",
+    "ort": "Gebäude 9, Deutz-Mülheimer Straße 117",
+    "preis": "ab 35 €",
+    "link": "https://rausgegangen.de/events/missio-744/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das 2015 in Austin, Texas gegründete Duo MISSIO besteht aus Matthew Brue und David Butler. Gemeinsam brechen die beiden furchtlos mit Konventionen, indem sie Elemente aus Rock, Elektronik, Indie und Hip-Hop zu einem unv"
+  },
+  {
+    "titel": "The Neighbourhood",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T20:00+0200",
+    "ort": "LANXESS arena, Willy-Brandt-Platz 3",
+    "preis": "ab 58 €",
+    "link": "https://rausgegangen.de/events/the-neighbourhood-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Aufgrund der hohen Nachfrage haben The Neighbourhood für ihren Köln-Halt im Rahmen der „The World Tour 2026“ eine Zusatzshow angekündigt: Neben dem bereits bestätigten Konzert am Sonntag, den 10.05.2026, wird die US-"
+  },
+  {
+    "titel": "The Notwist beim gamescom city festival",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T20:00+0200",
+    "ort": "Hauptbühne am Hohenzollernring, Hohenzollernring 76-78",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/the-notwist-beim-gamescom-city-festival-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "THE NOTWISTist eine der einflussreichsten deutschen Independent-Bands aus Weilheim, die 1989 gegründet wurde und als Pionier der Musikszene gilt. Während ihre Anfänge stark von rauem Punk und Grunge geprägt waren, en"
+  },
+  {
+    "titel": "Yungmon & Lyran Dasz beim gamescom city festival",
+    "datum": "30. Aug 2026",
+    "datum_raw": "2026-08-30T20:30+0200",
+    "ort": "Bühne am Rudolfplatz, Rudolfplatz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/yungmon-lyran-dasz-beim-gamescom-city-festival-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "YUNGMON & LYRAN DASZstehen für eine neue Generation unabhängiger Künstler und verbinden melodische Einflüsse mit energiegeladenem Rap zu einem unverwechselbaren Sound. Inspiriert von japanischer Popkultur, Anime-Äst"
+  },
+  {
+    "titel": "BABY KEEM - THE CA$INO TOUR",
+    "datum": "31. Aug 2026",
+    "datum_raw": "2026-08-31T18:30+0200",
+    "ort": "Palladium, Schanzenstraße 40",
+    "preis": "ab 50 €",
+    "link": "https://rausgegangen.de/events/baby-keem-the-caino-tour-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Baby KeemTHE CA$INO TOURPräsentiert von Live Nation 31.08.2026 Köln, Palladium Einlass: 18:30 | Beginn: 20:00 Der mit einem GRAMMY ausgezeichnete Recording-Artist Baby Keem hat seine The Ca$ino Tour angekündigt. Die T"
+  },
+  {
+    "titel": "NICA live: Into the 5th Dimension – guided by ANUNAKI TABLA feat. Andreas Völk, Kenn Hartwig, Teresa Coll, Leif Berger & Philip Zoubek",
+    "datum": "31. Aug 2026",
+    "datum_raw": "2026-08-31T20:00+0200",
+    "ort": "GREEN ROOM, Venloer Straße 40",
+    "preis": "ab 8 €",
+    "link": "https://rausgegangen.de/events/nica-live-into-the-5th-dimension-guided-by-anunaki-tabla-fea-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "20:00 / Konzert / GREEN ROOM Anunaki Tabla, das Plattenlabel des Schlagzeugers, Komponisten und NICA artist Thomas Sauerborn, des Gitarristen Andreas Völk und des Bassisten und Game-Boy-Enthusiasten Kenn Hartwig, entsta"
+  },
+  {
+    "titel": "Baby Keem - The Ca$ino Tour",
+    "datum": "31. Aug 2026",
+    "datum_raw": "2026-08-31T20:30+0200",
+    "ort": "Palladium, Schanzenstraße 40",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/baby-keem-the-caino-tour-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Presented by Live Nation\t\tRollstuhlfahrer und Schwerbehinderte mit Merkzeichen „B“ wählen bitte die Telefonnummer +49 (0)30 - 40 818 824 (Ortstarif). Unsere kompetenten Kollegen aus dem Call Center helfen Ihnen täglich"
+  },
+  {
+    "titel": "Singen - Joy of Singing - einfach singen in Köln-Sülz - Chor auf Zeit",
+    "datum": "1. Sep 2026",
+    "datum_raw": "2026-09-01T18:30+0200",
+    "ort": "Kirche St. Karl Borromäus, Zülpicher Straße 275",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/singen-joy-of-singing-einfach-singen-in-koln-sulz-chor-auf-z-12/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Herzliche Einladung zu „Joy of Singing“ – gemeinsames Singen von Liedern, die verbinden und gut tun.Wir singen Lieder, die leicht zu lernen sind und ohne Noten oder Textblätter auskommen. Durch das wiederholte Singen en"
+  },
+  {
+    "titel": "Frei Töne - Konzertreihe -Duo DaAl",
+    "datum": "1. Sep 2026",
+    "datum_raw": "2026-09-01T19:00+0200",
+    "ort": "Cellitinnen-Krankenhaus St. Marien, Kunibertskloster 11-13",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/frei-tone-konzertreihe-duo-daal-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das Duo DaAl - Bass & Voice sind Daniel Bucksteeg (Kontrabass) und Alexandra Romes (Jazz-Gesang).Die beiden spielen zeitgenössische Jazz- und Popstücke, die sie neu arrangiert haben. Darunter sind Stücke von Sting, St"
+  },
+  {
+    "titel": "Hayden Cisholm & To Bee Ritual",
+    "datum": "1. Sep 2026",
+    "datum_raw": "2026-09-01T19:00+0200",
+    "ort": "Neu St. Alban, Gilbachstraße 25",
+    "preis": "ab 5 €",
+    "link": "https://rausgegangen.de/events/hayden-cisholm-to-bee-ritual-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "To Bee Ritual verwandelt das Innere der Kölner St.-Alban-Kirche in einen rituellen Bienenstock – ein immersives Klangerlebnis, das sich ganz dem geheimnisvollen Leben der Bienen widmet.Der Ausgangspunkt des Projekts lie"
+  },
+  {
+    "titel": "PREWN",
+    "datum": "1. Sep 2026",
+    "datum_raw": "2026-09-01T19:00+0200",
+    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
+    "preis": "ab 20 €",
+    "link": "https://rausgegangen.de/events/prewn-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Prewn bringt mit intensiver Ehrlichkeit Songs auf die Bühne, die zwischen zarter Verletzlichkeit und kraftvoller Energie oszillieren. The Hobknobs legen dazu einen lässigen Rock ’n’ Roll Sound vor, der cool und authentis"
+  },
+  {
+    "titel": "Eröffnungskonzert SHALOM-MUSIK.KOELN 2026: ZU GAST BEI HILDE DOMIN",
+    "datum": "1. Sep 2026",
+    "datum_raw": "2026-09-01T19:30+0200",
+    "ort": "Flora Köln, Am Botanischen Garten 1a",
+    "preis": "ab 23 €",
+    "link": "https://rausgegangen.de/events/eroffnungskonzert-shalom-musikkoeln-2026-zu-gast-bei-hilde-d-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Vier Gedichte der jüdischen Kölner Lyrikerin Hilde Domin sind an diesem Abend erstmals als Chormusik zu hören – ein besonderer Moment zum Auftakt des Festivals. Ihre Sprache, geprägt von Exil, Rückkehr und Hoffnung,"
+  },
+  {
+    "titel": "JaHa",
+    "datum": "1. Sep 2026",
+    "datum_raw": "2026-09-01T19:30+0200",
+    "ort": "Asimmetric Bar, Venloer Straße 196",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/jaha-8/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jamilah und Hadaya, das Duo JaHa, mischen soulful Vocals mit kraftvollem Rap und bringen dich auf einen Trip von ehrlichen Gefühlen bis zu wildem Tanzen. Mit ihrem queerestenammtisch Special schaffen sie Raum für Wut, Ho"
+  },
+  {
+    "titel": "Jazzorama! Brazilian Motions + Jazzorama Fußball Cup Siegerehrung + Jamsession",
+    "datum": "1. Sep 2026",
+    "datum_raw": "2026-09-01T19:30+0200",
+    "ort": "artheater Köln, Ehrenfeldgürtel 127",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/jazzorama-brazilian-motions-jazzorama-fuball-cup-siegerehrun-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Dienstag 1. SeptemberBrazilian Motions“Jazzorama Fußball Cup Special“ SIEGEREHRUNG JAZZORAMA CUP UM 19:30! Matthias Schriefl - Brass Instr., AkkordeonBjarne Sitzmann - GitarrenJan Blikslager  - BassJoão Raineri - Drums,"
+  },
+  {
+    "titel": "Bachelorkonzert: Kayla Loreen »Wanted«",
+    "datum": "1. Sep 2026",
+    "datum_raw": "2026-09-01T20:00+0200",
+    "ort": "King Georg, Sudermanstraße 2",
+    "preis": "ab 11 €",
+    "link": "https://rausgegangen.de/events/bachelorkonzert-kayla-loreen-wanted-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": " Kayla Meyer (Gesang und Loopstation), Philip Weyand (Keys) eleven seconds: Kayla Meyer (Gesang), Merle Böwering (Gesang), Caro Smykla (Gesang), Tilman Brand (Gesang), Tobias Happ (Gesang)Purpur: Kayla Meyer (Gesang), M"
   }
 ]
