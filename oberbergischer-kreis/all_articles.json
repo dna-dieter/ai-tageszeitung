@@ -9683,6 +9683,18 @@
     "fetched": "2026-05-05T21:23:25.228717"
   },
   {
+    "id": "2aa73294e545",
+    "title": "Hückeswagen: Schwerverletzter nach Unfall auf Schloss-Baustelle",
+    "summary": "Bei einem Unfall auf der Baustelle im Hückeswagener Schloss ist am Dienstagvormittag eine Person schwer verletzt worden. Das teilte die Feuerwehr mit.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/hueckeswagen-schwerverletzter-nach-unfall-auf-schloss-baustelle-WOM3VXNETMJU7CFYV7GINJGPUA.html",
+    "published": "Tue, 01 Sep 2026 15:44:59 +0200",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-09-01T14:46:43.754698"
+  },
+  {
     "id": "405549f738ad",
     "title": "POL-GM: Kind von Auto angefahren",
     "summary": "Waldbröl (ots) - Am Montag (31. August) wollte ein 56-jähriger Waldbröler mit seinem Audi aus einer Grundstückseinfahrt auf die Morsbacher Straße abbiegen. Dabei kam es gegen 12:50 Uhr zum Zusammenstoß mit einem 12-Jährigen aus Waldbröl, der ...",
@@ -9763,7 +9775,8 @@
     "published": "Tue, 01 Sep 2026 08:44:11 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "waldbroel"
+      "waldbroel",
+      "morsbach"
     ],
     "fetched": "2026-09-01T09:59:03.270032"
   },
