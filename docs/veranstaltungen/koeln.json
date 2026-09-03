@@ -1,135 +1,5 @@
 [
   {
-    "titel": "Ask a trans person!",
-    "datum": "2. Sep 2026",
-    "datum_raw": "2026-09-02T18:00+0200",
-    "ort": "OnlyYou Holistic Center, Venloer Straße 497",
-    "preis": "ab 35 €",
-    "link": "https://rausgegangen.de/events/ask-a-trans-person-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "In diesem Workshop kannst du ganz offen deine Fragen zur Trans*Community stellen und mehr über Transitionen und geschlechtliche Vielfalt erfahren. Kuem, selbst transmaskulin und erfahren in Körperarbeit, schafft einen en"
-  },
-  {
-    "titel": "Another Open Stage",
-    "datum": "2. Sep 2026",
-    "datum_raw": "2026-09-02T18:30+0200",
-    "ort": "Turistarama, Mauritiussteinweg 102",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/another-open-stage-57/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Another Open Stage ist zurück: Vertraut und doch ein bisschen neu. Einmal im Monat öffnen wir einen Raum für Begegnung, Musik und echte Momente. Auf der Bühne stehen 6 mudikalische Acts, die jeweils drei Songs spiele"
-  },
-  {
-    "titel": "Short Story Night",
-    "datum": "2. Sep 2026",
-    "datum_raw": "2026-09-02T19:00+0200",
-    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/short-story-night-16/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Fünf Autor:innen erzählen in kurzen, scharfsinnigen Geschichten von gesellschaftlichen Kämpfen und persönlichen Momenten. Hier erwarten dich vielseitige Stimmen, die zwischen Humor, Aktivismus und Poesie balancieren und "
-  },
-  {
-    "titel": "Shalom-Musik Köln: BEI MIR BIST DU SHEYN-SHARON BRAUNER & THE TOY GOYS JIDDISCHE EVERGREENS",
-    "datum": "2. Sep 2026",
-    "datum_raw": "2026-09-02T19:00+0200",
-    "ort": "Galerie im Bezirksrathaus Porz (Stadt Köln), Friedrich-Ebert-Ufer 64-70 (Eingang über den Alfred-Moritz-Platz)",
-    "preis": "ab 25 €",
-    "link": "https://rausgegangen.de/events/shalom-musik-koln-bei-mir-bist-du-sheyn-sharon-brauner-the-t-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "„Bei mir bistu sheyn“, „Donna Donna“ oder „Tumbalalaika“: Die Berliner Sängerin Sharon Brauner & The Toy Goys bringen die großen jiddischen Evergreens auf die Bühne – mal voller Witz, mal melancholisch, mal überschwä"
-  },
-  {
-    "titel": "46 Forty Six Band & All Nine Yards live in Köln + Support/ ANCR TO PAST /Vogelhaus – Alternative Rock meets Modern Metal",
-    "datum": "2. Sep 2026",
-    "datum_raw": "2026-09-02T19:00+0200",
-    "ort": "YUCA, Bartholomäus-Schink-Straße 65",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/steel-and-sound-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "46 Forty Six Band & All Nine Yards live in Köln – Alternative Rock meets Modern Metal46 Forty Six Band kommt gemeinsam mit All Nine Yards nach Köln. Euch erwartet ein intensiver Abend zwischen Alternative Rock, Melodic"
-  },
-  {
-    "titel": "unreleased KÖLN",
-    "datum": "2. Sep 2026",
-    "datum_raw": "2026-09-02T19:30+0200",
-    "ort": "Live Music Hall, Lichtstraße 30",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/unreleased-koln-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "unreleased in Köln bringt frische Tracks von mindestens zehn geheimen Acts auf die Bühne, bevor sie offiziell erscheinen. Das Format bietet Künstler:innen einen geschützten Raum, um neue Sounds zu testen und garantiert d"
-  },
-  {
-    "titel": "AUSVERKAUFT Blue Hour & Bubbles: Lonely Pony Orchestra",
-    "datum": "2. Sep 2026",
-    "datum_raw": "2026-09-02T19:30+0200",
-    "ort": "be°bubbly Sektladen, Jülicherstraße 22",
-    "preis": "ab 10 €",
-    "link": "https://rausgegangen.de/events/blue-hour-bubbles-lonely-pony-orchestra-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die musikalischen Mittwoche im Jülicher Höfchen sind wieder da! 🎷✨ Markus Quabeck – Meister der Blue Notes und Polyrhythmik – bringt zusammen mit wechselnden Gästen frischen, zeitgenössischen Jazz in unseren Sektkell"
-  },
-  {
-    "titel": "Bodo Wartke & die SchönenGutenA-Band – In guter Begleitung / VERLEGT INS THEATER AM TANZBRUNNEN",
-    "datum": "2. Sep 2026",
-    "datum_raw": "2026-09-02T19:30+0200",
-    "ort": "Tanzbrunnen Köln, Rheinparkweg 1",
-    "preis": "ab 44 €",
-    "link": "https://rausgegangen.de/events/bodo-wartke-die-schonengutena-band-in-guter-begleitung-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "!!!Bitte beachten - bitte beachten - bitte beachten „Wir möchten Sie darüber informieren, dass das Konzert am 02.09.2026 mit Bodo Wartke und der SchönenGutenA-Band vom Open Air Gelände in das Theater am Tanzbrunnen v"
-  },
-  {
-    "titel": "Post-Rock im Wonderland: Echoes Among Trees + Halcyon Waves",
-    "datum": "2. Sep 2026",
-    "datum_raw": "2026-09-02T19:30+0200",
-    "ort": "Stereo Wonderland, Trierer Straße 65",
-    "preis": "ab 10 €",
-    "link": "https://rausgegangen.de/events/post-rock-im-wonderland-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zwei Post Rock-Bands beschallen am 2.9. das Stereo Wonderland:Echoes Among Trees sowie Halcyon Waves  (beide aus Köln).Für Freunde von instrumentaler Gitarrenmusikbands wie Explosions in the Sky, We Lost the Sea, Caspi"
-  },
-  {
-    "titel": "3 STÜNDCHEN INDIE Fresse - Die Indie-Turboparty",
-    "datum": "2. Sep 2026",
-    "datum_raw": "2026-09-02T20:00+0200",
-    "ort": "Tsunami Club, Im Ferkulum 9",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/3-stundchen-indie-fresse-die-indie-turboparty-12/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zwei Stunden Indie-Hits, die dich mitten in der Woche zum Tanzen bringen! 🍺  20 Uhr wird ruhig gestartet und 21 Uhr heißt es Vollgas mit Marcus Can't Dance bis 23 Uhr!💃"
-  },
-  {
-    "titel": "ALEX SPENCER",
-    "datum": "2. Sep 2026",
-    "datum_raw": "2026-09-02T20:00+0200",
-    "ort": "Helios37, Heliosstraße 37",
-    "preis": "ab 24 €",
-    "link": "https://rausgegangen.de/events/alex-spencer-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wie die Karrieren von vielen anderen britischen Musikern beginnt auch die Karriere von Alex Spencer auf den Straßen seiner Heimatstadt. Vom Straßenmusiker aus Manchester führte es den 19-jährigen Indie-Künstler mit au"
-  },
-  {
-    "titel": "Alex Spencer - These Will Be The Days European Tour 2026",
-    "datum": "2. Sep 2026",
-    "datum_raw": "2026-09-02T20:00+0200",
-    "ort": "Helios37, Heliosstraße 37",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/alex-spencer-these-will-be-the-days-european-tour-2026-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) buchen reguläre Tickets. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte."
-  },
-  {
-    "titel": "Leonora Tomanoski Quartett",
-    "datum": "2. Sep 2026",
-    "datum_raw": "2026-09-02T20:00+0200",
-    "ort": "King Georg, Sudermanstraße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/leonora-tomanoski-quartett-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": " Ein Konzert aus der Reihe Young Talents Leonora Tomanoski (Saxophon), Lion Lauer (Piano), Thomas Bailey (Bass), Jack Wang (Schlagzeug) Die Saxophonistin Leonora Tomanoski mit einem Quartett junger Musiker aus der Kölne"
-  },
-  {
     "titel": "Sommerfest am Stadtwald",
     "datum": "3. Sep 2026",
     "datum_raw": "2026-09-03T15:00+0200",
@@ -138,6 +8,26 @@
     "link": "https://rausgegangen.de/events/sommerfest-am-stadtwald-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Beim Sommerfest am Stadtwald trifft entspanntes Beisammensein auf kulinarische Vielfalt von Foodtrucks und erfrischenden Drinks. Zwischen Kinderkarussell und Bühnenshow auf gemütlichen Sitzplätzen genießt du eine kleine "
+  },
+  {
+    "titel": "Hempies Flohmarkt im machwerkhaus köln",
+    "datum": "3. Sep 2026",
+    "datum_raw": "2026-09-03T16:00+0200",
+    "ort": "Hempies im machwerkhaus köln, Dillenburger Straße 87",
+    "preis": "ab 13 €",
+    "link": "https://rausgegangen.de/events/hempies-flohmarkt-im-machwerkhaus-koln-6/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Hier findest du eine bunte Mischung aus gebrauchten Schätzen und kreativen Unikaten, dazu vegane Snacks und Drinks von Hempies. Der Flohmarkt läuft im Rahmen eines offenen Ateliers, bei dem du Einblick in nachhaltige Arb"
+  },
+  {
+    "titel": "Golden Hour at Carls Café Tagesbar",
+    "datum": "3. Sep 2026",
+    "datum_raw": "2026-09-03T17:00+0200",
+    "ort": "Carls Cafe und Tagesbar, Unter Käster 9",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/golden-hour-at-carls-cafe-tagesbar-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jeden ersten Donnerstag im Monat gibt es auf der Terrasse House und Afrohouse Beats, die entspannt durch den Abend tragen. Dazu besondere Aperol Spritz Angebote, die den Sundowner perfekt machen. Hier findest du einen lo"
   },
   {
     "titel": "Polish Weekend in Europolis Haus - mit Konzert, Lesung, Ausstellung & Party",
@@ -150,14 +40,24 @@
     "teaser": "Mit dem POLISH WEEKEND feiert Europolis Köln e.V. sein 5-jähriges Jubiläum. Die Filmpremiere von „Vaterland - Ojczyzna\" des in Cannes preisgekrönten Regisseurs Paweł Pawlikowski eröffnet in der Filmpalette das Festi"
   },
   {
-    "titel": "ACUA",
+    "titel": "Vortrag: \"Was bleibt? Nachnutzung, Zerstörung und Vergessen der Ratskapelle\". Mit Timo Riese",
     "datum": "3. Sep 2026",
     "datum_raw": "2026-09-03T19:00+0200",
-    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
-    "preis": "ab 18 €",
-    "link": "https://rausgegangen.de/events/acua-12/",
+    "ort": "MiQua. LVR-Jüdisches Museum im Archäologischen Quartier Köln, Alter Markt 31",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/vortrag-was-bleibt-nachnutzung-zerstorung-und-vergessen-der--0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "popanz ACUA Album Releaseshow w/ JEWLS Donnerstag, 03. September 2026 Einlass 19:00, Beginn 20:00ACUA is a Psych Pop/Alternative band from Cologne, celebrating their new album „Flood My Eyes“, which comes out September 3"
+    "teaser": "Der Vortrag von Timo Riese erklärt, wie die Ratskapelle nach Jahrhunderten Nutzung durch den Kölner Rat zum Lager und schließlich zur Ruine wurde. Er zeigt, wie das Bauwerk nach der Säkularisierung verschwand und welchen"
+  },
+  {
+    "titel": "Drangsal - 10 Jahre »Harieschaim«",
+    "datum": "3. Sep 2026",
+    "datum_raw": "2026-09-03T19:00+0200",
+    "ort": "Die Kantine / Yard Club, Neusser Landstraße 2",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/drangsal-10-jahre-harieschaim-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "\"Vor zehn Jahren brach »Harieschaim«, der Drangsal-Erstling, von Soundcloud über die Charts. Auf „Harieschaim“ wurden Post-Punk und Wave der Achtzigerjahre kontemporär interpretiert, eine Dekade später ist das erste A"
   },
   {
     "titel": "BROCKHOFF /// Tour 2026",
@@ -170,14 +70,14 @@
     "teaser": "BROCKHOFF kombiniert rohe Indie-Rock-Qualität mit ehrlichen Texten und einer Stimme, die sanft und stark zugleich klingt. Nach Shows mit Paolo Nutini und ersten internationalen Gigs bringt sie mit ihrem Debütalbum easy p"
   },
   {
-    "titel": "Drangsal - 10 Jahre »Harieschaim«",
+    "titel": "ACUA",
     "datum": "3. Sep 2026",
     "datum_raw": "2026-09-03T19:00+0200",
-    "ort": "Die Kantine / Yard Club, Neusser Landstraße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/drangsal-10-jahre-harieschaim-1/",
+    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
+    "preis": "ab 18 €",
+    "link": "https://rausgegangen.de/events/acua-12/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "\"Vor zehn Jahren brach »Harieschaim«, der Drangsal-Erstling, von Soundcloud über die Charts. Auf „Harieschaim“ wurden Post-Punk und Wave der Achtzigerjahre kontemporär interpretiert, eine Dekade später ist das erste A"
+    "teaser": "popanz ACUA Album Releaseshow w/ JEWLS Donnerstag, 03. September 2026 Einlass 19:00, Beginn 20:00ACUA is a Psych Pop/Alternative band from Cologne, celebrating their new album „Flood My Eyes“, which comes out September 3"
   },
   {
     "titel": "Thimo Niesterok Trio – feat. Tijn Trommelen & Stefan Rey",
@@ -398,5 +298,105 @@
     "link": "https://rausgegangen.de/events/kakao-klang-zeremonie-mit-sound-healing-live-musik-zum-fuhle-68/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Ein Erlebnis für alle Sinne. Musik zum Fühlen und nicht zum intellektuellen Erfassen. Schokolade in ihrer reinsten und ursprünglichen Form zum trinken und erfahren. Spüre wie sich dein Herz öffnet und du vom Kopf in"
+  },
+  {
+    "titel": "Odonische Freitagsbühne",
+    "datum": "4. Sep 2026",
+    "datum_raw": "2026-09-04T18:00+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/odonische-freitagsbuhne-82/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge entdecken Spaß macht "
+  },
+  {
+    "titel": "Jazz- Eat and Talk mit dem Kartsen Vorwerk Trio im ART SALON N18",
+    "datum": "4. Sep 2026",
+    "datum_raw": "2026-09-04T18:30+0200",
+    "ort": "Galerie N18, Norbertstraße 18",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/jazz-eat-and-talk-mit-dem-kartsen-vorwerk-trio-im-art-salon--0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das Karsten Vorwerk Trio ist erneut zu Gast im Artsalon N18. Gemeinsam mit dem bekannten Schlagzeuger Willy Ketzer und dem renommierten Bassisten Jens Foltynowicz erwartet Sie ein Abend, der weit mehr ist als ein Jazzkon"
+  },
+  {
+    "titel": "All-Inn // HVALROSS",
+    "datum": "4. Sep 2026",
+    "datum_raw": "2026-09-04T19:00+0200",
+    "ort": "Tsunami Club, Im Ferkulum 9",
+    "preis": "ab 11 €",
+    "link": "https://rausgegangen.de/events/all-inn-hvalross-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Aus dem Herzen Frankfurts stammend, ist All-Inn die aktuell unverschämteste Liebeserklärung an den Glam & Hair Metal der 80er - laut, wild und kompromisslos theatralisch. Mit gewaltigen Riffs, eingängigen Refrains und"
+  },
+  {
+    "titel": "First Time Flyers - \"Bound to Break\" Europe",
+    "datum": "4. Sep 2026",
+    "datum_raw": "2026-09-04T19:00+0200",
+    "ort": "Gebäude 9, Deutz-Mülheimer Straße 117",
+    "preis": "ab 33 €",
+    "link": "https://rausgegangen.de/events/first-time-flyers-bound-to-break-europe-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Mit wachsender internationaler Resonanz zählen First Time Flyers zu den spannendsten neuen Acts der modernen Country-Szene. Beim diesjährigen C2C: Country to Country Festival in Berlin überzeugte die vierköpfige Band"
+  },
+  {
+    "titel": "Köbes Underground",
+    "datum": "4. Sep 2026",
+    "datum_raw": "2026-09-04T19:00+0200",
+    "ort": "Tanzbrunnen Köln, Rheinparkweg 1",
+    "preis": "ab 39 €",
+    "link": "https://rausgegangen.de/events/kobes-underground-15/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Köbes Underground zeigen seit über 30 Jahren, wie kölsche Cover und schräge Parodien gekonnt zusammenpassen. Ihre Mischung aus Musik und Comedy bringt dir die besten Momente der Stunksitzung frisch auf die Bühne und sorg"
+  },
+  {
+    "titel": "Nils Kercher Trio mit Barou Kouyaté & Kira Kaipainen",
+    "datum": "4. Sep 2026",
+    "datum_raw": "2026-09-04T19:00+0200",
+    "ort": "Kunstzentrum Wachsfabrik Köln, Industriestr. 170",
+    "preis": "ab 25 €",
+    "link": "https://rausgegangen.de/events/nils-kercher-trio-mit-barou-kouyate-kira-kaipainen-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Filigrane und kraftvolle Weltmusik zwischen Westafrika, nordischer Weite und modernem Songwriting. Vielschichtige Klangräume tragen den unter die Haut gehenden Gesang.Der Sänger und Multiinstrumentalist Nils Kercher sc"
+  },
+  {
+    "titel": "Pawel Popolski - PolkaMania!",
+    "datum": "4. Sep 2026",
+    "datum_raw": "2026-09-04T19:00+0200",
+    "ort": "GLORIA Köln, Apostelnstraße 11",
+    "preis": "ab 43 €",
+    "link": "https://rausgegangen.de/events/pawel-popolski-polkamania-14/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Einlass: 18:00 Uhr bestuhlt  In ,,PolkaMania!\", dem neuen Programm von Pawel Popolski geht wieder ,,der Post ab durch der Decke!\". Von den rasenden Rhythmen der Cheavy Metal Polka (Chighway to Chell) bis zur chammerchart"
+  },
+  {
+    "titel": "Shalom Musik Köln: OPEN SHABBAT OFFEN FÜR ALLE: MUSIKALISCHE BEGRÜSSUNG DES SHABBATS",
+    "datum": "4. Sep 2026",
+    "datum_raw": "2026-09-04T19:00+0200",
+    "ort": "Antoniterkirche Köln Gemeindezentrum, Antoniterstraße 14-16",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/shalom-musik-koln-open-shabbat-offen-fur-alle-musikalische-b-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "OPEN SHABBAT war einer der schönsten Überraschungsmomente des letzten Festivals: Der Raum war voller als erwartet, viele kamen einfach neugierig dazu – und am Ende wurde gemeinsam gesungen.Genau dieses offene, verbinde"
+  },
+  {
+    "titel": "Temir Alcy & Basma",
+    "datum": "4. Sep 2026",
+    "datum_raw": "2026-09-04T19:00+0200",
+    "ort": "674FM Konzertraum, Ubierring 13",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/temir-alcy-basma-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Temir Alcy (Enir Da - Cofounder of Dali Muru & The Polyphonic Swarm / multi-instrumentalist Charles Lmx / Bassist Lucas Valero) moves between ambient, leftfield and experimental folk forms, interweaving oneiric atmospher"
+  },
+  {
+    "titel": "The Devil's gonna get you | Blues Dance & Live Music | Grand show | Trixie Mellow sings Bessie Smith & Bert Brecht",
+    "datum": "4. Sep 2026",
+    "datum_raw": "2026-09-04T19:00+0200",
+    "ort": "Theater in der Filmdose, Zülpicher Straße 39",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/the-devils-gonna-get-you-blues-dance-live-music-grand-show-t-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "► THE DEVIL'S GONNA GET YOU | Freitag, 4. September 2026, 19:00 Uhr. GRAND RE-OPENING SHOW. GROSSE WIEDER-ERÖFFNUNGS GALA ★ Live music & dancing ★ Theater in der Filmdose, Zülpicher Str. 39, 50674 Köln, GermanyEINTRIT"
   }
 ]
