@@ -16130,6 +16130,30 @@
     "fetched": "2026-05-05T21:10:26.250697"
   },
   {
+    "id": "ec4ad1de1067",
+    "title": "Täter entwenden Bargeld aus Einfamilienhaus in Wermelskirchen",
+    "summary": "Einbrecher sind am Mittwochabend über den Keller in ein Einfamilienhaus an der Braunsberger Straße eingestiegen. Die Bewohner waren zwischen 17.45 Uhr und 0.10 Uhr nicht zu Hause. Die Polizei bittet Nachbarn, die etwas beobachtet haben, sich zu melden.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/taeter-entwenden-bargeld-aus-einfamilienhaus-in-wermelskirchen-3ZDN2VZQIDKGHXRTVOVUSFIY5A.html",
+    "published": "Thu, 03 Sep 2026 14:39:11 +0200",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-09-03T14:25:41.814711"
+  },
+  {
+    "id": "0143bf0063a0",
+    "title": "POL-RBK: Leichlingen - Letzte Sonderkontrollaktion in diesem Jahr",
+    "summary": "Leichlingen (ots) - Kommenden Sonntag (06.09.) findet zum letzten Mal in diesem Jahr die Sonderkontrollaktion \"Kaffee und Knöllchen\" statt. Die Polizei Rhein-Berg kommt mit Bikerinnen und Bikern zusammen, um miteinander zu sprechen und sich ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6345083",
+    "published": "Thu, 03 Sep 2026 13:05:35 +0200",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-09-03T14:25:44.684734"
+  },
+  {
     "id": "bbb941554e09",
     "title": "POL-RBK: Bergisch Gladbach - Fahrradfahrer beim Abbiegen übersehen",
     "summary": "Bergisch Gladbach (ots) - Gestern Nachmittag (02.09.) kam es in Alt-Refrath zu einer Kollision zwischen einem Auto und einem Fahrrad. Eine Pkw-Fahrerin hatte einen Fahrradfahrer beim Abbiegen übersehen. Eine 84-Jährige aus Bergisch Gladbach befuhr ...",
@@ -16152,6 +16176,18 @@
       "wermelskirchen"
     ],
     "fetched": "2026-09-03T09:39:20.101649"
+  },
+  {
+    "id": "05d9e87f89e2",
+    "title": "120 Kinder werden zu Artisten im Circus ZappZarap",
+    "summary": "Clowns, Trapezkunst, Feuerstäbe und waghalsige Balanceakte: 120 Kinder und Jugendliche verwandelten sich beim Ferienprojekt der Kreativitätsschule Bergisch Gladbach, des Circus ZappZarap und des Sozialen Netzwerks in Zirkusartisten. Rund 600 Menschen erlebten die Abschluss-Shows des interkulturellen Projekts.",
+    "link": "https://in-gl.de/2026/09/03/120-kinder-werden-zu-artisten-im-circus-zappzarap/",
+    "published": "Thu, 03 Sep 2026 06:11:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-09-03T14:25:19.499146"
   },
   {
     "id": "f15d2d9ca2e8",
@@ -16197,7 +16233,8 @@
     "published": "Thu, 03 Sep 2026 02:23:02 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "bergisch-gladbach"
     ],
     "fetched": "2026-09-03T09:39:01.015037"
   },
