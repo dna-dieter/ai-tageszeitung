@@ -10,16 +10,6 @@
     "teaser": "Beim Sommerfest am Stadtwald trifft entspanntes Beisammensein auf kulinarische Vielfalt von Foodtrucks und erfrischenden Drinks. Zwischen Kinderkarussell und Bühnenshow auf gemütlichen Sitzplätzen genießt du eine kleine "
   },
   {
-    "titel": "Hempies Flohmarkt im machwerkhaus köln",
-    "datum": "3. Sep 2026",
-    "datum_raw": "2026-09-03T16:00+0200",
-    "ort": "Hempies im machwerkhaus köln, Dillenburger Straße 87",
-    "preis": "ab 13 €",
-    "link": "https://rausgegangen.de/events/hempies-flohmarkt-im-machwerkhaus-koln-6/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier findest du eine bunte Mischung aus gebrauchten Schätzen und kreativen Unikaten, dazu vegane Snacks und Drinks von Hempies. Der Flohmarkt läuft im Rahmen eines offenen Ateliers, bei dem du Einblick in nachhaltige Arb"
-  },
-  {
     "titel": "Golden Hour at Carls Café Tagesbar",
     "datum": "3. Sep 2026",
     "datum_raw": "2026-09-03T17:00+0200",
@@ -40,16 +30,6 @@
     "teaser": "Mit dem POLISH WEEKEND feiert Europolis Köln e.V. sein 5-jähriges Jubiläum. Die Filmpremiere von „Vaterland - Ojczyzna\" des in Cannes preisgekrönten Regisseurs Paweł Pawlikowski eröffnet in der Filmpalette das Festi"
   },
   {
-    "titel": "Vortrag: \"Was bleibt? Nachnutzung, Zerstörung und Vergessen der Ratskapelle\". Mit Timo Riese",
-    "datum": "3. Sep 2026",
-    "datum_raw": "2026-09-03T19:00+0200",
-    "ort": "MiQua. LVR-Jüdisches Museum im Archäologischen Quartier Köln, Alter Markt 31",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/vortrag-was-bleibt-nachnutzung-zerstorung-und-vergessen-der--0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Der Vortrag von Timo Riese erklärt, wie die Ratskapelle nach Jahrhunderten Nutzung durch den Kölner Rat zum Lager und schließlich zur Ruine wurde. Er zeigt, wie das Bauwerk nach der Säkularisierung verschwand und welchen"
-  },
-  {
     "titel": "Drangsal - 10 Jahre »Harieschaim«",
     "datum": "3. Sep 2026",
     "datum_raw": "2026-09-03T19:00+0200",
@@ -58,6 +38,16 @@
     "link": "https://rausgegangen.de/events/drangsal-10-jahre-harieschaim-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "\"Vor zehn Jahren brach »Harieschaim«, der Drangsal-Erstling, von Soundcloud über die Charts. Auf „Harieschaim“ wurden Post-Punk und Wave der Achtzigerjahre kontemporär interpretiert, eine Dekade später ist das erste A"
+  },
+  {
+    "titel": "Vortrag: \"Was bleibt? Nachnutzung, Zerstörung und Vergessen der Ratskapelle\". Mit Timo Riese",
+    "datum": "3. Sep 2026",
+    "datum_raw": "2026-09-03T19:00+0200",
+    "ort": "MiQua. LVR-Jüdisches Museum im Archäologischen Quartier Köln, Alter Markt 31",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/vortrag-was-bleibt-nachnutzung-zerstorung-und-vergessen-der--0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der Vortrag von Timo Riese erklärt, wie die Ratskapelle nach Jahrhunderten Nutzung durch den Kölner Rat zum Lager und schließlich zur Ruine wurde. Er zeigt, wie das Bauwerk nach der Säkularisierung verschwand und welchen"
   },
   {
     "titel": "BROCKHOFF /// Tour 2026",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/the-devils-gonna-get-you-blues-dance-live-music-grand-show-t-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "► THE DEVIL'S GONNA GET YOU | Freitag, 4. September 2026, 19:00 Uhr. GRAND RE-OPENING SHOW. GROSSE WIEDER-ERÖFFNUNGS GALA ★ Live music & dancing ★ Theater in der Filmdose, Zülpicher Str. 39, 50674 Köln, GermanyEINTRIT"
+  },
+  {
+    "titel": "Night of Stadtgarten | Festival zum 40sten Jubiläum",
+    "datum": "4. Sep 2026",
+    "datum_raw": "2026-09-04T19:00+0200",
+    "ort": "Stadtgarten, Venloer Straße 40",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/night-of-stadtgarten-festival-zum-40sten-jubilaum-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der Stadtgarten feiert 40 Jahre mit einem Festival, das zeigt, wie vielseitig kreative Musik sein kann. Rund 20 Bands aus Jazz, Techno und mehr bringen exklusive Projekte auf die Bühnen, bevor die Party mit lokalen DJs b"
   }
 ]
