@@ -130,16 +130,6 @@
     "teaser": "»fuga« ist eine Komposition für Flöte und Mehrkanal-Elektronik. Das Stück basiert auf umfangreichen Archivrecherchen: Im Zentrum stehen Tonaufnahmen, die Brigitte Schiffer, eine jüdisch-deutsche Komponistin, in den 1"
   },
   {
-    "titel": "Electric Cafe w/ Steve Bud, Marcus Worgull und Nikity",
-    "datum": "6. Sep 2026",
-    "datum_raw": "2026-09-06T15:00+0200",
-    "ort": "PARK Café, Auenweg",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/electric-cafe-w-steve-bud-marcus-worgull-und-nikity-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Steve Bug, Marcus Worgull und Nikity verknüpfen House- und Techno-Elemente zu einem entspannten Nachmittag voller tiefgründiger Beats und ausgewählter Tracks. Hier erwartet dich elektronische Musik, die auf eine reizvoll"
-  },
-  {
     "titel": "Rhythm of Joy – TaKeTiNa Workshop & Fest",
     "datum": "6. Sep 2026",
     "datum_raw": "2026-09-06T15:00+0200",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/amalie-dahl-daughterdaughter-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "DaughterDaughter nennt sich ein kollaboratives Quartett, das mit vier Improvisationskünstlerinnen aus Oslo, Berlin, Köln und Amsterdam besetzt ist. Die in Dänemark geborene und in Oslo lebende Altsaxofonistin Amalie D"
+  },
+  {
+    "titel": "Avishai Cohen – Big Vicious",
+    "datum": "7. Sep 2026",
+    "datum_raw": "2026-09-07T20:00+0200",
+    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
+    "preis": "ab 21 €",
+    "link": "https://rausgegangen.de/events/avishai-cohen-big-vicious-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Cologne Jazzweek 2026Nachdem der Trompeter Avishai Cohen aus New York zurück in seine Heimat Israel nach Tel Aviv gezogen war, rief er für seine neue, elektrische Band befreundete Musiker zusammen, mit denen er schon a"
   }
 ]
