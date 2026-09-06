@@ -74,7 +74,7 @@
     "datum": "6. Sep 2026",
     "datum_raw": "2026-09-06T12:00+0200",
     "ort": "Möbel Leyendecker, Bonner Wall 108",
-    "preis": "ab 6 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/lifestylemarkt-in-der-sudstadt-sudstadtflair-10-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Im alten Gefängnis am Bonner Wall bringen lokale Macher:innen ihre liebsten Designs, Leckereien und Fashion-Stücke zusammen. Hier spürst du das authentische Südstadtflair und kannst kreative Schätze entdecken, die Köln a"
@@ -114,7 +114,7 @@
     "datum": "6. Sep 2026",
     "datum_raw": "2026-09-06T14:00+0200",
     "ort": "Odonien, Hornstraße 85",
-    "preis": "ab 5 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/freu-dich-nicht-zu-spat-charity-day-party-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Am FREU DICH NICHT ZU SPÄT Charity Day feiern Menschen bei elektronischer Musik, gutem Essen und Kunst zusammen, um auf ME/CFS aufmerksam zu machen. Mit Live-Acts, Tombolas und Tattoos entsteht ein bunter Tag voller Geme"
@@ -180,16 +180,6 @@
     "teaser": "1956 gründete Piotr Skrzynecki und KünstlerkollegInnen in Krakau die „Piwnica pod Baranami\" (Keller unter den Widdern). Der Studentenklub entwickelte sich schnell zu einer der bedeutendsten Kulturinstitutionen Polens. "
   },
   {
-    "titel": "Kakaozeremonie & Klangreise, Kräuterreinigung, Meditation, erlebe etwas Neues!",
-    "datum": "6. Sep 2026",
-    "datum_raw": "2026-09-06T18:00+0200",
-    "ort": "room for emotions, Am Maarhof 25",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kakao-klang-zeremonie-mit-sound-healing-live-musik-zum-fuhle-70/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Ein Erlebnis für alle Sinne. Musik zum Fühlen und nicht zum intellektuellen Erfassen. Schokolade in ihrer reinsten und ursprünglichen Form zum trinken und erfahren. Spüre wie sich dein Herz öffnet und du vom Kopf in"
-  },
-  {
     "titel": "LESUNG: „Albert Göring? Nie gehört!“ Hermanns Bruder // Hörbuchprojekt: // SO.6.9.2026 // 18h im o-ton",
     "datum": "6. Sep 2026",
     "datum_raw": "2026-09-06T18:00+0200",
@@ -243,7 +233,7 @@
     "titel": "Cozy Concert",
     "datum": "6. Sep 2026",
     "datum_raw": "2026-09-06T19:00+0200",
-    "ort": "Geheimer Ort, Köln",
+    "ort": "Cologne Beach House, Roonstraße 63A",
     "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/cozy-concert-34/",
     "quelle": "Rausgegangen Köln",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/avishai-cohen-big-vicious-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Cologne Jazzweek 2026Nachdem der Trompeter Avishai Cohen aus New York zurück in seine Heimat Israel nach Tel Aviv gezogen war, rief er für seine neue, elektrische Band befreundete Musiker zusammen, mit denen er schon a"
+  },
+  {
+    "titel": "Avishai Cohen – Big Vicious",
+    "datum": "7. Sep 2026",
+    "datum_raw": "2026-09-07T20:00+0200",
+    "ort": "Kölner Philharmonie, Bischofsgartenstraße 1",
+    "preis": "ab 16 €",
+    "link": "https://rausgegangen.de/events/avishai-cohen-big-vicious-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Avishai Cohen vereint mit seiner Band Big Vicious jazzige Improvisation mit rockigen und elektronischen Elementen, die zwischen TripHop und Ambient changieren. Sein feinsinniger Sound baut auf filigrane Melodien und zwei"
   }
 ]
