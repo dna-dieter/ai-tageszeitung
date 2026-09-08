@@ -64,7 +64,7 @@
     "datum": "8. Sep 2026",
     "datum_raw": "2026-09-08T19:00+0200",
     "ort": "Volksbühne am Rudolfplatz, Aachener Straße 5",
-    "preis": "ab 47 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/the-divine-teasers-ladies-night-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "THE DIVINE TEASERS – LADIES NIGHTGlamour, Glitzer & gefeierte Frauen!TERMIN:Di. 08. September 2026BEGINN:19.00 UhrKARTEN:€ 46,00 THE DIVINE TEASERS – LADIES NIGHT  08.09. — Glamour, Glitzer & gefeierte Frauen!Seit 2017 v"
@@ -144,7 +144,7 @@
     "datum": "8. Sep 2026",
     "datum_raw": "2026-09-08T20:00+0200",
     "ort": "King Georg, Sudermanstraße 2",
-    "preis": "ab 10 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/paula-steimer-quintett-bachelor-abschlusskonzert-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "An diesem Konzertabend präsentiert die Saxophonistin Paula Steimer gemeinsam mit ihrem Quintett ihr Bachelor-Abschlusskonzert. Nach fünf Jahren Jazzstudium an der Hochschule für Musik und Tanz Köln markiert dieser Ab"
@@ -178,6 +178,16 @@
     "link": "https://rausgegangen.de/events/tanzen-wie-in-alten-zeiten-7/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Tanzen und Mitsingen für die goldene Generation Durch den Nachmittag führt gesanglich und live die charismatische Sängerin Jennifer Palm mit ihren Cover-Darbietungen, begleitet vom 1st Class Entertainment DJ, es wird "
+  },
+  {
+    "titel": "LETS JAM - einfach gemeinsam Musik machen",
+    "datum": "9. Sep 2026",
+    "datum_raw": "2026-09-09T18:00+0200",
+    "ort": "BOX Theater in der Südstadt, Sachsenring 3",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/lets-jam-einfach-gemeinsam-musik-machen-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Box hat fast alles, jetzt fehlt nur noch Musik! 🎶 Am 9. September ab 18 Uhr wird im Box Theater Köln gemeinsam gejammt: egal ob du seit Jahren Musik machst oder dein Instrument gerade erst für dich entdeckst.Bring "
   },
   {
     "titel": "Matthias Muche – BONECRUSHER",
@@ -348,16 +358,6 @@
     "link": "https://rausgegangen.de/events/jaguar-sun-daisy-tour-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Jaguar Sun kombiniert sanfte Folk-Melodien mit einem Hauch von Dream Pop und Rock, inspiriert von Bands wie Big Thief und Youth Lagoon. Chris Miniellys DIY-Ansatz macht jede Aufnahme zu einem intimen Erlebnis. Dazu gibt’"
-  },
-  {
-    "titel": "Köster & Weggefährten - Stabil nervös",
-    "datum": "9. Sep 2026",
-    "datum_raw": "2026-09-09T20:00+0200",
-    "ort": "GLORIA Köln, Apostelnstraße 11",
-    "preis": "ab 32 €",
-    "link": "https://rausgegangen.de/events/koster-weggefahrten-stabil-nervos-4/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Einlass: 19:00 Uhr bestuhlt  Wir alle vermissen ihn. Frank ist nicht mehr da, aber unsere Babies, sprich: Songs, haben ein Recht darauf weiterzuleben.  Deshalb habe ich in Übereinstimmung mit allen Beteiligten beschloss"
   },
   {
     "titel": "Albe Festival 2026",
