@@ -4029,6 +4029,43 @@
     "fetched": "2026-05-05T21:10:26.249783"
   },
   {
+    "id": "021576dd643b",
+    "title": "Wie Diabetes zur Amputation führte – Burscheider Politiker warnt jetzt",
+    "summary": "Eine Wunde am Zeh, die nicht heilte – am Ende verlor Volker Höttgen Zehen und Mittelfuß. Der Burscheider Kommunalpolitiker nutzt seine Erfahrung, um andere zu warnen. Jetzt stand er für ein besonderes Fotoprojekt in Berlin vor der Kamera.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/wie-diabetes-zur-amputation-fuehrte-burscheider-politiker-warnt-jetzt-ZXS322EXWVAMJPAXFC5EOGC3ZU.html",
+    "published": "Wed, 09 Sep 2026 05:00:14 +0200",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-09-09T05:54:57.644000"
+  },
+  {
+    "id": "7c94b6f957d6",
+    "title": "Kampagne gegen vermeidbare Amputationen: AmpuNation wirbt mit Porträts Betroffener",
+    "summary": "69.534 Amputationen der unteren Gliedmaßen wurden 2023 in Deutschland durchgeführt. Viele davon hätten verhindert werden können – durch frühere Diagnosen und bessere Behandlung. Eine neue Kampagne zeigt die Menschen hinter den Zahlen.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/kampagne-gegen-vermeidbare-amputationen-ampunation-wirbt-mit-portraets-betroffener-LMIYOZ67LFFRPI25DGQPQLK7VE.html",
+    "published": "Wed, 09 Sep 2026 04:00:00 +0200",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "bergisch-gladbach",
+      "burscheid"
+    ],
+    "fetched": "2026-09-09T05:54:57.644034"
+  },
+  {
+    "id": "a3cd8121e001",
+    "title": "Filmabend abgesagt – Burscheider Beirat investiert lieber in wetterfesten Pavillon",
+    "summary": "Inklusionsbeirat verschiebt einen geplanten Filmabend. Mit den restlichen Mitteln aus dem Etat soll nun ein Pavillon angeschafft werden – als Unterstand.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/filmabend-abgesagt-burscheider-beirat-investiert-lieber-in-wetterfesten-pavillon-ZSW72TWTNFDQXMHCOIDVBFB77E.html",
+    "published": "Wed, 09 Sep 2026 03:00:00 +0200",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-09-09T05:54:57.644064"
+  },
+  {
     "id": "a1ea2ca52d48",
     "title": "Von Drache Kokosnuss bis Zaubershow – Stadtbücherei Burscheid feiert den September",
     "summary": "Die Stadtbücherei Burscheid hat im September einiges zu bieten: Literaturfreunde kommen ebenso auf ihre Kosten wie Kinder und Gesundheitsinteressierte. Was genau wann stattfindet.",
@@ -4039,6 +4076,18 @@
       "burscheid"
     ],
     "fetched": "2026-09-09T00:05:56.997772"
+  },
+  {
+    "id": "a695d15f6545",
+    "title": "Handypause: NCG verbannt Handys aus der Schule",
+    "summary": "Künftig müssen Schülerinnen und Schüler des Nicolaus-Cusanus-Gymnasiums ihre Handys und Smartwatches ausgeschaltet in einer magnetisch verschließbaren Tasche aufbewahren. Erst nach Unterrichtsschluss können sie sie an den Ausgängen des Schulgebäudes wieder in Betrieb nehmen. Weitere Schulen in Bergisch Gladbach planen ähnliche Regelungen.",
+    "link": "https://in-gl.de/2026/09/09/handypause-ncg-wird-zur-smartphone-freien-schule-bergisch-gladbach/",
+    "published": "Wed, 09 Sep 2026 00:31:34 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-09-09T05:54:38.412882"
   },
   {
     "id": "19a3b4360a27",
@@ -10094,6 +10143,18 @@
     "fetched": "2026-05-05T21:10:26.250010"
   },
   {
+    "id": "cb165db690e2",
+    "title": "Unternehmerpreis Rhein-Berg geht an Udo Fielenbach",
+    "summary": "Udo Fielenbach hat die joke Technology GmbH vom Handelsunternehmen zum international gefragten Produktentwickler ausgebaut. Für seine Innovationskraft, sein regionales Engagement und sein unternehmerisches Handeln ist er jetzt mit dem Rheinisch-Bergischen Unternehmerpreis ausgezeichnet worden.",
+    "link": "https://in-gl.de/2026/09/09/6-rheinisch-bergischer-unternehmerpreis-geht-an-udo-fielenbach-joke/",
+    "published": "Tue, 08 Sep 2026 23:51:20 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-09-09T05:54:38.412922"
+  },
+  {
     "id": "274f6a77a318",
     "title": "Das GL-Wort – jeden Morgen neu",
     "summary": "Spielen Sie mit uns - und lösen Sie jeden Tag ein neues Worträtsel.",
@@ -10116,6 +10177,18 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-09-08T21:47:01.350456"
+  },
+  {
+    "id": "d6b978eadd38",
+    "title": "Auf einen fairen Kaffee in die Villa Zanders",
+    "summary": "Während der „Fairen Woche“ verwandelt sich Wintergarten und Grüner Salon des Kunstmuseums Villa Zanders während des Stadt- und Kulturfests für einen Tag in ein Café. Zudem ist der Eintritt an diesem Samstag frei.",
+    "link": "https://in-gl.de/2026/09/08/auf-einen-fairen-kaffee-in-die-villa-zanders/",
+    "published": "Tue, 08 Sep 2026 17:40:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-09-09T05:54:38.412969"
   },
   {
     "id": "a42796bb6039",
@@ -10152,6 +10225,18 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-09-08T21:47:01.350538"
+  },
+  {
+    "id": "369c00f9317b",
+    "title": "„Vier Saiten für die Zukunft“",
+    "summary": "Der Ganey-Tikva-Verein und der Förderverein des Symphonieorchesters Bergisch Gladbach unterstützen eine junge israelische Geigerin - mit einem Spendenaufruf für eine einzigartiges Instrument und mit gemeinsamen Auftritten.",
+    "link": "https://in-gl.de/2026/09/08/vier-saiten-fuer-die-zukunft/",
+    "published": "Tue, 08 Sep 2026 17:01:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-09-09T05:54:38.413019"
   },
   {
     "id": "e2dc58cb9c19",
