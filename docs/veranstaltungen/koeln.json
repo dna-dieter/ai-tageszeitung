@@ -1,265 +1,5 @@
 [
   {
-    "titel": "PhilharmonieProbe",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T12:00+0200",
-    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
-    "preis": "ab 2 €",
-    "link": "https://rausgegangen.de/events/philharmonieprobe-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Gürzenich-Orchester Köln | Andrés Orozco-Estrada30 Minuten einer Probe erleben"
-  },
-  {
-    "titel": "ARE YOU GLAD TO BE IN America?",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T12:30+0200",
-    "ort": "Asimmetric Bar, Venloer Straße 196",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/are-you-glad-to-be-in-america-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "ARE YOU GLAD TO BE IN America? ist ein transatlantisches Power-Trio: Im Mittelpunkt steht Simone Magioncalda, ein junger Gitarrist aus Genua, Italien, geboren 2006. Bass spielt Kenneth Jimenez, der ursprünglich aus Cost"
-  },
-  {
-    "titel": "ARE YOU GLAD TO BE IN America?",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T12:30+0200",
-    "ort": "Asimmetric Bar, Venloer Straße 196",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/are-you-glad-to-be-in-america-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "ARE YOU GLAD TO BE IN America? ist ein transatlantisches Power-Trio: Im Mittelpunkt steht Simone Magioncalda, ein junger Gitarrist aus Genua, Italien, geboren 2006. Bass spielt Kenneth Jimenez, der ursprünglich aus Cost"
-  },
-  {
-    "titel": "Pressekonferenz und Networking-Event von Rausgegangen und der Stadt Köln: Projekt zur Barrierefreiheit",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T16:30+0200",
-    "ort": "Orangerie-Theater, Volksgartenstraße 25",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/pressekonferenz-rausgegangen-stadt-koln-projekt-zur-barriere-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Von Köln für ganz Deutschland: Rausgegangen macht Informationen zur Zugänglichkeit von Events sichtbarer. Wir laden euch gemeinsam mit der Stadt Köln zu unserer Pressekonferenz & Get Together zum Thema Barrierefreiheit e"
-  },
-  {
-    "titel": "SONIC CHESS CLUB Vol. 7",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T18:00+0200",
-    "ort": "OTTO CANNOLI  Café + Bar, Schadowstraße 55",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/sonic-chess-club-vol-7-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "F#.k yeah, let’s have another round at Cologne’s awesome SONIC CHESS CLUB!Get a drink, play some chess, listen to music, chat with friends.As simple as that.Free entry | All levels welcomeEin Barabend mit Schach & Musikw"
-  },
-  {
-    "titel": "Tagesticket / day ticket: September 10 –  Ehrenfeld Night",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T19:00+0200",
-    "ort": "Ehrenfeld, Köln",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/tagesticket-ehrenfeld-night-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Am 10. September hast du mit dem Tagesticket Zugang zu einem quer durch Ehrenfeld verteilten Mix aus Jazz, Hip-Hop und Indie. Von Sam Gendel bis BIG BREEEZY bringt das Programm verschiedene Klangwelten zusammen, die so s"
-  },
-  {
-    "titel": "Doppelkonzert: Anatole Muster / Sam Gendel, Ethan Braun & Ugné Uma",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T19:00+0200",
-    "ort": "artheater Köln, Ehrenfeldgürtel 127",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/doppelkonzert-anatole-muster-sam-gendel-ethan-braun-ugne-uma-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Sam Gendel, Ugnė Uma und Ethan Braun kreieren mit ihrem gemeinsamen Projekt einen Klangkosmos aus zerbrechlichen Soundscapes und abstraktem Pop, der zum Hinhören einlädt. Später bringt Anatole Muster sein Akkordeon virt"
-  },
-  {
-    "titel": "KROM @ LOFT:  Fabian Dudek, Chaerin Im & special guest / Julia Sanjurjo – The Paul Motian Songbook / BIG BREEEZY & the TOXIC TWINZ",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T19:00+0200",
-    "ort": "Loft Köln, Wissmannstr. 30",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/krom-loft-fabian-dudek-chaerin-im-special-guest-julia-sanjur-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "KROM bringt sieben Musiker:innen aus vier Ländern zusammen, die mit offenen Ohren und viel Vertrauen eine spannende Mischung aus Jazz, elektronischen Klängen und Gesang formen. Julia Sanjurjo gibt Paul Motians Kompositio"
-  },
-  {
-    "titel": "Premierentour: Adams Acht // Tipp",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T19:00+0200",
-    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/premierentour-adams-acht-tipp-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Oliver Masucci erzählt in Adams Acht von Außenseiter:innen, die sich gegen Widerstände entgegen aller Erwartungen zu Olympiasieger:innen rudern. Das Drama zeigt, wie Mut und Zusammenhalt in einer geteilten Zeit zu einer "
-  },
-  {
-    "titel": "Dreissigacker Weintasting & Taco's @Bacchus",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T19:00+0200",
-    "ort": "Weinstube Bacchus, Rathenauplatz 17",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/dreissigacker-weintasting-tacos-bacchus-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier probierst du Weine von Dreissigacker ganz ohne Fachsimpelei und bekommst nebenbei etwas zur Geschichte und zum Geschmack erzählt. Dazu gibt es Tacos und wohl auch ein paar ältere Jahrgänge, also eher lockere Entdeck"
-  },
-  {
-    "titel": "CLARION - Blue Fairy Tour 2026",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T19:00+0200",
-    "ort": "Helios37, Heliosstraße 37",
-    "preis": "ab 24 €",
-    "link": "https://rausgegangen.de/events/clarion-blue-fairy-tour-2026-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Formed, almost accidentally, in a shared east LA lockout, the members of Clarion came together to write music together in late 2023. Anthony, Saya and Joseph had all had spent time in the local DIY scene of East Los Ange"
-  },
-  {
-    "titel": "Konzert der Jungen Waldorf Philharmonie - Köln",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T19:00+0200",
-    "ort": "Hochschule für Musik und Tanz Köln, Unter Krahnenbäumen 87",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/konzert-der-jungen-waldorf-philharmonie-koln-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die Junge Waldorf Philharmonie ist ein Jugendorchesterprojekt, welches ehrenamtlich von Jugendlichen organisiert wird. Seit 22 Jahren findet jährlich eine Konzerttournee statt.Junge Musiker*innen finden sich in der Jung"
-  },
-  {
-    "titel": "shalom musik köln: MIZMOR LE DAVID - PSALMEN DAVIDS -ABSCHLUSSKONZERT MIT DAME EMMA KIRKBY",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T19:00+0200",
-    "ort": "Trinitatiskirche, Filzengraben 4, 50676 Köln, Filzengraben 4",
-    "preis": "ab 12 €",
-    "link": "https://rausgegangen.de/events/shalom-musik-koln-mizmor-le-david-psalmen-davids-abschlussko-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Mit Dame Emma Kirkby steht eine der bedeutendsten Stimmen der Alten Musik im Zentrum dieses Abschlusskonzerts. Ihre klare, unverwechselbare Stimme prägt einen Abend, der ganz im Zeichen der Psalmen steht.Zum Abschluss v"
-  },
-  {
-    "titel": "LESUNG - Lisa Roy",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T19:30+0200",
-    "ort": "Buchladen Sülzburgstraße 27, Sülzburgstraße 27",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/lesung-lisa-roy-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Lisa Roy erzählt in ihrem Roman von Jana, die nach einer Trennung und einer überraschenden Schwangerschaft auf einem Roadtrip zwischen Unsicherheit und Hoffnung das Glück neu entdeckt. Ihre Mischung aus Humor, Poesie und"
-  },
-  {
-    "titel": "FARIN URLAUB ÜBERS REISEN",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T19:30+0200",
-    "ort": "Carlswerk Victoria, Schanzenstr. 6-20",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/farin-urlaub-ubers-reisen-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "FARIN URLAUB ist schon gereist, bevor er in einer Band Musik machte. Von seinem Ziel, die ganze Welt zu sehen, ist er zwar noch immer weit en=ernt, aber schon seit einigen Jahrzehnten zieht es ihn auf Reisen immer wieder"
-  },
-  {
-    "titel": "KAU & blu/quartet x Jakob Bänsch x Cage",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T20:00+0200",
-    "ort": "Garagen Club Köln, Oskar-Jäger-Straße 179",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kau-bluquartet-x-jakob-bansch-x-cage-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "KAU & blu/quartet kombinieren analoge Synthesizer mit den warmen Klängen eines Streichquartetts und gesellen sich zu Trompete und Gesang von Jakob Bänsch und Cage. Ihre frische EP erweitert die Grenzen zwischen Elektro, "
-  },
-  {
-    "titel": "B-Tight / Die Besten Stücke",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T20:00+0200",
-    "ort": "CBE Sommergarten, Bartholomäus-Schink-Straße 65/67",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/b-tight-die-besten-stucke-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "B-Tight – Biografie (2026) B-Tight gehört seit den frühen 2000ern zu den prägenden Stimmen des deutschen Rap. Bekannt geworden als Teil der legendären Aggro Berlin-Ära, setzte er früh Maßstäbe mit einem Sound, der"
-  },
-  {
-    "titel": "Horst & Gretl Will Preisträgerkonzert: Roger Kintopf’s CIPHER",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T20:00+0200",
-    "ort": "Stadtgarten, Venloer Straße 40",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/horst-gretl-will-preistragerkonzert-roger-kintopfs-cipher-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Roger Kintopf ist Preisträger des Horst & Gretl Will Jazzpreis 2026! Das Preisträgerkonzert spielt er mit seinem Projekt CIPHER.Roger Kintopf’s CIPHER erschafft eine neuartige Klangwelt: Musik als strukturierte Poesie,"
-  },
-  {
-    "titel": "Klüngelköpp",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T20:00+0200",
-    "ort": "GLORIA Köln, Apostelnstraße 11",
-    "preis": "ab 32 €",
-    "link": "https://rausgegangen.de/events/klungelkopp-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Einlass: 19:00 Uhr unbestuhlt  Die Klüngelköpp sind zurück in ihrem Wohnzimmer. Die jährlichen Konzerte der kölschen Kult-Gruppe im GLORIA sind absolute Highlights, denn in der Regel gibt es hier neben weiteren musi"
-  },
-  {
-    "titel": "Lied United - Die Reihe für akustisches Liedgut",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T20:00+0200",
-    "ort": "Loreley, Lindenstraße 65",
-    "preis": "ab 8 €",
-    "link": "https://rausgegangen.de/events/lied-united-die-reihe-fur-akustisches-liedgut-5/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zwischen rauer Wärme und stiller IntimitätWenn die treuen Stammgäste der Kölner Indie-Konzertreihe Lied United die Sommerpause überstanden haben, hat die Crew des Musikernetzwerkes eine starke Belohnung in Form eine"
-  },
-  {
-    "titel": "Musa Dagh",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T20:00+0200",
-    "ort": "MTC - LIVE❌MUSIC❌CLUB, Zülpicher Str. 10",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/musa-dagh-9/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": ""
-  },
-  {
-    "titel": "open excess - mixed-abled Jazz Trio feat. Isabelle Bodenseh",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T20:00+0200",
-    "ort": "King Georg, Sudermanstraße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/open-excess-mixed-abled-jazz-trio-feat-isabelle-bodenseh-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Lucca Keller (Piano), Torben Schug (Bass) und Till Menzer (Schlagzeug) feat. Isabelle Bodenseh (Flöte) open excess tritt für beides an: mitreißenden Jazz und die Öffnung von Jazzkonzertbühnen in Deutschland für mehr"
-  },
-  {
-    "titel": "The Lana Petrovič Quintet feat. Ben Fitzpatrick",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T20:00+0200",
-    "ort": "Salon De Jazz, Severinskloster 3a",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/the-lana-petrovic-quintet-feat-ben-fitzpatrick-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "The quintet led by Slovenian singer Lana Petrović is an international ensemble bringing together musicians from five European countries: Slovenia, Ireland, Italy, Germany, and Spain. Rooted in traditional jazz yet drive"
-  },
-  {
-    "titel": "Farhot",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T20:30+0200",
-    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/farhot-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Farhot mixt lässig Hip-Hop-Beats mit jazzigen Elementen, dazu kommen präzise Drums und ein markantes Saxophon. Nach Jahren an der Produktionstasten zeigt das Trio, wie tief verwurzelte Beats live richtig grooven können 😌"
-  },
-  {
-    "titel": "Groove Cologne - Concert & Jam-Session",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T21:00+0200",
-    "ort": "Jameson Pub Cologne, Friesenstr 30 - 40",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/groove-cologne-concert-jam-session-9/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Live-Concert and Jam-Session at Jameson Destillery Pup! Opening concert of our house-band, afterwards the stage will be open to jam. Bring your instrument or use ours and lets rock into the night! Everybody and every sty"
-  },
-  {
-    "titel": "Chiquitamagic",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T22:30+0200",
-    "ort": "JAKI, Venloer Str. 40",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/chiquita-magic-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Als sich das Quartett GEORGE um den Schlagzeuger John Hollenbeck gründete, war die Keyboarderin und Sängerin Chiquitamagic aka Isis Paola Giraldo eine angenehme Überraschung im Line-up. Trotz ihrer Präsenz in den EDM"
-  },
-  {
     "titel": "Paul Heller – Andy Haderer Quintet  feat. Hubert Nuss, Martin Gjakonovski, Dominik Raab",
     "datum": "11. Sep 2026",
     "datum_raw": "2026-09-11T00:00+0200",
@@ -300,6 +40,16 @@
     "teaser": "Das MILLENNIUM Trombone Quartet besteht aus vier der aufregendsten deutschen Jazz-Posaunisten der neusten Generation. Nicolaj Wolf, Paul Lüpfert, Philipp Hayduk und Kai Baumgarten verbinden Modern Jazz mit Kammermusik i"
   },
   {
+    "titel": "Drink & Dance x WETDREAMS.COLLECTIVE Vol.2",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T16:00+0200",
+    "ort": "Kleine Freiheit, Luxemburger Straße 156",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/drink-dance-x-wetdreamscollective-vol2-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das WETDREAMS.COLLECTIVE sorgt bei Drink & Dance Vol.2 mit treibenden Elektro- und Techno-Sounds für den perfekten Einstieg ins Wochenende. Hier kannst du schon am Nachmittag entspannen, tanzen und günstige Drinks genieß"
+  },
+  {
     "titel": "Spätsommer-Genuss: Feierabendmarkt in Ehrenfeld",
     "datum": "11. Sep 2026",
     "datum_raw": "2026-09-11T16:00+0200",
@@ -320,6 +70,16 @@
     "teaser": "Herzliche Einladung zu „Joy of Singing“ – gemeinsames Singen von Liedern, die verbinden und gut tun.Wir singen Lieder, die leicht zu lernen sind und ohne Noten oder Textblätter auskommen. Durch das wiederholte Singen en"
   },
   {
+    "titel": "Hands off",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T17:00+0200",
+    "ort": "Schillplatz, Mauenheimer Str. 23",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/handsoff/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "In der interaktiven Ausstellung „Hands off“ erkundest du, wie Berührung, Freiheit und der Raum beim Feiern zusammenhängen. Hier kannst du zuhören, mitreden und bei den täglichen Happening-Terminen spürt ihr gemeinsam den"
+  },
+  {
     "titel": "Mitsing-Konzert für Frauen mit Grenzenlos / Church-Rocking",
     "datum": "11. Sep 2026",
     "datum_raw": "2026-09-11T17:00+0200",
@@ -330,14 +90,14 @@
     "teaser": "Ein Mitsing-Konzert nur für Frauen! Wir singen gemeinsam, denn singen macht gute Laune! Freu dich auf bekannte Pop-Songs, kölsche Lieder, Rockhymnen, Lieblings-Schlager, und vielleicht die ein oder andere Überraschung"
   },
   {
-    "titel": "Kakaozeremonie & Klangreise, Kräuterreinigung, Meditation, erlebe etwas Neues!",
+    "titel": "Korken & Klub Afterwork",
     "datum": "11. Sep 2026",
     "datum_raw": "2026-09-11T18:00+0200",
-    "ort": "room for emotions, Am Maarhof 25",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kakao-klang-zeremonie-mit-sound-healing-live-musik-zum-fuhle-71/",
+    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/korken-klub-afterwork-9/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Ein Erlebnis für alle Sinne. Musik zum Fühlen und nicht zum intellektuellen Erfassen. Schokolade in ihrer reinsten und ursprünglichen Form zum trinken und erfahren. Spüre wie sich dein Herz öffnet und du vom Kopf in"
+    "teaser": "Freitagabend im CBE Garten heißt es entspannt bei House- und R&B-Sounds mit Live-Instrumenten. Neben leckeren Foodtrucks gibt’s faire Flaschenpreise und eine feine Weinauswahl – perfekt zum Runterkommen vor’m Wochenende "
   },
   {
     "titel": "Odonische Freitagsbühne",
@@ -350,14 +110,24 @@
     "teaser": "Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge entdecken Spaß macht "
   },
   {
-    "titel": "BeTONt (1) Stabat Mater - Pergolesi und Pärt in einem Konzert",
+    "titel": "ARTES BOMBEROS N°3",
     "datum": "11. Sep 2026",
-    "datum_raw": "2026-09-11T19:00+0200",
-    "ort": "St. Gertrud Köln, Krefelder Straße 57",
+    "datum_raw": "2026-09-11T18:00+0200",
+    "ort": "Alte Feuerwache Köln, Melchiorstraße 3",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/betont-i-stabat-mater-0/",
+    "link": "https://rausgegangen.de/events/artes-bomberos-n3-1/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "CoGNiMUS präsentiert in einer halbszenischen Aufführung die Stabat Mater-Vertonungen von G.B. Pergolesi und Arvo Pärt.Die Performance widmet sich der zentralen Botschaft, dass Trauer, Mitgefühl und Trost nicht allein"
+    "teaser": "Die dritte ARTES BOMBEROS zeigt frischen Zeitgenoss:innenkunst-Mix aus Malerei, Fotografie und mehr, der Inspirationen aus dem urbanen Alltag aufgreift. Junge Künstler:innen aus verschiedensten Richtungen bringen so den "
+  },
+  {
+    "titel": "Kakaozeremonie & Klangreise, Kräuterreinigung, Meditation, erlebe etwas Neues!",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T18:00+0200",
+    "ort": "room for emotions, Am Maarhof 25",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/kakao-klang-zeremonie-mit-sound-healing-live-musik-zum-fuhle-71/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Ein Erlebnis für alle Sinne. Musik zum Fühlen und nicht zum intellektuellen Erfassen. Schokolade in ihrer reinsten und ursprünglichen Form zum trinken und erfahren. Spüre wie sich dein Herz öffnet und du vom Kopf in"
   },
   {
     "titel": "Doppelkonzert: Sam Amidon & Sam Gendel / GEORGE",
@@ -370,6 +140,16 @@
     "teaser": "Sam Amidon und Sam Gendel verbinden in ihrem Doppelkonzert Folk-Roots und experimentellen Jazz zu überraschenden Klanglandschaften. Während Amidons Wurzeln in weiß- und schwarzamerikanischer Musik liegen, bricht Gendel t"
   },
   {
+    "titel": "BeTONt (1) Stabat Mater - Pergolesi und Pärt in einem Konzert",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T19:00+0200",
+    "ort": "St. Gertrud Köln, Krefelder Straße 57",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/betont-i-stabat-mater-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "CoGNiMUS präsentiert in einer halbszenischen Aufführung die Stabat Mater-Vertonungen von G.B. Pergolesi und Arvo Pärt.Die Performance widmet sich der zentralen Botschaft, dass Trauer, Mitgefühl und Trost nicht allein"
+  },
+  {
     "titel": "FOY VANCE",
     "datum": "11. Sep 2026",
     "datum_raw": "2026-09-11T19:00+0200",
@@ -380,23 +160,243 @@
     "teaser": "Das siebte Album von Foy Vance, The Wake, markiert den Abschluss einer jahrzehntelangen Reise, die von unermüdlicher Selbstsuche und lebensverändernden Offenbarungen geprägt ist. Während eines Auftritts auf der spani"
   },
   {
-    "titel": "🎉 Eröffnungsfeier Yoga Liebe 3.0 - Tag der offenen Tür ✨",
-    "datum": "12. Sep 2026",
-    "datum_raw": "2026-09-12T10:00+0200",
-    "ort": "Yoga Liebe 3.0, Hochstadenstraße 1-3",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/eroffnungsfeier-yoga-liebe-30-tag-der-offenen-tur-0/",
+    "titel": "Foy Vance - The Wake World Tour",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T19:00+0200",
+    "ort": "Lutherkirche Nippes, Siebachstraße 85",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/foy-vance-the-wake-world-tour-3/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Wir feiern – und du bist herzlich eingeladen! 🤍Nach vielen Monaten voller Ideen, Planung und ganz viel Herzblut möchten wir die Eröffnung unseres neuen Studios Yoga Liebe 3.0 endlich gemeinsam mit euch feiern.Am Samsta"
+    "teaser": "€1 per ticket goes to International Justice Mission: https://www.ijm.org/Das siebte Album von Foy Vance, The Wake, markiert den Abschluss einer jahrzehntelangen Reise, die von unermüdlicher Selbstsuche und lebensveränd"
   },
   {
-    "titel": "12. und 13. September BLOCK PARTY / Lindenstraßenfest 2026 / Am Sonntag in Kooperation mit Tag des guten Lebens",
-    "datum": "12. Sep 2026",
-    "datum_raw": "2026-09-12T12:00+0200",
-    "ort": "INJERA, Lindenstraße 86",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/12-und-13-september-block-party-lindenstraenfest-2026-am-son-0/",
+    "titel": "Foy Vance - The Wake World Tour",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T19:00+0200",
+    "ort": "Lutherkirche Nippes, Siebachstraße 85",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/foy-vance-the-wake-world-tour-4/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Am 12. und 13. September feiern wir wieder unsere BLOCK PARTY. Dort erwarten die Besucher ein großes Kinderparadies mit XXL Hüpfburg, Live Musik, Street Yoga, Flohmarkt, BBQ, Soulfood, Drinks und Kuchen. Weitere Infos f"
+    "teaser": "€1 per ticket goes to International Justice Mission: https://www.ijm.org/Das siebte Album von Foy Vance, The Wake, markiert den Abschluss einer jahrzehntelangen Reise, die von unermüdlicher Selbstsuche und lebensveränd"
+  },
+  {
+    "titel": "Gong Puja -  Eine besondere Nacht im Klangkino",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T19:00+0200",
+    "ort": "Klangkino, Hansaring 61",
+    "preis": "ab 140 €",
+    "link": "https://rausgegangen.de/events/gong-puja-eine-besondere-nacht-im-klangkino-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Gong Puja! (zum Vollmond)mit Gastkünstler Stefan Sekulla (Loving Life Experience)Erlebe eine besondere Nacht im Klangkino mit den heilsamen, kosmischen Klängen der großen Gongs. Lass dich von den Frequenzen auf san"
+  },
+  {
+    "titel": "JUJU ROGERS",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T19:00+0200",
+    "ort": "Helios37, Heliosstraße 37",
+    "preis": "ab 29 €",
+    "link": "https://rausgegangen.de/events/juju-rogers-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "On September 11, JuJu Rogers returns to Cologne. Presented by HEAVY FEELINGS, this special stop will see JuJu perform music from Pink Guitars, Spaceships N Voodoo Dolls, backed by a full live band.Rooted in New Orleans a"
+  },
+  {
+    "titel": "Lachkater Die Stand Up Comedy Show",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T19:00+0200",
+    "ort": "Friesenstraße 54, Friesenstraße 54, 50670 Köln, Deutschland",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/lachkater-die-stand-up-comedy-show-584/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": ">> nur 3 min fußläufig vom Friesenplatz 🚀Hier wird die Katze aus dem Sack gelacht! 😹Der erste 🎤 Stand Up Comedy Boom Deutschlands macht sich auch in Köln bemerkbar.Hier darfst du live dabei sein, wenn die gefragtesten "
+  },
+  {
+    "titel": "MASSENDEFEKT Releaseshow",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T19:00+0200",
+    "ort": "Gebäude 9, Deutz-Mülheimer Straße 117",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/massendefekt-releaseshow-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "📍 Gebäude 9, Köln 📅 11.09.2026 ⏰ ab 19:00 Uhr Tickets: https://www.massendefekt-shop.deMit ihrem neuen, selbstbetitelten Album „MASSENDEFEKT“ (VÖ: 11.09.2026) setzt die Band dabei bewusst auf Aufbruch statt Rückschau"
+  },
+  {
+    "titel": "ONE HOT MINUTE – Die Red Hot Chili Peppers Tribute Band",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T19:00+0200",
+    "ort": "Blue Shell, Luxemburger Straße 32",
+    "preis": "ab 11 €",
+    "link": "https://rausgegangen.de/events/one-hot-minute-die-red-hot-chili-peppers-tribute-band-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Fr., 11.09.26Einlass 19 Uhr  Beginn 20 Uhr Blue Shell Live:  ONE HOT MINUTE – Die Red Hot Chili Peppers Tribute BandAlternative Rock / Funk Rock ONE HOT MINUTE steht für energiegeladene Live-Shows, musikalische Präzisi"
+  },
+  {
+    "titel": "sarah4k",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T19:00+0200",
+    "ort": "YUCA, Bartholomäus-Schink-Straße 65",
+    "preis": "ab 23 €",
+    "link": "https://rausgegangen.de/events/sarah4k-8/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Es wird laut im 4K Universum, denn sarah4k hat Großes zu verkünden!  Mit ihrem Sound zwischen Techno, Ghetto-Tech und Rap hat sich sarah4k innerhalb kürzester Zeit als markante Stimme einer neuen Club-Generation etabli"
+  },
+  {
+    "titel": "Linus Talentprobe",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T19:30+0200",
+    "ort": "Tanzbrunnen Köln, Rheinparkweg 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/linus-talentprobe-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Linus bringt frischen Sound und energiegeladenen Flow direkt auf die Bühne, ohne große Schnörkel oder Schnickschnack. Hier findest du ehrliche Musik, die locker ankommt und Spaß macht – perfekt, wenn du Bock auf gute Lau"
+  },
+  {
+    "titel": "Güner Künier in Köln - korsi collective",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T19:30+0200",
+    "ort": "artheater Köln, Ehrenfeldgürtel 127",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/guner-kunier-in-koln-korsi-collective-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Güner Künier mixt auf ihrem neuen Album „Yaramaz“ Postpunk mit Shoegaze und Riot-Grrrl-Spirit und erzählt damit eine kraftvolle Geschichte über Selbstbestimmung und Mut. Ihre Musik klingt roh und doch verspielt – ein Mom"
+  },
+  {
+    "titel": "Bernstein Live in Köln",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T19:30+0200",
+    "ort": "Stereo Wonderland, Trierer Straße 65",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/bernstein-live-in-koln-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Durch die Kombination verschiedener Stile und Genres gelingt es der Hamburger Band „Bernstein“, eine kraftvolle Live-Performance zu kreieren, die das Publikum mit einer Mischung aus Live-Instrumenten, alten Drummachines "
+  },
+  {
+    "titel": "Taurinta - from roots to jazz",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T19:30+0200",
+    "ort": "Friedenskirche Ehrenfeld / Ernst-Flatow-Haus, Vogelsanger Straße 153",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/taurinta-from-roots-to-jazz-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Taurinta Rigertaitė - Gesang, loops (Ehrenfeld) Stephen Harrison - Bass (Paris) Lukas Frings - Klavier (Bonn) Ehrengast: Frank Wunsch - Klavier (Köln) Taurinta Rigertaitė vereint Jazz, Blues und litauische Folklore zu"
+  },
+  {
+    "titel": "sarah4k - Ultra HD Tour",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T20:00+0200",
+    "ort": "YUCA, Bartholomäus-Schink-Straße 65",
+    "preis": "ab 26 €",
+    "link": "https://rausgegangen.de/events/sarah4k-ultra-hd-tour-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Sarah4k mixt Techno, Ghetto-Tech und Rap zu ihrem eigenen Sound, der direkt und kraftvoll auf Empowerment setzt. Nach starken Releases und Hits wie „Spring Break“ kündigt sie ihr Debütalbum an und bringt mit ihrer Ultra "
+  },
+  {
+    "titel": "DER GROSSE HIPHOP TANZABEND",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T20:00+0200",
+    "ort": "Live Music Hall, Lichtstraße 30",
+    "preis": "ab 40 €",
+    "link": "https://rausgegangen.de/events/der-grosse-hiphop-tanzabend-birthday-edition-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "MC Rene feiert 50 Jahre mit einem Abend voller spontaner Hip-Hop-Momente und offenen Bühnen. Kein festes Programm, sondern Begegnungen und Beats, die live entstehen und die Essenz von Rap lebendig halten. Hier erlebst du"
+  },
+  {
+    "titel": "' Así Pelao ' (Venezolanisches Jazz) live at Centro Machado",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T20:00+0200",
+    "ort": "Deutsch-Spanischer Kulturkreis „Antonio Machado“ e.V, Severinsmühlengasse 1",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/asi-pelao-live-at-centro-machado-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "ASÍ PELA'O ist ein in Köln ansässiges Trio aus venezolanischen und brasilianischen Musikern (Flöte, Cuatro venezolano, Kontrabass), das Originalkompositionen mit jazziger Improvisation und innovativen Rhythmen verbin"
+  },
+  {
+    "titel": "Cozy Concert",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T20:00+0200",
+    "ort": "Klub Keramik, Wahlenstraße 22",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/cozy-concert-28/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Cozy Concerts sind eine Geheimkonzertreihe in gemütlicher Atmosphäre* – in Wohnzimmern, Buchläden, Ateliers, Gärten und anderen besonderen Orten. Intim, authentisch, entspannend. 80–90 % der Musiker*innen bei den"
+  },
+  {
+    "titel": "Daniel Caesar",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T20:00+0200",
+    "ort": "LANXESS arena, Willy-Brandt-Platz 3",
+    "preis": "ab 52 €",
+    "link": "https://rausgegangen.de/events/daniel-caesar-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der mehrfach ausgezeichnete kanadische Künstler Daniel Caesar hat im Vorfeld seiner Asien-Etappe der Headliner-Tour 2026 weitere Termine für Europa und Großbritannien angekündigt. Im Rahmen seiner ersten international"
+  },
+  {
+    "titel": "ImKlang Session",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T20:00+0200",
+    "ort": "Musik- und Kunstschule ImKlang, Waltherstraße 80",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/imklang-session-33/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": " IMKLANG SESSION  Offene Jam Session · jeden Freitag · ab 20:00 Uhr Die IMKLANG Session ist eine wöchentliche, offene Jam Session für Musikerinnen und Musiker aller Erfahrungsstufen – und für alle, die Musik gerne liv"
+  },
+  {
+    "titel": "SHE´S GREEN",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T20:00+0200",
+    "ort": "Die Kantine / Yard Club, Neusser Landstraße 2",
+    "preis": "ab 22 €",
+    "link": "https://rausgegangen.de/events/she-s-green-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Es dauert nur wenige Sekunden, bis sich die Musik von she’s green entfaltet. Ein Gitarrenton, der nachhallt, ein Rhythmus, der sich vorsichtig einschleicht und plötzlich ist da dieser Sog. Nichts Drängendes, nichts Lau"
+  },
+  {
+    "titel": "Summertime - Festkonzert zur Saisoneröffnung",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T20:00+0200",
+    "ort": "Kölner Philharmonie, Bischofsgartenstraße 1",
+    "preis": "ab 30 €",
+    "link": "https://rausgegangen.de/events/summertime-festkonzert-zur-saisoneroffnung-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "ProgrammGeorge Gershwin Ein Amerikaner in Paris 1928A Concert of Songs Auszüge aus der Oper Porgy and Bess 1935/2024BesetzungMasabane Cecilia Rangwanasha Sopran Kevin Short Bassbariton A Song for you Kölner Bürgerchor"
+  },
+  {
+    "titel": "The Redheaded Man. Musiktheater",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T20:00+0200",
+    "ort": "Alte Feuerwache Köln, Melchiorstraße 3",
+    "preis": "ab 10 €",
+    "link": "https://rausgegangen.de/events/the-redheaded-man-musiktheater-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "In diesem neuen Musiktheater werden die Absurdität und Härte unseres menschlichen Daseins verhandelt. Die Komponistin Chaya Czernowin (Prof. für Komposition an der Harvard University in NYC, USA) stellt höchst politi"
+  },
+  {
+    "titel": "CEM YILDIZ // Konzert",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T21:00+0200",
+    "ort": "Kulturbunker Köln-Mülheim, Berliner Straße 20",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/cem-yildiz-konzert-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "„I Fly, The Skies Fly“Ein Flug durch den elektro-anatolischen Kosmos.Mit elektrifizierter Saz, Gesang und Maschinen erweitert der „Schamane der Moderne“ CEM YILDIZ die Grenzen der anatolischen Volksmusik und entführt da"
+  },
+  {
+    "titel": "RADiO NA NA - Pop-Classics | Disco | Gitarren",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T22:00+0200",
+    "ort": "Tsunami Club, Im Ferkulum 9",
+    "preis": "ab 9 €",
+    "link": "https://rausgegangen.de/events/radio-na-na-pop-classics-disco-gitarren-24/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Hier findest du die Pop-Ikonen von Madonna bis Bowie vereint, wenn DJ Stevinski die Hits von drei Jahrzehnten zu einer Nacht mixt, die echtes Tanzen ohne Schnickschnack verspricht. Die Klassiker kommen mit einer guten Po"
+  },
+  {
+    "titel": "HERZ an HERZ | DIE 90er & 2000er Party im CBE",
+    "datum": "11. Sep 2026",
+    "datum_raw": "2026-09-11T23:00+0200",
+    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
+    "preis": "ab 14 €",
+    "link": "https://rausgegangen.de/events/herz-an-herz-die-90er-2000er-party-im-cbe-6/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Hier findest du die besten Hits aus den 90ern und 2000ern, die dich zurück in deine Lieblingsjahre katapultieren. Es erwarten dich bekannte Tracks, die zum Mitsingen und Tanzen einladen und den Abend zu einem richtig gut"
   }
 ]
