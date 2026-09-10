@@ -50,16 +50,6 @@
     "teaser": "F#.k yeah, let’s have another round at Cologne’s awesome SONIC CHESS CLUB!Get a drink, play some chess, listen to music, chat with friends.As simple as that.Free entry | All levels welcomeEin Barabend mit Schach & Musikw"
   },
   {
-    "titel": "Premierentour: Adams Acht // Tipp",
-    "datum": "10. Sep 2026",
-    "datum_raw": "2026-09-10T19:00+0200",
-    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/premierentour-adams-acht-tipp-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Oliver Masucci erzählt in Adams Acht von Außenseiter:innen, die sich gegen Widerstände entgegen aller Erwartungen zu Olympiasieger:innen rudern. Das Drama zeigt, wie Mut und Zusammenhalt in einer geteilten Zeit zu einer "
-  },
-  {
     "titel": "Tagesticket / day ticket: September 10 –  Ehrenfeld Night",
     "datum": "10. Sep 2026",
     "datum_raw": "2026-09-10T19:00+0200",
@@ -88,6 +78,26 @@
     "link": "https://rausgegangen.de/events/krom-loft-fabian-dudek-chaerin-im-special-guest-julia-sanjur-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "KROM bringt sieben Musiker:innen aus vier Ländern zusammen, die mit offenen Ohren und viel Vertrauen eine spannende Mischung aus Jazz, elektronischen Klängen und Gesang formen. Julia Sanjurjo gibt Paul Motians Kompositio"
+  },
+  {
+    "titel": "Premierentour: Adams Acht // Tipp",
+    "datum": "10. Sep 2026",
+    "datum_raw": "2026-09-10T19:00+0200",
+    "ort": "naturstrom-openairkino, Harry-Blum-Platz 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/premierentour-adams-acht-tipp-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Oliver Masucci erzählt in Adams Acht von Außenseiter:innen, die sich gegen Widerstände entgegen aller Erwartungen zu Olympiasieger:innen rudern. Das Drama zeigt, wie Mut und Zusammenhalt in einer geteilten Zeit zu einer "
+  },
+  {
+    "titel": "Dreissigacker Weintasting & Taco's @Bacchus",
+    "datum": "10. Sep 2026",
+    "datum_raw": "2026-09-10T19:00+0200",
+    "ort": "Weinstube Bacchus, Rathenauplatz 17",
+    "preis": "ab 49 €",
+    "link": "https://rausgegangen.de/events/dreissigacker-weintasting-tacos-bacchus-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Hier probierst du Weine von Dreissigacker ganz ohne Fachsimpelei und bekommst nebenbei etwas zur Geschichte und zum Geschmack erzählt. Dazu gibt es Tacos und wohl auch ein paar ältere Jahrgänge, also eher lockere Entdeck"
   },
   {
     "titel": "CLARION - Blue Fairy Tour 2026",
@@ -287,7 +297,7 @@
     "preis": "ab 0 €",
     "link": "https://rausgegangen.de/events/millennium-trombone-quartet-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Das MILLENNIUM Trombone Quartet besteht aus vier der aufregendsten deutschen Jazz-Posaunisten der neusten Generation. Nicolaj Wolf, Moritz Renner, Philipp Hayduk und Kai Baumgarten verbinden Modern Jazz mit Kammermusik i"
+    "teaser": "Das MILLENNIUM Trombone Quartet besteht aus vier der aufregendsten deutschen Jazz-Posaunisten der neusten Generation. Nicolaj Wolf, Paul Lüpfert, Philipp Hayduk und Kai Baumgarten verbinden Modern Jazz mit Kammermusik i"
   },
   {
     "titel": "Spätsommer-Genuss: Feierabendmarkt in Ehrenfeld",
@@ -388,15 +398,5 @@
     "link": "https://rausgegangen.de/events/12-und-13-september-block-party-lindenstraenfest-2026-am-son-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Am 12. und 13. September feiern wir wieder unsere BLOCK PARTY. Dort erwarten die Besucher ein großes Kinderparadies mit XXL Hüpfburg, Live Musik, Street Yoga, Flohmarkt, BBQ, Soulfood, Drinks und Kuchen. Weitere Infos f"
-  },
-  {
-    "titel": "Fort Paul - Tag des offenen Denkmals",
-    "datum": "12. Sep 2026",
-    "datum_raw": "2026-09-12T12:00+0200",
-    "ort": "Fort Paul, Eifelstraße 39",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/fort-paul-tag-des-offenen-denkmals-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Auch in diesem Jahr öffnet der Fort Paul e.V. zum Tag des offenen Denkmals die Tore zum Fort, den Türmen und den Keller. Nachdem 2025 bereits über 1300 BesucherInnen das Fort Paul im Volksgarten besuchten, freuen wir "
   }
 ]
