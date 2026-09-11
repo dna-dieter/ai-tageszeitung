@@ -8428,6 +8428,18 @@
     "fetched": "2026-08-18T13:52:37.280061"
   },
   {
+    "id": "a49a8dc46cc1",
+    "title": "Baustellen-Ticker: Hauptstraße wieder fast frei",
+    "summary": "Seit einem Monat verlegt die RheinNetz eine Trinkwasser-Leitung in der Golfplatzstraße. Dabei habe sich gezeigt, dass mehr Platz benötigt werde und eine halbseitige Sperrung nicht ausreiche. Ab Montag ist die Straße daher tagsüber komplett gesperrt. Dafür sollen die Arbeiten schneller fertig werden.",
+    "link": "https://in-gl.de/2026/08/18/alle-baustellen-ticker-bergisch-gladbach/",
+    "published": "Tue, 18 Aug 2026 11:44:38 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-09-11T11:09:41.976638"
+  },
+  {
     "id": "4ad7e2a35340",
     "title": "POL-RBK: Overath - Frau begegnet Einbrecher",
     "summary": "Overath (ots) - Ein unbekannter Mann ist gestern (17.08.) in ein Haus in Steinenbrück eingebrochen. Die Bewohnerin des Hauses traf kurze Zeit später auf den Einbrecher. Nach dem Einkaufen kam der Schock: Die 70-jährige Bewohnerin hörte gegen ...",
@@ -30194,6 +30206,54 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-05-05T21:10:26.249333"
+  },
+  {
+    "id": "2402e625bbeb",
+    "title": "„GL spricht“: Wie geht es Familien in unserer Stadt?",
+    "summary": "Kaputte Spielgeräte, fehlende Angebote für Kinder mit Behinderung und lieblos gestaltete Spielplätze: Wir waren mit „GL spricht“ auf dem Spielplatz und haben Familien nach ihrem Alltag in Bergisch Gladbach gefragt. Herausgekommen ist ein ehrliches Stimmungsbild – mit klarer Kritik, aber auch viel Zuneigung zur eigenen Stadt.",
+    "link": "https://in-gl.de/2026/09/11/gl-spricht-wie-geht-es-familien-in-unserer-stadt/",
+    "published": "Fri, 11 Sep 2026 09:42:55 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-09-11T11:09:41.974750"
+  },
+  {
+    "id": "f8e98bf212a4",
+    "title": "POL-RBK: Odenthal - Hochwertiger Geländewagen gestohlen",
+    "summary": "Odenthal (ots) - Unbekannte haben im Ortsteil Blecher einen Geländewagen gestohlen. Die Polizei bittet um Zeugenhinweise. Gestern Morgen (10.09.) wurde die Polizei wegen eines Diebstahls eines Pkw in die Straße Am Telegraf gerufen. Die Besitzerin ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6349942",
+    "published": "Fri, 11 Sep 2026 07:56:32 +0200",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "odenthal"
+    ],
+    "fetched": "2026-09-11T11:10:10.686494"
+  },
+  {
+    "id": "5ac547cb825c",
+    "title": "Folgen der Trockenheit: Was der Garten jetzt braucht",
+    "summary": "Der Sommer neigt sich dem Ende zu, und wieder einmal war er über weite Strecken trocken und heiß. Gartenbaumeister Oliver Fink sieht die Folgen täglich: gestresste Gehölze, ausgetrocknete Böden, verfrühte Herbstfärbung. In diesem Artikel erklärt er, was ein trockener Sommer Ihren Pflanzen antut – und was Sie jetzt im Herbst tun können, um Ihren Garten zu stärken. (Bezahlter Beitrag)",
+    "link": "https://in-gl.de/2026/09/11/folgen-der-trockenheit-was-der-garten-jetzt-braucht-gartenbaumschule-becker-oliver-fink-bergisch-gladbach/",
+    "published": "Fri, 11 Sep 2026 07:27:09 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-09-11T11:09:41.974795"
+  },
+  {
+    "id": "4b378c585158",
+    "title": "370 Kilometer und 4.737 Höhenmeter auf fünf Etappen",
+    "summary": "16 Mitglieder der Staubwolke Refrath haben bei der 22. Etappenfahrt rund 370 Kilometer zwischen Hilchenbach, Biedenkopf, Bad Marienberg und Refrath zurückgelegt. Neben anspruchsvollen Anstiegen und gemeinsamen Erlebnissen sorgten auf der Schlussetappe Sturmböen, Hagel und heftiger Regen für ein turbulentes Finale.",
+    "link": "https://in-gl.de/2026/09/11/370-kilometer-und-4-737-hohenmeter-auf-funf-etappen-staubwolke-refrath-radsportverein/",
+    "published": "Fri, 11 Sep 2026 06:00:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-09-11T11:09:41.974823"
   },
   {
     "id": "efcd0f56979c",
