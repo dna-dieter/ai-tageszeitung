@@ -18476,6 +18476,18 @@
     "fetched": "2026-05-05T21:10:26.249148"
   },
   {
+    "id": "9c32c419e091",
+    "title": "Das GL-Wort – jeden Morgen neu",
+    "summary": "Spielen Sie mit uns - und lösen Sie jeden Tag ein neues Worträtsel.",
+    "link": "https://in-gl.de/2026/09/14/wort/",
+    "published": "Sun, 13 Sep 2026 23:22:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-09-14T06:06:44.581498"
+  },
+  {
     "id": "e1016ed545b5",
     "title": "Stefan Görnert wird auf Juist zum Bürgermeister gewählt",
     "summary": "Der Wermelskirchener, der bisher als Erster Beigeordneter im Rathaus arbeitete, verbuchte am Sonntagabend 541 von 689 Stimmen auf sich. Der 61-Jährige war alleiniger Bewerber auf das Amt gewesen.",
@@ -24336,6 +24348,43 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-05-05T21:10:26.249074"
+  },
+  {
+    "id": "db1c3abf926e",
+    "title": "SV 09 dreht Spiel in Köln und feiert nächsten Auswärtssieg",
+    "summary": "Der SV Bergisch Gladbach 09 setzt seine Erfolgsserie in der Regionalliga West fort. Beim Nachwuchs des 1. FC Köln dreht der Aufsteiger einen Rückstand und gewinnt dank zweier Treffer von Ole Tillmann. Es ist der dritte Sieg in Folge.",
+    "link": "https://in-gl.de/2026/09/14/sv-09-dreht-spiel-in-koeln-und-feiert-naechsten-auswaertssieg/",
+    "published": "Mon, 14 Sep 2026 04:37:40 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-09-14T06:06:44.581460"
+  },
+  {
+    "id": "1806cd4802b5",
+    "title": "Landtagswahl 2027:Herbert Reul tritt noch mal an",
+    "summary": "Der 74-Jährige aus Leichlingen ist als NRW-Innenminister weit über das Bundesland hinaus bekannt geworden für klare Worte und klare Kante. Nun zeichnet sich ab, ob er erneut im Wahlkreis 22 (Rheinisch-Bergischer Kreis II) antreten wird.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/landtagswahl-2027-herbert-reul-tritt-noch-mal-an-UT75TYBBQ2FZBUSE7FBBDWIJ5A.html",
+    "published": "Mon, 14 Sep 2026 03:05:00 +0200",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen",
+      "leichlingen"
+    ],
+    "fetched": "2026-09-14T06:07:04.619476"
+  },
+  {
+    "id": "2c4ec70ebde5",
+    "title": "Rockid.one meldet Insolvenz an – die Idee lebt weiter",
+    "summary": "Trotz Spenden und großer Unterstützung ist Rockid.one aus Wermelskirchen insolvent. Doch Mario Schwarz gibt seine Vision nicht auf. Was er plant.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/rockid-one-meldet-insolvenz-an-die-idee-lebt-weiter-MBWBSD52HBYLX22SMCRKA6DQDE.html",
+    "published": "Mon, 14 Sep 2026 03:00:00 +0200",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-09-14T06:07:04.619510"
   },
   {
     "id": "236e0f21ece7",
