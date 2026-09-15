@@ -600,6 +600,18 @@
     "fetched": "2026-06-16T11:31:43.059865"
   },
   {
+    "id": "87d3f10cbefd",
+    "title": "POL-GM: Pedelec-Fahrer bei Verkehrsunfall verletzt",
+    "summary": "Bergneustadt (ots) - Am Montag (14. September) wollte ein 69-jähriger Ford-Fahrer aus Drolshagen in Bergneustadt von einem Parkplatz auf die Kölner Straße (B 55) fahren. Dabei kam es gegen 15:55 Uhr zum Zusammenstoß mit einem 93-Jährigen aus ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6352148",
+    "published": "Tue, 15 Sep 2026 09:20:43 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-09-15T13:28:03.375433"
+  },
+  {
     "id": "2b4d13510ced",
     "title": "Bergneustadt: Pedelec-Fahrer bei Kollision auf der B55 verletzt",
     "summary": "Verkehrsunfall in Bergneustadt: Ein 93-jähriger Pedelec-Fahrer stürzte auf der B55 nach einem Zusammenstoß mit einem Ford und wurde verletzt.",
@@ -607,7 +619,8 @@
     "published": "Tue, 15 Sep 2026 07:32:18 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "bergneustadt"
+      "bergneustadt",
+      "gummersbach"
     ],
     "fetched": "2026-09-15T07:38:25.540483"
   },
