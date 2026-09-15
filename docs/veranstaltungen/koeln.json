@@ -1,215 +1,5 @@
 [
   {
-    "titel": "DEMOKRATIE ERZÄHLEN",
-    "datum": "15. Sep 2026",
-    "datum_raw": "2026-09-15T10:00+0200",
-    "ort": "Filmpalast Köln | Kino 7, Hohenzollernring 22",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/demokratie-erzahlen-2026/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei DEMOKRATIE ERZÄHLEN diskutieren Medienschaffende und Politiker:innen, wie Bewegtbild unsere Sicht auf Gesellschaft prägt und welche Geschichten wirklich zählen. Ein Tag voller Impulse, Panels und einem Blick auf die "
-  },
-  {
-    "titel": "PhilharmonieVeedel Baby",
-    "datum": "15. Sep 2026",
-    "datum_raw": "2026-09-15T15:00+0200",
-    "ort": "Bürgerhaus Kalk, Kalk-Mülheimer Str. 58",
-    "preis": "ab 4 €",
-    "link": "https://rausgegangen.de/events/philharmonieveedel-baby-210/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "»Paper Planes«Hannah Kleinschroth | Louise Ullrich | Clara Siegmund | Fuchsia Reinartz | Lucia Gatzweiler | Jan JanzenPapier begegnet uns jeden Tag: Es knistert, raschelt, flattert – und hebt ab. Im Babykonzert »Paper Pl"
-  },
-  {
-    "titel": "FEAR FACTORY",
-    "datum": "15. Sep 2026",
-    "datum_raw": "2026-09-15T18:30+0200",
-    "ort": "Live Music Hall, Lichtstraße 30",
-    "preis": "ab 35 €",
-    "link": "https://rausgegangen.de/events/fear-factory-12/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Mit Fear Factory kehren die unbestreitbaren Könige des Industrial-Metal zurück auf die weltweiten Konzertbühnen! In ihrer weit verzweigten, mittlerweile 36-jährigen Historie hat die Band viele Aufs und Abs erlebt, gi"
-  },
-  {
-    "titel": "Singen - Joy of Singing - einfach singen in Köln-Sülz - Chor auf Zeit",
-    "datum": "15. Sep 2026",
-    "datum_raw": "2026-09-15T18:30+0200",
-    "ort": "St. Karl Borromäus , Kirche für Leib und Seele, Zülpicher Straße 275",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/singen-joy-of-singing-einfach-singen-in-koln-sulz-chor-auf-z-14/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Herzliche Einladung zu „Joy of Singing“ – gemeinsames Singen von Liedern, die verbinden und gut tun.Wir singen Lieder, die leicht zu lernen sind und ohne Noten oder Textblätter auskommen. Durch das wiederholte Singen en"
-  },
-  {
-    "titel": "CINEMA CRUSH Köln | Speed Dating",
-    "datum": "15. Sep 2026",
-    "datum_raw": "2026-09-15T19:00+0200",
-    "ort": "Cinenova, Herbrandstraße 11",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/cinema-crush-speed-dating-by-rausgegangen-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "An einem Abend ganz viele tolle Menschen kennenlernen und sich sogar verlieben? Wir geben Speed Dating das Comeback, das es verdient! Bist du dabei?"
-  },
-  {
-    "titel": "Rage and Empowerment - Intersektionaler Feminismus",
-    "datum": "15. Sep 2026",
-    "datum_raw": "2026-09-15T19:00+0200",
-    "ort": "Bürgerzentrum Ehrenfeld, Venloer Str. 429",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/rage-and-empowerment-intersektionaler-feminismus-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei Rage and Empowerment steht intersektionaler Feminismus im Fokus, mit starken Stimmen, die patriarchale Gewalt und ihre Vielschichtigkeit beleuchten. Fatima Remli und iSaAc iSaBeL Espinoza Hidrobo bringen Perspektiven"
-  },
-  {
-    "titel": "Gesundheit für alle! Queermed lädt ein zum 4. re:Respekt",
-    "datum": "15. Sep 2026",
-    "datum_raw": "2026-09-15T19:00+0200",
-    "ort": "COMEDIA Theater, Vondelstraße 4-8",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/queermed-ladt-ein-zum-4-rerespekt-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Queermed bringt beim re:Respekt-Panel die Stimmen von Aktivist:innen und Expert:innen zusammen, um Diskriminierung in der Gesundheitsversorgung offen anzusprechen. Es erwarten dich spannende Diskussionen über persönliche"
-  },
-  {
-    "titel": "Lime Garden",
-    "datum": "15. Sep 2026",
-    "datum_raw": "2026-09-15T19:00+0200",
-    "ort": "Luxor, Luxemburgerstrasse 40",
-    "preis": "ab 25 €",
-    "link": "https://rausgegangen.de/events/lime-garden-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Sie haben ihre Heimat im Sturm erobert: Lime Garden gelten als die große neue Hoffnung des britischen Indie, gerade weil ihre furchtlose, unangepasste Musik so unglaublich viel Spaß macht.Kennengelernt haben sich Sänger"
-  },
-  {
-    "titel": "LOWERTOWN + 1000 RABBITS",
-    "datum": "15. Sep 2026",
-    "datum_raw": "2026-09-15T19:00+0200",
-    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
-    "preis": "ab 20 €",
-    "link": "https://rausgegangen.de/events/lowertown-1000-rabbits-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "popanz LOWERTOWN (NYC) 1000 RABBITS (London) 15. September 2026 Bumann & Sohn, Köln Einlass 19:00, Beginn 20:00  Lowertown finally caught their breath. Over the last few years, the New York-based duo of Olivia Osby and "
-  },
-  {
-    "titel": "Discovery Zone & John Moods",
-    "datum": "15. Sep 2026",
-    "datum_raw": "2026-09-15T19:30+0200",
-    "ort": "PÄFF, Friesenwall 130",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/discovery-zone-john-moods-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "John Moods trifft mit Discovery Zone auf einen Pop-Moment, der mit dem Projekt „Dreaming For Miles“ neue Klangfarben auslotet. Das Konzert verspricht eine entspannte Mischung aus melodischen Sounds und federleichtem Indi"
-  },
-  {
-    "titel": "Demokratie Dienstage",
-    "datum": "15. Sep 2026",
-    "datum_raw": "2026-09-15T19:30+0200",
-    "ort": "Theater in der Filmdose, Zülpicher Straße 39",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/demokratie-dienstage-4/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei den Demokratie Dienstagen kommst du ins Gespräch über direkte Mitbestimmung, Bürgerbegehren und wie Demokratie im Alltag wirklich funktioniert. Mit Grüßen von Mehr Demokratie e.V. gibt’s lockere Talks, Quiz und ganz "
-  },
-  {
-    "titel": "Kölner Comedy Open Air",
-    "datum": "15. Sep 2026",
-    "datum_raw": "2026-09-15T20:00+0200",
-    "ort": "Odonien, Hornstraße 85",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/doppelpunkt-comedy-open-air-49/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei den Kölner Comedy Open Airs erwartet dich alle zwei Wochen ein Mix aus bekannten Gesichtern und frischen Talenten der deutschsprachigen Szene. Johannes Steuding und Lennard Rosar sorgen mit ihrem charmanten Humor für"
-  },
-  {
-    "titel": "ELEKTRORAMA #4: So says the drum / Axel Pulgar THE SCHRANK + Jamsession",
-    "datum": "15. Sep 2026",
-    "datum_raw": "2026-09-15T20:00+0200",
-    "ort": "artheater Köln, Ehrenfeldgürtel 127",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/elektrorama-4-so-says-the-drum-axel-pulgar-the-schrank-jamse-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zwei brasilianische Künstler:innen verbinden Trommeln, Elektronik und visuelle Kunst zu einer Performance, die rhythmische Sprache und kollektive Erinnerung erfahrbar macht. Im Anschluss kannst du dich bei einer offenen "
-  },
-  {
-    "titel": "Sex Mask",
-    "datum": "15. Sep 2026",
-    "datum_raw": "2026-09-15T20:00+0200",
-    "ort": "Helios37, Heliosstraße 37",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/sex-mask-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Sex Mask aus Melbourne bringt mit ihrem Post-Punk Sound eine Mischung aus hypnotischen Rätseln und fiebrigen Visionen auf die Bühne. Ihre Songs wirken wie Erinnerungen an ungelebte Leben – spannend für alle, die abseits "
-  },
-  {
-    "titel": "Alice Sara Ott",
-    "datum": "15. Sep 2026",
-    "datum_raw": "2026-09-15T20:00+0200",
-    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
-    "preis": "ab 21 €",
-    "link": "https://rausgegangen.de/events/alice-sara-ott-9/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beethoven | FieldVon Field bis Beethoven: Nachtmusik voller Anmut und überraschender SchönheitAlice Sara Ott öffnet ein apartes, aber weitgehend vergessenes Kapitel der Klaviermusik für die Öffentlichkeit: »Sie beru"
-  },
-  {
-    "titel": "ÁSGEIR",
-    "datum": "15. Sep 2026",
-    "datum_raw": "2026-09-15T20:00+0200",
-    "ort": "Lutherkirche Nippes, Siebachstraße 85",
-    "preis": "ab 32 €",
-    "link": "https://rausgegangen.de/events/asgeir-11/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Auskopplungen aus dem Album „Julia“, das am 13. Februar 2026 erscheint, gilt es direkt bei vier Liveshows zu hautnah zu erleben: Hamburg, Berlin, München und Köln werden im September von der betörenden Stimme des Ausn"
-  },
-  {
-    "titel": "Ásgeir - EU Tour 2026",
-    "datum": "15. Sep 2026",
-    "datum_raw": "2026-09-15T20:00+0200",
-    "ort": "Lutherkirche Nippes, Siebachstraße 85",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/asgeir-eu-tour-2026-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Presented by Goodlive ArtistsRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) zahlen den normalen Kartenpreis. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarten.Bitte halten Sie bei"
-  },
-  {
-    "titel": "Ben Kraef/Rainer Böhm Quartet",
-    "datum": "15. Sep 2026",
-    "datum_raw": "2026-09-15T20:00+0200",
-    "ort": "Salon De Jazz, Severinskloster 3a",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/ben-kraefrainer-bohm-quartet-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Ein Stipendium ermöglichte dem Berliner Tenorsaxofonisten Ben Kraef dass er am City College in New York bei John Patitucci und Lee Konitz studieren konnte.  Zudem ist er Preisträger  verschiedener nationaler und intern"
-  },
-  {
-    "titel": "Foggy Notion: The Necks",
-    "datum": "15. Sep 2026",
-    "datum_raw": "2026-09-15T20:00+0200",
-    "ort": "Stadtgarten, Venloer Straße 40",
-    "preis": "ab 12 €",
-    "link": "https://rausgegangen.de/events/foggy-notion-the-necks-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "20:00 I Konzert I Konzertsaal The Necks gehören zu den großen Kultbands Australiens.Chris Abrahams (Klavier), Tony Buck (Schlagzeug) und Lloyd Swanton (Bass) entfalten gemeinsam eine Chemie, die sich mit herkömmlichen "
-  },
-  {
-    "titel": "Lawn Chair",
-    "datum": "15. Sep 2026",
-    "datum_raw": "2026-09-15T20:00+0200",
-    "ort": "Luxor, Luxemburger Straße 40",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/lawn-chair-17/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Seit nunmehr drei Jahren sind LAWN CHAIR aus der deutschen Indieszene nicht mehr wegzudenken. Bisher veröffentlichte die Band zwei EPs in Zusammenarbeit mit den Produzenten Olaf Opal (The Notwist, International Music) u"
-  },
-  {
-    "titel": "LIME GARDEN",
-    "datum": "15. Sep 2026",
-    "datum_raw": "2026-09-15T20:00+0200",
-    "ort": "Luxor, Luxemburger Straße 40",
-    "preis": "ab 25 €",
-    "link": "https://rausgegangen.de/events/lime-garden-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Sie haben ihre Heimat im Sturm erobert: Lime Garden gelten als die große neue Hoffnung des britischen Indie, gerade weil ihre furchtlose, unangepasste Musik so unglaublich viel Spaß macht.  Kennengelernt haben sich Säng"
-  },
-  {
     "titel": "PhilharmonieVeedel Baby",
     "datum": "16. Sep 2026",
     "datum_raw": "2026-09-16T11:00+0200",
@@ -300,6 +90,16 @@
     "teaser": "Eine Workshopreihe für Musiker:innen der Alten Musik, Mutige und Klangforscher:innenFür Studierende der Alten Musik, Musiker:innen (Amateure und Profis) mit Interesse an Alter Musik und Improvisation. Offen für alle I"
   },
   {
+    "titel": "JOSY BASAR",
+    "datum": "16. Sep 2026",
+    "datum_raw": "2026-09-16T19:30+0200",
+    "ort": "674FM Konzertraum, Ubierring 13",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/josy-basar-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Josy Basar vereint Chanson, Coldwave und Elektro zu Sounds, die man nicht so schnell vergisst. Der Musiker aus Metz mischt ehrliche Texte mit tanzbaren Beats, die dich leise packen und nicht mehr loslassen 😌"
+  },
+  {
     "titel": "Ford Big Band Reloaded",
     "datum": "16. Sep 2026",
     "datum_raw": "2026-09-16T19:30+0200",
@@ -320,14 +120,44 @@
     "teaser": "THE SEARCH FOR THE NÄCHSTEN GROSSEN KÜNSTLER BEGINNT JETZTKünstler aus aller Welt betreten die Bühne, um um Geldpreise, exklusive Chancen und internationale Anerkennung zu konkurrieren.Über die Hard Rock Rising Web "
   },
   {
-    "titel": "JOSY BASAR",
+    "titel": "POP OFF! - Die Mittwochs-Turboparty",
     "datum": "16. Sep 2026",
-    "datum_raw": "2026-09-16T19:30+0200",
-    "ort": "674FM Konzertraum, Ubierring 13",
+    "datum_raw": "2026-09-16T20:00+0200",
+    "ort": "Tsunami Club, Im Ferkulum 9",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/josy-basar-2/",
+    "link": "https://rausgegangen.de/events/3-stundchen-pop-die-pop-turboparty-11/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Josy Basar vereint Chanson, Coldwave und Elektro zu Sounds, die man nicht so schnell vergisst. Der Musiker aus Metz mischt ehrliche Texte mit tanzbaren Beats, die dich leise packen und nicht mehr loslassen 😌"
+    "teaser": "Eine Turbo-Party mit zwei Stunden voller Pop-Hits zum Abtanzen und Abschalten. Erst entspannt warmwerden, dann mit den DJs richtig loslegen."
+  },
+  {
+    "titel": "Jörg Achim Keller King Georg 12",
+    "datum": "16. Sep 2026",
+    "datum_raw": "2026-09-16T20:00+0200",
+    "ort": "King Georg, Sudermanstraße 2",
+    "preis": "ab 22 €",
+    "link": "https://rausgegangen.de/events/jorg-achim-keller-king-georg-12-35/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jörg Achim Keller lässt mit King Georg 12 die Grenzen zwischen Big Band-Power und Combo-Intimität verschwimmen. Seine frischen Kompositionen bringen Platz für starke Soli und eine Rhythmusgruppe, die zwischen Schärfe und"
+  },
+  {
+    "titel": "Latin & Salsa Session",
+    "datum": "16. Sep 2026",
+    "datum_raw": "2026-09-16T20:00+0200",
+    "ort": "artheater Köln, Ehrenfeldgürtel 127",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/latin-salsa-session-32/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei der Latin & Salsa Session kommen Musiker:innen aus Köln zusammen, um kubanische und kolumbianische Rhythmen lebendig werden zu lassen. Die Band Marcando eröffnet den Abend mit ihrem präzisen und mitreißenden Sound. E"
+  },
+  {
+    "titel": "Comedy Frischgezapft",
+    "datum": "16. Sep 2026",
+    "datum_raw": "2026-09-16T20:00+0200",
+    "ort": "Kölschbar, Lindenstraße 56",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/comedy-frischgezapft-70/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei Comedy Frischgezapft trifft frisch gezapftes Kölsch auf eine bunte Mischung aus TV-erfahrenen Comedians und spannenden Newcomer:innen. Host Kevin Ray sorgt dafür, dass der Humor so spritzig bleibt wie das Getränk – a"
   },
   {
     "titel": "10 Years of 6LACK Tour",
@@ -390,6 +220,36 @@
     "teaser": "Durch Isabel van Gelders eindrucksvolle Songs scheint ein engelsgleicher Pop-Sound sowie ihre starke Präsenz. Seit 2023 schreibt die 23-jährige Singer-Songwriterin aus Amsterdam emotional geladene Balladen, die Geschic"
   },
   {
+    "titel": "Isabel van Gelder - EU & UK TOUR 2026",
+    "datum": "16. Sep 2026",
+    "datum_raw": "2026-09-16T20:00+0200",
+    "ort": "YUCA, Bartholomäus-Schink-Straße 65",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/isabel-van-gelder-eu-uk-tour-2026-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) zahlen den normalen Kartenpreis. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte."
+  },
+  {
+    "titel": "Tjark",
+    "datum": "16. Sep 2026",
+    "datum_raw": "2026-09-16T20:00+0200",
+    "ort": "Der Hirsch",
+    "preis": "ab 50 €",
+    "link": "https://rausgegangen.de/events/tjark-42/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "„auch wenn’s uns morgen nicht mehr gibt“: mit diesem rätselhaften Titel kündigt TJARK sein Debütalbum an – und macht damit einen Punkt hinter das erste, aufregende Kapitel seiner jungen Karriere. Hinter dem 21-jährig"
+  },
+  {
+    "titel": "VIENNA VIENNA",
+    "datum": "16. Sep 2026",
+    "datum_raw": "2026-09-16T20:00+0200",
+    "ort": "Die Kantine / Yard Club, Neusser Landstraße 2",
+    "preis": "ab 25 €",
+    "link": "https://rausgegangen.de/events/vienna-vienna-5/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Am 16. September 2026 spielt Vienna Vienna, im Rahmen seiner “Live! IN UK + EU TOUR!” im Kölner Yard Club.  Der aufstrebende Glimmer Rock Künstler Vienna Vienna beginnt mit der Veröffentlichung seiner neuen EP „Entert"
+  },
+  {
     "titel": "Filmfest Aachen @ Filmhaus (Quiz + Warm-Up)",
     "datum": "16. Sep 2026",
     "datum_raw": "2026-09-16T20:30+0200",
@@ -398,5 +258,145 @@
     "link": "https://rausgegangen.de/events/filmfest-aachen-filmhaus-koln-filmquiz-warm-up-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Eintritt frei!Bevor wir beim Filmfest Aachen vom 23.–27. September das Apollo übernehmen, sind wir für einen Abend in Köln zu Gast. Denn sowohl im Team als auch im diesjährigen Programm gibt es einige Querverbindunge"
+  },
+  {
+    "titel": "TECHNOLiEBE A.M.",
+    "datum": "16. Sep 2026",
+    "datum_raw": "2026-09-16T21:00+0200",
+    "ort": "Garagen Club Köln, Oskar-Jäger-Straße 179",
+    "preis": "ab 10 €",
+    "link": "https://rausgegangen.de/events/technoliebe-ammittwoch-50/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "TECHNOLiEBE Vol. 44 bringt tech-begeisterte Menschen zusammen, die auf loopende Beats und düstere Klänge stehen. Mit Acts wie RGb, eVe und Jan Zuen geht es mitten in der Woche tief in die Nacht, da erwarten dich echte Un"
+  },
+  {
+    "titel": "GANS",
+    "datum": "16. Sep 2026",
+    "datum_raw": "2026-09-16T21:00+0200",
+    "ort": "Blue Shell, Luxemburger Straße 32",
+    "preis": "ab 23 €",
+    "link": "https://rausgegangen.de/events/gans-128/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Treibende Beats, pulsierende Synthesizer, clevere Texte über Themen wie Mental Health und Politik und ungestüme Post-Punk-Energie zeichnen die Musik von GANS seit dem ersten Tag ihrer Karriere aus. Dass dieser Sound di"
+  },
+  {
+    "titel": "GANS - The Evolution Tour",
+    "datum": "16. Sep 2026",
+    "datum_raw": "2026-09-16T21:00+0200",
+    "ort": "Blue Shell, Luxemburger Straße 32",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/gans-the-evolution-tour-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) zahlen den normalen Kartenpreis. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte."
+  },
+  {
+    "titel": "PhilharmonieVeedel Baby",
+    "datum": "17. Sep 2026",
+    "datum_raw": "2026-09-17T11:00+0200",
+    "ort": "Bürgerzentrum Ehrenfeld, Venloer Str. 429",
+    "preis": "ab 4 €",
+    "link": "https://rausgegangen.de/events/philharmonieveedel-baby-213/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "»Paper Planes«Hannah Kleinschroth | Louise Ullrich | Clara Siegmund | Fuchsia Reinartz | Lucia Gatzweiler | Jan JanzenPapier begegnet uns jeden Tag: Es knistert, raschelt, flattert – und hebt ab. Im Babykonzert »Paper Pl"
+  },
+  {
+    "titel": "Baby Got Business Bootcamp 2026/03 [Creators only]",
+    "datum": "17. Sep 2026",
+    "datum_raw": "2026-09-17T17:00+0200",
+    "ort": "Christophstraße 15-17, Christophstraße 15-17, 50670 Köln, Deutschland",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/baby-got-business-bootcamp-202603-creators-only-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Dieses Bootcamp richtet sich explizit an Creator:innen.Zeitraum: 17. September - 19. November 2026immer Donnerstags von 17:00 - 18:30virtuell - live - persönlich10 Live Sessions mit geballtem Social Media Marketing Wiss"
+  },
+  {
+    "titel": "SONIC CHESS CLUB Vol. 8 (Live Jazz)",
+    "datum": "17. Sep 2026",
+    "datum_raw": "2026-09-17T18:00+0200",
+    "ort": "oté - café. bar. space., Eigelstein 122",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/sonic-chess-club-vol-8-live-jazz-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "F#.k yeah, let’s have another round at Cologne’s awesome SONIC CHESS CLUB!Get a drink, play some chess, have a chat & listen toLive Jazz from Jannis Sicker & Friends!Free entry | All levels welcomeEin Barabend mit Schach"
+  },
+  {
+    "titel": "23. Afrika Film Festival Köln - Eröffnungsveranstaltung",
+    "datum": "17. Sep 2026",
+    "datum_raw": "2026-09-17T18:30+0200",
+    "ort": "Filmforum NRW, Bischofsgartenstr. 1",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/23-afrika-film-festival-koln-eroffnungsveranstaltung-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Zum Auftakt des Afrika Film Festival Köln erwarten dich Film, internationale Gäste und Live Musik in engem Austausch. Dazu kommt Onita Boone, die seit Jahrzehnten Soul, R&B und Jazz mit Haltung verbindet. Der Abend bleib"
+  },
+  {
+    "titel": "Leo Batuki - Mbira Synth Vocals",
+    "datum": "17. Sep 2026",
+    "datum_raw": "2026-09-17T19:00+0200",
+    "ort": "Liebig 257 - Klug e.V., Liebigstraße 257",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/leo-batuki-mbira-synth-vocals-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "[english below]  KONZERT im Liebig257 am 17.09.2026 ✨ Direkt nach der Sommerpause bespielt Leo Batuki unser Café auf der Liebigstraße 257! Euch erwartet eine spannende Mischung aus Mbira, Synthesizer und Gesang. Die per"
+  },
+  {
+    "titel": "Mitsingkonzert im Brauhaus FRÜH am Dom",
+    "datum": "17. Sep 2026",
+    "datum_raw": "2026-09-17T19:00+0200",
+    "ort": "Brauhaus FRÜH am Dom, Am Hof 12-18",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/mitsingkonzert-im-brauhaus-fruh-am-dom-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Kocki & Schang – das kölsche Mitsing-Doppelpack kommen ins Brauhaus FRÜH am Dom und laden zum großen Mitsing-Erlebnis ein.Mitsing-Konzerte liegen voll im Trend und das aus gutem Grund: Gemeinsam singen verbindet, macht"
+  },
+  {
+    "titel": "Beethoven trifft Stockhausen",
+    "datum": "17. Sep 2026",
+    "datum_raw": "2026-09-17T19:30+0200",
+    "ort": "Stadtgarten, Venloer Straße 40",
+    "preis": "ab 11 €",
+    "link": "https://rausgegangen.de/events/beethoven-trifft-stockhausen-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": " Besetzung:Tobias Koch – HammerflügelBenjamin Kobler – Klavier Programm:Ludwig van Beethoven (1770–1827) Bagatellen, Klavierstücke, Skizzen, EntwürfeKarlheinz Stockhausen (1928–2007) Natürliche Dauern, aus Klang – Di"
+  },
+  {
+    "titel": "Hanka Meves: Die Komponistin von Köln. Literarisches Konzert zu Maria Herz",
+    "datum": "17. Sep 2026",
+    "datum_raw": "2026-09-17T19:30+0200",
+    "ort": "DOMFORUM, Domkloster 3",
+    "preis": "ab 5 €",
+    "link": "https://rausgegangen.de/events/hanka-meves-die-komponistin-von-koln-literarisches-konzert-z-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "»Eine Dirigentin. Das ist nicht zugelassen.« Hanka Meves: Die Komponistin von Köln. Literarisches Konzert zu Maria HerzKöln, um 1900. Maria und Franzi kennen sich seit ihrer Schulzeit. Maria ist eine geborene Bing, ihr"
+  },
+  {
+    "titel": "ListeningLounge",
+    "datum": "17. Sep 2026",
+    "datum_raw": "2026-09-17T19:30+0200",
+    "ort": "Hallmackenreuther, Brüsseler Platz 9",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/listeninglounge-10/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "In der ListeningLounge gibt’s Alben ohne Unterbrechungen – von Sade bis Rosalía, Klassiker und Geheimtipps. Nach einer kurzen Einleitung kannst du voll ins Hörerlebnis eintauchen und dich danach mit anderen austauschen "
+  },
+  {
+    "titel": "Donnern-Festival 2026: Wir brauchen Platz",
+    "datum": "18. Sep 2026",
+    "datum_raw": "2026-09-18T18:00+0200",
+    "ort": "Raum für Alle, Genovevastraße 94",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/donnern-festival-2026-wir-brauchen-platz-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Beim Donnern Festival 2026 geht es um Räume, Erinnerung und Widerstand, mit szenischer Lesung, Live Podcast, Gesprächen und Musik. Du triffst hier auf Themen wie Keupstraße, Wohnraum und Militarisierung der Gegenwart, pl"
+  },
+  {
+    "titel": "Manifest YOUR DREAMLIFE Manifest Evening",
+    "datum": "18. Sep 2026",
+    "datum_raw": "2026-09-18T18:00+0200",
+    "ort": "OnlyYou Holistic Center, Venloer Straße 497",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/manifest-your-dream-life-manifest-evening-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "How to Manifest 💛Meditation & Manifestieren – Lerne, wie du deine Träume wirklich lebst✨Ein Workshop für innere Klarheit, Ausrichtung & kraftvolle Intentionen2026 darf dein Jahr werden – ein Jahr, in dem du nicht nur t"
   }
 ]
