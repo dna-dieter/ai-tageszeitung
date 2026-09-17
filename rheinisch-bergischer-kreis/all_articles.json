@@ -2616,6 +2616,18 @@
     "fetched": "2026-05-05T21:10:26.248688"
   },
   {
+    "id": "7d60a8834bcd",
+    "title": "Das GL-Wort – jeden Morgen neu",
+    "summary": "Spielen Sie mit uns - und lösen Sie jeden Tag ein neues Worträtsel.",
+    "link": "https://in-gl.de/2026/09/17/wort/",
+    "published": "Wed, 16 Sep 2026 23:22:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-09-17T00:25:40.638029"
+  },
+  {
     "id": "d8aa284834da",
     "title": "Mein Leben als Fußballpapa: Felix Magath im Kopf, Papa im Herzen: Ein Spieltag voller Zweifel",
     "summary": "Gunnar Freudenberg begleitet die Fußballkarriere seines Sohnes Hannes als Co‑Trainer. Der will trotz Krankheit ins Tor, die D-Jugend im ersten Spiel punkten – und ein Fußballpapa muss zwischen Vernunft und Fußballherz entscheiden. Einfach wird dieser Samstag nicht . . .",
@@ -14990,6 +15002,78 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-05-05T21:10:26.248511"
+  },
+  {
+    "id": "cfdc7d88e231",
+    "title": "Dubioser Weg im Wald in Wermelskirchen: Das steckt hinter der Asphaltierung bei Neuemühle",
+    "summary": "Er sollte kein Ersatz für den erst einmal nicht zu realisierenden Radweg entlang der K18 werden, aber eine Möglichkeit, mit dem Rad aus Richtung Emminghausen nach Wermelskirchen zu gelangen. So begründet die Verwaltung den Bau des Weges.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/dubioser-weg-im-wald-in-wermelskirchen-das-steckt-hinter-der-asphaltierung-bei-neuemuehle-Y4DEINZLZZDEXCWHYCQEUGYENM.html",
+    "published": "Thu, 17 Sep 2026 02:00:00 +0200",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-09-17T00:25:46.439357"
+  },
+  {
+    "id": "cc424048a1b4",
+    "title": "Natürliche Hundesnacks aus Burscheid – ohne Chemie und Zusatzstoffe",
+    "summary": "Die „Knabberkiste“ in Burscheid stellt natürliche Kauartikel für Hunde her – ohne Chemie, Zucker oder Lockstoffe. Was vor zehn Jahren in einer Garage begann, ist heute ein Unternehmen mit zehn Mitarbeitern. Warum die Gründerin bereits eine zweite Halle plant.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/natuerliche-hundesnacks-aus-burscheid-ohne-chemie-und-zusatzstoffe-Y5EIOWNCZJBBXMGHAOM6CQBRRU.html",
+    "published": "Thu, 17 Sep 2026 02:00:00 +0200",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-09-17T00:25:46.955821"
+  },
+  {
+    "id": "114dca4cd2bb",
+    "title": "Wie Pferde denken – Expertin erklärt Perspektivwechsel beim Tag des Pferdewissens",
+    "summary": "Für Menschen ist der Pferdeanhänger praktisch und sicher. Für Pferde ist er ein Gefängnis. Eine Burscheiderin erklärt am 19. September in Wuppertal, wie man Probleme vermeidet, wenn man die Welt mit Pferdeaugen sieht. Das Programm läuft von 11 bis 17 Uhr.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/wie-pferde-denken-expertin-erklaert-perspektivwechsel-beim-tag-des-pferdewissens-TJSBWE3PTVEFTKZXZYU33TGCTU.html",
+    "published": "Thu, 17 Sep 2026 02:00:00 +0200",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-09-17T00:25:46.955864"
+  },
+  {
+    "id": "4368f41a4bc9",
+    "title": "Uwe Schneidewind über Amtszeit als OB – „Vertrauen ist das Wichtigste\"",
+    "summary": "Als Quereinsteiger wurde Uwe Schneidewind 2020 Wuppertaler OB. Jetzt blickt er in einem Buch zurück. Bei seiner Lesung in Burscheid schilderte er, wie schwer es ist, als Außenstehender Vertrauen aufzubauen. Und warum eine Gesellschaft im Umbruch Mut zum Risiko braucht.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/uwe-schneidewind-ueber-amtszeit-als-ob-vertrauen-ist-das-wichtigste-WC4RTTHO6FDGBBGAZDJAPQVHYY.html",
+    "published": "Thu, 17 Sep 2026 01:00:00 +0200",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-09-17T00:25:46.955901"
+  },
+  {
+    "id": "5a2277620448",
+    "title": "Hausbesitzer aufgepasst: Diese kostenlose Beratung kann Tausende Euro sparen",
+    "summary": "Experten informieren zu Heizungsmodernisierung, Wärmedämmung, Photovoltaik und Fördermitteln. Für wen sich das Angebot lohnt – und wie man sich anmeldet.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/hausbesitzer-aufgepasst-diese-kostenlose-beratung-kann-tausende-euro-sparen-S6PCUDJEDBF6RG64ZZK36KO5IE.html",
+    "published": "Thu, 17 Sep 2026 01:00:00 +0200",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-09-17T00:25:46.955931"
+  },
+  {
+    "id": "8d21d92b2f6a",
+    "title": "„Reingelegt und abgezockt!“ – Theater klärt über miese Tricks an älteren Menschen auf",
+    "summary": "Trickbetrug, falsche Polizisten und andere Betrugsmaschen gehören für viele ältere Menschen zu den Gefahren des Alltags. Mit der Veranstaltung „Reingelegt und abgezockt!“ möchte die CDU Odenthal gemeinsam mit der Polizei und der Volksbank Berg aufklären und sensibilisieren.",
+    "link": "https://in-gl.de/2026/09/17/reingelegt-und-abgezockt-theater-klaert-ueber-miese-tricks-an-aelteren-menschen-auf/",
+    "published": "Thu, 17 Sep 2026 00:23:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "odenthal"
+    ],
+    "fetched": "2026-09-17T00:25:40.637992"
   },
   {
     "id": "39ae772daf42",
