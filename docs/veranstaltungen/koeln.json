@@ -24,7 +24,7 @@
     "datum": "17. Sep 2026",
     "datum_raw": "2026-09-17T17:30+0200",
     "ort": "AQUA - auf dem Eventschiff Rhein Roxy, Heinrich-Lübke-Ufer",
-    "preis": "ab 10 €",
+    "preis": "ab 12 €",
     "link": "https://rausgegangen.de/events/five-2-nine-001-house-boot-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Nach Feierabend geht’s bei FIVE 2 NINE auf dem Rhein direkt am Wasser richtig los. Mit House Sounds in wechselnden DJ-Duos, Sonnenuntergang und coolen Drinks erlebst du eine entspannte Partyzeit, die weit über das 9–5 hi"
@@ -74,7 +74,7 @@
     "datum": "17. Sep 2026",
     "datum_raw": "2026-09-17T18:30+0200",
     "ort": "Filmforum NRW, Bischofsgartenstr. 1",
-    "preis": "ab 0 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/23-afrika-film-festival-koln-eroffnungsveranstaltung-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Zum Auftakt des Afrika Film Festival Köln erwarten dich Film, internationale Gäste und Live Musik in engem Austausch. Dazu kommt Onita Boone, die seit Jahrzehnten Soul, R&B und Jazz mit Haltung verbindet. Der Abend bleib"
@@ -310,6 +310,16 @@
     "teaser": "Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge entdecken Spaß macht "
   },
   {
+    "titel": "De Norte a Sur - Konzert- Musiker aus Nicaragua",
+    "datum": "18. Sep 2026",
+    "datum_raw": "2026-09-18T18:30+0200",
+    "ort": "Deutsch-Spanischer Kulturkreis „Antonio Machado“ e.V, Severinsmühlengasse 1",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/de-norte-a-sur-konzert-musiker-aus-nicaragua-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Diesen Freitag in Köln: Musik, Poesie & ErinnerungLetzte Woche haben wir den Dokumentarfilm „Monarca: De Norte a Sur“ gezeigt und dabei die Geschichte und das künstlerische Schaffen dieser nicaraguanischen Künstler ke"
+  },
+  {
     "titel": "Jack Botts | LIVE",
     "datum": "18. Sep 2026",
     "datum_raw": "2026-09-18T19:00+0200",
@@ -388,15 +398,5 @@
     "link": "https://rausgegangen.de/events/sing-mit-koln-kneipensingen-im-franz-eck-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Von Kölsch bis ABBA, von Deutsch-Pop bis Evergreens: Kölns wohl charmantestes Kneipensingen geht in die nächste Runde!Wann? - 18. September 2026, 19:30 UhrWo? - Klaaf em Franz-Eck - Lindenthalgürtel 58A, 50935 Köln "
-  },
-  {
-    "titel": "Aufbruch - Marie Jacquot & Yulianna Avdeeva",
-    "datum": "18. Sep 2026",
-    "datum_raw": "2026-09-18T20:00+0200",
-    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
-    "preis": "ab 9 €",
-    "link": "https://rausgegangen.de/events/aufbruch-marie-jacquot-yulianna-avdeeva-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Mit einem Abend voller Klangmagie und visionärer Kraft feiert Marie Jacquot ihr Antrittskonzert als neue Chefdirigentin des WDR Sinfonieorchesters. Vom sphärischen Vorspiel zu Wagners Oper \"Lohengrin\" spannt sich der B"
   }
 ]
