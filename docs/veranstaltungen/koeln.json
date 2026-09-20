@@ -14,7 +14,7 @@
     "datum": "20. Sep 2026",
     "datum_raw": "2026-09-20T10:00+0200",
     "ort": "Social Studio Köln, Friedrichstraße 63",
-    "preis": "ab 0 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/medientausch-waffelschmaus-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Hier geht es um Medien, die ein zweites Leben bekommen: Bücher, Spiele, Tonträger und Puzzles wechseln unkompliziert die Seiten. Dazu gibt es Waffeln und Zeit zum Stöbern, Plaudern und Finden von bis zu zehn neuen Liebli"
@@ -150,16 +150,6 @@
     "teaser": "Acoustic Sundays bei LalibeeWillkommen zu einer neuen Konzertreihe in Köln-Zollstock! CCC - Coffee Concert Cologne bringt Live-Musik direkt ins Herz des gemütlichen Veedels. An ausgewählten Sonntagnachmittagen verwand"
   },
   {
-    "titel": "MORE VOIICES - Ein Abend. Ein Chor. Ein Erlebnis.",
-    "datum": "20. Sep 2026",
-    "datum_raw": "2026-09-20T16:00+0200",
-    "ort": "Altes Pfandhaus, Kartäuserwall 20",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/more-voiices-ein-abend-ein-chor-ein-erlebnis-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Pop-up-Chor MORE VOIICES verschmilzt improvisierter Popgesang mit intensiver Piano-Begleitung zu einem berührenden Klangerlebnis, das in der besonderen Akustik des alten Pfandhauses besonders kraftvoll wirkt Es erwa"
-  },
-  {
     "titel": "Rising Stars: Amelio Trio",
     "datum": "20. Sep 2026",
     "datum_raw": "2026-09-20T16:00+0200",
@@ -240,16 +230,6 @@
     "teaser": "YOU HEARD IT RIGHT! The first time in Effenaar left us absolutely speechless and it had us all craving for more.  So there was only one option: taking my band to Germany! 🗓️ Sunday 20 September 2026🎟️ Tickets first fase:"
   },
   {
-    "titel": "Holly Humberstone",
-    "datum": "20. Sep 2026",
-    "datum_raw": "2026-09-20T19:00+0200",
-    "ort": "Bürgerhaus Stollwerck, Dreikönigenstraße 23",
-    "preis": "ab 35 €",
-    "link": "https://rausgegangen.de/events/holly-humberstone-8/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Holly Humberstone baut mit ihrem neuen Projekt auf emotionale Tiefe und intime Sounds, die ihre Zuhörenden direkt abholen. Ihr persönlicher Stil verbindet feine Melancholie mit poppigen Momenten – hier bekommst du einen "
-  },
-  {
     "titel": "futurebae - „The Hot Ex-Effekt“ Tour 2026",
     "datum": "20. Sep 2026",
     "datum_raw": "2026-09-20T19:00+0200",
@@ -258,6 +238,16 @@
     "link": "https://rausgegangen.de/events/futurebae-the-hot-ex-effekt-tour-2026-8/",
     "quelle": "Rausgegangen Köln",
     "teaser": "futurebae mischt auf der neuen Tour HipHop mit eingängigen Pop-Momenten und liefert Beats, die gleichermaßen energiegeladen und verspielt sind. Ihr aktuelles Album „The Hot Ex-Effekt“ zeigt ihren besonderen Blick auf Lie"
+  },
+  {
+    "titel": "Holly Humberstone",
+    "datum": "20. Sep 2026",
+    "datum_raw": "2026-09-20T19:00+0200",
+    "ort": "Bürgerhaus Stollwerck, Dreikönigenstraße 23",
+    "preis": "ab 35 €",
+    "link": "https://rausgegangen.de/events/holly-humberstone-8/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Holly Humberstone baut mit ihrem neuen Projekt auf emotionale Tiefe und intime Sounds, die ihre Zuhörenden direkt abholen. Ihr persönlicher Stil verbindet feine Melancholie mit poppigen Momenten – hier bekommst du einen "
   },
   {
     "titel": "futurebae • \"The Hot Ex-Effekt\" Tour 2026",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/henze-voices-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Amanda Becker | Peter Tantsits | Ensemble Modern | Ingo MetzmacherDas Ensemble Modern erinnert an Hans Werner Henze: Lieder auf Texte von Heine, Brecht, Enzensberger2026 wäre Hans Werner Henze 100 Jahre alt geworden. Un"
+  },
+  {
+    "titel": "JILUKA",
+    "datum": "21. Sep 2026",
+    "datum_raw": "2026-09-21T20:00+0200",
+    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
+    "preis": "ab 32 €",
+    "link": "https://rausgegangen.de/events/jiluka-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "JILUKA was formed in February 2015 with a four member line-up:    Ricko (vocals) / Sena (guitar) / Boogie (bass) / Zyean (drums)    JILUKA expresses a variety of emotions by combining their aggressive metal sound with di"
   }
 ]
