@@ -1,143 +1,53 @@
 [
   {
-    "titel": "Klimafestival Köln 2026",
-    "datum": "21. Sep 2026",
-    "datum_raw": "2026-09-21T00:01+0200",
-    "ort": "Stadt Köln",
+    "titel": "Solar-Veedels-Radtour",
+    "datum": "22. Sep 2026",
+    "datum_raw": "2026-09-22T17:00+0200",
+    "ort": "Bürgerzentrum Ehrenfeld, Venloer Str. 429",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/klimafestival-koln-2026-0/",
+    "link": "https://rausgegangen.de/events/veedels-solar-radtour-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Klimafestival Köln 2026 geht es zum vierten Mal um Klimaschutz, der nicht nur erklärt, sondern gemeinsam ausprobiert wird. Dich erwarten Führungen, Workshops und Einblicke in aktuelle Projekte aus Stadt, Organisatio"
+    "teaser": "Hier bekommst du praktische Einblicke rund um eigene Solarenergie, direkt aus Gesprächen mit Menschen, die schon losgelegt haben. Die Radtour verbindet Erfahrungsberichte, konkrete Tipps zur Umsetzung und einen offenen A"
   },
   {
-    "titel": "Spritzspecial - jeden Spritz montags ab 17 Uhr für 5€ 🌟🍊",
-    "datum": "21. Sep 2026",
-    "datum_raw": "2026-09-21T17:00+0200",
-    "ort": "Café/Restaurant Feynsinn, Rathenauplatz 7",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/spritzspecial-jeden-spritz-und-jeden-wein-montags-ab-17-uhr--29/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Montags ab 17 Uhr gibt’s hier jeden Spritz für 5 Euro, von klassisch bis alkoholfrei. Perfekt zum entspannten Ausklang, wenn du auf erfrischende Drinks Lust hast und neue Lieblingssorten entdecken willst 🥂"
-  },
-  {
-    "titel": "Häkelworkshop mit Zero Waste Köln",
-    "datum": "21. Sep 2026",
-    "datum_raw": "2026-09-21T18:00+0200",
-    "ort": "IGLU gUG - DREHSCHEIBE FÜR NACHHALTIGEN KONSUM, Sudermanplatz 1",
+    "titel": "NOTHING HAPPENS AFTER THE REVOLUTION & Live Musik",
+    "datum": "22. Sep 2026",
+    "datum_raw": "2026-09-22T17:30+0200",
+    "ort": "Filmforum NRW, Bischofsgartenstr. 1",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/hakelworkshop-mit-zero-waste-koln-0/",
+    "link": "https://rausgegangen.de/events/nothing-happens-after-the-revolution-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Hier findest du einen Häkelabend mit Zero Waste Köln, der ohne Druck startet und Platz für Neuanfänge wie halbfertige Projekte lässt. Jana zeigt dir die Basics für Spültuch oder Topflappen, dazu gibt es Austausch, gegens"
+    "teaser": "Hier siehst du einen Film von Omar Ibrahim, der Produktionskrise, Exil und die Frage nach Sprache ganz nah zusammendenkt. Dazu kommt Live Musik von Ashraf Babiker, während sich die Erzählung vom Filmemachen hin zu Erinne"
   },
   {
-    "titel": "Offene Chorprobe - HAPPY VO!ICEs | Südstadt",
-    "datum": "21. Sep 2026",
-    "datum_raw": "2026-09-21T18:00+0200",
-    "ort": "Kartäuserkirche Köln, Kartäusergasse 7",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/offene-chorprobe-happy-voices-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Sing Dich glücklich!  Du liebst Musik, hast Dich aber bisher nicht getraut im Chor zu singen?  Dann ist jetzt Dein Moment!   Bei HAPPY VO!CEs ist der Name Programm: Wir singen aus reiner Freude und ohne Hürden.   Komm "
-  },
-  {
-    "titel": "LOVE AT FIRST SLIDE Köln | Power Point Dating by Rausgegangen 💖",
-    "datum": "21. Sep 2026",
-    "datum_raw": "2026-09-21T19:00+0200",
-    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
-    "preis": "ab 4 €",
-    "link": "https://rausgegangen.de/events/love-at-first-slide-koln-power-point-dating-by-rausgegangen-7/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wir bringen mit LOVE AT FIRST SLIDE Dating auf die Bühne: Freund:innen stellen in kurzen Power Point Präsentationen ihre Lieblingssingle vor – charmant, humorvoll und ganz ohne Swipe. Nach den witzigen Pitches kannst du "
-  },
-  {
-    "titel": "RUN FOR LOVE | Kölns Single-Run",
-    "datum": "21. Sep 2026",
-    "datum_raw": "2026-09-21T19:00+0200",
-    "ort": "RUN FOR LOVE x Zappes Zentrale, Roonstraße 71",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/run-for-love-kolns-single-run-96/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "RUN FOR LOVE – die perfekte Mischung aus Sport und Flirten! 🏃‍♀️ Jeden Montag um 19 Uhr im Zappes Süd."
-  },
-  {
-    "titel": "Kritzeln und Klimpern",
-    "datum": "21. Sep 2026",
-    "datum_raw": "2026-09-21T19:00+0200",
-    "ort": "motoki, Stammstr. 32 - 34",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/kritzeln-und-klimpern-72/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Kreativ sein, neue Leute & ein entspannter Abend? Ab ins  motoki-Wohnzimmer in Ehrenfeld 🎨  Ganz egal, ob du Bock hast dich malerisch auszutoben oder mit anderen zu musizieren – hier kannst du in der Gruppe kreativ werde"
-  },
-  {
-    "titel": "CULK",
-    "datum": "21. Sep 2026",
-    "datum_raw": "2026-09-21T19:00+0200",
-    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
+    "titel": "Eis und Wein Tasting im Kiosque Wine&Glory",
+    "datum": "22. Sep 2026",
+    "datum_raw": "2026-09-22T17:30+0200",
+    "ort": "Kiosque & Eisdiele Wine&Glory, Beethovenstraße 14",
     "preis": "ab 20 €",
-    "link": "https://rausgegangen.de/events/culk-14/",
+    "link": "https://rausgegangen.de/events/eis-und-wein-tasting-im-kiosque-wineglory-84/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "popanz CULK (Wien, Siluh) Montag, 21. September 2026 Bumann & Sohn, Köln Einlass 19:00, Beginn 20:00  präsentiert von ByteFM, Bedroomdisco, Laut.de, Musikblog, Musikexpress, Drift & The GapCULK um Sängerin und Songwri"
+    "teaser": "Dienstags bis donnerstags erwarten dich handverlesene Weine, die sich auf kreative Weise mit hausgemachtem Eis von Creme Eis verbinden. Die Kombinationen überraschen mit neuen Aromen und machen Lust, bewusster zu genieße"
   },
   {
-    "titel": "Day We Ran",
-    "datum": "21. Sep 2026",
-    "datum_raw": "2026-09-21T19:30+0200",
-    "ort": "die wohngemeinschaft, Richard-Wagner-Straße 39",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/day-we-ran-0/",
+    "titel": "Zine Club",
+    "datum": "22. Sep 2026",
+    "datum_raw": "2026-09-22T18:00+0200",
+    "ort": "IGLU gUG - DREHSCHEIBE FÜR NACHHALTIGEN KONSUM, Sudermanplatz 1",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/zine-club-2/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Die Musik von Day We Ran wirkt in etwa so, wie die sich langsam verabschiedende Sonne nach einem langen Sommertag am Meer: Sie erzeugt warme Gefühle von Dankbarkeit, Lebendigkeit und einen kleinen Hauch Melancholie daru"
+    "teaser": "Im Zine Club bastelst du ohne Hürden mit anderen an kleinen Heften, Collagen und Fundstücken, egal ob du schon Erfahrung hast oder ganz neu dabei bist. Das monatliche Format setzt auf gemeinsames Ausprobieren, Austausch "
   },
   {
-    "titel": "Bria Skonberg Trio",
-    "datum": "21. Sep 2026",
-    "datum_raw": "2026-09-21T20:00+0200",
-    "ort": "King Georg, Sudermanstraße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/bria-skonberg-trio-0/",
+    "titel": "Klimabingo im Rahmen der GREEN NIGHTS",
+    "datum": "22. Sep 2026",
+    "datum_raw": "2026-09-22T18:30+0200",
+    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/klimabingo-im-rahmen-der-green-nights-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Sie ist eine der vielseitigsten Musikerinnen ihrer Generation!  Die in New York lebende, in Kanada geborene Sängerin, Trompeterin und Songwriterin Bria Skonberg hat die Jazzszene mit ihrer rauchigen Stimme, ihrem mitrei"
-  },
-  {
-    "titel": "FASTER PUSSYCAT",
-    "datum": "21. Sep 2026",
-    "datum_raw": "2026-09-21T20:00+0200",
-    "ort": "Gebäude 9, Deutz-Mülheimer Straße 117",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/faster-pussycat-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Sie sind seit über 40 Jahren dabei und so laut und schrill wie eh und je: Die Hard- und Glamrock-Epigonen Faster Pussycat kommen im September für drei Shows in Hamburg, Berlin Und Köln nach Deutschland!  Aus den Tiefe"
-  },
-  {
-    "titel": "Henze: Voices",
-    "datum": "21. Sep 2026",
-    "datum_raw": "2026-09-21T20:00+0200",
-    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
-    "preis": "ab 21 €",
-    "link": "https://rausgegangen.de/events/henze-voices-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Amanda Becker | Peter Tantsits | Ensemble Modern | Ingo MetzmacherDas Ensemble Modern erinnert an Hans Werner Henze: Lieder auf Texte von Heine, Brecht, Enzensberger2026 wäre Hans Werner Henze 100 Jahre alt geworden. Un"
-  },
-  {
-    "titel": "JILUKA",
-    "datum": "21. Sep 2026",
-    "datum_raw": "2026-09-21T20:00+0200",
-    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
-    "preis": "ab 32 €",
-    "link": "https://rausgegangen.de/events/jiluka-4/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "JILUKA was formed in February 2015 with a four member line-up:    Ricko (vocals) / Sena (guitar) / Boogie (bass) / Zyean (drums)    JILUKA expresses a variety of emotions by combining their aggressive metal sound with di"
-  },
-  {
-    "titel": "LUIS - REAL!VE TOUR 2026",
-    "datum": "21. Sep 2026",
-    "datum_raw": "2026-09-21T20:00+0200",
-    "ort": "Die Kantine / Yard Club, Neusser Landstraße 2",
-    "preis": "ab 34 €",
-    "link": "https://rausgegangen.de/events/luis-realve-tour-2026-7/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "LUIS mixt Pop, Trap und Pop-Punk zu einem Sound, der sofort an Highschool-Tage erinnert und entspannt im Ohr bleibt. Nach Superhits wie „PPP“ und dem neuen Track „GLOW“ bringt er 2026 frische Songs auf die Bühne, die Lus"
+    "teaser": "Hier bekommst du Klima und Musikbranche mal nicht trocken serviert, sondern als Bingo mit Witz, Wissen und Kölner Note. Hinter dem Format steht Music Declares Emergency, moderiert wird von Dani und Diana von SCHNUPPE, al"
   },
   {
     "titel": "AKRIILA",
@@ -158,6 +68,16 @@
     "link": "https://rausgegangen.de/events/brigitte-calls-me-baby-7/",
     "quelle": "Rausgegangen Köln",
     "teaser": "„Irreversible“ ist nicht nur der Titel des neuen Albums der US-amerikanischen Alternative-Rock Band Brigitte Calls Me Baby, sondern auch das exakt richtige Wort für den Effekt, den diese Formation auf ihre Hörer*innen "
+  },
+  {
+    "titel": "Kumbia Queers",
+    "datum": "22. Sep 2026",
+    "datum_raw": "2026-09-22T20:00+0200",
+    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
+    "preis": "ab 29 €",
+    "link": "https://rausgegangen.de/events/kumbia-queers-9/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Kumbia Queers aus Buenos Aires mischen ab September alte Cumbia-Klänge mit kantigem Punkrock und elektrischen Beats zu ihrem typischen Tropipunk. Ihr neues Album bringt frischen Wind in ihre queer-feministische Feier"
   },
   {
     "titel": "AKRIILA",
@@ -198,16 +118,6 @@
     "link": "https://rausgegangen.de/events/jazzorama-student-night-bela-nicolini-quartett-feat-davida-d-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Dienstag 22. SeptemberBéla Nicolini Quartett feat. Davida Dayle“A Tribute To Betty Carter” - STUDENT NIGHT / STUDENTS FREE ENTRY - Davida Dayle – GesangBéla Nicolini – TrompeteMax Köhler – KlavierGabriel Spindler – Ba"
-  },
-  {
-    "titel": "Kumbia Queers",
-    "datum": "22. Sep 2026",
-    "datum_raw": "2026-09-22T20:00+0200",
-    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
-    "preis": "ab 29 €",
-    "link": "https://rausgegangen.de/events/kumbia-queers-9/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die Kumbia Queers aus Buenos Aires mischen ab September alte Cumbia-Klänge mit kantigem Punkrock und elektrischen Beats zu ihrem typischen Tropipunk. Ihr neues Album bringt frischen Wind in ihre queer-feministische Feier"
   },
   {
     "titel": "KURS: KOTO/ NAOKO KIKUCHI (SAWAI UNIVERSAL)",
@@ -380,6 +290,86 @@
     "teaser": "Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) buchen reguläre Tickets. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte."
   },
   {
+    "titel": "Wraaang",
+    "datum": "23. Sep 2026",
+    "datum_raw": "2026-09-23T20:00+0200",
+    "ort": "Asimmetric Bar, Venloer Straße 196",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/wraaang-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wraaang is Manuel Serrano’s solo project. He hails from Puente Genil, the geographical centre of Andalusia and a town with a long tradition of olive cultivation. His musical project was born out of a need, in the face of"
+  },
+  {
+    "titel": "WU LYF",
+    "datum": "23. Sep 2026",
+    "datum_raw": "2026-09-23T20:00+0200",
+    "ort": "Gebäude 9, Deutz-Mülheimer Straße 117",
+    "preis": "ab 26 €",
+    "link": "https://rausgegangen.de/events/wu-lyf-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Man hörte ihre Songs, lange bevor man wusste, wer dahintersteckt. Ein Chor aus Hall, Dringlichkeit und Trotz, aufgenommen wie unter Kirchendecken, vorgetragen mit einer Inbrunst, die mehr beschwor als erklärte. So trat"
+  },
+  {
+    "titel": "#round1",
+    "datum": "23. Sep 2026",
+    "datum_raw": "2026-09-23T21:00+0200",
+    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
+    "preis": "ab 21 €",
+    "link": "https://rausgegangen.de/events/round1-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Orgel als elektronischer Klangkörper der ZukunftMaxime Denuc öffnet der Pfeifenorgel neue Klangwelten: Zwischen sakraler Tradition, elektronischer Musik und künstlerischer Interpretation entstehen faszinierende Kompos"
+  },
+  {
+    "titel": "Shacke One - Sternzeichen Boss Tour 2026",
+    "datum": "24. Sep 2026",
+    "datum_raw": "2026-09-24T00:00+0200",
+    "ort": "Club Volta, Schanzenstraße 6-20",
+    "preis": "ab 38 €",
+    "link": "https://rausgegangen.de/events/shacke-one-sternzeichen-boss-tour-2026-7/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Shacke One meldet sich mit der Sternzeichen Boss Tour zurück und mixt deutschen Rap mit seinem unverkennbaren Style. Auf der Bühne entfaltet er die rohe Power seiner Nordachse Cashgroup und zeigt, warum er als Boss bleib"
+  },
+  {
+    "titel": "Blackout Session #1 im Lo Fi Store mit Fieber / Disso!ver / Komplizen der Spielregeln",
+    "datum": "24. Sep 2026",
+    "datum_raw": "2026-09-24T18:30+0200",
+    "ort": "Lo-Fi Store, Venloer Straße 404",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/blackout-session-1-im-lo-fi-store-mit-fieber-dissover-kompli-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Blackout Session #1 Komplizen der Spielregeln, Disso!ver, Fieber - Drei Kölner Artists kommen zusammen um gemeinschaftlich im Kollektiv Musik zu spielen. Nur mit akustischen Instrumenten und ohne Strom oder Kabel aber u"
+  },
+  {
+    "titel": "B2B Release Konzert / JULIBRISE und MAIKA aus Köln",
+    "datum": "24. Sep 2026",
+    "datum_raw": "2026-09-24T19:00+0200",
+    "ort": "OYA MÜLLEM, Buchheimer Straße 17",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/b2b-release-konzert-julibrise-und-maika-aus-koln-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "B2B Release Konzert / JULIBRISE und MAIKA aus Köln \"Feel Alive\" heißt die neue Single der Künstlerin JULIBRISE. Als Support Act hat sie die Kölner Künstlerin MAIKA eingeladen.  Treibende Synthesizer, Melancholische V"
+  },
+  {
+    "titel": "COSEY MUELLER",
+    "datum": "24. Sep 2026",
+    "datum_raw": "2026-09-24T19:00+0200",
+    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
+    "preis": "ab 18 €",
+    "link": "https://rausgegangen.de/events/cosey-mueller-5/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "popanz COSEY MUELLER (Berlin, Bretford) Do, 24. September 2026 Bumann & Sohn, Köln Einlass 19:00, Beginn 20:00Emerging from the depths of Berlin’s underground scene, Cosey Mueller is a self made musician who explores el"
+  },
+  {
+    "titel": "Offene Bühne im Café Fridolin",
+    "datum": "24. Sep 2026",
+    "datum_raw": "2026-09-24T19:00+0200",
+    "ort": "Café Fridolin, Venloer Straße 429",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/offene-buhne-im-cafe-fridolin-27/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Komm vorbei und läute das Osterwochenende auf der offenen Bühne in gemütlicher Atmosphäre ein! 🎤 Ein perfekter Abend für alle, die Kultur in einer offenen und respektvollen Umgebung erleben möchten."
+  },
+  {
     "titel": "Dellbrücker Festmeile",
     "datum": "26. Sep 2026",
     "datum_raw": "2026-09-26T11:00+0200",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/queer-witch-club-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "🌕 QUEER WITCHES CLUB ABENDDer Queer Witch Club kommt ins OnlyYou Holistic Center zu seinem ersten Witches Abend in diesem Jahr passend zum Vollmond. ✨🌕Egal, ob du dich selbst als Witch bezeichnest oder schon lange mit Ma"
+  },
+  {
+    "titel": "Albanian Film Festival Köln",
+    "datum": "26. Sep 2026",
+    "datum_raw": "2026-09-26T18:45+0200",
+    "ort": "Filmhaus Köln, Maybachstraße 111",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/albanian-film-festival-koln-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "From September 26 - 29, Filmhaus Köln hosts the first edition of the Albanian Film Festival Köln, an initiative by ABC Book Club Köln.Over four days, the festival brings a curated selection of Albanian cinema to Colog"
   }
 ]
