@@ -60,16 +60,6 @@
     "teaser": "Sommerschoppen...mit MusikSommerschoppen im Hof – Mit jedem Glas ein Stück EngelshofEin lauer Sommerabend, kühle Getränke, nette Menschen – und das alles für einen guten Zweck: Beim Sommerschoppen für den Engelshof "
   },
   {
-    "titel": "Music Pub Quiz in der Braustelle",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T19:00+0200",
-    "ort": "Braustelle, Christianstraße 2",
-    "preis": "ab 6 €",
-    "link": "https://rausgegangen.de/events/music-pub-quiz-in-der-braustelle-10/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Konzertfeeling, Quizspaß und frisches Brauerei-Bier – beim Musikquiz wird Livemusik mit kniffligen Fragen gemixt. Team schnappen, mitraten und los geht's🎲"
-  },
-  {
     "titel": "Poets Of The Fall | European Tour 2026",
     "datum": "23. Sep 2026",
     "datum_raw": "2026-09-23T19:00+0200",
@@ -368,6 +358,16 @@
     "link": "https://rausgegangen.de/events/stadtklang-mit-emily-otto-live-ruby-ella-hotel-bar-koln-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "EMILY OTTO“Wie geht es anders?” – Diese Frage stellt sich die Musikerin Emily Otto jedes Mal, wenn sie Musik schreibt. Herkömmlich ist nicht drin für sie. Freiheit ist das Fundament des Emi-Songwritings, das sie zuletz"
+  },
+  {
+    "titel": "TOM GREGORY",
+    "datum": "24. Sep 2026",
+    "datum_raw": "2026-09-24T20:00+0200",
+    "ort": "Bürgerhaus Stollwerk, Dreikönigenstraße",
+    "preis": "ab 32 €",
+    "link": "https://rausgegangen.de/events/tom-gregory-8/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Was passiert, wenn britische Ehrlichkeit auf unwiderstehliche Melodien trifft? Der Singer-Songwriter Tom Gregory liefert die Antwort. Mit Songs, die gleichzeitig Herzschmerz und Hoffnung transportieren, gehört er längs"
   },
   {
     "titel": "10 Years Anniversary COMMUNI_THEK at TEMPO___K",
