@@ -73,7 +73,7 @@
     "titel": "Poets Of The Fall | European Tour 2026",
     "datum": "23. Sep 2026",
     "datum_raw": "2026-09-23T19:00+0200",
-    "ort": "Die Kantine / Yard Club, Neusser Landstraße 2",
+    "ort": "Die Kantine, Neusser Landstraße 2",
     "preis": "ab 42 €",
     "link": "https://rausgegangen.de/events/poets-of-the-fall-european-tour-2026-0/",
     "quelle": "Rausgegangen Köln",
@@ -370,6 +370,16 @@
     "teaser": "EMILY OTTO“Wie geht es anders?” – Diese Frage stellt sich die Musikerin Emily Otto jedes Mal, wenn sie Musik schreibt. Herkömmlich ist nicht drin für sie. Freiheit ist das Fundament des Emi-Songwritings, das sie zuletz"
   },
   {
+    "titel": "10 Years Anniversary COMMUNI_THEK at TEMPO___K",
+    "datum": "25. Sep 2026",
+    "datum_raw": "2026-09-25T19:00+0200",
+    "ort": "TEMPO___K temporäres Museum für zeitgenössische Wandmalerei, Poller Kirchweg 13",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/10-years-anniversary-communi-thek-at-tempo---k-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "  SAVE THE DATE 25–27 SEPTEMBER  10 Years Anniversary @_____thek at @tempo___k – with Exhibitions, Performances, Music, Workshops, Food and Drinks  WITHOUT COMMUNITY WE WOULD NOT EXIST An diesem Wochenende feiern wir 10 "
+  },
+  {
     "titel": "Dellbrücker Festmeile",
     "datum": "26. Sep 2026",
     "datum_raw": "2026-09-26T11:00+0200",
@@ -388,15 +398,5 @@
     "link": "https://rausgegangen.de/events/queer-witch-club-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "🌕 QUEER WITCHES CLUB ABENDDer Queer Witch Club kommt ins OnlyYou Holistic Center zu seinem ersten Witches Abend in diesem Jahr passend zum Vollmond. ✨🌕Egal, ob du dich selbst als Witch bezeichnest oder schon lange mit Ma"
-  },
-  {
-    "titel": "Albanian Film Festival Köln",
-    "datum": "26. Sep 2026",
-    "datum_raw": "2026-09-26T18:45+0200",
-    "ort": "Filmhaus Köln, Maybachstraße 111",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/albanian-film-festival-koln-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "From September 26 - 29, Filmhaus Köln hosts the first edition of the Albanian Film Festival Köln, an initiative by ABC Book Club Köln.Over four days, the festival brings a curated selection of Albanian cinema to Colog"
   }
 ]
