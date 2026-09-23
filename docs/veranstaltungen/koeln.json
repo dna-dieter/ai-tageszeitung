@@ -30,16 +30,6 @@
     "teaser": "Das 13-saitige Instrument Koto begeistert seit dem 17. Jahrhundert Musikliebhaber und lässt fernöstliche Melodien tief im Herzen erklingen.Naoko Kikuchi, eine der renommiertesten Kotospielerinnen Europas, vermittelt de"
   },
   {
-    "titel": "queer & kreativ — Kostenloser Schreibworkshop für queere Jugendliche (14-20 J.)",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T17:00+0200",
-    "ort": "anyway | 🌈 Bar, Club, Communityspace, Kamekestraße 14",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/queer-kreativ-kostenloser-schreibworkshop-fur-queere-jugendl-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier findest du einen kostenlosen Schreibworkshop für queere Jugendliche, der sich mit Identität, Repräsentation und eigenen Geschichten jenseits der Heteronorm beschäftigt. Gelesen, geschrieben und geteilt wird gemeinsa"
-  },
-  {
     "titel": "Ebertplatz: Beetpflege mit der AG Begrünung",
     "datum": "23. Sep 2026",
     "datum_raw": "2026-09-23T17:30+0200",
@@ -120,16 +110,6 @@
     "teaser": "Das britische Alternative-Metal-Duo Lake Malice kommt im September 2026 für fünf HeadlineShows nach Deutschland. Anlass der Tour ist die Veröffentlichung ihres mit Spannung erwarteten Debütalbums „I Wanna Know If It'"
   },
   {
-    "titel": "jolle - ballons halten tour 2026",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T20:00+0200",
-    "ort": "Helios37, Heliosstraße 37",
-    "preis": "ab 40 €",
-    "link": "https://rausgegangen.de/events/jolle-ballons-halten-tour-2026-5/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "jolle mixt in ihrer Musik Neonfarben mit Graustufen und zeigt, wie vielschichtig Pop, Indie und Rap sein können. Im nächsten Jahr gibt’s ihr Debütalbum, an dem sie gerade mit voller Kraft arbeitet. Freu dich auf ehrliche"
-  },
-  {
     "titel": "2010er JAHRE QUIZ",
     "datum": "23. Sep 2026",
     "datum_raw": "2026-09-23T20:00+0200",
@@ -138,6 +118,16 @@
     "link": "https://rausgegangen.de/events/2010er-jahre-quiz-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Beim 2010er Jahre Quiz misst du dein Wissen zu Internet-Phänomenen, Serien-Hits und viralen Challenges aus dem Jahrzehnt der Smartphone-Revolution. Mit Freunden trittst du in Teams an, lachst über legendäre Memes und rät"
+  },
+  {
+    "titel": "jolle - ballons halten tour 2026",
+    "datum": "23. Sep 2026",
+    "datum_raw": "2026-09-23T20:00+0200",
+    "ort": "Helios37, Heliosstraße 37",
+    "preis": "ab 40 €",
+    "link": "https://rausgegangen.de/events/jolle-ballons-halten-tour-2026-5/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "jolle mixt in ihrer Musik Neonfarben mit Graustufen und zeigt, wie vielschichtig Pop, Indie und Rap sein können. Im nächsten Jahr gibt’s ihr Debütalbum, an dem sie gerade mit voller Kraft arbeitet. Freu dich auf ehrliche"
   },
   {
     "titel": "Ayumi Tanaka / Thomas Morgan / Thomas Strønen",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/queer-witch-club-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "🌕 QUEER WITCHES CLUB ABENDDer Queer Witch Club kommt ins OnlyYou Holistic Center zu seinem ersten Witches Abend in diesem Jahr passend zum Vollmond. ✨🌕Egal, ob du dich selbst als Witch bezeichnest oder schon lange mit Ma"
+  },
+  {
+    "titel": "Albanian Film Festival Köln",
+    "datum": "26. Sep 2026",
+    "datum_raw": "2026-09-26T18:45+0200",
+    "ort": "Filmhaus Köln, Maybachstraße 111",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/albanian-film-festival-koln-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "From September 26 - 29, Filmhaus Köln hosts the first edition of the Albanian Film Festival Köln, an initiative by ABC Book Club Köln.Over four days, the festival brings a curated selection of Albanian cinema to Colog"
   }
 ]
