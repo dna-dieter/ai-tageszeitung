@@ -1,245 +1,5 @@
 [
   {
-    "titel": "Wo wir sind",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T10:30+0200",
-    "ort": "COMEDIA Theater, Vondelstraße 4-8",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/wo-wir-sind-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "In Wo wir sind wird Tanztheater für alle ab 4 zu einer klugen, kindgerechten Suche nach Halt in einer Welt voller Ablenkung. Mit wehenden Tüchern, Live Musik von Saxofon und Piano und einem Team von COMEDIA und De Stilte"
-  },
-  {
-    "titel": "23. Afrika Film Festival Köln",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T11:00+0200",
-    "ort": "Diverse Veranstaltungsorte in Köln, Köln",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/23-afrika-film-festival-koln-7/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Seit 1992 zeigt das Afrika Film Festival Köln, wie vielfältig afrikanisches Kino und die Diaspora erzählen. Dich erwarten rund 80 Spiel, Doku und Kurzfilme aus 23 Ländern, dazu Gespräche, Workshops und Musik für echten A"
-  },
-  {
-    "titel": "KURS: KOTO/ NAOKO KIKUCHI (SAWAI UNIVERSAL)",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T13:00+0200",
-    "ort": "Tenri Japanisch-Deutsche Kulturwerkstatt, Kartäuserwall 20",
-    "preis": "ab 150 €",
-    "link": "https://rausgegangen.de/events/kurs-koto-naoko-kikuchi-sawai-universal-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Das 13-saitige Instrument Koto begeistert seit dem 17. Jahrhundert Musikliebhaber und lässt fernöstliche Melodien tief im Herzen erklingen.Naoko Kikuchi, eine der renommiertesten Kotospielerinnen Europas, vermittelt de"
-  },
-  {
-    "titel": "Ebertplatz: Beetpflege mit der AG Begrünung",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T17:30+0200",
-    "ort": "Ebertplatz, Ebertplatz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/ebertplatz-beetpflege-mit-der-ag-begrunung-21/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die AG Begrünung trifft sich jeden Mittwoch, um die Blumenbeete am Ebertplatz gemeinsam in Schuss zu halten. Ob Jäten, Säen oder Rückschnitt – hier kannst du aktiv mit anpacken und die grüne Oase mitgestalten 🪩"
-  },
-  {
-    "titel": "CHARITY RAVE by Neon Graveyard",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T18:00+0200",
-    "ort": "Schrotty, Vogelsanger Straße 406",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/charity-rave-by-neon-graveyard-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei diesem Charity Rave von Neon Graveyard geht Techno mit Haltung zusammen: Callush, Johannes Schuster, LSG, Oskamaxx und NYRA spielen für den guten Zweck, mit einem einzigen Community Ticket für alle. Der Erlös geht an"
-  },
-  {
-    "titel": "Sommerschoppen mit Musik",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T18:00+0200",
-    "ort": "Bürgerzentrum Engelshof e. V., Oberstraße 96",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/sommerschoppen-mit-musik-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Sommerschoppen...mit MusikSommerschoppen im Hof – Mit jedem Glas ein Stück EngelshofEin lauer Sommerabend, kühle Getränke, nette Menschen – und das alles für einen guten Zweck: Beim Sommerschoppen für den Engelshof "
-  },
-  {
-    "titel": "Poets Of The Fall | European Tour 2026",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T19:00+0200",
-    "ort": "Die Kantine, Neusser Landstraße 2",
-    "preis": "ab 42 €",
-    "link": "https://rausgegangen.de/events/poets-of-the-fall-european-tour-2026-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Poets of the Fall kehren nach Europa und Großbritannien zurück, um das 20-jährige Jubiläum ihres bahnbrechenden Albums „Carnival of Rust“ zu feiern. „Carnival of Rust“ erschien vor zwei Jahrzehnten und wurde zu einem "
-  },
-  {
-    "titel": "soft rotation #15",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T19:00+0200",
-    "ort": "674FM Konzertraum, Ubierring 13",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/soft-rotation-15-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "soft rotation is back and we are excited to invite you to the first edition of season 04!soft rotation is a concert series dedicated to sound art, performance and experimental electronic music. Organized collectively by "
-  },
-  {
-    "titel": "Für Nichts Nach Bonn - Köln, Stereo Wonderland",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T19:30+0200",
-    "ort": "Stereo Wonderland, Trierer Straße 65",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/fur-nichts-nach-bonn-koln-stereo-wonderland-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Für Nichts Nach Bonn ist ein Indie-/Alternative-Projekt aus Stuttgart, das sich zwischen Alternativ Rock, Noise Pop und Indie bewegt. Verzerrte Gitarrentreffen auf eine dynamische Stimme und eingängige Melodien. Der So"
-  },
-  {
-    "titel": "Lake Malice - I wanna know if it's a real Tour",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T19:30+0200",
-    "ort": "MTC - LIVE❌MUSIC❌CLUB, Zülpicher Str. 10",
-    "preis": "ab 29 €",
-    "link": "https://rausgegangen.de/events/lake-malice-i-wanna-know-if-its-a-real-tour-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Das britische Alternative-Metal-Duo Lake Malice kommt im September 2026 für fünf HeadlineShows nach Deutschland. Anlass der Tour ist die Veröffentlichung ihres mit Spannung erwarteten Debütalbums „I Wanna Know If It'"
-  },
-  {
-    "titel": "2010er JAHRE QUIZ",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T20:00+0200",
-    "ort": "PÄFF, Friesenwall 130",
-    "preis": "ab 4 €",
-    "link": "https://rausgegangen.de/events/2010er-jahre-quiz-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim 2010er Jahre Quiz misst du dein Wissen zu Internet-Phänomenen, Serien-Hits und viralen Challenges aus dem Jahrzehnt der Smartphone-Revolution. Mit Freunden trittst du in Teams an, lachst über legendäre Memes und rät"
-  },
-  {
-    "titel": "jolle - ballons halten tour 2026",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T20:00+0200",
-    "ort": "Helios37, Heliosstraße 37",
-    "preis": "ab 40 €",
-    "link": "https://rausgegangen.de/events/jolle-ballons-halten-tour-2026-5/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "jolle mixt in ihrer Musik Neonfarben mit Graustufen und zeigt, wie vielschichtig Pop, Indie und Rap sein können. Im nächsten Jahr gibt’s ihr Debütalbum, an dem sie gerade mit voller Kraft arbeitet. Freu dich auf ehrliche"
-  },
-  {
-    "titel": "Ayumi Tanaka / Thomas Morgan / Thomas Strønen",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T20:00+0200",
-    "ort": "Stadtgarten, Venloer Straße 40",
-    "preis": "ab 12 €",
-    "link": "https://rausgegangen.de/events/ayumi-tanaka-thomas-morgan-thomas-strnen-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "20:00 I Konzert I Konzertsaal Die Pianistin Ayumi Tanaka, der Bassist Thomas Morgan zeichnen sich durch ihre Sensibilität und ihre intuitive Kunstfertigkeit aus: Gemeinsam komponieren sie im Moment und verweben Musik, d"
-  },
-  {
-    "titel": "CAKE",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T20:00+0200",
-    "ort": "Carlswerk Victoria, Schanzenstr. 6-20",
-    "preis": "ab 40 €",
-    "link": "https://rausgegangen.de/events/cake-130/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "15 Jahre mussten sich Fans der US-amerikanischen, genreübergreifenden Band Cake für ein neues Album gedulden – doch dem Warten wird nun noch in diesem Jahr ein Ende gesetzt! Im Herbst wird die Gruppe rund um Leadsänge"
-  },
-  {
-    "titel": "DRUG CHURCH",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T20:00+0200",
-    "ort": "Luxor, Luxemburger Straße 40",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/drug-church-5/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Eine Band wie Drug Church ist das Resultat daraus, Bock auf Musik zu haben und sich dabei selbst nicht zu ernst zu nehmen. Dass diese Authentizität der Schlüssel zum Erfolg der Band wurde, spielt ihrer musikalischen wi"
-  },
-  {
-    "titel": "Drug Church",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T20:00+0200",
-    "ort": "Luxor, Luxemburger Straße 40",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/drug-church-7/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Support: Liquid MikePresented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) buchen reguläre Tickets. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte."
-  },
-  {
-    "titel": "Hannes Klemme Trio",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T20:00+0200",
-    "ort": "King Georg, Sudermanstraße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/hannes-klemme-trio-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Ein Konzert aus der Reihe Young Talents Hannes Klemme (Piano), Mina Lichtenberg (Kontrabass), Jurij Espenschied (Schlagzeug) Ein klassisches Pianotrio! Der unverwechselbare Stil der Mainzer Band setzt sich aus Einflüsse"
-  },
-  {
-    "titel": "MADELEINES",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T20:00+0200",
-    "ort": "Salon De Jazz, Severinskloster 3a",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/madeleines-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "MADELEINES - auf der Suche nach der verlorenen Sechzehntel Musik von Muneer B.Fennell, Doug Hammond, Steve Coleman und anderenMuneer B. Fennell (ehemals Muneer A.Fataah), war zu Beginn der 80ger Jahre in Freiburg Carl Lu"
-  },
-  {
-    "titel": "OsamaSon - PSYKTURNAL TOUR",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T20:00+0200",
-    "ort": "E-Werk Köln, Schanzenstraße 37",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/osamason-psykturnal-tour-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Presented by Live NationRollstuhlfahrer*innen und Schwerbehinderte mit Merkzeichen „B“ wählen bitte die Telefonnummer +49 (0)30 - 40 818 824 (Ortstarif). Unsere kompetenten Kolleginnen und Kollegen aus dem Call Center h"
-  },
-  {
-    "titel": "VUNDABAR & YOT CLUB",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T20:00+0200",
-    "ort": "Club Volta, Schanzenstraße 6-20",
-    "preis": "ab 26 €",
-    "link": "https://rausgegangen.de/events/vundabar-yot-club-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zwischen Vundabars verträumten Surf-Rock-Wellen und Yot Clubs vielseitiger Bedroom-Pop-Ästhetik liegen weniger Unterschiede, als man im ersten Moment denken mag. Gleichermaßen vielseitig zeigen sich die verschiedenen E"
-  },
-  {
-    "titel": "Vundabar & Yot Club",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T20:00+0200",
-    "ort": "Club Volta, Schanzenstraße 6-20",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/vundabar-yot-club-5/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) buchen reguläre Tickets. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte."
-  },
-  {
-    "titel": "Wraaang",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T20:00+0200",
-    "ort": "Asimmetric Bar, Venloer Straße 196",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/wraaang-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wraaang is Manuel Serrano’s solo project. He hails from Puente Genil, the geographical centre of Andalusia and a town with a long tradition of olive cultivation. His musical project was born out of a need, in the face of"
-  },
-  {
-    "titel": "WU LYF",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T20:00+0200",
-    "ort": "Gebäude 9, Deutz-Mülheimer Straße 117",
-    "preis": "ab 26 €",
-    "link": "https://rausgegangen.de/events/wu-lyf-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Man hörte ihre Songs, lange bevor man wusste, wer dahintersteckt. Ein Chor aus Hall, Dringlichkeit und Trotz, aufgenommen wie unter Kirchendecken, vorgetragen mit einer Inbrunst, die mehr beschwor als erklärte. So trat"
-  },
-  {
-    "titel": "#round1",
-    "datum": "23. Sep 2026",
-    "datum_raw": "2026-09-23T21:00+0200",
-    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
-    "preis": "ab 21 €",
-    "link": "https://rausgegangen.de/events/round1-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Orgel als elektronischer Klangkörper der ZukunftMaxime Denuc öffnet der Pfeifenorgel neue Klangwelten: Zwischen sakraler Tradition, elektronischer Musik und künstlerischer Interpretation entstehen faszinierende Kompos"
-  },
-  {
     "titel": "Shacke One - Sternzeichen Boss Tour 2026",
     "datum": "24. Sep 2026",
     "datum_raw": "2026-09-24T00:00+0200",
@@ -250,6 +10,36 @@
     "teaser": "Shacke One meldet sich mit der Sternzeichen Boss Tour zurück und mixt deutschen Rap mit seinem unverkennbaren Style. Auf der Bühne entfaltet er die rohe Power seiner Nordachse Cashgroup und zeigt, warum er als Boss bleib"
   },
   {
+    "titel": "MarktTreff Rudolfplatz",
+    "datum": "24. Sep 2026",
+    "datum_raw": "2026-09-24T16:00+0200",
+    "ort": "Rudolfplatz, Rudolfplatz",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/markttreff-rudolfplatz-20/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jeden Donnerstag von 16 bis 21 Uhr gibt es am Rudolfplatz frische Wochenmarktprodukte und Street Food aus der Region zu entdecken. Dazu kannst du entspannten Weingenuss genießen und deinen Feierabend mit leckerem Essen d"
+  },
+  {
+    "titel": "RAVE AEROBIC @Tanz Etage Südstadt",
+    "datum": "24. Sep 2026",
+    "datum_raw": "2026-09-24T18:00+0200",
+    "ort": "Tanzetage, Wormser Straße 51",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/rave-aerobic-tanz-etage-sudstadt-21/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Rave Aerobic ist zurück und mischt 80er Fitness Charme mit Pop Moves und elektronischem Druck. Hier geht es nicht um Perfektion, sondern um Tanzen, Training und eine kleine Clubstimmung, bei der sogar deine Wunschsongs f"
+  },
+  {
+    "titel": "SPEED FRIENDING Köln",
+    "datum": "24. Sep 2026",
+    "datum_raw": "2026-09-24T18:30+0200",
+    "ort": "Garagen Club Köln, Oskar-Jäger-Straße 179",
+    "preis": "ab 20 €",
+    "link": "https://rausgegangen.de/events/speed-friending-by-rausgegangen-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Speed Dating kennen wir alle, aber was ist mit Speed Friending?\nHier lernst du in kurzen Gesprächen ganz entspannt neue Leute kennen, ohne das übliche Smalltalk-Blabla. Egal, ob du noch neue Friends suchst oder einfach L"
+  },
+  {
     "titel": "Blackout Session #1 im Lo Fi Store mit Fieber / Disso!ver / Komplizen der Spielregeln",
     "datum": "24. Sep 2026",
     "datum_raw": "2026-09-24T18:30+0200",
@@ -258,6 +48,16 @@
     "link": "https://rausgegangen.de/events/blackout-session-1-im-lo-fi-store-mit-fieber-dissover-kompli-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Blackout Session #1 Komplizen der Spielregeln, Disso!ver, Fieber - Drei Kölner Artists kommen zusammen um gemeinschaftlich im Kollektiv Musik zu spielen. Nur mit akustischen Instrumenten und ohne Strom oder Kabel aber u"
+  },
+  {
+    "titel": "Flinta* Gesprächskreis",
+    "datum": "24. Sep 2026",
+    "datum_raw": "2026-09-24T19:00+0200",
+    "ort": "Social Studio Köln, Friedrichstraße 63",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/flinta-gesprachskreis-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Hier findest du einen offenen Gesprächskreis für FLINTA* Personen, moderiert von Theresa mit Fokus auf ehrlichen Austausch, Selbsthilfe und gegenseitige Stärkung. Mal geht es um Identität, Beziehungen oder Alltag, mal hö"
   },
   {
     "titel": "B2B Release Konzert / JULIBRISE und MAIKA aus Köln",
@@ -310,6 +110,46 @@
     "teaser": "neue Songs, neue Shows, “neues glueck” - Traumatin und seine Live Band auf Tour!"
   },
   {
+    "titel": "Queer Night of Ideas",
+    "datum": "24. Sep 2026",
+    "datum_raw": "2026-09-24T19:30+0200",
+    "ort": "Institut Français Köln, Sachsenring 77",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/queer-night-of-ideas-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Hier findest du einen Abend, der queeres Kino, wissenschaftliche Einordnung und Musik klug zusammenbringt. Nach Kurzfilmen und Gesprächen mit Luna und Clara geht es um Sichtbarkeit, Perspektiven und persönliche Erfahrung"
+  },
+  {
+    "titel": "Science Slam in Köln im September 2026",
+    "datum": "24. Sep 2026",
+    "datum_raw": "2026-09-24T20:00+0200",
+    "ort": "Gebäude 9, Deutz-Mülheimer Straße 117",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/science-slam-in-koln-im-september-2026-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wenn Forschung mal nicht nach Hörsaal klingt, dann so: Junge Wissenschaftler:innen bringen ihre Themen in nur zehn Minuten auf die Bühne, mit Experimenten, Aktionen und klugen Ideen, die auch komplexe Sachen greifbar mac"
+  },
+  {
+    "titel": "Girl Group",
+    "datum": "24. Sep 2026",
+    "datum_raw": "2026-09-24T20:00+0200",
+    "ort": "artheater Köln, Ehrenfeldgürtel 127",
+    "preis": "ab 30 €",
+    "link": "https://rausgegangen.de/events/girl-group-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Girl Group aus Liverpool mischt Indie-Pop mit Post-Punk und elektronischen Sounds, dabei geben sie feministische Stimmen Raum und machen alles selbst – vom Text bis zum Beat. Du kannst dich auf ehrliche, unverfälschte Mu"
+  },
+  {
+    "titel": "TOUCH THE LINE",
+    "datum": "24. Sep 2026",
+    "datum_raw": "2026-09-24T20:00+0200",
+    "ort": "FWT: Freies Werkstatt Theater Köln, Zugweg 10",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/touch-the-line-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Emel Aydoğdu verknüpft in diesem Theaterabend biografische und erfundene Geschichten zu einer großen Erzählung über Grenzen, Zugehörigkeit und das, was zwischen Menschen unausgesprochen bleibt. Du kannst mit einer poeti"
+  },
+  {
     "titel": "DELBRUEGGE BAND bei Jussi",
     "datum": "24. Sep 2026",
     "datum_raw": "2026-09-24T20:00+0200",
@@ -328,16 +168,6 @@
     "link": "https://rausgegangen.de/events/frank-chastenier-trio-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Frank Chastenier (Piano), Christian von Kaphengst (Bass), Valentin Renner (Schlagzeug)﻿﻿Frank Chastenier führt sein Trio mit jener unnachahmlichen Eleganz, wie sie nur ganz wenige Pianisten für sich beanspruchen kö nn"
-  },
-  {
-    "titel": "Girl Group",
-    "datum": "24. Sep 2026",
-    "datum_raw": "2026-09-24T20:00+0200",
-    "ort": "artheater Köln, Ehrenfeldgürtel 127",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/girl-group-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Girl Group aus Liverpool mischt Indie-Pop mit Post-Punk und elektronischen Sounds, dabei geben sie feministische Stimmen Raum und machen alles selbst – vom Text bis zum Beat. Du kannst dich auf ehrliche, unverfälschte Mu"
   },
   {
     "titel": "Mariybu: FRECH Tour",
@@ -370,33 +200,203 @@
     "teaser": "Was passiert, wenn britische Ehrlichkeit auf unwiderstehliche Melodien trifft? Der Singer-Songwriter Tom Gregory liefert die Antwort. Mit Songs, die gleichzeitig Herzschmerz und Hoffnung transportieren, gehört er längs"
   },
   {
-    "titel": "10 Years Anniversary COMMUNI_THEK at TEMPO___K",
+    "titel": "Xaver Fischer Trio",
+    "datum": "24. Sep 2026",
+    "datum_raw": "2026-09-24T20:00+0200",
+    "ort": "Salon De Jazz, Severinskloster 3a",
+    "preis": "ab 15 €",
+    "link": "https://rausgegangen.de/events/xaver-fischer-trio-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das Xaver Fischer Trio wurde 1997 gegründet und mit seiner einzigartigen Mischung aus Jazz, Pop und Elektro schnell europaweit bekannt. In der aktuellen Besetzung mit Krischan Frehse und Hendrik Smock widmet sich das Tr"
+  },
+  {
+    "titel": "Florian Herzog Almost Natural",
+    "datum": "24. Sep 2026",
+    "datum_raw": "2026-09-24T20:30+0200",
+    "ort": "Loft Köln, Wissmannstr. 30",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/florian-herzog-almost-natural-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Spannung und Entspannung, Akkord und Cluster, Puls und Beat, Bonus und Malus: Es sind oftmals Kontraste und Gegensätze, aus dem ein Kunstwerk seine Spannung zieht, und sich echte Schönheit einem erst dann zeigt, wenn d"
+  },
+  {
+    "titel": "Sera Kalo`s eX.II / MALSTROM",
+    "datum": "24. Sep 2026",
+    "datum_raw": "2026-09-24T22:30+0200",
+    "ort": "Stadtgarten, Venloer Straße 40",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/sera-kalos-exii-malstrom-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Doppelkonzert22.30h: Sera Kalo`s eX.II @ Stadtgarten, KonzertsaalGeboren und aufgewachsen ist Sera Kalo im US-Bundesstaat Conecticut. Über New York kam sie 2009 nach Dresden in Deutschland, wo sie einige Semester Jazzge"
+  },
+  {
+    "titel": "Choro Wochenend - Workshop",
+    "datum": "25. Sep 2026",
+    "datum_raw": "2026-09-25T00:00+0200",
+    "ort": "zamus: großer Probensaal, Heliosstraße 15",
+    "preis": "ab 35 €",
+    "link": "https://rausgegangen.de/events/choro-wochenend-workshop-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Im Mittelpunkt des Workshops stehen das gemeinsame Musizieren ohne Noten sowie die Stimme als wichtiges Werkzeug für das Auswendiglernen und Improvisieren. Bodypercussion unterstützt dabei, Rhythmen körperlich zu erfa"
+  },
+  {
+    "titel": "Euroblast Festival 2026",
+    "datum": "25. Sep 2026",
+    "datum_raw": "2026-09-25T15:00+0200",
+    "ort": "Essigfabrik, Siegburger Straße 110",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/euroblast-festival-2026-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "DEDas Euroblast Festival feiert 2026 seine 20. Edition – ein Jubiläum, das wir gemeinsam mit euch gebührend zelebrieren!Vom 25. bis 27. September 2026 verwandelt sich die Essigfabrik in Köln erneut in den Treffpunkt f"
+  },
+  {
+    "titel": "Singen - Joy of Singing - einfach singen in Köln-Sülz - Chor auf Zeit",
+    "datum": "25. Sep 2026",
+    "datum_raw": "2026-09-25T16:30+0200",
+    "ort": "St. Karl Borromäus , Kirche für Leib und Seele, Zülpicher Straße 275",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/singen-joy-of-singing-einfach-singen-in-koln-sulz-chor-auf-z-15/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Herzliche Einladung zu „Joy of Singing“ – gemeinsames Singen von Liedern, die verbinden und gut tun.Wir singen Lieder, die leicht zu lernen sind und ohne Noten oder Textblätter auskommen. Durch das wiederholte Singen en"
+  },
+  {
+    "titel": "Kakaozeremonie & Klangreise, Kräuterreinigung, Meditation, erlebe etwas Neues!",
+    "datum": "25. Sep 2026",
+    "datum_raw": "2026-09-25T18:00+0200",
+    "ort": "room for emotions, Am Maarhof 25",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/kakao-klang-zeremonie-mit-sound-healing-live-musik-zum-fuhle-77/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Ein Erlebnis für alle Sinne. Musik zum Fühlen und nicht zum intellektuellen Erfassen. Schokolade in ihrer reinsten und ursprünglichen Form zum trinken und erfahren. Spüre wie sich dein Herz öffnet und du vom Kopf in"
+  },
+  {
+    "titel": "Letzte Freitagsbühne 2026",
+    "datum": "25. Sep 2026",
+    "datum_raw": "2026-09-25T18:00+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/odonische-freitagsbuhne-85/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge entdecken Spaß macht "
+  },
+  {
+    "titel": "18 Jahre LIMES KÖLN Geburtstags WE + KAROSHI & BANANA PEEL SLIPPERS LIVE + PARTY",
     "datum": "25. Sep 2026",
     "datum_raw": "2026-09-25T19:00+0200",
-    "ort": "TEMPO___K temporäres Museum für zeitgenössische Wandmalerei, Poller Kirchweg 13",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/10-years-anniversary-communi-thek-at-tempo---k-0/",
+    "ort": "Limes Köln, Mülheimer Freiheit 150",
+    "preis": "ab 18 €",
+    "link": "https://rausgegangen.de/events/18-jahre-limes-koln-geburtstags-we-karoshi-banana-peel-slipp-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "  SAVE THE DATE 25–27 SEPTEMBER  10 Years Anniversary @_____thek at @tempo___k – with Exhibitions, Performances, Music, Workshops, Food and Drinks  WITHOUT COMMUNITY WE WOULD NOT EXIST An diesem Wochenende feiern wir 10 "
+    "teaser": "#savethedate 🎉18 Jahre Limes – endlich volljährig! 🥳 Nicht alles, was auf dem Weg dahin passiert ist, war einfach. Umso mehr ein Grund jetzt 18 Jahre Limes mit enstrechendem Programm zu feiern: Freitag, 25.09. – Jubilä"
   },
   {
-    "titel": "Dellbrücker Festmeile",
-    "datum": "26. Sep 2026",
-    "datum_raw": "2026-09-26T11:00+0200",
-    "ort": "Dellbrück, Köln",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/dellbrucker-festmeile-1/",
+    "titel": "Kompositionsresidenz",
+    "datum": "25. Sep 2026",
+    "datum_raw": "2026-09-25T19:00+0200",
+    "ort": "Beethoven-Haus Bonn - Kammermusiksaal, Bonngasse 24-26",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/kompositionsresidenz-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Das größte rechtsrheinische Straßenfest Kölns steigt am 26. und 27. September 2026 in Dellbrück. Wenn die Dellbrücker Hauptstraße zur Festmeile wird, zieht es nicht nur die Veedelsbewohner, sondern auch andere Domsta"
+    "teaser": "Michael Obst, Mentoring und ModerationIn Kooperation mit der Studienstiftung des deutschen Volkes vergibt das Beethoven-Haus Bonn 2026 zum vierzehnten Mal ein fünfwöchiges Residenz- und Arbeitsstipendium im Fach Kompos"
   },
   {
-    "titel": "Queer Witch Club",
-    "datum": "26. Sep 2026",
-    "datum_raw": "2026-09-26T17:00+0200",
-    "ort": "OnlyYou Holistic Center, Venloer Straße 497",
-    "preis": "ab 35 €",
-    "link": "https://rausgegangen.de/events/queer-witch-club-0/",
+    "titel": "Ausgebucht: Tosin Salako meets Duo CoFe",
+    "datum": "25. Sep 2026",
+    "datum_raw": "2026-09-25T19:00+0200",
+    "ort": "Art of Buna, Genter Straße 26",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/konzert-tosin-salako-meets-duo-cofe-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "🌕 QUEER WITCHES CLUB ABENDDer Queer Witch Club kommt ins OnlyYou Holistic Center zu seinem ersten Witches Abend in diesem Jahr passend zum Vollmond. ✨🌕Egal, ob du dich selbst als Witch bezeichnest oder schon lange mit Ma"
+    "teaser": "Vom 24. bis 27. September 2026 findet die 12. European Jazz Conference (EJC 2026) in Köln – und damit erstmals in Deutschland – statt. In diesem Zusammenhang besucht auch der Nigerianische Afrojazz Sänger Tosin Salako "
+  },
+  {
+    "titel": "Lachkater Die Stand Up Comedy Show",
+    "datum": "25. Sep 2026",
+    "datum_raw": "2026-09-25T19:00+0200",
+    "ort": "Friesenstraße 54, Friesenstraße 54, 50670 Köln, Deutschland",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/lachkater-die-stand-up-comedy-show-553/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": ">> nur 3 min fußläufig vom Friesenplatz 🚀Hier wird die Katze aus dem Sack gelacht! 😹Der erste 🎤 Stand Up Comedy Boom Deutschlands macht sich auch in Köln bemerkbar.Hier darfst du live dabei sein, wenn die gefragtesten "
+  },
+  {
+    "titel": "LILYISTHATYOU",
+    "datum": "25. Sep 2026",
+    "datum_raw": "2026-09-25T19:00+0200",
+    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
+    "preis": "ab 25 €",
+    "link": "https://rausgegangen.de/events/lilyisthatyou-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Anstatt sich auf ein einziges Genre zu committen, geht Lilyisthatyou in der Musikindustrie mit ihrem verspielten, lauten und teilweise frechen Sound sowie Einflüssen aus Dark Pop, Alt-Rock und elektronischen Hyper-Pop-E"
+  },
+  {
+    "titel": "Lilyisthatyou - THE FLOWERS HAVE FEELINGS TOUR",
+    "datum": "25. Sep 2026",
+    "datum_raw": "2026-09-25T19:00+0200",
+    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/lilyisthatyou-the-flowers-have-feelings-tour-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) buchen reguläre Tickets. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte."
+  },
+  {
+    "titel": "NEONSCHWARZ",
+    "datum": "25. Sep 2026",
+    "datum_raw": "2026-09-25T19:00+0200",
+    "ort": "Gebäude 9, Deutz-Mülheimer Straße 117",
+    "preis": "ab 30 €",
+    "link": "https://rausgegangen.de/events/neonschwarz-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Ihr habt lange nichts von ihnen gehört, aber das wird sich jetzt erstmal gehörig ändern, denn: NEONSCHWARZ GEHEN NOCH EINMAL AUF TOUR! UND BRINGEN EIN BEST OF ALBUM RAUS: Neonschwarz Forever! ❤️Über drei Jahre sind s"
+  },
+  {
+    "titel": "SLEEPING WOODS ‧ ICE DREAM SOCIAL ‧ UltimativRot",
+    "datum": "25. Sep 2026",
+    "datum_raw": "2026-09-25T19:00+0200",
+    "ort": "Blue Shell, Luxemburger Straße 32",
+    "preis": "ab 11 €",
+    "link": "https://rausgegangen.de/events/sleeping-woods-ice-dream-social-ultimativrot-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Fr.,25.09.26Einlass 19 Uhr  Beginn 19:30 Uhr Blue Shell Live:  SLEEPING WOODSIndie  Mit einer feinen Mischung aus Indie, Rock ’n‘ Roll und einer Prise 90er-Jahre Britpop bieten die vier Jungs aus dem Herzen von Nordrhein"
+  },
+  {
+    "titel": "Live Music & Cacao Ceremony · A heart-opening, interactive musical journey",
+    "datum": "25. Sep 2026",
+    "datum_raw": "2026-09-25T19:30+0200",
+    "ort": "Prana Place · Ehrenfeld, Melatengürtel 129a",
+    "preis": "ab 32 €",
+    "link": "https://rausgegangen.de/events/live-music-cacao-ceremony-a-heart-opening-interactive-musica-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Dear you,You are warmly invited into an evening of music, presence, and shared experience.This gathering is a community space: Part concert, part ceremony, part singing circle.The music we create together becomes medicin"
+  },
+  {
+    "titel": "Munchy Bunch - Album Release Show",
+    "datum": "25. Sep 2026",
+    "datum_raw": "2026-09-25T19:30+0200",
+    "ort": "Veedel Club, Luxemburger Straße 37",
+    "preis": "ab 17 €",
+    "link": "https://rausgegangen.de/events/munchy-bunch-album-release-show-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "TICKET VORVERKAUF!  Hier erlebt ihr die explosive Energie von Munchy Bunch bei der feierlichen Veröffentlichung ihres Debütalbums im Veedel Club Köln. Wände aus Gitarren, treibendes Schlagzeug und Gesang irgendwo zwi"
+  },
+  {
+    "titel": "SLC Pop-Up × GROSSE8: History of House",
+    "datum": "25. Sep 2026",
+    "datum_raw": "2026-09-25T19:30+0200",
+    "ort": "GROSSE8, Vogelsanger Straße 193",
+    "preis": "ab 16 €",
+    "link": "https://rausgegangen.de/events/slc-pop-up-grosse8-history-of-house-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Anderer Raum. Andere Regeln. Gleiches Zuhören.Der Slow Listening Club verlässt seine Base im Café Franck. Für SLC Pop-Up × GROSSE8 treffen zwei Ideen aufeinander: Musik bewusst hören und Geschichten im Raum erlebbar"
+  },
+  {
+    "titel": "Mariybu \"FRECH\"-Tour",
+    "datum": "19. Okt 2026",
+    "datum_raw": "2026-10-19T20:00+0200",
+    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
+    "preis": "ab 28 €",
+    "link": "https://rausgegangen.de/events/mariybu-frech-tour-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Mariybu mischt technoiden Hyperpop mit Hardstyle und nimmt dabei die Herrenwelt aufs Korn. Mit ihrem „FRECH“-Album erwartet dich eine energiegeladene Show voller frecher Beats und bissiger Farben, die den Tanzraum auf de"
   }
 ]
