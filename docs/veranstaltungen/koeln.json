@@ -34,7 +34,7 @@
     "datum": "24. Sep 2026",
     "datum_raw": "2026-09-24T18:30+0200",
     "ort": "Garagen Club Köln, Oskar-Jäger-Straße 179",
-    "preis": "ab 20 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/speed-friending-by-rausgegangen-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Speed Dating kennen wir alle, aber was ist mit Speed Friending?\nHier lernst du in kurzen Gesprächen ganz entspannt neue Leute kennen, ohne das übliche Smalltalk-Blabla. Egal, ob du noch neue Friends suchst oder einfach L"
@@ -54,7 +54,7 @@
     "datum": "24. Sep 2026",
     "datum_raw": "2026-09-24T19:00+0200",
     "ort": "Social Studio Köln, Friedrichstraße 63",
-    "preis": "kostenlos",
+    "preis": "ab 4 €",
     "link": "https://rausgegangen.de/events/flinta-gesprachskreis-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Hier findest du einen offenen Gesprächskreis für FLINTA* Personen, moderiert von Theresa mit Fokus auf ehrlichen Austausch, Selbsthilfe und gegenseitige Stärkung. Mal geht es um Identität, Beziehungen oder Alltag, mal hö"
@@ -164,7 +164,7 @@
     "datum": "24. Sep 2026",
     "datum_raw": "2026-09-24T20:00+0200",
     "ort": "King Georg, Sudermanstraße 2",
-    "preis": "ab 22 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/frank-chastenier-trio-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Frank Chastenier (Piano), Christian von Kaphengst (Bass), Valentin Renner (Schlagzeug)﻿﻿Frank Chastenier führt sein Trio mit jener unnachahmlichen Eleganz, wie sie nur ganz wenige Pianisten für sich beanspruchen kö nn"
@@ -360,6 +360,16 @@
     "teaser": "Fr.,25.09.26Einlass 19 Uhr  Beginn 19:30 Uhr Blue Shell Live:  SLEEPING WOODSIndie  Mit einer feinen Mischung aus Indie, Rock ’n‘ Roll und einer Prise 90er-Jahre Britpop bieten die vier Jungs aus dem Herzen von Nordrhein"
   },
   {
+    "titel": "„GEORG AND FRIENDs BAND“ Cumbia - Salsa - Mestizo",
+    "datum": "25. Sep 2026",
+    "datum_raw": "2026-09-25T19:30+0200",
+    "ort": "Deutsch-Spanischer Kulturkreis „Antonio Machado“ e.V, Severinsmühlengasse 1",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/georg-and-friends-band-cumbia-salsa-mestizo-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "🎶 LIVE LATINMUSIK IN KÖLN! 💃🕺„GEORG AND FRIENDS“ Salsa • Cumbia • Música Latina MestizoLass dich von den Rhythmen und der Energie Lateinamerikas mitreißen! Georg and Friends ist eine Formation aus Musiker*innen verschi"
+  },
+  {
     "titel": "Live Music & Cacao Ceremony · A heart-opening, interactive musical journey",
     "datum": "25. Sep 2026",
     "datum_raw": "2026-09-25T19:30+0200",
@@ -378,16 +388,6 @@
     "link": "https://rausgegangen.de/events/munchy-bunch-album-release-show-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "TICKET VORVERKAUF!  Hier erlebt ihr die explosive Energie von Munchy Bunch bei der feierlichen Veröffentlichung ihres Debütalbums im Veedel Club Köln. Wände aus Gitarren, treibendes Schlagzeug und Gesang irgendwo zwi"
-  },
-  {
-    "titel": "SLC Pop-Up × GROSSE8: History of House",
-    "datum": "25. Sep 2026",
-    "datum_raw": "2026-09-25T19:30+0200",
-    "ort": "GROSSE8, Vogelsanger Straße 193",
-    "preis": "ab 16 €",
-    "link": "https://rausgegangen.de/events/slc-pop-up-grosse8-history-of-house-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Anderer Raum. Andere Regeln. Gleiches Zuhören.Der Slow Listening Club verlässt seine Base im Café Franck. Für SLC Pop-Up × GROSSE8 treffen zwei Ideen aufeinander: Musik bewusst hören und Geschichten im Raum erlebbar"
   },
   {
     "titel": "Mariybu \"FRECH\"-Tour",
