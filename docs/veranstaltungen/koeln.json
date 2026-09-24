@@ -103,7 +103,7 @@
     "titel": "Traumatin - die 'neues Glück' tour",
     "datum": "24. Sep 2026",
     "datum_raw": "2026-09-24T19:00+0200",
-    "ort": "Gebäude 9, Deutz-Mülheimer Straße 117",
+    "ort": "GEBÄUDE 9, Deutz-Mühlheimer Straße 127",
     "preis": "ab 25 €",
     "link": "https://rausgegangen.de/events/traumatin-die-neues-gluck-tour-4/",
     "quelle": "Rausgegangen Köln",
@@ -123,7 +123,7 @@
     "titel": "Science Slam in Köln im September 2026",
     "datum": "24. Sep 2026",
     "datum_raw": "2026-09-24T20:00+0200",
-    "ort": "Gebäude 9, Deutz-Mülheimer Straße 117",
+    "ort": "GEBÄUDE 9, Deutz-Mühlheimer Straße 127",
     "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/science-slam-in-koln-im-september-2026-1/",
     "quelle": "Rausgegangen Köln",
@@ -260,16 +260,6 @@
     "teaser": "Herzliche Einladung zu „Joy of Singing“ – gemeinsames Singen von Liedern, die verbinden und gut tun.Wir singen Lieder, die leicht zu lernen sind und ohne Noten oder Textblätter auskommen. Durch das wiederholte Singen en"
   },
   {
-    "titel": "Kakaozeremonie & Klangreise, Kräuterreinigung, Meditation, erlebe etwas Neues!",
-    "datum": "25. Sep 2026",
-    "datum_raw": "2026-09-25T18:00+0200",
-    "ort": "room for emotions, Am Maarhof 25",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kakao-klang-zeremonie-mit-sound-healing-live-musik-zum-fuhle-77/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Ein Erlebnis für alle Sinne. Musik zum Fühlen und nicht zum intellektuellen Erfassen. Schokolade in ihrer reinsten und ursprünglichen Form zum trinken und erfahren. Spüre wie sich dein Herz öffnet und du vom Kopf in"
-  },
-  {
     "titel": "Letzte Freitagsbühne 2026",
     "datum": "25. Sep 2026",
     "datum_raw": "2026-09-25T18:00+0200",
@@ -343,7 +333,7 @@
     "titel": "NEONSCHWARZ",
     "datum": "25. Sep 2026",
     "datum_raw": "2026-09-25T19:00+0200",
-    "ort": "Gebäude 9, Deutz-Mülheimer Straße 117",
+    "ort": "GEBÄUDE 9, Deutz-Mühlheimer Straße 127",
     "preis": "ab 30 €",
     "link": "https://rausgegangen.de/events/neonschwarz-3/",
     "quelle": "Rausgegangen Köln",
@@ -388,6 +378,16 @@
     "link": "https://rausgegangen.de/events/slc-pop-up-grosse8-history-of-house-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Anderer Raum. Andere Regeln. Gleiches Zuhören.Der Slow Listening Club verlässt seine Base im Café Franck. Für SLC Pop-Up × GROSSE8 treffen zwei Ideen aufeinander: Musik bewusst hören und Geschichten im Raum erlebbar"
+  },
+  {
+    "titel": "Babygroove 2",
+    "datum": "25. Sep 2026",
+    "datum_raw": "2026-09-25T20:00+0200",
+    "ort": "Niehler Freiheit, Vogelsangerstrasse 385",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/babygroove-2-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wir feiern den zweiten Babygroove Labelabend in der Niehler Freiheit. Zum ersten Mal seit Jahren ist Berliner Sänger und Multiinstrumentalist Lebsanft zurück in der Stadt. Wie vom Album mit Lord Folter gewohnt bringt e"
   },
   {
     "titel": "Mariybu \"FRECH\"-Tour",
