@@ -80,6 +80,16 @@
     "teaser": "Jeden Freitag abends zeigen Newcomer:innen und lokale Talente mit Szenen von Reggae über Psychedelic bis Jazz, wie vielfältig Musik sein kann. Die Odonische Freitagsbühne ist der Ort, wo neue Klänge entdecken Spaß macht "
   },
   {
+    "titel": "10 Years Anniversary COMMUNI_THEK at TEMPO___K",
+    "datum": "25. Sep 2026",
+    "datum_raw": "2026-09-25T19:00+0200",
+    "ort": "TEMPO___K temporäres Museum für zeitgenössische Wandmalerei, Poller Kirchweg 13",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/10-years-anniversary-communi-thek-at-tempo---k-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Hier wird nicht einfach ein Jubiläum gefeiert, sondern 10 Jahre kollektive Arbeit: aus einer Idee in Leerständen sind über 70 Formate, ein Festival, ein Verein, ein Museum und mehr als 60.000 Euro Soli für soziale Projek"
+  },
+  {
     "titel": "50 Jahre Stadtrevue – Die Party",
     "datum": "25. Sep 2026",
     "datum_raw": "2026-09-25T19:00+0200",
@@ -320,26 +330,6 @@
     "teaser": "Maya Ongaku @ Eigelsteintorburg*, Köln Doors: 19.30 - Start: 20.00 * unbestuhlt - kein barrierefreier Zugang möglich Hailing from the seaside communities surrounding Enoshima, a small island located 50 km southwest of "
   },
   {
-    "titel": "NEEVE - „that’s how I survive“ Tour 2026",
-    "datum": "25. Sep 2026",
-    "datum_raw": "2026-09-25T20:00+0200",
-    "ort": "Helios37, Heliosstraße 37",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/neeve-thats-how-i-survive-tour-2026-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "NEEVE ist eine aufstrebende Indie-Pop-Band aus Hamburg, die mit ihrem mitreißenden Sound und authentischen Texten internationale Aufmerksamkeit erlangt. In ihrer Musik thematisieren sie gesellschaftlich relevante Aspekte"
-  },
-  {
-    "titel": "Systematic Showcase",
-    "datum": "25. Sep 2026",
-    "datum_raw": "2026-09-25T23:00+0200",
-    "ort": "Odonien, Hornstraße 85",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/systematic-showcase-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Systematic bringt elektronische Musik mit Tiefgang und Druck zusammen, fern von kurzlebigen Trends. Mit Marc Romboy, Robert Babicz live und Acts zwischen modularer Impro und Club Techno erwartet dich ein Showcase mit kla"
-  },
-  {
     "titel": "CLUB Y2K || 2000s HITS + EDM",
     "datum": "25. Sep 2026",
     "datum_raw": "2026-09-25T23:00+0200",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/ehrenklub-im-schrotty-14-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Wenn Du auf harten Techno und Hardcore aus bist, ist EhrenKlub #14 so ein Abend, der von Anfang bis Ende auf maximale Wucht setzt, mit Acts wie USH, RIOT SHIFT, TITI, DIKKE BAAP und S*Y*N*K. Dazu kommt ein klar queerfreu"
+  },
+  {
+    "titel": "Systematic Showcase",
+    "datum": "25. Sep 2026",
+    "datum_raw": "2026-09-25T23:00+0200",
+    "ort": "Odonien, Hornstraße 85",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/systematic-showcase-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Systematic bringt elektronische Musik mit Tiefgang und Druck zusammen, fern von kurzlebigen Trends. Mit Marc Romboy, Robert Babicz live und Acts zwischen modularer Impro und Club Techno erwartet dich ein Showcase mit kla"
   }
 ]
