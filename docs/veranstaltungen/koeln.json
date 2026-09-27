@@ -210,16 +210,6 @@
     "teaser": "Wenn Du Indiepop magst, ist NIEMALS mit der zu viele To Dos Tour 2026 so ein Termin, der direkt hängen bleibt. Klingt nach Songs mit Alltagspuls statt leerer Pose und genau das macht so ein Konzert ja oft ziemlich nahbar"
   },
   {
-    "titel": "Singen bewegt ! Mitsingen",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T20:00+0200",
-    "ort": "Lutherkirche Südstadt, Martin-Luther-Platz 2-4",
-    "preis": "ab 8 €",
-    "link": "https://rausgegangen.de/events/singen-bewegt-mitsingen-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Spirituelle Lieder aus aller WeltSINGEN BEWEGT. Die Mitsinglieder kommen aus aller Welt, vom hebräischen Kanon, indischen Mantra, afrikanischen Gospel, von Romaliedern bis zu (eigenen) deutschen Stücken, die bewegen, m"
-  },
-  {
     "titel": "Strawberry Guy",
     "datum": "27. Sep 2026",
     "datum_raw": "2026-09-27T20:00+0200",
@@ -398,5 +388,15 @@
     "link": "https://rausgegangen.de/events/nica-live-mount-meander-feat-auzins-leidinger-jacobson-sauer-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Mount Meander ist ein transnationales Quartett mit Musikern, deren Wege sich einst in Kopenhagen kreuzten: dem lettischen Saxofonisten Kārlis Auziņš, dem deutschen Pianisten Lucas Leidinger, dem polnischen Bassisten T"
+  },
+  {
+    "titel": "Singen - Joy of Singing - einfach singen in Köln-Sülz - Chor auf Zeit",
+    "datum": "29. Sep 2026",
+    "datum_raw": "2026-09-29T18:30+0200",
+    "ort": "St. Karl Borromäus , Kirche für Leib und Seele, Zülpicher Straße 275",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/singen-joy-of-singing-einfach-singen-in-koln-sulz-chor-auf-z-16/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Herzliche Einladung zu „Joy of Singing“ – gemeinsames Singen von Liedern, die verbinden und gut tun.Wir singen Lieder, die leicht zu lernen sind und ohne Noten oder Textblätter auskommen. Durch das wiederholte Singen en"
   }
 ]
