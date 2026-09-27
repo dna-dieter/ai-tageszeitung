@@ -1,233 +1,33 @@
 [
   {
-    "titel": "Fair Priced Vintage Köln",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T11:00+0200",
-    "ort": "PARK.cologne, Josef-Lammerting-Allee",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/fair-priced-vintage-koln-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Fair Priced Vintage bringt zum Herbst eine riesige Auswahl an einzigartigen Vintage-Stücken nach Köln. Von Y2K-Styles bis zu warmen Winterjacken findest du hier ständig neue Schätze für deinen Herbstlook 🍂👀"
-  },
-  {
-    "titel": "Linos Festival 2026",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T11:00+0200",
-    "ort": "Orangerie Theater im Volksgarten, Volksgartenstraße 25",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/linos-festival-2026-4/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Linos Festival 2026 hörst du Kammermusik ohne Berührungsangst: fünf Konzerte zwischen Debussy, Bartók, südostasiatischen Klängen, Surrealismus und einer Uraufführung. Dazu gibt es Familienkonzerte, bei denen Nähe wi"
-  },
-  {
-    "titel": "Repair-Café im Schmitzundkunzt",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T11:00+0200",
-    "ort": "Schmitzundkunzt, Luxemburger Straße 284A",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/repair-cafe-im-schmitzundkunzt-16/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier wird Nachhaltigkeit ganz praktisch: Beim Repair Café bringst du defekte Dinge mit und reparierst sie gemeinsam mit Helfer:innen, ohne Anmeldung, mit Vorabinfo aber meist schneller. Pro Termin sind bis zu zwei Teile "
-  },
-  {
-    "titel": "23. Afrika Film Festival Köln",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T11:00+0200",
-    "ort": "Diverse Veranstaltungsorte in Köln, Köln",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/23-afrika-film-festival-koln-11/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Seit 1992 zeigt das Afrika Film Festival Köln, wie vielfältig afrikanisches Kino und die Diaspora erzählen. Dich erwarten rund 80 Spiel, Doku und Kurzfilme aus 23 Ländern, dazu Gespräche, Workshops und Musik für echten A"
-  },
-  {
-    "titel": "Linos Festival 2026",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T11:00+0200",
-    "ort": "Orangerie Theater im Volksgarten, Volksgartenstraße 25",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/linos-festival-2026-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Linos Festival 2026 hörst du Kammermusik ohne Berührungsangst: fünf Konzerte zwischen Debussy, Bartók, südostasiatischen Klängen, Surrealismus und einer Uraufführung. Dazu gibt es Familienkonzerte, bei denen Nähe wi"
-  },
-  {
-    "titel": "Dellbrücker Festmeile",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T11:00+0200",
-    "ort": "Dellbrück, Köln",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/dellbrucker-festmeile-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Das größte rechtsrheinische Straßenfest Kölns steigt am 26. und 27. September 2026 in Dellbrück. Wenn die Dellbrücker Hauptstraße zur Festmeile wird, zieht es nicht nur die Veedelsbewohner, sondern auch andere Domsta"
-  },
-  {
-    "titel": "Tierschutzfest des Tierschutzverein Köln-Porz e.V.",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T13:00+0200",
-    "ort": "Festplatz Schützenstraße, Köln",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/tierschutzfest-des-tierschutzverein-koln-porz-ev-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wenn Du Tiere liebst, ist das hier eher Herzenssache als bloß Fest: Mehrere Tierschutzvereine und Organisationen kommen zusammen, dazu gibt es Infos zu Adoption, Maulkorbberatung und sogar Hundephysiotherapie. Dein Vierb"
-  },
-  {
-    "titel": "local.cologne Pop-Up Markt in Köln-Ehrenfeld in neuer Open Air Location \"The MĀX\" - 26. & 27.09.",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T14:00+0200",
-    "ort": "the MĀX, Widdersdorfer Straße 198",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/localcologne-pop-up-markt-in-koln-ehrenfeld-in-neuer-open-ai-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim local.cologne Pop Up Markt dreht sich alles um einen kompakten Blick auf die Szene in Köln. Diesmal im Open Air Format, also ein bisschen frische Luft, Stöbern und neue Entdeckungen an einem Ort 👀"
-  },
-  {
-    "titel": "BergWacht Open Air at Südbrücke w/ Hidden Empire, Tumult Special uvm.",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T14:00+0200",
-    "ort": "Südbrücke, Alfred-Schütte-Allee 34",
+    "titel": "CITY BINGO Entdeckungstour | Köln Südstadt",
+    "datum": "28. Sep 2026",
+    "datum_raw": "2026-09-28T06:00+0200",
+    "ort": "Chlodwigplatz, Chlodwigplatz",
     "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/bergwacht-open-air-at-sudbrucke-w-hidden-empire-tumult-speci-0/",
+    "link": "https://rausgegangen.de/events/city-bingo-sudstadt-by-rausgegangen-63/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Hidden Empire kommen nach fast zehn Jahren zu BergWacht zurück und bringen ihren Sound zwischen Progressive und Techno mit, hypnotisch, atmosphärisch und mit ordentlich Druck nach vorn. Dazu ein Tumult Special und starke"
+    "teaser": "Beim CITY BINGO erkundest du die Kölner Südstadt auf spielerische Weise mit 16 spannenden Aufgaben, die dich zu echten Insider-Spots führen. Dabei lernst du Lokalkultur und Kurioses kennen, ohne lange planen zu müssen. P"
   },
   {
-    "titel": "ALTE BEKANNTE",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T17:00+0200",
-    "ort": "Eltzhof Das Kulturgut, St. Sebastianusstr. 10",
-    "preis": "ab 44 €",
-    "link": "https://rausgegangen.de/events/alte-bekannte-86/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Alte Bekannte wollen mehr: Mehr neue Songs und mehr tolle Konzertabende mit noch mehr glücklichen Konzertbesucher:innen. Kurz „Mehr! - Live“. Ab 2025 präsentieren Alte Bekannte ihr bereits fünftes Bühnenprogramm (in "
-  },
-  {
-    "titel": "Workshop & Social Night für Paare & Alleinstehende,  Tanzen verbindet",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T17:45+0200",
-    "ort": "Salsa Bachata Mastery Zentrum, Georgstraße 5",
+    "titel": "lockerer Stricktreff",
+    "datum": "28. Sep 2026",
+    "datum_raw": "2026-09-28T18:00+0200",
+    "ort": "IGLU gUG - DREHSCHEIBE FÜR NACHHALTIGEN KONSUM, Sudermanplatz 1",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/workshop-social-night-fur-paare-alleinstehende-tanzen-verbin-135/",
+    "link": "https://rausgegangen.de/events/lockerer-stricktreff-114/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Wie unsere Events aussehen? schaue dir diese Video auf YouTube anhttps://youtube.com/shorts/UlefMg3My7g?si=jRbDsvwse-s_DjFC  👗 DresscodeElegant & GalaWir wünschen uns einen gepflegten, eleganten Look. Macht euch gerne s"
+    "teaser": "Wenn Du angefangene Maschen endlich weiterbringen willst, bist Du hier richtig: ein offener Handarbeitstreff für Stricken, Häkeln, Weben oder Stopfen, ganz ohne Kursformat. Dazu Tee, entspannte Musik, Snacks gegen Spende"
   },
   {
-    "titel": "Kölle singt 2026",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T18:00+0200",
-    "ort": "Lanxess Arena, Willy-Brandt-Platz 3",
-    "preis": "ab 20 €",
-    "link": "https://rausgegangen.de/events/kolle-singt-2026-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei Kölle singt wird aus tausenden Stimmen ein riesiger Chor: Björn Heuser führt durch die Jubiläumsausgabe zum zehnten Geburtstag, mit kölscher Musik, Wegbegleiter:innen und Überraschungsgäst:innen. Wenn Du den Sound vo"
-  },
-  {
-    "titel": "Album Listening Club #3",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T18:00+0200",
-    "ort": "Café Boxenstopp, Waidmarkt 10-12",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/album-listening-club-3-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Join us for an evening of good music, nice food & drinks, and a community of people who love albums just as much as you do. Unser nächstes Album hat eine ganze Ära des Dark R&B geprägt: House of Balloons von The Weekn"
-  },
-  {
-    "titel": "Alte Bekannte Mehr! -Live",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T18:00+0200",
-    "ort": "Eltzhof Das Kulturgut, St. Sebastianusstr. 10",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/alte-bekannte-mehr-live-100/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Alte Bekannte wollen mehr: Mehr neue Songs und mehr tolle Konzertabende mit noch mehr glücklichen Konzertbesucher:innen. Kurz „Mehr! - Live“.Ab 2025 präsentieren Alte Bekannte ihr bereits fünftes Bühnenprogramm (in s"
-  },
-  {
-    "titel": "BURLESQUE BIJOUX -Show- Die Juwelen des Burlesques!",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T18:00+0200",
-    "ort": "Echtzeit Grill & Thrill, Friesenstraße 33",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/burlesque-bijoux-show-die-juwelen-des-burlesques-35/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Willkommen in unserer extravaganten Brasserie, wo Eleganz auf Versuchung trifft.Tauchen Sie ein in eine Welt voller Glamour, Sinnlichkeit und Überraschungen. Unsere bezaubernden Künstler werden Sie mit einer atemberaub"
-  },
-  {
-    "titel": "Jamsession im Kulturbunker // OPEN STAGE",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T18:00+0200",
-    "ort": "Kulturbunker Köln-Mülheim, Berliner Straße 20",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/jamsession-im-kulturbunker-open-stage-5/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "INFO: In den Sommermonaten findet die Jamsession bei gutem Wetter im Biergarten des Kulturbunkers statt und startet bereits ab 17 Uhr. Die offene Jamsession des Kulturbunker lädt zum gemeinsamen Musizieren und Jamen ein"
-  },
-  {
-    "titel": "WG Bigband",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T18:00+0200",
+    "titel": "Eine Stunde Poetry-Slam",
+    "datum": "28. Sep 2026",
+    "datum_raw": "2026-09-28T18:30+0200",
     "ort": "die wohngemeinschaft, Richard-Wagner-Straße 39",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/wg-bigband-4/",
+    "preis": "ab 9 €",
+    "link": "https://rausgegangen.de/events/eine-stunde-poetry-slam-5/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Sechzehn Musiker:innen aus Köln bringen dir Jazzklassiker von Bill Holman bis Thad Jones in der Bar zum Klingen und schaffen so ein Flair wie in den hitzigen Nächten der Bigband-Ära Es wird ein Abend voller guter Laune u"
-  },
-  {
-    "titel": "HP Lengkeit ist HAUI - Peter Engelhardt begleitet",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T19:00+0200",
-    "ort": "Senftöpfchen-Theater, Große Neugasse 2-4",
-    "preis": "ab 34 €",
-    "link": "https://rausgegangen.de/events/hp-lengkeit-ist-haui-peter-engelhardt-begleitet-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Haui - Spuren im SandMusik-Komedy vom AllerfeinstenHP Lengkeit ist HAUI – Peter Engelhardt begleitetHaui ist Musiker, Sänger und Komponist. Aber hinter Haui steckt mehr als seine in Musik geronnene Sehnsucht. Dieser Abe"
-  },
-  {
-    "titel": "De Lück sin esu - Kölsche Parodien mit Hehn, Hunsdorf und Münzel",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T19:30+0200",
-    "ort": "Haxenhaus Restaurant, Frankenwerft 19",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/de-luck-sin-esu-kolsche-parodien-mit-hehn-hunsdorf-und-munze-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Michael Hehn (dä Nubbel), Richard Hunsdorf und Andreas Münzel (Kraad & Plaat) geben  am \"Daach der Kölschen Sproch\" einen Nachhilfekurs in kölscher Leichtigkeit.Zu den vielen Facetten Kölns und des Kölschen gehöre"
-  },
-  {
-    "titel": "MANFRED MANN'S EARTH BAND - Live 2026",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T20:00+0200",
-    "ort": "Die Kantine, Neusser Landstraße 2",
-    "preis": "ab 58 €",
-    "link": "https://rausgegangen.de/events/manfred-manns-earth-band-33/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "MANFRED MANN ́S EARTH BANDAuch nach über einem halben Jahrhundert sind Manfred Mann und seine Earth Band noch immer nicht müde: neue Termine 2026Seit der südafrikanische Keyboarder Manfred Mann seine Earth Band 1971 g"
-  },
-  {
-    "titel": "NIEMALS - zu viele To-Dos Tour 2026",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T20:00+0200",
-    "ort": "Helios37, Heliosstraße 37",
-    "preis": "ab 25 €",
-    "link": "https://rausgegangen.de/events/niemals-zu-viele-to-dos-tour-2026-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wenn Du Indiepop magst, ist NIEMALS mit der zu viele To Dos Tour 2026 so ein Termin, der direkt hängen bleibt. Klingt nach Songs mit Alltagspuls statt leerer Pose und genau das macht so ein Konzert ja oft ziemlich nahbar"
-  },
-  {
-    "titel": "Strawberry Guy",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T20:00+0200",
-    "ort": "Club Volta, Schanzenstraße 6-20",
-    "preis": "ab 33 €",
-    "link": "https://rausgegangen.de/events/strawberry-guy-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die letzten Jahre waren für Alex Stephens aka Strawberry Guy bemerkenswert. Der walisische Indie-Impressionalist veröffentlichte 2019 seine Debüt-EP, gefolgt von seinem Debütalbum „Sun Outside My Window“ im Jahr 2021"
-  },
-  {
-    "titel": "Watermelon Men",
-    "datum": "27. Sep 2026",
-    "datum_raw": "2026-09-27T20:00+0200",
-    "ort": "Papa Joe's, Alter Markt 50-52",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/watermelon-men-8/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Funky Sundays in Papa Joe’s! Jeden 4. Sonntag im Monat bringen die Watermelon Men frischen Wind in Kölns ältestes Jazzlokal – mit sattem Funk, Jazz, Swing und Modern Jazz. Angeführt von Tobias Naaber (Saxophon), Rolan"
+    "teaser": "Wenn Du Lust auf Sprache hast, die in kurzer Zeit alles kann, bist Du hier richtig: Drei starke Slam Künstler:innen aus dem deutschsprachigen Raum bringen Texte zwischen politisch, berührend und ziemlich komisch auf die "
   },
   {
     "titel": "BRKN - LÖSCH MEINE NUMMER TOUR 2026",
@@ -390,6 +190,16 @@
     "teaser": "Mount Meander ist ein transnationales Quartett mit Musikern, deren Wege sich einst in Kopenhagen kreuzten: dem lettischen Saxofonisten Kārlis Auziņš, dem deutschen Pianisten Lucas Leidinger, dem polnischen Bassisten T"
   },
   {
+    "titel": "AUTHENTISCHE MAYA CACAO- & FEUER-ZEREMONIE",
+    "datum": "29. Sep 2026",
+    "datum_raw": "2026-09-29T17:30+0200",
+    "ort": "Yoga Liebe Köln - Yoga und Pilates, Niehler Straße 104",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/authentische-maya-cacao-feuer-zeremonie-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "AUTHENTISCHE MAYA CACAO- & FEUER-ZEREMONIECACAO - Dienstag 29.09. | 17:30 - 21:00 UhrFEUER - Mittwoch 30.09. | 17:30 - 21:00 Uhr📍 Rooftop von Yoga Liebe 1.0 (Nippes) Mit Tata Francisco aus Guatemala (Lake Atitlán)Tata F"
+  },
+  {
     "titel": "Singen - Joy of Singing - einfach singen in Köln-Sülz - Chor auf Zeit",
     "datum": "29. Sep 2026",
     "datum_raw": "2026-09-29T18:30+0200",
@@ -398,5 +208,195 @@
     "link": "https://rausgegangen.de/events/singen-joy-of-singing-einfach-singen-in-koln-sulz-chor-auf-z-16/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Herzliche Einladung zu „Joy of Singing“ – gemeinsames Singen von Liedern, die verbinden und gut tun.Wir singen Lieder, die leicht zu lernen sind und ohne Noten oder Textblätter auskommen. Durch das wiederholte Singen en"
+  },
+  {
+    "titel": "HOLY WAVE",
+    "datum": "29. Sep 2026",
+    "datum_raw": "2026-09-29T19:00+0200",
+    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
+    "preis": "ab 20 €",
+    "link": "https://rausgegangen.de/events/holy-wave-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "popanz HOLY WAVE (Austin US, Suicide Squeeze) Dienstag, 29. September 2026 Bumann & Sohn, Köln Einlass 19:00, Beginn 20:00“Austin five-piece Holy Wave is certainly dreamy in a sense, but theirs is the kind of dream that"
+  },
+  {
+    "titel": "Music Pub Quiz von und mit Jonas (Volkswirtschaft)",
+    "datum": "29. Sep 2026",
+    "datum_raw": "2026-09-29T19:00+0200",
+    "ort": "Brauhaus Volkswirtschaft, Aachener Straße 5",
+    "preis": "ab 8 €",
+    "link": "https://rausgegangen.de/events/music-pub-quiz-von-und-mit-jonas-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das originale Music Pub Quiz von und mit Jonas kommt in die Volkswirtschaft!Euch erwartet ein klassisches Kneipenquiz mit insgesamt 6 Runden, thematisch geht es natürlich um Musik! Seid ihr bereit, euer Wissen zum Thema"
+  },
+  {
+    "titel": "Krätzjer vun he un us aller Welt: Amago und Quintethno",
+    "datum": "29. Sep 2026",
+    "datum_raw": "2026-09-29T19:30+0200",
+    "ort": "Piranha, Kyffhäuserstraße 28A",
+    "preis": "ab 15 €",
+    "link": "https://rausgegangen.de/events/kratzjer-vun-he-un-us-aller-welt-amago-und-quintethno-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Ein Abend voller Stimmen, Rhythmus und Geschichten – zwischen Fernweh und mitreißenden Harmonien – weltoffen, lebendig und natürlich mit ganz viel Köln im Herzen.Kölsche Krätzjer treffen auf Stimmen und Rhythmen aus "
+  },
+  {
+    "titel": "Le Trio - Köln in den 1920er Jahren",
+    "datum": "29. Sep 2026",
+    "datum_raw": "2026-09-29T19:30+0200",
+    "ort": "DOMFORUM, Domkloster 3",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/le-trio-koln-in-den-1920er-jahren-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Es geht um die Zeit zwischen 1928 und 1926 unter Oberbürgermeister Konrad Adenauer. Mit Liedern – mal gemütlich, mal modern, mal nachdenklich, mal frech.Ein französisch-deutsch-kölscher Chanson-Abend mit Laurent Chev"
+  },
+  {
+    "titel": "DER VADDA - CLEMENS BROCK LIVE 2026",
+    "datum": "29. Sep 2026",
+    "datum_raw": "2026-09-29T20:00+0200",
+    "ort": "E-Werk Köln, Schanzenstraße 37",
+    "preis": "ab 39 €",
+    "link": "https://rausgegangen.de/events/der-vadda-clemens-brock-live-2026-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Lust auf einen Trip in die Vergangenheit, der dich laut lachen lässt? Dann sei dabei, wenn Clemens Brock alias „Der Vadda“ die Bühne rockt! In seiner neuen Live-Show „Früher war alles besser, oder?“ nimmt dich der sym"
+  },
+  {
+    "titel": "DONNY BENÉT",
+    "datum": "29. Sep 2026",
+    "datum_raw": "2026-09-29T20:00+0200",
+    "ort": "Luxor, Luxemburger Straße 40",
+    "preis": "ab 25 €",
+    "link": "https://rausgegangen.de/events/donny-benet-10/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Nach dem Erfolg seiner EP „Le Piano“ (2022) kehrt Donny Benét mit dem nächsten Kapitel seiner Instrumentalserie zurück: „Il Basso“.  Als Hommage an den Bass – das Fundament, der Klebstoff und manchmal auch der unbestr"
+  },
+  {
+    "titel": "Gunther Rost & Alinde Quartett",
+    "datum": "29. Sep 2026",
+    "datum_raw": "2026-09-29T20:00+0200",
+    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
+    "preis": "ab 21 €",
+    "link": "https://rausgegangen.de/events/gunther-rost-alinde-quartett-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Orgel plus... StreichquartettOrgel trifft Streichquartett – virtuos und überraschend frischBeide, der preisgekrönte Organist Gunther Rost und das ebenfalls ausgezeichnete Alinde Quartett, lieben den frischen, unerwarte"
+  },
+  {
+    "titel": "LOTTE",
+    "datum": "29. Sep 2026",
+    "datum_raw": "2026-09-29T20:00+0200",
+    "ort": "Gloria Theater, Apostelnstraße 11",
+    "preis": "ab 36 €",
+    "link": "https://rausgegangen.de/events/lotte-618/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Nach einer intensiven kreativen Phase kehrt LOTTE zurück und kündigt für 2026 ihre „Wenn du tanzen willst“ Tour an. Jetzt beginnt für die Künstlerin eine neue Ära – musikalisch wie visuell. Es ist eine Rückkehr, e"
+  },
+  {
+    "titel": "Lotte",
+    "datum": "29. Sep 2026",
+    "datum_raw": "2026-09-29T20:00+0200",
+    "ort": "Gloria Theater, Apostelnstraße 11",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/lotte-646/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Einlass: 19:00 Uhr unbestuhlt Nach einer intensiven kreativen Phase meldet sich LOTTE zurück und kündigt für 2026 die ,,Wenn du tanzen willst\"-Tour an. Es ist die Ankündigung einer neuen Ära - musikalisch wie visuel"
+  },
+  {
+    "titel": "Quatro Ventos",
+    "datum": "29. Sep 2026",
+    "datum_raw": "2026-09-29T20:00+0200",
+    "ort": "Salon De Jazz, Severinskloster 3a",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/quatro-ventos-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Quatro Ventos: Choro und Forró Jazzeando Vier Länder, fünf Instrumente, ein Ziel: brasilianische Instrumentalmusik in ihrer schönsten Form. Pífano und Querflöte verschmelzen zu einem emotionalen, überraschenden Kl"
+  },
+  {
+    "titel": "reiheM präsentiert: Robert Schwarz / Thilo Schölpen",
+    "datum": "29. Sep 2026",
+    "datum_raw": "2026-09-29T20:00+0200",
+    "ort": "Alte Feuerwache Köln, Melchiorstraße 3",
+    "preis": "ab 10 €",
+    "link": "https://rausgegangen.de/events/reihem-prasentiert-robert-schwarz-thilo-scholpen-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der in Wien ansässige Sound Artist Robert Schwarz widmet sich in seinem Release „Stridulations 1-14“ der Klangerzeugung durch Reibung („Stridulation“), wie sie bei Insekten weit verbreitet ist. Robert Schwarz kombiniert"
+  },
+  {
+    "titel": "Paper Crown",
+    "datum": "29. Sep 2026",
+    "datum_raw": "2026-09-29T20:00+0200",
+    "ort": "Hotel am Chlodwigplatz - Zimmer 406, Merowingerstraße 33",
+    "preis": "ab 9 €",
+    "link": "https://rausgegangen.de/events/tech-rider-duo-paper-crown-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wo Noten sonst der Schlüssel zum Tor ins Wochenende sind, entfaltet diesmal schon ein Dienstagabend (29.9.) im Zimmer 406 eine anregende und entspannende Atmosphäre:Paper Crown, das Indie-Pop-Rock-Duo aus Norwegen, beg"
+  },
+  {
+    "titel": "Impuls Plus: Streichquartett im Fokus",
+    "datum": "30. Sep 2026",
+    "datum_raw": "2026-09-30T17:30+0200",
+    "ort": "Interim Zentralbibliothek, Stadtbibliothek Köln, Hohe Straße 68-82",
+    "preis": "ab 10 €",
+    "link": "https://rausgegangen.de/events/impuls-plus-streichquartett-im-fokus-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "17:30 Uhr: Einführungsgespräch im Interim Zentralbibliothek 18:30 Uhr: Führung durch die Musikbibliothek 20 Uhr: Konzert in der PhilharmonieNahbar, mutig, unkonventionell: das vision string quartet als Band der Zukunf"
+  },
+  {
+    "titel": "Aglajas Salon Die Salonière Pauline Viardot",
+    "datum": "30. Sep 2026",
+    "datum_raw": "2026-09-30T19:00+0200",
+    "ort": "674FM, Ubierring 13",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/aglajas-salon-die-saloniere-pauline-viardot-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Mit Pauline Viardot steht diesmal eine der schillerndsten Künstlerpersönlichkeiten des 19. Jahrhunderts im Mittelpunkt von Aglajas Salon: gefeierte Sängerin, Komponistin, einflussreiche Salonière und Inspirationsfigu"
+  },
+  {
+    "titel": "My Ugly Clementine",
+    "datum": "30. Sep 2026",
+    "datum_raw": "2026-09-30T19:00+0200",
+    "ort": "Club Bahnhof Ehrenfeld | CBE, Bartholomäus-Schink-Straße 67",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/my-ugly-clementine-10/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "My Ugly Clementine bringen einen unverwechselbar ehrlichen Sound, der zwischen kraftvoller Direktheit und fragiler Stimmung schwankt. Ihre Songs zu Themen wie Feminismus und Empowerment bekommen live durch intensive Gita"
+  },
+  {
+    "titel": "Papageiensuche in der Kölner Südstadt",
+    "datum": "1. Okt 2026",
+    "datum_raw": "2026-10-01T00:00+0200",
+    "ort": "Kölner Südstadt, Köln",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/papageiensuche-in-der-kolner-sudstadt-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Papageien-Suche in der Kölner SüdstadtIn 13 Geschäften haben sich grüne Papageien versteckt!  Mach dich auf die Suche, entdecke die Papageien, fotografiere sie und poste dein Foto auf Instagram. Für jeden geposteten"
+  },
+  {
+    "titel": "Eröffnungsfeier  Begegnungsort Rosenstraße",
+    "datum": "1. Okt 2026",
+    "datum_raw": "2026-10-01T16:00+0200",
+    "ort": "Begegnungsort AWO Rosenstraße, Rosenstraße 28",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/eroffnungsfeier-begegnungsort-rosenstrae-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Ein neuer Ort für Begegnung, Austausch und gemeinsames Engagement öffnet seine Türen! Entdecken Sie den Begegnungsort Rosenstraße, lernen Sie die Räume und geplanten Aktivitäten kennen und kommen Sie mit Nachbar*inn"
+  },
+  {
+    "titel": "AFTERWORK &KARHU LAUNCH EVENT @ A.D.W",
+    "datum": "1. Okt 2026",
+    "datum_raw": "2026-10-01T17:00+0200",
+    "ort": "A.D.W – A-DEAL-WITH, Friesenwall 29",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/afterwork-karhu-launch-event-adw-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Zum Launch des neuen KARHU Fulcrum Star laden wir euch zu unserem ersten AFTERWORK Event bei A.D.W ein.Im Mittelpunkt steht der neueste Sneaker von KARHU, der Fulcrum Star. Eine Silhouette mit ordentlich KARHU-Geschichte"
+  },
+  {
+    "titel": "NIPPES TAFELT BUNT!",
+    "datum": "1. Okt 2026",
+    "datum_raw": "2026-10-01T17:00+0200",
+    "ort": "Fliehkraft, Turmstr. 3-5",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/nippes-tafelt-bunt-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Hier geht es nicht nur ums gemeinsame Essen, sondern auch um Solidarität: Das FliehKraft ist seit 1998 ein wichtiger Ort für geflüchtete Menschen und will genau diese Unterstützung sichtbar machen. Du kannst etwas mitbri"
   }
 ]
