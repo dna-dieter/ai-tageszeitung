@@ -5526,6 +5526,31 @@
     "fetched": "2026-05-05T21:23:25.224777"
   },
   {
+    "id": "7b6c6601f510",
+    "title": "POL-GM: Schwerpunktwoche gegen Taschendiebstahl 2026",
+    "summary": "Oberbergischer Kreis, Engelskirchen; Bergneustadt (ots) - Ein kurzer Rempler, eine Frage nach dem Weg oder einem Produkt im Supermarkt - diese kurzen Momente der Ablenkung reichen Dieben, um unbemerkt in Ihre Tasche zu greifen. Um Sie für diese ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6361372",
+    "published": "Tue, 29 Sep 2026 12:17:48 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "bergneustadt",
+      "engelskirchen"
+    ],
+    "fetched": "2026-09-29T15:42:49.141506"
+  },
+  {
+    "id": "720877334957",
+    "title": "Gummersbach: Neue Chefärztin übernimmt Leitung der Chirurgie am Klinikum Oberberg",
+    "summary": "Gummersbach bekommt eine neue medizinische Leitung: Dr. Jasmina Hahn führt ab Oktober die Allgemein- und Viszeralchirurgie an zwei Kliniken.",
+    "link": "https://www.news-on-tour.de/242929/gummersbach-chefaerztin-chirurgie/",
+    "published": "Tue, 29 Sep 2026 09:48:15 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-09-29T15:42:33.841812"
+  },
+  {
     "id": "535bd62e74ee",
     "title": "POL-GM: Betrüger erbeuten fünfstelligen Betrag",
     "summary": "Reichshof (ots) - Am Samstag (26. September) erhielt eine 62-Jährige aus Reichshof einen Anruf von der Telefonnummer ihrer Bank. Am Telefon meldete sich ein Mann, der sich als Mitarbeiter der Sicherheitsabteilung ausgab und ihr mitteilte, dass auf ...",
@@ -5584,6 +5609,31 @@
       "gummersbach"
     ],
     "fetched": "2026-09-29T08:22:00.429909"
+  },
+  {
+    "id": "f1c7e81a74e3",
+    "title": "Wipperfürth & Reichshof: Schwere Kollision und fünfstelliger Betrug",
+    "summary": "Kollision in Wipperfürth, Betrug in Reichshof: Ein Motorradfahrer wird schwer verletzt, eine 62-Jährige verliert einen fünfstelligen Betrag.",
+    "link": "https://www.news-on-tour.de/242922/wipperfuerth-kollision-k13/",
+    "published": "Tue, 29 Sep 2026 08:29:03 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wipperfuerth",
+      "reichshof"
+    ],
+    "fetched": "2026-09-29T15:42:33.841844"
+  },
+  {
+    "id": "2b3e44dd6c90",
+    "title": "Oberberg: Atemwegsinfekte nehmen zu – Rhinoviren dominieren",
+    "summary": "Rhinoviren dominieren derzeit die Erkältungssaison. Influenza fehlt lokal bislang; in der Kinderklinik werden wieder mehr Kinder behandelt.",
+    "link": "https://www.news-on-tour.de/242920/oberberg-atemwegsinfekte-rhinoviren/",
+    "published": "Tue, 29 Sep 2026 08:26:31 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-09-29T15:42:33.841870"
   },
   {
     "id": "6683b381d5ea",
