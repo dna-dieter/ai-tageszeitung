@@ -10,6 +10,16 @@
     "teaser": "Kübra Sekin kippt das Late Night Format einmal komplett um und gibt 33 Frauen den Raum, der ihnen viel zu oft fehlt. Die preisgekrönte Koproduktion fragt scharf und witzig, was es heißt, in dieser Welt eine Frau zu sein "
   },
   {
+    "titel": "Klangreise Mittagspause",
+    "datum": "30. Sep 2026",
+    "datum_raw": "2026-09-30T13:00+0200",
+    "ort": "Ananda Köln City Center, Bismarckstraße 37",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/klangreise-mittagspause-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Mittwochs, 13:00 Uhr · 45 Minuten · Belgisches Viertel, Köln Zwischen dem Call um 12 und dem Deadline-Sprint um 14 Uhr liegen 45 Minuten, in denen du nichts tun musst."
+  },
+  {
     "titel": "Impuls Plus: Streichquartett im Fokus",
     "datum": "30. Sep 2026",
     "datum_raw": "2026-09-30T17:30+0200",
@@ -314,7 +324,7 @@
     "datum": "1. Okt 2026",
     "datum_raw": "2026-10-01T19:00+0200",
     "ort": "Kölner Philharmonie, Bischofsgartenstraße 1",
-    "preis": "ab 34 €",
+    "preis": "ab 17 €",
     "link": "https://rausgegangen.de/events/gemeinsam-in-vivaldis-vierjahreszeiten-remixed-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Wir freuen uns auf das nächste Event mit euch! Das Konzert ist Vivaldis Vierjahreszeiten remixed - by Anna Meredith & B‘Rock Orchestra in der Kölner Philharmonie 🎺 Anna Meredith ist eine junge schottische Komponistin, "
@@ -388,15 +398,5 @@
     "link": "https://rausgegangen.de/events/band-of-horses-4/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Gleich zu Beginn der Nullerjahre lag etwas Unruhiges in der Luft. Zwischen digitalem Aufbruch und persönlicher Überforderung suchte eine Generation nach Worten für Gefühle, die sich kaum benennen ließen. Band of Hors"
-  },
-  {
-    "titel": "Davey and the midnights",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T20:00+0200",
-    "ort": "Bürgerzentrum Nippes Altenberger Hof, Mauenheimer Straße 92",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/davey-and-the-midnights-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die aus Indianapolis angereiste Band verbindet Americana, Country, Blues und psychedelische Klänge zu einem mitreißenden „Cosmic Boogie“-Sound. Sie erinnert an erinnert an Künstler wie Gram Parsons, J.J. Cale und Grate"
   }
 ]
