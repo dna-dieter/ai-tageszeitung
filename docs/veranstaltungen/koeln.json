@@ -1,295 +1,5 @@
 [
   {
-    "titel": "Papageiensuche in der Kölner Südstadt",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T00:00+0200",
-    "ort": "Kölner Südstadt, Köln",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/papageiensuche-in-der-kolner-sudstadt-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Papageien-Suche in der Kölner SüdstadtIn 13 Geschäften haben sich grüne Papageien versteckt!  Mach dich auf die Suche, entdecke die Papageien, fotografiere sie und poste dein Foto auf Instagram. Für jeden geposteten"
-  },
-  {
-    "titel": "Eröffnungsfeier  Begegnungsort Rosenstraße",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T16:00+0200",
-    "ort": "Begegnungsort AWO Rosenstraße, Rosenstraße 28",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/eroffnungsfeier-begegnungsort-rosenstrae-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Ein neuer Ort für Begegnung, Austausch und gemeinsames Engagement öffnet seine Türen! Entdecken Sie den Begegnungsort Rosenstraße, lernen Sie die Räume und geplanten Aktivitäten kennen und kommen Sie mit Nachbar*inn"
-  },
-  {
-    "titel": "Pommes & Champagner",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T17:00+0200",
-    "ort": "SUDERMAN, Sudermanplatz 3",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/pommes-champagner-4/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Jeder Donnerstag steht im Zeichen von prickelnder Vielfalt, wenn exklusive Champagner und Schaumweine glasweise erkundet werden. Es begegnen sich bekannte Marken und spannende Entdeckungen, die deinen Gaumen überraschen."
-  },
-  {
-    "titel": "Langer Donnerstag ART COUPLES",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T17:00+0200",
-    "ort": "Museum Ludwig, Heinrich-Böll-Platz",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/langer-donnerstag-165/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Leise wird es nicht, auch wenn das Programm noch fehlt: Der Lange Donnerstag läuft bei freiem Eintritt im Museum. Du kannst einfach reinschauen und gucken, was der Abend aus den Sälen macht 👀"
-  },
-  {
-    "titel": "NIPPES TAFELT BUNT!",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T17:00+0200",
-    "ort": "Fliehkraft, Turmstr. 3-5",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/nippes-tafelt-bunt-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier geht es nicht nur ums gemeinsame Essen, sondern auch um Solidarität: Das FliehKraft ist seit 1998 ein wichtiger Ort für geflüchtete Menschen und will genau diese Unterstützung sichtbar machen. Du kannst etwas mitbri"
-  },
-  {
-    "titel": "MALOU LOVIS - SOFT SEASON TOUR - KÖLN",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T18:00+0200",
-    "ort": "Club Volta, Schanzenstraße 6-20",
-    "preis": "ab 32 €",
-    "link": "https://rausgegangen.de/events/malou-lovis-soft-season-tour-koln-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "MALOU LOVISSOFT SEASON TOUR Frankfurt, NachtlebenEinlass: 17:00Beginn: 18:00Im Rahmen der„soft season tour 2026“ spielt die The Voice of Germany-Gewinnerin sieben Konzerte in Deutschland und bringt ihre emotionalen Songs"
-  },
-  {
-    "titel": "Sanfona Sentida – Forró de Colônia Festival 2026",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T18:15+0200",
-    "ort": "Bürgerhaus Kalk, Kalk-Mülheimer Str. 58",
-    "preis": "ab 32 €",
-    "link": "https://rausgegangen.de/events/sanfona-sentida-forro-de-colonia-festival-2026-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": " Vier Tage brasilianische Livemusik, Tanz und Begegnungen in Köln!Vom 1. bis 4. Oktober 2026 bringt das Forró de Colônia Festival die Klänge und die Lebensfreude Nordostbrasiliens nach Köln. Freut euch auf mitreißen"
-  },
-  {
-    "titel": "Lange Nacht der Tschechischen Literatur",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T19:00+0200",
-    "ort": "COMEDIA Theater, Vondelstraße 4-8",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/lange-nacht-der-tschechischen-literatur-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wenn Tschechien als Ehrengast der Buchmesse 2026 neue Horizonte ausruft, bekommst Du hier schon mal einen starken Vorgeschmack: mit Autor:innen wie Radka Denemarková, Jaroslav Rudiš und Jáchym Topol, dazu Übersetzung, Le"
-  },
-  {
-    "titel": "Anna Meredith & B'Rock",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T19:00+0200",
-    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
-    "preis": "ab 21 €",
-    "link": "https://rausgegangen.de/events/anna-meredith-brock-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Philharmonie.7 – eine Stunde (R)auszeitVivaldis Jahreszeiten – neu verdrahtet zwischen Barock und Elektronik mit Anna Meredith & B'Rock»Höre nie auf, neugierig zu sein!« ist das Motto der innovativen Komponistin und Per"
-  },
-  {
-    "titel": "Die Yamada-Schule der Koto-Musik",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T19:00+0200",
-    "ort": "Altes Pfandhaus, Kartäuserwall 20",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/die-yamada-schule-der-koto-musik-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Sankyoku-Konzert mit Koto, Sangen & Shakuhachi Bitte beachten Sie: Aufgrund der Sanierung unseres Saals findet das Konzert im Alten Pfandhaus, Kartäuserwall 20, 50678 Köln statt. Ausführende UEHARA Masateru (Sangen-La"
-  },
-  {
-    "titel": "Gemeinsam in Vivaldis Vierjahreszeiten remixed",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T19:00+0200",
-    "ort": "Kölner Philharmonie, Bischofsgartenstraße 1",
-    "preis": "ab 17 €",
-    "link": "https://rausgegangen.de/events/gemeinsam-in-vivaldis-vierjahreszeiten-remixed-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wir freuen uns auf das nächste Event mit euch! Das Konzert ist Vivaldis Vierjahreszeiten remixed - by Anna Meredith & B‘Rock Orchestra in der Kölner Philharmonie 🎺 Anna Meredith ist eine junge schottische Komponistin, "
-  },
-  {
-    "titel": "György Kurtág & Kafka-Fragmente",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T19:00+0200",
-    "ort": "Stadtgarten, Venloer Straße 40",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/gyorgy-kurtag-kafka-fragmente-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wie vorüber wehende Sprach- und Klangfetzen, scheinbar ohne Zusammenhang, lassen die Kafka-Fragmente von György Kurtágs in wenigen Sekunden eine ganze Welt entstehen - oder ein Gefühl.Kurtág, der dieses Jahr seinen "
-  },
-  {
-    "titel": "Biermann - Heuser - Buß: Laache - Metsinge - Zohüre",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T19:30+0200",
-    "ort": "HELLERS Volksgarten, Volksgartenstraße 27",
-    "preis": "ab 18 €",
-    "link": "https://rausgegangen.de/events/biermann-heuser-bu-laache-metsinge-zohure-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Dieses Gipfeltreffen von drei sehr unterschiedlichen, aber doch wunderbar harmonierenden kölschen Liedermachern und Geschichtenerzählern hat Tradition beim Kölner Krätzjer Fest. Nur hier, nur einmal im Jahr spielen d"
-  },
-  {
-    "titel": "Die Willi-Ostermann-Story - Ein musikalisches Porträt zum 150. Geburtstag",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T19:30+0200",
-    "ort": "DOMFORUM, Domkloster 3",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/die-willi-ostermann-story-ein-musikalisches-portrat-zum-150--0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Eine Ostermann-Hommage zum 150. Geburtstag: Mit rheinischem Schalk und kölschem Zungenschlag berichtet Volker Hein aus Willi Ostermanns Leben, als wäre er selbst dabei gewesen. Als erfahrener Krätzjessänger blättert"
-  },
-  {
-    "titel": "ListeningLounge",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T19:30+0200",
-    "ort": "Hallmackenreuther, Brüsseler Platz 9",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/listeninglounge-11/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "In der ListeningLounge gibt’s Alben ohne Unterbrechungen – von Sade bis Rosalía, Klassiker und Geheimtipps. Nach einer kurzen Einleitung kannst du voll ins Hörerlebnis eintauchen und dich danach mit anderen austauschen "
-  },
-  {
-    "titel": "Open Stage im Kulturraum 405",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T19:30+0200",
-    "ort": "Kulturraum 405 e.V., Venloer Straße 405",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/open-stage-im-kulturraum-405-119/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wenn du schon immer wusstest, dass du auf die Bühne gehörst, dann ist genau jetzt deine Chance. Pack dein Instrument ein und Bühne frei für dich bei der Open Stage im Kulturraum 405!!! 🎙🎶🎸"
-  },
-  {
-    "titel": "RheinPop // Mit Daisy Grow Yellow, Phil Young und Nico Mono",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T19:30+0200",
-    "ort": "Joode Lade, Lindenstraße 62",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/rheinpop-mit-daisy-grow-yellow-phil-young-und-nico-mono-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "RheinPop – unplugged und frisch gezapftRheinPop geht in die nächste Runde! Die von Singer/Songwriter Nico Mono ins Leben gerufene Konzertreihe bringt unterschiedliche Künstler mit ihrer eigenen Musik auf die Bühne – u"
-  },
-  {
-    "titel": "Mix and Match Cologne",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T20:00+0200",
-    "ort": "Samuels Shep, Rathenauplatz 5",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/mix-and-match-cologne-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wenn Dir Swipen, Ghosting und diese endlosen Chat Anfänge reichen, ist das hier die angenehmere Variante: ein Dating Abend für 25 bis 38 Jährige mit Welcome Drink, kleinen Spielen und drei Super Likes für den Mutmoment. "
-  },
-  {
-    "titel": "Parra For Cuva",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T20:00+0200",
-    "ort": "Carlswerk Victoria, Schanzenstr. 6-20",
-    "preis": "ab 47 €",
-    "link": "https://rausgegangen.de/events/parra-for-cuva-9/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Parra for Cuva präsentiert sein neues Album Nacar und verbindet elektronische Klangwelten mit organischen Instrumenten zu einer atmosphärischen Live-Performance. Im Carlswerk Victoria kannst du dich auf eine intime Erfah"
-  },
-  {
-    "titel": "BAND OF HORSES",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T20:00+0200",
-    "ort": "Live Music Hall, Lichtstraße 30",
-    "preis": "ab 51 €",
-    "link": "https://rausgegangen.de/events/band-of-horses-4/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Gleich zu Beginn der Nullerjahre lag etwas Unruhiges in der Luft. Zwischen digitalem Aufbruch und persönlicher Überforderung suchte eine Generation nach Worten für Gefühle, die sich kaum benennen ließen. Band of Hors"
-  },
-  {
-    "titel": "Davey and the midnights",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T20:00+0200",
-    "ort": "Bürgerzentrum Nippes Altenberger Hof, Mauenheimer Straße 92",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/davey-and-the-midnights-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Die aus Indianapolis angereiste Band verbindet Americana, Country, Blues und psychedelische Klänge zu einem mitreißenden „Cosmic Boogie“-Sound. Sie erinnert an erinnert an Künstler wie Gram Parsons, J.J. Cale und Grate"
-  },
-  {
-    "titel": "HERZOG | MUCHE | NILLESEN – TON meets RYOSUKE KIYASU",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T20:00+0200",
-    "ort": "JAKI, Venloer Str. 40",
-    "preis": "ab 10 €",
-    "link": "https://rausgegangen.de/events/herzog-muche-nillesen-ton-meets-ryosuke-kiyasu-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "20:00 I Konzert I JAKI HERZOG | MUCHE | NILLESEN – TON ist ein Trio für avancierte Improvisation an der Schnittstelle von Neuer Musik, experimentellen Spielweisen und freier Klangforschung. Mit Posaune, Kontrabass und S"
-  },
-  {
-    "titel": "KING WOMAN",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T20:00+0200",
-    "ort": "Köln, Köln",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/king-woman-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "In der Musik von King Woman vermischt Kris Esfandiari (Dalmatian, Miserable, NGHTCRWLR und Sugar High) verschiedene Einflüsse. Das Resultat ist ein energetischer und atmosphärischer Mix aus Drone, Shoegaze, Doom- sowie"
-  },
-  {
-    "titel": "King Woman",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T20:00+0200",
-    "ort": "MTC - LIVE❌MUSIC❌CLUB, Zülpicher Str. 10",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/king-woman-4/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) buchen reguläre Tickets. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte."
-  },
-  {
-    "titel": "Parra For Cuva",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T20:00+0200",
-    "ort": "Carlswerk Victoria, Schanzenstraße 6-20",
-    "preis": "ab 47 €",
-    "link": "https://rausgegangen.de/events/parra-for-cuva-12/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Parra for Cuva kehrt 2026 mit einem neuen Album – Nacar – und einer Welttournee zurück und markiert damit den nächsten Schritt in seiner künstlerischen Entwicklung. Bekannt für seine immersiven elektronischen Klangla"
-  },
-  {
-    "titel": "Parra For Cuva",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T20:00+0200",
-    "ort": "Carlswerk Victoria, Schanzenstr. 6-20",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/parra-for-cuva-14/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Parra For Cuva meldet sich mit dem Album Nacar zurück und setzt seine klangliche Entwicklung weiter fort. Zwischen Elektronik, organischen Instrumenten und feiner Produktion erwartet dich ein Set, das Sound und Raum neu "
-  },
-  {
-    "titel": "Paul Zauner Quartett feat. Leo Genovese",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T20:00+0200",
-    "ort": "King Georg, Sudermanstraße 2",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/paul-zauner-quartett-feat-leo-genovese-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Leo Genovese (Piano), Paul Zauner (Posaune), Wolfram Derschmidt (Bass), Dusan Novakov (Schlagzeug) Leonardo Genovese wurde 1979 in Venado Tuerto, Argentinien, geboren, er tritt regelmäßig mit Joe Lovano und der Esperanz"
-  },
-  {
-    "titel": "Record Rendezvous",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T20:00+0200",
-    "ort": "Nox, Hochstadenstraße 12",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/record-rendezvous-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Record Rendezvous wird jeden ersten Donnerstag im Monat A- und B-Seite deiner Vinylschätze in entspannter Runde gespielt. Bring deine Lieblingsplatten mit und erlebe, wie sich Klassiker und versteckte Perlen gemeins"
-  },
-  {
-    "titel": "Groove Cologne - Concert & Jam-Session",
-    "datum": "1. Okt 2026",
-    "datum_raw": "2026-10-01T21:00+0200",
-    "ort": "Jameson Pub Cologne, Friesenstr 30 - 40",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/groove-cologne-concert-jam-session-12/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Live-Concert and Jam-Session tonight! Opening concert of our house-band, afterwards the stage will be open to jam. Bring your instrument or use ours and lets rock into the night! Everybody and every style is welcome!!! O"
-  },
-  {
     "titel": "SAISONFINALE: Letzter Feierabendmarkt Sülz 2026!",
     "datum": "2. Okt 2026",
     "datum_raw": "2026-10-02T16:00+0200",
@@ -338,6 +48,26 @@
     "link": "https://rausgegangen.de/events/mattihoff-sph-music-masters-regio-finale-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "MāttiHoff live im MTC Köln im Regio Finale der SPH Music Masters 🎸Ehrliche Songs, alle Instrumente live — MāttiHoff bringt seinen handgemachten Singer-Songwriter-Sound im MTC auf die Bühne. Erwartet einen Abend volle"
+  },
+  {
+    "titel": "Sanfona Sentida – Forró de Colônia Festival 2026",
+    "datum": "2. Okt 2026",
+    "datum_raw": "2026-10-02T18:15+0200",
+    "ort": "Bürgerhaus Kalk, Kalk-Mülheimer Str. 58",
+    "preis": "ab 32 €",
+    "link": "https://rausgegangen.de/events/sanfona-sentida-forro-de-colonia-festival-2026-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": " Vier Tage brasilianische Livemusik, Tanz und Begegnungen in Köln!Vom 1. bis 4. Oktober 2026 bringt das Forró de Colônia Festival die Klänge und die Lebensfreude Nordostbrasiliens nach Köln. Freut euch auf mitreißen"
+  },
+  {
+    "titel": "Disco Bingo im ST. LOUIS Breakfast – Das Original in Köln!",
+    "datum": "2. Okt 2026",
+    "datum_raw": "2026-10-02T19:00+0200",
+    "ort": "ST. LOUIS Breakfast, Meister-Gerhard-Straße 30",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/disco-bingo-im-st-louis-breakfast-das-original-in-koln-47/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Disco Bingo mischt Klassiker und aktuelle Hits zu einem Spielabend, bei dem du nicht nur Zahlen, sondern auch Songs ankreuzt. Hier bringen die Gastgeber:innen mit Witz und ordentlich Sound Stimmung an die Tische 🪩"
   },
   {
     "titel": "DEEP FOREST live in Köln",
@@ -398,5 +128,275 @@
     "link": "https://rausgegangen.de/events/kratzjerbattle-mit-stefan-knittler-peggy-sugarhill-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Stefan Knittler und Peggy Sugarhill liefern sich zusammen mit Simon Bay und Till Kersting einen musikalisch-kölschen Schlagabtausch beim Kölner Krätzjer Fest: Singer-Songwriter-Handwerk, Rock 'n' Roll, Blues und Pop t"
+  },
+  {
+    "titel": "SÜLZ SINGT",
+    "datum": "2. Okt 2026",
+    "datum_raw": "2026-10-02T19:30+0200",
+    "ort": "VENTANA, Elisabeth-von-Mumm-Platz 1",
+    "preis": "ab 16 €",
+    "link": "https://rausgegangen.de/events/sulz-singt-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Karaoke-Chor im Veedel! Singen, ohne Lampenfieber! Wir bringen das gemeinsame Karaoke-Erlebnis direkt in dein Veedel. Erlebe die pure Magie, wenn Eure Stimmen verschmelzen und der ganze Raum mitsingt – alle Texte auf der"
+  },
+  {
+    "titel": "Anatolian Dragon: Gaye Su Akyol",
+    "datum": "2. Okt 2026",
+    "datum_raw": "2026-10-02T20:00+0200",
+    "ort": "WDR Funkhaus Köln, Wallrafplatz 5",
+    "preis": "ab 9 €",
+    "link": "https://rausgegangen.de/events/anatolian-dragon-gaye-su-akyol-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Türkischer Pop folgt anderen Regeln als der westliche Mainstream: Die Melodien erzählen länger, die Rhythmen kreisen, und zwischen Tradition und Gegenwart bleibt bewusst Raum. In dieser Klangwelt bewegt sich Gaye Su A"
+  },
+  {
+    "titel": "ASCO: Symphony of CAOS",
+    "datum": "2. Okt 2026",
+    "datum_raw": "2026-10-02T20:00+0200",
+    "ort": "E-Werk Köln, Schanzenstraße 37",
+    "preis": "ab 43 €",
+    "link": "https://rausgegangen.de/events/asco-symphony-of-caos-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Der italienische DJ ASCO zählt zu den spannendsten Entdeckungen der aktuellen elektronischen Musikszene. In 2022 brachte er mit „Symphony of CAOS“ ein innovatives Live-Konzept auf die Bühne, das sich mit der Spannung z"
+  },
+  {
+    "titel": "Cozy Concert (belgisches Viertel)",
+    "datum": "2. Okt 2026",
+    "datum_raw": "2026-10-02T20:00+0200",
+    "ort": "Brillen Thomas Ganzheitliche Augenoptik, Venloer Str. 24",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/cozy-concert-39/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die Cozy Concerts sind eine Geheimkonzertreihe in gemütlicher Atmosphäre* – in Wohnzimmern, Buchläden, Ateliers, Gärten und anderen besonderen Orten. Intim, authentisch, entspannend. 80–90 % der Musiker*innen bei den"
+  },
+  {
+    "titel": "Domstürmer `Live` im Eltzhof",
+    "datum": "2. Okt 2026",
+    "datum_raw": "2026-10-02T20:00+0200",
+    "ort": "Eltzhof, Sankt-Sebastianus-Straße 10",
+    "preis": "ab 35 €",
+    "link": "https://rausgegangen.de/events/domsturmer-live-im-eltzhof-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Domstürmer\"live\"im EltzhofFreitag, 02. Oktober, 2026 um 20:00 UhrWir freuen uns, auch in diesem Jahr die Domstürmer wieder zu Gast im Eltzhof zu haben!Pop und Rock, Witziges und Kluges für die Stadt der Leeder (KStA, "
+  },
+  {
+    "titel": "Gstaad Festival Orchestra",
+    "datum": "2. Okt 2026",
+    "datum_raw": "2026-10-02T20:00+0200",
+    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
+    "preis": "ab 21 €",
+    "link": "https://rausgegangen.de/events/gstaad-festival-orchestra-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Jaap van Zweden | Daniel HopeMaßgeschneidertDaniel Hope ist nicht nur einer der herausragenden Geiger unserer Zeit, sondern engagiert sich auch als künstlerischer Leiter, Brückenbauer zwischen Musiktraditionen und Bots"
+  },
+  {
+    "titel": "ImKlang Session",
+    "datum": "2. Okt 2026",
+    "datum_raw": "2026-10-02T20:00+0200",
+    "ort": "Musik- und Kunstschule ImKlang, Waltherstraße 80",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/imklang-session-36/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": " IMKLANG SESSION  Offene Jam Session · jeden Freitag · ab 20:00 Uhr Die IMKLANG Session ist eine wöchentliche, offene Jam Session für Musikerinnen und Musiker aller Erfahrungsstufen – und für alle, die Musik gerne liv"
+  },
+  {
+    "titel": "Lagerfeuer Deluxe mit Makeda, Robin Damn & Ketzberg",
+    "datum": "2. Okt 2026",
+    "datum_raw": "2026-10-02T20:00+0200",
+    "ort": "King Georg, Sudermanstraße 2",
+    "preis": "ab 18 €",
+    "link": "https://rausgegangen.de/events/lagerfeuer-deluxe-mit-makeda-robin-damn-ketzberg-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Mit dem Oktober startet die schönste Zeit des Lagerfeuer Deluxe. Wir versammeln und am warmen Feuer im kuscheligen King Georg und lauschen diesen großartigen Künstler*innen:Makeda ist eine deutsch-trinidadische Sänger"
+  },
+  {
+    "titel": "Le Pop la Série: Loa Mercury",
+    "datum": "2. Okt 2026",
+    "datum_raw": "2026-10-02T20:00+0200",
+    "ort": "JAKI, Venloer Str. 40",
+    "preis": "ab 10 €",
+    "link": "https://rausgegangen.de/events/le-pop-la-serie-loa-mercury-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "20:00 I Konzert I JAKIAufgepasst. Wer sich vom extravaganten Style von Loa Mercury nicht ablenken lässt, entdeckt eine außergewöhnlich talentierte Songwriterin. Und ein mutiges Herz dazu. Mit High Heels bewaffnet lief "
+  },
+  {
+    "titel": "MYRATH",
+    "datum": "2. Okt 2026",
+    "datum_raw": "2026-10-02T20:00+0200",
+    "ort": "GEBÄUDE 9, Deutz-Mühlheimer Straße 127",
+    "preis": "ab 30 €",
+    "link": "https://rausgegangen.de/events/myrath-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Prog-Metal aus Tunesien: Myrath auf umfangreicher Headline-Tour im Frühjahr und Herbst 2026. Shows in Wiesbaden und Berlin im April – weitere Termine im Herbst u. a. in München, Leipzig, Hannover, Hamburg und Köln bes"
+  },
+  {
+    "titel": "Six Feet Over feat. Paul Kaufmann",
+    "datum": "2. Okt 2026",
+    "datum_raw": "2026-10-02T20:00+0200",
+    "ort": "Tee de Cologne, Landmannstraße 30",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/six-feet-over-feat-paul-kaufmann-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Es war in den frühen 90ern, noch bevor der A-Cappella-Boom hierzulande einsetzte, da trafen sich vier Absolvent:innen der Kölner Fachhochschule an einem Dienstag in einem Ehrenfelder Wohnzimmer, um gemeinsam mehrstimmi"
+  },
+  {
+    "titel": "Swing'it",
+    "datum": "2. Okt 2026",
+    "datum_raw": "2026-10-02T21:00+0200",
+    "ort": "Gloria Theater, Apostelnstraße 11",
+    "preis": "ab 72 €",
+    "link": "https://rausgegangen.de/events/swingit-6/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Swing’it bringt mit Swing’it, Miss Jolie Papillon und Champagne Charlie das Flair der wilden 1920er zurück. Freu dich auf Jazz, Burlesque und Cabaret, die zusammen eine elegante und zugleich ausgelassene Nacht voller Leb"
+  },
+  {
+    "titel": "Hähne von Azad Hemee; Ausstellungseröffnung",
+    "datum": "2. Okt 2026",
+    "datum_raw": "2026-10-02T21:00+0200",
+    "ort": "Atelier Kirches-Ban.de + Kunstraum Ba Cologne, Neptunplatz 7",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/hahne-von-azad-hemee-ausstellungseroffnung-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Azad Hemee bringt mit seinen expressiven Bildern von Hahnenkämpfen Konflikte und Spannungen eindringlich auf die Leinwand. Seine Werke spiegeln menschliche Auseinandersetzungen wider und verbinden jahrzehntelange Erfahru"
+  },
+  {
+    "titel": "DJ Maldito",
+    "datum": "2. Okt 2026",
+    "datum_raw": "2026-10-02T21:00+0200",
+    "ort": "Asimmetric Bar, Venloer Straße 196",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/dj-maldito-8/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Ein leidenschaftlicher Kurator am Plattenspieler. Sein Mix aus Soul, Funk und House kommt ohne künstliche Effekte aus und besticht durch wohlige Wärme. Roh, ehrlich und mit dem Mut zur unperfekten Ästhetik."
+  },
+  {
+    "titel": "Cologne Nightlife Tour: 4 Locations, Shots & Club Entry",
+    "datum": "2. Okt 2026",
+    "datum_raw": "2026-10-02T21:15+0200",
+    "ort": "Zülpicher Pl., Zülpicher Pl., 50674 Köln, Germany",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/cologne-nightlife-tour-4-locations-shots-club-entry-34/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Experience Cologne nightlife the easy way with a fun group and a local host. After check-in at the meeting point, the night starts with a welcome shot. Then you’ll visit 4 lively nightlife locations, a mix of popular bar"
+  },
+  {
+    "titel": "NEON DREAMS COLOGNE",
+    "datum": "2. Okt 2026",
+    "datum_raw": "2026-10-02T23:00+0200",
+    "ort": "artheater Köln, Ehrenfeldgürtel 127",
+    "preis": "ab 15 €",
+    "link": "https://rausgegangen.de/events/neon-dreams-cologne-19/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "NEON DREAMS COLOGNE vereint fette Techno- und Trance-Sets, die gemeinsam aus Studiomomenten live raus an den Start kommen. Neben bekannten Acts wie AMØN, DICE und BLAME THE MONO sind fresh produzierte Überraschungen bere"
+  },
+  {
+    "titel": "Wilde Herzen + Peinlo Pop Party • Helios37• Köln",
+    "datum": "2. Okt 2026",
+    "datum_raw": "2026-10-02T23:00+0200",
+    "ort": "Helios 37, Heliosstraße 37",
+    "preis": "ab 14 €",
+    "link": "https://rausgegangen.de/events/wilde-herzen-die-indie-pop-party-mit-deutschen-texten-helios-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Unsere Herzen schlagen wild. Für Euch und für die Musik! 🎉Wilde Vibes für wilde Herzen. ❤️‍🔥Die Wilde Herzen lässt Kraftklub auf Zartmann treffen, trinkt mit Provinz, Kasi und Nina Chuba eine Luft und singt Arm in Ar"
+  },
+  {
+    "titel": "E.P.I.Q Nights: 5th Birthday Special",
+    "datum": "2. Okt 2026",
+    "datum_raw": "2026-10-02T23:30+0200",
+    "ort": "JAKI, Venloer Str. 40",
+    "preis": "ab 12 €",
+    "link": "https://rausgegangen.de/events/epiq-nights-5th-birthday-special-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Sieben DJs aus Köln, unzählige Richtungen von Soul bis UK Garage und dazu diese Idee von echter Community statt bloß Party: Genau das macht E.P.I.Q seit fünf Jahren spannend. Dich erwartet ein Geburtstagsspecial mit wild"
+  },
+  {
+    "titel": "Mitmachen: Body – Mind – Flow",
+    "datum": "3. Okt 2026",
+    "datum_raw": "2026-10-03T10:30+0200",
+    "ort": "Filmforum NRW, Bischofsgartenstr. 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/mitmachen-body-mind-flow-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Offene Philharmonie: FLOWDie eigene Stimme in Gemeinschaft erlebenWie klingt es, gemeinsam zu singen, zu improvisieren und wie fühlt sich das an? Für diesen Workshop sind keinerlei Vorkenntnisse nötig. Im Vordergrund "
+  },
+  {
+    "titel": "Offene Philharmonie",
+    "datum": "3. Okt 2026",
+    "datum_raw": "2026-10-03T11:30+0200",
+    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/offene-philharmonie-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Ein Tag voller MusikOb Konzerte, Workshops oder Mitmach-Aktionen – die Angebote der Offenen Philharmonie laden euch ein, Musik in ihrer ganzen Vielfalt zu erleben. Offen für alle steht der Tag unter dem Motto »FLOW« und"
+  },
+  {
+    "titel": "Symphonisches Jugendblasorchester: Im Fluss durch Raum und Zeit",
+    "datum": "3. Okt 2026",
+    "datum_raw": "2026-10-03T11:30+0200",
+    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/symphonisches-jugendblasorchester-im-fluss-durch-raum-und-ze-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Offene Philharmonie: FLOWEin Konzert, das verbindet: Generationen, Klangwelten und die Liebe zu Köln.Die jungen Talente des Symphonischen Jugendblasorchesters der Rheinischen Musikschule (SJBO) zeigen, wie lebendig und "
+  },
+  {
+    "titel": "Performance: Enter the Beat",
+    "datum": "3. Okt 2026",
+    "datum_raw": "2026-10-03T11:45+0200",
+    "ort": "Filmforum NRW, Bischofsgartenstr. 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/performance-enter-the-beat-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Offene Philharmonie: FLOWIn dieser Performance treffen Musik, Tanz und spontane Rhythmen aufeinander. Das Publikum liefert Wörter zum Thema »Flow«, aus denen unterschiedliche Rhythmen entstehen, zu denen die Kontrabassi"
+  },
+  {
+    "titel": "KCO @ OFFENE PHILHARMONIE",
+    "datum": "3. Okt 2026",
+    "datum_raw": "2026-10-03T13:00+0200",
+    "ort": "Filmforum NRW, Bischofsgartenstr. 1",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/kco-offene-philharmonie-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "In diesem 30-minütigen Workshop lädt das Kölner Chaos Orchester alle Gäste zum gemeinsamen Musizieren auf Augenhöhe einKLINGENDES CHAOSIn diesem 30-minütigen Workshop lädt das Kölner Chaos Orchester alle Gäste z"
+  },
+  {
+    "titel": "Mitmachen: Klingendes Chaos",
+    "datum": "3. Okt 2026",
+    "datum_raw": "2026-10-03T13:00+0200",
+    "ort": "Filmforum NRW, Bischofsgartenstr. 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/mitmachen-klingendes-chaos-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Offene Philharmonie: FLOWWie klingt Chaos?In diesem 30-minütigen Workshop lädt das Kölner Chaos Orchester (KCO) des Ensemble Musikfabrik alle Gäste zum gemeinsamen Musizieren auf Augenhöhe ein. Vorkenntnisse sind ni"
+  },
+  {
+    "titel": "Youth Brass Band NRW: Im Flow",
+    "datum": "3. Okt 2026",
+    "datum_raw": "2026-10-03T13:00+0200",
+    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/youth-brass-band-nrw-im-flow-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Offene Philharmonie: FLOWIm Flow... von einer Reise zum Mond und zurück noh Kölle!Berührender Klang, satte Akkorde und brillante Technik, das sind die Markenzeichen der Youth Brass Band (YBB) NRW. Geleitet wird das Au"
+  },
+  {
+    "titel": "ZUSATZVERANSTALTUNG: Robert Habeck: Arctic Meltdown",
+    "datum": "3. Okt 2026",
+    "datum_raw": "2026-10-03T14:00+0200",
+    "ort": "Theater am Tanzbrunnen, Rheinparkweg 1",
+    "preis": "ab 29 €",
+    "link": "https://rausgegangen.de/events/litcologne-spezial-2026-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "lit.COLOGNE spezial 2026Wo früher ewiges Eis die Grenzen der Zivilisation markierte, entscheidet sich heute die Zukunft unserer Sicherheit. Denn die arktische Erwärmung, die viermal schneller voranschreitet als im glob"
+  },
+  {
+    "titel": "10 Jahre Pfadfinder Ehrenfeld",
+    "datum": "3. Okt 2026",
+    "datum_raw": "2026-10-03T15:00+0200",
+    "ort": "Geisselmarkt, Geisselstraße 1",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/10-jahre-pfadfinder-ehrenfeld-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Feier mit uns 10 Jahre Pfadfinden in Ehrenfeld.Der Pfadfinderstamm Helios lädt zum Jubiläum zu einem gemeinsamen Fest am Geisselmarkt in Ehrenfeld ein. Direkt an der Venloer Straße bieten die Pfadfinder*innen ein bunte"
   }
 ]
