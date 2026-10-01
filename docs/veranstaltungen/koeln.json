@@ -60,6 +60,16 @@
     "teaser": "MALOU LOVISSOFT SEASON TOUR Frankfurt, NachtlebenEinlass: 17:00Beginn: 18:00Im Rahmen der„soft season tour 2026“ spielt die The Voice of Germany-Gewinnerin sieben Konzerte in Deutschland und bringt ihre emotionalen Songs"
   },
   {
+    "titel": "Sanfona Sentida – Forró de Colônia Festival 2026",
+    "datum": "1. Okt 2026",
+    "datum_raw": "2026-10-01T18:15+0200",
+    "ort": "Bürgerhaus Kalk, Kalk-Mülheimer Str. 58",
+    "preis": "ab 32 €",
+    "link": "https://rausgegangen.de/events/sanfona-sentida-forro-de-colonia-festival-2026-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": " Vier Tage brasilianische Livemusik, Tanz und Begegnungen in Köln!Vom 1. bis 4. Oktober 2026 bringt das Forró de Colônia Festival die Klänge und die Lebensfreude Nordostbrasiliens nach Köln. Freut euch auf mitreißen"
+  },
+  {
     "titel": "Lange Nacht der Tschechischen Literatur",
     "datum": "1. Okt 2026",
     "datum_raw": "2026-10-01T19:00+0200",
@@ -144,7 +154,7 @@
     "datum": "1. Okt 2026",
     "datum_raw": "2026-10-01T19:30+0200",
     "ort": "Kulturraum 405 e.V., Venloer Straße 405",
-    "preis": "ab 0 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/open-stage-im-kulturraum-405-119/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Wenn du schon immer wusstest, dass du auf die Bühne gehörst, dann ist genau jetzt deine Chance. Pack dein Instrument ein und Bühne frei für dich bei der Open Stage im Kulturraum 405!!! 🎙🎶🎸"
@@ -154,7 +164,7 @@
     "datum": "1. Okt 2026",
     "datum_raw": "2026-10-01T19:30+0200",
     "ort": "Joode Lade, Lindenstraße 62",
-    "preis": "ab 11 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/rheinpop-mit-daisy-grow-yellow-phil-young-und-nico-mono-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "RheinPop – unplugged und frisch gezapftRheinPop geht in die nächste Runde! Die von Singer/Songwriter Nico Mono ins Leben gerufene Konzertreihe bringt unterschiedliche Künstler mit ihrer eigenen Musik auf die Bühne – u"
@@ -254,7 +264,7 @@
     "datum": "1. Okt 2026",
     "datum_raw": "2026-10-01T20:00+0200",
     "ort": "King Georg, Sudermanstraße 2",
-    "preis": "ab 24 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/paul-zauner-quartett-feat-leo-genovese-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Leo Genovese (Piano), Paul Zauner (Posaune), Wolfram Derschmidt (Bass), Dusan Novakov (Schlagzeug) Leonardo Genovese wurde 1979 in Venado Tuerto, Argentinien, geboren, er tritt regelmäßig mit Joe Lovano und der Esperanz"
@@ -270,6 +280,16 @@
     "teaser": "Beim Record Rendezvous wird jeden ersten Donnerstag im Monat A- und B-Seite deiner Vinylschätze in entspannter Runde gespielt. Bring deine Lieblingsplatten mit und erlebe, wie sich Klassiker und versteckte Perlen gemeins"
   },
   {
+    "titel": "Groove Cologne - Concert & Jam-Session",
+    "datum": "1. Okt 2026",
+    "datum_raw": "2026-10-01T21:00+0200",
+    "ort": "Jameson Pub Cologne, Friesenstr 30 - 40",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/groove-cologne-concert-jam-session-12/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Live-Concert and Jam-Session tonight! Opening concert of our house-band, afterwards the stage will be open to jam. Bring your instrument or use ours and lets rock into the night! Everybody and every style is welcome!!! O"
+  },
+  {
     "titel": "SAISONFINALE: Letzter Feierabendmarkt Sülz 2026!",
     "datum": "2. Okt 2026",
     "datum_raw": "2026-10-02T16:00+0200",
@@ -278,6 +298,16 @@
     "link": "https://rausgegangen.de/events/feierabendmarkt-auf-dem-hermeskeiler-platz-14/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Der letzte Feierabendmarkt vor der Winterpause hat so ein leichtes Jacke an, noch ein Getränk in der Hand Gefühl. Diesmal ist wirklich Schluss für die Saison, bis es im Frühling weitergeht 🙂"
+  },
+  {
+    "titel": "Yin & Ambient",
+    "datum": "2. Okt 2026",
+    "datum_raw": "2026-10-02T17:30+0200",
+    "ort": "PURE SPACE - Yoga & Sound Studio, Barbarastraße 3-9 Block 2",
+    "preis": "ab 22 €",
+    "link": "https://rausgegangen.de/events/yin-ambient-23/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Hier erwarten dich Yin-Yoga-Haltungen, begleitet von Ambient-Klängen über unser Hi-Fi-Soundsystem.Das längere Verweilen in den Positionen wirkt auf Faszien und Gelenke, unterstützt Entspannung und innere Ruhe.Du wirs"
   },
   {
     "titel": "GEORGE JR: irgendwo ist Sommer",
@@ -368,35 +398,5 @@
     "link": "https://rausgegangen.de/events/kratzjerbattle-mit-stefan-knittler-peggy-sugarhill-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Stefan Knittler und Peggy Sugarhill liefern sich zusammen mit Simon Bay und Till Kersting einen musikalisch-kölschen Schlagabtausch beim Kölner Krätzjer Fest: Singer-Songwriter-Handwerk, Rock 'n' Roll, Blues und Pop t"
-  },
-  {
-    "titel": "SÜLZ SINGT",
-    "datum": "2. Okt 2026",
-    "datum_raw": "2026-10-02T19:30+0200",
-    "ort": "VENTANA, Elisabeth-von-Mumm-Platz 1",
-    "preis": "ab 16 €",
-    "link": "https://rausgegangen.de/events/sulz-singt-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Karaoke-Chor im Veedel! Singen, ohne Lampenfieber! Wir bringen das gemeinsame Karaoke-Erlebnis direkt in dein Veedel. Erlebe die pure Magie, wenn Eure Stimmen verschmelzen und der ganze Raum mitsingt – alle Texte auf der"
-  },
-  {
-    "titel": "Anatolian Dragon: Gaye Su Akyol",
-    "datum": "2. Okt 2026",
-    "datum_raw": "2026-10-02T20:00+0200",
-    "ort": "WDR Funkhaus Köln, Wallrafplatz 5",
-    "preis": "ab 9 €",
-    "link": "https://rausgegangen.de/events/anatolian-dragon-gaye-su-akyol-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Türkischer Pop folgt anderen Regeln als der westliche Mainstream: Die Melodien erzählen länger, die Rhythmen kreisen, und zwischen Tradition und Gegenwart bleibt bewusst Raum. In dieser Klangwelt bewegt sich Gaye Su A"
-  },
-  {
-    "titel": "ASCO: Symphony of CAOS",
-    "datum": "2. Okt 2026",
-    "datum_raw": "2026-10-02T20:00+0200",
-    "ort": "E-Werk Köln, Schanzenstraße 37",
-    "preis": "ab 43 €",
-    "link": "https://rausgegangen.de/events/asco-symphony-of-caos-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Der italienische DJ ASCO zählt zu den spannendsten Entdeckungen der aktuellen elektronischen Musikszene. In 2022 brachte er mit „Symphony of CAOS“ ein innovatives Live-Konzept auf die Bühne, das sich mit der Spannung z"
   }
 ]
