@@ -10,16 +10,6 @@
     "teaser": "Der letzte Feierabendmarkt vor der Winterpause hat so ein leichtes Jacke an, noch ein Getränk in der Hand Gefühl. Diesmal ist wirklich Schluss für die Saison, bis es im Frühling weitergeht 🙂"
   },
   {
-    "titel": "Yin & Ambient",
-    "datum": "2. Okt 2026",
-    "datum_raw": "2026-10-02T17:30+0200",
-    "ort": "PURE SPACE - Yoga & Sound Studio, Barbarastraße 3-9 Block 2",
-    "preis": "ab 22 €",
-    "link": "https://rausgegangen.de/events/yin-ambient-23/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier erwarten dich Yin-Yoga-Haltungen, begleitet von Ambient-Klängen über unser Hi-Fi-Soundsystem.Das längere Verweilen in den Positionen wirkt auf Faszien und Gelenke, unterstützt Entspannung und innere Ruhe.Du wirs"
-  },
-  {
     "titel": "GEORGE JR: irgendwo ist Sommer",
     "datum": "2. Okt 2026",
     "datum_raw": "2026-10-02T18:00+0200",
@@ -64,7 +54,7 @@
     "datum": "2. Okt 2026",
     "datum_raw": "2026-10-02T19:00+0200",
     "ort": "ST. LOUIS Breakfast, Meister-Gerhard-Straße 30",
-    "preis": "kostenlos",
+    "preis": "ab 4 €",
     "link": "https://rausgegangen.de/events/disco-bingo-im-st-louis-breakfast-das-original-in-koln-47/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Disco Bingo mischt Klassiker und aktuelle Hits zu einem Spielabend, bei dem du nicht nur Zahlen, sondern auch Songs ankreuzt. Hier bringen die Gastgeber:innen mit Witz und ordentlich Sound Stimmung an die Tische 🪩"
@@ -74,7 +64,7 @@
     "datum": "2. Okt 2026",
     "datum_raw": "2026-10-02T19:00+0200",
     "ort": "Helios 37, Heliosstraße 37",
-    "preis": "ab 38 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/deep-forest-live-in-koln-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Der französische Grammy-Preisträger und Pionier der Ethno-Elektronik kommt mit ikonischen Sounds nach München, Köln, Berlin und Hamburg!Vom 01. bis 04.Oktober 2026 entführt Deep Forest- das visionäre Projekt des Au"
@@ -134,7 +124,7 @@
     "datum": "2. Okt 2026",
     "datum_raw": "2026-10-02T19:30+0200",
     "ort": "VENTANA, Elisabeth-von-Mumm-Platz 1",
-    "preis": "ab 16 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/sulz-singt-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Karaoke-Chor im Veedel! Singen, ohne Lampenfieber! Wir bringen das gemeinsame Karaoke-Erlebnis direkt in dein Veedel. Erlebe die pure Magie, wenn Eure Stimmen verschmelzen und der ganze Raum mitsingt – alle Texte auf der"
@@ -204,7 +194,7 @@
     "datum": "2. Okt 2026",
     "datum_raw": "2026-10-02T20:00+0200",
     "ort": "King Georg, Sudermanstraße 2",
-    "preis": "ab 18 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/lagerfeuer-deluxe-mit-makeda-robin-damn-ketzberg-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Mit dem Oktober startet die schönste Zeit des Lagerfeuer Deluxe. Wir versammeln und am warmen Feuer im kuscheligen King Georg und lauschen diesen großartigen Künstler*innen:Makeda ist eine deutsch-trinidadische Sänger"
@@ -378,6 +368,16 @@
     "link": "https://rausgegangen.de/events/youth-brass-band-nrw-im-flow-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Offene Philharmonie: FLOWIm Flow... von einer Reise zum Mond und zurück noh Kölle!Berührender Klang, satte Akkorde und brillante Technik, das sind die Markenzeichen der Youth Brass Band (YBB) NRW. Geleitet wird das Au"
+  },
+  {
+    "titel": "Mitmachen: Klingendes Chaos",
+    "datum": "3. Okt 2026",
+    "datum_raw": "2026-10-03T14:00+0200",
+    "ort": "Filmforum NRW, Bischofsgartenstr. 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/mitmachen-klingendes-chaos-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Offene Philharmonie: FLOWWie klingt Chaos?​In diesem 30-minütigen Workshop lädt das Kölner Chaos Orchester (KCO) des Ensemble Musikfabrik alle Gäste zum gemeinsamen Musizieren auf Augenhöhe ein. Vorkenntnisse sind n"
   },
   {
     "titel": "ZUSATZVERANSTALTUNG: Robert Habeck: Arctic Meltdown",
