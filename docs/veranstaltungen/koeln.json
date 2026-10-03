@@ -40,16 +40,6 @@
     "teaser": "Offene Philharmonie: FLOWIn dieser Performance treffen Musik, Tanz und spontane Rhythmen aufeinander. Das Publikum liefert Wörter zum Thema »Flow«, aus denen unterschiedliche Rhythmen entstehen, zu denen die Kontrabassi"
   },
   {
-    "titel": "Kuchenplatte, Platten-Basar mit Kuchen & Kunst",
-    "datum": "3. Okt 2026",
-    "datum_raw": "2026-10-03T13:00+0200",
-    "ort": "TEMPO___K temporäres Museum für zeitgenössische Wandmalerei, Poller Kirchweg 13",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/kuchenplatte-platten-basar-mit-kuchen-kunst-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei der Kuchenplatte trifft Schallplatten Basar auf Kuchen und Kunst, also genau diese schöne Mischung aus Stöbern, Naschen und nebenbei noch was entdecken. Die 23. Ausgabe verspricht wieder ein eigenes Format mit wechse"
-  },
-  {
     "titel": "kramkultur Charity-Flohmarkt von Diffora e.V.",
     "datum": "3. Okt 2026",
     "datum_raw": "2026-10-03T13:00+0200",
@@ -58,6 +48,16 @@
     "link": "https://rausgegangen.de/events/kramkultur-charity-flohmarkt-von-diffora-ev-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Beim Kramkultur Charity Flohmarkt von Diffora e.V. findest du mehr als Trödel: Ehrenamtliche Initiativen stellen sich vor, dazu gibt es Waffeln, Drinks, Toothgems und Vinyl von Kuchenplatte samt Plattenverkauf. Ein Markt"
+  },
+  {
+    "titel": "Kuchenplatte, Platten-Basar mit Kuchen & Kunst",
+    "datum": "3. Okt 2026",
+    "datum_raw": "2026-10-03T13:00+0200",
+    "ort": "TEMPO___K temporäres Museum für zeitgenössische Wandmalerei, Poller Kirchweg 13",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/kuchenplatte-platten-basar-mit-kuchen-kunst-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei der Kuchenplatte trifft Schallplatten Basar auf Kuchen und Kunst, also genau diese schöne Mischung aus Stöbern, Naschen und nebenbei noch was entdecken. Die 23. Ausgabe verspricht wieder ein eigenes Format mit wechse"
   },
   {
     "titel": "KCO @ OFFENE PHILHARMONIE",
@@ -330,21 +330,11 @@
     "teaser": "Wir freuen wir uns sehr, das nächstes Mantrasingen am 03.10.2026 im geschmeidig in Köln anzukündigen.Zusammenkommen, Gemeinschaft, Herzensklänge ...Gemeinsam werden wir Mantras unseres Debütalbums 'Trust' singen und"
   },
   {
-    "titel": "Heimat - Komisch, tragisch, berührend. Immer echt.",
-    "datum": "3. Okt 2026",
-    "datum_raw": "2026-10-03T20:00+0200",
-    "ort": "Impro Köln / Studio A, Aachener Straße 65",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/heimat-komisch-tragisch-beruhrend-immer-echt-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Manchmal hängt Heimat an einer Tapete oder am Geruch von Grünkohl mit Mettwurst. Das Impro Köln Ensemble nimmt echte Erinnerungen als Ausgangspunkt und macht daraus an diesem Abend improvisiertes Theater 💌"
-  },
-  {
     "titel": "90s Live mit Westpak | + Aftershowparty",
     "datum": "3. Okt 2026",
     "datum_raw": "2026-10-03T20:00+0200",
     "ort": "Luxor, Luxemburger Straße 40",
-    "preis": "ab 18 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/90s-live-mit-westpak-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Kölns ultimative 90s Band lädt zur großen Neunziger-Party im Luxor! Mit anschließender Aftershowparty mit unseren Herzens-DJs!  Everybody! Rock your Body! WESTPAK's back, alright!Es ist Zeit, alle Hemmungen fallen zu l"
@@ -388,6 +378,16 @@
     "link": "https://rausgegangen.de/events/jupiter-ensemble-thomas-dunford-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "John Dowland400 Jahre Dowland: zeitlose Lautenlieder neu entdeckt2026 wird der 400. Todestag von John Dowland, dem großen britischen Barden des Elisabethanischen Zeitalters begangen. Seine wunderbaren Songs mit ihrer sü"
+  },
+  {
+    "titel": "Zu Phil Einheit",
+    "datum": "3. Okt 2026",
+    "datum_raw": "2026-10-03T21:00+0200",
+    "ort": "Asimmetric Bar, Venloer Straße 196",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/zu-phil-einheit-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Asi & Minister spielen getragene Weisen zum Volkstrauertag Oder das Gesamtwerk von Phil Collins !!!"
   },
   {
     "titel": "Odonien End Of Summer Rave",
