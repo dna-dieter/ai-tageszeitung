@@ -23422,6 +23422,19 @@
     "fetched": "2026-05-05T22:40:03.848036"
   },
   {
+    "id": "e8b39f742498",
+    "title": "RGA-E-Paper kostenlos testen: Sonderausgabe „Bauen & Wohnen\" zum 3. Oktober",
+    "summary": "Zum Tag der Deutschen Einheit gibt es eine besondere E-Paper-Ausgabe: „Bauen & Wohnen“ mit Geschichten über Leben wie in Bullerbü, sanierte Stadtvillen und Pläne für neuen Wohnraum. Jetzt kostenlos testen!",
+    "link": "https://www.rga.de/lokales/remscheid/rga-e-paper-kostenlos-testen-sonderausgabe-bauen-und-wohnen-zum-3-oktober-ZWLDWX4AAZD2XPQG7BQXQFO6AY.html",
+    "published": "Sat, 03 Oct 2026 07:00:08 +0200",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen",
+      "burscheid"
+    ],
+    "fetched": "2026-10-03T07:59:32.685389"
+  },
+  {
     "id": "b7b0acacab70",
     "title": "Pflegereform auch in Wermelskirchen: \"Dann erwartet uns alle die Insolvenz\"",
     "summary": "Sebastian Berwald betreibt den HSP-Pflegedienst in Wermelskirchen und Halver. Nach dem Beschluss am 30. September zeichnet der Unternehmer eine düstere Prognose: für Betroffene, pflegende Angehörige, aber auch für alle ambulanten Betreiber.",
@@ -35198,6 +35211,18 @@
     "fetched": "2026-10-02T05:25:16.281598"
   },
   {
+    "id": "75b71d60c746",
+    "title": "Bewegung, Rückbildung und Entspannung im Oktober am Quirlsberg",
+    "summary": "Rückbildungsgymnastik und -yoga mit Kind, Beckenbodentraining und Entspannung: Das Qfit-Kursprogramm am Gesundheitscampus Quirlsberg bietet im Oktober mehrere Angebote für unterschiedliche Bedürfnisse und Lebensphasen.",
+    "link": "https://in-gl.de/2026/10/02/bewegung-rueckbildung-und-entspannung-im-oktober-am-quirlsberg/",
+    "published": "Fri, 02 Oct 2026 05:20:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-03T07:59:14.085755"
+  },
+  {
     "id": "6aa64c690c5e",
     "title": "Papier, Druck und Drachen: Kreative Herbstferien in der Alten Dombach",
     "summary": "In den Herbstferien lädt das LVR-Industriemuseum Papiermühle Alte Dombach Kinder zu kreativen Entdeckungen ein. Auf dem Programm stehen Papierschöpfen mit Gruselfaktor, Drucken und Stempeln, Buchgestaltung, Herbstlichter und Drachenbau sowie Einblicke in das Leben der Papiermacherkinder.",
@@ -35253,7 +35278,8 @@
     "published": "Fri, 02 Oct 2026 03:41:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "bergisch-gladbach"
     ],
     "fetched": "2026-10-02T05:25:10.109105"
   },
