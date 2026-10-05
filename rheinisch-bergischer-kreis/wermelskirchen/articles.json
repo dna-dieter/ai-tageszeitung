@@ -4869,6 +4869,58 @@
     "fetched": "2026-07-06T04:23:13.900217"
   },
   {
+    "id": "58aca1e39f74",
+    "title": "Stau auf der A1 bei Burscheid: Fahrer musste reanimiert werden",
+    "summary": "Auf der Autobahn Richtung Dortmund, zwischen Burscheid und Wermelskirchen, kommt es derzeit zum Stau. Der Grund ist tragisch.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/stau-auf-der-a1-bei-burscheid-fahrer-musste-reanimiert-werden-PAEVRXCTGVABRCUC3JUJQ4JKJU.html",
+    "published": "Mon, 05 Oct 2026 14:03:48 +0200",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "wermelskirchen",
+      "burscheid"
+    ],
+    "fetched": "2026-10-05T18:19:52.812981"
+  },
+  {
+    "id": "143a6436dd44",
+    "title": "Kontrollen in Wermelskirchen und Odenthal: Jeder vierte war zu schnell unterwegs",
+    "summary": "Überhöhte Geschwindigkeit ist nach wie vor die Hauptunfallursache auf den Straßen im Rheinisch-Bergischen Kreis. Aus diesem Grund hatte die Polizei Rhein-Berg am Sonntag unangekündigte Verkehrskontrollen im Kreis durchgeführt.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/kontrollen-in-wermelskirchen-und-odenthal-jeder-vierte-war-zu-schnell-unterwegs-5E323DOEABG3BBX6G7QUX5VNKI.html",
+    "published": "Mon, 05 Oct 2026 13:34:46 +0200",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "odenthal",
+      "wermelskirchen"
+    ],
+    "fetched": "2026-10-05T18:19:52.247089"
+  },
+  {
+    "id": "618cb91e4d54",
+    "title": "Mehr als jeder Vierte war zu schnell",
+    "summary": "Überhöhte Geschwindigkeit ist nach wie vor die Hauptunfallursache auf den Straßen im Rheinisch-Bergischen Kreis. Aus diesem Grund hat die Polizei Rhein-Berg am Sonntag unangekündigte Verkehrskontrollen in Wermelskirchen und Odenthal durchgeführt. Mit erschreckend großem Erfolg.",
+    "link": "https://in-gl.de/2026/10/05/mehr-als-jeder-vierte-war-zu-schnell-geschwindigkeit-kontrolle-polizei-rheinisch-bergischer-kreis/",
+    "published": "Mon, 05 Oct 2026 12:19:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "odenthal",
+      "wermelskirchen"
+    ],
+    "fetched": "2026-10-05T18:19:29.472996"
+  },
+  {
+    "id": "caa777847115",
+    "title": "POL-RBK: Wermelskirchen/Odenthal - Fast 1.000 Fahrzeuge kontrolliert - jeder vierte Verkehrsteilnehmende war zu schnell",
+    "summary": "Wermelskirchen/Odenthal (ots) - Überhöhte Geschwindigkeit ist nach wie vor die Hauptunfallursache auf den Straßen im Rheinisch-Bergischen Kreis. Aus diesem Grund hat die Polizei Rhein-Berg gestern (04.10.) unangekündigte Verkehrskontrollen in ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6364731",
+    "published": "Mon, 05 Oct 2026 10:27:02 +0200",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "odenthal",
+      "wermelskirchen"
+    ],
+    "fetched": "2026-10-05T18:19:54.919997"
+  },
+  {
     "id": "7bcde8004908",
     "title": "Feuerwehr Wermelskirchen: Gleich drei Einsätze am Sonntag",
     "summary": "Ein Reitunfall, verbranntes Essen und ein überschlagenes Auto - und das knapp hintereinander. Die Einsatzkräfte hatten eine Menge zu tun.",
