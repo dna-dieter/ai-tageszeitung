@@ -10494,6 +10494,19 @@
     "fetched": "2026-05-06T15:52:46.536066"
   },
   {
+    "id": "2d57a63433cb",
+    "title": "Plattenreport Oberberg (KW 40): Hückeswagen stürmt an die Tischtennis-Spitze",
+    "summary": "Plattenreport Oberberg: Hückeswagen neuer Spitzenreiter der Bezirksoberliga, zwei Derbys mit 5:5, Weltmeister aus Bergneustadt – alle Tischtennis-Ergebnisse und Tabellen.",
+    "link": "https://www.news-on-tour.de/243313/plattenreport-oberberg-tischtennis-kw40/",
+    "published": "Tue, 06 Oct 2026 00:23:07 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "hueckeswagen",
+      "bergneustadt"
+    ],
+    "fetched": "2026-10-06T00:45:34.775360"
+  },
+  {
     "id": "67303d22059f",
     "title": "Tipps für ein modernes und gemütliches Schlafzimmer",
     "summary": "Das Schlafzimmer ist ein Ort, an dem wir zur Ruhe kommen und Entspannung suchen. Eine moderne und gemütliche Einrichtung des Zimmers bringt Ihnen eine harmonische Atmosphäre, die zur Entspannung und Erholung beiträgt. Der Beitrag Tipps für ein modernes und gemütliches Schlafzimmer erschien zuerst auf Oberberg-Nachrichten.de.",
@@ -26858,6 +26871,18 @@
     "fetched": "2026-05-05T21:23:25.224685"
   },
   {
+    "id": "df6a2a7ea2be",
+    "title": "Lindlar: Tankstellen stoppen Verkauf – Tankrabatt-Ansturm leert die Tanks",
+    "summary": "Tankrabatt-Folgen in Lindlar: Alle Tankstellen im Ortskern ohne Sprit, Lieferung offen. Faktencheck zur Facebook-Debatte und zu den Ursachen.",
+    "link": "https://www.news-on-tour.de/243307/lindlar-tankrabatt-tankstellen-sprit/",
+    "published": "Mon, 05 Oct 2026 21:46:21 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-10-06T00:45:34.775389"
+  },
+  {
     "id": "2a7a5cd52e33",
     "title": "Schwerer Verkehrsunfall in Radevormwald",
     "summary": "Am Montagvormittag sind in Rade ein Lkw und ein Pkw kollidiert. Die Ampelanlage an der Kreuzung Westfalen- und Poststraße war kurzfristig wegen technischer Probleme außer Betrieb. Was bekannt ist.",
@@ -26913,7 +26938,8 @@
     "published": "Mon, 05 Oct 2026 09:00:12 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "engelskirchen"
+      "engelskirchen",
+      "wiehl"
     ],
     "fetched": "2026-10-05T18:20:33.274533"
   },
