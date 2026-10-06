@@ -2334,6 +2334,30 @@
     "fetched": "2026-05-06T15:52:46.536066"
   },
   {
+    "id": "5ea5bce8e729",
+    "title": "Bauarbeiten Kreisstraße 13",
+    "summary": "Ausbau der Kreisstraße 13 von Schäferslöh bis Kahlenberg - Straße ab 12.10.2026 bis zum Jahresende gesperrt.",
+    "link": "https://www.obk.de/obk/themen/mobilitaet/kreisstrassen/ausbau-der-kreisstrasse-13-in-wipperfurth/index.shtml.de",
+    "published": "Tue, 06 Oct 2026 14:56:18 +0200",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-06T15:02:57.785274"
+  },
+  {
+    "id": "5522fd701469",
+    "title": "Anmeldetermine der weiterführenden Schulen für das Schuljahr 2027/28",
+    "summary": "Die Anmeldetermine der weiterführenden Schulen für das Schuljahr 2027/28 stehen fest.",
+    "link": "https://wipperfuerth.de/fileadmin/redaktion/Hansestadt_Wipperfuerth/Schulen/Anmeldetermine_der_weiterfuehrenden_Schulen.pdf",
+    "published": "Tue, 06 Oct 2026 10:07:55 +0200",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-06T15:02:57.785303"
+  },
+  {
     "id": "d2b1af9de06f",
     "title": "Bushaltestelle Hochstraße geht in Betrieb / Neue Busverbindung nach Wipperfeld",
     "summary": "Die Bushaltestelle Hochstraße wird ab 07.01.2026 von OVAG und wupsi angefahren.",

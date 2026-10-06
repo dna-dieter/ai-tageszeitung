@@ -10494,6 +10494,93 @@
     "fetched": "2026-05-06T15:52:46.536066"
   },
   {
+    "id": "5ea5bce8e729",
+    "title": "Bauarbeiten Kreisstraße 13",
+    "summary": "Ausbau der Kreisstraße 13 von Schäferslöh bis Kahlenberg - Straße ab 12.10.2026 bis zum Jahresende gesperrt.",
+    "link": "https://www.obk.de/obk/themen/mobilitaet/kreisstrassen/ausbau-der-kreisstrasse-13-in-wipperfurth/index.shtml.de",
+    "published": "Tue, 06 Oct 2026 14:56:18 +0200",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-06T15:02:57.785274"
+  },
+  {
+    "id": "5522fd701469",
+    "title": "Anmeldetermine der weiterführenden Schulen für das Schuljahr 2027/28",
+    "summary": "Die Anmeldetermine der weiterführenden Schulen für das Schuljahr 2027/28 stehen fest.",
+    "link": "https://wipperfuerth.de/fileadmin/redaktion/Hansestadt_Wipperfuerth/Schulen/Anmeldetermine_der_weiterfuehrenden_Schulen.pdf",
+    "published": "Tue, 06 Oct 2026 10:07:55 +0200",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-06T15:02:57.785303"
+  },
+  {
+    "id": "f40f07168815",
+    "title": "POL-GM: Auseinandersetzung am Marienheider Bahnhof",
+    "summary": "Marienheide (ots) - Gegen 20 Uhr am Montagabend (5. Oktober) kam es am Bahnhof in Marienheide (Bahnhofstraße) zu einem zunächst verbalen Streit zwischen einem 43-jährigen Gummersbacher und einem 36-jährigen Mann aus Marienheide. Als das ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6365621",
+    "published": "Tue, 06 Oct 2026 10:00:26 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "marienheide",
+      "gummersbach"
+    ],
+    "fetched": "2026-10-06T15:03:09.656319"
+  },
+  {
+    "id": "946b128e9b2f",
+    "title": "POL-GM: Versuchter Diebstahl in Seniorenzentrum",
+    "summary": "Gummersbach (ots) - Zwischen dem 4. Oktober (Sonntag, 20 Uhr) und dem 5. Oktober (Montag, 12 Uhr) waren Unbekannte in einem Seniorenzentrum in der Gummersbacher Innenstadt unterwegs (Am Wehrenbeul). Im Zimmer einer Bewohnerin versuchten die ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6365620",
+    "published": "Tue, 06 Oct 2026 10:00:23 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-10-06T15:03:09.656357"
+  },
+  {
+    "id": "ca815852d5b1",
+    "title": "POL-GM: Unbekannte bestehlen 80-jährige Reichshoferin",
+    "summary": "Reichshof (ots) - Am Montagvormittag (5. Oktober) klingelte gegen 11 Uhr ein bislang unbekannter Mann an der Haustür einer 80-Jährigen in Reichshof-Nosbach. Er gab sich als Spendensammler aus, begleitete die Seniorin in die Küche und verwickelte ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6365619",
+    "published": "Tue, 06 Oct 2026 10:00:20 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "reichshof"
+    ],
+    "fetched": "2026-10-06T15:03:09.656390"
+  },
+  {
+    "id": "a88fed1d23fe",
+    "title": "Marienheide, Gummersbach & Reichshof: Polizei führt Ermittlungen in drei Fällen",
+    "summary": "Drei Polizeimeldungen aus Marienheide, Gummersbach und Reichshof: Körperverletzung, versuchter Diebstahl und entwendete Sparbücher.",
+    "link": "https://www.news-on-tour.de/243340/marienheide-gummersbach-20261006/",
+    "published": "Tue, 06 Oct 2026 08:52:23 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "marienheide",
+      "reichshof",
+      "gummersbach"
+    ],
+    "fetched": "2026-10-06T15:02:53.887553"
+  },
+  {
+    "id": "8addacc9022b",
+    "title": "Radevormwald: Schwerer Verkehrsunfall an Kreuzung – Autofahrerin schwer verletzt",
+    "summary": "Schwerer Verkehrsunfall in Radevormwald: 87-jährige Autofahrerin kollidiert an Kreuzung mit LKW und wird schwer verletzt. Vollsperrung eingerichtet.",
+    "link": "https://www.news-on-tour.de/243338/radevormwald-verkehrsunfall-poststrasse/",
+    "published": "Tue, 06 Oct 2026 08:48:11 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-10-06T15:02:53.887592"
+  },
+  {
     "id": "0dad3f13537e",
     "title": "„Hier gibt es viel zu entdecken“",
     "summary": "Die Gewächse der Pflanzentauschbörse haben eine Geschichte: Deswegen sind die Exemplare hier so beliebt. Rund 150 Besucher kamen am Wochenende nach Radevormwald.",
