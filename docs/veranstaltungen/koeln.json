@@ -14,20 +14,20 @@
     "datum": "7. Okt 2026",
     "datum_raw": "2026-10-07T13:00+0200",
     "ort": "Ananda Köln City Center, Bismarckstraße 37",
-    "preis": "ab 15 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/klangreise-mittagspause-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Mittwochs, 13:00 Uhr · 45 Minuten · Belgisches Viertel, Köln Zwischen dem Call um 12 und dem Deadline-Sprint um 14 Uhr liegen 45 Minuten, in denen du nichts tun musst."
   },
   {
-    "titel": "Wizard Spieleabend",
+    "titel": "Forest Gum - Turteltauben Launch",
     "datum": "7. Okt 2026",
-    "datum_raw": "2026-10-07T18:00+0200",
-    "ort": "Kleine Freiheit, Luxemburger Straße 156",
+    "datum_raw": "2026-10-07T16:00+0200",
+    "ort": "Alusefreth Büdchen, Zülpicher Straße 303",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/wizard-spieleabend-4/",
+    "link": "https://rausgegangen.de/events/forest-gum-turteltauben-launch-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Wenn Du Wizard magst oder es einfach mal ausprobieren willst, ist das hier angenehm unkompliziert: Gespielt werden drei Runden im Turniermodus, mit wechselnden Tischen und immer neuen Konstellationen. So wird aus einem S"
+    "teaser": "Am Büdchen landet erst die Tüte, dann der Abend. Forest Gum schmeißt zum Start der Turteltauben Fruchtgummis eine kleine Party, und solange was da ist, bekommst Du die neue Sorte schon vorab 👀"
   },
   {
     "titel": "DI/Strauss Technique!",
@@ -38,6 +38,16 @@
     "link": "https://rausgegangen.de/events/strauss-technique-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Ivo Dimchev macht aus Strauss keinen ehrwürdigen Abend, sondern lädt Dich zu einem kollektiven Walzer außer Kontrolle ein. Zwischen Singen, Tanzen und queerem Kitsch geht es auch um Selbstliebe, Geldsorgen und emotionale"
+  },
+  {
+    "titel": "Wizard Spieleabend",
+    "datum": "7. Okt 2026",
+    "datum_raw": "2026-10-07T18:00+0200",
+    "ort": "Kleine Freiheit, Luxemburger Straße 156",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/wizard-spieleabend-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wenn Du Wizard magst oder es einfach mal ausprobieren willst, ist das hier angenehm unkompliziert: Gespielt werden drei Runden im Turniermodus, mit wechselnden Tischen und immer neuen Konstellationen. So wird aus einem S"
   },
   {
     "titel": "URBÄNG! 💥💥💥 Das Festival für performative Künste in Köln",
@@ -60,16 +70,6 @@
     "teaser": "Bei der Open Stage im kleinen Turistarama, wird das Kino zum Ort für Begegnung und kreativer Entfaltung - 6 Acts, jeweils drei Songs. Da ist für jede:n was dabei."
   },
   {
-    "titel": "WASIHRWOLLT",
-    "datum": "7. Okt 2026",
-    "datum_raw": "2026-10-07T19:00+0200",
-    "ort": "COMEDIA Theater, Vondelstraße 4-8",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/wasihrwollt-71/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wenn Du Shakespeare mal nicht als Schulstoff, sondern als klug verdrehte Verwechslungskomödie erleben willst, bist Du hier richtig: Viola wird zu Cesario und plötzlich kippen Begehren, Rollenbilder und Identität komplett"
-  },
-  {
     "titel": "Festivalleröffnung URBÄNG! 2026",
     "datum": "7. Okt 2026",
     "datum_raw": "2026-10-07T19:00+0200",
@@ -78,6 +78,16 @@
     "link": "https://rausgegangen.de/events/festivalleroffnung-urbang-2026-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Hier geht’s nicht nur um einen Startschuss: URBÄNG! bringt internationale Positionen und die freie Kölner Szene zusammen und setzt auf Experimente, Reibung und Begegnung. Wenn Du Lust auf Theater, Tanz, Performance und M"
+  },
+  {
+    "titel": "WASIHRWOLLT",
+    "datum": "7. Okt 2026",
+    "datum_raw": "2026-10-07T19:00+0200",
+    "ort": "COMEDIA Theater, Vondelstraße 4-8",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/wasihrwollt-71/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wenn Du Shakespeare mal nicht als Schulstoff, sondern als klug verdrehte Verwechslungskomödie erleben willst, bist Du hier richtig: Viola wird zu Cesario und plötzlich kippen Begehren, Rollenbilder und Identität komplett"
   },
   {
     "titel": "GRANDMAS HOUSE",
@@ -210,16 +220,6 @@
     "teaser": "Die Band aus Tampere, Finnland, startet im Oktober ihre Tour durch Deutschland und Österreich, bevor sie in Japan unterwegs sind!  Die vierköpfige \"Groove Machine\" veröffentlichte letztes Jahr ihr erfolgreiches Album "
   },
   {
-    "titel": "TOBIAS - eine Tour für euch",
-    "datum": "7. Okt 2026",
-    "datum_raw": "2026-10-07T20:00+0200",
-    "ort": "Helios 37, Heliosstraße 37",
-    "preis": "ab 25 €",
-    "link": "https://rausgegangen.de/events/tobias-eine-tour-fur-euch-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "TOBIAS legt mit seiner ersten eigenen Tour los und kombiniert akustische Nähe mit zeitgemäßem Indie-Pop, gesungen in leichtem Dialekt und beeinflusst von 70er-Jahre-Country und britischem Folk. Mit über 15 Millionen Stre"
-  },
-  {
     "titel": "Kayla Shyx - Sad Girl Summer TOUR 2026",
     "datum": "7. Okt 2026",
     "datum_raw": "2026-10-07T20:00+0200",
@@ -228,6 +228,16 @@
     "link": "https://rausgegangen.de/events/kayla-shyx-sad-girl-summer-tour-2026-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Kayla Shyx erzählt mit ihrem Debütalbum „Sad Girl Summer“ Geschichten zwischen Liebe, Aufbruch und Selbstfindung. Ihre klare, persönliche Sprache und feministische Haltung laden dich ein, einen intensiven Abend voller eh"
+  },
+  {
+    "titel": "TOBIAS - eine Tour für euch",
+    "datum": "7. Okt 2026",
+    "datum_raw": "2026-10-07T20:00+0200",
+    "ort": "Helios 37, Heliosstraße 37",
+    "preis": "ab 25 €",
+    "link": "https://rausgegangen.de/events/tobias-eine-tour-fur-euch-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "TOBIAS legt mit seiner ersten eigenen Tour los und kombiniert akustische Nähe mit zeitgemäßem Indie-Pop, gesungen in leichtem Dialekt und beeinflusst von 70er-Jahre-Country und britischem Folk. Mit über 15 Millionen Stre"
   },
   {
     "titel": "Anna Pancaldi & Belle Mt.",
@@ -328,16 +338,6 @@
     "link": "https://rausgegangen.de/events/chicago-horns-take-stadtgarten-lowdown-brass-band-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Chicago's LowDown Brass Band storms Stadtgarten Oct 8 — nine horns, funk, conscious hip-hop and soul fused into a dance-all-night live show, with support from Rhythmussportgruppe. Opened for The Cat Empire last October; "
-  },
-  {
-    "titel": "DEMO \"Zusammenhalt für Köln\"",
-    "datum": "8. Okt 2026",
-    "datum_raw": "2026-10-08T15:15+0200",
-    "ort": "Alter Markt, Alter Markt",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/demo-zusammenhalt-fur-koln-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier geht’s nicht nur um Kultur, sondern um die Frage, wie Köln zusammenhält: Die Demo richtet sich gegen geplante Kürzungen, die freie Kunst, Festivals und soziale Träger:innen treffen würden. Wenn Du sehen willst, wie "
   },
   {
     "titel": "Ein Killer für die MörderMitzi",
