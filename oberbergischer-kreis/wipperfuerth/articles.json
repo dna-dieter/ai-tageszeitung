@@ -1169,6 +1169,18 @@
     "fetched": "2026-07-08T07:39:18.931423"
   },
   {
+    "id": "b113a1d52de4",
+    "title": "Amtliche Bekanntmachung",
+    "summary": "Offenlage der Kommunalen Wärmeplanung der Hansestadt Wipperfürth gemäß des Wärmeplanungsgesetzes (WPG, §13)",
+    "link": "https://wipperfuerth.de/fileadmin/redaktion/Hansestadt_Wipperfuerth/Stadt-_und_Raumplanung/Klimaschutzkonzept/Bekanntmachung_Waermeplanung.pdf",
+    "published": "Wed, 07 Oct 2026 09:30:34 +0200",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-08T08:50:39.230407"
+  },
+  {
     "id": "256c295f9bf4",
     "title": "Stellen- und Ausbildungsangebote",
     "summary": "Wir suchen neue Kolleginnen und Kollegen. Weitere Infos auf unserem Karriereportal.",
@@ -3451,6 +3463,43 @@
       "wipperfuerth"
     ],
     "fetched": "2026-05-05T21:23:25.230339"
+  },
+  {
+    "id": "87b4f57c1649",
+    "title": "POL-GM: An roter Ampel aufgefahren",
+    "summary": "Wipperfürth (ots) - Ein 41-jähriger Wipperfürther fuhr am Mittwochabend (7. Oktober) mit seinem VW auf der Gummersbacher Straße (B237) in Richtung der Straße \"Nordtangente\". Als der 41-Jährige gegen 18:10 Uhr an der roten Ampel im ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6367093",
+    "published": "Thu, 08 Oct 2026 08:50:13 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach",
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-08T08:50:52.462459"
+  },
+  {
+    "id": "6d0d758ec3d2",
+    "title": "Wipperfürth: Auffahrunfall an roter Ampel – zwei Verletzte",
+    "summary": "Auffahrunfall an roter Ampel in Wipperfürth mit zwei Leichtverletzten. Weitere Polizeimeldungen zu Einbrüchen und Diebstählen in Oberberg.",
+    "link": "https://www.news-on-tour.de/243456/wipperfuerth-auffahrunfall-rote-ampel-jaguar-vw/",
+    "published": "Thu, 08 Oct 2026 07:25:43 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-08T08:50:35.309716"
+  },
+  {
+    "id": "1f2582af9a74",
+    "title": "Wipperfürth: Geriatrie wächst massiv – Klinik startet zweijährigen Umbau",
+    "summary": "Geriatrie und Schmerzmedizin der Helios Klinik Wipperfürth werden massiv erweitert. Die Bauarbeiten für das Großprojekt starten im Januar.",
+    "link": "https://www.news-on-tour.de/243449/wipperfuerth-geriatrie-klinik/",
+    "published": "Thu, 08 Oct 2026 06:54:01 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-08T08:50:35.309782"
   },
   {
     "id": "6eae751a9850",
