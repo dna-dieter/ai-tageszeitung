@@ -20,26 +20,6 @@
     "teaser": "Jazz-Frühschoppen | Swing - TradJazz Die traditionsreichen Kölner Dixieland Steamers sind mit ihrem beliebten Jazzfrühschoppen seit Bestehen der Jazzmeile ein fester Bestandteil des Programms. Doch die Zeit bleibt auc"
   },
   {
-    "titel": "Kammerkonzert 1",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T11:00+0200",
-    "ort": "WDR Funkhaus Köln, Wallrafplatz 5",
-    "preis": "ab 26 €",
-    "link": "https://rausgegangen.de/events/kammerkonzert-1-23/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Von künstlerischen Begegnungen erzählt dieses Kammerkonzert. Der Komponist Alfred Schnittke spürt zunächst einem Mahler-Fragment nach, das wie aus der Ferne aufleuchtet. Es entstammt Gustav Mahlers Klavierquartett au"
-  },
-  {
-    "titel": "Zum Licht",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T11:00+0200",
-    "ort": "Kölner Philharmonie, Bischofsgartenstraße 1",
-    "preis": "ab 8 €",
-    "link": "https://rausgegangen.de/events/zum-licht-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "»Die Symphonie ist wunderbar, großartig, ganz überwältigend! Besonders der letzte Satz, [...] bei dem sich das Herz einem förmlich erweitert, wie Frühlingsluft nach langen trüben Tagen erquickt.« Wenn das kein Lob i"
-  },
-  {
     "titel": "Weinmarkt auf dem Kölner Neumarkt",
     "datum": "11. Okt 2026",
     "datum_raw": "2026-10-11T12:00+0200",
@@ -48,16 +28,6 @@
     "link": "https://rausgegangen.de/events/weinmarkt-auf-dem-kolner-neumarkt-3/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Wenn Du Wein gern nicht nur trinkst, sondern vergleichen willst, bist Du hier richtig: Winzer:innen aus deutschen Anbaugebieten und EU Nachbarländern schenken von Rot bis Secco so ziemlich alles aus. Dazu gibt es Flammku"
-  },
-  {
-    "titel": "Teresa Emilia Raff - Alone with the Universe",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T12:00+0200",
-    "ort": "Privathaus, Im Park 6A",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/teresa-emilia-raff-alone-with-the-universe-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Teresa Emilia Raff (Harfe)Alone with the Universe BEGINN:  12:00 Uhr (Einlass ab 11:30 Uhr)GASTGEBER: Andreas RöhlingADRESSE:  Privathaus, Im Park 6a, 50996 Köln-RodenkirchenKARTEN:    29 € / 15 € (zzgl. VVK) Klassik »"
   },
   {
     "titel": "MINI DESIGNMARKT - HELLO AUTUMN",
@@ -80,66 +50,6 @@
     "teaser": "Beim Open Artclub triffst du auf eine offene Runde, in der sich Kunstinteressierte jeden Levels begegnen und gemeinsam neue Techniken ausprobieren. Hier geht es um kreative Entdeckungen in lockerer Atmosphäre, bei der ih"
   },
   {
-    "titel": "30. Dellbrücker Jazzmeile - Chille in Kölle",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T14:00+0200",
-    "ort": "Salon DellJazz (Hinterhaus), Thurner Straße 14",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/30-dellbrucker-jazzmeile-chille-in-kolle-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Kölsch trifft RioChille en Kölle – der Name ist Programm: cooler Bossa und Kölsches mit brasilianischem Flair. Dieses Duo ist im Rheinland längst ein Geheimtipp. Zu zweit erzeugen die beiden mit Trompete, Gesang, Git"
-  },
-  {
-    "titel": "30. Dellbrücker Jazzmeile - Connie Rupieper & Friends",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T14:00+0200",
-    "ort": "Therapiezentrum Michels und Konrad, Dellbrücker Hauptstraße 90",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/30-dellbrucker-jazzmeile-connie-rupieper-friends-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Swingender Vocal-MainstreamIm Mittelpunkt der Band steht die aus Essen stammende und in Dellbrück lebende Sängerin Connie Rupieper. Mit ihrer dunkel-sonoren Stimme und einem schier unerschöpflichen Vokalrepertoire sor"
-  },
-  {
-    "titel": "30. Dellbrücker Jazzmeile - MARGO",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T14:00+0200",
-    "ort": "Mapita, Dellbrücker Hauptstraße 139",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/30-dellbrucker-jazzmeile-margo-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": ""
-  },
-  {
-    "titel": "30. Dellbrücker Jazzmeile - Alpcologne",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T15:00+0200",
-    "ort": "Kirche St. Norbert, Kopischstraße 10",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/30-dellbrucker-jazzmeile-alpcologne-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "25 Jahre Alpcologne: WhatsAlp?Alpcologne verbindet das Alphorn mit Gesang, Jazz, Latin, Rock, Tango und globalen Klangwelten zu einem einzigartigen Musikerlebnis. Brillant gespielte Alphörner und eine ausdrucksstarke Fr"
-  },
-  {
-    "titel": "Blueslegende Richard Bargel  bei Vorhof-Flimmern",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T15:00+0200",
-    "ort": "Vorhof-Flimmern, Xantener Straße 145",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/blueslegende-richard-bargel-bei-vorhof-flimmern-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Legende um eine Blueslegende – Wie alles begann... Anfang der 70er-Jahre lebte in Köln-Poll, nah am Rhein, eine Künstlerfamilie. Als Freund eines der Söhne war ich an diesem Ort so oft ich konnte und durfte. Denn dies"
-  },
-  {
-    "titel": "Eine Chor-Reise durch das musikalische Köln mit dem Chor der Fründe vun der Akademie för uns kölsche Sproch",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T15:00+0200",
-    "ort": "Kreuzblume vor dem Dom, Kardinal-Höffner-Platz 1",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/eine-chor-reise-durch-das-musikalische-koln-mit-dem-chor-der-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Diese musikalische Zeitreise mit dem \"Chor der Fründe vun der Akademie för uns kölsche Sproch\" und dem Stadtführer KöbesColonius war bereits im vergangenen Jahr eine echte Perle im Krätzjer Fest-Programm. Eine Mitm"
-  },
-  {
     "titel": "Strangers to Friends Walk – Free Ice Cream Edition 🍦",
     "datum": "11. Okt 2026",
     "datum_raw": "2026-10-11T16:00+0200",
@@ -148,36 +58,6 @@
     "link": "https://rausgegangen.de/events/strangers-to-friends-walk-free-ice-cream-edition-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Keiner will den ersten Satz machen, also gibt dieser Walk Dir gleich Gesprächsanlässe in die Hand. Danach ist nicht einfach Schluss: Du bekommst Zugang zur Community App mit über 750 Kölner:innen 👯‍♀️"
-  },
-  {
-    "titel": "30. Dellbrücker Jazzmeile - Philipp Brämswig Trio",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T16:00+0200",
-    "ort": "Tischlerei Manufact, Bergisch Gladbacher Straße 1031",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/30-dellbrucker-jazzmeile-philipp-bramswig-trio-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Contemporary JazzDas Philipp Brämswig Trio zählt zu den spannendsten Formationen der Kölner Jazzszene: Moderner Jazz mit sphärischen Klangflächen, rockiger Energie und lyrischer Melodik. Im gleichberechtigten Zusamm"
-  },
-  {
-    "titel": "Mozart: Sinfonia concertante",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T16:00+0200",
-    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
-    "preis": "ab 12 €",
-    "link": "https://rausgegangen.de/events/mozart-sinfonia-concertante-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Jacques Forestier | Kammerakademie Neuss | Isabelle van KeulenMozarts Sinfonia concertante & moderne Klangakzente – ein Abend voller EnergieMit der »Sinfonia concertante« gelang Mozart die perfekte Synthese von Sinfonie "
-  },
-  {
-    "titel": "30. Dellbrücker Jazzmeile - Tobias Langguth Quartett",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T16:30+0200",
-    "ort": "PhiliaKulturCafé, Hauswiesenweg 5",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/30-dellbrucker-jazzmeile-tobias-langguth-quartett-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Pan American ExpressMit seinem Album The Stars of the Night / Estrelas da Noite präsentiert Gitarrist und Sänger Tobias Langguth eine Sammlung eigener Kompositionen, die den musikalischen Bogen von Nord- nach Südameri"
   },
   {
     "titel": "Forever Fresh Präsentiert: Disco Never Dies",
@@ -190,16 +70,6 @@
     "teaser": "Hier findest du die geballte Disco-Power von Ü70-DJs, die mit Hits aus den 70ern und 80ern zeigen, wie Party wirklich funktioniert. Ohne Algorithmus, dafür mit viel Herz und Erfahrung, gibt’s beste Songs zum Tanzen und M"
   },
   {
-    "titel": "Kulinarische Verzällcher 2026",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T17:00+0200",
-    "ort": "Eltzhof Das Kulturgut, St. Sebastianusstr. 10",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/kulinarische-verzallcher-2026-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Fuhrmann, Kulik, Haaser:„Kulinarische Verzällcher - Vum Esse, vum Drinke un vun andere Sache\"Leeder, Krätzjer un Verzällcher rund um das Thema Essen standen in den letzten vier Jahren auf dem Programm der drei Protago"
-  },
-  {
     "titel": "FILMPREMIERE: Dokumentarfilm WHISTLEBLOWER mit Regiegespräch",
     "datum": "11. Okt 2026",
     "datum_raw": "2026-10-11T17:30+0200",
@@ -208,66 +78,6 @@
     "link": "https://rausgegangen.de/events/filmpremiere-dokumentarfilm-whistleblower-mit-regiegesprach-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Wenn Dich Dokus packen, die nah dran sind und trotzdem den großen Zusammenhang zeigen, ist WHISTLEBLOWER spannend: Marc Bauder begleitet über drei Jahre Menschen, die für Wahrheit Karriere, Sicherheit und Familie riskier"
-  },
-  {
-    "titel": "Workshop & Social Night für Paare & Alleinstehende,  Tanzen verbindet",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T17:45+0200",
-    "ort": "Salsa Bachata Mastery Zentrum, Georgstraße 5",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/workshop-social-night-fur-paare-alleinstehende-tanzen-verbin-137/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wie unsere Events aussehen? schaue dir diese Video auf YouTube anhttps://youtube.com/shorts/UlefMg3My7g?si=jRbDsvwse-s_DjFC  👗 DresscodeElegant & GalaWir wünschen uns einen gepflegten, eleganten Look. Macht euch gerne s"
-  },
-  {
-    "titel": "BURLESQUE BIJOUX -Show- Die Juwelen des Burlesques!",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T18:00+0200",
-    "ort": "Echtzeit Grill & Thrill, Friesenstraße 33",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/burlesque-bijoux-show-die-juwelen-des-burlesques-36/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Willkommen in unserer extravaganten Brasserie, wo Eleganz auf Versuchung trifft.Tauchen Sie ein in eine Welt voller Glamour, Sinnlichkeit und Überraschungen. Unsere bezaubernden Künstler werden Sie mit einer atemberaub"
-  },
-  {
-    "titel": "ELEVEN SECONDS - Pure Voices",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T18:00+0200",
-    "ort": "Studio K, Rolandstraße 69",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/eleven-seconds-pure-voices-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "ELEVEN SECONDSPure VoicesKayla Meyer (Sopran/ Mezzo), Merle Böwering (Sopran/ Mezzo), Carolin Smykla (Alt), Tilman Brand (Tenor, Arrangeur), Tobias Happ (Bass) BEGINN:  18:00 Uhr (Einlass ab 17:30 Uhr)GASTGEBER: Ilse Bi"
-  },
-  {
-    "titel": "Kakaozeremonie & Klangreise, Kräuterreinigung, Meditation, erlebe etwas Neues!",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T18:00+0200",
-    "ort": "room for emotions, Am Maarhof 25",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kakao-klang-zeremonie-mit-sound-healing-live-musik-zum-fuhle-85/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Ein Erlebnis für alle Sinne. Musik zum Fühlen und nicht zum intellektuellen Erfassen. Schokolade in ihrer reinsten und ursprünglichen Form zum trinken und erfahren. Spüre wie sich dein Herz öffnet und du vom Kopf in"
-  },
-  {
-    "titel": "Sing-Äh-Long",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T18:00+0200",
-    "ort": "Hotel am Chlodwigplatz - Zimmer 406, Merowingerstraße 33",
-    "preis": "ab 11 €",
-    "link": "https://rausgegangen.de/events/sing-ah-long-12/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Einlass 17:30 Beginn 18:00 UhrLasst euch mitreißen von der Brühler Musikerin Nina Anders und Julius auf eine Reise quer durch die letzten 30 Jahre Rock- und Popmusik!Gesungen wird was gefällt, fern ab von allem was nac"
-  },
-  {
-    "titel": "SONIQ meets Marie Daniels",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T18:00+0200",
-    "ort": "Stadtgarten, Venloer Straße 40",
-    "preis": "ab 12 €",
-    "link": "https://rausgegangen.de/events/soniq-meets-marie-daniels-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "18:00 I Konzert I KonzertsaalSeit zehn Jahren steht das Künstlerkollektiv SONIQ für musikalische Begegnungen über kulturelle Grenzen hinweg. In dieser Zeit haben sie 13 sehr unterschiedliche Programme initiiert, erarb"
   },
   {
     "titel": "Comedy für Freunde - Stand-Up Open Mic",
@@ -280,46 +90,6 @@
     "teaser": "Lachen bis die Tränen kommen! ✨ Eine Mischung aus etablierten Stars und frischen Talenten sorgt für beste Unterhaltung – inklusive spontanem Impro-Spiel. 🎤👌 Ein Muss für alle Comedy-Fans!"
   },
   {
-    "titel": "30. Dellbrücker Jazzmeile - Tom Gaebel & His Trio - Abschluss der Jazzmeile",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T19:00+0200",
-    "ort": "Zirkusfabrik, Bergisch Gladbacher Straße 1007a",
-    "preis": "ab 30 €",
-    "link": "https://rausgegangen.de/events/30-dellbrucker-jazzmeile-tom-gaebel-his-trio-abschlusskonzer-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "A Swinging Affair! – The American Songbook And BeyondHeute Abend zeigt sich Tom Gaebel beim Abschlusskonzert der 30. Dellbrücker Jazzmeile von einer besonders persönlichen Seite. Statt Big Band oder Orchester begleitet"
-  },
-  {
-    "titel": "ADZUDEMSK",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T19:00+0200",
-    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
-    "preis": "ab 25 €",
-    "link": "https://rausgegangen.de/events/adzudemsk-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "AZUDEMSK - KOMME ES DOLLE TOUR 2026 w/ TWIT ONE, LEAVV, NUNCC, OBI & MEPHISTOS LIEBLING Sonntag, 11. Oktober 2026 Einlass 19:00, Beginn 20:00AZUDEM is back on tracks - und um dem Anspruch gerecht zu werden, voll und ganz"
-  },
-  {
-    "titel": "Senne-Rhein-Freundschaft-Angelegenheit",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T19:00+0200",
-    "ort": "kulturhof kalk, Dillenburger Straße 65",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/senne-rhein-freundschaft-angelegenheit-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "(engl. below)Senne - Rhein - Freundschaft - Angelegenheit-> Die Gelegenheit!Sergeant sind das Brüssler Trio bestehend aus Benjamin Cools, Ferre Marnef und Geraldine Vanspauwen. Ihre Musik ist Avant-Pop, wie ein Date zwi"
-  },
-  {
-    "titel": "CLAUDIA RAMOS BARRETO TRIO - Tradition und Avantgarde",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T19:30+0200",
-    "ort": "v-architekten, Merowingerstraße 5-7",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/claudia-ramos-barreto-trio-tradition-und-avantgarde-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "CLAUDIA RAMOS BARRETO TRIOTradition und AvantgardeClaudia Ramos Barreto (Gesang), Norman Peplow (Piano), Camilo Villa (Bass)  BEGINN:  19:30 Uhr (Einlass ab 20:00 Uhr)GASTGEBER: Paula und Dirk Fahrenbruch, Stefan Möller"
-  },
-  {
     "titel": "DAS LUMPENPACK",
     "datum": "11. Okt 2026",
     "datum_raw": "2026-10-11T20:00+0200",
@@ -328,75 +98,5 @@
     "link": "https://rausgegangen.de/events/das-lumpenpack-41/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Funny, clever, bissig und mit einer Prise Absurdität. Das Ganze in besten deutschsprachigen Rock vermengt, rauf auf unsere liebsten Bühnen und ZACK du stehst in der tanzenden Menge beim LUMPENPACK! Klingt für uns nach ei"
-  },
-  {
-    "titel": "54 Ultra - LIVE IN EU",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T20:00+0200",
-    "ort": "Luxor, Luxemburger Straße 40",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/54-ultra-live-in-eu-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) buchen reguläre Tickets. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte."
-  },
-  {
-    "titel": "Mark Padmore | Jonathan Biss",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T20:00+0200",
-    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
-    "preis": "ab 21 €",
-    "link": "https://rausgegangen.de/events/mark-padmore-jonathan-biss-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Schubert | SchumannSeelenschau in Miniaturen: Mark Padmore & Jonathan Biss mit Liedern von Schubert & SchumannGipfeltreffen zweier Lied-Giganten: Der Liederfürst Franz Schubert und der Klavierpoet Robert Schumann haben "
-  },
-  {
-    "titel": "Prinz Pi",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T20:00+0200",
-    "ort": "Live Music Hall, Lichtstraße 30",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/prinz-pi-12/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Das Event wurde vom 07.09.2025 auf den 11.10.2026 verlegt."
-  },
-  {
-    "titel": "Taz Chernill | SoundLinks Festival",
-    "datum": "11. Okt 2026",
-    "datum_raw": "2026-10-11T20:00+0200",
-    "ort": "MTC - LIVE❌MUSIC❌CLUB, Zülpicher Str. 10",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/taz-chernill-soundlinks-festival-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "TAZ CHERNILL verbindet elektronische Klangwelten, experimentelles Sounddesign und eindringliche Vocals zu avantgardistischen Pop-Kunstwerken, in denen Musik, Mode und Design miteinander verschmelzen. Die Musiker:innen Ta"
-  },
-  {
-    "titel": "Offene Chorprobe - HAPPY VO!ICEs | Südstadt",
-    "datum": "12. Okt 2026",
-    "datum_raw": "2026-10-12T18:00+0200",
-    "ort": "Severinsviertel",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/offene-chorprobe-happy-voices-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wenn Du schon länger singen willst, aber der Einstieg in einen Chor Dich eher abgeschreckt hat, klingt das hier ziemlich ideal: offen, ohne Hürden und ausdrücklich auch für Anfänger:innen mit wenig Erfahrung. Bei HAPPY V"
-  },
-  {
-    "titel": "Gretchen Parlato Quartet",
-    "datum": "12. Okt 2026",
-    "datum_raw": "2026-10-12T20:00+0200",
-    "ort": "Stadtgarten, Venloer Straße 40",
-    "preis": "ab 12 €",
-    "link": "https://rausgegangen.de/events/gretchen-parlato-quartet-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "20:00 I Konzert I Konzertsaal Mit ihrer ruhigen, außergewöhnlichen Stimme macht sich Gretchen Parlato jede Komposition zu eigen, sei es ein Jazz-Standard, ein brasilianisches Lied oder sogar eine Cello-Suite von Bach. F"
-  },
-  {
-    "titel": "Montagskonzert | Espirar",
-    "datum": "12. Okt 2026",
-    "datum_raw": "2026-10-12T20:00+0200",
-    "ort": "Studio des Ensemble Musikfabrik, Im Mediapark 7",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/montagskonzert-espirar-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Neues Datum für dieses Montagskonzert mit Werken von Milliken, Jolas, Hübler und Erçetin  Cathy Milliken – Espirar (2024) für Oboe SoloBetsy Jolas – Quartet No. 6 (1997) für Klarinette und StreichtrioKlaus K. Hüble"
   }
 ]
