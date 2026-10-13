@@ -1,123 +1,23 @@
 [
   {
-    "titel": "Open* JAM- & DANCE SESSION",
-    "datum": "10. Okt 2026",
-    "datum_raw": "2026-10-10T18:00+0200",
-    "ort": "Kulturraum 405 e.V., Venloer Straße 405",
+    "titel": "Watchparty - Fußball-Länderspiel Deutschland gegen Japan",
+    "datum": "13. Okt 2026",
+    "datum_raw": "2026-10-13T17:00+0200",
+    "ort": "OYA MÜLLEM, Buchheimer Straße 17",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/jam-dance-session-17/",
+    "link": "https://rausgegangen.de/events/watchparty-fuball-landerspiel-deutschland-gegen-japan-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Im Kulturraum 405 findet eine offene Jam- & Dance-Session statt, bei der improvisierte, tanzbare Musik im Vordergrund steht. Instrumente sind vorhanden, eigene können gerne mitgebracht werden 🎶"
+    "teaser": "Elfmeterschreie und Kennenlernen passen erstaunlich gut zusammen. Beim Länderspiel Deutschland gegen Japan trifft sich eine Public Viewing Reihe für FLINTA* und queere Communities, die Sport nicht nur schaut, sondern als"
   },
   {
-    "titel": "Junges Filmfestival Köln / Cinepänz",
-    "datum": "12. Okt 2026",
-    "datum_raw": "2026-10-12T09:00+0200",
-    "ort": "Kulturbunker Köln-Mülheim, Berliner Straße 20",
-    "preis": "ab 3 €",
-    "link": "https://rausgegangen.de/events/cinepanz-filme-im-veedel-kulturbunker-mulheim-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Jungen Filmfestival Köln zeigt Cinepänz, wie Festival auch jenseits der großen Leinwand funktioniert: nah dran, gemeinsam und mit Filmen über Mut, Freundschaft, Gaming, frühes Kino und eigene Wege. Für Kinder und Ju"
-  },
-  {
-    "titel": "Dingsbums-TauschRaum im Schmitzundkunzt",
-    "datum": "12. Okt 2026",
-    "datum_raw": "2026-10-12T14:00+0200",
-    "ort": "Schmitzundkunzt, Luxemburger Straße 284A",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/dingsbums-tauschraum-im-schmitzundkunzt-11/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Hier wandern Alltagsdinge einfach weiter, statt im Müll zu landen. Das Prinzip kennst Du vielleicht von Bücherschränken, nur eben für alles Mögliche: bringen, stöbern, mitnehmen, kostenlos und ziemlich sinnvoll 🤝"
-  },
-  {
-    "titel": "LEZ*MEET ... dein neuer sapphic Treff in Köln!",
-    "datum": "12. Okt 2026",
-    "datum_raw": "2026-10-12T18:00+0200",
-    "ort": "anyway | 🌈 Bar, Club, Communityspace, Kamekestraße 14",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/lezmeet-dein-neuer-sapphic-treff-in-koln-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Bei LEZ*MEET triffst du andere junge sapphische und queere Frauen zwischen 24 und 35 für entspannte Abende mit Raum zum Reden, Spielen und Vernetzen. Hier findest du einen sicheren Ort, um ganz du selbst zu sein und neue"
-  },
-  {
-    "titel": "Offene Chorprobe - HAPPY VO!ICEs | Südstadt",
-    "datum": "12. Okt 2026",
-    "datum_raw": "2026-10-12T18:00+0200",
-    "ort": "Severinsviertel",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/offene-chorprobe-happy-voices-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wenn Du schon länger singen willst, aber der Einstieg in einen Chor Dich eher abgeschreckt hat, klingt das hier ziemlich ideal: offen, ohne Hürden und ausdrücklich auch für Anfänger:innen mit wenig Erfahrung. Bei HAPPY V"
-  },
-  {
-    "titel": "KARAOKE",
-    "datum": "12. Okt 2026",
-    "datum_raw": "2026-10-12T19:00+0200",
-    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/karaoke-3843/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Am 9. März wird das Bumann & Sohn wieder zur Bühne für alle, die gern singen – egal ob Solo, Duo oder in der Gruppe. Torben Rich sorgt wie gewohnt für den passenden Sound und mit mehreren Mikrofonen kommt jeder gut zum Z"
-  },
-  {
-    "titel": "„Kunst im Kontext #68” mit Jana Euler",
-    "datum": "12. Okt 2026",
-    "datum_raw": "2026-10-12T19:00+0200",
-    "ort": "Filmforum NRW, Bischofsgartenstr. 1",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/kunst-im-kontext-68-mit-jana-euler-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Wenn Du Lust auf Gegenwartskunst hast, die Deine Sehgewohnheiten einmal kurz aushebelt, ist Jana Euler spannend: In ihrem bebilderten Vortrag geht es um das Verhältnis von Bild, Publikum und Wandinstallation. Gerade weil"
-  },
-  {
-    "titel": "SHORT MONDAY",
-    "datum": "12. Okt 2026",
-    "datum_raw": "2026-10-12T20:00+0200",
-    "ort": "Filmhaus Köln, Maybachstraße 111",
+    "titel": "Honeyball Club",
+    "datum": "13. Okt 2026",
+    "datum_raw": "2026-10-13T17:00+0200",
+    "ort": "25hours Hotel The Circle Köln, Im Klapperhof 22-24",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/short-monday-60/",
+    "link": "https://rausgegangen.de/events/honeyball-club-12/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Freu dich auf unterschiedliche internationale Kurzfilme! Am 06.10. werden rund um das Thema \"Miteinander\" Geschichten von Mut, Dialog & Zusammenhalt auf die Leinwand gebracht. 💜"
-  },
-  {
-    "titel": "Gretchen Parlato Quartet",
-    "datum": "12. Okt 2026",
-    "datum_raw": "2026-10-12T20:00+0200",
-    "ort": "Stadtgarten, Venloer Straße 40",
-    "preis": "ab 12 €",
-    "link": "https://rausgegangen.de/events/gretchen-parlato-quartet-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "20:00 I Konzert I Konzertsaal Mit ihrer ruhigen, außergewöhnlichen Stimme macht sich Gretchen Parlato jede Komposition zu eigen, sei es ein Jazz-Standard, ein brasilianisches Lied oder sogar eine Cello-Suite von Bach. F"
-  },
-  {
-    "titel": "Montagskonzert | Espirar",
-    "datum": "12. Okt 2026",
-    "datum_raw": "2026-10-12T20:00+0200",
-    "ort": "Studio des Ensemble Musikfabrik, Im Mediapark 7",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/montagskonzert-espirar-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Neues Datum für dieses Montagskonzert mit Werken von Milliken, Jolas, Hübler und Erçetin  Cathy Milliken – Espirar (2024) für Oboe SoloBetsy Jolas – Quartet No. 6 (1997) für Klarinette und StreichtrioKlaus K. Hüble"
-  },
-  {
-    "titel": "SEBASTIAN SCHUB",
-    "datum": "12. Okt 2026",
-    "datum_raw": "2026-10-12T20:00+0200",
-    "ort": "Die Kantine, Neusser Landstraße 2",
-    "preis": "ab 25 €",
-    "link": "https://rausgegangen.de/events/sebastian-schub-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Er mag zwar erst einige Singles veröffentlicht haben, doch seine musikalische Reise begann bereits vor Jahren – mit harter Arbeit und unermüdlichem Einsatz. Schon als Teenager machte Sebastian Schub Straßenmusik und en"
-  },
-  {
-    "titel": "Zum Licht",
-    "datum": "12. Okt 2026",
-    "datum_raw": "2026-10-12T20:00+0200",
-    "ort": "Kölner Philharmonie, Bischofsgartenstraße 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/zum-licht-4/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "»Die Symphonie ist wunderbar, großartig, ganz überwältigend! Besonders der letzte Satz, [...] bei dem sich das Herz einem förmlich erweitert, wie Frühlingsluft nach langen trüben Tagen erquickt.« Wenn das kein Lob i"
+    "teaser": "Beim Honeyball Club wird Frauenfußball zum sozialen Ritual statt Sportsbar Routine: FLINTA* stehen im Zentrum, Allies sind willkommen, und genau das macht den Abend so offen. Du schaust Deutschland gegen Japan mit Leuten"
   },
   {
     "titel": "Klaaf spezial im Krätzjerfest",
@@ -128,6 +28,16 @@
     "link": "https://rausgegangen.de/events/klaaf-spezial-im-kratzjerfest-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Kölsche Sause mit Künstlern von der Stunksitzung, dem Hänneschen-Theater, der Knippschaff und aus der Kölner AutorenlandschaftAus der Reihe „Klaaf em Mediapark“ der Akademie för uns kölsche Sproch/SK Stiftung Kultu"
+  },
+  {
+    "titel": "PubQuiz x Herzblatt",
+    "datum": "13. Okt 2026",
+    "datum_raw": "2026-10-13T19:00+0200",
+    "ort": "Herzblatt Schank und Speisewirtschaft, Simrockstraße 2",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/pubquiz-x-herzblatt-9/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wenn Du gern im Team knobelst, ist dieses PubQuiz genau Dein Ding: acht Runden von Musik bis Geografie, mit genug Popkultur für hitzige Diskussionen und viel Gelächter zwischendurch. Am Ende winkt sogar ein Preis für das"
   },
   {
     "titel": "Music Pub Quiz von und mit Jonas (Pau's Boutique)",
@@ -170,36 +80,6 @@
     "teaser": "\"Woröm solle mer ald en de Heija jonn?“ Die Ahl Kamelle Band von Loss mer singe präsentiert ihr elftes Programm. In diesem Jahr befasst es sich mit einigen Jubiläen: 50 Jahre Willi Ostermann, 125 Jahre Jupp Schmitz, 5"
   },
   {
-    "titel": "JHARIAH",
-    "datum": "13. Okt 2026",
-    "datum_raw": "2026-10-13T19:30+0200",
-    "ort": "MTC - LIVE❌MUSIC❌CLUB, Zülpicher Str. 10",
-    "preis": "ab 22 €",
-    "link": "https://rausgegangen.de/events/jhariah-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "In der Musik von Jhariah gibt es ein klares Motto: No genre, all drama. Mit diesem Ansatz kreiert der Musiker aus New York City seit 2017 seine eigene musikalische Welt, in der er sich alles außer Grenzen setzt. Irgendwo"
-  },
-  {
-    "titel": "love out loud",
-    "datum": "13. Okt 2026",
-    "datum_raw": "2026-10-13T19:30+0200",
-    "ort": "Asimmetric Bar, Venloer Straße 196",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/love-out-loud-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Eine empowernde Spezial-Vinyl-Mischung von her*mine - without borders - for all queers"
-  },
-  {
-    "titel": "Deutschlandfunk: 1. Raderbergkonzert 2026/27",
-    "datum": "13. Okt 2026",
-    "datum_raw": "2026-10-13T20:00+0200",
-    "ort": "Deutschlandfunk – Kammermusiksaal, Raderberggürtel 40",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/1-raderbergkonzert-202627-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": " ChorWerk Ruhr„She“ Hildegard von Bingen und Florence B. Price, Fanny Hensel und Clara Schumann, Imogen Holst und Nana Forte: Ein klingendes „Hallo“ großartiger Komponistinnen. Im Zentrum steht die US-amerikanische Kompo"
-  },
-  {
     "titel": "Agatha is Dead! - Concrete Tour",
     "datum": "13. Okt 2026",
     "datum_raw": "2026-10-13T20:00+0200",
@@ -210,133 +90,13 @@
     "teaser": "Agatha is Dead! bringen mit ihrem Debütalbum CONCRETE eine frische Mischung aus eindringlichen Sounds und roher Energie auf die Bühne. Die zweite Headline-Tour zeigt, wie sich ihr Stil weiterentwickelt hat und bietet dir"
   },
   {
-    "titel": "Daniel Miglosi Quartett »Quintanopia«",
+    "titel": "Comedy Raw Night Open Mic (Deutsch)",
     "datum": "13. Okt 2026",
     "datum_raw": "2026-10-13T20:00+0200",
-    "ort": "King Georg, Sudermanstraße 2",
-    "preis": "ab 24 €",
-    "link": "https://rausgegangen.de/events/daniel-miglosi-quartett-quintanopia-0/",
+    "ort": "John Barleycorn, Severinstraße 62",
+    "preis": "ab 5 €",
+    "link": "https://rausgegangen.de/events/raw-night-1/",
     "quelle": "Rausgegangen Köln",
-    "teaser": " Daniel Migliosi (Trompete), Florian Ross (Piano), Géraud Portal (Bass), Kai Craig (Schlagzeug) Quintanopia ist das neue Projekt des luxemburgischen Trompeters und Komponisten Daniel Migliosi – preisgekrönter Künstler"
-  },
-  {
-    "titel": "Elephant9",
-    "datum": "13. Okt 2026",
-    "datum_raw": "2026-10-13T20:00+0200",
-    "ort": "Stadtgarten Park, Venloer Straße 40",
-    "preis": "ab 12 €",
-    "link": "https://rausgegangen.de/events/elephant9-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "20:00 I Konzert I Konzertsaal Elephant9 ist ein musikalisches Monster, denn Musik ist am reinsten und stärksten, wenn sie sich frei, dynamisch und ständig weiterentwickelnd anfühlt. In einer Zeit, in der Musik – meist"
-  },
-  {
-    "titel": "Jazzorama: Essence of Duality - Hindol Deb + Jamsession",
-    "datum": "13. Okt 2026",
-    "datum_raw": "2026-10-13T20:00+0200",
-    "ort": "artheater Köln, Ehrenfeldgürtel 127",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/jazzorama-essence-of-duality-hindol-deb-jamsession-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Dienstag 13. OktoberEssence of Duality - Hindol Deb“Essence of Duality“ Hindol Deb - Sitar und GesangClemens Orth - Klavier und ArrangementChristiam Ramond - KontrabassJens Düppe - Schlagzeug Essence of Duality ist das "
-  },
-  {
-    "titel": "Jhariah - The Trust Ceremony UK / EU Tour",
-    "datum": "13. Okt 2026",
-    "datum_raw": "2026-10-13T20:00+0200",
-    "ort": "Garagen Club Köln, Oskar-Jäger-Straße 179",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/jhariah-the-trust-ceremony-uk-eu-tour-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) buchen reguläre Tickets. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte."
-  },
-  {
-    "titel": "KATHERINE PRIDDY",
-    "datum": "13. Okt 2026",
-    "datum_raw": "2026-10-13T20:00+0200",
-    "ort": "JAKI, Venloer Str. 40",
-    "preis": "ab 22 €",
-    "link": "https://rausgegangen.de/events/katherine-priddy-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Katherine Priddy hat die Veröffentlichung ihres dritten Albums These Frightening Machines für März 2026 über Cooking Vinyl angekündigt. Die neue Platte folgt auf Priddys hochgelobtes Debüt The Eternal Rocks Beneath"
-  },
-  {
-    "titel": "Katherine Priddy",
-    "datum": "13. Okt 2026",
-    "datum_raw": "2026-10-13T20:00+0200",
-    "ort": "JAKI, Venloer Str. 40",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/katherine-priddy-7/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Katherine Priddy hat die Veröffentlichung ihres dritten Albums These Frightening Machines für März 2026 über Cooking Vinyl angekündigt. Die neue Platte folgt auf Priddys hochgelobtes Debüt The Eternal Rocks Beneath"
-  },
-  {
-    "titel": "Katherine Priddy",
-    "datum": "13. Okt 2026",
-    "datum_raw": "2026-10-13T20:00+0200",
-    "ort": "JAKI, Venloer Str. 40",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/katherine-priddy-8/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Katherine Priddy hat die Veröffentlichung ihres dritten Albums These Frightening Machines für März 2026 über Cooking Vinyl angekündigt. Die neue Platte folgt auf Priddys hochgelobtes Debüt The Eternal Rocks Beneath"
-  },
-  {
-    "titel": "Niall Horan: Dinner Party Live On Tour",
-    "datum": "13. Okt 2026",
-    "datum_raw": "2026-10-13T20:00+0200",
-    "ort": "Lanxess Arena, Willy-Brandt-Platz 3",
-    "preis": "ab 58 €",
-    "link": "https://rausgegangen.de/events/niall-horan-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Niall Horan kommt nach Köln: Der international gefeierte Popstar und ehemalige „One Direction“ Sänger tritt am Dienstag, den 13.10.2026, live in der LANXESS arena auf. Mit seinem neuen Album „Dinner Party“, das am 05.0"
-  },
-  {
-    "titel": "Niall Horan: Dinner Party Live On Tour",
-    "datum": "13. Okt 2026",
-    "datum_raw": "2026-10-13T20:00+0200",
-    "ort": "Lanxess Arena, Willy-Brandt-Platz 3",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/niall-horan-dinner-party-live-on-tour-6/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Presented by Live NationJugendschutz: Kinder unter 6 Jahren erhalten keinen Zutritt! Kinder zwischen 6 und 16 Jahren erhalten nur Eintritt in Begleitung einer erziehungsberechtigten oder erziehungsbeauftragten Person (mi"
-  },
-  {
-    "titel": "Nicolas Simion Memorial Concert",
-    "datum": "13. Okt 2026",
-    "datum_raw": "2026-10-13T20:00+0200",
-    "ort": "Salon De Jazz, Severinskloster 3a",
-    "preis": "ab 15 €",
-    "link": "https://rausgegangen.de/events/nicolas-simion-memorial-concert-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Ende August ist unser Freund und Kollege Nicolas Simion nach einem Konzert in Rumänien von uns gegangen. Nicolas war ein musikalischer Freigeist, der auf sehr persönliche Weise Jazz, Folklore und moderne Klassik in sei"
-  },
-  {
-    "titel": "Tito & Tarantula - Best of Tour 2026",
-    "datum": "13. Okt 2026",
-    "datum_raw": "2026-10-13T20:00+0200",
-    "ort": "Gloria Theater, Apostelnstraße 11",
-    "preis": "ab 47 €",
-    "link": "https://rausgegangen.de/events/tito-tarantula-best-of-tour-2026-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Einlass: 19:00 Uhr unbestuhlt  Tito is back! Die Americana- und Desert Rock Legende schlechthin geht 2026 auf eine mit Spannung erwartete Best-of Europatournee.  Geboren in Mexico und als Sohn eines Fallenstellers in der"
-  },
-  {
-    "titel": "DAVID DUCHOVNY",
-    "datum": "13. Okt 2026",
-    "datum_raw": "2026-10-13T21:00+0200",
-    "ort": "Bürgerhaus Stollwerck, Dreikönigenstraße 23",
-    "preis": "ab 40 €",
-    "link": "https://rausgegangen.de/events/david-duchovny-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Fünf Jahre nach seinem letzten Longplayer meldet sich der US-amerikanische Schauspieler und Songwriter David Duchovny im Sommer 2026 mit seinem vierten Studioalbum „Prince of Pieces“ zurück. Dazu kündigt der „Akte X“-"
-  },
-  {
-    "titel": "KURS: KOTO/ NAOKO KIKUCHI (SAWAI UNIVERSAL)",
-    "datum": "14. Okt 2026",
-    "datum_raw": "2026-10-14T13:00+0200",
-    "ort": "Tenri Japanisch-Deutsche Kulturwerkstatt, Kartäuserwall 20",
-    "preis": "ab 150 €",
-    "link": "https://rausgegangen.de/events/kurs-koto-naoko-kikuchi-sawai-universal-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Das 13-saitige Instrument Koto begeistert seit dem 17. Jahrhundert Musikliebhaber und lässt fernöstliche Melodien tief im Herzen erklingen.Naoko Kikuchi, eine der renommiertesten Kotospielerinnen Europas, vermittelt de"
+    "teaser": "Kann grandios scheitern, kann der erste Abend von jemandem sein, über den später alle reden. Bei diesem Open Mic testen bis zu zehn Comedians ganz frische Nummern, moderiert von Tom Wingerath 🤭"
   }
 ]
