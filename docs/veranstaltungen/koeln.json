@@ -1,102 +1,342 @@
 [
   {
-    "titel": "Kundgebung zum Finanzausschuss: Protest gegen die geplanten Sozialkürzungen im Gewaltschutz",
-    "datum": "16. Okt 2026",
-    "datum_raw": "2026-10-16T09:30+0200",
-    "ort": "Theo-Burauen-Platz, Köln",
+    "titel": "'SUP Cultures – Urban-Arts & Community Event",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T10:00+0200",
+    "ort": "Jugendzentrum OT Werkstattstraße, Werkstattstraße 7",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/kundgebung-zum-finanzausschuss-protest-gegen-die-geplanten-s-0/",
+    "link": "https://rausgegangen.de/events/sup-cultures-urban-arts-community-event-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Ein Hilfesystem, das Leben schützt, soll gekürzt werden, und genau dagegen richtet sich diese Kundgebung. Anlass ist die Haushaltsberatung im Finanzausschuss, während Fachverbände längst eine verlässliche Finanzierung de"
+    "teaser": "In Köln kommen bei SUP Cultures genau die Leute zusammen, die sonst oft am Rand laufen: Street und Club Dance Communities aus unterrepräsentierten Szenen. Workshops und Battle kosten nichts, der Rest ist Austausch auf Au"
   },
   {
-    "titel": "Spieldurst Spielenachmittag",
-    "datum": "16. Okt 2026",
-    "datum_raw": "2026-10-16T15:00+0200",
-    "ort": "Spieldurst, Hohe Straße 22",
+    "titel": "Kulinarische Tour durch Sülz & Klettenberg | Gusto-Route: eine selbstgeführte Tour durch das Veedel mit Sehenswürdigkeiten und Foodstops",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T11:00+0200",
+    "ort": "Sülz & Klettenberg, Sülzburgstraße",
+    "preis": "ab 40 €",
+    "link": "https://rausgegangen.de/events/kulinarische-tour-durch-sulz-klettenberg-gusto-route-eine-se-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Entdeck die versteckten kulinarischen Schätze in Sülz und Klettenberg ganz entspannt auf deiner eigenen Tour – kleine Feinkostläden, Cafés und Manufakturen halten leckere Überraschungen für dich bereit. Zwischendurch gib"
+  },
+  {
+    "titel": "Familienworkshop »Im Zauberwald«",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T11:00+0200",
+    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
+    "preis": "ab 9 €",
+    "link": "https://rausgegangen.de/events/familienworkshop-im-zauberwald-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Für Kinder von 4 bis 8 mit ihren FamilienEnsemble ColLAB Cologne | Susanne BlumenthalEine Heldin wird gebraucht: Das Licht der Welt wird schwächer, die Sonne droht zu erlöschen. Ein geheimnisvoller Bösewicht scheint "
+  },
+  {
+    "titel": "Handpan Workshop",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T11:00+0200",
+    "ort": "Singbüdchen, Vorgebirgstraße 136",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/spieldurst-spielenachmittag-24/",
+    "link": "https://rausgegangen.de/events/handpan-workshop-350/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Wenn Dir zu Hause der große Tisch oder die richtige Spielauswahl fehlt, ist dieser Spielenachmittag echt praktisch: offene Brett und Kartenspiele, dazu eine wöchentliche Spielerklärung für alle, die Neues testen wollen. "
+    "teaser": "Handpan Tagesworkshop - Für Beginner:innen oder FortgeschritteneRhythmus · Klang · MiteinanderEntdecke die Handpan in ruhiger, wertschätzender Atmosphäre.                                Ohne Leistungsdruck · ohne Vork"
   },
   {
-    "titel": "KalkKunst – Kunstspaziergänge",
-    "datum": "16. Okt 2026",
-    "datum_raw": "2026-10-16T18:00+0200",
+    "titel": "All PhotoBooks by Duane Michals",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T12:00+0200",
+    "ort": "The PhotoBookMuseum, Körnerstraße 6-8",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/duane-michals-all-photobooks-6/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Zwischen Buchdeckeln hängt plötzlich eine ganze Freundschaft. Gezeigt werden mehr als 80 Fotobücher von Duane Michals, viele davon mit persönlichen Notizen an den Sammler Tim Soter 👀"
+  },
+  {
+    "titel": "Pop gegen Weltschmerz",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T12:00+0200",
+    "ort": "HEj.Leni - Creative Studio, Försterstraße 53",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/pop-gegen-weltschmerz-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "GEMEINSAM SINGEN, FRUST RAUSLASSEN UND HOFFNUNG TANKEN. Je tiefer wir uns ins Verderben scrollen, desto ohnmächtiger fühlen wir uns. Höchste Zeit also, sich in der physischen Welt mit echten Menschen zu verbinden um G"
+  },
+  {
+    "titel": "Familienworkshop »Im Zauberwald«",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T13:00+0200",
+    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
+    "preis": "ab 9 €",
+    "link": "https://rausgegangen.de/events/familienworkshop-im-zauberwald-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Für Kinder von 4 bis 8 mit ihren FamilienEnsemble ColLAB Cologne | Susanne BlumenthalEine Heldin wird gebraucht: Das Licht der Welt wird schwächer, die Sonne droht zu erlöschen. Ein geheimnisvoller Bösewicht scheint "
+  },
+  {
+    "titel": "Tintenherz",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T14:00+0200",
+    "ort": "Orangerie Theater im Volksgarten, Volksgartenstraße 25",
+    "preis": "ab 15 €",
+    "link": "https://rausgegangen.de/events/tintenherz-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wenn Du Tintenherz liebst, klingt das hier nach genau der richtigen Mischung aus Lesung und Theater: Erfort&Kraiss machen aus Cornelia Funkes Stoff ihre fünfte Produktion, mit Musik, Spielfreude und Bildern, die Buch und"
+  },
+  {
+    "titel": "Der winterfeste Garten - Workshop im HofGarten",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T14:00+0200",
     "ort": "Bürgerhaus Kalk, Kalk-Mülheimer Str. 58",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/kalkkunst-2026-kunstspaziergange-0/",
+    "link": "https://rausgegangen.de/events/der-winterfeste-garten-workshop-im-hofgarten-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Zwischen Bürgeramt und Veedelskneipe hängt in Kalk gerade Kunst, und genau dieser Gegensatz trägt die Spaziergänge. Du ziehst mit der Gruppe durch ausgewählte Stationen und landest am Ende noch im Gespräch mit Künstler:i"
+    "teaser": "Was im Garten vor dem Winter liegen bleibt und was besser geschützt werden sollte, klärt Adrian mit praktischem Wissen für die kalte Zeit. Das offene Gartenprojekt in Kalk zeigt nebenbei, wie so ein Stück Grün gemeinsam "
   },
   {
-    "titel": "Cologne Drag Dinner",
-    "datum": "16. Okt 2026",
-    "datum_raw": "2026-10-16T19:00+0200",
-    "ort": "TörtchenTörtchen, Apostelnstraße 19",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/cologne-drag-brunch-22/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Cologne Drag Dinner erwarten dich zwischen süffigem Sekt und leckerem Essen schillernde Performances voller Humor und Glamour. Nach dem Hauptgang startet die Show, die dich mit zwei Acts durch einen funkelnden Abend"
-  },
-  {
-    "titel": "AB Syndrom",
-    "datum": "16. Okt 2026",
-    "datum_raw": "2026-10-16T19:00+0200",
-    "ort": "JAKI, Venloer Str. 40",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/ab-syndrom-21/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "AB Syndrom mixt persönlich getextete deutsche Songs mit weit entfernten elektronischen Klängen, alles hausgemacht und live ohne Playback. Seit ihrem Hit Flaggschiff sind sie quer durch Europa und Asien getourt und zeigen"
-  },
-  {
-    "titel": "Hinterhofchor Popkonzert",
-    "datum": "16. Okt 2026",
-    "datum_raw": "2026-10-16T19:30+0200",
-    "ort": "Lutherkirche Südstadt, Martin-Luther-Platz 2-4",
+    "titel": "KOLLEKTIV STABIL w/ NON CHALANCE, AKT, KRAWALL, YAYA CREW uvm.",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T15:00+0200",
+    "ort": "Garagen Club Köln, Oskar-Jäger-Straße 179",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/hinterhofchor-popkonzert-0/",
+    "link": "https://rausgegangen.de/events/kollektiv-stabil-1/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Im Jahreskonzert steht der Hinterhofchor nicht allein da, sondern mit Liveband neben sich. Zwischen Popnummern und kölschen Liedern wird das schnell so ein Abend, bei dem Du erst zuhörst und dann doch mitsummst 🎟️"
+    "teaser": "Hier geht es nicht nur um Musik, sondern um ein Kollektiv, das Austausch, Stände, Workshops, Tattoos und DJ Sets zusammenbringt. Besonders gut: Soli statt Profit, freier Eintritt und Spenden für Frauen helfen Frauen e.V."
   },
   {
-    "titel": "4. COLOGNE BURLESQUE FESTIVAL - International Extravaganza of Burlesque, Boylesque and Queer Cabaret",
-    "datum": "16. Okt 2026",
-    "datum_raw": "2026-10-16T20:00+0200",
-    "ort": "Gloria Theater, Apostelnstraße 11",
-    "preis": "ab 44 €",
-    "link": "https://rausgegangen.de/events/4-cologne-burlesque-festival-international-extravaganza-of-b-0/",
+    "titel": "Queeramore Day Party Edition",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T16:00+0200",
+    "ort": "OYA MÜLLEM, Buchheimer Straße 17",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/queeramore-day-party-edition-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Wenn Burlesque, Boylesque und queeres Cabaret für Dich mehr sein sollen als Nostalgie, bist Du hier richtig: Das Festival mischt Pariser Revue Glamour mit Drag, Artistik, Gesang und Theater. Nach drei ausverkauften Ausga"
+    "teaser": "Samstag, aber niemand wartet bis Mitternacht. Bei Queeramore startet die Party schon am Nachmittag, mit Neonarmbändern für queere Singles und einer klar FLINTA und BIPoC freundlichen Haltung 🌈"
   },
   {
-    "titel": "Gazelle",
-    "datum": "16. Okt 2026",
-    "datum_raw": "2026-10-16T20:00+0200",
-    "ort": "Gemeindesaal Kulturkirche Köln Nippes, Siebachstraße 85",
+    "titel": "HABESHA VINYL, FINGERFOOD & ART FEST",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T16:00+0200",
+    "ort": "Art of Buna, Genter Straße 26",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/habesha-vinyl-fingerfood-art-fest-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "HABESHA VINYL, FINGERFOOD & ART FEST++++++++++Eritrean & Ethiopian 45s Vinyl Only Mix Jazz, Soul & Traditional GroovesInjeRadio DJ Set – Nahom from Eritrean Anthology & Älex – The AmpliFireInjeRadio ist eine Hommage an "
+  },
+  {
+    "titel": "FINISSAGE · inner lines",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T17:00+0200",
+    "ort": "Café Vreiheit, Wallstraße 91",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/finissage-inner-lines-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Linien, Schichten, Spuren und mittendrin die Frage, was von Heimat bleibt, wenn sie ständig in Bewegung ist. Zum Abschluss von inner lines trifft Kunst auf einen entspannten frühen Abend 🙂"
+  },
+  {
+    "titel": "kammerkonzerte.koeln: Arundos Quintett",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T18:00+0200",
+    "ort": "Humboldt-Saal, Kartäuserwall 40",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/kammerkonzertekoeln-arundos-quintett-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wenn Du Kammermusik magst, die nicht im Museum stehen bleibt: Das international besetzte Arundos Quintett springt klug zwischen Bizet, Debussy, Schifrin und einem eigenen Uraufführungsstück von Kevin Beavers. Dazu kommen"
+  },
+  {
+    "titel": "HGHLYS FEST - Vol.1",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T18:30+0200",
+    "ort": "Veedel Club, Luxemburger Straße 37",
+    "preis": "ab 21 €",
+    "link": "https://rausgegangen.de/events/hghlys-fest-vol1-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Nicht einfach noch ein Konzertabend, eher der erste Aufschlag für etwas, das größer werden soll. Zum Start steht Chief Dada vorne, und um ihn herum baut HGHLYS FEST eine neue Plattform für Artists und Community auf 🌈"
+  },
+  {
+    "titel": "🎸 HOLGER LANDROCK IM ECK!",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T19:00+0200",
+    "ort": "Iltis Eck, Iltisstraße 12",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/holger-landrock-im-eck-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "🎸 HOLGER LANDROCK IM ECK! 🎸LIVE · RAUCHIG. BLUESIG. ECHT.Am Samstag, 17. Oktober 2026 kommt Holger Landrock live ins IltisEck! 🎤🔥Mit seiner markanten, rauchigen Stimme und guter Musik wird’s ein besonderer Abend in Ehren"
+  },
+  {
+    "titel": "Lachkater Die Stand Up Comedy Show",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T19:00+0200",
+    "ort": "Goldfinger, Friesenstraße 54",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/lachkater-die-stand-up-comedy-show-573/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": ">> nur 3 min fußläufig vom Friesenplatz 🚀Hier wird die Katze aus dem Sack gelacht! 😹Der erste 🎤 Stand Up Comedy Boom Deutschlands macht sich auch in Köln bemerkbar.Hier darfst du live dabei sein, wenn die gefragtesten "
+  },
+  {
+    "titel": "The Becoming Of George - Release Show",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T19:00+0200",
+    "ort": "Stereo Wonderland, Trierer Straße 65",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/the-becoming-of-george-release-show-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "A bassdriven, guitar wailing, loudmouthy, poetry slurring indie-rock-band from cologne,Germany.As if somebody asks, what the music is like,it’s garageshoegazesurfspeedsludgebluegrassgentlemenpunk. hypnotic sounds out of "
+  },
+  {
+    "titel": "Yung Pepp - Die große kleine Tour 2026",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T19:00+0200",
+    "ort": "artheater Köln, Ehrenfeldgürtel 127",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/yung-pepp-die-groe-kleine-tour-2026-8/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Presented by Goodlive ArtistsJUGENDSCHUTZRICHTLINIENKinder zwischen 6-13 Jahren:Der Konzertbesuch ist nur in Begleitung eines Sorgeberechtigten oder einer volljährigen, beauftragten Person (Muttizettel) erlaubt. Ohne Be"
+  },
+  {
+    "titel": "RAUNHEIMR — A Pagan Dance Ritual",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T19:30+0200",
+    "ort": "Bürgerzentrum Nippes Altenberger Hof, Mauenheimer Straße 92",
+    "preis": "ab 36 €",
+    "link": "https://rausgegangen.de/events/raunheimr-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "RAUNHEIMR — Pagan Dance RitualEin Mix aus Konzert und Live Ecstatic Dance im Pagan Stil - ein musikalisches Ritual, inspiriert von alten Wäldern, rauhen Winden, von Gemeinschaft zwischen schroffen Fjorden und Gesängen "
+  },
+  {
+    "titel": "RheinlandOper präsentiert \"Richard Wagner -  Siegfried am Rhein\"",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T19:30+0200",
+    "ort": "VENTANA, Elisabeth-von-Mumm-Platz 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/rheinlandoper-prasentiert-richard-wagner-siegfried-am-rhein-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "WAGNERFESTSPIELE IN SÜLZBayreuth im VENTANAKeine Angst vor großer Oper! Am 17. und 18. Oktober bringt die RheinlandOper „Siegfried am Rhein“ ins Kölner VENTANA: eine humorvolle und dramatische Fassung der Rheinlandsage"
+  },
+  {
+    "titel": "KeinKunstDrags - Show für absolut schräge Drag & Comedy",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T20:00+0200",
+    "ort": "Horizont Theater, Thürmchenswall 25",
+    "preis": "ab 12 €",
+    "link": "https://rausgegangen.de/events/keinkunstdrags-show-fur-absolut-schrage-drag-comedy-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wenn Du schräge Drag mit Comedy magst, bist Du hier richtig: Das Programm wechselt jedes Mal, genauso wie der Cast, und zwischen Gesang, Lipsync, Tanz, Live Musik und Kabarett kann alles passieren. Schön ist auch der Hin"
+  },
+  {
+    "titel": "Bausa | Tournado 2026",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T20:00+0200",
+    "ort": "Palladium Cologne, Schanzenstraße 40",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/bausa-tournado-2026-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "BAUSA | Tournado 2026Es gibt Rapper und es gibt BAUSA. Wer sonst lieferte mit „Was du Liebe nennst“ den ersten Diamant-Hit im Deutschrap - nur um 2023 an der Seite von badchieff und SIRA mit „9 nach 9“ gleich die nächst"
+  },
+  {
+    "titel": "Cat Power | \"The Greatest 20th Anniversary-Tour 2026\"",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T20:00+0200",
+    "ort": "Live Music Hall, Lichtstraße 30",
+    "preis": "ab 59 €",
+    "link": "https://rausgegangen.de/events/cat-power-the-greatest-20th-anniversary-tour-2026-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Es gibt nur wenige Stimmen, die tiefer in die Ikonographie und Mythologie des amerikanischen Indie-Rock eingebettet sind als die von Chan Marshall. Unter dem musikalischen Namen Cat Power veröffentlicht Marshall seit fa"
+  },
+  {
+    "titel": "Cat Power - The Greatest 20th Anniversary-Tour 2026",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T20:00+0200",
+    "ort": "Live Music Hall, Lichtstraße 30",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/cat-power-the-greatest-20th-anniversary-tour-2026-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Please refer to the German language version for further information."
+  },
+  {
+    "titel": "DEVOTCHKA",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T20:00+0200",
+    "ort": "Yard Club, Neusser Landstraße 2",
     "preis": "ab 34 €",
-    "link": "https://rausgegangen.de/events/gazelle-35/",
+    "link": "https://rausgegangen.de/events/devotchka-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Wenn Du Gazelle aus ihren satirischen Clips kennst, ist das hier die Chance, sie ganz anders zu erleben: auf ihrer ersten Solo Tour mit mehr Platz für Geschichten über Herkunft, Queerness, trans* sein und herrlich trocke"
+    "teaser": "Als die Filmemacher Jonathan Dayton und Valerie Faris den eindringlichen Klang von DeVotchKa über die Radiowellen eines Senders in Santa Monica hörten, wussten sie, dass sie den emotionalen Herzschlag für ihren Film L"
   },
   {
-    "titel": "KOLLAPS im Kirschgarten",
-    "datum": "16. Okt 2026",
-    "datum_raw": "2026-10-16T20:00+0200",
-    "ort": "Studio Trafique, Merheimer Straße 292",
+    "titel": "Duo Bögeholz Mosalini - DELTA Y MAR",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T20:00+0200",
+    "ort": "Alte Feuerwache Köln, Melchiorstraße 3",
     "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/kollaps-22/",
+    "link": "https://rausgegangen.de/events/duo-bogeholz-mosalini-delta-y-mar-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Noch bevor auf der Bühne irgendwas anfängt, gerät die Grenze zwischen Publikum und Ensemble ins Rutschen. Das Stück nimmt Tschechows Kirschgarten als Folie für Abschied und einen Lebensraum unter Druck, und Du merkst vie"
+    "teaser": "Klangliche Vermischung von Bandoneón und Gitarre auf lateinamerikanischer Basis mit europäischer Identifikation. Dies prägt seit 26 Jahren die Musik von Bögeholz & Mosalini. Bislang hat das Duo Klassiker des argentin"
   },
   {
-    "titel": "ImKlang Session",
-    "datum": "16. Okt 2026",
-    "datum_raw": "2026-10-16T20:00+0200",
-    "ort": "Musik- und Kunstschule ImKlang, Waltherstraße 80",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/imklang-session-38/",
+    "titel": "Eddi & Friends in Köln",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T20:00+0200",
+    "ort": "Johanneskirche, Nonnenwerthstraße 78",
+    "preis": "ab 17 €",
+    "link": "https://rausgegangen.de/events/eddi-friends-in-koln-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Mal sitzt da jemand zum ersten Mal auf der Bühne, zwei Songs später steigt ein Profi ein und plötzlich trägt sich das gegenseitig. Die Session ist offen für Musiker:innen aller Erfahrungsstufen, und wer nur zuhört, ist g"
+    "teaser": "Eddi & Friends – Tour 2026 Im Herbst 2026 sind Eddi & seine Freunde unterwegs! Zwölf Konzerte im Oktober führen Eddi Hüneke (ehemals Wise Guys), seinen Keyboarder Tobi Hebbelmann und seinen Produzenten und Drummer Jan"
+  },
+  {
+    "titel": "FOLK STORIES – transnationales Reisetagebuch in vier Konzerten mit Luise Volkmann & Guests",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T20:00+0200",
+    "ort": "O-Ton.koeln : Konzerte, Recording, Proben, Events, Kyllstraße 7a",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/folk-stories-transnationales-reisetagebuch-in-vier-konzerten-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "FOLK STORIES – transnationales Reisetagebuch in vier Konzertenmit Luise Volkmann & GuestsSa. 17.10.26 Luise Volkmann, Tobias Hoffmann feat. Koray Berat Sari (DE)Saxophon · Gitarre · Saz /türkische LauteOrt: o-ton · Kyll"
+  },
+  {
+    "titel": "House of Surprise",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T20:00+0200",
+    "ort": "House of Surprise, Köln",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/house-of-surprise-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Plot Twist and Three Skies Festival present:HOUSE OF SURPRISE is a new Cologne concert format for contemporary, experimental and genre-crossing music in a special setting. For one evening, an inhabited shared apartment i"
+  },
+  {
+    "titel": "José José - Alexo Román singt zu Ehren von JOSÉ JOSÉ aus Mexiko -  EIN ABEND VOLLER ROMANTIK UND GEFÜHL",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T20:00+0200",
+    "ort": "Deutsch-Spanischer Kulturkreis Antonio Machado, Severinsmühlengasse 1",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/jose-jose-alexo-roman-singt-zu-ehren-von-jose-jose-aus-mexik-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "(Text auf Spanisch unten)JOSÉ JOSÉ – EIN ABEND VOLLER ROMANTIK UND GEFÜHLSamstag, 17. Oktober 2026 · 20:00 UhrMACHADO – Centro Cultural Antonio Machado Severinsmühlengasse 1 50678 KölnEintritt frei!Der aus Mexiko-St"
+  },
+  {
+    "titel": "Majestätisch - Marie Jacquot & Iveta Apkalna",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T20:00+0200",
+    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/majestatisch-marie-jacquot-iveta-apkalna-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Gleich zwei Klassikstars prägen dieses außergewöhnliche Programm: Während die lettische Organistin Iveta Apkalna Camille Saint-Saëns’ erhabene \"Orgelsinfonie\" veredelt, steht der französische Bratschist Antoine Tame"
+  },
+  {
+    "titel": "fi x Kollektiv Turmstrasse & Jonathan Kaspar & friendly Connections",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T22:00+0200",
+    "ort": "Ursprung fi, Widdersdorfer Straße 246",
+    "preis": "ab 18 €",
+    "link": "https://rausgegangen.de/events/fi-x-kollektiv-turmstrasse-jonathan-kaspar-friendly-connecti-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wenn Kollektiv Turmstrasse und Jonathan Kaspar zusammen auf dem Lineup stehen, wird die Nacht ziemlich sicher zwischen House, Techno und diesem warmen Sog dazwischen pendeln. Dazu kommen friendly Connections mit Adlip b2"
+  },
+  {
+    "titel": "krakelee club w/ Andy Garvey, a:tok, oskø",
+    "datum": "17. Okt 2026",
+    "datum_raw": "2026-10-17T23:00+0200",
+    "ort": "Gewölbe Köln, Hans-Böckler-Platz 2",
+    "preis": "ab 12 €",
+    "link": "https://rausgegangen.de/events/krakelee-club-w-andy-garvey-atok-osk-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Andy Garvey kommt aus Australiens Kreativszene und fährt mit tiefen Techno Texturen und hypnotischen Rhythmen bewusst neben den üblichen Routen. Mit a:tok und oskø wird daraus ein Abend für alle, die elektronische Musik "
   }
 ]
