@@ -70,16 +70,6 @@
     "teaser": "Unsere Kammerchöre bieten freie Plätze für ambitionierte Singende, die ihr gesangliches Hobby auf echtem Leistungsniveau betreiben möchten.  Für unser Winterprogramm und das Sommerprogramm 2027 suchen wir gezielt st"
   },
   {
-    "titel": "Mariybu \"FRECH\"-Tour",
-    "datum": "19. Okt 2026",
-    "datum_raw": "2026-10-19T20:00+0200",
-    "ort": "Club Bahnhof Ehrenfeld, Bartholomäus-Schink-Strasse 65",
-    "preis": "ab 28 €",
-    "link": "https://rausgegangen.de/events/mariybu-frech-tour-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Mariybu mischt technoiden Hyperpop mit Hardstyle und nimmt dabei die Herrenwelt aufs Korn. Mit ihrem „FRECH“-Album erwartet dich eine energiegeladene Show voller frecher Beats und bissiger Farben, die den Tanzraum auf de"
-  },
-  {
     "titel": "SCHOCK TO THE SYSTEM",
     "datum": "19. Okt 2026",
     "datum_raw": "2026-10-19T20:00+0200",
@@ -90,13 +80,23 @@
     "teaser": "Montag, Kneipenabend, und überall klackern Würfel über den Tisch. Schocken kriegt mehr Platz, aber niemand muss mitspielen, also kannst Du einfach auf ein Getränk vorbeikommen und gucken, wie schnell aus einer Runde fünf"
   },
   {
-    "titel": "Cologne Comedy Festival",
-    "datum": "20. Okt 2026",
-    "datum_raw": "2026-10-20T00:00+0200",
-    "ort": "Köln, Köln",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/cologne-comedy-festival-55/",
+    "titel": "Mariybu \"FRECH\"-Tour",
+    "datum": "19. Okt 2026",
+    "datum_raw": "2026-10-19T20:00+0200",
+    "ort": "Club Bahnhof Ehrenfeld, Bartholomäus-Schink-Strasse 65",
+    "preis": "ab 28 €",
+    "link": "https://rausgegangen.de/events/mariybu-frech-tour-1/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Carolin Kebekus und Felix Lobrecht standen schon da, bevor die Hallen voll waren. Heute ist das Festival einer der großen Treffpunkte der deutschen Comedy Szene und zieht seit 1991 die richtigen Leute ans Mikro 😂"
+    "teaser": "Mariybu mischt technoiden Hyperpop mit Hardstyle und nimmt dabei die Herrenwelt aufs Korn. Mit ihrem „FRECH“-Album erwartet dich eine energiegeladene Show voller frecher Beats und bissiger Farben, die den Tanzraum auf de"
+  },
+  {
+    "titel": "CGNYC w/ Kate Gentile",
+    "datum": "19. Okt 2026",
+    "datum_raw": "2026-10-19T20:00+0200",
+    "ort": "JAKI, Venloer Str. 40",
+    "preis": "ab 8 €",
+    "link": "https://rausgegangen.de/events/cgnyc-w-kate-gentile-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "20:00 I Konzert I JAKI In der Reihe \"CGNYC - Cologne meets New York City\" lädt Florian Herzog New Yorker Musiker*innen ein, um in einem ersten Zusammentreffen mit Kölner*innen spannende Konzerte zu gestalten. Kate Gent"
   }
 ]
