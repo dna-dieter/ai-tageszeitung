@@ -1,102 +1,372 @@
 [
   {
-    "titel": "Ein Haydn-Spaß",
-    "datum": "19. Okt 2026",
-    "datum_raw": "2026-10-19T12:30+0200",
-    "ort": "Kölner Philharmonie, Bischofsgartenstraße 1",
-    "preis": "ab 10 €",
-    "link": "https://rausgegangen.de/events/ein-haydn-spa-0/",
+    "titel": "Along the Color Line - Spuren einer transatlantischen Moderne",
+    "datum": "20. Okt 2026",
+    "datum_raw": "2026-10-20T10:00+0200",
+    "ort": "Museum Ludwig, Heinrich-Böll-Platz",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/along-the-color-line-spuren-einer-transatlantischen-moderne-14/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Papa Haydn? Von wegen nur ehrwürdig und formstreng. Seine Sinfonien überraschen, sind voller Geistesblitze, spielen mit Erwartungen – und stecken voller Witz. Mit 107 Sinfonien hat Joseph Haydn nicht nur eine beeindruc"
+    "teaser": "Was in einer Sammlung fehlt, sagt oft fast mehr als das, was hängt. Diese Ausstellung schaut auf die Leerstellen der europäischen Moderne und bringt Arbeiten der internationalen Schwarzen Diaspora ins Gespräch mit dem Be"
   },
   {
-    "titel": "Jubiläumsführung durch die Kölner Philharmonie",
-    "datum": "19. Okt 2026",
-    "datum_raw": "2026-10-19T13:30+0200",
-    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
-    "preis": "ab 6 €",
-    "link": "https://rausgegangen.de/events/jubilaumsfuhrung-durch-die-kolner-philharmonie-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "40 Jahre Kölner Philharmonie: Bei einer rund 60-minütigen Führung warten spannende Geschichten aus vier Jahrzehnten, Einblicke in die besondere Architektur des Hauses und ein Blick hinter die Kulissen eines der bedeut"
-  },
-  {
-    "titel": "Dingsbums-TauschRaum im Schmitzundkunzt",
-    "datum": "19. Okt 2026",
-    "datum_raw": "2026-10-19T14:00+0200",
-    "ort": "Schmitzundkunzt, Luxemburger Straße 284A",
+    "titel": "Stricken für den guten Zweck",
+    "datum": "20. Okt 2026",
+    "datum_raw": "2026-10-20T17:00+0200",
+    "ort": "AWO Treff Nippes, Christinastraße 31",
     "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/dingsbums-tauschraum-im-schmitzundkunzt-15/",
+    "link": "https://rausgegangen.de/events/stricken-fur-den-guten-zweck-4/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Hier wandern Alltagsdinge einfach weiter, statt im Müll zu landen. Das Prinzip kennst Du vielleicht von Bücherschränken, nur eben für alles Mögliche: bringen, stöbern, mitnehmen, kostenlos und ziemlich sinnvoll 🤝"
+    "teaser": "Wohin die gestrickten Sachen am Ende gehen, wird nicht vorher festgelegt, sondern zusammen entschieden. Das macht aus einer Runde mit Nadeln schnell auch ein kleines Gespräch darüber, wem Ihr etwas geben wollt 🫶"
   },
   {
-    "titel": "Flohmi im Bumi",
-    "datum": "19. Okt 2026",
-    "datum_raw": "2026-10-19T18:00+0200",
-    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/flohmi-x-tattoos-x-tooth-gems-im-bumi-0/",
+    "titel": "Kneipenquiz im Zappes",
+    "datum": "20. Okt 2026",
+    "datum_raw": "2026-10-20T19:00+0200",
+    "ort": "Zappes Süd, Dreikönigenstraße 23",
+    "preis": "ab 5 €",
+    "link": "https://rausgegangen.de/events/kneipenquiz-im-zappes-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Beim Flohmi im Bumi triffst du auf Secondhand-Schätze, gute Musik und lecker Essen von den Foodtrucks. Für einen kleinen Standplatz bringst du Tisch und Kleiderstange selbst mit und verhandelst deine Fundstücke entspannt"
+    "teaser": "Handys bleiben in der Tasche, sonst bist Du sofort die Person, die alle nervt. Gespielt wird im Team, mindestens zu viert und höchstens zu acht, und am Ende geht es um Schnaps, Kölsch und ewigen Ruhm 🤭"
   },
   {
-    "titel": "LOVE AT FIRST SLIDE Köln | Power Point Dating by Rausgegangen 💖",
-    "datum": "19. Okt 2026",
-    "datum_raw": "2026-10-19T19:00+0200",
-    "ort": "Bumann & SOHN, Bartholomäus-Schink-Straße 2",
-    "preis": "ab 4 €",
-    "link": "https://rausgegangen.de/events/love-at-first-slide-koln-power-point-dating-by-rausgegangen-8/",
+    "titel": "Jassin • \"Die größere Arsenalplatz Tour\" 2026",
+    "datum": "20. Okt 2026",
+    "datum_raw": "2026-10-20T19:00+0200",
+    "ort": "Live Music Hall, Lichtstraße 30",
+    "preis": "ab 45 €",
+    "link": "https://rausgegangen.de/events/jassin-die-groere-arsenalplatz-tour-2026-11/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Wir bringen mit LOVE AT FIRST SLIDE Dating auf die Bühne: Freund:innen stellen in kurzen Power Point Präsentationen ihre Lieblingssingle vor – charmant, humorvoll und ganz ohne Swipe. Nach den witzigen Pitches kannst du "
+    "teaser": "Jassin vertieft mit seinem Debüt \"Arsenalplatz\" Themen wie Herkunft und Entfremdung aus einer ostdeutschen Kleinstadtperspektive. Nach einer ausverkauften Tour 2025 geht es 2026 auf eine größere Tour durch DACH, die sein"
   },
   {
     "titel": "Rausgegangen Surprise Tickets",
-    "datum": "19. Okt 2026",
-    "datum_raw": "2026-10-19T19:00+0200",
+    "datum": "20. Okt 2026",
+    "datum_raw": "2026-10-20T19:00+0200",
     "ort": "Surprise, Surprise, Verschiedene Orte",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/rausgegangen-surprise-tickets/",
+    "preis": "ab 22 €",
+    "link": "https://rausgegangen.de/events/rausgegangen-surprise-tickets-0/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Manchmal ist die schwierigste Abendfrage nicht mit wem, sondern wohin. Genau das bleibt bei diesen Surprise Tickets offen, bis nach dem Kauf die Mail kommt, nur zwei Plätze für Köln stehen schon fest 👀"
   },
   {
-    "titel": "Kammerchor CITY & FINE VO!CEs bieten neue Plätze für 2026/27",
-    "datum": "19. Okt 2026",
-    "datum_raw": "2026-10-19T19:30+0200",
-    "ort": "Severinsviertel",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/kammerchor-city-und-fine-voces-satb-erweitern-sich-0/",
+    "titel": "LUST auf Wissen – Das queerfeministische Quiz",
+    "datum": "20. Okt 2026",
+    "datum_raw": "2026-10-20T19:00+0200",
+    "ort": "Asimmetric Bar, Venloer Straße 196",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/lust-auf-wissen-das-queerfeministische-quiz-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Unsere Kammerchöre bieten freie Plätze für ambitionierte Singende, die ihr gesangliches Hobby auf echtem Leistungsniveau betreiben möchten.  Für unser Winterprogramm und das Sommerprogramm 2027 suchen wir gezielt st"
+    "teaser": "Zwischen Kneipenquiz und sexueller Bildung liegt an dem Abend erstaunlich wenig Abstand. Mitraten können queere Menschen und Allies, der Erlös geht komplett an SOFRA, also lernst Du nicht nur was, sondern setzt auch ein "
   },
   {
-    "titel": "SCHOCK TO THE SYSTEM",
-    "datum": "19. Okt 2026",
-    "datum_raw": "2026-10-19T20:00+0200",
-    "ort": "Die hängenden Gärten von Ehrenfeld, Vogelsanger Straße 140",
-    "preis": "ab 0 €",
-    "link": "https://rausgegangen.de/events/schock-to-the-system-2/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Montag, Kneipenabend, und überall klackern Würfel über den Tisch. Schocken kriegt mehr Platz, aber niemand muss mitspielen, also kannst Du einfach auf ein Getränk vorbeikommen und gucken, wie schnell aus einer Runde fünf"
-  },
-  {
-    "titel": "Mariybu \"FRECH\"-Tour",
-    "datum": "19. Okt 2026",
-    "datum_raw": "2026-10-19T20:00+0200",
-    "ort": "Club Bahnhof Ehrenfeld, Bartholomäus-Schink-Strasse 65",
+    "titel": "Tay Oskee | LIVE",
+    "datum": "20. Okt 2026",
+    "datum_raw": "2026-10-20T19:00+0200",
+    "ort": "Stadtgarten, Venloer Straße 40",
     "preis": "ab 28 €",
-    "link": "https://rausgegangen.de/events/mariybu-frech-tour-1/",
+    "link": "https://rausgegangen.de/events/tay-oskee-live-6/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "Mariybu mischt technoiden Hyperpop mit Hardstyle und nimmt dabei die Herrenwelt aufs Korn. Mit ihrem „FRECH“-Album erwartet dich eine energiegeladene Show voller frecher Beats und bissiger Farben, die den Tanzraum auf de"
+    "teaser": "Der Name Tay Oskee steht mittlerweile als Synonym für allerbesten Feel-Good-Indie-Folk. Seine Melodien gehen tief unter die Haut, sein Katalog ist vielseitig, und das Hören seiner Songs hinterlässt ein Gefühl teils n"
   },
   {
-    "titel": "CGNYC w/ Kate Gentile",
-    "datum": "19. Okt 2026",
-    "datum_raw": "2026-10-19T20:00+0200",
-    "ort": "JAKI, Venloer Str. 40",
-    "preis": "ab 8 €",
-    "link": "https://rausgegangen.de/events/cgnyc-w-kate-gentile-0/",
+    "titel": "Born At Midnite",
+    "datum": "20. Okt 2026",
+    "datum_raw": "2026-10-20T19:15+0200",
+    "ort": "PÄFF, Friesenwall 130",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/born-at-midnite-reggie-devoyage-paff-0/",
     "quelle": "Rausgegangen Köln",
-    "teaser": "20:00 I Konzert I JAKI In der Reihe \"CGNYC - Cologne meets New York City\" lädt Florian Herzog New Yorker Musiker*innen ein, um in einem ersten Zusammentreffen mit Kölner*innen spannende Konzerte zu gestalten. Kate Gent"
+    "teaser": "Born At Midnite (Montreal) + Reggie Devoyage (Köln) live!20. Oktoberab ca. 19:26 UhrPÄFF "
+  },
+  {
+    "titel": "DON CAMILLO // Short Story Long // roughpatch",
+    "datum": "20. Okt 2026",
+    "datum_raw": "2026-10-20T19:30+0200",
+    "ort": "Tsunami Club, Im Ferkulum 9",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/don-camillo-short-shorty-long-roughpatch-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Punkrock im TSUNAMI Am Dienstag, den 20.10.2026, erwartet euch im TSUNAMI ein abwechslungsreicher Punkabend mit drei Bands aus Dresden und Köln. DON CAMILLO aus Dresden, sind das erste Mal in Köln. Sie bringen kompromi"
+  },
+  {
+    "titel": "TERRORIST*INNEN",
+    "datum": "20. Okt 2026",
+    "datum_raw": "2026-10-20T20:00+0200",
+    "ort": "Orangerie Theater im Volksgarten, Volksgartenstraße 25",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/terroristinnen-7/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Das 1000&Ein Kollektiv vereint 14 Stimmen aus Köln, die in ihrer multikulturellen und queeren Zusammensetzung mit Humor und Scharfsinn gesellschaftliche Zuschreibungen hinterfragen. Es entsteht eine Szenen-Revue, die zwi"
+  },
+  {
+    "titel": "SOME SPROUTS",
+    "datum": "20. Okt 2026",
+    "datum_raw": "2026-10-20T20:00+0200",
+    "ort": "artheater Köln, Ehrenfeldgürtel 127",
+    "preis": "ab 26 €",
+    "link": "https://rausgegangen.de/events/some-sprouts-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Zwei Jahre weg, jetzt wieder da, und genau diese Mischung aus Leichtigkeit und Melancholie scheint bei Some Sprouts noch immer der Kern zu sein. Die neuen Songs sind in einem alten Tanzsaal entstanden, während draußen ei"
+  },
+  {
+    "titel": "Des Rocs",
+    "datum": "20. Okt 2026",
+    "datum_raw": "2026-10-20T20:00+0200",
+    "ort": "GEBÄUDE 9, Deutz-Mühlheimer Straße 127",
+    "preis": "ab 38 €",
+    "link": "https://rausgegangen.de/events/des-rocs-7/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Des Rocs ist ein New Yorker in vierter Generation, der es sich zur Aufgabe gemacht hat, die glorreichen Tage des Rock wieder aufleben zu lassen. Seit seinem 2023 veröffentlichten Debüt hat er über eine halbe Milliarde"
+  },
+  {
+    "titel": "Kribbeln im Bauch Tour 2026",
+    "datum": "20. Okt 2026",
+    "datum_raw": "2026-10-20T20:00+0200",
+    "ort": "Helios 37, Heliosstraße 37",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/kribbeln-im-bauch-tour-2026-5/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Drei Namen, eine erste gemeinsame Tour, und genau daraus zieht der Abend seinen Reiz. Emil, Jorin Hagen und JHNWNDT bringen ihren Mix aus Deutschpop und Deutschrap zusammen auf die Bühne 🎟️"
+  },
+  {
+    "titel": "Malte Marten Live in Köln",
+    "datum": "20. Okt 2026",
+    "datum_raw": "2026-10-20T20:00+0200",
+    "ort": "Stadthalle Köln-Mülheim Jülich GmbH, Jan-Wellem-Straße 2",
+    "preis": "ab 49 €",
+    "link": "https://rausgegangen.de/events/malte-marten-live-in-koln-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Malte Marten Trio Live in Köln Dienstag 20. Oktober in der Stadthalle Köln   Im Oktober 2026 startet der Handpan Künstler Malte Marten gemeinsam mit dem Perkussionisten Conrado Molina und dem Multiinstrumentalisten Bu"
+  },
+  {
+    "titel": "Samora Pinderhughes",
+    "datum": "20. Okt 2026",
+    "datum_raw": "2026-10-20T20:00+0200",
+    "ort": "Kölner Philharmonie, Bischofsgartenstr. 1",
+    "preis": "ab 21 €",
+    "link": "https://rausgegangen.de/events/samora-pinderhughes-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "»Black Spring«Ein seltenes Familientreffen der US-JazzszeneMit Bob Dylan hat er nicht viel gemein, dennoch wird Samora Pinderhughes gemeinhin als Singer/Songwriter bezeichnet – nichts wäre irreführender als dies! Denn "
+  },
+  {
+    "titel": "S K U P A - Balkan Flamenco Fusion",
+    "datum": "20. Okt 2026",
+    "datum_raw": "2026-10-20T20:00+0200",
+    "ort": "Deutsch-Spanischer Kulturkreis Antonio Machado, Severinsmühlengasse 1",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/s-k-u-p-a-balkan-flamenco-fusion-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "S K U P A - Balkan Flamenco FusionDienstag, den 20. Oktober 2026 um 20 UhrMACHADOSeverinsmühlengasse 150678 KölnFreier Eintritt... aus Bremen bringen Musik aus dem osteuropäischen und spanischen Raum, stilorientiert u"
+  },
+  {
+    "titel": "Slayyyter - WOR$T GIRL IN THE WORLD TOUR",
+    "datum": "20. Okt 2026",
+    "datum_raw": "2026-10-20T20:00+0200",
+    "ort": "Die Kantine, Neusser Landstraße 2",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/slayyyter-wort-girl-in-the-world-tour-5/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Presented by Goodlive Artists"
+  },
+  {
+    "titel": "Jamie Grey - Europe 2026",
+    "datum": "20. Okt 2026",
+    "datum_raw": "2026-10-20T21:00+0200",
+    "ort": "Blue Shell, Luxemburger Straße 32",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/jamie-grey-europe-2026-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) zahlen den normalen Kartenpreis. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte."
+  },
+  {
+    "titel": "Klangreise Mittagspause",
+    "datum": "21. Okt 2026",
+    "datum_raw": "2026-10-21T13:00+0200",
+    "ort": "Ananda Köln City Center, Bismarckstraße 37",
+    "preis": "ab 15 €",
+    "link": "https://rausgegangen.de/events/klangreise-mittagspause-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Mittwochs, 13:00 Uhr · 45 Minuten · Belgisches Viertel, Köln Zwischen dem Call um 12 und dem Deadline-Sprint um 14 Uhr liegen 45 Minuten, in denen du nichts tun musst."
+  },
+  {
+    "titel": "9D Breathwork & Gong Experience (z.T. English)",
+    "datum": "21. Okt 2026",
+    "datum_raw": "2026-10-21T19:00+0200",
+    "ort": "Klangkino, Hansaring 61",
+    "preis": "ab 99 €",
+    "link": "https://rausgegangen.de/events/9d-breathwork-gong-experience-zt-english-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Premiere: 9D Breathwork (OV/English) Deep Breathwork. Deep Sound. Deep Experience.mit Gastkünstler Benny Hartmann (zertifizierter 9D Breathwork Practitioner)Die wahrscheinlich intensivste Breathwork-Session, die es gibt"
+  },
+  {
+    "titel": "Badmómzjay - Haus im Meer Tour",
+    "datum": "21. Okt 2026",
+    "datum_raw": "2026-10-21T19:00+0200",
+    "ort": "Palladium Köln, Schanzenstraße 40",
+    "preis": "ab 50 €",
+    "link": "https://rausgegangen.de/events/badmomzjay-haus-im-meer-tour-9/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Badmómzjay gehört im deutschsprachigen Rap längst zu den Stimmen, die mit klarer Haltung, eigenem Stil und internationalen Einflüssen ihren Platz markiert haben. Jetzt kommt sie mit neuer Musik und dem Album Haus im Meer"
+  },
+  {
+    "titel": "Il Civetto /// Album Tour 2026",
+    "datum": "21. Okt 2026",
+    "datum_raw": "2026-10-21T19:00+0200",
+    "ort": "E-Werk Köln, Schanzenstraße 37",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/il-civetto-album-tour-2026-10/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Il Civetto kehren mit ihrem fünften Album und einer kraftvollen Mischung aus tanzbarem Indie-Pop und melacholischer Tiefe zurück. Die Band verbindet ihre jahrelange Festivalerfahrung mit einer klaren Haltung und lädt dic"
+  },
+  {
+    "titel": "Jules Ahoi | Robinson Crusoe – Abschiedstournee 2026",
+    "datum": "21. Okt 2026",
+    "datum_raw": "2026-10-21T19:00+0200",
+    "ort": "Kulturkirche Köln, Siebachstraße 85",
+    "preis": "ab 39 €",
+    "link": "https://rausgegangen.de/events/jules-ahoi-robinson-crusoe-abschiedstournee-2026-3/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Nach zehn erfolgreichen Jahren verabschiedet sich der Musiker und Songwriter Jules Ahoi von Bühne und Publikum. Mit der kommenden „ROBINSON CRUSOE – Abschiedstournee“ geht er 2026 ein letztes Mal auf Tour, um gemeinsam "
+  },
+  {
+    "titel": "Korn",
+    "datum": "21. Okt 2026",
+    "datum_raw": "2026-10-21T19:00+0200",
+    "ort": "Lanxess Arena, Willy-Brandt-Platz 3",
+    "preis": "ab 80 €",
+    "link": "https://rausgegangen.de/events/korn-35/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die mehrfach mit dem Grammy ausgezeichnete Metal-Band Korn kommt am Mittwoch, den 21.10.2026, im Rahmen ihrer EURO TOUR 2026 in die LANXESS arena nach Köln-Deutz. Zusammen mit den Special Guests Architects und dem Openi"
+  },
+  {
+    "titel": "Music Pub Quiz in der Braustelle",
+    "datum": "21. Okt 2026",
+    "datum_raw": "2026-10-21T19:00+0200",
+    "ort": "Braustelle, Christianstraße 2",
+    "preis": "ab 6 €",
+    "link": "https://rausgegangen.de/events/music-pub-quiz-in-der-braustelle-11/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Konzertfeeling, Quizspaß und frisches Brauerei-Bier – beim Musikquiz wird Livemusik mit kniffligen Fragen gemixt. Team schnappen, mitraten und los geht's🎲"
+  },
+  {
+    "titel": "SPINESHANK + (HED) P.E.",
+    "datum": "21. Okt 2026",
+    "datum_raw": "2026-10-21T19:00+0200",
+    "ort": "Luxor, Luxemburger Straße 40",
+    "preis": "ab 32 €",
+    "link": "https://rausgegangen.de/events/spineshank-hed-pe-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Spineshank & (hed) P.E.: Zwei Cali-Legenden auf Doppel-Headline-Tour!  Im Oktober 2026 live in fünf deutschen Städten  Gleich zwei Legenden des Crossover und NuMetal, deren Beginn bis in die 1990er zurück reicht, komm"
+  },
+  {
+    "titel": "Walk Off the Earth",
+    "datum": "21. Okt 2026",
+    "datum_raw": "2026-10-21T19:00+0200",
+    "ort": "Carlswerk Victoria, Schanzenstraße 6-20",
+    "preis": "ab 56 €",
+    "link": "https://rausgegangen.de/events/walk-off-the-earth-11/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Walk off the Earth ist eine mit zwei Juno Awards ausgezeichnete Multi-Platin-Band, die für ihre mitreißende Eigenkompositionen, einfallsreichen Neuinterpretationen und ihre charakteristischen Videos, in denen fünf Musi"
+  },
+  {
+    "titel": "Gert Kapo Quartett - Albanian Memories",
+    "datum": "21. Okt 2026",
+    "datum_raw": "2026-10-21T19:30+0200",
+    "ort": "DOMFORUM, Domkloster 3",
+    "preis": "ab 0 €",
+    "link": "https://rausgegangen.de/events/gert-kapo-quartett-albanian-memories-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Schon als ganz junger Pianist konzertierte der Spross einer albanischen Musikerfamilie als Solist im Opernhaus von Tirana. Im Alter von 16 Jahren begann er sein Studium für Klassisches Klavier an der Hochschule für Mus"
+  },
+  {
+    "titel": "Indefinite Summer im Stereo Wonderland",
+    "datum": "21. Okt 2026",
+    "datum_raw": "2026-10-21T19:30+0200",
+    "ort": "Stereo Wonderland, Trierer Straße 65",
+    "preis": "ab 5 €",
+    "link": "https://rausgegangen.de/events/indefinite-summer-im-stereo-wonderland-1/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Eigentlich wollten wir nur ein bisschen Musik machen.  Während wir im Proberaum darüber diskutiert haben, ob das neue Strokes-Album gut oder scheiße ist (iykyk), haben wir tatsächlich auch ein paar gute Songs zusammen"
+  },
+  {
+    "titel": "And So I Watch You From Afar & Caspian",
+    "datum": "21. Okt 2026",
+    "datum_raw": "2026-10-21T20:00+0200",
+    "ort": "GEBÄUDE 9, Deutz-Mühlheimer Straße 127",
+    "preis": "ab 33 €",
+    "link": "https://rausgegangen.de/events/and-so-i-watch-you-from-afar-9/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Mit der irischen Band And So I Watch You From Afar und ihren US-Kollegen Caspian kommt ein Instrumentales Post-Rock Doppel auf Tournee, das für pure Spielfreude und überwältigende Live-Qualitäten steht und über eine"
+  },
+  {
+    "titel": "Beyond The Roots LARGE ENSEMBLE – Blessings",
+    "datum": "21. Okt 2026",
+    "datum_raw": "2026-10-21T20:00+0200",
+    "ort": "Alte Feuerwache Köln, Melchiorstraße 3",
+    "preis": "ab 14 €",
+    "link": "https://rausgegangen.de/events/beyond-the-roots-large-ensemble-blessings-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wie weit lässt sich musikalische Identität denken – und was eröffnet sich jenseits ihrer Wurzeln? Das Beyond the Roots Large Ensemble widmet sich seit Jahren genau dieser Frage. In seinem transkulturellen Klangkosmos "
+  },
+  {
+    "titel": "Bossarenova Trio live im Alten Pfandhaus Köln",
+    "datum": "21. Okt 2026",
+    "datum_raw": "2026-10-21T20:00+0200",
+    "ort": "Altes Pfandhaus, Kartäuserwall 20",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/bossarenova-trio-live-im-alten-pfandhaus-koln-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "In Rio de Janeiro und Berlin haben Paula Morelenbaum, Joo Kraus and Ralf Schmid ihr neues Album produziert, dies- und jenseits des “Oceano Atlântico”. Nach den melancholischen Sphären ihrer ersten Produktion “Samba Pre"
+  },
+  {
+    "titel": "Gordi",
+    "datum": "21. Okt 2026",
+    "datum_raw": "2026-10-21T20:00+0200",
+    "ort": "YUCA, Bartholomäus-Schink-Straße 65",
+    "preis": "ab 30 €",
+    "link": "https://rausgegangen.de/events/gordi-2/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Gordi mischt reduzierte Indie-Folk-Klänge mit ehrlichem Songwriting, das direkt unter die Haut geht. Ihre aktuelle EP Nylon entstand live an einem Nachmittag – unverfälscht und nahbar. Freu dich auf einen Abend voller wa"
+  },
+  {
+    "titel": "Il Civetto - Album Tour 2026",
+    "datum": "21. Okt 2026",
+    "datum_raw": "2026-10-21T20:00+0200",
+    "ort": "E-Werk Köln, Schanzenstraße 37",
+    "preis": "ab 46 €",
+    "link": "https://rausgegangen.de/events/il-civetto-album-tour-2026-0/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Einlass: 19:00 Uhr unbestuhlt  /// Mit ,,du bist schön\" läuten Il Civetto eine neue Ära ein und kündigen ihre bisher größte Albumtour an!  Nach ihrer letzten Headline-Tour im Jahr 2024 kehren Il Civetto im Frühjahr"
+  },
+  {
+    "titel": "Jörg Achim Keller King Georg 12",
+    "datum": "21. Okt 2026",
+    "datum_raw": "2026-10-21T20:00+0200",
+    "ort": "King Georg, Sudermanstraße 2",
+    "preis": "ab 24 €",
+    "link": "https://rausgegangen.de/events/jorg-achim-keller-king-georg-12-36/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Die King Georg BigbandHeinz Dieter Sauerborn, Paul Heller, Andi Maile (Saxofone), Wim Both, Ruud Breuls (Trompeten), Günter Bollmann, Uli Plettendorff (Posaunen), Jürgen Neudert (Tenorhorn), Tobias Herzog (Tuba), Ingo "
+  },
+  {
+    "titel": "Klaus Hoffmann",
+    "datum": "21. Okt 2026",
+    "datum_raw": "2026-10-21T20:00+0200",
+    "ort": "Café GLORIA, Apostelnstraße 11",
+    "preis": "ab 56 €",
+    "link": "https://rausgegangen.de/events/klaus-hoffmann-30/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Über 50 Jahre Bühnenarbeit als Schauspieler und Sänger. Klaus Hoffmann veröffentlichte am 28.11.2025 sein 51. Album „Ich bin“ und geht damit auf Deutschlandreise.Die Lieder der neuen CD werden live vorgetragen. Daneb"
+  },
+  {
+    "titel": "Latin & Salsa Session",
+    "datum": "21. Okt 2026",
+    "datum_raw": "2026-10-21T20:00+0200",
+    "ort": "artheater Köln, Ehrenfeldgürtel 127",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/latin-salsa-session-33/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Bei der Latin & Salsa Session kommen Musiker:innen aus Köln zusammen, um kubanische und kolumbianische Rhythmen lebendig werden zu lassen. Die Band Marcando eröffnet den Abend mit ihrem präzisen und mitreißenden Sound. E"
   }
 ]
