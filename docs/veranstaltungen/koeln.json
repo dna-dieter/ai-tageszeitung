@@ -30,16 +30,6 @@
     "teaser": "Geld verschwindet ja gern in Richtungen, in die man sonst nicht mitgeht. Dieser Audiowalk folgt in Köln dem Reichtum und läuft selbstständig mit Handy, Kopfhörern und Internet 👀"
   },
   {
-    "titel": "Punsch & Pumpkin 🎃",
-    "datum": "21. Okt 2026",
-    "datum_raw": "2026-10-21T18:00+0200",
-    "ort": "Social Studio Köln, Friedrichstraße 63",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/punsch-pumpkin-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Mittwoch, draußen wird es früh dunkel und drinnen liegt ein Kürbis vor Dir, den Du selbst bearbeitest. Dazu gibt es Tee oder alkoholfreien Punsch, eher ruhige Runde als Halloween Trubel 😌"
-  },
-  {
     "titel": "Wizard Spieleabend",
     "datum": "21. Okt 2026",
     "datum_raw": "2026-10-21T18:00+0200",
@@ -64,7 +54,7 @@
     "datum": "21. Okt 2026",
     "datum_raw": "2026-10-21T19:00+0200",
     "ort": "Surprise, Surprise, Verschiedene Orte",
-    "preis": "ab 22 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/rausgegangen-surprise-tickets-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Manchmal ist die schwierigste Abendfrage nicht mit wem, sondern wohin. Genau das bleibt bei diesen Surprise Tickets offen, bis nach dem Kauf die Mail kommt, nur zwei Plätze für Köln stehen schon fest 👀"
@@ -84,10 +74,20 @@
     "datum": "21. Okt 2026",
     "datum_raw": "2026-10-21T20:00+0200",
     "ort": "Garagen Club Köln, Oskar-Jäger-Straße 179",
-    "preis": "ab 7 €",
+    "preis": "kostenlos",
     "link": "https://rausgegangen.de/events/technoliebe-afterworkedition-1/",
     "quelle": "Rausgegangen Köln",
     "teaser": "Nach Feierabend nicht nach Hause, sondern direkt in VOL. 50 von Technoliebe. Zur Afterworkedition stehen RGB, MiGUEL PANZER und Björn Nimmich am Pult 🪩"
+  },
+  {
+    "titel": "FRIENDS FAN QUIZ",
+    "datum": "21. Okt 2026",
+    "datum_raw": "2026-10-21T20:00+0200",
+    "ort": "PÄFF, Friesenwall 130",
+    "preis": "kostenlos",
+    "link": "https://rausgegangen.de/events/friends-fan-quiz-4/",
+    "quelle": "Rausgegangen Köln",
+    "teaser": "Wenn du weißt, warum „Pivot!!!“ Kult ist und Joeys Geschwisterzahl auswendig kannst, bist du hier goldrichtig. Beim Friends Fan Quiz erwarten dich 36 Fragen rund um die legendären Momente der sechs Freunde aus New York u"
   },
   {
     "titel": "Comedy Frischgezapft",
