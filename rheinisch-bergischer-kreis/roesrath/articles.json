@@ -144,7 +144,10 @@
       "roesrath",
       "bergisch-gladbach"
     ],
-    "fetched": "2026-07-07T12:07:19.856294"
+    "fetched": "2026-07-07T12:07:19.856294",
+    "feed_kommunen": [
+      "bergisch-gladbach"
+    ]
   },
   {
     "id": "1485e6882f29",
