@@ -68,6 +68,7 @@ footer a { color: #85C1E9; }
 .monat-header:first-child { margin-top: 0; }
 .monat-count { background: var(--rbk-blau); color: white; font-size: 0.72rem; padding: 1px 8px; border-radius: 10px; font-weight: 400; }
 .btn-refresh { display: inline-flex; align-items: center; gap: 5px; font-family: sans-serif; font-size: 0.78rem; padding: 5px 14px; background: #2ECC71; color: white; border: none; border-radius: 4px; text-decoration: none; cursor: pointer; transition: background 0.2s; margin-top: 4px; }
+.btn-refresh[hidden], .refresh-status[hidden] { display: none; }
 .btn-refresh:hover { background: #27AE60; color: white; }
 .btn-refresh:disabled, .btn-refresh.loading { background: #95A5A6; cursor: wait; opacity: 0.8; }
 .btn-refresh .spinner { display: inline-block; width: 10px; height: 10px; border: 2px solid rgba(255,255,255,0.3); border-top-color: white; border-radius: 50%; animation: spin 0.8s linear infinite; }
@@ -92,8 +93,8 @@ footer a { color: #85C1E9; }
   </div>
   <div class="meta">
     <div><span class="live-dot"></span>Stündlich aktualisiert</div>
-    <div>22.10.2026, 21:27</div>
-    <button type="button" onclick="triggerRefresh()" class="btn-refresh" id="btn-refresh">&#x21bb; Jetzt aktualisieren</button>
+    <div>22.10.2026, 22:19 Uhr</div>
+    <button type="button" onclick="triggerRefresh()" class="btn-refresh" id="btn-refresh" hidden>&#x21bb; Jetzt aktualisieren</button>
     <div class="refresh-status" id="refresh-status"></div>
   </div>
 </header>
@@ -102,328 +103,340 @@ footer a { color: #85C1E9; }
 <main>
 <div class="grid">
   <div><div class="monat-gruppe">
-<h2 class="monat-header">Oktober 2026 <span class="monat-count">325</span></h2>
+<h2 class="monat-header">Oktober 2026 <span class="monat-count">323</span></h2>
 <div class="artikel">
   <div class="tagline"><span class="tag">kreisweite-nachrichten</span></div>
   <h2><a href="https://www.ksta.de/region/rhein-berg/bergisch-gladbach/sicherheitsluecke-serviceportale-in-rhein-berg-bleiben-offline-1401238" target="_blank" rel="noopener">Vorsichtsmaßnahme: Sicherheitslücke: Serviceportale in Rhein-Berg bleiben offline</a></h2>
   <div class="teaser">Im Rheinisch-Bergischen Kreis bleiben Serviceportale vorerst offline – ein Wiederstart-Termin fehlt noch.</div>
-  <div class="info">Thu, 22 Oct 2026 17:21:18 · Kölner Stadt-Anzeiger Rhein-Berg</div>
+  <div class="info">22.10.2026, 17:21 Uhr · Kölner Stadt-Anzeiger Rhein-Berg</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">kreisweite-nachrichten</span></div>
   <h2><a href="https://www.ksta.de/region/rhein-berg/bergisch-gladbach/rhein-berg-prueft-legale-mountainbike-strecken-im-wald-1401229" target="_blank" rel="noopener">Mountainbike: Rhein-Berg prüft legale Mountainbike-Strecken im Wald</a></h2>
   <div class="teaser">Wald und Holz NRW und der Kreis prüfen, ob sich Mountainbiker auf eigene Strecken lenken lassen.</div>
-  <div class="info">Thu, 22 Oct 2026 17:15:21 · Kölner Stadt-Anzeiger Rhein-Berg</div>
+  <div class="info">22.10.2026, 17:15 Uhr · Kölner Stadt-Anzeiger Rhein-Berg</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Wermelskirchen</span></div>
   <h2><a href="https://www.ksta.de/region/rhein-berg/bergisch-gladbach/wermelskirchen-soll-testfeld-fuer-schwammwald-werden-1401224" target="_blank" rel="noopener">Klimaresiliente Wälder: Wermelskirchen soll Testfeld für Schwammwald werden</a></h2>
   <div class="teaser">Der Kreis gibt 20.000 Euro für „Wald.Berg“ frei, doch ob die Förderung für das 200.000-Euro-Projekt kommt, ist offen.</div>
-  <div class="info">Thu, 22 Oct 2026 17:10:37 · Kölner Stadt-Anzeiger Rhein-Berg</div>
+  <div class="info">22.10.2026, 17:10 Uhr · Kölner Stadt-Anzeiger Rhein-Berg</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">kreisweite-nachrichten</span><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/22/e-scooter-fahrer-verletzt-marktkoch-schwer/" target="_blank" rel="noopener">E-Scooter-Fahrer verletzt Marktkoch schwer</a></h2>
   <div class="teaser">Beim Aufbau seiner Gulaschkanone auf dem Wochenmarkt ist Oliver Krause von einem Elektro-Roller-Fahrer erst umgefahren und dann mit Schlägen verletzt worden. Seit Monaten warnen Markt-Händler vor gefährlichen Situationen, die von Personen ausgehen, d</div>
-  <div class="info">Thu, 22 Oct 2026 14:15:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">22.10.2026, 16:15 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Bergisch Gladbach</span><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/22/brueckenbauerin-bergisch-gladbach-trauert-um-sabine-becker/" target="_blank" rel="noopener">Brückenbauerin: Bergisch Gladbach trauert um Sabine Becker</a></h2>
   <div class="teaser">Die Stadt Bergisch Gladbach nimmt Abschied von Sabine Becker, die am 6. Oktober nach langer schwerer Krankheit verstorben ist. Mit ihr verliert die Stadt eine außergewöhnlich engagierte Bürgerin, die sich über Jahrzehnte mit großer Leidenschaft für F</div>
-  <div class="info">Thu, 22 Oct 2026 13:55:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">22.10.2026, 15:55 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Bergisch Gladbach</span><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/22/rheinberg-galerie-erhaelt-neues-management/" target="_blank" rel="noopener">RheinBerg Galerie erhält neues Management</a></h2>
   <div class="teaser">Die Eigentümer des Bergisch Gladbacher Einkaufszentrums wechseln den Betreiber: Nach elf Jahren scheidet Apleona zum Jahresende aus, die HBB Centermanagement GmbH &amp; Co. KG aus Hamburg übernimmt das Management der Rheinberg Galerie.</div>
-  <div class="info">Thu, 22 Oct 2026 13:50:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">22.10.2026, 15:50 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Bergisch Gladbach</span><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/22/digitale-dienste-der-stadt-eingeschraenkt/" target="_blank" rel="noopener">Digitale Dienste der Stadt eingeschränkt</a></h2>
   <div class="teaser">Die Sicherheitslücken im Internet haben nun doch auch bei der Stadt Bergisch Gladbach zu Abschaltungen geführt. Das Serviceportal ist nicht erreichbar, die Onlinebuchungen der Volkshochschule funktionieren nicht und auch die Webseite der Feuerwehr is</div>
-  <div class="info">Thu, 22 Oct 2026 13:47:40 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">22.10.2026, 15:47 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Bergisch Gladbach, Odenthal</span></div>
   <h2><a href="http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52835" target="_blank" rel="noopener">Bergisch Gladbach trauert um Sabine Becker – eine Brückenbauerin der Völkerverständigung</a></h2>
   <div class="teaser">Gemeinsam mit ihrem Ehemann Axel Becker gehörte Sabine Becker zu den maßgeblichen Wegbereitern der Städtepartnerschaft zwischen Bergisch Gladbach und der palästinensischen Stadt Beit Jala. Seit den ersten Kontakten im Jahr 2002 setzte sich das Ehepaa</div>
-  <div class="info">2026-10-22 13:45:03 · Stadt Bergisch Gladbach (offiziell)</div>
+  <div class="info">22.10.2026, 13:45 Uhr · Stadt Bergisch Gladbach (offiziell)</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Burscheid</span></div>
   <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/burscheid-stadt-bleibt-trotz-php-sicherheitsluecke-online-updates-rechtzeitig-PKCSX2CIWBE5HJ4NAVBJBYZASQ.html" target="_blank" rel="noopener">Burscheid: Stadt bleibt trotz PHP-Sicherheitslücke online – Updates rechtzeitig</a></h2>
   <div class="teaser">Nach einer schweren Sicherheitslücke in der Programmiersprache PHP fahren erste Websites in der Region wieder hoch. Die Stadt Burscheid blieb online, weil ihr Dienstleister Updates rechtzeitig einspielte. Einige städtische Online-Services bleiben vor</div>
-  <div class="info">Thu, 22 Oct 2026 11:39:07 · RGA Burscheid</div>
+  <div class="info">22.10.2026, 11:39 Uhr · RGA Burscheid</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Wermelskirchen</span></div>
   <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/das-letzte-mal-koelsche-toen-bei-tura-pohlhausen-in-wermelskirchen-KUBUQM7EKJH7JG7M2FUVZTDZAE.html" target="_blank" rel="noopener">Das letzte Mal &quot;kölsche Tön&#x27;&quot; bei Tura Pohlhausen in Wermelskirchen</a></h2>
   <div class="teaser">Der Organisator hört auf und somit endet am Silberberg in Wermelskirchen eine Ära - mit einer großen Party am 13. November. So ganz hat Tura-Sprecher Dirk Hohlmann die Hoffnung auf eine Fortsetzung aber noch nicht aufgegeben.</div>
-  <div class="info">Thu, 22 Oct 2026 09:49:05 · RGA Wermelskirchen</div>
-</div>
-<div class="artikel">
-  <div class="tagline"><span class="tag">Bergisch Gladbach</span></div>
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/62459/6375801" target="_blank" rel="noopener">POL-RBK: Bergisch Gladbach - 29-Jähriger nach Ladendiebstahl vorläufig festgenommen</a></h2>
-  <div class="teaser">Bergisch Gladbach (ots) - Ein 29-Jähriger wurde am Mittwoch (21.10.) vorläufig festgenommen, nachdem er aus einem Supermarkt am Refrather Weg mehrere Gegenstände entwendet hatte. Der Ladendetektiv des Lebensmittelgeschäftes konnte anhand der ...</div>
-  <div class="info">Thu, 22 Oct 2026 08:53:18 · Presseportal Polizei RBK</div>
-</div>
-<div class="artikel">
-  <div class="tagline"><span class="tag">Bergisch Gladbach</span></div>
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/62459/6375798" target="_blank" rel="noopener">POL-RBK: Bergisch Gladbach - Wohnmobil aufgebrochen</a></h2>
-  <div class="teaser">Bergisch Gladbach (ots) - Unbekannte haben ein Wohnmobil im Stadtteil Frankenforst aufgebrochen. Die Polizei bittet um Zeugenhinweise. Gestern Vormittag (21.10.), gegen 11:15 Uhr, stieg die Besitzerin in ihr Wohnmobil, das in der Rathenaustraße ...</div>
-  <div class="info">Thu, 22 Oct 2026 08:50:26 · Presseportal Polizei RBK</div>
-</div>
-<div class="artikel">
-  <div class="tagline"><span class="tag">Wermelskirchen</span></div>
-  <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/100-zaehlschein-aktion-in-wermelskirchen-startet-CLZEDNBVOAQGWZUF4H3YC5AZJQ.html" target="_blank" rel="noopener">100. Zählschein-Aktion in Wermelskirchen startet</a></h2>
-  <div class="teaser">Zu „Wermelskirchen à la carte“ beginnt die diesjährige Zählschein-Aktion. Die ersten Lose werden am verkaufsoffenen Sonntag, 25. Oktober, ausgegeben.</div>
-  <div class="info">Thu, 22 Oct 2026 08:15:00 · RGA Wermelskirchen</div>
+  <div class="info">22.10.2026, 09:49 Uhr · RGA Wermelskirchen</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">kreisweite-nachrichten</span><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/22/spendensammlung-fuer-volksbund-gestartet/" target="_blank" rel="noopener">Spendensammlung für Volksbund gestartet</a></h2>
   <div class="teaser">Gemeinsam für Erinnerung und Frieden: Der Volksbund Deutsche Kriegsgräberfürsorge (VdK) pflegt Grabstätten von Kriegstoten und setzt sich für internationale Verständigung ein. Bis Dezember sammelt der Volksbund Spenden für seine Arbeit und Bildungspr</div>
-  <div class="info">Thu, 22 Oct 2026 07:41:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">22.10.2026, 09:41 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
-  <div class="tagline"><span class="tag">Wermelskirchen</span></div>
-  <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/ich-habe-abschied-genommen-LUUDPCM7VTO7AR2LYHO45Z735A.html" target="_blank" rel="noopener">„Ich habe Abschied genommen“</a></h2>
-  <div class="teaser">Sven Schulte nimmt auf dem Rhombus-Gelände Abschied von einer Fabrik und einem Stück Familiengeschichte. Den nächsten großen Abrissschritt will er persönlich eröffnen – an der großen Baggerzange.</div>
-  <div class="info">Thu, 22 Oct 2026 07:20:00 · RGA Wermelskirchen</div>
+  <div class="tagline"><span class="tag">Bergisch Gladbach</span></div>
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/62459/6375801" target="_blank" rel="noopener">POL-RBK: Bergisch Gladbach - 29-Jähriger nach Ladendiebstahl vorläufig festgenommen</a></h2>
+  <div class="teaser">Bergisch Gladbach (ots) - Ein 29-Jähriger wurde am Mittwoch (21.10.) vorläufig festgenommen, nachdem er aus einem Supermarkt am Refrather Weg mehrere Gegenstände entwendet hatte. Der Ladendetektiv des Lebensmittelgeschäftes konnte anhand der ...</div>
+  <div class="info">22.10.2026, 08:53 Uhr · Presseportal Polizei RBK</div>
+</div>
+<div class="artikel">
+  <div class="tagline"><span class="tag">Bergisch Gladbach</span></div>
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/62459/6375798" target="_blank" rel="noopener">POL-RBK: Bergisch Gladbach - Wohnmobil aufgebrochen</a></h2>
+  <div class="teaser">Bergisch Gladbach (ots) - Unbekannte haben ein Wohnmobil im Stadtteil Frankenforst aufgebrochen. Die Polizei bittet um Zeugenhinweise. Gestern Vormittag (21.10.), gegen 11:15 Uhr, stieg die Besitzerin in ihr Wohnmobil, das in der Rathenaustraße ...</div>
+  <div class="info">22.10.2026, 08:50 Uhr · Presseportal Polizei RBK</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Bergisch Gladbach</span><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/22/reha-vor-pflege-30-jahre-geriatrisches-zentrum-reuterstrasse/" target="_blank" rel="noopener">Reha vor Pflege: 30 Jahre Geriatrisches Zentrum Reuterstraße</a></h2>
   <div class="teaser">1996 ist die Reha-Einrichtung an der Reuterstraße in Bergisch Gladbach als Modellprojekt des Landes NRW gestartet. Ziel war und ist es, ältere Menschen nach einer schweren Erkrankung dabei zu unterstützen, ihren Alltag wieder selbstbestimmt zu gestal</div>
-  <div class="info">Thu, 22 Oct 2026 06:28:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">22.10.2026, 08:28 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
+</div>
+<div class="artikel">
+  <div class="tagline"><span class="tag">Wermelskirchen</span></div>
+  <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/100-zaehlschein-aktion-in-wermelskirchen-startet-CLZEDNBVOAQGWZUF4H3YC5AZJQ.html" target="_blank" rel="noopener">100. Zählschein-Aktion in Wermelskirchen startet</a></h2>
+  <div class="teaser">Zu „Wermelskirchen à la carte“ beginnt die diesjährige Zählschein-Aktion. Die ersten Lose werden am verkaufsoffenen Sonntag, 25. Oktober, ausgegeben.</div>
+  <div class="info">22.10.2026, 08:15 Uhr · RGA Wermelskirchen</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">kreisweite-nachrichten</span><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/22/jonathan-ufer-wird-co-fraktionschef-der-gruenen/" target="_blank" rel="noopener">Jonathan Ufer wird Co-Fraktionschef der Grünen</a></h2>
   <div class="teaser">David Kirch hat sein Ratsmandat und damit auch den Co-Fraktionsvorsitz der Grünen zurückgegeben. Damit gibt es eine Reihe von Umbesetzungen.</div>
-  <div class="info">Thu, 22 Oct 2026 05:46:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">22.10.2026, 07:46 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
+</div>
+<div class="artikel">
+  <div class="tagline"><span class="tag">Wermelskirchen</span></div>
+  <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/ich-habe-abschied-genommen-LUUDPCM7VTO7AR2LYHO45Z735A.html" target="_blank" rel="noopener">„Ich habe Abschied genommen“</a></h2>
+  <div class="teaser">Sven Schulte nimmt auf dem Rhombus-Gelände Abschied von einer Fabrik und einem Stück Familiengeschichte. Den nächsten großen Abrissschritt will er persönlich eröffnen – an der großen Baggerzange.</div>
+  <div class="info">22.10.2026, 07:20 Uhr · RGA Wermelskirchen</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Burscheid</span></div>
   <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/kostenlose-solarberatung-in-burscheid-ehrenamtliche-helfen-bei-photovoltaik-5C2ZTJDWK5HIXDWOXNLBGI6B4Y.html" target="_blank" rel="noopener">Kostenlose Solarberatung in Burscheid – Ehrenamtliche helfen bei Photovoltaik</a></h2>
   <div class="teaser">Wer in Burscheid über eine Solaranlage nachdenkt, kann sich jetzt ehrenamtlich beraten lassen. Eine Gruppe geschulter Bürger gibt ihre Erfahrungen weiter und beantwortet Fragen zur Umsetzung. Außerdem werden neue Ehrenamtliche gesucht.</div>
-  <div class="info">Thu, 22 Oct 2026 05:00:00 · RGA Burscheid</div>
+  <div class="info">22.10.2026, 05:00 Uhr · RGA Burscheid</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">kreisweite-nachrichten</span><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/22/erbschaftsteuer-bei-immobilien-warum-die-bewertung-oft-zu-hoch-ausfaellt-und-was-erben-tun-koennen/" target="_blank" rel="noopener">Erbschaftsteuer bei Immobilien: Warum die Bewertung oft zu hoch ausfällt und was Erben tun können</a></h2>
   <div class="teaser">Tatsächlich zeigt die Praxis, dass die vom Finanzamt festgestellten Werte nicht immer dem tatsächlichen Marktwert entsprechen. Gerade bei älteren Immobilien oder Objekten in ländlichen Regionen können erhebliche Abweichungen entstehen. Für Erben kann</div>
-  <div class="info">Thu, 22 Oct 2026 02:59:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">22.10.2026, 04:59 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">kreisweite-nachrichten</span><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/22/kreissportbund-wuerdigt-sportler-und-uebungsleiter/" target="_blank" rel="noopener">Kreissportbund würdigt Sportler und Übungsleiter</a></h2>
   <div class="teaser">Ausdauer, Verlässlichkeit und jahrzehntelange Verbundenheit mit dem Sport standen im Mittelpunkt der Sportabzeichen- und Übungsleiter-Ehrung des Kreissportbundes Rheinisch-Bergischer Kreis. Einige langjährige Aktive haben das Abzeichen bereits 55 mal</div>
-  <div class="info">Thu, 22 Oct 2026 01:15:41 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">22.10.2026, 03:15 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Bergisch Gladbach</span><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/21/sicherheitsluecke-stadt-prueft-eigene-digitale-systeme/" target="_blank" rel="noopener">Sicherheitslücke: Stadt prüft eigene digitale Systeme</a></h2>
   <div class="teaser">Weltweit beschäftigt eine kritische Sicherheitslücke im Internet die IT-Verantwortlichen. Auch die Stadt Bergisch Gladbach prüft ihre Systeme und erforderliche Schutzmaßnahmen. Eine Einschränkung oder gar Abschaltung der Dienste sei möglich - bedeute</div>
-  <div class="info">Wed, 21 Oct 2026 17:51:43 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">21.10.2026, 19:51 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Bergisch Gladbach</span><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/21/erster-sportlicher-jugendaustausch-zwischen-bergisch-gladbach-und-staines/" target="_blank" rel="noopener">Erster sportlicher Jugendaustausch zwischen Bergisch Gladbach und Staines</a></h2>
   <div class="teaser">Nach monatelanger Vorbereitung mit unzähligen Videocalls, Telefonaten, Mails und Nachrichten besuchte eine britische U14 Jungen-Hockey-Mannschaft den THC RW Bergisch Gladbach im Rahmen der Städtepartnerschaft.</div>
-  <div class="info">Wed, 21 Oct 2026 17:01:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">21.10.2026, 19:01 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Bergisch Gladbach</span><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/21/badminton-dortelweil-kommt-mit-europaeischen-stars-nach-refrath/" target="_blank" rel="noopener">Badminton: Dortelweil kommt mit europäischen Stars nach Refrath</a></h2>
   <div class="teaser">Am Sonntag spielt eins der beiden Top-Teams der Bundesliga gegen die 1. Mannschaft des TV Refrath. Der Dortelweil SV Fun-Ball kommt mit europäischen Stars aus Hessen nach Refrath; er wurde 2024 und 2025 Deutscher Meister. Die zweite Mannschaft tritt </div>
-  <div class="info">Wed, 21 Oct 2026 17:01:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">21.10.2026, 19:01 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">kreisweite-nachrichten</span><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/21/terre-des-hommes-laedt-zum-grossen-kunstbasar-ein/" target="_blank" rel="noopener">Terre des Hommes lädt zum großen Kunstbasar ein</a></h2>
   <div class="teaser">Mitte November findet im Bürgerhaus Bergischer Löwe der Terre des Hommes-Kunstbasar statt. Neben vielfältigen Produkten gibt es Unterhaltung, was zum Naschen und viele weitere Mitmachangebote. Der Reinerlös kommt der Kinderrechtsorganisation Terre de</div>
-  <div class="info">Wed, 21 Oct 2026 17:01:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">21.10.2026, 19:01 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Wermelskirchen</span></div>
   <h2><a href="https://www.ksta.de/region/rhein-berg/kuerten/grosse-dhuenn-talsperre-nur-noch-zu-34-prozent-gefuellt-1400377" target="_blank" rel="noopener">Trinkwassertalsperre: Große Dhünn-Talsperre nur noch zu 34 Prozent gefüllt</a></h2>
   <div class="teaser">Anhaltende Trockenheit hat den Vorrat deutlich schrumpfen lassen: Der Wupperverband schont das Wasser seit März.</div>
-  <div class="info">Wed, 21 Oct 2026 15:32:16 · Kölner Stadt-Anzeiger Rhein-Berg</div>
+  <div class="info">21.10.2026, 15:32 Uhr · Kölner Stadt-Anzeiger Rhein-Berg</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Wermelskirchen</span></div>
   <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/wermelskirchener-haendler-baut-eine-winterwelt-mitten-in-der-stadt-GPPQBMWRDVEMXJHYXRVI5SWHNY.html" target="_blank" rel="noopener">Wermelskirchener Händler baut eine Winterwelt mitten in der Stadt</a></h2>
   <div class="teaser">Jörg Michels von der Anzugskultur hat sich wieder etwas Besonderes einfallen lassen, was die Gäste vor allem am verkaufsoffenen Sonntag, aber auch an jedem anderen Tag in der Vorweihnachtszeit bestaunen können. Es blinkt und blitzt jedenfalls schon g</div>
-  <div class="info">Wed, 21 Oct 2026 15:30:00 · RGA Wermelskirchen</div>
+  <div class="info">21.10.2026, 15:30 Uhr · RGA Wermelskirchen</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Bergisch Gladbach</span></div>
   <h2><a href="https://www.ksta.de/region/rhein-berg/bergisch-gladbach/projekte-gegen-hitze-bergisch-gladbach-macht-city-hitzefest-1400371" target="_blank" rel="noopener">Stadtgestaltung: Projekte gegen Hitze: Bergisch Gladbach macht City hitzefest</a></h2>
   <div class="teaser">Die Verwaltung bündelt drei Projekte für die Hauptstraße.</div>
-  <div class="info">Wed, 21 Oct 2026 15:26:59 · Kölner Stadt-Anzeiger Rhein-Berg</div>
+  <div class="info">21.10.2026, 15:26 Uhr · Kölner Stadt-Anzeiger Rhein-Berg</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">kreisweite-nachrichten</span></div>
   <h2><a href="https://www.ksta.de/region/rhein-berg/ranger-in-rhein-berg-unterwegs-zwischen-muellsuendern-und-radrowdies-1400364" target="_blank" rel="noopener">Umweltschutz: Ranger in Rhein-Berg unterwegs: Zwischen Müllsündern und Radrowdies</a></h2>
   <div class="teaser">Seit Oktober 2023 sind zwei Ranger im Kreis unterwegs: Sie sammeln Müll, warnen vor Waldbrand und werben für Regeln.</div>
-  <div class="info">Wed, 21 Oct 2026 15:22:10 · Kölner Stadt-Anzeiger Rhein-Berg</div>
+  <div class="info">21.10.2026, 15:22 Uhr · Kölner Stadt-Anzeiger Rhein-Berg</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">kreisweite-nachrichten</span><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/21/little-minds-studio-in-lueckerath-verbindet-familien-cafe-mit-theater-flair/" target="_blank" rel="noopener">Little Minds Studio in Lückerath verbindet Familien-Café mit Theater-Flair</a></h2>
   <div class="teaser">Mariam und Dennis Nahke wollen mit dem Little Minds Studio einen Ort bieten, wie sie ihn sich selbst als Familie wünschen: Wo sich Kinder und Erwachsene gleichermaßen wohlfühlen, entspannen und ausprobieren können. Anders als in den bereits bekannten</div>
-  <div class="info">Wed, 21 Oct 2026 09:14:35 · iGL Bürgerportal Bergisch Gladbach</div>
-</div>
-<div class="artikel">
-  <div class="tagline"><span class="tag">Bergisch Gladbach</span></div>
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/62459/6375086" target="_blank" rel="noopener">POL-RBK: Bergisch Gladbach - Einbrecher in Herkenrath und Frankenforst unterwegs</a></h2>
-  <div class="teaser">Bergisch Gladbach (ots) - Gestern Abend (20.10.) wurde die Polizei gegen 19:50 Uhr zu einem Mehrfamilienhaus in der Straße Zum Kreuzbusch in Herkenrath gerufen. Ein dortiger Bewohner hatte zuvor auf seinen Überwachungskameras zwei dunkel ...</div>
-  <div class="info">Wed, 21 Oct 2026 08:55:50 · Presseportal Polizei RBK</div>
-</div>
-<div class="artikel">
-  <div class="tagline"><span class="tag">Wermelskirchen</span></div>
-  <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/wir-bilden-denkende-menschen-aus-VQSWIS2RWSQ7B3X5OWNSHSCIAM.html" target="_blank" rel="noopener">„Wir bilden denkende Menschen aus“</a></h2>
-  <div class="teaser">Volle Auftragsbücher statt Personalnot: Pflegedienst Rose wächst munter weiter. Jetzt zieht Nicole Rose mit ihrem Team in neue, deutlich größere Räume – mit Besonderheiten.</div>
-  <div class="info">Wed, 21 Oct 2026 08:22:00 · RGA Wermelskirchen</div>
+  <div class="info">21.10.2026, 11:14 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">kreisweite-nachrichten</span><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/21/e-scooter-diese-regeln-sollten-fahrer-kennen/" target="_blank" rel="noopener">E-Scooter: Diese Regeln sollten Fahrer kennen</a></h2>
   <div class="teaser">E-Scooter gelten als Kraftfahrzeug und dementsprechend muss auch mit ihnen umgegangen werden. In der Praxis sieht es jedoch anders aus, es gibt immer mehr Unfälle. Daher gibt die Polizei Rheinisch-Bergischer Kreis Hinweise und Regeln zur Nutzung im S</div>
-  <div class="info">Wed, 21 Oct 2026 08:18:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">21.10.2026, 10:18 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
+</div>
+<div class="artikel">
+  <div class="tagline"><span class="tag">Bergisch Gladbach</span></div>
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/62459/6375086" target="_blank" rel="noopener">POL-RBK: Bergisch Gladbach - Einbrecher in Herkenrath und Frankenforst unterwegs</a></h2>
+  <div class="teaser">Bergisch Gladbach (ots) - Gestern Abend (20.10.) wurde die Polizei gegen 19:50 Uhr zu einem Mehrfamilienhaus in der Straße Zum Kreuzbusch in Herkenrath gerufen. Ein dortiger Bewohner hatte zuvor auf seinen Überwachungskameras zwei dunkel ...</div>
+  <div class="info">21.10.2026, 08:55 Uhr · Presseportal Polizei RBK</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Wermelskirchen</span></div>
-  <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/monster-grusel-und-knarzende-dielen-in-alter-drk-villa-HABMUT6P6SHKKMJLS5DYKRG44U.html" target="_blank" rel="noopener">Monster, Grusel und knarzende Dielen in alter DRK-Villa</a></h2>
-  <div class="teaser">Kinder erkunden an Halloween das „Monsterhotel“.</div>
-  <div class="info">Wed, 21 Oct 2026 07:00:00 · RGA Wermelskirchen</div>
+  <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/wir-bilden-denkende-menschen-aus-VQSWIS2RWSQ7B3X5OWNSHSCIAM.html" target="_blank" rel="noopener">„Wir bilden denkende Menschen aus“</a></h2>
+  <div class="teaser">Volle Auftragsbücher statt Personalnot: Pflegedienst Rose wächst munter weiter. Jetzt zieht Nicole Rose mit ihrem Team in neue, deutlich größere Räume – mit Besonderheiten.</div>
+  <div class="info">21.10.2026, 08:22 Uhr · RGA Wermelskirchen</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Bergisch Gladbach</span><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/21/eissporthalle-startet-in-die-neue-saison/" target="_blank" rel="noopener">Eissporthalle startet in die neue Saison</a></h2>
   <div class="teaser">Am Samstag öffnet die Eissporthalle wieder ihre Tore für Besucherinnen und Besucher. Möglich gemacht wurde dies durch den ESV Bergisch Gladbach e.V., seine Mitglieder und unterstützende Partnerunternehmen.</div>
-  <div class="info">Wed, 21 Oct 2026 06:17:58 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">21.10.2026, 08:17 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
+</div>
+<div class="artikel">
+  <div class="tagline"><span class="tag">Wermelskirchen</span></div>
+  <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/monster-grusel-und-knarzende-dielen-in-alter-drk-villa-HABMUT6P6SHKKMJLS5DYKRG44U.html" target="_blank" rel="noopener">Monster, Grusel und knarzende Dielen in alter DRK-Villa</a></h2>
+  <div class="teaser">Kinder erkunden an Halloween das „Monsterhotel“.</div>
+  <div class="info">21.10.2026, 07:00 Uhr · RGA Wermelskirchen</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Burscheid</span></div>
   <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/buergerbus-burscheid-erhoeht-fahrpreise-und-faehrt-wieder-zum-vitalbad-CJJAEDNIFND2XIW2P5CT7RUDLY.html" target="_blank" rel="noopener">Bürgerbus Burscheid erhöht Fahrpreise – und fährt wieder zum Vitalbad</a></h2>
   <div class="teaser">Zum 1. Januar 2027 wird der Bürgerbus in Burscheid teurer. Die Eulenfluglinie wird teilweise zur Bedarfslinie umgestellt. Und: Der Verein testet eine neue Fahrt zu den Discountern – was dahintersteckt.</div>
-  <div class="info">Wed, 21 Oct 2026 05:00:08 · RGA Burscheid</div>
+  <div class="info">21.10.2026, 05:00 Uhr · RGA Burscheid</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Burscheid</span></div>
   <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/buergermeister-entschuldigt-sich-bei-sportverband-was-in-burscheid-schiefgelaufen-ist-TJGD27MRONBT3GG2CAYEA4IC5M.html" target="_blank" rel="noopener">Bürgermeister entschuldigt sich bei Sportverband – was in Burscheid schiefgelaufen ist</a></h2>
   <div class="teaser">Die Stadt Burscheid wollte die Gebühren für Turn- und Sporthallen um 30 Prozent erhöhen. Der Stadtsportverbandsvorsitzende kritisierte den Plan scharf – und bekam eine ungewöhnliche Entschuldigung vom Bürgermeister. Jetzt ist die Vorlage vorerst vom </div>
-  <div class="info">Wed, 21 Oct 2026 05:00:03 · RGA Burscheid</div>
+  <div class="info">21.10.2026, 05:00 Uhr · RGA Burscheid</div>
 </div>
 <div class="artikel">
-  <div class="tagline"><span class="tag">Bergisch Gladbach, Odenthal</span></div>
+  <div class="tagline"><span class="tag">Bergisch Gladbach</span></div>
   <h2><a href="https://www.ksta.de/region/rhein-berg/das-grauen-hat-begonnen-jetzt-ist-schildgen-dicht-1-1398876" target="_blank" rel="noopener">Zwei Wochen geht nichts mehr: Altenberger-Dom-Straße in Schildgen gesperrt – Umleitungen eingerichtet</a></h2>
   <div class="teaser">Die Vollsperrung der Altenberger-Dom-Straße hat begonnen.</div>
-  <div class="info">Wed, 21 Oct 2026 02:00:23 · Kölner Stadt-Anzeiger Rhein-Berg</div>
+  <div class="info">21.10.2026, 02:00 Uhr · Kölner Stadt-Anzeiger Rhein-Berg</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Rösrath</span></div>
   <h2><a href="https://www.ksta.de/region/rhein-berg/roesrath/tag-des-ehrenamtes-roesrather-organisationen-stellten-arbeit-vor-1399732" target="_blank" rel="noopener">„Tag des Ehrenamtes“: Rösrather Organisationen und Vereine stellten ihre Arbeit in Rösrath vor</a></h2>
   <div class="teaser">Feuerwehr, Karnevalisten und Seniorenbeirat zeigte ihre Arbeit; mehrere Engagierte wurden geehrt.</div>
-  <div class="info">Tue, 20 Oct 2026 16:59:11 · Kölner Stadt-Anzeiger Rhein-Berg</div>
+  <div class="info">20.10.2026, 16:59 Uhr · Kölner Stadt-Anzeiger Rhein-Berg</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Bergisch Gladbach, Kürten</span></div>
   <h2><a href="https://www.ksta.de/region/rhein-berg/kuerten/rad-und-gehweg-bau-zwischen-herkenrath-und-kuerten-spitze-radweg-bleibt-eine-geduldsprobe-1399723" target="_blank" rel="noopener">Rad- und Gehweg: Bau zwischen Herkenrath und Kürten-Spitze: Radweg bleibt eine Geduldsprobe</a></h2>
   <div class="teaser">Der Bau beginnt frühestens 2027, Straßen NRW weist Sorgen vor Umleitungen durch Anliegerstraßen und Baumfällungen zurück – eine Lücke bleibt dennoch.</div>
-  <div class="info">Tue, 20 Oct 2026 16:52:43 · Kölner Stadt-Anzeiger Rhein-Berg</div>
+  <div class="info">20.10.2026, 16:52 Uhr · Kölner Stadt-Anzeiger Rhein-Berg</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Wermelskirchen</span></div>
   <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/100-jahre-steinco-in-wermelskirchen-das-ist-auch-eine-verpflichtung-7IXPINVHMFFDRACKAUWSV62YNQ.html" target="_blank" rel="noopener">100 Jahre Steinco in Wermelskirchen: &quot;Das ist auch eine Verpflichtung&quot;</a></h2>
   <div class="teaser">Geschäftsführer Ralf Goos spricht zum Jubiläum des Traditionsunternehmens mit dem RGA über Krisen, Chancen, das Miteinander und die Bedeutung von echt guten Gewürzen im Unternehmensalltag.</div>
-  <div class="info">Tue, 20 Oct 2026 15:30:00 · RGA Wermelskirchen</div>
+  <div class="info">20.10.2026, 15:30 Uhr · RGA Wermelskirchen</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Bergisch Gladbach</span></div>
   <h2><a href="https://www.presseportal.de/blaulicht/pm/62459/6374747" target="_blank" rel="noopener">POL-RBK: Bergisch Gladbach - Zeugen nach Brandstiftung gesucht</a></h2>
   <div class="teaser">Bergisch Gladbach (ots) - Vergangene Woche brannte im Stadtteil Sand ein hochwertiger Pkw. Die Polizei geht von vorsätzlicher Brandstiftung aus und sucht Zeugen, die Hinweise geben können. In der Nacht auf Donnerstag (15.10.) wurde die Polizei ...</div>
-  <div class="info">Tue, 20 Oct 2026 13:28:28 · Presseportal Polizei RBK</div>
+  <div class="info">20.10.2026, 13:28 Uhr · Presseportal Polizei RBK</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Bergisch Gladbach</span><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/20/ggs-gronau-viele-haende-und-farbrollen-machen-den-unterschied/" target="_blank" rel="noopener">GGS Gronau: Viele Hände und Farbrollen machen den Unterschied</a></h2>
   <div class="teaser">Die strukturellen Probleme der Grundschule in Gronau lassen sich nicht mehr lösen, sie wird mittelfristig neu gebaut. Bis dahin muss man dem Niedergang aber nicht tatenlos zusehen. Das bewiesen am Samstag rund 50 Freiwillige: Innerhalb weniger Stunde</div>
-  <div class="info">Tue, 20 Oct 2026 11:20:17 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">20.10.2026, 13:20 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">kreisweite-nachrichten</span><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/20/uebergabe-des-neuen-stadthauses-verzoegert-sich/" target="_blank" rel="noopener">Übergabe des neuen Stadthauses verzögert sich</a></h2>
   <div class="teaser">Eigentlich sollte der Vermieter das ehemalige AOK-Gebäude in diesen Tagen an die Stadt übergeben, aber die Sanierung des künftigen Stadthauses ist noch nicht weit genug vorangeschritten. Trotz einer Verzögerung von „wenigen Wochen“ gibt sich die Stad</div>
-  <div class="info">Tue, 20 Oct 2026 11:15:16 · iGL Bürgerportal Bergisch Gladbach</div>
-</div>
-<div class="artikel">
-  <div class="tagline"><span class="tag">Burscheid</span></div>
-  <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/burscheid-2-000-strassenlaternen-werden-auf-led-umgeruestet-T4TKVFJ27VHTTKTQMD3V5LGJRM.html" target="_blank" rel="noopener">Burscheid: 2.000 Straßenlaternen werden auf LED umgerüstet</a></h2>
-  <div class="teaser">Immer wieder blieben Straßenlaternen in Burscheid dunkel. Jetzt werden 2.000 Leuchtenköpfe gegen LED-Technik ausgetauscht, gefördert durch die Nationale Klimaschutzinitiative. Was sich für die Bürger ändert – und wann die Sanierung abgeschlossen sein</div>
-  <div class="info">Tue, 20 Oct 2026 10:30:00 · RGA Burscheid</div>
-</div>
-<div class="artikel">
-  <div class="tagline"><span class="tag">Wermelskirchen</span></div>
-  <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/auf-kahler-flaeche-waechst-ein-neuer-wald-VNQBCCOZAK3OTQBNGWGOQV5YQU.html" target="_blank" rel="noopener">Auf kahler Fläche wächst ein neuer Wald</a></h2>
-  <div class="teaser">Ein Baum für jeden Einwohner: Dieses ehrgeizige Ziel verfolgt die Initiative „Verwurzelt in Wermelskirchen“ seit 2021. Am Wickhauser Berg wurde nun weiter aufgeforstet.</div>
-  <div class="info">Tue, 20 Oct 2026 09:05:00 · RGA Wermelskirchen</div>
+  <div class="info">20.10.2026, 13:15 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">kreisweite-nachrichten</span><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/20/wenn-trauer-zu-kunst-wird-jugendliche-uebergeben-graffiti-an-hospiz/" target="_blank" rel="noopener">Wenn Trauer zu Kunst wird: Jugendliche übergeben Graffiti an Hospiz</a></h2>
   <div class="teaser">Trauernde Kinder und Jugendliche konnten im Rahmen des Projekts „Leben mit dem Tod“ durch Graffiti Kunstwerke ihre Trauer zum Ausdruck bringen. Nun hängen diese Kunstwerke im Hospiz am Quirlsberg und schenken dort Hoffnung und Kraft.</div>
-  <div class="info">Tue, 20 Oct 2026 08:58:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">20.10.2026, 10:58 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
+</div>
+<div class="artikel">
+  <div class="tagline"><span class="tag">Burscheid</span></div>
+  <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/burscheid-2-000-strassenlaternen-werden-auf-led-umgeruestet-T4TKVFJ27VHTTKTQMD3V5LGJRM.html" target="_blank" rel="noopener">Burscheid: 2.000 Straßenlaternen werden auf LED umgerüstet</a></h2>
+  <div class="teaser">Immer wieder blieben Straßenlaternen in Burscheid dunkel. Jetzt werden 2.000 Leuchtenköpfe gegen LED-Technik ausgetauscht, gefördert durch die Nationale Klimaschutzinitiative. Was sich für die Bürger ändert – und wann die Sanierung abgeschlossen sein</div>
+  <div class="info">20.10.2026, 10:30 Uhr · RGA Burscheid</div>
+</div>
+<div class="artikel">
+  <div class="tagline"><span class="tag">Wermelskirchen</span></div>
+  <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/auf-kahler-flaeche-waechst-ein-neuer-wald-VNQBCCOZAK3OTQBNGWGOQV5YQU.html" target="_blank" rel="noopener">Auf kahler Fläche wächst ein neuer Wald</a></h2>
+  <div class="teaser">Ein Baum für jeden Einwohner: Dieses ehrgeizige Ziel verfolgt die Initiative „Verwurzelt in Wermelskirchen“ seit 2021. Am Wickhauser Berg wurde nun weiter aufgeforstet.</div>
+  <div class="info">20.10.2026, 09:05 Uhr · RGA Wermelskirchen</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">Wermelskirchen</span></div>
   <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/nachts-entstehen-die-meisten-seiner-werke-H7VNKARMTB362VE5HS73P6XH24.html" target="_blank" rel="noopener">Nachts entstehen die meisten seiner Werke</a></h2>
   <div class="teaser">Der Wermelskirchener Kai Weber hat sich das Malen selbst beigebracht und dabei über die Jahre seine eigene Technik entwickelt. Zurzeit stellt er seine blutigen und übernatürlichen Porträts in ...</div>
-  <div class="info">Tue, 20 Oct 2026 08:09:00 · RGA Wermelskirchen</div>
-</div>
-<div class="artikel">
-  <div class="tagline"><span class="tag">Wermelskirchen</span></div>
-  <h2><a href="https://www.rga.de/lokales/remscheid/fassaden-begruenen-was-hausbesitzer-ueber-pflanzen-und-vorschriften-wissen-muessen-QZJFRP6I65GMFBQLURHRKVL2GI.html" target="_blank" rel="noopener">Fassaden begrünen – was Hausbesitzer über Pflanzen und Vorschriften wissen müssen</a></h2>
-  <div class="teaser">Streckenweise ist die Remscheider Innenstadt sehr karg. Das kann auch daran liegen, dass beim Bepflanzen von Fassaden einiges zu beachten ist. Der Wermelskirchener Sven Berkey gibt einen Überblick.</div>
-  <div class="info">Tue, 20 Oct 2026 06:00:02 · RGA Wermelskirchen</div>
+  <div class="info">20.10.2026, 08:09 Uhr · RGA Wermelskirchen</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">kreisweite-nachrichten</span><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/20/allgemeine-frauenberatungsstelle-blickt-auf-40-jahre-zurueck/" target="_blank" rel="noopener">Allgemeine Frauenberatungsstelle blickt auf 40 Jahre zurück</a></h2>
   <div class="teaser">Beratung, Unterstützung, Aufklärung: Seit 40 Jahren hilft die Allgemeine Frauenberatungsstelle RBK Mädchen und Frauen in Not. Ein Rückblick auf die Entwicklung der Beratungsstelle:</div>
-  <div class="info">Tue, 20 Oct 2026 05:21:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">20.10.2026, 07:21 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag">kreisweite-nachrichten</span><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/20/world-cafe-ich-bin-ich-und-du-bist-du/" target="_blank" rel="noopener">World Café: „Ich bin ich und du bist du“</a></h2>
   <div class="teaser">Wie entstehen Respekt, Toleranz und gegenseitige Wertschätzung? Beim World Café des LiebevollIch e.V. unter dem Motto „Ich bin ich und du bist du“ tauschten sich die Teilnehmenden in vier Gesprächsrunden über persönliche Wahrnehmung, das Miteinander </div>
-  <div class="info">Tue, 20 Oct 2026 05:12:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">20.10.2026, 07:12 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
+</div>
+<div class="artikel">
+  <div class="tagline"><span class="tag">Wermelskirchen</span></div>
+  <h2><a href="https://www.rga.de/lokales/remscheid/fassaden-begruenen-was-hausbesitzer-ueber-pflanzen-und-vorschriften-wissen-muessen-QZJFRP6I65GMFBQLURHRKVL2GI.html" target="_blank" rel="noopener">Fassaden begrünen – was Hausbesitzer über Pflanzen und Vorschriften wissen müssen</a></h2>
+  <div class="teaser">Streckenweise ist die Remscheider Innenstadt sehr karg. Das kann auch daran liegen, dass beim Bepflanzen von Fassaden einiges zu beachten ist. Der Wermelskirchener Sven Berkey gibt einen Überblick.</div>
+  <div class="info">20.10.2026, 06:00 Uhr · RGA Wermelskirchen</div>
 </div>
 </div></div>
   <div>
     <div class="sidebar-box">
       <h3>Kommunen</h3>
-      <ul class="k-links"><li><a href="bergisch-gladbach/index.html">Bergisch Gladbach <span class="badge">1286</span></a></li><li><a href="burscheid/index.html">Burscheid <span class="badge">444</span></a></li><li><a href="kuerten/index.html">Kürten <span class="badge">141</span></a></li><li><a href="kuerten-rat/index.html">Kürten-Rat</a></li><li><a href="leichlingen/index.html">Leichlingen <span class="badge">41</span></a></li><li><a href="odenthal/index.html">Odenthal <span class="badge">87</span></a></li><li><a href="overath/index.html">Overath <span class="badge">55</span></a></li><li><a href="roesrath/index.html">Rösrath <span class="badge">46</span></a></li><li><a href="wermelskirchen/index.html">Wermelskirchen <span class="badge">548</span></a></li><li style="border-top:1px solid #eee; padding-top:6px; margin-top:6px;"><a href="kreisweite/index.html"><b>Kreisweite Nachrichten</b> <span class="badge">744</span></a></li></ul>
+      <ul class="k-links"><li><a href="bergisch-gladbach/index.html">Bergisch Gladbach <span class="badge">1179</span></a></li><li><a href="burscheid/index.html">Burscheid <span class="badge">441</span></a></li><li><a href="kuerten/index.html">Kürten <span class="badge">131</span></a></li><li><a href="kuerten-rat/index.html">Kürten-Rat</a></li><li><a href="leichlingen/index.html">Leichlingen <span class="badge">41</span></a></li><li><a href="odenthal/index.html">Odenthal <span class="badge">64</span></a></li><li><a href="overath/index.html">Overath <span class="badge">55</span></a></li><li><a href="roesrath/index.html">Rösrath <span class="badge">46</span></a></li><li><a href="wermelskirchen/index.html">Wermelskirchen <span class="badge">548</span></a></li><li style="border-top:1px solid #eee; padding-top:6px; margin-top:6px;"><a href="kreisweite/index.html"><b>Kreisweite Nachrichten</b> <span class="badge">764</span></a></li></ul>
     </div>
     <div class="sidebar-box">
-      <h3>Quellen</h3>
-      <ul style="list-style:none; font-size:0.82rem; font-family:sans-serif; color:#555;"><li style="margin:3px 0;">👥 iGL Bürgerportal Bergisch Gladbach</li><li style="margin:3px 0;">🌐 GL Aktuell (Gesamt)</li><li style="margin:3px 0;">🌐 GL Aktuell Politik</li><li style="margin:3px 0;">🌐 GL Aktuell Kultur</li><li style="margin:3px 0;">🌐 GL Aktuell Bergisch Gladbach</li><li style="margin:3px 0;">🌐 GL Aktuell Burscheid</li><li style="margin:3px 0;">🌐 GL Aktuell Kürten</li><li style="margin:3px 0;">🏛️ Gemeinde Kürten (offiziell)</li><li style="margin:3px 0;">🌐 GL Aktuell Leichlingen</li><li style="margin:3px 0;">🌐 GL Aktuell Odenthal</li><li style="margin:3px 0;">🌐 GL Aktuell Overath</li><li style="margin:3px 0;">🌐 GL Aktuell Rösrath</li><li style="margin:3px 0;">🌐 GL Aktuell Wermelskirchen</li><li style="margin:3px 0;">📰 RGA Wermelskirchen</li><li style="margin:3px 0;">📰 RGA Burscheid</li><li style="margin:3px 0;">🚔 Presseportal Polizei RBK</li><li style="margin:3px 0;">🚒 Presseportal Feuerwehr Bergisch Gladbach</li><li style="margin:3px 0;">🏛️ Stadt Bergisch Gladbach (offiziell)</li><li style="margin:3px 0;">📰 Kölner Stadt-Anzeiger Rhein-Berg</li><li style="margin:3px 0;">📰 Kölnische Rundschau Rhein-Berg</li><li style="margin:3px 0;">📻 Radio Berg Nachrichten</li></ul>
+      <h3>Quellen (letzte 30 Tage)</h3>
+      <ul style="list-style:none; font-size:0.82rem; font-family:sans-serif; color:#555;"><li style="margin:3px 0;">👥 iGL Bürgerportal Bergisch Gladbach</li><li style="margin:3px 0;">🌐 GL Aktuell (Gesamt)</li><li style="margin:3px 0;">📰 RGA Wermelskirchen</li><li style="margin:3px 0;">📰 RGA Burscheid</li><li style="margin:3px 0;">🚔 Presseportal Polizei RBK</li><li style="margin:3px 0;">🏛️ Stadt Bergisch Gladbach (offiziell)</li><li style="margin:3px 0;">📰 Kölner Stadt-Anzeiger Rhein-Berg</li></ul>
     </div>
   </div>
 </div>
 </main>
 <footer>
-  AI Tageszeitung · Rheinisch-Bergischer Kreis · Aktualisiert: 22.10.2026, 21:27<br>
+  AI Tageszeitung · Rheinisch-Bergischer Kreis · Aktualisiert: 22.10.2026, 22:19 Uhr<br>
   <a href="/ai-tageszeitung/impressum/">Impressum</a> · <a href="/ai-tageszeitung/rechtliches/">Rechtliche Hinweise</a> · <a href="/ai-tageszeitung/rechtliches/#datenschutz">Datenschutz</a><br>
   <a href="https://github.com/dna-dieter/ai-tageszeitung/actions/workflows/update.yml">GitHub</a>
 </footer>
 
 <script>
 (function() {
+  // Button nur für Betreiber: sichtbar mit ?admin in der Adresse (wird gemerkt), ?admin=aus blendet ihn wieder aus.
+  try {
+    const p = new URLSearchParams(location.search);
+    if (p.has('admin')) {
+      if (p.get('admin') === 'aus') localStorage.removeItem('ai_tz_admin');
+      else localStorage.setItem('ai_tz_admin', '1');
+    }
+    if (localStorage.getItem('ai_tz_admin') === '1') {
+      const b = document.getElementById('btn-refresh');
+      if (b) b.hidden = false;
+    }
+  } catch (e) {}
   const REPO = 'dna-dieter/ai-tageszeitung';
   const WORKFLOW = 'update.yml';
   const TOKEN_KEY = 'ai_tz_github_token';

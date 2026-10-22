@@ -1,54 +1,5 @@
 [
   {
-    "id": "846e4d911e1b",
-    "title": "Gummersbach: Hells Angels-Razzia – Großeinsatz auch im Oberbergischen",
-    "summary": "Gummersbach / Hells Angels / Razzia / Organisierte Kriminalität (Von Christian Sasse) Mit über 1.200 Beamten hat die Polizei am frühen Dienstagmorgen eine der größten Razzien in der Geschichte NRWs gegen den Hells Angels Motorcycle Club Leverkusen durchgeführt – mit Durchsuchungen auch in Gummersbach und Marienheide. Koordinierter Großeinsatz ab 4 Uhr – 28 Städte gleichzeitig Ab 4 Uhr morgens roll",
-    "link": "https://www.news-on-tour.de/201789/gummersbach-hells-angels-razzia-nrw/",
-    "published": "Wed, 29 Apr 2026 00:19:07 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach",
-      "marienheide"
-    ],
-    "fetched": "2026-05-05T21:01:14.683553"
-  },
-  {
-    "id": "0045ae91f24d",
-    "title": "POL-GM: Nachtrag zu gesuchter, älteren Frau in Marienheide",
-    "summary": "Marienheide (ots) - Die von der Polizei gesuchte ältere Dame im Bereich der Innenstadt Marienheide wurde wohlbehalten angetroffen. Die Suchmaßnahmen wurden demnach eingestellt. Die 'vermisste' Frau erfreut sich bester Gesundheit. Rückfragen von ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6283227",
-    "published": "Wed, 27 May 2026 18:21:12 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "marienheide"
-    ],
-    "fetched": "2026-05-27T19:32:50.390846"
-  },
-  {
-    "id": "f516a2301fd1",
-    "title": "POL-GM: Fahndung nach vermisster, älteren Frau in Marienheide",
-    "summary": "Marienheide (ots) - Die Polizei sucht im Bereich des Stadtkerns Marienheide eine 87-jährige Frau, die von der Innenstadt in unbekannte Richtung unterwegs ist. Beschrieben wir die Frau wie folgt: - 87 Jahre alt - graues, mittellanges Haar - ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6283198",
-    "published": "Wed, 27 May 2026 16:30:50 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "marienheide"
-    ],
-    "fetched": "2026-05-27T16:45:36.364577"
-  },
-  {
-    "id": "320f12347a6e",
-    "title": "POL-GM: Unbekannte stehlen Bankkarte und Bargeld",
-    "summary": "Marienheide (ots) - Ein unverschlossenes Auto war von Dienstag auf Mittwoch (19./20. Oktober) zwischen 23:30 Uhr und 04:00 Uhr das Ziel von Kriminellen. Das Fahrzeug stand geparkt in der Straße \"An der Waar\" in Marienheide-Kotthausen. Aus dem ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6375142",
-    "published": "Wed, 21 Oct 2026 09:30:14 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "marienheide"
-    ],
-    "fetched": "2026-10-21T10:02:11.265274"
-  },
-  {
     "id": "f279a60edab4",
     "title": "Nümbrecht, Marienheide & Lindlar: Diebstahl – Täter stehlen Werkzeug und Geld",
     "summary": "Diebstahl in Nümbrecht, Marienheide und Lindlar: Unbekannte erbeuten Werkzeug, Bargeld und eine Bankkarte. Die Kriminalpolizei sucht Zeugen.",
@@ -63,207 +14,42 @@
     "fetched": "2026-10-21T10:01:56.618726"
   },
   {
-    "id": "5f1472e3ca52",
-    "title": "POL-GM: Auto kollidiert mit Radfahrerin",
-    "summary": "Marienheide (ots) - Am Dienstag (19. Mai), gegen 16 Uhr beabsichtigte ein 37-Jähriger aus Marienheide von einem Grundstück auf die Gummersbacher Straße einzufahren. Dabei kam es zum Zusammenstoß mit einer 59-jährigen Fahrradfahrerin aus ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6278305",
-    "published": "Wed, 20 May 2026 09:30:40 +0200",
+    "id": "320f12347a6e",
+    "title": "POL-GM: Unbekannte stehlen Bankkarte und Bargeld",
+    "summary": "Marienheide (ots) - Ein unverschlossenes Auto war von Dienstag auf Mittwoch (19./20. Oktober) zwischen 23:30 Uhr und 04:00 Uhr das Ziel von Kriminellen. Das Fahrzeug stand geparkt in der Straße \"An der Waar\" in Marienheide-Kotthausen. Aus dem ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6375142",
+    "published": "Wed, 21 Oct 2026 09:30:14 +0200",
     "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-10-21T10:02:11.265274"
+  },
+  {
+    "id": "7c7b11f3fdfb",
+    "title": "Rote zahlen in Marienheide: „Die Gemeinde ist überschuldet\"",
+    "summary": "Marienheide steckt so tief im Minus, dass ein Haushaltssicherungskonzept fällig ist",
+    "link": "https://www.ksta.de/region/oberberg/marienheide/rote-zahlen-in-marienheide-die-gemeinde-ist-ueberschuldet-1397539",
+    "published": "Fri, 16 Oct 2026 14:22:43 +0200",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-10-22T22:18:53.933978",
+    "feed_kommunen": []
+  },
+  {
+    "id": "cd8562769a02",
+    "title": "Marienheide: Moderner Sportunterricht verlegt Krafttraining ins Fitnessstudio",
+    "summary": "Im Sportunterricht ins Fitnessstudio: Ein Oberstufenkurs der Gesamtschule Marienheide trainiert an modernen Kraftgeräten in Gummersbach.",
+    "link": "https://www.news-on-tour.de/243615/marienheide-sportunterricht-fitnessstudio/",
+    "published": "Mon, 12 Oct 2026 08:58:23 +0000",
+    "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "gummersbach",
       "marienheide"
     ],
-    "fetched": "2026-05-20T08:35:28.690615"
-  },
-  {
-    "id": "45f738d6e82d",
-    "title": "Marienheide: Radfahrerin bei Unfall an der Gummersbacher Straße verletzta",
-    "summary": "Radfahrerin in Marienheide bei Unfall an der Gummersbacher Straße verletzt – Autofahrer übersah die 59-Jährige beim Ausfahren aus einem Grundstück.",
-    "link": "https://www.news-on-tour.de/202615/marienheide-radfahrerin-unfall-rad/",
-    "published": "Wed, 20 May 2026 08:06:24 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach",
-      "marienheide"
-    ],
-    "fetched": "2026-05-20T08:35:11.480707"
-  },
-  {
-    "id": "d47a2e28510d",
-    "title": "Wipperfürth & Marienheide: Junior-Tour – Hannah Bondke holt Gesamtrang zwei",
-    "summary": "Junior-Tour und Badminton-Nachwuchs aus Wipperfürth und Marienheide: Hannah Bondke wird Zweite der U11-Gesamtwertung nach fünf Starts.",
-    "link": "https://www.news-on-tour.de/240565/wipperfuerth-junior-tour-badminton/",
-    "published": "Wed, 19 Aug 2026 22:28:20 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wipperfuerth",
-      "marienheide"
-    ],
-    "fetched": "2026-08-19T22:36:00.387631"
-  },
-  {
-    "id": "ea5c612feac6",
-    "title": "Marienheide: Castingshow-Auftritt bei The Voice – Can Dean kämpft um Buzzer",
-    "summary": "Castingshow im Rampenlicht: Der Musiker Can Dean aus Marienheide tritt bei The Voice of Germany auf. Entdeckt wurde er zuvor auf TikTok.",
-    "link": "https://www.news-on-tour.de/241748/marienheide-castingshow-voice/",
-    "published": "Wed, 09 Sep 2026 03:59:53 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "marienheide"
-    ],
-    "fetched": "2026-09-09T05:55:31.318102"
-  },
-  {
-    "id": "f2211bca8b47",
-    "title": "Gummersbach: Auto überschlägt sich auf der Zur Linge – Fahrer stand unter Alkoholeinfluss",
-    "summary": "Gummersbach / Verkehrsunfall / Polizei / Alkohol am Steuer (Von Christian Sasse) Ein 42-jähriger Autofahrer aus Marienheide hat sich am Dienstagabend (7. April) auf der Straße Zur Linge in Gummersbach mit seinem Fahrzeug überschlagen. Ein Atemalkoholtest fiel deutlich positiv aus. Der Mann wurde leicht verletzt, sein Fahrzeug sichergestellt. Symbolbild: © Foto+TV Agentur NTOi.deolbild: © Foto+TV A",
-    "link": "https://www.news-on-tour.de/201230/gummersbach-auto-ueberschlag-alkohol/",
-    "published": "Wed, 08 Apr 2026 13:28:15 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "marienheide",
-      "gummersbach"
-    ],
-    "fetched": "2026-05-05T21:11:16.619950"
-  },
-  {
-    "id": "bf5556249eb3",
-    "title": "Oberberg: VW Polo kollidiert mit Pedelec – gleich zweimal binnen Minuten",
-    "summary": "Zwei Pedelec-Fahrer bei Unfällen in Marienheide und Bergneustadt leicht verletzt – beide kollidierten am Dienstag mit einem VW Polo.",
-    "link": "https://www.news-on-tour.de/203481/oberberg-pedelec-unfall-bergneustadt/",
-    "published": "Wed, 03 Jun 2026 22:42:29 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "bergneustadt",
-      "marienheide"
-    ],
-    "fetched": "2026-06-03T23:56:05.902499"
-  },
-  {
-    "id": "5ba8ba3102d2",
-    "title": "POL-GM: Unfall im Einmündungsbereich",
-    "summary": "Marienheide (ots) - Am Dienstag (2. Juni) wollte eine 31-jährige Gummersbacherin mit ihrem VW Polo von der Bahnhofstraße nach links auf die Hauptstraße abbiegen. Dabei kam es gegen 15:50 Uhr zum Zusammenstoß mit einer 56-Jährigen aus ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6287347",
-    "published": "Wed, 03 Jun 2026 10:00:12 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "gummersbach",
-      "marienheide"
-    ],
-    "fetched": "2026-06-03T11:22:27.398004"
-  },
-  {
-    "id": "0964ac5bc6ce",
-    "title": "„Art & Bike“: Neue Radroute verbindet Natur- und Kunsterlebnis im Bergischen Land",
-    "summary": "Die erste Route von „Art & Bike“führt auf knapp 40 Kilometern von Marienheide über Hückeswagen nach Burscheid – unterwegs gibt es 38 Kunstwerke zu entdecken.",
-    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/art-und-bike-neue-radroute-verbindet-natur-und-kunsterlebnis-im-bergischen-land-RW6H2DAFKOBBRV226ICZ7MHXYU.html",
-    "published": "Wed, 02 Sep 2026 08:06:44 +0200",
-    "source": "RGA Hückeswagen",
-    "kommunen": [
-      "marienheide",
-      "hueckeswagen"
-    ],
-    "fetched": "2026-09-02T09:30:50.176934"
-  },
-  {
-    "id": "482ddb52feab",
-    "title": "Bergneustadt (Update #5): Traktordiebstahl – Fendt fuhr Richtung Marienheide",
-    "summary": "In Bergneustadt wurde am Montagmorgen ein grüner Fendt-Traktor vom Hof „Rosenthal“ gestohlen. Die Überwachungskamera filmte den Unbekannten. Die Polizei ermittelt.",
-    "link": "https://www.news-on-tour.de/204708/bergneustadt-traktordiebstahl-fendt/",
-    "published": "Tue, 30 Jun 2026 03:40:40 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "marienheide",
-      "bergneustadt"
-    ],
-    "fetched": "2026-06-30T04:24:25.128062"
-  },
-  {
-    "id": "3e606692ffa8",
-    "title": "Intensive Naturerfahrung beim Bergwald-Projekt im Oberallgäu",
-    "summary": "Klatschende Regengüsse, Kälte, Sturm und erster Schnee – Die Wetterkapriolen waren klare Vorboten des Winters – und dennoch engagierten sich 20 Schülerinnen und Schüler der Gesamtschule Marienheide letzten Herbst im Rahmen des Bergwald-Projektes im Naturpark Nagelfluhkette in der Nähe von Oberstdorf. Der Beitrag Intensive Naturerfahrung beim Bergwald-Projekt im Oberallgäu erschien zuerst auf Oberb",
-    "link": "https://www.oberberg-nachrichten.de/marienheide/gesamtschule-marienheide-bergwald-projekt-oberallgaeu/",
-    "published": "Tue, 28 Jan 2025 15:53:59 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "marienheide"
-    ],
-    "fetched": "2026-05-05T21:11:09.367850"
-  },
-  {
-    "id": "04ab903790a4",
-    "title": "Marienheide: Defibrillator am Dorfhaus Dannenberg schützt Dorfgemeinschaft",
-    "summary": "Defibrillator in Marienheide: Am Dorfgemeinschaftshaus Dannenberg steht ab sofort ein lebensrettendes Notfallgerät bereit.",
-    "link": "https://www.news-on-tour.de/242442/marienheide-defibrillator-dannenberg/",
-    "published": "Tue, 22 Sep 2026 08:13:26 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "marienheide"
-    ],
-    "fetched": "2026-09-22T09:52:46.960163"
-  },
-  {
-    "id": "9407dccace89",
-    "title": "Barista in den eigene vier Wänden – worauf man achten sollte, um den perfekten Kaffee auch zu Hause genießen zu können",
-    "summary": "Gerade in Oberberg gibt es viele tolle Kaffees und Kaffeeröstereien, die frischen Kaffee anbieten. Hierzu zählen unter anderem die PanPan Coffee School and Roastery / Kaffeerösterei in Wiehl, oder die Kaffeerösterei Pagnia am Rande des Oberbergischen Kreises in Marienheide. Doch was kann man tun, um den frischen Geschmack des Kaffees auch zuhause erleben zu können? Der Beitrag Barista in den eigen",
-    "link": "https://www.oberberg-nachrichten.de/themen/verschiedenes/tipps-um-den-perfekten-kaffee-auch-zu-hause-geniessen-zu-koennen/",
-    "published": "Tue, 14 Nov 2023 09:28:04 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "marienheide",
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:09.373898"
-  },
-  {
-    "id": "d6277cbe9689",
-    "title": "Gesamtschule Marienheide – Weihnachtskonzert der MAMBA",
-    "summary": "Das sinfonische Blasorchester MAMBA der Gesamtschule Marienheide hat wenige Tage vor Weihnachten eindrucksvoll bewiesen, dass Musik und Gemeinschaft Hand in Hand gehen können. Der Beitrag Gesamtschule Marienheide &#8211; Weihnachtskonzert der MAMBA erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/marienheide/weihnachtskonzert-der-mamba/",
-    "published": "Tue, 14 Jan 2025 12:36:18 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "marienheide"
-    ],
-    "fetched": "2026-05-05T21:11:09.368148"
-  },
-  {
-    "id": "53f6d87c96b6",
-    "title": "POL-GM: Falsche Bankmitarbeiter erbeuten hohe Geldbeträge",
-    "summary": "Gummersbach, Marienheide (ots) - Am Montag (8. Juni) wurde ein 89-jähriger Gummersbacher gegen 15:15 Uhr von einem Mann angerufen, der sich als Mitarbeiter seiner Sparkasse ausgab. Da sich der Mann mit dem Namen einer Person vorstellte, die ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6290719",
-    "published": "Tue, 09 Jun 2026 09:55:34 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "gummersbach",
-      "marienheide"
-    ],
-    "fetched": "2026-06-09T08:39:36.250186"
-  },
-  {
-    "id": "abe8cbfd9e22",
-    "title": "Marienheide: Blaualgen an der Brucher – Kreis verhängt Badeverbot",
-    "summary": "Erneuter Blaualgen-Befall an der Bruchertalsperre in Marienheide: Das Gesundheitsamt Oberberg verhängt ab sofort ein striktes Badeverbot.",
-    "link": "https://www.news-on-tour.de/241695/marienheide-blaualgen-badeverbot-2/",
-    "published": "Tue, 08 Sep 2026 15:34:26 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "marienheide"
-    ],
-    "fetched": "2026-09-08T18:33:48.371077"
-  },
-  {
-    "id": "f40f07168815",
-    "title": "POL-GM: Auseinandersetzung am Marienheider Bahnhof",
-    "summary": "Marienheide (ots) - Gegen 20 Uhr am Montagabend (5. Oktober) kam es am Bahnhof in Marienheide (Bahnhofstraße) zu einem zunächst verbalen Streit zwischen einem 43-jährigen Gummersbacher und einem 36-jährigen Mann aus Marienheide. Als das ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6365621",
-    "published": "Tue, 06 Oct 2026 10:00:26 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "marienheide",
-      "gummersbach"
-    ],
-    "fetched": "2026-10-06T15:03:09.656319"
+    "fetched": "2026-10-12T09:04:26.714284"
   },
   {
     "id": "a88fed1d23fe",
@@ -280,43 +66,208 @@
     "fetched": "2026-10-06T15:02:53.887553"
   },
   {
-    "id": "3c804e569771",
-    "title": "POL-GM: Unfall im Kreisverkehr",
-    "summary": "Marienheide (ots) - Bei einem Verkehrsunfall in Marienheide-Rodt wurde am Montag (1. Juni) ein Motorradfahrer leicht verletzt. Der 26-jährige Gummersbacher war mit seiner Suzuki gegen 17 Uhr in dem Kreisverkehr Gummersbacher Straße/Müllenbacher ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6286459",
-    "published": "Tue, 02 Jun 2026 09:11:26 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "gummersbach",
-      "marienheide"
-    ],
-    "fetched": "2026-06-02T10:53:52.764374"
-  },
-  {
-    "id": "6106a915f903",
-    "title": "POL-GM: Kradfahrer bei Verkehrsunfall verletzt",
-    "summary": "Marienheide (ots) - Am Mittwoch (29. Juli) wollte eine 60-jährige Gummersbacherin mit ihrem Mercedes von der Brucher Straße auf die Gummersbacher Straße (B256) abbiegen. Dabei kam es gegen 10:15 Uhr zum Zusammenstoß mit dem Leichtkraftrad eines ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6324201",
-    "published": "Thu, 30 Jul 2026 10:48:16 +0200",
+    "id": "f40f07168815",
+    "title": "POL-GM: Auseinandersetzung am Marienheider Bahnhof",
+    "summary": "Marienheide (ots) - Gegen 20 Uhr am Montagabend (5. Oktober) kam es am Bahnhof in Marienheide (Bahnhofstraße) zu einem zunächst verbalen Streit zwischen einem 43-jährigen Gummersbacher und einem 36-jährigen Mann aus Marienheide. Als das ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6365621",
+    "published": "Tue, 06 Oct 2026 10:00:26 +0200",
     "source": "Presseportal Polizei OBK",
     "kommunen": [
       "marienheide",
       "gummersbach"
     ],
-    "fetched": "2026-07-30T09:37:10.479004"
+    "fetched": "2026-10-06T15:03:09.656319"
   },
   {
-    "id": "755f660b9cd4",
-    "title": "Morsbach: Kradunfälle – Honda-Fahrer crasht. Zwei Fahrer verletzt",
-    "summary": "Kradunfälle in Morsbach und Marienheide: Zwei Zweiradfahrer wurden leicht verletzt, einer kam zur ambulanten Behandlung ins Krankenhaus.",
-    "link": "https://www.news-on-tour.de/206490/morsbach-kradunfaelle-marienheide/",
-    "published": "Thu, 30 Jul 2026 10:20:43 +0000",
-    "source": "NEWS-on-Tour Oberberg",
+    "id": "c3b36e7704e8",
+    "title": "POL-GM: Unfallfahrer betrunken",
+    "summary": "Gummersbach (ots) - Ein 41-jähriger Autofahrer fuhr am Freitag (2. Oktober, 22:25 Uhr) auf der Hauptstraße aus Richtung Marienheide in Fahrtrichtung Stülinghausen. In einer scharfen Kurve kam der Autofahrer nach rechts von der Fahrbahn ab und ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6364379",
+    "published": "Sun, 04 Oct 2026 11:21:42 +0200",
+    "source": "Presseportal Polizei OBK",
     "kommunen": [
-      "morsbach",
+      "gummersbach",
       "marienheide"
     ],
-    "fetched": "2026-07-30T12:00:25.608585"
+    "fetched": "2026-10-04T13:09:51.692014"
+  },
+  {
+    "id": "b81b6af1bedb",
+    "title": "Marienheide, Gummersbach & Wiehl: 4 Einbruchsfälle – Polizei ermittelt!",
+    "summary": "Vier Einbruchsfälle in Marienheide, Gummersbach und Wiehl: Bewohner treffen auf Verdächtige, Schmuck fehlt – Polizei sucht Zeugen.",
+    "link": "https://www.news-on-tour.de/242764/marienheide-einbruchsfaelle-fenster/",
+    "published": "Sun, 27 Sep 2026 09:25:28 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "marienheide",
+      "gummersbach",
+      "wiehl"
+    ],
+    "fetched": "2026-09-27T13:53:34.696598"
+  },
+  {
+    "id": "f032a77917fd",
+    "title": "POL-GM: Zeugin beobachtet flüchtende Einbrecher",
+    "summary": "Marienheide (ots) - Eine 63-Jährige aus Marienheide war am Freitag (25. September) gegen 11:55 Uhr in ihrem Auto unterwegs und beabsichtigte in die Gimborner Straße einzubiegen. Dabei sah sie drei Tatverdächtige die Maskiert waren und aus einem ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6359774",
+    "published": "Sun, 27 Sep 2026 10:55:01 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-09-27T13:53:52.280558"
+  },
+  {
+    "id": "04ab903790a4",
+    "title": "Marienheide: Defibrillator am Dorfhaus Dannenberg schützt Dorfgemeinschaft",
+    "summary": "Defibrillator in Marienheide: Am Dorfgemeinschaftshaus Dannenberg steht ab sofort ein lebensrettendes Notfallgerät bereit.",
+    "link": "https://www.news-on-tour.de/242442/marienheide-defibrillator-dannenberg/",
+    "published": "Tue, 22 Sep 2026 08:13:26 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-09-22T09:52:46.960163"
+  },
+  {
+    "id": "2b6f8d8ad939",
+    "title": "Wiehl, Lindlar & Marienheide: Verkehrsunfall an Hauswand – Kradfahrer schwer verletzt",
+    "summary": "Drei Unfälle in Oberberg mit drei Verletzten: In Oberwiehl prallte ein Auto gegen eine Hauswand, in zwei weiteren Fällen wurden Männer verletzt.",
+    "link": "https://www.news-on-tour.de/242362/marienheide-verkehrsunfall-hauswand/",
+    "published": "Sun, 20 Sep 2026 08:05:37 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "marienheide",
+      "wiehl",
+      "lindlar"
+    ],
+    "fetched": "2026-09-20T11:17:42.216751"
+  },
+  {
+    "id": "9c41199b99fc",
+    "title": "POL-GM: Kradfahrer bei Sturz verletzt",
+    "summary": "Marienheide (ots) - Am Freitag (18. September) war ein 64-Jähriger aus Marienheide mit seinem Leichtkraftrad auf der Straße \"Obersiemeringhausen\" in Richtung Kapellenweg unterwegs. Unweit der Bushaltestelle \"Obersiemeringhausen\" kam er gegen 17:30 ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6355334",
+    "published": "Sun, 20 Sep 2026 09:41:34 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-09-20T11:17:59.497718"
+  },
+  {
+    "id": "1d526a45bb26",
+    "title": "Marienheide: Schulleitung wieder komplett – Neue Doppelspitze übernimmt",
+    "summary": "Schulleitung an der Gesamtschule Marienheide ist wieder komplett: Ina Meißner und Anton Merola übernehmen neue Führungsaufgaben.",
+    "link": "https://www.news-on-tour.de/242285/marienheide-schulleitung-gesamtschule/",
+    "published": "Fri, 18 Sep 2026 07:45:13 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-09-18T09:38:17.409526"
+  },
+  {
+    "id": "a467f5260250",
+    "title": "Marienheide: Blind-Audition geglückt – Rapper überzeugt Shirin David",
+    "summary": "Rapper Can Dean Aygen aus Marienheide meistert die Blind-Audition bei The Voice of Germany und zieht in das Team von Shirin David ein.",
+    "link": "https://www.news-on-tour.de/241989/marienheide-blind-audition-voice/",
+    "published": "Sun, 13 Sep 2026 12:53:51 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-09-13T16:09:49.984135"
+  },
+  {
+    "id": "cab8e0e91d46",
+    "title": "POL-GM: Verkehrsunfall auf der L97",
+    "summary": "Lindlar (ots) - Am 12. September (Samstag) kam es auf der L97 zu einem Verkehrsunfall, an dem zwei Autos beteiligt waren und bei dem drei Personen verletzt wurden. Ein 83-jähriger Gummersbacher fuhr auf der L97 von Kaiserau in Richtung Marienheide ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6350932",
+    "published": "Sun, 13 Sep 2026 10:30:07 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "lindlar",
+      "gummersbach",
+      "marienheide"
+    ],
+    "fetched": "2026-09-13T11:42:25.875182"
+  },
+  {
+    "id": "ea5c612feac6",
+    "title": "Marienheide: Castingshow-Auftritt bei The Voice – Can Dean kämpft um Buzzer",
+    "summary": "Castingshow im Rampenlicht: Der Musiker Can Dean aus Marienheide tritt bei The Voice of Germany auf. Entdeckt wurde er zuvor auf TikTok.",
+    "link": "https://www.news-on-tour.de/241748/marienheide-castingshow-voice/",
+    "published": "Wed, 09 Sep 2026 03:59:53 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-09-09T05:55:31.318102"
+  },
+  {
+    "id": "abe8cbfd9e22",
+    "title": "Marienheide: Blaualgen an der Brucher – Kreis verhängt Badeverbot",
+    "summary": "Erneuter Blaualgen-Befall an der Bruchertalsperre in Marienheide: Das Gesundheitsamt Oberberg verhängt ab sofort ein striktes Badeverbot.",
+    "link": "https://www.news-on-tour.de/241695/marienheide-blaualgen-badeverbot-2/",
+    "published": "Tue, 08 Sep 2026 15:34:26 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-09-08T18:33:48.371077"
+  },
+  {
+    "id": "f6062780d115",
+    "title": "So schön war die Bergische Radwoche",
+    "summary": "Die Wasserquintett-Kommunen Radevormwald, Hückeswagen, Wipperfürth und Marienheide hatten sich zusammengeschlossen, um die Region als attraktiven Freizeit- und Erholungsraum gemeinsam erlebbar zu machen.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/so-schoen-war-die-bergische-radwoche-XHV4MG2HBAWW7PNMQSWPKYR5BQ.html",
+    "published": "Sat, 05 Sep 2026 02:00:00 +0200",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "marienheide",
+      "wipperfuerth",
+      "hueckeswagen",
+      "radevormwald"
+    ],
+    "fetched": "2026-09-05T04:16:56.881192"
+  },
+  {
+    "id": "0964ac5bc6ce",
+    "title": "„Art & Bike“: Neue Radroute verbindet Natur- und Kunsterlebnis im Bergischen Land",
+    "summary": "Die erste Route von „Art & Bike“führt auf knapp 40 Kilometern von Marienheide über Hückeswagen nach Burscheid – unterwegs gibt es 38 Kunstwerke zu entdecken.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/art-und-bike-neue-radroute-verbindet-natur-und-kunsterlebnis-im-bergischen-land-RW6H2DAFKOBBRV226ICZ7MHXYU.html",
+    "published": "Wed, 02 Sep 2026 08:06:44 +0200",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "marienheide",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-09-02T09:30:50.176934"
+  },
+  {
+    "id": "9977d3ca030b",
+    "title": "Marienheide: Kriminelle scheitern an Handwerkerfahrzeug in Kalsbach",
+    "summary": "Unbekannte versuchten in Marienheide-Kalsbach ein Handwerkerfahrzeug aufzuhebeln. Die Täter richteten Sachschaden an und flüchteten ohne Beute.",
+    "link": "https://www.news-on-tour.de/241095/marienheide-handwerkerfahrzeug-kalsbach/",
+    "published": "Fri, 28 Aug 2026 13:38:22 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-08-28T18:35:40.711238"
+  },
+  {
+    "id": "1bb92668ec4d",
+    "title": "POL-GM: Kriminelle in Kalsbach unterwegs",
+    "summary": "Marienheide (ots) - In der Nacht von Mittwoch auf Donnerstag (26./27. August) machten sich Unbekannte an einem Handwerkerfahrzeug zu schaffen, welches geparkt auf einem Firmengelände in der Wiesenstraße stand. Die Kriminellen versuchten zunächst, ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6341442",
+    "published": "Fri, 28 Aug 2026 10:23:03 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-08-28T18:35:58.461047"
   },
   {
     "id": "2691285179a7",
@@ -370,17 +321,95 @@
     "fetched": "2026-08-27T09:30:29.763481"
   },
   {
-    "id": "08e5736fc64e",
-    "title": "Marienheide: Drei AfD-Ratsmitglieder verlassen Fraktion – Streit um Wählertäuschung und Mandate",
-    "summary": "Marienheide / AfD / Gemeinderat / Wählertäuschung (Von Christian Sasse) In der Sitzung des Marienheider Gemeinderats am gestrigen Mittwoch 24.02.2026 haben drei von fünf AfD-Ratsmitgliedern die Fraktion verlassen, behalten aber ihre Mandate und lösen damit eine Diskussion um eine mögliche Wählertäuschung in Marienheide aus. Während die verbliebenen AfD-Vertreter an einer sachorientierten Kommunalp",
-    "link": "https://www.news-on-tour.de/200250/marienheide-afd-waehleraeuschung/",
-    "published": "Thu, 26 Feb 2026 11:25:08 +0000",
+    "id": "d47a2e28510d",
+    "title": "Wipperfürth & Marienheide: Junior-Tour – Hannah Bondke holt Gesamtrang zwei",
+    "summary": "Junior-Tour und Badminton-Nachwuchs aus Wipperfürth und Marienheide: Hannah Bondke wird Zweite der U11-Gesamtwertung nach fünf Starts.",
+    "link": "https://www.news-on-tour.de/240565/wipperfuerth-junior-tour-badminton/",
+    "published": "Wed, 19 Aug 2026 22:28:20 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wipperfuerth",
+      "marienheide"
+    ],
+    "fetched": "2026-08-19T22:36:00.387631"
+  },
+  {
+    "id": "74238eee64b9",
+    "title": "Altena: Neuer Waldbrand – Brandgeruch erreicht Gummersbach und Lindlar (13:59 Uhr)",
+    "summary": "Neue NINA-Warnung aus Altena: Brandgeruch in Gummersbach, Lindlar, Wipperfürth und Marienheide. Laut Leitstelle keine Gesundheitsgefahr.",
+    "link": "https://www.news-on-tour.de/240382/altena-waldbrand-brandgeruch/",
+    "published": "Sat, 15 Aug 2026 13:12:35 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "marienheide",
-      "bergneustadt"
+      "lindlar",
+      "gummersbach",
+      "wipperfuerth"
     ],
-    "fetched": "2026-05-05T21:11:16.624008"
+    "fetched": "2026-08-15T13:38:15.358787"
+  },
+  {
+    "id": "84d53248ca51",
+    "title": "Marienheide: Blaualgen – Gesundheitsamt warnt, drei Badestellen gesperrt",
+    "summary": "An der Bruchertalsperre sind DLRG-Haus, Segelclub und Staumauer gesperrt. Nur an der Badestelle Campingplatz ist Baden weiter erlaubt.",
+    "link": "https://www.news-on-tour.de/236886/marienheide-blaualgen-badeverbot/",
+    "published": "Mon, 10 Aug 2026 14:43:16 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-08-10T15:10:56.361001"
+  },
+  {
+    "id": "c81d6115889f",
+    "title": "Marienheide: Wohnmobil brennt auf Campingplatz in Lambach – Feuerwehr und Rettungsdienst im Einsatz",
+    "summary": "Auf einem Campingplatz im Marienheider Ortsteil Lambach brennt am späten Freitagabend ein Wohnmobil. Feuerwehr und Rettungsdienst sind vor Ort.",
+    "link": "https://www.news-on-tour.de/209198/wohnmobilbrand-in-marienheide/",
+    "published": "Fri, 31 Jul 2026 20:25:00 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-07-31T20:26:40.538211"
+  },
+  {
+    "id": "807227bb34d6",
+    "title": "Gummersbach/Marienheide: Strafverfahren starten in neue Runden – vier Termine",
+    "summary": "Zwei Verfahren mit Bezug zu Gummersbach und Marienheide laufen Anfang August 2026 weiter. Termine, Vorwürfe und Hinweise im Überblick.",
+    "link": "https://www.news-on-tour.de/206554/oberberg-strafverfahren-termine/",
+    "published": "Fri, 31 Jul 2026 12:03:10 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "marienheide",
+      "gummersbach"
+    ],
+    "fetched": "2026-07-31T14:29:23.399368"
+  },
+  {
+    "id": "755f660b9cd4",
+    "title": "Morsbach: Kradunfälle – Honda-Fahrer crasht. Zwei Fahrer verletzt",
+    "summary": "Kradunfälle in Morsbach und Marienheide: Zwei Zweiradfahrer wurden leicht verletzt, einer kam zur ambulanten Behandlung ins Krankenhaus.",
+    "link": "https://www.news-on-tour.de/206490/morsbach-kradunfaelle-marienheide/",
+    "published": "Thu, 30 Jul 2026 10:20:43 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "morsbach",
+      "marienheide"
+    ],
+    "fetched": "2026-07-30T12:00:25.608585"
+  },
+  {
+    "id": "6106a915f903",
+    "title": "POL-GM: Kradfahrer bei Verkehrsunfall verletzt",
+    "summary": "Marienheide (ots) - Am Mittwoch (29. Juli) wollte eine 60-jährige Gummersbacherin mit ihrem Mercedes von der Brucher Straße auf die Gummersbacher Straße (B256) abbiegen. Dabei kam es gegen 10:15 Uhr zum Zusammenstoß mit dem Leichtkraftrad eines ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6324201",
+    "published": "Thu, 30 Jul 2026 10:48:16 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "marienheide",
+      "gummersbach"
+    ],
+    "fetched": "2026-07-30T09:37:10.479004"
   },
   {
     "id": "1d5116a8526d",
@@ -390,154 +419,52 @@
     "published": "Thu, 23 Jul 2026 14:07:41 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "kreisweite-nachrichten",
       "bergneustadt",
-      "marienheide",
-      "gummersbach"
+      "gummersbach",
+      "marienheide"
     ],
     "fetched": "2026-07-23T15:20:39.869121"
   },
   {
-    "id": "910ac3a73898",
-    "title": "POL-GM: Zwei Verletzte nach Frontalzusammenstoß",
-    "summary": "Marienheide (ots) - Bei einem Verkehrsunfall zwischen Himmerkusen und Hütte wurden am Mittwoch (8. Juli) zwei Autofahrer leicht verletzt. Ein 61-Jähriger aus Bergneustadt war gegen 7:30 Uhr mit seinem Ford auf der Leppestraße von Himmerkusen in ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6311156",
-    "published": "Thu, 09 Jul 2026 10:03:31 +0200",
-    "source": "Presseportal Polizei OBK",
+    "id": "ce18e4c0dede",
+    "title": "Hückeswagen: Badeunfall an Wuppertalsperre – Mann (20) stirbt",
+    "summary": "Ein tragischer Badeunfall ereignete sich in Hückeswagen an der Wuppertalsperre: Ein 20-Jähriger wurde nach dem Untergehen tot geborgen. Ermittlungen laufen.",
+    "link": "https://www.news-on-tour.de/205642/hueckeswagen-badeunfall-wuppertalsperre/",
+    "published": "Mon, 13 Jul 2026 16:39:01 +0000",
+    "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
+      "hueckeswagen",
       "bergneustadt",
-      "marienheide"
+      "marienheide",
+      "gummersbach"
     ],
-    "fetched": "2026-07-09T08:37:25.747567"
+    "fetched": "2026-07-13T18:03:55.573495"
   },
   {
-    "id": "813a03de2a33",
-    "title": "Marienheide: Frontalzusammenstoß fordert zwei Verletzte",
-    "summary": "Bei einem Frontalzusammenstoß auf der Leppestraße in Marienheide wurden zwei Autofahrer leicht verletzt. Beide Fahrzeuge mussten abgeschleppt werden.",
-    "link": "https://www.news-on-tour.de/205447/marienheide-frontalzusammenstoss-verletzte/",
-    "published": "Thu, 09 Jul 2026 08:24:27 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "marienheide"
-    ],
-    "fetched": "2026-07-09T08:37:12.223512"
-  },
-  {
-    "id": "a4093fa5b660",
-    "title": "POL-GM: Motorradfahrer schwer verletzt",
-    "summary": "Marienheide (ots) - Bei einem Zusammenstoß zwischen einem Motorrad und einem Auto wurde ein 68-Jähriger am Samstag (30. Mai) schwer verletzt. Ein 62-jähriger Autofahrer aus Marienheide fuhr auf der Unnenberger Straße in Richtung Gummersbach. ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6285185",
-    "published": "Sun, 31 May 2026 11:05:03 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "gummersbach",
-      "marienheide"
-    ],
-    "fetched": "2026-05-31T11:48:13.211310"
-  },
-  {
-    "id": "f032a77917fd",
-    "title": "POL-GM: Zeugin beobachtet flüchtende Einbrecher",
-    "summary": "Marienheide (ots) - Eine 63-Jährige aus Marienheide war am Freitag (25. September) gegen 11:55 Uhr in ihrem Auto unterwegs und beabsichtigte in die Gimborner Straße einzubiegen. Dabei sah sie drei Tatverdächtige die Maskiert waren und aus einem ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6359774",
-    "published": "Sun, 27 Sep 2026 10:55:01 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "marienheide"
-    ],
-    "fetched": "2026-09-27T13:53:52.280558"
-  },
-  {
-    "id": "b81b6af1bedb",
-    "title": "Marienheide, Gummersbach & Wiehl: 4 Einbruchsfälle – Polizei ermittelt!",
-    "summary": "Vier Einbruchsfälle in Marienheide, Gummersbach und Wiehl: Bewohner treffen auf Verdächtige, Schmuck fehlt – Polizei sucht Zeugen.",
-    "link": "https://www.news-on-tour.de/242764/marienheide-einbruchsfaelle-fenster/",
-    "published": "Sun, 27 Sep 2026 09:25:28 +0000",
+    "id": "102ba0d4bc0b",
+    "title": "Marienheide: Fahrradunfall auf der Hauptstraße – Polizei sucht Zeugen",
+    "summary": "Ein 18-jähriger Radfahrer wurde in Marienheide bei einem Fahrradunfall schwer verletzt, als ein unbekannter Autofahrer abbiegen wollte und anschließend flüchtete. Die Polizei sucht dringend Zeugen des Vorfalls.",
+    "link": "https://www.news-on-tour.de/205640/marienheide-fahrradunfall-zeugen/",
+    "published": "Mon, 13 Jul 2026 16:34:53 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "marienheide",
-      "gummersbach",
-      "wiehl"
+      "gummersbach"
     ],
-    "fetched": "2026-09-27T13:53:34.696598"
+    "fetched": "2026-07-13T18:03:55.573542"
   },
   {
-    "id": "a013bcdae815",
-    "title": "Oberberg: Einbruchserie am Wochenende – Diebe schlagen fünfmal zu",
-    "summary": "Mehrere Einbrüche und Diebstähle binnen weniger Tage: In Wiehl, Marienheide und Engelskirchen schlugen Unbekannte zu – die Polizei ermittelt.",
-    "link": "https://www.news-on-tour.de/204238/oberberg-einbruchserie-diebstaehle/",
-    "published": "Sun, 21 Jun 2026 20:59:26 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl",
-      "engelskirchen",
-      "marienheide"
-    ],
-    "fetched": "2026-06-21T21:26:26.198216"
-  },
-  {
-    "id": "0b6fd09b68ca",
-    "title": "POL-GM: Kennzeichendiebe in Marienheide unterwegs",
-    "summary": "Marienheide (ots) - Auf Autokennzeichen hatten es Unbekannte in der Nacht auf Samstag (20. Juni) abgesehen. Die Diebe machten sich auf einem Park & Ride-Parkplatz in der Bahnhofstraße an vier Autos zu schaffen. An drei der geparkten Fahrzeuge ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6298644",
-    "published": "Sun, 21 Jun 2026 11:50:27 +0200",
+    "id": "c16ff1d6e277",
+    "title": "POL-GM: Fahrradfahrer bei Verkehrsunfall schwer verletzt - Polizei sucht Zeugen",
+    "summary": "Marienheide (ots) - Bei einem Verkehrsunfall in Marienheide wurde am Sonntag (12. Juli) ein Fahrradfahrer schwer verletzt. Der 18-jährige Wipperfürther war mit seinem Fahrrad gegen 17:50 Uhr auf der abschüssigen Hauptstraße unterwegs und bog ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6313243",
+    "published": "Mon, 13 Jul 2026 11:13:03 +0200",
     "source": "Presseportal Polizei OBK",
     "kommunen": [
+      "wipperfuerth",
       "marienheide"
     ],
-    "fetched": "2026-06-21T10:40:16.409586"
-  },
-  {
-    "id": "9c41199b99fc",
-    "title": "POL-GM: Kradfahrer bei Sturz verletzt",
-    "summary": "Marienheide (ots) - Am Freitag (18. September) war ein 64-Jähriger aus Marienheide mit seinem Leichtkraftrad auf der Straße \"Obersiemeringhausen\" in Richtung Kapellenweg unterwegs. Unweit der Bushaltestelle \"Obersiemeringhausen\" kam er gegen 17:30 ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6355334",
-    "published": "Sun, 20 Sep 2026 09:41:34 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "marienheide"
-    ],
-    "fetched": "2026-09-20T11:17:59.497718"
-  },
-  {
-    "id": "2b6f8d8ad939",
-    "title": "Wiehl, Lindlar & Marienheide: Verkehrsunfall an Hauswand – Kradfahrer schwer verletzt",
-    "summary": "Drei Unfälle in Oberberg mit drei Verletzten: In Oberwiehl prallte ein Auto gegen eine Hauswand, in zwei weiteren Fällen wurden Männer verletzt.",
-    "link": "https://www.news-on-tour.de/242362/marienheide-verkehrsunfall-hauswand/",
-    "published": "Sun, 20 Sep 2026 08:05:37 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "marienheide",
-      "wiehl",
-      "lindlar"
-    ],
-    "fetched": "2026-09-20T11:17:42.216751"
-  },
-  {
-    "id": "a467f5260250",
-    "title": "Marienheide: Blind-Audition geglückt – Rapper überzeugt Shirin David",
-    "summary": "Rapper Can Dean Aygen aus Marienheide meistert die Blind-Audition bei The Voice of Germany und zieht in das Team von Shirin David ein.",
-    "link": "https://www.news-on-tour.de/241989/marienheide-blind-audition-voice/",
-    "published": "Sun, 13 Sep 2026 12:53:51 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "marienheide"
-    ],
-    "fetched": "2026-09-13T16:09:49.984135"
-  },
-  {
-    "id": "cab8e0e91d46",
-    "title": "POL-GM: Verkehrsunfall auf der L97",
-    "summary": "Lindlar (ots) - Am 12. September (Samstag) kam es auf der L97 zu einem Verkehrsunfall, an dem zwei Autos beteiligt waren und bei dem drei Personen verletzt wurden. Ein 83-jähriger Gummersbacher fuhr auf der L97 von Kaiserau in Richtung Marienheide ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6350932",
-    "published": "Sun, 13 Sep 2026 10:30:07 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "lindlar",
-      "gummersbach",
-      "marienheide"
-    ],
-    "fetched": "2026-09-13T11:42:25.875182"
+    "fetched": "2026-07-13T12:16:26.339496"
   },
   {
     "id": "1890213397c9",
@@ -577,87 +504,196 @@
     "fetched": "2026-07-12T10:00:34.577179"
   },
   {
-    "id": "c3b36e7704e8",
-    "title": "POL-GM: Unfallfahrer betrunken",
-    "summary": "Gummersbach (ots) - Ein 41-jähriger Autofahrer fuhr am Freitag (2. Oktober, 22:25 Uhr) auf der Hauptstraße aus Richtung Marienheide in Fahrtrichtung Stülinghausen. In einer scharfen Kurve kam der Autofahrer nach rechts von der Fahrbahn ab und ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6364379",
-    "published": "Sun, 04 Oct 2026 11:21:42 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "gummersbach",
-      "marienheide"
-    ],
-    "fetched": "2026-10-04T13:09:51.692014"
-  },
-  {
-    "id": "1998c105356e",
-    "title": "Oberberg: Sechs Einbrüche in zehn Tagen – Polizei sucht dringend Zeugen",
-    "summary": "Einbruch / Gummersbach / Polizei / Oberberg (Von Christian Sasse) Im Oberbergischen Kreis haben Kriminelle innerhalb von zehn Tagen gleich sechs Mal zugeschlagen – in Gummersbach, Hückeswagen, Waldbröl, Morsbach und Marienheide. Besonders schwerwiegend: Aus einem Einfamilienhaus in der Luisenstraße stahlen Unbekannte einen Safe mit Schmuck und Silberwaren. Die Kreispolizeibehörde Oberbergischer Kr",
-    "link": "https://www.news-on-tour.de/201931/einbrueche-oberberg-gummersbach-polizei/",
-    "published": "Sun, 03 May 2026 15:32:50 +0000",
+    "id": "813a03de2a33",
+    "title": "Marienheide: Frontalzusammenstoß fordert zwei Verletzte",
+    "summary": "Bei einem Frontalzusammenstoß auf der Leppestraße in Marienheide wurden zwei Autofahrer leicht verletzt. Beide Fahrzeuge mussten abgeschleppt werden.",
+    "link": "https://www.news-on-tour.de/205447/marienheide-frontalzusammenstoss-verletzte/",
+    "published": "Thu, 09 Jul 2026 08:24:27 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "waldbroel",
-      "gummersbach",
-      "marienheide",
-      "morsbach",
-      "hueckeswagen"
+      "marienheide"
     ],
-    "fetched": "2026-05-05T21:01:14.683043"
+    "fetched": "2026-07-09T08:37:12.223512"
   },
   {
-    "id": "1d49f10d917f",
-    "title": "POL-GM: Einbruch in Rohbau",
-    "summary": "Marienheide (ots) - In der Zeit vom 27.04.2026 bis 02.05.2026 schoben Unbekannte das Garagentor eines Rohbaus in der Griemeringhauser Straße auf und traten anschließend eine weitere Tür ein. Aus dem Rohbau stahlen die Kriminellen zwei ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6267313",
-    "published": "Sun, 03 May 2026 11:22:25 +0200",
+    "id": "910ac3a73898",
+    "title": "POL-GM: Zwei Verletzte nach Frontalzusammenstoß",
+    "summary": "Marienheide (ots) - Bei einem Verkehrsunfall zwischen Himmerkusen und Hütte wurden am Mittwoch (8. Juli) zwei Autofahrer leicht verletzt. Ein 61-Jähriger aus Bergneustadt war gegen 7:30 Uhr mit seinem Ford auf der Leppestraße von Himmerkusen in ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6311156",
+    "published": "Thu, 09 Jul 2026 10:03:31 +0200",
     "source": "Presseportal Polizei OBK",
     "kommunen": [
+      "bergneustadt",
       "marienheide"
     ],
-    "fetched": "2026-05-05T21:01:18.844333"
+    "fetched": "2026-07-09T08:37:25.747567"
   },
   {
-    "id": "975626081c0e",
-    "title": "August Rüggeberg GmbH übernimmt Silmax S.p.A.",
-    "summary": "Marienheide setzt auf Wachstum und internationale Synergien: Das traditionsreiche Familienunternehmen August Rüggeberg, bekannt unter der Marke \"Pferd\" für qualitativ hochwertige Werkzeuge, hat kürzlich seine Marktstellung durch den Erwerb der Mehrheitsanteile an der italienischen Silmax S.p.A. weiter ausgebaut. Der Beitrag August Rüggeberg GmbH übernimmt Silmax S.p.A. erschien zuerst auf Oberberg",
-    "link": "https://www.oberberg-nachrichten.de/marienheide/august-rueggeberg-uebernimmt-silmax/",
-    "published": "Sat, 18 May 2024 05:50:28 +0000",
-    "source": "Oberberg Nachrichten",
+    "id": "2ae5a46a4f43",
+    "title": "POL-GM: Flüchtige Autofahrerin nach Zeugenhinweis angetroffen",
+    "summary": "Marienheide (ots) - Auf der Leppestraße auf dem Parkplatz \"Heier-Platz\" kam es am Donnerstag (2. Juli) zu einer Unfallflucht. Eine 51-Jährige und ein 55-Jähriger aus Wipperfürth parkten ihren VW auf dem Platz. Noch während sie einen Parkschein ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6307451",
+    "published": "Fri, 03 Jul 2026 09:58:00 +0200",
+    "source": "Presseportal Polizei OBK",
     "kommunen": [
-      "marienheide"
-    ],
-    "fetched": "2026-05-05T21:11:09.371848"
-  },
-  {
-    "id": "74238eee64b9",
-    "title": "Altena: Neuer Waldbrand – Brandgeruch erreicht Gummersbach und Lindlar (13:59 Uhr)",
-    "summary": "Neue NINA-Warnung aus Altena: Brandgeruch in Gummersbach, Lindlar, Wipperfürth und Marienheide. Laut Leitstelle keine Gesundheitsgefahr.",
-    "link": "https://www.news-on-tour.de/240382/altena-waldbrand-brandgeruch/",
-    "published": "Sat, 15 Aug 2026 13:12:35 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "marienheide",
-      "lindlar",
-      "gummersbach",
-      "wipperfuerth"
-    ],
-    "fetched": "2026-08-15T13:38:15.358787"
-  },
-  {
-    "id": "f6062780d115",
-    "title": "So schön war die Bergische Radwoche",
-    "summary": "Die Wasserquintett-Kommunen Radevormwald, Hückeswagen, Wipperfürth und Marienheide hatten sich zusammengeschlossen, um die Region als attraktiven Freizeit- und Erholungsraum gemeinsam erlebbar zu machen.",
-    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/so-schoen-war-die-bergische-radwoche-XHV4MG2HBAWW7PNMQSWPKYR5BQ.html",
-    "published": "Sat, 05 Sep 2026 02:00:00 +0200",
-    "source": "RGA Hückeswagen",
-    "kommunen": [
-      "marienheide",
       "wipperfuerth",
-      "hueckeswagen",
-      "radevormwald"
+      "marienheide"
     ],
-    "fetched": "2026-09-05T04:16:56.881192"
+    "fetched": "2026-07-03T11:40:50.343239"
+  },
+  {
+    "id": "482ddb52feab",
+    "title": "Bergneustadt (Update #5): Traktordiebstahl – Fendt fuhr Richtung Marienheide",
+    "summary": "In Bergneustadt wurde am Montagmorgen ein grüner Fendt-Traktor vom Hof „Rosenthal“ gestohlen. Die Überwachungskamera filmte den Unbekannten. Die Polizei ermittelt.",
+    "link": "https://www.news-on-tour.de/204708/bergneustadt-traktordiebstahl-fendt/",
+    "published": "Tue, 30 Jun 2026 03:40:40 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "marienheide",
+      "bergneustadt"
+    ],
+    "fetched": "2026-06-30T04:24:25.128062"
+  },
+  {
+    "id": "86ce6a664ae3",
+    "title": "Oberberg: Zwei Verkehrsunfälle – 16-Jähriger jeweils schwer verletzt in Gummersbach und Marienheide",
+    "summary": "Zwei Verkehrsunfälle im Oberbergischen Kreis: In Gummersbach und Marienheide wurde je ein 16-Jähriger auf dem Zweirad schwer verletzt.",
+    "link": "https://www.news-on-tour.de/204501/oberberg-verkehrsunfaelle-zweirad/",
+    "published": "Fri, 26 Jun 2026 12:44:22 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "marienheide",
+      "gummersbach"
+    ],
+    "fetched": "2026-06-26T15:34:08.933817"
+  },
+  {
+    "id": "3675772e0bd6",
+    "title": "POL-GM: 16-Jähriger bei Alleinunfall schwer verletzt",
+    "summary": "Marienheide (ots) - Ein 16-jähriger Leichtkraftradfahrer aus Gummersbach fuhr am Donnerstag (25. Juni) gegen 13:20 Uhr auf der Müllenbacher Straße in Fahrtrichtung Rodt. Auf der geraden Strecke verlor der 16-Jährige die Kontrolle über die ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6302623",
+    "published": "Fri, 26 Jun 2026 09:10:54 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "marienheide",
+      "gummersbach"
+    ],
+    "fetched": "2026-06-26T09:48:29.642356"
+  },
+  {
+    "id": "a013bcdae815",
+    "title": "Oberberg: Einbruchserie am Wochenende – Diebe schlagen fünfmal zu",
+    "summary": "Mehrere Einbrüche und Diebstähle binnen weniger Tage: In Wiehl, Marienheide und Engelskirchen schlugen Unbekannte zu – die Polizei ermittelt.",
+    "link": "https://www.news-on-tour.de/204238/oberberg-einbruchserie-diebstaehle/",
+    "published": "Sun, 21 Jun 2026 20:59:26 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl",
+      "engelskirchen",
+      "marienheide"
+    ],
+    "fetched": "2026-06-21T21:26:26.198216"
+  },
+  {
+    "id": "0b6fd09b68ca",
+    "title": "POL-GM: Kennzeichendiebe in Marienheide unterwegs",
+    "summary": "Marienheide (ots) - Auf Autokennzeichen hatten es Unbekannte in der Nacht auf Samstag (20. Juni) abgesehen. Die Diebe machten sich auf einem Park & Ride-Parkplatz in der Bahnhofstraße an vier Autos zu schaffen. An drei der geparkten Fahrzeuge ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6298644",
+    "published": "Sun, 21 Jun 2026 11:50:27 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-06-21T10:40:16.409586"
+  },
+  {
+    "id": "53f6d87c96b6",
+    "title": "POL-GM: Falsche Bankmitarbeiter erbeuten hohe Geldbeträge",
+    "summary": "Gummersbach, Marienheide (ots) - Am Montag (8. Juni) wurde ein 89-jähriger Gummersbacher gegen 15:15 Uhr von einem Mann angerufen, der sich als Mitarbeiter seiner Sparkasse ausgab. Da sich der Mann mit dem Namen einer Person vorstellte, die ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6290719",
+    "published": "Tue, 09 Jun 2026 09:55:34 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach",
+      "marienheide"
+    ],
+    "fetched": "2026-06-09T08:39:36.250186"
+  },
+  {
+    "id": "bf5556249eb3",
+    "title": "Oberberg: VW Polo kollidiert mit Pedelec – gleich zweimal binnen Minuten",
+    "summary": "Zwei Pedelec-Fahrer bei Unfällen in Marienheide und Bergneustadt leicht verletzt – beide kollidierten am Dienstag mit einem VW Polo.",
+    "link": "https://www.news-on-tour.de/203481/oberberg-pedelec-unfall-bergneustadt/",
+    "published": "Wed, 03 Jun 2026 22:42:29 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt",
+      "marienheide"
+    ],
+    "fetched": "2026-06-03T23:56:05.902499"
+  },
+  {
+    "id": "5ba8ba3102d2",
+    "title": "POL-GM: Unfall im Einmündungsbereich",
+    "summary": "Marienheide (ots) - Am Dienstag (2. Juni) wollte eine 31-jährige Gummersbacherin mit ihrem VW Polo von der Bahnhofstraße nach links auf die Hauptstraße abbiegen. Dabei kam es gegen 15:50 Uhr zum Zusammenstoß mit einer 56-Jährigen aus ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6287347",
+    "published": "Wed, 03 Jun 2026 10:00:12 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach",
+      "marienheide"
+    ],
+    "fetched": "2026-06-03T11:22:27.398004"
+  },
+  {
+    "id": "3c804e569771",
+    "title": "POL-GM: Unfall im Kreisverkehr",
+    "summary": "Marienheide (ots) - Bei einem Verkehrsunfall in Marienheide-Rodt wurde am Montag (1. Juni) ein Motorradfahrer leicht verletzt. Der 26-jährige Gummersbacher war mit seiner Suzuki gegen 17 Uhr in dem Kreisverkehr Gummersbacher Straße/Müllenbacher ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6286459",
+    "published": "Tue, 02 Jun 2026 09:11:26 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach",
+      "marienheide"
+    ],
+    "fetched": "2026-06-02T10:53:52.764374"
+  },
+  {
+    "id": "a4093fa5b660",
+    "title": "POL-GM: Motorradfahrer schwer verletzt",
+    "summary": "Marienheide (ots) - Bei einem Zusammenstoß zwischen einem Motorrad und einem Auto wurde ein 68-Jähriger am Samstag (30. Mai) schwer verletzt. Ein 62-jähriger Autofahrer aus Marienheide fuhr auf der Unnenberger Straße in Richtung Gummersbach. ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6285185",
+    "published": "Sun, 31 May 2026 11:05:03 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach",
+      "marienheide"
+    ],
+    "fetched": "2026-05-31T11:48:13.211310"
+  },
+  {
+    "id": "0045ae91f24d",
+    "title": "POL-GM: Nachtrag zu gesuchter, älteren Frau in Marienheide",
+    "summary": "Marienheide (ots) - Die von der Polizei gesuchte ältere Dame im Bereich der Innenstadt Marienheide wurde wohlbehalten angetroffen. Die Suchmaßnahmen wurden demnach eingestellt. Die 'vermisste' Frau erfreut sich bester Gesundheit. Rückfragen von ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6283227",
+    "published": "Wed, 27 May 2026 18:21:12 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-05-27T19:32:50.390846"
+  },
+  {
+    "id": "f516a2301fd1",
+    "title": "POL-GM: Fahndung nach vermisster, älteren Frau in Marienheide",
+    "summary": "Marienheide (ots) - Die Polizei sucht im Bereich des Stadtkerns Marienheide eine 87-jährige Frau, die von der Innenstadt in unbekannte Richtung unterwegs ist. Beschrieben wir die Frau wie folgt: - 87 Jahre alt - graues, mittellanges Haar - ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6283198",
+    "published": "Wed, 27 May 2026 16:30:50 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-05-27T16:45:36.364577"
   },
   {
     "id": "7e6b6965cfef",
@@ -711,185 +747,6 @@
     "fetched": "2026-05-25T10:44:42.337610"
   },
   {
-    "id": "00f51bc3d4c8",
-    "title": "POL-GM: Unfall im Kreuzungsbereich",
-    "summary": "Marienheide (ots) - Am Samstag (16. Mai) wollte ein 49-jähriger Marienheider von der Straße \"Am Rottland\" nach links auf die Scharder Straße abbiegen. Dabei kam es gegen 13:06 Uhr zum Zusammenstoß mit dem Motorrad eines 37-jährigen ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6276713",
-    "published": "Mon, 18 May 2026 11:26:03 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "marienheide"
-    ],
-    "fetched": "2026-05-18T10:24:16.245080"
-  },
-  {
-    "id": "ce18e4c0dede",
-    "title": "Hückeswagen: Badeunfall an Wuppertalsperre – Mann (20) stirbt",
-    "summary": "Ein tragischer Badeunfall ereignete sich in Hückeswagen an der Wuppertalsperre: Ein 20-Jähriger wurde nach dem Untergehen tot geborgen. Ermittlungen laufen.",
-    "link": "https://www.news-on-tour.de/205642/hueckeswagen-badeunfall-wuppertalsperre/",
-    "published": "Mon, 13 Jul 2026 16:39:01 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "hueckeswagen",
-      "bergneustadt",
-      "marienheide",
-      "gummersbach"
-    ],
-    "fetched": "2026-07-13T18:03:55.573495"
-  },
-  {
-    "id": "102ba0d4bc0b",
-    "title": "Marienheide: Fahrradunfall auf der Hauptstraße – Polizei sucht Zeugen",
-    "summary": "Ein 18-jähriger Radfahrer wurde in Marienheide bei einem Fahrradunfall schwer verletzt, als ein unbekannter Autofahrer abbiegen wollte und anschließend flüchtete. Die Polizei sucht dringend Zeugen des Vorfalls.",
-    "link": "https://www.news-on-tour.de/205640/marienheide-fahrradunfall-zeugen/",
-    "published": "Mon, 13 Jul 2026 16:34:53 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "marienheide",
-      "gummersbach"
-    ],
-    "fetched": "2026-07-13T18:03:55.573542"
-  },
-  {
-    "id": "c16ff1d6e277",
-    "title": "POL-GM: Fahrradfahrer bei Verkehrsunfall schwer verletzt - Polizei sucht Zeugen",
-    "summary": "Marienheide (ots) - Bei einem Verkehrsunfall in Marienheide wurde am Sonntag (12. Juli) ein Fahrradfahrer schwer verletzt. Der 18-jährige Wipperfürther war mit seinem Fahrrad gegen 17:50 Uhr auf der abschüssigen Hauptstraße unterwegs und bog ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6313243",
-    "published": "Mon, 13 Jul 2026 11:13:03 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wipperfuerth",
-      "marienheide"
-    ],
-    "fetched": "2026-07-13T12:16:26.339496"
-  },
-  {
-    "id": "cd8562769a02",
-    "title": "Marienheide: Moderner Sportunterricht verlegt Krafttraining ins Fitnessstudio",
-    "summary": "Im Sportunterricht ins Fitnessstudio: Ein Oberstufenkurs der Gesamtschule Marienheide trainiert an modernen Kraftgeräten in Gummersbach.",
-    "link": "https://www.news-on-tour.de/243615/marienheide-sportunterricht-fitnessstudio/",
-    "published": "Mon, 12 Oct 2026 08:58:23 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach",
-      "marienheide"
-    ],
-    "fetched": "2026-10-12T09:04:26.714284"
-  },
-  {
-    "id": "84d53248ca51",
-    "title": "Marienheide: Blaualgen – Gesundheitsamt warnt, drei Badestellen gesperrt",
-    "summary": "An der Bruchertalsperre sind DLRG-Haus, Segelclub und Staumauer gesperrt. Nur an der Badestelle Campingplatz ist Baden weiter erlaubt.",
-    "link": "https://www.news-on-tour.de/236886/marienheide-blaualgen-badeverbot/",
-    "published": "Mon, 10 Aug 2026 14:43:16 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "marienheide"
-    ],
-    "fetched": "2026-08-10T15:10:56.361001"
-  },
-  {
-    "id": "9ff43224aabf",
-    "title": "„Trassentreffen“ am Sonntag, 7. Juni 2026 – am Schienenbus Wipperfürth",
-    "summary": "Aktionstag entlang der Bahntrassenradwege zwischen Leverkusen und Marienheide: Stempel sammeln, gewinnen und einige Überraschungen auch in Wipperfürth",
-    "link": "https://tourismus.wipperfuerth.de/aktivitaeten/trassentreffen.html",
-    "published": "Mon, 02 Mar 2026 10:21:34 +0100",
-    "source": "Stadt Wipperfürth (offiziell)",
-    "kommunen": [
-      "wipperfuerth",
-      "marienheide"
-    ],
-    "fetched": "2026-05-06T15:52:46.536237"
-  },
-  {
-    "id": "c81d6115889f",
-    "title": "Marienheide: Wohnmobil brennt auf Campingplatz in Lambach – Feuerwehr und Rettungsdienst im Einsatz",
-    "summary": "Auf einem Campingplatz im Marienheider Ortsteil Lambach brennt am späten Freitagabend ein Wohnmobil. Feuerwehr und Rettungsdienst sind vor Ort.",
-    "link": "https://www.news-on-tour.de/209198/wohnmobilbrand-in-marienheide/",
-    "published": "Fri, 31 Jul 2026 20:25:00 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "marienheide"
-    ],
-    "fetched": "2026-07-31T20:26:40.538211"
-  },
-  {
-    "id": "807227bb34d6",
-    "title": "Gummersbach/Marienheide: Strafverfahren starten in neue Runden – vier Termine",
-    "summary": "Zwei Verfahren mit Bezug zu Gummersbach und Marienheide laufen Anfang August 2026 weiter. Termine, Vorwürfe und Hinweise im Überblick.",
-    "link": "https://www.news-on-tour.de/206554/oberberg-strafverfahren-termine/",
-    "published": "Fri, 31 Jul 2026 12:03:10 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "marienheide",
-      "gummersbach"
-    ],
-    "fetched": "2026-07-31T14:29:23.399368"
-  },
-  {
-    "id": "9977d3ca030b",
-    "title": "Marienheide: Kriminelle scheitern an Handwerkerfahrzeug in Kalsbach",
-    "summary": "Unbekannte versuchten in Marienheide-Kalsbach ein Handwerkerfahrzeug aufzuhebeln. Die Täter richteten Sachschaden an und flüchteten ohne Beute.",
-    "link": "https://www.news-on-tour.de/241095/marienheide-handwerkerfahrzeug-kalsbach/",
-    "published": "Fri, 28 Aug 2026 13:38:22 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "marienheide"
-    ],
-    "fetched": "2026-08-28T18:35:40.711238"
-  },
-  {
-    "id": "1bb92668ec4d",
-    "title": "POL-GM: Kriminelle in Kalsbach unterwegs",
-    "summary": "Marienheide (ots) - In der Nacht von Mittwoch auf Donnerstag (26./27. August) machten sich Unbekannte an einem Handwerkerfahrzeug zu schaffen, welches geparkt auf einem Firmengelände in der Wiesenstraße stand. Die Kriminellen versuchten zunächst, ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6341442",
-    "published": "Fri, 28 Aug 2026 10:23:03 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "marienheide"
-    ],
-    "fetched": "2026-08-28T18:35:58.461047"
-  },
-  {
-    "id": "1f5f247b6132",
-    "title": "Bergneustadt: Schützenverein 1353 warnt vor Aus für Schützenfeste – Vorsitzender Pütz fordert Unterstützung",
-    "summary": "Bergneustadt / Schützenverein / Schützenfest / Oberberg (Von Christian Sasse) Immer höhere Sicherheitsauflagen und steigende Kosten durch Entscheidungen der Bundes- und Landespolitik bringen die ehrenamtlich organisierten Schützenfeste in ernsthafte Gefahr. Steigende Auflagen gefährden das Vereinsleben in Bergneustadt Die Sicherheitsanforderungen für Schützenfeste und Brauchtumsveranstaltungen sin",
-    "link": "https://www.news-on-tour.de/200261/bergneustadt-schuetzenfeste-vereine/",
-    "published": "Fri, 27 Feb 2026 06:17:57 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "bergneustadt",
-      "marienheide"
-    ],
-    "fetched": "2026-05-05T21:11:16.623877"
-  },
-  {
-    "id": "86ce6a664ae3",
-    "title": "Oberberg: Zwei Verkehrsunfälle – 16-Jähriger jeweils schwer verletzt in Gummersbach und Marienheide",
-    "summary": "Zwei Verkehrsunfälle im Oberbergischen Kreis: In Gummersbach und Marienheide wurde je ein 16-Jähriger auf dem Zweirad schwer verletzt.",
-    "link": "https://www.news-on-tour.de/204501/oberberg-verkehrsunfaelle-zweirad/",
-    "published": "Fri, 26 Jun 2026 12:44:22 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "marienheide",
-      "gummersbach"
-    ],
-    "fetched": "2026-06-26T15:34:08.933817"
-  },
-  {
-    "id": "3675772e0bd6",
-    "title": "POL-GM: 16-Jähriger bei Alleinunfall schwer verletzt",
-    "summary": "Marienheide (ots) - Ein 16-jähriger Leichtkraftradfahrer aus Gummersbach fuhr am Donnerstag (25. Juni) gegen 13:20 Uhr auf der Müllenbacher Straße in Fahrtrichtung Rodt. Auf der geraden Strecke verlor der 16-Jährige die Kontrolle über die ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6302623",
-    "published": "Fri, 26 Jun 2026 09:10:54 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "marienheide",
-      "gummersbach"
-    ],
-    "fetched": "2026-06-26T09:48:29.642356"
-  },
-  {
     "id": "649bb952303f",
     "title": "Marienheide: Seit Juli 2024 vermisster Mann tot im Wald gefunden",
     "summary": "Vermisster Mann aus Marienheide tot gefunden: Der seit Juli 2024 verschwundene 56-Jährige wurde im Wald entdeckt – kein Fremdverschulden.",
@@ -914,28 +771,183 @@
     "fetched": "2026-05-22T15:18:02.136069"
   },
   {
-    "id": "1d526a45bb26",
-    "title": "Marienheide: Schulleitung wieder komplett – Neue Doppelspitze übernimmt",
-    "summary": "Schulleitung an der Gesamtschule Marienheide ist wieder komplett: Ina Meißner und Anton Merola übernehmen neue Führungsaufgaben.",
-    "link": "https://www.news-on-tour.de/242285/marienheide-schulleitung-gesamtschule/",
-    "published": "Fri, 18 Sep 2026 07:45:13 +0000",
+    "id": "45f738d6e82d",
+    "title": "Marienheide: Radfahrerin bei Unfall an der Gummersbacher Straße verletzta",
+    "summary": "Radfahrerin in Marienheide bei Unfall an der Gummersbacher Straße verletzt – Autofahrer übersah die 59-Jährige beim Ausfahren aus einem Grundstück.",
+    "link": "https://www.news-on-tour.de/202615/marienheide-radfahrerin-unfall-rad/",
+    "published": "Wed, 20 May 2026 08:06:24 +0000",
     "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach",
+      "marienheide"
+    ],
+    "fetched": "2026-05-20T08:35:11.480707"
+  },
+  {
+    "id": "5f1472e3ca52",
+    "title": "POL-GM: Auto kollidiert mit Radfahrerin",
+    "summary": "Marienheide (ots) - Am Dienstag (19. Mai), gegen 16 Uhr beabsichtigte ein 37-Jähriger aus Marienheide von einem Grundstück auf die Gummersbacher Straße einzufahren. Dabei kam es zum Zusammenstoß mit einer 59-jährigen Fahrradfahrerin aus ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6278305",
+    "published": "Wed, 20 May 2026 09:30:40 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach",
+      "marienheide"
+    ],
+    "fetched": "2026-05-20T08:35:28.690615"
+  },
+  {
+    "id": "00f51bc3d4c8",
+    "title": "POL-GM: Unfall im Kreuzungsbereich",
+    "summary": "Marienheide (ots) - Am Samstag (16. Mai) wollte ein 49-jähriger Marienheider von der Straße \"Am Rottland\" nach links auf die Scharder Straße abbiegen. Dabei kam es gegen 13:06 Uhr zum Zusammenstoß mit dem Motorrad eines 37-jährigen ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6276713",
+    "published": "Mon, 18 May 2026 11:26:03 +0200",
+    "source": "Presseportal Polizei OBK",
     "kommunen": [
       "marienheide"
     ],
-    "fetched": "2026-09-18T09:38:17.409526"
+    "fetched": "2026-05-18T10:24:16.245080"
   },
   {
-    "id": "2ae5a46a4f43",
-    "title": "POL-GM: Flüchtige Autofahrerin nach Zeugenhinweis angetroffen",
-    "summary": "Marienheide (ots) - Auf der Leppestraße auf dem Parkplatz \"Heier-Platz\" kam es am Donnerstag (2. Juli) zu einer Unfallflucht. Eine 51-Jährige und ein 55-Jähriger aus Wipperfürth parkten ihren VW auf dem Platz. Noch während sie einen Parkschein ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6307451",
-    "published": "Fri, 03 Jul 2026 09:58:00 +0200",
+    "id": "1998c105356e",
+    "title": "Oberberg: Sechs Einbrüche in zehn Tagen – Polizei sucht dringend Zeugen",
+    "summary": "Einbruch / Gummersbach / Polizei / Oberberg (Von Christian Sasse) Im Oberbergischen Kreis haben Kriminelle innerhalb von zehn Tagen gleich sechs Mal zugeschlagen – in Gummersbach, Hückeswagen, Waldbröl, Morsbach und Marienheide. Besonders schwerwiegend: Aus einem Einfamilienhaus in der Luisenstraße stahlen Unbekannte einen Safe mit Schmuck und Silberwaren. Die Kreispolizeibehörde Oberbergischer Kr",
+    "link": "https://www.news-on-tour.de/201931/einbrueche-oberberg-gummersbach-polizei/",
+    "published": "Sun, 03 May 2026 15:32:50 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "waldbroel",
+      "gummersbach",
+      "marienheide",
+      "morsbach",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-05-05T21:01:14.683043"
+  },
+  {
+    "id": "1d49f10d917f",
+    "title": "POL-GM: Einbruch in Rohbau",
+    "summary": "Marienheide (ots) - In der Zeit vom 27.04.2026 bis 02.05.2026 schoben Unbekannte das Garagentor eines Rohbaus in der Griemeringhauser Straße auf und traten anschließend eine weitere Tür ein. Aus dem Rohbau stahlen die Kriminellen zwei ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6267313",
+    "published": "Sun, 03 May 2026 11:22:25 +0200",
     "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-05-05T21:01:18.844333"
+  },
+  {
+    "id": "846e4d911e1b",
+    "title": "Gummersbach: Hells Angels-Razzia – Großeinsatz auch im Oberbergischen",
+    "summary": "Gummersbach / Hells Angels / Razzia / Organisierte Kriminalität (Von Christian Sasse) Mit über 1.200 Beamten hat die Polizei am frühen Dienstagmorgen eine der größten Razzien in der Geschichte NRWs gegen den Hells Angels Motorcycle Club Leverkusen durchgeführt – mit Durchsuchungen auch in Gummersbach und Marienheide. Koordinierter Großeinsatz ab 4 Uhr – 28 Städte gleichzeitig Ab 4 Uhr morgens roll",
+    "link": "https://www.news-on-tour.de/201789/gummersbach-hells-angels-razzia-nrw/",
+    "published": "Wed, 29 Apr 2026 00:19:07 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach",
+      "marienheide"
+    ],
+    "fetched": "2026-05-05T21:01:14.683553"
+  },
+  {
+    "id": "f2211bca8b47",
+    "title": "Gummersbach: Auto überschlägt sich auf der Zur Linge – Fahrer stand unter Alkoholeinfluss",
+    "summary": "Gummersbach / Verkehrsunfall / Polizei / Alkohol am Steuer (Von Christian Sasse) Ein 42-jähriger Autofahrer aus Marienheide hat sich am Dienstagabend (7. April) auf der Straße Zur Linge in Gummersbach mit seinem Fahrzeug überschlagen. Ein Atemalkoholtest fiel deutlich positiv aus. Der Mann wurde leicht verletzt, sein Fahrzeug sichergestellt. Symbolbild: © Foto+TV Agentur NTOi.deolbild: © Foto+TV A",
+    "link": "https://www.news-on-tour.de/201230/gummersbach-auto-ueberschlag-alkohol/",
+    "published": "Wed, 08 Apr 2026 13:28:15 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "marienheide",
+      "gummersbach"
+    ],
+    "fetched": "2026-05-05T21:11:16.619950"
+  },
+  {
+    "id": "9ff43224aabf",
+    "title": "„Trassentreffen“ am Sonntag, 7. Juni 2026 – am Schienenbus Wipperfürth",
+    "summary": "Aktionstag entlang der Bahntrassenradwege zwischen Leverkusen und Marienheide: Stempel sammeln, gewinnen und einige Überraschungen auch in Wipperfürth",
+    "link": "https://tourismus.wipperfuerth.de/aktivitaeten/trassentreffen.html",
+    "published": "Mon, 02 Mar 2026 10:21:34 +0100",
+    "source": "Stadt Wipperfürth (offiziell)",
     "kommunen": [
       "wipperfuerth",
       "marienheide"
     ],
-    "fetched": "2026-07-03T11:40:50.343239"
+    "fetched": "2026-05-06T15:52:46.536237"
+  },
+  {
+    "id": "1f5f247b6132",
+    "title": "Bergneustadt: Schützenverein 1353 warnt vor Aus für Schützenfeste – Vorsitzender Pütz fordert Unterstützung",
+    "summary": "Bergneustadt / Schützenverein / Schützenfest / Oberberg (Von Christian Sasse) Immer höhere Sicherheitsauflagen und steigende Kosten durch Entscheidungen der Bundes- und Landespolitik bringen die ehrenamtlich organisierten Schützenfeste in ernsthafte Gefahr. Steigende Auflagen gefährden das Vereinsleben in Bergneustadt Die Sicherheitsanforderungen für Schützenfeste und Brauchtumsveranstaltungen sin",
+    "link": "https://www.news-on-tour.de/200261/bergneustadt-schuetzenfeste-vereine/",
+    "published": "Fri, 27 Feb 2026 06:17:57 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt",
+      "marienheide"
+    ],
+    "fetched": "2026-05-05T21:11:16.623877"
+  },
+  {
+    "id": "08e5736fc64e",
+    "title": "Marienheide: Drei AfD-Ratsmitglieder verlassen Fraktion – Streit um Wählertäuschung und Mandate",
+    "summary": "Marienheide / AfD / Gemeinderat / Wählertäuschung (Von Christian Sasse) In der Sitzung des Marienheider Gemeinderats am gestrigen Mittwoch 24.02.2026 haben drei von fünf AfD-Ratsmitgliedern die Fraktion verlassen, behalten aber ihre Mandate und lösen damit eine Diskussion um eine mögliche Wählertäuschung in Marienheide aus. Während die verbliebenen AfD-Vertreter an einer sachorientierten Kommunalp",
+    "link": "https://www.news-on-tour.de/200250/marienheide-afd-waehleraeuschung/",
+    "published": "Thu, 26 Feb 2026 11:25:08 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "marienheide",
+      "bergneustadt"
+    ],
+    "fetched": "2026-05-05T21:11:16.624008"
+  },
+  {
+    "id": "3e606692ffa8",
+    "title": "Intensive Naturerfahrung beim Bergwald-Projekt im Oberallgäu",
+    "summary": "Klatschende Regengüsse, Kälte, Sturm und erster Schnee – Die Wetterkapriolen waren klare Vorboten des Winters – und dennoch engagierten sich 20 Schülerinnen und Schüler der Gesamtschule Marienheide letzten Herbst im Rahmen des Bergwald-Projektes im Naturpark Nagelfluhkette in der Nähe von Oberstdorf. Der Beitrag Intensive Naturerfahrung beim Bergwald-Projekt im Oberallgäu erschien zuerst auf Oberb",
+    "link": "https://www.oberberg-nachrichten.de/marienheide/gesamtschule-marienheide-bergwald-projekt-oberallgaeu/",
+    "published": "Tue, 28 Jan 2025 15:53:59 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-05-05T21:11:09.367850"
+  },
+  {
+    "id": "d6277cbe9689",
+    "title": "Gesamtschule Marienheide – Weihnachtskonzert der MAMBA",
+    "summary": "Das sinfonische Blasorchester MAMBA der Gesamtschule Marienheide hat wenige Tage vor Weihnachten eindrucksvoll bewiesen, dass Musik und Gemeinschaft Hand in Hand gehen können. Der Beitrag Gesamtschule Marienheide &#8211; Weihnachtskonzert der MAMBA erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/marienheide/weihnachtskonzert-der-mamba/",
+    "published": "Tue, 14 Jan 2025 12:36:18 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-05-05T21:11:09.368148"
+  },
+  {
+    "id": "975626081c0e",
+    "title": "August Rüggeberg GmbH übernimmt Silmax S.p.A.",
+    "summary": "Marienheide setzt auf Wachstum und internationale Synergien: Das traditionsreiche Familienunternehmen August Rüggeberg, bekannt unter der Marke \"Pferd\" für qualitativ hochwertige Werkzeuge, hat kürzlich seine Marktstellung durch den Erwerb der Mehrheitsanteile an der italienischen Silmax S.p.A. weiter ausgebaut. Der Beitrag August Rüggeberg GmbH übernimmt Silmax S.p.A. erschien zuerst auf Oberberg",
+    "link": "https://www.oberberg-nachrichten.de/marienheide/august-rueggeberg-uebernimmt-silmax/",
+    "published": "Sat, 18 May 2024 05:50:28 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-05-05T21:11:09.371848"
+  },
+  {
+    "id": "9407dccace89",
+    "title": "Barista in den eigene vier Wänden – worauf man achten sollte, um den perfekten Kaffee auch zu Hause genießen zu können",
+    "summary": "Gerade in Oberberg gibt es viele tolle Kaffees und Kaffeeröstereien, die frischen Kaffee anbieten. Hierzu zählen unter anderem die PanPan Coffee School and Roastery / Kaffeerösterei in Wiehl, oder die Kaffeerösterei Pagnia am Rande des Oberbergischen Kreises in Marienheide. Doch was kann man tun, um den frischen Geschmack des Kaffees auch zuhause erleben zu können? Der Beitrag Barista in den eigen",
+    "link": "https://www.oberberg-nachrichten.de/themen/verschiedenes/tipps-um-den-perfekten-kaffee-auch-zu-hause-geniessen-zu-koennen/",
+    "published": "Tue, 14 Nov 2023 09:28:04 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "marienheide",
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.373898"
   }
 ]

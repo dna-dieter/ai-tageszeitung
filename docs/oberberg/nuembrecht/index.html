@@ -53,11 +53,22 @@ footer a { color: #85C1E9; }
 .legal ul { padding-left: 1.2rem; }
 .legal .hinweis { background: #fff8e6; border-left: 4px solid var(--rbk-rot); padding: 10px 14px; margin-bottom: 16px; }
 .empty { text-align: center; padding: 40px; color: #999; font-size: 1.1rem; }
+.rat-block { margin: 4px 0 26px; }
+.rat-block h2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.15rem; color: var(--rbk-blau); margin: 0 0 10px; }
+.rat-hero { background: white; border-left: 4px solid var(--rbk-rot); border-radius: 6px; padding: 16px 18px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+.rat-hero .wann { font-family: sans-serif; font-size: 0.78rem; font-weight: 700; color: var(--rbk-rot); letter-spacing: 0.04em; text-transform: uppercase; }
+.rat-hero h3 { font-size: 1.25rem; margin: 4px 0; }
+.rat-liste { list-style: none; }
+.rat-liste li { background: white; border-radius: 6px; padding: 12px 16px; margin-bottom: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+.rat-liste .wann { font-family: sans-serif; font-size: 0.82rem; color: var(--rbk-blau); font-weight: 700; }
+.rat-liste .ort { font-family: sans-serif; font-size: 0.8rem; color: #666; }
+.rat-quelle { font-family: sans-serif; font-size: 0.8rem; color: #666; margin-top: 8px; }
 .monat-gruppe { margin-bottom: 8px; }
 .monat-header { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.05rem; color: var(--rbk-blau); border-bottom: 2px solid var(--rbk-blau); padding: 8px 0 5px 0; margin: 18px 0 10px 0; display: flex; align-items: center; gap: 8px; }
 .monat-header:first-child { margin-top: 0; }
 .monat-count { background: var(--rbk-blau); color: white; font-size: 0.72rem; padding: 1px 8px; border-radius: 10px; font-weight: 400; }
 .btn-refresh { display: inline-flex; align-items: center; gap: 5px; font-family: sans-serif; font-size: 0.78rem; padding: 5px 14px; background: #2ECC71; color: white; border: none; border-radius: 4px; text-decoration: none; cursor: pointer; transition: background 0.2s; margin-top: 4px; }
+.btn-refresh[hidden], .refresh-status[hidden] { display: none; }
 .btn-refresh:hover { background: #27AE60; color: white; }
 .btn-refresh:disabled, .btn-refresh.loading { background: #95A5A6; cursor: wait; opacity: 0.8; }
 .btn-refresh .spinner { display: inline-block; width: 10px; height: 10px; border: 2px solid rgba(255,255,255,0.3); border-top-color: white; border-radius: 50%; animation: spin 0.8s linear infinite; }
@@ -81,9 +92,9 @@ footer a { color: #85C1E9; }
     <div class="sub">AI Tageszeitung · Oberbergischer Kreis</div>
   </div>
   <div class="meta">
-    <div><span class="live-dot"></span>95 Artikel</div>
-    <div>22.10.2026, 20:59</div>
-    <button type="button" onclick="triggerRefresh()" class="btn-refresh" id="btn-refresh">&#x21bb; Jetzt aktualisieren</button>
+    <div><span class="live-dot"></span>97 Artikel</div>
+    <div>22.10.2026, 22:19 Uhr</div>
+    <button type="button" onclick="triggerRefresh()" class="btn-refresh" id="btn-refresh" hidden>&#x21bb; Jetzt aktualisieren</button>
     <div class="refresh-status" id="refresh-status"></div>
   </div>
 </header>
@@ -91,363 +102,375 @@ footer a { color: #85C1E9; }
 <main>
 <div class="grid">
   <div><div class="monat-gruppe">
-<h2 class="monat-header">Oktober 2026 <span class="monat-count">13</span></h2>
-<div class="artikel">
-  
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6375141" target="_blank" rel="noopener">POL-GM: Diebe in Elsenroth unterwegs</a></h2>
-  <div class="teaser">Nümbrecht (ots) - In der Nacht von Montag auf Dienstag (19./20. Oktober) waren Diebe in der Straße &quot;Im Winkel&quot; in Elsenroth unterwegs. Aus einer unverschlossenen Garage stahlen sie diverses Werkzeug. Darunter drei Winkelschleifer und drei ...</div>
-  <div class="info">Wed, 21 Oct 2026 09:30:11 · Presseportal Polizei OBK</div>
-</div>
+<h2 class="monat-header">Oktober 2026 <span class="monat-count">15</span></h2>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/267396/nuembrecht-diebstahl-werkzeug/" target="_blank" rel="noopener">Nümbrecht, Marienheide &amp; Lindlar: Diebstahl – Täter stehlen Werkzeug und Geld</a></h2>
   <div class="teaser">Diebstahl in Nümbrecht, Marienheide und Lindlar: Unbekannte erbeuten Werkzeug, Bargeld und eine Bankkarte. Die Kriminalpolizei sucht Zeugen.</div>
-  <div class="info">Wed, 21 Oct 2026 08:10:30 · NEWS-on-Tour Oberberg</div>
+  <div class="info">21.10.2026, 10:10 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6375141" target="_blank" rel="noopener">POL-GM: Diebe in Elsenroth unterwegs</a></h2>
+  <div class="teaser">Nümbrecht (ots) - In der Nacht von Montag auf Dienstag (19./20. Oktober) waren Diebe in der Straße &quot;Im Winkel&quot; in Elsenroth unterwegs. Aus einer unverschlossenen Garage stahlen sie diverses Werkzeug. Darunter drei Winkelschleifer und drei ...</div>
+  <div class="info">21.10.2026, 09:30 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/255119/nuembrecht-taschenlampenfuehrung/" target="_blank" rel="noopener">Nümbrecht: Taschenlampenführung startet auf Schloss Homburg</a></h2>
   <div class="teaser">Taschenlampenführung in Nümbrecht: Ab 6. November erkunden Familien Schloss Homburg und die PLAYMOBIL-Ausstellung. Tickets kosten extra.</div>
-  <div class="info">Tue, 20 Oct 2026 09:33:42 · NEWS-on-Tour Oberberg</div>
+  <div class="info">20.10.2026, 11:33 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.ksta.de/region/oberberg/keine-fragen-zum-nuembrechter-blitzer-aerger-1398635" target="_blank" rel="noopener">Hier herrschte Stille: Keine Fragen zum Nümbrechter Blitzer-Ärger</a></h2>
+  <div class="teaser">Im Kreisausschuss hatte Anwalt Volker Steffen seine Kritik am Blitzer im Bröltal vorgetragen.</div>
+  <div class="info">19.10.2026, 10:06 Uhr · Kölner Stadt-Anzeiger Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.ksta.de/region/oberberg/schulkinder-muessen-in-nuembrecht-durch-dunklen-wald-1398631" target="_blank" rel="noopener">Morgendliche Mutprobe: Schulkinder müssen in Nümbrecht durch dunklen Wald</a></h2>
+  <div class="teaser">Wegen fehlender Stromversorgung bleibt der Waldweg zu den Schulcontainern dunkel</div>
+  <div class="info">19.10.2026, 10:02 Uhr · Kölner Stadt-Anzeiger Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/254767/nuembrecht-krummfest-deutschrock/" target="_blank" rel="noopener">Nümbrecht: Krumm&amp;Chief rockt das Krummfest im Dorfhaus Gaderoth (Mit Video)</a></h2>
   <div class="teaser">Krummfest im Dorfhaus Gaderoth: Krumm&amp;Chief spielt Deutschrock in Nümbrecht, Nici singt „Feigling“ – und 2027 soll es weitergehen.</div>
-  <div class="info">Mon, 19 Oct 2026 04:22:13 · NEWS-on-Tour Oberberg</div>
+  <div class="info">19.10.2026, 06:22 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/254785/nuembrecht-verkehrsunfall-homburger-strasse/" target="_blank" rel="noopener">Nümbrecht: Verkehrsunfall in Homburg-Bröl – 22-Jähriger leicht verletzt</a></h2>
   <div class="teaser">Verkehrsunfall in Nümbrecht: Kollision an der Homburger Straße in Homburg-Bröl – ein 22-Jähriger leicht verletzt ins Krankenhaus gebracht.</div>
-  <div class="info">Mon, 19 Oct 2026 04:12:39 · NEWS-on-Tour Oberberg</div>
+  <div class="info">19.10.2026, 06:12 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6373209" target="_blank" rel="noopener">POL-GM: Unfall im Einmündungsbereich</a></h2>
   <div class="teaser">Nümbrecht (ots) - Am Freitag (16. Oktober) wollte ein 57-jähriger Nümbrechter mit seinem Mazda in Homburg-Bröl von der Göpringhauser Straße nach rechts auf die Homburger Straße abbiegen. Dabei kam es gegen 17:50 Uhr zum Zusammenstoß mit dem ...</div>
-  <div class="info">Sun, 18 Oct 2026 11:01:12 · Presseportal Polizei OBK</div>
+  <div class="info">18.10.2026, 11:01 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/254364/nuembrecht-jubilaeum-grundschule/" target="_blank" rel="noopener">Nümbrecht: Grundschule feiert Jubiläum – 60 Jahre Auf dem Höchsten</a></h2>
   <div class="teaser">Die GGS Auf dem Höchsten feierte 60 Jahre mit Kinderprojekten, einer Freundschaftsbank und einer gemeinsamen Baumpflanzung.</div>
-  <div class="info">Sat, 17 Oct 2026 23:27:48 · NEWS-on-Tour Oberberg</div>
+  <div class="info">18.10.2026, 01:27 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/252298/nuembrecht-darmgesundheit-vortrag/" target="_blank" rel="noopener">Nümbrecht: Darmgesundheit im Fokus – Dr. Edgar Leißling referiert über das sensible Ökosystem</a></h2>
   <div class="teaser">Darmgesundheit im Fokus: Dr. Edgar Leißling referiert in Nümbrecht über den Einfluss der Darmflora auf Immunsystem und Stimmung.</div>
-  <div class="info">Thu, 15 Oct 2026 15:50:02 · NEWS-on-Tour Oberberg</div>
+  <div class="info">15.10.2026, 17:50 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/243829/nuembrecht-krummfest-gaderoth/" target="_blank" rel="noopener">Nümbrecht: Krummfest bringt vier Rockbands nach Gaderoth</a></h2>
   <div class="teaser">Krummfest im Dorfhaus Gaderoth: Vier Bands spielen am 17. Oktober in Nümbrecht. Einlass ist um 18 Uhr, Tickets kosten 15 bis 18 Euro.</div>
-  <div class="info">Tue, 13 Oct 2026 09:21:38 · NEWS-on-Tour Oberberg</div>
+  <div class="info">13.10.2026, 11:21 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/243617/nuembrecht-geschwindigkeitskontrolle-b256/" target="_blank" rel="noopener">Nümbrecht &amp; Waldbröl: Geschwindigkeitskontrolle stoppt 223 Raser auf B256 und B478</a></h2>
   <div class="teaser">Geschwindigkeitskontrolle in Nümbrecht und Waldbröl: 223 Fahrer zu schnell auf B256 und B478. Spitzenreiter raste mit 86 km/h durch Benroth.</div>
-  <div class="info">Mon, 12 Oct 2026 08:59:25 · NEWS-on-Tour Oberberg</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6367874" target="_blank" rel="noopener">POL-GM: Vorsicht vor Warenbetrug - Produkt gekauft, Ware nicht erhalten</a></h2>
-  <div class="teaser">Oberbergischer Kreis (ots) - Ein 49-Jähriger aus Nümbrecht kaufte Anfang Oktober über ein Online-Anzeigenportal ein Bosch-Gerät. Er bezahlte den vereinbarten dreistelligen Betrag über Paypal-Freunde. Kaum hatte er bezahlt waren alle ...</div>
-  <div class="info">Fri, 09 Oct 2026 09:00:31 · Presseportal Polizei OBK</div>
+  <div class="info">12.10.2026, 10:59 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/243488/nuembrecht-warenbetrug-waldbroel/" target="_blank" rel="noopener">Nümbrecht &amp; Waldbröl: Warenbetrug und Einbruch – Polizei warnt</a></h2>
   <div class="teaser">Warenbetrug in Nümbrecht: Ein 49-Jähriger verliert Geld nach PayPal-Zahlung. In Waldbröl dringt ein Unbekannter in ein Firmengebäude ein.</div>
-  <div class="info">Fri, 09 Oct 2026 07:42:50 · NEWS-on-Tour Oberberg</div>
+  <div class="info">09.10.2026, 09:42 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6367874" target="_blank" rel="noopener">POL-GM: Vorsicht vor Warenbetrug - Produkt gekauft, Ware nicht erhalten</a></h2>
+  <div class="teaser">Oberbergischer Kreis (ots) - Ein 49-Jähriger aus Nümbrecht kaufte Anfang Oktober über ein Online-Anzeigenportal ein Bosch-Gerät. Er bezahlte den vereinbarten dreistelligen Betrag über Paypal-Freunde. Kaum hatte er bezahlt waren alle ...</div>
+  <div class="info">09.10.2026, 09:00 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/243102/nuembrecht-solarpark-plaene-gestoppt/" target="_blank" rel="noopener">Nümbrecht: Solarpark-Pläne auf 16 Hektar vorerst gestoppt – Stromkosten drohen zu steigen</a></h2>
   <div class="teaser">Nümbrecht stoppt großen Solarpark: 16 Hektar Rinderweide sollten bebaut werden. Der Gemeinderat bremst wegen hoher Netzkosten für Verbraucher.</div>
-  <div class="info">Fri, 02 Oct 2026 07:17:22 · NEWS-on-Tour Oberberg</div>
+  <div class="info">02.10.2026, 09:17 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 </div>
 <div class="monat-gruppe">
 <h2 class="monat-header">September 2026 <span class="monat-count">15</span></h2>
 <div class="artikel">
   
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6361080" target="_blank" rel="noopener">POL-GM: Versuchter Einbruch - Bewohner durch Lärm geweckt</a></h2>
-  <div class="teaser">Nümbrecht (ots) - Um kurz nach Mitternacht am Dienstag (29. September) versuchten Unbekannte, in eine Wohnung eines Mehrfamilienhauses in der Straße &quot;Weidefeld&quot; einzubrechen. Ein Bewohner wurde in der Nacht von einem Knall geweckt. Als er draußen ...</div>
-  <div class="info">Tue, 29 Sep 2026 09:43:36 · Presseportal Polizei OBK</div>
+  <h2><a href="https://www.news-on-tour.de/242918/gummersbach-polizeibericht-einbruch/" target="_blank" rel="noopener">Gummersbach &amp; Nümbrecht: Polizeibericht – Räder und Tresorbeute</a></h2>
+  <div class="teaser">Drei Eigentumsdelikte in Oberberg: Fünf Autos ohne Räder, versuchter Wohnungseinbruch in Nümbrecht und Tresorbeute aus Haus am Silbersee.</div>
+  <div class="info">29.09.2026, 10:09 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
-  <h2><a href="https://www.news-on-tour.de/242918/gummersbach-polizeibericht-einbruch/" target="_blank" rel="noopener">Gummersbach &amp; Nümbrecht: Polizeibericht – Räder und Tresorbeute</a></h2>
-  <div class="teaser">Drei Eigentumsdelikte in Oberberg: Fünf Autos ohne Räder, versuchter Wohnungseinbruch in Nümbrecht und Tresorbeute aus Haus am Silbersee.</div>
-  <div class="info">Tue, 29 Sep 2026 08:09:03 · NEWS-on-Tour Oberberg</div>
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6361080" target="_blank" rel="noopener">POL-GM: Versuchter Einbruch - Bewohner durch Lärm geweckt</a></h2>
+  <div class="teaser">Nümbrecht (ots) - Um kurz nach Mitternacht am Dienstag (29. September) versuchten Unbekannte, in eine Wohnung eines Mehrfamilienhauses in der Straße &quot;Weidefeld&quot; einzubrechen. Ein Bewohner wurde in der Nacht von einem Knall geweckt. Als er draußen ...</div>
+  <div class="info">29.09.2026, 09:43 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/242478/nuembrecht-kellerbrand-nachtigallenweg/" target="_blank" rel="noopener">Nümbrecht: Feuerwehr stoppt Kellerbrand am Nachtigallenweg – Frau in Klinik</a></h2>
   <div class="teaser">Kellerbrand in Nümbrecht: Am Nachtigallenweg retten sich zwei Frauen ins Freie. Eine kommt nach Rauchgasverdacht vorsorglich in die Klinik.</div>
-  <div class="info">Wed, 23 Sep 2026 00:15:26 · NEWS-on-Tour Oberberg</div>
+  <div class="info">23.09.2026, 02:15 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/242462/nuembrecht-feuerwehr-loeschfahrzeug/" target="_blank" rel="noopener">Nümbrecht: Feuerwehr übernimmt zwei neue Einsatzfahrzeuge für Hömel und den Nachwuchs</a></h2>
   <div class="teaser">Feuerwehr Nümbrecht erhält ein neues Löschfahrzeug LF 10 für Hömel und ein MTF für den Nachwuchs. Gesamtwert: 609.000 Euro.</div>
-  <div class="info">Tue, 22 Sep 2026 15:49:47 · NEWS-on-Tour Oberberg</div>
+  <div class="info">22.09.2026, 17:49 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6355686" target="_blank" rel="noopener">POL-GM: Unfall mit E-Scooter in Waldbröl</a></h2>
   <div class="teaser">Waldbröl (ots) - Am 20. September (Sonntag) kam es im Kreuzungsbereich &quot;Homburger Straße/Burgweg/Nümbrechter Straße&quot; zu einem Alleinunfall mit einem Elektrokleinstfahrzeug, bei dem ein 59-Jähriger schwer verletzt wurde. Der 59-Jährige ...</div>
-  <div class="info">Mon, 21 Sep 2026 10:05:01 · Presseportal Polizei OBK</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6355338" target="_blank" rel="noopener">POL-GM: Einbrecherin auf frischer Tat ertappt</a></h2>
-  <div class="teaser">Nümbrecht (ots) - In der Nacht von Samstag (19. September) auf Sonntag wurde eine 62-jährige Nümbrechterin gegen 2:10 Uhr durch das Bellen ihres Hundes geweckt. Im Hausflur des Gebäudes in der Berkenrother Straße traf sie auf eine maskierte, ...</div>
-  <div class="info">Sun, 20 Sep 2026 09:46:08 · Presseportal Polizei OBK</div>
+  <div class="info">21.09.2026, 10:05 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/242369/nuembrecht-wohnungseinbruch-festnahme/" target="_blank" rel="noopener">Nümbrecht: Hund stoppt Wohnungseinbruch – Maskierte Einbrecherin überwältigt</a></h2>
   <div class="teaser">Wohnungseinbruch in Nümbrecht: Ein Ehepaar überwältigt eine maskierte Einbrecherin mit Schlagstock im Hausflur. Hund verhinderte Schlimmeres.</div>
-  <div class="info">Sun, 20 Sep 2026 09:41:54 · NEWS-on-Tour Oberberg</div>
+  <div class="info">20.09.2026, 11:41 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/242367/nuembrecht-oberliga-heimspiel/" target="_blank" rel="noopener">Nümbrecht &amp; Bergneustadt: SSV Nümbrecht siegt – Löwen chancenlos beim Oberliga-Heimspiel</a></h2>
   <div class="teaser">Oberliga in Oberberg: Der SSV Nümbrecht feiert einen Heimsieg, während die HBD Löwen Oberberg eine deutliche Schlappe kassieren.</div>
-  <div class="info">Sun, 20 Sep 2026 08:30:10 · NEWS-on-Tour Oberberg</div>
+  <div class="info">20.09.2026, 10:30 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6355338" target="_blank" rel="noopener">POL-GM: Einbrecherin auf frischer Tat ertappt</a></h2>
+  <div class="teaser">Nümbrecht (ots) - In der Nacht von Samstag (19. September) auf Sonntag wurde eine 62-jährige Nümbrechterin gegen 2:10 Uhr durch das Bellen ihres Hundes geweckt. Im Hausflur des Gebäudes in der Berkenrother Straße traf sie auf eine maskierte, ...</div>
+  <div class="info">20.09.2026, 09:46 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/242330/nuembrecht-kurpark-umgestaltung/" target="_blank" rel="noopener">Nümbrecht: Bagger rollen für Kurpark 2.0 – Gemeinde startet Umgestaltung</a></h2>
   <div class="teaser">Nümbrecht startet die Umgestaltung des Kurparks: Wege, Klimaschutz und Veranstaltungsfläche werden für Kurpark 2.0 erneuert.</div>
-  <div class="info">Sat, 19 Sep 2026 07:54:07 · NEWS-on-Tour Oberberg</div>
+  <div class="info">19.09.2026, 09:54 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/242166/nuembrecht-museumsfest-jubilaeum/" target="_blank" rel="noopener">Nümbrecht: Museumsfest feiert 100 Jahre Schloss Homburg</a></h2>
   <div class="teaser">Ritterturnier, Kulturprogramm und Sammlung prägen das Jubiläum zum 100. Geburtstag des Museums auf Schloss Homburg im Oberbergischen.</div>
-  <div class="info">Wed, 16 Sep 2026 08:02:17 · NEWS-on-Tour Oberberg</div>
+  <div class="info">16.09.2026, 10:02 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6351549" target="_blank" rel="noopener">POL-GM: Polizei bittet um Hinweise nach Unfallflucht</a></h2>
   <div class="teaser">Waldbröl (ots) - Am Freitag (11. September) kam es in Waldbröl zu einem Auffahrunfall. Gegen 15:30 Uhr war eine 57-jährige Nümbrechterin mit ihrem Opel Corsa von Hermesdorf in Richtung Waldbröl-Innenstadt unterwegs. Unweit eines Baumarktes ...</div>
-  <div class="info">Mon, 14 Sep 2026 12:31:19 · Presseportal Polizei OBK</div>
+  <div class="info">14.09.2026, 12:31 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/241863/gummersbach-kunst-atelierbesuche/" target="_blank" rel="noopener">Gummersbach: Kulturreihe öffnet Ateliers für regionale Kunst</a></h2>
   <div class="teaser">Die Reihe Kunst im Dialog lädt 2026 zu vier Atelierbesuchen in Gummersbach, Nümbrecht und Morsbach ein. Alle Termine und Infos.</div>
-  <div class="info">Thu, 10 Sep 2026 20:57:25 · NEWS-on-Tour Oberberg</div>
+  <div class="info">10.09.2026, 22:57 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/241767/nuembrecht-sachbeschaedigung-20260909/" target="_blank" rel="noopener">Nümbrecht: Sachbeschädigung – Unbekannte zerstören Verglasung</a></h2>
   <div class="teaser">Sachbeschädigung an einer Haltestelle in Homburg-Bröl: Unbekannte zerstören die Verglasung. Polizei sucht Zeugen zwischen 4. und 7. September.</div>
-  <div class="info">Wed, 09 Sep 2026 15:29:05 · NEWS-on-Tour Oberberg</div>
+  <div class="info">09.09.2026, 17:29 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6348490" target="_blank" rel="noopener">POL-GM: Bushaltestellenhäuschen beschädigt</a></h2>
   <div class="teaser">Nümbrecht (ots) - Im Zeitraum vom 4. September, 12:30, Uhr bis 7. September, 6:45 Uhr, zerstörten Unbekannte die Verglasung am Wartehäuschen der Bushaltestelle &quot;Homburger Papiermühle&quot; in Homburg-Bröl (Fahrtrichtung Elsenroth). Die Täter ...</div>
-  <div class="info">Wed, 09 Sep 2026 09:45:09 · Presseportal Polizei OBK</div>
+  <div class="info">09.09.2026, 09:45 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/241379/nuembrecht-schuljubilaeum-grundschule/" target="_blank" rel="noopener">Nümbrecht: Grundschule Auf dem Höchsten feiert Schuljubiläum</a></h2>
   <div class="teaser">60 Jahre Grundschule Auf dem Höchsten in Nümbrecht: Am 10. Oktober 2026 feiert die Schulgemeinschaft ein Jubiläum mit großem Schulfest.</div>
-  <div class="info">Fri, 04 Sep 2026 02:13:01 · NEWS-on-Tour Oberberg</div>
+  <div class="info">04.09.2026, 04:13 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 </div>
 <div class="monat-gruppe">
 <h2 class="monat-header">August 2026 <span class="monat-count">16</span></h2>
 <div class="artikel">
   
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6342165" target="_blank" rel="noopener">POL-GM: Auto kracht gegen Leitplanke</a></h2>
-  <div class="teaser">Nümbrecht (ots) - Bei einem Verkehrsunfall in Elsenroth wurde am Freitagmorgen (28. August) ein Autofahrer leicht verletzt. Der 28-jährige Nümbrechter war mit seinem Skoda gegen 6:35 Uhr auf der Jägerhofstraße (L 95) von Homburg-Bröl in ...</div>
-  <div class="info">Sun, 30 Aug 2026 09:27:45 · Presseportal Polizei OBK</div>
-</div>
-<div class="artikel">
-  
   <h2><a href="https://www.news-on-tour.de/241158/nuembrecht-verkehrsunfall-elsenroth/" target="_blank" rel="noopener">Oberberg: Verkehrsunfall in Nümbrecht und weitere aktuelle Meldungen aus Gummersbach, Lindlar…</a></h2>
   <div class="teaser">Verkehrsunfall in Nümbrecht und drei weitere Polizeimeldungen aus Gummersbach, Lindlar und Radevormwald: drei Leichtverletzte, ein Einbruch.</div>
-  <div class="info">Sun, 30 Aug 2026 07:47:21 · NEWS-on-Tour Oberberg</div>
+  <div class="info">30.08.2026, 09:47 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6341845" target="_blank" rel="noopener">POL-GM: 46-Jährige muss nach Verkehrsunfall aus ihrem Fahrzeug befreit werden</a></h2>
-  <div class="teaser">Nümbrecht (ots) - Am 28.08.2026, um 15:38 Uhr, befuhr eine 46-jährige Reichshoferin mit einem Pkw Seat die Schlossstraße in Nümbrecht. Auf der Richtungsfahrbahn Bierenbachtal, in Höhe der Zufahrt zu Schloss Homburg, verlor sie nach ...</div>
-  <div class="info">Fri, 28 Aug 2026 17:18:59 · Presseportal Polizei OBK</div>
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6342165" target="_blank" rel="noopener">POL-GM: Auto kracht gegen Leitplanke</a></h2>
+  <div class="teaser">Nümbrecht (ots) - Bei einem Verkehrsunfall in Elsenroth wurde am Freitagmorgen (28. August) ein Autofahrer leicht verletzt. Der 28-jährige Nümbrechter war mit seinem Skoda gegen 6:35 Uhr auf der Jägerhofstraße (L 95) von Homburg-Bröl in ...</div>
+  <div class="info">30.08.2026, 09:27 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/241101/nuembrecht-verkehrsunfall-schlossstrasse/" target="_blank" rel="noopener">Nümbrecht: Verkehrsunfall – Feuerwehr befreit 46-Jährige aus Seat</a></h2>
   <div class="teaser">Unfall auf der Schlossstraße: Eine verletzte Person ist im Pkw eingeschlossen. Die Fahrbahn ist komplett gesperrt, Einsatzkräfte sind vor Ort.</div>
-  <div class="info">Fri, 28 Aug 2026 15:30:51 · NEWS-on-Tour Oberberg</div>
+  <div class="info">28.08.2026, 17:30 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6341845" target="_blank" rel="noopener">POL-GM: 46-Jährige muss nach Verkehrsunfall aus ihrem Fahrzeug befreit werden</a></h2>
+  <div class="teaser">Nümbrecht (ots) - Am 28.08.2026, um 15:38 Uhr, befuhr eine 46-jährige Reichshoferin mit einem Pkw Seat die Schlossstraße in Nümbrecht. Auf der Richtungsfahrbahn Bierenbachtal, in Höhe der Zufahrt zu Schloss Homburg, verlor sie nach ...</div>
+  <div class="info">28.08.2026, 17:18 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/240927/nuembrecht-verkehrskontrollen-benroth/" target="_blank" rel="noopener">Nümbrecht, Waldbröl und weitere Orte: Verkehrskontrollen – Polizei bilanziert</a></h2>
   <div class="teaser">Benroth, Waldbröl und weitere Orte: Bei einem Sondereinsatz meldet die Polizei zahlreiche Verstöße – ein Kradfahrer fährt innerorts 99 km/h.</div>
-  <div class="info">Mon, 24 Aug 2026 12:55:28 · NEWS-on-Tour Oberberg</div>
+  <div class="info">24.08.2026, 14:55 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6338536" target="_blank" rel="noopener">POL-GM: Sondereinsatz des Verkehrsdienstes</a></h2>
   <div class="teaser">Oberbergischer Kreis (ots) - In der Zeit von 8 bis 16 Uhr am Sonntag (23. August) hat der Verkehrsdienst der Kreispolizeibehörde Oberbergischer Kreis kreisweit Sonderkontrollen durchgeführt. Auf der B 478 bei Nümbrecht-Benroth wurden insgesamt ...</div>
-  <div class="info">Mon, 24 Aug 2026 10:25:33 · Presseportal Polizei OBK</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6336777" target="_blank" rel="noopener">POL-GM: Einbrecher scheitern an Eingangstür</a></h2>
-  <div class="teaser">Nümbrecht (ots) - Ein Kampfsportstudio in der Friedhofstraße war in der Zeit von Dienstag (18. August) bis Mittwoch das Ziel von Einbrechern. Zwischen 19:30 Uhr und 16:30 Uhr versuchten die Kriminellen, beide Eingangstüren aufzuhebeln, was ihnen ...</div>
-  <div class="info">Thu, 20 Aug 2026 10:00:07 · Presseportal Polizei OBK</div>
+  <div class="info">24.08.2026, 10:25 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/240601/engelskirchen-polizeimeldungen/" target="_blank" rel="noopener">Engelskirchen / Radevormwald / Nümbrecht: Polizeimeldungen – 2x Einbruch, Radlerin verletzt</a></h2>
   <div class="teaser">Polizeimeldungen aus Oberberg: Schmuck in Radevormwald gestohlen, Einbruchsversuch in Nümbrecht gescheitert, Radfahrerin leicht verletzt.</div>
-  <div class="info">Thu, 20 Aug 2026 08:39:35 · NEWS-on-Tour Oberberg</div>
+  <div class="info">20.08.2026, 10:39 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6336777" target="_blank" rel="noopener">POL-GM: Einbrecher scheitern an Eingangstür</a></h2>
+  <div class="teaser">Nümbrecht (ots) - Ein Kampfsportstudio in der Friedhofstraße war in der Zeit von Dienstag (18. August) bis Mittwoch das Ziel von Einbrechern. Zwischen 19:30 Uhr und 16:30 Uhr versuchten die Kriminellen, beide Eingangstüren aufzuhebeln, was ihnen ...</div>
+  <div class="info">20.08.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/240563/nuembrecht-psychoonkologie-resilienz/" target="_blank" rel="noopener">Nümbrecht: Psychoonkologie-Tag startet – 26 Frauen angemeldet</a></h2>
   <div class="teaser">Resilienz-Tag für Krebspatientinnen: mamma CAMPY lädt am 19. September zum Pilotprojekt ein. 26 Frauen sind angemeldet, Teilnahme kostenlos.</div>
-  <div class="info">Wed, 19 Aug 2026 22:25:22 · NEWS-on-Tour Oberberg</div>
+  <div class="info">20.08.2026, 00:25 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/240273/gummersbach-einbrueche-nuembrecht/" target="_blank" rel="noopener">Gummersbach &amp; Nümbrecht: Einbrüche am Tag – Polizei sucht Zeugen</a></h2>
   <div class="teaser">Wohnungseinbruch in Berghausen und Nümbrecht: Täter drangen tagsüber in Häuser ein, stahlen Schmuck und Uhren. Polizei sucht Zeugen.</div>
-  <div class="info">Thu, 13 Aug 2026 11:33:53 · NEWS-on-Tour Oberberg</div>
+  <div class="info">13.08.2026, 13:33 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6332561" target="_blank" rel="noopener">POL-GM: Einbruch am helllichten Tag</a></h2>
   <div class="teaser">Nümbrecht (ots) - Am Mittwoch (12. August) kletterten Kriminelle zwischen 10 Uhr und 15:30 Uhr auf das Vordach eines Einfamilienhauses in der Wiehler Straße. Dort gelangten sie durch ein Fenster in das Gebäude und durchsuchten Schränke und ...</div>
-  <div class="info">Thu, 13 Aug 2026 10:20:57 · Presseportal Polizei OBK</div>
+  <div class="info">13.08.2026, 10:20 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/236812/nuembrecht-deutsche-fernsehlotterie/" target="_blank" rel="noopener">Nümbrecht: Deutsche Fernsehlotterie – 60-Jähriger gewinnt 100.000 Euro</a></h2>
   <div class="teaser">Nümbrecht meldet einen Gewinn über 100.000 Euro. Die Soziallotterie verweist zugleich auf ihre Förderung sozialer Projekte in Oberberg.</div>
-  <div class="info">Sun, 09 Aug 2026 16:00:22 · NEWS-on-Tour Oberberg</div>
+  <div class="info">09.08.2026, 18:00 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6329764" target="_blank" rel="noopener">POL-GM: Streit endet in einfacher Körperverletzung</a></h2>
   <div class="teaser">Morsbach (ots) - Im Rahmen einer Veranstaltung kam es am Sonntag (9. August) gegen 01:10 Uhr zu einer Auseinandersetzung zwischen drei Personen auf dem Rathausplatz. Aus bislang ungeklärter Ursache gerieten ein 25-Jähriger aus Nümbrecht, ein ...</div>
-  <div class="info">Sun, 09 Aug 2026 10:50:07 · Presseportal Polizei OBK</div>
+  <div class="info">09.08.2026, 10:50 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/236573/nuembrecht-benefizturnier-kinderhilfe/" target="_blank" rel="noopener">Nümbrecht: Golfer kämpfen – 850 Euro beim Benefizturnier</a></h2>
   <div class="teaser">Golfturnier in Nümbrecht: 29 Golfer erspielen 850 Euro für die KinderKrebshilfe, fünf Sieger erreichen die Regionalfinals der Serie.</div>
-  <div class="info">Thu, 06 Aug 2026 11:01:30 · NEWS-on-Tour Oberberg</div>
+  <div class="info">06.08.2026, 13:01 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6327537" target="_blank" rel="noopener">POL-GM: Einbruch in Café</a></h2>
   <div class="teaser">Waldbröl (ots) - Ein Unbekannter ist in der Nacht von Dienstag auf Mittwoch (4./5. August) in ein Café in der Nümbrechter Straße eingebrochen. Wie auf Aufnahmen einer Überwachungskamera zu sehen ist, schlug der Unbekannte gegen 03:20 Uhr die ...</div>
-  <div class="info">Wed, 05 Aug 2026 09:05:01 · Presseportal Polizei OBK</div>
+  <div class="info">05.08.2026, 09:05 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6325659" target="_blank" rel="noopener">POL-GM: Motorradfahrer bei Verkehrsunfall verletzt</a></h2>
   <div class="teaser">Wiehl (ots) - Beim Versuch, zwei Fahrzeuge zu überholen, ist am Samstag (1. August) ein Motorradfahrer in Marienhagen verletzt worden. Der 52-jährige Nümbrechter war gegen 12:40 Uhr auf der Talstraße (L145) von Marienhagen in Richtung Ohlhagen ...</div>
-  <div class="info">Sun, 02 Aug 2026 10:42:40 · Presseportal Polizei OBK</div>
+  <div class="info">02.08.2026, 10:42 Uhr · Presseportal Polizei OBK</div>
 </div>
 </div>
 <div class="monat-gruppe">
 <h2 class="monat-header">Juli 2026 <span class="monat-count">14</span></h2>
 <div class="artikel">
   
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6324213" target="_blank" rel="noopener">POL-GM: Betrüger auf Verkaufsportal unterwegs</a></h2>
-  <div class="teaser">Nümbrecht (ots) - Eine 40-jährige Nümbrechterin wollte zwei Produkte über ein Kleinanzeigen-Portal im Internet verkaufen. Zwei vermeintliche Käufer gaben vor, über PayPal bezahlen zu wollen, dies würde aber nicht funktionieren. Daraufhin ...</div>
-  <div class="info">Thu, 30 Jul 2026 10:55:24 · Presseportal Polizei OBK</div>
+  <h2><a href="https://www.news-on-tour.de/206485/oberberg-betrugsmaschen-faelle/" target="_blank" rel="noopener">Oberberg: Betrugsmaschen in Nümbrecht und Radevormwald – Polizei warnt</a></h2>
+  <div class="teaser">Zwei Betrugsfälle in Nümbrecht und Radevormwald: Eine Frau verliert Geld beim Onlineverkauf, ein Senior Schmuck an einen falschen Polizisten.</div>
+  <div class="info">30.07.2026, 12:02 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
-  <h2><a href="https://www.news-on-tour.de/206485/oberberg-betrugsmaschen-faelle/" target="_blank" rel="noopener">Oberberg: Betrugsmaschen in Nümbrecht und Radevormwald – Polizei warnt</a></h2>
-  <div class="teaser">Zwei Betrugsfälle in Nümbrecht und Radevormwald: Eine Frau verliert Geld beim Onlineverkauf, ein Senior Schmuck an einen falschen Polizisten.</div>
-  <div class="info">Thu, 30 Jul 2026 10:02:24 · NEWS-on-Tour Oberberg</div>
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6324213" target="_blank" rel="noopener">POL-GM: Betrüger auf Verkaufsportal unterwegs</a></h2>
+  <div class="teaser">Nümbrecht (ots) - Eine 40-jährige Nümbrechterin wollte zwei Produkte über ein Kleinanzeigen-Portal im Internet verkaufen. Zwei vermeintliche Käufer gaben vor, über PayPal bezahlen zu wollen, dies würde aber nicht funktionieren. Daraufhin ...</div>
+  <div class="info">30.07.2026, 10:55 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/206417/nuembrecht-pedelec-unfall-benroth/" target="_blank" rel="noopener">Nümbrecht: Pedelec-Unfall – 55-Jährige stirbt. Polizei ermittelt</a></h2>
   <div class="teaser">Tödlicher Fund in Nümbrecht: Eine 55-Jährige lag neben ihrem Pedelec an der Straße Am Heidchen. Die Ermittlungen zur Ursache dauern an.</div>
-  <div class="info">Wed, 29 Jul 2026 11:34:51 · NEWS-on-Tour Oberberg</div>
+  <div class="info">29.07.2026, 13:34 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6323329" target="_blank" rel="noopener">POL-GM: Pedelecfahrerin tödlich verunglückt</a></h2>
   <div class="teaser">Nümbrecht (ots) - Am Mittwochmorgen (29. Juli) ging bei der Polizei ein Notruf ein. Der Mitteiler hatte gegen 06:30 Uhr auf der Straße &quot;Am Heidchen&quot; zwischen Harscheid und Benroth eine leblose Frau neben einem Pedelec entdeckt. Ein hinzugerufener ...</div>
-  <div class="info">Wed, 29 Jul 2026 09:26:38 · Presseportal Polizei OBK</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6320657" target="_blank" rel="noopener">POL-GM: Hausbewohner überrascht Einbrecher</a></h2>
-  <div class="teaser">Nümbrecht (ots) - Unschön überrascht wurde der Bewohner eines Einfamilienhauses in der Göpringhauser Straße am vergangenen Donnerstag (23. Juli). Als der Mann gegen 17 Uhr nach Hause kam und in seine Küche ging, traf er auf einen ihm ...</div>
-  <div class="info">Fri, 24 Jul 2026 10:25:04 · Presseportal Polizei OBK</div>
+  <div class="info">29.07.2026, 09:26 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/206227/oberberg-einbruch-diebstahl/" target="_blank" rel="noopener">Oberberg: Einbruch und Diebstahl – Verrückt! Täter flüchtet in fremden Schuhen (3 Meldungen)</a></h2>
   <div class="teaser">Einbruch und Diebstahl in Oberberg: In Wipperfürth, Hückeswagen und Nümbrecht schlugen Unbekannte binnen zwei Tagen zu. Die Polizei sucht Zeugen.</div>
-  <div class="info">Fri, 24 Jul 2026 10:17:47 · NEWS-on-Tour Oberberg</div>
+  <div class="info">24.07.2026, 12:17 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6320657" target="_blank" rel="noopener">POL-GM: Hausbewohner überrascht Einbrecher</a></h2>
+  <div class="teaser">Nümbrecht (ots) - Unschön überrascht wurde der Bewohner eines Einfamilienhauses in der Göpringhauser Straße am vergangenen Donnerstag (23. Juli). Als der Mann gegen 17 Uhr nach Hause kam und in seine Küche ging, traf er auf einen ihm ...</div>
+  <div class="info">24.07.2026, 10:25 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6317662" target="_blank" rel="noopener">POL-GM: 37-Jähriger leistet nach Trunkenheitsfahrt Widerstand</a></h2>
   <div class="teaser">Nümbrecht; Wiehl (ots) - Nach einem Zeugenhinweis auf eine Trunkenheitsfahrt auf der L336 bei Nümbrecht-Bierenbachtal beabsichtigte die Polizei am Samstag (18. Juli) gegen 21:34 Uhr, einen 37-jährigen Motorradfahrer in Wiehl zu kontrollieren. Auf ...</div>
-  <div class="info">Mon, 20 Jul 2026 11:11:09 · Presseportal Polizei OBK</div>
+  <div class="info">20.07.2026, 11:11 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/205879/nuembrecht-veranstaltungen-august/" target="_blank" rel="noopener">Nümbrecht: Veranstaltungen im August locken Familien und Radler</a></h2>
   <div class="teaser">Von der ersten Bergischen Radwoche über die Playmobil-Schau auf Schloss Homburg bis zu Ferienangeboten: der Programmmonat in Nümbrecht.</div>
-  <div class="info">Fri, 17 Jul 2026 11:03:20 · NEWS-on-Tour Oberberg</div>
+  <div class="info">17.07.2026, 13:03 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/205852/autofreier-sonntag-nuembrecht/" target="_blank" rel="noopener">Nümbrecht und Waldbröl: Autofreier Sonntag lockt Radler</a></h2>
   <div class="teaser">Am 30. August rollt der 22. Radtag zwischen Nümbrecht und Waldbröl: neun Stunden autofrei, mit vier Stationen und großer Verlosung.</div>
-  <div class="info">Fri, 17 Jul 2026 08:53:42 · NEWS-on-Tour Oberberg</div>
+  <div class="info">17.07.2026, 10:53 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6313236" target="_blank" rel="noopener">POL-GM: Auto kracht gegen Baum</a></h2>
   <div class="teaser">Nümbrecht (ots) - Bei einem Verkehrsunfall in Bierenbachtal wurde in der Nacht von Sonntag (12. Juli) auf Montag eine Person leicht verletzt. Der 18-jährige Nümbrechter war gegen 0:15 Uhr mit seinem VW Polo auf der Straße &quot;Zur Straßen&quot; von ...</div>
-  <div class="info">Mon, 13 Jul 2026 11:10:34 · Presseportal Polizei OBK</div>
+  <div class="info">13.07.2026, 11:10 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6312751" target="_blank" rel="noopener">POL-GM: Beim Abbiegen zusammengestoßen</a></h2>
   <div class="teaser">Waldbröl (ots) - Bei einem Verkehrsunfall in Waldbröl wurde am Freitagnachmittag ein Motorradfahrer verletzt. Der 60-jährige Nümbrechter war gegen 15:30 Uhr mit seiner BMW auf der Kaiserstraße in Richtung des Kreisverkehrs ...</div>
-  <div class="info">Sun, 12 Jul 2026 10:10:55 · Presseportal Polizei OBK</div>
+  <div class="info">12.07.2026, 10:10 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6307441" target="_blank" rel="noopener">POL-GM: 32-Jähriger löst Polizeieinsatz aus</a></h2>
   <div class="teaser">Nümbrecht (ots) - Ein 32-Jähriger aus Nümbrecht randalierte am Donnerstag (2. Juli) auf der Gouvieuxstraße. Gegen 11:40 Uhr diskutierte er lautstark mit einem Busfahrer, schrie herum und hinderte den Bus am Weiterfahren, indem er sich vor den ...</div>
-  <div class="info">Fri, 03 Jul 2026 09:54:21 · Presseportal Polizei OBK</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6307146" target="_blank" rel="noopener">POL-GM: Polizei nimmt Diebe fest</a></h2>
-  <div class="teaser">Nümbrecht (ots) - In der Nacht von Mittwoch auf Donnerstag (17./18. Juni) wurden in Overath-Marialinden zwei Pedelecs gestohlen. Durch einen Hinweis des Bestohlenen konnten die Fahrräder am frühen Morgen des 28. Juni (Sonntag) in Nümbrecht ...</div>
-  <div class="info">Thu, 02 Jul 2026 15:48:31 · Presseportal Polizei OBK</div>
+  <div class="info">03.07.2026, 09:54 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/204882/nuembrecht-pedelecdiebstahl-festnahme/" target="_blank" rel="noopener">Nümbrecht: Pedelecdiebstahl aufgeklärt – Polizei schnappt zwei Serientäter</a></h2>
   <div class="teaser">Festnahme in Nümbrecht: Die Kreispolizeibehörde Oberbergischer Kreis nimmt zwei mutmaßliche Serientäter nach einem Hinweis des Bestohlenen fest.</div>
-  <div class="info">Thu, 02 Jul 2026 14:24:57 · NEWS-on-Tour Oberberg</div>
+  <div class="info">02.07.2026, 16:24 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6307146" target="_blank" rel="noopener">POL-GM: Polizei nimmt Diebe fest</a></h2>
+  <div class="teaser">Nümbrecht (ots) - In der Nacht von Mittwoch auf Donnerstag (17./18. Juni) wurden in Overath-Marialinden zwei Pedelecs gestohlen. Durch einen Hinweis des Bestohlenen konnten die Fahrräder am frühen Morgen des 28. Juni (Sonntag) in Nümbrecht ...</div>
+  <div class="info">02.07.2026, 15:48 Uhr · Presseportal Polizei OBK</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -456,49 +479,49 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6300153" target="_blank" rel="noopener">POL-GM: Radfahrer bei Alleinunfall schwer verletzt</a></h2>
   <div class="teaser">Waldbröl (ots) - Ein 62-jähriger Nümbrechter war am Montag (22. Juni) mit seinem Rennrad auf der K17 von Oberbreidenbach in Richtung Rölefeld unterwegs. Gegen 17:55 Uhr kam der Nümbrechter ausgangs einer scharfen, leicht abschüssigen ...</div>
-  <div class="info">Tue, 23 Jun 2026 10:30:06 · Presseportal Polizei OBK</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6295283" target="_blank" rel="noopener">POL-GM: Polizei sucht nach flüchtigem Tesla-Fahrer</a></h2>
-  <div class="teaser">Nümbrecht (ots) - Ein 18-jähriger Fußgänger aus Nümbrecht überquerte am 15. Juni (Montag) gegen 13 Uhr die Homburger Straße in Homburg-Bröl. Als der Nümbrechter die andere Straßenseite fast erreicht hatte, hörte er plötzlich das ...</div>
-  <div class="info">Tue, 16 Jun 2026 10:25:20 · Presseportal Polizei OBK</div>
+  <div class="info">23.06.2026, 10:30 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/203989/nuembrecht-unfallflucht-tesla/" target="_blank" rel="noopener">Nümbrecht: Heller Tesla erfasst Fußgänger (18) – Fahrer flüchtet</a></h2>
   <div class="teaser">Heller Tesla erfasst in Nümbrecht einen 18-jährigen Fußgänger und begeht Unfallflucht Richtung Bierenbachtal – die Polizei sucht Zeugen.</div>
-  <div class="info">Tue, 16 Jun 2026 10:04:39 · NEWS-on-Tour Oberberg</div>
+  <div class="info">16.06.2026, 12:04 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6295283" target="_blank" rel="noopener">POL-GM: Polizei sucht nach flüchtigem Tesla-Fahrer</a></h2>
+  <div class="teaser">Nümbrecht (ots) - Ein 18-jähriger Fußgänger aus Nümbrecht überquerte am 15. Juni (Montag) gegen 13 Uhr die Homburger Straße in Homburg-Bröl. Als der Nümbrechter die andere Straßenseite fast erreicht hatte, hörte er plötzlich das ...</div>
+  <div class="info">16.06.2026, 10:25 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/203773/bergneustadt-heissluftballons-fdt-2026/" target="_blank" rel="noopener">Bergneustadt: Zwei Heißluftballons fahren über die City (Foto des Tages)</a></h2>
   <div class="teaser">Zwei Ballone über Bergneustadt: Leserin Mirjana Sasse fing den Früh- und den GWN-Ballon ein – dazu der Blick aufs Ballonfahren in Oberberg.</div>
-  <div class="info">Sat, 13 Jun 2026 03:55:06 · NEWS-on-Tour Oberberg</div>
+  <div class="info">13.06.2026, 05:55 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/203718/richtfest-ggs-marienberghausen/" target="_blank" rel="noopener">Richtfest für den Erweiterungsbau der GGS Marienberghausen in Nümbrecht</a></h2>
   <div class="teaser">Zwei Tage für die Module, rund zehn Wochen reine Bauzeit vor Ort: Am 11. Juni 2026 ist an der GGS Marienberghausen das Richtfest für den Erweiterungsbau gefeiert worden. Der Neubau schafft dringend benötigte Räume und geht pünktlich zum Schuljahr 202</div>
-  <div class="info">Thu, 11 Jun 2026 15:50:21 · NEWS-on-Tour Oberberg</div>
+  <div class="info">11.06.2026, 17:50 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6290704" target="_blank" rel="noopener">POL-GM: Beim Abbiegen zusammengestoßen</a></h2>
   <div class="teaser">Nümbrecht (ots) - Am Montag (8. Juni) wollte ein 28-Jähriger aus Engelskirchen mit seinem Nissan von der Gouvieuxstraße nach links auf das Gelände der Rettungswache abbiegen. Dabei kam es gegen 8 Uhr zum Zusammenstoß mit dem entgegenkommenden ...</div>
-  <div class="info">Tue, 09 Jun 2026 09:48:57 · Presseportal Polizei OBK</div>
+  <div class="info">09.06.2026, 09:48 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6288552" target="_blank" rel="noopener">POL-GM: Krankenfahrstuhl stürzt Böschung hinunter - 75-Jähriger leicht verletzt</a></h2>
   <div class="teaser">Nümbrecht (ots) - Am Mittwochmittag (3. Juni) fuhr ein 75-Jähriger aus Nümbrecht mit seinem Krankenfahrstuhl auf der L38. Der 75-Jährige war aus Richtung &quot;Wirtenbach&quot; in Fahrtrichtung der Ortschaft &quot;Hahn&quot; unterwegs, als er gegen 12 Uhr zunächst ...</div>
-  <div class="info">Fri, 05 Jun 2026 10:10:01 · Presseportal Polizei OBK</div>
+  <div class="info">05.06.2026, 10:10 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6286465" target="_blank" rel="noopener">POL-GM: Einbruch in Sportpark</a></h2>
   <div class="teaser">Nümbrecht (ots) - In der Nacht von Sonntag (31. Mai) auf Montag suchten Einbrecher einen Sportpark in der Höhenstraße auf. Zwischen 23 Uhr und 5 Uhr hebelten die Kriminellen die Terrassentür des Bistros auf und gelangten so in die Räume. Dort ...</div>
-  <div class="info">Tue, 02 Jun 2026 09:14:46 · Presseportal Polizei OBK</div>
+  <div class="info">02.06.2026, 09:14 Uhr · Presseportal Polizei OBK</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -507,31 +530,31 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6284488" target="_blank" rel="noopener">POL-GM: Polizei nimmt Tatverdächtige nach Raubüberfall fest Ergänzung zur Pressemeldung: https://www.presseportal.de/blaulicht/pm/65843/6280012</a></h2>
   <div class="teaser">Nümbrecht (ots) - Die umfangreichen polizeilichen Ermittlungen in Zusammenhang mit dem bewaffneten Raubüberfall in Nümbrecht am 3. Mai 2026 (https://www.presseportal.de/blaulicht/pm/65843/6280012) führten am Freitagmorgen (29. Mai) zur Festnahme ...</div>
-  <div class="info">Fri, 29 May 2026 12:06:30 · Presseportal Polizei OBK</div>
+  <div class="info">29.05.2026, 12:06 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6281507" target="_blank" rel="noopener">POL-GM: Einbruch in Einfamilienhaus</a></h2>
   <div class="teaser">Nümbrecht (ots) - Im Zeitraum 16.05.2026 bis 25.05.2026 hebelten Unbekannte die Terrassentür eines derzeit unbewohnten Einfamilienhauses in der Höhenstraße auf. Aus dem Haus und aus einem auf dem Grundstück befindlichen Holzschuppen stahlen die ...</div>
-  <div class="info">Tue, 26 May 2026 10:00:12 · Presseportal Polizei OBK</div>
+  <div class="info">26.05.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6281158" target="_blank" rel="noopener">POL-GM: Auffahrunfall in Alperbrück</a></h2>
   <div class="teaser">Wiehl (ots) - Bei einem Auffahrunfall in Alperbrück wurde am Freitag (22. Mai) ein 61-jähriger Wiehler leicht verletzt. Gegen 16:30 Uhr war ein 19-Jähriger aus Nümbrecht mit seinem Mercedes-Vito auf der L336 von Bielstein in Richtung Wiehl ...</div>
-  <div class="info">Mon, 25 May 2026 11:19:05 · Presseportal Polizei OBK</div>
+  <div class="info">25.05.2026, 11:19 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/202708/nuembrecht-raubueberfall-aussichtsturm/" target="_blank" rel="noopener">Nümbrecht: Bewaffneter Raubüberfall am Aussichtsturm – Täter flüchtig</a></h2>
   <div class="teaser">Raubüberfall am Nümbrechter Aussichtsturm: Zwei Männer lockten einen 58-Jährigen mit einem Messenger-Trick in eine Falle – Polizei bittet um Hinweise.</div>
-  <div class="info">Fri, 22 May 2026 14:34:01 · NEWS-on-Tour Oberberg</div>
+  <div class="info">22.05.2026, 16:34 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6280012" target="_blank" rel="noopener">POL-GM: Bewaffneter Raubüberfall in Nümbrecht - Polizei bittet um Hinweise</a></h2>
   <div class="teaser">Nümbrecht (ots) - Am Sonntag (3. Mai) kam es gegen 19 Uhr zu einem bewaffneten Raubüberfall auf dem Zufahrtsweg zum Nümbrechter Aussichtsturm. In diesem Zusammenhang bittet die Polizei nun um Hinweise. Was war passiert. Ein 58-jähriger Mann aus ...</div>
-  <div class="info">Fri, 22 May 2026 11:08:15 · Presseportal Polizei OBK</div>
+  <div class="info">22.05.2026, 11:08 Uhr · Presseportal Polizei OBK</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -540,13 +563,13 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.news-on-tour.de/201733/nuembrechter-fruehling-2026familienfest/" target="_blank" rel="noopener">Nümbrechter Frühling 2026: Handwerk und volle Hauptstraße beim großen Familienfest</a></h2>
   <div class="teaser">Nümbrecht / Frühling in Nümbrecht / Handwerk / Verkaufsoffener Sonntag (Von Christian Sasse) Strahlender Sonnenschein, dicht gedrängte Besucher und ein prallgefülltes Programm: Der Nümbrechter Frühling hat am Sonntag, 26. April 2026, die Hauptstraße </div>
-  <div class="info">Sun, 26 Apr 2026 20:27:56 · NEWS-on-Tour Oberberg</div>
+  <div class="info">26.04.2026, 22:27 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/201413/nuembrecht-unfall-l320-schloss-homburg/" target="_blank" rel="noopener">Nümbrecht: Heftiger Unfall auf der L320 bei Schloss Homburg – Frau schwer verletzt</a></h2>
   <div class="teaser">Nümbrecht / Verkehrsunfall / L320 / Schloss Homburg (Von Christian Sasse) Bei einem Unfall auf der L320 bei Schloss Homburg in Nümbrecht (Oberbergischer Kreis/NRW) ist am späten Donnerstagnachmittag, 16. April 2026, eine 57-jährige Frau aus Wiehl sch</div>
-  <div class="info">Fri, 17 Apr 2026 00:28:38 · NEWS-on-Tour Oberberg</div>
+  <div class="info">17.04.2026, 02:28 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -555,7 +578,7 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.news-on-tour.de/200597/nuembrecht-verkehrsunfall-l320-bmw/" target="_blank" rel="noopener">Nümbrecht: 20-jähriger Autofahrer überschlägt sich auf der Homburger Straße (L320)</a></h2>
   <div class="teaser">Nümbrecht / Verkehrsunfall / BMW / Holsteinsmühle (Von Christian Sasse) Ein 20-jähriger BMW-Fahrer aus Wiehl hat sich am Samstagabend in Nümbrecht auf der Homburger Straße (L320) überschlagen, nachdem er in einer Rechtskurve auf den Randstreifen gera</div>
-  <div class="info">Sun, 15 Mar 2026 11:07:28 · NEWS-on-Tour Oberberg</div>
+  <div class="info">15.03.2026, 12:07 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -564,7 +587,7 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/stadtradeln-2025-fuer-ein-gutes-klima/" target="_blank" rel="noopener">Stadtradeln 2025 – Für ein gutes Klima</a></h2>
   <div class="teaser">Vom 09.06. bis 29.06.2025 lautet das Motto im Oberbergischen wieder: „Radeln für ein gutes Klima“. Die Aktion „STADTRADELN“ vom Klima-Bündnis ruft auch dieses Jahr weltweit Kommunen und Interessierte auf, drei Wochen lang für ein gutes Klima in die P</div>
-  <div class="info">Fri, 30 May 2025 13:29:45 · Oberberg Nachrichten</div>
+  <div class="info">30.05.2025, 15:29 Uhr · Oberberg Nachrichten</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -573,19 +596,19 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/blaeck-foeoess-open-air-auf-schloss-homburg/" target="_blank" rel="noopener">„Bläck Fööss“ Open-Air auf Schloss Homburg</a></h2>
   <div class="teaser">Die Kölner Kultband &quot;Bläck Fööss&quot; spielt am 04. Juli auf der Open-Air-Bühne von Schloss Homburg. Der Kartenvorverkauf hat begonnen. Der Beitrag „Bläck Fööss“ Open-Air auf Schloss Homburg erschien zuerst auf Oberberg-Nachrichten.de.</div>
-  <div class="info">Tue, 15 Apr 2025 15:06:08 · Oberberg Nachrichten</div>
+  <div class="info">15.04.2025, 17:06 Uhr · Oberberg Nachrichten</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/die-bergische-gartenarche-2025/" target="_blank" rel="noopener">Die Bergische Gartenarche 2025</a></h2>
   <div class="teaser">Die Bergische Gartenarche startet auf der Pflanzentauschbörse der Biologischen Station Oberberg am 26. April 2025 wieder mit allen Gartenfreunden zum Tausch und Plausch in die Gartensaison. Der Beitrag Die Bergische Gartenarche 2025 erschien zuerst a</div>
-  <div class="info">Tue, 15 Apr 2025 14:46:20 · Oberberg Nachrichten</div>
+  <div class="info">15.04.2025, 16:46 Uhr · Oberberg Nachrichten</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/wildbienen-biologische-station-oberberg-nisthilfe/" target="_blank" rel="noopener">Workshop der Biologischen Station Oberberg</a></h2>
   <div class="teaser">Die Biologische Station Oberberg bietet unter der Leitung von Janna Schulte am Donnerstag, den 24. April 2025 einen Workshop für Erwachsene und Familien an. Der Beitrag Workshop der Biologischen Station Oberberg erschien zuerst auf Oberberg-Nachricht</div>
-  <div class="info">Tue, 15 Apr 2025 14:18:26 · Oberberg Nachrichten</div>
+  <div class="info">15.04.2025, 16:18 Uhr · Oberberg Nachrichten</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -594,7 +617,7 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/oster-werkkunstmarkt-in-nuembrecht-in-der-gwn-arena/" target="_blank" rel="noopener">Oster-Werkkunstmarkt in Nümbrecht in der GWN-Arena</a></h2>
   <div class="teaser">Am 22. + 23. März 2025 findet wieder der Oster-Werkkunstmarkt in der Nümbrechter GWN-Arena (Gouvieuxstraße, 51588 Nümbrecht) statt. Der Beitrag Oster-Werkkunstmarkt in Nümbrecht in der GWN-Arena erschien zuerst auf Oberberg-Nachrichten.de.</div>
-  <div class="info">Tue, 11 Mar 2025 13:01:16 · Oberberg Nachrichten</div>
+  <div class="info">11.03.2025, 14:01 Uhr · Oberberg Nachrichten</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -603,13 +626,13 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/nuembrecht-als-kurort-entspannung-und-gesundheit-im-malerischen-bergland/" target="_blank" rel="noopener">Nümbrecht als Kurort: Entspannung und Gesundheit im malerischen Bergland</a></h2>
   <div class="teaser">Nümbrecht, eine charmante Gemeinde im Oberbergischen Land in Nordrhein-Westfalen, hat sich als anerkannter Kurort etabliert. Umgeben von idyllischer Natur und sanften Hügeln bietet Nümbrecht zahlreiche Möglichkeiten zur Erholung, Gesundheit und persö</div>
-  <div class="info">Fri, 21 Feb 2025 18:28:15 · Oberberg Nachrichten</div>
+  <div class="info">21.02.2025, 19:28 Uhr · Oberberg Nachrichten</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/schloss-homburg-schlossgespenst-hombuh/" target="_blank" rel="noopener">Magisches Geschichtenerzählen auf Schloss Homburg</a></h2>
   <div class="teaser">Am 16. März 2025 und am Ostersonntag dürfen sich Familien auf ein unvergessliches Erlebnis im Schloss Homburg freuen. Das charmante Schlossgespenst HomBuh wird zusammen mit dem bekannten Puppenspieler Gerd J. Pohl durch das Museum führen und große so</div>
-  <div class="info">Mon, 17 Feb 2025 12:31:11 · Oberberg Nachrichten</div>
+  <div class="info">17.02.2025, 13:31 Uhr · Oberberg Nachrichten</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -618,7 +641,7 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/herbst-winter-werkkunstmarkt-nuembrecht-in-der-gwn-arena/" target="_blank" rel="noopener">Herbst- &amp; Winter-Werkkunstmarkt Nümbrecht in der GWN Arena</a></h2>
   <div class="teaser">Nümbrecht - Markieren Sie sich den 16. und 17. November 2024 im Kalender, um den Herbst-Winter-Werkkunstmarkt in der GWN Arena Nümbrecht zu besuchen. Der Beitrag Herbst- &amp; Winter-Werkkunstmarkt Nümbrecht in der GWN Arena erschien zuerst auf Oberberg-</div>
-  <div class="info">Mon, 11 Nov 2024 11:10:30 · Oberberg Nachrichten</div>
+  <div class="info">11.11.2024, 12:10 Uhr · Oberberg Nachrichten</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -627,7 +650,7 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/natur-erleben-kinder-mit-handicap-willkommen/" target="_blank" rel="noopener">Natur erleben: Kinder mit Handicap willkommen</a></h2>
   <div class="teaser">Zum Glück erkennen immer mehr Menschen, dass der Umgang mit der Natur schon im Kindesalter beginnt und Kinder wiederum Spaß haben am Entdecken und Ausprobieren, am Beobachten und Erforschen von Abläufen in unserer Umwelt. Der Beitrag Natur erleben: K</div>
-  <div class="info">Tue, 13 Aug 2024 11:09:45 · Oberberg Nachrichten</div>
+  <div class="info">13.08.2024, 13:09 Uhr · Oberberg Nachrichten</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -636,7 +659,7 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/mit-der-biologischen-station-oberberg-auf-wanderschaft/" target="_blank" rel="noopener">Mit der Biologischen Station Oberberg auf Wanderschaft</a></h2>
   <div class="teaser">Die Biologische Station Oberberg bietet im Juni wieder interessante Wanderungen ins Oberbergische an. Freuen Sie sich auf einen Kräuterspaziergang und einen Waldspaziergang. Der Beitrag Mit der Biologischen Station Oberberg auf Wanderschaft erschien </div>
-  <div class="info">Tue, 21 May 2024 15:50:08 · Oberberg Nachrichten</div>
+  <div class="info">21.05.2024, 17:50 Uhr · Oberberg Nachrichten</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -645,7 +668,7 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/oster-werkkunstmarkt-am-02-und-03-maerz-2024-in-nuembrecht/" target="_blank" rel="noopener">Oster-Werkkunstmarkt  am 02. und 03. März 2024 in Nümbrecht</a></h2>
   <div class="teaser">Am 02. + 03. März 2024 findet wieder der Oster- Werkkunstmarkt in der Nümbrechter GWN-Arena (Gouvieuxstraße, 51588 Nümbrecht) statt. Der Beitrag Oster-Werkkunstmarkt am 02. und 03. März 2024 in Nümbrecht erschien zuerst auf Oberberg-Nachrichten.de.</div>
-  <div class="info">Thu, 22 Feb 2024 15:49:37 · Oberberg Nachrichten</div>
+  <div class="info">22.02.2024, 16:49 Uhr · Oberberg Nachrichten</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -654,19 +677,19 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/pippi-feiert-weihnachten/" target="_blank" rel="noopener">Pippi feiert Weihnachten</a></h2>
   <div class="teaser">Weihnachten steht vor der Tür. In den Fenstern leuchten bunte Lichter und an den schön geschmückten Weihnachtsbäumen brennen Kerzen. Der Beitrag Pippi feiert Weihnachten erschien zuerst auf Oberberg-Nachrichten.de.</div>
-  <div class="info">Thu, 19 Oct 2023 11:58:22 · Oberberg Nachrichten</div>
+  <div class="info">19.10.2023, 13:58 Uhr · Oberberg Nachrichten</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/herbst-winter-werkkunstmarkt-in-nuembrecht-2/" target="_blank" rel="noopener">Herbst-Winter-Werkkunstmarkt in Nümbrecht</a></h2>
   <div class="teaser">Der Herbst-Winter-Werkkunstmarkt in Nümbrecht findet am 18. + 19. November 2023 in der GWN-Arena (Mateh-Yehuda-Str. 3a) statt. Sowohl Samstag als auch Sonntag ist der Markt für Sie von 11.00 Uhr – 18.00 Uhr bei freiem Eintritt geöffnet. Der Beitrag H</div>
-  <div class="info">Thu, 19 Oct 2023 11:29:26 · Oberberg Nachrichten</div>
+  <div class="info">19.10.2023, 13:29 Uhr · Oberberg Nachrichten</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/wie-man-den-energieverbrauch-einer-alten-gefriertruhe-drastisch-senkt-ein-unerwarteter-trick/" target="_blank" rel="noopener">Wie man den Energieverbrauch einer alten Gefriertruhe drastisch senkt: Ein unerwarteter Trick!</a></h2>
   <div class="teaser">Inmitten der idyllischen Hügel und Täler des Oberbergischen Kreises sucht jeder Bewohner nach Wegen, seine monatlichen Ausgaben zu minimieren. Die traditionsreichen Häuser von Gummersbach bis Waldbröl beherbergen oft ältere Elektrogeräte, darunter au</div>
-  <div class="info">Thu, 12 Oct 2023 07:28:45 · Oberberg Nachrichten</div>
+  <div class="info">12.10.2023, 09:28 Uhr · Oberberg Nachrichten</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -675,7 +698,7 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/nuembrechter-lichterfest-am-08-juli-2023/" target="_blank" rel="noopener">Nümbrechter Lichterfest am 08. Juli 2023</a></h2>
   <div class="teaser">Am 8. Juli 2023 funkeln und strahlen im Kurpark Nümbrecht wieder kleine Stars, große Ballons und gigantische Blitze am Himmel beim Lichterfest im Kurpark bei freiem Eintritt. Der Beitrag Nümbrechter Lichterfest am 08. Juli 2023 erschien zuerst auf Ob</div>
-  <div class="info">Wed, 26 Apr 2023 11:45:37 · Oberberg Nachrichten</div>
+  <div class="info">26.04.2023, 13:45 Uhr · Oberberg Nachrichten</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -684,13 +707,13 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/nuembrechter-fruehling-am-23-april-2023/" target="_blank" rel="noopener">Nümbrechter Frühling am 23. April 2023</a></h2>
   <div class="teaser">Nach der sehr erfolgreichen Premiere im Jahre 2019 laufen die Vorbereitungen für den 2. Nümbrechter Frühling auf Hochtouren. Dieser findet am Sonntag, den 23. April 2023, von 11 - 18 Uhr auf der Hauptstraße und dem Dorfplatz statt. Der Beitrag Nümbre</div>
-  <div class="info">Fri, 17 Mar 2023 13:31:02 · Oberberg Nachrichten</div>
+  <div class="info">17.03.2023, 14:31 Uhr · Oberberg Nachrichten</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/oster-werkkunstmarkt-in-nuembrecht/" target="_blank" rel="noopener">Oster-Werkkunstmarkt in Nümbrecht</a></h2>
   <div class="teaser">Am 18. und 19. März 2023 findet wieder der Oster-Werkkunstmarkt in der Nümbrechter GWN-Arena statt. Der Beitrag Oster-Werkkunstmarkt in Nümbrecht erschien zuerst auf Oberberg-Nachrichten.de.</div>
-  <div class="info">Thu, 16 Mar 2023 12:25:58 · Oberberg Nachrichten</div>
+  <div class="info">16.03.2023, 13:25 Uhr · Oberberg Nachrichten</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -699,13 +722,13 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/ratsbuergerentscheid-loesung-im-konflikt-gefunden/" target="_blank" rel="noopener">Ratsbürgerentscheid: Lösung im Konflikt gefunden</a></h2>
   <div class="teaser">Nümbrecht - Der Ratsbürgerentscheid in Nümbrecht zu dem möglichen Bau von Windkraftanlagen wurde im Vorfeld vielfach debattiert, die Umsetzung beispielsweise von der WGHL-Fraktion kritisiert. Kurz nach der Abstimmung erreichte die Meldung unsere Reda</div>
-  <div class="info">Fri, 24 Feb 2023 11:44:54 · Oberberg Nachrichten</div>
+  <div class="info">24.02.2023, 12:44 Uhr · Oberberg Nachrichten</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/wieder-leader-1-projektaufruf-in-der-neuen-foerderphase/" target="_blank" rel="noopener">Wieder LEADER: 1. Projektaufruf in der neuen Förderphase</a></h2>
   <div class="teaser">Nümbrecht / Oberberg - Ein gestriges (22.02.2023) Pressegespräch hatte erneut die LEADER-Förderung zum Thema. Der Beitrag Wieder LEADER: 1. Projektaufruf in der neuen Förderphase erschien zuerst auf Oberberg-Nachrichten.de.</div>
-  <div class="info">Thu, 23 Feb 2023 09:18:29 · Oberberg Nachrichten</div>
+  <div class="info">23.02.2023, 10:18 Uhr · Oberberg Nachrichten</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -714,35 +737,47 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/ehrungen-bei-der-jahresdienstbesprechung-der-freiwilligen-feuerwehr-nuembrecht/" target="_blank" rel="noopener">Ehrungen bei der Jahresdienstbesprechung der Freiwilligen Feuerwehr Nümbrecht</a></h2>
   <div class="teaser">Nümbrecht - Am 20. Januar 2023 fand in der Aula des Homburgischen Gymnasiums die Jahresdienstbesprechung der Freiwilligen Feuerwehr Nümbrecht statt. Der Beitrag Ehrungen bei der Jahresdienstbesprechung der Freiwilligen Feuerwehr Nümbrecht erschien zu</div>
-  <div class="info">Tue, 31 Jan 2023 08:33:20 · Oberberg Nachrichten</div>
+  <div class="info">31.01.2023, 09:33 Uhr · Oberberg Nachrichten</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.oberberg-nachrichten.de/nuembrecht/ratsbuergerentscheid-in-nuembrecht/" target="_blank" rel="noopener">Ratsbürgerentscheid in Nümbrecht</a></h2>
   <div class="teaser">Nümbrecht - Am heutigen Dienstag (24.01.2023) startet der Nümbrechter Ratsbürgerentscheid zum Bau von Windkraftanlagen. Der Beitrag Ratsbürgerentscheid in Nümbrecht erschien zuerst auf Oberberg-Nachrichten.de.</div>
-  <div class="info">Tue, 24 Jan 2023 11:00:16 · Oberberg Nachrichten</div>
+  <div class="info">24.01.2023, 12:00 Uhr · Oberberg Nachrichten</div>
 </div>
 </div></div>
   <div>
     <div class="sidebar-box">
       <h3>Alle Kommunen</h3>
-      <ul class="k-links"><li><a href="../bergneustadt/index.html">Bergneustadt <span class="badge">267</span></a></li><li><a href="../engelskirchen/index.html">Engelskirchen <span class="badge">93</span></a></li><li><a href="../gummersbach/index.html">Gummersbach <span class="badge">513</span></a></li><li><a href="../hueckeswagen/index.html">Hückeswagen <span class="badge">394</span></a></li><li><a href="../lindlar/index.html">Lindlar <span class="badge">162</span></a></li><li><a href="../marienheide/index.html">Marienheide <span class="badge">73</span></a></li><li><a href="../morsbach/index.html">Morsbach <span class="badge">40</span></a></li><li><a href="../nuembrecht/index.html">Nümbrecht <span class="badge">95</span></a></li><li><a href="../radevormwald/index.html">Radevormwald <span class="badge">418</span></a></li><li><a href="../reichshof/index.html">Reichshof <span class="badge">108</span></a></li><li><a href="../waldbroel/index.html">Waldbröl <span class="badge">124</span></a></li><li><a href="../wiehl/index.html">Wiehl <span class="badge">166</span></a></li><li><a href="../wipperfuerth/index.html">Wipperfürth <span class="badge">530</span></a></li><li style="border-top:1px solid #eee; padding-top:6px; margin-top:6px;"><a href="../kreisweite/index.html"><b>Kreisweite Nachrichten</b> <span class="badge">448</span></a></li></ul>
+      <ul class="k-links"><li><a href="../bergneustadt/index.html">Bergneustadt <span class="badge">269</span></a></li><li><a href="../engelskirchen/index.html">Engelskirchen <span class="badge">102</span></a></li><li><a href="../gummersbach/index.html">Gummersbach <span class="badge">522</span></a></li><li><a href="../hueckeswagen/index.html">Hückeswagen <span class="badge">394</span></a></li><li><a href="../lindlar/index.html">Lindlar <span class="badge">159</span></a></li><li><a href="../marienheide/index.html">Marienheide <span class="badge">74</span></a></li><li><a href="../morsbach/index.html">Morsbach <span class="badge">41</span></a></li><li><a href="../nuembrecht/index.html">Nümbrecht <span class="badge">97</span></a></li><li><a href="../radevormwald/index.html">Radevormwald <span class="badge">418</span></a></li><li><a href="../reichshof/index.html">Reichshof <span class="badge">110</span></a></li><li><a href="../waldbroel/index.html">Waldbröl <span class="badge">126</span></a></li><li><a href="../wiehl/index.html">Wiehl <span class="badge">171</span></a></li><li><a href="../wipperfuerth/index.html">Wipperfürth <span class="badge">534</span></a></li><li style="border-top:1px solid #eee; padding-top:6px; margin-top:6px;"><a href="../kreisweite/index.html"><b>Kreisweite Nachrichten</b> <span class="badge">347</span></a></li></ul>
     </div>
     <div class="sidebar-box">
       <h3>Kreisweite Nachrichten</h3>
-      <div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/bewaehrte-strategien-um-kundenbeschwerden-effektiv-zu-loesen/" target="_blank" style="color:var(--text); text-decoration:none;">Bewährte Strategien, um Kundenbeschwerden effektiv zu l</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/weiterbildungen-auch-berufsbegleitend-moeglich/" target="_blank" style="color:var(--text); text-decoration:none;">Praktische Tipps zum beruflichen Weiterkommen</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/schluss-mit-leeren-waenden-4-gestaltungsideen/" target="_blank" style="color:var(--text); text-decoration:none;">Schluss mit leeren Wänden: 4 Gestaltungsideen</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.news-on-tour.de/201798/sonnencreme-mythos-faktencheck-wahrheit/" target="_blank" style="color:var(--text); text-decoration:none;">Sonnencreme-Mythos im Faktencheck – Wahrheit zu Toxinen</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.news-on-tour.de/179860/oberberg-veranstaltungskalender-nrw/" target="_blank" style="color:var(--text); text-decoration:none;">Veranstaltungskalender Oberberg: Events &amp; Termine.NEWS-</a></div>
+      <div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.news-on-tour.de/269350/oberberg-sprachmittlung-ehrenamt/" target="_blank" style="color:var(--text); text-decoration:none;">Oberberg: Sprachmittlung – Kreis würdigt Laien-Dolmetsc</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.news-on-tour.de/269340/troisdorf-dlrg-grossuebung-hochwasser/" target="_blank" style="color:var(--text); text-decoration:none;">Troisdorf &amp; Bad Honnef: DLRG-Retter aus Oberberg bei Ho</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.oberberg-nachrichten.de/themen/ratgeber/wenn-hitze-zum-wirtschaftsfaktor-wird-klimatisierung-im-unternehmen/" target="_blank" style="color:var(--text); text-decoration:none;">Wenn Hitze zum Wirtschaftsfaktor wird: Klimatisierung i</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.news-on-tour.de/267409/oberberg-hospizwochen-netzwerk/" target="_blank" style="color:var(--text); text-decoration:none;">Oberberg: Hospizwochen erreichen Menschen mit 18 Verans</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.ksta.de/region/oberberg/wiehl/oberbergs-einziger-weinbaubetrieb-weinlese-ist-abgeschlossen-1399716" target="_blank" style="color:var(--text); text-decoration:none;">Neue Weine: Oberbergs einziger Weinbaubetrieb: Weinlese</a></div>
     </div>
   </div>
 </div>
 </main>
 <footer>
-  <a href="../index.html">Startseite</a> · Nümbrecht · Aktualisiert: 22.10.2026, 20:59<br>
+  <a href="../index.html">Startseite</a> · Nümbrecht · Aktualisiert: 22.10.2026, 22:19 Uhr<br>
   <a href="/ai-tageszeitung/impressum/">Impressum</a> · <a href="/ai-tageszeitung/rechtliches/">Rechtliche Hinweise</a> · <a href="/ai-tageszeitung/rechtliches/#datenschutz">Datenschutz</a><br>
   <a href="https://github.com/dna-dieter/ai-tageszeitung/actions/workflows/update.yml">GitHub</a>
 </footer>
 
 <script>
 (function() {
+  // Button nur für Betreiber: sichtbar mit ?admin in der Adresse (wird gemerkt), ?admin=aus blendet ihn wieder aus.
+  try {
+    const p = new URLSearchParams(location.search);
+    if (p.has('admin')) {
+      if (p.get('admin') === 'aus') localStorage.removeItem('ai_tz_admin');
+      else localStorage.setItem('ai_tz_admin', '1');
+    }
+    if (localStorage.getItem('ai_tz_admin') === '1') {
+      const b = document.getElementById('btn-refresh');
+      if (b) b.hidden = false;
+    }
+  } catch (e) {}
   const REPO = 'dna-dieter/ai-tageszeitung';
   const WORKFLOW = 'update.yml';
   const TOKEN_KEY = 'ai_tz_github_token';

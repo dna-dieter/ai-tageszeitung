@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Ferienaktion: Workshop Papier aus Pflanzen",
-    "datum": "22. Okt 2026",
-    "datum_raw": "2026-10-22T13:30:00+02:00",
-    "ort": "LVR-Industriemuseum Papiermühle Alte Dombach, Alte Dombach 1 (an der Kürtener Str.), 51465 Bergisch Gladbach",
-    "preis": "",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Welche Pflanzen eignen sich eigentlich zur Papierherstellung – und warum? In diesem Workshop gehen die Teilnehmenden auf „Natursuche“ und entdecken, welche Fasern, Strukturen und Eigenschaften in Blättern, Stängeln und G"
-  },
-  {
     "titel": "Herbstferien Intensiv Schwimm-Kurse",
     "datum": "23. Okt 2026",
     "datum_raw": "2026-10-23T08:15:00+02:00",
@@ -398,5 +388,15 @@
     "link": "https://korkundkante.de/products/alkoholfreier-weinabend",
     "quelle": "Das Bergische",
     "teaser": "Das alkoholfreie Weintasting findet am 7. November ab 18:00 Uhr in Bechen statt. Für 40 € pro Person probieren wir uns gemeinsam durch die spannende Welt der alkoholfreien Getränke. Los geht es mit einem Aperitif, beispi"
+  },
+  {
+    "titel": "Gerd Köster und Weggefährten",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T20:00:00+01:00",
+    "ort": "Bürgerhaus Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach",
+    "preis": "ab 32 €",
+    "link": "http://www.bergischerloewe.de/programmdetails.aspx?vid=84e229ce-a83f-4d81-8941-a0128b00a7c6&datum=07.11.2026",
+    "quelle": "Das Bergische",
+    "teaser": "Ihre Lebenserfahrung, Neugier und Spielfreude hat nicht mal Platz in einem ganzen Schrank. Nie oder lange nicht mehr Gehörtes mischt sich mit Bewährtem und Neuem. Die langjährigen Weggefährten sind: der fantastische Frie"
   }
 ]

@@ -1,0 +1,744 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Wiehl – Archiv — AI Tageszeitung</title>
+<style>
+:root {
+  --rbk-blau: #1B3A5C;
+  --rbk-rot: #C0392B;
+  --rbk-grau: #F5F5F5;
+  --akzent: #2980B9;
+  --text: #2C3E50;
+  --bg: #FAFAFA;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: Georgia, 'Times New Roman', serif; color: var(--text); background: var(--bg); line-height: 1.6; }
+header { background: var(--rbk-blau); color: white; padding: 14px 24px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px; }
+header h1 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.8rem; letter-spacing: 2px; font-weight: 800; }
+header .sub { font-size: 0.9rem; opacity: 0.85; }
+header .meta { font-size: 0.8rem; text-align: right; opacity: 0.9; }
+.live-dot { display: inline-block; width: 8px; height: 8px; background: #2ECC71; border-radius: 50%; margin-right: 4px; animation: pulse 2s infinite; }
+@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
+.ticker { background: var(--rbk-rot); color: white; padding: 7px 24px; font-size: 0.85rem; font-family: sans-serif; }
+.ticker b { margin-right: 8px; }
+nav { background: white; border-bottom: 2px solid var(--rbk-blau); padding: 8px 24px; display: flex; flex-wrap: wrap; gap: 3px; }
+nav a { font-family: sans-serif; font-size: 0.82rem; padding: 5px 12px; text-decoration: none; color: var(--rbk-blau); border-radius: 4px; transition: all 0.2s; }
+nav a:hover, nav a.active { background: var(--rbk-blau); color: white; }
+nav .sep { color: #ccc; padding: 5px 2px; font-family: sans-serif; font-size: 0.82rem; }
+main { max-width: 1200px; margin: 20px auto; padding: 0 16px; }
+.grid { display: grid; grid-template-columns: 2fr 1fr; gap: 20px; }
+.artikel { background: white; border-radius: 6px; padding: 16px 18px; border-left: 4px solid var(--akzent); box-shadow: 0 1px 3px rgba(0,0,0,0.08); margin-bottom: 14px; transition: box-shadow 0.2s; }
+.artikel:hover { box-shadow: 0 3px 12px rgba(0,0,0,0.12); }
+.artikel .tag { font-family: sans-serif; font-size: 0.72rem; font-weight: 700; color: var(--rbk-rot); text-transform: uppercase; letter-spacing: 1px; }
+.artikel .tag.bericht { color: var(--rbk-blau); margin-left: 8px; }
+.artikel h2 { font-size: 1.15rem; margin: 4px 0; line-height: 1.3; }
+.artikel h2 a { color: var(--text); text-decoration: none; }
+.artikel h2 a:hover { color: var(--akzent); }
+.artikel .teaser { font-size: 0.9rem; color: #555; margin: 6px 0; }
+.artikel .info { font-family: sans-serif; font-size: 0.75rem; color: #888; }
+.sidebar-box { background: white; border-radius: 6px; padding: 14px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); margin-bottom: 14px; }
+.sidebar-box h3 { font-family: sans-serif; font-size: 0.85rem; color: var(--rbk-blau); border-bottom: 2px solid var(--rbk-blau); padding-bottom: 5px; margin-bottom: 10px; }
+.k-links { list-style: none; }
+.k-links li { margin: 6px 0; }
+.k-links a { font-family: sans-serif; font-size: 0.85rem; color: var(--text); text-decoration: none; display: flex; justify-content: space-between; }
+.k-links a:hover { color: var(--akzent); }
+.badge { background: var(--rbk-grau); padding: 1px 8px; border-radius: 10px; font-size: 0.75rem; }
+footer { background: var(--rbk-blau); color: white; text-align: center; padding: 16px; margin-top: 30px; font-size: 0.8rem; font-family: sans-serif; }
+footer a { color: #85C1E9; }
+.legal { max-width: 720px; }
+.legal h2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.15rem; color: var(--rbk-blau); margin: 22px 0 8px; }
+.legal p, .legal li { margin: 0 0 10px; }
+.legal ul { padding-left: 1.2rem; }
+.legal .hinweis { background: #fff8e6; border-left: 4px solid var(--rbk-rot); padding: 10px 14px; margin-bottom: 16px; }
+.empty { text-align: center; padding: 40px; color: #999; font-size: 1.1rem; }
+.rat-block { margin: 4px 0 26px; }
+.rat-block h2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.15rem; color: var(--rbk-blau); margin: 0 0 10px; }
+.rat-hero { background: white; border-left: 4px solid var(--rbk-rot); border-radius: 6px; padding: 16px 18px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+.rat-hero .wann { font-family: sans-serif; font-size: 0.78rem; font-weight: 700; color: var(--rbk-rot); letter-spacing: 0.04em; text-transform: uppercase; }
+.rat-hero h3 { font-size: 1.25rem; margin: 4px 0; }
+.rat-liste { list-style: none; }
+.rat-liste li { background: white; border-radius: 6px; padding: 12px 16px; margin-bottom: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+.rat-liste .wann { font-family: sans-serif; font-size: 0.82rem; color: var(--rbk-blau); font-weight: 700; }
+.rat-liste .ort { font-family: sans-serif; font-size: 0.8rem; color: #666; }
+.rat-quelle { font-family: sans-serif; font-size: 0.8rem; color: #666; margin-top: 8px; }
+.monat-gruppe { margin-bottom: 8px; }
+.monat-header { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.05rem; color: var(--rbk-blau); border-bottom: 2px solid var(--rbk-blau); padding: 8px 0 5px 0; margin: 18px 0 10px 0; display: flex; align-items: center; gap: 8px; }
+.monat-header:first-child { margin-top: 0; }
+.monat-count { background: var(--rbk-blau); color: white; font-size: 0.72rem; padding: 1px 8px; border-radius: 10px; font-weight: 400; }
+.btn-refresh { display: inline-flex; align-items: center; gap: 5px; font-family: sans-serif; font-size: 0.78rem; padding: 5px 14px; background: #2ECC71; color: white; border: none; border-radius: 4px; text-decoration: none; cursor: pointer; transition: background 0.2s; margin-top: 4px; }
+.btn-refresh[hidden], .refresh-status[hidden] { display: none; }
+.btn-refresh:hover { background: #27AE60; color: white; }
+.btn-refresh:disabled, .btn-refresh.loading { background: #95A5A6; cursor: wait; opacity: 0.8; }
+.btn-refresh .spinner { display: inline-block; width: 10px; height: 10px; border: 2px solid rgba(255,255,255,0.3); border-top-color: white; border-radius: 50%; animation: spin 0.8s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+.refresh-status { font-size: 0.72rem; color: rgba(255,255,255,0.85); margin-top: 4px; min-height: 14px; font-family: sans-serif; }
+.kreis-nav { background: var(--rbk-blau); padding: 6px 24px; display: flex; gap: 12px; }
+.kreis-nav a { font-family: sans-serif; font-size: 0.85rem; color: rgba(255,255,255,0.7); text-decoration: none; padding: 4px 10px; border-radius: 4px; }
+.kreis-nav a:hover, .kreis-nav a.active { color: white; background: rgba(255,255,255,0.15); }
+@media (max-width: 768px) { .grid { grid-template-columns: 1fr; } header h1 { font-size: 1.3rem; } }
+</style>
+</head>
+<body>
+<div class="kreis-nav">
+  <a href="/ai-tageszeitung/">Rhein-Berg</a>
+  <a href="/ai-tageszeitung/oberberg/">Oberberg</a>
+  <a href="/ai-tageszeitung/veranstaltungen/">📅 Veranstaltungen</a>
+</div>
+<header>
+  <div>
+    <h1>Wiehl – Archiv</h1>
+    <div class="sub">AI Tageszeitung · Oberbergischer Kreis</div>
+  </div>
+  <div class="meta">
+    <div><span class="live-dot"></span>71 Artikel</div>
+    <div>22.10.2026, 22:19 Uhr</div>
+    <button type="button" onclick="triggerRefresh()" class="btn-refresh" id="btn-refresh" hidden>&#x21bb; Jetzt aktualisieren</button>
+    <div class="refresh-status" id="refresh-status"></div>
+  </div>
+</header>
+<nav><a href="../index.html">&larr; Zurück zu Wiehl</a></nav>
+<main>
+  <div><div class="monat-gruppe">
+<h2 class="monat-header">Juni 2026 <span class="monat-count">17</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6300403" target="_blank" rel="noopener">POL-GM: 68-Jähriger bei Autounfall tödlich verletzt</a></h2>
+  <div class="teaser">Wiehl (ots) - Ein 68-Jähriger aus Wiehl fuhr am Dienstag (23. Juni) gegen 11 Uhr auf der Zeitstraße aus Richtung Autobahn kommend in Richtung Drabenderhöhe. Aus bislang ungeklärter Ursache, kam er mit seinem VW von der Fahrbahn ab und ...</div>
+  <div class="info">23.06.2026, 13:03 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204315/hundebaden-oberberg-talsperre/" target="_blank" rel="noopener">Hundebaden in Oberberg: Welche Talsperre Vierbeiner ins Wasser lockt</a></h2>
+  <div class="teaser">An welchen Talsperren rund um Oberberg der Hund ins Wasser darf – und warum an Genkel und Wiehl sogar ein saftiges Bußgeld droht.</div>
+  <div class="info">22.06.2026, 22:32 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204238/oberberg-einbruchserie-diebstaehle/" target="_blank" rel="noopener">Oberberg: Einbruchserie am Wochenende – Diebe schlagen fünfmal zu</a></h2>
+  <div class="teaser">Mehrere Einbrüche und Diebstähle binnen weniger Tage: In Wiehl, Marienheide und Engelskirchen schlugen Unbekannte zu – die Polizei ermittelt.</div>
+  <div class="info">21.06.2026, 22:59 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6298641" target="_blank" rel="noopener">POL-GM: Versuchter Einbruch in Drabenderhöhe</a></h2>
+  <div class="teaser">Wiehl (ots) - Zwischen 10 Uhr am 17. Juni und 11 Uhr am 19. Juni (Freitag) versuchten Unbekannte, die Haustür eines Einfamilienhauses in der Straße &quot;Zur Miebach&quot; aufzuhebeln. Ohne Erfolg: Die Tür hielt stand und die Einbrecher machten keine ...</div>
+  <div class="info">21.06.2026, 11:50 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6298640" target="_blank" rel="noopener">POL-GM: Kaffeemaschine gestohlen</a></h2>
+  <div class="teaser">Wiehl (ots) - Von Freitag auf Samstag (19./20. Juni) sind Einbrecher in Wiehl-Hübender unterwegs gewesen. In der Straße &quot;Pfaffenberg&quot; brachen sie die Tür eines Kiosks auf und stahlen eine Kaffeemaschine von Delonghi. Die Kriminellen entkamen ...</div>
+  <div class="info">21.06.2026, 11:50 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6298639" target="_blank" rel="noopener">POL-GM: Unbekannte versuchen in Bankfiliale einzubrechen</a></h2>
+  <div class="teaser">Wiehl (ots) - Kriminelle wollten am 18. Juni (Donnerstag) in eine Bankfiliale in der Oberwiehler Straße einbrechen. Auf Videoaufzeichnungen ist zu sehen, wie zwei schlanke und mit Stirnlampen ausgerüstete Personen mehrere Minuten versuchen, die ...</div>
+  <div class="info">21.06.2026, 11:45 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6298638" target="_blank" rel="noopener">POL-GM: Flucht vor der Polizei endet im Grünstreifen</a></h2>
+  <div class="teaser">Reichshof (ots) - Am Samstag (20. Juni, 2:20 Uhr) wollten Polizisten auf der Wiehler Straße (L96) in Reichshof-Wehnrath einen Citroen kontrollieren. Sobald die Beamten Anhaltezeichen gegeben hatten, beschleunigte der Fahrer sein Auto und versuchte ..</div>
+  <div class="info">21.06.2026, 11:45 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204219/dachstuhlbrand-wiehl-merkausen-juni/" target="_blank" rel="noopener">Dachstuhlbrand in Wiehl-Merkausen: Feuerwehr im Früheinsatz</a></h2>
+  <div class="teaser">Ein Dachstuhlbrand in Wiehl-Merkausen in der Gerresheimer Straße hat Sonntag früh Feuerwehr, Rettungsdienst und Polizei alarmiert. Einsatzkräfte vor Ort.</div>
+  <div class="info">21.06.2026, 06:51 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204049/bielstein-taschendiebstahl-oberberg/" target="_blank" rel="noopener">Bielstein: Taschendiebstahl im Discounter – Polizei warnt vor der Masche</a></h2>
+  <div class="teaser">In wenigen Minuten weg: In einem Discounter in Wiehl stahlen Unbekannte einer 80-jährigen Frau die Handtasche samt Geldbörse und Handy.</div>
+  <div class="info">18.06.2026, 11:47 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6296870" target="_blank" rel="noopener">POL-GM: Handtasche beim Einkauf gestohlen</a></h2>
+  <div class="teaser">Wiehl (ots) - Am Mittwoch (17. Juni) kaufte eine 80-Jährige in einem Discounter in der Bechstraße in Bielstein ein. Die Bielsteinerin befand sich gegen 14:10 Uhr in dem Lebensmittelgeschäft. Ihre Handtasche stellte sie in den Einkaufswagen. ...</div>
+  <div class="info">18.06.2026, 10:20 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204006/fussballkreis-berg-supercup/" target="_blank" rel="noopener">Oberberg: Supercup eröffnet das Jubiläum des Fußballkreises Berg</a></h2>
+  <div class="teaser">Der Fußball-Nachwuchs eröffnet am 20. und 21. Juni in Hoffnungsthal und Wiehl das 25-Jahr-Jubiläum des Fußballkreises Berg mit neun Partien.</div>
+  <div class="info">16.06.2026, 22:11 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6293857" target="_blank" rel="noopener">POL-GM: Unfall in Drabenderhöhe</a></h2>
+  <div class="teaser">Wiehl (ots) - Ein 26-jähriger Wiehler war am Freitagabend (12. Juni, 19:50 Uhr) auf der Zeitstraße in Drabenderhöhe in Richtung Much unterwegs. Am Drabenderhöher Ortsausgang verlor der Wiehler die Kontrolle über seinen Ford, kam nach rechts von ...</div>
+  <div class="info">14.06.2026, 11:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6291567" target="_blank" rel="noopener">POL-GM: 15-Jähriger stürzt mit Moped</a></h2>
+  <div class="teaser">Wiehl (ots) - Bei einem Verkehrsunfall auf der Bielsteiner Straße zog sich ein 15-Jähriger aus Wiehl am vergangenen Dienstag (9. Juni) leichte Verletzungen zu. Der Wiehler war gegen 15:30 Uhr aus Richtung der L321/L336 in Richtung des Bielsteiner ...</div>
+  <div class="info">10.06.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203476/wiehl-entlaufene-kuh/" target="_blank" rel="noopener">Wiehl: Entlaufene Kuh hält Polizei in Atem – Jäger stoppt Ausreißer</a></h2>
+  <div class="teaser">Entlaufene Kuh in Wiehl: Das Tier zog eine Stunde durchs Stadtgebiet, ehe ein Jäger es mit einem Betäubungspfeil stoppte. Verletzt wurde niemand.</div>
+  <div class="info">03.06.2026, 15:32 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6287351" target="_blank" rel="noopener">POL-GM: Entlaufene Kuh beschäftigt Polizei</a></h2>
+  <div class="teaser">Wiehl (ots) - Am Dienstag (2. Juni) gingen gegen 19:20 Uhr bei der Polizei mehrere Anrufe über eine entlaufene Kuh im Wiehler Stadtgebiet ein. Die Kuh, die offenbar von ihrer Weide ausgebüxt war, bewegte sich von der Wiehler Innenstadt über die ...</div>
+  <div class="info">03.06.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203445/wiehlmuenden-lieferwagen-hauswand/" target="_blank" rel="noopener">Wiehlmünden: Lieferwagen prallt führerlos gegen Hauswand</a></h2>
+  <div class="teaser">Führerloser Lieferwagen rollt in Wiehlmünden eine abschüssige Straße hinab und prallt gegen eine Hauswand – verletzt wird niemand.</div>
+  <div class="info">02.06.2026, 10:49 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6286457" target="_blank" rel="noopener">POL-GM: Lieferwagen kracht gegen Hauswand</a></h2>
+  <div class="teaser">Engelskirchen (ots) - Am Montag (1. Juni) wurde, wie durch ein Wunder, bei einem Verkehrsunfall in Wiehlmünden niemand verletzt. Gegen 10:50 Uhr setzte sich ein Lieferwagen führerlos auf der abschüssigen Straße &quot;In den Steinen&quot; in Bewegung, ...</div>
+  <div class="info">02.06.2026, 09:10 Uhr · Presseportal Polizei OBK</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Mai 2026 <span class="monat-count">10</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6285184" target="_blank" rel="noopener">POL-GM: Auto kollidiert mit Mauer</a></h2>
+  <div class="teaser">Wiehl (ots) - Ein 18-jähriger Wiehler war am Freitagmorgen (29. Mai) auf der Morkepützer Straße (K48) aus Richtung Wiehl in Fahrtrichtung Morkepütz unterwegs. Gegen 7:45 Uhr kam der VW des 18-Jährigen in einer leichten Linkskurve nach rechts ...</div>
+  <div class="info">31.05.2026, 11:05 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203119/a4-wiehltalbruecke-wim-anlage-sperrung/" target="_blank" rel="noopener">A4 Wiehltalbrücke: WIM-Anlage soll Lkw-Verstöße stoppen – zwei Sperrungen geplant</a></h2>
+  <div class="teaser">WIM-Anlage an der A4 Wiehltalbrücke: Autobahn GmbH installiert automatische Lkw-Gewichtskontrolle – zwei Sperrungen Ende Mai und Mitte Juni 2026.</div>
+  <div class="info">27.05.2026, 15:39 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6281158" target="_blank" rel="noopener">POL-GM: Auffahrunfall in Alperbrück</a></h2>
+  <div class="teaser">Wiehl (ots) - Bei einem Auffahrunfall in Alperbrück wurde am Freitag (22. Mai) ein 61-jähriger Wiehler leicht verletzt. Gegen 16:30 Uhr war ein 19-Jähriger aus Nümbrecht mit seinem Mercedes-Vito auf der L336 von Bielstein in Richtung Wiehl ...</div>
+  <div class="info">25.05.2026, 11:19 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202672/wiehl-lkw-unfall-l302-polizei/" target="_blank" rel="noopener">Wiehl: Lkw schleudert auf L302 in Gegenverkehr – zwei Schwerverletzte</a></h2>
+  <div class="teaser">Schwerer Lkw-Unfall auf der L302 bei Wiehl: Sattelzug schleudert in Gegenverkehr – zwei Schwerverletzte, Landesstraße stundenlang gesperrt.</div>
+  <div class="info">21.05.2026, 10:42 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6279187" target="_blank" rel="noopener">POL-GM: Frontalzusammenstoß zwischen Lkw und Pkw fordert zwei Verletzte</a></h2>
+  <div class="teaser">Wiehl (ots) - Am Donnerstag (21. Mai) gegen 05:38 Uhr kam es auf der Forster Str. (L302) zu einem Frontalzusammenstoß zwischen einem Lkw und einem Pkw. Der 26-jährige Lkw-Fahrer fuhr mit seinem Sattelzug auf der Forster Str. in Richtung ...</div>
+  <div class="info">21.05.2026, 10:19 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202553/kostenlose-webseite-oberberg-redesign/" target="_blank" rel="noopener">Oberberg: Kostenloser Webseiten-Prototyp in nur 3 Tagen</a></h2>
+  <div class="teaser">Webseiten-Prototyp aus Wiehl: SUPERBRAND.marketing bietet Unternehmen in Oberberg einen kostenlosen ersten Entwurf an.</div>
+  <div class="info">19.05.2026, 20:32 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6276718" target="_blank" rel="noopener">POL-GM: Eierautomat war Ziel von Kriminellen</a></h2>
+  <div class="teaser">Wiehl (ots) - In der Zeit von Donnerstag (14. Mai) bis Samstag brachen Unbekannte einen Eierautomat in der Ortsstraße auf und stahlen die Geldkassette. Hinweise nimmt das Kriminalkommissariat Waldbröl unter der Telefonnummer 02261 8199-0 oder der ...</div>
+  <div class="info">18.05.2026, 11:29 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6268771" target="_blank" rel="noopener">POL-GM: Unbekannte wollten in Sparkasse einbrechen</a></h2>
+  <div class="teaser">Wiehl (ots) - Am frühen Dienstagmorgen (5. Mai) versuchten Einbrecher gegen 4:15 Uhr, die Eingangstür einer Sparkassenfiliale in der Oberwiehler Straße aufzuhebeln. Dabei lösten sie die Alarmanlage aus und flüchteten. Ein Zeuge beobachtete zwei ...</div>
+  <div class="info">05.05.2026, 10:01 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6268769" target="_blank" rel="noopener">POL-GM: Fahrraddiebe in Wiehl unterwegs</a></h2>
+  <div class="teaser">Wiehl (ots) - In der Zeit von Samstag (2. Mai), 14 Uhr, bis Sonntag stahlen Unbekannte ein Fahrrad, das ein 19-Jähriger aus Wiehl im Bereich Bahnhofstraße/Hauptstraße mit einem Ringschloss angeschlossen hatte. Bei dem Fahrrad handelt es sich um ...</div>
+  <div class="info">05.05.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6268767" target="_blank" rel="noopener">POL-GM: Unfall auf Kreuzung</a></h2>
+  <div class="teaser">Wiehl (ots) - Am Montagmorgen (4. Mai) wollte ein 56-jähriger Wiehler mit seinem Land Rover in Hillerscheid von der Hillerscheider Straße nach rechts auf die Drabenderhöher Straße (L338) abbiegen. Dabei kam es gegen 5:15 Uhr zum Zusammenstoß ...</div>
+  <div class="info">05.05.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">April 2026 <span class="monat-count">4</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201785/bergneustadt-vorfahrtfehler-crash-l173/" target="_blank" rel="noopener">Bergneustadt: Verkehrsunfall an der L173 – Seat-Fahrer verletzt, zwei Fahrzeuge abgeschleppt</a></h2>
+  <div class="teaser">Bergneustadt / Verkehrsunfall / L173 / Polizei Oberberg (Von Christian Sasse) An der Einmündung „Zur Feriensiedlung“ auf die L173 bei Bergneustadt ist es am Montagmorgen, 27. April 2026, zu einem Verkehrsunfall mit einem Verletzten gekommen. Ein 75-j</div>
+  <div class="info">28.04.2026, 18:42 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201413/nuembrecht-unfall-l320-schloss-homburg/" target="_blank" rel="noopener">Nümbrecht: Heftiger Unfall auf der L320 bei Schloss Homburg – Frau schwer verletzt</a></h2>
+  <div class="teaser">Nümbrecht / Verkehrsunfall / L320 / Schloss Homburg (Von Christian Sasse) Bei einem Unfall auf der L320 bei Schloss Homburg in Nümbrecht (Oberbergischer Kreis/NRW) ist am späten Donnerstagnachmittag, 16. April 2026, eine 57-jährige Frau aus Wiehl sch</div>
+  <div class="info">17.04.2026, 02:28 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201215/bielstein-baustellen-a4-sperrung-rb25/" target="_blank" rel="noopener">Bielstein (Update#2) Baustellen, Sperrungen und Schienenersatzverkehr – Verkehrschaos in Oberberg spitzt sich zu</a></h2>
+  <div class="teaser">Bielstein / Wiehltalbrücke / RB25 / Straßensperrung (Von Christian Sasse) Bielstein – Wer derzeit durch den Wiehl-Ortsteil Bielstein (Oberbergischer Kreis/NRW) fährt, braucht vor allem eines: Geduld. Gleich mehrere Baustellen sorgen seit Ende März fü</div>
+  <div class="info">08.04.2026, 07:10 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200881/osterfeuer-oberberg-2026-wo/" target="_blank" rel="noopener">Osterfeuer Oberberg 2026: (04./05.04.) Diese 17 Veranstaltungen sind offiziell bestätigt</a></h2>
+  <div class="teaser">Oberberg / Osterfeuer / 2026 / Veranstaltungen / Waldbrandgefahr (Von Christian Sasse) Update #6 Am Karsamstag, 4. April 2026, und Ostersonntag, 5. April 2026, lodern im Oberbergischen Kreis wieder die traditionellen Osterfeuer. Feuerwehren, Dorfgeme</div>
+  <div class="info">04.04.2026, 00:01 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">März 2026 <span class="monat-count">4</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200697/tv-duemmlinghausen-2026-03-20-ttc-wiehl/" target="_blank" rel="noopener">TV Dümmlinghausen II feiert klaren 9:1-Heimsieg im Derby gegen TTC Wiehl II (Tischtennis)</a></h2>
+  <div class="teaser">Tischtennis / TV Dümmlinghausen / TTC Wiehl / Oberberg (Von Christian Sasse) Der TV Dümmlinghausen II hat am 20. März 2026 in der 1. Bezirksliga 3 des Bezirks Köln einen überzeugenden 9:1-Heimsieg gegen den TTC Wiehl II eingefahren. Die Gastgeber dom</div>
+  <div class="info">21.03.2026, 05:41 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200597/nuembrecht-verkehrsunfall-l320-bmw/" target="_blank" rel="noopener">Nümbrecht: 20-jähriger Autofahrer überschlägt sich auf der Homburger Straße (L320)</a></h2>
+  <div class="teaser">Nümbrecht / Verkehrsunfall / BMW / Holsteinsmühle (Von Christian Sasse) Ein 20-jähriger BMW-Fahrer aus Wiehl hat sich am Samstagabend in Nümbrecht auf der Homburger Straße (L320) überschlagen, nachdem er in einer Rechtskurve auf den Randstreifen gera</div>
+  <div class="info">15.03.2026, 12:07 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200477/oberberg-wiehl-radladerdiebstahl/" target="_blank" rel="noopener">Oberberg: Wiehl – Polizei bittet nach Radlader-Diebstahl um Hinweise</a></h2>
+  <div class="teaser">Oberberg / Wiehl – (Von NEWS-Ticker) Zwischen Freitag (6. März) und Montagmorgen wurde in Wiehl (Oberbergischer Kreis/NRW) ein Arbeitsfahrzeug vom Gelände eines Seniorenzentrums in der Wülfringhauser Straße entwendet. Symbolbild: © Foto+TV Agentur NT</div>
+  <div class="info">10.03.2026, 10:16 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200359/wiehl-autoaufbrueche-e-scooter-pkw/" target="_blank" rel="noopener">Wiehl: Polizei ermittelt nach mehreren Fahrzeugaufbrüchen – Zwei E-Scooter gestohlen</a></h2>
+  <div class="teaser">Wiehl / Oberberg – (Von Christian Sasse) In der Nacht von Montag auf Dienstag (02./03. März 2026) kam es in Wiehl zu mehreren Autoaufbrüchen. Unbekannte Täter schlugen an verschiedenen Stellen im Stadtgebiet Scheiben von Pkw ein und entwendeten Tasch</div>
+  <div class="info">04.03.2026, 13:12 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Februar 2026 <span class="monat-count">5</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200286/engelskirchen-quadfahrer-verkehrsunfall/" target="_blank" rel="noopener">Engelskirchen: Quad-Fahrer bei Verkehrsunfall schwer verletzt</a></h2>
+  <div class="teaser">Engelskirchen / Quad / Unfall / Polizei (Von Christian Sasse) Am frühen Donnerstagmorgen ist es in Engelskirchen auf der L307 zu einem schweren Verkehrsunfall zwischen einem Auto und einem Quad gekommen. Ein 61-jähriger Mann aus Wiehl wurde dabei sch</div>
+  <div class="info">28.02.2026, 11:30 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200202/wiehl-buergerinfo-wiehltalbruecke-a4/" target="_blank" rel="noopener">Wiehl: Bürgerinfo zur Wiehltalbrücke – 400 Besucher im Dialog zur A4</a></h2>
+  <div class="teaser">Wiehl / Wiehltalbrücke / A4 / Oberberg (Von Christian Sasse) Rund 400 Besucher haben am Montagabend (23. Februar 2026) an einer Bürgerinformationsveranstaltung zur Zukunft der Wiehltalbrücke auf der A4 teilgenommen. Im Stadtteilhaus Drabenderhöhe (Si</div>
+  <div class="info">24.02.2026, 12:50 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200113/bergneustadt-neverland-come-in-rock/" target="_blank" rel="noopener">Bergneustadt: Neverland rockte die Come-In-Classic-Night – Live-Rock vom Feinsten (mit exklusivem Video)</a></h2>
+  <div class="teaser">Bergneustadt – Come In – Neverland – Rock-Konzert | Bergneustadt (NRW) – Am Samstagabend, dem 21. Februar 2026, verwandelte die Rock-Cover-Band Neverland die Discothek Come In in der Othestraße 28 in eine brodelnde Konzertarena. Im Rahmen der Come In</div>
+  <div class="info">22.02.2026, 04:47 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200028/oberberg-karnevalsumzuege-2026_polizei/" target="_blank" rel="noopener">Oberberg: Karnevalsumzüge im Kreisgebiet verlaufen weitgehend friedlich</a></h2>
+  <div class="teaser">Oberberg / Karnevalsumzüge / Polizei / Engelskirchen (Von Christian Sasse) Die Bilanz des Karnevalswochenendes im Oberbergischen Kreis fällt aus Sicht der Polizei positiv aus: Die Karnevalsumzüge in Engelskirchen, Bielstein und Morsbach verliefen wei</div>
+  <div class="info">17.02.2026, 17:05 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/199838/wiehl-bomig-unfall-alkohol/" target="_blank" rel="noopener">Wiehl-Bomig: Schwerer Unfall an Kreuzung Am Verkehrskreuz – Autofahrerin verletzt, Alkohol im Spiel</a></h2>
+  <div class="teaser">Wiehl / Verkehrsunfall / Polizei / Alkohol (Von Christian Sasse) Eine 48-jährige Autofahrerin aus Wiehl ist am Montagabend an der Kreuzung Am Verkehrskreuz/Fritz-Kotz-Straße/Werner-von-Siemens-Straße in Bomig bei einem Verkehrsunfall schwer verletzt </div>
+  <div class="info">10.02.2026, 10:08 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Januar 2026 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/unfallflucht-in-wiehl-polizei-stellt-16-jaehrigen-tatverdaechtigen/" target="_blank" rel="noopener">Unfallflucht in Wiehl: Polizei stellt 16-jährigen Tatverdächtigen</a></h2>
+  <div class="teaser">Wiehl - Nach einer Unfallflucht in Wiehl leistete ein 16-Jähriger Widerstand gegen die Polizei. Eine 15-Jährige wurde verletzt. Jetzt Details lesen! Der Beitrag Unfallflucht in Wiehl: Polizei stellt 16-jährigen Tatverdächtigen erschien zuerst auf Obe</div>
+  <div class="info">20.01.2026, 16:00 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">April 2025 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/fruehling-in-wiehl/" target="_blank" rel="noopener">Der Frühling in Wiehl wird bunt</a></h2>
+  <div class="teaser">Der Frühling wird bunt: Vom 26. April bis zum 4. Mai 2025 laden Wiehler Ring und Citymanagement zur „Wiehler Frühlingswoche“ ein Der Beitrag Der Frühling in Wiehl wird bunt erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">15.04.2025, 15:53 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">März 2025 <span class="monat-count">2</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/einlassbaender-das-passende-band-fuer-ihre-veranstaltung/" target="_blank" rel="noopener">Designs von Einlassbändern:</a></h2>
+  <div class="teaser">Einlassbänder sind ein wichtiges Element bei der Organisation von Veranstaltungen in der Region Oberberg. Sie helfen dabei, den Zugang zu kontrollieren und tragen zur Sicherheit und zu einem reibungslosen Ablauf bei. Ob bei Messen in Gummersbach, Fes</div>
+  <div class="info">07.03.2025, 14:28 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/wiehler-eiskunstlaeuferinnen-bei-den-landesmeisterschaften-2025/" target="_blank" rel="noopener">Wiehler Eiskunstläuferinnen bei den Landesmeisterschaften 2025</a></h2>
+  <div class="teaser">Die NRW-Landesmeisterschaften sind für die meisten Leistungsläuferinnen des TuS Wiehl ESC der Höhepunkt der Saison. Der Beitrag Wiehler Eiskunstläuferinnen bei den Landesmeisterschaften 2025 erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">07.03.2025, 12:57 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Februar 2025 <span class="monat-count">2</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/das-problem-kalte-fuesse-beim-radfahren/" target="_blank" rel="noopener">Das Problem: Kalte Füße beim Radfahren</a></h2>
+  <div class="teaser">Besonders auf den hügeligen Strecken rund um Gummersbach, Engelskirchen oder Wiehl können kalte Füße schnell zum Problem werden. Da spezielle Fahrradschuhe oft dünn und flexibel sind, bieten sie nicht immer ausreichend Wärme. Wer längere Touren durch</div>
+  <div class="info">18.02.2025, 11:16 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/kinder-secondhand-basar-des-tv-oberbantenberg/" target="_blank" rel="noopener">Kinder-Secondhand-Basar des TV Oberbantenberg</a></h2>
+  <div class="teaser">Am Samstag, den 15. März zwischen 13 und 15 Uhr, steht die Aula des Schulzentrums Bielstein im Zeichen des Frühlings. Der Turnverein Oberbantenberg (TVO) lädt alle interessierten Familien zum traditionellen Kinder-Secondhand-Basar ein Der Beitrag Kin</div>
+  <div class="info">17.02.2025, 12:13 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Januar 2025 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/neues-serviceportal-der-stadt-wiehl/" target="_blank" rel="noopener">Neues Serviceportal der Stadt Wiehl</a></h2>
+  <div class="teaser">Mit dem Beginn des neuen Jahres hat die Stadt Wiehl ein innovatives Serviceportal ins Leben gerufen, das die Dienstleistungen der Stadtverwaltung gebündelt und benutzerfreundlich präsentiert. Der Beitrag Neues Serviceportal der Stadt Wiehl erschien z</div>
+  <div class="info">14.01.2025, 13:58 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Oktober 2024 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/markus-rinscheid-uebernimmt-premio-reifen-autoservice-in-wiehl/" target="_blank" rel="noopener">Markus Rinscheid übernimmt Premio Reifen + Autoservice in Wiehl</a></h2>
+  <div class="teaser">Wiehl – Nach 35 Jahren übergibt Volker Kuhn seinen Betrieb in der Carl-Hans-Straße 2 an Markus Rinscheid. Mit dieser Firmenübernahme startet eine neue Ära für den Premio Reifen + Autoservice in Wiehl. Der Beitrag Markus Rinscheid übernimmt Premio Rei</div>
+  <div class="info">31.10.2024, 20:46 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">September 2024 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/bergische-wanderwochen-wandern-auf-dem-bierweg/" target="_blank" rel="noopener">Bergische Wanderwochen – Wandern auf dem „Bierweg“</a></h2>
+  <div class="teaser">Im Rahmen der 10. Bergischen Wanderwochen lädt die Erzquell Brauerei in Kooperation mit „Das Bergische Wanderland“ und mit Unterstützung der Forstbetriebsgemeinschaft Bielstein sowie dem Heimatverein Bielstein zum Wandern auf dem Bierweg in Bielstein</div>
+  <div class="info">06.09.2024, 13:43 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">August 2024 <span class="monat-count">3</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/baugebiet-auf-der-hoehe-buerger-sind-eingeladen-mitzuwirken/" target="_blank" rel="noopener">Baugebiet „Auf der Höhe“ – Bürger sind eingeladen mitzuwirken</a></h2>
+  <div class="teaser">Das Baugebiet „Auf der Höhe“ zwischen Drabenderhöhe und Brächen soll Modellcharakter erhalten. Wie kann die innovative Gestaltung aussehen? Der Beitrag Baugebiet „Auf der Höhe“ – Bürger sind eingeladen mitzuwirken erschien zuerst auf Oberberg-Nachric</div>
+  <div class="info">13.08.2024, 13:34 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/wiehler-sommer-das-ultimative-sommer-event/" target="_blank" rel="noopener">Wiehler Sommer – Das ultimative Sommer-Event</a></h2>
+  <div class="teaser">Jede Menge Spaß und Action für Jugendliche ab 14 Jahren bietet die Open-Air-Party „Wiehler Sommer“ am 23. August 2024. Der Beitrag Wiehler Sommer – Das ultimative Sommer-Event erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">08.08.2024, 12:50 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/unvergessliches-nachterlebnis-abenteuerwanderung-im-wildpark-wiehl/" target="_blank" rel="noopener">Unvergessliches Nachterlebnis: Abenteuerwanderung im Wildpark Wiehl</a></h2>
+  <div class="teaser">Die KinJu Wiehl (Kinder- und Jugendeinrichtungen Wiehl) organisierte in Zusammenarbeit mit der FSW am Mittwoch, den 31.07.2024, eine aufregende Nacht-Abenteuerwanderung im Wildpark Wiehl, als Teil des Programms `Ferienspaߴ. Der Beitrag Unvergessliche</div>
+  <div class="info">06.08.2024, 14:41 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Januar 2024 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/marketing-effektiver-gestalten-so-werden-sie-im-obk-erfolgreich/" target="_blank" rel="noopener">So stärken Sie ihre Marketinganstrengungen und werden im Oberbergischen Kreis erfolgreich</a></h2>
+  <div class="teaser">Ob Gummerbach oder Radevormwald, Lindlar oder Morsbach, Engelskirchen oder Wiehl - der Oberbergische Kreis hat Unternehmen zahlreicher Branchen ein solides Fundament zu bieten. Erstklassige Infrastruktur, gute Kaufkraft und kulturelle Vielfalt bilden</div>
+  <div class="info">26.01.2024, 17:11 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">November 2023 <span class="monat-count">3</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/tipps-um-den-perfekten-kaffee-auch-zu-hause-geniessen-zu-koennen/" target="_blank" rel="noopener">Barista in den eigene vier Wänden – worauf man achten sollte, um den perfekten Kaffee auch zu Hause genießen zu können</a></h2>
+  <div class="teaser">Gerade in Oberberg gibt es viele tolle Kaffees und Kaffeeröstereien, die frischen Kaffee anbieten. Hierzu zählen unter anderem die PanPan Coffee School and Roastery / Kaffeerösterei in Wiehl, oder die Kaffeerösterei Pagnia am Rande des Oberbergischen</div>
+  <div class="info">14.11.2023, 10:28 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/video-identifikationsverfahren-sicherheit-und-komfort/" target="_blank" rel="noopener">Video-Identifikationsverfahren: Sicherheit und Komfort in der digitalen Welt?</a></h2>
+  <div class="teaser">Im Oberbergischen Kreis, wo die Verbindung von Tradition und Fortschritt lebendig ist, wird die Relevanz digitaler Innovationen besonders deutlich. Mit der Digitalisierung wächst hier wie überall das Bedürfnis nach schnellen, effizienten und zugleich</div>
+  <div class="info">07.11.2023, 15:12 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/sankt-martinsumzug-in-drabenderhoehe/" target="_blank" rel="noopener">Sankt Martinsumzug in Drabenderhöhe</a></h2>
+  <div class="teaser">Der diesjährige Sankt Martinsumzug in Drabenderhöhe findet am Donnerstag, den 9. November statt. Der Beitrag Sankt Martinsumzug in Drabenderhöhe erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">06.11.2023, 13:52 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Oktober 2023 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/wie-man-den-energieverbrauch-einer-alten-gefriertruhe-drastisch-senkt-ein-unerwarteter-trick/" target="_blank" rel="noopener">Wie man den Energieverbrauch einer alten Gefriertruhe drastisch senkt: Ein unerwarteter Trick!</a></h2>
+  <div class="teaser">Inmitten der idyllischen Hügel und Täler des Oberbergischen Kreises sucht jeder Bewohner nach Wegen, seine monatlichen Ausgaben zu minimieren. Die traditionsreichen Häuser von Gummersbach bis Waldbröl beherbergen oft ältere Elektrogeräte, darunter au</div>
+  <div class="info">12.10.2023, 09:28 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Mai 2023 <span class="monat-count">2</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/wiehlpark-vorfreude-bei-baustellen-fuehrungen/" target="_blank" rel="noopener">Wiehlpark: Vorfreude bei Baustellen-Führungen</a></h2>
+  <div class="teaser">Wiehl - Zu Baubeginn wirkte die Fläche wie eine Mondlandschaft, nun zeigt der Wiehlpark sein neues, schon jetzt einladendes Gesicht. Davon überzeugten sich am Wochenende (12. - 14.05.2023) gut 200 Interessierte. Der Beitrag Wiehlpark: Vorfreude bei B</div>
+  <div class="info">15.05.2023, 12:21 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/spaziergang-durch-den-wiehlpark/" target="_blank" rel="noopener">Spaziergang durch den Wiehlpark</a></h2>
+  <div class="teaser">Wiehl - Den neuen Wiehlpark in erstem Grün erleben: Dazu gibt es am 13. Mai 2023 Gelegenheit. Die Stadt Wiehl lädt alle Interessierten zu einem Spaziergang ein, der auch über die Baustelle Hauptstraße führt. Der Beitrag Spaziergang durch den Wiehlpar</div>
+  <div class="info">04.05.2023, 08:08 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">April 2023 <span class="monat-count">3</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/spenden-und-aktive-das-braucht-die-dlrg-wiehl/" target="_blank" rel="noopener">Spenden und Aktive – das braucht die DLRG Wiehl</a></h2>
+  <div class="teaser">Rund 360 Mitglieder zählt die Ortsgruppe der Deutschen Lebens-Rettungs-Gesellschaft (DLRG) in Wiehl. Der Beitrag Spenden und Aktive – das braucht die DLRG Wiehl erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">24.04.2023, 10:22 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/wiehler-kunterbunt-in-der-wiehler-wasser-welt/" target="_blank" rel="noopener">Wiehler Kunterbunt in der Wiehler-Wasser-Welt</a></h2>
+  <div class="teaser">Für alle Familien, die zum Abschluss der Osterferien etwas Besonderes unternehmen möchten, bietet die Wiehler-Wasser-Welt unter dem Motto `Wiehler Kunterbunt´ Spiel- und Badevergnügen für Groß und Klein, an. Der Beitrag Wiehler Kunterbunt in der Wieh</div>
+  <div class="info">06.04.2023, 11:33 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/drei-spannende-para-eishockey-partien-in-wiehl/" target="_blank" rel="noopener">Drei spannende Para-Eishockey Partien in Wiehl</a></h2>
+  <div class="teaser">Am vergangenen Wochenende fand in der Eissporthalle Wiehl ein ganz besonderes Ereignis statt. Gleich drei Länderspiele im Para-Eishockey wurden in Wiehl ausgetragen. Der Beitrag Drei spannende Para-Eishockey Partien in Wiehl erschien zuerst auf Oberb</div>
+  <div class="info">03.04.2023, 12:33 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">März 2023 <span class="monat-count">4</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/erster-wiehler-gastronomie-stammtisch/" target="_blank" rel="noopener">Erster Wiehler Gastronomie-Stammtisch</a></h2>
+  <div class="teaser">Fehlendes Personal, hohe Kosten, Corona-Nachwirkungen: Die örtliche Gastronomie steht vor großen Herausforderungen. Grund genug für die Stadt Wiehl, zum ersten Wiehler Gastronomie-Stammtisch einzuladen. Der Beitrag Erster Wiehler Gastronomie-Stammtis</div>
+  <div class="info">23.03.2023, 10:31 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/para-eishockey-laenderspiele-in-wiehl/" target="_blank" rel="noopener">Para Eishockey Länderspiele in Wiehl</a></h2>
+  <div class="teaser">Vom 31. März bis zum 02.April 2023 werden drei Länderspiele zwischen den Nationalmannschaften aus Deutschland und Norwegen, im Para Eishockey, ausgetragen. Der Beitrag Para Eishockey Länderspiele in Wiehl erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">13.03.2023, 12:48 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/stadt-wiehl-klagt-gegen-ablehnung/" target="_blank" rel="noopener">Stadt Wiehl klagt gegen Ablehnung</a></h2>
+  <div class="teaser">Die Stadt Wiehl geht rechtlich gegen die Ablehnung der Bezirksregierung Köln vor, die TOB-Sekundarschule in eine Gesamtschule umzuwandeln. Den dazu nötigen Beschluss hat der Wiehler Stadtrat heute mit großer Mehrheit gefasst. Der Beitrag Stadt Wiehl </div>
+  <div class="info">08.03.2023, 12:18 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/eiskunstlaeuferinnen-auch-beim-saisonhoehepunkt-mit-top-platzierungen/" target="_blank" rel="noopener">Eiskunstläuferinnen auch beim Saisonhöhepunkt mit Top Platzierungen</a></h2>
+  <div class="teaser">Insgesamt 12 Teilnehmerinnen des TuS Wiehl Eissportclub haben, vom 24. bis 26. Februar 2023, an den NRW Landesmeisterschaften im Eiskunstlauf teilgenommen. Die Eiskunstläuferinnen zeigten an allen drei Wettkampftagen einmal mehr ihre sehr gute Form.</div>
+  <div class="info">06.03.2023, 15:01 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Februar 2023 <span class="monat-count">4</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/waldbroel/tea-with-cops-austausch-und-integration-bei-tee-und-gebaeck/" target="_blank" rel="noopener">Tea with cops – Austausch und Integration bei Tee und Gebäck</a></h2>
+  <div class="teaser">Waldbröl - Polizei und Moscheeverein laden für Freitag (10. März), ab 14 Uhr vor der Moschee in Waldbröl (Wiehler Straße 5) interessierte Bürgerinnen und Bürger zu einem Austausch bei Tee und Gebäck ein. Der Beitrag Tea with cops – Austausch und Inte</div>
+  <div class="info">28.02.2023, 14:23 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/eiskunstlaeuferinnen-des-tus-wiehl-esc-weiter-auf-erfolgskurs/" target="_blank" rel="noopener">Eiskunstläuferinnen des TuS Wiehl ESC weiter auf Erfolgskurs</a></h2>
+  <div class="teaser">Das Jahr 2023 begann für die Eiskunstläuferinnen des TuS Wiehl mit erneut sehr guten Platzierungen. Nach tollen Auftritten beim heimischen Wiehl Pokal Anfang des Jahres haben die Wiehler Eissportlerinnen in Iserlohn und Krefeld ihre gute Form erneut </div>
+  <div class="info">16.02.2023, 08:50 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/nrw-foerdert-ausbau-barrierefreier-bushaltestellen/" target="_blank" rel="noopener">NRW fördert Ausbau barrierefreier Bushaltestellen</a></h2>
+  <div class="teaser">Wiehl - Einen kräftigen Schritt nach vorn kann der barrierefreie Ausbau von Bushaltestellen auf Wiehler Stadtgebiet machen: Bürgermeister Ulrich Stücker nahm gestern in Düsseldorf einen entsprechenden Förderbescheid in Höhe von 557.100 Euro entgegen.</div>
+  <div class="info">15.02.2023, 15:53 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wiehl/karnevalsfeier-maskenball-im-hbw/" target="_blank" rel="noopener">Karnevalsfeier: Maskenball im HBW</a></h2>
+  <div class="teaser">Wiehl - Eine liebgewonnene Tradition im HBW Haus für Menschen mit Behinderung Wiehl ist die jährliche Karnevalsfeier, die die Mitarbeitenden für die Bewohnenden, Klienten und Kollegen ausrichten. Der Beitrag Karnevalsfeier: Maskenball im HBW erschien</div>
+  <div class="info">09.02.2023, 09:12 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Januar 2023 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/perspektiven-fuer-gefluechtete-schueler-aus-der-ukraine/" target="_blank" rel="noopener">Perspektiven für geflüchtete Schüler aus der Ukraine</a></h2>
+  <div class="teaser">Elf Schülerinnen und Schüler, die derzeit das Dietrich-Bonhoeffer-Gymnasium in Wiehl besuchen, hatten so die Möglichkeit, Einblicke in den Hochschulalltag zu bekommen - und vielleicht auch eine Perspektive für die eigene Zukunft zu finden. Der Beitra</div>
+  <div class="info">20.01.2023, 08:10 Uhr · Oberberg Nachrichten</div>
+</div>
+</div></div>
+</main>
+<footer>
+  <a href="../index.html">Wiehl</a> · Archiv · Aktualisiert: 22.10.2026, 22:19 Uhr<br>
+  <a href="/ai-tageszeitung/impressum/">Impressum</a> · <a href="/ai-tageszeitung/rechtliches/">Rechtliche Hinweise</a> · <a href="/ai-tageszeitung/rechtliches/#datenschutz">Datenschutz</a><br>
+  <a href="https://github.com/dna-dieter/ai-tageszeitung/actions/workflows/update.yml">GitHub</a>
+</footer>
+
+<script>
+(function() {
+  // Button nur für Betreiber: sichtbar mit ?admin in der Adresse (wird gemerkt), ?admin=aus blendet ihn wieder aus.
+  try {
+    const p = new URLSearchParams(location.search);
+    if (p.has('admin')) {
+      if (p.get('admin') === 'aus') localStorage.removeItem('ai_tz_admin');
+      else localStorage.setItem('ai_tz_admin', '1');
+    }
+    if (localStorage.getItem('ai_tz_admin') === '1') {
+      const b = document.getElementById('btn-refresh');
+      if (b) b.hidden = false;
+    }
+  } catch (e) {}
+  const REPO = 'dna-dieter/ai-tageszeitung';
+  const WORKFLOW = 'update.yml';
+  const TOKEN_KEY = 'ai_tz_github_token';
+  const API = 'https://api.github.com';
+
+  function getToken() {
+    let t = localStorage.getItem(TOKEN_KEY);
+    if (!t) {
+      t = prompt(
+        'Einmaliger Setup: Bitte GitHub Personal Access Token eingeben.\n\n' +
+        'Der Token braucht Berechtigung "Actions: Read and write" auf diesem Repo.\n' +
+        'Der Token wird nur lokal in deinem Browser gespeichert.'
+      );
+      if (t) {
+        t = t.trim();
+        localStorage.setItem(TOKEN_KEY, t);
+      }
+    }
+    return t;
+  }
+
+  function setStatus(msg) {
+    const el = document.getElementById('refresh-status');
+    if (el) el.textContent = msg;
+  }
+
+  function setButton(loading, label) {
+    const btn = document.getElementById('btn-refresh');
+    if (!btn) return;
+    btn.disabled = loading;
+    btn.classList.toggle('loading', loading);
+    btn.innerHTML = loading
+      ? '<span class="spinner"></span> ' + (label || 'Aktualisiere...')
+      : '\u21bb ' + (label || 'Jetzt aktualisieren');
+  }
+
+  async function gh(path, opts) {
+    const token = getToken();
+    if (!token) throw new Error('Kein Token');
+    const res = await fetch(API + path, Object.assign({
+      headers: {
+        'Accept': 'application/vnd.github+json',
+        'Authorization': 'Bearer ' + token,
+        'X-GitHub-Api-Version': '2022-11-28'
+      }
+    }, opts || {}));
+    return res;
+  }
+
+  async function triggerWorkflow() {
+    const res = await gh('/repos/' + REPO + '/actions/workflows/' + WORKFLOW + '/dispatches', {
+      method: 'POST',
+      headers: {
+        'Accept': 'application/vnd.github+json',
+        'Authorization': 'Bearer ' + getToken(),
+        'X-GitHub-Api-Version': '2022-11-28',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ ref: 'main' })
+    });
+    if (res.status === 401 || res.status === 403) {
+      localStorage.removeItem(TOKEN_KEY);
+      throw new Error('Token ungültig oder abgelaufen (gelöscht, bitte neu eingeben)');
+    }
+    if (!res.ok) {
+      const text = await res.text();
+      throw new Error('Trigger fehlgeschlagen: ' + res.status + ' ' + text.slice(0, 120));
+    }
+  }
+
+  async function findRun(triggeredAt) {
+    const res = await gh('/repos/' + REPO + '/actions/workflows/' + WORKFLOW + '/runs?per_page=5&event=workflow_dispatch');
+    if (!res.ok) return null;
+    const data = await res.json();
+    const runs = data.workflow_runs || [];
+    for (const r of runs) {
+      const created = new Date(r.created_at).getTime();
+      if (created >= triggeredAt - 10000) return r;
+    }
+    return null;
+  }
+
+  async function waitForCompletion(triggeredAt) {
+    const deadline = Date.now() + 6 * 60 * 1000; // max 6 min
+    let run = null;
+    // find the run (kann ein paar Sekunden dauern)
+    while (!run && Date.now() < deadline) {
+      await new Promise(r => setTimeout(r, 3000));
+      run = await findRun(triggeredAt);
+      if (!run) setStatus('Starte Workflow...');
+    }
+    if (!run) throw new Error('Workflow-Lauf nicht gefunden');
+
+    while (Date.now() < deadline) {
+      const res = await gh('/repos/' + REPO + '/actions/runs/' + run.id);
+      if (!res.ok) break;
+      const r = await res.json();
+      setStatus('Status: ' + (r.status || '?') + (r.conclusion ? ' (' + r.conclusion + ')' : ''));
+      if (r.status === 'completed') return r;
+      await new Promise(res => setTimeout(res, 5000));
+    }
+    throw new Error('Timeout beim Warten');
+  }
+
+  window.triggerRefresh = async function() {
+    try {
+      const token = getToken();
+      if (!token) return;
+      setButton(true, 'Starte...');
+      setStatus('Sende Trigger an GitHub...');
+      const t0 = Date.now();
+      await triggerWorkflow();
+      setStatus('Workflow gestartet, warte auf Abschluss...');
+      const run = await waitForCompletion(t0);
+      if (run.conclusion === 'success') {
+        setStatus('Fertig! Lade Seite neu...');
+        // Kurz warten bis GitHub Pages deployed hat
+        setTimeout(() => location.reload(), 30000);
+        setStatus('Fertig! Seite lädt in 30s neu (GitHub Pages Deploy)...');
+      } else {
+        setButton(false);
+        setStatus('Fehlgeschlagen: ' + run.conclusion);
+      }
+    } catch (e) {
+      setButton(false);
+      setStatus('Fehler: ' + e.message);
+    }
+  };
+})();
+</script>
+
+</body></html>

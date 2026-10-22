@@ -1,460 +1,29 @@
 [
   {
-    "id": "7ffe911c2ec8",
-    "title": "Gummersbach: Unentschieden gegen die Prognose – Aggertal III trotzt Wiehl IV 5:5 ab",
-    "summary": "Vorab 87 Prozent für Wiehl, 3 für Aggertal, 10 für ein Unentschieden – am Ende steht es 5:5. Hans-Jürgen Kupfer gewinnt bei 8 Prozent Siegchance.",
-    "link": "https://www.news-on-tour.de/242969/gummersbach-unentschieden-tischtennis/",
-    "published": "Wed, 30 Sep 2026 01:46:38 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach",
-      "wiehl"
-    ],
-    "fetched": "2026-09-30T06:37:33.855892"
-  },
-  {
-    "id": "250019defca2",
-    "title": "A4 Wiehltalbrücke: WIM-Anlage soll Lkw-Verstöße stoppen – zwei Sperrungen geplant",
-    "summary": "WIM-Anlage an der A4 Wiehltalbrücke: Autobahn GmbH installiert automatische Lkw-Gewichtskontrolle – zwei Sperrungen Ende Mai und Mitte Juni 2026.",
-    "link": "https://www.news-on-tour.de/203119/a4-wiehltalbruecke-wim-anlage-sperrung/",
-    "published": "Wed, 27 May 2026 13:39:08 +0000",
-    "source": "NEWS-on-Tour Oberberg",
+    "id": "7f6dc3cf42ac",
+    "title": "LKW werden abgeleitet: Brücke in Wiehl bekommt Schranke",
+    "summary": "Ab Dezember werden alle LKW mit über 44 Tonnen vor der Wiehltalquerung zwangsweise von der Autobahn abgeleitet.",
+    "link": "https://www.ksta.de/region/oberberg/bruecke-in-wiehl-bekommt-schranke-4-1396597",
+    "published": "Thu, 22 Oct 2026 18:36:20 +0200",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-05-27T16:45:18.921163"
+    "fetched": "2026-10-22T22:18:53.931531",
+    "feed_kommunen": []
   },
   {
-    "id": "4090aa65745e",
-    "title": "POL-GM: Cyber-Kriminielle mit Betrugsmasche leider erfolgreich",
-    "summary": "Wiehl (ots) - Eine 67-Jährige aus Wiehl ist kürzlich auf Cyber-Kriminelle hereingefallen. Während sie am Computer saß, erschien plötzlich eine Meldung auf dem Bildschirm, dass sie den Bildschirm nicht ausschalten und eine Telefonnummer anrufen ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6300952",
-    "published": "Wed, 24 Jun 2026 09:51:57 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-06-24T09:49:34.488522"
-  },
-  {
-    "id": "2f0e37415e7b",
-    "title": "POL-GM: Radfahrer bei Unfall schwer verletzt",
-    "summary": "Engelskirchen (ots) - Am Dienstagmorgen (21. Juli) gegen 06:40 Uhr fuhr ein 47-jähriger Radfahrer aus Wiehl auf dem Gehweg der Gelpestraße in Richtung Nochem. Zeitgleich befand sich im Einmündungsbereich zur Straße \"Zum Dornbusch\" eine ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6319190",
-    "published": "Wed, 22 Jul 2026 09:49:14 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl",
-      "engelskirchen"
-    ],
-    "fetched": "2026-07-22T09:35:06.905991"
-  },
-  {
-    "id": "3c362eb6bffb",
-    "title": "POL-GM: Trickdiebe stehlen Geldbörse bei Obstverkauf",
-    "summary": "Wiehl (ots) - In der Nähe der Straße \"Hardt\" hielt am Dienstag (21. Juli) gegen 10:30 Uhr ein großer silberner Pkw. Die zwei Männer im Pkw beabsichtigten, Obst zu verkaufen. Eine 86-Jährige erwarb mehrere Kilo Äpfel, Apfelsinen und Kartoffeln. ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6319182",
-    "published": "Wed, 22 Jul 2026 09:47:30 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-07-22T09:35:06.906067"
-  },
-  {
-    "id": "5c85e9b2ccbf",
-    "title": "Wiehl: Trickdiebstahl – Obstverkäufer stehlen Geldbörse",
-    "summary": "Trickdiebstahl in Wiehl: Zwei Obstverkäufer sollen einer 86-Jährigen nach einer Lieferung in den Keller die Geldbörse gestohlen haben.",
-    "link": "https://www.news-on-tour.de/206166/wiehl-trickdiebstahl-geldboerse/",
-    "published": "Wed, 22 Jul 2026 08:34:57 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-07-22T09:34:49.955482"
-  },
-  {
-    "id": "da825790731a",
-    "title": "Wiehl: Verkehr entspannt sich nach neuer Ampelschaltung",
-    "summary": "Verkehr in Wiehl fließt nach geänderter Ampelschaltung besser. Die Umleitungen wegen der Kreisverkehr-Sanierung bleiben bestehen.",
-    "link": "https://www.news-on-tour.de/206098/wiehl-verkehr-ampelschaltung/",
-    "published": "Wed, 22 Jul 2026 02:13:47 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-07-22T03:37:58.197005"
-  },
-  {
-    "id": "694cb9f2d96c",
-    "title": "POL-GM: Gestohlenes Auto bei Verkehrskontrolle aufgetan",
-    "summary": "Wiehl (ots) - Ein Bezirksdienstbeamter unterzog am 10. Juli (Freitag) ein Auto samt Fahrer einer allgemeinen Verkehrskontrolle. Der Polizist war gegen 16:30 Uhr auf der Homburger Straße auf den Skoda mit Wittlicher Kennzeichen aufmerksam geworden, ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6314938",
-    "published": "Wed, 15 Jul 2026 10:51:04 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-07-15T11:44:45.794754"
-  },
-  {
-    "id": "bfe7218783f6",
-    "title": "POL-GM: Drei beteiligte Autos bei Auffahrunfall",
-    "summary": "Gummersbach (ots) - Drei Autos waren bei einem Auffahrunfall in Gummersbach am Dienstagmorgen (14. Juli) beteiligt. Eine 56-Jährige aus Gummersbach war gegen 8:50 Uhr mit ihrem VW auf der Westtangente in Richtung Wiehl unterwegs. Im ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6314936",
-    "published": "Wed, 15 Jul 2026 10:50:06 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "gummersbach",
-      "wiehl"
-    ],
-    "fetched": "2026-07-15T09:20:10.521345"
-  },
-  {
-    "id": "f0aa5d7e2359",
-    "title": "Wiehl: Sprengversuch scheitert – Täter fliehen zum dritten Mal",
-    "summary": "Sprengversuch in Wiehl: Unbekannte scheitern zum dritten Mal an einem Bankautomaten in der Oberwiehler Straße – erneut ohne Beute.",
-    "link": "https://www.news-on-tour.de/205694/wiehl-sprengversuch-geldautomat/",
-    "published": "Wed, 15 Jul 2026 05:23:51 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl",
-      "gummersbach",
-      "bergneustadt"
-    ],
-    "fetched": "2026-07-15T06:25:05.744369"
-  },
-  {
-    "id": "a320a0c68cb9",
-    "title": "NRW fördert Ausbau barrierefreier Bushaltestellen",
-    "summary": "Wiehl - Einen kräftigen Schritt nach vorn kann der barrierefreie Ausbau von Bushaltestellen auf Wiehler Stadtgebiet machen: Bürgermeister Ulrich Stücker nahm gestern in Düsseldorf einen entsprechenden Förderbescheid in Höhe von 557.100 Euro entgegen. Der Beitrag NRW fördert Ausbau barrierefreier Bushaltestellen erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/wiehl/nrw-foerdert-ausbau-barrierefreier-bushaltestellen/",
-    "published": "Wed, 15 Feb 2023 14:53:10 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:09.380969"
-  },
-  {
-    "id": "eb3a7a231f96",
-    "title": "POL-GM: 15-Jähriger stürzt mit Moped",
-    "summary": "Wiehl (ots) - Bei einem Verkehrsunfall auf der Bielsteiner Straße zog sich ein 15-Jähriger aus Wiehl am vergangenen Dienstag (9. Juni) leichte Verletzungen zu. Der Wiehler war gegen 15:30 Uhr aus Richtung der L321/L336 in Richtung des Bielsteiner ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6291567",
-    "published": "Wed, 10 Jun 2026 10:00:19 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-06-10T09:00:27.110827"
-  },
-  {
-    "id": "72dadbca8ad6",
-    "title": "Stadt Wiehl klagt gegen Ablehnung",
-    "summary": "Die Stadt Wiehl geht rechtlich gegen die Ablehnung der Bezirksregierung Köln vor, die TOB-Sekundarschule in eine Gesamtschule umzuwandeln. Den dazu nötigen Beschluss hat der Wiehler Stadtrat heute mit großer Mehrheit gefasst. Der Beitrag Stadt Wiehl klagt gegen Ablehnung erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/wiehl/stadt-wiehl-klagt-gegen-ablehnung/",
-    "published": "Wed, 08 Mar 2023 11:18:35 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:09.380225"
-  },
-  {
-    "id": "dd8c9f62186f",
-    "title": "Wiehl: Spielplatz im Wiehlpark wächst um fast das Doppelte",
-    "summary": "Der inklusive Kleinkinder-Spielplatz in Wiehl wächst um 217 Quadratmeter. Ab Mitte Juli entstehen vier neue Geräte für Kinder bis sechs Jahre.",
-    "link": "https://www.news-on-tour.de/205379/wiehl-spielplatz-wiehlpark/",
-    "published": "Wed, 08 Jul 2026 11:22:27 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-07-08T12:49:05.427169"
-  },
-  {
-    "id": "b7e485e940a7",
-    "title": "Bielstein (Update#2) Baustellen, Sperrungen und Schienenersatzverkehr – Verkehrschaos in Oberberg spitzt sich zu",
-    "summary": "Bielstein / Wiehltalbrücke / RB25 / Straßensperrung (Von Christian Sasse) Bielstein – Wer derzeit durch den Wiehl-Ortsteil Bielstein (Oberbergischer Kreis/NRW) fährt, braucht vor allem eines: Geduld. Gleich mehrere Baustellen sorgen seit Ende März für Vollsperrungen auf der L336 und der L302, die A4 wird in dieser Woche nachts gesperrt, die RB25 fährt seit dem 27. März nur noch als Bus – und über ",
-    "link": "https://www.news-on-tour.de/201215/bielstein-baustellen-a4-sperrung-rb25/",
-    "published": "Wed, 08 Apr 2026 05:10:07 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:16.620013"
-  },
-  {
-    "id": "17c7acedd46e",
-    "title": "Wiehl: Polizei ermittelt nach mehreren Fahrzeugaufbrüchen – Zwei E-Scooter gestohlen",
-    "summary": "Wiehl / Oberberg &#8211; (Von Christian Sasse) In der Nacht von Montag auf Dienstag (02./03. März 2026) kam es in Wiehl zu mehreren Autoaufbrüchen. Unbekannte Täter schlugen an verschiedenen Stellen im Stadtgebiet Scheiben von Pkw ein und entwendeten Taschen, Bargeld und persönliche Dokumente. Die Polizei bittet um Hinweise aus der Bevölkerung. Symbolbild: © Foto+TV Agentur NTOi.de (Das abgebildet",
-    "link": "https://www.news-on-tour.de/200359/wiehl-autoaufbrueche-e-scooter-pkw/",
-    "published": "Wed, 04 Mar 2026 12:12:52 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:16.623458"
-  },
-  {
-    "id": "dabdcb3a3b31",
-    "title": "Wiehl: Entlaufene Kuh hält Polizei in Atem – Jäger stoppt Ausreißer",
-    "summary": "Entlaufene Kuh in Wiehl: Das Tier zog eine Stunde durchs Stadtgebiet, ehe ein Jäger es mit einem Betäubungspfeil stoppte. Verletzt wurde niemand.",
-    "link": "https://www.news-on-tour.de/203476/wiehl-entlaufene-kuh/",
-    "published": "Wed, 03 Jun 2026 13:32:45 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-06-03T17:10:01.926201"
-  },
-  {
-    "id": "89100ac5bd03",
-    "title": "POL-GM: Entlaufene Kuh beschäftigt Polizei",
-    "summary": "Wiehl (ots) - Am Dienstag (2. Juni) gingen gegen 19:20 Uhr bei der Polizei mehrere Anrufe über eine entlaufene Kuh im Wiehler Stadtgebiet ein. Die Kuh, die offenbar von ihrer Weide ausgebüxt war, bewegte sich von der Wiehler Innenstadt über die ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6287351",
-    "published": "Wed, 03 Jun 2026 10:00:25 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-06-03T11:22:27.397851"
-  },
-  {
-    "id": "d56f13b9a506",
-    "title": "POL-GM: Versuchter Einbruch in Kindertagesstätte",
-    "summary": "Wiehl (ots) - Zwischen Donnerstag (25. Juni) und 12:50 Uhr am Dienstag versuchten Unbekannte in einen Kindergarten in der Straße \"Börnhausener Berg\" einzubrechen. Augenscheinlich versuchten die Unbekannten ein Fenster aufzuhebeln. In das Gebäude ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6305775",
-    "published": "Wed, 01 Jul 2026 09:44:39 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-07-01T10:08:36.371114"
-  },
-  {
-    "id": "dd148999e73f",
-    "title": "Wiehl-Alperbrück: Motorradfahrer kracht auf Auto – zwei Unfälle in einer Stunde",
-    "summary": "Alperbrück: Ein Motorradfahrer verletzt sich auf der L336 schwer, nur eine Stunde zuvor kracht es an einer Tankstelle mit drei Fahrzeugen.",
-    "link": "https://www.news-on-tour.de/204792/wiehl-alperbrueck-motorradfahrer-unfall/",
-    "published": "Tue, 30 Jun 2026 17:52:29 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-06-30T20:12:38.801604"
-  },
-  {
-    "id": "caf50a595015",
-    "title": "POL-GM: Zwei Verkehrsunfälle in Alperbrück binnen einer Stunde",
-    "summary": "Wiehl (ots) - Am Dienstagvormittag (30. Juni), zwischen 11 Uhr und 12 Uhr, kam es in der Ortschaft Alperbrück zu zwei Verkehrsunfällen. Ein 22-jähriger Motorradfahrer aus Wiehl fuhr gegen 12 Uhr auf der L336 von Wiehl kommend in Richtung Bomig. ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6305533",
-    "published": "Tue, 30 Jun 2026 16:30:00 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-06-30T17:12:00.415660"
-  },
-  {
-    "id": "2ceaa1013279",
-    "title": "Oberberg: Kriminalfälle – Einbrecher flüchtet, Prophete-Pedelec gestohlen",
-    "summary": "Zwei Fälle in Oberberg: Ein Einbrecher flüchtet in Radevormwald ohne Beute, in Wiehl verschwindet ein graues Prophete-Pedelec samt Ersatzakku.",
-    "link": "https://www.news-on-tour.de/206375/oberberg-kriminalfaelle-pedelec/",
-    "published": "Tue, 28 Jul 2026 14:19:06 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "radevormwald",
-      "wiehl"
-    ],
-    "fetched": "2026-07-28T15:29:04.409723"
-  },
-  {
-    "id": "c467d41927c7",
-    "title": "POL-GM: Unbekannte stehlen Pedelec",
-    "summary": "Wiehl (ots) - Am Montag (27. Juli) stahlen Kriminelle zwischen 13:45 Uhr und 14:00 Uhr ein Pedelec, das mit einem Fahrradschloss an einem Fahrradständer vor einem Lebensmittelmarkt in der Wiesenstraße angeschlossen war. Die Diebe entkamen mit dem ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6322654",
-    "published": "Tue, 28 Jul 2026 10:00:25 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-07-28T09:42:56.268167"
-  },
-  {
-    "id": "840988924bcf",
-    "title": "Tea with cops – Austausch und Integration bei Tee und Gebäck",
-    "summary": "Waldbröl - Polizei und Moscheeverein laden für Freitag (10. März), ab 14 Uhr vor der Moschee in Waldbröl (Wiehler Straße 5) interessierte Bürgerinnen und Bürger zu einem Austausch bei Tee und Gebäck ein. Der Beitrag Tea with cops &#8211; Austausch und Integration bei Tee und Gebäck erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/waldbroel/tea-with-cops-austausch-und-integration-bei-tee-und-gebaeck/",
-    "published": "Tue, 28 Feb 2023 13:23:49 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "wiehl",
-      "waldbroel"
-    ],
-    "fetched": "2026-05-05T21:11:09.380602"
-  },
-  {
-    "id": "22f4392798e7",
-    "title": "Bergneustadt: Verkehrsunfall an der L173 – Seat-Fahrer verletzt, zwei Fahrzeuge abgeschleppt",
-    "summary": "Bergneustadt / Verkehrsunfall / L173 / Polizei Oberberg (Von Christian Sasse) An der Einmündung „Zur Feriensiedlung&#8220; auf die L173 bei Bergneustadt ist es am Montagmorgen, 27. April 2026, zu einem Verkehrsunfall mit einem Verletzten gekommen. Ein 75-jähriger Bergneustädter missachtete die Vorfahrt eines aus Wiehl kommenden Hyundai-Fahrers – beide Fahrzeuge wurden so stark beschädigt, dass sie",
-    "link": "https://www.news-on-tour.de/201785/bergneustadt-vorfahrtfehler-crash-l173/",
-    "published": "Tue, 28 Apr 2026 16:42:01 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "bergneustadt",
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:01:14.683620"
-  },
-  {
-    "id": "65c782321a4f",
-    "title": "Wiehl: Sanierung am Kreisverkehr Oberwiehl startet – L 336 betroffen",
-    "summary": "Kreisverkehr Oberwiehl auf der L 336 wird saniert: Stadt Wiehl und Straßen.NRW erneuern die Fahrbahn in drei Bausegmenten mit Umleitungen.",
-    "link": "https://www.news-on-tour.de/240971/wiehl-kreisverkehr-oberwiehl/",
-    "published": "Tue, 25 Aug 2026 16:06:03 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-08-25T16:50:28.221643"
-  },
-  {
-    "id": "8ecf0d17b85d",
-    "title": "Gummersbach: Unfallflucht und Diebstahl – Polizei sucht Zeugen",
-    "summary": "E-Scooter-Kollision in Dieringhausen und Diebstahl in Vollmerhausen: Polizei sucht Hinweise zum unbekannten Fahrer sowie zum gestohlenen Roller.",
-    "link": "https://www.news-on-tour.de/240969/gummersbach-unfallflucht-diebstahl/",
-    "published": "Tue, 25 Aug 2026 16:04:29 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach",
-      "wiehl",
-      "bergneustadt"
-    ],
-    "fetched": "2026-08-25T16:50:28.221672"
-  },
-  {
-    "id": "7bcfaca275d6",
-    "title": "Wiehl: Bürgerinfo zur Wiehltalbrücke – 400 Besucher im Dialog zur A4",
-    "summary": "Wiehl / Wiehltalbrücke / A4 / Oberberg (Von Christian Sasse) Rund 400 Besucher haben am Montagabend (23. Februar 2026) an einer Bürgerinformationsveranstaltung zur Zukunft der Wiehltalbrücke auf der A4 teilgenommen. Im Stadtteilhaus Drabenderhöhe (Siebenbürger Platz 23, 51674 Wiehl) informierten die Autobahn GmbH des Bundes, Niederlassung Rheinland, und die Stadt Wiehl rund zweieinhalb Stunden lan",
-    "link": "https://www.news-on-tour.de/200202/wiehl-buergerinfo-wiehltalbruecke-a4/",
-    "published": "Tue, 24 Feb 2026 11:50:27 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:16.624363"
-  },
-  {
-    "id": "ab4dcdeaf188",
-    "title": "Wiehl: 68-Jähriger stirbt bei Unfall auf der Zeitstraße",
-    "summary": "Schwerer Unfall auf der Zeitstraße bei Wiehl: Ein Pkw prallte zwischen Drabenderhöhe und Brächen gegen einen Baum, eine Person ist eingeklemmt.",
-    "link": "https://www.news-on-tour.de/204360/wiehl-unfall-zeitstrasse-baum/",
-    "published": "Tue, 23 Jun 2026 16:33:10 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-06-23T18:12:01.390218"
-  },
-  {
-    "id": "945b8e2557e8",
-    "title": "POL-GM: 68-Jähriger bei Autounfall tödlich verletzt",
-    "summary": "Wiehl (ots) - Ein 68-Jähriger aus Wiehl fuhr am Dienstag (23. Juni) gegen 11 Uhr auf der Zeitstraße aus Richtung Autobahn kommend in Richtung Drabenderhöhe. Aus bislang ungeklärter Ursache, kam er mit seinem VW von der Fahrbahn ab und ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6300403",
-    "published": "Tue, 23 Jun 2026 13:03:45 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-06-23T12:14:43.197064"
-  },
-  {
-    "id": "a1a70a275264",
-    "title": "Wiehl: Betreiber feiern Jubiläum der Eissporthalle mit drei Tagen Eiszeit",
-    "summary": "Jubiläum in Wiehl: Die Eissporthalle feiert 50 Jahre mit Disco, Eishockey, Kunstlauf, Führungen und freiem Eintritt an drei Tagen.",
-    "link": "https://www.news-on-tour.de/242467/wiehl-jubilaeum-eissporthalle/",
-    "published": "Tue, 22 Sep 2026 15:57:59 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-09-22T18:47:37.650953"
-  },
-  {
-    "id": "b850e1f541d8",
-    "title": "POL-GM: Bargeld bei Einbruch gestohlen",
-    "summary": "Wiehl (ots) - Im Zeitraum vom 19. September (Samstag, 15 Uhr) bis 21. September (6:35 Uhr) sind Unbekannte in eine Autowerkstatt in der Straße \"Wilhelm-Grümer-Weg\" in Oberwiehl eingebrochen. Die Einbrecher hebelten ein Fenster im rückwärtigen ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6356515",
-    "published": "Tue, 22 Sep 2026 09:00:37 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-09-22T09:53:01.458114"
-  },
-  {
-    "id": "106fd41cace5",
-    "title": "Waldbröl & Wiehl: Körperverletzung, Diebstahl und Einbruch – Polizei ermittelt",
-    "summary": "Drei Polizeifälle vom Wochenende: Kneipenstreit, gestohlene Rückspiegel und eine aufgebrochene Werkstatt beschäftigen die Ermittler in Oberberg.",
-    "link": "https://www.news-on-tour.de/242440/waldbroel-koerperverletzung-einbruch/",
-    "published": "Tue, 22 Sep 2026 07:34:53 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl",
-      "waldbroel"
-    ],
-    "fetched": "2026-09-22T09:52:46.960202"
-  },
-  {
-    "id": "64451b9ac9bf",
-    "title": "Gummersbach: VfL feiert 10:0-Heimsieg gegen TTC Wiehl IV – Vater und Sohn im Doppel",
-    "summary": "Zwei Doppel, acht Einzel, 30:2 Sätze: Der VfL Gummersbach schlägt TTC Wiehl IV 10:0 – mit einem Elfjährigen und seinem Vater bei den Gästen.",
-    "link": "https://www.news-on-tour.de/242429/gummersbach-heimsieg-ttc-wiehl/",
-    "published": "Tue, 22 Sep 2026 04:41:18 +0000",
+    "id": "24b204af0044",
+    "title": "Wiehl: Schrankenanlage schützt Wiehltalbrücke – Massive A4-Sperrungen ab Montag",
+    "summary": "Die Wiehltalbrücke (A4) erhält eine Schrankenanlage gegen zu schwere Lkw. Autofahrer in Wiehl müssen mit massiven Vollsperrungen rechnen.",
+    "link": "https://www.news-on-tour.de/269314/wiehl-schrankenanlage-wiehltalbruecke/",
+    "published": "Thu, 22 Oct 2026 12:08:24 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "wiehl",
       "gummersbach"
     ],
-    "fetched": "2026-09-22T04:43:47.863977"
-  },
-  {
-    "id": "140c23436956",
-    "title": "Wiehl: Spielplatz im Wiehlpark erweitert – Mehr Platz zum Spielen",
-    "summary": "Inklusiver Spielplatz im Wiehlpark verdoppelt: Neue Spielgeräte, 450 Quadratmeter Fläche und Sonnenschutz für Kinder in Wiehl.",
-    "link": "https://www.news-on-tour.de/242413/wiehl-spielplatz-wiehlpark-2/",
-    "published": "Tue, 22 Sep 2026 00:05:10 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-09-22T04:43:47.864096"
-  },
-  {
-    "id": "013bded82b68",
-    "title": "POL-GM: Einbrecher in Bomig unterwegs",
-    "summary": "Wiehl (ots) - Zwischen dem 17. Juli, 16 Uhr, und dem 20. Juli (Montag), 7 Uhr, waren Kriminelle in der Albert-Einstein-Straße in Wiehl-Bomig unterwegs. Auf dem Gelände eines Maschinenbaubetriebs, versuchten die Unbekannten, die Schiebetür eines ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6318607",
-    "published": "Tue, 21 Jul 2026 11:15:22 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-07-21T11:57:01.913326"
-  },
-  {
-    "id": "cf4bf2883942",
-    "title": "Oberberg: Einbrüche in Wiehl und Radevormwald – Polizei ermittelt",
-    "summary": "Einbrüche in Wiehl und Radevormwald: Täter entwendeten Werkzeug aus einem Betrieb und 30 Tablets aus einer Grundschule. Polizei sucht Zeugen.",
-    "link": "https://www.news-on-tour.de/206066/oberberg-einbruch-wiehl-radevormwald/",
-    "published": "Tue, 21 Jul 2026 09:33:28 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "radevormwald",
-      "wiehl"
-    ],
-    "fetched": "2026-07-21T09:34:15.352072"
+    "fetched": "2026-10-22T15:10:39.616896"
   },
   {
     "id": "817f8519412d",
@@ -484,194 +53,524 @@
     "fetched": "2026-10-20T05:55:47.066291"
   },
   {
-    "id": "b2296d5536eb",
-    "title": "Unfallflucht in Wiehl: Polizei stellt 16-jährigen Tatverdächtigen",
-    "summary": "Wiehl - Nach einer Unfallflucht in Wiehl leistete ein 16-Jähriger Widerstand gegen die Polizei. Eine 15-Jährige wurde verletzt. Jetzt Details lesen! Der Beitrag Unfallflucht in Wiehl: Polizei stellt 16-jährigen Tatverdächtigen erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/wiehl/unfallflucht-in-wiehl-polizei-stellt-16-jaehrigen-tatverdaechtigen/",
-    "published": "Tue, 20 Jan 2026 15:00:33 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:01:13.636111"
-  },
-  {
-    "id": "e0c5e4de2918",
-    "title": "Oberberg: Kostenloser Webseiten-Prototyp in nur 3 Tagen",
-    "summary": "Webseiten-Prototyp aus Wiehl: SUPERBRAND.marketing bietet Unternehmen in Oberberg einen kostenlosen ersten Entwurf an.",
-    "link": "https://www.news-on-tour.de/202553/kostenlose-webseite-oberberg-redesign/",
-    "published": "Tue, 19 May 2026 18:32:13 +0000",
+    "id": "a5118d64e3dd",
+    "title": "Wiehl-Marienhagen: Baustelle an der K 52 – Ortsdurchfahrt wird ab 27. Oktober gesperrt",
+    "summary": "Ab 27. Oktober saniert der Oberbergische Kreis die K 52 in Wiehl-Marienhagen: erst Ampel am Kreisverkehr, dann Sperrung der Ortsdurchfahrt bis Mitte November.",
+    "link": "https://www.news-on-tour.de/254862/wiehl-marienhagen-baustelle-k52/",
+    "published": "Mon, 19 Oct 2026 16:10:47 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-05-19T19:13:59.582189"
+    "fetched": "2026-10-19T21:00:25.443215"
   },
   {
-    "id": "7b1a4f8e72cc",
-    "title": "Das Problem: Kalte Füße beim Radfahren",
-    "summary": "Besonders auf den hügeligen Strecken rund um Gummersbach, Engelskirchen oder Wiehl können kalte Füße schnell zum Problem werden. Da spezielle Fahrradschuhe oft dünn und flexibel sind, bieten sie nicht immer ausreichend Wärme. Wer längere Touren durch das Bergische plant, sollte deshalb vorbeugende Maßnahmen treffen, um kalte Füße zu vermeiden. Der Beitrag Das Problem: Kalte Füße beim Radfahren ers",
-    "link": "https://www.oberberg-nachrichten.de/themen/verschiedenes/das-problem-kalte-fuesse-beim-radfahren/",
-    "published": "Tue, 18 Feb 2025 10:16:54 +0000",
-    "source": "Oberberg Nachrichten",
+    "id": "6ca265a8746f",
+    "title": "Wiehl: Kleinanzeigenbetrug am PC – Polizei warnt vor Phishing-Falle",
+    "summary": "Kleinanzeigenbetrug in Wiehl: Eine 40-Jährige verlor hunderte Euro durch eine Phishing-Falle beim Online-Verkauf – Polizei warnt vor Betrug.",
+    "link": "https://www.news-on-tour.de/254780/wiehl-kleinanzeigenbetrug-phishing/",
+    "published": "Mon, 19 Oct 2026 04:08:40 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-19T07:40:44.380242"
+  },
+  {
+    "id": "d746a7e431bd",
+    "title": "POL-GM: Betrüger auf Verkaufsportal unterwegs",
+    "summary": "Wiehl (ots) - Eine 40-jährige Wiehlerin ist am Donnerstag (15. Oktober) Opfer einer Betrugsmasche geworden. Sie wollte über ein Kleinanzeigenportal einen Verkauf abwickeln. Der angebliche Käufer gab an, über das Bezahlsystem des Anzeigenportals ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6373214",
+    "published": "Sun, 18 Oct 2026 11:05:53 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-19T15:32:10.778902"
+  },
+  {
+    "id": "dc3971bdfddb",
+    "title": "Wiehl: Schrankenanlage soll Lkw über 44 Tonnen ab Dezember stoppen",
+    "summary": "Schrankenanlage an der A4 bei Wiehl: Ab Dezember sollen Lkw über 44 Tonnen automatisch gestoppt werden. Die Gewichtsmessung ist bereits aktiv.",
+    "link": "https://www.news-on-tour.de/253183/wiehl-schrankenanlage-gewichtskontrolle/",
+    "published": "Sat, 17 Oct 2026 03:40:10 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-17T04:14:06.765752"
+  },
+  {
+    "id": "4a44b7d95c7b",
+    "title": "Anwohner dürfen hoffen: Neue Fenster und vielleicht ein Tempolimit in Wiehl",
+    "summary": "Anwohner der L 336 in Oberwiehl sollen Geld für neue Schallschutzfenster erhalten, die Stadt Wiehl verhandelt zudem über Tempo 50 statt 70.",
+    "link": "https://www.ksta.de/region/oberberg/wiehl/anwohner-duerfen-hoffen-neue-fenster-und-vielleicht-ein-tempolimit-in-wiehl-1397525",
+    "published": "Fri, 16 Oct 2026 14:07:29 +0200",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-22T22:18:53.934424",
+    "feed_kommunen": []
+  },
+  {
+    "id": "aa45bad9ffe1",
+    "title": "Hückeswagen & Wiehl und weitere Orte: Diebstahl, Radfahrer schwer verletzt",
+    "summary": "Hückeswagen: Radfahrer schwer verletzt. Zeugen nach Taten in Wiehl, Waldbröl und Einbruchsversuch in Radevormwalder Tankstelle gesucht.",
+    "link": "https://www.news-on-tour.de/252684/hueckeswagen-diebstahl-unfall/",
+    "published": "Fri, 16 Oct 2026 09:07:35 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl",
+      "waldbroel",
+      "radevormwald",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-16T12:19:54.203123"
+  },
+  {
+    "id": "97faef3536fe",
+    "title": "Wiehl: Borussia Düsseldorf startet mit zwei Teams in Rollstuhl-Tischtennis-Bundesliga",
+    "summary": "Historisches Novum in der 1. Rollstuhl-Tischtennis Bundesliga: Borussia Düsseldorf schickt erstmals zwei Teams in das Oberhaus.",
+    "link": "https://www.news-on-tour.de/252670/wiehl-borussia-duesseldorf-rollstuhl-tt/",
+    "published": "Fri, 16 Oct 2026 08:58:23 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-16T12:19:54.203167"
+  },
+  {
+    "id": "7c54b6aab96f",
+    "title": "POL-GM: Betrüger beklauen Seniorin in ihrer Wohnung",
+    "summary": "Wiehl (ots) - Am Donnerstag (15. Oktober) klingelte es mehrfach an der Wohnungstür einer 85-Jährigen in einem Mehrfamilienhaus in der Oberwiehler Straße (in der Nähe der Derschlager Straße). Als sie die Tür öffnete, stand ein Mann vor der ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6372286",
+    "published": "Fri, 16 Oct 2026 09:18:47 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-19T15:32:10.779202"
+  },
+  {
+    "id": "bf1508471cb5",
+    "title": "Kurioses Mitbringsel: Messer mit einem Clanchef getauscht",
+    "summary": "Bei der Siegerehrung des Sommerwettbewerbs in Wiehl erzählten die Gewinner kuriose Reisegeschichten, vom Hindukusch bis nach Alaska.",
+    "link": "https://www.ksta.de/region/oberberg/oberberg-messer-mit-einem-clanchef-getauscht-1397244",
+    "published": "Fri, 16 Oct 2026 08:38:47 +0200",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-22T22:18:53.935090",
+    "feed_kommunen": []
+  },
+  {
+    "id": "26341a137b2a",
+    "title": "Nach verheerenden Überschwemmungen: Renate Kotz aus Wiehl bald erneut auf dem Weg nach Nepal",
+    "summary": "Nach der Flutkatastrophe: Der Wiehler Verein Re:Help setzt auf gezielte Hilfe in Nepal.",
+    "link": "https://www.ksta.de/region/oberberg/renate-kotz-aus-wiehl-bald-erneut-auf-dem-weg-nach-nepal-1396858",
+    "published": "Thu, 15 Oct 2026 15:39:00 +0200",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-22T22:18:53.935529",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b01317ec533d",
+    "title": "Wiehl: Sprayer wüten in Parks – Stadt setzt 500 Euro Belohnung aus",
+    "summary": "In Wiehl häufen sich Graffiti-Schäden in Parks. Die Stadt setzt nun eine Belohnung von 500 Euro für Hinweise auf die Sprayer aus. Alle Details.",
+    "link": "https://www.news-on-tour.de/251968/wiehl-sprayer-belohnung-sachbeschaedigung/",
+    "published": "Thu, 15 Oct 2026 11:32:57 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-15T13:20:41.042952"
+  },
+  {
+    "id": "17cc8fa5ce50",
+    "title": "Wiehl: Stempelkarte in der Stadtbücherei belohnt Kinder für Besuche",
+    "summary": "Wiehl führt Stempelkarte für Kinder in der Stadtbücherei ein: Bei jedem Besuch gibt es Stempel von Leo und Helmi sowie tolle Geschenke.",
+    "link": "https://www.news-on-tour.de/251962/wiehl-stempelkarte-stadtbuecherei/",
+    "published": "Thu, 15 Oct 2026 11:23:26 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-15T13:20:41.042978"
+  },
+  {
+    "id": "a83b92e81331",
+    "title": "Waldbröl: Toyota überschlägt sich – Unfälle und Einbruch in Oberberg",
+    "summary": "Zwei leicht verletzte Autofahrerinnen bei Unfällen in Waldbröl und Gummersbach. In Wiehl sucht die Polizei nach einem Einbruch Zeugen.",
+    "link": "https://www.news-on-tour.de/251948/waldbroel-toyota-ueberschlag-unfall/",
+    "published": "Thu, 15 Oct 2026 11:19:13 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl",
+      "waldbroel",
+      "gummersbach"
+    ],
+    "fetched": "2026-10-15T13:20:41.042997"
+  },
+  {
+    "id": "6adb9746609a",
+    "title": "WM-Premiere: Saskia Schmidt (22) aus Wiehl löst das Ticket für den Hamburg Triathlon",
+    "summary": "Mit Bronze bei der WM im spanischen Pontevedra hat die Wiehlerin zugleich das Ticket für den Wettkampf in Hamburg.",
+    "link": "https://www.ksta.de/region/oberberg/wiehl/saskia-schmidt-aus-wiehl-loest-ticket-fuer-den-hamburg-triathlon-1395303",
+    "published": "Wed, 14 Oct 2026 06:22:00 +0200",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-22T22:18:53.936487",
+    "feed_kommunen": []
+  },
+  {
+    "id": "798448b069e8",
+    "title": "Wiehl: Handball-Spektakel gegen Köln – CVJM Oberwiehl rettet Punkt beim 29:29",
+    "summary": "Handball-Spektakel: CVJM Oberwiehl rettet Punkt gegen Köln-Wahn, während Wahlscheid in einem 82-Tore-Krimi beim PSV Köln unterliegt.",
+    "link": "https://www.news-on-tour.de/243555/wiehl-handball-verbandsliga-oberwiehl/",
+    "published": "Sun, 11 Oct 2026 04:53:03 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-11T05:36:34.644203"
+  },
+  {
+    "id": "b85155743ada",
+    "title": "POL-GM: Kriminelle haben es auf Kupfer abgesehen",
+    "summary": "Wiehl (ots) - In der Zeit von 10 Uhr (Samstag, 3. Oktober) bis 18 Uhr am Sonntag (4. Oktober) haben Unbekannte in der Straße \"An der Mühle\" in Bielstein ein Kupferfallrohr von einer Hausfassade demontiert und gestohlen. Auch in der Bechstraße in ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6367089",
+    "published": "Thu, 08 Oct 2026 08:50:01 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-08T08:50:52.462591"
+  },
+  {
+    "id": "5c436beff968",
+    "title": "Engelskirchen: Auto landet auf der L302 bei Kaltenbach im Graben – Ersthelfer befreien Fahrerin",
+    "summary": "Auf der L302 bei Kaltenbach geriet eine Autofahrerin mit ihrem Wagen in den Graben. Ersthelfer befreiten sie, der Rettungsdienst brachte sie ins Krankenhaus.",
+    "link": "https://www.news-on-tour.de/243278/engelskirchen-unfall-l302-kaltenbach/",
+    "published": "Mon, 05 Oct 2026 09:00:12 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "engelskirchen",
+      "wiehl"
+    ],
+    "fetched": "2026-10-05T18:20:33.274533"
+  },
+  {
+    "id": "2124051231ec",
+    "title": "Bergneustadt, Wiehl & Gummersbach: Betrug und Kupferdiebstahl – Polizei ermittelt",
+    "summary": "Spendentrick in Bergneustadt und gestohlene Fallrohre in Wiehl und Gummersbach: Die Polizei veröffentlicht zwei Fälle und sucht Zeugen.",
+    "link": "https://www.news-on-tour.de/243075/bergneustadt-betrug-fallrohre/",
+    "published": "Fri, 02 Oct 2026 01:25:00 +0000",
+    "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "wiehl",
       "gummersbach",
-      "engelskirchen"
+      "bergneustadt"
     ],
-    "fetched": "2026-05-05T21:11:09.367468"
+    "fetched": "2026-10-02T05:25:48.241005"
   },
   {
-    "id": "c70543267236",
-    "title": "Oberberg: Karnevalsumzüge im Kreisgebiet verlaufen weitgehend friedlich",
-    "summary": "Oberberg / Karnevalsumzüge / Polizei / Engelskirchen (Von Christian Sasse) Die Bilanz des Karnevalswochenendes im Oberbergischen Kreis fällt aus Sicht der Polizei positiv aus: Die Karnevalsumzüge in Engelskirchen, Bielstein und Morsbach verliefen weitgehend störungsfrei, nur in Wipperfürth kam es zu zwei Ingewahrsamnahmen im Zusammenhang mit Karnevalsveranstaltungen. Archivbbilder: © Christian Sas",
-    "link": "https://www.news-on-tour.de/200028/oberberg-karnevalsumzuege-2026_polizei/",
-    "published": "Tue, 17 Feb 2026 16:05:05 +0000",
-    "source": "NEWS-on-Tour Oberberg",
+    "id": "64eb70913f27",
+    "title": "POL-GM: Kupferdiebe in Oberwiehl und Derschlag unterwegs",
+    "summary": "Wiehl; Gummersbach (ots) - Auf Kupferfallrohre hatten es Unbekannte in den vergangenen Tagen in Wiehl und Gummersbach abgesehen. Zwischen dem 25. September (Freitag, 10:15 Uhr) und dem 30. September (Mittwoch, 18:30 Uhr) waren die Diebe in der ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6362898",
+    "published": "Thu, 01 Oct 2026 11:06:43 +0200",
+    "source": "Presseportal Polizei OBK",
     "kommunen": [
       "wiehl",
-      "wipperfuerth",
-      "engelskirchen",
-      "morsbach"
+      "gummersbach"
     ],
-    "fetched": "2026-05-05T21:11:16.625252"
+    "fetched": "2026-10-01T13:03:06.643828"
   },
   {
-    "id": "42af5584aa4b",
-    "title": "Oberberg: Supercup eröffnet das Jubiläum des Fußballkreises Berg",
-    "summary": "Der Fußball-Nachwuchs eröffnet am 20. und 21. Juni in Hoffnungsthal und Wiehl das 25-Jahr-Jubiläum des Fußballkreises Berg mit neun Partien.",
-    "link": "https://www.news-on-tour.de/204006/fussballkreis-berg-supercup/",
-    "published": "Tue, 16 Jun 2026 20:11:54 +0000",
+    "id": "7ffe911c2ec8",
+    "title": "Gummersbach: Unentschieden gegen die Prognose – Aggertal III trotzt Wiehl IV 5:5 ab",
+    "summary": "Vorab 87 Prozent für Wiehl, 3 für Aggertal, 10 für ein Unentschieden – am Ende steht es 5:5. Hans-Jürgen Kupfer gewinnt bei 8 Prozent Siegchance.",
+    "link": "https://www.news-on-tour.de/242969/gummersbach-unentschieden-tischtennis/",
+    "published": "Wed, 30 Sep 2026 01:46:38 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
+      "gummersbach",
       "wiehl"
     ],
-    "fetched": "2026-06-16T21:16:17.574678"
+    "fetched": "2026-09-30T06:37:33.855892"
   },
   {
-    "id": "6a8082a83873",
-    "title": "Der Frühling in Wiehl wird bunt",
-    "summary": "Der Frühling wird bunt: Vom 26. April bis zum 4. Mai 2025 laden Wiehler Ring und Citymanagement zur „Wiehler Frühlingswoche“ ein Der Beitrag Der Frühling in Wiehl wird bunt erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/wiehl/fruehling-in-wiehl/",
-    "published": "Tue, 15 Apr 2025 13:53:29 +0000",
-    "source": "Oberberg Nachrichten",
+    "id": "090af3ab75ef",
+    "title": "Wiehl & Morsbach: Schwere Verkehrsverstöße – Krankenfahrstuhl-Unfall und Verfolgungsjagd",
+    "summary": "Verkehrsverstoß in Wiehl und Morsbach: Ein Krankenfahrstuhl kollidiert im Kreisverkehr und ein 18-jähriger Mopedfahrer flüchtet vor der Polizei.",
+    "link": "https://www.news-on-tour.de/242855/wiehl-morsbach-verkehrsverstoss/",
+    "published": "Mon, 28 Sep 2026 08:33:47 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "morsbach",
+      "wiehl"
+    ],
+    "fetched": "2026-09-28T15:20:08.577534"
+  },
+  {
+    "id": "68e650139287",
+    "title": "Wiehl: Aufstieg in die Verbandsliga – Damen55 feiern Platz 1",
+    "summary": "Damen 55 der Tennisfreunde Bielstein und des TC GW Dieringhausen feiern mit 9:1 Punkten den verdienten Aufstieg in die 2. Verbandsliga.",
+    "link": "https://www.news-on-tour.de/242841/wiehl-aufstieg-bezirksklasse/",
+    "published": "Mon, 28 Sep 2026 08:13:52 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach",
+      "wiehl"
+    ],
+    "fetched": "2026-09-28T15:20:08.577628"
+  },
+  {
+    "id": "92172abb88b3",
+    "title": "POL-GM: Krankenfahrstuhl kollidiert mit Auto",
+    "summary": "Wiehl (ots) - Im Kreisverkehr Morkepützer Straße/Mühlhausener Straße kam es am Sonntagmittag (27. September) zu einem Unfall zwischen einem dreirädrigen E-Mobil/Krankenfahrstuhl eines 31-Jährigen und dem Pkw eines 61-Jährigen. Der 61-Jährige ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6360101",
+    "published": "Mon, 28 Sep 2026 09:57:43 +0200",
+    "source": "Presseportal Polizei OBK",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-05-05T21:11:09.366970"
+    "fetched": "2026-09-28T15:20:22.729871"
   },
   {
-    "id": "9407dccace89",
-    "title": "Barista in den eigene vier Wänden – worauf man achten sollte, um den perfekten Kaffee auch zu Hause genießen zu können",
-    "summary": "Gerade in Oberberg gibt es viele tolle Kaffees und Kaffeeröstereien, die frischen Kaffee anbieten. Hierzu zählen unter anderem die PanPan Coffee School and Roastery / Kaffeerösterei in Wiehl, oder die Kaffeerösterei Pagnia am Rande des Oberbergischen Kreises in Marienheide. Doch was kann man tun, um den frischen Geschmack des Kaffees auch zuhause erleben zu können? Der Beitrag Barista in den eigen",
-    "link": "https://www.oberberg-nachrichten.de/themen/verschiedenes/tipps-um-den-perfekten-kaffee-auch-zu-hause-geniessen-zu-koennen/",
-    "published": "Tue, 14 Nov 2023 09:28:04 +0000",
-    "source": "Oberberg Nachrichten",
+    "id": "b81b6af1bedb",
+    "title": "Marienheide, Gummersbach & Wiehl: 4 Einbruchsfälle – Polizei ermittelt!",
+    "summary": "Vier Einbruchsfälle in Marienheide, Gummersbach und Wiehl: Bewohner treffen auf Verdächtige, Schmuck fehlt – Polizei sucht Zeugen.",
+    "link": "https://www.news-on-tour.de/242764/marienheide-einbruchsfaelle-fenster/",
+    "published": "Sun, 27 Sep 2026 09:25:28 +0000",
+    "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "marienheide",
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:09.373898"
-  },
-  {
-    "id": "357fa53ec3aa",
-    "title": "POL-GM: Einbrecher hatten es auf Metall abgesehen",
-    "summary": "Gummersbach/Wiehl (ots) - Im Zeitraum Freitag (10. Juli) bis Montag verschafften sich Unbekannte Zugang zu einem Firmengelände in der Hagener Straße in Gummersbach-Dümmlinghausen. Anschließend gelangten sie in eine Produktionshalle, wo die ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6314124",
-    "published": "Tue, 14 Jul 2026 10:26:51 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
       "gummersbach",
       "wiehl"
     ],
-    "fetched": "2026-07-14T09:14:34.438912"
+    "fetched": "2026-09-27T13:53:34.696598"
   },
   {
-    "id": "dbb4a203d9e1",
-    "title": "POL-GM: Unfall im Einmündungsbereich",
-    "summary": "Wiehl (ots) - Bei einem Verkehrsunfall in Oberwiehl wurde am Montag (13. Juli) ein Kind verletzt. Das 10-jährige Mädchen aus Wiehl war gegen 14:30 Uhr mit ihrem Mountainbike auf dem Gehweg an der Derschlager Straße aus Richtung Oberwiehler ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6314122",
-    "published": "Tue, 14 Jul 2026 10:25:35 +0200",
+    "id": "6d201bee090f",
+    "title": "POL-GM: Einbruch während die Bewohner zu Hause waren",
+    "summary": "Wiehl (ots) - Einbrecher sind am Abend des 25. September zwischen 18:30 Uhr und 21:15 Uhr in ein Einfamilienhaus in der Ennenfeldstraße eingebrochen. Als der Bewohner in den Garten ging, sah er eine Frau, die hektisch wirkte und auf Ansprache ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6359770",
+    "published": "Sun, 27 Sep 2026 10:50:01 +0200",
     "source": "Presseportal Polizei OBK",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-07-14T09:14:34.438956"
+    "fetched": "2026-09-27T13:53:52.280609"
   },
   {
-    "id": "6447a148444e",
-    "title": "Wiehl und Gummersbach: Verkehrsunfall – Kind schwer verletzt",
-    "summary": "Verkehrsunfall in Wiehl und Gummersbach: Ein zehnjähriges Mädchen auf dem Mountainbike und ein Motorradfahrer wurden am Montag verletzt.",
-    "link": "https://www.news-on-tour.de/205670/wiehl-gummersbach-verkehrsunfall/",
-    "published": "Tue, 14 Jul 2026 09:48:11 +0000",
+    "id": "10aef6ffb6e3",
+    "title": "POL-GM: Tür hält Einbruchsversuch Stand",
+    "summary": "Wiehl (ots) - Zwischen 14 Uhr am Freitag (25. September) und 8:00 Uhr am Samstag versuchten Unbekannte in eine Firma in der Straße \"Von der Birken\" einzubrechen. Die Unbekannten schlugen den Glaseinsatz einer Tür ein und versuchten die Tür zu ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6359764",
+    "published": "Sun, 27 Sep 2026 10:47:21 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-09-27T13:53:52.280644"
+  },
+  {
+    "id": "3dfebc72a342",
+    "title": "Wiehl: Jubiläum der Eissporthalle – Stadt feiert 50 Jahre Eiszeit",
+    "summary": "50 Jahre Eisgeschichte: Vom Solarforschungsprojekt über die Dachsanierung 2006 bis zur neuen Kälteanlage und zum Festwochenende 2026.",
+    "link": "https://www.news-on-tour.de/242689/wiehl-jubilaeum-eissporthalle-2/",
+    "published": "Sat, 26 Sep 2026 03:02:16 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "gummersbach",
       "wiehl"
     ],
-    "fetched": "2026-07-14T11:41:21.316759"
+    "fetched": "2026-09-26T07:33:39.137748"
   },
   {
-    "id": "cefbd796cda2",
-    "title": "Gummersbach und Wiehl: Einbrecher stehlen Kupfer aus Firmen",
-    "summary": "Einbruch in zwei Firmengeländen im Oberbergischen Kreis: Unbekannte stahlen Kupferteile im Wert mehrerer tausend Euro aus Gummersbach und Wiehl.",
-    "link": "https://www.news-on-tour.de/205665/gummersbach-wiehl-einbruch-kupfer/",
-    "published": "Tue, 14 Jul 2026 09:33:04 +0000",
+    "id": "89ed2e261095",
+    "title": "POL-GM: Pavillon aus Keller gestohlen",
+    "summary": "Wiehl (ots) - In der Zeit zwischen dem 16. Und 21. September haben Unbekannte einen Pavillon aus dem Keller eines Mehrfamilienhauses in der Hauptstraße (Ecke Schulstraße/Weiherplatz) gestohlen. Hinweise nimmt das Kriminalkommissariat Waldbröl ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6358231",
+    "published": "Thu, 24 Sep 2026 10:30:47 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "waldbroel",
+      "wiehl"
+    ],
+    "fetched": "2026-09-24T09:55:11.785471"
+  },
+  {
+    "id": "a1a70a275264",
+    "title": "Wiehl: Betreiber feiern Jubiläum der Eissporthalle mit drei Tagen Eiszeit",
+    "summary": "Jubiläum in Wiehl: Die Eissporthalle feiert 50 Jahre mit Disco, Eishockey, Kunstlauf, Führungen und freiem Eintritt an drei Tagen.",
+    "link": "https://www.news-on-tour.de/242467/wiehl-jubilaeum-eissporthalle/",
+    "published": "Tue, 22 Sep 2026 15:57:59 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "gummersbach",
       "wiehl"
     ],
-    "fetched": "2026-07-14T11:41:21.316795"
+    "fetched": "2026-09-22T18:47:37.650953"
   },
   {
-    "id": "25c7eb76e588",
-    "title": "Neues Serviceportal der Stadt Wiehl",
-    "summary": "Mit dem Beginn des neuen Jahres hat die Stadt Wiehl ein innovatives Serviceportal ins Leben gerufen, das die Dienstleistungen der Stadtverwaltung gebündelt und benutzerfreundlich präsentiert. Der Beitrag Neues Serviceportal der Stadt Wiehl erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/wiehl/neues-serviceportal-der-stadt-wiehl/",
-    "published": "Tue, 14 Jan 2025 12:58:14 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:09.368114"
-  },
-  {
-    "id": "f48ced961d6c",
-    "title": "Baugebiet „Auf der Höhe“ – Bürger sind eingeladen mitzuwirken",
-    "summary": "Das Baugebiet „Auf der Höhe“ zwischen Drabenderhöhe und Brächen soll Modellcharakter erhalten. Wie kann die innovative Gestaltung aussehen? Der Beitrag Baugebiet „Auf der Höhe“ &#8211; Bürger sind eingeladen mitzuwirken erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/wiehl/baugebiet-auf-der-hoehe-buerger-sind-eingeladen-mitzuwirken/",
-    "published": "Tue, 13 Aug 2024 11:34:19 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:09.370305"
-  },
-  {
-    "id": "ba8c8ab21695",
-    "title": "Oberberg: Wiehl – Polizei bittet nach Radlader-Diebstahl um Hinweise",
-    "summary": "Oberberg / Wiehl – (Von NEWS-Ticker) Zwischen Freitag (6. März) und Montagmorgen wurde in Wiehl (Oberbergischer Kreis/NRW) ein Arbeitsfahrzeug vom Gelände eines Seniorenzentrums in der Wülfringhauser Straße entwendet. Symbolbild: © Foto+TV Agentur NTOi.de (Das abgebildete Symbolfoto dient der Veranschaulichung der Thematik, ohne die Aktion direkt darzustellen.) Polizei bittet um Hinweise Das Krimi",
-    "link": "https://www.news-on-tour.de/200477/oberberg-wiehl-radladerdiebstahl/",
-    "published": "Tue, 10 Mar 2026 09:16:54 +0000",
+    "id": "106fd41cace5",
+    "title": "Waldbröl & Wiehl: Körperverletzung, Diebstahl und Einbruch – Polizei ermittelt",
+    "summary": "Drei Polizeifälle vom Wochenende: Kneipenstreit, gestohlene Rückspiegel und eine aufgebrochene Werkstatt beschäftigen die Ermittler in Oberberg.",
+    "link": "https://www.news-on-tour.de/242440/waldbroel-koerperverletzung-einbruch/",
+    "published": "Tue, 22 Sep 2026 07:34:53 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "wiehl",
       "waldbroel"
     ],
-    "fetched": "2026-05-05T21:11:16.622896"
+    "fetched": "2026-09-22T09:52:46.960202"
   },
   {
-    "id": "f03e26af9108",
-    "title": "Wiehl-Bomig: Schwerer Unfall an Kreuzung Am Verkehrskreuz – Autofahrerin verletzt, Alkohol im Spiel",
-    "summary": "Wiehl / Verkehrsunfall / Polizei / Alkohol (Von Christian Sasse) Eine 48-jährige Autofahrerin aus Wiehl ist am Montagabend an der Kreuzung Am Verkehrskreuz/Fritz-Kotz-Straße/Werner-von-Siemens-Straße in Bomig bei einem Verkehrsunfall schwer verletzt worden. Gegen 19:10 Uhr kollidierte ihr Mercedes mit einem Audi, dessen 33-jähriger Fahrer nach ersten Erkenntnissen alkoholisiert unterwegs war. Die ",
-    "link": "https://www.news-on-tour.de/199838/wiehl-bomig-unfall-alkohol/",
-    "published": "Tue, 10 Feb 2026 09:08:08 +0000",
+    "id": "b850e1f541d8",
+    "title": "POL-GM: Bargeld bei Einbruch gestohlen",
+    "summary": "Wiehl (ots) - Im Zeitraum vom 19. September (Samstag, 15 Uhr) bis 21. September (6:35 Uhr) sind Unbekannte in eine Autowerkstatt in der Straße \"Wilhelm-Grümer-Weg\" in Oberwiehl eingebrochen. Die Einbrecher hebelten ein Fenster im rückwärtigen ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6356515",
+    "published": "Tue, 22 Sep 2026 09:00:37 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-09-22T09:53:01.458114"
+  },
+  {
+    "id": "64451b9ac9bf",
+    "title": "Gummersbach: VfL feiert 10:0-Heimsieg gegen TTC Wiehl IV – Vater und Sohn im Doppel",
+    "summary": "Zwei Doppel, acht Einzel, 30:2 Sätze: Der VfL Gummersbach schlägt TTC Wiehl IV 10:0 – mit einem Elfjährigen und seinem Vater bei den Gästen.",
+    "link": "https://www.news-on-tour.de/242429/gummersbach-heimsieg-ttc-wiehl/",
+    "published": "Tue, 22 Sep 2026 04:41:18 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl",
+      "gummersbach"
+    ],
+    "fetched": "2026-09-22T04:43:47.863977"
+  },
+  {
+    "id": "140c23436956",
+    "title": "Wiehl: Spielplatz im Wiehlpark erweitert – Mehr Platz zum Spielen",
+    "summary": "Inklusiver Spielplatz im Wiehlpark verdoppelt: Neue Spielgeräte, 450 Quadratmeter Fläche und Sonnenschutz für Kinder in Wiehl.",
+    "link": "https://www.news-on-tour.de/242413/wiehl-spielplatz-wiehlpark-2/",
+    "published": "Tue, 22 Sep 2026 00:05:10 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-05-05T21:11:16.626025"
+    "fetched": "2026-09-22T04:43:47.864096"
+  },
+  {
+    "id": "2b6f8d8ad939",
+    "title": "Wiehl, Lindlar & Marienheide: Verkehrsunfall an Hauswand – Kradfahrer schwer verletzt",
+    "summary": "Drei Unfälle in Oberberg mit drei Verletzten: In Oberwiehl prallte ein Auto gegen eine Hauswand, in zwei weiteren Fällen wurden Männer verletzt.",
+    "link": "https://www.news-on-tour.de/242362/marienheide-verkehrsunfall-hauswand/",
+    "published": "Sun, 20 Sep 2026 08:05:37 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "marienheide",
+      "wiehl",
+      "lindlar"
+    ],
+    "fetched": "2026-09-20T11:17:42.216751"
+  },
+  {
+    "id": "f7125cfde47e",
+    "title": "POL-GM: Auto kracht gegen Hauswand",
+    "summary": "Wiehl (ots) - Am Samstag (19. September) fuhr ein 28-Jähriger aus Reichshof mit seinem Seat Leon auf dem Wilhelm-Grümer-Weg aus Richtung Derschlager Straße in Richtung Oberwiehler Straße. Gegen 8:25 Uhr verlor er, nach derzeitigem Stand der ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6355333",
+    "published": "Sun, 20 Sep 2026 09:40:25 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "reichshof",
+      "wiehl"
+    ],
+    "fetched": "2026-09-20T11:17:59.497747"
+  },
+  {
+    "id": "c6421c3aa821",
+    "title": "Gummersbach: Heimsieg 10:0 – TV Dümmlinghausen III bezwingt TTC Wiehl III",
+    "summary": "Heimsieg 10:0 für den TV Dümmlinghausen III gegen den TTC Wiehl III in der Bezirksklasse – vier Fünfsatzspiele, zwei gedrehte 0:2-Rückstände.",
+    "link": "https://www.news-on-tour.de/242325/gummersbach-heimsieg-duemmlinghausen-3/",
+    "published": "Sat, 19 Sep 2026 01:36:26 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach",
+      "wiehl"
+    ],
+    "fetched": "2026-09-19T05:45:35.214888"
+  },
+  {
+    "id": "3673326a7b6e",
+    "title": "Wiehl & Waldbröl: Zwei Diebstähle – Fahrrad und Portemonnaie gestohlen",
+    "summary": "Zwei Taten in Drabenderhöhe und Waldbröl: Ein schwarzes Canyon-Trekkingrad und ein Portemonnaie fehlen. Das Kriminalkommissariat sucht Zeugen.",
+    "link": "https://www.news-on-tour.de/241992/wiehl-diebstaehle-waldbroel/",
+    "published": "Sun, 13 Sep 2026 12:58:20 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl",
+      "waldbroel"
+    ],
+    "fetched": "2026-09-13T16:09:49.984107"
+  },
+  {
+    "id": "c7a1fd704a8f",
+    "title": "POL-GM: Fahrraddiebe in Drabenderhöhe unterwegs",
+    "summary": "Wiehl (ots) - Zwischen dem 11. September (Freitag), 22:40 Uhr, und Samstag, 2:00 Uhr, haben Unbekannte ein Fahrrad gestohlen. Das Rad war auf dem Parkplatz einer Gaststätte in der Drabenderhöher Straße abgestellt worden. Bei dem Diebesgut handelt ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6350930",
+    "published": "Sun, 13 Sep 2026 10:30:01 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-09-13T11:42:25.875246"
+  },
+  {
+    "id": "2d4d7a40e12a",
+    "title": "Bergneustadt: Freibadsaison legt zu – 40.000 Gäste in Bielstein",
+    "summary": "Bergneustadt übertrifft 2025 deutlich, Bielstein zählt rund 40.000 Gäste. Besucherzahlen aus Oberberg und dem Umland im Vergleich.",
+    "link": "https://www.news-on-tour.de/241981/bergneustadt-freibadsaison-bielstein/",
+    "published": "Sun, 13 Sep 2026 04:26:30 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl",
+      "bergneustadt"
+    ],
+    "fetched": "2026-09-13T06:00:33.311259"
+  },
+  {
+    "id": "a27a1fdeae69",
+    "title": "Wiehl: Landgericht verurteilt Duo nach Trickbetrug zu Haft",
+    "summary": "Das Landgericht Köln verurteilt zwei Betrüger nach einer Serie in Wiehl und der Region. Die Polizei fasste das Duo auf frischer Tat.",
+    "link": "https://www.news-on-tour.de/241957/wiehl-trickbetrug-landgericht/",
+    "published": "Sat, 12 Sep 2026 21:26:13 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-09-12T22:12:35.091250"
+  },
+  {
+    "id": "e7b890dc0e2e",
+    "title": "Wiehl & Gummersbach: Jugendfußball enttäuscht am zweiten Spieltag",
+    "summary": "Bitterer Spieltag im Jugendfußball: FV Wiehl und SV Frömmersbach bleiben sieglos. Alle Spielberichte und Trainerstimmen im Überblick.",
+    "link": "https://www.news-on-tour.de/241947/wiehl-jugendfussball-junioren/",
+    "published": "Sat, 12 Sep 2026 20:45:12 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach",
+      "wiehl"
+    ],
+    "fetched": "2026-09-12T22:12:35.091370"
   },
   {
     "id": "1e8512c809c8",
@@ -726,252 +625,128 @@
     "fetched": "2026-09-08T09:34:25.122574"
   },
   {
-    "id": "ee3f8068b229",
-    "title": "Video-Identifikationsverfahren: Sicherheit und Komfort in der digitalen Welt?",
-    "summary": "Im Oberbergischen Kreis, wo die Verbindung von Tradition und Fortschritt lebendig ist, wird die Relevanz digitaler Innovationen besonders deutlich. Mit der Digitalisierung wächst hier wie überall das Bedürfnis nach schnellen, effizienten und zugleich sicheren Identifikationsverfahren. Das Video-Identifikationsverfahren, eine Technologie, die bereits in Orten wie Gummersbach, Waldbröl und Wiehl an ",
-    "link": "https://www.oberberg-nachrichten.de/themen/verschiedenes/video-identifikationsverfahren-sicherheit-und-komfort/",
-    "published": "Tue, 07 Nov 2023 14:12:46 +0000",
-    "source": "Oberberg Nachrichten",
+    "id": "51640c0e2738",
+    "title": "Radevormwald, Wiehl & Gummersbach: Audi landet im Maisfeld – Mofa-Sturz, Autoaufbruch",
+    "summary": "K7-Unfall bei Wellringrade, Mofa-Sturz in Wiehl und Autoaufbruch in Gummersbach: Drei aktuelle Polizeimeldungen aus dem Oberbergischen Kreis.",
+    "link": "https://www.news-on-tour.de/241560/radevormwald-maisfeld-unfall/",
+    "published": "Sun, 06 Sep 2026 12:41:24 +0000",
+    "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "waldbroel",
+      "gummersbach",
+      "radevormwald",
+      "wiehl"
+    ],
+    "fetched": "2026-09-06T13:37:00.608011"
+  },
+  {
+    "id": "ae87c11fbbb9",
+    "title": "POL-GM: Mofafahrer mit über zwei Promille unterwegs",
+    "summary": "Wiehl (ots) - Am späten Samstagabend (5. September, gegen 23 Uhr) wollte ein 31-jähriger Wiehler mit seinem Mofa von der Bechstraße (L95) nach links auf der Bielsteiner Straße abbiegen. Beim Abbiegen kam der 31-Jährige mit seinem Zweirad zu ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6346301",
+    "published": "Sun, 06 Sep 2026 09:55:04 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-09-06T09:20:18.560915"
+  },
+  {
+    "id": "ff745ae2c19c",
+    "title": "Wiehl: Gebäudebrand in Dreisbach – Feuer greift auf Dachstuhl über",
+    "summary": "Gebäudebrand in Dreisbach: Feuer griff von einer Garage auf den Dachstuhl über. Die Kripo ermittelt zur Ursache, der Schaden ist sechsstellig.",
+    "link": "https://www.news-on-tour.de/241091/wiehl-gebaeudebrand-dreisbach/",
+    "published": "Fri, 28 Aug 2026 13:34:45 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-08-28T18:35:40.711265"
+  },
+  {
+    "id": "64f595166d04",
+    "title": "POL-GM: Gebäudebrand in Wiehl-Dreisbach",
+    "summary": "Wiehl (ots) - Aus bislang ungeklärter Ursache geriet am späten Donnerstagabend (27. August) gegen 22:25 Uhr die Garage eines Wohnhauses in der Dreisbacher Straße in Brand. Von der Garage griff das Feuer dann auf den Dachstuhl des leerstehenden ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6341449",
+    "published": "Fri, 28 Aug 2026 10:25:01 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-08-28T18:35:58.460978"
+  },
+  {
+    "id": "65c782321a4f",
+    "title": "Wiehl: Sanierung am Kreisverkehr Oberwiehl startet – L 336 betroffen",
+    "summary": "Kreisverkehr Oberwiehl auf der L 336 wird saniert: Stadt Wiehl und Straßen.NRW erneuern die Fahrbahn in drei Bausegmenten mit Umleitungen.",
+    "link": "https://www.news-on-tour.de/240971/wiehl-kreisverkehr-oberwiehl/",
+    "published": "Tue, 25 Aug 2026 16:06:03 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-08-25T16:50:28.221643"
+  },
+  {
+    "id": "8ecf0d17b85d",
+    "title": "Gummersbach: Unfallflucht und Diebstahl – Polizei sucht Zeugen",
+    "summary": "E-Scooter-Kollision in Dieringhausen und Diebstahl in Vollmerhausen: Polizei sucht Hinweise zum unbekannten Fahrer sowie zum gestohlenen Roller.",
+    "link": "https://www.news-on-tour.de/240969/gummersbach-unfallflucht-diebstahl/",
+    "published": "Tue, 25 Aug 2026 16:04:29 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach",
       "wiehl",
-      "gummersbach"
+      "bergneustadt"
     ],
-    "fetched": "2026-05-05T21:11:09.374050"
+    "fetched": "2026-08-25T16:50:28.221672"
   },
   {
-    "id": "02a742f4b920",
-    "title": "Unvergessliches Nachterlebnis: Abenteuerwanderung im Wildpark Wiehl",
-    "summary": "Die KinJu Wiehl (Kinder- und Jugendeinrichtungen Wiehl) organisierte in Zusammenarbeit mit der FSW am Mittwoch, den 31.07.2024, eine aufregende Nacht-Abenteuerwanderung im Wildpark Wiehl, als Teil des Programms `Ferienspaߴ. Der Beitrag Unvergessliches Nachterlebnis: Abenteuerwanderung im Wildpark Wiehl erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/wiehl/unvergessliches-nachterlebnis-abenteuerwanderung-im-wildpark-wiehl/",
-    "published": "Tue, 06 Aug 2024 12:41:46 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:09.370699"
-  },
-  {
-    "id": "5a0fe891c693",
-    "title": "POL-GM: Unbekannte wollten in Sparkasse einbrechen",
-    "summary": "Wiehl (ots) - Am frühen Dienstagmorgen (5. Mai) versuchten Einbrecher gegen 4:15 Uhr, die Eingangstür einer Sparkassenfiliale in der Oberwiehler Straße aufzuhebeln. Dabei lösten sie die Alarmanlage aus und flüchteten. Ein Zeuge beobachtete zwei ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6268771",
-    "published": "Tue, 05 May 2026 10:01:08 +0200",
+    "id": "3fbd1434eac1",
+    "title": "POL-GM: Unbekannte stehlen Werkzeug aus Tierheim",
+    "summary": "Wiehl (ots) - Zwischen Freitag (21. August, 17 Uhr) und Samstag, (7 Uhr) sind Unbekannte in ein Tierheim in der Straße Koppelweide eingebrochen. Die Unbekannten hebelten ein Zufahrtstor und eine Werkstatt auf. Dort entwendeten sie mehrere ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6338160",
+    "published": "Sun, 23 Aug 2026 10:05:01 +0200",
     "source": "Presseportal Polizei OBK",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-05-05T21:01:18.843933"
+    "fetched": "2026-08-23T08:43:20.024983"
   },
   {
-    "id": "acadd7831d08",
-    "title": "POL-GM: Fahrraddiebe in Wiehl unterwegs",
-    "summary": "Wiehl (ots) - In der Zeit von Samstag (2. Mai), 14 Uhr, bis Sonntag stahlen Unbekannte ein Fahrrad, das ein 19-Jähriger aus Wiehl im Bereich Bahnhofstraße/Hauptstraße mit einem Ringschloss angeschlossen hatte. Bei dem Fahrrad handelt es sich um ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6268769",
-    "published": "Tue, 05 May 2026 10:00:31 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:01:18.843972"
-  },
-  {
-    "id": "15ac7d13e577",
-    "title": "POL-GM: Unfall auf Kreuzung",
-    "summary": "Wiehl (ots) - Am Montagmorgen (4. Mai) wollte ein 56-jähriger Wiehler mit seinem Land Rover in Hillerscheid von der Hillerscheider Straße nach rechts auf die Drabenderhöher Straße (L338) abbiegen. Dabei kam es gegen 5:15 Uhr zum Zusammenstoß ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6268767",
-    "published": "Tue, 05 May 2026 10:00:25 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:01:18.844036"
-  },
-  {
-    "id": "20f6fde97710",
-    "title": "POL-GM: Lieferwagen kracht gegen Hauswand",
-    "summary": "Engelskirchen (ots) - Am Montag (1. Juni) wurde, wie durch ein Wunder, bei einem Verkehrsunfall in Wiehlmünden niemand verletzt. Gegen 10:50 Uhr setzte sich ein Lieferwagen führerlos auf der abschüssigen Straße \"In den Steinen\" in Bewegung, ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6286457",
-    "published": "Tue, 02 Jun 2026 09:10:13 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "engelskirchen",
-      "wiehl"
-    ],
-    "fetched": "2026-06-02T10:53:52.764402"
-  },
-  {
-    "id": "177dc9b1eec4",
-    "title": "Wiehlmünden: Lieferwagen prallt führerlos gegen Hauswand",
-    "summary": "Führerloser Lieferwagen rollt in Wiehlmünden eine abschüssige Straße hinab und prallt gegen eine Hauswand – verletzt wird niemand.",
-    "link": "https://www.news-on-tour.de/203445/wiehlmuenden-lieferwagen-hauswand/",
-    "published": "Tue, 02 Jun 2026 08:49:03 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl",
-      "engelskirchen"
-    ],
-    "fetched": "2026-06-02T10:53:38.619670"
-  },
-  {
-    "id": "52866ec8473e",
-    "title": "Markus Rinscheid übernimmt Premio Reifen + Autoservice in Wiehl",
-    "summary": "Wiehl – Nach 35 Jahren übergibt Volker Kuhn seinen Betrieb in der Carl-Hans-Straße 2 an Markus Rinscheid. Mit dieser Firmenübernahme startet eine neue Ära für den Premio Reifen + Autoservice in Wiehl. Der Beitrag Markus Rinscheid übernimmt Premio Reifen + Autoservice in Wiehl erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/wiehl/markus-rinscheid-uebernimmt-premio-reifen-autoservice-in-wiehl/",
-    "published": "Thu, 31 Oct 2024 19:46:05 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:09.368870"
-  },
-  {
-    "id": "0a84693532e0",
-    "title": "POL-GM: Einbrecher in Alferzhagen unterwegs",
-    "summary": "Wiehl (ots) - In der Nacht von Dienstag auf Mittwoch (23./24. Juni) sind Unbekannte in ein Vereinsheim in der Straße \"Auf der Heide\" eingebrochen. Die Kriminellen brachen die Eingangstür auf und stahlen zwei Geldkassetten sowie drei ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6301899",
-    "published": "Thu, 25 Jun 2026 10:41:01 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-06-25T11:48:45.216341"
-  },
-  {
-    "id": "89ed2e261095",
-    "title": "POL-GM: Pavillon aus Keller gestohlen",
-    "summary": "Wiehl (ots) - In der Zeit zwischen dem 16. Und 21. September haben Unbekannte einen Pavillon aus dem Keller eines Mehrfamilienhauses in der Hauptstraße (Ecke Schulstraße/Weiherplatz) gestohlen. Hinweise nimmt das Kriminalkommissariat Waldbröl ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6358231",
-    "published": "Thu, 24 Sep 2026 10:30:47 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "waldbroel",
-      "wiehl"
-    ],
-    "fetched": "2026-09-24T09:55:11.785471"
-  },
-  {
-    "id": "cff8f00430ad",
-    "title": "Erster Wiehler Gastronomie-Stammtisch",
-    "summary": "Fehlendes Personal, hohe Kosten, Corona-Nachwirkungen: Die örtliche Gastronomie steht vor großen Herausforderungen. Grund genug für die Stadt Wiehl, zum ersten Wiehler Gastronomie-Stammtisch einzuladen. Der Beitrag Erster Wiehler Gastronomie-Stammtisch erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/wiehl/erster-wiehler-gastronomie-stammtisch/",
-    "published": "Thu, 23 Mar 2023 09:31:23 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:09.379666"
-  },
-  {
-    "id": "24b204af0044",
-    "title": "Wiehl: Schrankenanlage schützt Wiehltalbrücke – Massive A4-Sperrungen ab Montag",
-    "summary": "Die Wiehltalbrücke (A4) erhält eine Schrankenanlage gegen zu schwere Lkw. Autofahrer in Wiehl müssen mit massiven Vollsperrungen rechnen.",
-    "link": "https://www.news-on-tour.de/269314/wiehl-schrankenanlage-wiehltalbruecke/",
-    "published": "Thu, 22 Oct 2026 12:08:24 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl",
-      "gummersbach"
-    ],
-    "fetched": "2026-10-22T15:10:39.616896"
-  },
-  {
-    "id": "77c39e14d83c",
-    "title": "POL-GM: Frontalzusammenstoß zwischen Lkw und Pkw fordert zwei Verletzte",
-    "summary": "Wiehl (ots) - Am Donnerstag (21. Mai) gegen 05:38 Uhr kam es auf der Forster Str. (L302) zu einem Frontalzusammenstoß zwischen einem Lkw und einem Pkw. Der 26-jährige Lkw-Fahrer fuhr mit seinem Sattelzug auf der Forster Str. in Richtung ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6279187",
-    "published": "Thu, 21 May 2026 10:19:53 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-21T12:26:29.480287"
-  },
-  {
-    "id": "cdbf04d95c76",
-    "title": "Wiehl: Lkw schleudert auf L302 in Gegenverkehr – zwei Schwerverletzte",
-    "summary": "Schwerer Lkw-Unfall auf der L302 bei Wiehl: Sattelzug schleudert in Gegenverkehr – zwei Schwerverletzte, Landesstraße stundenlang gesperrt.",
-    "link": "https://www.news-on-tour.de/202672/wiehl-lkw-unfall-l302-polizei/",
-    "published": "Thu, 21 May 2026 08:42:45 +0000",
+    "id": "9f58b5e9611c",
+    "title": "Wiehl: Diebstahl aus zwei Autos – Polizei ermittelt nach Scheibenbruch",
+    "summary": "Zwei Autos wurden an zwei Tagen aufgebrochen. Unbekannte stahlen eine Geldbörse sowie einen Stoffbeutel mit Kleidung und Kosmetik.",
+    "link": "https://www.news-on-tour.de/240474/wiehl-diebstahl-autoscheiben/",
+    "published": "Mon, 17 Aug 2026 10:39:49 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-05-21T12:26:15.963247"
+    "fetched": "2026-08-17T10:43:09.958934"
   },
   {
-    "id": "f01150f9ca57",
-    "title": "POL-GM: Handtasche beim Einkauf gestohlen",
-    "summary": "Wiehl (ots) - Am Mittwoch (17. Juni) kaufte eine 80-Jährige in einem Discounter in der Bechstraße in Bielstein ein. Die Bielsteinerin befand sich gegen 14:10 Uhr in dem Lebensmittelgeschäft. Ihre Handtasche stellte sie in den Einkaufswagen. ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6296870",
-    "published": "Thu, 18 Jun 2026 10:20:55 +0200",
+    "id": "bf9db7763e56",
+    "title": "POL-GM: Diebstähle aus Autos",
+    "summary": "Wiehl (ots) - Zwischen 14:10 Uhr und 16 Uhr am Freitag (14. August) zerstörten Unbekannte eine Scheibe eines geparkten Seat. Aus dem Auto stahlen sie einen Stoffbeutel, in dem sich Kleidung und Kosmetik befanden. Das Auto stand zur Tatzeit in der ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6334426",
+    "published": "Mon, 17 Aug 2026 09:09:51 +0200",
     "source": "Presseportal Polizei OBK",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-06-18T09:24:03.457460"
+    "fetched": "2026-08-17T08:56:04.960531"
   },
   {
-    "id": "86f39f98a282",
-    "title": "Bielstein: Taschendiebstahl im Discounter – Polizei warnt vor der Masche",
-    "summary": "In wenigen Minuten weg: In einem Discounter in Wiehl stahlen Unbekannte einer 80-jährigen Frau die Handtasche samt Geldbörse und Handy.",
-    "link": "https://www.news-on-tour.de/204049/bielstein-taschendiebstahl-oberberg/",
-    "published": "Thu, 18 Jun 2026 09:47:27 +0000",
+    "id": "bc7da438be5a",
+    "title": "Wiehl: Verkehrsunfall an L305/A4 – Feuerwehr rückt aus",
+    "summary": "Verkehrsunfall im Bereich L305/A4 in Wiehl: Feuerwehr und Rettungsdienst sind im Einsatz. Weitere gesicherte Angaben fehlen derzeit.",
+    "link": "https://www.news-on-tour.de/240357/wiehl-verkehrsunfall-l305-a4/",
+    "published": "Fri, 14 Aug 2026 17:23:55 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-06-18T13:37:56.387145"
-  },
-  {
-    "id": "1b328b0a0527",
-    "title": "Eiskunstläuferinnen des TuS Wiehl ESC weiter auf Erfolgskurs",
-    "summary": "Das Jahr 2023 begann für die Eiskunstläuferinnen des TuS Wiehl mit erneut sehr guten Platzierungen. Nach tollen Auftritten beim heimischen Wiehl Pokal Anfang des Jahres haben die Wiehler Eissportlerinnen in Iserlohn und Krefeld ihre gute Form erneut bestätigt. Der Beitrag Eiskunstläuferinnen des TuS Wiehl ESC weiter auf Erfolgskurs erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/wiehl/eiskunstlaeuferinnen-des-tus-wiehl-esc-weiter-auf-erfolgskurs/",
-    "published": "Thu, 16 Feb 2023 07:50:17 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:09.380932"
-  },
-  {
-    "id": "b01317ec533d",
-    "title": "Wiehl: Sprayer wüten in Parks – Stadt setzt 500 Euro Belohnung aus",
-    "summary": "In Wiehl häufen sich Graffiti-Schäden in Parks. Die Stadt setzt nun eine Belohnung von 500 Euro für Hinweise auf die Sprayer aus. Alle Details.",
-    "link": "https://www.news-on-tour.de/251968/wiehl-sprayer-belohnung-sachbeschaedigung/",
-    "published": "Thu, 15 Oct 2026 11:32:57 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-10-15T13:20:41.042952"
-  },
-  {
-    "id": "17cc8fa5ce50",
-    "title": "Wiehl: Stempelkarte in der Stadtbücherei belohnt Kinder für Besuche",
-    "summary": "Wiehl führt Stempelkarte für Kinder in der Stadtbücherei ein: Bei jedem Besuch gibt es Stempel von Leo und Helmi sowie tolle Geschenke.",
-    "link": "https://www.news-on-tour.de/251962/wiehl-stempelkarte-stadtbuecherei/",
-    "published": "Thu, 15 Oct 2026 11:23:26 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-10-15T13:20:41.042978"
-  },
-  {
-    "id": "a83b92e81331",
-    "title": "Waldbröl: Toyota überschlägt sich – Unfälle und Einbruch in Oberberg",
-    "summary": "Zwei leicht verletzte Autofahrerinnen bei Unfällen in Waldbröl und Gummersbach. In Wiehl sucht die Polizei nach einem Einbruch Zeugen.",
-    "link": "https://www.news-on-tour.de/251948/waldbroel-toyota-ueberschlag-unfall/",
-    "published": "Thu, 15 Oct 2026 11:19:13 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl",
-      "waldbroel",
-      "gummersbach"
-    ],
-    "fetched": "2026-10-15T13:20:41.042997"
+    "fetched": "2026-08-14T18:03:26.832613"
   },
   {
     "id": "d85202ed8d91",
@@ -1012,94 +787,6 @@
     "fetched": "2026-08-13T10:18:51.545350"
   },
   {
-    "id": "a44bc2a1bb19",
-    "title": "Wie man den Energieverbrauch einer alten Gefriertruhe drastisch senkt: Ein unerwarteter Trick!",
-    "summary": "Inmitten der idyllischen Hügel und Täler des Oberbergischen Kreises sucht jeder Bewohner nach Wegen, seine monatlichen Ausgaben zu minimieren. Die traditionsreichen Häuser von Gummersbach bis Waldbröl beherbergen oft ältere Elektrogeräte, darunter auch so manch betagte Gefriertruhe. Diese Truhen, die Geschichten von vergangenen Tagen in Wiehl, Engelskirchen oder Nümbrecht erzählen könnten, scheine",
-    "link": "https://www.oberberg-nachrichten.de/themen/verschiedenes/wie-man-den-energieverbrauch-einer-alten-gefriertruhe-drastisch-senkt-ein-unerwarteter-trick/",
-    "published": "Thu, 12 Oct 2023 07:28:45 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "nuembrecht",
-      "waldbroel",
-      "engelskirchen",
-      "wiehl",
-      "gummersbach"
-    ],
-    "fetched": "2026-05-05T21:11:09.374652"
-  },
-  {
-    "id": "fa8eddde48a1",
-    "title": "POL-GM: Unbekannte brechen Münzautomat auf",
-    "summary": "Wiehl (ots) - In der Nacht von Dienstag (7. Juli) auf Mittwoch brachen Kriminelle zwischen 21 Uhr und 10:30 Uhr einen Münzautomaten auf einem Campingplatz an der Jahnstraße in Bielstein auf. Die Unbekannten erbeuteten eine geringe Menge Bargeld ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6311158",
-    "published": "Thu, 09 Jul 2026 10:04:41 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-07-09T08:37:25.747534"
-  },
-  {
-    "id": "d92df2c18e8a",
-    "title": "Bielstein: Motocross-Absage trifft Waldkurs – Jubiläum fällt aus",
-    "summary": "Waldkurs in Wiehl ohne Rennen: Der MSC sagt auch die DM Open ab – nach den ADAC MX Masters fällt 2026 der zweite Lauf am Waldkurs aus.",
-    "link": "https://www.news-on-tour.de/205449/bielstein-motocross-absage/",
-    "published": "Thu, 09 Jul 2026 08:32:01 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-07-09T08:37:12.223483"
-  },
-  {
-    "id": "d684ffb5bff0",
-    "title": "Wiehl: Münzautomat auf Campingplatz aufgebrochen – Polizei ermittelt",
-    "summary": "Unbekannte haben auf einem Campingplatz in Wiehl-Bielstein einen Münzautomaten aufgebrochen und Bargeld erbeutet. Die Polizei sucht Zeugen für den Einbruch.",
-    "link": "https://www.news-on-tour.de/205442/wiehl-muenzautomat-aufgebrochen/",
-    "published": "Thu, 09 Jul 2026 08:19:33 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-07-09T08:37:12.223570"
-  },
-  {
-    "id": "852f08421acf",
-    "title": "Karnevalsfeier: Maskenball im HBW",
-    "summary": "Wiehl - Eine liebgewonnene Tradition im HBW Haus für Menschen mit Behinderung Wiehl ist die jährliche Karnevalsfeier, die die Mitarbeitenden für die Bewohnenden, Klienten und Kollegen ausrichten. Der Beitrag Karnevalsfeier: Maskenball im HBW erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/wiehl/karnevalsfeier-maskenball-im-hbw/",
-    "published": "Thu, 09 Feb 2023 08:12:26 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:09.381243"
-  },
-  {
-    "id": "b85155743ada",
-    "title": "POL-GM: Kriminelle haben es auf Kupfer abgesehen",
-    "summary": "Wiehl (ots) - In der Zeit von 10 Uhr (Samstag, 3. Oktober) bis 18 Uhr am Sonntag (4. Oktober) haben Unbekannte in der Straße \"An der Mühle\" in Bielstein ein Kupferfallrohr von einer Hausfassade demontiert und gestohlen. Auch in der Bechstraße in ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6367089",
-    "published": "Thu, 08 Oct 2026 08:50:01 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-10-08T08:50:52.462591"
-  },
-  {
-    "id": "32340a71bb05",
-    "title": "Wiehler Sommer – Das ultimative Sommer-Event",
-    "summary": "Jede Menge Spaß und Action für Jugendliche ab 14 Jahren bietet die Open-Air-Party „Wiehler Sommer“ am 23. August 2024. Der Beitrag Wiehler Sommer &#8211; Das ultimative Sommer-Event erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/wiehl/wiehler-sommer-das-ultimative-sommer-event/",
-    "published": "Thu, 08 Aug 2024 10:50:12 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:09.370554"
-  },
-  {
     "id": "d027e5759065",
     "title": "Reichshof / Wiehl / Gummersbach : 3 Polizeimeldungen – Täter flüchtet, Zweirad gestohlen",
     "summary": "Drei Einsätze in Reichshof, Wiehl und Gummersbach: Alkoholunfall, erfolgloser Tankstelleneinbruch und ein gestohlenes Kleinkraftrad.",
@@ -1126,117 +813,473 @@
     "fetched": "2026-08-06T09:47:32.771570"
   },
   {
-    "id": "9cc823ef1901",
-    "title": "Wiehler Kunterbunt in der Wiehler-Wasser-Welt",
-    "summary": "Für alle Familien, die zum Abschluss der Osterferien etwas Besonderes unternehmen möchten, bietet die Wiehler-Wasser-Welt unter dem Motto `Wiehler Kunterbunt´ Spiel- und Badevergnügen für Groß und Klein, an. Der Beitrag Wiehler Kunterbunt in der Wiehler-Wasser-Welt erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/wiehl/wiehler-kunterbunt-in-der-wiehler-wasser-welt/",
-    "published": "Thu, 06 Apr 2023 09:33:46 +0000",
-    "source": "Oberberg Nachrichten",
+    "id": "fa3ecf4624c2",
+    "title": "Wiehl-Bielstein: Motocross begeistert – Wendeler erobert Rang sechs",
+    "summary": "Motocross in Bielstein mit drei DMX-Klassen: Jaden Wendeler fährt beim Heimrennen auf Rang sechs, die Favoriten liefern starke Läufe.",
+    "link": "https://www.news-on-tour.de/233703/wiehl-motocross-bielstein/",
+    "published": "Sun, 02 Aug 2026 17:01:55 +0000",
+    "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-05-05T21:11:09.379121"
+    "fetched": "2026-08-02T17:11:40.581132"
   },
   {
-    "id": "d87e798a9f01",
-    "title": "Spaziergang durch den Wiehlpark",
-    "summary": "Wiehl - Den neuen Wiehlpark in erstem Grün erleben: Dazu gibt es am 13. Mai 2023 Gelegenheit. Die Stadt Wiehl lädt alle Interessierten zu einem Spaziergang ein, der auch über die Baustelle Hauptstraße führt. Der Beitrag Spaziergang durch den Wiehlpark erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/wiehl/spaziergang-durch-den-wiehlpark/",
-    "published": "Thu, 04 May 2023 06:08:31 +0000",
-    "source": "Oberberg Nachrichten",
+    "id": "b8ed180c572a",
+    "title": "Wiehl: Motorradunfall – 52-Jähriger crasht in Leitplanke",
+    "summary": "Sturz auf der L145 in Wiehl-Marienhagen: Ein 52-Jähriger verlor nach einem Überholmanöver die Kontrolle und kam leicht verletzt ins Krankenhaus.",
+    "link": "https://www.news-on-tour.de/233006/wiehl-motorradunfall-marienhagen/",
+    "published": "Sun, 02 Aug 2026 09:00:26 +0000",
+    "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-05-05T21:11:09.378500"
+    "fetched": "2026-08-02T09:18:08.948228"
   },
   {
-    "id": "64eb70913f27",
-    "title": "POL-GM: Kupferdiebe in Oberwiehl und Derschlag unterwegs",
-    "summary": "Wiehl; Gummersbach (ots) - Auf Kupferfallrohre hatten es Unbekannte in den vergangenen Tagen in Wiehl und Gummersbach abgesehen. Zwischen dem 25. September (Freitag, 10:15 Uhr) und dem 30. September (Mittwoch, 18:30 Uhr) waren die Diebe in der ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6362898",
-    "published": "Thu, 01 Oct 2026 11:06:43 +0200",
+    "id": "0c31bc4e6e52",
+    "title": "POL-GM: Motorradfahrer bei Verkehrsunfall verletzt",
+    "summary": "Wiehl (ots) - Beim Versuch, zwei Fahrzeuge zu überholen, ist am Samstag (1. August) ein Motorradfahrer in Marienhagen verletzt worden. Der 52-jährige Nümbrechter war gegen 12:40 Uhr auf der Talstraße (L145) von Marienhagen in Richtung Ohlhagen ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6325659",
+    "published": "Sun, 02 Aug 2026 10:42:40 +0200",
     "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl",
+      "nuembrecht"
+    ],
+    "fetched": "2026-08-02T09:18:23.543841"
+  },
+  {
+    "id": "2ceaa1013279",
+    "title": "Oberberg: Kriminalfälle – Einbrecher flüchtet, Prophete-Pedelec gestohlen",
+    "summary": "Zwei Fälle in Oberberg: Ein Einbrecher flüchtet in Radevormwald ohne Beute, in Wiehl verschwindet ein graues Prophete-Pedelec samt Ersatzakku.",
+    "link": "https://www.news-on-tour.de/206375/oberberg-kriminalfaelle-pedelec/",
+    "published": "Tue, 28 Jul 2026 14:19:06 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "radevormwald",
+      "wiehl"
+    ],
+    "fetched": "2026-07-28T15:29:04.409723"
+  },
+  {
+    "id": "c467d41927c7",
+    "title": "POL-GM: Unbekannte stehlen Pedelec",
+    "summary": "Wiehl (ots) - Am Montag (27. Juli) stahlen Kriminelle zwischen 13:45 Uhr und 14:00 Uhr ein Pedelec, das mit einem Fahrradschloss an einem Fahrradständer vor einem Lebensmittelmarkt in der Wiesenstraße angeschlossen war. Die Diebe entkamen mit dem ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6322654",
+    "published": "Tue, 28 Jul 2026 10:00:25 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-07-28T09:42:56.268167"
+  },
+  {
+    "id": "5323a6e8b23e",
+    "title": "POL-GM: Handtasche aus Wohnung gestohlen",
+    "summary": "Wiehl (ots) - Zwischen 22 Uhr am Samstag (25. Juli) und 05:30 Uhr am Sonntag haben Unbekannte eine Handtasche aus einer Erdgeschosswohnung in der Straße \"Auf der nassen Höhe\" entwendet. Während die Bewohnerin schlief, gelangten die Unbekannten ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6321702",
+    "published": "Mon, 27 Jul 2026 09:25:58 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-07-27T08:41:56.399224"
+  },
+  {
+    "id": "5c85e9b2ccbf",
+    "title": "Wiehl: Trickdiebstahl – Obstverkäufer stehlen Geldbörse",
+    "summary": "Trickdiebstahl in Wiehl: Zwei Obstverkäufer sollen einer 86-Jährigen nach einer Lieferung in den Keller die Geldbörse gestohlen haben.",
+    "link": "https://www.news-on-tour.de/206166/wiehl-trickdiebstahl-geldboerse/",
+    "published": "Wed, 22 Jul 2026 08:34:57 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-07-22T09:34:49.955482"
+  },
+  {
+    "id": "2f0e37415e7b",
+    "title": "POL-GM: Radfahrer bei Unfall schwer verletzt",
+    "summary": "Engelskirchen (ots) - Am Dienstagmorgen (21. Juli) gegen 06:40 Uhr fuhr ein 47-jähriger Radfahrer aus Wiehl auf dem Gehweg der Gelpestraße in Richtung Nochem. Zeitgleich befand sich im Einmündungsbereich zur Straße \"Zum Dornbusch\" eine ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6319190",
+    "published": "Wed, 22 Jul 2026 09:49:14 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl",
+      "engelskirchen"
+    ],
+    "fetched": "2026-07-22T09:35:06.905991"
+  },
+  {
+    "id": "3c362eb6bffb",
+    "title": "POL-GM: Trickdiebe stehlen Geldbörse bei Obstverkauf",
+    "summary": "Wiehl (ots) - In der Nähe der Straße \"Hardt\" hielt am Dienstag (21. Juli) gegen 10:30 Uhr ein großer silberner Pkw. Die zwei Männer im Pkw beabsichtigten, Obst zu verkaufen. Eine 86-Jährige erwarb mehrere Kilo Äpfel, Apfelsinen und Kartoffeln. ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6319182",
+    "published": "Wed, 22 Jul 2026 09:47:30 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-07-22T09:35:06.906067"
+  },
+  {
+    "id": "da825790731a",
+    "title": "Wiehl: Verkehr entspannt sich nach neuer Ampelschaltung",
+    "summary": "Verkehr in Wiehl fließt nach geänderter Ampelschaltung besser. Die Umleitungen wegen der Kreisverkehr-Sanierung bleiben bestehen.",
+    "link": "https://www.news-on-tour.de/206098/wiehl-verkehr-ampelschaltung/",
+    "published": "Wed, 22 Jul 2026 02:13:47 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-07-22T03:37:58.197005"
+  },
+  {
+    "id": "cf4bf2883942",
+    "title": "Oberberg: Einbrüche in Wiehl und Radevormwald – Polizei ermittelt",
+    "summary": "Einbrüche in Wiehl und Radevormwald: Täter entwendeten Werkzeug aus einem Betrieb und 30 Tablets aus einer Grundschule. Polizei sucht Zeugen.",
+    "link": "https://www.news-on-tour.de/206066/oberberg-einbruch-wiehl-radevormwald/",
+    "published": "Tue, 21 Jul 2026 09:33:28 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "radevormwald",
+      "wiehl"
+    ],
+    "fetched": "2026-07-21T09:34:15.352072"
+  },
+  {
+    "id": "013bded82b68",
+    "title": "POL-GM: Einbrecher in Bomig unterwegs",
+    "summary": "Wiehl (ots) - Zwischen dem 17. Juli, 16 Uhr, und dem 20. Juli (Montag), 7 Uhr, waren Kriminelle in der Albert-Einstein-Straße in Wiehl-Bomig unterwegs. Auf dem Gelände eines Maschinenbaubetriebs, versuchten die Unbekannten, die Schiebetür eines ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6318607",
+    "published": "Tue, 21 Jul 2026 11:15:22 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-07-21T11:57:01.913326"
+  },
+  {
+    "id": "a6e35e4420c7",
+    "title": "Wiehl: Trunkenheitsfahrt endet in Widerstand – Polizei greift durch",
+    "summary": "In Wiehl-Oberbantenberg leistete ein 37-jähriger Motorradfahrer nach einer Trunkenheitsfahrt Widerstand gegen die Polizei und beleidigte Beamte. Führerschein beschlagnahmt.",
+    "link": "https://www.news-on-tour.de/206010/wiehl-trunkenheitsfahrt-widerstand/",
+    "published": "Mon, 20 Jul 2026 09:40:40 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-07-20T11:10:43.361215"
+  },
+  {
+    "id": "f5f55fcaa5c9",
+    "title": "POL-GM: 37-Jähriger leistet nach Trunkenheitsfahrt Widerstand",
+    "summary": "Nümbrecht; Wiehl (ots) - Nach einem Zeugenhinweis auf eine Trunkenheitsfahrt auf der L336 bei Nümbrecht-Bierenbachtal beabsichtigte die Polizei am Samstag (18. Juli) gegen 21:34 Uhr, einen 37-jährigen Motorradfahrer in Wiehl zu kontrollieren. Auf ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6317662",
+    "published": "Mon, 20 Jul 2026 11:11:09 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "nuembrecht",
+      "wiehl"
+    ],
+    "fetched": "2026-07-20T11:10:56.452469"
+  },
+  {
+    "id": "e9dd010c3ef1",
+    "title": "Wiehl: Einmündungsunfall in Remperg – 63-Jähriger schwer verletzt (Final Update)",
+    "summary": "Auf der Oberwiehler Straße in Wiehl-Remperg stoßen zwei Fahrzeuge frontal zusammen. Rettungskräfte sind vor Ort, Ursache und Verletztenzahl sind noch unklar.",
+    "link": "https://www.news-on-tour.de/205889/wiehl-frontalzusammenstoss-remperg/",
+    "published": "Fri, 17 Jul 2026 13:20:46 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-07-17T14:51:32.541865"
+  },
+  {
+    "id": "94ee1b9ba7b1",
+    "title": "POL-GM: Update zum Verkehrsunfall in Wiehl-Remperg https://www.presseportal.de/blaulicht/pm/65843/6316774",
+    "summary": "Wiehl (ots) - https://www.presseportal.de/blaulicht/pm/65843/6316774 Die Sperrung der L 336 ist aufgehoben. Rückfragen von Pressevertretern bitte an: Kreispolizeibehörde Oberbergischer Kreis Pressestelle Telefon: 02261/8199-1210 E-Mail: ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6316797",
+    "published": "Fri, 17 Jul 2026 14:42:54 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-07-17T14:51:50.126266"
+  },
+  {
+    "id": "fed8837ce768",
+    "title": "POL-GM: Unfall im Einmündungsbereich",
+    "summary": "Wiehl (ots) - Am Freitag (17. Juli) kam es in Wiehl-Remperg zu einem schweren Verkehrsunfall. Gegen 13:15 Uhr wollte ein 53-Jähriger aus Reichshof mit seinem Transporter von der Biebersteiner Straße auf die Oberwiehler Straße (L 336) abbiegen. ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6316774",
+    "published": "Fri, 17 Jul 2026 14:25:02 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "reichshof",
+      "wiehl"
+    ],
+    "fetched": "2026-07-17T14:51:50.126309"
+  },
+  {
+    "id": "38de93e6da4d",
+    "title": "POL-GM: Unbekannte stehlen Rüttelplatte",
+    "summary": "Wiehl (ots) - Zwischen 16:30 Uhr am Mittwoch und 6:50 Uhr am Donnerstag (16. Juli) haben Kriminelle von einer Baustelle in der Mühlenstraße eine Rüttelplatte gestohlen. Bei dem Diebesgut handelt es sich um eine Rüttelplatte des Herstellers ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6316424",
+    "published": "Fri, 17 Jul 2026 10:30:03 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-07-17T10:08:57.193475"
+  },
+  {
+    "id": "694cb9f2d96c",
+    "title": "POL-GM: Gestohlenes Auto bei Verkehrskontrolle aufgetan",
+    "summary": "Wiehl (ots) - Ein Bezirksdienstbeamter unterzog am 10. Juli (Freitag) ein Auto samt Fahrer einer allgemeinen Verkehrskontrolle. Der Polizist war gegen 16:30 Uhr auf der Homburger Straße auf den Skoda mit Wittlicher Kennzeichen aufmerksam geworden, ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6314938",
+    "published": "Wed, 15 Jul 2026 10:51:04 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-07-15T11:44:45.794754"
+  },
+  {
+    "id": "bfe7218783f6",
+    "title": "POL-GM: Drei beteiligte Autos bei Auffahrunfall",
+    "summary": "Gummersbach (ots) - Drei Autos waren bei einem Auffahrunfall in Gummersbach am Dienstagmorgen (14. Juli) beteiligt. Eine 56-Jährige aus Gummersbach war gegen 8:50 Uhr mit ihrem VW auf der Westtangente in Richtung Wiehl unterwegs. Im ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6314936",
+    "published": "Wed, 15 Jul 2026 10:50:06 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach",
+      "wiehl"
+    ],
+    "fetched": "2026-07-15T09:20:10.521345"
+  },
+  {
+    "id": "f0aa5d7e2359",
+    "title": "Wiehl: Sprengversuch scheitert – Täter fliehen zum dritten Mal",
+    "summary": "Sprengversuch in Wiehl: Unbekannte scheitern zum dritten Mal an einem Bankautomaten in der Oberwiehler Straße – erneut ohne Beute.",
+    "link": "https://www.news-on-tour.de/205694/wiehl-sprengversuch-geldautomat/",
+    "published": "Wed, 15 Jul 2026 05:23:51 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl",
+      "gummersbach",
+      "bergneustadt"
+    ],
+    "fetched": "2026-07-15T06:25:05.744369"
+  },
+  {
+    "id": "6447a148444e",
+    "title": "Wiehl und Gummersbach: Verkehrsunfall – Kind schwer verletzt",
+    "summary": "Verkehrsunfall in Wiehl und Gummersbach: Ein zehnjähriges Mädchen auf dem Mountainbike und ein Motorradfahrer wurden am Montag verletzt.",
+    "link": "https://www.news-on-tour.de/205670/wiehl-gummersbach-verkehrsunfall/",
+    "published": "Tue, 14 Jul 2026 09:48:11 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach",
+      "wiehl"
+    ],
+    "fetched": "2026-07-14T11:41:21.316759"
+  },
+  {
+    "id": "cefbd796cda2",
+    "title": "Gummersbach und Wiehl: Einbrecher stehlen Kupfer aus Firmen",
+    "summary": "Einbruch in zwei Firmengeländen im Oberbergischen Kreis: Unbekannte stahlen Kupferteile im Wert mehrerer tausend Euro aus Gummersbach und Wiehl.",
+    "link": "https://www.news-on-tour.de/205665/gummersbach-wiehl-einbruch-kupfer/",
+    "published": "Tue, 14 Jul 2026 09:33:04 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach",
+      "wiehl"
+    ],
+    "fetched": "2026-07-14T11:41:21.316795"
+  },
+  {
+    "id": "357fa53ec3aa",
+    "title": "POL-GM: Einbrecher hatten es auf Metall abgesehen",
+    "summary": "Gummersbach/Wiehl (ots) - Im Zeitraum Freitag (10. Juli) bis Montag verschafften sich Unbekannte Zugang zu einem Firmengelände in der Hagener Straße in Gummersbach-Dümmlinghausen. Anschließend gelangten sie in eine Produktionshalle, wo die ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6314124",
+    "published": "Tue, 14 Jul 2026 10:26:51 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach",
+      "wiehl"
+    ],
+    "fetched": "2026-07-14T09:14:34.438912"
+  },
+  {
+    "id": "dbb4a203d9e1",
+    "title": "POL-GM: Unfall im Einmündungsbereich",
+    "summary": "Wiehl (ots) - Bei einem Verkehrsunfall in Oberwiehl wurde am Montag (13. Juli) ein Kind verletzt. Das 10-jährige Mädchen aus Wiehl war gegen 14:30 Uhr mit ihrem Mountainbike auf dem Gehweg an der Derschlager Straße aus Richtung Oberwiehler ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6314122",
+    "published": "Tue, 14 Jul 2026 10:25:35 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-07-14T09:14:34.438956"
+  },
+  {
+    "id": "d92df2c18e8a",
+    "title": "Bielstein: Motocross-Absage trifft Waldkurs – Jubiläum fällt aus",
+    "summary": "Waldkurs in Wiehl ohne Rennen: Der MSC sagt auch die DM Open ab – nach den ADAC MX Masters fällt 2026 der zweite Lauf am Waldkurs aus.",
+    "link": "https://www.news-on-tour.de/205449/bielstein-motocross-absage/",
+    "published": "Thu, 09 Jul 2026 08:32:01 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-07-09T08:37:12.223483"
+  },
+  {
+    "id": "d684ffb5bff0",
+    "title": "Wiehl: Münzautomat auf Campingplatz aufgebrochen – Polizei ermittelt",
+    "summary": "Unbekannte haben auf einem Campingplatz in Wiehl-Bielstein einen Münzautomaten aufgebrochen und Bargeld erbeutet. Die Polizei sucht Zeugen für den Einbruch.",
+    "link": "https://www.news-on-tour.de/205442/wiehl-muenzautomat-aufgebrochen/",
+    "published": "Thu, 09 Jul 2026 08:19:33 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-07-09T08:37:12.223570"
+  },
+  {
+    "id": "fa8eddde48a1",
+    "title": "POL-GM: Unbekannte brechen Münzautomat auf",
+    "summary": "Wiehl (ots) - In der Nacht von Dienstag (7. Juli) auf Mittwoch brachen Kriminelle zwischen 21 Uhr und 10:30 Uhr einen Münzautomaten auf einem Campingplatz an der Jahnstraße in Bielstein auf. Die Unbekannten erbeuteten eine geringe Menge Bargeld ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6311158",
+    "published": "Thu, 09 Jul 2026 10:04:41 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-07-09T08:37:25.747534"
+  },
+  {
+    "id": "dd8c9f62186f",
+    "title": "Wiehl: Spielplatz im Wiehlpark wächst um fast das Doppelte",
+    "summary": "Der inklusive Kleinkinder-Spielplatz in Wiehl wächst um 217 Quadratmeter. Ab Mitte Juli entstehen vier neue Geräte für Kinder bis sechs Jahre.",
+    "link": "https://www.news-on-tour.de/205379/wiehl-spielplatz-wiehlpark/",
+    "published": "Wed, 08 Jul 2026 11:22:27 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-07-08T12:49:05.427169"
+  },
+  {
+    "id": "59a46c75ec5e",
+    "title": "POL-GM: Mehrere Motorradunfälle im Oberbergischen am Wochenende",
+    "summary": "Oberbergischer Kreis (ots) - Ein 63-jähriger Kradfahrer aus Wiehl fuhr am Freitag (3. Juli) gegen 16:30 Uhr auf der L341 aus Koppelweide kommend in Richtung Ohlhagen. In einer Linkskurve kam er aus bislang ungeklärter Ursache nach rechts von der ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6308306",
+    "published": "Sun, 05 Jul 2026 10:50:00 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-07-05T09:21:00.596544"
+  },
+  {
+    "id": "d56f13b9a506",
+    "title": "POL-GM: Versuchter Einbruch in Kindertagesstätte",
+    "summary": "Wiehl (ots) - Zwischen Donnerstag (25. Juni) und 12:50 Uhr am Dienstag versuchten Unbekannte in einen Kindergarten in der Straße \"Börnhausener Berg\" einzubrechen. Augenscheinlich versuchten die Unbekannten ein Fenster aufzuhebeln. In das Gebäude ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6305775",
+    "published": "Wed, 01 Jul 2026 09:44:39 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-07-01T10:08:36.371114"
+  },
+  {
+    "id": "dd148999e73f",
+    "title": "Wiehl-Alperbrück: Motorradfahrer kracht auf Auto – zwei Unfälle in einer Stunde",
+    "summary": "Alperbrück: Ein Motorradfahrer verletzt sich auf der L336 schwer, nur eine Stunde zuvor kracht es an einer Tankstelle mit drei Fahrzeugen.",
+    "link": "https://www.news-on-tour.de/204792/wiehl-alperbrueck-motorradfahrer-unfall/",
+    "published": "Tue, 30 Jun 2026 17:52:29 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-06-30T20:12:38.801604"
+  },
+  {
+    "id": "caf50a595015",
+    "title": "POL-GM: Zwei Verkehrsunfälle in Alperbrück binnen einer Stunde",
+    "summary": "Wiehl (ots) - Am Dienstagvormittag (30. Juni), zwischen 11 Uhr und 12 Uhr, kam es in der Ortschaft Alperbrück zu zwei Verkehrsunfällen. Ein 22-jähriger Motorradfahrer aus Wiehl fuhr gegen 12 Uhr auf der L336 von Wiehl kommend in Richtung Bomig. ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6305533",
+    "published": "Tue, 30 Jun 2026 16:30:00 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-06-30T17:12:00.415660"
+  },
+  {
+    "id": "0a84693532e0",
+    "title": "POL-GM: Einbrecher in Alferzhagen unterwegs",
+    "summary": "Wiehl (ots) - In der Nacht von Dienstag auf Mittwoch (23./24. Juni) sind Unbekannte in ein Vereinsheim in der Straße \"Auf der Heide\" eingebrochen. Die Kriminellen brachen die Eingangstür auf und stahlen zwei Geldkassetten sowie drei ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6301899",
+    "published": "Thu, 25 Jun 2026 10:41:01 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-06-25T11:48:45.216341"
+  },
+  {
+    "id": "4090aa65745e",
+    "title": "POL-GM: Cyber-Kriminielle mit Betrugsmasche leider erfolgreich",
+    "summary": "Wiehl (ots) - Eine 67-Jährige aus Wiehl ist kürzlich auf Cyber-Kriminelle hereingefallen. Während sie am Computer saß, erschien plötzlich eine Meldung auf dem Bildschirm, dass sie den Bildschirm nicht ausschalten und eine Telefonnummer anrufen ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6300952",
+    "published": "Wed, 24 Jun 2026 09:51:57 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-06-24T09:49:34.488522"
+  },
+  {
+    "id": "ab4dcdeaf188",
+    "title": "Wiehl: 68-Jähriger stirbt bei Unfall auf der Zeitstraße",
+    "summary": "Schwerer Unfall auf der Zeitstraße bei Wiehl: Ein Pkw prallte zwischen Drabenderhöhe und Brächen gegen einen Baum, eine Person ist eingeklemmt.",
+    "link": "https://www.news-on-tour.de/204360/wiehl-unfall-zeitstrasse-baum/",
+    "published": "Tue, 23 Jun 2026 16:33:10 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-06-23T18:12:01.390218"
+  },
+  {
+    "id": "945b8e2557e8",
+    "title": "POL-GM: 68-Jähriger bei Autounfall tödlich verletzt",
+    "summary": "Wiehl (ots) - Ein 68-Jähriger aus Wiehl fuhr am Dienstag (23. Juni) gegen 11 Uhr auf der Zeitstraße aus Richtung Autobahn kommend in Richtung Drabenderhöhe. Aus bislang ungeklärter Ursache, kam er mit seinem VW von der Fahrbahn ab und ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6300403",
+    "published": "Tue, 23 Jun 2026 13:03:45 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-06-23T12:14:43.197064"
+  },
+  {
+    "id": "7c052b5ccfa7",
+    "title": "Hundebaden in Oberberg: Welche Talsperre Vierbeiner ins Wasser lockt",
+    "summary": "An welchen Talsperren rund um Oberberg der Hund ins Wasser darf – und warum an Genkel und Wiehl sogar ein saftiges Bußgeld droht.",
+    "link": "https://www.news-on-tour.de/204315/hundebaden-oberberg-talsperre/",
+    "published": "Mon, 22 Jun 2026 20:32:45 +0000",
+    "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "wiehl",
       "gummersbach"
     ],
-    "fetched": "2026-10-01T13:03:06.643828"
-  },
-  {
-    "id": "e6f829ad9fc2",
-    "title": "POL-GM: Auto kollidiert mit Mauer",
-    "summary": "Wiehl (ots) - Ein 18-jähriger Wiehler war am Freitagmorgen (29. Mai) auf der Morkepützer Straße (K48) aus Richtung Wiehl in Fahrtrichtung Morkepütz unterwegs. Gegen 7:45 Uhr kam der VW des 18-Jährigen in einer leichten Linkskurve nach rechts ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6285184",
-    "published": "Sun, 31 May 2026 11:05:00 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-31T11:48:13.211338"
-  },
-  {
-    "id": "6d201bee090f",
-    "title": "POL-GM: Einbruch während die Bewohner zu Hause waren",
-    "summary": "Wiehl (ots) - Einbrecher sind am Abend des 25. September zwischen 18:30 Uhr und 21:15 Uhr in ein Einfamilienhaus in der Ennenfeldstraße eingebrochen. Als der Bewohner in den Garten ging, sah er eine Frau, die hektisch wirkte und auf Ansprache ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6359770",
-    "published": "Sun, 27 Sep 2026 10:50:01 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-09-27T13:53:52.280609"
-  },
-  {
-    "id": "10aef6ffb6e3",
-    "title": "POL-GM: Tür hält Einbruchsversuch Stand",
-    "summary": "Wiehl (ots) - Zwischen 14 Uhr am Freitag (25. September) und 8:00 Uhr am Samstag versuchten Unbekannte in eine Firma in der Straße \"Von der Birken\" einzubrechen. Die Unbekannten schlugen den Glaseinsatz einer Tür ein und versuchten die Tür zu ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6359764",
-    "published": "Sun, 27 Sep 2026 10:47:21 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-09-27T13:53:52.280644"
-  },
-  {
-    "id": "b81b6af1bedb",
-    "title": "Marienheide, Gummersbach & Wiehl: 4 Einbruchsfälle – Polizei ermittelt!",
-    "summary": "Vier Einbruchsfälle in Marienheide, Gummersbach und Wiehl: Bewohner treffen auf Verdächtige, Schmuck fehlt – Polizei sucht Zeugen.",
-    "link": "https://www.news-on-tour.de/242764/marienheide-einbruchsfaelle-fenster/",
-    "published": "Sun, 27 Sep 2026 09:25:28 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "marienheide",
-      "gummersbach",
-      "wiehl"
-    ],
-    "fetched": "2026-09-27T13:53:34.696598"
-  },
-  {
-    "id": "3fbd1434eac1",
-    "title": "POL-GM: Unbekannte stehlen Werkzeug aus Tierheim",
-    "summary": "Wiehl (ots) - Zwischen Freitag (21. August, 17 Uhr) und Samstag, (7 Uhr) sind Unbekannte in ein Tierheim in der Straße Koppelweide eingebrochen. Die Unbekannten hebelten ein Zufahrtstor und eine Werkstatt auf. Dort entwendeten sie mehrere ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6338160",
-    "published": "Sun, 23 Aug 2026 10:05:01 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-08-23T08:43:20.024983"
-  },
-  {
-    "id": "747ef4210ca3",
-    "title": "Bergneustadt: Neverland rockte die Come-In-Classic-Night – Live-Rock vom Feinsten (mit exklusivem Video)",
-    "summary": "Bergneustadt – Come In – Neverland – Rock-Konzert &#124; Bergneustadt (NRW) – Am Samstagabend, dem 21. Februar 2026, verwandelte die Rock-Cover-Band Neverland die Discothek Come In in der Othestraße 28 in eine brodelnde Konzertarena. Im Rahmen der Come In Classic Night lieferten die vier Musiker aus dem Oberbergischen Land einen über zweistündigen Auftritt ab, der das Publikum von der ersten Minut",
-    "link": "https://www.news-on-tour.de/200113/bergneustadt-neverland-come-in-rock/",
-    "published": "Sun, 22 Feb 2026 03:47:25 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "bergneustadt",
-      "reichshof",
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:16.624698"
+    "fetched": "2026-06-22T21:12:32.078107"
   },
   {
     "id": "a013bcdae815",
@@ -1314,56 +1357,40 @@
     "fetched": "2026-06-21T06:15:32.373592"
   },
   {
-    "id": "f7125cfde47e",
-    "title": "POL-GM: Auto kracht gegen Hauswand",
-    "summary": "Wiehl (ots) - Am Samstag (19. September) fuhr ein 28-Jähriger aus Reichshof mit seinem Seat Leon auf dem Wilhelm-Grümer-Weg aus Richtung Derschlager Straße in Richtung Oberwiehler Straße. Gegen 8:25 Uhr verlor er, nach derzeitigem Stand der ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6355333",
-    "published": "Sun, 20 Sep 2026 09:40:25 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "reichshof",
-      "wiehl"
-    ],
-    "fetched": "2026-09-20T11:17:59.497747"
-  },
-  {
-    "id": "2b6f8d8ad939",
-    "title": "Wiehl, Lindlar & Marienheide: Verkehrsunfall an Hauswand – Kradfahrer schwer verletzt",
-    "summary": "Drei Unfälle in Oberberg mit drei Verletzten: In Oberwiehl prallte ein Auto gegen eine Hauswand, in zwei weiteren Fällen wurden Männer verletzt.",
-    "link": "https://www.news-on-tour.de/242362/marienheide-verkehrsunfall-hauswand/",
-    "published": "Sun, 20 Sep 2026 08:05:37 +0000",
+    "id": "86f39f98a282",
+    "title": "Bielstein: Taschendiebstahl im Discounter – Polizei warnt vor der Masche",
+    "summary": "In wenigen Minuten weg: In einem Discounter in Wiehl stahlen Unbekannte einer 80-jährigen Frau die Handtasche samt Geldbörse und Handy.",
+    "link": "https://www.news-on-tour.de/204049/bielstein-taschendiebstahl-oberberg/",
+    "published": "Thu, 18 Jun 2026 09:47:27 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "marienheide",
-      "wiehl",
-      "lindlar"
+      "wiehl"
     ],
-    "fetched": "2026-09-20T11:17:42.216751"
+    "fetched": "2026-06-18T13:37:56.387145"
   },
   {
-    "id": "d746a7e431bd",
-    "title": "POL-GM: Betrüger auf Verkaufsportal unterwegs",
-    "summary": "Wiehl (ots) - Eine 40-jährige Wiehlerin ist am Donnerstag (15. Oktober) Opfer einer Betrugsmasche geworden. Sie wollte über ein Kleinanzeigenportal einen Verkauf abwickeln. Der angebliche Käufer gab an, über das Bezahlsystem des Anzeigenportals ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6373214",
-    "published": "Sun, 18 Oct 2026 11:05:53 +0200",
+    "id": "f01150f9ca57",
+    "title": "POL-GM: Handtasche beim Einkauf gestohlen",
+    "summary": "Wiehl (ots) - Am Mittwoch (17. Juni) kaufte eine 80-Jährige in einem Discounter in der Bechstraße in Bielstein ein. Die Bielsteinerin befand sich gegen 14:10 Uhr in dem Lebensmittelgeschäft. Ihre Handtasche stellte sie in den Einkaufswagen. ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6296870",
+    "published": "Thu, 18 Jun 2026 10:20:55 +0200",
     "source": "Presseportal Polizei OBK",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-10-19T15:32:10.778902"
+    "fetched": "2026-06-18T09:24:03.457460"
   },
   {
-    "id": "35fe649a0acd",
-    "title": "Nümbrecht: 20-jähriger Autofahrer überschlägt sich auf der Homburger Straße (L320)",
-    "summary": "Nümbrecht / Verkehrsunfall / BMW / Holsteinsmühle (Von Christian Sasse) Ein 20-jähriger BMW-Fahrer aus Wiehl hat sich am Samstagabend in Nümbrecht auf der Homburger Straße (L320) überschlagen, nachdem er in einer Rechtskurve auf den Randstreifen geraten war. Gegen 20:15 Uhr kam der Wagen auf dem Dach zum Liegen, der Fahrer blieb unverletzt, sein 22-jähriger Beifahrer aus Nümbrecht wurde leicht ver",
-    "link": "https://www.news-on-tour.de/200597/nuembrecht-verkehrsunfall-l320-bmw/",
-    "published": "Sun, 15 Mar 2026 11:07:28 +0000",
+    "id": "42af5584aa4b",
+    "title": "Oberberg: Supercup eröffnet das Jubiläum des Fußballkreises Berg",
+    "summary": "Der Fußball-Nachwuchs eröffnet am 20. und 21. Juni in Hoffnungsthal und Wiehl das 25-Jahr-Jubiläum des Fußballkreises Berg mit neun Partien.",
+    "link": "https://www.news-on-tour.de/204006/fussballkreis-berg-supercup/",
+    "published": "Tue, 16 Jun 2026 20:11:54 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "nuembrecht",
       "wiehl"
     ],
-    "fetched": "2026-05-05T21:11:16.622564"
+    "fetched": "2026-06-16T21:16:17.574678"
   },
   {
     "id": "247076862f3f",
@@ -1378,266 +1405,90 @@
     "fetched": "2026-06-14T09:55:01.153917"
   },
   {
-    "id": "3673326a7b6e",
-    "title": "Wiehl & Waldbröl: Zwei Diebstähle – Fahrrad und Portemonnaie gestohlen",
-    "summary": "Zwei Taten in Drabenderhöhe und Waldbröl: Ein schwarzes Canyon-Trekkingrad und ein Portemonnaie fehlen. Das Kriminalkommissariat sucht Zeugen.",
-    "link": "https://www.news-on-tour.de/241992/wiehl-diebstaehle-waldbroel/",
-    "published": "Sun, 13 Sep 2026 12:58:20 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl",
-      "waldbroel"
-    ],
-    "fetched": "2026-09-13T16:09:49.984107"
-  },
-  {
-    "id": "c7a1fd704a8f",
-    "title": "POL-GM: Fahrraddiebe in Drabenderhöhe unterwegs",
-    "summary": "Wiehl (ots) - Zwischen dem 11. September (Freitag), 22:40 Uhr, und Samstag, 2:00 Uhr, haben Unbekannte ein Fahrrad gestohlen. Das Rad war auf dem Parkplatz einer Gaststätte in der Drabenderhöher Straße abgestellt worden. Bei dem Diebesgut handelt ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6350930",
-    "published": "Sun, 13 Sep 2026 10:30:01 +0200",
+    "id": "eb3a7a231f96",
+    "title": "POL-GM: 15-Jähriger stürzt mit Moped",
+    "summary": "Wiehl (ots) - Bei einem Verkehrsunfall auf der Bielsteiner Straße zog sich ein 15-Jähriger aus Wiehl am vergangenen Dienstag (9. Juni) leichte Verletzungen zu. Der Wiehler war gegen 15:30 Uhr aus Richtung der L321/L336 in Richtung des Bielsteiner ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6291567",
+    "published": "Wed, 10 Jun 2026 10:00:19 +0200",
     "source": "Presseportal Polizei OBK",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-09-13T11:42:25.875246"
+    "fetched": "2026-06-10T09:00:27.110827"
   },
   {
-    "id": "2d4d7a40e12a",
-    "title": "Bergneustadt: Freibadsaison legt zu – 40.000 Gäste in Bielstein",
-    "summary": "Bergneustadt übertrifft 2025 deutlich, Bielstein zählt rund 40.000 Gäste. Besucherzahlen aus Oberberg und dem Umland im Vergleich.",
-    "link": "https://www.news-on-tour.de/241981/bergneustadt-freibadsaison-bielstein/",
-    "published": "Sun, 13 Sep 2026 04:26:30 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl",
-      "bergneustadt"
-    ],
-    "fetched": "2026-09-13T06:00:33.311259"
-  },
-  {
-    "id": "798448b069e8",
-    "title": "Wiehl: Handball-Spektakel gegen Köln – CVJM Oberwiehl rettet Punkt beim 29:29",
-    "summary": "Handball-Spektakel: CVJM Oberwiehl rettet Punkt gegen Köln-Wahn, während Wahlscheid in einem 82-Tore-Krimi beim PSV Köln unterliegt.",
-    "link": "https://www.news-on-tour.de/243555/wiehl-handball-verbandsliga-oberwiehl/",
-    "published": "Sun, 11 Oct 2026 04:53:03 +0000",
+    "id": "dabdcb3a3b31",
+    "title": "Wiehl: Entlaufene Kuh hält Polizei in Atem – Jäger stoppt Ausreißer",
+    "summary": "Entlaufene Kuh in Wiehl: Das Tier zog eine Stunde durchs Stadtgebiet, ehe ein Jäger es mit einem Betäubungspfeil stoppte. Verletzt wurde niemand.",
+    "link": "https://www.news-on-tour.de/203476/wiehl-entlaufene-kuh/",
+    "published": "Wed, 03 Jun 2026 13:32:45 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-10-11T05:36:34.644203"
+    "fetched": "2026-06-03T17:10:01.926201"
   },
   {
-    "id": "51640c0e2738",
-    "title": "Radevormwald, Wiehl & Gummersbach: Audi landet im Maisfeld – Mofa-Sturz, Autoaufbruch",
-    "summary": "K7-Unfall bei Wellringrade, Mofa-Sturz in Wiehl und Autoaufbruch in Gummersbach: Drei aktuelle Polizeimeldungen aus dem Oberbergischen Kreis.",
-    "link": "https://www.news-on-tour.de/241560/radevormwald-maisfeld-unfall/",
-    "published": "Sun, 06 Sep 2026 12:41:24 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach",
-      "radevormwald",
-      "wiehl"
-    ],
-    "fetched": "2026-09-06T13:37:00.608011"
-  },
-  {
-    "id": "ae87c11fbbb9",
-    "title": "POL-GM: Mofafahrer mit über zwei Promille unterwegs",
-    "summary": "Wiehl (ots) - Am späten Samstagabend (5. September, gegen 23 Uhr) wollte ein 31-jähriger Wiehler mit seinem Mofa von der Bechstraße (L95) nach links auf der Bielsteiner Straße abbiegen. Beim Abbiegen kam der 31-Jährige mit seinem Zweirad zu ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6346301",
-    "published": "Sun, 06 Sep 2026 09:55:04 +0200",
+    "id": "89100ac5bd03",
+    "title": "POL-GM: Entlaufene Kuh beschäftigt Polizei",
+    "summary": "Wiehl (ots) - Am Dienstag (2. Juni) gingen gegen 19:20 Uhr bei der Polizei mehrere Anrufe über eine entlaufene Kuh im Wiehler Stadtgebiet ein. Die Kuh, die offenbar von ihrer Weide ausgebüxt war, bewegte sich von der Wiehler Innenstadt über die ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6287351",
+    "published": "Wed, 03 Jun 2026 10:00:25 +0200",
     "source": "Presseportal Polizei OBK",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-09-06T09:20:18.560915"
+    "fetched": "2026-06-03T11:22:27.397851"
   },
   {
-    "id": "59a46c75ec5e",
-    "title": "POL-GM: Mehrere Motorradunfälle im Oberbergischen am Wochenende",
-    "summary": "Oberbergischer Kreis (ots) - Ein 63-jähriger Kradfahrer aus Wiehl fuhr am Freitag (3. Juli) gegen 16:30 Uhr auf der L341 aus Koppelweide kommend in Richtung Ohlhagen. In einer Linkskurve kam er aus bislang ungeklärter Ursache nach rechts von der ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6308306",
-    "published": "Sun, 05 Jul 2026 10:50:00 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-07-05T09:21:00.596544"
-  },
-  {
-    "id": "fa3ecf4624c2",
-    "title": "Wiehl-Bielstein: Motocross begeistert – Wendeler erobert Rang sechs",
-    "summary": "Motocross in Bielstein mit drei DMX-Klassen: Jaden Wendeler fährt beim Heimrennen auf Rang sechs, die Favoriten liefern starke Läufe.",
-    "link": "https://www.news-on-tour.de/233703/wiehl-motocross-bielstein/",
-    "published": "Sun, 02 Aug 2026 17:01:55 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-08-02T17:11:40.581132"
-  },
-  {
-    "id": "0c31bc4e6e52",
-    "title": "POL-GM: Motorradfahrer bei Verkehrsunfall verletzt",
-    "summary": "Wiehl (ots) - Beim Versuch, zwei Fahrzeuge zu überholen, ist am Samstag (1. August) ein Motorradfahrer in Marienhagen verletzt worden. Der 52-jährige Nümbrechter war gegen 12:40 Uhr auf der Talstraße (L145) von Marienhagen in Richtung Ohlhagen ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6325659",
-    "published": "Sun, 02 Aug 2026 10:42:40 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl",
-      "nuembrecht"
-    ],
-    "fetched": "2026-08-02T09:18:23.543841"
-  },
-  {
-    "id": "b8ed180c572a",
-    "title": "Wiehl: Motorradunfall – 52-Jähriger crasht in Leitplanke",
-    "summary": "Sturz auf der L145 in Wiehl-Marienhagen: Ein 52-Jähriger verlor nach einem Überholmanöver die Kontrolle und kam leicht verletzt ins Krankenhaus.",
-    "link": "https://www.news-on-tour.de/233006/wiehl-motorradunfall-marienhagen/",
-    "published": "Sun, 02 Aug 2026 09:00:26 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-08-02T09:18:08.948228"
-  },
-  {
-    "id": "8b29b1d03d37",
-    "title": "Engelskirchen: Quad-Fahrer bei Verkehrsunfall schwer verletzt",
-    "summary": "Engelskirchen / Quad / Unfall / Polizei (Von Christian Sasse) Am frühen Donnerstagmorgen ist es in Engelskirchen auf der L307 zu einem schweren Verkehrsunfall zwischen einem Auto und einem Quad gekommen. Ein 61-jähriger Mann aus Wiehl wurde dabei schwer verletzt und in ein Krankenhaus gebracht. Die Polizei sperrte die Landstraße für die Dauer der Unfallaufnahme vollständig. Foto: Kreispolizeibehör",
-    "link": "https://www.news-on-tour.de/200286/engelskirchen-quadfahrer-verkehrsunfall/",
-    "published": "Sat, 28 Feb 2026 10:30:27 +0000",
+    "id": "177dc9b1eec4",
+    "title": "Wiehlmünden: Lieferwagen prallt führerlos gegen Hauswand",
+    "summary": "Führerloser Lieferwagen rollt in Wiehlmünden eine abschüssige Straße hinab und prallt gegen eine Hauswand – verletzt wird niemand.",
+    "link": "https://www.news-on-tour.de/203445/wiehlmuenden-lieferwagen-hauswand/",
+    "published": "Tue, 02 Jun 2026 08:49:03 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "wiehl",
       "engelskirchen"
     ],
-    "fetched": "2026-05-05T21:11:16.623663"
+    "fetched": "2026-06-02T10:53:38.619670"
   },
   {
-    "id": "3dfebc72a342",
-    "title": "Wiehl: Jubiläum der Eissporthalle – Stadt feiert 50 Jahre Eiszeit",
-    "summary": "50 Jahre Eisgeschichte: Vom Solarforschungsprojekt über die Dachsanierung 2006 bis zur neuen Kälteanlage und zum Festwochenende 2026.",
-    "link": "https://www.news-on-tour.de/242689/wiehl-jubilaeum-eissporthalle-2/",
-    "published": "Sat, 26 Sep 2026 03:02:16 +0000",
-    "source": "NEWS-on-Tour Oberberg",
+    "id": "20f6fde97710",
+    "title": "POL-GM: Lieferwagen kracht gegen Hauswand",
+    "summary": "Engelskirchen (ots) - Am Montag (1. Juni) wurde, wie durch ein Wunder, bei einem Verkehrsunfall in Wiehlmünden niemand verletzt. Gegen 10:50 Uhr setzte sich ein Lieferwagen führerlos auf der abschüssigen Straße \"In den Steinen\" in Bewegung, ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6286457",
+    "published": "Tue, 02 Jun 2026 09:10:13 +0200",
+    "source": "Presseportal Polizei OBK",
     "kommunen": [
+      "engelskirchen",
       "wiehl"
     ],
-    "fetched": "2026-09-26T07:33:39.137748"
+    "fetched": "2026-06-02T10:53:52.764402"
   },
   {
-    "id": "5ed6004be9a9",
-    "title": "TV Dümmlinghausen II feiert klaren 9:1-Heimsieg im Derby gegen TTC Wiehl II (Tischtennis)",
-    "summary": "Tischtennis / TV Dümmlinghausen / TTC Wiehl / Oberberg (Von Christian Sasse) Der TV Dümmlinghausen II hat am 20. März 2026 in der 1. Bezirksliga 3 des Bezirks Köln einen überzeugenden 9:1-Heimsieg gegen den TTC Wiehl II eingefahren. Die Gastgeber dominierten die Begegnung von Beginn an und ließen den Gästen aus dem Oberbergischen Kreis kaum eine Chance. Bilder: © Christian Sasse alias ´Der Sasse´ ",
-    "link": "https://www.news-on-tour.de/200697/tv-duemmlinghausen-2026-03-20-ttc-wiehl/",
-    "published": "Sat, 21 Mar 2026 04:41:37 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:16.621794"
-  },
-  {
-    "id": "c6421c3aa821",
-    "title": "Gummersbach: Heimsieg 10:0 – TV Dümmlinghausen III bezwingt TTC Wiehl III",
-    "summary": "Heimsieg 10:0 für den TV Dümmlinghausen III gegen den TTC Wiehl III in der Bezirksklasse – vier Fünfsatzspiele, zwei gedrehte 0:2-Rückstände.",
-    "link": "https://www.news-on-tour.de/242325/gummersbach-heimsieg-duemmlinghausen-3/",
-    "published": "Sat, 19 Sep 2026 01:36:26 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach",
-      "wiehl"
-    ],
-    "fetched": "2026-09-19T05:45:35.214888"
-  },
-  {
-    "id": "dc3971bdfddb",
-    "title": "Wiehl: Schrankenanlage soll Lkw über 44 Tonnen ab Dezember stoppen",
-    "summary": "Schrankenanlage an der A4 bei Wiehl: Ab Dezember sollen Lkw über 44 Tonnen automatisch gestoppt werden. Die Gewichtsmessung ist bereits aktiv.",
-    "link": "https://www.news-on-tour.de/253183/wiehl-schrankenanlage-gewichtskontrolle/",
-    "published": "Sat, 17 Oct 2026 03:40:10 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-10-17T04:14:06.765752"
-  },
-  {
-    "id": "a27a1fdeae69",
-    "title": "Wiehl: Landgericht verurteilt Duo nach Trickbetrug zu Haft",
-    "summary": "Das Landgericht Köln verurteilt zwei Betrüger nach einer Serie in Wiehl und der Region. Die Polizei fasste das Duo auf frischer Tat.",
-    "link": "https://www.news-on-tour.de/241957/wiehl-trickbetrug-landgericht/",
-    "published": "Sat, 12 Sep 2026 21:26:13 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-09-12T22:12:35.091250"
-  },
-  {
-    "id": "e7b890dc0e2e",
-    "title": "Wiehl & Gummersbach: Jugendfußball enttäuscht am zweiten Spieltag",
-    "summary": "Bitterer Spieltag im Jugendfußball: FV Wiehl und SV Frömmersbach bleiben sieglos. Alle Spielberichte und Trainerstimmen im Überblick.",
-    "link": "https://www.news-on-tour.de/241947/wiehl-jugendfussball-junioren/",
-    "published": "Sat, 12 Sep 2026 20:45:12 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach",
-      "wiehl"
-    ],
-    "fetched": "2026-09-12T22:12:35.091370"
-  },
-  {
-    "id": "92172abb88b3",
-    "title": "POL-GM: Krankenfahrstuhl kollidiert mit Auto",
-    "summary": "Wiehl (ots) - Im Kreisverkehr Morkepützer Straße/Mühlhausener Straße kam es am Sonntagmittag (27. September) zu einem Unfall zwischen einem dreirädrigen E-Mobil/Krankenfahrstuhl eines 31-Jährigen und dem Pkw eines 61-Jährigen. Der 61-Jährige ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6360101",
-    "published": "Mon, 28 Sep 2026 09:57:43 +0200",
+    "id": "e6f829ad9fc2",
+    "title": "POL-GM: Auto kollidiert mit Mauer",
+    "summary": "Wiehl (ots) - Ein 18-jähriger Wiehler war am Freitagmorgen (29. Mai) auf der Morkepützer Straße (K48) aus Richtung Wiehl in Fahrtrichtung Morkepütz unterwegs. Gegen 7:45 Uhr kam der VW des 18-Jährigen in einer leichten Linkskurve nach rechts ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6285184",
+    "published": "Sun, 31 May 2026 11:05:00 +0200",
     "source": "Presseportal Polizei OBK",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-09-28T15:20:22.729871"
+    "fetched": "2026-05-31T11:48:13.211338"
   },
   {
-    "id": "090af3ab75ef",
-    "title": "Wiehl & Morsbach: Schwere Verkehrsverstöße – Krankenfahrstuhl-Unfall und Verfolgungsjagd",
-    "summary": "Verkehrsverstoß in Wiehl und Morsbach: Ein Krankenfahrstuhl kollidiert im Kreisverkehr und ein 18-jähriger Mopedfahrer flüchtet vor der Polizei.",
-    "link": "https://www.news-on-tour.de/242855/wiehl-morsbach-verkehrsverstoss/",
-    "published": "Mon, 28 Sep 2026 08:33:47 +0000",
+    "id": "250019defca2",
+    "title": "A4 Wiehltalbrücke: WIM-Anlage soll Lkw-Verstöße stoppen – zwei Sperrungen geplant",
+    "summary": "WIM-Anlage an der A4 Wiehltalbrücke: Autobahn GmbH installiert automatische Lkw-Gewichtskontrolle – zwei Sperrungen Ende Mai und Mitte Juni 2026.",
+    "link": "https://www.news-on-tour.de/203119/a4-wiehltalbruecke-wim-anlage-sperrung/",
+    "published": "Wed, 27 May 2026 13:39:08 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "morsbach",
       "wiehl"
     ],
-    "fetched": "2026-09-28T15:20:08.577534"
-  },
-  {
-    "id": "68e650139287",
-    "title": "Wiehl: Aufstieg in die Verbandsliga – Damen55 feiern Platz 1",
-    "summary": "Damen 55 der Tennisfreunde Bielstein und des TC GW Dieringhausen feiern mit 9:1 Punkten den verdienten Aufstieg in die 2. Verbandsliga.",
-    "link": "https://www.news-on-tour.de/242841/wiehl-aufstieg-bezirksklasse/",
-    "published": "Mon, 28 Sep 2026 08:13:52 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach",
-      "wiehl"
-    ],
-    "fetched": "2026-09-28T15:20:08.577628"
-  },
-  {
-    "id": "5323a6e8b23e",
-    "title": "POL-GM: Handtasche aus Wohnung gestohlen",
-    "summary": "Wiehl (ots) - Zwischen 22 Uhr am Samstag (25. Juli) und 05:30 Uhr am Sonntag haben Unbekannte eine Handtasche aus einer Erdgeschosswohnung in der Straße \"Auf der nassen Höhe\" entwendet. Während die Bewohnerin schlief, gelangten die Unbekannten ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6321702",
-    "published": "Mon, 27 Jul 2026 09:25:58 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-07-27T08:41:56.399224"
+    "fetched": "2026-05-27T16:45:18.921163"
   },
   {
     "id": "2a554f0b2252",
@@ -1653,78 +1504,40 @@
     "fetched": "2026-05-25T10:44:42.337437"
   },
   {
-    "id": "c96a2735960d",
-    "title": "Spenden und Aktive – das braucht die DLRG Wiehl",
-    "summary": "Rund 360 Mitglieder zählt die Ortsgruppe der Deutschen Lebens-Rettungs-Gesellschaft (DLRG) in Wiehl. Der Beitrag Spenden und Aktive &#8211; das braucht die DLRG Wiehl erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/wiehl/spenden-und-aktive-das-braucht-die-dlrg-wiehl/",
-    "published": "Mon, 24 Apr 2023 08:22:59 +0000",
-    "source": "Oberberg Nachrichten",
+    "id": "cdbf04d95c76",
+    "title": "Wiehl: Lkw schleudert auf L302 in Gegenverkehr – zwei Schwerverletzte",
+    "summary": "Schwerer Lkw-Unfall auf der L302 bei Wiehl: Sattelzug schleudert in Gegenverkehr – zwei Schwerverletzte, Landesstraße stundenlang gesperrt.",
+    "link": "https://www.news-on-tour.de/202672/wiehl-lkw-unfall-l302-polizei/",
+    "published": "Thu, 21 May 2026 08:42:45 +0000",
+    "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-05-05T21:11:09.378854"
+    "fetched": "2026-05-21T12:26:15.963247"
   },
   {
-    "id": "7c052b5ccfa7",
-    "title": "Hundebaden in Oberberg: Welche Talsperre Vierbeiner ins Wasser lockt",
-    "summary": "An welchen Talsperren rund um Oberberg der Hund ins Wasser darf – und warum an Genkel und Wiehl sogar ein saftiges Bußgeld droht.",
-    "link": "https://www.news-on-tour.de/204315/hundebaden-oberberg-talsperre/",
-    "published": "Mon, 22 Jun 2026 20:32:45 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl",
-      "gummersbach"
-    ],
-    "fetched": "2026-06-22T21:12:32.078107"
-  },
-  {
-    "id": "f5f55fcaa5c9",
-    "title": "POL-GM: 37-Jähriger leistet nach Trunkenheitsfahrt Widerstand",
-    "summary": "Nümbrecht; Wiehl (ots) - Nach einem Zeugenhinweis auf eine Trunkenheitsfahrt auf der L336 bei Nümbrecht-Bierenbachtal beabsichtigte die Polizei am Samstag (18. Juli) gegen 21:34 Uhr, einen 37-jährigen Motorradfahrer in Wiehl zu kontrollieren. Auf ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6317662",
-    "published": "Mon, 20 Jul 2026 11:11:09 +0200",
+    "id": "77c39e14d83c",
+    "title": "POL-GM: Frontalzusammenstoß zwischen Lkw und Pkw fordert zwei Verletzte",
+    "summary": "Wiehl (ots) - Am Donnerstag (21. Mai) gegen 05:38 Uhr kam es auf der Forster Str. (L302) zu einem Frontalzusammenstoß zwischen einem Lkw und einem Pkw. Der 26-jährige Lkw-Fahrer fuhr mit seinem Sattelzug auf der Forster Str. in Richtung ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6279187",
+    "published": "Thu, 21 May 2026 10:19:53 +0200",
     "source": "Presseportal Polizei OBK",
     "kommunen": [
-      "nuembrecht",
       "wiehl"
     ],
-    "fetched": "2026-07-20T11:10:56.452469"
+    "fetched": "2026-05-21T12:26:29.480287"
   },
   {
-    "id": "a6e35e4420c7",
-    "title": "Wiehl: Trunkenheitsfahrt endet in Widerstand – Polizei greift durch",
-    "summary": "In Wiehl-Oberbantenberg leistete ein 37-jähriger Motorradfahrer nach einer Trunkenheitsfahrt Widerstand gegen die Polizei und beleidigte Beamte. Führerschein beschlagnahmt.",
-    "link": "https://www.news-on-tour.de/206010/wiehl-trunkenheitsfahrt-widerstand/",
-    "published": "Mon, 20 Jul 2026 09:40:40 +0000",
+    "id": "e0c5e4de2918",
+    "title": "Oberberg: Kostenloser Webseiten-Prototyp in nur 3 Tagen",
+    "summary": "Webseiten-Prototyp aus Wiehl: SUPERBRAND.marketing bietet Unternehmen in Oberberg einen kostenlosen ersten Entwurf an.",
+    "link": "https://www.news-on-tour.de/202553/kostenlose-webseite-oberberg-redesign/",
+    "published": "Tue, 19 May 2026 18:32:13 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-07-20T11:10:43.361215"
-  },
-  {
-    "id": "a5118d64e3dd",
-    "title": "Wiehl-Marienhagen: Baustelle an der K 52 – Ortsdurchfahrt wird ab 27. Oktober gesperrt",
-    "summary": "Ab 27. Oktober saniert der Oberbergische Kreis die K 52 in Wiehl-Marienhagen: erst Ampel am Kreisverkehr, dann Sperrung der Ortsdurchfahrt bis Mitte November.",
-    "link": "https://www.news-on-tour.de/254862/wiehl-marienhagen-baustelle-k52/",
-    "published": "Mon, 19 Oct 2026 16:10:47 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-10-19T21:00:25.443215"
-  },
-  {
-    "id": "6ca265a8746f",
-    "title": "Wiehl: Kleinanzeigenbetrug am PC – Polizei warnt vor Phishing-Falle",
-    "summary": "Kleinanzeigenbetrug in Wiehl: Eine 40-Jährige verlor hunderte Euro durch eine Phishing-Falle beim Online-Verkauf – Polizei warnt vor Betrug.",
-    "link": "https://www.news-on-tour.de/254780/wiehl-kleinanzeigenbetrug-phishing/",
-    "published": "Mon, 19 Oct 2026 04:08:40 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-10-19T07:40:44.380242"
+    "fetched": "2026-05-19T19:13:59.582189"
   },
   {
     "id": "596530d523bf",
@@ -1740,215 +1553,53 @@
     "fetched": "2026-05-18T10:24:16.245049"
   },
   {
-    "id": "7fabc07d3e8e",
-    "title": "Kinder-Secondhand-Basar des TV Oberbantenberg",
-    "summary": "Am Samstag, den 15. März zwischen 13 und 15 Uhr, steht die Aula des Schulzentrums Bielstein im Zeichen des Frühlings. Der Turnverein Oberbantenberg (TVO) lädt alle interessierten Familien zum traditionellen Kinder-Secondhand-Basar ein Der Beitrag Kinder-Secondhand-Basar des TV Oberbantenberg erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/wiehl/kinder-secondhand-basar-des-tv-oberbantenberg/",
-    "published": "Mon, 17 Feb 2025 11:13:57 +0000",
-    "source": "Oberberg Nachrichten",
+    "id": "5a0fe891c693",
+    "title": "POL-GM: Unbekannte wollten in Sparkasse einbrechen",
+    "summary": "Wiehl (ots) - Am frühen Dienstagmorgen (5. Mai) versuchten Einbrecher gegen 4:15 Uhr, die Eingangstür einer Sparkassenfiliale in der Oberwiehler Straße aufzuhebeln. Dabei lösten sie die Alarmanlage aus und flüchteten. Ein Zeuge beobachtete zwei ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6268771",
+    "published": "Tue, 05 May 2026 10:01:08 +0200",
+    "source": "Presseportal Polizei OBK",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-05-05T21:11:09.367551"
+    "fetched": "2026-05-05T21:01:18.843933"
   },
   {
-    "id": "9f58b5e9611c",
-    "title": "Wiehl: Diebstahl aus zwei Autos – Polizei ermittelt nach Scheibenbruch",
-    "summary": "Zwei Autos wurden an zwei Tagen aufgebrochen. Unbekannte stahlen eine Geldbörse sowie einen Stoffbeutel mit Kleidung und Kosmetik.",
-    "link": "https://www.news-on-tour.de/240474/wiehl-diebstahl-autoscheiben/",
-    "published": "Mon, 17 Aug 2026 10:39:49 +0000",
+    "id": "acadd7831d08",
+    "title": "POL-GM: Fahrraddiebe in Wiehl unterwegs",
+    "summary": "Wiehl (ots) - In der Zeit von Samstag (2. Mai), 14 Uhr, bis Sonntag stahlen Unbekannte ein Fahrrad, das ein 19-Jähriger aus Wiehl im Bereich Bahnhofstraße/Hauptstraße mit einem Ringschloss angeschlossen hatte. Bei dem Fahrrad handelt es sich um ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6268769",
+    "published": "Tue, 05 May 2026 10:00:31 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:01:18.843972"
+  },
+  {
+    "id": "15ac7d13e577",
+    "title": "POL-GM: Unfall auf Kreuzung",
+    "summary": "Wiehl (ots) - Am Montagmorgen (4. Mai) wollte ein 56-jähriger Wiehler mit seinem Land Rover in Hillerscheid von der Hillerscheider Straße nach rechts auf die Drabenderhöher Straße (L338) abbiegen. Dabei kam es gegen 5:15 Uhr zum Zusammenstoß ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6268767",
+    "published": "Tue, 05 May 2026 10:00:25 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:01:18.844036"
+  },
+  {
+    "id": "22f4392798e7",
+    "title": "Bergneustadt: Verkehrsunfall an der L173 – Seat-Fahrer verletzt, zwei Fahrzeuge abgeschleppt",
+    "summary": "Bergneustadt / Verkehrsunfall / L173 / Polizei Oberberg (Von Christian Sasse) An der Einmündung „Zur Feriensiedlung&#8220; auf die L173 bei Bergneustadt ist es am Montagmorgen, 27. April 2026, zu einem Verkehrsunfall mit einem Verletzten gekommen. Ein 75-jähriger Bergneustädter missachtete die Vorfahrt eines aus Wiehl kommenden Hyundai-Fahrers – beide Fahrzeuge wurden so stark beschädigt, dass sie",
+    "link": "https://www.news-on-tour.de/201785/bergneustadt-vorfahrtfehler-crash-l173/",
+    "published": "Tue, 28 Apr 2026 16:42:01 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
+      "bergneustadt",
       "wiehl"
     ],
-    "fetched": "2026-08-17T10:43:09.958934"
-  },
-  {
-    "id": "bf9db7763e56",
-    "title": "POL-GM: Diebstähle aus Autos",
-    "summary": "Wiehl (ots) - Zwischen 14:10 Uhr und 16 Uhr am Freitag (14. August) zerstörten Unbekannte eine Scheibe eines geparkten Seat. Aus dem Auto stahlen sie einen Stoffbeutel, in dem sich Kleidung und Kosmetik befanden. Das Auto stand zur Tatzeit in der ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6334426",
-    "published": "Mon, 17 Aug 2026 09:09:51 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-08-17T08:56:04.960531"
-  },
-  {
-    "id": "5e0e65836b71",
-    "title": "Wiehlpark: Vorfreude bei Baustellen-Führungen",
-    "summary": "Wiehl - Zu Baubeginn wirkte die Fläche wie eine Mondlandschaft, nun zeigt der Wiehlpark sein neues, schon jetzt einladendes Gesicht. Davon überzeugten sich am Wochenende (12. - 14.05.2023) gut 200 Interessierte. Der Beitrag Wiehlpark: Vorfreude bei Baustellen-Führungen erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/wiehl/wiehlpark-vorfreude-bei-baustellen-fuehrungen/",
-    "published": "Mon, 15 May 2023 10:21:18 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:09.377919"
-  },
-  {
-    "id": "12accf974df2",
-    "title": "Para Eishockey Länderspiele in Wiehl",
-    "summary": "Vom 31. März bis zum 02.April 2023 werden drei Länderspiele zwischen den Nationalmannschaften aus Deutschland und Norwegen, im Para Eishockey, ausgetragen. Der Beitrag Para Eishockey Länderspiele in Wiehl erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/wiehl/para-eishockey-laenderspiele-in-wiehl/",
-    "published": "Mon, 13 Mar 2023 11:48:28 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:09.380048"
-  },
-  {
-    "id": "60313d6d318e",
-    "title": "Sankt Martinsumzug in Drabenderhöhe",
-    "summary": "Der diesjährige Sankt Martinsumzug in Drabenderhöhe findet am Donnerstag, den 9. November statt. Der Beitrag Sankt Martinsumzug in Drabenderhöhe erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/wiehl/sankt-martinsumzug-in-drabenderhoehe/",
-    "published": "Mon, 06 Nov 2023 12:52:11 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:09.374251"
-  },
-  {
-    "id": "91e80593f69b",
-    "title": "Eiskunstläuferinnen auch beim Saisonhöhepunkt mit Top Platzierungen",
-    "summary": "Insgesamt 12 Teilnehmerinnen des TuS Wiehl Eissportclub haben, vom 24. bis 26. Februar 2023, an den NRW Landesmeisterschaften im Eiskunstlauf teilgenommen. Die Eiskunstläuferinnen zeigten an allen drei Wettkampftagen einmal mehr ihre sehr gute Form. Der Beitrag Eiskunstläuferinnen auch beim Saisonhöhepunkt mit Top Platzierungen erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/wiehl/eiskunstlaeuferinnen-auch-beim-saisonhoehepunkt-mit-top-platzierungen/",
-    "published": "Mon, 06 Mar 2023 14:01:14 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:09.380334"
-  },
-  {
-    "id": "5c436beff968",
-    "title": "Engelskirchen: Auto landet auf der L302 bei Kaltenbach im Graben – Ersthelfer befreien Fahrerin",
-    "summary": "Auf der L302 bei Kaltenbach geriet eine Autofahrerin mit ihrem Wagen in den Graben. Ersthelfer befreiten sie, der Rettungsdienst brachte sie ins Krankenhaus.",
-    "link": "https://www.news-on-tour.de/243278/engelskirchen-unfall-l302-kaltenbach/",
-    "published": "Mon, 05 Oct 2026 09:00:12 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "engelskirchen",
-      "wiehl"
-    ],
-    "fetched": "2026-10-05T18:20:33.274533"
-  },
-  {
-    "id": "acaefb443a8b",
-    "title": "Drei spannende Para-Eishockey Partien in Wiehl",
-    "summary": "Am vergangenen Wochenende fand in der Eissporthalle Wiehl ein ganz besonderes Ereignis statt. Gleich drei Länderspiele im Para-Eishockey wurden in Wiehl ausgetragen. Der Beitrag Drei spannende Para-Eishockey Partien in Wiehl erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/wiehl/drei-spannende-para-eishockey-partien-in-wiehl/",
-    "published": "Mon, 03 Apr 2023 10:33:34 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:09.379410"
-  },
-  {
-    "id": "ff745ae2c19c",
-    "title": "Wiehl: Gebäudebrand in Dreisbach – Feuer greift auf Dachstuhl über",
-    "summary": "Gebäudebrand in Dreisbach: Feuer griff von einer Garage auf den Dachstuhl über. Die Kripo ermittelt zur Ursache, der Schaden ist sechsstellig.",
-    "link": "https://www.news-on-tour.de/241091/wiehl-gebaeudebrand-dreisbach/",
-    "published": "Fri, 28 Aug 2026 13:34:45 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-08-28T18:35:40.711265"
-  },
-  {
-    "id": "64f595166d04",
-    "title": "POL-GM: Gebäudebrand in Wiehl-Dreisbach",
-    "summary": "Wiehl (ots) - Aus bislang ungeklärter Ursache geriet am späten Donnerstagabend (27. August) gegen 22:25 Uhr die Garage eines Wohnhauses in der Dreisbacher Straße in Brand. Von der Garage griff das Feuer dann auf den Dachstuhl des leerstehenden ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6341449",
-    "published": "Fri, 28 Aug 2026 10:25:01 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-08-28T18:35:58.460978"
-  },
-  {
-    "id": "aeb246a9dfde",
-    "title": "So stärken Sie ihre Marketinganstrengungen und werden im Oberbergischen Kreis erfolgreich",
-    "summary": "Ob Gummerbach oder Radevormwald, Lindlar oder Morsbach, Engelskirchen oder Wiehl - der Oberbergische Kreis hat Unternehmen zahlreicher Branchen ein solides Fundament zu bieten. Erstklassige Infrastruktur, gute Kaufkraft und kulturelle Vielfalt bilden einen tollen Rahmen, um Geschäfte zu gründen und nachhaltig zu etablieren. Der Beitrag So stärken Sie ihre Marketinganstrengungen und werden im Oberb",
-    "link": "https://www.oberberg-nachrichten.de/themen/verschiedenes/marketing-effektiver-gestalten-so-werden-sie-im-obk-erfolgreich/",
-    "published": "Fri, 26 Jan 2024 16:11:38 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "lindlar",
-      "radevormwald",
-      "engelskirchen",
-      "morsbach",
-      "wiehl"
-    ],
-    "fetched": "2026-05-05T21:11:09.372875"
-  },
-  {
-    "id": "d475e398e3dc",
-    "title": "Perspektiven für geflüchtete Schüler aus der Ukraine",
-    "summary": "Elf Schülerinnen und Schüler, die derzeit das Dietrich-Bonhoeffer-Gymnasium in Wiehl besuchen, hatten so die Möglichkeit, Einblicke in den Hochschulalltag zu bekommen - und vielleicht auch eine Perspektive für die eigene Zukunft zu finden. Der Beitrag Perspektiven für geflüchtete Schüler aus der Ukraine erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/gummersbach/perspektiven-fuer-gefluechtete-schueler-aus-der-ukraine/",
-    "published": "Fri, 20 Jan 2023 07:10:58 +0000",
-    "source": "Oberberg Nachrichten",
-    "kommunen": [
-      "wiehl",
-      "gummersbach"
-    ],
-    "fetched": "2026-05-05T21:11:09.381990"
-  },
-  {
-    "id": "94ee1b9ba7b1",
-    "title": "POL-GM: Update zum Verkehrsunfall in Wiehl-Remperg https://www.presseportal.de/blaulicht/pm/65843/6316774",
-    "summary": "Wiehl (ots) - https://www.presseportal.de/blaulicht/pm/65843/6316774 Die Sperrung der L 336 ist aufgehoben. Rückfragen von Pressevertretern bitte an: Kreispolizeibehörde Oberbergischer Kreis Pressestelle Telefon: 02261/8199-1210 E-Mail: ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6316797",
-    "published": "Fri, 17 Jul 2026 14:42:54 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-07-17T14:51:50.126266"
-  },
-  {
-    "id": "fed8837ce768",
-    "title": "POL-GM: Unfall im Einmündungsbereich",
-    "summary": "Wiehl (ots) - Am Freitag (17. Juli) kam es in Wiehl-Remperg zu einem schweren Verkehrsunfall. Gegen 13:15 Uhr wollte ein 53-Jähriger aus Reichshof mit seinem Transporter von der Biebersteiner Straße auf die Oberwiehler Straße (L 336) abbiegen. ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6316774",
-    "published": "Fri, 17 Jul 2026 14:25:02 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "reichshof",
-      "wiehl"
-    ],
-    "fetched": "2026-07-17T14:51:50.126309"
-  },
-  {
-    "id": "e9dd010c3ef1",
-    "title": "Wiehl: Einmündungsunfall in Remperg – 63-Jähriger schwer verletzt (Final Update)",
-    "summary": "Auf der Oberwiehler Straße in Wiehl-Remperg stoßen zwei Fahrzeuge frontal zusammen. Rettungskräfte sind vor Ort, Ursache und Verletztenzahl sind noch unklar.",
-    "link": "https://www.news-on-tour.de/205889/wiehl-frontalzusammenstoss-remperg/",
-    "published": "Fri, 17 Jul 2026 13:20:46 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-07-17T14:51:32.541865"
-  },
-  {
-    "id": "38de93e6da4d",
-    "title": "POL-GM: Unbekannte stehlen Rüttelplatte",
-    "summary": "Wiehl (ots) - Zwischen 16:30 Uhr am Mittwoch und 6:50 Uhr am Donnerstag (16. Juli) haben Kriminelle von einer Baustelle in der Mühlenstraße eine Rüttelplatte gestohlen. Bei dem Diebesgut handelt es sich um eine Rüttelplatte des Herstellers ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6316424",
-    "published": "Fri, 17 Jul 2026 10:30:03 +0200",
-    "source": "Presseportal Polizei OBK",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-07-17T10:08:57.193475"
+    "fetched": "2026-05-05T21:01:14.683620"
   },
   {
     "id": "a37f2022763a",
@@ -1964,55 +1615,173 @@
     "fetched": "2026-05-05T21:11:16.618996"
   },
   {
-    "id": "7c54b6aab96f",
-    "title": "POL-GM: Betrüger beklauen Seniorin in ihrer Wohnung",
-    "summary": "Wiehl (ots) - Am Donnerstag (15. Oktober) klingelte es mehrfach an der Wohnungstür einer 85-Jährigen in einem Mehrfamilienhaus in der Oberwiehler Straße (in der Nähe der Derschlager Straße). Als sie die Tür öffnete, stand ein Mann vor der ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/65843/6372286",
-    "published": "Fri, 16 Oct 2026 09:18:47 +0200",
-    "source": "Presseportal Polizei OBK",
+    "id": "b7e485e940a7",
+    "title": "Bielstein (Update#2) Baustellen, Sperrungen und Schienenersatzverkehr – Verkehrschaos in Oberberg spitzt sich zu",
+    "summary": "Bielstein / Wiehltalbrücke / RB25 / Straßensperrung (Von Christian Sasse) Bielstein – Wer derzeit durch den Wiehl-Ortsteil Bielstein (Oberbergischer Kreis/NRW) fährt, braucht vor allem eines: Geduld. Gleich mehrere Baustellen sorgen seit Ende März für Vollsperrungen auf der L336 und der L302, die A4 wird in dieser Woche nachts gesperrt, die RB25 fährt seit dem 27. März nur noch als Bus – und über ",
+    "link": "https://www.news-on-tour.de/201215/bielstein-baustellen-a4-sperrung-rb25/",
+    "published": "Wed, 08 Apr 2026 05:10:07 +0000",
+    "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-10-19T15:32:10.779202"
+    "fetched": "2026-05-05T21:11:16.620013"
   },
   {
-    "id": "aa45bad9ffe1",
-    "title": "Hückeswagen & Wiehl und weitere Orte: Diebstahl, Radfahrer schwer verletzt",
-    "summary": "Hückeswagen: Radfahrer schwer verletzt. Zeugen nach Taten in Wiehl, Waldbröl und Einbruchsversuch in Radevormwalder Tankstelle gesucht.",
-    "link": "https://www.news-on-tour.de/252684/hueckeswagen-diebstahl-unfall/",
-    "published": "Fri, 16 Oct 2026 09:07:35 +0000",
+    "id": "1decb900f74c",
+    "title": "Osterfeuer Oberberg 2026: (04./05.04.) Diese 17 Veranstaltungen sind offiziell bestätigt",
+    "summary": "Oberberg / Osterfeuer / 2026 / Veranstaltungen / Waldbrandgefahr (Von Christian Sasse) Update #6 Am Karsamstag, 4. April 2026, und Ostersonntag, 5. April 2026, lodern im Oberbergischen Kreis wieder die traditionellen Osterfeuer. Feuerwehren, Dorfgemeinschaften, Schützenvereine und Jugendgruppen aus der gesamten Region laden zum geselligen Beisammensein an den Flammen ein. Aktuell sind 17 Osterfeue",
+    "link": "https://www.news-on-tour.de/200881/osterfeuer-oberberg-2026-wo/",
+    "published": "Fri, 03 Apr 2026 22:01:28 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "reichshof",
+      "lindlar",
+      "morsbach",
+      "bergneustadt",
+      "gummersbach",
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:16.620482"
+  },
+  {
+    "id": "5ed6004be9a9",
+    "title": "TV Dümmlinghausen II feiert klaren 9:1-Heimsieg im Derby gegen TTC Wiehl II (Tischtennis)",
+    "summary": "Tischtennis / TV Dümmlinghausen / TTC Wiehl / Oberberg (Von Christian Sasse) Der TV Dümmlinghausen II hat am 20. März 2026 in der 1. Bezirksliga 3 des Bezirks Köln einen überzeugenden 9:1-Heimsieg gegen den TTC Wiehl II eingefahren. Die Gastgeber dominierten die Begegnung von Beginn an und ließen den Gästen aus dem Oberbergischen Kreis kaum eine Chance. Bilder: © Christian Sasse alias ´Der Sasse´ ",
+    "link": "https://www.news-on-tour.de/200697/tv-duemmlinghausen-2026-03-20-ttc-wiehl/",
+    "published": "Sat, 21 Mar 2026 04:41:37 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:16.621794"
+  },
+  {
+    "id": "35fe649a0acd",
+    "title": "Nümbrecht: 20-jähriger Autofahrer überschlägt sich auf der Homburger Straße (L320)",
+    "summary": "Nümbrecht / Verkehrsunfall / BMW / Holsteinsmühle (Von Christian Sasse) Ein 20-jähriger BMW-Fahrer aus Wiehl hat sich am Samstagabend in Nümbrecht auf der Homburger Straße (L320) überschlagen, nachdem er in einer Rechtskurve auf den Randstreifen geraten war. Gegen 20:15 Uhr kam der Wagen auf dem Dach zum Liegen, der Fahrer blieb unverletzt, sein 22-jähriger Beifahrer aus Nümbrecht wurde leicht ver",
+    "link": "https://www.news-on-tour.de/200597/nuembrecht-verkehrsunfall-l320-bmw/",
+    "published": "Sun, 15 Mar 2026 11:07:28 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "nuembrecht",
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:16.622564"
+  },
+  {
+    "id": "ba8c8ab21695",
+    "title": "Oberberg: Wiehl – Polizei bittet nach Radlader-Diebstahl um Hinweise",
+    "summary": "Oberberg / Wiehl – (Von NEWS-Ticker) Zwischen Freitag (6. März) und Montagmorgen wurde in Wiehl (Oberbergischer Kreis/NRW) ein Arbeitsfahrzeug vom Gelände eines Seniorenzentrums in der Wülfringhauser Straße entwendet. Symbolbild: © Foto+TV Agentur NTOi.de (Das abgebildete Symbolfoto dient der Veranschaulichung der Thematik, ohne die Aktion direkt darzustellen.) Polizei bittet um Hinweise Das Krimi",
+    "link": "https://www.news-on-tour.de/200477/oberberg-wiehl-radladerdiebstahl/",
+    "published": "Tue, 10 Mar 2026 09:16:54 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "wiehl",
-      "waldbroel",
-      "radevormwald",
-      "hueckeswagen"
+      "waldbroel"
     ],
-    "fetched": "2026-10-16T12:19:54.203123"
+    "fetched": "2026-05-05T21:11:16.622896"
   },
   {
-    "id": "97faef3536fe",
-    "title": "Wiehl: Borussia Düsseldorf startet mit zwei Teams in Rollstuhl-Tischtennis-Bundesliga",
-    "summary": "Historisches Novum in der 1. Rollstuhl-Tischtennis Bundesliga: Borussia Düsseldorf schickt erstmals zwei Teams in das Oberhaus.",
-    "link": "https://www.news-on-tour.de/252670/wiehl-borussia-duesseldorf-rollstuhl-tt/",
-    "published": "Fri, 16 Oct 2026 08:58:23 +0000",
+    "id": "17c7acedd46e",
+    "title": "Wiehl: Polizei ermittelt nach mehreren Fahrzeugaufbrüchen – Zwei E-Scooter gestohlen",
+    "summary": "Wiehl / Oberberg &#8211; (Von Christian Sasse) In der Nacht von Montag auf Dienstag (02./03. März 2026) kam es in Wiehl zu mehreren Autoaufbrüchen. Unbekannte Täter schlugen an verschiedenen Stellen im Stadtgebiet Scheiben von Pkw ein und entwendeten Taschen, Bargeld und persönliche Dokumente. Die Polizei bittet um Hinweise aus der Bevölkerung. Symbolbild: © Foto+TV Agentur NTOi.de (Das abgebildet",
+    "link": "https://www.news-on-tour.de/200359/wiehl-autoaufbrueche-e-scooter-pkw/",
+    "published": "Wed, 04 Mar 2026 12:12:52 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-10-16T12:19:54.203167"
+    "fetched": "2026-05-05T21:11:16.623458"
   },
   {
-    "id": "bc7da438be5a",
-    "title": "Wiehl: Verkehrsunfall an L305/A4 – Feuerwehr rückt aus",
-    "summary": "Verkehrsunfall im Bereich L305/A4 in Wiehl: Feuerwehr und Rettungsdienst sind im Einsatz. Weitere gesicherte Angaben fehlen derzeit.",
-    "link": "https://www.news-on-tour.de/240357/wiehl-verkehrsunfall-l305-a4/",
-    "published": "Fri, 14 Aug 2026 17:23:55 +0000",
+    "id": "8b29b1d03d37",
+    "title": "Engelskirchen: Quad-Fahrer bei Verkehrsunfall schwer verletzt",
+    "summary": "Engelskirchen / Quad / Unfall / Polizei (Von Christian Sasse) Am frühen Donnerstagmorgen ist es in Engelskirchen auf der L307 zu einem schweren Verkehrsunfall zwischen einem Auto und einem Quad gekommen. Ein 61-jähriger Mann aus Wiehl wurde dabei schwer verletzt und in ein Krankenhaus gebracht. Die Polizei sperrte die Landstraße für die Dauer der Unfallaufnahme vollständig. Foto: Kreispolizeibehör",
+    "link": "https://www.news-on-tour.de/200286/engelskirchen-quadfahrer-verkehrsunfall/",
+    "published": "Sat, 28 Feb 2026 10:30:27 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl",
+      "engelskirchen"
+    ],
+    "fetched": "2026-05-05T21:11:16.623663"
+  },
+  {
+    "id": "7bcfaca275d6",
+    "title": "Wiehl: Bürgerinfo zur Wiehltalbrücke – 400 Besucher im Dialog zur A4",
+    "summary": "Wiehl / Wiehltalbrücke / A4 / Oberberg (Von Christian Sasse) Rund 400 Besucher haben am Montagabend (23. Februar 2026) an einer Bürgerinformationsveranstaltung zur Zukunft der Wiehltalbrücke auf der A4 teilgenommen. Im Stadtteilhaus Drabenderhöhe (Siebenbürger Platz 23, 51674 Wiehl) informierten die Autobahn GmbH des Bundes, Niederlassung Rheinland, und die Stadt Wiehl rund zweieinhalb Stunden lan",
+    "link": "https://www.news-on-tour.de/200202/wiehl-buergerinfo-wiehltalbruecke-a4/",
+    "published": "Tue, 24 Feb 2026 11:50:27 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-08-14T18:03:26.832613"
+    "fetched": "2026-05-05T21:11:16.624363"
+  },
+  {
+    "id": "747ef4210ca3",
+    "title": "Bergneustadt: Neverland rockte die Come-In-Classic-Night – Live-Rock vom Feinsten (mit exklusivem Video)",
+    "summary": "Bergneustadt – Come In – Neverland – Rock-Konzert &#124; Bergneustadt (NRW) – Am Samstagabend, dem 21. Februar 2026, verwandelte die Rock-Cover-Band Neverland die Discothek Come In in der Othestraße 28 in eine brodelnde Konzertarena. Im Rahmen der Come In Classic Night lieferten die vier Musiker aus dem Oberbergischen Land einen über zweistündigen Auftritt ab, der das Publikum von der ersten Minut",
+    "link": "https://www.news-on-tour.de/200113/bergneustadt-neverland-come-in-rock/",
+    "published": "Sun, 22 Feb 2026 03:47:25 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt",
+      "reichshof",
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:16.624698"
+  },
+  {
+    "id": "c70543267236",
+    "title": "Oberberg: Karnevalsumzüge im Kreisgebiet verlaufen weitgehend friedlich",
+    "summary": "Oberberg / Karnevalsumzüge / Polizei / Engelskirchen (Von Christian Sasse) Die Bilanz des Karnevalswochenendes im Oberbergischen Kreis fällt aus Sicht der Polizei positiv aus: Die Karnevalsumzüge in Engelskirchen, Bielstein und Morsbach verliefen weitgehend störungsfrei, nur in Wipperfürth kam es zu zwei Ingewahrsamnahmen im Zusammenhang mit Karnevalsveranstaltungen. Archivbbilder: © Christian Sas",
+    "link": "https://www.news-on-tour.de/200028/oberberg-karnevalsumzuege-2026_polizei/",
+    "published": "Tue, 17 Feb 2026 16:05:05 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl",
+      "wipperfuerth",
+      "engelskirchen",
+      "morsbach"
+    ],
+    "fetched": "2026-05-05T21:11:16.625252"
+  },
+  {
+    "id": "f03e26af9108",
+    "title": "Wiehl-Bomig: Schwerer Unfall an Kreuzung Am Verkehrskreuz – Autofahrerin verletzt, Alkohol im Spiel",
+    "summary": "Wiehl / Verkehrsunfall / Polizei / Alkohol (Von Christian Sasse) Eine 48-jährige Autofahrerin aus Wiehl ist am Montagabend an der Kreuzung Am Verkehrskreuz/Fritz-Kotz-Straße/Werner-von-Siemens-Straße in Bomig bei einem Verkehrsunfall schwer verletzt worden. Gegen 19:10 Uhr kollidierte ihr Mercedes mit einem Audi, dessen 33-jähriger Fahrer nach ersten Erkenntnissen alkoholisiert unterwegs war. Die ",
+    "link": "https://www.news-on-tour.de/199838/wiehl-bomig-unfall-alkohol/",
+    "published": "Tue, 10 Feb 2026 09:08:08 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:16.626025"
+  },
+  {
+    "id": "b2296d5536eb",
+    "title": "Unfallflucht in Wiehl: Polizei stellt 16-jährigen Tatverdächtigen",
+    "summary": "Wiehl - Nach einer Unfallflucht in Wiehl leistete ein 16-Jähriger Widerstand gegen die Polizei. Eine 15-Jährige wurde verletzt. Jetzt Details lesen! Der Beitrag Unfallflucht in Wiehl: Polizei stellt 16-jährigen Tatverdächtigen erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/wiehl/unfallflucht-in-wiehl-polizei-stellt-16-jaehrigen-tatverdaechtigen/",
+    "published": "Tue, 20 Jan 2026 15:00:33 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:01:13.636111"
+  },
+  {
+    "id": "6a8082a83873",
+    "title": "Der Frühling in Wiehl wird bunt",
+    "summary": "Der Frühling wird bunt: Vom 26. April bis zum 4. Mai 2025 laden Wiehler Ring und Citymanagement zur „Wiehler Frühlingswoche“ ein Der Beitrag Der Frühling in Wiehl wird bunt erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/wiehl/fruehling-in-wiehl/",
+    "published": "Tue, 15 Apr 2025 13:53:29 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.366970"
   },
   {
     "id": "d335cca0f127",
@@ -2041,6 +1810,56 @@
     "fetched": "2026-05-05T21:11:09.367318"
   },
   {
+    "id": "7b1a4f8e72cc",
+    "title": "Das Problem: Kalte Füße beim Radfahren",
+    "summary": "Besonders auf den hügeligen Strecken rund um Gummersbach, Engelskirchen oder Wiehl können kalte Füße schnell zum Problem werden. Da spezielle Fahrradschuhe oft dünn und flexibel sind, bieten sie nicht immer ausreichend Wärme. Wer längere Touren durch das Bergische plant, sollte deshalb vorbeugende Maßnahmen treffen, um kalte Füße zu vermeiden. Der Beitrag Das Problem: Kalte Füße beim Radfahren ers",
+    "link": "https://www.oberberg-nachrichten.de/themen/verschiedenes/das-problem-kalte-fuesse-beim-radfahren/",
+    "published": "Tue, 18 Feb 2025 10:16:54 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "wiehl",
+      "gummersbach",
+      "engelskirchen"
+    ],
+    "fetched": "2026-05-05T21:11:09.367468"
+  },
+  {
+    "id": "7fabc07d3e8e",
+    "title": "Kinder-Secondhand-Basar des TV Oberbantenberg",
+    "summary": "Am Samstag, den 15. März zwischen 13 und 15 Uhr, steht die Aula des Schulzentrums Bielstein im Zeichen des Frühlings. Der Turnverein Oberbantenberg (TVO) lädt alle interessierten Familien zum traditionellen Kinder-Secondhand-Basar ein Der Beitrag Kinder-Secondhand-Basar des TV Oberbantenberg erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/wiehl/kinder-secondhand-basar-des-tv-oberbantenberg/",
+    "published": "Mon, 17 Feb 2025 11:13:57 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.367551"
+  },
+  {
+    "id": "25c7eb76e588",
+    "title": "Neues Serviceportal der Stadt Wiehl",
+    "summary": "Mit dem Beginn des neuen Jahres hat die Stadt Wiehl ein innovatives Serviceportal ins Leben gerufen, das die Dienstleistungen der Stadtverwaltung gebündelt und benutzerfreundlich präsentiert. Der Beitrag Neues Serviceportal der Stadt Wiehl erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/wiehl/neues-serviceportal-der-stadt-wiehl/",
+    "published": "Tue, 14 Jan 2025 12:58:14 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.368114"
+  },
+  {
+    "id": "52866ec8473e",
+    "title": "Markus Rinscheid übernimmt Premio Reifen + Autoservice in Wiehl",
+    "summary": "Wiehl – Nach 35 Jahren übergibt Volker Kuhn seinen Betrieb in der Carl-Hans-Straße 2 an Markus Rinscheid. Mit dieser Firmenübernahme startet eine neue Ära für den Premio Reifen + Autoservice in Wiehl. Der Beitrag Markus Rinscheid übernimmt Premio Reifen + Autoservice in Wiehl erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/wiehl/markus-rinscheid-uebernimmt-premio-reifen-autoservice-in-wiehl/",
+    "published": "Thu, 31 Oct 2024 19:46:05 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.368870"
+  },
+  {
     "id": "ad2ebc190af6",
     "title": "Bergische Wanderwochen – Wandern auf dem „Bierweg“",
     "summary": "Im Rahmen der 10. Bergischen Wanderwochen lädt die Erzquell Brauerei in Kooperation mit „Das Bergische Wanderland“ und mit Unterstützung der Forstbetriebsgemeinschaft Bielstein sowie dem Heimatverein Bielstein zum Wandern auf dem Bierweg in Bielstein ein. Der Beitrag Bergische Wanderwochen &#8211; Wandern auf dem &#8222;Bierweg&#8220; erschien zuerst auf Oberberg-Nachrichten.de.",
@@ -2053,34 +1872,280 @@
     "fetched": "2026-05-05T21:11:09.369751"
   },
   {
-    "id": "1decb900f74c",
-    "title": "Osterfeuer Oberberg 2026: (04./05.04.) Diese 17 Veranstaltungen sind offiziell bestätigt",
-    "summary": "Oberberg / Osterfeuer / 2026 / Veranstaltungen / Waldbrandgefahr (Von Christian Sasse) Update #6 Am Karsamstag, 4. April 2026, und Ostersonntag, 5. April 2026, lodern im Oberbergischen Kreis wieder die traditionellen Osterfeuer. Feuerwehren, Dorfgemeinschaften, Schützenvereine und Jugendgruppen aus der gesamten Region laden zum geselligen Beisammensein an den Flammen ein. Aktuell sind 17 Osterfeue",
-    "link": "https://www.news-on-tour.de/200881/osterfeuer-oberberg-2026-wo/",
-    "published": "Fri, 03 Apr 2026 22:01:28 +0000",
-    "source": "NEWS-on-Tour Oberberg",
+    "id": "f48ced961d6c",
+    "title": "Baugebiet „Auf der Höhe“ – Bürger sind eingeladen mitzuwirken",
+    "summary": "Das Baugebiet „Auf der Höhe“ zwischen Drabenderhöhe und Brächen soll Modellcharakter erhalten. Wie kann die innovative Gestaltung aussehen? Der Beitrag Baugebiet „Auf der Höhe“ &#8211; Bürger sind eingeladen mitzuwirken erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/wiehl/baugebiet-auf-der-hoehe-buerger-sind-eingeladen-mitzuwirken/",
+    "published": "Tue, 13 Aug 2024 11:34:19 +0000",
+    "source": "Oberberg Nachrichten",
     "kommunen": [
-      "reichshof",
-      "lindlar",
-      "morsbach",
-      "bergneustadt",
-      "gummersbach",
       "wiehl"
     ],
-    "fetched": "2026-05-05T21:11:16.620482"
+    "fetched": "2026-05-05T21:11:09.370305"
   },
   {
-    "id": "2124051231ec",
-    "title": "Bergneustadt, Wiehl & Gummersbach: Betrug und Kupferdiebstahl – Polizei ermittelt",
-    "summary": "Spendentrick in Bergneustadt und gestohlene Fallrohre in Wiehl und Gummersbach: Die Polizei veröffentlicht zwei Fälle und sucht Zeugen.",
-    "link": "https://www.news-on-tour.de/243075/bergneustadt-betrug-fallrohre/",
-    "published": "Fri, 02 Oct 2026 01:25:00 +0000",
-    "source": "NEWS-on-Tour Oberberg",
+    "id": "32340a71bb05",
+    "title": "Wiehler Sommer – Das ultimative Sommer-Event",
+    "summary": "Jede Menge Spaß und Action für Jugendliche ab 14 Jahren bietet die Open-Air-Party „Wiehler Sommer“ am 23. August 2024. Der Beitrag Wiehler Sommer &#8211; Das ultimative Sommer-Event erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/wiehl/wiehler-sommer-das-ultimative-sommer-event/",
+    "published": "Thu, 08 Aug 2024 10:50:12 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.370554"
+  },
+  {
+    "id": "02a742f4b920",
+    "title": "Unvergessliches Nachterlebnis: Abenteuerwanderung im Wildpark Wiehl",
+    "summary": "Die KinJu Wiehl (Kinder- und Jugendeinrichtungen Wiehl) organisierte in Zusammenarbeit mit der FSW am Mittwoch, den 31.07.2024, eine aufregende Nacht-Abenteuerwanderung im Wildpark Wiehl, als Teil des Programms `Ferienspaߴ. Der Beitrag Unvergessliches Nachterlebnis: Abenteuerwanderung im Wildpark Wiehl erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/wiehl/unvergessliches-nachterlebnis-abenteuerwanderung-im-wildpark-wiehl/",
+    "published": "Tue, 06 Aug 2024 12:41:46 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.370699"
+  },
+  {
+    "id": "aeb246a9dfde",
+    "title": "So stärken Sie ihre Marketinganstrengungen und werden im Oberbergischen Kreis erfolgreich",
+    "summary": "Ob Gummerbach oder Radevormwald, Lindlar oder Morsbach, Engelskirchen oder Wiehl - der Oberbergische Kreis hat Unternehmen zahlreicher Branchen ein solides Fundament zu bieten. Erstklassige Infrastruktur, gute Kaufkraft und kulturelle Vielfalt bilden einen tollen Rahmen, um Geschäfte zu gründen und nachhaltig zu etablieren. Der Beitrag So stärken Sie ihre Marketinganstrengungen und werden im Oberb",
+    "link": "https://www.oberberg-nachrichten.de/themen/verschiedenes/marketing-effektiver-gestalten-so-werden-sie-im-obk-erfolgreich/",
+    "published": "Fri, 26 Jan 2024 16:11:38 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "lindlar",
+      "radevormwald",
+      "engelskirchen",
+      "morsbach",
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.372875"
+  },
+  {
+    "id": "9407dccace89",
+    "title": "Barista in den eigene vier Wänden – worauf man achten sollte, um den perfekten Kaffee auch zu Hause genießen zu können",
+    "summary": "Gerade in Oberberg gibt es viele tolle Kaffees und Kaffeeröstereien, die frischen Kaffee anbieten. Hierzu zählen unter anderem die PanPan Coffee School and Roastery / Kaffeerösterei in Wiehl, oder die Kaffeerösterei Pagnia am Rande des Oberbergischen Kreises in Marienheide. Doch was kann man tun, um den frischen Geschmack des Kaffees auch zuhause erleben zu können? Der Beitrag Barista in den eigen",
+    "link": "https://www.oberberg-nachrichten.de/themen/verschiedenes/tipps-um-den-perfekten-kaffee-auch-zu-hause-geniessen-zu-koennen/",
+    "published": "Tue, 14 Nov 2023 09:28:04 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "marienheide",
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.373898"
+  },
+  {
+    "id": "ee3f8068b229",
+    "title": "Video-Identifikationsverfahren: Sicherheit und Komfort in der digitalen Welt?",
+    "summary": "Im Oberbergischen Kreis, wo die Verbindung von Tradition und Fortschritt lebendig ist, wird die Relevanz digitaler Innovationen besonders deutlich. Mit der Digitalisierung wächst hier wie überall das Bedürfnis nach schnellen, effizienten und zugleich sicheren Identifikationsverfahren. Das Video-Identifikationsverfahren, eine Technologie, die bereits in Orten wie Gummersbach, Waldbröl und Wiehl an ",
+    "link": "https://www.oberberg-nachrichten.de/themen/verschiedenes/video-identifikationsverfahren-sicherheit-und-komfort/",
+    "published": "Tue, 07 Nov 2023 14:12:46 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "waldbroel",
+      "wiehl",
+      "gummersbach"
+    ],
+    "fetched": "2026-05-05T21:11:09.374050"
+  },
+  {
+    "id": "60313d6d318e",
+    "title": "Sankt Martinsumzug in Drabenderhöhe",
+    "summary": "Der diesjährige Sankt Martinsumzug in Drabenderhöhe findet am Donnerstag, den 9. November statt. Der Beitrag Sankt Martinsumzug in Drabenderhöhe erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/wiehl/sankt-martinsumzug-in-drabenderhoehe/",
+    "published": "Mon, 06 Nov 2023 12:52:11 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.374251"
+  },
+  {
+    "id": "a44bc2a1bb19",
+    "title": "Wie man den Energieverbrauch einer alten Gefriertruhe drastisch senkt: Ein unerwarteter Trick!",
+    "summary": "Inmitten der idyllischen Hügel und Täler des Oberbergischen Kreises sucht jeder Bewohner nach Wegen, seine monatlichen Ausgaben zu minimieren. Die traditionsreichen Häuser von Gummersbach bis Waldbröl beherbergen oft ältere Elektrogeräte, darunter auch so manch betagte Gefriertruhe. Diese Truhen, die Geschichten von vergangenen Tagen in Wiehl, Engelskirchen oder Nümbrecht erzählen könnten, scheine",
+    "link": "https://www.oberberg-nachrichten.de/themen/verschiedenes/wie-man-den-energieverbrauch-einer-alten-gefriertruhe-drastisch-senkt-ein-unerwarteter-trick/",
+    "published": "Thu, 12 Oct 2023 07:28:45 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "nuembrecht",
+      "waldbroel",
+      "engelskirchen",
+      "wiehl",
+      "gummersbach"
+    ],
+    "fetched": "2026-05-05T21:11:09.374652"
+  },
+  {
+    "id": "5e0e65836b71",
+    "title": "Wiehlpark: Vorfreude bei Baustellen-Führungen",
+    "summary": "Wiehl - Zu Baubeginn wirkte die Fläche wie eine Mondlandschaft, nun zeigt der Wiehlpark sein neues, schon jetzt einladendes Gesicht. Davon überzeugten sich am Wochenende (12. - 14.05.2023) gut 200 Interessierte. Der Beitrag Wiehlpark: Vorfreude bei Baustellen-Führungen erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/wiehl/wiehlpark-vorfreude-bei-baustellen-fuehrungen/",
+    "published": "Mon, 15 May 2023 10:21:18 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.377919"
+  },
+  {
+    "id": "d87e798a9f01",
+    "title": "Spaziergang durch den Wiehlpark",
+    "summary": "Wiehl - Den neuen Wiehlpark in erstem Grün erleben: Dazu gibt es am 13. Mai 2023 Gelegenheit. Die Stadt Wiehl lädt alle Interessierten zu einem Spaziergang ein, der auch über die Baustelle Hauptstraße führt. Der Beitrag Spaziergang durch den Wiehlpark erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/wiehl/spaziergang-durch-den-wiehlpark/",
+    "published": "Thu, 04 May 2023 06:08:31 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.378500"
+  },
+  {
+    "id": "c96a2735960d",
+    "title": "Spenden und Aktive – das braucht die DLRG Wiehl",
+    "summary": "Rund 360 Mitglieder zählt die Ortsgruppe der Deutschen Lebens-Rettungs-Gesellschaft (DLRG) in Wiehl. Der Beitrag Spenden und Aktive &#8211; das braucht die DLRG Wiehl erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/wiehl/spenden-und-aktive-das-braucht-die-dlrg-wiehl/",
+    "published": "Mon, 24 Apr 2023 08:22:59 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.378854"
+  },
+  {
+    "id": "9cc823ef1901",
+    "title": "Wiehler Kunterbunt in der Wiehler-Wasser-Welt",
+    "summary": "Für alle Familien, die zum Abschluss der Osterferien etwas Besonderes unternehmen möchten, bietet die Wiehler-Wasser-Welt unter dem Motto `Wiehler Kunterbunt´ Spiel- und Badevergnügen für Groß und Klein, an. Der Beitrag Wiehler Kunterbunt in der Wiehler-Wasser-Welt erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/wiehl/wiehler-kunterbunt-in-der-wiehler-wasser-welt/",
+    "published": "Thu, 06 Apr 2023 09:33:46 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.379121"
+  },
+  {
+    "id": "acaefb443a8b",
+    "title": "Drei spannende Para-Eishockey Partien in Wiehl",
+    "summary": "Am vergangenen Wochenende fand in der Eissporthalle Wiehl ein ganz besonderes Ereignis statt. Gleich drei Länderspiele im Para-Eishockey wurden in Wiehl ausgetragen. Der Beitrag Drei spannende Para-Eishockey Partien in Wiehl erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/wiehl/drei-spannende-para-eishockey-partien-in-wiehl/",
+    "published": "Mon, 03 Apr 2023 10:33:34 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.379410"
+  },
+  {
+    "id": "cff8f00430ad",
+    "title": "Erster Wiehler Gastronomie-Stammtisch",
+    "summary": "Fehlendes Personal, hohe Kosten, Corona-Nachwirkungen: Die örtliche Gastronomie steht vor großen Herausforderungen. Grund genug für die Stadt Wiehl, zum ersten Wiehler Gastronomie-Stammtisch einzuladen. Der Beitrag Erster Wiehler Gastronomie-Stammtisch erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/wiehl/erster-wiehler-gastronomie-stammtisch/",
+    "published": "Thu, 23 Mar 2023 09:31:23 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.379666"
+  },
+  {
+    "id": "12accf974df2",
+    "title": "Para Eishockey Länderspiele in Wiehl",
+    "summary": "Vom 31. März bis zum 02.April 2023 werden drei Länderspiele zwischen den Nationalmannschaften aus Deutschland und Norwegen, im Para Eishockey, ausgetragen. Der Beitrag Para Eishockey Länderspiele in Wiehl erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/wiehl/para-eishockey-laenderspiele-in-wiehl/",
+    "published": "Mon, 13 Mar 2023 11:48:28 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.380048"
+  },
+  {
+    "id": "72dadbca8ad6",
+    "title": "Stadt Wiehl klagt gegen Ablehnung",
+    "summary": "Die Stadt Wiehl geht rechtlich gegen die Ablehnung der Bezirksregierung Köln vor, die TOB-Sekundarschule in eine Gesamtschule umzuwandeln. Den dazu nötigen Beschluss hat der Wiehler Stadtrat heute mit großer Mehrheit gefasst. Der Beitrag Stadt Wiehl klagt gegen Ablehnung erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/wiehl/stadt-wiehl-klagt-gegen-ablehnung/",
+    "published": "Wed, 08 Mar 2023 11:18:35 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.380225"
+  },
+  {
+    "id": "91e80593f69b",
+    "title": "Eiskunstläuferinnen auch beim Saisonhöhepunkt mit Top Platzierungen",
+    "summary": "Insgesamt 12 Teilnehmerinnen des TuS Wiehl Eissportclub haben, vom 24. bis 26. Februar 2023, an den NRW Landesmeisterschaften im Eiskunstlauf teilgenommen. Die Eiskunstläuferinnen zeigten an allen drei Wettkampftagen einmal mehr ihre sehr gute Form. Der Beitrag Eiskunstläuferinnen auch beim Saisonhöhepunkt mit Top Platzierungen erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/wiehl/eiskunstlaeuferinnen-auch-beim-saisonhoehepunkt-mit-top-platzierungen/",
+    "published": "Mon, 06 Mar 2023 14:01:14 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.380334"
+  },
+  {
+    "id": "840988924bcf",
+    "title": "Tea with cops – Austausch und Integration bei Tee und Gebäck",
+    "summary": "Waldbröl - Polizei und Moscheeverein laden für Freitag (10. März), ab 14 Uhr vor der Moschee in Waldbröl (Wiehler Straße 5) interessierte Bürgerinnen und Bürger zu einem Austausch bei Tee und Gebäck ein. Der Beitrag Tea with cops &#8211; Austausch und Integration bei Tee und Gebäck erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/waldbroel/tea-with-cops-austausch-und-integration-bei-tee-und-gebaeck/",
+    "published": "Tue, 28 Feb 2023 13:23:49 +0000",
+    "source": "Oberberg Nachrichten",
     "kommunen": [
       "wiehl",
-      "gummersbach",
-      "bergneustadt"
+      "waldbroel"
     ],
-    "fetched": "2026-10-02T05:25:48.241005"
+    "fetched": "2026-05-05T21:11:09.380602"
+  },
+  {
+    "id": "1b328b0a0527",
+    "title": "Eiskunstläuferinnen des TuS Wiehl ESC weiter auf Erfolgskurs",
+    "summary": "Das Jahr 2023 begann für die Eiskunstläuferinnen des TuS Wiehl mit erneut sehr guten Platzierungen. Nach tollen Auftritten beim heimischen Wiehl Pokal Anfang des Jahres haben die Wiehler Eissportlerinnen in Iserlohn und Krefeld ihre gute Form erneut bestätigt. Der Beitrag Eiskunstläuferinnen des TuS Wiehl ESC weiter auf Erfolgskurs erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/wiehl/eiskunstlaeuferinnen-des-tus-wiehl-esc-weiter-auf-erfolgskurs/",
+    "published": "Thu, 16 Feb 2023 07:50:17 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.380932"
+  },
+  {
+    "id": "a320a0c68cb9",
+    "title": "NRW fördert Ausbau barrierefreier Bushaltestellen",
+    "summary": "Wiehl - Einen kräftigen Schritt nach vorn kann der barrierefreie Ausbau von Bushaltestellen auf Wiehler Stadtgebiet machen: Bürgermeister Ulrich Stücker nahm gestern in Düsseldorf einen entsprechenden Förderbescheid in Höhe von 557.100 Euro entgegen. Der Beitrag NRW fördert Ausbau barrierefreier Bushaltestellen erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/wiehl/nrw-foerdert-ausbau-barrierefreier-bushaltestellen/",
+    "published": "Wed, 15 Feb 2023 14:53:10 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.380969"
+  },
+  {
+    "id": "852f08421acf",
+    "title": "Karnevalsfeier: Maskenball im HBW",
+    "summary": "Wiehl - Eine liebgewonnene Tradition im HBW Haus für Menschen mit Behinderung Wiehl ist die jährliche Karnevalsfeier, die die Mitarbeitenden für die Bewohnenden, Klienten und Kollegen ausrichten. Der Beitrag Karnevalsfeier: Maskenball im HBW erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/wiehl/karnevalsfeier-maskenball-im-hbw/",
+    "published": "Thu, 09 Feb 2023 08:12:26 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-05-05T21:11:09.381243"
+  },
+  {
+    "id": "d475e398e3dc",
+    "title": "Perspektiven für geflüchtete Schüler aus der Ukraine",
+    "summary": "Elf Schülerinnen und Schüler, die derzeit das Dietrich-Bonhoeffer-Gymnasium in Wiehl besuchen, hatten so die Möglichkeit, Einblicke in den Hochschulalltag zu bekommen - und vielleicht auch eine Perspektive für die eigene Zukunft zu finden. Der Beitrag Perspektiven für geflüchtete Schüler aus der Ukraine erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/gummersbach/perspektiven-fuer-gefluechtete-schueler-aus-der-ukraine/",
+    "published": "Fri, 20 Jan 2023 07:10:58 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "wiehl",
+      "gummersbach"
+    ],
+    "fetched": "2026-05-05T21:11:09.381990"
   }
 ]

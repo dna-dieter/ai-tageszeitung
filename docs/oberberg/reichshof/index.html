@@ -53,11 +53,22 @@ footer a { color: #85C1E9; }
 .legal ul { padding-left: 1.2rem; }
 .legal .hinweis { background: #fff8e6; border-left: 4px solid var(--rbk-rot); padding: 10px 14px; margin-bottom: 16px; }
 .empty { text-align: center; padding: 40px; color: #999; font-size: 1.1rem; }
+.rat-block { margin: 4px 0 26px; }
+.rat-block h2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.15rem; color: var(--rbk-blau); margin: 0 0 10px; }
+.rat-hero { background: white; border-left: 4px solid var(--rbk-rot); border-radius: 6px; padding: 16px 18px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+.rat-hero .wann { font-family: sans-serif; font-size: 0.78rem; font-weight: 700; color: var(--rbk-rot); letter-spacing: 0.04em; text-transform: uppercase; }
+.rat-hero h3 { font-size: 1.25rem; margin: 4px 0; }
+.rat-liste { list-style: none; }
+.rat-liste li { background: white; border-radius: 6px; padding: 12px 16px; margin-bottom: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+.rat-liste .wann { font-family: sans-serif; font-size: 0.82rem; color: var(--rbk-blau); font-weight: 700; }
+.rat-liste .ort { font-family: sans-serif; font-size: 0.8rem; color: #666; }
+.rat-quelle { font-family: sans-serif; font-size: 0.8rem; color: #666; margin-top: 8px; }
 .monat-gruppe { margin-bottom: 8px; }
 .monat-header { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.05rem; color: var(--rbk-blau); border-bottom: 2px solid var(--rbk-blau); padding: 8px 0 5px 0; margin: 18px 0 10px 0; display: flex; align-items: center; gap: 8px; }
 .monat-header:first-child { margin-top: 0; }
 .monat-count { background: var(--rbk-blau); color: white; font-size: 0.72rem; padding: 1px 8px; border-radius: 10px; font-weight: 400; }
 .btn-refresh { display: inline-flex; align-items: center; gap: 5px; font-family: sans-serif; font-size: 0.78rem; padding: 5px 14px; background: #2ECC71; color: white; border: none; border-radius: 4px; text-decoration: none; cursor: pointer; transition: background 0.2s; margin-top: 4px; }
+.btn-refresh[hidden], .refresh-status[hidden] { display: none; }
 .btn-refresh:hover { background: #27AE60; color: white; }
 .btn-refresh:disabled, .btn-refresh.loading { background: #95A5A6; cursor: wait; opacity: 0.8; }
 .btn-refresh .spinner { display: inline-block; width: 10px; height: 10px; border: 2px solid rgba(255,255,255,0.3); border-top-color: white; border-radius: 50%; animation: spin 0.8s linear infinite; }
@@ -81,9 +92,9 @@ footer a { color: #85C1E9; }
     <div class="sub">AI Tageszeitung · Oberbergischer Kreis</div>
   </div>
   <div class="meta">
-    <div><span class="live-dot"></span>108 Artikel</div>
-    <div>22.10.2026, 20:59</div>
-    <button type="button" onclick="triggerRefresh()" class="btn-refresh" id="btn-refresh">&#x21bb; Jetzt aktualisieren</button>
+    <div><span class="live-dot"></span>110 Artikel</div>
+    <div>22.10.2026, 22:19 Uhr</div>
+    <button type="button" onclick="triggerRefresh()" class="btn-refresh" id="btn-refresh" hidden>&#x21bb; Jetzt aktualisieren</button>
     <div class="refresh-status" id="refresh-status"></div>
   </div>
 </header>
@@ -91,213 +102,225 @@ footer a { color: #85C1E9; }
 <main>
 <div class="grid">
   <div><div class="monat-gruppe">
-<h2 class="monat-header">Oktober 2026 <span class="monat-count">14</span></h2>
+<h2 class="monat-header">Oktober 2026 <span class="monat-count">16</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.ksta.de/region/oberberg/kleines-dorf-grosser-zusammenhalt-in-heienbach-1396637" target="_blank" rel="noopener">Hier zählt die Gemeinschaft: Kleines Dorf, großer Zusammenhalt in Heienbach</a></h2>
+  <div class="teaser">Die Dorfgemeinschaft in Heienbach ist aktiv. Das wissen Reichshofs Bürgermeister sowie die Dorfgemeinschaft zu würdigen.</div>
+  <div class="info">15.10.2026, 12:21 Uhr · Kölner Stadt-Anzeiger Oberberg</div>
+</div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/250489/reichshof-bleiwerte-wildberg/" target="_blank" rel="noopener">Reichshof: Erhöhte Bleiwerte in Wildberg – Vorsorgemaßnahmen für Spielplätze</a></h2>
   <div class="teaser">In Reichshof-Wildberg wurden erhöhte Bleiwerte im Boden festgestellt. Ein Spielplatz wurde gesperrt, Anwohner erhalten nun wichtige Warnhinweise.</div>
-  <div class="info">Thu, 15 Oct 2026 06:03:35 · NEWS-on-Tour Oberberg</div>
+  <div class="info">15.10.2026, 08:03 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/244220/reichshof-verkehrsunfall-frontalzusammenstoss/" target="_blank" rel="noopener">Reichshof: Tödlicher Verkehrsunfall auf der L 148 – Frau stirbt nach Frontalzusammenstoß</a></h2>
   <div class="teaser">Tödlicher Verkehrsunfall in Reichshof: Eine 68-jährige Autofahrerin starb nach einem Frontalzusammenstoß auf der L 148 – Mercedes brannte aus.</div>
-  <div class="info">Tue, 13 Oct 2026 15:22:14 · NEWS-on-Tour Oberberg</div>
+  <div class="info">13.10.2026, 17:22 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.ksta.de/region/oberberg/reichshof/frontalzusammenstoss-68-jaehrige-aus-reichshof-stirbt-bei-unfall-1395319" target="_blank" rel="noopener">Frontalzusammenstoß: 68-Jährige aus Reichshof stirbt bei Unfall</a></h2>
+  <div class="teaser">Für eine Frau aus Reichshof kam bei einem Unfall jede Hilfe zu spät.</div>
+  <div class="info">13.10.2026, 17:10 Uhr · Kölner Stadt-Anzeiger Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/243574/reichshof-verwaltung-digitalisierung/" target="_blank" rel="noopener">Reichshof: Neue Verwaltungsplattform startet – Bürgerservice wird digital</a></h2>
   <div class="teaser">Reichshof startet neue digitale Verwaltungsplattform: Mit BundID und Formularserver wird der Bürgerservice im Oberbergischen modern und sicher.</div>
-  <div class="info">Mon, 12 Oct 2026 05:58:16 · NEWS-on-Tour Oberberg</div>
+  <div class="info">12.10.2026, 07:58 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/243559/reichshof-diebstahl-unfall/" target="_blank" rel="noopener">Reichshof &amp; Engelskirchen und weitere Orte: Unfall, Diebstahl – Polizei ermittelt</a></h2>
   <div class="teaser">Vier Polizeifälle in Reichshof, Engelskirchen, Wipperfürth und Radevormwald: Zwei Jugendliche verletzt, Mercedes gestohlen, Einbrecher gesucht.</div>
-  <div class="info">Sun, 11 Oct 2026 08:38:20 · NEWS-on-Tour Oberberg</div>
+  <div class="info">11.10.2026, 10:38 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6367453" target="_blank" rel="noopener">POL-GM: Kind sexuell belästigt+++Zeugen gesucht</a></h2>
   <div class="teaser">Reichshof (ots) - Ein unbekannter Mann hat am Dienstag (6. Oktober) ein 11-jähriges Kind in einem Linienbus belästigt. Das Mädchen war gegen 14:10 Uhr in einem Bus der Linie 303 von Brüchermühle in Richtung Eckenhagen unterwegs. Kurz vor der ...</div>
-  <div class="info">Thu, 08 Oct 2026 13:15:53 · Presseportal Polizei OBK</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6366330" target="_blank" rel="noopener">POL-GM: Unfall mit drei Autos auf der L96</a></h2>
-  <div class="teaser">Reichshof (ots) - Am Dienstag (6. Oktober) beabsichtigte eine 32-Jährige aus Reichshof gegen 12:35 Uhr, mit ihrem KIA von der L96 auf die Autobahn abzubiegen. Dabei kam es zur Kollision mit dem Toyota eines 48-Jährigen aus Reichshof, der auf der ...</div>
-  <div class="info">Wed, 07 Oct 2026 09:00:31 · Presseportal Polizei OBK</div>
+  <div class="info">08.10.2026, 13:15 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/243399/reichshof-verkehrsunfall-l96/" target="_blank" rel="noopener">Reichshof: Drei Leichtverletzte bei Verkehrsunfall auf L96</a></h2>
   <div class="teaser">Drei Verletzte nach Verkehrsunfall auf der L96 in Reichshof: Beim Abbiegen kollidierten drei Autos. Die Landstraße war gesperrt.</div>
-  <div class="info">Wed, 07 Oct 2026 07:56:06 · NEWS-on-Tour Oberberg</div>
+  <div class="info">07.10.2026, 09:56 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6365619" target="_blank" rel="noopener">POL-GM: Unbekannte bestehlen 80-jährige Reichshoferin</a></h2>
-  <div class="teaser">Reichshof (ots) - Am Montagvormittag (5. Oktober) klingelte gegen 11 Uhr ein bislang unbekannter Mann an der Haustür einer 80-Jährigen in Reichshof-Nosbach. Er gab sich als Spendensammler aus, begleitete die Seniorin in die Küche und verwickelte ...</div>
-  <div class="info">Tue, 06 Oct 2026 10:00:20 · Presseportal Polizei OBK</div>
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6366330" target="_blank" rel="noopener">POL-GM: Unfall mit drei Autos auf der L96</a></h2>
+  <div class="teaser">Reichshof (ots) - Am Dienstag (6. Oktober) beabsichtigte eine 32-Jährige aus Reichshof gegen 12:35 Uhr, mit ihrem KIA von der L96 auf die Autobahn abzubiegen. Dabei kam es zur Kollision mit dem Toyota eines 48-Jährigen aus Reichshof, der auf der ...</div>
+  <div class="info">07.10.2026, 09:00 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/243340/marienheide-gummersbach-20261006/" target="_blank" rel="noopener">Marienheide, Gummersbach &amp; Reichshof: Polizei führt Ermittlungen in drei Fällen</a></h2>
   <div class="teaser">Drei Polizeimeldungen aus Marienheide, Gummersbach und Reichshof: Körperverletzung, versuchter Diebstahl und entwendete Sparbücher.</div>
-  <div class="info">Tue, 06 Oct 2026 08:52:23 · NEWS-on-Tour Oberberg</div>
+  <div class="info">06.10.2026, 10:52 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6365619" target="_blank" rel="noopener">POL-GM: Unbekannte bestehlen 80-jährige Reichshoferin</a></h2>
+  <div class="teaser">Reichshof (ots) - Am Montagvormittag (5. Oktober) klingelte gegen 11 Uhr ein bislang unbekannter Mann an der Haustür einer 80-Jährigen in Reichshof-Nosbach. Er gab sich als Spendensammler aus, begleitete die Seniorin in die Küche und verwickelte ...</div>
+  <div class="info">06.10.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/243260/reichshof-motorradunfall-buchener-strasse/" target="_blank" rel="noopener">Reichshof: Schwerer Motorradunfall auf der Buchener Straße</a></h2>
   <div class="teaser">Schwerer Motorradunfall in Reichshof: Ein 34-jähriger Kölner kollidierte auf der Buchener Straße mit einem Pkw und erlitt schwere Verletzungen.</div>
-  <div class="info">Sun, 04 Oct 2026 12:52:23 · NEWS-on-Tour Oberberg</div>
+  <div class="info">04.10.2026, 14:52 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/243265/reichshof-verkehrsunfall-linienbus/" target="_blank" rel="noopener">Reichshof: Verkehrsunfall mit Linienbus – L96 nach Kollision voll gesperrt</a></h2>
   <div class="teaser">Schwerer Verkehrsunfall auf der L96 bei Reichshof: Ein Linienbus, ein Audi und ein Sprinter kollidierten. Vier Personen wurden leicht verletzt.</div>
-  <div class="info">Sun, 04 Oct 2026 12:51:45 · NEWS-on-Tour Oberberg</div>
+  <div class="info">04.10.2026, 14:51 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6364364" target="_blank" rel="noopener">POL-GM: Motorradfahrer bei Verkehrsunfall schwer verletzt</a></h2>
   <div class="teaser">Reichshof (ots) - Ein 34-jähriger Motorradfahrer aus Köln war am 3. Oktober (Samstag) auf der Buchener Straße in Richtung der Ortschaft &quot;Buchen&quot; unterwegs, als es gegen 13:10 Uhr zum Zusammenstoß mit einem Autofahrer aus Reichshof kam. Der ...</div>
-  <div class="info">Sun, 04 Oct 2026 11:00:10 · Presseportal Polizei OBK</div>
+  <div class="info">04.10.2026, 11:00 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6364363" target="_blank" rel="noopener">POL-GM: Unfall beim Abbiegen - vier Personen leicht verletzt</a></h2>
   <div class="teaser">Reichshof (ots) - Am Freitag (2. Oktober) kam es auf der L96 bei Hespert zu einem Verkehrsunfall, an dem ein Omnibus und zwei Autos beteiligt waren. Eine 53-jährige Autofahrerin aus Recklinghausen fuhr am frühen Freitagabend auf der L96 in ...</div>
-  <div class="info">Sun, 04 Oct 2026 11:00:07 · Presseportal Polizei OBK</div>
+  <div class="info">04.10.2026, 11:00 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6362903" target="_blank" rel="noopener">POL-GM: Betrüger mit mobilem Lesegerät erfolgreich - Polizei warnt vor Betrugsmasche</a></h2>
   <div class="teaser">Bergneustadt (ots) - Eine 80-Jährige aus Reichshof wurde am 25. September (Freitag) zwischen 13 Uhr und 14 Uhr auf einem Supermarktparkplatz in der Stadionstraße von einem vermeintlichen Spendensammler angesprochen und um einen niedrigen ...</div>
-  <div class="info">Thu, 01 Oct 2026 11:09:41 · Presseportal Polizei OBK</div>
+  <div class="info">01.10.2026, 11:09 Uhr · Presseportal Polizei OBK</div>
 </div>
 </div>
 <div class="monat-gruppe">
 <h2 class="monat-header">September 2026 <span class="monat-count">20</span></h2>
 <div class="artikel">
   
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6361085" target="_blank" rel="noopener">POL-GM: Betrüger erbeuten fünfstelligen Betrag</a></h2>
-  <div class="teaser">Reichshof (ots) - Am Samstag (26. September) erhielt eine 62-Jährige aus Reichshof einen Anruf von der Telefonnummer ihrer Bank. Am Telefon meldete sich ein Mann, der sich als Mitarbeiter der Sicherheitsabteilung ausgab und ihr mitteilte, dass auf ..</div>
-  <div class="info">Tue, 29 Sep 2026 09:47:19 · Presseportal Polizei OBK</div>
-</div>
-<div class="artikel">
-  
   <h2><a href="https://www.news-on-tour.de/242922/wipperfuerth-kollision-k13/" target="_blank" rel="noopener">Wipperfürth &amp; Reichshof: Schwere Kollision und fünfstelliger Betrug</a></h2>
   <div class="teaser">Kollision in Wipperfürth, Betrug in Reichshof: Ein Motorradfahrer wird schwer verletzt, eine 62-Jährige verliert einen fünfstelligen Betrag.</div>
-  <div class="info">Tue, 29 Sep 2026 08:29:03 · NEWS-on-Tour Oberberg</div>
+  <div class="info">29.09.2026, 10:29 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6359784" target="_blank" rel="noopener">POL-GM: 11-Jährige bei Zusammenstoß mit Auto schwer verletzt</a></h2>
-  <div class="teaser">Reichshof (ots) - Ein 65-jähriger Autofahrer aus Reichshof fuhr am Freitag (25. September) gegen 14 Uhr auf der Olper Straße in Richtung Brüchermühle. Ein vor ihm fahrender Bus hielt an der Haltestelle &quot;Reichshof Brüchermühle Sportplatz&quot;. Zwei ...</div>
-  <div class="info">Sun, 27 Sep 2026 11:00:10 · Presseportal Polizei OBK</div>
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6361085" target="_blank" rel="noopener">POL-GM: Betrüger erbeuten fünfstelligen Betrag</a></h2>
+  <div class="teaser">Reichshof (ots) - Am Samstag (26. September) erhielt eine 62-Jährige aus Reichshof einen Anruf von der Telefonnummer ihrer Bank. Am Telefon meldete sich ein Mann, der sich als Mitarbeiter der Sicherheitsabteilung ausgab und ihr mitteilte, dass auf ..</div>
+  <div class="info">29.09.2026, 09:47 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/242766/wipperfuerth-verkehrsunfaelle-reichshof/" target="_blank" rel="noopener">Wipperfürth &amp; Reichshof: Schwere Verkehrsunfälle – zwei Schwerverletzte</a></h2>
   <div class="teaser">Zwei schwere Unfälle in Wipperfürth und Reichshof: Ein Motorrollerfahrer und ein 11-jähriges Mädchen wurden am Wochenende schwer verletzt.</div>
-  <div class="info">Sun, 27 Sep 2026 09:28:22 · NEWS-on-Tour Oberberg</div>
+  <div class="info">27.09.2026, 11:28 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6355687" target="_blank" rel="noopener">POL-GM: Autofahrer landet im Straßengraben</a></h2>
-  <div class="teaser">Reichshof (ots) - Ein 59-Jähriger aus Reichshof war am späten Sonntagabend (20. September, 21:45 Uhr) auf der Straße &quot;Elbachtal&quot; in Richtung der L324 unterwegs. Der Reichshofer wollte seine Fahrt auf der L324 in Richtung Odenspiel fortsetzen, kam ...</div>
-  <div class="info">Mon, 21 Sep 2026 10:05:04 · Presseportal Polizei OBK</div>
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6359784" target="_blank" rel="noopener">POL-GM: 11-Jährige bei Zusammenstoß mit Auto schwer verletzt</a></h2>
+  <div class="teaser">Reichshof (ots) - Ein 65-jähriger Autofahrer aus Reichshof fuhr am Freitag (25. September) gegen 14 Uhr auf der Olper Straße in Richtung Brüchermühle. Ein vor ihm fahrender Bus hielt an der Haltestelle &quot;Reichshof Brüchermühle Sportplatz&quot;. Zwei ...</div>
+  <div class="info">27.09.2026, 11:00 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/242399/reichshof-verkehrsunfall-strassengraben/" target="_blank" rel="noopener">Reichshof, Waldbröl &amp; Lindlar: Verkehrsunfall, E-Scooter-Unfall und Einbruch gemeldet</a></h2>
   <div class="teaser">Drei neue Polizeimeldungen aus Oberberg: Autofahrer im Graben, E-Scooter-Fahrer schwer verletzt und Einbruch in eine Firma in Lindlar.</div>
-  <div class="info">Mon, 21 Sep 2026 08:47:32 · NEWS-on-Tour Oberberg</div>
+  <div class="info">21.09.2026, 10:47 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6355687" target="_blank" rel="noopener">POL-GM: Autofahrer landet im Straßengraben</a></h2>
+  <div class="teaser">Reichshof (ots) - Ein 59-Jähriger aus Reichshof war am späten Sonntagabend (20. September, 21:45 Uhr) auf der Straße &quot;Elbachtal&quot; in Richtung der L324 unterwegs. Der Reichshofer wollte seine Fahrt auf der L324 in Richtung Odenspiel fortsetzen, kam ...</div>
+  <div class="info">21.09.2026, 10:05 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/242377/reichshof-artenschutztag-tierpark/" target="_blank" rel="noopener">Reichshof: Erster Artenschutztag lockt hunderte Besucher in den Vogelpark</a></h2>
   <div class="teaser">Erster Artenschutztag im Affen- und Vogelpark Eckenhagen: Mit Aktionen, Fütterungen und Spenden engagiert sich Reichshof für bedrohte Tiere.</div>
-  <div class="info">Sun, 20 Sep 2026 18:48:34 · NEWS-on-Tour Oberberg</div>
+  <div class="info">20.09.2026, 20:48 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6355333" target="_blank" rel="noopener">POL-GM: Auto kracht gegen Hauswand</a></h2>
   <div class="teaser">Wiehl (ots) - Am Samstag (19. September) fuhr ein 28-Jähriger aus Reichshof mit seinem Seat Leon auf dem Wilhelm-Grümer-Weg aus Richtung Derschlager Straße in Richtung Oberwiehler Straße. Gegen 8:25 Uhr verlor er, nach derzeitigem Stand der ...</div>
-  <div class="info">Sun, 20 Sep 2026 09:40:25 · Presseportal Polizei OBK</div>
+  <div class="info">20.09.2026, 09:40 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/242081/reichshof-toetungsdelikt-denklingen/" target="_blank" rel="noopener">Reichshof: Tötungsdelikt in Denklingen – 72-Jährige in Untersuchungshaft</a></h2>
   <div class="teaser">Nach einem versuchten Tötungsdelikt in Reichshof-Denklingen sitzt eine 72-jährige Frau in Untersuchungshaft. Der Ehemann überlebte.</div>
-  <div class="info">Mon, 14 Sep 2026 16:32:26 · NEWS-on-Tour Oberberg</div>
+  <div class="info">14.09.2026, 18:32 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6351712" target="_blank" rel="noopener">POL-GM: Gemeinsame Pressemeldung der Staatsanwaltschaft Bonn und der Kreispolizeibehörde Oberbergischer Kreis - 72 jährige Frau nach versuchtem Tötungsdelikt in Untersuchungshaft</a></h2>
   <div class="teaser">Reichshof (ots) - Für eine 72-jährige Frau aus Denklingen wurde am Freitag (11. September) die Untersuchungshaft angeordnet. Nach derzeitigem Stand der Ermittlungen ist die psychisch auffällige Frau dringend tatverdächtig, am Dienstag (8. ...</div>
-  <div class="info">Mon, 14 Sep 2026 14:04:11 · Presseportal Polizei OBK</div>
+  <div class="info">14.09.2026, 14:04 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/241985/gummersbach-auszubildende-klinik/" target="_blank" rel="noopener">Gummersbach: Auszubildende bereichern den Klinikalltag im Kreiskrankenhaus</a></h2>
   <div class="teaser">Sechs Auszubildende aus Reichshof engagierten sich beim IHK Social Day im Kreiskrankenhaus Gummersbach für Patienten und Pflegende.</div>
-  <div class="info">Sun, 13 Sep 2026 04:50:31 · NEWS-on-Tour Oberberg</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6350326" target="_blank" rel="noopener">POL-GM: 78-Jährige nach Gebäudebrand verstorben</a></h2>
-  <div class="teaser">Reichshof (ots) - Am Donnerstagmorgen (10. September) ist es zu einem Brandgeschehen in einem Einfamilienhaus in Reichshof gekommen. Gegen 10:20 Uhr informierte die Rettungsleitstelle die Einsatzleitstelle der Polizei über einen Brand in der ...</div>
-  <div class="info">Fri, 11 Sep 2026 12:41:48 · Presseportal Polizei OBK</div>
+  <div class="info">13.09.2026, 06:50 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/241888/reichshof-gebaeudebrand-loeffelsterz/" target="_blank" rel="noopener">Reichshof: Tödlicher Gebäudebrand in Löffelsterz – 78-Jährige verstorben</a></h2>
   <div class="teaser">Tödlicher Gebäudebrand in Reichshof: Eine 78-jährige Frau erlag im Krankenhaus ihren schweren Verletzungen. Die Kripo ermittelt zur Ursache.</div>
-  <div class="info">Fri, 11 Sep 2026 11:01:47 · NEWS-on-Tour Oberberg</div>
+  <div class="info">11.09.2026, 13:01 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6350326" target="_blank" rel="noopener">POL-GM: 78-Jährige nach Gebäudebrand verstorben</a></h2>
+  <div class="teaser">Reichshof (ots) - Am Donnerstagmorgen (10. September) ist es zu einem Brandgeschehen in einem Einfamilienhaus in Reichshof gekommen. Gegen 10:20 Uhr informierte die Rettungsleitstelle die Einsatzleitstelle der Polizei über einen Brand in der ...</div>
+  <div class="info">11.09.2026, 12:41 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/241833/reichshof-einbruch-wehnrath/" target="_blank" rel="noopener">Reichshof: Einbruch im Gewerbegebiet Wehnrath – Täter stehlen Werkzeug</a></h2>
   <div class="teaser">Einbruch im Gewerbegebiet Reichshof-Wehnrath: Unbekannte stehlen Werkzeug aus zwei Betrieben. Polizei Oberberg bittet um Hinweise.</div>
-  <div class="info">Thu, 10 Sep 2026 15:28:22 · NEWS-on-Tour Oberberg</div>
+  <div class="info">10.09.2026, 17:28 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6349252" target="_blank" rel="noopener">POL-GM: Einbrecher stehlen Werkzeuge</a></h2>
   <div class="teaser">Reichshof (ots) - In der Nacht von Dienstag auf Mittwoch (8./9. September) haben Kriminelle im Gewerbegebiet in Wehnrath ihr Unwesen getrieben. Über ein Fenster auf der Gebäuderückseite einer Firma in der Straße &quot;Am Busch&quot; verschafften sich die ...</div>
-  <div class="info">Thu, 10 Sep 2026 09:00:31 · Presseportal Polizei OBK</div>
+  <div class="info">10.09.2026, 09:00 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/241793/gummersbach-diebstahl-kupfer/" target="_blank" rel="noopener">Gummersbach &amp; Reichshof: Diebstahl – Bargeld und Kupfer gestohlen</a></h2>
   <div class="teaser">Diebstahl in Gummersbach und Reichshof: Unbekannte stehlen Bargeld aus einem unverschlossenen Pkw; in Wehnrath fehlen vier Kupferrohre.</div>
-  <div class="info">Wed, 09 Sep 2026 16:20:15 · NEWS-on-Tour Oberberg</div>
+  <div class="info">09.09.2026, 18:20 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6348489" target="_blank" rel="noopener">POL-GM: Kupferdiebstahl im Industriegebiet</a></h2>
   <div class="teaser">Reichshof (ots) - Am späten Abend des 6. Septembers (Sonntag) hat sich ein unbekannter Mann an den Kupferfallrohren eines Gebäudekomplexes im Wehnrather Industriegebiet (Gewerbeparkstraße) zu schaffen gemacht. Der Unbekannte hebelte vier ...</div>
-  <div class="info">Wed, 09 Sep 2026 09:45:08 · Presseportal Polizei OBK</div>
+  <div class="info">09.09.2026, 09:45 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/241655/reichshof-loriot-eckenhagen/" target="_blank" rel="noopener">Reichshof: Loriot-Hommage bringt zeitlosen Humor nach Eckenhagen</a></h2>
   <div class="teaser">Klaus Walter und Die Melodies bringen am 16. Oktober zeitlosen Humor von Loriot, Heinz Erhardt und Hüsch in den Eckenhääner Saal.</div>
-  <div class="info">Mon, 07 Sep 2026 16:09:13 · NEWS-on-Tour Oberberg</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6346796" target="_blank" rel="noopener">POL-GM: Motorrad kracht gegen Baum</a></h2>
-  <div class="teaser">Reichshof (ots) - In Wildberg wurde am Sonntag (6. September) ein Motorradfahrer leicht verletzt. Der 37-Jährige aus Kürten war mit seiner Triumph gegen 13 Uhr auf der L 351 in Richtung Wildbergerhütte unterwegs. In einer Linkskurve kam er von ...</div>
-  <div class="info">Mon, 07 Sep 2026 11:15:40 · Presseportal Polizei OBK</div>
+  <div class="info">07.09.2026, 18:09 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/241647/reichshof-engelskirchen-zweirad/" target="_blank" rel="noopener">Reichshof, Hückeswagen &amp; Engelskirchen: Zweirad-Unfälle – einer schwer verletzt</a></h2>
   <div class="teaser">Drei Unfälle in Reichshof, Hückeswagen und Loope: Zwei Männer leicht verletzt, ein Pedelec-Fahrer schwer – alle kamen ins Krankenhaus.</div>
-  <div class="info">Mon, 07 Sep 2026 10:13:42 · NEWS-on-Tour Oberberg</div>
+  <div class="info">07.09.2026, 12:13 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6346796" target="_blank" rel="noopener">POL-GM: Motorrad kracht gegen Baum</a></h2>
+  <div class="teaser">Reichshof (ots) - In Wildberg wurde am Sonntag (6. September) ein Motorradfahrer leicht verletzt. Der 37-Jährige aus Kürten war mit seiner Triumph gegen 13 Uhr auf der L 351 in Richtung Wildbergerhütte unterwegs. In einer Linkskurve kam er von ...</div>
+  <div class="info">07.09.2026, 11:15 Uhr · Presseportal Polizei OBK</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -306,85 +329,85 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6341845" target="_blank" rel="noopener">POL-GM: 46-Jährige muss nach Verkehrsunfall aus ihrem Fahrzeug befreit werden</a></h2>
   <div class="teaser">Nümbrecht (ots) - Am 28.08.2026, um 15:38 Uhr, befuhr eine 46-jährige Reichshoferin mit einem Pkw Seat die Schlossstraße in Nümbrecht. Auf der Richtungsfahrbahn Bierenbachtal, in Höhe der Zufahrt zu Schloss Homburg, verlor sie nach ...</div>
-  <div class="info">Fri, 28 Aug 2026 17:18:59 · Presseportal Polizei OBK</div>
+  <div class="info">28.08.2026, 17:18 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/241108/reichshof-fahrzeugbrand-eckenhagen/" target="_blank" rel="noopener">Reichshof: Fahrzeugbrand in Eckenhagen – Kripo ermittelt zur Ursache</a></h2>
   <div class="teaser">Fahrzeugbrand in Reichshof-Eckenhagen: Ein Opel brannte völlig aus, zwei weitere Autos wurden beschädigt. Die Kripo ermittelt zur Ursache.</div>
-  <div class="info">Fri, 28 Aug 2026 13:53:58 · NEWS-on-Tour Oberberg</div>
+  <div class="info">28.08.2026, 15:53 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6341434" target="_blank" rel="noopener">POL-GM: Pkw ausgebrannt</a></h2>
   <div class="teaser">Reichshof (ots) - In der Straße &quot;Zum Wiesental&quot; in Eckenhagen geriet am Donnerstag (27. August) ein geparkter Opel aus bislang ungeklärter Ursache in Brand. Anwohner bemerkten gegen 22:50 Uhr den Feuerschein und alarmierten die Feuerwehr. Trotz ...</div>
-  <div class="info">Fri, 28 Aug 2026 10:15:09 · Presseportal Polizei OBK</div>
+  <div class="info">28.08.2026, 10:15 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/241058/lindlar-einbruch-reichshof/" target="_blank" rel="noopener">Lindlar, Reichshof &amp; Marienheide: Einbruch – Polizei ermittelt in drei Fällen</a></h2>
   <div class="teaser">Drei Einbrüche in Lindlar, Reichshof und Marienheide: Zwei Firmen und eine Wohnung waren betroffen; die Polizei ermittelt in allen drei Fällen.</div>
-  <div class="info">Thu, 27 Aug 2026 12:33:02 · NEWS-on-Tour Oberberg</div>
+  <div class="info">27.08.2026, 14:33 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6340724" target="_blank" rel="noopener">POL-GM: Einbrecher gehen leer aus</a></h2>
   <div class="teaser">Reichshof (ots) - Am frühen Mittwochmorgen (26. August) schlugen Unbekannte den Plexiglaseinsatz eines Rolltors an einem Firmengebäude in der Gewerbeparkstraße in Wehnrath ein. Als um 3:34 Uhr dann der Bewegungsmelder im Gebäude auslöste, wurde ...</div>
-  <div class="info">Thu, 27 Aug 2026 10:45:04 · Presseportal Polizei OBK</div>
+  <div class="info">27.08.2026, 10:45 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/240318/oberberg-waldbrandgefahr-trockenheit/" target="_blank" rel="noopener">Oberberg: Waldbrandgefahr steigt – Kreis warnt vor Funken und Feuer</a></h2>
   <div class="teaser">Waldbrandgefahr im Kreisgebiet steigt: DWD-Prognose, aktuelle Einsätze und klare Regeln für Wald, Garten, Grill sowie den Notruf 112.</div>
-  <div class="info">Fri, 14 Aug 2026 09:21:32 · NEWS-on-Tour Oberberg</div>
+  <div class="info">14.08.2026, 11:21 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/236902/waldbroel-reichshof-fahrradunfaelle/" target="_blank" rel="noopener">Waldbröl/Reichshof: Fahrradunfälle – 79-Jähriger stürzt, Radlerin crasht</a></h2>
   <div class="teaser">Zwei Unfälle mit Fahrrad und Pedelec in Waldbröl und Reichshof: Ein Mann wird schwer, eine Radfahrerin leicht verletzt und behandelt.</div>
-  <div class="info">Tue, 11 Aug 2026 11:40:14 · NEWS-on-Tour Oberberg</div>
+  <div class="info">11.08.2026, 13:40 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6331115" target="_blank" rel="noopener">POL-GM: Unfall im Einmündungsbereich</a></h2>
   <div class="teaser">Reichshof (ots) - Bei einem Verkehrsunfall zwischen Denklingen und Brüchermühle wurde am Montag (10. August) eine Fahrradfahrerin leicht verletzt. Die 60-Jährige aus Reichshof war gegen 15:45 Uhr auf der Hauptstraße von Denklingen in Richtung ...</div>
-  <div class="info">Tue, 11 Aug 2026 10:08:23 · Presseportal Polizei OBK</div>
+  <div class="info">11.08.2026, 10:08 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/236827/oberberg-verkehrsunfaelle-wochenende-2/" target="_blank" rel="noopener">Oberberg: Verkehrsunfälle – Fahrer flüchten, Radfahrerin schwer verletzt</a></h2>
   <div class="teaser">Verkehrsunfälle in Oberberg: Drei Polizeimeldungen aus Lindlar, Reichshof und Hückeswagen mit leichten und schweren Verletzungen vor Ort.</div>
-  <div class="info">Sun, 09 Aug 2026 13:16:00 · NEWS-on-Tour Oberberg</div>
+  <div class="info">09.08.2026, 15:16 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6329790" target="_blank" rel="noopener">POL-GM: 14-Jähriger mit Pfefferspray besprüht</a></h2>
   <div class="teaser">Gummersbach (ots) - Ein 14-Jähriger aus Bergneustadt ging am Freitag (7. August) mit einem Freund (13-Jähriger aus Gummersbach) gegen 13:40 Uhr auf der Bahntrasse nahe der Eckenhagener Straße spazieren. In der Nähe des Busbahnhofs Derschlag ...</div>
-  <div class="info">Sun, 09 Aug 2026 11:14:00 · Presseportal Polizei OBK</div>
+  <div class="info">09.08.2026, 11:14 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6329759" target="_blank" rel="noopener">POL-GM: Autofahrer flüchten nach Unfall</a></h2>
   <div class="teaser">Reichshof (ots) - Ein 27-jähriger Autofahrer aus Reichshof fuhr am Samstag (8. August) gegen 18:30 Uhr auf der L324 aus Richtung Eckenhagen kommend in Richtung Buchen. Im Bereich einer scharfen Kurve kam dem 27-Jährigen ein Skoda Octavia auf ...</div>
-  <div class="info">Sun, 09 Aug 2026 10:45:04 · Presseportal Polizei OBK</div>
+  <div class="info">09.08.2026, 10:45 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/236576/oberberg-polizeimeldungen-einbruch/" target="_blank" rel="noopener">Reichshof / Wiehl / Gummersbach : 3 Polizeimeldungen – Täter flüchtet, Zweirad gestohlen</a></h2>
   <div class="teaser">Drei Einsätze in Reichshof, Wiehl und Gummersbach: Alkoholunfall, erfolgloser Tankstelleneinbruch und ein gestohlenes Kleinkraftrad.</div>
-  <div class="info">Thu, 06 Aug 2026 11:17:01 · NEWS-on-Tour Oberberg</div>
+  <div class="info">06.08.2026, 13:17 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6328344" target="_blank" rel="noopener">POL-GM: Alkoholisiert Unfall verursacht - Reichshofer muss Führerschein abgeben</a></h2>
   <div class="teaser">Reichshof (ots) - Am 6. August (Donnerstag) gegen 00:20 Uhr rangierte ein 60-Jähriger aus Reichshof mit seinem Ford auf einem Parkplatz an der Morsbacher Straße in Denklingen. Dabei stieß der 60-Jährige mit einem geparkten Auto zusammen. Bei der ...</div>
-  <div class="info">Thu, 06 Aug 2026 10:35:01 · Presseportal Polizei OBK</div>
+  <div class="info">06.08.2026, 10:35 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/233269/gummersbach-autodiebstahl-reichshof/" target="_blank" rel="noopener">Gummersbach: Autodiebstahl – Polo-Fahrer flüchtet nach Crash</a></h2>
   <div class="teaser">Fahrzeugdiebstahl in Gummersbach: Ein Unbekannter nahm einen VW Polo mit, prallte bei Reichshof gegen einen Baum und flüchtete zu Fuß.</div>
-  <div class="info">Sun, 02 Aug 2026 09:43:47 · NEWS-on-Tour Oberberg</div>
+  <div class="info">02.08.2026, 11:43 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -393,208 +416,208 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.news-on-tour.de/206252/reichshof-gedenkstaette-tierquaelerei/" target="_blank" rel="noopener">Reichshof: Gedenkstätte mahnt gegen Tierquälerei</a></h2>
   <div class="teaser">Gedenkstätte und Tierschutz in Reichshof: Drei Hundenamen, ein Mahnmal und ein samstägliches Zeitfenster für Besucher bei Hunde-SOS-Oberberg.</div>
-  <div class="info">Fri, 24 Jul 2026 21:10:22 · NEWS-on-Tour Oberberg</div>
+  <div class="info">24.07.2026, 23:10 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6320656" target="_blank" rel="noopener">POL-GM: 18-Jähriger kollidiert mit geparktem Auto</a></h2>
   <div class="teaser">Gummersbach (ots) - Ein 18-jähriger Reichshofer fuhr am Donnerstag (23. Juli) auf der Dümmlinghauser Straße in Richtung Gummersbach. Gegen 5:50 Uhr geriet der 18-Jährige auf den Seitenstreifen und stieß mit dem geparkten Pkw einer 45-Jährigen ...</div>
-  <div class="info">Fri, 24 Jul 2026 10:25:00 · Presseportal Polizei OBK</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6318606" target="_blank" rel="noopener">POL-GM: Motorrad kollidiert mit Telefonmast</a></h2>
-  <div class="teaser">Reichshof (ots) - In der Nacht zum 21. Juli (Dienstag) fuhr ein 45-Jähriger Gummersbacher auf der Eckenhagener Straße in Richtung Eckenhagen. In einer Linkskurve, unweit der Einmündung zur Straße &quot;Breidenbacher Weg&quot;, kam der 45-Jährige mit ...</div>
-  <div class="info">Tue, 21 Jul 2026 11:15:20 · Presseportal Polizei OBK</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6318604" target="_blank" rel="noopener">POL-GM: Kind stürzt von Balkon</a></h2>
-  <div class="teaser">Reichshof (ots) - Am Sonntag (19. Juli) gegen 14:15 Uhr stürzte ein einjähriges Mädchen von einem Balkon im ersten Obergeschoss eines Mehrfamilienhauses in der Straße &quot;Unter der Burg&quot;. Da zunächst von lebensgefährlichen Verletzungen ...</div>
-  <div class="info">Tue, 21 Jul 2026 11:15:13 · Presseportal Polizei OBK</div>
+  <div class="info">24.07.2026, 10:25 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/206069/reichshof-balkonsturz-kind/" target="_blank" rel="noopener">Reichshof: Balkonsturz – Kind überlebt kritischen Sturz aus Höhe</a></h2>
   <div class="teaser">In Reichshof stürzte ein einjähriges Mädchen von einem Balkon im ersten Obergeschoss. Nach zunächst lebensgefährlichen Verletzungen ist das Kind nun außer Lebensgefahr und auf dem Weg der Besserung.</div>
-  <div class="info">Tue, 21 Jul 2026 09:37:02 · NEWS-on-Tour Oberberg</div>
+  <div class="info">21.07.2026, 11:37 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/206062/reichshof-motorradunfall-fahrerflucht/" target="_blank" rel="noopener">Reichshof: Motorradunfall – Fahrer flüchtet mit Drogen &amp; ohne Führerschein</a></h2>
   <div class="teaser">Motorradunfall in Reichshof: Ein 45-jähriger Gummersbacher flüchtete nach Kollision mit Telefonmast, unter Drogen und ohne Führerschein. Das Motorrad war unterschlagen.</div>
-  <div class="info">Tue, 21 Jul 2026 09:27:35 · NEWS-on-Tour Oberberg</div>
+  <div class="info">21.07.2026, 11:27 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6318606" target="_blank" rel="noopener">POL-GM: Motorrad kollidiert mit Telefonmast</a></h2>
+  <div class="teaser">Reichshof (ots) - In der Nacht zum 21. Juli (Dienstag) fuhr ein 45-Jähriger Gummersbacher auf der Eckenhagener Straße in Richtung Eckenhagen. In einer Linkskurve, unweit der Einmündung zur Straße &quot;Breidenbacher Weg&quot;, kam der 45-Jährige mit ...</div>
+  <div class="info">21.07.2026, 11:15 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6318604" target="_blank" rel="noopener">POL-GM: Kind stürzt von Balkon</a></h2>
+  <div class="teaser">Reichshof (ots) - Am Sonntag (19. Juli) gegen 14:15 Uhr stürzte ein einjähriges Mädchen von einem Balkon im ersten Obergeschoss eines Mehrfamilienhauses in der Straße &quot;Unter der Burg&quot;. Da zunächst von lebensgefährlichen Verletzungen ...</div>
+  <div class="info">21.07.2026, 11:15 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6316774" target="_blank" rel="noopener">POL-GM: Unfall im Einmündungsbereich</a></h2>
   <div class="teaser">Wiehl (ots) - Am Freitag (17. Juli) kam es in Wiehl-Remperg zu einem schweren Verkehrsunfall. Gegen 13:15 Uhr wollte ein 53-Jähriger aus Reichshof mit seinem Transporter von der Biebersteiner Straße auf die Oberwiehler Straße (L 336) abbiegen. ...</div>
-  <div class="info">Fri, 17 Jul 2026 14:25:02 · Presseportal Polizei OBK</div>
+  <div class="info">17.07.2026, 14:25 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/205504/oberberg-tipps-weekend-11-12-juli-2026/" target="_blank" rel="noopener">Oberberg: Tipps fürs Wochenende am Sa.11. und So.12. Juli 2026</a></h2>
   <div class="teaser">Oberberg / Veranstaltungen / Freizeit / Termine (Von Christian Sasse) – Die Wochenendtipps für Oberberg bieten am Samstag, 11. Juli 2026, und am Sonntag, 12. Juli 2026, eine abwechslungsreiche Auswahl. Im Oberbergischen Kreis stehen Feste, Konzerte, </div>
-  <div class="info">Sat, 11 Jul 2026 02:26:35 · NEWS-on-Tour Oberberg</div>
+  <div class="info">11.07.2026, 04:26 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6310351" target="_blank" rel="noopener">POL-GM: Versuchter Einbruch in Einfamilienhaus</a></h2>
   <div class="teaser">Reichshof (ots) - Zwischen Donnerstag (2. Juli) und Dienstag (7. Juli) versuchten Unbekannte in ein Einfamilienhaus in der Straße &quot;In der Heide&quot; einzubrechen. Die Einbrecher schlugen eine Scheibe der Eingangstür ein und versuchten, diese ...</div>
-  <div class="info">Wed, 08 Jul 2026 09:30:06 · Presseportal Polizei OBK</div>
+  <div class="info">08.07.2026, 09:30 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/205034/reichshof-verkehrsunfall-a4/" target="_blank" rel="noopener">Reichshof: Verkehrsunfall auf der A4 im Oberberg bei Eckenhagen</a></h2>
   <div class="teaser">Unfall bei Eckenhagen im Oberbergischen Kreis: Feuerwehr Reichshof und Rettungsdienst sind mitten in der Nacht im Einsatz vor Ort.</div>
-  <div class="info">Sat, 04 Jul 2026 01:09:16 · NEWS-on-Tour Oberberg</div>
+  <div class="info">04.07.2026, 03:09 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 </div>
 <div class="monat-gruppe">
 <h2 class="monat-header">Juni 2026 <span class="monat-count">24</span></h2>
 <div class="artikel">
   
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6304104" target="_blank" rel="noopener">POL-GM: Diebe plündern Hofladen-Kasse</a></h2>
-  <div class="teaser">Reichshof (ots) - In der Nacht von Sonntag auf Montag (28./29. Juni) hat ein Dieb die Geldkassette eines Hofladens in der Straße &quot;Am Eichenholz&quot; geplündert. Der Landwirt hörte gegen 01:30 Uhr Motorgeräusche. Als er aus dem Fenster schaute, sah ...</div>
-  <div class="info">Mon, 29 Jun 2026 10:23:01 · Presseportal Polizei OBK</div>
+  <h2><a href="https://www.news-on-tour.de/204719/reichshof-hofladen-diebstahl-kasse/" target="_blank" rel="noopener">Reichshof: Dieb plündert Hofladen-Kasse am Eichenholz</a></h2>
+  <div class="teaser">Hofladen in Reichshof bestohlen: Ein Unbekannter brach die Geldkassette am Eichenholz auf und floh mit einem Volvo Richtung Allenbach.</div>
+  <div class="info">29.06.2026, 12:17 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
-  <h2><a href="https://www.news-on-tour.de/204719/reichshof-hofladen-diebstahl-kasse/" target="_blank" rel="noopener">Reichshof: Dieb plündert Hofladen-Kasse am Eichenholz</a></h2>
-  <div class="teaser">Hofladen in Reichshof bestohlen: Ein Unbekannter brach die Geldkassette am Eichenholz auf und floh mit einem Volvo Richtung Allenbach.</div>
-  <div class="info">Mon, 29 Jun 2026 10:17:26 · NEWS-on-Tour Oberberg</div>
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6304104" target="_blank" rel="noopener">POL-GM: Diebe plündern Hofladen-Kasse</a></h2>
+  <div class="teaser">Reichshof (ots) - In der Nacht von Sonntag auf Montag (28./29. Juni) hat ein Dieb die Geldkassette eines Hofladens in der Straße &quot;Am Eichenholz&quot; geplündert. Der Landwirt hörte gegen 01:30 Uhr Motorgeräusche. Als er aus dem Fenster schaute, sah ...</div>
+  <div class="info">29.06.2026, 10:23 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/204694/schutzbach-gartenparty-polizei-verletzt/" target="_blank" rel="noopener">Schutzbach/RP: Mann aus Reichshof eskaliert! 4 Polizisten bei Gartenparty verletzt</a></h2>
   <div class="teaser">Gartenparty in Schutzbach eskaliert: Ein 27-jähriger Mann griff Polizisten an und verletzte vier Beamte. Ermittlungen eingeleitet.</div>
-  <div class="info">Mon, 29 Jun 2026 07:44:52 · NEWS-on-Tour Oberberg</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6301895" target="_blank" rel="noopener">POL-GM: Autofahrer landet im Straßengraben</a></h2>
-  <div class="teaser">Reichshof (ots) - Ein 36-jähriger Autofahrer aus Siegen war am Mittwochabend (24. Juni, 20:30 Uhr) auf der L324 (Wolfseifener Straße) aus Richtung &quot;Buchen&quot; in Fahrtrichtung &quot;Eckenhagen&quot; unterwegs. In einer scharfen Linkskurve, auf Höhe der ...</div>
-  <div class="info">Thu, 25 Jun 2026 10:40:03 · Presseportal Polizei OBK</div>
+  <div class="info">29.06.2026, 09:44 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/204430/reichshof-alkoholfahrt-strassengraben/" target="_blank" rel="noopener">Reichshof: Alkoholfahrt endet im Straßengraben – Fahrer gestoppt</a></h2>
   <div class="teaser">Ein 36-jähriger Autofahrer aus Siegen kam bei einer Alkoholfahrt in Reichshof von der L324 ab und landete im Straßengraben. Die Polizei stellte den Führerschein sicher.</div>
-  <div class="info">Thu, 25 Jun 2026 09:49:02 · NEWS-on-Tour Oberberg</div>
+  <div class="info">25.06.2026, 11:49 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6301895" target="_blank" rel="noopener">POL-GM: Autofahrer landet im Straßengraben</a></h2>
+  <div class="teaser">Reichshof (ots) - Ein 36-jähriger Autofahrer aus Siegen war am Mittwochabend (24. Juni, 20:30 Uhr) auf der L324 (Wolfseifener Straße) aus Richtung &quot;Buchen&quot; in Fahrtrichtung &quot;Eckenhagen&quot; unterwegs. In einer scharfen Linkskurve, auf Höhe der ...</div>
+  <div class="info">25.06.2026, 10:40 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/204323/schwalbe-generationenwechsel-reichshof/" target="_blank" rel="noopener">Schwalbe: Generationenwechsel vollzogen – Felix Jahn übernimmt</a></h2>
   <div class="teaser">Generationenwechsel bei Schwalbe in Reichshof-Wehnrath: Felix Jahn wird 2027 CEO, drei Geschäftsführer übergeben die Verantwortung.</div>
-  <div class="info">Mon, 22 Jun 2026 23:12:06 · NEWS-on-Tour Oberberg</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6299774" target="_blank" rel="noopener">POL-GM: Verkehrsunfallflucht mit umgekipptem Lkw in Hasbach / L324</a></h2>
-  <div class="teaser">Reichshof (ots) - Am 22.06.2026 kam es auf der L324 in der Gemarkung Hasbach in einem Kurvenverlauf zu einem Verkehrsunfall mit Flucht. Nach bisherigen Erkenntnissen musste der verunfallte Lkw einem ihm entgegenkommenden Fahrzeuggespann ausweichen, .</div>
-  <div class="info">Mon, 22 Jun 2026 17:04:39 · Presseportal Polizei OBK</div>
+  <div class="info">23.06.2026, 01:12 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/204311/reichshof-unfallflucht-lkw-umgekippt/" target="_blank" rel="noopener">Reichshof-Hasbach: Lkw kippt auf Landstraße um – Polizei sucht flüchtiges Fahrzeuggespann</a></h2>
   <div class="teaser">Auf der L324 in Reichshof-Hasbach kam es zu einer Unfallflucht, bei der ein Lkw einem entgegenkommenden Fahrzeuggespann ausweichen musste und umkippte. Der Verursacher flüchtete von der Unfallstelle, die Bergung des Lasters dauerte mehrere Stunden.</div>
-  <div class="info">Mon, 22 Jun 2026 16:33:01 · NEWS-on-Tour Oberberg</div>
+  <div class="info">22.06.2026, 18:33 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6299774" target="_blank" rel="noopener">POL-GM: Verkehrsunfallflucht mit umgekipptem Lkw in Hasbach / L324</a></h2>
+  <div class="teaser">Reichshof (ots) - Am 22.06.2026 kam es auf der L324 in der Gemarkung Hasbach in einem Kurvenverlauf zu einem Verkehrsunfall mit Flucht. Nach bisherigen Erkenntnissen musste der verunfallte Lkw einem ihm entgegenkommenden Fahrzeuggespann ausweichen, .</div>
+  <div class="info">22.06.2026, 17:04 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6299053" target="_blank" rel="noopener">POL-GM: Alkoholisiert im Graben gelandet</a></h2>
   <div class="teaser">Reichshof (ots) - Ein 24-jähriger Autofahrer aus Reichshof ist am Sonntagabend (21. Juni) gegen 21 Uhr auf der Elbachstraße mit seinem Auto im Graben gelandet. Zeugen informierten die Polizei. Bei Eintreffen der Beamten versuchte sich der ...</div>
-  <div class="info">Mon, 22 Jun 2026 10:35:43 · Presseportal Polizei OBK</div>
+  <div class="info">22.06.2026, 10:35 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6298638" target="_blank" rel="noopener">POL-GM: Flucht vor der Polizei endet im Grünstreifen</a></h2>
   <div class="teaser">Reichshof (ots) - Am Samstag (20. Juni, 2:20 Uhr) wollten Polizisten auf der Wiehler Straße (L96) in Reichshof-Wehnrath einen Citroen kontrollieren. Sobald die Beamten Anhaltezeichen gegeben hatten, beschleunigte der Fahrer sein Auto und versuchte ..</div>
-  <div class="info">Sun, 21 Jun 2026 11:45:03 · Presseportal Polizei OBK</div>
+  <div class="info">21.06.2026, 11:45 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6298185" target="_blank" rel="noopener">POL-GM: Frontalzusammenstoß zweier Fahrzeuge mit zwei verletzten Personen</a></h2>
   <div class="teaser">Reichshof (ots) - Bei einem Frontalzusammenstoß zweier Fahrzeuge wurde eine Person leicht, eine weitere Person schwer verletzt. Am 19.06.2026 gegen 14:00 Uhr befuhr ein 53jährige Waldbröler die L342 aus Richtung Rothemühle kommend, in ...</div>
-  <div class="info">Fri, 19 Jun 2026 17:05:13 · Presseportal Polizei OBK</div>
+  <div class="info">19.06.2026, 17:05 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/203953/reichshof-unfallflucht-alkohol/" target="_blank" rel="noopener">Reichshof: Fahrer nach Unfallflucht gestellt – Alkohol und ohne Führerschein</a></h2>
   <div class="teaser">Unfallflucht in Reichshof: Ein 58-Jähriger flüchtete nach dem Zusammenstoß auf der L344 – Alkoholverdacht und keine gültige Fahrerlaubnis.</div>
-  <div class="info">Mon, 15 Jun 2026 13:54:57 · NEWS-on-Tour Oberberg</div>
+  <div class="info">15.06.2026, 15:54 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/203950/reichshof-verfolgungsfahrt-drogen/" target="_blank" rel="noopener">Reichshof: 36-Jähriger flüchtet vor Polizei – Verfolgungsfahrt im Wirtschaftsweg</a></h2>
   <div class="teaser">Flucht vor der Polizei in Reichshof: Ein 36-Jähriger fährt ohne Fahrerlaubnis, wird gestoppt und muss zur Blutprobe – ein Strafverfahren läuft.</div>
-  <div class="info">Mon, 15 Jun 2026 13:35:56 · NEWS-on-Tour Oberberg</div>
+  <div class="info">15.06.2026, 15:35 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6294218" target="_blank" rel="noopener">POL-GM: 36-Jähriger liefert sich Verfolgungsfahrt mit der Polizei</a></h2>
   <div class="teaser">Reichshof (ots) - Am Sonntag (14. Juni) beabsichtigte eine Polizeistreife gegen 18 Uhr den Fahrer eines Toyota zu kontrollieren, der auf der Eckenhagener Straße bei Oberagger in Richtung Eckenhagen unterwegs war. Anstatt anzuhalten, missachtete der .</div>
-  <div class="info">Mon, 15 Jun 2026 10:03:40 · Presseportal Polizei OBK</div>
+  <div class="info">15.06.2026, 10:03 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6294217" target="_blank" rel="noopener">POL-GM: Autofahrer nach Unfallflucht angetroffen</a></h2>
   <div class="teaser">Reichshof (ots) - Am Freitagmittag (12. Juni, 14:10 Uhr) beabsichtigte ein 58-Jähriger aus Bergneustadt mit seinem VW von der B256 nach Links auf die L344 in Richtung Pochwerk abzubiegen. Beim Abbiegen kam es zum Zusammenstoß mit dem Auto eines ...</div>
-  <div class="info">Mon, 15 Jun 2026 10:03:07 · Presseportal Polizei OBK</div>
+  <div class="info">15.06.2026, 10:03 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6293855" target="_blank" rel="noopener">POL-GM: Getränkediebe in Eckenhagen unterwegs</a></h2>
   <div class="teaser">Reichshof (ots) - Aus einem unverschlossenen Getränkeanhänger stahlen Unbekannte zwischen Donnerstag (11. Juni, 10 Uhr) und Samstag (13. Juni, 10 Uhr) mehrere Getränkekisten. Es entstand ein Vermögensschaden im unteren dreistelligen Bereich. Die ...</div>
-  <div class="info">Sun, 14 Jun 2026 11:00:03 · Presseportal Polizei OBK</div>
+  <div class="info">14.06.2026, 11:00 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/203757/a4-vollsperrung-oberberg/" target="_blank" rel="noopener">Oberberg: A4-Vollsperrung am Wochenende – was Autofahrer wissen müssen</a></h2>
   <div class="teaser">Vollsperrung auf der Autobahn: Richtung Köln geht zwischen Reichshof/Bergneustadt und Gummersbach von Samstag bis Sonntag, 17 Uhr, nichts.</div>
-  <div class="info">Fri, 12 Jun 2026 18:46:58 · NEWS-on-Tour Oberberg</div>
+  <div class="info">12.06.2026, 20:46 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/203702/reichshof-pochwerk-einbruchversuch/" target="_blank" rel="noopener">Reichshof: Einbruchversuch in Pochwerk scheitert – Diebe in Derschlag aktiv</a></h2>
   <div class="teaser">Einbruchversuch in Reichshof-Pochwerk gescheitert: An der Kellertür blieben die Täter erfolglos, in Derschlag verschwand ein Bohrmaschinenkoffer.</div>
-  <div class="info">Thu, 11 Jun 2026 13:53:58 · NEWS-on-Tour Oberberg</div>
+  <div class="info">11.06.2026, 15:53 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6292421" target="_blank" rel="noopener">POL-GM: Kriminelle in Pochwerk und Derschlag unterwegs</a></h2>
   <div class="teaser">Reichshof; Gummersbach (ots) - In der Nacht von Dienstag auf Mittwoch (9./10. Juni) haben Unbekannte in der Eckenhagener Straße in Derschlag und in der Straße &quot;Am Fröschepuhl&quot; ihr Unwesen getrieben. &quot;Am Fröschepuhl&quot; versuchten sie erfolglos, die ...</div>
-  <div class="info">Thu, 11 Jun 2026 11:00:13 · Presseportal Polizei OBK</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6289876" target="_blank" rel="noopener">POL-GM: Betrunkener Traktorfahrer flüchtet von Unfallstelle</a></h2>
-  <div class="teaser">Reichshof (ots) - Gegen 1:20 Uhr in der Nacht auf Sonntag (7. Juni) war ein 18-Jähriger aus Reichshof mit seinem Traktor auf der Crottorfer Straße in Richtung der Siegener Straße unterwegs. Im Einmündungsbereich bog der Reichshofer nach links ...</div>
-  <div class="info">Mon, 08 Jun 2026 11:05:12 · Presseportal Polizei OBK</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6289874" target="_blank" rel="noopener">POL-GM: Quad-Fahrer bei Alleinunfall schwer verletzt</a></h2>
-  <div class="teaser">Reichshof (ots) - Ein 24-Jähriger aus Reichshof fuhr am 7. Juni (Sonntag) mit seinem Quad auf der Siegener Straße in Richtung der Ortschaft Odenspiel. Als der 24-Jährige gegen 18:30 Uhr die Ortschaft Wildbergerhütte durchfuhr, verlor er die ...</div>
-  <div class="info">Mon, 08 Jun 2026 11:05:06 · Presseportal Polizei OBK</div>
+  <div class="info">11.06.2026, 11:00 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/203587/reichshof-quad-alleinunfall/" target="_blank" rel="noopener">Reichshof: Quad-Fahrer stürzt schwer – Unfall nahe Odenspiel</a></h2>
   <div class="teaser">Quad-Fahrer schwer verletzt: In Reichshof-Wildbergerhütte stürzte ein 24-Jähriger auf der Siegener Straße nahe Odenspiel in Klinik.</div>
-  <div class="info">Mon, 08 Jun 2026 09:17:38 · NEWS-on-Tour Oberberg</div>
+  <div class="info">08.06.2026, 11:17 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6289876" target="_blank" rel="noopener">POL-GM: Betrunkener Traktorfahrer flüchtet von Unfallstelle</a></h2>
+  <div class="teaser">Reichshof (ots) - Gegen 1:20 Uhr in der Nacht auf Sonntag (7. Juni) war ein 18-Jähriger aus Reichshof mit seinem Traktor auf der Crottorfer Straße in Richtung der Siegener Straße unterwegs. Im Einmündungsbereich bog der Reichshofer nach links ...</div>
+  <div class="info">08.06.2026, 11:05 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6289874" target="_blank" rel="noopener">POL-GM: Quad-Fahrer bei Alleinunfall schwer verletzt</a></h2>
+  <div class="teaser">Reichshof (ots) - Ein 24-Jähriger aus Reichshof fuhr am 7. Juni (Sonntag) mit seinem Quad auf der Siegener Straße in Richtung der Ortschaft Odenspiel. Als der 24-Jährige gegen 18:30 Uhr die Ortschaft Wildbergerhütte durchfuhr, verlor er die ...</div>
+  <div class="info">08.06.2026, 11:05 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6288553" target="_blank" rel="noopener">POL-GM: Einbrecher im Industriegebiet unterwegs</a></h2>
   <div class="teaser">Reichshof (ots) - In der Nacht von Dienstag auf Mittwoch (2./3. Juni) sind Unbekannte in eine Firma in der Straße &quot;Alte Wiesenstraße&quot; in Allenbach eingebrochen. Die Kriminellen öffneten zunächst gewaltsam das Zugangstor zum Gelände, hebelten ...</div>
-  <div class="info">Fri, 05 Jun 2026 10:10:04 · Presseportal Polizei OBK</div>
+  <div class="info">05.06.2026, 10:10 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/203428/reichshof-lkw-unfall-a4/" target="_blank" rel="noopener">Reichshof (Update 2): Sattelzug kippt auf der A4 um – THW lädt Pellets ab</a></h2>
   <div class="teaser">LKW-Unfall auf der A4 bei Reichshof: Ein Sattelzug mit Holzpellets kippte in Fahrtrichtung Köln um – THW und Feuerwehr Reichshof im Einsatz.</div>
-  <div class="info">Tue, 02 Jun 2026 00:55:36 · NEWS-on-Tour Oberberg</div>
+  <div class="info">02.06.2026, 02:55 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -603,49 +626,49 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.news-on-tour.de/203301/bergneustadt-lkw-unfall-a4/" target="_blank" rel="noopener">Bergneustadt: Lkw kippt auf A4 bei Eckenhagen um – Bergung in der Nacht</a></h2>
   <div class="teaser">Lkw-Unfall auf der A4 bei Bergneustadt: In Fahrtrichtung Olpe kippte zwischen Reichshof/Bergneustadt und Eckenhagen ein Sattelzug auf die Seite.</div>
-  <div class="info">Sat, 30 May 2026 04:36:21 · NEWS-on-Tour Oberberg</div>
+  <div class="info">30.05.2026, 06:36 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6284306" target="_blank" rel="noopener">POL-GM: Motorradfahrer bei Verkehrsunfall schwer verletzt</a></h2>
   <div class="teaser">Reichshof (ots) - Am Donnerstag (28. Mai) wollte eine 40-jährige Audi-Fahrerin aus Reichshof von der Kölner Straße in Brüchermühle nach links in eine Grundstückseinfahrt abbiegen. Dabei kam es gegen 14:35 Uhr zum Zusammenstoß mit einem ...</div>
-  <div class="info">Fri, 29 May 2026 10:13:58 · Presseportal Polizei OBK</div>
+  <div class="info">29.05.2026, 10:13 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6284303" target="_blank" rel="noopener">POL-GM: Unfall im Kreuzungsbereich</a></h2>
   <div class="teaser">Reichshof (ots) - Bei einem Verkehrsunfall in Eiershagen wurde am Donnerstag (28. Mai) eine Person leicht verletzt. Die 57-jährige Waldbrölerin war gegen 17:35 Uhr mit ihrem Skoda auf der Eiershagener Straße in Richtung Rölefeld unterwegs. An ...</div>
-  <div class="info">Fri, 29 May 2026 10:11:02 · Presseportal Polizei OBK</div>
+  <div class="info">29.05.2026, 10:11 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6281506" target="_blank" rel="noopener">POL-GM: Motorradfahrer kommt von der Straße ab</a></h2>
   <div class="teaser">Reichshof (ots) - Bei einem Verkehrsunfall in Schemmerhausen wurde am Montag (25. Mai) ein Motorradfahrer schwer verletzt. Der 46-jährige Gummersbacher war mit seiner Harley-Davidson gegen 17:15 Uhr auf der Schemmerhausener Straße (L148) in ...</div>
-  <div class="info">Tue, 26 May 2026 10:00:09 · Presseportal Polizei OBK</div>
+  <div class="info">26.05.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6272559" target="_blank" rel="noopener">POL-GM: Roter Piaggio Motorroller gestohlen</a></h2>
   <div class="teaser">Reichshof (ots) - Zwischen 14 Uhr und 21:15 Uhr haben Unbekannte am Sonntag (10. Mai) einen roten Motorroller der Marke Piaggio gestohlen. Der Roller mit dem Kennzeichen GL-AJ46 stand zur Tatzeit auf einem Hinterhof in der Straße &quot;Hammerhard&quot;. ...</div>
-  <div class="info">Mon, 11 May 2026 10:11:04 · Presseportal Polizei OBK</div>
+  <div class="info">11.05.2026, 10:11 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6272160" target="_blank" rel="noopener">POL-GM: Einbrecher bauen Fenster aus</a></h2>
   <div class="teaser">Reichshof (ots) - Zwischen 18:30 Uhr am Freitag (8. Mai) und 12:00 Uhr des Folgetags sind Unbekannte in ein Vereinsheim in der Straße &quot;Im Langen Weg&quot; in Wildberg eingebrochen. Die Kriminellen demontierten ein komplettes Fenster auf der ...</div>
-  <div class="info">Sun, 10 May 2026 10:25:00 · Presseportal Polizei OBK</div>
+  <div class="info">10.05.2026, 10:25 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6270519" target="_blank" rel="noopener">POL-GM: Mofa-Fahrer kommt auf Rollsplitt zu Fall</a></h2>
   <div class="teaser">Waldbröl (ots) - Ein 58-jähriger Reichshofer war am Mittwochmorgen (6. Mai, 7:45 Uhr) mit seinem Mofa auf der B 256 von Denklingen in Richtung Hermesdorf unterwegs. In einer leichten Linkskurve kam der 58-Jährige auf Rollsplitt am rechten ...</div>
-  <div class="info">Thu, 07 May 2026 11:00:19 · Presseportal Polizei OBK</div>
+  <div class="info">07.05.2026, 11:00 Uhr · Presseportal Polizei OBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/201935/oberberg-unfaelle-motorrad-trunkenheit/" target="_blank" rel="noopener">Oberberg: 5 Verkehrsunfälle übers lange Wochenende – Trunkenheitsfahrt und Schwerverletzte</a></h2>
   <div class="teaser">Oberberg / Verkehrsunfall / Motorrad / Polizei (Von Christian Sasse) Im Oberbergischen Kreis ereigneten sich zwischen Donnerstag (30. April) und Samstag (2. Mai 2026) insgesamt fünf Verkehrsunfälle – in Wipperfürth, Hückeswagen, Reichshof und Bergneu</div>
-  <div class="info">Sun, 03 May 2026 16:11:52 · NEWS-on-Tour Oberberg</div>
+  <div class="info">03.05.2026, 18:11 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -654,155 +677,86 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.news-on-tour.de/201802/reichshof-verkehrskontrolle-haftbefehle/" target="_blank" rel="noopener">Reichshof: Verkehrskontrolle endet mit Verhaftung – Fahrer mit gestohlenen Kennzeichen und drei Haftbefehlen</a></h2>
   <div class="teaser">Reichshof / Polizei / Verkehrskontrolle / Haftbefehl (Von Christian Sasse) Eine Verkehrskontrolle in Reichshof hat am Dienstagabend zur sofortigen Verhaftung eines 28-Jährigen geführt: Der Mann war mit einem Hyundai unterwegs, an dem zwei gestohlene </div>
-  <div class="info">Wed, 29 Apr 2026 15:09:19 · NEWS-on-Tour Oberberg</div>
+  <div class="info">29.04.2026, 17:09 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/201728/waldbroel-honda-ueberschlag-alkohol/" target="_blank" rel="noopener">Waldbröl: Alkohol am Steuer – Honda überschlägt sich auf der Rölefelder Straße (3 Polizeimeldungen aus Oberberg)</a></h2>
   <div class="teaser">Waldbröl / Alkohol am Steuer / Verkehrsunfall / Oberberg (Von Christian Sasse) Ein 47-jähriger Autofahrer aus Reichshof kam am Freitagnachmittag auf der Rölefelder Straße in Waldbröl von der Fahrbahn ab, stürzte mit seinem Honda eine Böschung hinab u</div>
-  <div class="info">Sun, 26 Apr 2026 11:26:47 · NEWS-on-Tour Oberberg</div>
+  <div class="info">26.04.2026, 13:26 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/201368/oberberg-betrug-einbruch_2026-04-14/" target="_blank" rel="noopener">Oberberg: Betrug und Einbruch – vier Polizeimeldungen aus der Region</a></h2>
   <div class="teaser">Betrug / Polizei / Oberberg / Einbruch (Von Christian Sasse) In Bergneustadt, Lindlar, Engelskirchen und Reichshof registrierte die Kreispolizeibehörde Oberbergischer Kreis am Montag gleich vier Vorfälle: Drei Fälle von Online-Betrug und Telefonbetru</div>
-  <div class="info">Tue, 14 Apr 2026 17:07:16 · NEWS-on-Tour Oberberg</div>
+  <div class="info">14.04.2026, 19:07 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/201263/reichshof-unfall-kind-schwer-verletzt/" target="_blank" rel="noopener">Oberberg: Reichshof [Kurzinfo] Kind (Verkehrsunfall) schwer verletzt</a></h2>
   <div class="teaser">Oberberg / Reichshof – (Von NEWS-Ticker) Am späten Freitagnachmittag, 10. April 2026, kam es in Reichshof-Schemmerhausen zu einem schweren Verkehrsunfall, bei dem ein Kind schwer verletzt wurde. Unfallhergang auf der Schemmerhausener Straße Ein 22-jä</div>
-  <div class="info">Fri, 10 Apr 2026 18:53:12 · NEWS-on-Tour Oberberg</div>
+  <div class="info">10.04.2026, 20:53 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/201162/reichshof-hunde-sos-oberberg-spenden/" target="_blank" rel="noopener">Reichshof: Hunde SOS Oberberg droht Schließung – SPENDEN sollen Tierleben retten</a></h2>
   <div class="teaser">Reichshof / Hunde SOS Oberberg / Tierschutz / Oberberg (Von Christian Sasse) Dem Verein Hunde SOS Oberberg e.V. in Reichshof droht durch eine Entscheidung des Kreisbauamtes Gummersbach die Schließung seiner Tierschutzanlage. Rund 20 Hunde – darunter </div>
-  <div class="info">Mon, 06 Apr 2026 19:07:11 · NEWS-on-Tour Oberberg</div>
+  <div class="info">06.04.2026, 21:07 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/200881/osterfeuer-oberberg-2026-wo/" target="_blank" rel="noopener">Osterfeuer Oberberg 2026: (04./05.04.) Diese 17 Veranstaltungen sind offiziell bestätigt</a></h2>
   <div class="teaser">Oberberg / Osterfeuer / 2026 / Veranstaltungen / Waldbrandgefahr (Von Christian Sasse) Update #6 Am Karsamstag, 4. April 2026, und Ostersonntag, 5. April 2026, lodern im Oberbergischen Kreis wieder die traditionellen Osterfeuer. Feuerwehren, Dorfgeme</div>
-  <div class="info">Fri, 03 Apr 2026 22:01:28 · NEWS-on-Tour Oberberg</div>
+  <div class="info">04.04.2026, 00:01 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 </div>
 <div class="monat-gruppe">
-<h2 class="monat-header">Februar 2026 <span class="monat-count">5</span></h2>
+<h2 class="monat-header">Februar 2026 <span class="monat-count">2</span></h2>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/200113/bergneustadt-neverland-come-in-rock/" target="_blank" rel="noopener">Bergneustadt: Neverland rockte die Come-In-Classic-Night – Live-Rock vom Feinsten (mit exklusivem Video)</a></h2>
   <div class="teaser">Bergneustadt – Come In – Neverland – Rock-Konzert | Bergneustadt (NRW) – Am Samstagabend, dem 21. Februar 2026, verwandelte die Rock-Cover-Band Neverland die Discothek Come In in der Othestraße 28 in eine brodelnde Konzertarena. Im Rahmen der Come In</div>
-  <div class="info">Sun, 22 Feb 2026 03:47:25 · NEWS-on-Tour Oberberg</div>
+  <div class="info">22.02.2026, 04:47 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.news-on-tour.de/200077/reichshof-einbruch-gaststaette/" target="_blank" rel="noopener">Oberberg: Reichshof [Kurzinfo] Einbrecher (Gaststätte) erbeuten Bargeld</a></h2>
   <div class="teaser">Oberberg / Reichshof – (Von NEWS-Ticker) Zwischen Sonntagabend, 15. Februar 2026, 22:00 Uhr und Donnerstagnachmittag, 16:00 Uhr, drangen bislang unbekannte Täter in eine Gaststätte auf der Straße „Auf den Nußerlen“ in Reichshof ein. Reichshof – Fenst</div>
-  <div class="info">Fri, 20 Feb 2026 09:11:35 · NEWS-on-Tour Oberberg</div>
+  <div class="info">20.02.2026, 10:11 Uhr · NEWS-on-Tour Oberberg</div>
 </div>
-<div class="artikel">
-  
-  <h2><a href="https://www.news-on-tour.de/199984/reichshof_unfall-ford-324-felsboeschung/" target="_blank" rel="noopener">Reichshof: Fahrerin verliert Kontrolle auf der L324 – Ford kracht in Felsböschung</a></h2>
-  <div class="teaser">Reichshof / Polizei / Unfall / Oberberg (Von Christian Sasse) Eine 20-jährige Waldbrölerin ist am Freitagabend (13. Februar) mit ihrem Ford auf der Landstraße L324 bei Reichshof von der Fahrbahn abgekommen und gegen eine Felsböschung geprallt. Die ju</div>
-  <div class="info">Sun, 15 Feb 2026 15:55:30 · NEWS-on-Tour Oberberg</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.news-on-tour.de/199911/oberberg-weiberfastnacht-2026-polizei/" target="_blank" rel="noopener">Oberberg: Ruhige Einsatzlage an Weiberfastnacht – Polizei meldet 15 Platzverweise</a></h2>
-  <div class="teaser">Oberberg / Polizei / Weiberfastnacht / Karneval (Von Christian Sasse) Im gesamten Oberbergischen Kreis haben die Jecken an Weiberfastnacht (12. Februar) trotz Dauerregen und ungemütlicher Witterung ausgelassen Karneval gefeiert. Die Polizei zieht ein</div>
-  <div class="info">Fri, 13 Feb 2026 09:58:09 · NEWS-on-Tour Oberberg</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.news-on-tour.de/199690/bergneustadt-tollitaeten-bowling-2026/" target="_blank" rel="noopener">Bergneustadt: Jecke Tollitäten im Bowlingcenter – 130 Karnevalisten auch 2026 im Kegelrausch</a></h2>
-  <div class="teaser">Bergneustadt / Karneval / Bowling / Tollitäten (Von Christian Sasse) Rund 130 Karnevalisten aus zehn Karnevalsvereinen verwandelten das Bowling Center Oberberg am Mittwochabend 04.02.2026 in Bergneustadt (Oberbergischer Kreis/NRW) in ein jeckes „Bowl</div>
-  <div class="info">Thu, 05 Feb 2026 01:05:03 · NEWS-on-Tour Oberberg</div>
-</div>
-</div>
-<div class="monat-gruppe">
-<h2 class="monat-header">Juni 2025 <span class="monat-count">1</span></h2>
-<div class="artikel">
-  
-  <h2><a href="https://www.oberberg-nachrichten.de/reichshof/sommerzeit-im-kurpark-eckenhagen/" target="_blank" rel="noopener">Sommerzeit im Kurpark Eckenhagen</a></h2>
-  <div class="teaser">Reichshof - Eckenhagen - Sommerzeit Konzert mit Irish Folk im Kurpark Eckenhagen. Der Beitrag Sommerzeit im Kurpark Eckenhagen erschien zuerst auf Oberberg-Nachrichten.de.</div>
-  <div class="info">Tue, 03 Jun 2025 18:31:24 · Oberberg Nachrichten</div>
-</div>
-</div>
-<div class="monat-gruppe">
-<h2 class="monat-header">Mai 2025 <span class="monat-count">1</span></h2>
-<div class="artikel">
-  
-  <h2><a href="https://www.oberberg-nachrichten.de/reichshof/ein-silberschatz-in-eckenhagen/" target="_blank" rel="noopener">Ein Silberschatz in Eckenhagen?</a></h2>
-  <div class="teaser">Was verbindet das kleine Örtchen Eckenhagen mit einem sagenumwobenen Silberschatz? Begebt euch auf eine Rätseltour um das zu erfahren. Der Beitrag Ein Silberschatz in Eckenhagen? erschien zuerst auf Oberberg-Nachrichten.de.</div>
-  <div class="info">Mon, 26 May 2025 14:39:30 · Oberberg Nachrichten</div>
-</div>
-</div>
-<div class="monat-gruppe">
-<h2 class="monat-header">April 2025 <span class="monat-count">1</span></h2>
-<div class="artikel">
-  
-  <h2><a href="https://www.oberberg-nachrichten.de/reichshof/raetselspass-escape-game-oberberg/" target="_blank" rel="noopener">Outdoor-Aktivität mit Rätselspaß à la Escape Game im Oberbergischen</a></h2>
-  <div class="teaser">Es gibt zwei neue Rätseltouren im Bergischen. Ein abenteuerliches Wandererlebnis in Much und Reichshof bereichert das touristische Angebot in der Region auf ganz besondere Weise. Der Beitrag Outdoor-Aktivität mit Rätselspaß à la Escape Game im Oberbe</div>
-  <div class="info">Tue, 15 Apr 2025 12:49:10 · Oberberg Nachrichten</div>
-</div>
-</div>
-<div class="monat-gruppe">
-<h2 class="monat-header">Oktober 2024 <span class="monat-count">1</span></h2>
-<div class="artikel">
-  
-  <h2><a href="https://www.oberberg-nachrichten.de/reichshof/verkehrskontrolle-in-reichshof-festnahme-eines-mannes-aus-moldawien-deckt-gefaelschte-ausweisdokumente-auf/" target="_blank" rel="noopener">Verkehrskontrolle in Reichshof: Festnahme eines Mannes aus Moldawien deckt gefälschte Ausweisdokumente auf</a></h2>
-  <div class="teaser">Reichshof. Identitätsbetrug und illegaler Aufenthalt waren der Grund für eine Festnahme während einer Verkehrskontrolle in Reichshof Erdingen. Der Beitrag Verkehrskontrolle in Reichshof: Festnahme eines Mannes aus Moldawien deckt gefälschte Ausweisdo</div>
-  <div class="info">Thu, 31 Oct 2024 20:00:22 · Oberberg Nachrichten</div>
-</div>
-</div>
-<div class="monat-gruppe">
-<h2 class="monat-header">Dezember 2023 <span class="monat-count">1</span></h2>
-<div class="artikel">
-  
-  <h2><a href="https://www.oberberg-nachrichten.de/reichshof/figurentheater-die-weihnachtsgeschichte-im-eckenhaeaener-huus/" target="_blank" rel="noopener">Figurentheater „Die Weihnachtsgeschichte“ im Eckenhääner Huus</a></h2>
-  <div class="teaser">Reichshof - Zuversicht und Hoffnung für die ganze Familie. „Die Weihnachtsgeschichte“ (nach dem Evangelium des Lukas &amp; anderen Quellen) wird am Sonntag, den 17.12.2023 um 15:00 Uhr im Eckenhääner Huus in Reichshof-Eckenhagen gezeigt. Der Beitrag Figu</div>
-  <div class="info">Thu, 14 Dec 2023 13:25:06 · Oberberg Nachrichten</div>
-</div>
-</div>
-<div class="monat-gruppe">
-<h2 class="monat-header">Mai 2023 <span class="monat-count">1</span></h2>
-<div class="artikel">
-  
-  <h2><a href="https://www.oberberg-nachrichten.de/reichshof/fruehe-hilfen-bus-haelt-auch-in-denklingen/" target="_blank" rel="noopener">Frühe Hilfen Bus hält auch in Denklingen</a></h2>
-  <div class="teaser">Reichshof-Denklingen - Frühe Hilfen unterstützen werdende Eltern sowie Mütter und Väter mit Babys und Kleinkindern. Der Beitrag Frühe Hilfen Bus hält auch in Denklingen erschien zuerst auf Oberberg-Nachrichten.de.</div>
-  <div class="info">Fri, 19 May 2023 05:23:30 · Oberberg Nachrichten</div>
-</div>
-</div>
-<div class="monat-gruppe">
-<h2 class="monat-header">Oktober 2020 <span class="monat-count">1</span></h2>
-<div class="artikel">
-  
-  <h2><a href="https://www.oberberg-nachrichten.de/wipperfuerth/vollsperrung-fuer-asphaltierung-in-wipperfuerth-kreuzberg/" target="_blank" rel="noopener">Vollsperrung für Asphaltierung in Wipperfürth-Kreuzberg</a></h2>
-  <div class="teaser">Das von der Stadtverwaltung beauftragte Unternehmen EER Raithel aus Reichshof wird zu Beginn der kommenden Woche mit den Asphaltierungsarbeiten im Streckenabschnitt Ortsausgang Kreuzberg/Westfalenstraße über Erlen bis hin zur Stadtgrenze in Richtung </div>
-  <div class="info">Thu, 08 Oct 2020 11:28:29 · Oberberg Nachrichten Wipperfürth</div>
-</div>
-</div></div>
+</div><div class="empty" style="margin-top:12px;"><a href="archiv/index.html">Archiv: 10 ältere Artikel ansehen &rarr;</a></div></div>
   <div>
     <div class="sidebar-box">
       <h3>Alle Kommunen</h3>
-      <ul class="k-links"><li><a href="../bergneustadt/index.html">Bergneustadt <span class="badge">267</span></a></li><li><a href="../engelskirchen/index.html">Engelskirchen <span class="badge">93</span></a></li><li><a href="../gummersbach/index.html">Gummersbach <span class="badge">513</span></a></li><li><a href="../hueckeswagen/index.html">Hückeswagen <span class="badge">394</span></a></li><li><a href="../lindlar/index.html">Lindlar <span class="badge">162</span></a></li><li><a href="../marienheide/index.html">Marienheide <span class="badge">73</span></a></li><li><a href="../morsbach/index.html">Morsbach <span class="badge">40</span></a></li><li><a href="../nuembrecht/index.html">Nümbrecht <span class="badge">95</span></a></li><li><a href="../radevormwald/index.html">Radevormwald <span class="badge">418</span></a></li><li><a href="../reichshof/index.html">Reichshof <span class="badge">108</span></a></li><li><a href="../waldbroel/index.html">Waldbröl <span class="badge">124</span></a></li><li><a href="../wiehl/index.html">Wiehl <span class="badge">166</span></a></li><li><a href="../wipperfuerth/index.html">Wipperfürth <span class="badge">530</span></a></li><li style="border-top:1px solid #eee; padding-top:6px; margin-top:6px;"><a href="../kreisweite/index.html"><b>Kreisweite Nachrichten</b> <span class="badge">448</span></a></li></ul>
+      <ul class="k-links"><li><a href="../bergneustadt/index.html">Bergneustadt <span class="badge">269</span></a></li><li><a href="../engelskirchen/index.html">Engelskirchen <span class="badge">102</span></a></li><li><a href="../gummersbach/index.html">Gummersbach <span class="badge">522</span></a></li><li><a href="../hueckeswagen/index.html">Hückeswagen <span class="badge">394</span></a></li><li><a href="../lindlar/index.html">Lindlar <span class="badge">159</span></a></li><li><a href="../marienheide/index.html">Marienheide <span class="badge">74</span></a></li><li><a href="../morsbach/index.html">Morsbach <span class="badge">41</span></a></li><li><a href="../nuembrecht/index.html">Nümbrecht <span class="badge">97</span></a></li><li><a href="../radevormwald/index.html">Radevormwald <span class="badge">418</span></a></li><li><a href="../reichshof/index.html">Reichshof <span class="badge">110</span></a></li><li><a href="../waldbroel/index.html">Waldbröl <span class="badge">126</span></a></li><li><a href="../wiehl/index.html">Wiehl <span class="badge">171</span></a></li><li><a href="../wipperfuerth/index.html">Wipperfürth <span class="badge">534</span></a></li><li style="border-top:1px solid #eee; padding-top:6px; margin-top:6px;"><a href="../kreisweite/index.html"><b>Kreisweite Nachrichten</b> <span class="badge">347</span></a></li></ul>
     </div>
     <div class="sidebar-box">
       <h3>Kreisweite Nachrichten</h3>
-      <div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/bewaehrte-strategien-um-kundenbeschwerden-effektiv-zu-loesen/" target="_blank" style="color:var(--text); text-decoration:none;">Bewährte Strategien, um Kundenbeschwerden effektiv zu l</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/weiterbildungen-auch-berufsbegleitend-moeglich/" target="_blank" style="color:var(--text); text-decoration:none;">Praktische Tipps zum beruflichen Weiterkommen</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/schluss-mit-leeren-waenden-4-gestaltungsideen/" target="_blank" style="color:var(--text); text-decoration:none;">Schluss mit leeren Wänden: 4 Gestaltungsideen</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.news-on-tour.de/201798/sonnencreme-mythos-faktencheck-wahrheit/" target="_blank" style="color:var(--text); text-decoration:none;">Sonnencreme-Mythos im Faktencheck – Wahrheit zu Toxinen</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.news-on-tour.de/179860/oberberg-veranstaltungskalender-nrw/" target="_blank" style="color:var(--text); text-decoration:none;">Veranstaltungskalender Oberberg: Events &amp; Termine.NEWS-</a></div>
+      <div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.news-on-tour.de/269350/oberberg-sprachmittlung-ehrenamt/" target="_blank" style="color:var(--text); text-decoration:none;">Oberberg: Sprachmittlung – Kreis würdigt Laien-Dolmetsc</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.news-on-tour.de/269340/troisdorf-dlrg-grossuebung-hochwasser/" target="_blank" style="color:var(--text); text-decoration:none;">Troisdorf &amp; Bad Honnef: DLRG-Retter aus Oberberg bei Ho</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.oberberg-nachrichten.de/themen/ratgeber/wenn-hitze-zum-wirtschaftsfaktor-wird-klimatisierung-im-unternehmen/" target="_blank" style="color:var(--text); text-decoration:none;">Wenn Hitze zum Wirtschaftsfaktor wird: Klimatisierung i</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.news-on-tour.de/267409/oberberg-hospizwochen-netzwerk/" target="_blank" style="color:var(--text); text-decoration:none;">Oberberg: Hospizwochen erreichen Menschen mit 18 Verans</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.ksta.de/region/oberberg/wiehl/oberbergs-einziger-weinbaubetrieb-weinlese-ist-abgeschlossen-1399716" target="_blank" style="color:var(--text); text-decoration:none;">Neue Weine: Oberbergs einziger Weinbaubetrieb: Weinlese</a></div>
     </div>
   </div>
 </div>
 </main>
 <footer>
-  <a href="../index.html">Startseite</a> · Reichshof · Aktualisiert: 22.10.2026, 20:59<br>
+  <a href="../index.html">Startseite</a> · Reichshof · Aktualisiert: 22.10.2026, 22:19 Uhr<br>
   <a href="/ai-tageszeitung/impressum/">Impressum</a> · <a href="/ai-tageszeitung/rechtliches/">Rechtliche Hinweise</a> · <a href="/ai-tageszeitung/rechtliches/#datenschutz">Datenschutz</a><br>
   <a href="https://github.com/dna-dieter/ai-tageszeitung/actions/workflows/update.yml">GitHub</a>
 </footer>
 
 <script>
 (function() {
+  // Button nur für Betreiber: sichtbar mit ?admin in der Adresse (wird gemerkt), ?admin=aus blendet ihn wieder aus.
+  try {
+    const p = new URLSearchParams(location.search);
+    if (p.has('admin')) {
+      if (p.get('admin') === 'aus') localStorage.removeItem('ai_tz_admin');
+      else localStorage.setItem('ai_tz_admin', '1');
+    }
+    if (localStorage.getItem('ai_tz_admin') === '1') {
+      const b = document.getElementById('btn-refresh');
+      if (b) b.hidden = false;
+    }
+  } catch (e) {}
   const REPO = 'dna-dieter/ai-tageszeitung';
   const WORKFLOW = 'update.yml';
   const TOKEN_KEY = 'ai_tz_github_token';

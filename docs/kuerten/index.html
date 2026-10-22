@@ -68,6 +68,7 @@ footer a { color: #85C1E9; }
 .monat-header:first-child { margin-top: 0; }
 .monat-count { background: var(--rbk-blau); color: white; font-size: 0.72rem; padding: 1px 8px; border-radius: 10px; font-weight: 400; }
 .btn-refresh { display: inline-flex; align-items: center; gap: 5px; font-family: sans-serif; font-size: 0.78rem; padding: 5px 14px; background: #2ECC71; color: white; border: none; border-radius: 4px; text-decoration: none; cursor: pointer; transition: background 0.2s; margin-top: 4px; }
+.btn-refresh[hidden], .refresh-status[hidden] { display: none; }
 .btn-refresh:hover { background: #27AE60; color: white; }
 .btn-refresh:disabled, .btn-refresh.loading { background: #95A5A6; cursor: wait; opacity: 0.8; }
 .btn-refresh .spinner { display: inline-block; width: 10px; height: 10px; border: 2px solid rgba(255,255,255,0.3); border-top-color: white; border-radius: 50%; animation: spin 0.8s linear infinite; }
@@ -91,9 +92,9 @@ footer a { color: #85C1E9; }
     <div class="sub">AI Tageszeitung · Rheinisch-Bergischer Kreis</div>
   </div>
   <div class="meta">
-    <div><span class="live-dot"></span>141 Artikel</div>
-    <div>22.10.2026, 21:27</div>
-    <button type="button" onclick="triggerRefresh()" class="btn-refresh" id="btn-refresh">&#x21bb; Jetzt aktualisieren</button>
+    <div><span class="live-dot"></span>131 Artikel</div>
+    <div>22.10.2026, 22:19 Uhr</div>
+    <button type="button" onclick="triggerRefresh()" class="btn-refresh" id="btn-refresh" hidden>&#x21bb; Jetzt aktualisieren</button>
     <div class="refresh-status" id="refresh-status"></div>
   </div>
 </header>
@@ -101,120 +102,96 @@ footer a { color: #85C1E9; }
 <main>
 <div class="grid">
   <div><div class="monat-gruppe">
-<h2 class="monat-header">Oktober 2026 <span class="monat-count">7</span></h2>
+<h2 class="monat-header">Oktober 2026 <span class="monat-count">6</span></h2>
 <div class="artikel">
   
   <h2><a href="https://www.ksta.de/region/rhein-berg/kuerten/rad-und-gehweg-bau-zwischen-herkenrath-und-kuerten-spitze-radweg-bleibt-eine-geduldsprobe-1399723" target="_blank" rel="noopener">Rad- und Gehweg: Bau zwischen Herkenrath und Kürten-Spitze: Radweg bleibt eine Geduldsprobe</a></h2>
   <div class="teaser">Der Bau beginnt frühestens 2027, Straßen NRW weist Sorgen vor Umleitungen durch Anliegerstraßen und Baumfällungen zurück – eine Lücke bleibt dennoch.</div>
-  <div class="info">Tue, 20 Oct 2026 16:52:43 · Kölner Stadt-Anzeiger Rhein-Berg</div>
+  <div class="info">20.10.2026, 16:52 Uhr · Kölner Stadt-Anzeiger Rhein-Berg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.ksta.de/region/rhein-berg/kuerten/die-klassen-in-kuerten-werden-kleiner-1-1396564" target="_blank" rel="noopener">Rückgänge und Engpässe: Die Klassen in Kürten werden kleiner</a></h2>
   <div class="teaser">Der Schulentwicklungsplan zeigt unterschiedliche Trends in Kürten. Es kommt zu Rückgängen und örtlichen Engpässen.</div>
-  <div class="info">Sat, 17 Oct 2026 00:00:20 · Kölner Stadt-Anzeiger Rhein-Berg</div>
+  <div class="info">17.10.2026, 00:00 Uhr · Kölner Stadt-Anzeiger Rhein-Berg</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.ksta.de/region/rhein-berg/kuerten/auch-nach-tragoedie-wird-im-duerschtal-weiter-gerast-1-1395658" target="_blank" rel="noopener">Vier Tote: Auch nach Tragödie wird im Dürschtal weiter gerast</a></h2>
   <div class="teaser">Mehr als jeder zehnte kontrollierte Fahrer ist auf der Dürschtalstraße bei Kürten zu schnell – Anwohner drängen auf Tempokontrollen.</div>
-  <div class="info">Thu, 15 Oct 2026 22:00:20 · Kölner Stadt-Anzeiger Rhein-Berg</div>
+  <div class="info">15.10.2026, 22:00 Uhr · Kölner Stadt-Anzeiger Rhein-Berg</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/13/radweg-von-kuerten-spitze-nach-herkenrath-erneut-verzoegert/" target="_blank" rel="noopener">Radweg von Kürten-Spitze nach Herkenrath erneut verzögert</a></h2>
   <div class="teaser">Seit 12 Jahren steht der Radweg an der unfallträchtigen L289 oben auf der Prioritätenliste, eigentlich sollte der Bau in diesem Frühjahr beginnen. Doch erneut hat der Landesbetrieb Straßen NRW das Projekt aufgeschoben. Zudem soll nun ein Bereich ausg</div>
-  <div class="info">Tue, 13 Oct 2026 08:03:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">13.10.2026, 10:03 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/08/familienzentrum-der-guten-hand-in-kuerten-feiert-30-geburtstag/" target="_blank" rel="noopener">Familienzentrum der „Guten Hand“ in Kürten feiert 30. Geburtstag</a></h2>
   <div class="teaser">Im September 1996 eröffnete die Stiftung Die Gute Hand in Kürten-Biesfeld eine integrative Kindertagesstätte. Heute finden Kinder und Familien im Familienzentrum NRW Die Gute Hand in sechs Gruppen Platz zum gemeinsamen Wachsen.</div>
-  <div class="info">Thu, 08 Oct 2026 05:29:00 · iGL Bürgerportal Bergisch Gladbach</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/62459/6365548" target="_blank" rel="noopener">POL-RBK: Overath - 48-Jähriger nach versuchtem Diebstahl aus Pkw gestellt</a></h2>
-  <div class="teaser">Overath (ots) - Am Montagabend (05.10.) wurde die Polizei zu einem Parkplatz eines Discounters an der Olper Straße gerufen. Ein Zeuge verfolge dort einen unbekannten Mann, der im Verdacht steht, Gegenstände aus Fahrzeugen stehlen zu wollen. Nach ...</div>
-  <div class="info">Tue, 06 Oct 2026 09:14:05 · Presseportal Polizei RBK</div>
+  <div class="info">08.10.2026, 07:29 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/10/01/mit-nadel-und-faden-neustart-der-naehstube-in-kuerten/" target="_blank" rel="noopener">Mit Nadel und Faden: Neustart der Nähstube in Kürten</a></h2>
   <div class="teaser">m Frühjahr 2026 musste die Nähstube des Fluchtpunkt Kürten schließen – es fehlten eine Führungsperson und ein Raum. Jetzt hat sie einen Neustart in Spitze hingelegt und ist lebendig wie eh und je.</div>
-  <div class="info">Thu, 01 Oct 2026 07:46:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">01.10.2026, 09:46 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 </div>
 <div class="monat-gruppe">
-<h2 class="monat-header">September 2026 <span class="monat-count">6</span></h2>
+<h2 class="monat-header">September 2026 <span class="monat-count">4</span></h2>
 <div class="artikel">
   <div class="tagline"><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/09/27/spd-rhein-berg-waehlt-doppelspitze-und-beschliesst-politische-schwerpunkte/" target="_blank" rel="noopener">SPD Rhein-Berg wählt Doppelspitze und beschließt politische Schwerpunkte</a></h2>
   <div class="teaser">Die SPD Rheinisch-Bergischer Kreis wird künftig erstmals von einer Doppelspitze geführt: Heike Lehmann aus Wermelskirchen und Hinrich Schipper aus Kürten wurden auf dem Kreisparteitag zu Vorsitzenden gewählt. Eine einstimmig beschlossene Satzungsände</div>
-  <div class="info">Sun, 27 Sep 2026 14:30:45 · iGL Bürgerportal Bergisch Gladbach</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/62459/6358018" target="_blank" rel="noopener">POL-RBK: Overath - Kollision bei Überholmanöver - 16-Jähriger schwer verletzt</a></h2>
-  <div class="teaser">Overath (ots) - Am gestrigen Mittwoch (23.09.) ereignete sich ein Verkehrsunfall auf der Olper Straße in Steinenbrück, bei dem ein 16-jähriger Leichtkraftradfahrer schwer verletzt wurde. Nach bisherigen Erkenntnissen befuhr eine 22-jährige ...</div>
-  <div class="info">Thu, 24 Sep 2026 07:58:50 · Presseportal Polizei RBK</div>
+  <div class="info">27.09.2026, 16:30 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/09/23/kuerten-fluchtpunkt-setzt-sich-fuer-rederecht-im-rat-ein/" target="_blank" rel="noopener">Kürten: Fluchtpunkt setzt sich für Rederecht im Rat ein</a></h2>
   <div class="teaser">Der Fluchtpunkt Kürten e.V. unterstützt einen Bürgerantrag von Leo Wulf an den Gemeinderat, um das Rederecht der Bürgerschaft neu zu regeln. Die Ablehnung von Redebeiträgen in einem Ausschuss hatte zuletzt für Streit gesorgt.</div>
-  <div class="info">Wed, 23 Sep 2026 06:02:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">23.09.2026, 08:02 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/09/20/alte-schule-eichhof-rembold-stiftung-gibt-starthilfe-fuer-begegnungszentrum/" target="_blank" rel="noopener">Alte Schule Eichhof: Rembold Stiftung gibt Starthilfe für  Begegnungszentrum</a></h2>
   <div class="teaser">Einen zentralen Begegnungsort für alle Bürgerinnen und Bürger im Kürtener Ortsteil Eichhof möchte der Verein Alte Schule Eichhof schaffen. Dafür soll vor dem Vereinsgebäude ein soziokulturelles Zentrum entstehen. Dieses Projekt unterstützt die Rembol</div>
-  <div class="info">Sun, 20 Sep 2026 13:04:15 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">20.09.2026, 15:04 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/09/15/kreis-uebernimmt-jugend-wohngemeinschaft-in-spitze/" target="_blank" rel="noopener">Kreis übernimmt Jugend-Wohngemeinschaft in Spitze</a></h2>
   <div class="teaser">Der Rheinisch-Bergisch Kreis verkündet einen wichtigen Schritt zur Sicherung der stationären Jugendhilfe: Die Jugendwohngemeinschaft in Kürten-Spitze ist in die Trägerschaft des Kreises übergegangen. Als erste eigene stationäre Jugendhilfeeinrichtung</div>
-  <div class="info">Tue, 15 Sep 2026 05:00:00 · iGL Bürgerportal Bergisch Gladbach</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/62459/6348455" target="_blank" rel="noopener">POL-RBK: Overath - Hoher Sachschaden nach Brand</a></h2>
-  <div class="teaser">Overath (ots) - Am frühen Mittwochmorgen (09.09.) haben in Steinenbrück zwei Altkleidercontainer, ein Kraftrad und ein Kleintransporter gebrannt. Die Polizei geht von vorsätzlicher Brandstiftung aus. Gegen 04:55 Uhr wurde die Polizei in die Olper ...</div>
-  <div class="info">Wed, 09 Sep 2026 09:26:02 · Presseportal Polizei RBK</div>
+  <div class="info">15.09.2026, 07:00 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 </div>
 <div class="monat-gruppe">
-<h2 class="monat-header">August 2026 <span class="monat-count">5</span></h2>
+<h2 class="monat-header">August 2026 <span class="monat-count">4</span></h2>
 <div class="artikel">
   
   <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/energieversorger-belkaw-schnuert-gesamtpaket-fuer-die-energiewende-im-bergischen-AK3NUEQYFVECDAR4YJK2BDVTZU.html" target="_blank" rel="noopener">Energieversorger Belkaw schnürt Gesamtpaket für die Energiewende im Bergischen</a></h2>
   <div class="teaser">Der Energieversorger Belkaw hat neue Partner für Wärmepumpen und Photovoltaik gefunden. Zusammen mit Wurth Sanitär und Heizung sowie Schoenergie will das Unternehmen Kunden eine vernetzte Energieversorgung ermöglichen. Am 26. August gibt es dazu eine</div>
-  <div class="info">Tue, 25 Aug 2026 12:25:33 · RGA Wermelskirchen</div>
+  <div class="info">25.08.2026, 12:25 Uhr · RGA Wermelskirchen</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/dieser-chor-singt-ohne-noten-und-tanzt-dazu-jetzt-feiern-sie-20-jahre-HXRD4DKXNRDDJCMP7ZVW7M2PJE.html" target="_blank" rel="noopener">Dieser Chor singt ohne Noten und tanzt dazu – jetzt feiern sie 20 Jahre</a></h2>
   <div class="teaser">Der „ymcd“ gehört zum MGV Dürscheid. Der gemischte Chor singt auswendig und bewegt sich dazu – Notenständer gibt es nicht. Am 11. Oktober präsentiert er sein Jubiläumskonzert im Kulturforum Burscheid.</div>
-  <div class="info">Tue, 25 Aug 2026 04:00:01 · RGA Burscheid</div>
+  <div class="info">25.08.2026, 04:00 Uhr · RGA Burscheid</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/08/24/wohnen-im-bergischen-wo-immobilienkaufer-die-besseren-chancen-haben-marktbericht-oberbergischer-kreis-knigge-immobilien/" target="_blank" rel="noopener">Wohnen im Bergischen: Wo Immobilienkäufer die besseren Chancen haben</a></h2>
   <div class="teaser">Zum ersten Mal hat KNIGGE.Immobilien auch für den Oberbergischen Kreis einen Marktbericht vorgelegt. Der Vergleich mit den Daten für den Rheinisch-Bergischen Kreis zeigt, warum sich die Wanderungsbewegung entlang der Achse Köln – Bergisch Gladbach – </div>
-  <div class="info">Mon, 24 Aug 2026 04:20:00 · iGL Bürgerportal Bergisch Gladbach</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.presseportal.de/blaulicht/pm/62459/6326808" target="_blank" rel="noopener">POL-RBK: Overath - Fahrt auf unversichertem E-Scooter unter Alkoholeinfluss hat Konsequenzen</a></h2>
-  <div class="teaser">Overath (ots) - Gestern Nachmittag (03.08.), gegen 16:30 Uhr, haben Beamte der Polizeiwache Overath auf der Olper Straße im Stadtteil Steinenbrück einen E-Scooter beobachtet, der offensichtlich ohne Versicherungskennzeichen geführt wurde. Die ...</div>
-  <div class="info">Tue, 04 Aug 2026 08:25:40 · Presseportal Polizei RBK</div>
+  <div class="info">24.08.2026, 06:20 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/62459/6325879" target="_blank" rel="noopener">POL-RBK: Rhein.-Berg. Kreis - Ergebnisse der gestrigen Verkehrskontrollen des Verkehrsdienstes</a></h2>
   <div class="teaser">Rheinisch-Bergischer Kreis (ots) - Am gestrigen Sonntag (02.08.) hat der Verkehrsdienst der Polizei Rhein-Berg an mehreren Stellen Verkehrskontrollen durchgeführt. Das Hauptaugenmerk lag dabei auf Motorrädern. Auf der Kölner Straße in Kürten ...</div>
-  <div class="info">Mon, 03 Aug 2026 08:21:20 · Presseportal Polizei RBK</div>
+  <div class="info">03.08.2026, 08:21 Uhr · Presseportal Polizei RBK</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -223,106 +200,88 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/drei-autos-kollidieren-in-bergisch-gladbach-eine-schwerverletzte-DYTEBZWZ75C3BG4KROLPQGLSJE.html" target="_blank" rel="noopener">Drei Autos kollidieren in Bergisch Gladbach – eine Schwerverletzte</a></h2>
   <div class="teaser">Bei einem Verkehrsunfall in Bergisch Gladbach ist eine 58-jährige Autofahrerin lebensgefährlich verletzt worden. Drei Fahrzeuge kollidierten auf der Kürtener Straße.</div>
-  <div class="info">Wed, 22 Jul 2026 12:43:55 · RGA Burscheid</div>
+  <div class="info">22.07.2026, 12:43 Uhr · RGA Burscheid</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/62459/6315920" target="_blank" rel="noopener">POL-RBK: Kürten - Ohne Fahrerlaubnis unterwegs</a></h2>
   <div class="teaser">Kürten (ots) - Die Polizei ermittelt gegen den Fahrer eines Pkw und dessen Halterin. Der Pkw war gestern (15.07.) im Rahmen einer Geschwindigkeitskontrolle in Kürten-Herweg aufgefallen. Gegen 11:40 Uhr führte der Verkehrsdienst der Polizei ...</div>
-  <div class="info">Thu, 16 Jul 2026 13:13:45 · Presseportal Polizei RBK</div>
+  <div class="info">16.07.2026, 13:13 Uhr · Presseportal Polizei RBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/62459/6310367" target="_blank" rel="noopener">POL-RBK: Kürten - Zusammenstoß zwischen Kleinkraftrad und Motorrad</a></h2>
   <div class="teaser">Kürten (ots) - Gestern Nachmittag (07.07.) kam es auf der Wipperfürther Straße zu einer Kollision, bei der zwei Menschen verletzt wurden. Ein jugendlicher Fahrer eines Kleinkraftrads hatte beim Abbiegen ein ihm entgegenkommendes Motorrad ...</div>
-  <div class="info">Wed, 08 Jul 2026 09:39:31 · Presseportal Polizei RBK</div>
+  <div class="info">08.07.2026, 09:39 Uhr · Presseportal Polizei RBK</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/07/06/otto-hahn-realschueler-befassen-sich-mit-dem-leben-mit-dem-tot/" target="_blank" rel="noopener">Otto-Hahn-Realschüler befassen sich mit dem „Leben mit dem Tot“</a></h2>
   <div class="teaser">In einer Projektwoche hat sich eine Gruppe der Otto-Hahn-Realschule mit dem DRK-Projekt „Leben mit dem Tod – Trauernde Familien begleiten“ auseinandergesetzt. Das Thema Trauer wurde dabei sehr konkret, denn die Schule hatte eine Schülerin bei einem U</div>
-  <div class="info">Mon, 06 Jul 2026 03:06:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">06.07.2026, 05:06 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/07/03/zwischen-wanderweg-werkbank-und-wohlbefinden-der-juli-im-mittendrin/" target="_blank" rel="noopener">Zwischen Wanderweg, Werkbank und Wohlbefinden – Der Juli im MITTENDRIN</a></h2>
   <div class="teaser">Die Caritas Begegnungsstätte MITTENDRIN lädt im Juli zu einer Wanderung zum „Mord mit Aussicht&quot;-Drehort nach Kürten-Olpe ein. Dazu kommen ein Smartphone-Kurs zu Google Maps, ein Reparatur-Café und ein Frühstückstreff für Seniorinnen und Senioren.</div>
-  <div class="info">Thu, 02 Jul 2026 22:42:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">03.07.2026, 00:42 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 </div>
 <div class="monat-gruppe">
-<h2 class="monat-header">Juni 2026 <span class="monat-count">12</span></h2>
+<h2 class="monat-header">Juni 2026 <span class="monat-count">9</span></h2>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/zukunft-der-gesamtschule-kuerten-verwaltung-legt-fachliche-bewertung-der-untersuchten-varianten-vor/" target="_blank" rel="noopener">Zukunft der Gesamtschule Kürten: Verwaltung legt fachliche Bewertung der untersuchten Varianten vor</a></h2>
   <div class="teaser">&lt;p&gt;Nachdem die Ergebnisse der unabhängigen Variantenuntersuchung zur Zukunft der Gesamtschule Kürten bereits im Sonderausschuss Sanierung vorgestellt wurden, hat die Gemeindeverwaltung sämtliche untersuchten Varianten umfassend ausgewertet und fachli</div>
-  <div class="info">Mon, 29 Jun 2026 06:58:22 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">29.06.2026, 08:58 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/unternehmerdialog-mit-erfolgreichem-auftakt/" target="_blank" rel="noopener">Unternehmerdialog mit erfolgreichem Auftakt</a></h2>
   <div class="teaser">&lt;p class=&quot;isSelectedEnd&quot;&gt;&lt;strong&gt;Gemeinde Kürten setzt auf direkten Austausch mit der lokalen Wirtschaft&lt;/strong&gt;&lt;/p&gt; &lt;p class=&quot;isSelectedEnd&quot;&gt;Kürten. Mit dem neuen Format „Unternehmerdialog“ hat die Gemeinde Kürten am Mittwoch, 17. Juni, den direkte</div>
-  <div class="info">Fri, 19 Jun 2026 11:20:53 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">19.06.2026, 13:20 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/aktiv-ins-alter-die-neue-seniorenbroschuere-ist-da/" target="_blank" rel="noopener">Aktiv ins Alter – die neue Seniorenbroschüre ist da!</a></h2>
   <div class="teaser">&lt;h1&gt;Aktiv ins Alter – neue Seniorenbroschüre erschienen&lt;/h1&gt; &lt;p class=&quot;isSelectedEnd&quot;&gt;&lt;span data-surface-wrapper=&quot;1&quot; data-surface=&quot;/bizweb:composer&quot; data-auto-logging-id=&quot;fe07300d5&quot;&gt;Die neue Seniorenbroschüre „Aktiv ins Alter“ der Gemeinde Kürten ist</div>
-  <div class="info">Thu, 18 Jun 2026 14:24:38 · Gemeinde Kürten (offiziell)</div>
-</div>
-<div class="artikel">
-  <div class="tagline"><span class="tag bericht">Bericht</span></div>
-  <h2><a href="https://in-gl.de/2026/06/17/stolpersteine-in-bensberg-der-geschichte-ein-gesicht-geben/" target="_blank" rel="noopener">Stolpersteine in Bensberg – Der Geschichte ein Gesicht geben</a></h2>
-  <div class="teaser">In der Schlossstraße erinnern neue Stolpersteine an zwei ukrainische Zwangsarbeiter. Sie gehen auf Recherchen von Schülerinnen und Schülern des Otto-Hahn-Gymnasiums zurück. Sie waren dabei auf ein bis heute nicht vollständig aufgeklärtes Kriegsverbre</div>
-  <div class="info">Wed, 17 Jun 2026 08:00:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">18.06.2026, 16:24 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/erddeponie-kuerten-hoechsten-beginn-der-bauarbeiten-ab-22-06-2026-sowie-allgemeine-informationen/" target="_blank" rel="noopener">Erddeponie Kürten-Höchsten: Beginn der Bauarbeiten ab 22.06.2026 sowie allgemeine Informationen</a></h2>
   <div class="teaser">&lt;p&gt;In Kürten-Höchsten entsteht eine neue Erddeponie des Bergischen Abfallwirtschaftsverbandes (BAV). Seit der Schließung der Deponie Lüderich in Overath Ende 2019 ist im Kreisgebiet keine öffentliche Annahmestelle für Erdaushub mehr vorhanden und der</div>
-  <div class="info">Tue, 16 Jun 2026 07:07:35 · Gemeinde Kürten (offiziell)</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.glaktuell.net/gegen-das-vergessen-stolpersteine-fuer-konstantin-wladimirow-und-walery-winogradow-verlegt/" target="_blank" rel="noopener">Gegen das Vergessen: Stolpersteine für Konstantin Wladimirow und Walery Winogradow verlegt</a></h2>
-  <div class="teaser">Schüler des Otto-Hahn-Gymnasiums setzen Zeichen für lebendige Erinnerungskultur und decken ungelöste NS-Verbrechen in Bensberg auf Mit der feierlichen Verlegung zweier Stolpersteine vor der Schloßstraße 46–50 wird seit dem heutigen Freitag dauerhaft </div>
-  <div class="info">Sat, 13 Jun 2026 14:59:11 · GL Aktuell (Gesamt)</div>
+  <div class="info">16.06.2026, 09:07 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/ferienzeit-reisedokumente-pruefen/" target="_blank" rel="noopener">Ferienzeit = Reisedokumente prüfen</a></h2>
   <div class="teaser">&lt;p&gt;Die Sommerferien rücken näher – höchste Zeit, einen Blick auf die Reisedokumente aller Mitreisenden zu werfen.&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;🪪Sind Personalausweis oder Reisepass noch gültig?&lt;/p&gt; &lt;p&gt;🌍Welche Einreisebestimmungen zur Gültigkeit gelten im Zielland?</div>
-  <div class="info">Fri, 12 Jun 2026 11:31:21 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">12.06.2026, 13:31 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/vermehrte-rattensichtungen-im-gemeindegebiet-aufruf-zur-mithilfe/" target="_blank" rel="noopener">Vermehrte Rattensichtungen im Gemeindegebiet – Aufruf zur Mithilfe</a></h2>
   <div class="teaser">&lt;p class=&quot;isSelectedEnd&quot;&gt;In den vergangenen Wochen wurden der Gemeindeverwaltung vermehrt Rattensichtungen aus verschiedenen Ortschaften gemeldet.&lt;br /&gt; Um eine weitere Ausbreitung zu verhindern, bittet die Gemeinde Kürten alle Bürgerinnen und Bürger</div>
-  <div class="info">Wed, 10 Jun 2026 12:15:11 · Gemeinde Kürten (offiziell)</div>
-</div>
-<div class="artikel">
-  <div class="tagline"><span class="tag bericht">Bericht</span></div>
-  <h2><a href="https://in-gl.de/2026/06/09/zwei-weitere-stolpersteine-schuelerinnen-des-ohg-erforschen-tod-von-nazi-opfern/" target="_blank" rel="noopener">Zwei weitere Stolpersteine: Schüler:innen des OHG erforschen Tod von Nazi-Opfern</a></h2>
-  <div class="teaser">In der Schlossstraße in Bensberg werden am Freitag zwei Stolpersteine verlegt, die an die Ermordung von zwei Kriegsgefangenen erinnern. Das Gedenken an Konstantin Wladimirow und Walery Winogradow geht auf die Arbeiten von Schüler:innen des Otto-Hahn-</div>
-  <div class="info">Tue, 09 Jun 2026 08:25:33 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">10.06.2026, 14:15 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/unternehmerdialog-termin-am-17-06-2026-um-1600-uhr-steht-fest/" target="_blank" rel="noopener">Unternehmerdialog: Termin am 17.06.2026 um 16 Uhr steht fest</a></h2>
   <div class="teaser">&lt;p&gt;Die Gemeinde Kürten setzt den Austausch mit den Unternehmen im Gemeindegebiet fort und lädt zum Unternehmerdialog ein. Nach Auswertung der eingegangenen Rückmeldungen konnte ein Termin mit der größtmöglichen gemeinsamen Schnittmenge der Teilnehmen</div>
-  <div class="info">Tue, 09 Jun 2026 07:06:17 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">09.06.2026, 09:06 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/%f0%9f%9a%a8kreisweiter-warntag-am-06-juni-am-samstag-um-12-uhr-wird-es-laut/" target="_blank" rel="noopener">🚨 Kreisweiter Warntag am 06. Juni – am Samstag um 12 Uhr wird es laut!</a></h2>
   <div class="teaser">&lt;p&gt;&lt;strong&gt;Kreisweiter Warntag: Sirenen heulen am 6. Juni um 12 Uhr – Warnung auch über Warn-Apps &lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Am Samstag, 6. Juni, findet der kreisweite Warntag statt. Dabei werden um 12 Uhr im Rheinisch-Bergischen Kreis zeitgleich alle verfügba</div>
-  <div class="info">Fri, 05 Jun 2026 08:09:29 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">05.06.2026, 10:09 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/bav-abfallberatung-biotonne-am-1-juni-2026/" target="_blank" rel="noopener">BAV Abfallberatung in Kürten zur Biotonne am 1. Juni 2026</a></h2>
   <div class="teaser">&lt;p&gt;&lt;strong&gt;Bioabfälle &lt;/strong&gt;&lt;strong&gt;sind ein wertvoller Rohstoff&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Deshalb werden sie im Verbandsgebiet des BAV getrennt in der Biotonne gesammelt. In der Vergärungs- und Kompostierungsanlage der AVEA GmbH &amp; Co KG. am Entsorgungszent</div>
-  <div class="info">Mon, 01 Jun 2026 07:32:06 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">01.06.2026, 09:32 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -331,61 +290,61 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/ehrung-verdienter-buerger-heinrich-hoelzl-aus-kuerten-vom-landrat-mit-der-ehrennadel-in-gold-geehrt/" target="_blank" rel="noopener">Ehrung verdienter Bürger – Heinrich Hölzl aus Kürten vom Landrat mit der Ehrennadel in Gold geehrt</a></h2>
   <div class="teaser">&lt;p class=&quot;isSelectedEnd&quot;&gt;Ehrennadel in Gold für Heinrich Hölzl&lt;/p&gt; &lt;p class=&quot;isSelectedEnd&quot;&gt;Der Rheinisch-Bergische Kreis hat am Donnerstagabend (28. Mai) elf engagierte Bürgerinnen und Bürger mit der Ehrennadel in Gold ausgezeichnet.&lt;br /&gt; Landrat A</div>
-  <div class="info">Fri, 29 May 2026 10:54:19 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">29.05.2026, 12:54 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/%f0%9f%a9%b8blutspende-biesfeld-am-28-05-2026-achtung-termin-findet-abweichend-im-buergerhaus-statt%f0%9f%a9%b8/" target="_blank" rel="noopener">🩸Blutspende Biesfeld am 28.05.2026 – Achtung: Termin findet abweichend im Bürgerhaus statt🩸</a></h2>
   <div class="teaser">&lt;div data-contents=&quot;true&quot;&gt; &lt;div class=&quot;&quot; data-block=&quot;true&quot; data-editor=&quot;46d5t&quot; data-offset-key=&quot;4q4ca-0-0&quot;&gt; &lt;div class=&quot;_1mf _1mj&quot; data-offset-key=&quot;4q4ca-0-0&quot;&gt; &lt;p class=&quot;_ap3a _aaco _aacu _aacx _aad7 _aade&quot; dir=&quot;auto&quot;&gt;Aufgrund von Bauarbeiten ist der</div>
-  <div class="info">Wed, 27 May 2026 10:39:04 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">27.05.2026, 12:39 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/neue-sitzgelegenheit-dank-der-unterstuetzung-der-firma-wurth-sanitaer-heizung/" target="_blank" rel="noopener">Neue Sitzgelegenheit dank der Unterstützung der Firma Wurth Sanitär &amp; Heizung</a></h2>
   <div class="teaser">Die Firma Wurth Sanitär &amp; Heizung spendet Ruhebank in Bechen&lt;p&gt;&lt;strong&gt;Neue Ruhebank am Wanderweg dank Unterstützung von der Firma Wurth Sanitär &amp; Heizung&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Die Gemeinde Kürten freut sich über eine neue Ruhebank am Spielplatz in Bechen </div>
-  <div class="info">Thu, 21 May 2026 13:30:53 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">21.05.2026, 15:30 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.presseportal.de/blaulicht/pm/62459/6278552" target="_blank" rel="noopener">POL-RBK: Kürten - Suche nach verletztem Fußgänger - Verkehrskommissariat ermittelt, nachdem ein Kind von einem Pkw erfasst wurde</a></h2>
   <div class="teaser">Kürten (ots) - Heute Vormittag (20.05.) ist ein Verkehrsteilnehmer bei der Polizeiwache in Bergisch Gladbach erschienen. Der 42-jährige Kürtener schilderte, dass er gegen 07:30 Uhr aus seiner Hofeinfahrt in den fließenden Verkehr der ...</div>
-  <div class="info">Wed, 20 May 2026 12:00:26 · Presseportal Polizei RBK</div>
+  <div class="info">20.05.2026, 12:00 Uhr · Presseportal Polizei RBK</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/gemeinde-setzt-auf-dialog-mit-lokaler-wirtschaft/" target="_blank" rel="noopener">Gemeinde setzt auf Dialog mit lokaler Wirtschaft</a></h2>
   <div class="teaser">Gemeinde setzt auf Dialog mit lokaler Wirtschaft&lt;p&gt;Die Gemeinde Kürten möchte den Austausch mit den Unternehmen im Gemeindegebiet weiter intensivieren. Aufbauend auf den bereits gestarteten Unternehmensbesuchen laden die Wirtschaftsförderung der Geme</div>
-  <div class="info">Wed, 20 May 2026 09:58:23 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">20.05.2026, 11:58 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/die-kreissparkasse-koeln-spendet-ruhebank/" target="_blank" rel="noopener">Die Kreissparkasse Köln spendet Ruhebank</a></h2>
   <div class="teaser">Die Kreissparkasse Köln spendet Ruhebank &lt;p style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Die Gemein&lt;/span&gt;&lt;span&gt;de Kürten freut sich über eine neue und moderne Ruhebank in Kürten, Höhe der &lt;/span&gt;&lt;span&gt;Kreissparkasse, auf dem Fußweg Richtung Kirche, Ecke Wipper</div>
-  <div class="info">Tue, 19 May 2026 09:37:10 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">19.05.2026, 11:37 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/05/13/kreissparkasse-zahlt-foerdergeld-an-70-vereine-aus/" target="_blank" rel="noopener">Kreissparkasse zahlt Fördergeld an 70 Vereine aus</a></h2>
   <div class="teaser">Mit Fördermitteln aus „PS-Sparen und Gewinnen“ unterstützt die Kreissparkasse Köln Vereine aus Bergisch Gladbach und Kürten.</div>
-  <div class="info">Wed, 13 May 2026 06:00:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">13.05.2026, 08:00 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/05/08/von-mord-mit-aussicht-bis-reparatur-cafe-der-mai-im-mittendrin/" target="_blank" rel="noopener">Von Mord mit Aussicht bis Reparatur-Café – Der Mai im Mittendrin</a></h2>
   <div class="teaser">Die Caritas Begegnungsstätte MITTENDRIN bietet im Mai ein vielfältiges Programm: Highlight ist der Ausflug zu einem Drehort der Serie „Mord mit Aussicht&quot; am 17. Mai mit Wanderung und Führung durch Kürten-Olpe. Dazu kommen Smartphone-Kurse für Fortges</div>
-  <div class="info">Fri, 08 May 2026 18:56:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">08.05.2026, 20:56 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/noch-plaetze-frei-kostenloses-e-bike-pedelec-training-am-21-05-2026-um-930-uhr/" target="_blank" rel="noopener">Kostenloses e-Bike / Pedelec-Training am 21.05.2026 um 9:30 Uhr</a></h2>
   <div class="teaser">&lt;p&gt;&lt;span class=&quot;x193iq5w xeuugli x13faqbe x1vvkbs x1xmvt09 x1lliihq x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x xudqn12 x3x7a5m x6prxxf xvq8zen xo1l8bm xzsf02u&quot; dir=&quot;auto&quot;&gt;Passend zum Session Start des Radfahrens laden wir Sie zu einen&lt;stron</div>
-  <div class="info">Tue, 05 May 2026 11:07:46 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">05.05.2026, 13:07 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/rund-um-koeln-faehrt-quer-durch-kuerten/" target="_blank" rel="noopener">Rund um Köln fährt quer durch Kürten</a></h2>
   <div class="teaser">&lt;p&gt;Die Vorfreude steigt, die Spannung liegt in der Luft: Die diesjährige Ausgabe des Radsportevents Rund um Köln verspricht ein außergewöhnliches Spektakel zu werden. Mit einer Rekordzahl von Teilnehmern und einer erstklassigen Streckenführung bietet</div>
-  <div class="info">Tue, 05 May 2026 08:46:43 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">05.05.2026, 10:46 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -394,31 +353,31 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/kulturrucksack-2026-kostenlose-angebote-fuer-10-14-jaehrige-jetzt-anmelden/" target="_blank" rel="noopener">Kulturrucksack 2026: kostenlose Angebote für 10 – 14-Jährige, jetzt anmelden!</a></h2>
   <div class="teaser">Kostenfreies Angebot an alle 10- bis 14-Jährigen aus dem Projektverbund für die Gemeinde Kürten&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;Kulturrucksack 2026: Kreative Vielfalt für Kinder und Jugendliche in Kürten&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Kürten, 24. Februar 2026&lt;/</div>
-  <div class="info">Wed, 22 Apr 2026 07:07:42 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">22.04.2026, 09:07 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/it-schulung-fuer-senioren-am-05-05-2026-jetzt-anmelden/" target="_blank" rel="noopener">IT-Schulung für Senioren am 05.05.2026 – jetzt anmelden!</a></h2>
   <div class="teaser">IT-Schulung für Senioren am 05.05.2026 – jetzt anmelden!&lt;p&gt;Viele ältere Menschen nutzen heutzutage Smartphone, Tablet oder Internet, haben dabei aber manchmal Fragen oder Unsicherheiten. Genau an der Stelle setzt das Schulungsangebot in Kürten an.&lt;/p</div>
-  <div class="info">Tue, 21 Apr 2026 07:56:31 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">21.04.2026, 09:56 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/heimatpreis-kuerten-2026-aufruf-zur-bewerbung/" target="_blank" rel="noopener">Heimatpreis Kürten 2026 – Aufruf zur Bewerbung!</a></h2>
   <div class="teaser">Die Gemeinde Kürten verleiht auch 2026 wieder den „Heimatpreis“&lt;p&gt;Die Gemeinde Kürten verleiht auch 2026 wieder den „Heimatpreis“, der besonders bürgerschaftliches, lokales Engagement in unserer Heimat belohnt und würdigt.&lt;/p&gt; &lt;p&gt;Projekte, die zum Er</div>
-  <div class="info">Tue, 21 Apr 2026 06:00:55 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">21.04.2026, 08:00 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/parken-in-engen-strassen-verstaerkte-kontrollen-durch-die-gemeinde-kuerten/" target="_blank" rel="noopener">Parken in engen Straßen: Verstärkte Kontrollen durch die Gemeinde Kürten</a></h2>
   <div class="teaser">Parken in engen Straßen: Verstärkte Kontrollen durch die Gemeinde Kürten &lt;p&gt;&lt;b&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;Parken in engen Straßen: Gemeinde Kürten kündigt verstärkte Kontrollen gegen ordnungswidriges Parken an&lt;/span&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font</div>
-  <div class="info">Fri, 17 Apr 2026 10:33:07 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">17.04.2026, 12:33 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/kuerten-suelze-brueckensperrung-in-der-strasse-zum-wickchen/" target="_blank" rel="noopener">Kürten Sülze: Brückensperrung in der Straße „Zum Wickchen“</a></h2>
   <div class="teaser">&lt;p&gt;Die Verkehrssicherheit der Brücke in der Straße „Zum Wickchen“ ist nicht mehr gegeben. Die Brücke wurde somit für den Verkehr bis auf Weiteres gesperrt.&lt;br /&gt; Anwohner können ihre Grundstücke von der Straße „Im Auel“ bzw. von der Straße „Lindlarer</div>
-  <div class="info">Wed, 01 Apr 2026 08:19:22 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">01.04.2026, 10:19 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -427,61 +386,61 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/earth-hour-in-kuerten-wir-machens-aus/" target="_blank" rel="noopener">Earth Hour in Kürten: Wir machen’s aus!</a></h2>
   <div class="teaser">&lt;p&gt;Am Samstag, den &lt;strong&gt;28. März 2026&lt;/strong&gt;, setzen Menschen, Städte und Unternehmen weltweit um &lt;strong&gt;20:30 Uhr&lt;/strong&gt; ein Zeichen für Klimaschutz: Zur Earth Hour wird für 60 Minuten das Licht ausgeschaltet. Die Earth Hour ist eine weltwei</div>
-  <div class="info">Fri, 27 Mar 2026 11:20:05 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">27.03.2026, 12:20 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/osterfeuer-2026-hinweise-der-gemeinde-kuerten/" target="_blank" rel="noopener">Osterfeuer 2026 – Hinweise der Gemeinde Kürten</a></h2>
   <div class="teaser">&lt;p&gt;Zu Ostern werden traditionell in vielen Orten Osterfeuer entzündet. Als Brauchtumsfeuer gelten dabei Veranstaltungen, die von Vereinen, Organisationen, Glaubensgemeinschaften oder größeren Nachbarschaften organisiert werden und öffentlich zugängli</div>
-  <div class="info">Wed, 25 Mar 2026 09:10:48 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">25.03.2026, 10:10 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/digitale-lichtbilder-fuer-identitaetsdokumente-selbstbedienungs-terminal-wieder-nutzbar/" target="_blank" rel="noopener">Digitale Lichtbilder für Identitätsdokumente – Selbstbedienungs-Terminal – wieder nutzbar</a></h2>
   <div class="teaser">&lt;p class=&quot;isSelectedEnd&quot;&gt;&lt;strong&gt;📢 Hinweis zum digitalen Passfoto in der Gemeinde Kürten&lt;/strong&gt;&lt;/p&gt; &lt;p class=&quot;isSelectedEnd&quot;&gt;Das Selbstbedienungs-Terminal der Bundesdruckerei im Bürgerbüro der Gemeinde Kürten zur Erstellung digitaler Passfotos war </div>
-  <div class="info">Fri, 20 Mar 2026 10:29:50 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">20.03.2026, 11:29 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/muellsammelsamstag-am-21-maerz-2026/" target="_blank" rel="noopener">Kürten räumt auf – Müllsammelsamstag am 21. März 2026</a></h2>
   <div class="teaser">Es ist am 21.3. wieder so weit: Kürten räumt auf!&lt;p&gt;&lt;strong&gt;Kommenden Samstag ist es wieder so weit: &lt;/strong&gt;&lt;strong&gt;Kürten räumt auf!&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Die beliebte und wichtige Aktion im Frühling, der &quot;Müllsammelsamstag&quot; geht auch in 2026 wieder in </div>
-  <div class="info">Mon, 16 Mar 2026 09:00:45 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">16.03.2026, 10:00 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/hinweis-zu-den-aktuellen-wasser-und-abwasserbescheiden/" target="_blank" rel="noopener">Hinweis zu den aktuellen Wasser- und Abwasserbescheiden</a></h2>
   <div class="teaser">&lt;p&gt;Die Jahresabrechnungen für Trinkwasser- und Kanalbenutzungsgebühren wurden Anfang dieser Woche (KW11) versendet. Aktuell gehen bei der Gemeinde Kürten vermehrt Rückmeldungen von Bürgerinnen und Bürgern ein, die auf Fehler in ihren Bescheiden aufme</div>
-  <div class="info">Fri, 13 Mar 2026 12:21:16 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">13.03.2026, 13:21 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/%f0%9f%a9%b8heute-blutspende-im-buergerhaus%f0%9f%a9%b8/" target="_blank" rel="noopener">🩸Heute Blutspende im Bürgerhaus🩸</a></h2>
   <div class="teaser">&lt;div data-contents=&quot;true&quot;&gt; &lt;div class=&quot;&quot; data-block=&quot;true&quot; data-editor=&quot;46d5t&quot; data-offset-key=&quot;c9obr-0-0&quot;&gt; &lt;div class=&quot;_1mf _1mj&quot; data-offset-key=&quot;c9obr-0-0&quot;&gt;&lt;span data-offset-key=&quot;c9obr-0-0&quot;&gt;Das DRK bittet heute wieder zur Blutspende ins Bürgerhaus</div>
-  <div class="info">Wed, 11 Mar 2026 09:37:51 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">11.03.2026, 10:37 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/wasser-und-abwasserbescheide-werden-versendet/" target="_blank" rel="noopener">Wasser- und Abwasserbescheide werden versendet</a></h2>
   <div class="teaser">&lt;div data-contents=&quot;true&quot;&gt; &lt;div class=&quot;&quot; data-block=&quot;true&quot; data-editor=&quot;d4tfo&quot; data-offset-key=&quot;b7ick-0-0&quot;&gt; &lt;div class=&quot;_1mf _1mj&quot; data-offset-key=&quot;b7ick-0-0&quot;&gt;&lt;span data-offset-key=&quot;b7ick-0-0&quot;&gt;Einige Bürgerinnen und Bürger haben bereits nach ihrer Wa</div>
-  <div class="info">Mon, 09 Mar 2026 08:52:22 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">09.03.2026, 09:52 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/%f0%9f%9a%a8-landesweiter-warntag-am-12-maerz-am-donnerstag-um-11-uhr-wird-es-laut/" target="_blank" rel="noopener">🚨 Landesweiter Warntag am 12. März – am Donnerstag um 11 Uhr wird es laut!</a></h2>
   <div class="teaser">&lt;div data-contents=&quot;true&quot;&gt; &lt;div class=&quot;&quot; data-block=&quot;true&quot; data-editor=&quot;a13vh&quot; data-offset-key=&quot;2qu44-0-0&quot;&gt; &lt;div class=&quot;_1mf _1mj&quot; data-offset-key=&quot;2qu44-0-0&quot;&gt;&lt;span data-offset-key=&quot;2qu44-0-0&quot;&gt; &lt;/span&gt;&lt;span data-offset-key=&quot;96gdf-0-0&quot;&gt;In ganz Nordrhe</div>
-  <div class="info">Fri, 06 Mar 2026 07:40:01 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">06.03.2026, 08:40 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.glaktuell.net/zusammenstoss-an-kreuzung-in-kuerten-van-ueberschlaegt-sich/" target="_blank" rel="noopener">Zusammenstoß an Kreuzung in Kürten – Van überschlägt sich</a></h2>
   <div class="teaser">(Symbolbild) Bei einem Verkehrsunfall in Kürten ist am Montagmorgen (3. März) ein 24-jähriger Mann verletzt worden. Der Unfall ereignete sich gegen 7.25 Uhr im Bereich der Straße Offermannsberg (K 30). Nach bisherigen Erkenntnissen der Polizei war ei</div>
-  <div class="info">Wed, 04 Mar 2026 09:40:59 · GL Aktuell Kürten</div>
+  <div class="info">04.03.2026, 10:40 Uhr · GL Aktuell Kürten</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/neues-online-buchungstool-fuer-das-buergerhaus-kuerten-wunschtermin-online-suchen-und-reservieren/" target="_blank" rel="noopener">Neues Online-Buchungstool für das Bürgerhaus Kürten – Wunschtermin online suchen und reservieren</a></h2>
   <div class="teaser">&lt;p style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;Das Bürgerhaus der Gemeinde Kürten wird nicht nur für die Ratssitzungen und Veranstaltungen der Gemeinde wie z.B. den Rathaussturm an Karneval oder die Vergabe des Heimatpreises genutzt, </div>
-  <div class="info">Mon, 02 Mar 2026 17:06:38 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">02.03.2026, 18:06 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -490,166 +449,160 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/neu-in-kuerten-zwergencafe-und-familien-mit-kindern-bis-zu-einem-jahr-und-werdende-eltern/" target="_blank" rel="noopener">Neu in Kürten: Zwergencafé für Familien mit Kindern bis zu einem Jahr und werdende Eltern</a></h2>
   <div class="teaser">&lt;p&gt;Im März 2026 startet das Kürtener Zwergencafé. Es richtet sich an werdende Eltern und Familien mit Kindern bis zu einem Jahr und Geschwisterkindern bis zu zwei Jahren.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Wann und wo&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Das Elterncafé findet &lt;strong&gt;immer </div>
-  <div class="info">Tue, 24 Feb 2026 17:53:39 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">24.02.2026, 18:53 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/wasserrohrbruch-in-der-bergstrasse-in-kuerten-einschraenkungen-in-der-trinkwasserversorgung/" target="_blank" rel="noopener">Gelöst – Wasserrohrbruch in der Bergstraße in Kürten –Einschränkungen in der Trinkwasserversorgung</a></h2>
   <div class="teaser">&lt;p&gt;+++ UPDATE 20.02.2026 +++ 18 Uhr +++&lt;/p&gt; &lt;p&gt;✔️ Das Leck konnte geschlossen werden, die Trinkwasserversorgung ist wieder hergestellt.&lt;/p&gt; &lt;p&gt;🙏🏻 Danke an alle Kräfte, die tatkräftig im Einsatz waren!&lt;/p&gt; &lt;p&gt;-----&lt;/p&gt; &lt;p&gt;In der Bergstraße in Kürten i</div>
-  <div class="info">Fri, 20 Feb 2026 09:26:43 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">20.02.2026, 10:26 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/02/18/vorschlag-fuer-riesiges-wohnhaus-am-strundepark-fordert-stadt-heraus/" target="_blank" rel="noopener">Antrag für Mammut-Gebäude am Strundepark fordert Stadt heraus</a></h2>
   <div class="teaser">Ein schmaler Grünstreifen und Parkplätze trennen die Kürtener Straße vom Gewerbe- und Einkaufszentrum „Strundepark“ am östlichen Ausgang der Innenstadt. Dort will ein Investor die Parkplätze überbauen, mit einem sehr langen und sehr hohen doppelten W</div>
-  <div class="info">Wed, 18 Feb 2026 11:16:15 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">18.02.2026, 12:16 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/mit-dem-aschermittwoch-endet-in-kuerten-eine-froehliche-und-erfolgreiche-karnevalssession/" target="_blank" rel="noopener">Mit dem Aschermittwoch endet in Kürten eine fröhliche und erfolgreiche Karnevalssession</a></h2>
   <div class="teaser">&lt;p&gt;Ein herzliches Dankeschön geht an alle, die mit großem Einsatz, Organisationstalent und Teamgeist dazu beigetragen haben, dass diese Session so gelungen ist. Besonderer Dank gilt den Karnevalsvereinen sowie dem Ordnungsamt und dem Bauhof für die u</div>
-  <div class="info">Wed, 18 Feb 2026 10:31:50 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">18.02.2026, 11:31 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/besuchstag-fuer-schuelerinnen-und-schueler-unternehmen-im-herweg-stellen-sich-am-25-02-2026-vor/" target="_blank" rel="noopener">Besuchstag für Schülerinnen und Schüler – Unternehmen im Herweg stellen sich am 25.02.2026 vor</a></h2>
   <div class="teaser">&lt;p&gt;Am &lt;strong&gt;25.02.2026 von ca. 13:00 Uhr bis 15:30 Uhr&lt;/strong&gt; plant die Gesamtschule Kürten im Rahmen eines Pilotprojekts einen Besuchstag in Betrieben des Gewerbegebiets &lt;strong&gt;Herweg (Cliev)&lt;/strong&gt; für Schülerinnen und Schüler der 9. und 10.</div>
-  <div class="info">Tue, 17 Feb 2026 10:45:40 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">17.02.2026, 11:45 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.glaktuell.net/weniger-zwischenfaelle-beim-karnevalszug-in-bechen-polizei-zieht-positives-fazit/" target="_blank" rel="noopener">Weniger Zwischenfälle beim Karnevalszug in Bechen – Polizei zieht positives Fazit</a></h2>
   <div class="teaser">Kürten-Bechen – Nach dem Karnevalszug an Weiberfastnacht (12. Februar) hat die Polizei im Rheinisch-Bergischen Kreis eine überwiegend positive Bilanz gezogen. Im Vergleich zu den Vorjahren registrierten die Einsatzkräfte deutlich weniger Störungen un</div>
-  <div class="info">Sat, 14 Feb 2026 11:07:15 · GL Aktuell Kürten</div>
+  <div class="info">14.02.2026, 12:07 Uhr · GL Aktuell Kürten</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/rathaussturm-findet-im-buergerhaus-statt/" target="_blank" rel="noopener">Rathaussturm findet im Bürgerhaus statt</a></h2>
   <div class="teaser">&lt;div class=&quot;xdj266r x14z9mp xat24cr x1lziwak x1vvkbs x126k92a&quot;&gt; &lt;div dir=&quot;auto&quot;&gt;&lt;span class=&quot;html-span xexx8yu xyri2b x18d9i69 x1c1uobl x1hl2dhg x16tdsg8 x1vvkbs x3nfvp2 x1j61x8r x1fcty0u xdj266r xat24cr xm2jcoa x1mpyi22 xxymvpz xlup9mm x1kky2od&quot;&gt;&lt;im</div>
-  <div class="info">Wed, 11 Feb 2026 14:43:13 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">11.02.2026, 15:43 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/karneval-2026-im-gemeindegebiet-kuerten-strassensperrungen-zuege-und-allgemeine-hinweise/" target="_blank" rel="noopener">Karneval 2026 im Gemeindegebiet Kürten – Straßensperrungen, Züge und allgemeine Hinweise</a></h2>
   <div class="teaser">&lt;p&gt;🎭🥳 &lt;strong&gt;Die Gemeinde Kürten wünscht allen Jecken eine fröhliche, sichere und unbeschwerte Karnevalszeit.&lt;/strong&gt; 🎭 🎉&lt;/p&gt; &lt;p&gt;In der Gemeinde Kürten finden im Februar 2026 wieder die traditionellen Karnevalszüge statt. Bürgerinnen und Bürger sow</div>
-  <div class="info">Tue, 10 Feb 2026 09:36:58 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">10.02.2026, 10:36 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.glaktuell.net/diebesserie-in-bergisch-gladbach-geht-weiter-am-09-02-ist-ein-anzeigenerstatter-bei-der-polizeiwache-bergisch-gladbach-erschienen-nachdem-ihm-um-kurz-vor-0700-uhr-ein-diebstahl-aus-seinem-firme/" target="_blank" rel="noopener">Diebesserie in Bergisch Gladbach geht weiter.  Am (09.02.) ist ein Anzeigenerstatter bei der Polizeiwache Bergisch Gladbach erschienen, nachdem ihm um kurz vor 07:00 Uhr ein Diebstahl aus seinem Firmenfahrzeug aufgefallen war.</a></h2>
   <div class="teaser">Der Van der Marke Renault stand seit Freitagabend (06.02.) in der Straße Kirchberg im Ortsteil Dürscheid geparkt und war nach Angaben des Anzeigenerstatters verschlossen. Aus dem Fahrzeug wurden mehrere Baugeräte entwendet, wobei der genaue Wert noch</div>
-  <div class="info">Tue, 10 Feb 2026 09:34:57 · GL Aktuell (Gesamt)</div>
+  <div class="info">10.02.2026, 10:34 Uhr · GL Aktuell (Gesamt)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/rathaus-geaenderte-oeffnungszeiten-ueber-karneval-2026/" target="_blank" rel="noopener">Rathaus: geänderte Öffnungszeiten über Karneval 2026</a></h2>
   <div class="teaser">&lt;table width=&quot;1011&quot;&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td width=&quot;728&quot;&gt;Während der Karnevalszeit sind die Öffnungszeiten wie folgt festgelegt:&lt;/p&gt; &lt;table style=&quot;height: 459px&quot; width=&quot;842&quot;&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td width=&quot;178&quot;&gt;&lt;strong&gt;Februar&lt;/strong&gt;&lt;/td&gt; &lt;td width=&quot;178&quot;&gt;&lt;/td&gt; &lt;</div>
-  <div class="info">Mon, 09 Feb 2026 09:07:30 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">09.02.2026, 10:07 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://in-gl.de/2026/02/06/biologische-station-schenkte-rbn-den-roten-morgenstern/" target="_blank" rel="noopener">Biologische Station schenkte RBN den Roten Morgenstern</a></h2>
   <div class="teaser">Die Obstwiese des (Rheinisch)-Bergischen Naturschutzvereins (RBN) in Bechen ist um eine Besonderheit reicher: Eine besondere Apfelsorte, der Rote Morgenstern, wurde gepflanzt. Dort stehen inzwischen weit über 100 Bäume unterschiedlichen Alters, die a</div>
-  <div class="info">Fri, 06 Feb 2026 06:10:00 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">06.02.2026, 07:10 Uhr · iGL Bürgerportal Bergisch Gladbach</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/feierstunde-im-kuertener-rathaus-schulsozialprojekt-das-kommt-gut-an/" target="_blank" rel="noopener">Feierstunde im Kürtener Rathaus – Schulsozialprojekt „Das kommt gut… an!“</a></h2>
   <div class="teaser">&lt;h3 data-start=&quot;149&quot; data-end=&quot;217&quot;&gt;Schulsozialprojekt „Das kommt gut… an!“ – Feierstunde im Rathaus&lt;/h3&gt; &lt;p&gt;[caption id=&quot;attachment_41847&quot; align=&quot;alignleft&quot; width=&quot;229&quot;]&lt;a href=&quot;https://www.kuerten.de/wp-content/uploads/2026/02/Feierstunde-im-Rathau</div>
-  <div class="info">Thu, 05 Feb 2026 20:08:38 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">05.02.2026, 21:08 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/aktualisiert-strassensperrung-notwendige-arbeiten-in-der-strasse-oberblissenbach-bis-voraussichtlich-13-02-2026/" target="_blank" rel="noopener">Aktualisiert – Straßensperrung: Notwendige Arbeiten in der Straße Oberblissenbach bis voraussichtlich 13.02.2026</a></h2>
   <div class="teaser">&lt;p&gt;&lt;strong&gt;Aktualisierte Information zur Straßensperrung in Kürten (Stand 03.02.2026): &lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Die Gemeinde Kürten führt in der Straße Oberblissenbach im Bereich zwischen der Ortschaft Unterblissenbach und Dürscheid notwendige Straßenbauarbe</div>
-  <div class="info">Mon, 02 Feb 2026 09:05:50 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">02.02.2026, 10:05 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 </div>
 <div class="monat-gruppe">
-<h2 class="monat-header">Januar 2026 <span class="monat-count">14</span></h2>
-<div class="artikel">
-  
-  <h2><a href="https://www.glaktuell.net/ladendiebstahl-in-overath-tatverdaechtiger-festgenommen-zwei-komplizen-auf-der-flucht/" target="_blank" rel="noopener">Ladendiebstahl in Overath: Tatverdächtiger festgenommen, zwei Komplizen auf der Flucht</a></h2>
-  <div class="teaser">Overath-Steinenbrück. Nach einem Ladendiebstahl in einem Discounter an der Olper Straße hat die Polizei am Mittwochnachmittag (28. Januar) einen Tatverdächtigen vorläufig festgenommen. Zwei mutmaßliche Mittäter konnten unerkannt fliehen. Symbolbild G</div>
-  <div class="info">Thu, 29 Jan 2026 10:00:00 · GL Aktuell (Gesamt)</div>
-</div>
+<h2 class="monat-header">Januar 2026 <span class="monat-count">13</span></h2>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/bis-23-januar-bewerben-kostenlose-thermografie-aufnahmen-fuer-ausgewaehlte-gebaeude-im-rheinisch-bergischen-kreis/" target="_blank" rel="noopener">Bis 23. Januar bewerben: kostenlose Thermografie-Aufnahmen für ausgewählte Gebäude im Rheinisch-Bergischen Kreis</a></h2>
   <div class="teaser">&lt;p&gt;Viele Gebäude weisen energetische Schwachstellen auf, die von außen nicht sichtbar sind. Wärmeverluste über Dächer, Fassaden oder Fenster sowie Undichtigkeiten der Gebäudehülle bleiben häufig unbemerkt – und treiben unnötig die Energiekosten in di</div>
-  <div class="info">Fri, 23 Jan 2026 13:07:49 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">23.01.2026, 14:07 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/gemeinde-kuerten-sucht-ehrenamtliche-fuer-die-buergersolarberatung/" target="_blank" rel="noopener">Weitere Infoveranstaltung: Gemeinde Kürten sucht Ehrenamtliche für die BürgerSolarBeratung</a></h2>
   <div class="teaser">&lt;p&gt;Um den Ausbau von &lt;strong&gt;Photovoltaikanlagen auf privaten Wohngebäuden&lt;/strong&gt; weiter voranzubringen, baut die Gemeinde Kürten eine &lt;strong&gt;BürgerSolarBeratung&lt;/strong&gt; auf. Gesucht werden &lt;strong&gt;engagierte Bürger:innen&lt;/strong&gt;, die ihr Wissen</div>
-  <div class="info">Fri, 23 Jan 2026 12:09:31 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">23.01.2026, 13:09 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/warnung-vor-falschen-anzeigenverkaeufen/" target="_blank" rel="noopener">Achtung: Akquiseanrufe von „Medienhaus Verlag GmbH“ bei Unternehmen</a></h2>
   <div class="teaser">&lt;p&gt;Aktuell kommt es vereinzelt zu Anrufen oder Emails bei Unternehmen im Raum Kürten, die ein Bürgermagazin Kürten und Region verkaufen möchten.&lt;/p&gt; &lt;p&gt;Diese Akquise erfolgt nicht in Zusammenarbeit mit der Gemeinde!&lt;/p&gt; &lt;p data-start=&quot;520&quot; data-end=&quot;</div>
-  <div class="info">Thu, 22 Jan 2026 07:28:56 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">22.01.2026, 08:28 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/betreuungsplatzvergabe-in-burscheid-kuerten-und-odenthal-startet-ab-dem-1-februar/" target="_blank" rel="noopener">Betreuungsplatzvergabe in Burscheid, Kürten und Odenthal startet ab dem 1. Februar</a></h2>
   <div class="teaser">&lt;p&gt;&lt;strong&gt;Der Rheinisch-Bergischer Kreis informiert:&lt;/strong&gt;&lt;br /&gt; Ab dem&lt;strong&gt; 1. Februar startet die Vergabe von Betreuungsplätzen in Kindertageseinrichtungen und in der Kindertagespflege&lt;/strong&gt; in Burscheid, Kürten und Odenthal für die Aufna</div>
-  <div class="info">Wed, 14 Jan 2026 08:17:27 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">14.01.2026, 09:17 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.glaktuell.net/betreuungsplatzvergabe-fuer-august-2026-startet-anmeldung-ab-1-februar/" target="_blank" rel="noopener">Betreuungsplatzvergabe für August 2026 startet – Anmeldung ab 1. Februar</a></h2>
   <div class="teaser">In den Städten Burscheid, Kürten und Odenthal beginnt ab dem 1. Februar die Vergabe von Betreuungsplätzen in Kindertageseinrichtungen sowie in der Kindertagespflege. Die Plätze gelten für den Betreuungsstart im August 2026. Symbolbild Registrierung i</div>
-  <div class="info">Mon, 12 Jan 2026 11:35:44 · GL Aktuell Burscheid</div>
+  <div class="info">12.01.2026, 12:35 Uhr · GL Aktuell Burscheid</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/unternehmensbesuch-bei-der-fabema-gmbh-gemeinde-fuehrt-dialog-mit-betrieben-im-neuen-jahr-fort/" target="_blank" rel="noopener">Unternehmensbesuch bei der Fabema GmbH – Gemeinde führt Dialog mit Betrieben im neuen Jahr fort</a></h2>
   <div class="teaser">&lt;p&gt;Am 9. Januar 2026 besuchten Bürgermeister Mario Bredow und Justina Jeziorek von der Wirtschaftsförderung der Gemeinde Kürten das Unternehmen Fabema GmbH am Standort Hahn 10a in Kürten. Mit diesem Besuch setzt die Gemeinde ihre Unternehmensbesuche </div>
-  <div class="info">Mon, 12 Jan 2026 10:24:08 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">12.01.2026, 11:24 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/info-des-schulministeriums-fuer-montag-12-01-2026/" target="_blank" rel="noopener">Info des Schulministeriums für Montag, 12.01.2026</a></h2>
   <div class="teaser">&lt;p&gt;&lt;span class=&quot;x193iq5w xeuugli x13faqbe x1vvkbs x1xmvt09 x1lliihq x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x xudqn12 x3x7a5m x6prxxf xvq8zen xo1l8bm xzsf02u&quot; dir=&quot;auto&quot;&gt;&lt;span class=&quot;html-span xexx8yu xyri2b x18d9i69 x1c1uobl x1hl2dhg x16t</div>
-  <div class="info">Sun, 11 Jan 2026 16:25:59 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">11.01.2026, 17:25 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/weihnachtsbaumabfuhr-am-10-01-26/" target="_blank" rel="noopener">**Update von Samstag, 12 Uhr** Weihnachtsbaumabfuhr am 10.01.26</a></h2>
   <div class="teaser">&lt;div&gt; &lt;p&gt;&lt;strong&gt;***Update von der Jugendfeuerwehr*** Samstag, 10.01.2026 - 12 Uhr:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Liebe Mitbürgerinnen und Mitbürger,&lt;br /&gt; für den heutigen Tag ist unsere Weihnachtsbaumsammelaktion 2026 geplant.&lt;/p&gt; &lt;p&gt;Wir sind unterwegs, aber auf</div>
-  <div class="info">Fri, 09 Jan 2026 10:11:13 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">09.01.2026, 11:11 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.glaktuell.net/verkehrsunfall-an-a4-auffahrt-in-bergisch-gladbach-zwei-personen-verletzt/" target="_blank" rel="noopener">Verkehrsunfall an A4-Auffahrt in Bergisch Gladbach – zwei Personen verletzt</a></h2>
   <div class="teaser">In Bergisch Gladbach sind am Mittwochmorgen (07.01.) zwei Menschen bei einem Verkehrsunfall verletzt worden. Der Zusammenstoß ereignete sich gegen 7.10 Uhr im Bereich der Autobahnauffahrt zur Bundesautobahn 4 in Fahrtrichtung Olpe. Verkehrsunfall Rat</div>
-  <div class="info">Thu, 08 Jan 2026 11:44:51 · GL Aktuell (Gesamt)</div>
+  <div class="info">08.01.2026, 12:44 Uhr · GL Aktuell (Gesamt)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/kuebib-gemeindebibliothek-heute-am-08-01-2026-geschlossen/" target="_blank" rel="noopener">KüBib Gemeindebibliothek HEUTE am 08.01.2026 geschlossen</a></h2>
   <div class="teaser">&lt;div class=&quot;html-div xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl&quot; dir=&quot;auto&quot;&gt; &lt;div class=&quot;html-div xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl&quot; data-ad-rendering-role=&quot;story_message&quot;&gt; &lt;div id=&quot;_r_c2_&quot; class</div>
-  <div class="info">Thu, 08 Jan 2026 08:50:34 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">08.01.2026, 09:50 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/witterungsbedingter-abbruch-von-abfallleerungen-im-bav-einzugsgebiet/" target="_blank" rel="noopener">Witterungsbedingter Abbruch von Abfallleerungen im BAV Einzugsgebiet</a></h2>
   <div class="teaser">&lt;p&gt;Aufgrund der aktuellen Wetterlage mit anhaltender Schnee- und Eisglätte werden sich auch in den nächsten Tagen die gewohnten Abfuhren im &lt;strong&gt;Einzugsgebiet des Bergischen Abfallwirtschaftsverbands (BAV)&lt;/strong&gt;, insbesondere in den Nebenstraße</div>
-  <div class="info">Tue, 06 Jan 2026 08:57:00 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">06.01.2026, 09:57 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/sternsinger-zu-besuch-im-rathaus/" target="_blank" rel="noopener">Sternsinger zu Besuch im Rathaus</a></h2>
   <div class="teaser">Sternsinger zu Besuch im Rathaus&lt;p data-start=&quot;157&quot; data-end=&quot;193&quot;&gt;&lt;strong data-start=&quot;157&quot; data-end=&quot;193&quot;&gt;Sternsinger zu Besuch im Rathaus&lt;/strong&gt;&lt;/p&gt; &lt;p data-start=&quot;195&quot; data-end=&quot;396&quot;&gt;Heute durfte das Rathaus besonderen Besuch empfangen: Die Ster</div>
-  <div class="info">Tue, 06 Jan 2026 07:12:27 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">06.01.2026, 08:12 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.glaktuell.net/linienbus-rutscht-in-kuerten-einen-hang-hinunter-drei-menschen-verletzt/" target="_blank" rel="noopener">Linienbus rutscht in Kürten einen Hang hinunter – drei Menschen verletzt</a></h2>
   <div class="teaser">In Kürten ist es am Freitagmorgen (02.01.) zu einem schweren Verkehrsunfall mit einem Linienbus gekommen. Gegen 7.50 Uhr verunglückte das Fahrzeug auf der Bergstraße infolge witterungsbedingter Fahrbahnverhältnisse. Drei Personen wurden verletzt, ein</div>
-  <div class="info">Mon, 05 Jan 2026 13:26:00 · GL Aktuell Kürten</div>
+  <div class="info">05.01.2026, 14:26 Uhr · GL Aktuell Kürten</div>
 </div>
 </div>
 <div class="monat-gruppe">
@@ -658,383 +611,167 @@ footer a { color: #85C1E9; }
   
   <h2><a href="https://www.glaktuell.net/drei-festnahmen-nach-naechtlichem-einbruch-in-kuertener-baumarkt/" target="_blank" rel="noopener">Drei Festnahmen nach nächtlichem Einbruch in Kürtener Baumarkt</a></h2>
   <div class="teaser">In der Nacht auf Sonntag hat die Polizei nach einem Einbruch in einen Baumarkt in Kürten drei Tatverdächtige festgenommen. Die Männer stehen im Verdacht, zuvor auch einen weiteren Einbruchsversuch in der Region unternommen zu haben. Sie sollen noch a</div>
-  <div class="info">Mon, 22 Dec 2025 13:47:21 · GL Aktuell Kürten</div>
+  <div class="info">22.12.2025, 14:47 Uhr · GL Aktuell Kürten</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/rathaus-oeffnungszeiten-zwischen-den-weihnachtsfeiertagen-und-dem-jahreswechsel-2025-2026/" target="_blank" rel="noopener">Rathaus Öffnungszeiten zwischen den Weihnachtsfeiertagen und dem Jahreswechsel 2025/2026</a></h2>
   <div class="teaser">&lt;p&gt;Nachfolgend erhalten Sie Informationen zu den Öffnungszeiten zwischen den Weihnachtsfeiertagen und dem Jahreswechsel 2025 / 2026:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;br /&gt; Öffnungszeiten der &lt;/strong&gt;&lt;strong&gt;Gemeindeverwaltung&lt;br /&gt; &lt;/strong&gt;Die Öffnungszeiten der Di</div>
-  <div class="info">Mon, 22 Dec 2025 09:52:48 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">22.12.2025, 10:52 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/neuer-standort-fuer-container-fuer-altkleider-und-elektrokleingeraete/" target="_blank" rel="noopener">Neuer Standort für Container für Altkleider und Elektrokleingeräte</a></h2>
   <div class="teaser">&lt;p&gt;&lt;em&gt;Die &lt;strong&gt;Depotcontainer für Altkleider und Elektroaltgeräte&lt;/strong&gt; wurden an einen neuen Standort im Gemeindegebiet verlegt. Der bisherige Standort an der Olpener Straße befand sich im Bereich der Zufahrt zum Schulzentrum und war häufig v</div>
-  <div class="info">Thu, 18 Dec 2025 12:20:11 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">18.12.2025, 13:20 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/jetzt-ihre-zaehlerstaende-an-das-gemeindewasserwerk-uebermitteln/" target="_blank" rel="noopener">Jetzt Zählerstände an das Gemeindewasserwerk übermitteln</a></h2>
   <div class="teaser">&lt;p&gt;Das Gemeindewasserwerk Kürten startet mit der Abfrage der Zählerstände zur Jahresabrechnung 2025 im Versorgungsgebiet.&lt;/p&gt; &lt;p&gt;Ab dem heutigen Freitag, dem 05.12.2025, werden vom Gemeindewasserwerk die schriftlichen Aufforderungen zur Zählerstandsü</div>
-  <div class="info">Thu, 18 Dec 2025 12:00:07 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">18.12.2025, 13:00 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/gemeindeverwaltung-kuerten-stellt-finanzsoftware-um-das-muessen-buergerinnen-und-buerger-jetzt-wissen/" target="_blank" rel="noopener">Gemeindeverwaltung Kürten stellt Finanzsoftware um – das müssen Bürgerinnen und Bürger jetzt wissen</a></h2>
   <div class="teaser">&lt;h3&gt;Kürten stellt Finanzsoftware um – das müssen Bürgerinnen und Bürger jetzt wissen&lt;/h3&gt; &lt;p&gt;Die Gemeinde Kürten führt eine neue Software als Lösung für die smarte Verwaltung ein. Worauf müssen sich die Bürgerinnen und Bürger, Steuer- und Abgabenzahl</div>
-  <div class="info">Wed, 17 Dec 2025 13:25:26 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">17.12.2025, 14:25 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/pressemitteilung-des-kreises-zur-erddeponie-in-kuerten-hoechsten-baubeginn-voraussichtlich-im-fruehjahr-2026/" target="_blank" rel="noopener">Pressemitteilung des Kreises zur Erddeponie in Kürten Höchsten – Baubeginn voraussichtlich im Frühjahr 2026</a></h2>
   <div class="teaser">&lt;p&gt;Die Pressestelle des Rheinisch-Bergischen Kreises informiert über die geplante Erddeponie in Kürten Höchsten mit einer Pressemitteilung vom 11. Dezember 2025&lt;/p&gt; &lt;p&gt;Lesen Sie die Pressemitteilung hier beim RBK&lt;strong&gt; &lt;a href=&quot;https://www.rbk-dire</div>
-  <div class="info">Tue, 16 Dec 2025 11:38:54 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">16.12.2025, 12:38 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/die-bergische-kostuemboerse-ist-zurueck-jetzt-kostueme-abgeben/" target="_blank" rel="noopener">Die Bergische Kostümbörse vom BAV: Jetzt Kostüme abgeben!</a></h2>
   <div class="teaser">&lt;p&gt;Nach den Feiertagen kommt Karneval schneller, als man denkt. Viele Jecke überlegen bereits, welches Kostüm sie in der anstehenden Session tragen werden. Gleichzeitig schlummern in Kellern, Schränken und Speichern unzählige Schätze: Kostüme, die nu</div>
-  <div class="info">Thu, 11 Dec 2025 07:58:33 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">11.12.2025, 08:58 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/ehrenamtstag-und-heimatpreisverleihung-am-05-12-2025-ein-abend-des-dankes-und-der-anerkennung/" target="_blank" rel="noopener">Ehrenamtstag und Heimatpreisverleihung am 05.12.2025 – Ein Abend des Dankes und der Anerkennung</a></h2>
   <div class="teaser">&lt;p&gt;Die Gemeinde Kürten hat auch in diesem Jahr im festlichen Stil zum &lt;strong&gt;Tag des Ehrenamtes am 05.12.2025&lt;/strong&gt; ins Bürgerhaus eingeladen. Der Abend stand im Zeichen der Wertschätzung: Zahlreiche &lt;strong&gt;Ehrenamtlerinnen und Ehrenamtler&lt;/stro</div>
-  <div class="info">Tue, 09 Dec 2025 11:35:20 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">09.12.2025, 12:35 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/unternehmensbesuch-bei-wurth-sh-gemeinde-setzt-austausch-mit-betrieben-fort/" target="_blank" rel="noopener">Unternehmensbesuch bei Wurth S+H: Gemeinde setzt Austausch mit Betrieben fort</a></h2>
   <div class="teaser">&lt;p&gt;Am 1. Dezember 2025 besuchten Bürgermeister Mario Bredow und Justina Jeziorek von der Wirtschaftsförderung der Gemeinde Kürten die Wurth S+H GmbH &amp; Co. KG am Standort Herrenhöhe 7 in Kürten-Herweg. Die fortlaufenden Unternehmensbesuche dienen dazu</div>
-  <div class="info">Mon, 08 Dec 2025 11:55:44 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">08.12.2025, 12:55 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/ehrenamtstag-und-heimatpreis-feier-am-5-dezember/" target="_blank" rel="noopener">Ehrenamtstag und Heimatpreis – Feier am 5. Dezember</a></h2>
   <div class="teaser">&lt;p&gt;Am Freitag, den 5. Dezember, findet ab 18 Uhr die Feier zum Ehrenamtstag mit Verleihung des Heimatpreises statt.&lt;/p&gt; &lt;p&gt;Die Gemeinde Kürten lädt alle Ehrenamtlichen auch in diesem Jahr ganz herzlich ein zum Ehrenamtstag 2025&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Program</div>
-  <div class="info">Fri, 05 Dec 2025 12:03:17 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">05.12.2025, 13:03 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   <div class="tagline"><span class="tag bericht">Bericht</span></div>
   <h2><a href="https://www.glaktuell.net/broetchentueten-setzen-klares-zeichen-gegen-gewalt-an-frauen-im-rheinisch-bergischen-kreis/" target="_blank" rel="noopener">Brötchentüten setzen klares Zeichen gegen Gewalt an Frauen im Rheinisch-Bergischen Kreis</a></h2>
   <div class="teaser">Mit einer aufmerksamkeitsstarken Mitmachaktion setzen mehrere Bäckereien im Rheinisch-Bergischen Kreis derzeit ein sichtbares Signal gegen häusliche Gewalt. Im Rahmen der Orange Days geben Betriebe in Wermelskirchen, Burscheid, Kürten, Odenthal und L</div>
-  <div class="info">Wed, 03 Dec 2025 10:51:12 · GL Aktuell Politik</div>
+  <div class="info">03.12.2025, 11:51 Uhr · GL Aktuell Politik</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/unternehmensbesuch-bei-techflex-germany-gmbh-auftakt-einer-neuen-besuchsreihe/" target="_blank" rel="noopener">Unternehmensbesuch bei Techflex Germany GmbH – Auftakt einer neuen Besuchsreihe</a></h2>
   <div class="teaser">&lt;p&gt;Am 25. November 2025 besuchten Bürgermeister Mario Bredow und Justina Jeziorek aus der Wirtschaftsförderung die Techflex Germany GmbH am Standort Hungenbach 4b in Kürten. Der Termin markiert den Auftakt einer Reihe regelmäßiger Unternehmensbesuche</div>
-  <div class="info">Tue, 02 Dec 2025 09:23:03 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">02.12.2025, 10:23 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 </div>
 <div class="monat-gruppe">
-<h2 class="monat-header">November 2025 <span class="monat-count">10</span></h2>
+<h2 class="monat-header">November 2025 <span class="monat-count">8</span></h2>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/sirenen-probealarm-in-kuerten-am-samstag-den-6-dezember-2025/" target="_blank" rel="noopener">Sirenen-Probealarm in Kürten am Samstag, den 6. Dezember 2025</a></h2>
   <div class="teaser">&lt;p&gt;Am &lt;strong&gt;Samstag, den 6. Dezember 2025,&lt;/strong&gt; findet der nächste &lt;strong&gt;planmäßige Probelauf unserer Sirenen&lt;/strong&gt; im gesamten Gemeindegebiet Kürten statt.&lt;/p&gt; &lt;p&gt;Dieser Probealarm dient zwei wichtigen Zielen: Erstens überprüfen wir die t</div>
-  <div class="info">Fri, 28 Nov 2025 09:56:43 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">28.11.2025, 10:56 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/neue-adac-radservice-station-in-kuerten-bechen/" target="_blank" rel="noopener">Neue ADAC Radservice-Station in Kürten-Bechen</a></h2>
   <div class="teaser">&lt;p&gt;Der &lt;strong&gt;ADAC Nordrhein&lt;/strong&gt; hat &lt;strong&gt;in Kürten &lt;/strong&gt;eine &lt;strong&gt;neue ADAC Radservice-Station&lt;/strong&gt;. Die 1,50 Meter hohe Reparatursäule steht neben der Mobilstation am Kreisverkehr in Kürten-Bechen (Kölner Str. 366) und ist mit h</div>
-  <div class="info">Fri, 28 Nov 2025 08:12:19 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">28.11.2025, 09:12 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/workshoptag-beim-rbk-wie-vereinbare-ich-beruf-und-pflege/" target="_blank" rel="noopener">Workshoptag beim RBK: Wie vereinbare ich Beruf und Pflege?</a></h2>
   <div class="teaser">&lt;h3&gt;Wie vereinbare ich Beruf und Pflege?&lt;/h3&gt; &lt;p&gt;Das Thema Pflegebedürftigkeit ist früher oder später ein Thema, das jede Familie treffen kann.&lt;/p&gt; &lt;p&gt;Um rechtzeitig darauf vorbereitet zu sein, findet am 27. November im Kreishaus Heidkamp ab 8.30 Uhr</div>
-  <div class="info">Mon, 17 Nov 2025 10:32:02 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">17.11.2025, 11:32 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/kreative-projekte-fuer-den-kulturrucksack-nrw-2026-gesucht/" target="_blank" rel="noopener">Kreative Projekte für den Kulturrucksack NRW 2026 gesucht</a></h2>
   <div class="teaser">&lt;p&gt;Die Planungen für den &lt;strong&gt;Kulturrucksack NRW 2026&lt;/strong&gt; haben begonnen: Die Gemeinde Kürten ruft Künstlerinnen und Künstler dazu auf, ihre Projektideen für das kommende Jahr einzureichen. Die Förderzusage für 2026 liegt bereits vor, sodass </div>
-  <div class="info">Thu, 13 Nov 2025 07:19:05 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">13.11.2025, 08:19 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/bav-digitaler-abfuhrkalender-2026-fuer-kuerten/" target="_blank" rel="noopener">BAV: digitaler Abfuhrkalender 2026 für Kürten</a></h2>
   <div class="teaser">&lt;p&gt;Nutzen Sie schon die digitalen Serviceleistungen des Bergischen Abfallwirtschaftsverbandes (BAV)?&lt;/p&gt; &lt;p&gt;Ihr individueller Abfuhrkalender steht online bereit im &lt;strong&gt;abfall&lt;/strong&gt;navi (&lt;a href=&quot;http://www.bavweb.de&quot; target=&quot;_blank&quot; rel=&quot;noope</div>
-  <div class="info">Thu, 13 Nov 2025 07:00:00 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">13.11.2025, 08:00 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/gedenkgottesdienst-mit-kranzniederlegung-zum-volkstrauertag-am-16-11-2025/" target="_blank" rel="noopener">Gedenkgottesdienst mit Kranzniederlegung zum Volkstrauertag am 16.11.2025</a></h2>
   <div class="teaser">&lt;p data-start=&quot;314&quot; data-end=&quot;622&quot;&gt;Am &lt;strong data-start=&quot;317&quot; data-end=&quot;351&quot;&gt;Sonntag, den 16. November 2025&lt;/strong&gt;, findet in der &lt;strong data-start=&quot;367&quot; data-end=&quot;406&quot;&gt;St. Johann Baptist Kirche in Kürten&lt;/strong&gt; die traditionelle &lt;strong data-s</div>
-  <div class="info">Tue, 11 Nov 2025 11:57:44 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">11.11.2025, 12:57 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/kulturrucksack-neuigkeiten-tipp-der-woche-der-podcast-folge-knowledge-der-menschliche-geist/" target="_blank" rel="noopener">Kulturrucksack Neuigkeiten: Tipp der Woche der Podcast Folge „Knowledge“ – Der menschliche Geist</a></h2>
   <div class="teaser">&lt;p&gt;&lt;strong&gt;🎧&lt;/strong&gt;&lt;strong&gt; Tipp der Woche der Podcast Folge: „Knowledge&quot; – Der menschliche Geist&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Wir informieren über spannende Neuigkeiten zum Wissens-Podcast „Knowledge“, der von Kindern und Jugendlichen aus dem Jugendzentrum K51</div>
-  <div class="info">Tue, 11 Nov 2025 11:13:43 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">11.11.2025, 12:13 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
 <div class="artikel">
   
   <h2><a href="https://www.glaktuell.net/werkzeuge-gestohlen-unbekannte-brechen-handwerkerfahrzeug-in-kuerten-bechen-auf/" target="_blank" rel="noopener">Werkzeuge gestohlen: Unbekannte brechen Handwerkerfahrzeug in Kürten-Bechen auf</a></h2>
   <div class="teaser">Kürten-Bechen. In der Kölner Straße sind am vergangenen Wochenende mehrere Baumaschinen aus einem Handwerkerfahrzeug gestohlen worden. Wie der Besitzer am Montagmorgen (10.11.) bemerkte, hatten Unbekannte eine Scheibe des Fahrzeugs eingeschlagen und </div>
-  <div class="info">Tue, 11 Nov 2025 10:00:00 · GL Aktuell Kürten</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.glaktuell.net/schmuckdiebstahl-in-overath-steinenbrueck-taeter-schlagen-heckscheibe-ein-polizei-sucht-zeugen/" target="_blank" rel="noopener">Schmuckdiebstahl in Overath-Steinenbrück: Täter schlagen Heckscheibe ein – Polizei sucht Zeugen</a></h2>
-  <div class="teaser">Overath. In Steinenbrück haben Unbekannte in der Nacht auf Montag einen geparkten Firmenwagen aufgebrochen und dabei mehrere Schmuckstücke entwendet. Der Vorfall ereignete sich auf einem Anwohnerparkplatz an der Olper Straße. Die Polizei ermittelt we</div>
-  <div class="info">Tue, 11 Nov 2025 09:09:45 · GL Aktuell Overath</div>
-</div>
-<div class="artikel">
-  <div class="tagline"><span class="tag bericht">Bericht</span></div>
-  <h2><a href="https://in-gl.de/2025/11/05/buergermeister-und-stadtrat-starten-stolperfrei/" target="_blank" rel="noopener">Bürgermeister und Stadtrat starten stolperfrei</a></h2>
-  <div class="teaser">Bei der ersten Sitzung des neuen Stadtrats ist Marcel Kreutz als neuer Bürgermeister vereidigt worden, sind seine vier (!) Stellvertreter gewählt und alle Ausschüsse besetzt worden. CDU, Grüne und SPD hatten sich vorab geeinigt, fast alle Beschlüsse </div>
-  <div class="info">Wed, 05 Nov 2025 09:49:10 · iGL Bürgerportal Bergisch Gladbach</div>
+  <div class="info">11.11.2025, 11:00 Uhr · GL Aktuell Kürten</div>
 </div>
 </div>
 <div class="monat-gruppe">
-<h2 class="monat-header">Oktober 2025 <span class="monat-count">3</span></h2>
+<h2 class="monat-header">Oktober 2025 <span class="monat-count">1</span></h2>
 <div class="artikel">
   
   <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/infoabend-fuer-eltern-von-viertklaesslern-zur-wahl-der-weiterfuehrenden-schule-am-29-10-2025/" target="_blank" rel="noopener">Infoabend für Eltern von Viertklässlern zur Wahl der weiterführenden Schule am 29.10.2025</a></h2>
   <div class="teaser">&lt;p data-start=&quot;200&quot; data-end=&quot;476&quot;&gt;Der Übergang von der Grundschule zur weiterführenden Schule ist ein wichtiger Schritt im Bildungsweg Ihres Kindes. Um Sie bei dieser Entscheidung zu unterstützen, laden wir alle Eltern von Schülerinnen und Schülern </div>
-  <div class="info">Mon, 27 Oct 2025 09:37:34 · Gemeinde Kürten (offiziell)</div>
+  <div class="info">27.10.2025, 10:37 Uhr · Gemeinde Kürten (offiziell)</div>
 </div>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/kuecard-netzwerktreffen-am-05-11-2025-um-18-uhr-im-buergerhaus-der-gemeinde-kuerten/" target="_blank" rel="noopener">KüCard Netzwerktreffen am 05.11.2025 um 18 Uhr im Bürgerhaus der Gemeinde Kürten</a></h2>
-  <div class="teaser">&lt;p&gt;Die KüCard ist nun seit gut einem Jahr aktiv – Zeit, gemeinsam zurückzuschauen und einen Blick nach vorne zu werfen. Wir möchten Ihnen ein paar Zahlen zur bisherigen Entwicklung vorstellen, aber vor allem mit Ihnen ins Gespräch kommen. Gerade im A</div>
-  <div class="info">Tue, 21 Oct 2025 10:51:24 · Gemeinde Kürten (offiziell)</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/information-keine-aktuelle-zusammenarbeit-mit-verlagshaus/" target="_blank" rel="noopener">Information für Unternehmen: Keine aktive Zusammenarbeit mit Verlagshaus</a></h2>
-  <div class="teaser">&lt;p data-start=&quot;198&quot; data-end=&quot;504&quot;&gt;Das Verlagshaus Werbe.Wert Verlagshaus GmbH aus Andernach am Rhein kontaktiert derzeit Unternehmen aus Kürten und offeriert diesen einen kostenpflichtigen Eintrag in eine von dieser Firma verlegte Bürgerinformations</div>
-  <div class="info">Wed, 15 Oct 2025 10:39:01 · Gemeinde Kürten (offiziell)</div>
-</div>
-</div>
-<div class="monat-gruppe">
-<h2 class="monat-header">September 2025 <span class="monat-count">3</span></h2>
-<div class="artikel">
-  
-  <h2><a href="https://www.glaktuell.net/vandalismus-sorgt-fuer-bahnchaos-zwischen-koeln-und-duesseldorf/" target="_blank" rel="noopener">Vandalismus sorgt für Bahnchaos zwischen Köln und Düsseldorf</a></h2>
-  <div class="teaser">Pendlerinnen und Pendler mussten am Montagmorgen auf der Strecke zwischen Köln und Düsseldorf viel Geduld mitbringen. Grund waren massive Störungen im Bahnverkehr: Ein Stellwerk wurde durch Vandalismus beschädigt, wodurch zahlreiche Züge ausfielen od</div>
-  <div class="info">Mon, 22 Sep 2025 09:56:01 · GL Aktuell Kürten</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/kommunahlwahl-2025-ergebnisse-fuer-kuerten/" target="_blank" rel="noopener">Kommunahlwahl 2025 – Ergebnisse für Kürten</a></h2>
-  <div class="teaser">&lt;p&gt;Kürten hat gewählt!&lt;/p&gt; &lt;p&gt;Alle Ergebnisse der Kommunalwahl finden Sie hier: &lt;a href=&quot;https://wahlen.kommunale.it/production/05378012/index.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;u&gt;ERGEBNISSE KÜRTEN&lt;/u&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Die Ergebnisse aller anderen Kommu</div>
-  <div class="info">Mon, 15 Sep 2025 10:05:08 · Gemeinde Kürten (offiziell)</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/wichtige-information-anrufe-und-aktuelle-akquise/" target="_blank" rel="noopener">Achtung: Akquiseanrufe von „PR-Media“ bei Unternehmen</a></h2>
-  <div class="teaser">&lt;p data-start=&quot;137&quot; data-end=&quot;518&quot;&gt;In den vergangenen Wochen erhielten vereinzelt Unternehmen im Raum Kürten Anrufe und E-Mails von einer Firma namens &quot;PR-Media&quot; mit angeblichem Sitz in den USA. Dabei wurde fälschlicherweise behauptet, im Namen des A</div>
-  <div class="info">Thu, 11 Sep 2025 10:19:44 · Gemeinde Kürten (offiziell)</div>
-</div>
-</div>
-<div class="monat-gruppe">
-<h2 class="monat-header">Juli 2025 <span class="monat-count">3</span></h2>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/digitale-veranstaltungsreihe-zum-thema-leben-mit-baby-infos-und-austausch-fuer-muetter-und-vaeter/" target="_blank" rel="noopener">Digitale Veranstaltungsreihe „Leben mit Baby“ – Infos und Austausch für Mütter und Väter</a></h2>
-  <div class="teaser">&lt;p&gt;&lt;strong&gt;Mit der Geburt eines Babys bricht für Eltern eine spannende Zeit an, in der viel Neues passiert.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Besonders die ersten Lebensmonate und Jahre des Kindes sind aufregend und schön, können für Eltern aber auch herausfordernd se</div>
-  <div class="info">Wed, 30 Jul 2025 08:00:18 · Gemeinde Kürten (offiziell)</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.glaktuell.net/einbruchsserie-in-kuerten-und-roesrath-taeter-fluechten-in-einem-fall-ohne-beute/" target="_blank" rel="noopener">Einbruchsserie in Kürten und Rösrath: Täter flüchten in einem Fall ohne Beute</a></h2>
-  <div class="teaser">In der Nacht zum Mittwoch (3. Juli) kam es gleich zu zwei Einbrüchen in Wohnhäuser im Rheinisch-Bergischen Kreis. Während ein Einbruch in Kürten durch die Aufmerksamkeit der Bewohner scheiterte, hatten Einbrecher in Rösrath mehr Erfolg. Symbolbild Hu</div>
-  <div class="info">Fri, 04 Jul 2025 08:11:42 · GL Aktuell Kürten</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.glaktuell.net/kuerten-senior-faellt-auf-betrugsmasche-herein-fuenfstelliger-geldbetrag-verloren/" target="_blank" rel="noopener">Kürten: Senior fällt auf Betrugsmasche herein – fünfstelliger Geldbetrag verloren</a></h2>
-  <div class="teaser">In Kürten ist ein 78-jähriger Mann Opfer eines dreisten Betrugs geworden. Wie die Polizei mitteilt, hat der Senior einem unbekannten Täter eine größere Geldsumme überwiesen, nachdem ihm per E-Mail eine vermeintliche Auszahlung von 170.000 Euro in Aus</div>
-  <div class="info">Wed, 02 Jul 2025 08:20:05 · GL Aktuell Kürten</div>
-</div>
-</div>
-<div class="monat-gruppe">
-<h2 class="monat-header">Juni 2025 <span class="monat-count">6</span></h2>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/kostenfreie-workshops-fuer-insektenfreundliche-aufwertung-von-schottergaerten-jetzt-anmelden/" target="_blank" rel="noopener">Kostenfreie Workshops für insektenfreundliche Aufwertung von Schottergärten – jetzt anmelden!</a></h2>
-  <div class="teaser">&lt;p&gt;Schottergärten waren über einige Jahre hinweg eine beliebte Alternative für den (Vor-) Garten. In den letzten Jahren sind sie jedoch in Verruf geraten. Sie sind nicht insektenfreundlich, Starkregen kann auf der Fläche kaum versickern, für die &quot;Rei</div>
-  <div class="info">Mon, 30 Jun 2025 07:18:19 · Gemeinde Kürten (offiziell)</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/fuehrerscheintausch-fuehrerscheine-mit-ausstellungsdatum-in-den-jahren-1999-bis-2001-bis-zum-19-januar-2026-umtauschen/" target="_blank" rel="noopener">Führerscheintausch: Führerscheine mit Ausstellungsdatum in den Jahren 1999 bis 2001 bis zum 19. Januar 2026 umtauschen</a></h2>
-  <div class="teaser">&lt;p&gt;„Alles hat ein Ende. Auch Ihr Führerschein“ – Zum &lt;strong&gt;Stichtag 19. Januar 2026&lt;/strong&gt; verlieren die ersten EU-Kartenführerscheine, konkret jene mit &lt;strong&gt;Ausstellungsdatum in den Jahren 1999 bis 2001&lt;/strong&gt;, ihre Gültigkeit. Der Austausc</div>
-  <div class="info">Mon, 30 Jun 2025 06:38:23 · Gemeinde Kürten (offiziell)</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.glaktuell.net/bergisch-gladbach-quadfahrer-bei-unfall-auf-kuertener-strasse-schwer-verletzt/" target="_blank" rel="noopener">Bergisch Gladbach: Quadfahrer bei Unfall auf Kürtener Straße schwer verletzt</a></h2>
-  <div class="teaser">Am Dienstagmorgen (24. Juni) kam es auf der Kürtener Straße (L 286) in Bergisch Gladbach zu einem schweren Verkehrsunfall. Dabei wurde ein 38-jähriger Quadfahrer verletzt und musste stationär ins Krankenhaus eingeliefert werden. Van des Unfallbeteili</div>
-  <div class="info">Tue, 24 Jun 2025 09:41:00 · GL Aktuell Kürten</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/informationen-zur-planung-von-veranstaltungen-im-gemeindegebiet-kuerten/" target="_blank" rel="noopener">Informationen zur Planung von Veranstaltungen im Gemeindegebiet Kürten</a></h2>
-  <div class="teaser">&lt;p&gt;Verehrte Vereine, Bürgerinnen und Bürger, Institutionen und Veranstaltende,&lt;/p&gt; &lt;p&gt;insbesondere in letzter Zeit hat die öffentliche Sicherheit und Ordnung bei Veranstaltungen stark an Bedeutung gewonnen. Vor diesem Hintergrund ist die &lt;strong&gt;Ausa</div>
-  <div class="info">Mon, 23 Jun 2025 10:45:18 · Gemeinde Kürten (offiziell)</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/neuer-familienwanderweg-hexenpfad-dorf-olpe/" target="_blank" rel="noopener">Neuer Familienwanderweg: Hexenpfad Dorf Olpe</a></h2>
-  <div class="teaser">&lt;p&gt;Der „Hexenpfad Dorf Olpe“ wurde von der Interessengemeinschaft Dorf Olpe als neuer spielerischer, familienfreundlicher Themenwanderweg konzipiert. Natur, Heimatgeschichte und Fantasie werden hier auf unterhaltsame Weise miteinander verbunden. Auf </div>
-  <div class="info">Mon, 16 Jun 2025 08:30:25 · Gemeinde Kürten (offiziell)</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/rheinisch-bergisches-technologie-zentrum-rbtz-und-rheinisch-bergische-wirtschaftsfoerderungsgesellschaft-rbw-starten-gemeinsame-start-up-dachmarke/" target="_blank" rel="noopener">Rheinisch-Bergisches Technologie Zentrum (RBTZ) und Rheinisch-Bergische Wirtschaftsförderungsgesellschaft (RBW) starten gemeinsame Start-up-Dachmarke</a></h2>
-  <div class="teaser">&lt;p&gt;Mit dem Launch der neuen Start-up-Dachmarke&lt;strong&gt; StartRaum GL&lt;/strong&gt; bündeln das Rheinisch-Bergische TechnologieZentrum GmbH (RBTZ) und die Rheinisch-Bergische Wirtschaftsförderungsgesellschaft mbH (RBW) ihre Kräfte und Angebote für eine star</div>
-  <div class="info">Wed, 04 Jun 2025 09:37:40 · Gemeinde Kürten (offiziell)</div>
-</div>
-</div>
-<div class="monat-gruppe">
-<h2 class="monat-header">Mai 2025 <span class="monat-count">5</span></h2>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/der-efa-dienst-ehe-online-steht-ab-sofort-im-buergerserviceportal-zur-verfuegung/" target="_blank" rel="noopener">Der EfA-Dienst „Ehe-Online“ steht ab sofort im Bürgerserviceportal zur Verfügung</a></h2>
-  <div class="teaser">&lt;div class=&quot;text-wr&quot;&gt; &lt;p&gt;&lt;strong&gt;Neu in unserem Bürgerserviceportal: Der EfA-Dienst &quot;Ehe-Online&quot; steht ab sofort zur Verfügung&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Ab sofort können Bürgerinnen und Bürger der Gemeinde Kürten den neuen digitalen Service &lt;strong&gt;„Ehe-Online</div>
-  <div class="info">Fri, 30 May 2025 08:42:11 · Gemeinde Kürten (offiziell)</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/rbk-bittet-um-vorschlaege-zu-ehrung-verdienter-buergerinnen-und-buerger-bis-zum-15-08-25/" target="_blank" rel="noopener">RBK bittet um Vorschläge zu Ehrung verdienter Bürgerinnen und Bürger bis zum 15.08.25</a></h2>
-  <div class="teaser">&lt;h3&gt;Die Ehrung verdienter Bürgerinnen und Bürger&lt;/h3&gt; &lt;div class=&quot;intro&quot;&gt; &lt;p&gt;Der Rheinisch-Bergische Kreis zeichnet jährlich bis zu 25 Personen aus, die sich in den Bereichen Soziales, Kultur oder Jugendförderung engagieren.&lt;/p&gt; &lt;/div&gt; &lt;p&gt;Geehrt werd</div>
-  <div class="info">Wed, 28 May 2025 11:53:07 · Gemeinde Kürten (offiziell)</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/saubere-trennung-in-der-biotonne-warum-ist-das-so-wichtig/" target="_blank" rel="noopener">Saubere Trennung in der Biotonne – Warum ist das so wichtig?</a></h2>
-  <div class="teaser">&lt;p&gt;Eine „saubere“ Abfalltrennung ist das A und O für die weitere Verarbeitung unserer Abfälle, sodass daraus zum Teil wieder wertvolle Produkte entstehen können. Im Bioabfall und auch im Grünschnitt können Störstoffe die weitere Verarbeitung zum Teil</div>
-  <div class="info">Fri, 23 May 2025 10:11:59 · Gemeinde Kürten (offiziell)</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/heimatpreis-kuerten-2025-aufruf-zur-bewerbung/" target="_blank" rel="noopener">Heimatpreis Kürten 2025 – Aufruf zur Bewerbung!</a></h2>
-  <div class="teaser">Die Gemeinde Kürten verleiht auch 2025 wieder den „Heimatpreis“&lt;p&gt;Die Gemeinde Kürten verleiht auch 2025 wieder den „Heimatpreis“, der besonders bürgerschaftliches, lokales Engagement in unserer Heimat belohnt und würdigt.&lt;/p&gt; &lt;p&gt;Projekte, die zum Er</div>
-  <div class="info">Thu, 08 May 2025 07:16:28 · Gemeinde Kürten (offiziell)</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/pressemitteilung-des-rbk-zur-erddeponie-in-kuerten-hoechsten/" target="_blank" rel="noopener">Pressemitteilung des RBK zur Erddeponie in Kürten – Höchsten</a></h2>
-  <div class="teaser">&lt;p&gt;Der Rheinisch-Bergische-Kreis hat am 6. Mai 2025 eine Pressemitteilung zur Erddeponie in Kürten - Höchsten veröffentlicht.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://www.kuerten.de/wp-content/uploads/2025/05/Pressemitteilung-RBK-Nummer-69-2025-Erddeponie-Kuerten-Hoe</div>
-  <div class="info">Wed, 07 May 2025 11:21:34 · Gemeinde Kürten (offiziell)</div>
-</div>
-</div>
-<div class="monat-gruppe">
-<h2 class="monat-header">April 2025 <span class="monat-count">2</span></h2>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/ausschliesslich-elektronische-lichtbilder-fuer-identitaetsdokumente-ab-01-05-2025/" target="_blank" rel="noopener">Nur noch digitale Lichtbilder für Identitätsdokumente ab 01.05.2025</a></h2>
-  <div class="teaser">&lt;p&gt;Seit dem 1. Mai 2025 dürfen nur noch digitale Lichtbilder bei der Beantragung von Identitätsdokumenten (Reisepass und Personalausweis) verwendet werden&lt;/p&gt; &lt;p&gt;Das Lichtbild muss ausschließlich digital erstellt und auf einem gesicherten elektronisc</div>
-  <div class="info">Tue, 22 Apr 2025 07:05:34 · Gemeinde Kürten (offiziell)</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/batterie-sammelboxen-im-rathaus-erhaeltlich/" target="_blank" rel="noopener">Batterie-Sammelboxen im Rathaus erhältlich</a></h2>
-  <div class="teaser">&lt;p&gt;&lt;strong&gt;Jede Batterie zählt!&lt;/strong&gt;&lt;br /&gt; Ab den Osterferien sind Batterie-Sammelboxen vom BAV Zero Waste Club im Rathaus erhältlich!&lt;/p&gt; &lt;p&gt;Batterien und Akkus gehören zu unserem Alltag dazu und versorgen beinahe alles:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;als austaus</div>
-  <div class="info">Mon, 07 Apr 2025 07:30:34 · Gemeinde Kürten (offiziell)</div>
-</div>
-</div>
-<div class="monat-gruppe">
-<h2 class="monat-header">März 2025 <span class="monat-count">1</span></h2>
-<div class="artikel">
-  
-  <h2><a href="https://www.glaktuell.net/diebstahl-in-kuerten-unbekannte-stehlen-werkzeuge-und-maschinen-aus-handwerkerfahrzeugen/" target="_blank" rel="noopener">Diebstahl in Kürten: Unbekannte stehlen Werkzeuge und Maschinen aus Handwerkerfahrzeugen</a></h2>
-  <div class="teaser">In der Nacht von Mittwoch (12. März) auf Donnerstag (13. März) haben unbekannte Täter in Kürten zwei Handwerkerfahrzeuge aufgebrochen und wertvolle Werkzeuge sowie Maschinen entwendet. Die Polizei ermittelt und sucht Zeugen. Gezielte Einbrüche in zwe</div>
-  <div class="info">Fri, 14 Mar 2025 08:57:38 · GL Aktuell Kürten</div>
-</div>
-</div>
-<div class="monat-gruppe">
-<h2 class="monat-header">Februar 2025 <span class="monat-count">2</span></h2>
-<div class="artikel">
-  
-  <h2><a href="https://www.glaktuell.net/einbruch-in-kuertener-apotheke-polizei-sucht-zeugen/" target="_blank" rel="noopener">Einbruch in Kürtener Apotheke – Polizei sucht Zeugen</a></h2>
-  <div class="teaser">In der Zeit zwischen Samstag, 15. Februar, 13:00 Uhr, und Montag, 17. Februar, 07:45 Uhr, sind Unbekannte in eine Apotheke an der Wipperfürther Straße in Kürten eingebrochen. Täter entkommen mit Bargeld und Medikament Nach ersten Erkenntnissen hebelt</div>
-  <div class="info">Tue, 18 Feb 2025 09:02:44 · GL Aktuell Kürten</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/elektronische-wohnsitzanmeldung/" target="_blank" rel="noopener">Elektronische Wohnsitzanmeldung</a></h2>
-  <div class="teaser">&lt;p&gt;Ab sofort können alle Wohnsitzanmeldungen, -abmeldungen sowie -ummeldungen in der Gemeinde Kürten auch kostenlos und bequem online durchgeführt werden.&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;Hierzu wird neben einer Wohnungsgeberbestätigung (bei Eigentum Grundbuchauszug)</div>
-  <div class="info">Tue, 04 Feb 2025 07:42:00 · Gemeinde Kürten (offiziell)</div>
-</div>
-</div>
-<div class="monat-gruppe">
-<h2 class="monat-header">Januar 2025 <span class="monat-count">3</span></h2>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/jagdscheine-laengere-bearbeitungszeiten-bei-neuer-beantragung-oder-verlaengerung/" target="_blank" rel="noopener">Jagdscheine: längere Bearbeitungszeiten bei neuer Beantragung oder Verlängerung</a></h2>
-  <div class="teaser">&lt;h4&gt;&lt;strong&gt;Die Untere Jagdbehörde des Rheinisch-Bergischen-Kreises informiert:&lt;/strong&gt;&lt;/h4&gt; &lt;h4&gt;&lt;strong&gt;Jagdscheine rechtzeitig beantragen und verlängern – längere Bearbeitungszeiten durch neue bundesweite Gesetzgebung&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;Jägerinnen u</div>
-  <div class="info">Wed, 29 Jan 2025 09:56:32 · Gemeinde Kürten (offiziell)</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/gelbe-saecke-bitte-direkt-bei-revea-anfragen/" target="_blank" rel="noopener">Gelbe Säcke bitte direkt bei REVEA anfragen</a></h2>
-  <div class="teaser">&lt;p&gt;Die Umstellung des BAV für 2025 auf den digitalen Abfuhrkalender hatte auch Auswirkungen auf die Verteilung der Gutscheine der REVEA für die Gelben Säcke.&lt;/p&gt; &lt;p&gt;Leider haben nicht Haushalte in Kürten die Gutscheine erhalten. Dies hat verständlich</div>
-  <div class="info">Wed, 29 Jan 2025 09:45:39 · Gemeinde Kürten (offiziell)</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/grundsteuer-2025/" target="_blank" rel="noopener">Grundsteuer 2025</a></h2>
-  <div class="teaser">Grundsteuer 2025 Bescheide und Hebesätze&lt;h4&gt;Versand der Bescheide&lt;/h4&gt; &lt;p&gt;Die vom Finanzamt im Rahmen der am 01.01.2025 in Kraft getretenen Grundsteuerreform&lt;br /&gt; festgesetzten Grundsteuermessbeträge werden derzeit im Steueramt der Gemeinde verarbei</div>
-  <div class="info">Tue, 28 Jan 2025 06:30:33 · Gemeinde Kürten (offiziell)</div>
-</div>
-</div>
-<div class="monat-gruppe">
-<h2 class="monat-header">Dezember 2024 <span class="monat-count">2</span></h2>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/abfuhrkalender-kuerten-wird-2025-digital/" target="_blank" rel="noopener">Abfuhrkalender Kürten wird 2025 digital</a></h2>
-  <div class="teaser">&lt;h4&gt;&lt;strong&gt;Abfuhrkalender für die Gemeinde Kürten nur noch digital&lt;br /&gt; &lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;Für die Müllentsorgung ist in Kürten der Bergische Abfallwirtschaftsverband (BAV) zuständig. Bisher wurde der Abfuhrkalender an alle Haushalte flächendeckend </div>
-  <div class="info">Tue, 10 Dec 2024 11:27:40 · Gemeinde Kürten (offiziell)</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/die-einkaufskarte-kuecard-ist-ab-jetzt-in-und-fuer-kuerten-erhaeltlich/" target="_blank" rel="noopener">Die Einkaufskarte KüCard ist ab jetzt in und für Kürten erhältlich!</a></h2>
-  <div class="teaser">&lt;p&gt;&lt;strong&gt;Die Einkaufskarte KüCard ist ab jetzt in und für Kürten erhältlich!&lt;br /&gt; Das Video, erstellt von Peter Sprenger (IG-Kürten), zeigt Ihnen kurz und knapp, worum es geht:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Sie mögen unsere Heimat und schätzen den lokalen Einze</div>
-  <div class="info">Tue, 10 Dec 2024 11:20:36 · Gemeinde Kürten (offiziell)</div>
-</div>
-</div>
-<div class="monat-gruppe">
-<h2 class="monat-header">Juli 2024 <span class="monat-count">2</span></h2>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/sondersitzung-kuza-erddeponie-kuerten-hoechsten-am-19-02-24/" target="_blank" rel="noopener">Sondersitzung KUZA / Erddeponie Kürten-Höchsten am 19.02.24</a></h2>
-  <div class="teaser">Sondersitzung des Klima- Umwelt- und Zukunftsausschusses (KUZA)&lt;p&gt;Sondersitzung des Klima- Umwelt- und Zukunftsausschusses (KUZA)&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Termin: Montag, 19.02.2024, 17:30 Uhr, Bürgerhaus&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Thema: Erddeponie Kürten-Höchsten / Pla</div>
-  <div class="info">Thu, 25 Jul 2024 12:35:09 · Gemeinde Kürten (offiziell)</div>
-</div>
-<div class="artikel">
-  
-  <h2><a href="https://www.kuerten.de/aktuelle-ereignisse/kuerten-kompakt-die-neue-buergerbroschuere-ist-erhaeltlich/" target="_blank" rel="noopener">Kürten kompakt – die neue Bürgerbroschüre ist erhältlich</a></h2>
-  <div class="teaser">Wir freuen uns, Ihnen die neue Bürgerbroschüre vorzustellen.&lt;p&gt;Wir freuen uns, Ihnen die neue Bürgerbroschüre vorzustellen. Diese liegt ab sofort in der Gemeinde aus. Wir bedanken uns bei allen, die zu der Erstellung des Heftes beigetragen und dieses</div>
-  <div class="info">Thu, 25 Jul 2024 08:27:35 · Gemeinde Kürten (offiziell)</div>
-</div>
-</div></div>
+</div><div class="empty" style="margin-top:12px;"><a href="archiv/index.html">Archiv: 31 ältere Artikel ansehen &rarr;</a></div></div>
   <div>
     <div class="sidebar-box">
       <h3>Alle Kommunen</h3>
-      <ul class="k-links"><li><a href="../bergisch-gladbach/index.html">Bergisch Gladbach <span class="badge">1286</span></a></li><li><a href="../burscheid/index.html">Burscheid <span class="badge">444</span></a></li><li><a href="../kuerten/index.html">Kürten <span class="badge">141</span></a></li><li><a href="../kuerten-rat/index.html">Kürten-Rat</a></li><li><a href="../leichlingen/index.html">Leichlingen <span class="badge">41</span></a></li><li><a href="../odenthal/index.html">Odenthal <span class="badge">87</span></a></li><li><a href="../overath/index.html">Overath <span class="badge">55</span></a></li><li><a href="../roesrath/index.html">Rösrath <span class="badge">46</span></a></li><li><a href="../wermelskirchen/index.html">Wermelskirchen <span class="badge">548</span></a></li><li style="border-top:1px solid #eee; padding-top:6px; margin-top:6px;"><a href="../kreisweite/index.html"><b>Kreisweite Nachrichten</b> <span class="badge">744</span></a></li></ul>
+      <ul class="k-links"><li><a href="../bergisch-gladbach/index.html">Bergisch Gladbach <span class="badge">1179</span></a></li><li><a href="../burscheid/index.html">Burscheid <span class="badge">441</span></a></li><li><a href="../kuerten/index.html">Kürten <span class="badge">131</span></a></li><li><a href="../kuerten-rat/index.html">Kürten-Rat</a></li><li><a href="../leichlingen/index.html">Leichlingen <span class="badge">41</span></a></li><li><a href="../odenthal/index.html">Odenthal <span class="badge">64</span></a></li><li><a href="../overath/index.html">Overath <span class="badge">55</span></a></li><li><a href="../roesrath/index.html">Rösrath <span class="badge">46</span></a></li><li><a href="../wermelskirchen/index.html">Wermelskirchen <span class="badge">548</span></a></li><li style="border-top:1px solid #eee; padding-top:6px; margin-top:6px;"><a href="../kreisweite/index.html"><b>Kreisweite Nachrichten</b> <span class="badge">764</span></a></li></ul>
     </div>
     <div class="sidebar-box">
       <h3>Kreisweite Nachrichten</h3>
-      <div style="font-size:0.85rem; margin:4px 0;"><a href="https://in-gl.de/2026/10/01/wort/" target="_blank" style="color:var(--text); text-decoration:none;">Das GL-Wort – jeden Morgen neu</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://in-gl.de/2026/09/30/junges-ensemble-bergkosmos-das-ist-unsere-zukunft-junges-ensemble-theas-theater-bergisch-gladbach/" target="_blank" style="color:var(--text); text-decoration:none;">Junges Ensemble BergKosmos: Das ist unsere Zukunft</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://in-gl.de/2026/04/29/unbekannte-machen-oeffentliche-lastenraeder-unbrauchbar/" target="_blank" style="color:var(--text); text-decoration:none;">Unbekannte machen öffentliche Lastenräder unbrauchbar</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://in-gl.de/2026/04/29/bergisches-museum-wird-im-juli-zum-teil-wieder-geoeffnet/" target="_blank" style="color:var(--text); text-decoration:none;">Bergisches Museum wird im Juli zum Teil wieder geöffnet</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.presseportal.de/blaulicht/pm/62459/6265425" target="_blank" style="color:var(--text); text-decoration:none;">POL-RBK: Rheinisch-Bergischer Kreis - Bilanz Sondereins</a></div>
+      <div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.ksta.de/region/rhein-berg/bergisch-gladbach/sicherheitsluecke-serviceportale-in-rhein-berg-bleiben-offline-1401238" target="_blank" style="color:var(--text); text-decoration:none;">Vorsichtsmaßnahme: Sicherheitslücke: Serviceportale in </a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://www.ksta.de/region/rhein-berg/bergisch-gladbach/rhein-berg-prueft-legale-mountainbike-strecken-im-wald-1401229" target="_blank" style="color:var(--text); text-decoration:none;">Mountainbike: Rhein-Berg prüft legale Mountainbike-Stre</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://in-gl.de/2026/10/22/e-scooter-fahrer-verletzt-marktkoch-schwer/" target="_blank" style="color:var(--text); text-decoration:none;">E-Scooter-Fahrer verletzt Marktkoch schwer</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://in-gl.de/2026/10/22/spendensammlung-fuer-volksbund-gestartet/" target="_blank" style="color:var(--text); text-decoration:none;">Spendensammlung für Volksbund gestartet</a></div><div style="font-size:0.85rem; margin:4px 0;"><a href="https://in-gl.de/2026/10/22/jonathan-ufer-wird-co-fraktionschef-der-gruenen/" target="_blank" style="color:var(--text); text-decoration:none;">Jonathan Ufer wird Co-Fraktionschef der Grünen</a></div>
     </div>
   </div>
 </div>
 </main>
 <footer>
-  <a href="../index.html">Startseite</a> · Kürten · Aktualisiert: 22.10.2026, 21:27<br>
+  <a href="../index.html">Startseite</a> · Kürten · Aktualisiert: 22.10.2026, 22:19 Uhr<br>
   <a href="/ai-tageszeitung/impressum/">Impressum</a> · <a href="/ai-tageszeitung/rechtliches/">Rechtliche Hinweise</a> · <a href="/ai-tageszeitung/rechtliches/#datenschutz">Datenschutz</a><br>
   <a href="https://github.com/dna-dieter/ai-tageszeitung/actions/workflows/update.yml">GitHub</a>
 </footer>
 
 <script>
 (function() {
+  // Button nur für Betreiber: sichtbar mit ?admin in der Adresse (wird gemerkt), ?admin=aus blendet ihn wieder aus.
+  try {
+    const p = new URLSearchParams(location.search);
+    if (p.has('admin')) {
+      if (p.get('admin') === 'aus') localStorage.removeItem('ai_tz_admin');
+      else localStorage.setItem('ai_tz_admin', '1');
+    }
+    if (localStorage.getItem('ai_tz_admin') === '1') {
+      const b = document.getElementById('btn-refresh');
+      if (b) b.hidden = false;
+    }
+  } catch (e) {}
   const REPO = 'dna-dieter/ai-tageszeitung';
   const WORKFLOW = 'update.yml';
   const TOKEN_KEY = 'ai_tz_github_token';

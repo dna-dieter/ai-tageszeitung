@@ -53,11 +53,22 @@ footer a { color: #85C1E9; }
 .legal ul { padding-left: 1.2rem; }
 .legal .hinweis { background: #fff8e6; border-left: 4px solid var(--rbk-rot); padding: 10px 14px; margin-bottom: 16px; }
 .empty { text-align: center; padding: 40px; color: #999; font-size: 1.1rem; }
+.rat-block { margin: 4px 0 26px; }
+.rat-block h2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.15rem; color: var(--rbk-blau); margin: 0 0 10px; }
+.rat-hero { background: white; border-left: 4px solid var(--rbk-rot); border-radius: 6px; padding: 16px 18px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+.rat-hero .wann { font-family: sans-serif; font-size: 0.78rem; font-weight: 700; color: var(--rbk-rot); letter-spacing: 0.04em; text-transform: uppercase; }
+.rat-hero h3 { font-size: 1.25rem; margin: 4px 0; }
+.rat-liste { list-style: none; }
+.rat-liste li { background: white; border-radius: 6px; padding: 12px 16px; margin-bottom: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+.rat-liste .wann { font-family: sans-serif; font-size: 0.82rem; color: var(--rbk-blau); font-weight: 700; }
+.rat-liste .ort { font-family: sans-serif; font-size: 0.8rem; color: #666; }
+.rat-quelle { font-family: sans-serif; font-size: 0.8rem; color: #666; margin-top: 8px; }
 .monat-gruppe { margin-bottom: 8px; }
 .monat-header { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.05rem; color: var(--rbk-blau); border-bottom: 2px solid var(--rbk-blau); padding: 8px 0 5px 0; margin: 18px 0 10px 0; display: flex; align-items: center; gap: 8px; }
 .monat-header:first-child { margin-top: 0; }
 .monat-count { background: var(--rbk-blau); color: white; font-size: 0.72rem; padding: 1px 8px; border-radius: 10px; font-weight: 400; }
 .btn-refresh { display: inline-flex; align-items: center; gap: 5px; font-family: sans-serif; font-size: 0.78rem; padding: 5px 14px; background: #2ECC71; color: white; border: none; border-radius: 4px; text-decoration: none; cursor: pointer; transition: background 0.2s; margin-top: 4px; }
+.btn-refresh[hidden], .refresh-status[hidden] { display: none; }
 .btn-refresh:hover { background: #27AE60; color: white; }
 .btn-refresh:disabled, .btn-refresh.loading { background: #95A5A6; cursor: wait; opacity: 0.8; }
 .btn-refresh .spinner { display: inline-block; width: 10px; height: 10px; border: 2px solid rgba(255,255,255,0.3); border-top-color: white; border-radius: 50%; animation: spin 0.8s linear infinite; }
@@ -82,8 +93,8 @@ footer a { color: #85C1E9; }
   </div>
   <div class="meta">
     <div><span class="live-dot"></span>Stündlich aktualisiert</div>
-    <div>22.10.2026, 21:19</div>
-    <button type="button" onclick="triggerRefresh()" class="btn-refresh" id="btn-refresh">&#x21bb; Jetzt aktualisieren</button>
+    <div>22.10.2026, 22:19 Uhr</div>
+    <button type="button" onclick="triggerRefresh()" class="btn-refresh" id="btn-refresh" hidden>&#x21bb; Jetzt aktualisieren</button>
     <div class="refresh-status" id="refresh-status"></div>
   </div>
 </header>
@@ -113,6 +124,18 @@ footer a { color: #85C1E9; }
 
 <script>
 (function() {
+  // Button nur für Betreiber: sichtbar mit ?admin in der Adresse (wird gemerkt), ?admin=aus blendet ihn wieder aus.
+  try {
+    const p = new URLSearchParams(location.search);
+    if (p.has('admin')) {
+      if (p.get('admin') === 'aus') localStorage.removeItem('ai_tz_admin');
+      else localStorage.setItem('ai_tz_admin', '1');
+    }
+    if (localStorage.getItem('ai_tz_admin') === '1') {
+      const b = document.getElementById('btn-refresh');
+      if (b) b.hidden = false;
+    }
+  } catch (e) {}
   const REPO = 'dna-dieter/ai-tageszeitung';
   const WORKFLOW = 'update.yml';
   const TOKEN_KEY = 'ai_tz_github_token';

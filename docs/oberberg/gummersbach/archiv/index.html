@@ -1,0 +1,2097 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gummersbach – Archiv — AI Tageszeitung</title>
+<style>
+:root {
+  --rbk-blau: #1B3A5C;
+  --rbk-rot: #C0392B;
+  --rbk-grau: #F5F5F5;
+  --akzent: #2980B9;
+  --text: #2C3E50;
+  --bg: #FAFAFA;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: Georgia, 'Times New Roman', serif; color: var(--text); background: var(--bg); line-height: 1.6; }
+header { background: var(--rbk-blau); color: white; padding: 14px 24px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px; }
+header h1 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.8rem; letter-spacing: 2px; font-weight: 800; }
+header .sub { font-size: 0.9rem; opacity: 0.85; }
+header .meta { font-size: 0.8rem; text-align: right; opacity: 0.9; }
+.live-dot { display: inline-block; width: 8px; height: 8px; background: #2ECC71; border-radius: 50%; margin-right: 4px; animation: pulse 2s infinite; }
+@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
+.ticker { background: var(--rbk-rot); color: white; padding: 7px 24px; font-size: 0.85rem; font-family: sans-serif; }
+.ticker b { margin-right: 8px; }
+nav { background: white; border-bottom: 2px solid var(--rbk-blau); padding: 8px 24px; display: flex; flex-wrap: wrap; gap: 3px; }
+nav a { font-family: sans-serif; font-size: 0.82rem; padding: 5px 12px; text-decoration: none; color: var(--rbk-blau); border-radius: 4px; transition: all 0.2s; }
+nav a:hover, nav a.active { background: var(--rbk-blau); color: white; }
+nav .sep { color: #ccc; padding: 5px 2px; font-family: sans-serif; font-size: 0.82rem; }
+main { max-width: 1200px; margin: 20px auto; padding: 0 16px; }
+.grid { display: grid; grid-template-columns: 2fr 1fr; gap: 20px; }
+.artikel { background: white; border-radius: 6px; padding: 16px 18px; border-left: 4px solid var(--akzent); box-shadow: 0 1px 3px rgba(0,0,0,0.08); margin-bottom: 14px; transition: box-shadow 0.2s; }
+.artikel:hover { box-shadow: 0 3px 12px rgba(0,0,0,0.12); }
+.artikel .tag { font-family: sans-serif; font-size: 0.72rem; font-weight: 700; color: var(--rbk-rot); text-transform: uppercase; letter-spacing: 1px; }
+.artikel .tag.bericht { color: var(--rbk-blau); margin-left: 8px; }
+.artikel h2 { font-size: 1.15rem; margin: 4px 0; line-height: 1.3; }
+.artikel h2 a { color: var(--text); text-decoration: none; }
+.artikel h2 a:hover { color: var(--akzent); }
+.artikel .teaser { font-size: 0.9rem; color: #555; margin: 6px 0; }
+.artikel .info { font-family: sans-serif; font-size: 0.75rem; color: #888; }
+.sidebar-box { background: white; border-radius: 6px; padding: 14px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); margin-bottom: 14px; }
+.sidebar-box h3 { font-family: sans-serif; font-size: 0.85rem; color: var(--rbk-blau); border-bottom: 2px solid var(--rbk-blau); padding-bottom: 5px; margin-bottom: 10px; }
+.k-links { list-style: none; }
+.k-links li { margin: 6px 0; }
+.k-links a { font-family: sans-serif; font-size: 0.85rem; color: var(--text); text-decoration: none; display: flex; justify-content: space-between; }
+.k-links a:hover { color: var(--akzent); }
+.badge { background: var(--rbk-grau); padding: 1px 8px; border-radius: 10px; font-size: 0.75rem; }
+footer { background: var(--rbk-blau); color: white; text-align: center; padding: 16px; margin-top: 30px; font-size: 0.8rem; font-family: sans-serif; }
+footer a { color: #85C1E9; }
+.legal { max-width: 720px; }
+.legal h2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.15rem; color: var(--rbk-blau); margin: 22px 0 8px; }
+.legal p, .legal li { margin: 0 0 10px; }
+.legal ul { padding-left: 1.2rem; }
+.legal .hinweis { background: #fff8e6; border-left: 4px solid var(--rbk-rot); padding: 10px 14px; margin-bottom: 16px; }
+.empty { text-align: center; padding: 40px; color: #999; font-size: 1.1rem; }
+.rat-block { margin: 4px 0 26px; }
+.rat-block h2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.15rem; color: var(--rbk-blau); margin: 0 0 10px; }
+.rat-hero { background: white; border-left: 4px solid var(--rbk-rot); border-radius: 6px; padding: 16px 18px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+.rat-hero .wann { font-family: sans-serif; font-size: 0.78rem; font-weight: 700; color: var(--rbk-rot); letter-spacing: 0.04em; text-transform: uppercase; }
+.rat-hero h3 { font-size: 1.25rem; margin: 4px 0; }
+.rat-liste { list-style: none; }
+.rat-liste li { background: white; border-radius: 6px; padding: 12px 16px; margin-bottom: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+.rat-liste .wann { font-family: sans-serif; font-size: 0.82rem; color: var(--rbk-blau); font-weight: 700; }
+.rat-liste .ort { font-family: sans-serif; font-size: 0.8rem; color: #666; }
+.rat-quelle { font-family: sans-serif; font-size: 0.8rem; color: #666; margin-top: 8px; }
+.monat-gruppe { margin-bottom: 8px; }
+.monat-header { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.05rem; color: var(--rbk-blau); border-bottom: 2px solid var(--rbk-blau); padding: 8px 0 5px 0; margin: 18px 0 10px 0; display: flex; align-items: center; gap: 8px; }
+.monat-header:first-child { margin-top: 0; }
+.monat-count { background: var(--rbk-blau); color: white; font-size: 0.72rem; padding: 1px 8px; border-radius: 10px; font-weight: 400; }
+.btn-refresh { display: inline-flex; align-items: center; gap: 5px; font-family: sans-serif; font-size: 0.78rem; padding: 5px 14px; background: #2ECC71; color: white; border: none; border-radius: 4px; text-decoration: none; cursor: pointer; transition: background 0.2s; margin-top: 4px; }
+.btn-refresh[hidden], .refresh-status[hidden] { display: none; }
+.btn-refresh:hover { background: #27AE60; color: white; }
+.btn-refresh:disabled, .btn-refresh.loading { background: #95A5A6; cursor: wait; opacity: 0.8; }
+.btn-refresh .spinner { display: inline-block; width: 10px; height: 10px; border: 2px solid rgba(255,255,255,0.3); border-top-color: white; border-radius: 50%; animation: spin 0.8s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+.refresh-status { font-size: 0.72rem; color: rgba(255,255,255,0.85); margin-top: 4px; min-height: 14px; font-family: sans-serif; }
+.kreis-nav { background: var(--rbk-blau); padding: 6px 24px; display: flex; gap: 12px; }
+.kreis-nav a { font-family: sans-serif; font-size: 0.85rem; color: rgba(255,255,255,0.7); text-decoration: none; padding: 4px 10px; border-radius: 4px; }
+.kreis-nav a:hover, .kreis-nav a.active { color: white; background: rgba(255,255,255,0.15); }
+@media (max-width: 768px) { .grid { grid-template-columns: 1fr; } header h1 { font-size: 1.3rem; } }
+</style>
+</head>
+<body>
+<div class="kreis-nav">
+  <a href="/ai-tageszeitung/">Rhein-Berg</a>
+  <a href="/ai-tageszeitung/oberberg/">Oberberg</a>
+  <a href="/ai-tageszeitung/veranstaltungen/">📅 Veranstaltungen</a>
+</div>
+<header>
+  <div>
+    <h1>Gummersbach – Archiv</h1>
+    <div class="sub">AI Tageszeitung · Oberbergischer Kreis</div>
+  </div>
+  <div class="meta">
+    <div><span class="live-dot"></span>293 Artikel</div>
+    <div>22.10.2026, 22:19 Uhr</div>
+    <button type="button" onclick="triggerRefresh()" class="btn-refresh" id="btn-refresh" hidden>&#x21bb; Jetzt aktualisieren</button>
+    <div class="refresh-status" id="refresh-status"></div>
+  </div>
+</header>
+<nav><a href="../index.html">&larr; Zurück zu Gummersbach</a></nav>
+<main>
+  <div><div class="monat-gruppe">
+<h2 class="monat-header">Juli 2026 <span class="monat-count">59</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/206224/gummersbach-verkehrsunfall-bernberg/" target="_blank" rel="noopener">Gummersbach: Verkehrsunfall – 18-Jähriger kracht in geparktes Auto</a></h2>
+  <div class="teaser">Verkehrsunfall in Gummersbach: Ein 18-Jähriger krachte auf der Dümmlinghauser Straße in ein geparktes Auto – eine Frau wurde leicht verletzt.</div>
+  <div class="info">24.07.2026, 11:57 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6320656" target="_blank" rel="noopener">POL-GM: 18-Jähriger kollidiert mit geparktem Auto</a></h2>
+  <div class="teaser">Gummersbach (ots) - Ein 18-jähriger Reichshofer fuhr am Donnerstag (23. Juli) auf der Dümmlinghauser Straße in Richtung Gummersbach. Gegen 5:50 Uhr geriet der 18-Jährige auf den Seitenstreifen und stieß mit dem geparkten Pkw einer 45-Jährigen ...</div>
+  <div class="info">24.07.2026, 10:25 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/206212/oberberg-polizeimeldungen-diebstahl/" target="_blank" rel="noopener">Oberberg: Polizeimeldungen zeigen vier dreiste Taten</a></h2>
+  <div class="teaser">Polizeimeldungen aus Oberberg: Vier Fälle in Gummersbach, Bergneustadt und Lindlar beschäftigen die Ermittler und führen zu Zeugenaufrufen.</div>
+  <div class="info">23.07.2026, 17:49 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/206194/oberberg-badestellen-talsperren/" target="_blank" rel="noopener">Oberberg: Badestellen an Talsperren locken – diese Regeln gelten</a></h2>
+  <div class="teaser">Badestellen an vier Talsperren im Bergischen sind freigegeben: gute Wasserqualität, klare Regeln, kein Grillen – und keine ständige Aufsicht.</div>
+  <div class="info">23.07.2026, 16:07 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6320073" target="_blank" rel="noopener">POL-GM: Unbekannte steigen in ehemalige Bibliothek ein</a></h2>
+  <div class="teaser">Gummersbach (ots) - Zwischen dem 26. Mai, 9 Uhr, und dem 22. Juli (Mittwoch), 9 Uhr, sind Kriminelle in die ehemalige Stadtbibliothek in der Moltkestraße eingebrochen. Die Einbrecher schlugen eine Fensterscheibe ein und gelangten in die ...</div>
+  <div class="info">23.07.2026, 12:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/206062/reichshof-motorradunfall-fahrerflucht/" target="_blank" rel="noopener">Reichshof: Motorradunfall – Fahrer flüchtet mit Drogen &amp; ohne Führerschein</a></h2>
+  <div class="teaser">Motorradunfall in Reichshof: Ein 45-jähriger Gummersbacher flüchtete nach Kollision mit Telefonmast, unter Drogen und ohne Führerschein. Das Motorrad war unterschlagen.</div>
+  <div class="info">21.07.2026, 11:27 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/206059/gummersbach-parkplatzunfall-mutter-eingeklemmt/" target="_blank" rel="noopener">Gummersbach: Schwerer Parkplatzunfall – Mutter bei Manöver eingeklemmt</a></h2>
+  <div class="teaser">Schwerer Parkplatzunfall in Gummersbach-Niederseßmar: Ein 11-jähriger Junge setzte ein Auto in Bewegung und verletzte seine Mutter schwer. Hoher Sachschaden.</div>
+  <div class="info">21.07.2026, 11:24 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6318610" target="_blank" rel="noopener">POL-GM: Kellerabteil aufgebrochen</a></h2>
+  <div class="teaser">Gummersbach (ots) - In der Nacht von Sonntag auf Montag (19./20. Juli) haben sich Unbekannte Zutritt zum Untergeschoss eines Mehrparteienhauses in der Klosterstraße verschafft. Im Keller des Wohngebäudes brachen sie dann das Vorhängeschloss eines ...</div>
+  <div class="info">21.07.2026, 11:15 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6318606" target="_blank" rel="noopener">POL-GM: Motorrad kollidiert mit Telefonmast</a></h2>
+  <div class="teaser">Reichshof (ots) - In der Nacht zum 21. Juli (Dienstag) fuhr ein 45-Jähriger Gummersbacher auf der Eckenhagener Straße in Richtung Eckenhagen. In einer Linkskurve, unweit der Einmündung zur Straße &quot;Breidenbacher Weg&quot;, kam der 45-Jährige mit ...</div>
+  <div class="info">21.07.2026, 11:15 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6318605" target="_blank" rel="noopener">POL-GM: Schwerer Verkehrsunfall auf Parkplatz</a></h2>
+  <div class="teaser">Gummersbach (ots) - In Gummersbach-Niederseßmar kam es am 20. Juli (Montag) zu einem Verkehrsunfall, bei dem eine 41-jährige Frau aus Gummersbach schwer verletzt wurde. Die 41-Jährige befand sich gegen 17:35 Uhr gemeinsam mit ihrem 11-jährigen ...</div>
+  <div class="info">21.07.2026, 11:15 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6318603" target="_blank" rel="noopener">POL-GM: Fahrradfahrer bei Verkehrsunfall schwer verletzt</a></h2>
+  <div class="teaser">Bergneustadt (ots) - Ein 74-jähriger Gummersbacher wollte am Montag (20. Juli, 10 Uhr) mit seinem Mini Cooper von der Straße &quot;Am Wäcker&quot; auf die Kölner Straße abbiegen. Dabei kam es zum Zusammenstoß mit einem 70-Jährigen auf seinem Fahrrad, ...</div>
+  <div class="info">21.07.2026, 11:15 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/206013/gummersbach-gaststaette20260718einbruch/" target="_blank" rel="noopener">Gummersbach: Gaststätteneinbruch – Täter flüchten mit Beute</a></h2>
+  <div class="teaser">Gaststätteneinbruch in Gummersbach: Unbekannte Täter brachen in ein Lokal an der Hagener Straße ein und entwendeten ein iPad sowie Bargeld.</div>
+  <div class="info">20.07.2026, 11:49 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6317654" target="_blank" rel="noopener">POL-GM: Einbruch in Gaststätte</a></h2>
+  <div class="teaser">Gummersbach (ots) - Zwischen 23 Uhr am Samstag (18. Juli) und 08:50 Uhr am Sonntag sind Unbekannte in eine Gaststätte in der Hagener Straße eingebrochen. Die Unbekannten verschafften sich über ein Fenster Zugang zum Gastronomiebereich. Dort ...</div>
+  <div class="info">20.07.2026, 11:09 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205992/oberberg-einbruch-waldbroel/" target="_blank" rel="noopener">Oberberg: Einbruch in Waldbröl-Rossenbach, Diebstahl von drei Hähnen in Wiedenest und versuchter Aufbruch in Gummersbach</a></h2>
+  <div class="teaser">Einbruch in eine Bäckerei in Waldbröl-Rossenbach, drei gestohlene Hähne in Wiedenest und ein Fehlschlag in Gummersbach: Die Polizei Oberberg meldet drei getrennte Fälle am 19. Juli 2026 und sucht Zeugen.</div>
+  <div class="info">20.07.2026, 01:12 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6317294" target="_blank" rel="noopener">POL-GM: Kleinkraftradfahrer flüchtet vor der Polizei</a></h2>
+  <div class="teaser">Gummersbach (ots) - Am Samstag (18. Juli, 00:15 Uhr) wollten Polizeibeamte ein mit zwei Personen besetztes Kleinkraftrad kontrollieren, welches ihnen auf der Lindenstockstraße (Höhe der Einmündung &quot;In der Steinerwiese&quot;) entgegenkam und in ...</div>
+  <div class="info">19.07.2026, 12:03 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6317289" target="_blank" rel="noopener">POL-GM: Einbrecher gehen leer aus</a></h2>
+  <div class="teaser">Gummersbach (ots) - Zwischen 20 Uhr am 16. Juli und 11 Uhr am 17. Juli (Freitag) haben Unbekannte das gekippte Fenster eines Lagerraums in der Kaiserstraße aufgetreten. Pech für die Einbrecher - es handelte sich um ein Lager für Mülltonnen und ...</div>
+  <div class="info">19.07.2026, 11:59 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6317286" target="_blank" rel="noopener">POL-GM: Kriminelle in Herreshagen unterwegs</a></h2>
+  <div class="teaser">Gummersbach (ots) - Gegen 1:10 Uhr am 16. Juli (Donnerstag) kletterten drei Unbekannte über den Zaun eines Montagebetriebs in der Windhagener Straße und machten sich an den Überwachungskameras zu schaffen. Die maskierten Personen hielten sich ...</div>
+  <div class="info">19.07.2026, 11:56 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6317282" target="_blank" rel="noopener">POL-GM: Zusammenstoß zwischen Fahrrad und E-Scooter</a></h2>
+  <div class="teaser">Gummersbach (ots) - Am Samstagmorgen (18. Juli) kam es auf dem gemeinsamen Geh- und Radweg entlang der Friedrichstaler Straße zu einem Verkehrsunfall, bei dem zwei Gummersbacher verletzt wurden. Gegen 6:55 Uhr fuhr ein 33-Jähriger auf seinem ...</div>
+  <div class="info">19.07.2026, 11:54 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205917/gummersbach-medaillen-arnsberg-open/" target="_blank" rel="noopener">Gummersbach: TV Becketal kämpft sich zu Medaillen bei Arnsberg Open</a></h2>
+  <div class="teaser">Medaillenregen für den Gummersbacher Verein: 19 Podestplätze und Platz sechs von 47 Vereinen bei der Meisterschaft in Lüdenscheid.</div>
+  <div class="info">17.07.2026, 17:01 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205877/gummersbach-auslosung-gruppenphase/" target="_blank" rel="noopener">EHF: Auslosung bringt VfL Gummersbach harte Gruppenphase</a></h2>
+  <div class="teaser">Die Ziehung ordnet den Bundesligisten in Gruppe G ein: Gegner sind Pelister, Logroño und Wybrze?e Gda?sk. Die Vorrunde läuft bis Dezember.</div>
+  <div class="info">17.07.2026, 12:56 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205830/gummersbach-raub-busbahnhof/" target="_blank" rel="noopener">Gummersbach: Raub am Busbahnhof – Polizei stellt Verdächtigen</a></h2>
+  <div class="teaser">Raub nahe dem Busbahnhof in Gummersbach: Unbekannte erbeuteten Bargeld, die Polizei stellte einen 26-jährigen Tatverdächtigen in Tatortnähe.</div>
+  <div class="info">16.07.2026, 14:40 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6315744" target="_blank" rel="noopener">POL-GM: Nach Raubdelikt Widerstand geleistet</a></h2>
+  <div class="teaser">Gummersbach (ots) - In der Nacht von Mittwoch (15. Juli) auf Donnerstag hielt sich ein 43-jähriger Gummersbacher gemeinsam mit zwei weiteren Personen in der Andienungsstraße, unweit des Busbahnhofs, auf. Gegen 0:10 Uhr näherten sich ihnen mehrere ...</div>
+  <div class="info">16.07.2026, 11:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205728/gummersbach-auffahrunfall-westtangente/" target="_blank" rel="noopener">Gummersbach: Auffahrunfall mit drei Autos auf Westtangente</a></h2>
+  <div class="teaser">Auffahrunfall auf Gummersbachs Westtangente: Drei Autos kollidieren, zwei Personen verletzt, Sachschaden im mittleren fünfstelligen Bereich.</div>
+  <div class="info">15.07.2026, 11:45 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205730/oberberg-diebstahl-schrottplatz20260715/" target="_blank" rel="noopener">Oberberg: Schrottplatz geplündert – drei Fälle von Diebstahl und Einbruch</a></h2>
+  <div class="teaser">Diebstahl auf Schrottplatz in Waldbröl, Einbruch in Gummersbach-Windhagen und ein gestohlener Skoda – die Polizei Oberberg ermittelt in drei Fällen von Eigentumsdelikten.</div>
+  <div class="info">15.07.2026, 11:40 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6314936" target="_blank" rel="noopener">POL-GM: Drei beteiligte Autos bei Auffahrunfall</a></h2>
+  <div class="teaser">Gummersbach (ots) - Drei Autos waren bei einem Auffahrunfall in Gummersbach am Dienstagmorgen (14. Juli) beteiligt. Eine 56-Jährige aus Gummersbach war gegen 8:50 Uhr mit ihrem VW auf der Westtangente in Richtung Wiehl unterwegs. Im ...</div>
+  <div class="info">15.07.2026, 10:50 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6314935" target="_blank" rel="noopener">POL-GM: Einbrecher machen keine Beute</a></h2>
+  <div class="teaser">Gummersbach (ots) - Am Dienstag (14. Juli, 2:07 Uhr) sind vier Unbekannte in eine Firma in der Robert-Bosch-Straße in Windhagen eingebrochen. Die Kriminellen schlugen das Fenster einer Lagerhalle ein und gelangten so in die Räumlichkeiten. Auf ...</div>
+  <div class="info">15.07.2026, 10:50 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205694/wiehl-sprengversuch-geldautomat/" target="_blank" rel="noopener">Wiehl: Sprengversuch scheitert – Täter fliehen zum dritten Mal</a></h2>
+  <div class="teaser">Sprengversuch in Wiehl: Unbekannte scheitern zum dritten Mal an einem Bankautomaten in der Oberwiehler Straße – erneut ohne Beute.</div>
+  <div class="info">15.07.2026, 07:23 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205670/wiehl-gummersbach-verkehrsunfall/" target="_blank" rel="noopener">Wiehl und Gummersbach: Verkehrsunfall – Kind schwer verletzt</a></h2>
+  <div class="teaser">Verkehrsunfall in Wiehl und Gummersbach: Ein zehnjähriges Mädchen auf dem Mountainbike und ein Motorradfahrer wurden am Montag verletzt.</div>
+  <div class="info">14.07.2026, 11:48 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205665/gummersbach-wiehl-einbruch-kupfer/" target="_blank" rel="noopener">Gummersbach und Wiehl: Einbrecher stehlen Kupfer aus Firmen</a></h2>
+  <div class="teaser">Einbruch in zwei Firmengeländen im Oberbergischen Kreis: Unbekannte stahlen Kupferteile im Wert mehrerer tausend Euro aus Gummersbach und Wiehl.</div>
+  <div class="info">14.07.2026, 11:33 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6314124" target="_blank" rel="noopener">POL-GM: Einbrecher hatten es auf Metall abgesehen</a></h2>
+  <div class="teaser">Gummersbach/Wiehl (ots) - Im Zeitraum Freitag (10. Juli) bis Montag verschafften sich Unbekannte Zugang zu einem Firmengelände in der Hagener Straße in Gummersbach-Dümmlinghausen. Anschließend gelangten sie in eine Produktionshalle, wo die ...</div>
+  <div class="info">14.07.2026, 10:26 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6314118" target="_blank" rel="noopener">POL-GM: Motorradfahrer bei Verkehrsunfall verletzt</a></h2>
+  <div class="teaser">Gummersbach (ots) - Am Montag (13. Juli) wollte ein 37-jähriger Gummersbacher gegen 22:20 Uhr mit seinem Dacia von der Dieringhauser Straße nach links auf den Parkstreifen vor dem Dieringhauser Bahnhof abbiegen. Dabei kam es zum Zusammenstoß mit ...</div>
+  <div class="info">14.07.2026, 10:24 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205642/hueckeswagen-badeunfall-wuppertalsperre/" target="_blank" rel="noopener">Hückeswagen: Badeunfall an Wuppertalsperre – Mann (20) stirbt</a></h2>
+  <div class="teaser">Ein tragischer Badeunfall ereignete sich in Hückeswagen an der Wuppertalsperre: Ein 20-Jähriger wurde nach dem Untergehen tot geborgen. Ermittlungen laufen.</div>
+  <div class="info">13.07.2026, 18:39 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205640/marienheide-fahrradunfall-zeugen/" target="_blank" rel="noopener">Marienheide: Fahrradunfall auf der Hauptstraße – Polizei sucht Zeugen</a></h2>
+  <div class="teaser">Ein 18-jähriger Radfahrer wurde in Marienheide bei einem Fahrradunfall schwer verletzt, als ein unbekannter Autofahrer abbiegen wollte und anschließend flüchtete. Die Polizei sucht dringend Zeugen des Vorfalls.</div>
+  <div class="info">13.07.2026, 18:34 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6313248" target="_blank" rel="noopener">POL-GM: Polizei nimmt Tatverdächtige nach Rollerdiebstahl fest</a></h2>
+  <div class="teaser">Gummersbach (ots) - Am Montag (13. Juli) wollte eine Polizeistreife gegen 1:30 Uhr einen Motorroller kontrollieren, der ihnen in der Straße &quot;In den Wiesen&quot; entgegenkam. Der Fahrer des Rollers ließ sein Fahrzeug auf dem Boden liegend zurück und ...</div>
+  <div class="info">13.07.2026, 11:15 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6313246" target="_blank" rel="noopener">POL-GM: Einbruch in Bäckerei</a></h2>
+  <div class="teaser">Gummersbach (ots) - Am Sonntag (12. Juli) brachen Unbekannte zwischen 1 Uhr und 9:20 Uhr die Eingangstür einer Bäckerei in der Kaiserstraße auf. Die Kriminellen entkamen mit zwei leeren Geldkassetten. Hinweise nimmt das Kriminalkommissariat ...</div>
+  <div class="info">13.07.2026, 11:13 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205607/engelskirchen-verkehrsunfall-20260712/" target="_blank" rel="noopener">Engelskirchen: Autofahrer bei Verkehrsunfall schwer verletzt</a></h2>
+  <div class="teaser">Verkehrsunfall in Engelskirchen-Osberghausen: Ein 31-jähriger Berliner erlitt lebensgefährliche Verletzungen. Ein Rettungshubschrauber transportierte ihn ins Krankenhaus.</div>
+  <div class="info">12.07.2026, 15:40 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6312750" target="_blank" rel="noopener">POL-GM: Auto landet auf dem Dach</a></h2>
+  <div class="teaser">Gummersbach (ots) - Am Freitagnachmittag (10. Juli) war ein 25-jähriger Mercedes-Fahrer auf der Nochener Straße (L98) von Nochen in Richtung Apfelbaum unterwegs. Gegen 16:45 Uhr kam er im Verlauf einer Rechtskurve von der Straße ab, prallte gegen ...</div>
+  <div class="info">12.07.2026, 10:09 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205452/gummersbach-foodcourt-forum/" target="_blank" rel="noopener">Foodcourt im Forum Gummersbach lockt mit drei Küchen und neuem Design</a></h2>
+  <div class="teaser">Drei Küchen, begrünte Säulen, Schließfächer mit Ladefunktion: Der neu gestaltete Treffpunkt im Forum Gummersbach ist seit Mai geöffnet.</div>
+  <div class="info">09.07.2026, 10:36 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205444/gummersbach-einbruchsversuch-karlstrasse/" target="_blank" rel="noopener">Gummersbach: Einbruchsversuch scheitert – Überwachungskamera filmt Täter</a></h2>
+  <div class="teaser">Einbruchsversuch in Gummersbach: Zwei Unbekannte versuchten in der Karlstraße eine Firmenküche aufzubrechen. Sie scheiterten und flüchteten. Die Überwachungskamera filmte die Täter.</div>
+  <div class="info">09.07.2026, 10:21 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6311167" target="_blank" rel="noopener">POL-GM: Einbrecher stehlen Mountainbikes</a></h2>
+  <div class="teaser">Gummersbach (ots) - Unbekannte verschafften sich am Mittwoch (8. Juli) gegen 2 Uhr Zugang zu einem Wohn- und Geschäftshaus in der Blücherstraße und stahlen aus einem Büroraum zwei Mountainbikes. Eine Zeugin wurde von verdächtigen Geräuschen ...</div>
+  <div class="info">09.07.2026, 10:08 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6311164" target="_blank" rel="noopener">POL-GM: Versuchter Einbruch in Gummersbach</a></h2>
+  <div class="teaser">Gummersbach (ots) - In der Nacht von Dienstag (7. Juli) auf Mittwoch versuchten Unbekannte gegen 1:50 Uhr die Tür einer Firmenküche in der Karlstraße aufzuhebeln. Auf der Überwachungskamera sind zwei männliche Personen zu erkennen, die sich zur ...</div>
+  <div class="info">09.07.2026, 10:06 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205365/gummersbach-damenmode-js-fashion/" target="_blank" rel="noopener">JS Fashion startet im Forum Gummersbach mit frischer, trendiger, günstiger Damenmode durch</a></h2>
+  <div class="teaser">Damenmode zu fairen Preisen: JS Fashion eröffnet im Forum Gummersbach – frische Looks, gute Qualität und Beratung für Frauen jeden Alters.</div>
+  <div class="info">08.07.2026, 13:31 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205350/gummersbach-polizeinachwuchs-praktikum/" target="_blank" rel="noopener">Oberberg: Polizeinachwuchs startet erstes Praktikum in Gummersbach</a></h2>
+  <div class="teaser">30 Kommissaranwärter treten im Oberbergischen Kreis ihr erstes Praktikum an – die Neulinge sammeln jetzt praktische Erfahrung im Streifendienst.</div>
+  <div class="info">08.07.2026, 12:26 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205311/oberberg-verkehrsunfaelle-verletzte/" target="_blank" rel="noopener">Oberberg: Zwei Verkehrsunfälle – Kind und Seniorin verletzt</a></h2>
+  <div class="teaser">Zwei Verkehrsunfälle im Oberberg: In Bergneustadt und Lindlar wurden am Montag ein Kind und eine 90-jährige Fußgängerin leicht verletzt.</div>
+  <div class="info">07.07.2026, 10:35 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6309598" target="_blank" rel="noopener">POL-GM: Unfall im Einmündungsbereich</a></h2>
+  <div class="teaser">Bergneustadt (ots) - Am Montag (6. Juli) wollte eine 22-jährige Gummersbacherin mit ihrem Mercedes von der Bruchhausener Straße nach links auf die Straße &quot;In der Bockemühle&quot; abbiegen. Dabei kam es gegen 19:10 Uhr zum Zusammenstoß mit dem ...</div>
+  <div class="info">07.07.2026, 10:08 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205251/gummersbach-trauer-hans-georg-hahn/" target="_blank" rel="noopener">Gummersbach: Trauer um Hans-Georg Hahn – Stadt würdigt prägende Persönlichkeit</a></h2>
+  <div class="teaser">Die Stadt Gummersbach trauert um Hans-Georg Hahn, der am 4. Juli 2026 verstarb. Er prägte über Jahrzehnte Wirtschaft und Bildung in der Region.</div>
+  <div class="info">07.07.2026, 04:15 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205237/gummersbach-belaestigung-bushaltestelle/" target="_blank" rel="noopener">Gummersbach: Sexuelle Belästigung an Bushaltestelle – Polizei fahndet</a></h2>
+  <div class="teaser">Sexuelle Belästigung an Bushaltestelle in Gummersbach: Ein 22-Jähriger wurde am Samstagabend sexuell angegriffen. Die Polizei sucht den Täter.</div>
+  <div class="info">06.07.2026, 18:14 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205230/oberberg-steinwurf-fahrzeuge-polizei/" target="_blank" rel="noopener">Oberberg: Steinwurf auf Fahrzeuge – Polizei warnt vor gefährlichen Attacken</a></h2>
+  <div class="teaser">Steinwurf auf Fahrzeuge in Gummersbach und Lindlar: Die Polizei ermittelt nach drei Vorfällen, bei denen Autos und ein Kleinkraftrad beschädigt wurden. Ein 66-Jähriger wurde identifiziert, nach weiteren Tätern wird gefahndet.</div>
+  <div class="info">06.07.2026, 17:28 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205225/gummersbach-sommerfahrplan-suedkorea/" target="_blank" rel="noopener">Gummersbach: Sommerfahrplan bringt Südkorea zur Saisoneröffnung</a></h2>
+  <div class="teaser">Sommerfahrplan des VfL Gummersbach: Vier Testspiele, drei Turniere und Saisoneröffnung gegen ein Nationalteam aus Ostasien am 15. August.</div>
+  <div class="info">06.07.2026, 16:58 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6309044" target="_blank" rel="noopener">POL-GM: Netzwerk Kradfahrende - Sondereinsatz</a></h2>
+  <div class="teaser">Oberbergischer Kreis (ots) - Am 5. Juli (Sonntag) fand ein Sondereinsatz zum Thema &quot;Netzwerk Kradfahrende&quot; statt. Bei den kreisweiten Kontrollen (unter anderem an der Bevertalsperre, der K19, am Schladernring sowie der Kaiserstraße in Gummersbach) ..</div>
+  <div class="info">06.07.2026, 13:36 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6308707" target="_blank" rel="noopener">POL-GM: Unbekannte schmeißen Steine auf Fahrzeuge</a></h2>
+  <div class="teaser">Gummersbach; Lindlar (ots) - Eine 24-jährige Autofahrerin aus Gummersbach fuhr am Freitag (3. Juli) gegen 15 Uhr auf der Dümmlinghauser Straße in Richtung Dümmlinghausen. Als sie unter der Fußgängerbrücke durchfuhr, warfen Unbekannte mehrere ...</div>
+  <div class="info">06.07.2026, 10:35 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6308702" target="_blank" rel="noopener">POL-GM: Mann an Bushaltestelle sexuell belästigt</a></h2>
+  <div class="teaser">Gummersbach (ots) - Ein 22-jähriger Gummersbacher wartete am Samstagabend (4. Juli) gegen 19:45 Uhr an der Bushaltestelle &quot;Lichtstraße&quot; auf einen Bus. Plötzlich kam ein Mann auf ihn zu und packte ihn unvermittelt in den Schritt. Dann fragte der ...</div>
+  <div class="info">06.07.2026, 10:34 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205004/gummersbach-mahe-vertragsaufloesung/" target="_blank" rel="noopener">Gummersbach: Mahé verlässt den VfL nach vier Jahren</a></h2>
+  <div class="teaser">Der VfL Gummersbach und sein Rückraumspieler lösen den Vertrag nach vier gemeinsamen Jahren einvernehmlich und vorzeitig auf – die Details.</div>
+  <div class="info">03.07.2026, 20:05 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204978/gummersbach-sommer-team-cup-krimi/" target="_blank" rel="noopener">Gummersbach: Sommer-Team-Cup – Ping Panthers gewinnen Tischtennis-Krimi</a></h2>
+  <div class="teaser">Tischtennis-Krimi beim Sommer-Team-Cup: Die Ping Panthers gewinnen das wegen Hitze verlegte Gruppenspiel bei der Netzroller GmbH 2.0 mit 4:3.</div>
+  <div class="info">03.07.2026, 07:23 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204890/gummersbach-parkverbot-aggertalsperre/" target="_blank" rel="noopener">Gummersbach: Parkverbot an der Aggertalsperre wird durchgesetzt</a></h2>
+  <div class="teaser">Parkverbot an der Aggertalsperre: Gummersbach kontrolliert ab sofort die Derschlager Straße und die Meinerzhagener Straße konsequent.</div>
+  <div class="info">02.07.2026, 18:31 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204859/oberberg-taschendiebstahl-autoaufbruch/" target="_blank" rel="noopener">Oberberg: Taschendiebstahl und Autoaufbruch – Polizei warnt</a></h2>
+  <div class="teaser">Taschendiebstahl in Radevormwald, Autoaufbruch in Gummersbach: Zwei Fälle beschäftigen die Kreispolizei Oberberg – die Ermittlungen laufen.</div>
+  <div class="info">02.07.2026, 09:40 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6306526" target="_blank" rel="noopener">POL-GM: Diebstahl aus Auto in Dieringhausen</a></h2>
+  <div class="teaser">Gummersbach (ots) - Zwischen 19:00 Uhr am Mittwoch und 3:30 Uhr am Donnerstag (2. Juli) haben Unbekannte eine JBL-Lautsprecher-Box und einen niedrigen, dreistelligen Bargeldbetrag aus einem Auto gestohlen. Der grüne Seat parkte zur Tatzeit in der ...</div>
+  <div class="info">02.07.2026, 09:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204805/gummersbach-frontalzusammenstoss-nochener-strasse/" target="_blank" rel="noopener">Gummersbach: Frontalzusammenstoß auf Nochener Straße – zwei Verletzte</a></h2>
+  <div class="teaser">Frontalzusammenstoß auf Nochener Straße in Gummersbach – zwei Verletzte. Ein 45-Jähriger geriet in den Gegenverkehr.</div>
+  <div class="info">01.07.2026, 10:18 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6305782" target="_blank" rel="noopener">POL-GM: Frontalzusammenstoß mit zwei Verletzten</a></h2>
+  <div class="teaser">Gummersbach (ots) - Am Dienstag, den 30. Juni, gegen 17:00 Uhr kam es auf der Nochener Straße in Gummersbach - Nochen zu einem Frontalzusammenstoß zweier Pkw im Kurvenbereich. Ein 45-Jähriger aus Engelskirchen befuhr die Nochener Straße in ...</div>
+  <div class="info">01.07.2026, 09:47 Uhr · Presseportal Polizei OBK</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Juni 2026 <span class="monat-count">68</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6305119" target="_blank" rel="noopener">POL-GM: Anwohner ertappt Einbrecher</a></h2>
+  <div class="teaser">Gummersbach (ots) - Unbekannte gelangten am späten Montagabend (30. Juni) auf das Gelände eines Energieversorgers in der Lichtstraße in Dieringhausen. Ein Anwohner bemerkte gegen 22:45 Uhr drei Personen, die auf dem Werksgelände umherliefen und ...</div>
+  <div class="info">30.06.2026, 10:46 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6305117" target="_blank" rel="noopener">POL-GM: Diebe nutzen Mittagspause aus</a></h2>
+  <div class="teaser">Gummersbach (ots) - Auf Werkzeug hatten es Diebe am vergangenen Montag (29. Juni) auf einer Baustelle in der Straße &quot;Sonnenweg&quot; abgesehen. Während die Bauarbeiter sich zwischen 12:00 Uhr und 12:30 Uhr in der Mittagspause befanden, schlichen sich ...</div>
+  <div class="info">30.06.2026, 10:45 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204740/gummersbach-easy-club-public-viewing/" target="_blank" rel="noopener">GER vs. PAR 4:5 n.E.: Public Viewing im Easy Club Gummersbach – DFB-Aus im Elferkrimi</a></h2>
+  <div class="teaser">Easy Club in Gummersbach beim Public Viewing zu Deutschland gegen Paraguay rappelvoll: 250 Plätze besetzt, zur Pause führt Paraguay 0:1.</div>
+  <div class="info">30.06.2026, 05:54 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6304002" target="_blank" rel="noopener">POL-GM: Sicher in den Urlaub - Polizei gibt Tipps für eine sichere Urlaubsreise</a></h2>
+  <div class="teaser">Oberbergischer Kreis; Hückeswagen; Gummersbach (ots) - Mitarbeitende der Verkehrsunfall- und der Kriminalprävention der Polizei beraten im Juli rund um das Thema &quot;Sicher in den Urlaub&quot;. Am Freitag, dem 3. Juli, steht ein Info-Stand der Polizei von ..</div>
+  <div class="info">29.06.2026, 09:30 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6303617" target="_blank" rel="noopener">POL-GM: Sexuelle Erpressung nach Flirt im Internet</a></h2>
+  <div class="teaser">Oberbergischer Kreis; Radevormwald; Gummersbach (ots) - Immer wieder werden bei der Polizei Erpressungen im Zusammenhang mit dem Versand von Nacktbildern angezeigt. Kürzlich wurde ein 20-Jähriger aus Radevormwald Opfer dieser Masche, die als ...</div>
+  <div class="info">28.06.2026, 09:55 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6303476" target="_blank" rel="noopener">POL-GM: Erster Christopher Street Day im Oberbergischen verlief friedlich und störungsfrei</a></h2>
+  <div class="teaser">Oberbergischer Kreis; Gummersbach (ots) - Der erste Christopher Street Day im Oberbergischen Kreis am Samstag (27. Juni) verlief aus polizeilicher Sicht störungsfrei. Um die Versammlung zu schützen, war die Polizei mit Einsatzkräften präsent. ...</div>
+  <div class="info">27.06.2026, 20:33 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204601/csd-gummersbach_christopher-street-day/" target="_blank" rel="noopener">CSD Gummersbach bei 36 Grad – Erster Christopher Street Day begeistert Oberberg (Mit Video)</a></h2>
+  <div class="teaser">CSD Gummersbach: Der erste Christopher Street Day im Oberbergischen Kreis zog bei 36 Grad bunt, laut und friedlich durch die Innenstadt.</div>
+  <div class="info">27.06.2026, 19:22 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204501/oberberg-verkehrsunfaelle-zweirad/" target="_blank" rel="noopener">Oberberg: Zwei Verkehrsunfälle – 16-Jähriger jeweils schwer verletzt in Gummersbach und Marienheide</a></h2>
+  <div class="teaser">Zwei Verkehrsunfälle im Oberbergischen Kreis: In Gummersbach und Marienheide wurde je ein 16-Jähriger auf dem Zweirad schwer verletzt.</div>
+  <div class="info">26.06.2026, 14:44 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6302630" target="_blank" rel="noopener">POL-GM: 16-jähriger Mofa-Fahrer kollidiert mit Traktor</a></h2>
+  <div class="teaser">Gummersbach (ots) - Ein 16-Jähriger aus Gummersbach fuhr am Donnerstag (25. Juni) gegen 18 Uhr mit einem Mofa auf der Kleinenbernberger Straße in Richtung Bernberg, als ihm in einer Kurve ein Mann auf einem grünen Traktor entgegenkam. Der ...</div>
+  <div class="info">26.06.2026, 09:14 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6302623" target="_blank" rel="noopener">POL-GM: 16-Jähriger bei Alleinunfall schwer verletzt</a></h2>
+  <div class="teaser">Marienheide (ots) - Ein 16-jähriger Leichtkraftradfahrer aus Gummersbach fuhr am Donnerstag (25. Juni) gegen 13:20 Uhr auf der Müllenbacher Straße in Fahrtrichtung Rodt. Auf der geraden Strecke verlor der 16-Jährige die Kontrolle über die ...</div>
+  <div class="info">26.06.2026, 09:10 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204485/public-viewing-oberberg_2026-06-25/" target="_blank" rel="noopener">Public Viewing Oberberg (2:1 GER vs Ecuador) Viel Bier, wenig Tore, gute Laune</a></h2>
+  <div class="teaser">Public Viewing in Gummersbach: Beim 2:1 gegen Ecuador füllte sich nur das Bit-Boulevard - im Rest der Stadt herrschte Flaute.</div>
+  <div class="info">26.06.2026, 03:51 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6301901" target="_blank" rel="noopener">POL-GM: Schockanruf: Betrüger forderten sechsstellige Summe</a></h2>
+  <div class="teaser">Gummersbach; Engelskirchen (ots) - Ein 85-Jähriger aus Gummersbach-Lantenbach erhielt zur Mittagszeit am 24. Juni (Mittwoch) einen Anruf eines angeblichen Staatsanwalts des Gummersbacher Amtsgerichts. Der Anrufer berichtete von einem schweren ...</div>
+  <div class="info">25.06.2026, 10:42 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204395/gummersbach-koerperverletzung-city/" target="_blank" rel="noopener">Gummersbach: Körperverletzung in Fußgängerzone – Mann schlägt Frau</a></h2>
+  <div class="teaser">Körperverletzung in Gummersbach: Ein 47-Jähriger schlug in der Fußgängerzone einer 51-Jährigen gegen den Hals – Zeugen hielten ihn fest.</div>
+  <div class="info">24.06.2026, 18:15 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6300951" target="_blank" rel="noopener">POL-GM: 47-Jähriger geht in Fußgängerzone auf Frau los</a></h2>
+  <div class="teaser">Gummersbach (ots) - Ein 47-Jähriger ohne festen Wohnsitz war am Dienstag (23. Juni) gegen 15 Uhr in der Fußgängerzone der Hindenburgstraße unterwegs und schrie herum. Plötzlich ging er auf eine 51-jährige Gummersbacherin zu und schlug ihr ...</div>
+  <div class="info">24.06.2026, 09:51 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204362/vfl-gummersbach-highlightspiel-koeln/" target="_blank" rel="noopener">Gummersbach: VfL bringt Highlightspiel vor Weihnachten nach Köln</a></h2>
+  <div class="teaser">Der VfL Gummersbach holt sein Highlightspiel am 22. Dezember zurück in die Kölner LANXESS arena – Revanche gegen die starken Füchse Berlin.</div>
+  <div class="info">23.06.2026, 11:36 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204357/gummersbach-baeckereieinbruch-trinkgeld/" target="_blank" rel="noopener">Gummersbach: Bäckereieinbruch in der Kaiserstraße – Täter stehlen Trinkgeld</a></h2>
+  <div class="teaser">Unbekannte brachen in eine Bäckereifiliale in Gummersbach ein und stahlen das Trinkgeld der Mitarbeitenden. Die Kriminalpolizei sucht Zeugen und bittet um Hinweise zu dem Bäckereieinbruch.</div>
+  <div class="info">23.06.2026, 11:30 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204354/berghausen-frontalzusammenstoss-unfall/" target="_blank" rel="noopener">GM-Berghausen: Frontalzusammenstoß auf dem Thaler Weg stoppt Verkehr</a></h2>
+  <div class="teaser">Frontalzusammenstoß auf dem Thaler Weg in Berghausen: Zwei junge Autofahrer aus Gummersbach leicht verletzt, Straße bis 9:20 Uhr gesperrt.</div>
+  <div class="info">23.06.2026, 10:53 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6300154" target="_blank" rel="noopener">POL-GM: Frontalzusammenstoß bei Berghausen</a></h2>
+  <div class="teaser">Gummersbach (ots) - Am Morgen des 22. Juni (Montag) kam es auf der Straße &quot;Thaler Weg&quot; zu einem Zusammenstoß zweier Autos. Eine 22-Jährige aus Gummersbach fuhr mit ihrem Opel auf dem &quot;Thaler Weg&quot; in Richtung der Straße &quot;Hohefuhrweg&quot;. Gegen 7:20 ...</div>
+  <div class="info">23.06.2026, 10:30 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6300152" target="_blank" rel="noopener">POL-GM: Einbrecher stehlen Trinkgeld</a></h2>
+  <div class="teaser">Gummersbach (ots) - Zwischen dem 20. Juni, 18 Uhr, und dem 22. Juni (Montag), 4:45 Uhr, sind Unbekannte in eine Bäckereifiliale in der Kaiserstraße eingebrochen. Die Kriminellen brachen die Seitentür auf und hebelten in den Räumlichkeiten zwei ...</div>
+  <div class="info">23.06.2026, 10:30 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204340/gummersbach-finanzkrise-haushalt/" target="_blank" rel="noopener">Gummersbach in der Finanzkrise: Bürgermeister warnt Bund und Land</a></h2>
+  <div class="teaser">Rekord bei der Gewerbesteuer, trotzdem tiefrote Zahlen: Warum Gummersbach trotz voller Kassen ein Defizit von fast 13 Millionen Euro plant.</div>
+  <div class="info">23.06.2026, 06:02 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204315/hundebaden-oberberg-talsperre/" target="_blank" rel="noopener">Hundebaden in Oberberg: Welche Talsperre Vierbeiner ins Wasser lockt</a></h2>
+  <div class="teaser">An welchen Talsperren rund um Oberberg der Hund ins Wasser darf – und warum an Genkel und Wiehl sogar ein saftiges Bußgeld droht.</div>
+  <div class="info">22.06.2026, 22:32 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204243/gummersbach-schockanruf-betrug/" target="_blank" rel="noopener">Gummersbach: Schockanruf – Betrüger erbeuten Gold und Geld von Senior</a></h2>
+  <div class="teaser">Ein 82-jähriger Gummersbacher wurde Opfer eines Schockanrufs. Betrüger erbeuteten Gold und einen vierstelligen Bargeldbetrag, indem sie einen tödlichen Verkehrsunfall der Tochter vortäuschten. Die Polizei warnt eindringlich vor der perfiden Masche.</div>
+  <div class="info">22.06.2026, 01:11 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6298652" target="_blank" rel="noopener">POL-GM: Betrüger mit Schockanruf erfolgreich</a></h2>
+  <div class="teaser">Gummersbach (ots) - Dreiste Betrüger haben am Freitag (19. Juni) einen 82-jährigen Gummersbacher um Geld und Gold gebracht. Der Senior erhielt gegen 15:30 Uhr einen Anruf von einem Mann, der sich am Telefon als Polizeibeamter aus Gummersbach ...</div>
+  <div class="info">21.06.2026, 12:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204181/gummersbach-autokorso-elfenbeinkueste-2/" target="_blank" rel="noopener">Gummersbach: Fans feiern mit Autokorso das 2:1 gegen die Elfenbeinküste (Mit 4K Video!)</a></h2>
+  <div class="teaser">Hupkonzert statt Halbschlaf: Nach dem 2:1 gegen die Elfenbeinküste drehte Gummersbach am Steinmüllergelände zum zweiten Mal eine WM-Jubelrunde.</div>
+  <div class="info">21.06.2026, 03:57 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204079/gummersbach-werkstatteinbruch/" target="_blank" rel="noopener">Gummersbach: Werkstatteinbruch an der Vollmerhauser Straße – Täter flüchten</a></h2>
+  <div class="teaser">Werkstatteinbruch an der Vollmerhauser Straße: Zwei maskierte Männer stahlen in Vollmerhausen Werkzeug und flüchteten anschließend unerkannt.</div>
+  <div class="info">19.06.2026, 15:44 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6297668" target="_blank" rel="noopener">POL-GM: Unbekannte versuchen Kellertür aufzuhebeln</a></h2>
+  <div class="teaser">Gummersbach (ots) - In der Nacht von Mittwoch auf Donnerstag (18. Juni) wollten Unbekannte in ein Restaurant in der Kölner Straße einbrechen, indem sie versuchten, die Kellertür des Lokals aufzuhebeln - ohne Erfolg. Die Tür hielt stand und die ...</div>
+  <div class="info">19.06.2026, 09:50 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6297667" target="_blank" rel="noopener">POL-GM: Einbruch in Kfz-Werkstatt</a></h2>
+  <div class="teaser">Gummersbach (ots) - Am frühen Morgen des 18. Juni (Donnerstag) stiegen zwei Unbekannte durch ein Fenster in den Lagerraum einer Kfz-Werkstatt in der Vollmerhauser Straße in Gummersbach ein. Als der Inhaber der Werkstatt im Tagesverlauf das ...</div>
+  <div class="info">19.06.2026, 09:50 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204071/gummersbach-baggerdiebstahl-gps/" target="_blank" rel="noopener">Gummersbach: Baggerdiebstahl – GPS-Ortung stellt zwei Tatverdächtige</a></h2>
+  <div class="teaser">Nach einem Baggerdiebstahl in Gummersbach führte eine GPS-Ortung die Ermittler nach Bergneustadt – zwei Tatverdächtige sind gefasst.</div>
+  <div class="info">19.06.2026, 01:57 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6297040" target="_blank" rel="noopener">POL-GM: Tatverdächtige nach Bagger-Diebstahl vorläufig festgenommen</a></h2>
+  <div class="teaser">Gummersbach (ots) - Von einer Baustelle an der Kreuzung Am Sonnenberg/Breitestraße haben Unbekannte zwischen 17 Uhr am Montag (15. Juni) und Dienstagmorgen einen Bagger und einen Radlader gestohlen. Über ein GPS System konnte ein Mitarbeiter den ...</div>
+  <div class="info">18.06.2026, 11:34 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204033/gummersbach-garageneinbruch-gaststaette/" target="_blank" rel="noopener">Gummersbach: Einbrecher schlagen in Garagen und Gaststätte zu</a></h2>
+  <div class="teaser">Drei Einbrüche in einer Nacht in Gummersbach: Unbekannte drangen in zwei Garagen und eine Gaststätte ein, die Kriminalpolizei sucht Zeugen.</div>
+  <div class="info">17.06.2026, 17:04 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6296000" target="_blank" rel="noopener">POL-GM: Einbrüche in Gaststätte und Garagen</a></h2>
+  <div class="teaser">Gummersbach (ots) - In der Hesselbacher Straße sind Unbekannte am Dienstag (16. Juni) zwischen 19 und 22 Uhr in eine Garage eingebrochen. Die Unbekannten durchwühlten sämtliche Schränke und durchsuchten das in der Garage abgestellte Auto. Beute ...</div>
+  <div class="info">17.06.2026, 09:20 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204012/badegewaesser-oberberg-talsperren/" target="_blank" rel="noopener">Badegewässer: Oberbergs Talsperren glänzen mit Bestnoten</a></h2>
+  <div class="teaser">97 Prozent der deutschen Badegewässer sind ausgezeichnet oder gut bewertet – auch Oberbergs vier Stauseen halten ihr Spitzenniveau.</div>
+  <div class="info">17.06.2026, 03:33 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203994/sm-telefonvertrieb-gummersbach_20260616/" target="_blank" rel="noopener">S&amp;M Telefonvertrieb Gummersbach (Anzeige): MagentaTV zur FIFA WM 2026 &amp; Galaxy A57 EE für 1 € bei Ihrem Telekom Partner vor Ort</a></h2>
+  <div class="teaser">Anzeige Schlank und elegant: Das Samsung Galaxy A57 EE gibt es jetzt für einmalig 1 Euro¹ mit dem Tarif MagentaMobil XS mit Smartphone für monatlich 39,95 Euro¹ – inklusive 20 GB Datenvolumen sowie Telefon- und SMS-Flat in alle deutschen Netze. Zusät</div>
+  <div class="info">16.06.2026, 12:36 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203991/gummersbach-einbruch-vereinsheim-2/" target="_blank" rel="noopener">Gummersbach: Einbrecher dringen in Vereinsheim ein – Türen aufgebrochen</a></h2>
+  <div class="teaser">Einbruch in ein Sportlerheim am Sonnenberg: Unbekannte drangen über ein Fenster ein, brachen mehrere Türen auf und stahlen zwei Matratzen.</div>
+  <div class="info">16.06.2026, 12:03 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6295285" target="_blank" rel="noopener">POL-GM: Unbekannte brechen in Vereinsheim ein</a></h2>
+  <div class="teaser">Gummersbach (ots) - Zwischen 22 Uhr am 14. Juni und 16:30 Uhr am 15. Juni (Montag) sind Einbrecher in ein Vereinsheim in der Straße &quot;Am Sonnenberg&quot; eingestiegen. In den Räumlichkeiten des Sportlerheims öffneten sie die Türen zur Umkleide, zum ...</div>
+  <div class="info">16.06.2026, 10:26 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203961/tv-becketal-euregio-cup/" target="_blank" rel="noopener">Gummersbach: TV Becketal erkämpft 12 Medaillen beim Euregio Cup</a></h2>
+  <div class="teaser">Zwölf Medaillen für die Taekwondo-Abteilung des TV Becketal beim 24. Euregio Cup in Grefrath: einmal Gold, zweimal Silber, neunmal Bronze.</div>
+  <div class="info">15.06.2026, 16:09 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203940/gummersbach-autokorso-wm_2026-06-14/" target="_blank" rel="noopener">Gummersbach: Autokorso nach dem klaren 7:1 gegen Curaçao – Fans feiern den WM-Auftakt der DFB-Elf</a></h2>
+  <div class="teaser">Schwerer Unfall auf der B256 in Gummersbach: Drei Personen verletzt, zwei Fahrzeuge total beschädigt. Polizei sucht Zeugen.</div>
+  <div class="info">15.06.2026, 04:48 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6293854" target="_blank" rel="noopener">POL-GM: Kupferrohre aus Garage gestohlen</a></h2>
+  <div class="teaser">Gummersbach (ots) - Auf Kupfer hatten es Diebe am 12. Juni (Freitag) in der &quot;Graf-von-Löh-Straße&quot; abgesehen. Aus einer offenstehenden Garage stahlen sie zwischen 14:50 Uhr und 15:45 Uhr etwa 30 Kupferrohre. Die Kriminellen entkamen unerkannt mit ...</div>
+  <div class="info">14.06.2026, 11:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203757/a4-vollsperrung-oberberg/" target="_blank" rel="noopener">Oberberg: A4-Vollsperrung am Wochenende – was Autofahrer wissen müssen</a></h2>
+  <div class="teaser">Vollsperrung auf der Autobahn: Richtung Köln geht zwischen Reichshof/Bergneustadt und Gummersbach von Samstag bis Sonntag, 17 Uhr, nichts.</div>
+  <div class="info">12.06.2026, 20:46 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203740/gummersbacher-schuelerforum-gummersbach/" target="_blank" rel="noopener">9. Gummersbacher Schülerforum: Austausch mit weiterführenden Schulen</a></h2>
+  <div class="teaser">In Gummersbach steht am Mittwoch, 17. Juni 2026, der direkte Austausch zwischen Stadtspitze und Schulen im Mittelpunkt. Dann findet das Gummersbacher Schülerforum zum neunten Mal statt. Bürgermeister Raoul Halding-Hoppenheit begrüßt dazu Vertreter de</div>
+  <div class="info">12.06.2026, 12:13 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203737/einbruch-gummersbach-wiehagen/" target="_blank" rel="noopener">Oberberg: Einbrecher schlagen in Gummersbach und Hückeswagen zu</a></h2>
+  <div class="teaser">Gewerbeeinbruch im Oberbergischen Kreis: Unbekannte trafen in einer Nacht drei Firmen in Gummersbach und ein Betriebsgelände in Wiehagen.</div>
+  <div class="info">12.06.2026, 11:07 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6293080" target="_blank" rel="noopener">POL-GM: Einbrecher im Industriegebiet unterwegs</a></h2>
+  <div class="teaser">Gummersbach (ots) - In der Nacht von Mittwoch auf Donnerstag (10./11. Juni) waren Unbekannte in der Straße &quot;Höfer-Ohl&quot; in Vollmerhausen unterwegs. Die Unbekannten beschädigten den Schließzylinder an der Tür eines Bürocontainers einer ...</div>
+  <div class="info">12.06.2026, 10:35 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203708/gummersbach-public-viewing-wm/" target="_blank" rel="noopener">Public Viewing Oberberg, Gummersbach-Friedrichsthal: GER vs. CUW 14.06.2026 auf Großbildleinwand. Kein Eintritt</a></h2>
+  <div class="teaser">Public Viewing in Gummersbach: Am Sonntag läuft Deutschlands WM-Auftakt kostenlos auf großer LED-Wand – mit Foodtruck und Hüpfburg.</div>
+  <div class="info">11.06.2026, 16:15 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6292421" target="_blank" rel="noopener">POL-GM: Kriminelle in Pochwerk und Derschlag unterwegs</a></h2>
+  <div class="teaser">Reichshof; Gummersbach (ots) - In der Nacht von Dienstag auf Mittwoch (9./10. Juni) haben Unbekannte in der Eckenhagener Straße in Derschlag und in der Straße &quot;Am Fröschepuhl&quot; ihr Unwesen getrieben. &quot;Am Fröschepuhl&quot; versuchten sie erfolglos, die ...</div>
+  <div class="info">11.06.2026, 11:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6291569" target="_blank" rel="noopener">POL-GM: Rucksack und Laptop bei Einbruch gestohlen</a></h2>
+  <div class="teaser">Gummersbach (ots) - Zwischen dem 3. Juni, 14:30 Uhr, und dem 8. Juni (Montag), 15:30 Uhr, verschafften sich Unbekannte Zugang zu einem Container in der Straße &quot;Am Sandberg&quot; in Reininghausen. Die Kriminellen stahlen einen Laptop und einen Rucksack ...</div>
+  <div class="info">10.06.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6291568" target="_blank" rel="noopener">POL-GM: Dreister Fahrraddieb</a></h2>
+  <div class="teaser">Gummersbach (ots) - Ein bislang Unbekannter betrat am 9. Juni (Dienstag, 13:40 Uhr) ein Fahrradfachgeschäft in der Vollmerhauser Straße und sah sich zunächst mehrere Fahrräder an. Dann testete und betätigte er die Gangschaltung eines E-Bikes, ...</div>
+  <div class="info">10.06.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203632/christopher-street-day-gummersbach-csd/" target="_blank" rel="noopener">Gummersbach: Erster Christopher Street Day lockt mit Tanzdemo und Fest</a></h2>
+  <div class="teaser">Tanzdemo ab 14 Uhr, Fest bis 21 Uhr auf dem Bismarckplatz: Das ist zum ersten Christopher Street Day in Gummersbach jetzt bekannt.</div>
+  <div class="info">09.06.2026, 22:48 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6290719" target="_blank" rel="noopener">POL-GM: Falsche Bankmitarbeiter erbeuten hohe Geldbeträge</a></h2>
+  <div class="teaser">Gummersbach, Marienheide (ots) - Am Montag (8. Juni) wurde ein 89-jähriger Gummersbacher gegen 15:15 Uhr von einem Mann angerufen, der sich als Mitarbeiter seiner Sparkasse ausgab. Da sich der Mann mit dem Namen einer Person vorstellte, die ...</div>
+  <div class="info">09.06.2026, 09:55 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203607/gummersbach-sommer-team-cup/" target="_blank" rel="noopener">Gummersbach: VFL Summer-Jam gewinnt Krimi im Sommer-Team-Cup</a></h2>
+  <div class="teaser">Beim Sommer-Team-Cup in Gummersbach setzt sich VFL Summer-Jam 4:3 gegen die Valberter Kantenjäger durch – entschieden im fünften Satz.</div>
+  <div class="info">09.06.2026, 04:35 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203593/vfl-gummersbach-dauerkarte-2026/" target="_blank" rel="noopener">Gummersbach: VfL stoppt freien Dauerkartenverkauf 2026/27</a></h2>
+  <div class="teaser">Der VfL Gummersbach öffnet 2026/27 keinen freien Saisonticket-Verkauf – die Arena ist seit 47 Spielen ausverkauft. EHF-Tickets ab 15. Juni.</div>
+  <div class="info">08.06.2026, 23:40 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203590/gummersbach-raubueberfall-parkbank/" target="_blank" rel="noopener">Gummersbach: Raubüberfall auf Schlafenden an Parkbank – Polizei fahndet</a></h2>
+  <div class="teaser">Raubüberfall in Gummersbach: Zwei Männer rissen einen Schlafenden von der Parkbank, schlugen ihn und raubten seine Geldbörse. Polizei fahndet.</div>
+  <div class="info">08.06.2026, 11:23 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6289877" target="_blank" rel="noopener">POL-GM: Übergriff auf Schlafenden</a></h2>
+  <div class="teaser">Gummersbach (ots) - Ein 51-jähriger Gummersbacher schlief am Sonntagmorgen (7. Juni) auf einer Parkbank in der Hülsenbuscher Straße, als er gegen 7:20 Uhr von zwei unbekannten Männern angegangen und von der Parkbank gerissen wurde. Die beiden ...</div>
+  <div class="info">08.06.2026, 11:05 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203566/gummersbach-e-scooter-unfallflucht/" target="_blank" rel="noopener">Gummersbach: E-Scooter-Fahrer flüchtet – 5 Verletzte bei Wende-Crash</a></h2>
+  <div class="teaser">Unfallflucht in Gummersbach: E-Scooter-Fahrer verletzt Pedelec-Fahrerin – Wende-Crash auf der Wiesenstraße fordert fünf Verletzte.</div>
+  <div class="info">07.06.2026, 12:13 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6289354" target="_blank" rel="noopener">POL-GM: Unfall beim Wenden</a></h2>
+  <div class="teaser">Gummersbach (ots) - Ein 19-jähriger Gummersbacher war am Samstagabend (6. Juni) gegen 23 Uhr mit seinem Ford Fiesta auf der Wiesenstraße in Richtung Albrechtplatz unterwegs. Unweit eines Lebensmittelmarktes kam es zum Zusammenstoß mit dem VW ...</div>
+  <div class="info">07.06.2026, 10:36 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6289353" target="_blank" rel="noopener">POL-GM: E-Scooter-Fahrer flüchtet von Unfallstelle</a></h2>
+  <div class="teaser">Gummersbach (ots) - Am Samstag (6. Juni) fuhr eine 62-jährige Gummersbacherin mit ihrem Pedelec auf dem Fahrradweg der Vollmerhauser Straße von Niederseßmar in Richtung Dieringhausen. In Vollmerhausen kam es gegen 14:30 Uhr, unweit eines ...</div>
+  <div class="info">07.06.2026, 10:35 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203525/gummersbach-polizeiflucht-audi/" target="_blank" rel="noopener">Gummersbach: 19-Jähriger flüchtet vor Polizei – Audi crasht an Gartencenter</a></h2>
+  <div class="teaser">Polizeiflucht in Gummersbach: Ein 19-Jähriger raste über zwei rote Ampeln und crashte seinen Audi am Gartencenter, Schaden fünfstellig.</div>
+  <div class="info">05.06.2026, 19:08 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203521/vfl-gummersbach-loewen-saisonfinale/" target="_blank" rel="noopener">VfL Gummersbach: Saisonfinale gegen Rhein-Neckar Löwen am Sonntag</a></h2>
+  <div class="teaser">Saisonfinale in der SCHWALBE arena: Der VfL Gummersbach empfängt am 7. Juni die Rhein-Neckar Löwen und verabschiedet Torhüter Kuzmanovic.</div>
+  <div class="info">05.06.2026, 18:59 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203519/vfl-gummersbach-beste-saison-europa/" target="_blank" rel="noopener">VfL Gummersbach feiert beste Saison seit 19 Jahren – Sigurdsson geehrt</a></h2>
+  <div class="teaser">Platz vier, EHF European League, EHF-Dauerkarten ab 15. Juni und Sigurdsson als Trainer der Saison: die Bilanz des VfL Gummersbach.</div>
+  <div class="info">05.06.2026, 18:29 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6288555" target="_blank" rel="noopener">POL-GM: 19-jähriger Autofahrer flüchtet vor der Polizei</a></h2>
+  <div class="teaser">Gummersbach (ots) - Gegen 01 Uhr am Donnerstag (4. Juni) fiel Polizisten auf Streifenfahrt ein weißer Audi auf, welcher den Beamten mit hoher Geschwindigkeit auf der Gummersbacher Straße entgegenkam. Die Polizisten entschlossen sich zu einer ...</div>
+  <div class="info">05.06.2026, 10:10 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203484/oberberg-container-gasflaschen/" target="_blank" rel="noopener">Oberberg: Steinbruch-Container geknackt – Gasflaschen-Diebe erneut in Lindlar</a></h2>
+  <div class="teaser">Gasflaschen und Container im Visier: Unbekannte stahlen in einer Nacht Beute in Lindlar und Gummersbach-Derschlag – die Polizei sucht Zeugen.</div>
+  <div class="info">04.06.2026, 00:59 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6287350" target="_blank" rel="noopener">POL-GM: Kriminelle brechen Container auf</a></h2>
+  <div class="teaser">Gummersbach (ots) - In der Nacht von Montag (1. Juni) auf Dienstag suchten Unbekannte das Gelände eines Steinbruchs an der Klosterstraße in Derschlag auf. Dort hebelten sie zwischen 19 Uhr und 5 Uhr mehrere Container auf und stahlen Bargeld, ...</div>
+  <div class="info">03.06.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6287347" target="_blank" rel="noopener">POL-GM: Unfall im Einmündungsbereich</a></h2>
+  <div class="teaser">Marienheide (ots) - Am Dienstag (2. Juni) wollte eine 31-jährige Gummersbacherin mit ihrem VW Polo von der Bahnhofstraße nach links auf die Hauptstraße abbiegen. Dabei kam es gegen 15:50 Uhr zum Zusammenstoß mit einer 56-Jährigen aus ...</div>
+  <div class="info">03.06.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6286468" target="_blank" rel="noopener">POL-GM: Fahrraddiebe in Derschlag unterwegs</a></h2>
+  <div class="teaser">Gummersbach (ots) - Am Dienstag (2. Juni) wollten Kriminelle gegen 2:50 Uhr mehrere Pedelecs und Fahrräder aus Garagen und Gartenhäusern in der Hermann-Renner-Straße stehlen. Ein Zeuge war durch verdächtige Geräusche auf die Einbrecher ...</div>
+  <div class="info">02.06.2026, 09:16 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6286459" target="_blank" rel="noopener">POL-GM: Unfall im Kreisverkehr</a></h2>
+  <div class="teaser">Marienheide (ots) - Bei einem Verkehrsunfall in Marienheide-Rodt wurde am Montag (1. Juni) ein Motorradfahrer leicht verletzt. Der 26-jährige Gummersbacher war mit seiner Suzuki gegen 17 Uhr in dem Kreisverkehr Gummersbacher Straße/Müllenbacher ...</div>
+  <div class="info">02.06.2026, 09:11 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203413/vfl-gummersbach-fanfest-2026/" target="_blank" rel="noopener">Gummersbach: VfL feiert Saisonfinale mit großem Fanfest</a></h2>
+  <div class="teaser">VfL Gummersbach feiert das Saisonfinale: Fanfest am Heiner-Brand-Platz, Verabschiedung von Köster und Kuzmanovi?, Spiel gegen die Löwen.</div>
+  <div class="info">01.06.2026, 16:48 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203407/gummersbach-einbruch-fahndung/" target="_blank" rel="noopener">Gummersbach: Einbrecher flüchtet – Polizei fahndet mit Hubschrauber</a></h2>
+  <div class="teaser">Gewerbegebiet Windhagen: Ein Unbekannter flüchtet aus einer Lagerhalle, die Suche mit Polizeihubschrauber bleibt zunächst erfolglos.</div>
+  <div class="info">01.06.2026, 16:17 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6285558" target="_blank" rel="noopener">POL-GM: Einbruch in Firma - Fahndung mit Hubschrauber</a></h2>
+  <div class="teaser">Gummersbach (ots) - Ein Unbekannter stellte sein Auto am Sonntagabend (31. Mai) vor der Lagerhalle einer Firma in der Fraunhoferstraße in Windhagen ab. Über die Hintertür gelangte der unbekannte Mann in die Halle und räumte mehrere Werkzeuge und ...</div>
+  <div class="info">01.06.2026, 10:25 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203402/vfl-gummersbach-magdeburg-hbl/" target="_blank" rel="noopener">Gummersbach: VfL kämpft beim Meister Magdeburg um Platz drei</a></h2>
+  <div class="teaser">VfL Gummersbach beim Meister SC Magdeburg: Am 3. Juni geht es in der HBL um zwei Punkte und den Angriff auf Platz drei.</div>
+  <div class="info">01.06.2026, 09:41 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Mai 2026 <span class="monat-count">43</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6285185" target="_blank" rel="noopener">POL-GM: Motorradfahrer schwer verletzt</a></h2>
+  <div class="teaser">Marienheide (ots) - Bei einem Zusammenstoß zwischen einem Motorrad und einem Auto wurde ein 68-Jähriger am Samstag (30. Mai) schwer verletzt. Ein 62-jähriger Autofahrer aus Marienheide fuhr auf der Unnenberger Straße in Richtung Gummersbach. ...</div>
+  <div class="info">31.05.2026, 11:05 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203185/gummersbach-busfahrer-derschlag/" target="_blank" rel="noopener">Gummersbach (Update 2) Angriff auf Busfahrer in Derschlag – Opfer mehrfach operiert</a></h2>
+  <div class="teaser">Am Busbahnhof Derschlag schlugen zwei junge Männer einen 42-jährigen Busfahrer krankenhausreif – die Polizei ermittelt, die OVAG reagiert nun.</div>
+  <div class="info">28.05.2026, 20:42 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6283504" target="_blank" rel="noopener">POL-GM: Kinder bei Verkehrsunfällen in Gummersbach verletzt</a></h2>
+  <div class="teaser">Gummersbach (ots) - Bei einem Verkehrsunfall am Mittwoch (27. Mai) wurde in Gummersbach ein 11-jähriger Junge leicht verletzt. Er war gegen 17 Uhr mit seinem Fahrrad auf dem Gehweg der Straße &quot;Am Wiedenhof&quot; unterwegs, als er von dem Skoda eines ...</div>
+  <div class="info">28.05.2026, 10:11 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203145/oberberg-rettungsdienstgebuehren-2/" target="_blank" rel="noopener">Oberberg: Neue Rettungsdienstgebühren – Finanzausschuss stimmt einstimmig zu</a></h2>
+  <div class="teaser">Neue Rettungsdienstgebühren für Oberberg: 30 Millionen Euro Schulden, einstimmige Ausschussempfehlung – Kreistag stimmt am Donnerstag ab.</div>
+  <div class="info">28.05.2026, 03:30 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203105/gummersbach-taschendiebstahl-discounter/" target="_blank" rel="noopener">Gummersbach: Taschendieb bestiehlt 84-Jährige im Discounter – Polizei warnt</a></h2>
+  <div class="teaser">Taschendiebstahl in Gummersbach-Niederseßmar: Unbekannter stiehlt 84-Jähriger die Geldbörse im Discounter – Polizei warnt vor Rempler-Masche.</div>
+  <div class="info">27.05.2026, 09:40 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6282544" target="_blank" rel="noopener">POL-GM: Vorsicht vor Taschendieben</a></h2>
+  <div class="teaser">Gummersbach (ots) - Eine 84-jährige Gummersbacherin kaufte am Dienstag (26. Mai) zwischen 17:30 Uhr und 18 Uhr in einem Discountermarkt in der Krummenohler Straße ein. Während des Einkaufs rempelte ein etwa 50 bis 60 Jahre alter Mann an. Als die ...</div>
+  <div class="info">27.05.2026, 09:20 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203035/oberberg-zivilcourage-alarm/" target="_blank" rel="noopener">Zeigt Zivilcourage, seht nicht weg: NEWS-on-Tour-Leser schlägt Alarm</a></h2>
+  <div class="teaser">Thomas M. aus Gummersbach-Dieringhausen schildert einen bedrückenden Vorfall im Zug und fordert mehr Zivilcourage.</div>
+  <div class="info">27.05.2026, 00:04 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6281506" target="_blank" rel="noopener">POL-GM: Motorradfahrer kommt von der Straße ab</a></h2>
+  <div class="teaser">Reichshof (ots) - Bei einem Verkehrsunfall in Schemmerhausen wurde am Montag (25. Mai) ein Motorradfahrer schwer verletzt. Der 46-jährige Gummersbacher war mit seiner Harley-Davidson gegen 17:15 Uhr auf der Schemmerhausener Straße (L148) in ...</div>
+  <div class="info">26.05.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203010/marienheide-ueberschlag-hauerbergstrasse/" target="_blank" rel="noopener">Marienheide: Ford Focus überschlägt sich auf Hauerbergstraße – Fahrer leicht verletzt</a></h2>
+  <div class="teaser">Marienheide, 22. Mai: Ein 26-jähriger Gummersbacher überschlug sich mit seinem Ford Focus auf der Hauerbergstraße – leichte Verletzungen.</div>
+  <div class="info">25.05.2026, 14:15 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6281159" target="_blank" rel="noopener">POL-GM: Mit Auto überschlagen</a></h2>
+  <div class="teaser">Marienheide (ots) - Ein 26-jähriger Gummersbacher war am Freitag (22. Mai) mit seinem Ford Focus auf der Hauerbergstraße von Siemerkusen in Richtung Marienheide unterwegs. Gegen 13:10 Uhr kam er nach rechts von der Straße ab und überschlug sich ...</div>
+  <div class="info">25.05.2026, 11:20 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6281157" target="_blank" rel="noopener">POL-GM: Betrunken mit Auto überschlagen</a></h2>
+  <div class="teaser">Gummersbach (ots) - Am Samstag (23. Mai) war ein 43-Jähriger aus Bergneustadt mit seinem Hyundai gegen 0:30 Uhr auf der Beustenbachstraße von Piene in Richtung der L729 unterwegs. Im Einmündungsbereich Beustenbachstraße/L729 überschlug er sich ...</div>
+  <div class="info">25.05.2026, 11:18 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6281143" target="_blank" rel="noopener">POL-GM: Unfall im Einmündungsbereich</a></h2>
+  <div class="teaser">Marienheide (ots) - Bei einem Verkehrsunfall in Kalsbach wurde am Sonntag (24. Mai) der Fahrer eines Leichtkraftrades leicht verletzt. Der 17-Jährige aus Marienheide war mit seinem Zweirad gegen 15:55 Uhr auf der Gummersbacher Straße (B256) von ...</div>
+  <div class="info">25.05.2026, 11:10 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202987/hueckeswagen-toedlicher-unfall-l68/" target="_blank" rel="noopener">Hückeswagen: 58-Jährige stirbt in brennendem Auto – Alleinunfall auf der L68</a></h2>
+  <div class="teaser">Tödlicher Alleinunfall bei Hückeswagen: Eine 58-jährige Lindlarerin starb in der Nacht in ihrem Pkw, der nach Baum-Kollision in Brand geriet.</div>
+  <div class="info">25.05.2026, 04:50 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202920/vfl-gummersbach-handball-minden-32-22/" target="_blank" rel="noopener">VfL Gummersbach schlägt Minden 32:22 – Champions League im Blick</a></h2>
+  <div class="teaser">VfL Gummersbach gewinnt in der HBL gegen GWD Minden 32:22 und rückt auf einen Punkt an den Champions-League-Rang heran.</div>
+  <div class="info">24.05.2026, 08:29 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202685/tv-becketal-taekwondo-guertelpruefung/" target="_blank" rel="noopener">Gummersbach: TV Becketal Taekwondo-Nachwuchs glänzt bei Gürtelprüfung</a></h2>
+  <div class="teaser">21 Nachwuchsathleten des TV Becketal Gummersbach haben ihre Taekwondo-Gürtelprüfung bestanden – abgenommen von Großmeister Bajrush Saliu, 9. Dan.</div>
+  <div class="info">22.05.2026, 01:12 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6279129" target="_blank" rel="noopener">POL-GM: Einbruch in Einfamilienhaus</a></h2>
+  <div class="teaser">Gummersbach (ots) - Am Montag (20. Mai) hebelten Unbekannte zwischen 12 Uhr und 15:30 Uhr die Kellertür eines unbewohnten Einfamilienhauses in Berghausen auf. Sie durchsuchten das Gebäude und entkamen unerkannt. Nach derzeitigem Erkenntnisstand ...</div>
+  <div class="info">21.05.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202615/marienheide-radfahrerin-unfall-rad/" target="_blank" rel="noopener">Marienheide: Radfahrerin bei Unfall an der Gummersbacher Straße verletzta</a></h2>
+  <div class="teaser">Radfahrerin in Marienheide bei Unfall an der Gummersbacher Straße verletzt – Autofahrer übersah die 59-Jährige beim Ausfahren aus einem Grundstück.</div>
+  <div class="info">20.05.2026, 10:06 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6278305" target="_blank" rel="noopener">POL-GM: Auto kollidiert mit Radfahrerin</a></h2>
+  <div class="teaser">Marienheide (ots) - Am Dienstag (19. Mai), gegen 16 Uhr beabsichtigte ein 37-Jähriger aus Marienheide von einem Grundstück auf die Gummersbacher Straße einzufahren. Dabei kam es zum Zusammenstoß mit einer 59-jährigen Fahrradfahrerin aus ...</div>
+  <div class="info">20.05.2026, 09:30 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202521/gummersbach-wohnhaenger-diebstahl/" target="_blank" rel="noopener">Gummersbach: Wohnanhänger gestohlen – Diebe liefern sich Verfolgungsjagd mit der Polizei</a></h2>
+  <div class="teaser">Wohnanhänger in Gummersbach gestohlen – Besitzer verfolgt ihn per GPS, Polizei startet Verfolgungsjagd. Vier Täter flüchtig.</div>
+  <div class="info">19.05.2026, 12:18 Uhr · NEWS-on-Tour Oberberg · auch bei Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6275326" target="_blank" rel="noopener">POL-GM: Honda von Parkplatz gestohlen</a></h2>
+  <div class="teaser">Gummersbach (ots) - Zwischen 22 Uhr am Dienstag (12. Mai) und 09:15 Uhr am Mittwoch haben Unbekannte eine Honda vom Modell CMX 250 C gestohlen. Das Motorrad mit dem Kennzeichen GM-BK53 stand zur Tatzeit au einer Parkfläche in der Erblandstraße. ...</div>
+  <div class="info">15.05.2026, 09:45 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6275323" target="_blank" rel="noopener">POL-GM: Unbekannter bricht in Seniorenheim ein - Tatverdächtiger gestellt</a></h2>
+  <div class="teaser">Gummersbach (ots) - Ein Unbekannter ist in der Nacht von Mittwoch auf Donnerstag (13./14. Mai) in ein Seniorenheim in der Reininghauser Straße eingebrochen. Gegen drei Uhr morgens hörten Pflegekräfte verdächtige Geräusche und verständigten die ...</div>
+  <div class="info">15.05.2026, 09:40 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6275317" target="_blank" rel="noopener">POL-GM: Einbrecher kam über die Terrassentür</a></h2>
+  <div class="teaser">Gummersbach (ots) - In der Hardtwiesenstraße ist am Mittwoch (13. Mai) ein Unbekannter über die Terrassentür in eine Wohnung eines Mehrfamilienhauses eingebrochen. Über eine Überwachungskamera in der Wohnung bemerkten die Bewohner den Einbruch ...</div>
+  <div class="info">15.05.2026, 09:35 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/sport/regional/handballer-als-ampelmaennchen-eine-weltpremiere-im-bergischen-land-HZYJVPUZ5KL24FXU7ULR34VFVY.html" target="_blank" rel="noopener">Handballer als Ampelmännchen – eine Weltpremiere im Bergischen Land</a></h2>
+  <div class="teaser">Die Stadt Haan, in der bestenfalls Regionalliga-Handball gespielt wird, hat ein neues Alleinstellungsmerkmal: Handballer als Ampelmännchen. Damit sticht die Stadt mit ihren Lichtzeichen sogar die Handball-Hochburg Gummersbach aus.</div>
+  <div class="info">14.05.2026, 15:01 Uhr · RGA Oberbergischer Kreis (Gesamt)</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202329/gummersbacher-schuetzenverein-gsv-1833/" target="_blank" rel="noopener">Gummersbacher Schützenverein GSV 1833 – Kompletter Vorstand kündigt Rücktritt an</a></h2>
+  <div class="teaser">GSV 1833 / Gummersbach / Schützenfest / Vorstandsrücktritt (Von Christian Sasse) Ein Paukenschlag beim Gummersbacher Schützenverein GSV 1833: Auf der Jahreshauptversammlung am 13. Mai 2026 hat der gesamte Vorstand geschlossen angekündigt, zum Ende de</div>
+  <div class="info">14.05.2026, 01:50 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202293/bergneustadt-mopedfahrer-schwerverletzt/" target="_blank" rel="noopener">Bergneustadt: Mopedfahrer schwer verletzt – drei Polizeimeldungen aus Oberberg</a></h2>
+  <div class="teaser">Oberberg / Bergneustadt / Verkehrsunfall / Polizei / Gummersbach (Von Christian Sasse) Ein Mopedfahrer wurde am Montag in Bergneustadt auf der Bahnstraße bei einem Verkehrsunfall schwer verletzt – daneben meldet die Polizei aus dem Oberbergischen Kre</div>
+  <div class="info">12.05.2026, 22:23 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6273593" target="_blank" rel="noopener">POL-GM: Unbekannte stehlen Porsche in Derschlag</a></h2>
+  <div class="teaser">Gummersbach (ots) - Zwischen 18 Uhr und 22 Uhr stahlen Kriminelle am Freitag (8. Mai) einen Porsche, der am Straßenrand der Straße &quot;Stauweiher&quot; parkte. Bei dem Fahrzeug handelt es sich um einen grauen Porsche Panamera 4S/971 mit dem Kennzeichen ...</div>
+  <div class="info">12.05.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6272560" target="_blank" rel="noopener">POL-GM: Motorradfahrer bei Unfall schwer Verletzt</a></h2>
+  <div class="teaser">Gummersbach (ots) - Ein 72-jähriger Motorradfahrer aus Krefeld fuhr am Sonntag (10. Mai) auf der L337/Dannenberger Straße in Richtung Unnenberg. Nachdem er einen Pkw überholt hatte, kam er nach dem Wiedereinscheren nach rechts von der Fahrbahn ...</div>
+  <div class="info">11.05.2026, 10:11 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202238/vfl-gummersbach_tischtenns-masters_2026/" target="_blank" rel="noopener">Pfaff dominiert Masters @VfL Gummersbach Vereinsmeisterschaften 2026 im Tischtennis</a></h2>
+  <div class="teaser">Gummersbach / Tischtennis / VfL Gummersbach / Vereinsmeisterschaft (Von Christian Sasse) Christopher Pfaff hat die Tischtennis-Vereinsmeisterschaft des VfL Gummersbach in der Masters-Klasse gewonnen – mit einer makellosen Bilanz von sechs Siegen ohne</div>
+  <div class="info">11.05.2026, 05:30 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202203/bodensee-urlaub-immenstaad-card/" target="_blank" rel="noopener">Reisereport Bodensee: 7 Tage Immenstaad – Mit der Echt Bodensee Card ohne Auto am Dreiländersee</a></h2>
+  <div class="teaser">Bodensee / Immenstaad / Echt Bodensee Card / Dreiländersee (Von Christian Sasse) Ein Oberberger am Bodensee: Ulrich Rück aus Gummersbach verbrachte sieben Tage in Immenstaad am Bodensee – vom 1. bis 8. Mai 2026. Mit der Echt Bodensee Card im Gepäck e</div>
+  <div class="info">11.05.2026, 02:46 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6272161" target="_blank" rel="noopener">POL-GM: Bargeld bei Einbruch gestohlen</a></h2>
+  <div class="teaser">Gummersbach (ots) - In der Nacht von Freitag auf Samstag (8./9. Mai) brachen Kriminelle in eine Wohneinheit auf einem Campingplatz in der Straße &quot;Würden&quot; bei Berghausen ein. Dazu hebelten sie die Eingangstür zum Wintergarten auf sowie eine ...</div>
+  <div class="info">10.05.2026, 10:25 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6271167" target="_blank" rel="noopener">POL-GM: Unfall in Strombach - Autofahrer alkoholisiert</a></h2>
+  <div class="teaser">Gummersbach (ots) - Am Donnerstagmittag (7. Mai, 12 Uhr) wurden Polizisten zu einem Verkehrsunfall mit Blechschaden in der Weststraße in Strombach gerufen. Ein 72-Jähriger aus Gummersbach war mit seinem Renault zunächst auf der L 323 und weiter ...</div>
+  <div class="info">08.05.2026, 09:20 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6271166" target="_blank" rel="noopener">POL-GM: Ladendiebin vorläufig festgenommen</a></h2>
+  <div class="teaser">Gummersbach (ots) - Mitarbeiter eines Supermarktes in der Straße &quot;Am Alten Bahnhof&quot; in Niederseßmar riefen am 7. Mai (Donnerstag) gegen 17:10 Uhr die Polizei, nachdem sie im Geschäft eine Frau wiedererkannt hatten, die in den Tagen zuvor ...</div>
+  <div class="info">08.05.2026, 09:20 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202022/gummersbach-jobmesse-oberberg-halle32/" target="_blank" rel="noopener">Gummersbach: Jobmesse Oberberg mit Rekordandrang in der Halle 32</a></h2>
+  <div class="teaser">Oberberg / Gummersbach / Jobmesse Oberberg / Halle 32 / Fachkräftemangel (Von Christian Sasse) Hunderte Besucher, 51 Aussteller: Die Jobmesse Oberberg – Die Jobmesse LateNightEdition hat am Donnerstagabend, 7. Mai 2026, in der Halle 32 in Gummersbach</div>
+  <div class="info">08.05.2026, 01:51 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202012/bergneustadt-unfall-koelnerstrasse-baum/" target="_blank" rel="noopener">Bergneustadt: Unfall auf der Kölner Straße – Mercedes A-Klasse kracht auf Verkehrsinsel</a></h2>
+  <div class="teaser">Bergneustadt / Unfall / Kölner Straße / Oberberg (Von Christian Sasse) Ein schwarzer Mercedes A-Klasse mit Gummersbacher Kennzeichen ist am Mittwochnachmittag, 06.05.2026, gegen 16:40 Uhr auf der Kölner Straße in Bergneustadt auf die Mittelfahrbahn g</div>
+  <div class="info">07.05.2026, 01:49 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201975/gummersbach-weltkriegsbomben-derschlag/" target="_blank" rel="noopener">Gummersbach (Update) Verdacht auf Weltkriegsbomben in Kalteneich – Entwarnung nach Ausgrabungen in Derschlag</a></h2>
+  <div class="teaser">Gummersbach / Kalteneich / Weltkriegsbombe / Kampfmittelräumdienst (Von Christian Sasse) Update 06.05.2026 12:55 Uhr – Bei Sondierungsarbeiten im Bereich Kalteneich, einer Ortslage am nordwestlichen Rand des Gummersbacher Stadtteils Derschlag, gab es</div>
+  <div class="info">06.05.2026, 12:55 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201966/parkhaus-forum-gummersbach-ticketlos/" target="_blank" rel="noopener">Parkhaus Forum Gummersbach wird digital – ticketloses Parken kommt</a></h2>
+  <div class="teaser">Gummersbach / Parken / Forum Gummersbach / Digitalisierung (Von Christian Sasse) Das Parkhaus Forum Gummersbach bekommt ab dem 18. Mai 2026 ein komplettes technisches Upgrade: Das bisherige Ticketsystem wird durch eine moderne Kennzeichenerkennung er</div>
+  <div class="info">05.05.2026, 18:40 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6268764" target="_blank" rel="noopener">POL-GM: Radfahrer bei Verkehrsunfall verletzt</a></h2>
+  <div class="teaser">Gummersbach (ots) - Bei einem Verkehrsunfall in Niederseßmar wurde am Montag (4. Mai) ein Fahrradfahrer leicht verletzt. Der 38-jährige Gummersbacher war mit seinem Fahrrad auf dem Fahrradschutzstreifen der Gummersbacher Straße von Gummersbach in ...</div>
+  <div class="info">05.05.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201931/einbrueche-oberberg-gummersbach-polizei/" target="_blank" rel="noopener">Oberberg: Sechs Einbrüche in zehn Tagen – Polizei sucht dringend Zeugen</a></h2>
+  <div class="teaser">Einbruch / Gummersbach / Polizei / Oberberg (Von Christian Sasse) Im Oberbergischen Kreis haben Kriminelle innerhalb von zehn Tagen gleich sechs Mal zugeschlagen – in Gummersbach, Hückeswagen, Waldbröl, Morsbach und Marienheide. Besonders schwerwiege</div>
+  <div class="info">03.05.2026, 17:32 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6267327" target="_blank" rel="noopener">POL-GM: Safe aus Einfamilienhaus gestohlen</a></h2>
+  <div class="teaser">Gummersbach (ots) - In der Zeit vom 22.04.2026 bis 30.04.2026 schlugen Unbekannte das Fenster eines Einfamilienhauses in der Luisenstraße ein und betraten die Räume. Sie durchsuchten alle vier Etagen des Hauses und stahlen einen Safe mit Schmuck. ...</div>
+  <div class="info">03.05.2026, 11:28 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6267319" target="_blank" rel="noopener">POL-GM: Kriminelle versuchen in Schulcontainer einzubrechen</a></h2>
+  <div class="teaser">Gummersbach (ots) - In der Nacht von Freitag (1. Mai) auf Samstag versuchten Kriminelle zwischen 22 und 6 Uhr vergeblich, die Tür eines Schulcontainers einer Grundschule im Ulmenweg aufzubrechen. Dabei beschädigten sie die Verglasung. Da es den ...</div>
+  <div class="info">03.05.2026, 11:24 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201904/tischtennis-vfl-gummersbach-kreuzchen/" target="_blank" rel="noopener">Tischtennis: VfL Gummersbach Kreuzchen-Turnier – Sasse triumphiert bei Blitz und Donner</a></h2>
+  <div class="teaser">Gummersbach / Tischtennis / VfL Gummersbach / Vereinssport (Von NEWS-Redaktion) Während draußen über Gummersbach Blitze zuckten und Donner rollte, ließen sich die TT-Spieler in der Turnhalle an der Bickenbacher Straße davon nicht im Geringsten beirre</div>
+  <div class="info">03.05.2026, 05:49 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201869/dlrg-bergneustadt-wache-aggertalsperre/" target="_blank" rel="noopener">DLRG Bergneustadt: Neue 400.000 Euro Wasserrettungsstation – Wache 2.0 an der Aggertalsperre feierlich eröffnet</a></h2>
+  <div class="teaser">DLRG Bergneustadt / Wasserrettungsstation / Aggertalsperre / Wache 2.0 (Von Christian Sasse) Nach acht Jahren Planung, Rückschlägen und einem Gesamtinvestitionsvolumen von rund 400.000 Euro hat die DLRG Ortsgruppe Bergneustadt am Samstag, 2. Mai 2026</div>
+  <div class="info">03.05.2026, 01:35 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201861/bergneustadt-fehlalarm-breiter-weg/" target="_blank" rel="noopener">Bergneustadt: Fehlalarm am Breiter Weg – Feuerwehr und Polizei suchten vergebens nach Brandherd</a></h2>
+  <div class="teaser">Oberberg / Bergneustadt / Fehlalarm / Feuerwehr / Polizei (Von Christian Sasse) Am Freitagabend (01.05.2026) rückten gegen 20:00 Uhr zwei Löschfahrzeuge der Feuerwehr Bergneustadt sowie eine Streife der Polizei Gummersbach zum Breiter Weg in Bergneus</div>
+  <div class="info">01.05.2026, 20:55 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">April 2026 <span class="monat-count">25</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/179860/oberberg-veranstaltungskalender-nrw/" target="_blank" rel="noopener">Veranstaltungskalender Oberberg: Events &amp; Termine.NEWS-on-Tour.de im Oberbergischen Kreis</a></h2>
+  <div class="teaser">Kaum ein Veranstaltungskalender bietet mehr für den Oberbergischen Kreis und Umgebung! 134 Termine aktuell online – Täglich aktualisiert! Oberberg / Veranstaltungskalender / Oberbergischer Kreis / Veranstaltungen / Termine / Events /Nightlife / NRW (</div>
+  <div class="info">29.04.2026, 08:01 Uhr · NEWS-on-Tour (Gesamt)</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201789/gummersbach-hells-angels-razzia-nrw/" target="_blank" rel="noopener">Gummersbach: Hells Angels-Razzia – Großeinsatz auch im Oberbergischen</a></h2>
+  <div class="teaser">Gummersbach / Hells Angels / Razzia / Organisierte Kriminalität (Von Christian Sasse) Mit über 1.200 Beamten hat die Polizei am frühen Dienstagmorgen eine der größten Razzien in der Geschichte NRWs gegen den Hells Angels Motorcycle Club Leverkusen du</div>
+  <div class="info">29.04.2026, 02:19 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201776/bergneustadt-einbruch-bowling-center/" target="_blank" rel="noopener">Bergneustadt: Einbruch im Bowling Center Oberberg – Kasse und Tresor gestohlen</a></h2>
+  <div class="teaser">Bergneustadt / Einbruch / Bowling Center Oberberg / Kriminalpolizei Gummersbach (Von Christian Sasse) In der Nacht zum Montag, 27. April 2026, wurde in das Bowling Center Oberberg an der Kölner Straße in Bergneustadt (Oberbergischer Kreis/NRW) eingeb</div>
+  <div class="info">28.04.2026, 00:20 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201728/waldbroel-honda-ueberschlag-alkohol/" target="_blank" rel="noopener">Waldbröl: Alkohol am Steuer – Honda überschlägt sich auf der Rölefelder Straße (3 Polizeimeldungen aus Oberberg)</a></h2>
+  <div class="teaser">Waldbröl / Alkohol am Steuer / Verkehrsunfall / Oberberg (Von Christian Sasse) Ein 47-jähriger Autofahrer aus Reichshof kam am Freitagnachmittag auf der Rölefelder Straße in Waldbröl von der Fahrbahn ab, stürzte mit seinem Honda eine Böschung hinab u</div>
+  <div class="info">26.04.2026, 13:26 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201657/vfl-gummersbach-hbl-berlin-20260424/" target="_blank" rel="noopener">Serie reißt! VfL Gummersbach verliert Topspiel gegen Füchse Berlin</a></h2>
+  <div class="teaser">VfL Gummersbach / Füchse Berlin / HBL / Handball Bundesliga (Von Christian Sasse) Der VfL Gummersbach hat am Donnerstagabend, 23. April 2026, das Topspiel des 29. Spieltags in der HBL bei den Füchsen Berlin mit 26:28 (12:13) verloren. Nach elf Bundes</div>
+  <div class="info">24.04.2026, 02:37 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201647/gummersbach-handball-ampelmaennchen/" target="_blank" rel="noopener">Gummersbach: Handball-Ampelmännchen zwischen Hype, Kosten und Kritik</a></h2>
+  <div class="teaser">Gummersbach / Handball-Ampelmännchen / VfL Gummersbach / Oberberg (Von Christian Sasse) Das Projekt Handball-Ampelmännchen Gummersbach sorgt weiter für Aufmerksamkeit: Die Petition kommt inzwischen auf 1.788 verifizierte Unterschriften, die GoFundMe-</div>
+  <div class="info">23.04.2026, 07:06 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201625/vfl-gummersbach-hbl-lizenz-2026-2027/" target="_blank" rel="noopener">VfL Gummersbach: Handball-Bundesliga-Lizenz für 2026/27 gesichert</a></h2>
+  <div class="teaser">VfL Gummersbach / Handball-Bundesliga / Lizenz / Oberberg (Von Christian Sasse) VfL Gummersbach hat die offizielle Lizenz für die Handball-Bundesliga-Saison 2026/27 erhalten. Die unabhängige Lizenzierungskommission der HBL erteilte allen 36 Bewerbern</div>
+  <div class="info">22.04.2026, 16:23 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201456/gummersbach-dieringhausen-vollbrand/" target="_blank" rel="noopener">Gummersbach-Dieringhausen (Update #4) Vollbrand in der Burgbergstraße – Feuerwehr im Großeinsatz</a></h2>
+  <div class="teaser">f Oberberg / Gummersbach / Brand / Feuerwehr / Dieringhausen (Von Christian Sasse) Ein leerstehendes Fachwerkhaus an der Ecke Burgbergstraße/Hohler Straße in Gummersbach-Dieringhausen ist am Samstagabend, 18. April 2026, in Vollbrand geraten. Mehr al</div>
+  <div class="info">18.04.2026, 19:48 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201407/pfefferspray-berufskolleg-gummersbach/" target="_blank" rel="noopener">Gummersbach: Pfefferspray im Kaufmännischen Berufskolleg Oberberg – 37 Betroffene, Gebäude evakuiert</a></h2>
+  <div class="teaser">Gummersbach / Berufskolleg / Pfefferspray / Polizeieinsatz (Von Christian Sasse) Am Donnerstagmittag haben Unbekannte im Kaufmännischen Berufskolleg Oberberg in der Hans-Böckler-Straße in Gummersbach Pfefferspray versprüht. Nach Polizeiangaben erlitt</div>
+  <div class="info">16.04.2026, 17:24 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201399/oberberg-vandalismus-einbruch-lindlar/" target="_blank" rel="noopener">Oberberg: Einbruch und Vandalismus – Polizei ermittelt in Lindlar und Rebbelroth</a></h2>
+  <div class="teaser">Lindlar / Gummersbach / Vandalismus / Einbruch (Von Christian Sasse) Die Kreispolizeibehörde Oberbergischer Kreis meldet innerhalb weniger Tage gleich zwei Vorfälle: In Lindlar wurden eine Gartenhütte und ein Spielplatzzaun mutwillig beschädigt, in G</div>
+  <div class="info">16.04.2026, 16:48 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201390/gummersbach-tischtennis-sm-2026/" target="_blank" rel="noopener">Gummersbach: Tischtennis-Stadtmeisterschaften 2026 mit französischer Delegation aus La Roche-sur-Yon</a></h2>
+  <div class="teaser">Oberberg / Gummersbach / Tischtennis / Stadtmeisterschaften / Städtepartnerschaft (Von Christian Sasse) Am Samstag, dem 16. Mai 2026, finden in der Sporthalle des Berufskolleg Oberberg in Gummersbach-Dieringhausen die diesjährigen Tischtennis-Stadtme</div>
+  <div class="info">16.04.2026, 02:28 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201384/sum-telefonvertrieb-2026-04-15/" target="_blank" rel="noopener">S&amp;M Telefonvertrieb Gummersbach (Anzeige): MagentaTV zur FIFA WM 2026, Galaxy S25 FE &amp; iPhone 17e bei Ihrem Telekom Partner vor Ort</a></h2>
+  <div class="teaser">Anzeige Oberberg / Gummersbach – Telekom Partner Gummersbach: MagentaTV zur FIFA WM 2026 – Früh einsteigen und sparen! Nur mit MagentaTV erlebst du wirklich alle Spiele der FIFA WM 2026 live – davon 44 Spiele exklusiv. Jetzt in den ersten 6 Monaten f</div>
+  <div class="info">15.04.2026, 03:34 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201375/gummersbach-bajrush-saliu-9dantaekwondo/" target="_blank" rel="noopener">Gummersbach: Großmeister Bajrush Saliu erhält höchsten regulären Taekwondo-Grad</a></h2>
+  <div class="teaser">Gummersbach / Taekwondo / TV Becketal / Kampfsport (Von Christian Sasse) Großmeister Bajrush Saliu vom TV Becketal hat im März 2026 in Südkorea den 9. Dan im Taekwondo verliehen bekommen – eine der höchsten regulären Graduierungen, die zu Lebzeiten i</div>
+  <div class="info">15.04.2026, 02:14 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201340/vfl-gummersbach-3224-gegen-wetzlar/" target="_blank" rel="noopener">VfL Gummersbach: Zehnter Bundesligasieg in Serie – 32:24 gegen Wetzlar</a></h2>
+  <div class="teaser">VfL Gummersbach / Handball-Bundesliga / SCHWALBE arena / Oberberg (Von Christian Sasse) Der VfL Gummersbach hat am Samstagabend in der ausverkauften SCHWALBE arena die HSG Wetzlar mit 32:24 (17:8) klar bezwungen und damit zehn Bundesligaspiele in Fol</div>
+  <div class="info">12.04.2026, 03:59 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201230/gummersbach-auto-ueberschlag-alkohol/" target="_blank" rel="noopener">Gummersbach: Auto überschlägt sich auf der Zur Linge – Fahrer stand unter Alkoholeinfluss</a></h2>
+  <div class="teaser">Gummersbach / Verkehrsunfall / Polizei / Alkohol am Steuer (Von Christian Sasse) Ein 42-jähriger Autofahrer aus Marienheide hat sich am Dienstagabend (7. April) auf der Straße Zur Linge in Gummersbach mit seinem Fahrzeug überschlagen. Ein Atemalkohol</div>
+  <div class="info">08.04.2026, 15:28 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201175/engelskirchen-tankstellen-preisfehler/" target="_blank" rel="noopener">Engelskirchen: Tankstellen schließen nach Preisfehler – Neue 12-Uhr-Regel verschärft die Lage</a></h2>
+  <div class="teaser">Engelskirchen / Tankstelle / Spritpreise / Oberberg (Von Christian Sasse) Am Ostermontag, dem 6. April 2026, kam es im Raum Engelskirchen zu ungewöhnlichen Szenen an mehreren Tankstellen. Ein technisch bedingter Preisfehler sorgte ab dem frühen Nachm</div>
+  <div class="info">06.04.2026, 23:01 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201162/reichshof-hunde-sos-oberberg-spenden/" target="_blank" rel="noopener">Reichshof: Hunde SOS Oberberg droht Schließung – SPENDEN sollen Tierleben retten</a></h2>
+  <div class="teaser">Reichshof / Hunde SOS Oberberg / Tierschutz / Oberberg (Von Christian Sasse) Dem Verein Hunde SOS Oberberg e.V. in Reichshof droht durch eine Entscheidung des Kreisbauamtes Gummersbach die Schließung seiner Tierschutzanlage. Rund 20 Hunde – darunter </div>
+  <div class="info">06.04.2026, 21:07 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/12632/vorsicht-vor-der-ostereier-mafia-2009/" target="_blank" rel="noopener">Ostereier-Mafia Gummersbach: Lustige Videoumfrage zu Ostern | Retro-Archiv 2009</a></h2>
+  <div class="teaser">Der Osterhase heißt Mohamed und türkische Ostereier sind sehr groß 🙂 „Aktuelles aus unserem TV.NEWS.on-Tour.de Retro-Video-ARCHIV!“ Ostern, die besinnliche Zeit und das höchste Fest der christlichen Kirche. Doch was hat die „Eier-Mafia“ mit dem Oster</div>
+  <div class="info">05.04.2026, 14:30 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201099/gummersbach-osterfeuer2026niedersessmar/" target="_blank" rel="noopener">Gummersbach: Osterfeuer 2026 in Niederseßmar lockt über 500 Besucher</a></h2>
+  <div class="teaser">Oberberg / Gummersbach / Osterfeuer / Feuerwehr / Niederseßmar (Von Christian Sasse) Die Löschgruppe Niederseßmar der Feuerwehr Gummersbach hat am Samstagabend (04.04.2026) zum traditionellen Osterfeuer auf den Festplatz hinter dem Feuerwehrgerätehau</div>
+  <div class="info">05.04.2026, 05:47 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200881/osterfeuer-oberberg-2026-wo/" target="_blank" rel="noopener">Osterfeuer Oberberg 2026: (04./05.04.) Diese 17 Veranstaltungen sind offiziell bestätigt</a></h2>
+  <div class="teaser">Oberberg / Osterfeuer / 2026 / Veranstaltungen / Waldbrandgefahr (Von Christian Sasse) Update #6 Am Karsamstag, 4. April 2026, und Ostersonntag, 5. April 2026, lodern im Oberbergischen Kreis wieder die traditionellen Osterfeuer. Feuerwehren, Dorfgeme</div>
+  <div class="info">04.04.2026, 00:01 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201085/waldbroel-eierwerfer-amtsgericht-strafe/" target="_blank" rel="noopener">Eierwerfer von Waldbröl vor Gericht – 1.500 Euro Strafe und Fahrverbot</a></h2>
+  <div class="teaser">Waldbröl / Amtsgericht / Nötigung / Oberberg (Von Christian Sasse) Es klingt wie ein verspäteter Aprilscherz. Ist es aber nicht! Passend zu den Osterfeierlichkeiten verhandelte das Amtsgericht Waldbröl am Gründonnerstag einen Fall, bei dem sich buchs</div>
+  <div class="info">03.04.2026, 18:00 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201079/vfl-gummersbach-bergisches-derby-bhc/" target="_blank" rel="noopener">VfL Gummersbach dominiert Bergisches Derby in Düsseldorf – Neunter Sieg in Folge</a></h2>
+  <div class="teaser">VfL Gummersbach / Handball / DAIKIN HBL / Oberberg (Von Christian Sasse) Der VfL Gummersbach hat am Gründonnerstag (02.04.) das Bergische Derby beim Bergischen HC in der ausverkauften Düsseldorfer Mitsubishi Electric HALLE souverän mit 39:30 (19:15) </div>
+  <div class="info">03.04.2026, 01:10 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/1038/tanzverbot-an-karfreitag/" target="_blank" rel="noopener">Tanzverbot an Karfreitag 2026 – Noch zeitgemäß? Video-Umfrage aus Gummersbach</a></h2>
+  <div class="teaser">Aktuelles aus dem NTOI-Videoarchiv! Soll das Tanzverbot an Karfreitag endlich gekippt werden? Diese Frage stellte unser NEWS-Team bereits 2006 Gummersbacher Gastronomen – und sie ist heute aktueller denn je! UPDATE 2026: Auch an diesem Karfreitag, de</div>
+  <div class="info">03.04.2026, 01:05 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201072/gummersbach-vw-polo-verfolgungsjagd/" target="_blank" rel="noopener">Gummersbach (Update#2) Gestohlener VW Polo nach Verfolgungsjagd in Unterfranken sichergestellt</a></h2>
+  <div class="teaser">Gummersbach / Autodiebstahl / Polizei / Oberberg (Von Christian Sasse) In Gummersbach-Derschlag (Oberbergischer Kreis/NRW) wurde in der Nacht zum Donnerstag (2. April) ein blauer VW Polo von der Kölner Straße gestohlen. Nur wenige Stunden später fiel</div>
+  <div class="info">02.04.2026, 14:58 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200993/aggerwave-surfanlage-aggertalsperre/" target="_blank" rel="noopener">APRILSCHERZ 2026! Gummersbach: Nach ECHO kommt AggerWave an die Aggertalsperre</a></h2>
+  <div class="teaser">APRIL, APRIL! Na, reingefallen? Die AggerWave-Surfanlage an der Aggertalsperre ist frei erfunden. Aber Hand aufs Herz – eine Surfanlage vor der imposanten Kulisse der denkmalgeschützten Staumauer, das hätte schon was, oder? ~ Frohen 1. April! NEWS-on</div>
+  <div class="info">01.04.2026, 01:16 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">März 2026 <span class="monat-count">21</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200974/gummersbach-einbruch-telefonladen/" target="_blank" rel="noopener">Gummersbach: Einbruch in Telefonladen – Verfolgungsfahrt endet mit vier Festnahmen</a></h2>
+  <div class="teaser">Gummersbach / Einbruch / Verfolgungsfahrt / Polizei (Von Christian Sasse) Nach einem Einbruch in einen Telefonladen in der Moltkestraße in Gummersbach am frühen Sonntagmorgen (29. März 2026) lieferten sich die Täter eine Verfolgungsfahrt mit der Poli</div>
+  <div class="info">30.03.2026, 16:01 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/185193/craigh-na-dun-gummersbach-geheimnis/" target="_blank" rel="noopener">Craigh na Dun oder das Geheimnis der fünf Säulen: Zeitreise im Herzen von Gummersbach. Bürger im Gespräch (Jan Frank Demeulemeester) Steinmüllerglände</a></h2>
+  <div class="teaser">Oberberg / Gummersbach / Kunst / Skulptur / Outlander (Von Christian Sasse) – Wie stumme Wächter ragen fünf massive Säulen in den Nachthimmel über dem Steinmüllergelände – geheimnisvoll beleuchtet, fast außerirdisch. Was aussieht wie ein Portal in ei</div>
+  <div class="info">30.03.2026, 00:01 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200950/vfl-gummersbach-hannover-burgdorf-2026/" target="_blank" rel="noopener">VfL Gummersbach feiert achten Sieg in Serie gegen Hannover-Burgdorf</a></h2>
+  <div class="teaser">VfL Gummersbach / Handball Bundesliga / SCHWALBE arena / Oberberg (Von Christian Sasse) Der VfL Gummersbach hat seine beeindruckende Siegesserie in der DAIKIN HBL fortgesetzt und am Samstagabend vor 4.132 Zuschauern in der ausverkauften SCHWALBE aren</div>
+  <div class="info">28.03.2026, 23:13 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200907/oberberg-einbruchserie-polizei-zeugen/" target="_blank" rel="noopener">Oberberg: Einbruchserie erschüttert die Region – Polizei sucht Zeugen</a></h2>
+  <div class="teaser">Oberberg / Einbruch / Polizei / Diebstahl (Von Christian Sasse) Gleich vier Straftaten binnen weniger Tage beschäftigen die Polizei im Oberbergischen Kreis: In Gummersbach, Waldbröl, Morsbach und Engelskirchen schlugen Einbrecher und Diebe zu. Die Kr</div>
+  <div class="info">27.03.2026, 18:07 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200887/gummersbach-aggerenergie-100-jahre/" target="_blank" rel="noopener">Gummersbach: AggerEnergie feiert 100-jähriges Jubiläum – Jetzt Festpreise sichern, Führungswechsel und ein Kalender voller Geschenke</a></h2>
+  <div class="teaser">Gummersbach / AggerEnergie / Oberberg / Energieversorger (Von Christian Sasse) Am Donnerstagvormittag, 26. März 2026, lud die AggerEnergie in ihre Hauptverwaltung an der Alexander-Fleming-Straße in Gummersbach (Oberbergischer Kreis/NRW) zum Presseges</div>
+  <div class="info">27.03.2026, 10:12 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200851/gummersbach-vollmerhausen-kaminbrand/" target="_blank" rel="noopener">Gummersbach-Vollmerhausen: Kaminbrand greift auf Fassade über – 65 Einsatzkräfte vor Ort</a></h2>
+  <div class="teaser">Gummersbach / Kaminbrand / Feuerwehr Gummersbach / Vollmerhausen (Von Christian Sasse) Am Mittwochabend, 25. März 2026, wurde die Feuerwehr Gummersbach gegen 20:28 Uhr zu einem Gebäudebrand in die Vollmerhauser Straße im Ortsteil Vollmerhausen-Ost al</div>
+  <div class="info">26.03.2026, 01:11 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200837/gummersbach-peugeot-roller-gestohlen/" target="_blank" rel="noopener">Oberberg: Gummersbach [Kurzinfo] Roller (Peugeot) gestohlen</a></h2>
+  <div class="teaser">Oberberg / Gummersbach – (Von NEWS-Ticker) In der Nacht von Montag auf Dienstag, 23. auf 24. März 2026, wurde in Gummersbach (Oberbergischer Kreis/NRW) ein schwarzer Roller der Marke Peugeot gestohlen. Roller in der Heiler Straße entwendet Unbekannte</div>
+  <div class="info">25.03.2026, 15:49 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200799/vfl-gummersbach-tv-rebbelroth-20260323/" target="_blank" rel="noopener">Lokalderby: VfL Gummersbach II dreht 1:3-Rückstand und besiegt TV Rebbelroth 6:4 (Tischtennis)</a></h2>
+  <div class="teaser">Gummersbach: VfL Gummersbach II dreht 1:3-Rückstand und besiegt TV Rebbelroth 6:4 Gummersbach / Tischtennis / VfL Gummersbach / Bezirksklasse (Von Christian Sasse) Am Montagabend, 23. März 2026, bebte die Sporthalle Steinenbrück an der Bickenbachstra</div>
+  <div class="info">24.03.2026, 03:21 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200766/gummersbach-auffahrunfall-vollmerhausen/" target="_blank" rel="noopener">Gummersbach: Auffahrunfall auf der Kölner Straße in Niederseßmar – drei Verletzte und Vollsperrung</a></h2>
+  <div class="teaser">Gummersbach / Auffahrunfall / Kölner Straße / Feuerwehr (Von Christian Sasse) Am Sonntagabend, 22. März 2026, kam es gegen 17:51 Uhr auf der Kölner Straße in Gummersbach-Niederseßmar zu einem schweren Auffahrunfall. Zwei Fahrzeuge – ein schwarzer BMW</div>
+  <div class="info">22.03.2026, 21:26 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200680/gummersbach-graffiti-kirche/" target="_blank" rel="noopener">Gummersbach: Kirche in der Von-Steinen-Straße mit Graffiti beschädigt</a></h2>
+  <div class="teaser">Gummersbach / Kirche / Graffiti / Polizei (Von Christian Sasse) In Gummersbach (Oberbergischer Kreis/NRW) ist am Donnerstagmorgen (19. März) die Fassade einer Kirche in der Von-Steinen-Straße mit Graffiti beschädigt worden. Nach ersten Erkenntnissen </div>
+  <div class="info">21.03.2026, 03:54 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200655/gummersbach-backerei-transporter-unfall/" target="_blank" rel="noopener">Gummersbach: Bäckerei-Transporter löst Kettenunfall mit fünf Fahrzeugen auf der Hückeswagener Straße aus</a></h2>
+  <div class="teaser">Gummersbach / Verkehrsunfall / Hückeswagener Straße / Oberberg (Von Christian Sasse) Ein Fahrfehler des Fahrers eines Bäckerei-Transporters hat am Mittwochmorgen in Gummersbach-Windhagen (Oberbergischer Kreis/NRW) einen schweren Verkehrsunfall mit fü</div>
+  <div class="info">18.03.2026, 13:12 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200629/schuetzenverein-gummersbach-streit-fb/" target="_blank" rel="noopener">Gummersbach: Schützenverein streitet über Facebook Kommentar</a></h2>
+  <div class="teaser">Gummersbach / Schützenverein / Schützenfest / Facebook-Kommentar (Von Christian Sasse) Am 11. März 2026 sind der Redaktion von NEWS-on-Tour anonym Unterlagen zu einem internen Konflikt im Gummersbacher Schützenverein per Post zugegangen. Im Mittelpun</div>
+  <div class="info">16.03.2026, 14:59 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200618/gummersbach-bmw-aus-werkstatt-gestohlen/" target="_blank" rel="noopener">Gummersbach: BMW gestohlen aus Werkstatt – Polizei sucht 2 Tatverdächtige</a></h2>
+  <div class="teaser">Gummersbach / Autodiebstahl / Werkstatt / BMW (Von Christian Sasse) In Gummersbach (Oberbergischer Kreis/NRW) haben Unbekannte in der Nacht von Samstag auf Sonntag einen schwarzen BMW 535D Kombi aus einem Kfz-Betrieb in der Straße „Stauweiher“ gestoh</div>
+  <div class="info">16.03.2026, 12:04 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200609/gummersbach-jet-tankstelle-raub-machete/" target="_blank" rel="noopener">Gummersbach: Tankstellenraub mit Machete – Tatverdächtiger auf dem Weg zur Polizei gestoppt</a></h2>
+  <div class="teaser">Gummersbach / Tankstellenraub / Machete / Oberberg (Von Christian Sasse) Ein 22-jähriger Gummersbacher hat am Sonntagabend die JET-Tankstelle in der Gummersbacher Straße mit einer Machete überfallen und Bargeld erbeutet – wenige Stunden später wurde </div>
+  <div class="info">16.03.2026, 10:40 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200549/derschlag-schwertransport-ampel-unfall/" target="_blank" rel="noopener">Derschlag: Schwertransport kollidiert mit Ampel an der Kreuzung – Kreuzung teilweise gesperrt</a></h2>
+  <div class="teaser">Oberberg / Gummersbach / Schwertransport / Verkehrsunfall / Derschlag (Von Christian Sasse) Am Donnerstagabend (12. März 2026) kam es gegen 23:15 Uhr an der Kreuzung in Gummersbach-Derschlag (Oberbergischer Kreis/NRW) zu einem Verkehrsunfall mit Sach</div>
+  <div class="info">13.03.2026, 01:16 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200459/vfl-gummersbach-tt_vs_vfl-engelskirchen/" target="_blank" rel="noopener">Oberberg – Tischtennis: Kantersieg! VfL Gummersbach II überrollt VfL Engelskirchen 9:1</a></h2>
+  <div class="teaser">Gummersbach / Tischtennis / VfL Gummersbach / Oberberg (Von Christian Sasse) Am Montagabend, 9. März 2026, feierte der VfL Gummersbach II in der 3. Bezirksklasse 10 einen überzeugenden 9:1-Heimsieg gegen den Vorletzten VfL Engelskirchen. Besonders be</div>
+  <div class="info">10.03.2026, 00:01 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200441/bergneustadt-hassposts-geschaeftsleute/" target="_blank" rel="noopener">Bergneustadt: Schwere Hassposts gegen türkische Geschäftsleute – Polizei ermittelt wegen übler Nachrede und Verleumdung</a></h2>
+  <div class="teaser">Facebook / Hassposts / Verleumdung / Oberberg (Von Christian Sasse) In Bergneustadt (Oberbergischer Kreis/NRW) hat ein mutmaßlich gefälschtes Facebook-Profil unter dem Namen „Merve A.“ in der Nacht vom Freitag, 6. März 2026, auf Samstag, 7. März 2026</div>
+  <div class="info">08.03.2026, 22:31 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200405/gummersbach-dirk-adolphs-adi-verstorben/" target="_blank" rel="noopener">Fotograf Dirk Adolphs (64) verstorben – „Adi“ aus Gummersbach bleibt unvergessen</a></h2>
+  <div class="teaser">Gummersbach / Dirk Adolphs / Fotograf / Nachruf (Von Christian Sasse) Gummersbach trauert um einen Fotografen mit besonderem Blick. Mit dem Tod von Dirk Adolphs verliert Gummersbach einen Fotografen, der über viele Jahre das kulturelle, gesellschaftl</div>
+  <div class="info">07.03.2026, 05:07 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200372/lindlar-toedlicher-unfall-k24-baumcrash/" target="_blank" rel="noopener">Lindlar: Autofahrer prallt frontal gegen Baum – Tödlicher Unfall auf der K24</a></h2>
+  <div class="teaser">Oberberg / Lindlar / Verkehrsunfall / Polizei / K24 (Von Christian Sasse) Ein 35-jähriger Autofahrer aus Köln ist am Mittwochmorgen (4. März) auf der Straße „Oberbergscheid“/K24 in Lindlar mit seinem Nissan von der Fahrbahn abgekommen, frontal gegen </div>
+  <div class="info">05.03.2026, 13:44 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200336/gummersbach-it-stoerung-kreisverwaltung/" target="_blank" rel="noopener">Update: Oberberg: Gummersbach IT-Störung bei der Kreisverwaltung legt zentrale Systeme lahm</a></h2>
+  <div class="teaser">Update 04.o3.2026 (01:26 Uhr) – Die IT-Störung beim Dienstleister des Oberbergischen Kreises besteht weiterhin. Die Kreisverwaltung ist nach wie vor nur eingeschränkt erreichbar. Positiv: Die Internetseite obk.de funktioniert inzwischen wieder „einge</div>
+  <div class="info">04.03.2026, 01:26 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200310/gummersbach-verkehrsunfall-kind-fahrrad/" target="_blank" rel="noopener">Gummersbach: 10-Jähriger bei Verkehrsunfall leicht verletzt – Zusammenstoß an Kreuzung</a></h2>
+  <div class="teaser">Gummersbach – Ein 10-jähriger Junge ist am Sonntagmittag (1. März 2026) bei einem Verkehrsunfall im Stadtgebiet von Gummersbach leicht verletzt worden. Der Unfall ereignete sich im Kreuzungsbereich Berghausener Straße / Am Schmittenberg. Archivbilder</div>
+  <div class="info">02.03.2026, 13:00 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Februar 2026 <span class="monat-count">14</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200276/sum-telefonvertrieb-2026-02-28/" target="_blank" rel="noopener">S&amp;M Telefonvertrieb Gummersbach (Anzeige): iPhone 17, Glasfaser &amp; Galaxy S26 Ultra bei Ihrem Telekom Partner vor Ort</a></h2>
+  <div class="teaser">Anzeige Oberberg / Gummersbach – Telekom Partner Gummersbach: iPhone 17 – wunderschöner, noch robuster. Jetzt im besten 5G-Netz* der Telekom erleben und im Tarif MagentaMobil M für 149,- €** sichern. „Nicht nur klicken, sondern sprechen: Persönliche,</div>
+  <div class="info">28.02.2026, 10:17 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200241/gummersbach-circus-buegler-tiere-zirkus/" target="_blank" rel="noopener">Gummersbach: Zirkus Bügler kämpft für Tiere in der Manege – Angelo Bügler mit emotionalem Facebook Appell</a></h2>
+  <div class="teaser">Circus Bügler / Gummersbach / Zirkus / Tierhaltung (Von Christian Sasse) Angelo Bügler (Foto – Artist, Dompteur und Clown beim traditionsreichen Circus Bügler aus Gummersbach, hat sich mit einem emotionalen Beitrag auf Facebook zu Wort gemeldet. Der </div>
+  <div class="info">26.02.2026, 05:24 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200228/gummersbach-unfall-brueckenstrasse-polo/" target="_blank" rel="noopener">Gummersbach: Verkehrsunfall auf der Brückenstraße – Polo kippt nach Spurwechsel um</a></h2>
+  <div class="teaser">Oberberg / Gummersbach / Polizei / Verkehrsunfall / Brückenstraße (Von Christian Sasse) Bei einem Verkehrsunfall auf der Brückenstraße in der Gummersbacher Innenstadt sind am Dienstagnachmittag zwei Autofahrerinnen leicht verletzt worden. Eine 69-Jäh</div>
+  <div class="info">25.02.2026, 12:01 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200151/vfl-gummersbach-2-tus-weiershagen-2-tt/" target="_blank" rel="noopener">Tischtennis Oberberg: Spitzenreiter TuS Weiershagen II baut Vorsprung mit 6:4-Sieg in Gummersbach aus</a></h2>
+  <div class="teaser">Tischtennis / Gummersbach / Bezirksklasse / Oberberg (Von Christian Sasse) Der Tabellenführer TuS Weiershagen II hat am Montagabend (23.02.2026) in der 3. Bezirksklasse 10 (Bezirk Köln) seinen Vorsprung an der Spitze weiter ausgebaut. Beim VfL Gummer</div>
+  <div class="info">24.02.2026, 04:08 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200085/finanzpower-fuer-frauen-oberberg-2026/" target="_blank" rel="noopener">Finanzpower für Frauen in Oberberg – Veranstaltungsreihe startet im März 2026</a></h2>
+  <div class="teaser">Oberberg / Finanzpower für Frauen / Frauen Union / Gummersbach (Von Christian Sasse) Mit der neuen Reihe „Finanzpower für Frauen – informiert entscheiden. Unabhängig handeln.“ startet die Frauen Union Oberberg im Frühjahr 2026 eine dreiteilige Verans</div>
+  <div class="info">20.02.2026, 20:16 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200064/vfl-gummersbach-35-27-thsv-eisenach/" target="_blank" rel="noopener">VfL Gummersbach: feiert souveränen Heimsieg gegen Eisenach – 35:27 am 22. Spieltag</a></h2>
+  <div class="teaser">VfL Gummersbach / Handball Bundesliga / SCHWALBE arena / Oberberg (Von Christian Sasse) Der VfL Gummersbach hat am Donnerstagabend den nächsten Heimsieg in der DAIKIN HBL perfekt gemacht. Am 22. Spieltag besiegte die Mannschaft von Cheftrainer Gudjon</div>
+  <div class="info">20.02.2026, 02:54 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200059/lindlar-baeckereilieferant-diebstahl/" target="_blank" rel="noopener">Lindlar: Bäckereilieferant auf Parkplatz bestohlen – Polizei sucht Zeugen</a></h2>
+  <div class="teaser">Lindlar / Polizei / Diebstahl / Oberberg (Von Christian Sasse) Ein bislang Unbekannter hat am frühen Mittwochmorgen ein Etui mit Bargeld aus dem Lieferfahrzeug eines 54-jährigen Bäckereilieferanten aus Gummersbach gestohlen, während dieser an einer B</div>
+  <div class="info">19.02.2026, 10:33 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/199914/gummersbach-unfall-westtangente-brand/" target="_blank" rel="noopener">Gummersbach: Mensch stirbt nach Unfall auf der Westtangente – Identität weiter unklar, Ermittler prüfen Motiv</a></h2>
+  <div class="teaser">Gummersbach / Westtangente / Polizei Köln / Unfall (Von Christian Sasse) Ein Mensch ist am Freitagvormittag 13.02.2026 nach einem schweren Alleinunfall auf der Gummersbacher Westtangente seinen Verletzungen erlegen. Die Identität der im verunfallten </div>
+  <div class="info">13.02.2026, 14:14 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/199911/oberberg-weiberfastnacht-2026-polizei/" target="_blank" rel="noopener">Oberberg: Ruhige Einsatzlage an Weiberfastnacht – Polizei meldet 15 Platzverweise</a></h2>
+  <div class="teaser">Oberberg / Polizei / Weiberfastnacht / Karneval (Von Christian Sasse) Im gesamten Oberbergischen Kreis haben die Jecken an Weiberfastnacht (12. Februar) trotz Dauerregen und ungemütlicher Witterung ausgelassen Karneval gefeiert. Die Polizei zieht ein</div>
+  <div class="info">13.02.2026, 10:58 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/199851/vfl-gummersbach-vs-flensburg-handewitt/" target="_blank" rel="noopener">VfL Gummersbach: Kraftakt zum 33:26 – Flensburg-Handewitt in SCHWALBE arena zerpflückt</a></h2>
+  <div class="teaser">Gummersbach / VfL Gummersbach / Handball-Bundesliga / SG Flensburg-Handewitt (Von Christian Sasse) Der VfL Gummersbach ist mit einem eindrucksvollen 33:26-Heimsieg gegen Flensburg-Handewitt in das Handball-Jahr 2026 gestartet und hat den Tabellenzwei</div>
+  <div class="info">11.02.2026, 00:50 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/199842/gummersbach-pkw-unfall-muehlenstrasse/" target="_blank" rel="noopener">Gummersbach: 20.000 Euro Schaden! Unfall an der Mühlenstraße – 59-Jähriger leicht verletzt</a></h2>
+  <div class="teaser">Gummersbach / Verkehrsunfall / Polizei / OVAG (Von Christian Sasse) Bei einem Verkehrsunfall an der Kreuzung Mühlenstraße/Wiesenstraße in Gummersbach ist am Dienstagmittag ein 59-jähriger Fahrer leicht verletzt worden. Ein 43-jähriger Bergneustädter </div>
+  <div class="info">10.02.2026, 18:34 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/199809/auto-rammt-tankstelle-gummersbach/" target="_blank" rel="noopener">Gummersbach: Auto rammt Tankstelle – Diebe flüchten nach Nebelalarm</a></h2>
+  <div class="teaser">Oberberg / Gummersbach / Tankstelle / Einbruch / Polizei (Von Christian Sasse) In Gummersbach ist am Montagmorgen, 9. Februar 2026, gegen 03:30 Uhr eine Tankstelle an der Vollmerhauser Straße Ziel eines nächtlichen Einbruchs geworden. Ein Auto fuhr i</div>
+  <div class="info">09.02.2026, 09:42 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/199744/gummersbach-tuersteher-prozess-polizei/" target="_blank" rel="noopener">Gummersbach: Türsteher-Prozess – Verteidigung wirft Polizei schlampige Ermittlungen vor</a></h2>
+  <div class="teaser">Gummersbach / Türsteher-Prozess / Landgericht Köln / Oberberg (Von Christian Sasse) Im Gummersbacher Türsteher-Prozess am Landgericht Köln hat die Verteidigung des Hauptangeklagten in ihrem Plädoyer schwere Vorwürfe gegen die Polizei Gummersbach erho</div>
+  <div class="info">07.02.2026, 07:08 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/199650/vfl-gummersbach-steinenbrueck-tt/" target="_blank" rel="noopener">VfL Gummersbach II gewinnt packendes Tischtennis-Derby gegen Steinenbrück II mit 7:3</a></h2>
+  <div class="teaser">Oberberg / Gummersbach / Tischtennis / VfL Gummersbach / Steinenbrück (Von Christian Sasse) Tischtennis ist eine der schnellsten Ballsportarten der Welt mit Ballgeschwindigkeiten von bis zu 180 km/h und extremen Reaktionsanforderungen. Genau diese Dy</div>
+  <div class="info">03.02.2026, 03:05 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Januar 2026 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/nachwuchs-oekonom-glaenzt-noah-david-nasimzadah-gewinnt-das-quiz-wirtschaftswissen-im-wettbewerb/" target="_blank" rel="noopener">Nachwuchs-Ökonom glänzt: Noah David Nasimzadah gewinnt das Quiz „Wirtschaftswissen im Wettbewerb“</a></h2>
+  <div class="teaser">Oberberg. Noah David Nasimzadah gewinnt Wirtschaftsquiz in Oberberg. Er vertritt den Kreis im Bundesfinale 2026. Jetzt alle Details zum Sieg lesen! Der Beitrag Nachwuchs-Ökonom glänzt: Noah David Nasimzadah gewinnt das Quiz „Wirtschaftswissen im Wett</div>
+  <div class="info">20.01.2026, 15:46 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Juni 2025 <span class="monat-count">2</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/werbepartner-vfl-gummersbach-toolport-baut-zusammenarbeit-aus/" target="_blank" rel="noopener">Werbepartner VfL Gummersbach: TOOLPORT baut Zusammenarbeit aus</a></h2>
+  <div class="teaser">Der VfL Gummersbach und die TOOLPORT GmbH setzen ihre Partnerschaft fort und intensivieren die Zusammenarbeit ab der kommenden Saison 2025/26. Der Beitrag Werbepartner VfL Gummersbach: TOOLPORT baut Zusammenarbeit aus erschien zuerst auf Oberberg-Nac</div>
+  <div class="info">03.06.2025, 20:15 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/butlers-forum-gummersbach/" target="_blank" rel="noopener">Butlers Forum Gummersbach</a></h2>
+  <div class="teaser">Butlers Forum Gummersbach - Eine neue Filiale im Erdgeschoss vom Forum Gummersbach. Der Beitrag Butlers Forum Gummersbach erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">03.06.2025, 19:47 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Mai 2025 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/pop-up-hochzeit-im-oberbergischen-dom/" target="_blank" rel="noopener">Pop-Up-Hochzeit im Oberbergischen Dom</a></h2>
+  <div class="teaser">Der Kirchenkreis An der Agger und die Kirchengemeinde Gummersbach laden Paare ein, sich einfach trauen zu lassen. Der Beitrag Pop-Up-Hochzeit im Oberbergischen Dom erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">30.05.2025, 16:37 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">März 2025 <span class="monat-count">2</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/kostenloser-selbstverteidigungskurs-fuer-frauen-im-oberbergischen-kreis/" target="_blank" rel="noopener">Kostenloser Selbstverteidigungskurs für Frauen im Oberbergischen Kreis</a></h2>
+  <div class="teaser">Im heutigen Zeitalter ist es wichtiger denn je, dass Frauen sich sicher und selbstbewusst fühlen. Um diesem Ziel näherzukommen, bietet das „Netzwerk Oberberg no - gegen Gewalt“ in Zusammenarbeit mit der Gleichstellungsstelle des Oberbergischen Kreise</div>
+  <div class="info">11.03.2025, 15:07 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/einlassbaender-das-passende-band-fuer-ihre-veranstaltung/" target="_blank" rel="noopener">Designs von Einlassbändern:</a></h2>
+  <div class="teaser">Einlassbänder sind ein wichtiges Element bei der Organisation von Veranstaltungen in der Region Oberberg. Sie helfen dabei, den Zugang zu kontrollieren und tragen zur Sicherheit und zu einem reibungslosen Ablauf bei. Ob bei Messen in Gummersbach, Fes</div>
+  <div class="info">07.03.2025, 14:28 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Februar 2025 <span class="monat-count">3</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/das-problem-kalte-fuesse-beim-radfahren/" target="_blank" rel="noopener">Das Problem: Kalte Füße beim Radfahren</a></h2>
+  <div class="teaser">Besonders auf den hügeligen Strecken rund um Gummersbach, Engelskirchen oder Wiehl können kalte Füße schnell zum Problem werden. Da spezielle Fahrradschuhe oft dünn und flexibel sind, bieten sie nicht immer ausreichend Wärme. Wer längere Touren durch</div>
+  <div class="info">18.02.2025, 11:16 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/handball-bundesliga-spieltage-vfl-gummersbach/" target="_blank" rel="noopener">VfL Gummersbach – HBL terminiert Spieltage 26 bis 30</a></h2>
+  <div class="teaser">Die Handball-Bundesliga hat die Termine für den 26. bis 30. Spieltag in der DAIKIN HBL festgelegt. Darunter befinden sich neben drei Auswärtsspielen des VfL Gummersbach bei der MT Melsungen, dem … Der Beitrag VfL Gummersbach – HBL terminiert Spieltag</div>
+  <div class="info">03.02.2025, 12:36 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/kostenfreie-fahrten-wahllokal-mobile-aggertal-e-v/" target="_blank" rel="noopener">Mobile Aggertal e.V. bietet kostenfreie Fahrten zum Wahllokal für Senioren an</a></h2>
+  <div class="teaser">Die bevorstehenden Wahlen rücken näher, und das Mobile Aggertal e.V. hat sich einmal mehr dem Wohl der Senioren in Dieringhausen und Vollmerhausen verschrieben. Der Beitrag Mobile Aggertal e.V. bietet kostenfreie Fahrten zum Wahllokal für Senioren an</div>
+  <div class="info">03.02.2025, 12:09 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Januar 2025 <span class="monat-count">4</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/notfall-infopunkte-im-oberbergischen-kreis/" target="_blank" rel="noopener">Notfall-Infopunkte im Oberbergischen Kreis</a></h2>
+  <div class="teaser">Die Kreisverwaltung informiert regelmäßig über wichtige Aspekte der Notfallvorsorge. Dabei liegt der Fokus auf den Notfall-Infopunkten im Oberbergischen Kreis. Der Beitrag Notfall-Infopunkte im Oberbergischen Kreis erschien zuerst auf Oberberg-Nachri</div>
+  <div class="info">28.01.2025, 16:25 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/cvjm-gummersbach-fuehrt-auch-2025-die-aktion-christbaum-durch/" target="_blank" rel="noopener">CVJM Gummersbach führt auch 2025 die „Aktion Christbaum“ durch</a></h2>
+  <div class="teaser">Auch in diesem Jahr lädt der CVJM Gummersbach zur beliebten „Aktion Christbaum“ ein. Am Samstag, den 11. Januar, werden in nahezu allen Stadtteilen die nicht mehr benötigten Weihnachtsbäume eingesammelt. Der Beitrag CVJM Gummersbach führt auch 2025 d</div>
+  <div class="info">06.01.2025, 15:23 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/vfl-gummersbach-niederlage-fuechse-berlin/" target="_blank" rel="noopener">VfL Gummersbach muss sich zum Jahresabschluss gegen Füchse Berlin geschlagen geben</a></h2>
+  <div class="teaser">Im mit Spannung erwarteten Highlightspiel des Jahres 2024 musste der VfL Gummersbach am zweiten Weihnachtstag eine Niederlage einstecken. Der Beitrag VfL Gummersbach muss sich zum Jahresabschluss gegen Füchse Berlin geschlagen geben erschien zuerst a</div>
+  <div class="info">06.01.2025, 14:51 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/winterdorf-gummersbach/" target="_blank" rel="noopener">Winterdorf Gummersbach – Ein rundum gelungenes Debüt</a></h2>
+  <div class="teaser">Die Premiere der kunstvoll gestalteten &quot;Weihnachtswelt&quot; auf dem Festplatz Steinmüllerallee zog in diesem Jahr etwa hunderttausend Besucher an. Der Beitrag Winterdorf Gummersbach – Ein rundum gelungenes Debüt erschien zuerst auf Oberberg-Nachrichten.d</div>
+  <div class="info">06.01.2025, 14:36 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Oktober 2024 <span class="monat-count">4</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/vfl-gummersbach-erwartet-handball-highlight-gegen-hamburg-in-der-schwalbearena/" target="_blank" rel="noopener">VfL Gummersbach erwartet Handball-Highlight gegen Hamburg in der Schwalbearena</a></h2>
+  <div class="teaser">Gummersbach – Der VfL Gummersbach steht vor einer spannenden Herausforderung, wenn am kommenden Sonntag, den 3. November, der Handball Sport Verein Hamburg in der Schwalbearena Gummersbach gastiert. Das Heimspiel in … Der Beitrag VfL Gummersbach erwa</div>
+  <div class="info">31.10.2024, 20:25 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/kunst-in-der-emmauskirche-eine-ausstellung-von-uwe-wintersohl-in-gummersbach-derschlag/" target="_blank" rel="noopener">Kunst in der Emmauskirche – Eine Ausstellung von Uwe Wintersohl in Gummersbach-Derschlag</a></h2>
+  <div class="teaser">Gummersbach-Derschlag - Die Emmauskirche bietet in den kommenden Monaten eine besondere Gelegenheit für Kunstliebhaber und spirituell Interessierte. Der Beitrag Kunst in der Emmauskirche – Eine Ausstellung von Uwe Wintersohl in Gummersbach-Derschlag </div>
+  <div class="info">31.10.2024, 19:28 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/kreishaushalt-2025-von-jochen-hagt-vorgestellt/" target="_blank" rel="noopener">Kreishaushalt 2025 von Jochen Hagt vorgestellt</a></h2>
+  <div class="teaser">In der heutigen Kreistagssitzung präsentierte Landrat Jochen Hagt den Haushaltsentwurf des Oberbergischen Kreises für die Jahre 2025 und 2026. Der umfassende Plan, der knapp 680 Seiten umfasst, ist ab sofort HIER einsehbar und herunterladbar. Der Bei</div>
+  <div class="info">31.10.2024, 18:37 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/erfolgreicher-sponsorenabend-fuer-den-nick-co-cup-2025/" target="_blank" rel="noopener">Erfolgreicher Sponsorenabend für den Nick &amp; Co-Cup 2025</a></h2>
+  <div class="teaser">Die Veranstalter des Nick &amp; Co-Cups, der SpVg Dümmlinghausen-Bernberg und die Helfenden Hände Oberberg, luden zu einem erfolgreichen Sponsorenabend ein. Der Beitrag Erfolgreicher Sponsorenabend für den Nick &amp; Co-Cup 2025 erschien zuerst auf Oberberg-</div>
+  <div class="info">21.10.2024, 13:33 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">September 2024 <span class="monat-count">2</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/pollen-in-gummersbach-diese-all-in-one-geraete-reduzieren-symptome-bei-heuschnupfen/" target="_blank" rel="noopener">Pollen in Gummersbach: diese All-in-One-Geräte reduzieren Symptome bei Heuschnupfen</a></h2>
+  <div class="teaser">Wegerich, Buche, Hasel und Ambrosia: Diese und viele weitere Pflanzen sondern Blütenstaub ab, der bei Menschen mit Heuschnupfen zu Symptomen wie Niesen, geröteten Augen oder Atemnot führen kann. In Gummersbach leiden Allergiker derzeit verstärkt unte</div>
+  <div class="info">20.09.2024, 15:32 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/zebio-schulungsangebot-fuer-waldbesitzende/" target="_blank" rel="noopener">Klimaangepasste Wälder – Schulungsangebot für Waldbesitzende</a></h2>
+  <div class="teaser">Das Zentrum für Bioenergie (ZebiO) führt in Kooperation mit dem Landesbetrieb Wald und Holz Nordrhein-Westfalen eine Veranstaltungsreihe zur klimaangepassten Wiederbewaldung im Bergischen Land durch. Diese Schulungen sind ein wertvolles Angebot für W</div>
+  <div class="info">18.09.2024, 14:14 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">August 2024 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/vhs-oberberg-herbstsemesterstart-2024/" target="_blank" rel="noopener">VHS Oberberg –  Herbstsemesterstart 2024</a></h2>
+  <div class="teaser">Die VHS Oberberg startet am Montag, 02. September 2024 mit neuen Kursen ins Herbstsemester: Eine Wildkräuterführung und Kurse über die Vielfalt der „Pilze“ passen thematisch in die Jahreszeit. Der Beitrag VHS Oberberg – Herbstsemesterstart 2024 ersch</div>
+  <div class="info">30.08.2024, 17:17 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Juli 2024 <span class="monat-count">2</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/waldbesitzer-in-oberberg-informative-schulungen-zur-klimaangepassten-bewaldung/" target="_blank" rel="noopener">Waldbesitzer in Oberberg – Informative Schulungen zur klimaangepassten Bewaldung</a></h2>
+  <div class="teaser">Für Waldbesitzer in Oberberg mit Sicherheit interessant: ZebiO e.V. bietet eine wertvolle Schulungsreihe im Oberbergischen Kreis an. Der Beitrag Waldbesitzer in Oberberg – Informative Schulungen zur klimaangepassten Bewaldung erschien zuerst auf Ober</div>
+  <div class="info">19.07.2024, 15:37 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/nach-langer-zeit-ein-neues-auto-gekauft-das-hat-sich-fuer-autofahrer-im-oberbergischen-kreis-bei-der-zulassung-geaendert/" target="_blank" rel="noopener">Nach langer Zeit ein neues Auto gekauft? Das hat sich für Autofahrer im Oberbergischen Kreis bei der Zulassung geändert</a></h2>
+  <div class="teaser">Laut offiziellen Statistiken des Kraftfahrtbundesamts sind in Deutschland derzeit knapp 50 Millionen Fahrzeuge auf den Straßen der Republik unterwegs. Wie viele davon auf die Region Oberberg entfallen, ist dabei zwar nicht bekannt, dafür profitieren </div>
+  <div class="info">09.07.2024, 14:59 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Juni 2024 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/tipps-und-tricks-fuer-den-passenden-mobilfunkvertrag/" target="_blank" rel="noopener">Oberberger aufgepasst: Tipps und Tricks, für den passenden Mobilfunkvertrag</a></h2>
+  <div class="teaser">Die Masse an Mobilfunk-Anbietern und deren Vertragsoptionen macht es schwierig für Menschen in der Region Oberberg, den besten Mobilfunkvertrag zu finden. Unabhängig davon, ob das Ziel ist, einen gänzlich neuen Mobilfunkvertrag abzuschließen oder ein</div>
+  <div class="info">24.06.2024, 08:39 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Mai 2024 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/zebio-nahwaermenetze/" target="_blank" rel="noopener">ZebiO informiert über Nahwärmenetze</a></h2>
+  <div class="teaser">Gummersbach - ZebiO e.V. lädt am 17.06.2024 zu einer Informationsveranstaltung zum Thema Nahwärmenetze ins GTC Gummersbach ein. Der Beitrag ZebiO informiert über Nahwärmenetze erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">24.05.2024, 11:09 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">April 2024 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/gummersbacher-fruehling-2024/" target="_blank" rel="noopener">Gummersbacher FRÜHLING 2024</a></h2>
+  <div class="teaser">Am Samstag, den 4. Mai 2024, ist es wieder so weit: Die GMerleben Agentur und der GMerleben Verein laden zum siebten großen Frühlingsfest in die Kreisstadt. Der Beitrag Gummersbacher FRÜHLING 2024 erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">22.04.2024, 17:51 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">November 2023 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/video-identifikationsverfahren-sicherheit-und-komfort/" target="_blank" rel="noopener">Video-Identifikationsverfahren: Sicherheit und Komfort in der digitalen Welt?</a></h2>
+  <div class="teaser">Im Oberbergischen Kreis, wo die Verbindung von Tradition und Fortschritt lebendig ist, wird die Relevanz digitaler Innovationen besonders deutlich. Mit der Digitalisierung wächst hier wie überall das Bedürfnis nach schnellen, effizienten und zugleich</div>
+  <div class="info">07.11.2023, 15:12 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Oktober 2023 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/wie-man-den-energieverbrauch-einer-alten-gefriertruhe-drastisch-senkt-ein-unerwarteter-trick/" target="_blank" rel="noopener">Wie man den Energieverbrauch einer alten Gefriertruhe drastisch senkt: Ein unerwarteter Trick!</a></h2>
+  <div class="teaser">Inmitten der idyllischen Hügel und Täler des Oberbergischen Kreises sucht jeder Bewohner nach Wegen, seine monatlichen Ausgaben zu minimieren. Die traditionsreichen Häuser von Gummersbach bis Waldbröl beherbergen oft ältere Elektrogeräte, darunter au</div>
+  <div class="info">12.10.2023, 09:28 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">September 2023 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/die-besten-restaurants-in-gummersbach-und-umgebung-ein-kulinarischer-ausflug/" target="_blank" rel="noopener">Die besten Restaurants in Gummersbach und Umgebung – ein kulinarischer Ausflug</a></h2>
+  <div class="teaser">Gummersbach, eine charmante Stadt im Herzen Nordrhein-Westfalens, hat nicht nur eine reiche Geschichte und atemberaubende Landschaften zu bieten, sondern auch eine beeindruckende kulinarische Szene. Der Beitrag Die besten Restaurants in Gummersbach u</div>
+  <div class="info">26.09.2023, 11:27 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Juli 2023 <span class="monat-count">2</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/unterkuenfte-und-aktivitaeten-in-gummersbach/" target="_blank" rel="noopener">Unterkünfte und Aktivitäten in Gummersbach</a></h2>
+  <div class="teaser">Gummersbach, im Oberbergischen Kreis in Nordrhein-Westfalen gelegen, besticht durch seinen historischen, kulturellen und natürlichen Charme und bietet eine spannende Kombination aus historischer Bedeutung, kulturellem Einfluss und atemberaubender nat</div>
+  <div class="info">19.07.2023, 09:42 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/studentenwohnungen-sollten-moderne-fenster-haben/" target="_blank" rel="noopener">Studierenden in NRW gute Wohnbedingungen bieten</a></h2>
+  <div class="teaser">Der gesamte Oberbergische Kreis in NRW ist ein Anziehungspunkt für junge Menschen. Dafür sorgt die Palette der hier vorhandenen Bildungseinrichtungen. Dazu zählen beispielsweise die Berufskollegs sowie das Bildungszentrum am Klinikum Oberberg und der</div>
+  <div class="info">07.07.2023, 15:41 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Mai 2023 <span class="monat-count">10</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/sichere-radwege-jetzt-fahrraddemo/" target="_blank" rel="noopener">Sichere Radwege JETZT! – Fahrraddemo</a></h2>
+  <div class="teaser">Gummersbach / Oberberg - Am Samstag, dem 20. Mai 2023, kamen rund 100 Radfahrende aller Altersgruppen zur Sternfahrt nach Gummersbach um für mehr und bessere Radwege zu demonstrieren. Der Beitrag Sichere Radwege JETZT! – Fahrraddemo erschien zuerst a</div>
+  <div class="info">24.05.2023, 07:27 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/stadtradeln-radeln-fuer-das-team-kilometer-sammeln-klima-schuetzen/" target="_blank" rel="noopener">STADTRADELN: Radeln, für das Team Kilometer sammeln, Klima schützen</a></h2>
+  <div class="teaser">Gummersbach / Oberberg - Die internationale Klima-Bündnis-Kampagne STADTRADELN ist als Wettbewerb konzipiert. Gesucht werden die fahrradaktivsten Kommunen und Teams. Der Beitrag STADTRADELN: Radeln, für das Team Kilometer sammeln, Klima schützen ersc</div>
+  <div class="info">23.05.2023, 12:24 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/einstieg-in-die-oekologische-schafhaltung/" target="_blank" rel="noopener">Einstieg in die ökologische Schafhaltung</a></h2>
+  <div class="teaser">Gummersbach-Bünghausen - Einsteiger in die Schafhaltung sind wichtig und werden vom Biokreis Erzeugerring NRW und dem Klosterhof Bünghausen gefördert und geschult. Der Beitrag Einstieg in die ökologische Schafhaltung erschien zuerst auf Oberberg-Nach</div>
+  <div class="info">22.05.2023, 08:23 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/erben-mit-beeintraechtigung-das-behindertentestament/" target="_blank" rel="noopener">Erben mit Beeinträchtigung: Das Behindertentestament</a></h2>
+  <div class="teaser">Gummersbach / Oberberg - Die Ergänzende unabhängige Teilhabeberatung (EUTB®) lädt am 19. Juni 2023 um 19:00 Uhr zu einer Online Veranstaltung zum Thema „Behindertentestament: Erben mit Beeinträchtigung. Welche Möglichkeiten gibt es?“ ein. Der Beitrag</div>
+  <div class="info">19.05.2023, 13:09 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/neue-perspektiven-fuer-menschen-mit-seelischer-erkrankung/" target="_blank" rel="noopener">Neue Perspektiven für Menschen mit seelischer Erkrankung</a></h2>
+  <div class="teaser">Gummersbach - Menschen mit einer seelischen Erkrankung wieder eine Struktur geben, sie wieder fit für den Alltag zu machen, ihnen im günstigsten Fall den Weg zurück ins Arbeitsleben zu ebnen – das sind die gemeinsamen Ziele der Arbeitstherapien am RP</div>
+  <div class="info">12.05.2023, 14:38 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/erster-nachhaltigkeitstag-der-handballschule-oberberg/" target="_blank" rel="noopener">Erster Nachhaltigkeitstag der Handballschule Oberberg</a></h2>
+  <div class="teaser">Gummersbach - Der Vormittag des Mittwochs, 3. Mai 2023, stand in der SCHWALBE arena ganz im Zeichen von Spiel, Spaß und Bewegung. Zum ersten Nachhaltigkeitstag der Handballschule Oberberg waren über 200 Kinder im Alter von drei bis sieben Jahren aus </div>
+  <div class="info">05.05.2023, 10:22 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/kreisjugendamt-schult-mitarbeitende-in-der-kinder-und-jugendarbeit/" target="_blank" rel="noopener">Kreisjugendamt schult Mitarbeitende in der Kinder- und Jugendarbeit</a></h2>
+  <div class="teaser">Gummersbach / Oberbergischer Kreis - „Inklusion leben – in der Kinder- und Jugendarbeit“ - dieses Fortbildungsprogramm bietet das Kreisjugendamt des Oberbergischen Kreises. Der Beitrag Kreisjugendamt schult Mitarbeitende in der Kinder- und Jugendarbe</div>
+  <div class="info">04.05.2023, 14:14 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/ukraine-gegen-rumaenien-em-qualifikation/" target="_blank" rel="noopener">Ukraine gegen Rumänien –  EM Qualifikation</a></h2>
+  <div class="teaser">Um sich für die kommende EHF EURO 2024 zu qualifizieren, spielte die ukrainische Nationalmannschaft gegen die rumänische Nationalmannschaft. Trotz eines 31:26 Sieg für die Ukraine konnte sich das Team leider nicht qualifizieren. Der Beitrag Ukraine g</div>
+  <div class="info">04.05.2023, 12:07 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/countdown-zur-1-nacht-der-technik-oberberg/" target="_blank" rel="noopener">Countdown zur 1. Nacht der Technik Oberberg</a></h2>
+  <div class="teaser">Gummersbach / Oberberg - Der Countdown zur 1. Nacht der Technik Oberberg läuft. 72 Stunden vor Veranstaltungsbeginn stocken erste teilnehmende Unternehmen ihre Besuchskapazitäten auf. Der Beitrag Countdown zur 1. Nacht der Technik Oberberg erschien z</div>
+  <div class="info">03.05.2023, 12:39 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/ein-unvergesslicher-abend/" target="_blank" rel="noopener">Ein unvergesslicher Abend</a></h2>
+  <div class="teaser">Gummersbach / Bergneustadt - Für den Ökumenischen Hospizdienst Gummersbach war es ein ganz besonderer Abend: es galt, das 25-jährige Jubiläum in Bergneustadt zu feiern. Der Beitrag Ein unvergesslicher Abend erschien zuerst auf Oberberg-Nachrichten.de</div>
+  <div class="info">03.05.2023, 10:11 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">April 2023 <span class="monat-count">3</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/stadtradeln-im-oberbergischen-kreis/" target="_blank" rel="noopener">STADTRADELN im Oberbergischen Kreis</a></h2>
+  <div class="teaser">Am Pfingstmontag, 29. Mai 2023, startet das STADTRADELN im Oberbergischen Kreis zum fünften Mal. Der Beitrag STADTRADELN im Oberbergischen Kreis erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">27.04.2023, 10:39 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/konzept-zur-anpassung-an-den-klimawandel/" target="_blank" rel="noopener">Konzept zur Anpassung an den Klimawandel</a></h2>
+  <div class="teaser">An der Auftaktveranstaltung zur Erstellung eines interkommunalen Klimawandelanpassungskonzeptes (KWAK) für den Oberbergischen Kreis haben rund 170 Akteure in der Halle 32 in Gummersbach teilgenommen. Der Beitrag Konzept zur Anpassung an den Klimawand</div>
+  <div class="info">26.04.2023, 09:30 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/ueberbrueckungshilfen-fuer-geburtsstation/" target="_blank" rel="noopener">Überbrückungshilfen für Geburtsstation</a></h2>
+  <div class="teaser">Die Geburtsstation des Kreiskrankenhauses Gummersbach erhält 829.595 Euro Überbrückungshilfen. Der Beitrag Überbrückungshilfen für Geburtsstation erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">04.04.2023, 10:36 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">März 2023 <span class="monat-count">5</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/haushaltsbefragung-zum-mobilitaetsverhalten/" target="_blank" rel="noopener">Haushaltsbefragung zum Mobilitätsverhalten</a></h2>
+  <div class="teaser">Der Oberbergische Kreis möchte mit einer umfangreichen Haushaltsbefragung herausfinden, welche Entwicklungen für die Zukunft im Bereich Mobilität wichtig sind. Der Beitrag Haushaltsbefragung zum Mobilitätsverhalten erschien zuerst auf Oberberg-Nachri</div>
+  <div class="info">31.03.2023, 10:09 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/em-qualifikation-in-der-schwalbe-arena/" target="_blank" rel="noopener">EM-Qualifikation in der SCHWALBE arena</a></h2>
+  <div class="teaser">Am 30.04.2023 findet in der SCHWALBE arena das EM Qualifikationsspiel der Ukraine gegen Rumänien zur Europameisterschaft 2024 statt. Der Beitrag EM-Qualifikation in der SCHWALBE arena erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">30.03.2023, 13:49 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/oberbergischer-kreis-erarbeitet-integriertes-mobilitaetskonzept/" target="_blank" rel="noopener">Oberbergischer Kreis erarbeitet Integriertes Mobilitätskonzept</a></h2>
+  <div class="teaser">An der Auftaktveranstaltung zur Erarbeitung eines Integrierten Mobilitätskonzeptes für den Oberbergischen Kreis haben sich jetzt Vertreterinnen und Vertreter der Kommunen und knapp 120 Akteure beteiligt Der Beitrag Oberbergischer Kreis erarbeitet Int</div>
+  <div class="info">22.03.2023, 10:22 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/dorf-projekte-mit-foerdergeldern-erfolgreich-umgesetzt/" target="_blank" rel="noopener">Dorf-Projekte mit Fördergeldern erfolgreich umgesetzt</a></h2>
+  <div class="teaser">Im April und Juni des letzten Jahres war die Freude bei 21 oberbergischen Dorfgemeinschaften groß. Denn sie wurden benachrichtigt, dass der Oberbergische Kreis eines der von ihnen geplanten Vorhaben finanziell unterstützen wird. Der Beitrag Dorf-Proj</div>
+  <div class="info">06.03.2023, 12:09 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/landesweiter-probealarm/" target="_blank" rel="noopener">Landesweiter Probealarm</a></h2>
+  <div class="teaser">Erneut findet am Donnerstag, den 09.03.2023, in Nordrhein-Westfalen der landesweite Probealarm statt. Das Lagezentrum der Landesregierung wird gegen 11 Uhr über das Modulare Warnsystem (MoWaS) die verschiedenen Warnmedien alarmieren. Der Beitrag Land</div>
+  <div class="info">01.03.2023, 10:34 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Februar 2023 <span class="monat-count">3</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/kreis-baut-sein-fortbildungsangebot-fuer-doerfer-weiter-aus/" target="_blank" rel="noopener">Kreis baut sein Fortbildungsangebot für Dörfer weiter aus</a></h2>
+  <div class="teaser">Gummersbach / Oberberg - Der Oberbergische Kreis wird im Frühjahr dieses Jahres sein Fortbildungsangebot zu ehrenamtlichem Engagement für Dorfvereine und Dorfgemeinschaften weiter ausbauen. Der Beitrag Kreis baut sein Fortbildungsangebot für Dörfer w</div>
+  <div class="info">28.02.2023, 11:37 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/kriminalstatistik-2022-etwa-18-prozent-mehr-straftaten-im-kreis-begangen/" target="_blank" rel="noopener">Kriminalstatistik 2022: Etwa 18 Prozent mehr Straftaten im Kreis begangen</a></h2>
+  <div class="teaser">Gummersbach / Oberbergischer Kreis - Am gestrigen Dienstag (21.02.2023) stellte die Kreispolizeibehörde des Oberbergischen Kreises die aktuelle Kriminalstatistik für das vergangene Jahr 2022 vor. Der Beitrag Kriminalstatistik 2022: Etwa 18 Prozent me</div>
+  <div class="info">22.02.2023, 13:28 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/formel-f-auftraktveranstaltung-mit-autorin-und-schauspielerin-heike-baensch/" target="_blank" rel="noopener">Formel-f – Auftraktveranstaltung mit Autorin und Schauspielerin Heike Bänsch</a></h2>
+  <div class="teaser">Gummersbach - Das Unternehmerinnen-Netzwerk formel f ist ein Treffpunkt für Unternehmerinnen und Frauen in Führungspositionen am Wirtschaftsstandort Oberberg. Der Beitrag Formel-f – Auftraktveranstaltung mit Autorin und Schauspielerin Heike Bänsch er</div>
+  <div class="info">02.02.2023, 13:04 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Januar 2023 <span class="monat-count">9</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/oberberger-bruecken-2-0-hilfe-wo-hilfe-gebraucht-wird/" target="_blank" rel="noopener">Oberberger Brücken 2.0: Hilfe, wo Hilfe gebraucht wird</a></h2>
+  <div class="teaser">Gummersbach - Die “Oberberger Brücken” werden verlängert und ausgeweitet. Das Projekt der VSB gGmbH und der Diakonie Michaelshoven unterstützt und berät von Armut betroffene Menschen im Oberbergischen Kreis, unter anderem auch wohnungslose Personen. </div>
+  <div class="info">31.01.2023, 10:37 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/befaehigungskurs-fuer-ehrenamtliche-hospizhelfer/" target="_blank" rel="noopener">Befähigungskurs für ehrenamtliche Hospizhelfer</a></h2>
+  <div class="teaser">Gummersbach - Menschen, die interessiert sind an Erfahrungen im Umgang mit Sterben, Tod und Trauer sowie den existenziellen Krisensituationen des Lebens, sind beim Kurs des Ökumenischen Hospizdienstes Gummersbach e.V. herzlich willkommen. Der Beitrag</div>
+  <div class="info">25.01.2023, 15:23 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/studienfonds-oberberg-eine-bruecke-zwischen-wirtschaft-und-fachkraeften-von-morgen/" target="_blank" rel="noopener">Studienfonds Oberberg: Eine Brücke zwischen Wirtschaft und Fachkräften von morgen</a></h2>
+  <div class="teaser">Gummersbach / Oberberg - Bereits seit 2008 bildet der Studienfonds Oberberg eine Brücke zwischen Unternehmen in der Region und ihren zukünftigen Fachkräften. Der Beitrag Studienfonds Oberberg: Eine Brücke zwischen Wirtschaft und Fachkräften von morge</div>
+  <div class="info">23.01.2023, 14:18 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/perspektiven-fuer-gefluechtete-schueler-aus-der-ukraine/" target="_blank" rel="noopener">Perspektiven für geflüchtete Schüler aus der Ukraine</a></h2>
+  <div class="teaser">Elf Schülerinnen und Schüler, die derzeit das Dietrich-Bonhoeffer-Gymnasium in Wiehl besuchen, hatten so die Möglichkeit, Einblicke in den Hochschulalltag zu bekommen - und vielleicht auch eine Perspektive für die eigene Zukunft zu finden. Der Beitra</div>
+  <div class="info">20.01.2023, 08:10 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/tiny-forest-die-zukunft-fuer-ausgleichsflaechen/" target="_blank" rel="noopener">Tiny Forest: Die Zukunft für Ausgleichsflächen?</a></h2>
+  <div class="teaser">Gummersbach - Auf einer Fläche des GTC in der Bunsenstraße wurde ein sogenannter “Tiny Forest” angelegt, ein Kleinstwald, der als mögliches Modell und Vorbild für weitere Flächen dienen soll. Der Beitrag Tiny Forest: Die Zukunft für Ausgleichsflächen</div>
+  <div class="info">19.01.2023, 13:30 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/bisher-76-unfaelle-wegen-schneefall-im-kreis/" target="_blank" rel="noopener">Bisher 76 Unfälle wegen Schneefall im Kreis</a></h2>
+  <div class="teaser">Gummersbach / Oberberg - Der Durchzug des Schneefallgebietes hat am Morgen (19.01.2023) im Oberbergischen Kreis für ein außerordentlich hohes Aufkommen an Verkehrsunfällen gesorgt. Im Zeitraum zwischen 06.40 und 08.30 Uhr wurden der Polizei insgesamt</div>
+  <div class="info">19.01.2023, 09:00 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/berufskollegs-des-kreises-stellen-ihre-bildungsangebote-vor/" target="_blank" rel="noopener">Berufskollegs des Kreises stellen ihre Bildungsangebote vor</a></h2>
+  <div class="teaser">Gummersbach / Oberberg - Von IT-Berufen über eine praxisbezogene Ausbildung als sozialpädagogische Fachkraft bis hin zum Erwerb des Abiturs: die kreiseigenen Berufskollegs bieten Schülerinnen und Schülern viele Bildungswege und Fachrichtungen an. Der</div>
+  <div class="info">11.01.2023, 13:49 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/thema-vereinsrecht-kostenlose-online-fortbildungen/" target="_blank" rel="noopener">Thema Vereinsrecht: Kostenlose Online-Fortbildungen</a></h2>
+  <div class="teaser">Gummersbach - Als Referent unterstützt Rechtsanwalt Michael Röcken, der als Experte für das Vereinsrecht bereits mehrere Fortbildungen des Oberbergischen Kreises zu diesem Themenfeld begleitet hat. Der Beitrag Thema Vereinsrecht: Kostenlose Online-Fo</div>
+  <div class="info">10.01.2023, 11:46 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/cvjm-aktion-weihnachtsbaum-2023/" target="_blank" rel="noopener">CVJM-Aktion Weihnachtsbaum 2023</a></h2>
+  <div class="teaser">Gummersbach - Auch in diesem Jahr führt der CVJM Gummersbach wieder seine „Aktion Christbaum“ durch und sammelt am 14. Januar 2023 in fast allen Stadtteilen die dann nicht mehr benötigten Weihnachtsbäume ein. Der Beitrag CVJM-Aktion Weihnachtsbaum 20</div>
+  <div class="info">09.01.2023, 09:42 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Mai 2021 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wipperfuerth/verkehrsunfall-in-egerpohl-frontalzusammenstoss-zweier-pkw/" target="_blank" rel="noopener">Frontalzusammenstoß zweier Pkw</a></h2>
+  <div class="teaser">Wipperfürth. Am Freitag (07.05.2021), gegen 17:05 Uhr, befuhr ein 66-Jähriger Pkw-Fahrer aus Wipperfürth die B 237 von Gummersbach kommend in Fahrtrichtung Wipperfürth und kam in Höhe der Ortslage Egerpohl auf gerader Strecke aus bislang ungeklärter </div>
+  <div class="info">10.05.2021, 13:47 Uhr · Oberberg Nachrichten Wipperfürth</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Februar 2020 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wipperfuerth/gehoelzarbeiten-zwischen-wipperfuerth-und-hueckeswagen/" target="_blank" rel="noopener">Gehölzarbeiten zwischen Wipperfürth und Hückeswagen</a></h2>
+  <div class="teaser">Wipperfürth/Hückeswagen/Gummersbach – Ab Mittwoch (12.2.) führt die Straßen.NRW-Regionalniederlassung Rhein-Berg Gehölzarbeiten entlang der K14 zwischen Wipperfürth-Lamsfuss und Hückeswagen-Straßweg (Oberbergischer Kreis) durch. Hierfür muss die Krei</div>
+  <div class="info">10.02.2020, 08:56 Uhr · Oberberg Nachrichten Wipperfürth</div>
+</div>
+</div></div>
+</main>
+<footer>
+  <a href="../index.html">Gummersbach</a> · Archiv · Aktualisiert: 22.10.2026, 22:19 Uhr<br>
+  <a href="/ai-tageszeitung/impressum/">Impressum</a> · <a href="/ai-tageszeitung/rechtliches/">Rechtliche Hinweise</a> · <a href="/ai-tageszeitung/rechtliches/#datenschutz">Datenschutz</a><br>
+  <a href="https://github.com/dna-dieter/ai-tageszeitung/actions/workflows/update.yml">GitHub</a>
+</footer>
+
+<script>
+(function() {
+  // Button nur für Betreiber: sichtbar mit ?admin in der Adresse (wird gemerkt), ?admin=aus blendet ihn wieder aus.
+  try {
+    const p = new URLSearchParams(location.search);
+    if (p.has('admin')) {
+      if (p.get('admin') === 'aus') localStorage.removeItem('ai_tz_admin');
+      else localStorage.setItem('ai_tz_admin', '1');
+    }
+    if (localStorage.getItem('ai_tz_admin') === '1') {
+      const b = document.getElementById('btn-refresh');
+      if (b) b.hidden = false;
+    }
+  } catch (e) {}
+  const REPO = 'dna-dieter/ai-tageszeitung';
+  const WORKFLOW = 'update.yml';
+  const TOKEN_KEY = 'ai_tz_github_token';
+  const API = 'https://api.github.com';
+
+  function getToken() {
+    let t = localStorage.getItem(TOKEN_KEY);
+    if (!t) {
+      t = prompt(
+        'Einmaliger Setup: Bitte GitHub Personal Access Token eingeben.\n\n' +
+        'Der Token braucht Berechtigung "Actions: Read and write" auf diesem Repo.\n' +
+        'Der Token wird nur lokal in deinem Browser gespeichert.'
+      );
+      if (t) {
+        t = t.trim();
+        localStorage.setItem(TOKEN_KEY, t);
+      }
+    }
+    return t;
+  }
+
+  function setStatus(msg) {
+    const el = document.getElementById('refresh-status');
+    if (el) el.textContent = msg;
+  }
+
+  function setButton(loading, label) {
+    const btn = document.getElementById('btn-refresh');
+    if (!btn) return;
+    btn.disabled = loading;
+    btn.classList.toggle('loading', loading);
+    btn.innerHTML = loading
+      ? '<span class="spinner"></span> ' + (label || 'Aktualisiere...')
+      : '\u21bb ' + (label || 'Jetzt aktualisieren');
+  }
+
+  async function gh(path, opts) {
+    const token = getToken();
+    if (!token) throw new Error('Kein Token');
+    const res = await fetch(API + path, Object.assign({
+      headers: {
+        'Accept': 'application/vnd.github+json',
+        'Authorization': 'Bearer ' + token,
+        'X-GitHub-Api-Version': '2022-11-28'
+      }
+    }, opts || {}));
+    return res;
+  }
+
+  async function triggerWorkflow() {
+    const res = await gh('/repos/' + REPO + '/actions/workflows/' + WORKFLOW + '/dispatches', {
+      method: 'POST',
+      headers: {
+        'Accept': 'application/vnd.github+json',
+        'Authorization': 'Bearer ' + getToken(),
+        'X-GitHub-Api-Version': '2022-11-28',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ ref: 'main' })
+    });
+    if (res.status === 401 || res.status === 403) {
+      localStorage.removeItem(TOKEN_KEY);
+      throw new Error('Token ungültig oder abgelaufen (gelöscht, bitte neu eingeben)');
+    }
+    if (!res.ok) {
+      const text = await res.text();
+      throw new Error('Trigger fehlgeschlagen: ' + res.status + ' ' + text.slice(0, 120));
+    }
+  }
+
+  async function findRun(triggeredAt) {
+    const res = await gh('/repos/' + REPO + '/actions/workflows/' + WORKFLOW + '/runs?per_page=5&event=workflow_dispatch');
+    if (!res.ok) return null;
+    const data = await res.json();
+    const runs = data.workflow_runs || [];
+    for (const r of runs) {
+      const created = new Date(r.created_at).getTime();
+      if (created >= triggeredAt - 10000) return r;
+    }
+    return null;
+  }
+
+  async function waitForCompletion(triggeredAt) {
+    const deadline = Date.now() + 6 * 60 * 1000; // max 6 min
+    let run = null;
+    // find the run (kann ein paar Sekunden dauern)
+    while (!run && Date.now() < deadline) {
+      await new Promise(r => setTimeout(r, 3000));
+      run = await findRun(triggeredAt);
+      if (!run) setStatus('Starte Workflow...');
+    }
+    if (!run) throw new Error('Workflow-Lauf nicht gefunden');
+
+    while (Date.now() < deadline) {
+      const res = await gh('/repos/' + REPO + '/actions/runs/' + run.id);
+      if (!res.ok) break;
+      const r = await res.json();
+      setStatus('Status: ' + (r.status || '?') + (r.conclusion ? ' (' + r.conclusion + ')' : ''));
+      if (r.status === 'completed') return r;
+      await new Promise(res => setTimeout(res, 5000));
+    }
+    throw new Error('Timeout beim Warten');
+  }
+
+  window.triggerRefresh = async function() {
+    try {
+      const token = getToken();
+      if (!token) return;
+      setButton(true, 'Starte...');
+      setStatus('Sende Trigger an GitHub...');
+      const t0 = Date.now();
+      await triggerWorkflow();
+      setStatus('Workflow gestartet, warte auf Abschluss...');
+      const run = await waitForCompletion(t0);
+      if (run.conclusion === 'success') {
+        setStatus('Fertig! Lade Seite neu...');
+        // Kurz warten bis GitHub Pages deployed hat
+        setTimeout(() => location.reload(), 30000);
+        setStatus('Fertig! Seite lädt in 30s neu (GitHub Pages Deploy)...');
+      } else {
+        setButton(false);
+        setStatus('Fehlgeschlagen: ' + run.conclusion);
+      }
+    } catch (e) {
+      setButton(false);
+      setStatus('Fehler: ' + e.message);
+    }
+  };
+})();
+</script>
+
+</body></html>

@@ -1,0 +1,1362 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bergneustadt – Archiv — AI Tageszeitung</title>
+<style>
+:root {
+  --rbk-blau: #1B3A5C;
+  --rbk-rot: #C0392B;
+  --rbk-grau: #F5F5F5;
+  --akzent: #2980B9;
+  --text: #2C3E50;
+  --bg: #FAFAFA;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: Georgia, 'Times New Roman', serif; color: var(--text); background: var(--bg); line-height: 1.6; }
+header { background: var(--rbk-blau); color: white; padding: 14px 24px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px; }
+header h1 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.8rem; letter-spacing: 2px; font-weight: 800; }
+header .sub { font-size: 0.9rem; opacity: 0.85; }
+header .meta { font-size: 0.8rem; text-align: right; opacity: 0.9; }
+.live-dot { display: inline-block; width: 8px; height: 8px; background: #2ECC71; border-radius: 50%; margin-right: 4px; animation: pulse 2s infinite; }
+@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
+.ticker { background: var(--rbk-rot); color: white; padding: 7px 24px; font-size: 0.85rem; font-family: sans-serif; }
+.ticker b { margin-right: 8px; }
+nav { background: white; border-bottom: 2px solid var(--rbk-blau); padding: 8px 24px; display: flex; flex-wrap: wrap; gap: 3px; }
+nav a { font-family: sans-serif; font-size: 0.82rem; padding: 5px 12px; text-decoration: none; color: var(--rbk-blau); border-radius: 4px; transition: all 0.2s; }
+nav a:hover, nav a.active { background: var(--rbk-blau); color: white; }
+nav .sep { color: #ccc; padding: 5px 2px; font-family: sans-serif; font-size: 0.82rem; }
+main { max-width: 1200px; margin: 20px auto; padding: 0 16px; }
+.grid { display: grid; grid-template-columns: 2fr 1fr; gap: 20px; }
+.artikel { background: white; border-radius: 6px; padding: 16px 18px; border-left: 4px solid var(--akzent); box-shadow: 0 1px 3px rgba(0,0,0,0.08); margin-bottom: 14px; transition: box-shadow 0.2s; }
+.artikel:hover { box-shadow: 0 3px 12px rgba(0,0,0,0.12); }
+.artikel .tag { font-family: sans-serif; font-size: 0.72rem; font-weight: 700; color: var(--rbk-rot); text-transform: uppercase; letter-spacing: 1px; }
+.artikel .tag.bericht { color: var(--rbk-blau); margin-left: 8px; }
+.artikel h2 { font-size: 1.15rem; margin: 4px 0; line-height: 1.3; }
+.artikel h2 a { color: var(--text); text-decoration: none; }
+.artikel h2 a:hover { color: var(--akzent); }
+.artikel .teaser { font-size: 0.9rem; color: #555; margin: 6px 0; }
+.artikel .info { font-family: sans-serif; font-size: 0.75rem; color: #888; }
+.sidebar-box { background: white; border-radius: 6px; padding: 14px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); margin-bottom: 14px; }
+.sidebar-box h3 { font-family: sans-serif; font-size: 0.85rem; color: var(--rbk-blau); border-bottom: 2px solid var(--rbk-blau); padding-bottom: 5px; margin-bottom: 10px; }
+.k-links { list-style: none; }
+.k-links li { margin: 6px 0; }
+.k-links a { font-family: sans-serif; font-size: 0.85rem; color: var(--text); text-decoration: none; display: flex; justify-content: space-between; }
+.k-links a:hover { color: var(--akzent); }
+.badge { background: var(--rbk-grau); padding: 1px 8px; border-radius: 10px; font-size: 0.75rem; }
+footer { background: var(--rbk-blau); color: white; text-align: center; padding: 16px; margin-top: 30px; font-size: 0.8rem; font-family: sans-serif; }
+footer a { color: #85C1E9; }
+.legal { max-width: 720px; }
+.legal h2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.15rem; color: var(--rbk-blau); margin: 22px 0 8px; }
+.legal p, .legal li { margin: 0 0 10px; }
+.legal ul { padding-left: 1.2rem; }
+.legal .hinweis { background: #fff8e6; border-left: 4px solid var(--rbk-rot); padding: 10px 14px; margin-bottom: 16px; }
+.empty { text-align: center; padding: 40px; color: #999; font-size: 1.1rem; }
+.rat-block { margin: 4px 0 26px; }
+.rat-block h2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.15rem; color: var(--rbk-blau); margin: 0 0 10px; }
+.rat-hero { background: white; border-left: 4px solid var(--rbk-rot); border-radius: 6px; padding: 16px 18px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+.rat-hero .wann { font-family: sans-serif; font-size: 0.78rem; font-weight: 700; color: var(--rbk-rot); letter-spacing: 0.04em; text-transform: uppercase; }
+.rat-hero h3 { font-size: 1.25rem; margin: 4px 0; }
+.rat-liste { list-style: none; }
+.rat-liste li { background: white; border-radius: 6px; padding: 12px 16px; margin-bottom: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+.rat-liste .wann { font-family: sans-serif; font-size: 0.82rem; color: var(--rbk-blau); font-weight: 700; }
+.rat-liste .ort { font-family: sans-serif; font-size: 0.8rem; color: #666; }
+.rat-quelle { font-family: sans-serif; font-size: 0.8rem; color: #666; margin-top: 8px; }
+.monat-gruppe { margin-bottom: 8px; }
+.monat-header { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.05rem; color: var(--rbk-blau); border-bottom: 2px solid var(--rbk-blau); padding: 8px 0 5px 0; margin: 18px 0 10px 0; display: flex; align-items: center; gap: 8px; }
+.monat-header:first-child { margin-top: 0; }
+.monat-count { background: var(--rbk-blau); color: white; font-size: 0.72rem; padding: 1px 8px; border-radius: 10px; font-weight: 400; }
+.btn-refresh { display: inline-flex; align-items: center; gap: 5px; font-family: sans-serif; font-size: 0.78rem; padding: 5px 14px; background: #2ECC71; color: white; border: none; border-radius: 4px; text-decoration: none; cursor: pointer; transition: background 0.2s; margin-top: 4px; }
+.btn-refresh[hidden], .refresh-status[hidden] { display: none; }
+.btn-refresh:hover { background: #27AE60; color: white; }
+.btn-refresh:disabled, .btn-refresh.loading { background: #95A5A6; cursor: wait; opacity: 0.8; }
+.btn-refresh .spinner { display: inline-block; width: 10px; height: 10px; border: 2px solid rgba(255,255,255,0.3); border-top-color: white; border-radius: 50%; animation: spin 0.8s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+.refresh-status { font-size: 0.72rem; color: rgba(255,255,255,0.85); margin-top: 4px; min-height: 14px; font-family: sans-serif; }
+.kreis-nav { background: var(--rbk-blau); padding: 6px 24px; display: flex; gap: 12px; }
+.kreis-nav a { font-family: sans-serif; font-size: 0.85rem; color: rgba(255,255,255,0.7); text-decoration: none; padding: 4px 10px; border-radius: 4px; }
+.kreis-nav a:hover, .kreis-nav a.active { color: white; background: rgba(255,255,255,0.15); }
+@media (max-width: 768px) { .grid { grid-template-columns: 1fr; } header h1 { font-size: 1.3rem; } }
+</style>
+</head>
+<body>
+<div class="kreis-nav">
+  <a href="/ai-tageszeitung/">Rhein-Berg</a>
+  <a href="/ai-tageszeitung/oberberg/">Oberberg</a>
+  <a href="/ai-tageszeitung/veranstaltungen/">📅 Veranstaltungen</a>
+</div>
+<header>
+  <div>
+    <h1>Bergneustadt – Archiv</h1>
+    <div class="sub">AI Tageszeitung · Oberbergischer Kreis</div>
+  </div>
+  <div class="meta">
+    <div><span class="live-dot"></span>169 Artikel</div>
+    <div>22.10.2026, 22:19 Uhr</div>
+    <button type="button" onclick="triggerRefresh()" class="btn-refresh" id="btn-refresh" hidden>&#x21bb; Jetzt aktualisieren</button>
+    <div class="refresh-status" id="refresh-status"></div>
+  </div>
+</header>
+<nav><a href="../index.html">&larr; Zurück zu Bergneustadt</a></nav>
+<main>
+  <div><div class="monat-gruppe">
+<h2 class="monat-header">Juli 2026 <span class="monat-count">10</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205607/engelskirchen-verkehrsunfall-20260712/" target="_blank" rel="noopener">Engelskirchen: Autofahrer bei Verkehrsunfall schwer verletzt</a></h2>
+  <div class="teaser">Verkehrsunfall in Engelskirchen-Osberghausen: Ein 31-jähriger Berliner erlitt lebensgefährliche Verletzungen. Ein Rettungshubschrauber transportierte ihn ins Krankenhaus.</div>
+  <div class="info">12.07.2026, 15:40 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205576/waldfest-pustenbach-2026/" target="_blank" rel="noopener">Waldfest Pustenbach 2026: Mallorca-Party lockt junge Partypeople zum feiern in den Wald</a></h2>
+  <div class="teaser">Mallorca-Feeling in Bergneustadt: Junges Publikum, Party-Tower, faire Preise – so lief die Partynacht im Pustenbacher Wald am 11. Juli.</div>
+  <div class="info">12.07.2026, 04:17 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6311156" target="_blank" rel="noopener">POL-GM: Zwei Verletzte nach Frontalzusammenstoß</a></h2>
+  <div class="teaser">Marienheide (ots) - Bei einem Verkehrsunfall zwischen Himmerkusen und Hütte wurden am Mittwoch (8. Juli) zwei Autofahrer leicht verletzt. Ein 61-Jähriger aus Bergneustadt war gegen 7:30 Uhr mit seinem Ford auf der Leppestraße von Himmerkusen in ...</div>
+  <div class="info">09.07.2026, 10:03 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205320/bergneustadt-traktordiebstahl-fund/" target="_blank" rel="noopener">Bergneustadt: Traktordiebstahl – Fendt gefunden, Verdächtiger flüchtet</a></h2>
+  <div class="teaser">Traktordiebstahl in Bergneustadt: Zwei Tage nach der Tat fand die Polizei den grünen Fendt in Frielingsdorf – samt Drogen, Bargeld und Langwaffe.</div>
+  <div class="info">07.07.2026, 12:09 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6309675" target="_blank" rel="noopener">POL-GM: Gestohlener Traktor nach Zeugenhinweis aufgefunden</a></h2>
+  <div class="teaser">Bergneustadt; Lindlar (ots) - Am Mittwoch (1. Juli) meldete sich eine Zeugin bei der Polizei und gab einen Hinweis zu dem in Bergneustadt gestohlenen Traktor (https://www.presseportal.de/blaulicht/pm/65843/6304109 ). Auf einem Hof in Frielingsdorf ..</div>
+  <div class="info">07.07.2026, 10:52 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205311/oberberg-verkehrsunfaelle-verletzte/" target="_blank" rel="noopener">Oberberg: Zwei Verkehrsunfälle – Kind und Seniorin verletzt</a></h2>
+  <div class="teaser">Zwei Verkehrsunfälle im Oberberg: In Bergneustadt und Lindlar wurden am Montag ein Kind und eine 90-jährige Fußgängerin leicht verletzt.</div>
+  <div class="info">07.07.2026, 10:35 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6309598" target="_blank" rel="noopener">POL-GM: Unfall im Einmündungsbereich</a></h2>
+  <div class="teaser">Bergneustadt (ots) - Am Montag (6. Juli) wollte eine 22-jährige Gummersbacherin mit ihrem Mercedes von der Bruchhausener Straße nach links auf die Straße &quot;In der Bockemühle&quot; abbiegen. Dabei kam es gegen 19:10 Uhr zum Zusammenstoß mit dem ...</div>
+  <div class="info">07.07.2026, 10:08 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204985/standpunkt-bergneustadt/" target="_blank" rel="noopener">Bergneustadt: StandPunkt eröffnet am Kirchplatz – Schönes &amp; Feines lockt in die historische Altstadt</a></h2>
+  <div class="teaser">Am Kirchplatz in Bergneustadt öffnet ein neues Geschäft für Wohnaccessoires, Feinkost und Geschenke für Zuhause und zum Verschenken.</div>
+  <div class="info">05.07.2026, 11:18 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204890/gummersbach-parkverbot-aggertalsperre/" target="_blank" rel="noopener">Gummersbach: Parkverbot an der Aggertalsperre wird durchgesetzt</a></h2>
+  <div class="teaser">Parkverbot an der Aggertalsperre: Gummersbach kontrolliert ab sofort die Derschlager Straße und die Meinerzhagener Straße konsequent.</div>
+  <div class="info">02.07.2026, 18:31 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204814/k23-in-bergneustadt-bauzeit-verlaengert/" target="_blank" rel="noopener">Bergneustadt: Bauzeit an der Bergstraße verlängert sich bis November 2026</a></h2>
+  <div class="teaser">Zusätzliche Schäden an Kanal und Wasserleitung verlängern die Bauzeit an der Bergstraße in Bergneustadt – Freigabe erst im Herbst erwartet.</div>
+  <div class="info">01.07.2026, 10:47 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Juni 2026 <span class="monat-count">32</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204708/bergneustadt-traktordiebstahl-fendt/" target="_blank" rel="noopener">Bergneustadt (Update #5): Traktordiebstahl – Fendt fuhr Richtung Marienheide</a></h2>
+  <div class="teaser">In Bergneustadt wurde am Montagmorgen ein grüner Fendt-Traktor vom Hof „Rosenthal“ gestohlen. Die Überwachungskamera filmte den Unbekannten. Die Polizei ermittelt.</div>
+  <div class="info">30.06.2026, 05:40 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204698/bergneustadt-rathausplatz-open-air-2026/" target="_blank" rel="noopener">Bergneustädter Rathausplatz Open Air kehrt am 15. August 2026 zurück</a></h2>
+  <div class="teaser">Das Rathausplatz Open Air kehrt am 15. August 2026 nach Bergneustadt zurück. Ab 17 Uhr spielen Cool Chocolate, StockBrot und DJ Roland Reh.</div>
+  <div class="info">29.06.2026, 10:29 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6304109" target="_blank" rel="noopener">POL-GM: Traktor gestohlen</a></h2>
+  <div class="teaser">Bergneustadt (ots) - Gegen 02:42 Uhr am Montagmorgen (29. Juni) hat ein Unbekannter einen Traktor von einem Hof in der Straße &quot;Rosenthal&quot; gestohlen. Auf Aufzeichnungen einer Überwachungskamera ist zu sehen, wie der Unbekannte den grünen Traktor ...</div>
+  <div class="info">29.06.2026, 10:23 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204671/bergneustadt-sonnenuntergang-stadtwald/" target="_blank" rel="noopener">Bergneustadt: Sonnenuntergang am Stadtwald begeistert</a></h2>
+  <div class="teaser">Abendrot am Stadtwald in Bergneustadt: 24 Grad um 21 Uhr, ein Himmel wie im Urlaub - das Foto des Tages von NEWS-on-Tour.</div>
+  <div class="info">28.06.2026, 22:18 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204659/bergneustadt-waldfest-pustenbach-2026/" target="_blank" rel="noopener">Bergneustadt: Waldfest Pustenbach feiert seien Tradition weiter am Sa 11. und So 12. Juli 2026</a></h2>
+  <div class="teaser">Waldfest Pustenbach am 11. und 12. Juli 2026: Zwei Tage mit DJ-Musik, Frühschoppen, Spießbraten und Kinderprogramm vom Förderverein des Löschzuges Dörspetal.</div>
+  <div class="info">28.06.2026, 19:59 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204536/waldbrand-bergneustadt-hackenberg/" target="_blank" rel="noopener">Waldbrand Bergneustadt (Update #04) Feuerwehr am Hackenberg im Einsatz</a></h2>
+  <div class="teaser">Am Hackenberg in Bergneustadt ist ein Waldbrand ausgebrochen. Feuerwehr und Rettungsdienst sind im Einsatz – die Lage ist noch nicht unter Kontrolle.</div>
+  <div class="info">26.06.2026, 20:03 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204373/oberberg-einfach-heiraten-festival/" target="_blank" rel="noopener">Einfach heiraten in Oberberg: Festival lockt nach Wiedenest und Wipperfürth</a></h2>
+  <div class="teaser">Einfach heiraten in Oberberg: Der Kirchenkreis An der Agger lädt am 26. und 27. Juni zum Pop-Up-Hochzeitsfestival nach Wiedenest und Wipperfürth.</div>
+  <div class="info">24.06.2026, 04:44 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204071/gummersbach-baggerdiebstahl-gps/" target="_blank" rel="noopener">Gummersbach: Baggerdiebstahl – GPS-Ortung stellt zwei Tatverdächtige</a></h2>
+  <div class="teaser">Nach einem Baggerdiebstahl in Gummersbach führte eine GPS-Ortung die Ermittler nach Bergneustadt – zwei Tatverdächtige sind gefasst.</div>
+  <div class="info">19.06.2026, 01:57 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204039/bergneustadt-tischtennis-pokal/" target="_blank" rel="noopener">TTC Schwalbe Bergneustadt greift beim Pokal Grand Opening an</a></h2>
+  <div class="teaser">Bergneustadt im Tischtennis-Pokal: Beim Pokal Grand Opening in Nürnberg trifft die Schwalbe auf Werder Bremen – Stargast ist Fan Zhendong.</div>
+  <div class="info">17.06.2026, 17:26 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203983/bergneustadt-telekom-betrug-haustuer/" target="_blank" rel="noopener">Bergneustadt: Vorsicht vor falscher Telekom-Mitarbeiterin an der Haustür</a></h2>
+  <div class="teaser">Telekom-Betrug in Bergneustadt: Eine angebliche Mitarbeiterin wollte an den Router. Woran sich echtes Telekom-Personal erkennen lässt.</div>
+  <div class="info">16.06.2026, 11:33 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6294217" target="_blank" rel="noopener">POL-GM: Autofahrer nach Unfallflucht angetroffen</a></h2>
+  <div class="teaser">Reichshof (ots) - Am Freitagmittag (12. Juni, 14:10 Uhr) beabsichtigte ein 58-Jähriger aus Bergneustadt mit seinem VW von der B256 nach Links auf die L344 in Richtung Pochwerk abzubiegen. Beim Abbiegen kam es zum Zusammenstoß mit dem Auto eines ...</div>
+  <div class="info">15.06.2026, 10:03 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203806/bergneustadt-alkohol-verkehrsunfall/" target="_blank" rel="noopener">Bergneustadt: Alkoholisiert beim Ausparken – Autofahrerin verliert Führerschein</a></h2>
+  <div class="teaser">Verkehrsunfall in Belmicke: Eine alkoholisierte Autofahrerin touchierte beim Ausparken einen Ford – Blutprobe und Führerschein folgten.</div>
+  <div class="info">14.06.2026, 16:34 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6293856" target="_blank" rel="noopener">POL-GM: Alkoholisiert am Steuer</a></h2>
+  <div class="teaser">Bergneustadt (ots) - In der Straße &quot;An der Burg&quot; in Bergneustadt-Belmicke kam es am späten Samstagabend (13. Juni) zu einem Verkehrsunfall, bei dem ein 23-jähriger Bergneustädter leicht verletzt wurde. Eine 40-Jährige aus Bergneustadt stieß ...</div>
+  <div class="info">14.06.2026, 11:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203789/heinz-klever-bergneustadtschauspielhaus/" target="_blank" rel="noopener">Heinz Klever: „Wer ist hier irre!“ begeistert das SchauspielHaus Bergneustadt</a></h2>
+  <div class="teaser">Sketche, Parodien und Musik mit Tiefgang: Kabarettist Heinz Klever sorgt im SchauspielHaus Bergneustadt für einen begeisternden Abend.</div>
+  <div class="info">13.06.2026, 22:24 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203778/orient-grill-bergneustadt-wm/" target="_blank" rel="noopener">Bergneustadt: Orient Grill lockt mit WM-Angebot zur Familienpizza</a></h2>
+  <div class="teaser">Familienpizza für 21 statt 25 Euro plus ein Belag gratis: In Bergneustadt läuft jetzt das WM-Angebot für die ganze Familie – vier Euro sparen.</div>
+  <div class="info">13.06.2026, 15:01 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203773/bergneustadt-heissluftballons-fdt-2026/" target="_blank" rel="noopener">Bergneustadt: Zwei Heißluftballons fahren über die City (Foto des Tages)</a></h2>
+  <div class="teaser">Zwei Ballone über Bergneustadt: Leserin Mirjana Sasse fing den Früh- und den GWN-Ballon ein – dazu der Blick aufs Ballonfahren in Oberberg.</div>
+  <div class="info">13.06.2026, 05:55 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203757/a4-vollsperrung-oberberg/" target="_blank" rel="noopener">Oberberg: A4-Vollsperrung am Wochenende – was Autofahrer wissen müssen</a></h2>
+  <div class="teaser">Vollsperrung auf der Autobahn: Richtung Köln geht zwischen Reichshof/Bergneustadt und Gummersbach von Samstag bis Sonntag, 17 Uhr, nichts.</div>
+  <div class="info">12.06.2026, 20:46 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203753/bergneustadt-windenergie-beulberg/" target="_blank" rel="noopener">Bergneustadt: Windenergie bewegt die Stadt – ERG sieht Chancen bei 50:50</a></h2>
+  <div class="teaser">Vier Windräder mit fast 250 Metern Höhe plant die ERG-Gruppe in Bergneustadt. Rund 200 Bürger kamen zum Infoabend – die Chancen: 50:50.</div>
+  <div class="info">12.06.2026, 20:14 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203695/freibad-bergneustadt-late-night-party/" target="_blank" rel="noopener">Late Night Party im Freibad Bergneustadt am 4. Juli 2026</a></h2>
+  <div class="teaser">Wenn das Wasser im Dunkeln liegt und Lichter über den Becken glühen, verwandelt sich das Freibad Bergneustadt in eine Open-Air-Bühne. Am Samstag, 4. Juli 2026, beginnt dort ab 19:00 Uhr die Late Night Party Bergneustadt – ein Abend mit DJ, Cocktails </div>
+  <div class="info">11.06.2026, 07:45 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203655/bergneustadt-raeume-online-buchen/" target="_blank" rel="noopener">Bergneustadt: Städtische Räume und Sporthallen ab sofort online buchen</a></h2>
+  <div class="teaser">Wer in Bergneustadt einen städtischen Saal für die eigene Hochzeit oder den runden Geburtstag mieten möchte, kommt ab sofort schneller ans Ziel: Die Stadt hat einen Online-Buchungsservice für ihre Räumlichkeiten gestartet. Über die Plattform Locaboo </div>
+  <div class="info">11.06.2026, 01:50 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203629/eiskeller-bergneustadt-fuehrung/" target="_blank" rel="noopener">Eiskeller Bergneustadt: Führung lockt am 27. Juni in die Mausefalle</a></h2>
+  <div class="teaser">Am 27. Juni 2026 führt der Heimatverein durch den Eiskeller Bergneustadt – die kühle „Mausefalle“ unter der Altstadt, einst Bierkeller und Bunker.</div>
+  <div class="info">09.06.2026, 19:40 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203579/tischtennis-dm-benedikt-duda/" target="_blank" rel="noopener">Bergneustadt: Benedikt Duda holt DM-Bronze im Tischtennis</a></h2>
+  <div class="teaser">Benedikt Duda vom TTC Schwalbe erreicht bei der Tischtennis-DM in Erfurt das Halbfinale und sichert sich am Ende Bronze im Herren-Einzel.</div>
+  <div class="info">08.06.2026, 04:07 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203563/bergneustadt-motorroller-tesla/" target="_blank" rel="noopener">Bergneustadt: Motorroller kollidiert mit Tesla – 71-Jähriger verletzt</a></h2>
+  <div class="teaser">Verkehrsunfall in Bergneustadt: Ein 71-jähriger Motorrollerfahrer wurde bei der Kollision mit einem Tesla auf der Dörspestraße leicht verletzt.</div>
+  <div class="info">07.06.2026, 12:25 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203570/bergneustadt-trickdiebe-einbruch/" target="_blank" rel="noopener">Bergneustadt: Trickdiebe und Wohnungseinbruch – Polizei sucht Zeugen</a></h2>
+  <div class="teaser">Trickdiebstahl und Wohnungseinbruch in Bergneustadt: Zwei Frauen bestahlen einen Senior, Einbrecher räumten eine Wohnung in der Ennestraße aus.</div>
+  <div class="info">07.06.2026, 12:23 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6289359" target="_blank" rel="noopener">POL-GM: Trickdiebe in Bergneustadt unterwegs</a></h2>
+  <div class="teaser">Bergneustadt (ots) - Am Freitag (5. Juni) klingelte es gegen 14:15 Uhr an der Wohnungstür eines Mehrfamilienhauses in der Straße &quot;Hohler Weg&quot;. Als der 77-jährige Wohnungsinhaber die Tür öffnete, standen dort zwei Frauen, die vorgaben, für eine ...</div>
+  <div class="info">07.06.2026, 10:41 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6289357" target="_blank" rel="noopener">POL-GM: Wohnungseinbruch in Bergneustadt</a></h2>
+  <div class="teaser">Bergneustadt (ots) - Zwischen dem 27. Mai und dem 6. Juni brachen Unbekannte die Eingangstür einer Wohnung in einem Mehrfamilienhaus in der Enneststraße auf. Die Kriminellen durchwühlten die Wohnung und stahlen Schmuck, Bargeld und Mobiltelefone. ...</div>
+  <div class="info">07.06.2026, 10:39 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6289352" target="_blank" rel="noopener">POL-GM: Motorrollerfahrer bei Verkehrsunfall verletzt</a></h2>
+  <div class="teaser">Bergneustadt (ots) - Bei einem Verkehrsunfall in Bergneustadt wurde am Samstagnachmittag (6. Juni) der Fahrer eines Motorrollers leicht verletzt. Der 71-Jährige aus Bergneustadt war gegen 15:10 Uhr auf der Dörspestraße in Richtung ...</div>
+  <div class="info">07.06.2026, 10:33 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203481/oberberg-pedelec-unfall-bergneustadt/" target="_blank" rel="noopener">Oberberg: VW Polo kollidiert mit Pedelec – gleich zweimal binnen Minuten</a></h2>
+  <div class="teaser">Zwei Pedelec-Fahrer bei Unfällen in Marienheide und Bergneustadt leicht verletzt – beide kollidierten am Dienstag mit einem VW Polo.</div>
+  <div class="info">04.06.2026, 00:42 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6287348" target="_blank" rel="noopener">POL-GM: Pedelec-Fahrer bei Verkehrsunfall verletzt</a></h2>
+  <div class="teaser">Bergneustadt (ots) - Bei einem Verkehrsunfall in Bergneustadt wurde am Dienstag (2. Juni) ein Pedelec-Fahrer leicht verletzt. Der 18-Jährige aus Bergneustadt war gegen 15:45 Uhr auf dem Fahrradweg der Kölner Straße in Richtung Derschlag ...</div>
+  <div class="info">03.06.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203448/come-in-bergneustadt-flatrate/" target="_blank" rel="noopener">Bergneustadt: Schweine-Box-Party am Sa.06.06.2026 lockt mit 39-Euro-Flatrate</a></h2>
+  <div class="teaser">Schweine-Box-Party in Bergneustadt: 39-Euro-Pauschale inklusive Eintritt – oder normale Karte ab 7 Euro. DJ Stiletto in der Disco, ab 16.</div>
+  <div class="info">02.06.2026, 18:23 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203420/bergneustadt-stadtradeln-bilanz/" target="_blank" rel="noopener">Bergneustadt: STADTRADELN knackt die 17.000-Kilometer-Marke</a></h2>
+  <div class="teaser">201 Radelnde und über 17.000 Kilometer: Die Rad-Aktion in Bergneustadt startet stark – doch der Kreisvergleich relativiert das Ergebnis.</div>
+  <div class="info">01.06.2026, 18:35 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203407/gummersbach-einbruch-fahndung/" target="_blank" rel="noopener">Gummersbach: Einbrecher flüchtet – Polizei fahndet mit Hubschrauber</a></h2>
+  <div class="teaser">Gewerbegebiet Windhagen: Ein Unbekannter flüchtet aus einer Lagerhalle, die Suche mit Polizeihubschrauber bleibt zunächst erfolglos.</div>
+  <div class="info">01.06.2026, 16:17 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Mai 2026 <span class="monat-count">39</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203375/bergneustadt-abendhimmel/" target="_blank" rel="noopener">Bergneustadt: Abendhimmel leuchtet als Foto des Tages über Oberberg</a></h2>
+  <div class="teaser">Abendhimmel über Bergneustadt: Am 31. Mai 2026 leuchtete der Himmel über dem Oberbergischen Kreis gegen 21:38 Uhr in Orange, Rosa und Violett.</div>
+  <div class="info">31.05.2026, 22:40 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203338/bergneustadt-ttbl-final4/" target="_blank" rel="noopener">TTC Schwalbe Bergneustadt verliert TTBL Final4 Krimi gegen Borussia Düsseldorf</a></h2>
+  <div class="teaser">TTBL Final4: Der TTC Schwalbe Bergneustadt fordert Rekordmeister Düsseldorf vier Stunden lang und verliert das Halbfinale erst im Doppel mit 2:3.</div>
+  <div class="info">30.05.2026, 19:19 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203301/bergneustadt-lkw-unfall-a4/" target="_blank" rel="noopener">Bergneustadt: Lkw kippt auf A4 bei Eckenhagen um – Bergung in der Nacht</a></h2>
+  <div class="teaser">Lkw-Unfall auf der A4 bei Bergneustadt: In Fahrtrichtung Olpe kippte zwischen Reichshof/Bergneustadt und Eckenhagen ein Sattelzug auf die Seite.</div>
+  <div class="info">30.05.2026, 06:36 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203275/oberberg-unwetter-liveticker_2026-05-29/" target="_blank" rel="noopener">Oberberg: Heftiges Unwetter mit Hagel und Sturm – Liveticker #15</a></h2>
+  <div class="teaser">Hagel, Sturm und Starkregen: Der Oberbergische Kreis steckt in der ersten Schwergewitterlage des Jahres. Alle Meldungen im Liveticker.</div>
+  <div class="info">29.05.2026, 22:27 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203269/bergneustadt-lsc-duempel-flugplatzfest/" target="_blank" rel="noopener">Bergneustadt: LSC Dümpel sagt traditionelles Flugplatzfest nach Unglück ab</a></h2>
+  <div class="teaser">LSC Dümpel sagt das Flugplatzfest am 13./14. Juni ab – nach dem tödlichen Segelflugzeugabsturz auf der A45 bei Hünsborn.</div>
+  <div class="info">29.05.2026, 20:24 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203259/bergneustadt-grundsteuer-hebesaetze/" target="_blank" rel="noopener">Bergneustadt: Rat lehnt Grundsteuer-Erhöhung ab – Sonderweg bei Hebesätzen</a></h2>
+  <div class="teaser">Bergneustadt hält bei der Grundsteuer B an differenzierten Hebesätzen fest – knappe Ratsmehrheit gegen den Bürgermeister und das Rechtsrisiko.</div>
+  <div class="info">29.05.2026, 08:15 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203195/bergneustadt-rathaus-einbruch/" target="_blank" rel="noopener">Bergneustadt: Einbrecher dringen ins Rathaus ein – Beute war nur Kleingeld</a></h2>
+  <div class="teaser">Einbruch über ein Baugerüst ins Bergneustädter Rathaus: Täter stahlen nur Kleingeld. Bürgermeister Thul erklärt, warum sich die Tat nicht lohnte.</div>
+  <div class="info">28.05.2026, 18:14 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6283508" target="_blank" rel="noopener">POL-GM: Einbrecher steigen in Rathaus ein</a></h2>
+  <div class="teaser">Bergneustadt (ots) - In der Nacht von Dienstag (26. Mai) auf Mittwoch war das Bergneustädter Rathaus das Ziel von Einbrechern. Zwischen 18 Uhr und 7 Uhr gelangten die Kriminellen über ein Baugerüst ins erste Obergeschoss und hebelten dort ein ...</div>
+  <div class="info">28.05.2026, 10:12 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6281505" target="_blank" rel="noopener">POL-GM: Motorradfahrerin stürzt nach Überholvorgang</a></h2>
+  <div class="teaser">Bergneustadt (ots) - Am Montag (25. Mai) war eine 25-jährige Motorradfahrerin aus Bergneustadt mit ihrer Honda auf der Kölner Straße (B55) von Wiedenest in Richtung Bergneustadt unterwegs. Gegen 18 Uhr überholte sie unweit des Freibades ein ...</div>
+  <div class="info">26.05.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203020/oberberg-motorradunfall-ueberholen/" target="_blank" rel="noopener">Bergneustadt: Motorradfahrerin stürzt nach Überholmanöver – Vollsperrung nach schwerem Unfall</a></h2>
+  <div class="teaser">Motorradunfall Oberbergischer Kreis: 24-Jährige aus Bergneustadt stürzt nach Überholmanöver an Verkehrsinsel schwer – Vollsperrung und Rettungsdienst im Einsatz.</div>
+  <div class="info">25.05.2026, 19:16 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203000/bergneustadt-festumzug-schuetzenfest/" target="_blank" rel="noopener">Bergneustadt: Festumzug krönt Schützenfest – 500 Schützen ziehen mit</a></h2>
+  <div class="teaser">Rund 500 Teilnehmer ziehen am Pfingstmontag durch die historische Altstadt – mehr als doppelt so viele wie beim Vorabend-Festzug am Samstag.</div>
+  <div class="info">25.05.2026, 13:14 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6281157" target="_blank" rel="noopener">POL-GM: Betrunken mit Auto überschlagen</a></h2>
+  <div class="teaser">Gummersbach (ots) - Am Samstag (23. Mai) war ein 43-Jähriger aus Bergneustadt mit seinem Hyundai gegen 0:30 Uhr auf der Beustenbachstraße von Piene in Richtung der L729 unterwegs. Im Einmündungsbereich Beustenbachstraße/L729 überschlug er sich ...</div>
+  <div class="info">25.05.2026, 11:18 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202929/bergneustadt-schuetzenkoenig-2026/" target="_blank" rel="noopener">Bergneustadt: Kein Neuer Schützenkönig 2026  – Maik Veller bleibt im Amt</a></h2>
+  <div class="teaser">Erstmals seit Jahrzehnten kein neuer Schützenkönig in Bergneustadt: Drei Anwärter ziehen zurück, Maik Veller bleibt amtierender König.</div>
+  <div class="info">24.05.2026, 16:11 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202883/bergneustadt-schuetzenfest-festzug/" target="_blank" rel="noopener">Bergneustadt Schützenfest 2026 – 200 Schützen beim Kleinen Festzug (Mit Video)</a></h2>
+  <div class="teaser">Rund 200 Schützen beim Kleinen Festzug: Das Schützenfest Bergneustadt 2026 ist gestartet – am Pfingstmontag werden bis zu 450 Teilnehmer erwartet.</div>
+  <div class="info">23.05.2026, 20:58 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202871/a45-huensborn-segelflugzeug-absturz/" target="_blank" rel="noopener">A45-Absturz bei Hünsborn: Segelflieger aus Bergneustadt verunglückt</a></h2>
+  <div class="teaser">Segelflugzeug stürzt auf A45 bei Hünsborn ab: Nach Vereinsangaben handelt es sich um zwei Piloten aus Bergneustadt im Kreis Oberberg.</div>
+  <div class="info">23.05.2026, 18:16 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202840/bergneustadt-mallorca-party/" target="_blank" rel="noopener">Bergneustadt: Schützenverein zündet dritte Mallorca-Party</a></h2>
+  <div class="teaser">Zum dritten Mal lud der Schützenverein Bergneustadt zur Mallorca-Party ins Festzelt – DJ Ahmann und DJ Rocky sorgten für Ballermann-Stimmung.</div>
+  <div class="info">23.05.2026, 04:44 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202668/bergneustadt-unfall-b55-baum/" target="_blank" rel="noopener">Bergneustadt: Audi kracht auf B55 gegen Baum – Fahrer schwer verletzt</a></h2>
+  <div class="teaser">Verkehrsunfall B55 Bergneustadt: Ein 61-jähriger Audi-Fahrer aus Drolshagen kommt am Mittwoch auf der Olper Straße von der Fahrbahn ab und prallt gegen einen Baum – schwer verletzt.</div>
+  <div class="info">21.05.2026, 10:24 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6279127" target="_blank" rel="noopener">POL-GM: Auto kracht gegen Baum</a></h2>
+  <div class="teaser">Bergneustadt (ots) - Am Mittwoch (20. Mai) war ein 61-jähriger Audi-Fahrer aus Drolshagen auf der Olper Straße (B55) von Pernze in Richtung Drolshagen unterwegs. Gegen 11:45 Uhr kam er nach links von der Straße ab und prallte frontal gegen einen ...</div>
+  <div class="info">21.05.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202625/bergneustadt-frauencafe-15-jahre/" target="_blank" rel="noopener">Bergneustadt: 15 Jahre Frauencafé – Kaffee, Kultur, Gemeinschaft</a></h2>
+  <div class="teaser">Seit 15 Jahren öffnet das Internationale Frauencafé in Bergneustadt jeden Mittwoch seine Türen – ein Treffpunkt für Frauen aus aller Welt ohne Anmeldung.</div>
+  <div class="info">20.05.2026, 23:17 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202466/music-of-queen-725-jahre-bergneustadt/" target="_blank" rel="noopener">Bergneustadt: Music of Queen elektrisiert 3.500 Fans im Festzelt (725. Stadtgeburtstag)</a></h2>
+  <div class="teaser">Bergneustadt / Music of Queen / Valentin Findling / 725 Jahre Bergneustadt (Von Christian Sasse) Frenetischer Jubel, ein bis unter die Zeltdecke gefülltes Festzelt und eine Stimme, die so nah am Original ist, dass selbst eingefleischte Queen-Fans für</div>
+  <div class="info">18.05.2026, 07:46 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202417/725-jahre-bergneustadt-festumzug-2026/" target="_blank" rel="noopener">725 Jahre Bergneustadt: Großer Festumzug mit 2.700 Akteuren – Stadtgeschichte in Bildern + 4k Video</a></h2>
+  <div class="teaser">Bergneustadt – Wenn eine Stadt 725 Jahre alt wird, reicht ein normaler Feiertag nicht aus. Am Samstag, 16. Mai 2026, verwandelte sich die Feste Neustadt in eine einzige, riesige Bühne. Rund 2.700 Akteure in 54 Gruppen zogen ab 15:00 Uhr von der Kölne</div>
+  <div class="info">17.05.2026, 01:12 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202375/bergneustadt-dr-motte-rave-festzelt/" target="_blank" rel="noopener">Bergneustadt: Dr. Motte zündet Rave-Beben zum 725. Stadtjubiläum – 1.000 Raver in Ekstase</a></h2>
+  <div class="teaser">Bergneustadt / Dr. Motte / 725 Jahre Bergneustadt / Festzelt (Von Christian Sasse) Im Festzelt auf dem Parkplatz der Firma Martinrea ist am Freitagabend, 15. Mai 2026, ein Stück Berliner Clubgeschichte nach Bergneustadt gewandert. Loveparade-Pionier </div>
+  <div class="info">16.05.2026, 03:28 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202347/725-jahre-bergneustadt-stadtwappen/" target="_blank" rel="noopener">Bergneustadt: Bäckerei Gießelmann backt 725-Berliner-Stadtwappen zum Jubiläum</a></h2>
+  <div class="teaser">Bergneustadt / Bäckerei Gießelmann / 725 Jahre Bergneustadt / Frühstückstafel (Von Christian Sasse) Zum Auftakt der Langen Frühstückstafel im Rahmen der 725-Jahr-Feier Bergneustadts hat die Bäckerei Gießelmann am 15. Mai 2026 ein spektakuläres Stadtw</div>
+  <div class="info">15.05.2026, 20:00 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6275293" target="_blank" rel="noopener">POL-GM: Wohnung in Mehrfamilienhaus durchwühlt</a></h2>
+  <div class="teaser">Bergneustadt (ots) - In der Breslauer Straße sind Unbekannte am Donnerstag (14. Mai) zwischen 18:30 Uhr und 19 Uhr in eine Wohnung in der zweiten Etage eines Mehrfamilienhauses eingebrochen. Die Einbrecher durchwühlten die gesamte Wohnung und ...</div>
+  <div class="info">15.05.2026, 09:30 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202304/stadtdukaten-2026-bergneustadt-725-jahr/" target="_blank" rel="noopener">725 Jahre Bergneustadt: Auch Stadtdukaten 2026 für Minchen und Jettchen</a></h2>
+  <div class="teaser">Bergneustadt / Stadtdukaten / 725 Jahre Bergneustadt / Festwoche (Von Christian Sasse) Im prall gefüllten Festzelt erlebte Bergneustadt am 13. Mai 2026 einen historischen Moment: Bürgermeister Matthias Thul verlieh den Stadtdukaten 2026 an die „lusti</div>
+  <div class="info">13.05.2026, 23:45 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202298/bergneustadt-paul-haselbach-ssv-08/" target="_blank" rel="noopener">Bergneustadt exklusiv: SSV 08 holt Torjäger Paul Haselbach heim</a></h2>
+  <div class="teaser">Paul Haselbach / SSV 08 Bergneustadt / Marcel Walker / Kreisliga A Berg (Von Christian Sasse) Der SSV 08 Bergneustadt meldet einen prominenten Neuzugang: Der 21-jährige Paul Haselbach kehrt vom Hützemerter SV ins Wilhelm-Bisterfeld-Stadion zurück. De</div>
+  <div class="info">13.05.2026, 20:56 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202293/bergneustadt-mopedfahrer-schwerverletzt/" target="_blank" rel="noopener">Bergneustadt: Mopedfahrer schwer verletzt – drei Polizeimeldungen aus Oberberg</a></h2>
+  <div class="teaser">Oberberg / Bergneustadt / Verkehrsunfall / Polizei / Gummersbach (Von Christian Sasse) Ein Mopedfahrer wurde am Montag in Bergneustadt auf der Bahnstraße bei einem Verkehrsunfall schwer verletzt – daneben meldet die Polizei aus dem Oberbergischen Kre</div>
+  <div class="info">12.05.2026, 22:23 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6273592" target="_blank" rel="noopener">POL-GM: Unfall im Einmündungsbereich</a></h2>
+  <div class="teaser">Bergneustadt (ots) - Ein Mopedfahrer wurde bei einem Verkehrsunfall in Bergneustadt am Montag (11. Mai) schwer verletzt. Der 62-Jährige aus Bergneustadt war auf der Bahnstraße in Richtung Othestraße unterwegs. Gegen 12 Uhr kam es zum ...</div>
+  <div class="info">12.05.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201442/725-jahre-bergneustadt-programm-2026/" target="_blank" rel="noopener">725 Jahre Bergneustadt 2026 (Final Update): Das Programm zum Stadtgeburtstag – Festwoche mit Festumzug, Rave &amp; Queen-Tribute</a></h2>
+  <div class="teaser">Bergneustadt / Stadtgeburtstag / Festwoche / Jubiläum Final Update 12. Mai 2026 (Von Christian Sasse) 725 Jahre Bergneustadt: Die Festwoche zum großen Stadtgeburtstag startet am Mittwoch, 13. Mai 2026. Bis Sonntag, 17. Mai, feiert die oberbergische B</div>
+  <div class="info">12.05.2026, 02:59 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202105/bergneustadt-brennt-voxxclub-festzelt/" target="_blank" rel="noopener">Bergneustadt brennt: voXXclub &amp; Co. feierten mit rund 1000 Partypeople – 150. Jubiläum Feuerwehr LZ1</a></h2>
+  <div class="teaser">Oberberg / Bergneustadt / Feuerwehr Bergneustadt / voXXclub / Sonia Liebing / Big Maggas / Stockbrot / NurAkustik (Von Christian Sasse) Es war ein Abend, der so heiß war wie sein Name: Bergneustadt brennt – und das am Samstag, 9. Mai 2026, im wahrste</div>
+  <div class="info">10.05.2026, 02:44 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202088/neuzeit-trio-schauspielhaus-vernissage/" target="_blank" rel="noopener">Bergneustadt: Neuzeit Trio begeistert im SchauspielHaus – Vernissage Reiner Dannenberg</a></h2>
+  <div class="teaser">Bergneustadt / Neuzeit Trio / Vernissage / SchauspielHaus (Von Christian Sasse) Am Freitagabend des 8. Mai 2026 wurde das SchauspielHaus Bergneustadt zum Schauplatz eines außergewöhnlichen Doppelabends: Bereits um 18:00 Uhr eröffnete der Fotokünstler</div>
+  <div class="info">09.05.2026, 05:50 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202051/feuerwehr-bergneustadt-150-jahre-lz1/" target="_blank" rel="noopener">Feuerwehr Bergneustadt feiert 150 Jahre Löschzug 1 – Stadtdukat 2026 für Stricker und Röttger erstmals doppelt vergeben</a></h2>
+  <div class="teaser">Bergneustadt / Feuerwehr / Ehrenamt / Stadtdukat (Von Christian Sasse) Mit einem Festkommers im vollbesetzten Festzelt hat die Freiwillige Feuerwehr Bergneustadt am 8. Mai 2026 das 150-jährige Bestehen des Löschzugs 1 gefeiert. Bürgermeister Matthias</div>
+  <div class="info">09.05.2026, 00:21 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202012/bergneustadt-unfall-koelnerstrasse-baum/" target="_blank" rel="noopener">Bergneustadt: Unfall auf der Kölner Straße – Mercedes A-Klasse kracht auf Verkehrsinsel</a></h2>
+  <div class="teaser">Bergneustadt / Unfall / Kölner Straße / Oberberg (Von Christian Sasse) Ein schwarzer Mercedes A-Klasse mit Gummersbacher Kennzeichen ist am Mittwochnachmittag, 06.05.2026, gegen 16:40 Uhr auf der Kölner Straße in Bergneustadt auf die Mittelfahrbahn g</div>
+  <div class="info">07.05.2026, 01:49 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202001/bergneustadt-zimmerbrand-matratze/" target="_blank" rel="noopener">Bergneustadt: Zimmerbrand an der Kölner Straße – Matratze in Leerstand schnell gelöscht</a></h2>
+  <div class="teaser">Bergneustadt / Zimmerbrand / Feuerwehr / Kölner Straße (Von Christian Sasse) An der Kölner Straße im Zentrum von Bergneustadt (Oberbergischer Kreis/NRW) brannte am Mittwochabend 06.05.2026 eine Matratze in einem leerstehenden Haus – 25 Einsatzkräfte </div>
+  <div class="info">07.05.2026, 00:41 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201990/ttc-schwalbe-bergneustadt-senioren70-dm/" target="_blank" rel="noopener">Bergneustadt: Historischer Triumph – TTC Schwalbe holt erstmals den Deutschen Meistertitel der Senioren 70</a></h2>
+  <div class="teaser">Tischtennis / Bergneustadt / Deutsche Meisterschaft / Senioren Sport (Von Christian Sasse) Historischer Erfolg für den TTC Schwalbe Bergneustadt: Die Senioren-70-Mannschaft um Manfred Nieswand des oberbergischen Tischtennisclubs hat am ersten Maiwoch</div>
+  <div class="info">06.05.2026, 14:44 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6268765" target="_blank" rel="noopener">POL-GM: Bei Sturz mit Pedelec schwer verletzt</a></h2>
+  <div class="teaser">Bergneustadt (ots) - Am Montag (4. Mai) fuhr eine 46-jährige Frau aus Bergneustadt mit ihrem Pedelec auf der Martin-Luther-Straße bergab in Richtung Eichendorffstraße. In einer Kurve verlor sie gegen 12:05 Uhr die Kontrolle über ihr Zweirad und ...</div>
+  <div class="info">05.05.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201935/oberberg-unfaelle-motorrad-trunkenheit/" target="_blank" rel="noopener">Oberberg: 5 Verkehrsunfälle übers lange Wochenende – Trunkenheitsfahrt und Schwerverletzte</a></h2>
+  <div class="teaser">Oberberg / Verkehrsunfall / Motorrad / Polizei (Von Christian Sasse) Im Oberbergischen Kreis ereigneten sich zwischen Donnerstag (30. April) und Samstag (2. Mai 2026) insgesamt fünf Verkehrsunfälle – in Wipperfürth, Hückeswagen, Reichshof und Bergneu</div>
+  <div class="info">03.05.2026, 18:11 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201869/dlrg-bergneustadt-wache-aggertalsperre/" target="_blank" rel="noopener">DLRG Bergneustadt: Neue 400.000 Euro Wasserrettungsstation – Wache 2.0 an der Aggertalsperre feierlich eröffnet</a></h2>
+  <div class="teaser">DLRG Bergneustadt / Wasserrettungsstation / Aggertalsperre / Wache 2.0 (Von Christian Sasse) Nach acht Jahren Planung, Rückschlägen und einem Gesamtinvestitionsvolumen von rund 400.000 Euro hat die DLRG Ortsgruppe Bergneustadt am Samstag, 2. Mai 2026</div>
+  <div class="info">03.05.2026, 01:35 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201861/bergneustadt-fehlalarm-breiter-weg/" target="_blank" rel="noopener">Bergneustadt: Fehlalarm am Breiter Weg – Feuerwehr und Polizei suchten vergebens nach Brandherd</a></h2>
+  <div class="teaser">Oberberg / Bergneustadt / Fehlalarm / Feuerwehr / Polizei (Von Christian Sasse) Am Freitagabend (01.05.2026) rückten gegen 20:00 Uhr zwei Löschfahrzeuge der Feuerwehr Bergneustadt sowie eine Streife der Polizei Gummersbach zum Breiter Weg in Bergneus</div>
+  <div class="info">01.05.2026, 20:55 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">April 2026 <span class="monat-count">18</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201827/bergneustadt-maibaum-rathausplatz-2026/" target="_blank" rel="noopener">Bergneustadt: Maibaum-Tradition (2026) SPD richtet 12,43-Meter-Birke auf Rathausplatz auf</a></h2>
+  <div class="teaser">Maibaum / Bergneustadt / SPD Bergneustadt / Rathausplatz (Von Christian Sasse) Auf dem Rathausplatz in Bergneustadt (Oberbergischer Kreis/NRW) hat die SPD am Vorabend des 1. Mai 2026 einen Maibaum aufgerichtet. Eine 12,43 Meter lange Birke aus dem Wa</div>
+  <div class="info">30.04.2026, 18:32 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201811/bergneustadt-grundsteuer-2026/" target="_blank" rel="noopener">Bergneustadt: Stille Rechnung – Rückwirkende Grundsteuererhöhung 2026 – Verwaltung nutzt juristisches Fristfenster für Nachbescheide</a></h2>
+  <div class="teaser">Grundsteuer / Bergneustadt / Hebesatz / Haushalt Oberberg (Von Christian Sasse) Bergneustadt könnte Eigentümern von Wohngrundstücken im laufenden Jahr 2026 noch eine unangenehme Überraschung bescheren: Die Stadtverwaltung prüft, den bereits beschloss</div>
+  <div class="info">30.04.2026, 05:51 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201785/bergneustadt-vorfahrtfehler-crash-l173/" target="_blank" rel="noopener">Bergneustadt: Verkehrsunfall an der L173 – Seat-Fahrer verletzt, zwei Fahrzeuge abgeschleppt</a></h2>
+  <div class="teaser">Bergneustadt / Verkehrsunfall / L173 / Polizei Oberberg (Von Christian Sasse) An der Einmündung „Zur Feriensiedlung“ auf die L173 bei Bergneustadt ist es am Montagmorgen, 27. April 2026, zu einem Verkehrsunfall mit einem Verletzten gekommen. Ein 75-j</div>
+  <div class="info">28.04.2026, 18:42 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201776/bergneustadt-einbruch-bowling-center/" target="_blank" rel="noopener">Bergneustadt: Einbruch im Bowling Center Oberberg – Kasse und Tresor gestohlen</a></h2>
+  <div class="teaser">Bergneustadt / Einbruch / Bowling Center Oberberg / Kriminalpolizei Gummersbach (Von Christian Sasse) In der Nacht zum Montag, 27. April 2026, wurde in das Bowling Center Oberberg an der Kölner Straße in Bergneustadt (Oberbergischer Kreis/NRW) eingeb</div>
+  <div class="info">28.04.2026, 00:20 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201688/bergneustadt-historischer-abend20260424/" target="_blank" rel="noopener">Bergneustadt: Historischer Abend im Heimatmuseum begeistert mit Dönnekes</a></h2>
+  <div class="teaser">Bergneustadt / Heimatmuseum / Stadtgeschichte / 725 Jahre (Von Christian Sasse) Zum Auftakt der Feierlichkeiten rund um das 725-jährige Stadtjubiläum hat der Heimatverein Feste Neustadt am Freitagabend einen restlos ausverkauften Historischen Abend i</div>
+  <div class="info">24.04.2026, 23:46 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201669/bergneustadt-niederrengse-lkw-umgekippt/" target="_blank" rel="noopener">Bergneustadt: Schotter-LKW in Niederrengse (am Eulennest) umgekippt – Fahrer leicht verletzt</a></h2>
+  <div class="teaser">Bergneustadt / Niederrengse / LKW-Unfall / Feuerwehr (Von Christian Sasse) In der Niederrengse (Bergneustadt) im Oberbergischen Kreis ist am Freitagnachmittag 24.04.2026 gegen 14 Uhr ein voll beladener Schotter-LKW „beim Eulennest„ umgekippt. Beim Ab</div>
+  <div class="info">24.04.2026, 16:02 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201248/frankfurt-ttbl-final4-bergneustadt-2026/" target="_blank" rel="noopener">Frankfurt: TTBL Final4 – Paarungen fix! TTC Bergneustadt vs. Düsseldorf – Alle Ticket- und Fanblock-Infos</a></h2>
+  <div class="teaser">Tischtennis / TTBL / Bergneustadt / Frankfurt (Von Christian Sasse) Update: Die Halbfinalpaarungen beim Liebherr TTBL Final4 stehen fest – und die Tickets für den Fanblock N mit Preisnachlass sind buchbar. Der TTC Schwalbe Bergneustadt trifft am 30. </div>
+  <div class="info">23.04.2026, 04:05 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201498/schwalbe-bergneustadt-saarbruecken_2026/" target="_blank" rel="noopener">Medical TimeOut: TTC Schwalbe Bergneustadt bezwingt Saarbrücken – Coup vor dem Final4</a></h2>
+  <div class="teaser">Bergneustadt / Tischtennis / TTBL / TTC Schwalbe (Von Christian Sasse) Der TTC Schwalbe Bergneustadt hat am letzten Spieltag der Tischtennis-Bundesliga (So. 19.04.2026) den Vizemeister 1. FC Saarbrücken-TT mit 3:1 bezwungen und sich damit vor fast 1.</div>
+  <div class="info">19.04.2026, 21:55 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201442/bergneustadt-725-jahre-stadtgeburtstag/" target="_blank" rel="noopener">Bergneustadt 725. Stadtgeburtstag (2026) Grandiose Festwoche im Mai – DAS PROGRAMM in Detail u.v.m.</a></h2>
+  <div class="teaser">Bergneustadt / Stadtgeburtstag / Festwoche / Jubiläum (Von Christian Sasse) Bergneustadt feiert 2026 ein historisches Jubiläum. Genau 725 Jahre nach der Gründung am 13. Mai 1301 lädt die oberbergische Bergstadt vom 13. bis 17. Mai zu einer fünftägige</div>
+  <div class="info">18.04.2026, 06:59 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201418/lindlar-radfahrer-trecker-holl-fenke/" target="_blank" rel="noopener">Lindlar: Lebensgefährlich Fahrradunfall – Trecker kollidiert mit 70-Jährigem</a></h2>
+  <div class="teaser">Lindlar / Fahrradunfall / Trecker / Fenke (Von Christian Sasse) Am Donnerstagnachmittag, 16. April 2026, ist ein 70-jähriger Fahrradfahrer auf einem Verbindungsweg zwischen Holl und Fenke in Lindlar (Oberbergischer Kreis/NRW) mit einem Trecker zusamm</div>
+  <div class="info">17.04.2026, 02:50 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201368/oberberg-betrug-einbruch_2026-04-14/" target="_blank" rel="noopener">Oberberg: Betrug und Einbruch – vier Polizeimeldungen aus der Region</a></h2>
+  <div class="teaser">Betrug / Polizei / Oberberg / Einbruch (Von Christian Sasse) In Bergneustadt, Lindlar, Engelskirchen und Reichshof registrierte die Kreispolizeibehörde Oberbergischer Kreis am Montag gleich vier Vorfälle: Drei Fälle von Online-Betrug und Telefonbetru</div>
+  <div class="info">14.04.2026, 19:07 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201310/saarlouis-timo-boll-ttworld-legends-cup/" target="_blank" rel="noopener">Timo Boll Comeback! TT World Legends Cup in Saarlouis – Doppel mit Boris Becker</a></h2>
+  <div class="teaser">Tischtennis / Saarlouis / Timo Boll / Boris Becker (Von Christian Sasse) Am 22. Mai 2026 wird die Stadtgartenhalle Saarlouis zum Schauplatz des TT World Legends Cup 2026. Nach der kurzfristigen Absage des chinesischen Stars Zhang Jike rückt mit Timo </div>
+  <div class="info">11.04.2026, 02:52 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201267/bergneustadt-spd-jubilarehrung-zypries/" target="_blank" rel="noopener">SPD Oberberg ehrt langjährige Mitglieder: Von Unterkassierern über Kneipenwahlkämpfer – Brigitte Zypries mahnt zu mehr Zuversicht</a></h2>
+  <div class="teaser">Bergneustadt / SPD / Jubilarehrung / Oberberg (Von Christian Sasse) Bei der traditionellen Jubilarehrung des SPD-Kreisverbandes Oberberg im Hotel Phönix in Bergneustadt sind am Freitag (10.04.2026) insgesamt 15 Parteimitglieder für ihre langjährige T</div>
+  <div class="info">10.04.2026, 22:54 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201254/bergneustadt-thul-time-jaegerhof/" target="_blank" rel="noopener">Bergneustadt: Bürgermeister startet YouTube-Podcast „Thul Time“ – erste Folge zum Jägerhof unter der Lupe</a></h2>
+  <div class="teaser">Bergneustadt / Jägerhof / Podcast / Oberberg (Von Christian Sasse) Bergneustadt – Bürgermeister Matthias Thul (CDU) hat mit „Thul Time“ ein neues YouTube-Podcast-Format gestartet. In der ersten Folge, veröffentlicht am 7. April 2026, widmet sich das </div>
+  <div class="info">10.04.2026, 02:42 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201241/bergneustadt-moped-flucht-polizei/" target="_blank" rel="noopener">Bergneustadt: 13-Jähriger flüchtet auf Kleinkraftrad vor Polizei – Widerstand bei Festnahme</a></h2>
+  <div class="teaser">Bergneustadt / Polizei / Widerstand / Kleinkraftrad (Von Christian Sasse) In Bergneustadt hat ein 13-Jähriger in der Nacht zum Mittwoch auf einem Kleinkraftrad vor der Polizei die Flucht ergriffen und bei seiner anschließenden Festnahme Widerstand ge</div>
+  <div class="info">09.04.2026, 17:32 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201190/oberberg-radsaison-spritpreise-e-bike/" target="_blank" rel="noopener">Oberberg: Radsaison gestartet – E-Bike-Boom und Rekord-Spritpreise treiben Radfahrer auf die Strecken</a></h2>
+  <div class="teaser">Oberberg / E-Bike / Radfahren / Bergneustadt (Von Christian Sasse) Bei frühlingshaften Temperaturen von bis zu 16 Grad in Bergneustadt (Redaktionssitz NEWS-on-Tour) und knapp 18 Grad in Richtung Köln hat am Dienstag, 7. April 2026, die Radsaison im O</div>
+  <div class="info">07.04.2026, 17:18 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200881/osterfeuer-oberberg-2026-wo/" target="_blank" rel="noopener">Osterfeuer Oberberg 2026: (04./05.04.) Diese 17 Veranstaltungen sind offiziell bestätigt</a></h2>
+  <div class="teaser">Oberberg / Osterfeuer / 2026 / Veranstaltungen / Waldbrandgefahr (Von Christian Sasse) Update #6 Am Karsamstag, 4. April 2026, und Ostersonntag, 5. April 2026, lodern im Oberbergischen Kreis wieder die traditionellen Osterfeuer. Feuerwehren, Dorfgeme</div>
+  <div class="info">04.04.2026, 00:01 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201014/bergneustadt-jano-bussmann-paralympics/" target="_blank" rel="noopener">Bergneustadt: Jano Bußmann erhält Graf-Eberhard-Medaille für Paralympics-Teilnahme</a></h2>
+  <div class="teaser">Bergneustadt / Para-Eishockey / Paralympics / Oberberg (Von Christian Sasse) Im Heimatmuseum der Altstadt hat Bürgermeister Matthias Thul am Dienstag, dem 31. März 2026, den 19-jährigen Para-Eishockey-Nationalspieler Jano Bußmann mit der Graf-Eberhar</div>
+  <div class="info">01.04.2026, 16:06 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">März 2026 <span class="monat-count">6</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200981/leo-de-nodrest-tischtennis-bergneustadt/" target="_blank" rel="noopener">Merci, Leo! Update#4 TTC Schwalbe Bergneustadt verabschiedet Leo de Nodrest nach Frankreich</a></h2>
+  <div class="teaser">Bergneustadt / TTC Schwalbe Bergneustadt / Tischtennis Bundesliga / Oberberg (Von Christian Sasse) Update #4 Nach nur einer Saison im Trikot des TTC Schwalbe Bergneustadt verlässt der französische Tischtennisprofi Leo de Nodrest den Bundesligisten au</div>
+  <div class="info">30.03.2026, 18:06 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200914/ttc-schwalbe-bergneustadt-final-four/" target="_blank" rel="noopener">TTC Schwalbe Bergneustadt im Final Four – Duda führt Bundesliga-Team ins Halbfinale</a></h2>
+  <div class="teaser">Bergneustadt / Tischtennis / Bundesliga / TTC Schwalbe Bergneustadt / TTBL / Oberberg (Von Christian Sasse) Der TTC Schwalbe Bergneustadt hat am Freitagabend (27.03.2026) mit einem verdienten 3:1-Heimsieg gegen den TTC OE Clarity Telefonie-Systeme Ba</div>
+  <div class="info">28.03.2026, 00:22 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200737/bergneustadt-gedenken-otto-wels-talpark/" target="_blank" rel="noopener">Bergneustadt: Gedenkveranstaltung an der Friedenseiche erinnert an Otto Wels‘ Rede gegen das Ermächtigungsgesetz</a></h2>
+  <div class="teaser">Bergneustadt / SPD / Friedenseiche / Ermächtigungsgesetz (Von Christian Sasse) Am Sonntagvormittag, 22. März 2026, versammelten sich gegen 11:15 Uhr rund 40 Teilnehmer an der Friedenseiche im Talpark von Bergneustadt (Oberbergischer Kreis/NRW), um am</div>
+  <div class="info">22.03.2026, 14:06 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200642/bergneustadt-polizei-brandstiftung/" target="_blank" rel="noopener">Bergneustadt: Streifenwagen in Rathaus-Tiefgarage absichtlich angezündet – Staatsschutz ermittelt</a></h2>
+  <div class="teaser">Oberberg / Bergneustadt / Brand / Polizei / Staatsschutz (Von Christian Sasse) In der Nacht von Mittwoch auf Donnerstag, 12. März 2026, brannte in der Tiefgarage des Bergneustädter Rathauses ein Streifenwagen der Kreispolizeibehörde Oberbergischer Kr</div>
+  <div class="info">17.03.2026, 17:39 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200536/bergneustadt-brand-rathaus-tiefgarage/" target="_blank" rel="noopener">Bergneustadt: Streifenwagen brennt in Rathaus-Tiefgarage vollständig aus</a></h2>
+  <div class="teaser">Bergneustadt / Polizeifahrzeug Brand / Tiefgarage Rathaus / Feuerwehr Bergneustadt (Von Christian Sasse) In der Nacht zu Donnerstag 12.03.2026 ist in der Tiefgarage unterhalb des Rathauses in Bergneustadt ein Streifenwagen der Polizei völlig ausgebra</div>
+  <div class="info">12.03.2026, 15:30 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200441/bergneustadt-hassposts-geschaeftsleute/" target="_blank" rel="noopener">Bergneustadt: Schwere Hassposts gegen türkische Geschäftsleute – Polizei ermittelt wegen übler Nachrede und Verleumdung</a></h2>
+  <div class="teaser">Facebook / Hassposts / Verleumdung / Oberberg (Von Christian Sasse) In Bergneustadt (Oberbergischer Kreis/NRW) hat ein mutmaßlich gefälschtes Facebook-Profil unter dem Namen „Merve A.“ in der Nacht vom Freitag, 6. März 2026, auf Samstag, 7. März 2026</div>
+  <div class="info">08.03.2026, 22:31 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Februar 2026 <span class="monat-count">15</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200267/bergneustadt-the-barber-herrensalon/" target="_blank" rel="noopener">Bergneustadt: FOTO DES TAGES! Kunde Basti meint ´Bester Friseur in Town´- The Barber Herrensalon</a></h2>
+  <div class="teaser">Bergneustadt / The Barber / Foto des Tages / Herrensalon (Von Christian Sasse) Seit 2017 sorgt der rein männliche Barbershop The Barber mit klassischen Schnitten, Rasur, Augenbrauen- und Ohr-Flammenservice für Style und familiäre Atmosphäre in Bergne</div>
+  <div class="info">27.02.2026, 17:44 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200261/bergneustadt-schuetzenfeste-vereine/" target="_blank" rel="noopener">Bergneustadt: Schützenverein 1353 warnt vor Aus für Schützenfeste – Vorsitzender Pütz fordert Unterstützung</a></h2>
+  <div class="teaser">Bergneustadt / Schützenverein / Schützenfest / Oberberg (Von Christian Sasse) Immer höhere Sicherheitsauflagen und steigende Kosten durch Entscheidungen der Bundes- und Landespolitik bringen die ehrenamtlich organisierten Schützenfeste in ernsthafte </div>
+  <div class="info">27.02.2026, 07:17 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200256/bergneustadt-frau-auto-tankstelle/" target="_blank" rel="noopener">Bergneustadt: Unbekannter steigt zu Tankstellenmitarbeiterin ins Auto – Polizei sucht Zeugen</a></h2>
+  <div class="teaser">Bergneustadt / Polizei / Tankstelle / Übergriff (Von Christian Sasse) In Bergneustadt hat am Mittwochabend (25. Februar, 22:20 Uhr) ein bislang Unbekannter eine 50-jährige Tankstellenmitarbeiterin auf dem Parkplatz nahe der Einmündung „Am Wäcker“ übe</div>
+  <div class="info">27.02.2026, 04:49 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200250/marienheide-afd-waehleraeuschung/" target="_blank" rel="noopener">Marienheide: Drei AfD-Ratsmitglieder verlassen Fraktion – Streit um Wählertäuschung und Mandate</a></h2>
+  <div class="teaser">Marienheide / AfD / Gemeinderat / Wählertäuschung (Von Christian Sasse) In der Sitzung des Marienheider Gemeinderats am gestrigen Mittwoch 24.02.2026 haben drei von fünf AfD-Ratsmitgliedern die Fraktion verlassen, behalten aber ihre Mandate und lösen</div>
+  <div class="info">26.02.2026, 12:25 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200209/wiedenester-meile-2026-bergneustadt/" target="_blank" rel="noopener">Wiedenester Meile 2026: Neunte Auflage am 29. und 30. August – Werbegemeinschaft Bergneustadt bestätigt Vorstand</a></h2>
+  <div class="teaser">Wiedenester Meile / Bergneustadt / Werbegemeinschaft Wiedenest / Wiedenest (Von Christian Sasse) Die Wiedenester Meile 2026 findet am 29. und 30. August in Bergneustadt-Wiedenest statt und geht damit in ihre neunte Auflage. Auf der Jahreshauptversamm</div>
+  <div class="info">25.02.2026, 02:50 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200191/bergneustadt-fussgaengerin-unfall/" target="_blank" rel="noopener">Bergneustadt: Fußgängerin schwer verletzt (Königsberger Straße)</a></h2>
+  <div class="teaser">Oberberg / Bergneustadt – (Von NEWS-Ticker) Am Montagabend, den 23. Februar 2026, kam es an der Kreuzung „Königsberger Straße / Hohle Straße / Zum Wiebusch“ in Bergneustadt zu einem schweren Verkehrsunfall. Eine 68-jährige Fußgängerin wurde dabei sch</div>
+  <div class="info">24.02.2026, 11:26 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200113/bergneustadt-neverland-come-in-rock/" target="_blank" rel="noopener">Bergneustadt: Neverland rockte die Come-In-Classic-Night – Live-Rock vom Feinsten (mit exklusivem Video)</a></h2>
+  <div class="teaser">Bergneustadt – Come In – Neverland – Rock-Konzert | Bergneustadt (NRW) – Am Samstagabend, dem 21. Februar 2026, verwandelte die Rock-Cover-Band Neverland die Discothek Come In in der Othestraße 28 in eine brodelnde Konzertarena. Im Rahmen der Come In</div>
+  <div class="info">22.02.2026, 04:47 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200099/jagerhof-bergneustadt-abriss-sanierung/" target="_blank" rel="noopener">Bergneustadt: 7,9 Mio. Euro! Jägerhof vor dem Aus? – Kostenexplosion, Abriss-Debatte und ein Biergarten als Alternative</a></h2>
+  <div class="teaser">Bergneustadt / Jägerhof / Sanierung / Oberberg (Von Christian Sasse) Die Zukunft des traditionsreichen Jägerhofs in der Bergneustädter Altstadt steht auf der Kippe. Was einst als ambitioniertes Vorzeigeprojekt mit Millionenförderung vom Land Nordrhei</div>
+  <div class="info">21.02.2026, 21:10 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200014/bergneustadt-neverland-come-in-malle/" target="_blank" rel="noopener">Bergneustadt: Neverland rockt das Come In – Classic-Rock-Nacht und Malle-Party im Februar</a></h2>
+  <div class="teaser">Bergneustadt / Come In / Neverland / Malle-Party (Von Christian Sasse) Das Come In Bergneustadt legt im Februar noch einmal richtig nach: Am Samstag, 21. Februar 2026, sorgt die Rock-Cover-Band Neverland zusammen mit DJ Stiletto für eine lange Classi</div>
+  <div class="info">17.02.2026, 05:35 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/199988/long-post-covid-zentrum-just-more/" target="_blank" rel="noopener">Bergneustadt: Long-/Post-Covid-Zentrum von Just More bietet neue Perspektive für Betroffene</a></h2>
+  <div class="teaser">Bergneustadt / Long-Covid / Post-Covid / Gesundheit (Von Christian Sasse) Im neuen Long-/Post-Covid-Zentrum von J+ JUST MORE health in Bergneustadt erhalten Menschen mit anhaltender Erschöpfung, Atemnot und „Brain Fog“ nach einer Covid-19-Infektion e</div>
+  <div class="info">15.02.2026, 19:05 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/199919/ttc-schwalbe-bergneustadt_werder-bremen/" target="_blank" rel="noopener">TTC Schwalbe Bergneustadt stoppt Werder-Bremen-Serie 3:2 – Play-off-Kracher in der Burstenhalle</a></h2>
+  <div class="teaser">Oberberg / Bergneustadt / TTBL / TTC Schwalbe Bergneustadt / SV Werder Bremen (Von Christian Sasse) Bei 21,9 Grad Hallentemperatur und 35 Prozent Luftfeuchtigkeit feiert der TTC Schwalbe Bergneustadt am Freitagabend, 13.02.2026, in der Burstenhalle a</div>
+  <div class="info">14.02.2026, 02:01 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/199877/bergneustadt-rathaussturm-2026-02-12/" target="_blank" rel="noopener">Bergneustadt: Weiberfastnacht 2026 Rathaussturm – Stephinchen übernehmen das Rathaus (Mit Exklusiv-Video!)</a></h2>
+  <div class="teaser">Oberberg / Bergneustadt / Weiberfastnacht / Rathaussturm / Karneval (Von Christian Sasse) Unter dem Motto „Von der Gründung bis ins All – Bergneustadt feiert überall“ verwandelten fantasievoll kostümierte Närrinnen den Rathausvorplatz in eine bunte K</div>
+  <div class="info">12.02.2026, 13:45 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/199690/bergneustadt-tollitaeten-bowling-2026/" target="_blank" rel="noopener">Bergneustadt: Jecke Tollitäten im Bowlingcenter – 130 Karnevalisten auch 2026 im Kegelrausch</a></h2>
+  <div class="teaser">Bergneustadt / Karneval / Bowling / Tollitäten (Von Christian Sasse) Rund 130 Karnevalisten aus zehn Karnevalsvereinen verwandelten das Bowling Center Oberberg am Mittwochabend 04.02.2026 in Bergneustadt (Oberbergischer Kreis/NRW) in ein jeckes „Bowl</div>
+  <div class="info">05.02.2026, 02:05 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/199601/ttc-schwalbe-bergneustadt-stoppt-bvb/" target="_blank" rel="noopener">TTC Schwalbe Bergneustadt stoppt BVB-Serie – Duda glänzt vor 250 Zuschauern (Viele Bilder!)</a></h2>
+  <div class="teaser">Bergneustadt / Tischtennis Bundesliga / TTC Schwalbe Bergneustadt / Borussia Dortmund (Von Christian Sasse) Der TTC Schwalbe Bergneustadt hat am Sonntag (1. Februar 2026) in der Burstenhalle die Erfolgsserie von Borussia Dortmund beendet. Mit einem 3</div>
+  <div class="info">02.02.2026, 04:14 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/199566/bergneustadt-rnb-karnevalsparty-come-in/" target="_blank" rel="noopener">Bergneustadt: Karnevalsparty im Come In – RnB-Party wird zur bunten Kostüm-Sause</a></h2>
+  <div class="teaser">Bergneustadt / Come In / Karneval / DJ Flo (Von Christian Sasse) Eigentlich als R’n’B-Party geplant, verwandelte sich der Samstagabend im Come In in Bergneustadt (Oberbergischer Kreis/NRW) am Samstagabend 31.01.2026 spontan in eine ausgelassene Karne</div>
+  <div class="info">01.02.2026, 06:28 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Januar 2026 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/nordrhein-westfalen/altschuldenentlastung-fuer-oberbergische-kommunen/" target="_blank" rel="noopener">Altschuldenentlastung für oberbergische Kommunen</a></h2>
+  <div class="teaser">NRW entlastet Kommunen: Bergneustadt spart 6,7 Mio. € Kassenkredite durch Altschuldengesetz! Zinsfreiheit schafft Spielraum für Investitionen. Der Beitrag Altschuldenentlastung für oberbergische Kommunen erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">02.01.2026, 19:32 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Juni 2025 <span class="monat-count">3</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/rathausplatz-open-air-bergneustadt-2025/" target="_blank" rel="noopener">Rathausplatz Open Air Bergneustadt 2025</a></h2>
+  <div class="teaser">Bergneustadt - Das Programm für das Rathausplatz Open Air Bergneustadt 2025 steht fest. Der Beitrag Rathausplatz Open Air Bergneustadt 2025 erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">05.06.2025, 21:16 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/blaeserkreis-bergneustadt-sommerkonzert/" target="_blank" rel="noopener">Bläserkreis Bergneustadt lädt zu sommerlichem Konzert in die Altstadt</a></h2>
+  <div class="teaser">Sommerliche Klänge verspricht der Bläserkreis Bergneustadt beim nächsten Konzert in der Neustädter Altstadt. Der Beitrag Bläserkreis Bergneustadt lädt zu sommerlichem Konzert in die Altstadt erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">03.06.2025, 19:17 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/schuetzenfest-bergneustadt-2025-festprogramm/" target="_blank" rel="noopener">Schützenfest Bergneustadt 2025:</a></h2>
+  <div class="teaser">Das Schützenfest Bergneustadt zählt zu den traditionsreichsten und beliebtesten Volksfesten im Oberbergischen Kreis. Festprogramm Pfingsten25 Der Beitrag Schützenfest Bergneustadt 2025: erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">02.06.2025, 15:28 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Mai 2025 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/luftsport-club-duempel-laedt-zum-flugplatzfest-ein/" target="_blank" rel="noopener">Luftsport-Club Dümpel lädt zum Flugplatzfest ein</a></h2>
+  <div class="teaser">Der Luftsport-Club Dümpel lädt am 14. und 15. Juni 2025 zum 62. Flugplatzfest ein. Es ist eines der größten Publikumsfeste in unserer Region. Der Beitrag Luftsport-Club Dümpel lädt zum Flugplatzfest ein erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">30.05.2025, 15:07 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Februar 2025 <span class="monat-count">2</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/stadt-land-fluss/" target="_blank" rel="noopener">Stadt Land Fluss – Ein Blick auf die Kulturlandschaft im Bergischen Land</a></h2>
+  <div class="teaser">Im September 2025 wird das Bergische Land zum Zentrum für Kulturlandschaft und Naturerlebnis, wenn der Landschaftsverband Rheinland (LVR) die Veranstaltung „Stadt Land Fluss - Tage der Rheinischen Landschaft“ ausrichtet. Der Beitrag Stadt Land Fluss </div>
+  <div class="info">13.02.2025, 15:08 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/patienten-im-wachkoma-e-v-dienstleitung-gewechselt/" target="_blank" rel="noopener">Patienten im Wachkoma e. V.  – Dienstleitung gewechselt</a></h2>
+  <div class="teaser">Der in Bergneustadt beheimatete Verein „Patienten im Wachkoma e. V.“ hat im Jahr 2025 gleich zwei neue Leitungspositionen zu verkünden. Der Beitrag Patienten im Wachkoma e. V. – Dienstleitung gewechselt erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">13.02.2025, 14:31 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Januar 2025 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/heimatmuseum-bergneustadt-sonderausstellung-im-nest/" target="_blank" rel="noopener">Heimatmuseum Bergneustadt – Neue Sonderausstellung</a></h2>
+  <div class="teaser">Ab dem 12. Mai 2024 wird das Heimatmuseum Bergneustadt mit einer faszinierenden Sonderausstellung aufwarten. Der Beitrag Heimatmuseum Bergneustadt – Neue Sonderausstellung erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">14.01.2025, 13:09 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Dezember 2024 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/nikolausmarkt-bergneustadt/" target="_blank" rel="noopener">Traditioneller Nikolausmarkt in Bergneustadt begeistert Jung und Alt</a></h2>
+  <div class="teaser">Vom 29. November bis zum 1. Dezember 2024 fand am Heimathaus der traditionelle Altstädter Nikolausmarkt statt. Die Neustädter Vereine, Schulen, Kindergärten und viele weitere Akteure präsentierten ein vielfältiges Angebot, das zum stimmungsvollen Bes</div>
+  <div class="info">05.12.2024, 11:22 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">November 2024 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/buergermeister-matthias-thul-informiert-ueber-grundsteuerreform-und-windenergieausbau-in-bergneustadt/" target="_blank" rel="noopener">Bürgermeister Matthias Thul informiert über Grundsteuerreform und Windenergieausbau in Bergneustadt</a></h2>
+  <div class="teaser">Bergneustadt - Bürgermeister Matthias Thul informiert an einem Infoabend im Krawinkelsaal über Grundsteuerreform und Windenergieausbau in Bergneustadt. Der Beitrag Bürgermeister Matthias Thul informiert über Grundsteuerreform und Windenergieausbau in</div>
+  <div class="info">12.11.2024, 19:41 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Oktober 2024 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/kontinuitaet-und-ehrungen-beim-fc-wiedenest-othetal/" target="_blank" rel="noopener">Kontinuität und Ehrungen beim FC Wiedenest-Othetal</a></h2>
+  <div class="teaser">Bergneustadt - Pernze. Am 25. Oktober 2023 fand die Jahreshauptversammlung des FC Wiedenest-Othetal e.V. statt, bei der die Wiederwahl vieler Vorstandsmitglieder im Mittelpunkt stand. Ansgar Lehnen, der erste Vorsitzende, sowie Kassenwart Jens Thieme</div>
+  <div class="info">31.10.2024, 19:55 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">September 2024 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/fcwo-grosses-sportwochenende/" target="_blank" rel="noopener">FCWO – Großes Sportwochenende</a></h2>
+  <div class="teaser">Am kommenden Wochenende findet das große Sportwochenende des FC Wiedenest- Othetal statt. Der Beitrag FCWO – Großes Sportwochenende erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">05.09.2024, 16:50 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">August 2024 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/kinder-und-jugendflohmarkt-jugendtreff-bergneustadt/" target="_blank" rel="noopener">Kinder- und Jugendflohmarkt Jugendtreff Bergneustadt</a></h2>
+  <div class="teaser">Der Förderkreis für Kinder, Kunst &amp; Kultur veranstaltet in Kooperation mit der Stadt Bergneustadt am Sa. 14.09.2024 von 11 bis 16 Uhr einen Kinder- und Jugendflohmarkt auf der Wiese hinter dem Jugendtreff Bergneustadt/Krawinkelsaal. Der Beitrag Kinde</div>
+  <div class="info">13.08.2024, 13:58 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Juli 2024 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/erste-hilfe-am-hund-im-schaeferhundeverein-og-bergneustadt/" target="_blank" rel="noopener">Erste-Hilfe am Hund im Schäferhundeverein OG Bergneustadt</a></h2>
+  <div class="teaser">In Bergneustadt hat der Schäferhundeverein OG einen besonderen Kurs angeboten: Erste-Hilfe am Hund. Der Beitrag Erste-Hilfe am Hund im Schäferhundeverein OG Bergneustadt erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">11.07.2024, 14:49 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Juni 2024 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/tipps-und-tricks-fuer-den-passenden-mobilfunkvertrag/" target="_blank" rel="noopener">Oberberger aufgepasst: Tipps und Tricks, für den passenden Mobilfunkvertrag</a></h2>
+  <div class="teaser">Die Masse an Mobilfunk-Anbietern und deren Vertragsoptionen macht es schwierig für Menschen in der Region Oberberg, den besten Mobilfunkvertrag zu finden. Unabhängig davon, ob das Ziel ist, einen gänzlich neuen Mobilfunkvertrag abzuschließen oder ein</div>
+  <div class="info">24.06.2024, 08:39 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Mai 2024 <span class="monat-count">3</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/fronleichnamsprozession-belmicke/" target="_blank" rel="noopener">Belmicke – Traditionsreiche Fronleichnamsprozession</a></h2>
+  <div class="teaser">Belmicke, Bergneustadt – Ein festlicher Tag steht bevor: Am 30. Mai, dem Fronleichnamstag, lädt die Gemeinde zu einer feierlichen Prozession auf der Hohen Belmicke ein. Der Beitrag Belmicke – Traditionsreiche Fronleichnamsprozession erschien zuerst a</div>
+  <div class="info">23.05.2024, 09:08 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/patienten-im-wachkoma-e-v-erhaelt-pv-anlage/" target="_blank" rel="noopener">Nachhaltige Energie für „Haus Ilona“ durch Sonepar-Energiesparmonate</a></h2>
+  <div class="teaser">Bergneustadt gewinnt an Nachhaltigkeit: Das &quot;Haus Ilona&quot;, eine spezialisierte Einrichtung des Vereins Patienten im Wachkoma e.V. (PIW), nutzt ab sofort Solarenergie. Der Beitrag Nachhaltige Energie für „Haus Ilona“ durch Sonepar-Energiesparmonate ers</div>
+  <div class="info">22.05.2024, 14:26 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/flugplatzfest-2024-auf-dem-duempel/" target="_blank" rel="noopener">Flugplatzfest 2024 „Auf dem Dümpel“ – Das erwartet Sie!</a></h2>
+  <div class="teaser">Bergneustadt - Am 8. und 9. Juni 2024 lädt der LSC Dümpel zu einem spektakulären Ereignis ein: Das 61. Flugplatzfest auf dem Bergneustadter Flugplatz „Auf dem Dümpel“ öffnet wieder seine Pisten für ein Wochenende voller Flugkunst, kulinarischen Genüs</div>
+  <div class="info">18.05.2024, 10:29 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Dezember 2023 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/beim-dobbeln-gehts-um-die-wurst/" target="_blank" rel="noopener">Beim Dobbeln geht’s um die Wurst</a></h2>
+  <div class="teaser">Mit einem Würfelspiel, bei dem es sprichwörtlich um die Wurst geht, wird in Bergneustadt traditionell das alte Jahr verabschiedet: Zwischen Weihnachten und Silvester wird auch dieses Jahr im Jägerhof gedobbelt. Der Beitrag Beim Dobbeln geht’s um die </div>
+  <div class="info">14.12.2023, 14:50 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">November 2023 <span class="monat-count">2</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/der-grosse-sportabend-in-der-burstenhalle/" target="_blank" rel="noopener">Der große Sportabend in der Burstenhalle</a></h2>
+  <div class="teaser">Der 54. Sportabend fand pünktlich zum Auftakt der 5. Jahreszeit am 11.11.2023 statt. Trotz Karnevalbeginn war die Burstenhalle in Bergneustadt fast zum Zerbersten voll. Der Beitrag Der große Sportabend in der Burstenhalle erschien zuerst auf Oberberg</div>
+  <div class="info">16.11.2023, 15:48 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/benefizkonzert-zu-gunsten-der-leukaemiehilfe-llh/" target="_blank" rel="noopener">Benefizkonzert zu Gunsten der Leukämiehilfe (LLH)</a></h2>
+  <div class="teaser">Endlich ist es wieder soweit! Die LLH unter der Leitung von Michael Enders lädt herzlich zum Schottischen Abend in den Krawinkelsaal in Bergneustadt ein. Der Beitrag Benefizkonzert zu Gunsten der Leukämiehilfe (LLH) erschien zuerst auf Oberberg-Nachr</div>
+  <div class="info">06.11.2023, 14:16 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Oktober 2023 <span class="monat-count">3</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/drachenfest-auf-dem-duempel-2/" target="_blank" rel="noopener">Drachenfest auf dem Dümpel</a></h2>
+  <div class="teaser">Auch in diesem Jahr endet die Flugsaison am Flugplatz „Auf dem Dümpel“ mit einem Fest für alle Familien im Umland. Der Beitrag Drachenfest auf dem Dümpel erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">27.10.2023, 09:05 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/bergwacht-drf-luftrettung-uebung-im-oberbergischen-kreis/" target="_blank" rel="noopener">Bergwacht / DRF-Luftrettung – Übung im Oberbergischen Kreis</a></h2>
+  <div class="teaser">Die Bergwacht im Deutschen Roten Kreuz Kreisverband Oberbergischer Kreis e.V., zugleich Träger der Einsatzgruppe Höhenrettung im Oberbergischen Kreis, führt am 20. und 21.10.2023 eine Übung in Zusammenarbeit mit der DRF Stiftung Luftrettung gemeinnüt</div>
+  <div class="info">19.10.2023, 14:58 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/schaeferhundeverein-og-bergneustadt-hunde-jahrmarkt-kam-gut-an/" target="_blank" rel="noopener">Schäferhundeverein OG Bergneustadt – Hunde-Jahrmarkt kam gut an</a></h2>
+  <div class="teaser">Der Hunde-Jahrmarkt, welcher am 23.09.2023 und am 24.09.2023 auf dem Übungsgelände des Schäferhundevereins OG Bergneustadt stattgefunden hat, war ein erster Schritt in eine hoffnungsvolle Zukunft. Der Beitrag Schäferhundeverein OG Bergneustadt – Hund</div>
+  <div class="info">09.10.2023, 16:45 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">September 2023 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/hunde-jahrmarkt-beim-schaeferhundeverein-in-bergneustadt/" target="_blank" rel="noopener">Hunde-Jahrmarkt beim Schäferhundeverein in Bergneustadt</a></h2>
+  <div class="teaser">Der Schäferhundeverein OG Bergneustadt möchte sich am kommenden Wochenende allen Hundefreunden mit und ohne Hund vorstellen. Der Beitrag Hunde-Jahrmarkt beim Schäferhundeverein in Bergneustadt erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">20.09.2023, 12:53 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Juli 2023 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/verein-fuer-lokaljournalismus-in-bergneustadt-gegruendet/" target="_blank" rel="noopener">Verein für Lokaljournalismus in Bergneustadt gegründet</a></h2>
+  <div class="teaser">Am vergangenen Freitag, den 07.07.2023, fand die Gründungsversammlung für den “Verein zur Förderung von Lokaljournalismus, Meinungs- und Informationsvielfalt in NRW” statt. Der Beitrag Verein für Lokaljournalismus in Bergneustadt gegründet erschien z</div>
+  <div class="info">10.07.2023, 14:18 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Juni 2023 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/lokaljournalisten-foerderverein/" target="_blank" rel="noopener">Lokaljournalisten – Förderverein wird am 7.7.2023 in Bergneustadt gegründet</a></h2>
+  <div class="teaser">Lokaljournalisten in NRW bekommen ein neues zu Hause - Am 7.7.2023 findet die Vereinsgründung für die Förderung von Lokaljournalismus statt. Der Beitrag Lokaljournalisten – Förderverein wird am 7.7.2023 in Bergneustadt gegründet erschien zuerst auf O</div>
+  <div class="info">21.06.2023, 20:54 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Mai 2023 <span class="monat-count">5</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/rathausplatz-open-air-nachtlauf-2023/" target="_blank" rel="noopener">Rathausplatz Open Air &amp; Nachtlauf 2023</a></h2>
+  <div class="teaser">Bergneustadt - Wie auch im letzten Jahr stehen in Bergneustadt auch im Sommer 2023 zwei Events mit Tradition an: Das Rathausplatz Open Air findet zum 20. Mal statt, der Nachtlauf bereits zum 41. Mal. Der Beitrag Rathausplatz Open Air &amp; Nachtlauf 2023</div>
+  <div class="info">23.05.2023, 09:07 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/erstes-klimaquartier-in-nrw-auf-dem-hackenberg/" target="_blank" rel="noopener">Erstes Klimaquartier in NRW auf dem Hackenberg</a></h2>
+  <div class="teaser">Bergneustadt-Hackenberg - Die Klimaschutzsiedlung “Am Wiebusch” im Bergneustädter Stadtteil Hackenberg ist letzten Mittwoch (17.05.2023) zum ersten Klimaquartier in Nordrhein-Westfalen gekürt worden. Gleichzeitig gewinnt die geplante Siedlung klare K</div>
+  <div class="info">22.05.2023, 16:26 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/traditionelles-schuetzenfest-zu-pfingsten-670-jahre-schuetzenverein-bergneustadt/" target="_blank" rel="noopener">Traditionelles Schützenfest zu Pfingsten – 670 Jahre Schützenverein Bergneustadt</a></h2>
+  <div class="teaser">Bergneustadt - Das traditionelle Schützen- und Volksfest zu Pfingsten steht vor der Tür. Die Feierlichkeiten zu dem 670-jährigen Jubiläum des Schützenvereins Bergneustadt 1353 e.V. im Krawinkelsaal beginnen am Freitag, den 26. Mai 2023, und dauern bi</div>
+  <div class="info">12.05.2023, 14:26 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/gummersbach/ein-unvergesslicher-abend/" target="_blank" rel="noopener">Ein unvergesslicher Abend</a></h2>
+  <div class="teaser">Gummersbach / Bergneustadt - Für den Ökumenischen Hospizdienst Gummersbach war es ein ganz besonderer Abend: es galt, das 25-jährige Jubiläum in Bergneustadt zu feiern. Der Beitrag Ein unvergesslicher Abend erschien zuerst auf Oberberg-Nachrichten.de</div>
+  <div class="info">03.05.2023, 10:11 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/jaegerhof-genossenschaft-tanzte-stimmungsvoll-in-den-mai/" target="_blank" rel="noopener">Jägerhof-Genossenschaft tanzte stimmungsvoll in den Mai</a></h2>
+  <div class="teaser">Bergneustadt - Stimmungsvoll läutete die Jägerhof-Genossenschaft beim traditionellen „Tanz in den Mai“ am Sonntagabend den „Wonnemonat“ ein. Der Beitrag Jägerhof-Genossenschaft tanzte stimmungsvoll in den Mai erschien zuerst auf Oberberg-Nachrichten.</div>
+  <div class="info">03.05.2023, 08:15 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">April 2023 <span class="monat-count">4</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/fliegen-lernen-auf-dem-duempel-jubilar-macht-es-vor/" target="_blank" rel="noopener">Fliegen lernen auf dem Dümpel – Jubilar macht es vor</a></h2>
+  <div class="teaser">Für alle, die es Erwin nachmachen möchten besteht in diesem Jahr wieder die Möglichkeit, Mitglied im LSC Dümpel zu werden. Der Beitrag Fliegen lernen auf dem Dümpel – Jubilar macht es vor erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">13.04.2023, 08:10 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/bergneustadt-schwimmt-wieder/" target="_blank" rel="noopener">Bergneustadt schwimmt wieder</a></h2>
+  <div class="teaser">Nach dem durch den Wasserrohrbruch im Freibad in Bergneustadt im Mai 2022 bedingten Totalausfall der Saison 2022 startet die Schwimmsaison 2023 traditionsgemäß am 1.Mai um 9.00 Uhr. Der Beitrag Bergneustadt schwimmt wieder erschien zuerst auf Oberber</div>
+  <div class="info">11.04.2023, 09:00 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/vorsicht-vor-zutraulichen-fuechsen/" target="_blank" rel="noopener">Vorsicht vor zutraulichen Füchsen!</a></h2>
+  <div class="teaser">Bergneustadt - In Videos verschiedener Hundehalter waren Füchse zu sehen, die sich den Spaziergängern bis auf wenige Meter näherten und sie teils sogar verfolgten. Der Beitrag Vorsicht vor zutraulichen Füchsen! erschien zuerst auf Oberberg-Nachrichte</div>
+  <div class="info">04.04.2023, 15:44 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/gemeinsames-fastenbrechen-im-krawinkelsaal/" target="_blank" rel="noopener">Gemeinsames Fastenbrechen im Krawinkelsaal</a></h2>
+  <div class="teaser">Bergneustadt - Am gestrigen Montagabend (03.04.2023) lud der Moscheeverein zum Fastenbrechen in den Krawinkelsaal in Bergneustadt ein. Der Beitrag Gemeinsames Fastenbrechen im Krawinkelsaal erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">04.04.2023, 11:57 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">März 2023 <span class="monat-count">5</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/sonnenschule-mit-neuer-kletterbruecke/" target="_blank" rel="noopener">Sonnenschule mit neuer Kletterbrücke</a></h2>
+  <div class="teaser">Bergneustadt - Die Kletterbrücke ist vielleicht die größte Veränderung auf dem Schulhof, dank der hohen Spendenbereitschaft ist sie allerdings nicht die Einzige. Der Beitrag Sonnenschule mit neuer Kletterbrücke erschien zuerst auf Oberberg-Nachrichte</div>
+  <div class="info">30.03.2023, 14:21 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/22-ausbildungsboerse-in-bergneustadt/" target="_blank" rel="noopener">22. Ausbildungsbörse in Bergneustadt</a></h2>
+  <div class="teaser">Das letzte Mal hatten Unternehmen 2019 die Chance, sich und ihre Ausbildungsplätze vorzustellen. Obwohl die Veranstaltung dieses Jahr zunächst abgesagt werden sollte, aufgrund von Personalmangel und Nachholbedarf intern durch Corona, findet sie nun d</div>
+  <div class="info">28.03.2023, 13:25 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/der-schaeferhundeverein-in-bergneustadt/" target="_blank" rel="noopener">Der Schäferhundeverein in Bergneustadt</a></h2>
+  <div class="teaser">Der Verein geht auf jegliche Wünsche ein und macht das möglich, was möglich ist. In der Regel bekommt jeder Einzelunterricht, um auf die jeweiligen Wünsche richtig eingehen zu können. Aber auch Gruppentraining steht auf der Agenda. Der Beitrag Der Sc</div>
+  <div class="info">07.03.2023, 14:44 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/klimaschutzkonzept-vorgestellt/" target="_blank" rel="noopener">Klimaschutzkonzept vorgestellt</a></h2>
+  <div class="teaser">Bergneustadt - Das Klimaschutzkonzept muss bis zum 30. Juni fertiggestellt und eingereicht werden, anschließend sind noch geringfügige Anpassungen möglich. Der Beitrag Klimaschutzkonzept vorgestellt erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">02.03.2023, 15:34 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/gruenflaechenkonzept-klima-und-artenschutz-auch-im-kleinen/" target="_blank" rel="noopener">Grünflächenkonzept: Klima- und Artenschutz auch im Kleinen</a></h2>
+  <div class="teaser">Bergneustadt - In Zusammenarbeit mit dem Nabu in Bergneustadt haben Verwaltung und Umweltausschuss mit der Erstellung eines Grünflächenkonzeptes begonnen. Der Beitrag Grünflächenkonzept: Klima- und Artenschutz auch im Kleinen erschien zuerst auf Ober</div>
+  <div class="info">02.03.2023, 11:15 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Februar 2023 <span class="monat-count">4</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/verfuegungsfonds-foerderung-fuer-kleine-projekte-in-altstadt-und-stadtmitte/" target="_blank" rel="noopener">Verfügungsfonds: Förderung für kleine Projekte in Altstadt und Stadtmitte</a></h2>
+  <div class="teaser">Bergneustadt - Um kreative Ideen und das ehrenamtliche Engagement lokaler Akteure für Bergneustadt zu fördern steht unter der Bezeichnung „Verfügungsfonds“ jährlich ein Budget zur Finanzierung kleiner und mittelgroßer Projekte zur Verfügung. Der Beit</div>
+  <div class="info">28.02.2023, 14:51 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/gaststaette-jaegerhof-bleibt-weiter-geoeffnet/" target="_blank" rel="noopener">Gaststätte Jägerhof bleibt weiter geöffnet</a></h2>
+  <div class="teaser">Bergneustadt - Die Gaststätte Jägerhof in Bergneustadts Altstadt bleibt weiter geöffnet. Das teilte die Jägerhof Genossenschaft mit. Der Beitrag Gaststätte Jägerhof bleibt weiter geöffnet erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">27.02.2023, 09:28 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/stadtrat-streit-um-gehoelzarbeiten-rund-um-den-talpark/" target="_blank" rel="noopener">Stadtrat: Streit um Gehölzarbeiten rund um den Talpark</a></h2>
+  <div class="teaser">Bergneustadt - Die Gehölzarbeiten im künftigen “Talpark” waren in der vorherigen Sitzung am 24. Januar und auch in Sozialen Netzwerken bereits Thema und sorgten für Verwirrung auf allen Seiten. Der Beitrag Stadtrat: Streit um Gehölzarbeiten rund um d</div>
+  <div class="info">23.02.2023, 13:18 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/spendenaufruf-caritas-moschee-gemeinde-und-diakonie-sammeln-fuer-erdbeben-unterstuetzung/" target="_blank" rel="noopener">Spendenaufruf: Caritas, Moschee Gemeinde und Diakonie sammeln für Erdbeben-Unterstützung</a></h2>
+  <div class="teaser">Bergneustadt / Oberberg - Die Caritas Oberberg, die Moschee Gemeinde Bergneustadt und die Diakonie Evangelischer Kirchenkreis An der Agger haben einen gemeinsamen Spendenaufruf veröffentlicht. Die Spenden sollen den Betroffenen des Erdbebens in Syrie</div>
+  <div class="info">08.02.2023, 16:18 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Januar 2023 <span class="monat-count">3</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/haushaltsreden-2023-ein-blick-auf-schwerpunkte/" target="_blank" rel="noopener">Haushaltsreden 2023: Ein Blick auf Schwerpunkte</a></h2>
+  <div class="teaser">Bergneustadt - An den Haushaltsreden der verschiedenen Fraktionen im Stadtrat lassen sich deren aktuelle Schwerpunkte gut erkennen. Viele dieser aktuellen Schwerpunkte greifen Thematiken auf, die bereits im Wahlkampf ausführlich debattiert wurden, ab</div>
+  <div class="info">25.01.2023, 11:01 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/info-abend-im-jaegerhof-helfer-fuer-weiteren-gaststaettenbetrieb-waehrend-umbau-gesucht/" target="_blank" rel="noopener">Info-Abend im Jägerhof: Helfer für weiteren Gaststättenbetrieb während Umbau gesucht</a></h2>
+  <div class="teaser">Bergneustadt – Die Genossenschaft Jägerhof lädt am Donnerstag, dem 26. Januar 2023 ab 19 Uhr zu einem öffentlichen Info-Abend in den Jägerhof (Bergneustadt, Hauptstr. 47) ein, bei dem über die Aufrechterhaltung des Gaststättenbetriebs in den nächsten</div>
+  <div class="info">24.01.2023, 09:49 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/33-neustadtturnier-und-14-karnevalparty-des-fcwo/" target="_blank" rel="noopener">33. Neustadtturnier und 14. KarnevalParty des FCWO</a></h2>
+  <div class="teaser">Bergneustadt - Die Teams nehmen teils hunderte Kilometer Anreise auf sich um bei dem Turnier und vor allem bei der KarnevalParty am Abend dabei sein zu können. Der Beitrag 33. Neustadtturnier und 14. KarnevalParty des FCWO erschien zuerst auf Oberber</div>
+  <div class="info">16.01.2023, 11:39 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Dezember 2022 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/bergneustadt/belvona-heizungen-ausgefallen-stadt-bergneustadt-springt-ein/" target="_blank" rel="noopener">belvona: Heizungen ausgefallen, Stadt Bergneustadt springt ein</a></h2>
+  <div class="teaser">Bergneustadt - Wie vielen bereits bekannt ist, ist die Heizungsanlage in den Wohnungen der belvona in der &quot;Danziger Straße&quot; und &quot;Königsberger Straße&quot; seit vergangenem Freitag (16.12.2022) ausgefallen. Der Beitrag belvona: Heizungen ausgefallen, Stadt</div>
+  <div class="info">21.12.2022, 14:47 Uhr · Oberberg Nachrichten</div>
+</div>
+</div></div>
+</main>
+<footer>
+  <a href="../index.html">Bergneustadt</a> · Archiv · Aktualisiert: 22.10.2026, 22:19 Uhr<br>
+  <a href="/ai-tageszeitung/impressum/">Impressum</a> · <a href="/ai-tageszeitung/rechtliches/">Rechtliche Hinweise</a> · <a href="/ai-tageszeitung/rechtliches/#datenschutz">Datenschutz</a><br>
+  <a href="https://github.com/dna-dieter/ai-tageszeitung/actions/workflows/update.yml">GitHub</a>
+</footer>
+
+<script>
+(function() {
+  // Button nur für Betreiber: sichtbar mit ?admin in der Adresse (wird gemerkt), ?admin=aus blendet ihn wieder aus.
+  try {
+    const p = new URLSearchParams(location.search);
+    if (p.has('admin')) {
+      if (p.get('admin') === 'aus') localStorage.removeItem('ai_tz_admin');
+      else localStorage.setItem('ai_tz_admin', '1');
+    }
+    if (localStorage.getItem('ai_tz_admin') === '1') {
+      const b = document.getElementById('btn-refresh');
+      if (b) b.hidden = false;
+    }
+  } catch (e) {}
+  const REPO = 'dna-dieter/ai-tageszeitung';
+  const WORKFLOW = 'update.yml';
+  const TOKEN_KEY = 'ai_tz_github_token';
+  const API = 'https://api.github.com';
+
+  function getToken() {
+    let t = localStorage.getItem(TOKEN_KEY);
+    if (!t) {
+      t = prompt(
+        'Einmaliger Setup: Bitte GitHub Personal Access Token eingeben.\n\n' +
+        'Der Token braucht Berechtigung "Actions: Read and write" auf diesem Repo.\n' +
+        'Der Token wird nur lokal in deinem Browser gespeichert.'
+      );
+      if (t) {
+        t = t.trim();
+        localStorage.setItem(TOKEN_KEY, t);
+      }
+    }
+    return t;
+  }
+
+  function setStatus(msg) {
+    const el = document.getElementById('refresh-status');
+    if (el) el.textContent = msg;
+  }
+
+  function setButton(loading, label) {
+    const btn = document.getElementById('btn-refresh');
+    if (!btn) return;
+    btn.disabled = loading;
+    btn.classList.toggle('loading', loading);
+    btn.innerHTML = loading
+      ? '<span class="spinner"></span> ' + (label || 'Aktualisiere...')
+      : '\u21bb ' + (label || 'Jetzt aktualisieren');
+  }
+
+  async function gh(path, opts) {
+    const token = getToken();
+    if (!token) throw new Error('Kein Token');
+    const res = await fetch(API + path, Object.assign({
+      headers: {
+        'Accept': 'application/vnd.github+json',
+        'Authorization': 'Bearer ' + token,
+        'X-GitHub-Api-Version': '2022-11-28'
+      }
+    }, opts || {}));
+    return res;
+  }
+
+  async function triggerWorkflow() {
+    const res = await gh('/repos/' + REPO + '/actions/workflows/' + WORKFLOW + '/dispatches', {
+      method: 'POST',
+      headers: {
+        'Accept': 'application/vnd.github+json',
+        'Authorization': 'Bearer ' + getToken(),
+        'X-GitHub-Api-Version': '2022-11-28',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ ref: 'main' })
+    });
+    if (res.status === 401 || res.status === 403) {
+      localStorage.removeItem(TOKEN_KEY);
+      throw new Error('Token ungültig oder abgelaufen (gelöscht, bitte neu eingeben)');
+    }
+    if (!res.ok) {
+      const text = await res.text();
+      throw new Error('Trigger fehlgeschlagen: ' + res.status + ' ' + text.slice(0, 120));
+    }
+  }
+
+  async function findRun(triggeredAt) {
+    const res = await gh('/repos/' + REPO + '/actions/workflows/' + WORKFLOW + '/runs?per_page=5&event=workflow_dispatch');
+    if (!res.ok) return null;
+    const data = await res.json();
+    const runs = data.workflow_runs || [];
+    for (const r of runs) {
+      const created = new Date(r.created_at).getTime();
+      if (created >= triggeredAt - 10000) return r;
+    }
+    return null;
+  }
+
+  async function waitForCompletion(triggeredAt) {
+    const deadline = Date.now() + 6 * 60 * 1000; // max 6 min
+    let run = null;
+    // find the run (kann ein paar Sekunden dauern)
+    while (!run && Date.now() < deadline) {
+      await new Promise(r => setTimeout(r, 3000));
+      run = await findRun(triggeredAt);
+      if (!run) setStatus('Starte Workflow...');
+    }
+    if (!run) throw new Error('Workflow-Lauf nicht gefunden');
+
+    while (Date.now() < deadline) {
+      const res = await gh('/repos/' + REPO + '/actions/runs/' + run.id);
+      if (!res.ok) break;
+      const r = await res.json();
+      setStatus('Status: ' + (r.status || '?') + (r.conclusion ? ' (' + r.conclusion + ')' : ''));
+      if (r.status === 'completed') return r;
+      await new Promise(res => setTimeout(res, 5000));
+    }
+    throw new Error('Timeout beim Warten');
+  }
+
+  window.triggerRefresh = async function() {
+    try {
+      const token = getToken();
+      if (!token) return;
+      setButton(true, 'Starte...');
+      setStatus('Sende Trigger an GitHub...');
+      const t0 = Date.now();
+      await triggerWorkflow();
+      setStatus('Workflow gestartet, warte auf Abschluss...');
+      const run = await waitForCompletion(t0);
+      if (run.conclusion === 'success') {
+        setStatus('Fertig! Lade Seite neu...');
+        // Kurz warten bis GitHub Pages deployed hat
+        setTimeout(() => location.reload(), 30000);
+        setStatus('Fertig! Seite lädt in 30s neu (GitHub Pages Deploy)...');
+      } else {
+        setButton(false);
+        setStatus('Fehlgeschlagen: ' + run.conclusion);
+      }
+    } catch (e) {
+      setButton(false);
+      setStatus('Fehler: ' + e.message);
+    }
+  };
+})();
+</script>
+
+</body></html>

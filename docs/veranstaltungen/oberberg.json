@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Die Wiehltalsperre - Wie kommt das Wasser zu uns?",
-    "datum": "22. Okt 2026",
-    "datum_raw": "2026-10-22T13:00:00+02:00",
-    "ort": "Schieberhaus der Wiehltalsperre, Talsperrenstr. 1, 51580 Reichshof",
-    "preis": "",
-    "link": "http://www.ferienland-reichshof.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Faszination Wasser - Talsperren und Wasserwerksbesichtigung Was geschieht in der Wiehltalsperre und dem Entnahmeturm, damit unser Wasser trinkbar ist? Diese und viele weitere Dinge zur Trinkwassertalsperre im Oberbergisc"
-  },
-  {
     "titel": "Meister Eder und sein Pumuckl (Figurentheater)",
     "datum": "22. Okt 2026",
     "datum_raw": "2026-10-22T16:00:00+02:00",
@@ -398,5 +388,15 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Es wird wieder gruselig in der Erzquell Brauerei! Am Samstag, den 31. Oktober 2026, lädt die Brauerei zur ZUNFT Halloween Party ein. Gefeiert wird dort, wo jedes Jahr die legendäre Rosenmontagsparty steigt: in der bekann"
+  },
+  {
+    "titel": "Herbstkonzert des Musikkreises Holpe e.V.",
+    "datum": "31. Okt 2026",
+    "datum_raw": "2026-10-31T19:30:00+01:00",
+    "ort": "Kulturstätte, Hahner Straße, 51597 Morsbach",
+    "preis": "ab 12 €",
+    "link": "https://www.musikkreis-holpe.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Es ist wieder soweit und unser alljährliches Herbstkonzert steht an und vielleicht wird es diesmal auch ein kleines bisschen unheimlich. Kommt vorbei, lehnt euch zurück und genießt einen musikalischen Abend zwischen Gäns"
   }
 ]

@@ -1,0 +1,1404 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hückeswagen – Archiv — AI Tageszeitung</title>
+<style>
+:root {
+  --rbk-blau: #1B3A5C;
+  --rbk-rot: #C0392B;
+  --rbk-grau: #F5F5F5;
+  --akzent: #2980B9;
+  --text: #2C3E50;
+  --bg: #FAFAFA;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: Georgia, 'Times New Roman', serif; color: var(--text); background: var(--bg); line-height: 1.6; }
+header { background: var(--rbk-blau); color: white; padding: 14px 24px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px; }
+header h1 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.8rem; letter-spacing: 2px; font-weight: 800; }
+header .sub { font-size: 0.9rem; opacity: 0.85; }
+header .meta { font-size: 0.8rem; text-align: right; opacity: 0.9; }
+.live-dot { display: inline-block; width: 8px; height: 8px; background: #2ECC71; border-radius: 50%; margin-right: 4px; animation: pulse 2s infinite; }
+@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
+.ticker { background: var(--rbk-rot); color: white; padding: 7px 24px; font-size: 0.85rem; font-family: sans-serif; }
+.ticker b { margin-right: 8px; }
+nav { background: white; border-bottom: 2px solid var(--rbk-blau); padding: 8px 24px; display: flex; flex-wrap: wrap; gap: 3px; }
+nav a { font-family: sans-serif; font-size: 0.82rem; padding: 5px 12px; text-decoration: none; color: var(--rbk-blau); border-radius: 4px; transition: all 0.2s; }
+nav a:hover, nav a.active { background: var(--rbk-blau); color: white; }
+nav .sep { color: #ccc; padding: 5px 2px; font-family: sans-serif; font-size: 0.82rem; }
+main { max-width: 1200px; margin: 20px auto; padding: 0 16px; }
+.grid { display: grid; grid-template-columns: 2fr 1fr; gap: 20px; }
+.artikel { background: white; border-radius: 6px; padding: 16px 18px; border-left: 4px solid var(--akzent); box-shadow: 0 1px 3px rgba(0,0,0,0.08); margin-bottom: 14px; transition: box-shadow 0.2s; }
+.artikel:hover { box-shadow: 0 3px 12px rgba(0,0,0,0.12); }
+.artikel .tag { font-family: sans-serif; font-size: 0.72rem; font-weight: 700; color: var(--rbk-rot); text-transform: uppercase; letter-spacing: 1px; }
+.artikel .tag.bericht { color: var(--rbk-blau); margin-left: 8px; }
+.artikel h2 { font-size: 1.15rem; margin: 4px 0; line-height: 1.3; }
+.artikel h2 a { color: var(--text); text-decoration: none; }
+.artikel h2 a:hover { color: var(--akzent); }
+.artikel .teaser { font-size: 0.9rem; color: #555; margin: 6px 0; }
+.artikel .info { font-family: sans-serif; font-size: 0.75rem; color: #888; }
+.sidebar-box { background: white; border-radius: 6px; padding: 14px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); margin-bottom: 14px; }
+.sidebar-box h3 { font-family: sans-serif; font-size: 0.85rem; color: var(--rbk-blau); border-bottom: 2px solid var(--rbk-blau); padding-bottom: 5px; margin-bottom: 10px; }
+.k-links { list-style: none; }
+.k-links li { margin: 6px 0; }
+.k-links a { font-family: sans-serif; font-size: 0.85rem; color: var(--text); text-decoration: none; display: flex; justify-content: space-between; }
+.k-links a:hover { color: var(--akzent); }
+.badge { background: var(--rbk-grau); padding: 1px 8px; border-radius: 10px; font-size: 0.75rem; }
+footer { background: var(--rbk-blau); color: white; text-align: center; padding: 16px; margin-top: 30px; font-size: 0.8rem; font-family: sans-serif; }
+footer a { color: #85C1E9; }
+.legal { max-width: 720px; }
+.legal h2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.15rem; color: var(--rbk-blau); margin: 22px 0 8px; }
+.legal p, .legal li { margin: 0 0 10px; }
+.legal ul { padding-left: 1.2rem; }
+.legal .hinweis { background: #fff8e6; border-left: 4px solid var(--rbk-rot); padding: 10px 14px; margin-bottom: 16px; }
+.empty { text-align: center; padding: 40px; color: #999; font-size: 1.1rem; }
+.rat-block { margin: 4px 0 26px; }
+.rat-block h2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.15rem; color: var(--rbk-blau); margin: 0 0 10px; }
+.rat-hero { background: white; border-left: 4px solid var(--rbk-rot); border-radius: 6px; padding: 16px 18px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+.rat-hero .wann { font-family: sans-serif; font-size: 0.78rem; font-weight: 700; color: var(--rbk-rot); letter-spacing: 0.04em; text-transform: uppercase; }
+.rat-hero h3 { font-size: 1.25rem; margin: 4px 0; }
+.rat-liste { list-style: none; }
+.rat-liste li { background: white; border-radius: 6px; padding: 12px 16px; margin-bottom: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+.rat-liste .wann { font-family: sans-serif; font-size: 0.82rem; color: var(--rbk-blau); font-weight: 700; }
+.rat-liste .ort { font-family: sans-serif; font-size: 0.8rem; color: #666; }
+.rat-quelle { font-family: sans-serif; font-size: 0.8rem; color: #666; margin-top: 8px; }
+.monat-gruppe { margin-bottom: 8px; }
+.monat-header { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.05rem; color: var(--rbk-blau); border-bottom: 2px solid var(--rbk-blau); padding: 8px 0 5px 0; margin: 18px 0 10px 0; display: flex; align-items: center; gap: 8px; }
+.monat-header:first-child { margin-top: 0; }
+.monat-count { background: var(--rbk-blau); color: white; font-size: 0.72rem; padding: 1px 8px; border-radius: 10px; font-weight: 400; }
+.btn-refresh { display: inline-flex; align-items: center; gap: 5px; font-family: sans-serif; font-size: 0.78rem; padding: 5px 14px; background: #2ECC71; color: white; border: none; border-radius: 4px; text-decoration: none; cursor: pointer; transition: background 0.2s; margin-top: 4px; }
+.btn-refresh[hidden], .refresh-status[hidden] { display: none; }
+.btn-refresh:hover { background: #27AE60; color: white; }
+.btn-refresh:disabled, .btn-refresh.loading { background: #95A5A6; cursor: wait; opacity: 0.8; }
+.btn-refresh .spinner { display: inline-block; width: 10px; height: 10px; border: 2px solid rgba(255,255,255,0.3); border-top-color: white; border-radius: 50%; animation: spin 0.8s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+.refresh-status { font-size: 0.72rem; color: rgba(255,255,255,0.85); margin-top: 4px; min-height: 14px; font-family: sans-serif; }
+.kreis-nav { background: var(--rbk-blau); padding: 6px 24px; display: flex; gap: 12px; }
+.kreis-nav a { font-family: sans-serif; font-size: 0.85rem; color: rgba(255,255,255,0.7); text-decoration: none; padding: 4px 10px; border-radius: 4px; }
+.kreis-nav a:hover, .kreis-nav a.active { color: white; background: rgba(255,255,255,0.15); }
+@media (max-width: 768px) { .grid { grid-template-columns: 1fr; } header h1 { font-size: 1.3rem; } }
+</style>
+</head>
+<body>
+<div class="kreis-nav">
+  <a href="/ai-tageszeitung/">Rhein-Berg</a>
+  <a href="/ai-tageszeitung/oberberg/">Oberberg</a>
+  <a href="/ai-tageszeitung/veranstaltungen/">📅 Veranstaltungen</a>
+</div>
+<header>
+  <div>
+    <h1>Hückeswagen – Archiv</h1>
+    <div class="sub">AI Tageszeitung · Oberbergischer Kreis</div>
+  </div>
+  <div class="meta">
+    <div><span class="live-dot"></span>181 Artikel</div>
+    <div>22.10.2026, 22:19 Uhr</div>
+    <button type="button" onclick="triggerRefresh()" class="btn-refresh" id="btn-refresh" hidden>&#x21bb; Jetzt aktualisieren</button>
+    <div class="refresh-status" id="refresh-status"></div>
+  </div>
+</header>
+<nav><a href="../index.html">&larr; Zurück zu Hückeswagen</a></nav>
+<main>
+  <div><div class="monat-gruppe">
+<h2 class="monat-header">Juli 2026 <span class="monat-count">53</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/206227/oberberg-einbruch-diebstahl/" target="_blank" rel="noopener">Oberberg: Einbruch und Diebstahl – Verrückt! Täter flüchtet in fremden Schuhen (3 Meldungen)</a></h2>
+  <div class="teaser">Einbruch und Diebstahl in Oberberg: In Wipperfürth, Hückeswagen und Nümbrecht schlugen Unbekannte binnen zwei Tagen zu. Die Polizei sucht Zeugen.</div>
+  <div class="info">24.07.2026, 12:17 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6320658" target="_blank" rel="noopener">POL-GM: Einbruch in Hückeswagener Eiscafé</a></h2>
+  <div class="teaser">Hückeswagen (ots) - In der Nacht von Mittwoch auf Donnerstag (22./23. Juli) sind Unbekannte in ein Eiscafé in der Straße &quot;Bahnhofsplatz&quot; eingebrochen. Die Kriminellen hebelten die Notausgangstür auf, gelangten in die Räumlichkeiten und ...</div>
+  <div class="info">24.07.2026, 10:25 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/firmenneubau-als-vertrauen-in-die-zukunft-MSIOWU6VGOXBQ4KGP7VY5HU4BY.html" target="_blank" rel="noopener">Firmenneubau als Vertrauen in die Zukunft</a></h2>
+  <div class="teaser">35 Jahre nach der Gründung in Remscheid wagt die BS Rollen GmbH den nächsten Schritt: Im Gewerbegebiet West 3 entsteht eine neue Produktionsstätte mit modernen Arbeitsplätzen.</div>
+  <div class="info">24.07.2026, 02:01 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/bauarbeiter-stossen-auf-menschliche-knochen-und-historisches-pflaster-QLXFK5757ETTCPGJYCZI37NQUU.html" target="_blank" rel="noopener">Bauarbeiter stoßen auf menschliche Knochen und historisches Pflaster</a></h2>
+  <div class="teaser">Der Landschaftsverband Rheinland prüft nun die Bedeutung der Funde. Die laufenden Bodenarbeiten wurden vorerst gestoppt.</div>
+  <div class="info">24.07.2026, 00:10 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/liebe-im-bergischen-elena-berg-ueber-selbstliebe-depressionen-gewichtsabnahme-und-instagram-UEBWMUFYUNHKHP5VAPKJY254F4.html" target="_blank" rel="noopener">Liebe im Bergischen: Elena Berg über Selbstliebe, Depressionen, Gewichtsabnahme und Instagram</a></h2>
+  <div class="teaser">Liebe im Bergischen: Elena Berg hat schwere Jahre hinter sich – geprägt von Depressionen, Panikattacken, Essstörung, Therapie und einer Magen-Operation. Heute spricht die 30-Jährige offen über ihren Weg und darüber, wie sie gelernt hat, sich selbst a</div>
+  <div class="info">23.07.2026, 17:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/206198/hueckeswagen-verkehrsunfall-b237/" target="_blank" rel="noopener">Hückeswagen: Verkehrsunfall – Bus crasht mit Honda – Seniorin schwer verletzt</a></h2>
+  <div class="teaser">Verkehrsunfall in Hückeswagen: Ein Bus kollidiert auf der B237 mit einem Honda. Eine 80-jährige Autofahrerin wird schwer verletzt.</div>
+  <div class="info">23.07.2026, 16:32 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/zusammenstoss-mit-omnibus-in-winterhagen-GD72EY7N6456ZN5UFPZMNSCYHY.html" target="_blank" rel="noopener">Zusammenstoß mit Omnibus in Winterhagen</a></h2>
+  <div class="teaser">Am Mittwoch kam es an der Kreuzung „B237/Industriestraße/Winterhagen“ zu einem Verkehrsunfall, an dem ein Auto und ein Omnibus beteiligt waren.</div>
+  <div class="info">23.07.2026, 13:07 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6320062" target="_blank" rel="noopener">POL-GM: Bus stößt mit Auto zusammen</a></h2>
+  <div class="teaser">Hückeswagen (ots) - Am Mittwoch (22. Juli) kam es an der Kreuzung &quot;B237/Industriestraße/Winterhagen&quot; zu einem Verkehrsunfall, an dem ein Auto und ein Omnibus beteiligt waren. Ein 28-jähriger Busfahrer war auf der B237 aus Remscheid in Richtung ...</div>
+  <div class="info">23.07.2026, 11:55 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/206093/hueckeswagen-kinderdorf-spende/" target="_blank" rel="noopener">Hückeswagen: Kinderdorf bekommt 150 Euro Unterstützung</a></h2>
+  <div class="teaser">Kinderdorf Hückeswagen erhält 150 Euro von der FaB. Das Ferienprojekt 2026 bietet 80 Kindern zwei Wochen Programm und Mitbestimmung.</div>
+  <div class="info">22.07.2026, 03:18 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/koelsche-toen-mit-kaschaemm-zum-auftakt-unterm-schloss-P6VHT3VSOSQE7FOUVNQWQ6UHZE.html" target="_blank" rel="noopener">Kölsche Tön‘ mit „Kaschämm“ zum Auftakt „unterm Schloss“</a></h2>
+  <div class="teaser">Die vierteilige Konzertreihe startet am 7. August. Bis Ende des Monats gibt es freitagabends an der ehemaligen Feuerwehrwache Livemusik. So sieht das Line-up aus.</div>
+  <div class="info">22.07.2026, 00:07 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/freizeittipps-zum-wochenende-hier-ist-im-bergischen-was-los-VHQFTG3UEZBTRBKAG3JZKVM7LE.html" target="_blank" rel="noopener">Freizeittipps zum Wochenende: Hier ist im Bergischen was los</a></h2>
+  <div class="teaser">In der ersten Ferienwoche gibt es ganz bestimmt keine Langeweile. Auf dem Rathausplatz startet das Löwen-Festival, irisches Flair gibt es in Lennep – und Lüttringhausen wird zu Klein-Italien. Der Feierabendmarkt macht auf dem Hasten halt und am Sonnt</div>
+  <div class="info">21.07.2026, 17:30 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/206054/hueckeswagen-knochenfund-schloss/" target="_blank" rel="noopener">Hückeswagen: Knochenfund stoppt Bauarbeiten im Schloss</a></h2>
+  <div class="teaser">Historischer Fund und altes Pflaster: Beim Schlossumbau ruhen die Bodenarbeiten, während die Bodendenkmalpflege die Funde vor Ort prüft.</div>
+  <div class="info">21.07.2026, 11:11 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/merkels-politisches-schlachtross-wird-80-NCCTRSIEK33GPYCFHREHFG4VBI.html" target="_blank" rel="noopener">Merkels „politisches Schlachtross“ wird 80</a></h2>
+  <div class="teaser">Heute wird der frühere oberbergische Bundestagsabgeordnete Friedhelm Julius Beucher 80 Jahre alt. Der Ruhestand muss trotzdem warten.</div>
+  <div class="info">21.07.2026, 03:10 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/hueckeswagen-schuetzenfestkirmes-mit-stabilen-preisen-familientag-am-montag-3VC6OUR3KHFQIJ5DPRA2PIEL5A.html" target="_blank" rel="noopener">Hückeswagen: Schützenfestkirmes mit stabilen Preisen – Familientag am Montag</a></h2>
+  <div class="teaser">Während Familien auf ein bezahlbares Vergnügen hoffen und Jugendliche sich mehr Fahrgeschäfte wünschen, setzen die Schausteller auf stabile Preise und gute Atmosphäre.</div>
+  <div class="info">20.07.2026, 04:58 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/lesefoerderung-schueler-trainieren-schueler-in-hueckeswagen-JXBTQWIBHT5CIKCT63DACNIOKA.html" target="_blank" rel="noopener">Leseförderung – Schüler trainieren Schüler in Hückeswagen</a></h2>
+  <div class="teaser">Weil viele Montanusschüler in der fünften Klasse nicht auf dem eigentlich nötigen Leseniveau sind, gibt es seit einigen Jahren spezielle Leseförderung für die Kinder. Das Besondere aber ist: Die Kinder helfen sich gegenseitig.</div>
+  <div class="info">18.07.2026, 01:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/hueckeswagen-zukunftswerkstatt-hat-die-jugend-im-blick-NMA5B45AQ2JNKXMQP6PNYLABJY.html" target="_blank" rel="noopener">Hückeswagen: Zukunftswerkstatt hat die Jugend im Blick</a></h2>
+  <div class="teaser">Wie hat sich die Zukunftsschmiede des Berufskollegs entwickelt, die vor gut einem Jahr eröffnet wurde? Das Angebot entstand als Fortführung der Idee einer Junior-Akademie. Kinder und Jugendliche sollen in den MINT-Fächern gefördert werden.</div>
+  <div class="info">17.07.2026, 01:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/nach-dem-toedlichen-badeunfall-was-ist-dem-jungen-mann-im-wasser-geschehen-WWEUFUE76NBVZLQYNPJ5CWWPE4.html" target="_blank" rel="noopener">Nach dem tödlichen Badeunfall: Was ist dem jungen Mann im Wasser geschehen?</a></h2>
+  <div class="teaser">Das Ufer bei Hammerstein ist bei Badenden beliebt. Doch im Bereich des alten Bachbetts der Wupper fällt das seichte Ufer steil ab. Der Wupperverband mahnt deshalb: Das Baden ist dort verboten.</div>
+  <div class="info">16.07.2026, 14:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/die-nacht-des-hochwasser-horrors-in-hueckeswagen-FUBFTROSX45KRJJUILQVTBLMBY.html" target="_blank" rel="noopener">Die Nacht des Hochwasser-Horrors in Hückeswagen</a></h2>
+  <div class="teaser">160 Liter Regen pro Quadratmeter, 800 evakuierte Menschen, ein Damm kurz vor dem Bruch: Eine Chronik der Nacht vom 14./15. Juli 2021.</div>
+  <div class="info">16.07.2026, 01:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/kulturtipps-das-ist-in-den-kommenden-tagen-im-bergischen-land-los-P27QKN4FXJETPDGDPOIMN3LHTA.html" target="_blank" rel="noopener">Kulturtipps: Das ist in den kommenden Tagen im Bergischen Land los</a></h2>
+  <div class="teaser">Die letzte Woche vor den Ferien und das erste Ferienwochenende locken mit Open-Air-Veranstaltungen: Die Symphoniker spielen in den Stadtteilen, das Kino an der Gelben Villa zeigt „Das Kanu des Manitu“, im Stadtpark gibt es mit Privacy und Riff richti</div>
+  <div class="info">15.07.2026, 17:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/mit-gesteigerter-leselust-in-die-sommerferien-JAMSXB7ZTAYHZ5TPHS7UNLLWIQ.html" target="_blank" rel="noopener">Mit gesteigerter Leselust in die Sommerferien</a></h2>
+  <div class="teaser">In der Bergischen Buchhandlung trafen am Freitagabend erneut Sekt und Lektüreempfehlungen aufeinander. Die Expertinnen und ein „Special Guest“ stellten insgesamt acht Bücher vor.</div>
+  <div class="info">15.07.2026, 01:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/insolvenzen-in-solingen-und-remscheid-firmen-haben-weiter-probleme-7NP6BASGJJDAVO63DUMIXSLVMQ.html" target="_blank" rel="noopener">Insolvenzen in Solingen und Remscheid: Firmen haben weiter Probleme</a></h2>
+  <div class="teaser">Die Wirtschaftsauskunftei Creditreform hat in der Region rund um die Großstädte Solingen, Remscheid und Leverkusen 180 Insolvenzen im ersten Halbjahr ermittelt. Das ist ein ordentlicher Sprung nach oben, der viele Mitarbeiter und Familien in der Regi</div>
+  <div class="info">14.07.2026, 07:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/ein-sommerfest-in-hueckeswagen-wie-aus-dem-bilderbuch-5NI54FUTYHRUTFJD255MS6ZYGY.html" target="_blank" rel="noopener">Ein Sommerfest in Hückeswagen wie aus dem Bilderbuch</a></h2>
+  <div class="teaser">Beim Sommerfest der DLRG herrschte am Wochenende Hochbetrieb. Aus gutem Grund: Die Ehrenamtlichen hatten an alles gedacht – vom Eiswagen über Livemusik bis zum Feuerwerk.</div>
+  <div class="info">14.07.2026, 01:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205642/hueckeswagen-badeunfall-wuppertalsperre/" target="_blank" rel="noopener">Hückeswagen: Badeunfall an Wuppertalsperre – Mann (20) stirbt</a></h2>
+  <div class="teaser">Ein tragischer Badeunfall ereignete sich in Hückeswagen an der Wuppertalsperre: Ein 20-Jähriger wurde nach dem Untergehen tot geborgen. Ermittlungen laufen.</div>
+  <div class="info">13.07.2026, 18:39 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/tragischer-badeunfall-an-der-wuppertalsperre-dlrg-remscheid-war-beim-einsatz-dabei-T6P74LPB7ZBPHC277OBNFF6UEE.html" target="_blank" rel="noopener">Tragischer Badeunfall an der Wuppertalsperre: DLRG Remscheid war beim Einsatz dabei</a></h2>
+  <div class="teaser">Die DLRG Remscheid war bei dem tragischen Badeunfall an der Wuppertalsperre am Sonntag ebenfalls vor Ort. So lief der Einsatz für die Ehrenamtlichen.</div>
+  <div class="info">13.07.2026, 16:25 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/tragischer-badeunfall-an-der-wuppertalsperre-familie-kann-20-jaehrigem-nicht-helfen-CCDCXIENABDURFXH7QO2HPNQLE.html" target="_blank" rel="noopener">Tragischer Badeunfall an der Wuppertalsperre: Familie kann 20-Jährigem nicht helfen</a></h2>
+  <div class="teaser">Am Ufer in Hammerstein: Taucher der DLRG finden den Hückeswagener vier Stunden nach seinem Verschwinden. Kripo sucht nach der Ursache des tragischen Badeunfalls.</div>
+  <div class="info">13.07.2026, 14:07 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/remscheid-das-sind-die-gefahren-in-der-wuppertalsperre-2ATSBN7PNJDEDMTPH43YBTBLKE.html" target="_blank" rel="noopener">Remscheid: Das sind die Gefahren in der Wuppertalsperre</a></h2>
+  <div class="teaser">Jens Pfitzner ist Leiter des Remscheider Gesundheitsamtes und schwimmt selbst gern in der Talsperre. Er kennt sie genau. Einschließlich ihrer Risiken.</div>
+  <div class="info">13.07.2026, 14:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6313254" target="_blank" rel="noopener">POL-GM: Tragischer Badeunfall in Hückeswagen</a></h2>
+  <div class="teaser">Hückeswagen (ots) - Für einen 20-jährigen Hückeswagener endete am Sonntag (12. Juli) ein Familienausflug zum Baden an der Wuppertalsperre tödlich. Er hatte sich gegen 15:30 Uhr in Höhe der Ortslage &quot;Hammerstein&quot; zum Schwimmen ins Wasser ...</div>
+  <div class="info">13.07.2026, 11:16 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/adac-camper-des-jahres-hueckeswagenerin-wird-vierte-bei-nrw-vorentscheid-SGA4PLLRMHW3OJJABLUX3PQHUA.html" target="_blank" rel="noopener">ADAC Camper des Jahres: Hückeswagenerin wird Vierte bei NRW-Vorentscheid</a></h2>
+  <div class="teaser">Sara Kunze und ihr Vater Ronny Schanze wurden mit ihrem Wohnmobil Willi beim NRW-Vorentscheid zum „ADAC Camper des Jahres 2026“ Vierte.</div>
+  <div class="info">13.07.2026, 03:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205598/huesckeswagen-microcar-ueberschlag/" target="_blank" rel="noopener">Hückeswagen: Microcar überschlägt sich auf B237 – Fahrerin leicht verletzt</a></h2>
+  <div class="teaser">Microcar-Unfall in Hückeswagen: Eine 16-jährige Fahrerin überschlug sich bei einem Überholversuch auf der B237 und wurde leicht verletzt. Das Fahrzeug musste abgeschleppt werden.</div>
+  <div class="info">12.07.2026, 14:32 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/hueckeswagen-unfall-mit-zwei-leicht-verletzten-personen-2ZFF4WTPWJGBFO4555ZBGGFMHM.html" target="_blank" rel="noopener">Hückeswagen: Unfall mit zwei leicht verletzten Personen</a></h2>
+  <div class="teaser">Einsatz für die Retter: Im Bereich der Wiehagener Straße gab es einen Zusammenstoß. Ein Auto musste zudem abgeschleppt werden. Was passiert ist.</div>
+  <div class="info">12.07.2026, 11:29 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/remscheider-motorradfahrer-bei-unfall-in-marienheide-verletzt-VWW45ASISFGSNNR22UJ2GWT2EU.html" target="_blank" rel="noopener">Remscheider Motorradfahrer bei Unfall in Marienheide verletzt</a></h2>
+  <div class="teaser">Folgenschwere Ausfahrt im Oberbergischen: Ein 31-Jähriger ist am Wochenende ins Krankenhaus gekommen. Was genau passiert ist.</div>
+  <div class="info">12.07.2026, 11:07 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6312754" target="_blank" rel="noopener">POL-GM: Nach Überschlag leicht verletzt</a></h2>
+  <div class="teaser">Hückeswagen (ots) - Am Samstag (11. Juli) fuhr eine 16-jährige Hückeswagenerin mit ihrem Microcar auf der B237 von Hückeswagen in Richtung Wermelskirchen. Gegen 17:30 Uhr überholte sie, unweit der Schmalbeinstraße, im Verlauf einer Linkskurve, ...</div>
+  <div class="info">12.07.2026, 10:14 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6312746" target="_blank" rel="noopener">POL-GM: Unfall im Einmündungsbereich</a></h2>
+  <div class="teaser">Hückeswagen (ots) - Bei einem Verkehrsunfall in Hückeswagen wurden am Freitagmorgen (10. Juli) zwei Personen leicht verletzt. Gegen 6:20 Uhr wollte ein 46-jähriger Hückeswagener mit seinem VW Polo vom Amselweg auf die Wiehagener Straße ...</div>
+  <div class="info">12.07.2026, 10:08 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/ein-gefuehl-von-dolce-vita-im-bergischen-im-spider-auf-schloss-burg-B6WTKX6SABG67FXU2JW6OVOQKQ.html" target="_blank" rel="noopener">Ein Gefühl von Dolce Vita im Bergischen: Im Spider auf Schloss Burg</a></h2>
+  <div class="teaser">Der Alfaclub veranstaltet sein Spidertreffen in diesem Jahr im Bergischen Land. Cabriolet, Sonnenschein und ein tolles Panorama. Warum für die Liebhaber der schönen Autos und viele Schaulustige alles perfekt war.</div>
+  <div class="info">11.07.2026, 13:59 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/teilrettung-des-stadtmarketings-hueckeswagen-ist-geschafft-OBMIQ77NQ7QRJDBLKMMRUJJOEI.html" target="_blank" rel="noopener">Teilrettung des Stadtmarketings Hückeswagen ist geschafft</a></h2>
+  <div class="teaser">Mit Torsten Pütz, hat der Verein „Wir sind Hückeswagen“ einen neuen Vorsitzenden. Der 60-Jährige überzeugte mit seiner Bewerbung. Dennoch steht immer noch die Auflösung des Vereins im Raum.</div>
+  <div class="info">11.07.2026, 01:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/auf-dem-weg-zum-klimaneutralen-heizen-in-hueckeswagen-GU5CBYG6FPERHVIUXYKLFVYHGE.html" target="_blank" rel="noopener">Auf dem Weg zum klimaneutralen Heizen in Hückeswagen</a></h2>
+  <div class="teaser">Unternehmen und die Stadtverwaltung informierten über die Wärmewende in Hückeswagen. Der Jugendklimarat war erstmals mit einem eigenen Stand vertreten.</div>
+  <div class="info">10.07.2026, 01:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/erfahrungen-mit-dem-neuen-re47-in-remscheid-und-solingen-habe-fast-drei-jahre-darauf-gewartet-FJN6X7GSQREXBJYVOMP35N4N7Q.html" target="_blank" rel="noopener">Erfahrungen mit dem neuen RE47 in Remscheid und Solingen: „Habe fast drei Jahre darauf gewartet“</a></h2>
+  <div class="teaser">Bei vielen ÖPNV-Nutzern hat sich die neue Direktverbindung zwischen Remscheid, Solingen und Düsseldorf noch gar nicht herumgesprochen. Seit einigen Tagen fährt der batterieelektrische RE47 wieder stündlich – wie Pendler den Neustart erleben und was d</div>
+  <div class="info">09.07.2026, 12:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/bau-boom-in-hueckeswagen-in-west-3-MSZEGUXRH2H7YA3N3PWHOJYT5E.html" target="_blank" rel="noopener">Bau-Boom in Hückeswagen in West 3</a></h2>
+  <div class="teaser">Das jüngste Gewerbegebiet füllt sich rasant. Aktuell sind nur noch zwei Flächen verfügbar. BS Rollen baut auf einem Drittel des Areals, GP Karosserie &amp; Lack erweitert bereits. Doch wo entstehen künftig neue Gewerbeflächen?</div>
+  <div class="info">09.07.2026, 01:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/bergisches-land-so-machen-urlauber-einbrechern-das-leben-schwer-6SZ3CEWZ3JCIXLPXORWBX2TYRU.html" target="_blank" rel="noopener">Bergisches Land: So machen Urlauber Einbrechern das Leben schwer</a></h2>
+  <div class="teaser">Sommer, Sonne, Einbruch? Damit Sie nach Ihrer Reise keine böse Überraschung erleben, gibt die Polizei Tipps, wie Bürgerinnen und Bürger sich wirksam schützen können. Eine spezielle Übersicht verrät jede Woche, an welchen Orten des Städtedreiecks Krim</div>
+  <div class="info">08.07.2026, 16:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/neue-schloss-in-hueckeswagen-wird-zum-regiebetrieb-der-stadt-EB2PYOYWYPXM4ZRBP57C6J7W7Q.html" target="_blank" rel="noopener">Neue Schloss in Hückeswagen wird zum„Regiebetrieb“ der Stadt</a></h2>
+  <div class="teaser">Nach dem großen Umbau soll das Schloss nicht mehr nur Verwaltungssitz sein, sondern in vielfältiger Weise genutzt werden. Darüber berät der Rat.</div>
+  <div class="info">08.07.2026, 01:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/feuerwehrnachwuchs-in-hueckeswagen-uebt-24-stunden-fuer-ernstfall-AR4LYUSRTFV3IAXLHKSW4NT7DI.html" target="_blank" rel="noopener">Feuerwehrnachwuchs in Hückeswagen übt 24 Stunden für Ernstfall</a></h2>
+  <div class="teaser">Die Jugendfeuerwehr absolvierte am Wochenende den Berufsfeuerwehrtag. Dabei mussten die Mitglieder mehrere simulierte Einsätze bewältigen.</div>
+  <div class="info">07.07.2026, 01:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/80-geburtstag-der-partei-in-hueckeswagen-die-cdu-hat-heimat-gestaltet-BI5PUJ3XMHP5V3IOPBEUNIV7NQ.html" target="_blank" rel="noopener">80. Geburtstag der Partei in Hückeswagen: „Die CDU hat Heimat gestaltet“</a></h2>
+  <div class="teaser">Die Christdemokraten in Hückeswagen haben am Samstag ihren 80. Geburtstag gefeiert – mit einem Bürgerfest statt langer Reden. Der Ministerpräsident schickte eine Videobotschaft.</div>
+  <div class="info">06.07.2026, 02:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/fuenf-motorradunfaelle-frau-prallt-in-radevormwald-gegen-die-leitplanke-6X2WSDDGBJC6LFFTVNNIVDCWGM.html" target="_blank" rel="noopener">Fünf Motorradunfälle: Frau prallt in Radevormwald gegen die Leitplanke</a></h2>
+  <div class="teaser">Eine 61-jährige Essenerin erleidet auf der K8 bei Remlingrade schwere Verletzungen. Am Wochenende krachte es weitere vier Male im Oberbergischen Kreis.</div>
+  <div class="info">05.07.2026, 11:56 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/neyetalsperre-exhibitionist-rennt-29-jaehriger-frau-hinterher-6MYC5FOW4ZBCREGBBP3WRK5B74.html" target="_blank" rel="noopener">Neyetalsperre: Exhibitionist rennt 29-jähriger Frau hinterher</a></h2>
+  <div class="teaser">Unbekannter Mann zeigt sich auf Wanderweg. Spaziergängerin schlägt ihn in die Flucht.</div>
+  <div class="info">05.07.2026, 11:51 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/bahnhofsplatz-ist-offiziell-fussgaengerzone-SUKA53SNTDDPNZERBX2SJ5TX2A.html" target="_blank" rel="noopener">Bahnhofsplatz ist offiziell Fußgängerzone</a></h2>
+  <div class="teaser">Den neugestalteten Platz durften bis auf Radfahrer, Marktbeschicker und Lieferfahrzeuge der beiden Supermärkte nicht befahren werden.</div>
+  <div class="info">04.07.2026, 01:56 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/haushalt-2026-ein-modelleisenbahn-budgetfuer-ice-erwartungen-QNYF76IKQHKDELRLQPHZXBGPOQ.html" target="_blank" rel="noopener">Haushalt 2026: „Ein Modelleisenbahn-Budgetfür ICE-Erwartungen“</a></h2>
+  <div class="teaser">Mit bitterem Humor beschrieb Die Partei in der Ratssitzung das Dilemma der Stadt. Trotz eines Defizits von fast 13 Millionen Euro billigte die Politik mehrheitlich den Haushalt.</div>
+  <div class="info">03.07.2026, 02:58 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/dlrg-feiert-mit-segeln-suppe-und-feuerwerk-GWDIFF3E46TDLE2SGU6KB3UZZQ.html" target="_blank" rel="noopener">DLRG feiert mit Segeln, Suppe und Feuerwerk</a></h2>
+  <div class="teaser">An der Bever-Talsperre steigt am 11. und 12. Juli wieder das beliebte Sommerfest der Lebensretter.</div>
+  <div class="info">02.07.2026, 02:47 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/sport/regional/sc-heide-und-tsv-haemmern-werden-zur-spielgemeinschaft-ZE2RD5JLMD7EJIUE3HHBLV2PIQ.html" target="_blank" rel="noopener">SC Heide und TSV Hämmern werden zur Spielgemeinschaft</a></h2>
+  <div class="teaser">Der Fußball-Kreisligist aus Hückeswagen, der zuletzt völlig von der Bildfläche verschwunden war, tut sich für die kommende Saison mit einem anderen Verein zusammen. Und verlässt damit auch den Fußballkreis Remscheid/Solingen.</div>
+  <div class="info">01.07.2026, 17:18 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/von-dirty-dancing-bis-ac-dc-tribute-die-highlights-am-wochenende-im-bergischen-land-RJYHDSFO5ZDZTGDHGSJWJP3KSQ.html" target="_blank" rel="noopener">Von „Dirty Dancing“ bis AC/DC-Tribute: Die Highlights am Wochenende im Bergischen Land</a></h2>
+  <div class="teaser">30 Jahre Open-Air-Kino starten mit einem Filmklassiker, im Dorp feiert die Feuerwehr, in Lennep und am Neuenkamp wird gesportelt, gelacht und gefeiert und auf dem Schützenplatz gibt es Kirmesvergnügen. Kerzenschein und Musik im asiatischen Flair gibt</div>
+  <div class="info">01.07.2026, 15:04 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/pedelec-fahrer-bei-sturz-schwer-verletzt-MNUEXWHHG4RLHWJB5QSNFTTBKM.html" target="_blank" rel="noopener">Pedelec-Fahrer bei Sturz schwer verletzt</a></h2>
+  <div class="teaser">Ein 59-jähriger Pedelec-Fahrer aus Pulheim ist am Dienstagmittag bei einem Sturz auf der Großberghauser Straße schwer verletzt worden. Das teilte die Polizei gestern mit.</div>
+  <div class="info">01.07.2026, 12:21 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204812/hueckeswagen-pedelec-fahrer-sturz/" target="_blank" rel="noopener">Hückeswagen: Pedelec-Fahrer stürzt schwer verletzt</a></h2>
+  <div class="teaser">Pedelec-Fahrer stürzt schwer verletzt in Hückeswagen: Ein 59-Jähriger aus Pulheim verliert auf der abschüssigen Großberghauser Straße die Kontrolle und wird ins Krankenhaus gebracht.</div>
+  <div class="info">01.07.2026, 10:44 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6305783" target="_blank" rel="noopener">POL-GM: Pedelec-Fahrer bei Alleinunfall schwer verletzt</a></h2>
+  <div class="teaser">Hückeswagen (ots) - Ein 59-Jähriger aus Pulheim verletzte sich am Dienstag (30. Juni) um 12:20 Uhr schwer, als er mit seinem Pedelec stürzte. Der Pulheimer befuhr mit einem weiteren Pedelec-Fahrer die Großberghauser Straße in Hückeswagen in ...</div>
+  <div class="info">01.07.2026, 09:48 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/friedenskapelle-verbindet-und-schenkt-hoffnung-5BGQDN5FLIAUZJDORVW4VT64GY.html" target="_blank" rel="noopener">Friedenskapelle verbindet und schenkt Hoffnung</a></h2>
+  <div class="teaser">Mehr als 120 Gäste feierten das 40-jährige Bestehen der Friedenskapelle Voßhagen. Mit einem Gottesdienst und Musik wurde deutlich, welche Bedeutung die Kapelle als Ort des Friedens hat.</div>
+  <div class="info">01.07.2026, 01:06 Uhr · RGA Hückeswagen</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Juni 2026 <span class="monat-count">48</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/koenig-alkohol-aber-kein-interesse-an-aktionswoche-QAOFAVZGAKVRZWASSNXMQL4J4U.html" target="_blank" rel="noopener">„König Alkohol“ – aber kein Interesse an Aktionswoche</a></h2>
+  <div class="teaser">Weil sie zu spät für die Aktionswoche Werbung gemacht hat, war die Resonanz gleich null. Nur zum Abschlussabend kamen einige Besucher.</div>
+  <div class="info">30.06.2026, 02:42 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/remscheid-grosses-musik-ereignis-in-lennep-was-mir-der-elias-bringt-KTTZL7T3GJBUNMT7E4Z2TRHDHU.html" target="_blank" rel="noopener">Remscheid: Großes Musik-Ereignis in Lennep: Was mir der „Elias“ bringt</a></h2>
+  <div class="teaser">Am 5. Juli steigt das größte Projekt in der evangelischen Kirche Lennep 2026: Kantor Thilo Ratai bringt ein Meisterwerk auf die Bühne. Und holt dafür 100 Leute hinzu, auch die Symphoniker. Warum „Elias“ einem heute aus der Seele spricht.</div>
+  <div class="info">29.06.2026, 16:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6304002" target="_blank" rel="noopener">POL-GM: Sicher in den Urlaub - Polizei gibt Tipps für eine sichere Urlaubsreise</a></h2>
+  <div class="teaser">Oberbergischer Kreis; Hückeswagen; Gummersbach (ots) - Mitarbeitende der Verkehrsunfall- und der Kriminalprävention der Polizei beraten im Juli rund um das Thema &quot;Sicher in den Urlaub&quot;. Am Freitag, dem 3. Juli, steht ein Info-Stand der Polizei von ..</div>
+  <div class="info">29.06.2026, 09:30 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/erste-ehrungsfeier-wuerdigt-sport-und-ehrenamt-JTQOOM3KTDRG2FCTDGUKCWKUHY.html" target="_blank" rel="noopener">Erste Ehrungsfeier würdigt Sport und Ehrenamt</a></h2>
+  <div class="teaser">Stadtsportverbands zeichnete Einzelsportler, aber auch Teams aus. Bürgermeister Mario Moritz vergab zudem den Ehrenpreis Ehrenamt.</div>
+  <div class="info">29.06.2026, 00:49 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/unfall-gasalarm-personensuche-an-der-bever-in-hueckeswagen-feuerwehr-hatte-viel-arbeit-B4POSMOY7BCUTAMVZNGW23TBOQ.html" target="_blank" rel="noopener">Unfall, Gasalarm, Personensuche an der Bever in Hückeswagen: Feuerwehr hatte viel Arbeit</a></h2>
+  <div class="teaser">Einsatzkräfte erlebten turbulentes Wochenende. Das ist in der Innenstadt, an der Bever und bei Kammerforsterhöhe geschehen.</div>
+  <div class="info">28.06.2026, 17:17 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/vier-gewinnt-verbindet-generationen-OFMLDA56MV3TDHAZ4LS5JWUWUM.html" target="_blank" rel="noopener">„Vier Gewinnt“ verbindet Generationen</a></h2>
+  <div class="teaser">Die Realschule beendet am 11. Juli ihre Feiern zum 200-jährigen Bestehen mit einer großen Sommerparty. Höhepunkt ist der Auftritt der „Fanta4“-Tribute-Band.</div>
+  <div class="info">27.06.2026, 00:26 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/herweger-feiern-halbjahres-weihnachtsfest-bei-mehr-als-30-grad-2LG62TKT4MCHSNYABI2L3ONSUI.html" target="_blank" rel="noopener">Herweger feiern Halbjahres-Weihnachtsfest - – bei mehr als 30 Grad</a></h2>
+  <div class="teaser">Mit Lichterketten, Weihnachtsbaum, Va­nil­le­kip­ferl und Glühwein-Ersatz wurde in der Außenortschaft das erste Halbjahres-Weihnachtsfest gefeiert. Manch Autofahrer rieb sich verwundert die Augen.</div>
+  <div class="info">26.06.2026, 02:35 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/klingelnberg-zeigt-sich-wiederstandsfaehig-AYW7JZZLMBMIIYZCIHFHWGCDGA.html" target="_blank" rel="noopener">Klingelnberg zeigt sich wiederstandsfähig</a></h2>
+  <div class="teaser">Trotz schwierigen Umfelds und der Weltlage hat die Unternehmens-gruppe im zurückliegenden Geschäftsjahr ein positives Ergebnis erzielt. Auch wenn der Umsatz niedriger war als im Vorjahr, zeigte.</div>
+  <div class="info">25.06.2026, 02:40 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/stadtmarketing-vor-umbruch-oder-dem-aus-K4T4F3GTMFBVWJGJ7C7GZPFTYQ.html" target="_blank" rel="noopener">Stadtmarketing vor Umbruch – oder dem Aus</a></h2>
+  <div class="teaser">Nach dem großen Knall im April, als der Vorsitzende des WsH sein Amt niedergelegt und die Geschäftsführer-innen einen solchen Schritt zum 30. Juni angekündigt hatten, begann eine intensive Suche.</div>
+  <div class="info">24.06.2026, 02:02 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/wie-sich-das-bergische-handwerk-neu-erfindet-5TG7PWPZZMJSJLWT2EDESTDTS4.html" target="_blank" rel="noopener">Wie sich das bergische Handwerk neu erfindet</a></h2>
+  <div class="teaser">Frauen auf dem Bau, KI in der Verwaltung, Instagram für die Azubi-Suche: Die Kreishandwerkerschaft Bergisches Land erklärt, wie sich das Handwerk gewandelt hat.</div>
+  <div class="info">24.06.2026, 00:06 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/dwd-warnt-es-bleibt-weiter-sehr-heiss-in-remscheid-MBYP6IG2KVFYTFUVCTKHZZRA7A.html" target="_blank" rel="noopener">DWD warnt: Es bleibt weiter sehr heiß in Remscheid</a></h2>
+  <div class="teaser">Die Hitze hat das bergische Land fest im Griff. Seit Tagen warnt der Deutsche Wetterdienst (DWD) vor extremen Temperaturen. Alle Infos in unserem Liveticker.</div>
+  <div class="info">23.06.2026, 13:11 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/die-stillen-helden-des-ausdauerwettkampfs-LPOM54FANOCI3KOIIF23G47WGM.html" target="_blank" rel="noopener">Die stillen Helden des Ausdauerwettkampfs</a></h2>
+  <div class="teaser">250 Ehrenamtliche sorgen im Hintergrund für einen reibungslosen Ablauf der sportlichen Großveranstaltung des ATV. Drei von ihnen stellt wir exemplarisch vor.</div>
+  <div class="info">23.06.2026, 02:58 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6299210" target="_blank" rel="noopener">POL-GM: Hausfriedensbruch am Schloss</a></h2>
+  <div class="teaser">Hückeswagen (ots) - Am Freitag (19. Juni) gegen 23:30 Uhr meldeten Zeugen der Polizei Personen im Schloss Hückeswagen. Bei der Überprüfung stellten die Beamten zwei Personen fest, die sich unberechtigt im Gebäude aufhielten. Es handelt sich um ...</div>
+  <div class="info">22.06.2026, 11:45 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6299049" target="_blank" rel="noopener">POL-GM: Pedelecs gestohlen</a></h2>
+  <div class="teaser">Hückeswagen (ots) - Am Freitag (20. Juni) haben zwei Unbekannte in der Straße &quot;Käfernberg&quot; zwei Pedelecs gestohlen. Das schwarze Damen-Pedelec der Marke Kettler und das anthrazitfarbene Pedelec des Herstellers Liq waren zusammen mit einem Schoss ...</div>
+  <div class="info">22.06.2026, 10:32 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/atv-triathlon-in-hueckeswagen-ein-kampf-gegen-die-zeit-und-die-hitze-HL7MLEFVLPETOBYU4F7NZLMCHU.html" target="_blank" rel="noopener">ATV-Triathlon in Hückeswagen: Ein Kampf gegen die Zeit und die Hitze</a></h2>
+  <div class="teaser">Die 41. Auflage war bei Mittagstemperaturen um die 30 Grad eine Herausforderung für alle Beteiligten. Rund 800 Athleten gingen in Hückeswagen an den Start – darunter auch 28 beim Quadrathlon. Das Ereignis sorgte bei den meisten Teilnehmern und Sportl</div>
+  <div class="info">22.06.2026, 02:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/in-diesen-bergischen-talsperren-ist-das-baden-erlaubt-O3MB6T4EQVCIPIQZMOFENSUE3A.html" target="_blank" rel="noopener">Remscheid In diesen bergischen Talsperren ist das Baden erlaubt</a></h2>
+  <div class="teaser">Bei hohen Temperaturen kann der Sprung ins kalte Nass erfrischen. Doch das Freibad Eschbachtal ist geschlossen. Eine Alternative muss also her. Wir haben eine Übersicht erstellt, in welchen Talsperren das Schwimmen erlaubt ist – und was es zu beachte</div>
+  <div class="info">20.06.2026, 07:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/klassenpreis-fuer-malwettbewerb-in-hueckeswagen-ueberreicht-T3N4QIHGUJDGGXJ4W6RHMD7RCE.html" target="_blank" rel="noopener">Klassenpreis für Malwettbewerb in Hückeswagen überreicht</a></h2>
+  <div class="teaser">Der Klassenpreis über 100 Euro beim Malwettbewerb fürs Schützenfest wurde jetzt an die 4c der Löwen-Grundschule überreicht. Die drei Sieger werden beim Frühkonzert am 19. Juli im Festzelt besonders geehrt.</div>
+  <div class="info">20.06.2026, 01:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/heisse-tage-an-der-kraewi-schwitzen-nicht-nur-die-wuerstchen-74EWIMKFZZGIBJ3I5MVH4ONZSE.html" target="_blank" rel="noopener">Heiße Tage: An der Kräwi schwitzen nicht nur die Würstchen</a></h2>
+  <div class="teaser">Er hat bei diesen Temperaturen einen undankbaren Job: Julian Bielak (25) ist der Mann an Grill und Fritteuse. Das Besondere: Er liefert auch bei 70 Grad im Schatten. Denn das badende Volk will Pommes. So geht der Fritten-Chef mit der Hitze um.</div>
+  <div class="info">19.06.2026, 09:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/amerikanische-faulbrut-ist-auch-bei-heimischen-bienen-ausgebrochen-6TE652QRWBJX6BCUQSCIDIGUFI.html" target="_blank" rel="noopener">„Amerikanische Faulbrut“ ist auch bei heimischen Bienen ausgebrochen</a></h2>
+  <div class="teaser">Bei einem Hückeswagener Bienenvolk ist die Bienenkrankheit ausgebrochen. Um das befallene Volk wurde ein Sperrbezirk festgelegt.</div>
+  <div class="info">19.06.2026, 01:00 Uhr · RGA Oberbergischer Kreis (Gesamt)</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/echt-sommerlich-der-neue-engelbert-mit-frischen-tipps-fuer-heisse-tage-ist-da-EY6FTBCZVRHCNBQRQMPDTKQKPA.html" target="_blank" rel="noopener">Echt sommerlich: Der neue „Engelbert“ mit frischen Tipps für heiße Tage ist da</a></h2>
+  <div class="teaser">Das kostenlose Hochglanzmagazin der B. Boll Mediengruppe liegt ab sofort aus. Was die neue Ausgabe bietet – und wo man sie bekommt.</div>
+  <div class="info">18.06.2026, 10:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/atv-triathlon-sorgt-fuer-sperrungen-in-hueckeswagen-FBUY4EB365ZDZ6EAXXMNLYHCV4.html" target="_blank" rel="noopener">ATV-Triathlon sorgt für Sperrungen in Hückeswagen</a></h2>
+  <div class="teaser">Autofahrer müssen am Sonntag, rund um die Talsperre mit Verkehrs-behinderungen rechnen. Beim Wettkampf sind sind 800 Teilnehmer auf dem Rad unterwegs. Was und wo gesperrt ist.</div>
+  <div class="info">18.06.2026, 01:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204037/hueckeswagen-faulbrut-sperrbezirk/" target="_blank" rel="noopener">Hückeswagen: Faulbrut bei Bienen – Veterinäramt sperrt Bezirk</a></h2>
+  <div class="teaser">Amerikanische Faulbrut in Hückeswagen nachgewiesen: Der Oberbergische Kreis richtet einen Sperrbezirk ein - für Menschen ungefährlich.</div>
+  <div class="info">17.06.2026, 17:11 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/stadtradeln-in-hueckeswagen-war-wieder-ein-grosser-erfolg-4GA2OSFTIKDYM77QBFU6QQVUIY.html" target="_blank" rel="noopener">Stadtradeln in Hückeswagen war wieder ein großer Erfolg</a></h2>
+  <div class="teaser">Zwischen Mai und Juni haben sich 588 Radler an der Aktion beteiligt. Sie schafften knapp 131.000 Kilometer und haben 21 Tonnen CO2 vermieden. Auch pro Kopf erzielten die Teilnehmer einen Spitzenwert.</div>
+  <div class="info">17.06.2026, 01:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/kinder-auf-dem-wasser-in-hueckeswagen-unterwegs-segeln-lernen-wie-in-einem-ferienlager-IDPH2IIGLDPCRDQRVMMXGGZFNU.html" target="_blank" rel="noopener">Kinder auf dem Wasser in Hückeswagen unterwegs: Segeln lernen wie in einem Ferienlager</a></h2>
+  <div class="teaser">Wie lernen Kinder segeln, wenn sie noch nie in einem Boot gesessen haben? Beim Segelwochenende setzt die Segelschule auf klare Betreuung und Sicherheit und Übungen an Land.</div>
+  <div class="info">16.06.2026, 01:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/radunfall-mit-schweren-verletzungen-in-hueckeswagen-NVCFLBWCBJBGHM4LCX3VIIITZM.html" target="_blank" rel="noopener">Radunfall mit schweren Verletzungen in Hückeswagen</a></h2>
+  <div class="teaser">Am Sonntagmorgen stürzte ein 52-Jähriger beim Wechsel von der Fahrbahn auf den Radweg.</div>
+  <div class="info">15.06.2026, 10:25 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6294215" target="_blank" rel="noopener">POL-GM: Radfahrer bei Sturz schwer verletzt</a></h2>
+  <div class="teaser">Hückeswagen (ots) - Ein 52-jährige Radfahrer aus Solingen zog sich am Sonntag (14. Juni) gegen 11 Uhr bei einem Alleinunfall schwere Verletzungen zu. Der 52-Jährige fuhr auf der Bevertalstraße und beabsichtigte auf Höhe der Einmündung ...</div>
+  <div class="info">15.06.2026, 10:02 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/jetzt-koennen-wir-auch-produzieren-wiehagener-firma-uebernimmt-unternehmen-AKBWZBJNJ6TF3CMDTUP4DBG5YI.html" target="_blank" rel="noopener">„Jetzt können wir auch produzieren“: Wiehagener Firma übernimmt Unternehmen</a></h2>
+  <div class="teaser">Die HOK. übernahm Vermögenswerte und Teile der Belegschaft von zwei Firmen. So erweitert das Unternehmensein Portfolio.</div>
+  <div class="info">13.06.2026, 01:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/werkzeug-bei-einbruch-in-hueckeswagen-gestohlen-ZUJEOZNAEFDPZINLEEDN3CQYOM.html" target="_blank" rel="noopener">Werkzeug bei Einbruch in Hückeswagen gestohlen</a></h2>
+  <div class="teaser">In der Nacht von Mittwoch auf Donnerstag haben zwei Unbekannte an einer Wiehagener Firma ihr Unwesen getrieben.</div>
+  <div class="info">12.06.2026, 11:19 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203737/einbruch-gummersbach-wiehagen/" target="_blank" rel="noopener">Oberberg: Einbrecher schlagen in Gummersbach und Hückeswagen zu</a></h2>
+  <div class="teaser">Gewerbeeinbruch im Oberbergischen Kreis: Unbekannte trafen in einer Nacht drei Firmen in Gummersbach und ein Betriebsgelände in Wiehagen.</div>
+  <div class="info">12.06.2026, 11:07 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6293082" target="_blank" rel="noopener">POL-GM: Werkzeug bei Einbruch erbeutet</a></h2>
+  <div class="teaser">Hückeswagen (ots) - Vom 10. auf den 11. Juni (Donnerstag) haben Kriminelle auf einem Firmengelände in der Röntgenstraße in Wiehagen ihr Unwesen getrieben. Die Unbekannten öffneten gewaltsam zwei Baucontainer, indem sie die Türgriffe ...</div>
+  <div class="info">12.06.2026, 10:35 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/schueler-trainieren-in-der-zirkus-manege-in-hueckeswagen-B36JFAT3NWRPF5SBAV2YEMJPQ4.html" target="_blank" rel="noopener">Schüler trainieren in der Zirkus-Manege in Hückeswagen</a></h2>
+  <div class="teaser">Derzeit proben die Schüler der Grundschule Wiehagen mit dem „Projektcircus Proscho“ für ihre Auftritte heute und morgen. Ein Besuch in der Manege.</div>
+  <div class="info">12.06.2026, 01:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/15-jaehrige-bei-unfall-in-hueckeswagen-leicht-verletzt-ICZ6WAVQBJGZPKF5ZLZCHL5XIQ.html" target="_blank" rel="noopener">15-jährige bei Unfall in Hückeswagen leicht verletzt</a></h2>
+  <div class="teaser">Gegen 7.30 Uhr kam es heute unweit der Einmündung zur Vivaldistraße in Hückeswagen zu einem Unfall zwischen einer 41-Jährigen und einer 15-Jährigen.</div>
+  <div class="info">11.06.2026, 11:51 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6292420" target="_blank" rel="noopener">POL-GM: Unfall beim Abbiegen - 15-Jährige leicht verletzt</a></h2>
+  <div class="teaser">Hückeswagen (ots) - Eine 41-jährige Wermelskirchenerin war am Mittwoch (10. Juni) mit ihrem Audi auf der Kölner Straße in Richtung der Hückeswagener Innenstadt unterwegs. In gleicher Richtung fuhr eine 15-Jährige aus Wermelskirchen mit ihrem ...</div>
+  <div class="info">11.06.2026, 11:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203693/hueckeswagen-verkehrsunfall-k1/" target="_blank" rel="noopener">Hückeswagen: Skoda schleudert auf K1 in den Gegenverkehr – zwei Verletzte</a></h2>
+  <div class="teaser">Auf der K1 in Hückeswagen schleuderte ein Skoda in den Gegenverkehr: zwei Verletzte, zwei Autos abgeschleppt, die K1 war lange gesperrt.</div>
+  <div class="info">11.06.2026, 07:34 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/zehn-jahre-stadtarchiv-eine-erfolgsgeschichte-fuer-hueckeswagen-wipperfuerth-37Y53S4OIRGXIY3CZFNEMBII6Q.html" target="_blank" rel="noopener">Zehn Jahre Stadtarchiv: Eine Erfolgsgeschichte für Hückeswagen/Wipperfürth.</a></h2>
+  <div class="teaser">2016 wurden die beiden Stadtarchive von Hückeswagen und Wipperfürth zusammengelegt. Entgegen aller Befürchtungen hat sich die Einrichtung prächtig entwickelt.</div>
+  <div class="info">11.06.2026, 01:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6291783" target="_blank" rel="noopener">POL-GM: Verkehrsunfall auf der K1</a></h2>
+  <div class="teaser">Hückeswagen (ots) - Am Mittwochmorgen (10. Juni) kam es auf der Wiehagener Straße (K1) zu einem Verkehrsunfall, bei dem ein 42-Jähriger aus Remscheid und ein 26-jähriger Hückeswagener verletzt wurden. Der Remscheider war mit seinem Skoda auf ...</div>
+  <div class="info">10.06.2026, 12:35 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/verkehrsunfall-auf-der-kreisstrasse-1-in-hueckeswagen-7KWVBOPXKVHR7EQURXRJN3NWCM.html" target="_blank" rel="noopener">Verkehrsunfall auf der Kreisstraße 1 in Hückeswagen</a></h2>
+  <div class="teaser">Die Feuerwehr wurde am Mittwochmorgen zu einem Verkehrsunfall kurz vor dem Ortseingang gerufen.</div>
+  <div class="info">10.06.2026, 09:37 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/start-fuer-den-platz-fuer-alle-generationen-in-hueckeswagen-WSWP37LIKMQ43NK7VN2TYGF7KM.html" target="_blank" rel="noopener">Start für den „Platz für alle Generationen“ in Hückeswagen.</a></h2>
+  <div class="teaser">Mit einem kleinen Fest und dem symbolischen Spatenstich startete der Umbau des Wilhelmplatzes. Als Erstes werden nun Beete und Brunnen zurückgebaut.</div>
+  <div class="info">10.06.2026, 01:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/warum-brannte-in-hueckeswagen-die-zornige-ameise-VAHB33CUGJHNDMQ5POC6CN4XS4.html" target="_blank" rel="noopener">Warum brannte in Hückeswagen die Zornige Ameise?</a></h2>
+  <div class="teaser">Das Feuer vom 12. Mai hat von dem beliebten Ausflugslokal wenig übrig gelassen. Das macht die Suche nach der Brandursache so schwer.</div>
+  <div class="info">09.06.2026, 11:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/klimaschutz-beim-trassen-treffen-in-hueckeswagen-PMRAWSI5GOZ3RJUMKF6VDGUGSU.html" target="_blank" rel="noopener">Klimaschutz beim Trassen-Treffen in Hückeswagen</a></h2>
+  <div class="teaser">An Aktionspunkten in der Region gab es neben der Verpflegung auch Kinderschminken und Infostände rund ums Fahrradfahren. Warum der Schwerpunkt beim Klimaschutz lag.</div>
+  <div class="info">09.06.2026, 01:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/weinfest-in-hueckeswagen-der-bahnhofsplatz-besteht-die-premiere-MDFA34IAMXXMQJTOPRFF33F73U.html" target="_blank" rel="noopener">Weinfest in Hückeswagen: Der Bahnhofsplatz besteht die Premiere</a></h2>
+  <div class="teaser">Drei Tage lang verwandelte sich der neu gestaltete Bahnhofsplatz in ein gemütliches Winzerdorf mit erlesenen Weinen, Livemusik und geselligem Beisammensein.</div>
+  <div class="info">08.06.2026, 03:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/feuer-in-hueckeswagen-dachstuhlbrand-an-stallgebaeude-fuehrt-zu-einem-grosseinsatz-CM3JNN4I2ZAURMUYZGFE4OKZJA.html" target="_blank" rel="noopener">Feuer in Hückeswagen: Dachstuhlbrand an Stallgebäude führt zu einem Großeinsatz</a></h2>
+  <div class="teaser">In Westenbrücke schlagen bei Eintreffen der Wehr hohe Flammen aus einem Dachstuhl. Die Polizei sucht nach der Brandursache.</div>
+  <div class="info">06.06.2026, 22:14 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/fotofinish-entscheidet-rennen-auf-der-bever-in-hueckeswagen-PX4BQA6A2LI6YDL4E3RUIFVJEQ.html" target="_blank" rel="noopener">Fotofinish entscheidet Rennen auf der Bever in Hückeswagen</a></h2>
+  <div class="teaser">Gemeinschaft, Teamgeist und jede Menge gute Laune standen beim 24. Drachenbootfestival auf der Bever-Talsperre trotz Regenschauern im Mittelpunkt.</div>
+  <div class="info">06.06.2026, 01:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/es-tut-sich-was-beim-klimaschutz-in-hueckeswagen-QMP5PQB54WCDOGDSWQANQTJ6PU.html" target="_blank" rel="noopener">Für die Umwelt: Es tut sich was beim Klimaschutz in Hückeswagen</a></h2>
+  <div class="teaser">Der neue Klimaschutzmanager der Schloss-Stadt, Sven Fischer, hat vor etwa einem halben Jahr seine Arbeit aufgenommen. Im Umweltausschuss stellte er nun den aktuellen Stand und die Maßnahmen näher vor.</div>
+  <div class="info">05.06.2026, 01:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/von-hueckeswagen-ueber-die-bevertalsperre-nach-wipperfuerth-beverbus-bietet-mehr-fahrten-an-7LHHY2TZ3HUYMFBJJUKWGTS2JE.html" target="_blank" rel="noopener">Von Hückeswagen über die Bevertalsperre nach Wipperfürth: Beverbus bietet mehr Fahrten an</a></h2>
+  <div class="teaser">Pünktlich zum Feiertag Fronleichnam am 4. Juni, nimmt die Linie 330 wieder ihre Fahrten auf und bindet Wipperfürth und Hückeswagen an die Bever-Talsperre an. Wie der Kreis und die OVAG das Angebot erweitert haben.</div>
+  <div class="info">03.06.2026, 02:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/zahlungsmoral-der-kunden-was-betriebe-aus-solingen-und-remscheid-berichten-2QRPWBJVCFEBNGKHRGCQ4KHFZM.html" target="_blank" rel="noopener">Zahlungsmoral der Kunden: Was Betriebe aus Solingen und Remscheid berichten</a></h2>
+  <div class="teaser">Wie es dem Mittelstand geht und ob Kunden pünktlich ihre Rechnungen zahlen, weiß Crefo-Factoring mit Sitz in Solingen: Das Unternehmen betrachtet die Lage in der Klingenstadt, Remscheid und vielen umliegenden Orten. Ein Blick in die aktuelle Auswertu</div>
+  <div class="info">02.06.2026, 07:15 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/musikschule-hueckeswagen-wird-50-festakt-mit-vielen-farben-und-erinnerungen-RY4XFAW43WJDFKNIXO6HIISDPQ.html" target="_blank" rel="noopener">Musikschule Hückeswagen wird 50: Festakt mit vielen Farben und Erinnerungen</a></h2>
+  <div class="teaser">Seit 50 Jahren prägt die Musikschule das kulturelle Leben der Schloss-Stadt und begleitet Generationen auf ihrem musikalischen Weg. Mit einem festlichen Programm wurde das Jubiläum im Kultur-Haus Zach gefeiert.</div>
+  <div class="info">02.06.2026, 02:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/mit-sieben-jahres-plan-gegen-die-insolvenz-Y4E6DA3VZGCNAYHT22VJQSJJIY.html" target="_blank" rel="noopener">Mit Sieben-Jahres-Plan gegen die Insolvenz</a></h2>
+  <div class="teaser">Bei einer gut besuchten Info-Stunde an der Segelschule am Leuchtturm wurde über die mögliche Zukunft der IG Zeltplätze berichtet. Was das für das Campen an der Bever bedeutet.</div>
+  <div class="info">01.06.2026, 01:03 Uhr · RGA Hückeswagen</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Mai 2026 <span class="monat-count">56</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/weniger-besucher-machen-weniger-aerger-HL6LY5RPNDJTRYD3ZFC6QCHWAM.html" target="_blank" rel="noopener">„Weniger Besucher machen weniger Ärger“</a></h2>
+  <div class="teaser">Mitte Mai startet offiziell die neue Badesaison an und auf der Bever-Talsperre. Dort sieht die 2004 gegründete Ordnungspartnerschaft seit Jahren nach dem Rechten.</div>
+  <div class="info">30.05.2026, 02:58 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/proben-in-hueckeswagen-entnommen-das-bever-wasser-ist-ausgezeichnet-SWCSONBVQNHNBMA5CEBTBLXCBI.html" target="_blank" rel="noopener">Proben in Hückeswagen entnommen: Das Bever-Wasser ist ausgezeichnet</a></h2>
+  <div class="teaser">In der Badesaison kontrolliert das Kreisgesundheitsamt zusammen mit dem Wupperverband das Wasser an den Badestellen der Bever-Talsperre. Die Ergebnisse sind fast immer ohne Befund.</div>
+  <div class="info">30.05.2026, 02:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/neueroeffnung-in-hueckeswagen-den-traum-von-der-eigenen-kampfsportschule-verwirklicht-OMLEBIWG72G7PRNVOGTHMQ7HCA.html" target="_blank" rel="noopener">Neueröffnung in Hückeswagen: Den Traum von der eigenen Kampfsportschule verwirklicht</a></h2>
+  <div class="teaser">Mit der Eröffnung seiner neuen Kampfsportschule erfüllt sich Normen Melzer einen langjährigen Traum. In einer ehemaligen Fabrikhalle an der Schlossfabrik startet morgen ein modernes Trainingszentrum für Kampfsport, Selbstverteidigung und Fitness mit </div>
+  <div class="info">29.05.2026, 02:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/hueckeswagen-so-laeuft-der-umbau-des-wilhelmplatzes-ZNXTAV2HJYZTUK24WJFAOWM3HY.html" target="_blank" rel="noopener">Hückeswagen: So läuft der Umbau des Wilhelmplatzes</a></h2>
+  <div class="teaser">Ab Juni wird die Fläche in vier Bauabschnitten umgestaltet. Die Islandstraße bleibt zunächst befahrbar, ab Frühjahr 2027 wird sie gesperrt. Nach der Fertigstellung, voraussichtlich im Mai 2027, folgt dann der Umbau der Bahnhofstraße.</div>
+  <div class="info">28.05.2026, 02:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/hueckeswagen-einsatzreicher-pfingstmontag-fuer-die-feuerwehr-RVDCYYXOE2NZZMMKBCWXDRKKNU.html" target="_blank" rel="noopener">Hückeswagen: Einsatzreicher Pfingstmontag für die Feuerwehr</a></h2>
+  <div class="teaser">Schwerer Verkehrsunfall, Waldbrände, Chemikalien: Die Feuerwehr Hückeswagen rückte am Montag und Dienstag gleich viermal aus.</div>
+  <div class="info">27.05.2026, 12:06 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/hueckeswagen-paar-zieht-bilanz-lohnt-sich-ein-niedrigenergiehaus-aus-holz-zimmerei-zultner-gibt-J7WI7DXNVBCW5AM4DPVLW5467A.html" target="_blank" rel="noopener">Hückeswagen: Paar zieht Bilanz: Lohnt sich ein Niedrigenergiehaus aus Holz? Zimmerei Zultner gibt Tipps Nachhaltigkeit Umwelt Bauen und Wohnen</a></h2>
+  <div class="teaser">Bauen und Wohnen: Kerstin Paulussen (61) und Alfons Herweg (64) haben 2006 in Kleinberghausen gebaut. Wo sie die Vorteile sehen, welche Förderungen es für Holzhäuser gibt – und welche Tipps die Zimmerei Zultner potenziellen Bauherren gibt.</div>
+  <div class="info">27.05.2026, 05:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/stadt-baut-zusaetzlichen-fussweggegenueber-dem-hallenbad-HOC4AMICZV4SNCOZ5EPCTBYSOI.html" target="_blank" rel="noopener">Stadt baut zusätzlichen Fußweggegenüber dem Hallenbad</a></h2>
+  <div class="teaser">In den Sommerferien wird im Brunsbachtal unterhalb der Bundesstraße ein neuer Gehweg angelegt. Der Bauausschuss stimmte dem zu. Die SPD hatte sich mit ihren Bedenken nicht durchsetzen können.</div>
+  <div class="info">27.05.2026, 00:16 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/ersthelfer-mussten-sich-zurueckziehen-58-jaehrige-stirbt-in-brennendem-auto-5AMVAF5B5VEOXMH7X3BFYIFSZA.html" target="_blank" rel="noopener">Frau (53) verbrennt in Auto - Helfer mussten alles mitansehen und können nicht helfen</a></h2>
+  <div class="teaser">Tragischer Unfalltod in Hückeswagen: Zwei junge Menschen konnten nicht helfen und mussten alles mitansehen. Experten suchen jetzt nach der Ursache.</div>
+  <div class="info">26.05.2026, 21:57 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202987/hueckeswagen-toedlicher-unfall-l68/" target="_blank" rel="noopener">Hückeswagen: 58-Jährige stirbt in brennendem Auto – Alleinunfall auf der L68</a></h2>
+  <div class="teaser">Tödlicher Alleinunfall bei Hückeswagen: Eine 58-jährige Lindlarerin starb in der Nacht in ihrem Pkw, der nach Baum-Kollision in Brand geriet.</div>
+  <div class="info">25.05.2026, 04:50 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6281001" target="_blank" rel="noopener">POL-GM: Tödlicher Alleinunfall bei Hückeswagen - Fahrzeug gerät in Vollbrand</a></h2>
+  <div class="teaser">L68, Hückeswagen (ots) - Bei einem Alleinunfall auf der L68 zwischen den Ortschaften Hückeswagen-Scheideweg und Hückeswagen-Dörpfelderhöhe geriet am Montag (25.05.2026) ein Personenkraftwagen in Vollbrand. Die eingeklemmte Fahrzeugführerin ...</div>
+  <div class="info">25.05.2026, 04:29 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/so-sieht-s-aktuell-im-schlossinneren-aus-MNUNQ3ELCGAYTPMJQLGJXNXQBQ.html" target="_blank" rel="noopener">So sieht’s aktuell im Schlossinneren aus</a></h2>
+  <div class="teaser">Das Hückeswagener Schloss ist komplett entkernt und von Schadstoffen befreit, nun starten die Rohbau- und Dachdeckerarbeiten. Doch bei der Sanierung traten unerwartete Probleme auf.</div>
+  <div class="info">23.05.2026, 02:43 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/sommernacht-der-klassik-mit-hommage-an-pavarotti-K6C3YGF7SZPUAXK7E6AP347Z6Y.html" target="_blank" rel="noopener">„Sommernacht der Klassik“ mit Hommage an Pavarotti</a></h2>
+  <div class="teaser">Startenor Johannes Groß und Claudia Hirschfeld an der Wersi-Orgel präsentieren am Pfingstmontag das Konzert „Freunde, das Leben ist lebenswert“.</div>
+  <div class="info">21.05.2026, 00:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/hueckeswagen-brand-in-der-zornigen-ameise-warum-die-ermittlungen-so-schleppend-laufen-2WZ4APELMBANJEKJYHPQV247XY.html" target="_blank" rel="noopener">Hückeswagen: Brand in der „Zornigen Ameise“: Warum die Ermittlungen so schleppend laufen</a></h2>
+  <div class="teaser">Eine Woche nach dem verheerenden Brand in dem Ausflugslokal an der Bever-Talsperre in Hückeswagen tappt die Polizei immer noch im Dunkeln. Wo die Probleme liegen.</div>
+  <div class="info">20.05.2026, 13:30 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/ausgehtipps-das-ist-am-pfingstwochenende-los-troedelmarkt-kleinkunst-musik-GHBD62YBQ5DZNHEYWCTQGWKQFM.html" target="_blank" rel="noopener">Ausgehtipps: Das ist am Pfingstwochenende los - Trödelmarkt, Kleinkunst, Musik</a></h2>
+  <div class="teaser">Wer will, kann einen Abend mit Udo-Jürgens-Hits und Sunset-Feeling an der Kräwi erleben. Oder wie wäre es mit klassischem Tanz einmal ganz anders? Auch Stöbern und Trödeln auf der schönsten Straße Remscheids ist möglich – und noch viel mehr.</div>
+  <div class="info">20.05.2026, 10:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/hueckeswagen-wohnen-wo-andere-urlaub-machen-so-lebt-es-sich-direkt-am-wasser-der-bever-BCEC526TTRBDNHWLBJ3RUWPM24.html" target="_blank" rel="noopener">Hückeswagen: Wohnen, wo andere Urlaub machen: So lebt es sich direkt am Wasser der Bever</a></h2>
+  <div class="teaser">Sabine Winkler (60) lebt seit 20 Jahren an der Talsperre in Hückeswagen. Aber: Ist es dort nicht einsam? Nerven nicht Sportler oder Touristen? Was diesen besonderen Ort ausmacht – und wie man hier selbst auf Zeit wohnen kann.</div>
+  <div class="info">20.05.2026, 09:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/hueckeswagen-ferienwohnung-mieten-an-der-bever-bever-talsperre-camping-mieten-bergisches-land-LFSHDIUT6NEGLCCUQYZFRZR5MI.html" target="_blank" rel="noopener">Hückeswagen: Ferienwohnung mieten an der Bever Bever-Talsperre Camping mieten Bergisches Land Kurztrip Urlaub</a></h2>
+  <div class="teaser">Warum in die Ferne schweifen, wenn das Glück so nahe liegt? An der Bever-Talsperre in Hückeswagen kann sich jeder einen Kurzurlaub auf Zeit mieten. Wie das geht.</div>
+  <div class="info">20.05.2026, 07:58 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/schlechte-noten-fuer-hueckeswagens-gastronomie-ROW72B42QH27XFDCT5XGOAQXUI.html" target="_blank" rel="noopener">Schlechte Noten für Hückeswagens Gastronomie</a></h2>
+  <div class="teaser">Das gastronomische Angebot ist laut einer Studie der „schwächste Attraktivitätsfaktor“ der Innenstadt. Viele Einheimische nutzten die Lokale selten bis nie.</div>
+  <div class="info">20.05.2026, 02:10 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202538/hueckeswagen-unfall-b237-2/" target="_blank" rel="noopener">Hückeswagen: Vier Verletzte bei Unfall auf der B237</a></h2>
+  <div class="teaser">Hückeswagen: Vier Menschen wurden bei einem Verkehrsunfall auf der B237 verletzt. Zwei Autos mussten abgeschleppt werden.</div>
+  <div class="info">19.05.2026, 13:21 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/hueckeswagen-brand-in-der-zornigen-ameise-an-der-bever-talsperre-polizei-bittet-um-hinweise-DCWGTGYK6FFGZLQSAHB3GV2BPU.html" target="_blank" rel="noopener">Hückeswagen: Brand in der „Zornigen Ameise“ an der Bever-Talsperre: Polizei bittet um Hinweise - Brandstiftung</a></h2>
+  <div class="teaser">Vor einer Woche vernichtete ein Feuer das beliebte Ausflugslokal in Hückeswagen. Jetzt sind die Brandermittler eingeschaltet. Was wir bislang wissen.</div>
+  <div class="info">19.05.2026, 06:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/aus-zufallsbegegnung-wurde-lebensgeschichte-5ASILKZBA637KQJWL2DQ4HUDQA.html" target="_blank" rel="noopener">Aus Zufallsbegegnung wurde Lebensgeschichte</a></h2>
+  <div class="teaser">Seit 60 Jahren gehen Gisela und Hans-Rolf Saxert gemeinsam durchs Leben. Die Hückeswagener feiern am 20. Mai ihre Diamanthochzeit und blicken auf eine Ehe voller Reisen und gemeinsamer ...</div>
+  <div class="info">18.05.2026, 20:19 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/zusammenstoss-im-kreisverkehr-4WYFVZDZYUV7VD72GKOQ4ZQDCQ.html" target="_blank" rel="noopener">Zusammenstoß im Kreisverkehr</a></h2>
+  <div class="teaser">Bei einem Verkehrsunfall in Wipperfürth wurde am vergangenen Samstag (16. Mai) der Hückeswagener Fahrer eines Leichtkraftrades leicht verletzt. Das teilte die oberbergische Polizei gestern mit.</div>
+  <div class="info">18.05.2026, 14:25 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/vier-verletzte-nach-unfall-3BPIZD2GQH25RSTO4G7UENNUX4.html" target="_blank" rel="noopener">Vier Verletzte nach Unfall</a></h2>
+  <div class="teaser">Bei einem Verkehrsunfall in Hückeswagen wurden am Freitag (15. Mai) vier Personen leicht verletzt. Das teilte die Polizei gestern mit.</div>
+  <div class="info">18.05.2026, 14:16 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6276772" target="_blank" rel="noopener">POL-GM: Vier Personen bei Verkehrsunfall verletzt</a></h2>
+  <div class="teaser">Hückeswagen (ots) - Bei einem Verkehrsunfall in Hückeswagen wurden am Freitag (15. Mai) vier Personen leicht verletzt. Gegen 14 Uhr wollte ein 34-jähriger Skoda-Fahrer aus Hückeswagen von der Straße &quot;Kobeshofen&quot; (K5) nach links auf die B237, in ...</div>
+  <div class="info">18.05.2026, 11:54 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/unfall-in-hueckeswagen-vier-personen-bei-zusammenstoss-verletzt-AT4AK5XS4VH7RLZCQ7SB5KTM2E.html" target="_blank" rel="noopener">Unfall in Hückeswagen: Vier Personen bei Zusammenstoß verletzt</a></h2>
+  <div class="teaser">Im Kreuzungsbereich der K5 und der B237 stießen zwei Autos zusammen. Das ist geschehen.</div>
+  <div class="info">17.05.2026, 10:58 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6276214" target="_blank" rel="noopener">POL-GM: Vier Leichtverletzte bei Unfall in Kobeshofen</a></h2>
+  <div class="teaser">Hückeswagen (ots) - Am Freitag (15. Mai) gegen 14:05 Uhr beabsichtigte ein 34-jähriger Skoda-Fahrer aus Hückeswagen, von der K5 nach links auf die B237 abzubiegen. Dabei kam es zur Kollision mit dem VW eines 40-jährigen Hückeswageners, der auf ...</div>
+  <div class="info">17.05.2026, 10:35 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/zornige-ameise-polizei-geht-von-brandstiftung-aus-YG5DKG5VFSREMXYD2PA6RBUT4U.html" target="_blank" rel="noopener">„Zornige Ameise“ – Polizei geht von Brandstiftung aus</a></h2>
+  <div class="teaser">Spekuliert wird seit Dienstagnachmittag viel: Was hat das verheerende Feuer in der „Zornigen Ameise“ ausgelöst? Immer wieder ist dabei von einer „warmen Sanierung“ die Rede.</div>
+  <div class="info">16.05.2026, 04:30 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/atv-triathlon-muss-auf-denjuni-vorgezogen-werden-NV5TFTKCBTE2NO2INCWEWNGYZ4.html" target="_blank" rel="noopener">ATV-Triathlon muss auf denJuni vorgezogen werden</a></h2>
+  <div class="teaser">Die Vorbereitungen für den traditionsreichen Ausdauerwettkampf am 21. Juni laufen; viele Athleten haben sich bereits angemeldet. Warum er dieses Mal nicht im August stattfindet.</div>
+  <div class="info">16.05.2026, 01:42 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/zornige-ameise-so-geht-es-nach-dem-brand-weiter-4SMW5VOZRWG7XI2IPOG6HMXTVE.html" target="_blank" rel="noopener">„Zornige Ameise“: So geht es nach dem Brand weiter</a></h2>
+  <div class="teaser">Nach dem verheerenden Feuer an der Bever-Talsperre liegt die „Zornige Ameise“ in Trümmern. Ob und wann es dort wieder ein Lokal geben könnte, ist noch völlig offen.</div>
+  <div class="info">15.05.2026, 04:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/hueckeswagen-bever-talsperre-zornige-ameise-brennt-KNQF3YKPKJEP7AGIZNPTVYGPGI.html" target="_blank" rel="noopener">Hückeswagen: Bever-Talsperre: Ausflugslokal „Zornige Ameise“ brennt aus - Abriss</a></h2>
+  <div class="teaser">Die Feuerwehr Hückeswagen war am Dienstag mit einem Großaufgebot im Einsatz im Naherholungsgebiet: Das Ausflugslokal brannte erneut. Der Wupperverband baute zudem eine Ölsperre auf. Was genau passiert ist.</div>
+  <div class="info">13.05.2026, 14:40 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/romantisch-heiraten-in-hueckeswagen-YHYKWREDVWBL75IFMVO66PCMJU.html" target="_blank" rel="noopener">Romantisch heiraten in Hückeswagen</a></h2>
+  <div class="teaser">Standesamtliche Hochzeiten im Schloss sind aktuell wegen des Umbaus nicht möglich. Paare können aber unter anderem in der Friedenskapelle Voßhagen den Bund fürs Leben schließen.</div>
+  <div class="info">13.05.2026, 00:25 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/auf-bergische-wanderwoche-folgt-radwoche-im-herbst-HTRPQOVKJQC63T4P23U7XBXTXU.html" target="_blank" rel="noopener">Auf Bergische Wanderwoche folgt Radwoche im Herbst</a></h2>
+  <div class="teaser">Die Bergische Wanderwoche ist mit positiver Resonanz zu Ende gegangen. Die Teilnehmer lobten vor allem die schöne Landschaft und die gute Organisation.</div>
+  <div class="info">13.05.2026, 00:18 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/hier-kommt-es-fuer-oldtimer-auf-jede-sekunde-an-GDYAZLCQA2ZSRI3QMOQAMWS6SQ.html" target="_blank" rel="noopener">Hier kommt es für Oldtimer auf jede Sekunde an</a></h2>
+  <div class="teaser">Die 150 Teilnehmer der Oldtimer-Rallye „Röntgen-Classic“ machten am Samstagmorgen auch Station bei Vöpels Greenhouse. Hier wartete eine besondere Aufgabe auf die besonderen Autos und ihre Fahrer.</div>
+  <div class="info">12.05.2026, 01:55 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/wasserfuhr-brueder-praesentieren-neue-stuecke-7FPQFHUSS2A3JMNUEJGQGTIGHM.html" target="_blank" rel="noopener">Wasserfuhr-Brüder präsentieren neue Stücke</a></h2>
+  <div class="teaser">Fans dürfen sich auf einen exklusiven Jubiläumsabend mit neuen Stücken freuen. Die Jazz-Brüder Julian und Roman Wasserfuhr treten am 6. Juni in der Nachbarstadt auf.</div>
+  <div class="info">12.05.2026, 00:51 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202264/hueckeswagen-sexuelle-belaestigung/" target="_blank" rel="noopener">Hückeswagen: 17-Jährige sexuell belästigt – Unbekannter zieht Jugendliche in Gasse</a></h2>
+  <div class="teaser">Hückeswagen / Sexuelle Belästigung / Polizei / Islandstraße (Von Christian Sasse) In Hückeswagen (Oberbergischer Kreis/NRW) soll eine 17-Jährige am Freitagabend, 8. Mai 2026, auf der Islandstraße von einem unbekannten Mann gepackt und rückwärts in ei</div>
+  <div class="info">12.05.2026, 00:20 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/17-jaehrige-wird-sexuell-belaestigt-G6TJ2NHOSWK63VSXFF4CXWPBNU.html" target="_blank" rel="noopener">17-Jährige wird sexuell belästigt</a></h2>
+  <div class="teaser">Eine 17-jährige Hückeswagenerin fuhr am vergangenen Freitag (8. Mai) gegen 22.20 Uhr mit ihrem E-Scooter auf der Islandstraße in Richtung Kölner Straße.</div>
+  <div class="info">11.05.2026, 13:48 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6272564" target="_blank" rel="noopener">POL-GM: 17-Jährige sexuell belästigt</a></h2>
+  <div class="teaser">Hückeswagen (ots) - Eine 17-jährige Hückeswagenerin fuhr am Freitag (8. Mai) gegen 22:20 Uhr mit ihrem E-Scooter auf der Islandstraße in Richtung Kölner Straße. Als sie anhielt, um eine Nachricht auf ihrem Handy zu schreiben, packte sie ...</div>
+  <div class="info">11.05.2026, 10:12 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/talsperrenlauf-in-hueckeswagen-ein-sportfest-fuer-alle-generationen-MZQLJWVSFG7SQSCF7DAT3ACQDQ.html" target="_blank" rel="noopener">Talsperrenlauf in Hückeswagen: Ein Sportfest für alle Generationen</a></h2>
+  <div class="teaser">Die 39. Auflage des Talsperrenlaufs lockte am Samstag Hunderte Zuschauer und Teilnehmer an die Schnabelsmühle. Vom Bambinilauf bis zur Zehn-Kilometer-Distanz sorgten Ehrgeiz, kreative Kostüme und emotionale Momente für besondere Atmosphäre.</div>
+  <div class="info">11.05.2026, 02:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/hueckeswagen-remscheid-65-jaehriger-motorradfahrer-aus-remscheid-unfall-auf-k-14-wickesberg-purd-KOPBFKIHC5EMHL5R2RCLQJTA74.html" target="_blank" rel="noopener">Hückeswagen/Remscheid: 65-jähriger Motorradfahrer aus Remscheid Unfall auf K 14 Wickesberg Purd Honda</a></h2>
+  <div class="teaser">Zu einem Alleinunfall kam es am Samstag auf der Kreisstraße 14. Der 65-Jährige musste ins Krankenhaus. Was wir bislang wissen.</div>
+  <div class="info">10.05.2026, 10:40 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6272163" target="_blank" rel="noopener">POL-GM: Motorradfahrer bei Alleinunfall schwer verletzt</a></h2>
+  <div class="teaser">Hückeswagen (ots) - Ein 65-jähriger Motorradfahrer aus Remscheid war am Samstag (9. Mai, 14:20 Uhr) auf der K14 von &quot;Wickesberg&quot; in Fahrtrichtung &quot;Purd&quot; unterwegs. In einer scharfen Linkskurve geriet der 65-Jährige nach rechts auf das ...</div>
+  <div class="info">10.05.2026, 10:25 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/sozial-spendabel-solidarisch-DFJJJALW5LXWAGJ7QVZBFKZOPQ.html" target="_blank" rel="noopener">Sozial, spendabel, solidarisch</a></h2>
+  <div class="teaser">Drei Frauen der ersten Stunde erinnern sich an die Anfangsjahre der Hückeswagener Landfrauen, deren Ortsverein ein halbes Jahrhundert besteht.</div>
+  <div class="info">09.05.2026, 02:15 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/fuer-bau-des-hallenbads-muss-gehweg-verlegt-werden-4JRFJVCXBUBHFRGR6UB253AGUU.html" target="_blank" rel="noopener">Für Bau des Hallenbads muss Gehweg verlegt werden</a></h2>
+  <div class="teaser">Darüber diskutiert am 11. Mai der Planungsausschuss – auch über die Kosten von etwa 360.000 Euro.</div>
+  <div class="info">09.05.2026, 01:19 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/lebensmittelhaendler-familien-spueren-die-preissteigerungen-am-staerksten-6POJO7N7UMDHVXQZBOUYWFFXGQ.html" target="_blank" rel="noopener">Lebensmittelhändler: „Familien spüren die Preissteigerungen am stärksten“</a></h2>
+  <div class="teaser">Lebensmittelpreise steigen, doch nicht alle Warengruppen sind gleich betroffen. Luca Byhahn, Prokurist im Edeka-Markt auf Wiehagen erläutert, welche Produkte sogar günstiger geworden sind.</div>
+  <div class="info">08.05.2026, 02:26 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/alle-80-plaetze-im-kinderdorf-sind-belegt-SQYF35XTGGJFREM7FMAZPSQLNE.html" target="_blank" rel="noopener">Alle 80 Plätze im Kinderdorf sind belegt</a></h2>
+  <div class="teaser">Trotz reduzierter Teilnehmerzahl bleibt das Projekt eines der gefragtesten Angebote in den Sommerferien. Vom 10. bis 21. August können Sechs- bis Zwölfjährige sich wieder wie Erwachsene fühlen.</div>
+  <div class="info">08.05.2026, 01:19 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/diskussionsabend-zur-wehrpflicht-mitoffizier-betroffenen-und-kriegsgegnern-RIQFTHYGAPCY6VYOUOEQSP6QPM.html" target="_blank" rel="noopener">Diskussionsabend zur Wehrpflicht mitOffizier, Betroffenen und Kriegsgegnern</a></h2>
+  <div class="teaser">Im Kultur-Haus Zach findet am 11. Mai erstmals „Hückeswagen im Dialog“ statt. Das neue Format wird organisiert von der Bürgergruppierung „Wir sind mehr im Bergischen“.</div>
+  <div class="info">07.05.2026, 02:27 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/freundlichkeit-ist-eine-kraft-die-das-miteinander-traegt-SG336C525VH2OA4XEZYG76DIAY.html" target="_blank" rel="noopener">„Freundlichkeit ist eine Kraft,die das Miteinander trägt“</a></h2>
+  <div class="teaser">Bei der Maiwanderung der kfd trotzten die Teilnehmerinnen dem Regen und setzten sich beim spirituellen Spaziergang mit einem wichtigen Thema auseinander.</div>
+  <div class="info">07.05.2026, 00:30 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/in-oldies-bei-der-roentgen-classic-unterwegs-OF5DR5XUZIF3TK3RW6WQFTXPPE.html" target="_blank" rel="noopener">In Oldies bei der Röntgen-Classic unterwegs</a></h2>
+  <div class="teaser">Die Brüder Daniel und Thomas Meyer gehen mit ihren Partnerinnen am 9. Mai auf Tour in historischen Fahrzeugen: Die Hückeswagener nehmen mit einem VW Käfer Ovali und einem VW Bulli T2.</div>
+  <div class="info">06.05.2026, 01:23 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/n-classic-2026-in-remscheid-schenks-oldtimer-aus-dem-koelner-tatort-geht-an-den-start-C7RVP4P7BZDBJBTXVJJPH3MDKI.html" target="_blank" rel="noopener">n-Classic 2026 in Remscheid: Schenks Oldtimer aus dem Kölner Tatort geht an den Start</a></h2>
+  <div class="teaser">Nicht nur die Corvette des Ermittlers Freddy Schenk aus dem Kölner Tatort nimmt an der Rallye teil. Bei der diesjährigen Röntgen-Classic am 9. Mai können sich Oldtimerfans auf eine spannende Route und einzigartige Modelle freuen. Was gibt es wo zu se</div>
+  <div class="info">05.05.2026, 15:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/tag-des-lokaljournalismus-2026-was-der-rga-ihnen-heute-bietet-F7O6K4AQDFDJNLLXG2XHX5VOUY.html" target="_blank" rel="noopener">Tag des Lokaljournalismus 2026: Was der RGA Ihnen heute bietet</a></h2>
+  <div class="teaser">Portal und E-Paper freigeschaltet für alle, ein Sonderheft mit FAQ und eine Einladung an alle, die sich für Lokaljournalismus interessieren.</div>
+  <div class="info">05.05.2026, 12:11 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/sylvia-brecko-nimmt-tierliebe-aufs-korn-CBZJSO7RMWEMZEBE53DKIROFMM.html" target="_blank" rel="noopener">Sylvia Brécko nimmt Tierliebe aufs Korn</a></h2>
+  <div class="teaser">Um die besondere Beziehung zwischen Mensch und Tier geht es im Kabarettprogramm „Das letzte Kind trägt Fell“, mit dem die Kölnerin im Kultur-Haus Zach auftritt.</div>
+  <div class="info">05.05.2026, 02:51 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/siegerlesung-im-ungewoehnlichen-rahmen-K7COZKPNPWE5RWACITK5M347GA.html" target="_blank" rel="noopener">Siegerlesung im ungewöhnlichen Rahmen</a></h2>
+  <div class="teaser">Hannah und Arne Palubitzki öffneten das Erdgeschoss ihrer Wohnung an der Marktstraße für eine besondere Gelegenheit. Es war die letzte Lesung des fünften Schreibwettbewerbs „Superheld:innen“.</div>
+  <div class="info">05.05.2026, 00:55 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/mittelstand-in-solingen-und-remscheid-sorgenkind-industrie-stellenabbau-in-der-region-G3N75VJYKVHMPOIWALUCST77NU.html" target="_blank" rel="noopener">Mittelstand in Solingen und Remscheid: Sorgenkind Industrie – Stellenabbau in der Region</a></h2>
+  <div class="teaser">Es wollen so wenige Betriebe in Solingen und Remscheid investieren wie seit vielen Jahren nicht mehr: Das ist nicht nur ein Indikator dafür, wie es der Wirtschaft heute geht – sondern zeigt auch, dass die Zukunft vielen Arbeitgebern Kopfzerbrechen be</div>
+  <div class="info">04.05.2026, 15:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/das-bierdorf-hueckeswagen-profitiert-vom-neuen-standort-SH5PVYONJ6CHC45SPR7ZVJOLMQ.html" target="_blank" rel="noopener">Das Bierdorf Hückeswagen profitiert vom neuen Standort</a></h2>
+  <div class="teaser">Nach zweijähriger Pause gab es auf dem Bahnhofsplatz einen gelungenen Neustart. Bei bestem Frühlingswetter, guter Stimmung und pünktlich zum „Tanz in den Mai“ kamen viele Besucher.</div>
+  <div class="info">04.05.2026, 04:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/in-hueckeswagen-geht-eine-troedel-aera-zu-ende-noch-einmal-finden-alte-schaetze-neue-besitzer-K7E4MGHNUI3JTPDQESZCDG7H7M.html" target="_blank" rel="noopener">In Hückeswagen geht eine Trödel-Ära zu Ende: Noch einmal finden alte Schätze neue Besitzer</a></h2>
+  <div class="teaser">Die Katholische Frauengemeinschaft versteigert beim Markt „Altes neu macht der Mai“ ihre letzten Stücke.</div>
+  <div class="info">04.05.2026, 03:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201935/oberberg-unfaelle-motorrad-trunkenheit/" target="_blank" rel="noopener">Oberberg: 5 Verkehrsunfälle übers lange Wochenende – Trunkenheitsfahrt und Schwerverletzte</a></h2>
+  <div class="teaser">Oberberg / Verkehrsunfall / Motorrad / Polizei (Von Christian Sasse) Im Oberbergischen Kreis ereigneten sich zwischen Donnerstag (30. April) und Samstag (2. Mai 2026) insgesamt fünf Verkehrsunfälle – in Wipperfürth, Hückeswagen, Reichshof und Bergneu</div>
+  <div class="info">03.05.2026, 18:11 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201931/einbrueche-oberberg-gummersbach-polizei/" target="_blank" rel="noopener">Oberberg: Sechs Einbrüche in zehn Tagen – Polizei sucht dringend Zeugen</a></h2>
+  <div class="teaser">Einbruch / Gummersbach / Polizei / Oberberg (Von Christian Sasse) Im Oberbergischen Kreis haben Kriminelle innerhalb von zehn Tagen gleich sechs Mal zugeschlagen – in Gummersbach, Hückeswagen, Waldbröl, Morsbach und Marienheide. Besonders schwerwiege</div>
+  <div class="info">03.05.2026, 17:32 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6267326" target="_blank" rel="noopener">POL-GM: Versuchter Einbruch in Einfamilienhaus</a></h2>
+  <div class="teaser">Hückeswagen (ots) - Zwischen Dienstag (28. April), 23 Uhr, und Mittwoch, 12 Uhr, versuchten Unbekannte, das Fenster eines Einfamilienhauses in der Straße &quot;Herweg&quot; einzuschlagen. Nachdem ihnen das nicht gelungen war, flüchteten die Kriminellen in ...</div>
+  <div class="info">03.05.2026, 11:27 Uhr · Presseportal Polizei OBK</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">März 2026 <span class="monat-count">3</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200655/gummersbach-backerei-transporter-unfall/" target="_blank" rel="noopener">Gummersbach: Bäckerei-Transporter löst Kettenunfall mit fünf Fahrzeugen auf der Hückeswagener Straße aus</a></h2>
+  <div class="teaser">Gummersbach / Verkehrsunfall / Hückeswagener Straße / Oberberg (Von Christian Sasse) Ein Fahrfehler des Fahrers eines Bäckerei-Transporters hat am Mittwochmorgen in Gummersbach-Windhagen (Oberbergischer Kreis/NRW) einen schweren Verkehrsunfall mit fü</div>
+  <div class="info">18.03.2026, 13:12 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200649/hueckeswagen-betrug-autohaus-ankauf/" target="_blank" rel="noopener">Hückeswagen: Betrug im Autohaus – Polizei stellt 8 Fahrzeuge sicher</a></h2>
+  <div class="teaser">Hückeswagen / Betrug / Autohaus / Oberberg (Von Christian Sasse) Die Polizei hat am Montag, 16. März 2026, bei Durchsuchungsmaßnahmen in einem Autohaus in Hückeswagen (Oberbergischer Kreis/NRW) insgesamt acht Fahrzeuge sichergestellt. Ein 45-jähriger</div>
+  <div class="info">17.03.2026, 18:20 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200376/hueckeswagen-alkohol-baum-l101-unfall/" target="_blank" rel="noopener">Hückeswagen: Alkoholisierter Autofahrer prallt gegen Baum auf der L101</a></h2>
+  <div class="teaser">Hückeswagen / Polizei / Unfall / Alkohol (Von Christian Sasse) Ein 40-jähriger Fahrer aus Wermelskirchen ist am späten Mittwochabend auf der L101 bei Hückeswagen mit seinem Toyota von der Fahrbahn abgekommen und frontal gegen einen Baum geprallt. Der</div>
+  <div class="info">05.03.2026, 14:11 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Februar 2026 <span class="monat-count">3</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200040/oberberg-polizeimeldungen-2026-02-18/" target="_blank" rel="noopener">Oberberg: 3 Polizeimeldungen (18.02.2026) – Trickdiebstahl in Radevormwald, BMW-Räder in Waldbröl und Einbrüche in Hückeswagen</a></h2>
+  <div class="teaser">Oberberg / Polizei / Kriminalität / OBK (Von Christian Sasse) Die Polizei im Oberbergischen Kreis meldet am Dienstag gleich drei Straftaten: Ein Trickdieb klaut Bargeld aus einer Kasse in Radevormwald, Unbekannte stehlen alle vier Räder eines BMW in </div>
+  <div class="info">18.02.2026, 14:13 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://wipperfuerth.de/fileadmin/redaktion/Hansestadt_Wipperfuerth/Personal/Bauhofmitarbeiter-in_Strassenbau.pdf" target="_blank" rel="noopener">Stellen- und Ausbildungsangebote</a></h2>
+  <div class="teaser">Für die Bauhof Wupperfürth/Hückeswagen AöR suchen wir eine/n Mitarbeiter/in (m/w/d) Schwerpunkt Straßenbau.</div>
+  <div class="info">11.02.2026, 13:52 Uhr · Stadt Wipperfürth (offiziell)</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/199682/hueckeswagen-verkehrsunfall-20260204/" target="_blank" rel="noopener">Hückeswagen: Verkehrsunfall im Kreuzungsbereich – Autofahrer leicht verletzt</a></h2>
+  <div class="teaser">Hückeswagen / Verkehrsunfall / Polizei / Oberberg (Von Christian Sasse) Ein 54-jähriger Autofahrer ist am Dienstag (3. Februar) bei einem Verkehrsunfall im Kreuzungsbereich der Heinrich-Schicht-Straße und der Bockhackerstraße in Hückeswagen leicht ve</div>
+  <div class="info">04.02.2026, 11:24 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">August 2025 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.wipperfuerth.de/detailansicht/amtliche-bekanntmachung-24.html" target="_blank" rel="noopener">Amtliche Bekanntmachung</a></h2>
+  <div class="teaser">Genehmigung der vom Rat der Hansestadt Wipperfürth und vom Rat der Schloss-Stadt Hückeswagen beschlossenen Gründung des gemeinsamen Kommunalunternehmens „Bauhof Wipperfürth/Hückeswagen — Anstalt öffentlichen Rechts&quot; sowie der Unternehmenssatzung</div>
+  <div class="info">27.08.2025, 14:31 Uhr · Stadt Wipperfürth (offiziell)</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Juni 2025 <span class="monat-count">2</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/hueckeswagen/bierdeckel-fuer-hueckeswagen-fuer-eine-lebendige-innenstadt/" target="_blank" rel="noopener">Bierdeckel für Hückeswagen … für eine lebendige Innenstadt</a></h2>
+  <div class="teaser">Hückeswagen – In den Gastronomiebetrieben der Schloss-Stadt Hückeswagen gibt es ab sofort mehr als nur ein kühles Getränk: Gäste entdecken jetzt ganz besondere Bierdeckel. Der Beitrag Bierdeckel für Hückeswagen … für eine lebendige Innenstadt erschie</div>
+  <div class="info">03.06.2025, 19:34 Uhr · Oberberg Nachrichten</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/hueckeswagen/altstadtbuero-hueckeswagen-wasserschaden/" target="_blank" rel="noopener">Altstadtbüro Hückeswagen muss vorübergehend schließen</a></h2>
+  <div class="teaser">Das Altstadtbüro Hückeswagen, in der Peterstraße 2, das von Stadtverwaltung und Citymanagement Hückeswagen betrieben wird, muss aufgrund eines Wasserschadens vorübergehend schließen. Der Beitrag Altstadtbüro Hückeswagen muss vorübergehend schließen e</div>
+  <div class="info">03.06.2025, 19:25 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Mai 2025 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/hueckeswagen/segelcamp-bevertalsperre/" target="_blank" rel="noopener">Leinen los für kleine Seebären!</a></h2>
+  <div class="teaser">Die SVWu bietet Kinder und Jugendlichen im Alter von 8 bis 13 Jahren ein besonderes sportliches Highlight vom 1.8. bis zum 17.8. in dem Freizeitparadies Bevertalsperre. Der Beitrag Leinen los für kleine Seebären! erschien zuerst auf Oberberg-Nachrich</div>
+  <div class="info">30.05.2025, 15:55 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">April 2025 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://wipperfuerth.de/fileadmin/redaktion/Hansestadt_Wipperfuerth/News/Kommunale_Waermeplanung.pdf" target="_blank" rel="noopener">Startschuss für die Kommunale Wärmeplanung in Hückeswagen, Wermelskirchen und Wipperfürth</a></h2>
+  <div class="teaser">Informationen zur Wärmeplanung finden Sie unter Wirtschaft-Wohnen/Klimaschutz/ Kommunale Wärmeplanung.</div>
+  <div class="info">30.04.2025, 11:34 Uhr · Stadt Wipperfürth (offiziell)</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Februar 2025 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/hueckeswagen/hueckeswagen-innenstadt-foerdermittel/" target="_blank" rel="noopener">Hückeswagen – Fördermittel zur Belebung der Innenstadt</a></h2>
+  <div class="teaser">Sie sind Teil eines Vereins, eines Unternehmens oder eine engagierte Bürgerin bzw. ein engagierter Bürger der Stadt Hückeswagen? Dann haben Sie jetzt die Gelegenheit, Fördermittel für Ihr Projekt zu beantragen! Der Beitrag Hückeswagen – Fördermittel </div>
+  <div class="info">03.02.2025, 13:17 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">September 2024 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/hueckeswagen/hueckeswagener-altstadtfest-mehr-sicherheitskraefte-im-einsatz/" target="_blank" rel="noopener">Hückeswagener Altstadtfest – Mehr Sicherheitskräfte im Einsatz</a></h2>
+  <div class="teaser">Nach dem furchtbaren Anschlag in Solingen beim Stadtfest vor zwei Wochen haben sich Bürgermeister Dietmar Persian und Mitarbeiter des Ordnungsamts mit der örtlichen Polizei getroffen, um das Vorgehen für das Altstadtfest an diesem Wochenende abzustim</div>
+  <div class="info">06.09.2024, 13:22 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">November 2023 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/hueckeswagen/bergische-wanderwochen-brachten-800-euro-ein/" target="_blank" rel="noopener">Bergische Wanderwochen brachten 800 Euro ein</a></h2>
+  <div class="teaser">Am Mittwoch, 26.10.2023 trafen sich die ehrenamtlichen Wanderführenden der Bergischen Wanderwochen 2023 zu einem Abschlussabend. Der Beitrag Bergische Wanderwochen brachten 800 Euro ein erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">06.11.2023, 14:44 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Mai 2023 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/hueckeswagen/foerderung-fuer-wilhelmsplatz-und-altstadt/" target="_blank" rel="noopener">Förderung für Wilhelmsplatz und Altstadt</a></h2>
+  <div class="teaser">Hückeswagen - Kernpunkt der Förderung sind der Umbau und die Aufwertung des Wilhelmsplatz im Zentrum der Stadt. Der Beitrag Förderung für Wilhelmsplatz und Altstadt erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">23.05.2023, 12:39 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Februar 2023 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/hueckeswagen/hueckeswagen-jugendzentrum-ab-07-02-2023-wieder-geoeffnet/" target="_blank" rel="noopener">Hückeswagen – Jugendzentrum ab 07.02.2023 wieder geöffnet</a></h2>
+  <div class="teaser">Ab Dienstag, den 07.02.2023, öffnet das Jugendzentrum Hückeswagen wieder seine Türen. Mit einem Übergangsangebot ist es an drei Tagen in der Woche geöffnet. Der Beitrag Hückeswagen – Jugendzentrum ab 07.02.2023 wieder geöffnet erschien zuerst auf Obe</div>
+  <div class="info">02.02.2023, 11:54 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">August 2020 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wipperfuerth/vorstellung-buergermeisterkandidat-frank-michael-mueller/" target="_blank" rel="noopener">Vorstellung: Bürgermeisterkandidat Frank-Michael Müller</a></h2>
+  <div class="teaser">In Hückeswagen treten zur kommenden Kommunalwahl am 13. September 2020 drei Kandidaten für das Amt des Bürgermeisters an: Frank-Michael Müller, Anne Loth und Stefan Liedholz. Der Beitrag Vorstellung: Bürgermeisterkandidat Frank-Michael Müller erschie</div>
+  <div class="info">20.08.2020, 13:59 Uhr · Oberberg Nachrichten Wipperfürth</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">März 2020 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wipperfuerth/glasfaserausbau-bauarbeiten-in-der-wupperstrasse/" target="_blank" rel="noopener">Glasfaserausbau – Bauarbeiten in der Wupperstraße</a></h2>
+  <div class="teaser">Wipperfürth / Hückeswagen – Ab heute (19. März 2020) werden Leerrohre für das schnelle Internet in der Wupperstraße verlegt: Die Trasse verläuft im Parkstreifen in Bauabschnitten von jeweils circa 60 … Der Beitrag Glasfaserausbau – Bauarbeiten in der</div>
+  <div class="info">19.03.2020, 10:22 Uhr · Oberberg Nachrichten Wipperfürth</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Februar 2020 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wipperfuerth/gehoelzarbeiten-zwischen-wipperfuerth-und-hueckeswagen/" target="_blank" rel="noopener">Gehölzarbeiten zwischen Wipperfürth und Hückeswagen</a></h2>
+  <div class="teaser">Wipperfürth/Hückeswagen/Gummersbach – Ab Mittwoch (12.2.) führt die Straßen.NRW-Regionalniederlassung Rhein-Berg Gehölzarbeiten entlang der K14 zwischen Wipperfürth-Lamsfuss und Hückeswagen-Straßweg (Oberbergischer Kreis) durch. Hierfür muss die Krei</div>
+  <div class="info">10.02.2020, 08:56 Uhr · Oberberg Nachrichten Wipperfürth</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Dezember 2019 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/hueckeswagen/aus-kaufrausch-wird-tauschrausch-nix-kuett-fott-in-hueckeswagen/" target="_blank" rel="noopener">Aus Kaufrausch wird Tauschrausch – Nix kütt fott in Hückeswagen</a></h2>
+  <div class="teaser">Hückeswagen – Etwas Nützliches eintauschen, statt es zu kaufen. Einen noch intakten Gegenstand spenden, anstatt ihn wegzuwerfen. Ein Gerät reparieren, anstatt es auszumustern. Tun wir dies in unserem Alltag oder … Der Beitrag Aus Kaufrausch wird Taus</div>
+  <div class="info">16.12.2019, 11:38 Uhr · Oberberg Nachrichten Wipperfürth</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">November 2019 <span class="monat-count">2</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/hueckeswagen/ministerlicher-spatenstich-zum-glasfaser-ausbau-in-hueckeswagen/" target="_blank" rel="noopener">Ministerlicher Spatenstich zum Glasfaser-Ausbau in Hückeswagen</a></h2>
+  <div class="teaser">Hückeswagen / Wipperfürth – Am Donnerstag (21. November) sind die Weichen in Hückeswagen und Wipperfürth offiziell auf Zukunft gestellt worden: Professor Andreas Pinkwart, Minister für Wirtschaft, Innovation, Digitalisierung und Energie … Der Beitrag</div>
+  <div class="info">21.11.2019, 14:32 Uhr · Oberberg Nachrichten Wipperfürth</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/hueckeswagen/zwei-unfallfluechtige-nach-misslungenem-ueberholen/" target="_blank" rel="noopener">Zwei Unfallflüchtige nach misslungenem Überholen</a></h2>
+  <div class="teaser">Hückeswagen / Wipperfürth – Nach einem Verkehrsunfall beim Überholen haben sich am Samstagabend (9. November) gleich zwei Beteiligte vom Unfallort entfernt; während ein Zeuge den vermutlichen Unfallverursacher zum Anhalten bewegen … Der Beitrag Zwei </div>
+  <div class="info">11.11.2019, 13:39 Uhr · Oberberg Nachrichten Wipperfürth</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Juli 2019 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wipperfuerth/mayors-for-peace-buergermeister-fuer-den-frieden/" target="_blank" rel="noopener">Mayors for Peace – Bürgermeister für den Frieden</a></h2>
+  <div class="teaser">Die Bürgermeister der benachbarten Kommunen Hückeswagen und Wipperfürth setzen mit dem Beitritt zur Organisation Mayors for Peace gemeinsam ein erkennbares Zeichen für den Frieden. Der Beitrag Mayors for Peace – Bürgermeister für den Frieden erschien</div>
+  <div class="info">09.07.2019, 10:17 Uhr · Oberberg Nachrichten Wipperfürth</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Januar 2019 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/hueckeswagen/ehrenamtsinitiative-weitblick-mit-neuem-projekt-unterwegs/" target="_blank" rel="noopener">Ehrenamtsinitiative Weitblick mit neuem Projekt unterwegs</a></h2>
+  <div class="teaser">Die ehrenamtlichen Helferinnen und Helfer, der Ehrenamtsinitiative Weitblick Oberberg, freuen sich auf ein neues Projekt, wobei Hilfesuchenden kurz, schnell und komplikationslos geholfen werden soll. Der Beitrag Ehrenamtsinitiative Weitblick mit neue</div>
+  <div class="info">31.01.2019, 11:08 Uhr · Oberberg Nachrichten Wipperfürth</div>
+</div>
+</div></div>
+</main>
+<footer>
+  <a href="../index.html">Hückeswagen</a> · Archiv · Aktualisiert: 22.10.2026, 22:19 Uhr<br>
+  <a href="/ai-tageszeitung/impressum/">Impressum</a> · <a href="/ai-tageszeitung/rechtliches/">Rechtliche Hinweise</a> · <a href="/ai-tageszeitung/rechtliches/#datenschutz">Datenschutz</a><br>
+  <a href="https://github.com/dna-dieter/ai-tageszeitung/actions/workflows/update.yml">GitHub</a>
+</footer>
+
+<script>
+(function() {
+  // Button nur für Betreiber: sichtbar mit ?admin in der Adresse (wird gemerkt), ?admin=aus blendet ihn wieder aus.
+  try {
+    const p = new URLSearchParams(location.search);
+    if (p.has('admin')) {
+      if (p.get('admin') === 'aus') localStorage.removeItem('ai_tz_admin');
+      else localStorage.setItem('ai_tz_admin', '1');
+    }
+    if (localStorage.getItem('ai_tz_admin') === '1') {
+      const b = document.getElementById('btn-refresh');
+      if (b) b.hidden = false;
+    }
+  } catch (e) {}
+  const REPO = 'dna-dieter/ai-tageszeitung';
+  const WORKFLOW = 'update.yml';
+  const TOKEN_KEY = 'ai_tz_github_token';
+  const API = 'https://api.github.com';
+
+  function getToken() {
+    let t = localStorage.getItem(TOKEN_KEY);
+    if (!t) {
+      t = prompt(
+        'Einmaliger Setup: Bitte GitHub Personal Access Token eingeben.\n\n' +
+        'Der Token braucht Berechtigung "Actions: Read and write" auf diesem Repo.\n' +
+        'Der Token wird nur lokal in deinem Browser gespeichert.'
+      );
+      if (t) {
+        t = t.trim();
+        localStorage.setItem(TOKEN_KEY, t);
+      }
+    }
+    return t;
+  }
+
+  function setStatus(msg) {
+    const el = document.getElementById('refresh-status');
+    if (el) el.textContent = msg;
+  }
+
+  function setButton(loading, label) {
+    const btn = document.getElementById('btn-refresh');
+    if (!btn) return;
+    btn.disabled = loading;
+    btn.classList.toggle('loading', loading);
+    btn.innerHTML = loading
+      ? '<span class="spinner"></span> ' + (label || 'Aktualisiere...')
+      : '\u21bb ' + (label || 'Jetzt aktualisieren');
+  }
+
+  async function gh(path, opts) {
+    const token = getToken();
+    if (!token) throw new Error('Kein Token');
+    const res = await fetch(API + path, Object.assign({
+      headers: {
+        'Accept': 'application/vnd.github+json',
+        'Authorization': 'Bearer ' + token,
+        'X-GitHub-Api-Version': '2022-11-28'
+      }
+    }, opts || {}));
+    return res;
+  }
+
+  async function triggerWorkflow() {
+    const res = await gh('/repos/' + REPO + '/actions/workflows/' + WORKFLOW + '/dispatches', {
+      method: 'POST',
+      headers: {
+        'Accept': 'application/vnd.github+json',
+        'Authorization': 'Bearer ' + getToken(),
+        'X-GitHub-Api-Version': '2022-11-28',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ ref: 'main' })
+    });
+    if (res.status === 401 || res.status === 403) {
+      localStorage.removeItem(TOKEN_KEY);
+      throw new Error('Token ungültig oder abgelaufen (gelöscht, bitte neu eingeben)');
+    }
+    if (!res.ok) {
+      const text = await res.text();
+      throw new Error('Trigger fehlgeschlagen: ' + res.status + ' ' + text.slice(0, 120));
+    }
+  }
+
+  async function findRun(triggeredAt) {
+    const res = await gh('/repos/' + REPO + '/actions/workflows/' + WORKFLOW + '/runs?per_page=5&event=workflow_dispatch');
+    if (!res.ok) return null;
+    const data = await res.json();
+    const runs = data.workflow_runs || [];
+    for (const r of runs) {
+      const created = new Date(r.created_at).getTime();
+      if (created >= triggeredAt - 10000) return r;
+    }
+    return null;
+  }
+
+  async function waitForCompletion(triggeredAt) {
+    const deadline = Date.now() + 6 * 60 * 1000; // max 6 min
+    let run = null;
+    // find the run (kann ein paar Sekunden dauern)
+    while (!run && Date.now() < deadline) {
+      await new Promise(r => setTimeout(r, 3000));
+      run = await findRun(triggeredAt);
+      if (!run) setStatus('Starte Workflow...');
+    }
+    if (!run) throw new Error('Workflow-Lauf nicht gefunden');
+
+    while (Date.now() < deadline) {
+      const res = await gh('/repos/' + REPO + '/actions/runs/' + run.id);
+      if (!res.ok) break;
+      const r = await res.json();
+      setStatus('Status: ' + (r.status || '?') + (r.conclusion ? ' (' + r.conclusion + ')' : ''));
+      if (r.status === 'completed') return r;
+      await new Promise(res => setTimeout(res, 5000));
+    }
+    throw new Error('Timeout beim Warten');
+  }
+
+  window.triggerRefresh = async function() {
+    try {
+      const token = getToken();
+      if (!token) return;
+      setButton(true, 'Starte...');
+      setStatus('Sende Trigger an GitHub...');
+      const t0 = Date.now();
+      await triggerWorkflow();
+      setStatus('Workflow gestartet, warte auf Abschluss...');
+      const run = await waitForCompletion(t0);
+      if (run.conclusion === 'success') {
+        setStatus('Fertig! Lade Seite neu...');
+        // Kurz warten bis GitHub Pages deployed hat
+        setTimeout(() => location.reload(), 30000);
+        setStatus('Fertig! Seite lädt in 30s neu (GitHub Pages Deploy)...');
+      } else {
+        setButton(false);
+        setStatus('Fehlgeschlagen: ' + run.conclusion);
+      }
+    } catch (e) {
+      setButton(false);
+      setStatus('Fehler: ' + e.message);
+    }
+  };
+})();
+</script>
+
+</body></html>

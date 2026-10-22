@@ -1,308 +1,19 @@
 [
   {
-    "id": "b936d1a830de",
-    "title": "Jede Flasche erzählt eine Geschichte – Burscheider braut preisgekröntes Bier",
-    "summary": "Was als Geschenk aus dem Internet begann, wurde zum preisgekrönten Hobby: Peter Odenthal braut in Hilgen sein eigenes Bier und misst sich erfolgreich mit großen Brauereien. Seine Sorten heißen „Millerstree’s finest“ und sind in der lokalen Gastronomie erhältlich. Wie er auf die Namen kommt.",
-    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/jede-flasche-erzaehlt-eine-geschichte-burscheider-braut-preisgekroentes-bier-2MUND2YNFZH2BHAQ7WVYBQ7XVA.html",
-    "published": "Wed, 30 Sep 2026 02:00:00 +0200",
-    "source": "RGA Burscheid",
+    "id": "3a4452ce6425",
+    "title": "Bergisch Gladbach trauert um Sabine Becker – eine Brückenbauerin der Völkerverständigung",
+    "summary": "Gemeinsam mit ihrem Ehemann Axel Becker geh&ouml;rte Sabine Becker zu den ma&szlig;geblichen Wegbereitern der St&auml;dtepartnerschaft zwischen Bergisch Gladbach und der pal&auml;stinensischen Stadt Beit Jala. Seit den ersten Kontakten im Jahr 2002 setzte sich das Ehepaar unerm&uuml;dlich daf&uuml;r ein, Menschen zusammenzubringen, Vorurteile abzubauen und gegenseitiges Verst&auml;ndnis zu f&ouml;",
+    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52835",
+    "published": "2026-10-22 13:45:03",
+    "source": "Stadt Bergisch Gladbach (offiziell)",
     "kommunen": [
-      "odenthal",
-      "burscheid"
-    ],
-    "fetched": "2026-09-30T00:19:46.994310"
-  },
-  {
-    "id": "f32f0f635898",
-    "title": "POL-RBK: Odenthal - Einbrecher erbeuten Bargeld",
-    "summary": "Odenthal (ots) - Gestern Nachmittag (26.05.), zwischen 14:30 Uhr und 17:00 Uhr, ist es in Odenthal-Erberich zu einem Einbruch in ein Einfamilienhaus gekommen. Bislang Unbekannte sind im genannten Zeitraum gewaltsam in das Haus im Schlehdornweg ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/62459/6282453",
-    "published": "Wed, 27 May 2026 08:28:28 +0200",
-    "source": "Presseportal Polizei RBK",
-    "kommunen": [
+      "bergisch-gladbach",
       "odenthal"
     ],
-    "fetched": "2026-05-27T08:46:43.854758"
-  },
-  {
-    "id": "9ea837926e43",
-    "title": "FW-GL: Interkommunale Zusammenarbeit der Feuerwehren Bergisch Gladbach und Odenthal vereinbart",
-    "summary": "Bergisch Gladbach / Odenthal (ots) - Gemeinsame Pressemitteilung Stadt Bergisch Gladbach | Feuerwehr Bergisch Gladbach | Gemeinde Odenthal | Feuerwehr Odenthal Interkommunale Zusammenarbeit stärkt Feuerwehrstrukturen im Rheinisch-Bergischen Kreis ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/116240/6243499",
-    "published": "Wed, 25 Mar 2026 17:33:44 +0100",
-    "source": "Presseportal Feuerwehr Bergisch Gladbach",
-    "kommunen": [
-      "odenthal",
+    "fetched": "2026-10-22T20:06:29.710988",
+    "feed_kommunen": [
       "bergisch-gladbach"
-    ],
-    "fetched": "2026-05-05T21:01:09.026280"
-  },
-  {
-    "id": "200309a562ca",
-    "title": "Feuerwehren GL und Odenthal arbeiten enger zusammen",
-    "summary": "Bergisch Gladbach und Odenthal wollen in Sachen Brandschutz intensiver kooperieren. Künftig übernimmt die Gladbacher Feuerwehr zentrale Werkstattleistungen für die Feuerwehr Odenthal, beide nutzen einen gemeinsamen Gerätepool. Die Verantwortlichen beider Kommunen sehen in der Kooperation ein zukunftsweisendes Modell.",
-    "link": "https://in-gl.de/2026/03/25/feuerwehren-gl-und-odenthal-arbeiten-enger-zusammen/",
-    "published": "Wed, 25 Mar 2026 17:05:23 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "odenthal",
-      "bergisch-gladbach"
-    ],
-    "fetched": "2026-05-05T21:10:26.234940"
-  },
-  {
-    "id": "2cd56c553c68",
-    "title": "Volt/FWG schlägt elektronische Überwachung für Nittumer Weg vor",
-    "summary": "Die Fraktion Volt/FWG beantragt eine elektronische Verkehrsüberwachung der Umleitung für die Altenberger-Dom-Straße. Kamerasysteme sollen Ein- und Ausfahrten erfassen und die Anliegerregelung überwachen. Der Schutz der Anwohnerschaft von Nittumer Weg und Zehntweg vor unrechtsmäßigem Durchgangsverkehr soll damit gewährleistet werden.",
-    "link": "https://in-gl.de/2026/02/25/volt-fwg-schlaegt-elektronische-ueberwachung-fuer-nittumer-weg-vor/",
-    "published": "Wed, 25 Feb 2026 07:51:00 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "odenthal"
-    ],
-    "fetched": "2026-05-05T21:10:26.239728"
-  },
-  {
-    "id": "47d1868f4a45",
-    "title": "Ernährungsrat lädt zum Erntedankfest nach Voiswinkel ein",
-    "summary": "Der Ernährungsrat Bergisches Land e.V. lädt gemeinsam mit dem Kultur Spiegel Odenthal e.V.zu einem besonderen Erntedankfest der Nachhaltigkeit nach Odenthal-Voiswinkel auf den Kirchplatz St. Engelbert ein.",
-    "link": "https://in-gl.de/2026/09/23/ernaehrungsrat-laedt-zum-erntedankfest-nach-voiswinkel-ein/",
-    "published": "Wed, 23 Sep 2026 17:01:00 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "odenthal"
-    ],
-    "fetched": "2026-09-23T20:13:06.989921"
-  },
-  {
-    "id": "e0f4b0dfc995",
-    "title": "Kulturrucksack 2026: kostenlose Angebote für 10 – 14-Jährige, jetzt anmelden!",
-    "summary": "Kostenfreies Angebot an alle 10- bis 14-Jährigen aus dem Projektverbund für die Gemeinde Kürten&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;Kulturrucksack 2026: Kreative Vielfalt für Kinder und Jugendliche in Kürten&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Kürten, 24. Februar 2026&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Der Städteverbund Kürten, Burscheid, Leichlingen, Odenthal und Wermel",
-    "link": "https://www.kuerten.de/aktuelle-ereignisse/kulturrucksack-2026-kostenlose-angebote-fuer-10-14-jaehrige-jetzt-anmelden/",
-    "published": "Wed, 22 Apr 2026 07:07:42 +0000",
-    "source": "Gemeinde Kürten (offiziell)",
-    "kommunen": [
-      "burscheid",
-      "odenthal",
-      "leichlingen",
-      "kuerten",
-      "wermelskirchen"
-    ],
-    "fetched": "2026-05-06T16:12:25.979362"
-  },
-  {
-    "id": "6e6641e5f070",
-    "title": "Zwei Wochen geht nichts mehr: Altenberger-Dom-Straße in Schildgen gesperrt – Umleitungen eingerichtet",
-    "summary": "Die Vollsperrung der Altenberger-Dom-Straße hat begonnen.",
-    "link": "https://www.ksta.de/region/rhein-berg/das-grauen-hat-begonnen-jetzt-ist-schildgen-dicht-1-1398876",
-    "published": "Wed, 21 Oct 2026 02:00:23 +0200",
-    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
-    "kommunen": [
-      "bergisch-gladbach",
-      "odenthal"
-    ],
-    "fetched": "2026-10-22T20:06:29.916237"
-  },
-  {
-    "id": "e84bb0f60a2b",
-    "title": "Baumaßnahme an der Altenberger-Dom-Straße: Schulweg zur Concordiaschule wieder freigegeben",
-    "summary": "Kurzfristige Sperrung sorgt für Probleme Seit Montag, 19. Januar, führt die Stadt Bergisch Gladbach Bauarbeiten an der Altenberger-Dom-Straße durch. Mit Beginn der Maßnahme wurde ein Gehwegabschnitt gesperrt, der üblicherweise von den Schülerinnen und Schülern der Concordiaschule als direkter Schulweg genutzt wird. Die kurzfristige Sperrung führte insbesondere zum Schulschluss zu erheblichen Schwi",
-    "link": "https://www.glaktuell.net/baumassnahme-an-der-altenberger-dom-strasse-schulweg-zur-concordiaschule-wieder-freigegeben/",
-    "published": "Wed, 21 Jan 2026 09:55:14 +0000",
-    "source": "GL Aktuell (Gesamt)",
-    "kommunen": [
-      "odenthal",
-      "bergisch-gladbach"
-    ],
-    "fetched": "2026-05-05T21:10:35.314072"
-  },
-  {
-    "id": "b04facc90a28",
-    "title": "Stadt macht Weg zur Concordia-Straße vorübergehend frei",
-    "summary": "Um einen sicheren Schulweg für die Concordia-Schule zu gewährleisten, passt die Stadtverwaltung die Verkehrsregeln für die Bauarbeiten auf der Altenberger-Dom-Straße noch einmal an. Zunächst ist der direkte Zugang zu Fuß wieder frei. Für spätere Bauphasen sollen Alternativen geprüft werden.",
-    "link": "https://in-gl.de/2026/01/21/stadt-macht-weg-zur-concordia-strasse-voruebergehend-frei/",
-    "published": "Wed, 21 Jan 2026 06:30:17 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "odenthal"
-    ],
-    "fetched": "2026-05-05T21:10:26.244764"
-  },
-  {
-    "id": "c3485c3d9815",
-    "title": "Container-Einbruch in Odenthal",
-    "summary": "Unbekannte sind in Container auf einem Sportplatz an der Bergisch Gladbacher Straße eingebrochen. Mehrere Türen wurden aufgebrochen, der Schaden liegt im mittleren vierstelligen Bereich.",
-    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/container-einbruch-in-odenthal-BI2BJCYS55MKEZ6UYIWJSUGIHE.html",
-    "published": "Wed, 17 Jun 2026 13:40:11 +0200",
-    "source": "RGA Burscheid",
-    "kommunen": [
-      "bergisch-gladbach",
-      "odenthal",
-      "burscheid"
-    ],
-    "fetched": "2026-06-17T15:58:59.391899"
-  },
-  {
-    "id": "23b29c06a43a",
-    "title": "POL-RBK: Odenthal - Schulcontainer aufgebrochen",
-    "summary": "Odenthal (ots) - Unbekannte haben an und in Schulcontainern große Schäden verursacht. Sie hatten mehrere Türen aufgebrochen. Die Polizei bittet um Zeugenhinweise. Gestern Morgen (16.06.), gegen 07:45 Uhr, rief der Hausmeister der Realschule die ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/62459/6295959",
-    "published": "Wed, 17 Jun 2026 09:01:43 +0200",
-    "source": "Presseportal Polizei RBK",
-    "kommunen": [
-      "odenthal"
-    ],
-    "fetched": "2026-06-17T11:14:55.121713"
-  },
-  {
-    "id": "6f555aea700b",
-    "title": "Bauturbo macht Weg für große Projekte frei",
-    "summary": "Einerseits fehlt in Bergisch Gladbach Wohnraum, andererseits liegen Grundstücke brach - weil das Baurecht eine Bebauung bislang verhinderte. Doch nun macht der Bauturbo große und kleine Projekte möglich, die bislang blockiert waren. Zum Beispiel ein Lückenschluss zwischen Paffrather Straße und Kalköfen. Große Wohnhäuser an der Ecke Rommerscheider / Odenthaler Straße. Eine Aufstockung des Schloss C",
-    "link": "https://in-gl.de/2026/06/17/bauturbo-macht-weg-fuer-grosse-projekte-frei/",
-    "published": "Wed, 17 Jun 2026 08:27:49 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "odenthal",
-      "bergisch-gladbach"
-    ],
-    "fetched": "2026-06-17T11:14:30.537200"
-  },
-  {
-    "id": "b38c99661316",
-    "title": "Betreuungsplatzvergabe in Burscheid, Kürten und Odenthal startet ab dem 1. Februar",
-    "summary": "&lt;p&gt;&lt;strong&gt;Der Rheinisch-Bergischer Kreis informiert:&lt;/strong&gt;&lt;br /&gt; Ab dem&lt;strong&gt; 1. Februar startet die Vergabe von Betreuungsplätzen in Kindertageseinrichtungen und in der Kindertagespflege&lt;/strong&gt; in Burscheid, Kürten und Odenthal für die Aufnahme zum August 2026.&lt;/p&gt; &lt;p&gt;Um ein Platzangebot erhalten zu können, ist die Registrierung eines persön",
-    "link": "https://www.kuerten.de/aktuelle-ereignisse/betreuungsplatzvergabe-in-burscheid-kuerten-und-odenthal-startet-ab-dem-1-februar/",
-    "published": "Wed, 14 Jan 2026 08:17:27 +0000",
-    "source": "Gemeinde Kürten (offiziell)",
-    "kommunen": [
-      "kuerten",
-      "burscheid",
-      "odenthal"
-    ],
-    "fetched": "2026-05-06T16:12:25.983739"
-  },
-  {
-    "id": "57bd6eef02f8",
-    "title": "Kreiskatholikenrat wählt neuen Vorstand",
-    "summary": "Klara König ist zur neuen Vorsitzende des Kreiskatholikenrats gewählt worden. Weitere Vorstandsmitglieder kommen aus Bergisch Gladbach, Odenthal und Leichlingen.",
-    "link": "https://in-gl.de/2026/05/13/kreiskatholikenrat-waehlt-neuen-vorstand/",
-    "published": "Wed, 13 May 2026 05:59:00 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "bergisch-gladbach",
-      "leichlingen",
-      "odenthal"
-    ],
-    "fetched": "2026-05-13T14:55:38.079181"
-  },
-  {
-    "id": "7095b3396848",
-    "title": "Motorrad-Fahrschülerin stürzt fünf Meter in die Tiefe – Schwer verletzt nach Unfall in Odenthal",
-    "summary": "Am Dienstagvormittag kam es in Odenthal zu einem schweren Verkehrsunfall mit einer Motorrad-Fahrschülerin. Die 44-jährige Frau aus Wülfrath verlor während einer Fahrstunde die Kontrolle über ihr Motorrad, kollidierte mit einem Geländer und stürzte rund fünf Meter in die Tiefe. Sie wurde schwer verletzt mit einem Rettungshubschrauber ins Krankenhaus gebracht. Symbolbild Unfall während Fahrstunde – ",
-    "link": "https://www.glaktuell.net/motorrad-fahrschuelerin-stuerzt-fuenf-meter-in-die-tiefe-schwer-verletzt-nach-unfall-in-odenthal/",
-    "published": "Wed, 11 Jun 2025 09:42:31 +0000",
-    "source": "GL Aktuell Odenthal",
-    "kommunen": [
-      "bergisch-gladbach",
-      "odenthal"
-    ],
-    "fetched": "2026-05-05T22:40:06.386868"
-  },
-  {
-    "id": "190abad48cf2",
-    "title": "Geplante Autismus-Kita steht vor dem Aus",
-    "summary": "Im Dezember 2021 hatte der Stadtrat die Pläne für eine neue Kita mit einem Kompetenzzentrum beschlossen. Neben Betreuungsplätzen für Kinder mit Autismus-Spektrum-Störung sollte an der Odenthaler Straße auch ein Ort für Schulungen und Weiterbildungen geschaffen werden. Nun will die Stadtverwaltung das Projekt kippen.",
-    "link": "https://in-gl.de/2025/12/10/geplante-autismus-kita-steht-vor-dem-aus-bergisch-gladbach/",
-    "published": "Wed, 10 Dec 2025 09:10:15 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "odenthal"
-    ],
-    "fetched": "2026-05-05T21:10:26.249684"
-  },
-  {
-    "id": "e931aedbcb54",
-    "title": "Einbrecher in Burscheid und Odenthal unterwegs – Schmuck und Bargeld entwendet",
-    "summary": "Gleich zwei Einbrüche beschäftigten am Samstagabend (09.12.) die Polizei im Rheinisch-Bergischen Kreis. In Burscheid und Odenthal drangen unbekannte Täter in Wohnhäuser ein und entwendeten Schmuck und Bargeld. In beiden Fällen fehlt von den Einbrechern bislang jede Spur. Einbruch in der Pastor-Löh-Straße in Burscheid Der erste Einsatz führte die Beamten gegen Abend nach Burscheid. Zwischen 15:50 [",
-    "link": "https://www.glaktuell.net/einbrecher-in-burscheid-und-odenthal-unterwegs-schmuck-und-bargeld-entwendet/",
-    "published": "Wed, 10 Dec 2025 09:08:43 +0000",
-    "source": "GL Aktuell Odenthal",
-    "kommunen": [
-      "bergisch-gladbach",
-      "burscheid",
-      "odenthal"
-    ],
-    "fetched": "2026-05-05T22:40:06.386505"
-  },
-  {
-    "id": "19a3b4360a27",
-    "title": "Schwerer Unfall in Odenthal: Drei Verletzte – darunter ein Kind",
-    "summary": "Am Dienstagabend (8. Juli) kam es in Odenthal zu einem schweren Verkehrsunfall, bei dem drei Menschen verletzt wurden. Unter den Betroffenen ist auch ein fünfjähriger Junge, der wie eine weitere Fahrerin schwere Verletzungen erlitt. Unfall Funkenhof Unfall in einer Rechtskurve Nach ersten Erkenntnissen war gegen 18:40 Uhr ein 18-jähriger Fahrer aus Bergisch Gladbach mit seinem [&#8230;] The post S",
-    "link": "https://www.glaktuell.net/schwerer-unfall-in-odenthal-drei-verletzte-darunter-ein-kind/",
-    "published": "Wed, 09 Jul 2025 08:54:50 +0000",
-    "source": "GL Aktuell Odenthal",
-    "kommunen": [
-      "bergisch-gladbach",
-      "odenthal"
-    ],
-    "fetched": "2026-05-05T22:40:06.386766"
-  },
-  {
-    "id": "74afbc7d15e2",
-    "title": "Umfangreiche Straßenerneuerung in Schildgen: Arbeiten an der Altenberger-Dom-Straße starten im Januar",
-    "summary": "Die Stadt Bergisch Gladbach beginnt Mitte Januar 2026 mit der umfassenden Erneuerung der Altenberger-Dom-Straße. Der Baustart ist für Montag, den 19. Januar 2026, vorgesehen, witterungsbedingte Verschiebungen sind möglich. Die Maßnahme erstreckt sich zunächst vom Abschnitt Leverkusener Straße bis Schlebuscher Straße und wird im weiteren Verlauf bis „In den Wiesen“ fortgeführt. Der Abschluss ist fü",
-    "link": "https://www.glaktuell.net/umfangreiche-strassenerneuerung-in-schildgen-arbeiten-an-der-altenberger-dom-strasse-starten-im-januar/",
-    "published": "Wed, 07 Jan 2026 11:00:00 +0000",
-    "source": "GL Aktuell (Gesamt)",
-    "kommunen": [
-      "odenthal",
-      "bergisch-gladbach"
-    ],
-    "fetched": "2026-05-05T21:10:35.316188"
-  },
-  {
-    "id": "7dc52330c15e",
-    "title": "POL-RBK: Bergisch Gladbach - Mitarbeiter eines Lebensmittelgeschäftes mit Messer bedroht - Täter flüchtig",
-    "summary": "Bergisch Gladbach (ots) - Am Dienstagabend (04.08.) wurde die Polizei zu einem Lebensmittelgeschäft an der Odenthaler Straße im Bergisch Gladbacher Stadtteil Hebborn gerufen. Ein unbekannter Mann habe dort einen räuberischen Diebstahl begangen ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/62459/6327621",
-    "published": "Wed, 05 Aug 2026 10:14:21 +0200",
-    "source": "Presseportal Polizei RBK",
-    "kommunen": [
-      "bergisch-gladbach",
-      "odenthal"
-    ],
-    "fetched": "2026-08-05T09:43:34.536015"
-  },
-  {
-    "id": "170757d4ead6",
-    "title": "Brötchentüten setzen klares Zeichen gegen Gewalt an Frauen im Rheinisch-Bergischen Kreis",
-    "summary": "Mit einer aufmerksamkeitsstarken Mitmachaktion setzen mehrere Bäckereien im Rheinisch-Bergischen Kreis derzeit ein sichtbares Signal gegen häusliche Gewalt. Im Rahmen der Orange Days geben Betriebe in Wermelskirchen, Burscheid, Kürten, Odenthal und Leichlingen speziell gestaltete Brötchentüten aus, die auf Hilfsangebote für betroffene Frauen hinweisen. Die Initiative wurde vom Runden Tisch „Keine ",
-    "link": "https://www.glaktuell.net/broetchentueten-setzen-klares-zeichen-gegen-gewalt-an-frauen-im-rheinisch-bergischen-kreis/",
-    "published": "Wed, 03 Dec 2025 10:51:12 +0000",
-    "source": "GL Aktuell Politik",
-    "kommunen": [
-      "odenthal",
-      "kuerten",
-      "bergisch-gladbach",
-      "wermelskirchen",
-      "burscheid",
-      "leichlingen"
-    ],
-    "fetched": "2026-10-22T20:41:38.135028"
-  },
-  {
-    "id": "0c582bbee0ed",
-    "title": "Wie ein Schiff durchs Gelände: Kita-Neubau wird zum „Schmuckstück\"  Analyse Kernfakt: Der Neubau der katholischen Kita Arche Noah an der Altenberger Straße liegt im Zeitplan, der Einzug erfolgt am 2. November 2026 nach den Herbstferien.  Primäres Keyword: Kita Arche Noah / Kita Arche Noah Altenberger Straße / Kita Neubau  Sekundäre Keywords:  Altenberger Straße Einzug 2. November Architekt Michael Koppetsch St. Laurentius Regionaler Bezug: Altenberger Straße, Montanusschule, Kirchengemeinde St. Laurentius (Ort wird im Artikel nicht explizit genannt, aber durch Straßennamen und Schulnamen ist ein lokaler Bezug erkennbar)  Thementyp: News mit Service-Charakter (Baufortschritt, konkreter Einzugstermin)  Suchintention: Menschen aus der Region suchen nach Updates zum Kita-Neubau, Eltern wollen wissen, wann die Kita wieder am Standort ist, Interessierte suchen nach Informationen zum Baufortschritt.  Empfehlung: Google Search / Google News – Der Artikel eignet sich besonders für die organische Suche, da er ein konkretes lokales Ereignis mit klarem Suchvolumen behandelt (Kita-Neubau, Einzugstermin). Eltern und Anwohner werden aktiv nach Updates zu diesem Bauvorhaben suchen.",
-    "summary": "Der Neubau der katholischen Kita Arche Noah nimmt Gestalt an: Architekt Michael Koppetsch lobt das gute Miteinander aller Beteiligten. Das Gebäude ist energetisch auf dem neuesten Stand und barrierefrei. Warum Kita-Leiterin Sandra Mundt von einem „einzigartigen Schmuckstück“ spricht.",
-    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/wie-ein-schiff-durchs-gelaende-kita-neubau-wird-zum-schmuckstueck-analyse-kernfakt-der-neubau-der-4CNS3IKDJVERLGVP7UDHCFHYX4.html",
-    "published": "Tue, 21 Jul 2026 04:00:00 +0200",
-    "source": "RGA Burscheid",
-    "kommunen": [
-      "burscheid",
-      "odenthal",
-      "bergisch-gladbach"
-    ],
-    "fetched": "2026-07-21T03:40:30.968567"
+    ]
   },
   {
     "id": "8eaa8bce69d0",
@@ -318,171 +29,17 @@
     "fetched": "2026-10-20T05:55:15.392636"
   },
   {
-    "id": "df79d1571e90",
-    "title": "CDU kritisiert Baustellen-Planung in Schildgen",
-    "summary": "Die Fraktion der CDU greift die Kritik an der Planung der Baustelle auf dem nördlichen Teil der Altenberger-Dom-Straße auf. Sie wiederholt ihre Einschätzung, dass die Pläne für den Umbau der gesamten Straße nicht die Interessen der Anwohnerinnen und Anwohner sowie der Gewerbetreibenden berücksichtigen.",
-    "link": "https://in-gl.de/2026/01/20/cdu-kritisiert-baustellen-planung-in-schildgen/",
-    "published": "Tue, 20 Jan 2026 08:10:00 +0000",
+    "id": "5112227d6ca2",
+    "title": "Gemeinschaft macht den Unterschied: Ehrenamt bei Himmel un Ääd",
+    "summary": "Rund 30 Ehrenamtliche des Begegnungscafés Himmel un Ääd verbrachten einen gemeinsamen Nachmittag am Altenberger Dom. Bei Führungen und Gesprächen stand der Teamgeist im Mittelpunkt, der auch den Caféalltag prägt. Insgesamt engagieren sich rund 95 Menschen für den Begegnungsort in Schildgen.",
+    "link": "https://in-gl.de/2026/10/17/gemeinschaft-macht-den-unterschied-ehrenamt-bei-himmel-un-aeaed/",
+    "published": "Sat, 17 Oct 2026 06:56:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
       "odenthal",
       "bergisch-gladbach"
     ],
-    "fetched": "2026-05-05T21:10:26.244892"
-  },
-  {
-    "id": "75f0620e960a",
-    "title": "Zweiter Abschnitt der Laurentiusstraße ist fertig",
-    "summary": "Auch der mittlere Abschnitt der Laurentiusstraße ist für den Verkehr freigegeben, das Parkhaus Marienberg und der Buchmühlenparkplatz sind wieder aus zwei Richtungen zu erreichen. Nun wird im letzten Abschnitt bis zur Odenthaler Straße gearbeitet; dort müssen Autofahrer Umweg in Kauf nehmen.",
-    "link": "https://in-gl.de/2026/05/12/zweiter-abschnitt-der-laurentiusstrasse-ist-fertig/",
-    "published": "Tue, 12 May 2026 07:09:00 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "odenthal"
-    ],
-    "fetched": "2026-05-12T15:44:39.899078"
-  },
-  {
-    "id": "fe491380f489",
-    "title": "Odenthal: Eine Gemeinde wird zum Instagram-Star",
-    "summary": "Außer einer Schule, ein paar Supermärkten, einigen Restaurants und einer Polizeistation hat Odenthal auf den ersten Blick nicht viel zu bieten. Das sahen einige Schüler:innen des Gymnasiums Odenthal anders - und widmen ihrer Heimatgemeinde einen Instagram-Account, den sie selbst betreiben.",
-    "link": "https://in-gl.de/2026/06/09/odenthal-eine-gemeinde-wird-zum-instagram-star/",
-    "published": "Tue, 09 Jun 2026 06:43:33 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "odenthal"
-    ],
-    "fetched": "2026-06-09T12:13:33.608469"
-  },
-  {
-    "id": "43319e6cff54",
-    "title": "Sanierung der Altenberger-Dom-Straße geht in die Verlängerung",
-    "summary": "Bis zum Herbst, so lautete die Prognose, soll die Sanierung der Altenberger-Dom-Straße im ersten Abschnitt abgeschlossen werden. Die Wupsi hatte sich darauf eingestellt, dass die Busse ab Anfang September wieder die alten Routen fahren können. Doch aus Herbst wird Spätherbst. Damit verschieben sich auch die Pläne für den zweiten Abschnitt und die Leverkusener Straße.",
-    "link": "https://in-gl.de/2026/09/08/sanierung-der-altenberger-dom-strasse-geht-in-die-verlaengerung/",
-    "published": "Tue, 08 Sep 2026 03:40:09 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "odenthal"
-    ],
-    "fetched": "2026-09-08T09:33:23.480389"
-  },
-  {
-    "id": "62973c08f04e",
-    "title": "Kollision auf der L 101 in Wermelskirchen – ein Autofahrer schwer verletzt",
-    "summary": "Auf der **Wermelskirchen**er L 101 ist es am Sonntagmorgen (05.01.) zu einem schweren Verkehrsunfall gekommen. Gegen 8.25 Uhr kollidierten im Kreuzungsbereich Altenberger Straße / Hilgener Straße zwei Fahrzeuge. Ein Pkw-Fahrer erlitt dabei schwere Verletzungen. Skoda-Fahrer auf glatter Fahrbahn unterwegs Nach bisherigen Erkenntnissen war ein 42-jähriger Mann aus Wermelskirchen mit einem Skoda auf ",
-    "link": "https://www.glaktuell.net/kollision-auf-der-l-101-in-wermelskirchen-ein-autofahrer-schwer-verletzt/",
-    "published": "Tue, 06 Jan 2026 10:54:18 +0000",
-    "source": "GL Aktuell Wermelskirchen",
-    "kommunen": [
-      "bergisch-gladbach",
-      "burscheid",
-      "wermelskirchen",
-      "odenthal"
-    ],
-    "fetched": "2026-05-05T22:40:07.709973"
-  },
-  {
-    "id": "eb40a352457e",
-    "title": "Einbruch in Odenthal: Polizei sucht Zeugen nach Tat am Bülsberger Weg",
-    "summary": "Odenthal. Nach einer einwöchigen Abwesenheit hat die Bewohnerin eines Einfamilienhauses am Bülsberger Weg am 3. November einen Einbruch festgestellt. Unbekannte hebelten die Balkontür auf, durchsuchten sämtliche Räume und entwendeten nach ersten Erkenntnissen eine Armbanduhr sowie weiteren Schmuck im unteren fünfstelligen Gesamtwert. Symbolbild Verdächtige Geräusche in der Tatnacht Ein Zeuge beric",
-    "link": "https://www.glaktuell.net/einbruch-in-odenthal-polizei-sucht-zeugen-nach-tat-am-buelsberger-weg/",
-    "published": "Tue, 04 Nov 2025 08:57:27 +0000",
-    "source": "GL Aktuell Odenthal",
-    "kommunen": [
-      "bergisch-gladbach",
-      "odenthal"
-    ],
-    "fetched": "2026-05-05T22:40:06.386556"
-  },
-  {
-    "id": "ed8f38b4af44",
-    "title": "Kreuzung an der Odenthaler Straße bleibt ein Nadelöhr",
-    "summary": "Die RheinNetz arbeitet noch immer an einer Vielzahl von Stellen im Bereich der Kreuzung Odenthaler Straße / Hauptstraße, mit erheblichen Auswirkungen auf den Verkehr in der ganzen östlichen Innenstadt. Nun hofft das Unternehmen, bis Ende dieser Woche wenigstens die Arbeiten auf der Straße abschließen und die Ampel abbauen zu können.",
-    "link": "https://in-gl.de/2026/09/01/kreuzung-an-der-odenthaler-strasse-bleibt-ein-nadeloehr/",
-    "published": "Tue, 01 Sep 2026 03:47:57 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "odenthal"
-    ],
-    "fetched": "2026-09-01T04:56:49.442794"
-  },
-  {
-    "id": "26f01d2e99a1",
-    "title": "Bergisch Gladbach und Odenthal bündeln Kräfte im Brandschutz",
-    "summary": "Kooperation soll Effizienz steigern und Einsatzkräfte entlasten (Symbolbild) Bergisch Gladbach/Odenthal. Die Feuerwehren der Städte Bergisch Gladbach und Odenthal rücken künftig auch organisatorisch enger zusammen. Beide Kommunen haben eine interkommunale Zusammenarbeit vereinbart, bei der zentrale Werkstattleistungen künftig von der Feuerwehr Bergisch Gladbach übernommen werden. Im Fokus der Koop",
-    "link": "https://www.glaktuell.net/bergisch-gladbach-und-odenthal-buendeln-kraefte-im-brandschutz/",
-    "published": "Thu, 26 Mar 2026 09:25:31 +0000",
-    "source": "GL Aktuell (Gesamt)",
-    "kommunen": [
-      "bergisch-gladbach",
-      "odenthal"
-    ],
-    "fetched": "2026-05-05T22:40:03.848389"
-  },
-  {
-    "id": "507adaff20ab",
-    "title": "POL-RBK: Wermelskirchen - Kind auf fahrerlaubnispflichtigem E-Scooter gestoppt",
-    "summary": "Wermelskirchen (ots) - Gestern (22.04.), gegen 17:30 Uhr, haben Beamte des Verkehrsdienstes einen E-Scooter kontrolliert, nachdem dieser ihnen auf der Altenberger Straße aus mehreren Gründen aufgefallen war. Ein augenscheinlich minderjähriger ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/62459/6261197",
-    "published": "Thu, 23 Apr 2026 11:27:20 +0200",
-    "source": "Presseportal Polizei RBK",
-    "kommunen": [
-      "wermelskirchen",
-      "odenthal"
-    ],
-    "fetched": "2026-05-05T21:01:08.106197"
-  },
-  {
-    "id": "cecd90ddf9b6",
-    "title": "Seltene Wasseramsel und Eisvogel: Naturschützer laden zur Vogelsuche ein",
-    "summary": "Am 23. Mai führt eine zweistündige Exkursion nach Altenberg und in die Talbereiche von Dhünn und Eifgenbach. Welche seltenen Arten die Teilnehmer mit etwas Glück beobachten können.",
-    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/seltene-wasseramsel-und-eisvogel-naturschuetzer-laden-zur-vogelsuche-ein-5OQ6K3ITJNDVLB3DS5COW2CY74.html",
-    "published": "Thu, 21 May 2026 03:00:00 +0200",
-    "source": "RGA Burscheid",
-    "kommunen": [
-      "burscheid",
-      "odenthal",
-      "wermelskirchen"
-    ],
-    "fetched": "2026-05-21T04:39:57.102284"
-  },
-  {
-    "id": "31767ed96cc7",
-    "title": "Nach Einbruch in Gaststätte: Polizei ermittelt in Odenthal",
-    "summary": "Unbekannte sind in der Nacht zu Donnerstag, 18. Juni, in eine Gaststätte in Overath eingebrochen. Sie stiegen über ein WC-Fenster ein und erbeuteten eine Geldkassette.",
-    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/nach-einbruch-in-gaststaette-polizei-ermittelt-in-odenthal-F3TUVDON7HEV66LLEQL2GHW4MY.html",
-    "published": "Thu, 18 Jun 2026 17:29:24 +0200",
-    "source": "RGA Burscheid",
-    "kommunen": [
-      "odenthal",
-      "burscheid",
-      "overath"
-    ],
-    "fetched": "2026-06-18T17:22:25.482875"
-  },
-  {
-    "id": "8d21d92b2f6a",
-    "title": "„Reingelegt und abgezockt!“ – Theater klärt über miese Tricks an älteren Menschen auf",
-    "summary": "Trickbetrug, falsche Polizisten und andere Betrugsmaschen gehören für viele ältere Menschen zu den Gefahren des Alltags. Mit der Veranstaltung „Reingelegt und abgezockt!“ möchte die CDU Odenthal gemeinsam mit der Polizei und der Volksbank Berg aufklären und sensibilisieren.",
-    "link": "https://in-gl.de/2026/09/17/reingelegt-und-abgezockt-theater-klaert-ueber-miese-tricks-an-aelteren-menschen-auf/",
-    "published": "Thu, 17 Sep 2026 00:23:00 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "odenthal"
-    ],
-    "fetched": "2026-09-17T00:25:40.637992"
-  },
-  {
-    "id": "54d07c2c0ca7",
-    "title": "Nach der Flut: Odenthaler Kobolde kehren bald in ihr Heim zurück",
-    "summary": "Fünf Jahre nach dem Hochwasser können die Odenthaler Kobolde in Kürze wieder in ihr Heim zurück. Die Geschichte der Kita ist ein Beispiel, wie eine ehrenamtlich geführte Einrichtung eine Katastrophe bewältigen kann. Dabei hatten sie allerdings auch tatkräftige Hilfe.",
-    "link": "https://in-gl.de/2026/07/16/nach-der-flut-odenthaler-kobolde-kehren-bald-in-ihr-heim-zurueck/",
-    "published": "Thu, 16 Jul 2026 06:09:00 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "odenthal"
-    ],
-    "fetched": "2026-07-16T16:37:12.052206"
+    "fetched": "2026-10-22T20:41:31.721995"
   },
   {
     "id": "941f0d3b254b",
@@ -495,7 +52,10 @@
       "bergisch-gladbach",
       "odenthal"
     ],
-    "fetched": "2026-10-15T13:19:50.435755"
+    "fetched": "2026-10-15T13:19:50.435755",
+    "feed_kommunen": [
+      "bergisch-gladbach"
+    ]
   },
   {
     "id": "8cd9fc51a053",
@@ -511,82 +71,155 @@
     "fetched": "2026-10-22T20:41:31.722295"
   },
   {
-    "id": "81c453ce923f",
-    "title": "Zigarettenautomat in Odenthal-Blecher aufgebrochen – Polizei sucht Zeugen",
-    "summary": "In der Nacht zum Mittwoch (12. Juni) ist es im Odenthaler Ortsteil Blecher zu einem Aufbruch eines Zigarettenautomaten gekommen. Gegen 02:45 Uhr meldeten aufmerksame Zeugen der Polizei zwei unbekannte Täter, die sich an einem Automaten auf der Hauptstraße zu schaffen machten. Symbolbild Täter fliehen mit Beute zu Fuß Die beiden Unbekannten öffneten gewaltsam den Automaten [&#8230;] The post Zigare",
-    "link": "https://www.glaktuell.net/zigarettenautomat-in-odenthal-blecher-aufgebrochen-polizei-sucht-zeugen/",
-    "published": "Thu, 12 Jun 2025 10:23:13 +0000",
-    "source": "GL Aktuell Odenthal",
-    "kommunen": [
-      "bergisch-gladbach",
-      "odenthal"
-    ],
-    "fetched": "2026-05-05T22:40:06.386815"
-  },
-  {
-    "id": "daf07a5c5cf1",
-    "title": "Sanierung der Altenberger-Dom-Straße beginnt",
-    "summary": "Die zentrale Verkehrsachse in Schildgen wird nach langen Diskussionen in zwei Abschnitten erneuert und umgebaut. Die Arbeiten im nördlichen Bereich der Altenberger-Dom-Straße zwischen Leverkusener und Schlebuscher Straße sollen am 19. Januar starten und bis in den Herbst andauern. In dieser Zeit wird eine Fahrspur gesperrt, der Verkehr in Richtung Odenthal soll über Schlebusch ausweichen - aber au",
-    "link": "https://in-gl.de/2026/01/08/sanierung-der-altenberger-dom-strasse-startet/",
-    "published": "Thu, 08 Jan 2026 08:32:55 +0000",
+    "id": "618cb91e4d54",
+    "title": "Mehr als jeder Vierte war zu schnell",
+    "summary": "Überhöhte Geschwindigkeit ist nach wie vor die Hauptunfallursache auf den Straßen im Rheinisch-Bergischen Kreis. Aus diesem Grund hat die Polizei Rhein-Berg am Sonntag unangekündigte Verkehrskontrollen in Wermelskirchen und Odenthal durchgeführt. Mit erschreckend großem Erfolg.",
+    "link": "https://in-gl.de/2026/10/05/mehr-als-jeder-vierte-war-zu-schnell-geschwindigkeit-kontrolle-polizei-rheinisch-bergischer-kreis/",
+    "published": "Mon, 05 Oct 2026 12:19:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
       "odenthal",
-      "bergisch-gladbach"
+      "wermelskirchen"
     ],
-    "fetched": "2026-05-05T21:10:26.246681"
+    "fetched": "2026-10-05T18:19:29.472996"
   },
   {
-    "id": "b397e9ad139d",
-    "title": "POL-RBK: Bergisch Gladbach - Bargeld und Getränke bei Einbruch in Pizzeria entwendet",
-    "summary": "Bergisch Gladbach (ots) - An der Altenberger-Dom-Straße in Katterbach brach ein bislang unbekannter Mann am späten Dienstagabend (29.09.) in eine Pizzeria ein. Er entwendete einen Bargeldbetrag im unteren vierstelligen Bereich sowie mehrere ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/62459/6362782",
-    "published": "Thu, 01 Oct 2026 10:09:42 +0200",
+    "id": "143a6436dd44",
+    "title": "Kontrollen in Wermelskirchen und Odenthal: Jeder vierte war zu schnell unterwegs",
+    "summary": "Überhöhte Geschwindigkeit ist nach wie vor die Hauptunfallursache auf den Straßen im Rheinisch-Bergischen Kreis. Aus diesem Grund hatte die Polizei Rhein-Berg am Sonntag unangekündigte Verkehrskontrollen im Kreis durchgeführt.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/kontrollen-in-wermelskirchen-und-odenthal-jeder-vierte-war-zu-schnell-unterwegs-5E323DOEABG3BBX6G7QUX5VNKI.html",
+    "published": "Mon, 05 Oct 2026 13:34:46 +0200",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "odenthal",
+      "wermelskirchen"
+    ],
+    "fetched": "2026-10-05T18:19:52.247089"
+  },
+  {
+    "id": "caa777847115",
+    "title": "POL-RBK: Wermelskirchen/Odenthal - Fast 1.000 Fahrzeuge kontrolliert - jeder vierte Verkehrsteilnehmende war zu schnell",
+    "summary": "Wermelskirchen/Odenthal (ots) - Überhöhte Geschwindigkeit ist nach wie vor die Hauptunfallursache auf den Straßen im Rheinisch-Bergischen Kreis. Aus diesem Grund hat die Polizei Rhein-Berg gestern (04.10.) unangekündigte Verkehrskontrollen in ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6364731",
+    "published": "Mon, 05 Oct 2026 10:27:02 +0200",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "odenthal",
+      "wermelskirchen"
+    ],
+    "fetched": "2026-10-05T18:19:54.919997"
+  },
+  {
+    "id": "b936d1a830de",
+    "title": "Jede Flasche erzählt eine Geschichte – Burscheider braut preisgekröntes Bier",
+    "summary": "Was als Geschenk aus dem Internet begann, wurde zum preisgekrönten Hobby: Peter Odenthal braut in Hilgen sein eigenes Bier und misst sich erfolgreich mit großen Brauereien. Seine Sorten heißen „Millerstree’s finest“ und sind in der lokalen Gastronomie erhältlich. Wie er auf die Namen kommt.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/jede-flasche-erzaehlt-eine-geschichte-burscheider-braut-preisgekroentes-bier-2MUND2YNFZH2BHAQ7WVYBQ7XVA.html",
+    "published": "Wed, 30 Sep 2026 02:00:00 +0200",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "odenthal",
+      "burscheid"
+    ],
+    "fetched": "2026-09-30T00:19:46.994310"
+  },
+  {
+    "id": "f3a1adfab126",
+    "title": "Odenthal: Polizei sucht Zeugen nach Diebstahl von Motocross-Rädern und E-Bike",
+    "summary": "In der Straße Am Stragholzer Kreuz in Odenthal schlugen Einbrecher in der Nacht zu Donnerstag zu. Die Polizei Rhein-Berg fahndet nach den Tätern und sucht Hinweise zum Verbleib der Fahrzeuge.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/odenthal-polizei-sucht-zeugen-nach-diebstahl-von-motocross-raedern-und-e-bike-MCXGTCV4CFEJTPYHSR3FLKMVLM.html",
+    "published": "Fri, 25 Sep 2026 10:17:59 +0200",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "odenthal",
+      "burscheid"
+    ],
+    "fetched": "2026-09-25T13:38:54.291257"
+  },
+  {
+    "id": "f45c3e91e319",
+    "title": "POL-RBK: Odenthal - Zwei Motocross-Maschinen und ein Pedelec entwendet",
+    "summary": "Odenthal (ots) - Am Donnerstagmorgen (24.09.) wurden Polizisten in die Straße Am Stragholzer Kreuz in Odenthal gerufen. Zwei bislang unbekannte Täter hatten in der Nacht zu Donnerstag zwei Motocross-Maschinen der Marke KTM sowie ein Pedelec ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6358762",
+    "published": "Fri, 25 Sep 2026 07:55:34 +0200",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "odenthal"
+    ],
+    "fetched": "2026-09-25T07:40:24.600148"
+  },
+  {
+    "id": "47d1868f4a45",
+    "title": "Ernährungsrat lädt zum Erntedankfest nach Voiswinkel ein",
+    "summary": "Der Ernährungsrat Bergisches Land e.V. lädt gemeinsam mit dem Kultur Spiegel Odenthal e.V.zu einem besonderen Erntedankfest der Nachhaltigkeit nach Odenthal-Voiswinkel auf den Kirchplatz St. Engelbert ein.",
+    "link": "https://in-gl.de/2026/09/23/ernaehrungsrat-laedt-zum-erntedankfest-nach-voiswinkel-ein/",
+    "published": "Wed, 23 Sep 2026 17:01:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "odenthal"
+    ],
+    "fetched": "2026-09-23T20:13:06.989921"
+  },
+  {
+    "id": "c9e544ad5ce5",
+    "title": "POL-RBK: Bergisch Gladbach - Zeugen stoppen alkoholisierte Autofahrerin nach gefährlichen Fahrmanövern",
+    "summary": "Bergisch Gladbach (ots) - Gestern Abend (17.09.) haben zwei aufmerksame Autofahrer eine alkoholisierte Fahrzeugführerin auf der Odenthaler Straße gestoppt und so möglicherweise Schlimmeres verhindert. Gegen 18:20 Uhr meldeten Zeugen einen ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6354446",
+    "published": "Fri, 18 Sep 2026 09:12:46 +0200",
     "source": "Presseportal Polizei RBK",
     "kommunen": [
       "bergisch-gladbach",
       "odenthal"
     ],
-    "fetched": "2026-10-01T13:02:07.990209"
+    "fetched": "2026-09-18T09:37:44.841398"
   },
   {
-    "id": "e48593554d10",
-    "title": "Grün trifft Begegnung: Der Dorfplatz in Schildgen",
-    "summary": "Nur wenige Meter von der Altenberger-Dom-Straße entfernt gibt es mitten in Schildgen eine richtig große grüne Oase: Der städtische Dorfplatz hinter der Herz-Jesu-Kirche wird seit vielen Jahren von einer Gruppe engagierter Ehrenamtlicher gestaltet und gepflegt - und dient der Gemeinschaft aller Generationen im ganzen Stadtteil.",
-    "link": "https://in-gl.de/2026/05/03/gruen-trifft-begegnung-der-dorfplatz-in-schildgen/",
-    "published": "Sun, 03 May 2026 14:39:13 +0000",
+    "id": "8d21d92b2f6a",
+    "title": "„Reingelegt und abgezockt!“ – Theater klärt über miese Tricks an älteren Menschen auf",
+    "summary": "Trickbetrug, falsche Polizisten und andere Betrugsmaschen gehören für viele ältere Menschen zu den Gefahren des Alltags. Mit der Veranstaltung „Reingelegt und abgezockt!“ möchte die CDU Odenthal gemeinsam mit der Polizei und der Volksbank Berg aufklären und sensibilisieren.",
+    "link": "https://in-gl.de/2026/09/17/reingelegt-und-abgezockt-theater-klaert-ueber-miese-tricks-an-aelteren-menschen-auf/",
+    "published": "Thu, 17 Sep 2026 00:23:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "bergisch-gladbach",
       "odenthal"
     ],
-    "fetched": "2026-05-05T22:40:03.166154"
+    "fetched": "2026-09-17T00:25:40.637992"
   },
   {
-    "id": "6fc6e236125a",
-    "title": "Verletzter Radfahrer meldet Unfallflucht in Odenthal",
-    "summary": "Ein 20-jähriger Radfahrer aus Odenthal hat bei der Polizei Anzeige wegen eines Verkehrsunfalls erstattet, bei dem er verletzt wurde. Die mutmaßliche Unfallverursacherin entfernte sich nach dem Zusammenstoß vom Unfallort, ohne sich um den Verletzten zu kümmern. Symbolbild Zusammenstoß am frühen Morgen auf der Altenberger-Dom-Straße Nach Angaben des jungen Mannes ereignete sich der Unfall am frühen ",
-    "link": "https://www.glaktuell.net/verletzter-radfahrer-meldet-unfallflucht-in-odenthal/",
-    "published": "Sat, 24 Jan 2026 09:30:00 +0000",
-    "source": "GL Aktuell Odenthal",
+    "id": "f8e98bf212a4",
+    "title": "POL-RBK: Odenthal - Hochwertiger Geländewagen gestohlen",
+    "summary": "Odenthal (ots) - Unbekannte haben im Ortsteil Blecher einen Geländewagen gestohlen. Die Polizei bittet um Zeugenhinweise. Gestern Morgen (10.09.) wurde die Polizei wegen eines Diebstahls eines Pkw in die Straße Am Telegraf gerufen. Die Besitzerin ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6349942",
+    "published": "Fri, 11 Sep 2026 07:56:32 +0200",
+    "source": "Presseportal Polizei RBK",
     "kommunen": [
-      "bergisch-gladbach",
       "odenthal"
     ],
-    "fetched": "2026-05-05T22:40:06.386370"
+    "fetched": "2026-09-11T11:10:10.686494"
   },
   {
-    "id": "5112227d6ca2",
-    "title": "Gemeinschaft macht den Unterschied: Ehrenamt bei Himmel un Ääd",
-    "summary": "Rund 30 Ehrenamtliche des Begegnungscafés Himmel un Ääd verbrachten einen gemeinsamen Nachmittag am Altenberger Dom. Bei Führungen und Gesprächen stand der Teamgeist im Mittelpunkt, der auch den Caféalltag prägt. Insgesamt engagieren sich rund 95 Menschen für den Begegnungsort in Schildgen.",
-    "link": "https://in-gl.de/2026/10/17/gemeinschaft-macht-den-unterschied-ehrenamt-bei-himmel-un-aeaed/",
-    "published": "Sat, 17 Oct 2026 06:56:00 +0000",
+    "id": "ed8f38b4af44",
+    "title": "Kreuzung an der Odenthaler Straße bleibt ein Nadelöhr",
+    "summary": "Die RheinNetz arbeitet noch immer an einer Vielzahl von Stellen im Bereich der Kreuzung Odenthaler Straße / Hauptstraße, mit erheblichen Auswirkungen auf den Verkehr in der ganzen östlichen Innenstadt. Nun hofft das Unternehmen, bis Ende dieser Woche wenigstens die Arbeiten auf der Straße abschließen und die Ampel abbauen zu können.",
+    "link": "https://in-gl.de/2026/09/01/kreuzung-an-der-odenthaler-strasse-bleibt-ein-nadeloehr/",
+    "published": "Tue, 01 Sep 2026 03:47:57 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "odenthal"
+    ],
+    "fetched": "2026-09-01T04:56:49.442794"
+  },
+  {
+    "id": "5dcac2fd3137",
+    "title": "Wie Odenthal seine Straßenbeleuchtung modernisiert – und dabei Energie spart",
+    "summary": "Odenthal bekommt neue Straßenbeleuchtung: Das Projekt wird vom Bund gefördert. Wie die intelligente Steuerung funktioniert und warum die Umrüstung so lange dauert.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/wie-odenthal-seine-strassenbeleuchtung-modernisiert-und-dabei-energie-spart-R4Q6LHA3ZJEGXATFAWFTQVXTIU.html",
+    "published": "Fri, 21 Aug 2026 02:00:00 +0200",
+    "source": "RGA Burscheid",
     "kommunen": [
       "odenthal",
-      "bergisch-gladbach"
+      "burscheid"
     ],
-    "fetched": "2026-10-22T20:41:31.721995"
+    "fetched": "2026-08-21T01:51:52.551410"
   },
   {
     "id": "0be4bfc369d1",
@@ -604,17 +237,53 @@
     "fetched": "2026-08-15T03:49:01.159345"
   },
   {
-    "id": "2290c6d6ca79",
-    "title": "Schwerer Unfall in Odenthal – Vier Menschen verletzt, Verdacht auf Alkoholeinfluss",
-    "summary": "Odenthal. Ein schwerer Verkehrsunfall auf der Altenberger-Dom-Straße hat am Sonntagnachmittag (28.09.) vier Menschen schwer verletzt. Eine 50-jährige Beifahrerin aus Bergisch Gladbach schwebte zeitweise in Lebensgefahr. Gegen die Unfallverursacherin wird nun wegen Verdachts auf Alkohol am Steuer ermittelt. Unfall in Odenthal Frontalzusammenstoß mit drei Fahrzeugen beteiligt Nach bisherigen Ermittl",
-    "link": "https://www.glaktuell.net/schwerer-unfall-in-odenthal-vier-menschen-verletzt-verdacht-auf-alkoholeinfluss/",
-    "published": "Mon, 29 Sep 2025 08:19:21 +0000",
-    "source": "GL Aktuell Odenthal",
+    "id": "7dc52330c15e",
+    "title": "POL-RBK: Bergisch Gladbach - Mitarbeiter eines Lebensmittelgeschäftes mit Messer bedroht - Täter flüchtig",
+    "summary": "Bergisch Gladbach (ots) - Am Dienstagabend (04.08.) wurde die Polizei zu einem Lebensmittelgeschäft an der Odenthaler Straße im Bergisch Gladbacher Stadtteil Hebborn gerufen. Ein unbekannter Mann habe dort einen räuberischen Diebstahl begangen ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6327621",
+    "published": "Wed, 05 Aug 2026 10:14:21 +0200",
+    "source": "Presseportal Polizei RBK",
     "kommunen": [
       "bergisch-gladbach",
       "odenthal"
     ],
-    "fetched": "2026-05-05T22:40:06.386609"
+    "fetched": "2026-08-05T09:43:34.536015"
+  },
+  {
+    "id": "54d07c2c0ca7",
+    "title": "Nach der Flut: Odenthaler Kobolde kehren bald in ihr Heim zurück",
+    "summary": "Fünf Jahre nach dem Hochwasser können die Odenthaler Kobolde in Kürze wieder in ihr Heim zurück. Die Geschichte der Kita ist ein Beispiel, wie eine ehrenamtlich geführte Einrichtung eine Katastrophe bewältigen kann. Dabei hatten sie allerdings auch tatkräftige Hilfe.",
+    "link": "https://in-gl.de/2026/07/16/nach-der-flut-odenthaler-kobolde-kehren-bald-in-ihr-heim-zurueck/",
+    "published": "Thu, 16 Jul 2026 06:09:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "odenthal"
+    ],
+    "fetched": "2026-07-16T16:37:12.052206"
+  },
+  {
+    "id": "754c348e9b6a",
+    "title": "POL-RBK: Odenthal - Kupferkabel auf Discounterparkplatz entwendet",
+    "summary": "Odenthal (ots) - In der Nacht zu Montag (13.07.) entwendeten bisher unbekannte Täter insgesamt vier Kupferkabel einer Ladestation für Elektrofahrzeuge. Die beiden Ladesäulen befinden sich auf einem Parkplatz eines Discounters in der Straße Hofer ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6313174",
+    "published": "Mon, 13 Jul 2026 10:32:47 +0200",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "odenthal"
+    ],
+    "fetched": "2026-07-13T12:15:44.163210"
+  },
+  {
+    "id": "6fa9e0f6bb57",
+    "title": "Hauptstraße wird wieder aufgerissen",
+    "summary": "Die stark befahrene Kreuzung der Hauptstraße mit der Odenthaler Straße wird ein weiteres Mal zur Baustelle. Ab Mittwoch arbeitet die RheinNetz am Versorgungsnetz im Untergrund. Daher ist für - voraussichtlich - sechs Wochen nur eine Fahrbahn befahrbar.",
+    "link": "https://in-gl.de/2026/07/10/hauptstrasse-wird-wieder-aufgerissen/",
+    "published": "Fri, 10 Jul 2026 16:19:06 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "odenthal"
+    ],
+    "fetched": "2026-07-10T17:55:45.659017"
   },
   {
     "id": "789e48d7d776",
@@ -642,120 +311,83 @@
     "fetched": "2026-06-29T11:21:38.587291"
   },
   {
-    "id": "a66e98d443c7",
-    "title": "Pkw überschlägt sich auf der Scherfbachtalstraße",
-    "summary": "Ein riskantes Überholmanöver hat am Sonntagabend auf der Scherfbachtalstraße (L 296) in Odenthal zu einem schweren Verkehrsunfall geführt. Ein 18-jähriger Autofahrer verlor dabei die Kontrolle über sein Fahrzeug, das sich überschlug und auf dem Dach liegen blieb. Der junge Mann wurde nur leicht verletzt, der Sachschaden ist jedoch erheblich. Pkw Toyota nach Überholmanöver Überholmanöver kurz [&#82",
-    "link": "https://www.glaktuell.net/pkw-ueberschlaegt-sich-auf-der-scherfbachtalstrasse/",
-    "published": "Mon, 29 Dec 2025 12:43:41 +0000",
-    "source": "GL Aktuell Odenthal",
+    "id": "2b74d860dbf2",
+    "title": "Kreissparkasse blickt auf 125 Jahren in Rhein-Berg zurück",
+    "summary": "Zum 125. Geburtstag der Filialen der Kreissparkasse Köln in Bergisch Gladbach, Overath und Odenthal lässt das Geldinstitut die Geschichte hier vor Ort Revue passieren und zeigt historische Fotos. Das Jubiläum wird am Montag mit einem ganztägigen Aktionstag in den Geburtstagsfilialen gefeiert.",
+    "link": "https://in-gl.de/2026/06/26/kreissparkasse-koeln-blickt-auf-125-jahren-in-rhein-berg-zuruck-bergisch-gladbach-overath-odenthal/",
+    "published": "Fri, 26 Jun 2026 06:58:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
       "bergisch-gladbach",
+      "overath",
       "odenthal"
     ],
-    "fetched": "2026-05-05T22:40:06.386450"
+    "fetched": "2026-06-26T18:00:31.107316"
   },
   {
-    "id": "80278846c0e6",
-    "title": "Trickbetrüger geben sich als Bankmitarbeiter aus – Seniorinnen in Odenthal und Bergisch Gladbach getäuscht",
-    "summary": "Odenthal/Bergisch Gladbach – Am Samstag (23. August) wurden zwei Seniorinnen Opfer einer perfiden Betrugsmasche. Unbekannte gaben sich am Telefon als angebliche Bankmitarbeiter aus und forderten die Herausgabe von Bankkarten samt PIN. Ob den Frauen ein finanzieller Schaden entstanden ist, steht derzeit noch nicht fest. Symbolbild Vorgehen der Täter Gegen 11:30 Uhr erhielt eine 79-jährige Odenthale",
-    "link": "https://www.glaktuell.net/trickbetrueger-geben-sich-als-bankmitarbeiter-aus-seniorinnen-in-odenthal-und-bergisch-gladbach-getaeuscht/",
-    "published": "Mon, 25 Aug 2025 09:00:00 +0000",
-    "source": "GL Aktuell Odenthal",
+    "id": "31767ed96cc7",
+    "title": "Nach Einbruch in Gaststätte: Polizei ermittelt in Odenthal",
+    "summary": "Unbekannte sind in der Nacht zu Donnerstag, 18. Juni, in eine Gaststätte in Overath eingebrochen. Sie stiegen über ein WC-Fenster ein und erbeuteten eine Geldkassette.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/nach-einbruch-in-gaststaette-polizei-ermittelt-in-odenthal-F3TUVDON7HEV66LLEQL2GHW4MY.html",
+    "published": "Thu, 18 Jun 2026 17:29:24 +0200",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "odenthal",
+      "burscheid",
+      "overath"
+    ],
+    "fetched": "2026-06-18T17:22:25.482875"
+  },
+  {
+    "id": "c3485c3d9815",
+    "title": "Container-Einbruch in Odenthal",
+    "summary": "Unbekannte sind in Container auf einem Sportplatz an der Bergisch Gladbacher Straße eingebrochen. Mehrere Türen wurden aufgebrochen, der Schaden liegt im mittleren vierstelligen Bereich.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/container-einbruch-in-odenthal-BI2BJCYS55MKEZ6UYIWJSUGIHE.html",
+    "published": "Wed, 17 Jun 2026 13:40:11 +0200",
+    "source": "RGA Burscheid",
     "kommunen": [
       "bergisch-gladbach",
-      "odenthal"
+      "odenthal",
+      "burscheid"
     ],
-    "fetched": "2026-05-05T22:40:06.386663"
+    "fetched": "2026-06-17T15:58:59.391899"
   },
   {
-    "id": "c09932aaefe3",
-    "title": "Stadt startet Verkehrszählung im Nittumer Weg",
-    "summary": "Die Baustelle auf der Altenberger-Dom-Straße spült einiges an Verkehr in den Nittumer Weg, die „Anlieger frei“-Regelung wird vielfach ignoriert. Die Stadtverwaltung hält die Belastung der Anwohnerschaft zwar grundsätzlich für vertretbar. Sie zählt aber seit Freitag die Autos und misst ihr Tempo.",
-    "link": "https://in-gl.de/2026/02/23/stadt-startet-verkehrszaehlung-im-nittumer-weg/",
-    "published": "Mon, 23 Feb 2026 15:44:18 +0000",
+    "id": "6f555aea700b",
+    "title": "Bauturbo macht Weg für große Projekte frei",
+    "summary": "Einerseits fehlt in Bergisch Gladbach Wohnraum, andererseits liegen Grundstücke brach - weil das Baurecht eine Bebauung bislang verhinderte. Doch nun macht der Bauturbo große und kleine Projekte möglich, die bislang blockiert waren. Zum Beispiel ein Lückenschluss zwischen Paffrather Straße und Kalköfen. Große Wohnhäuser an der Ecke Rommerscheider / Odenthaler Straße. Eine Aufstockung des Schloss C",
+    "link": "https://in-gl.de/2026/06/17/bauturbo-macht-weg-fuer-grosse-projekte-frei/",
+    "published": "Wed, 17 Jun 2026 08:27:49 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "odenthal"
-    ],
-    "fetched": "2026-05-05T21:10:26.240045"
-  },
-  {
-    "id": "8c91cb83f1ab",
-    "title": "NCG feiert Abschied in die Ferien im Altenberger Dom",
-    "summary": "Die eigene Aula steht noch nicht wieder zur Verfügung, daher wurde das Weihnachtskonzert des Nicolaus-Cusanus-Gymnasiums erneut ein Auswärtsspiel: Der Altenberger Dom bildete eine gute Kulisse für einen stimmungsvollen Abschied in die Ferien. Die jüngeren Akteure zauberten sogar etwas Disneyfeeling in den Dom.",
-    "link": "https://in-gl.de/2025/12/22/ncg-feiert-abschied-in-die-ferien-im-altenberger-dom/",
-    "published": "Mon, 22 Dec 2025 07:28:00 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "odenthal"
-    ],
-    "fetched": "2026-05-05T21:10:26.247926"
-  },
-  {
-    "id": "4e0f4b31f415",
-    "title": "Baustelle versperrt der Concordia-Schule den Weg",
-    "summary": "Überrascht wurden Grundschüler:innen und deren Eltern, als sie am Montagnachmittag den Nachhause-Weg von der Concordia-Schule über die Altenberger-Dom-Straße nehmen wollten. Der Durchgang vom Concordiaweg zur Straße war ohne weitere Vorwarnung verboten worden. Nun organisiert die Schulleitung eine Notlösung.",
-    "link": "https://in-gl.de/2026/01/19/baustelle-versperrt-der-concordia-schule-den-weg/",
-    "published": "Mon, 19 Jan 2026 17:31:45 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "odenthal"
-    ],
-    "fetched": "2026-05-05T21:10:26.245017"
-  },
-  {
-    "id": "21f1fa17b45f",
-    "title": "Vielfältiges Kulturprogramm 2026 im Rheinisch-Bergischen Kreis",
-    "summary": "Mit einem breit aufgestellten Kulturprogramm lädt der Rheinisch-Bergischer Kreis im Jahr 2026 zu zahlreichen kulturellen Begegnungen ein. Von Januar bis November stehen Ausstellungen, Konzerte, Lesungen und Workshops auf dem Programm. Viele Veranstaltungen finden im Kreishaus statt, darüber hinaus werden weitere Orte im Kreisgebiet wie Bergisch Gladbach, Odenthal, Refrath und Wermelskirchen bespie",
-    "link": "https://www.glaktuell.net/vielfaeltiges-kulturprogramm-2026-im-rheinisch-bergischen-kreis/",
-    "published": "Mon, 19 Jan 2026 11:00:00 +0000",
-    "source": "GL Aktuell (Gesamt)",
-    "kommunen": [
-      "wermelskirchen",
       "odenthal",
       "bergisch-gladbach"
     ],
-    "fetched": "2026-05-05T21:10:35.314436"
+    "fetched": "2026-06-17T11:14:30.537200"
   },
   {
-    "id": "754c348e9b6a",
-    "title": "POL-RBK: Odenthal - Kupferkabel auf Discounterparkplatz entwendet",
-    "summary": "Odenthal (ots) - In der Nacht zu Montag (13.07.) entwendeten bisher unbekannte Täter insgesamt vier Kupferkabel einer Ladestation für Elektrofahrzeuge. Die beiden Ladesäulen befinden sich auf einem Parkplatz eines Discounters in der Straße Hofer ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/62459/6313174",
-    "published": "Mon, 13 Jul 2026 10:32:47 +0200",
+    "id": "23b29c06a43a",
+    "title": "POL-RBK: Odenthal - Schulcontainer aufgebrochen",
+    "summary": "Odenthal (ots) - Unbekannte haben an und in Schulcontainern große Schäden verursacht. Sie hatten mehrere Türen aufgebrochen. Die Polizei bittet um Zeugenhinweise. Gestern Morgen (16.06.), gegen 07:45 Uhr, rief der Hausmeister der Realschule die ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6295959",
+    "published": "Wed, 17 Jun 2026 09:01:43 +0200",
     "source": "Presseportal Polizei RBK",
     "kommunen": [
       "odenthal"
     ],
-    "fetched": "2026-07-13T12:15:44.163210"
+    "fetched": "2026-06-17T11:14:55.121713"
   },
   {
-    "id": "b077fc7dd15c",
-    "title": "Betreuungsplatzvergabe für August 2026 startet – Anmeldung ab 1. Februar",
-    "summary": "In den Städten Burscheid, Kürten und Odenthal beginnt ab dem 1. Februar die Vergabe von Betreuungsplätzen in Kindertageseinrichtungen sowie in der Kindertagespflege. Die Plätze gelten für den Betreuungsstart im August 2026. Symbolbild Registrierung im Online-Portal Voraussetzung Grundlage für die Teilnahme am Vergabeverfahren ist die rechtzeitige Registrierung im Online-Portal Little Bird. Eltern ",
-    "link": "https://www.glaktuell.net/betreuungsplatzvergabe-fuer-august-2026-startet-anmeldung-ab-1-februar/",
-    "published": "Mon, 12 Jan 2026 11:35:44 +0000",
-    "source": "GL Aktuell Burscheid",
-    "kommunen": [
-      "bergisch-gladbach",
-      "kuerten",
-      "burscheid",
-      "odenthal"
-    ],
-    "fetched": "2026-05-05T22:40:04.980564"
-  },
-  {
-    "id": "62e5ea428c88",
-    "title": "So wird der Verkehr in Schildgen ab Montag geregelt",
-    "summary": "Nach einigem Hin und Her hat die Stadt vorerst für Klarheit gesorgt: Die Altenberger-Dom-Straße wird ab Montag im nördlichen Abschnitt zur Einbahnstraße, der Autoverkehr Richtung Ortsmitte soll weiträumig über Schlebusch fahren. Um die angrenzenden Wohngebiete zu schützen, werden Anliegerstraßen ausgeschildert. Die Busse fahren dennoch durch den freigeräumten Nittumer Weg - der zunächst NICHT zur ",
-    "link": "https://in-gl.de/2026/02/09/so-wird-der-verkehr-in-schildgen-ab-montag-geregelt-altenberger-dom-strasse-umleitung/",
-    "published": "Mon, 09 Feb 2026 07:33:00 +0000",
+    "id": "fe491380f489",
+    "title": "Odenthal: Eine Gemeinde wird zum Instagram-Star",
+    "summary": "Außer einer Schule, ein paar Supermärkten, einigen Restaurants und einer Polizeistation hat Odenthal auf den ersten Blick nicht viel zu bieten. Das sahen einige Schüler:innen des Gymnasiums Odenthal anders - und widmen ihrer Heimatgemeinde einen Instagram-Account, den sie selbst betreiben.",
+    "link": "https://in-gl.de/2026/06/09/odenthal-eine-gemeinde-wird-zum-instagram-star/",
+    "published": "Tue, 09 Jun 2026 06:43:33 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "odenthal",
-      "bergisch-gladbach"
+      "odenthal"
     ],
-    "fetched": "2026-05-05T21:10:26.242142"
+    "fetched": "2026-06-09T12:13:33.608469"
   },
   {
     "id": "124bae544ddc",
@@ -808,147 +440,72 @@
     "fetched": "2026-06-08T11:18:48.551093"
   },
   {
-    "id": "143a6436dd44",
-    "title": "Kontrollen in Wermelskirchen und Odenthal: Jeder vierte war zu schnell unterwegs",
-    "summary": "Überhöhte Geschwindigkeit ist nach wie vor die Hauptunfallursache auf den Straßen im Rheinisch-Bergischen Kreis. Aus diesem Grund hatte die Polizei Rhein-Berg am Sonntag unangekündigte Verkehrskontrollen im Kreis durchgeführt.",
-    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/kontrollen-in-wermelskirchen-und-odenthal-jeder-vierte-war-zu-schnell-unterwegs-5E323DOEABG3BBX6G7QUX5VNKI.html",
-    "published": "Mon, 05 Oct 2026 13:34:46 +0200",
-    "source": "RGA Wermelskirchen",
-    "kommunen": [
-      "odenthal",
-      "wermelskirchen"
-    ],
-    "fetched": "2026-10-05T18:19:52.247089"
-  },
-  {
-    "id": "618cb91e4d54",
-    "title": "Mehr als jeder Vierte war zu schnell",
-    "summary": "Überhöhte Geschwindigkeit ist nach wie vor die Hauptunfallursache auf den Straßen im Rheinisch-Bergischen Kreis. Aus diesem Grund hat die Polizei Rhein-Berg am Sonntag unangekündigte Verkehrskontrollen in Wermelskirchen und Odenthal durchgeführt. Mit erschreckend großem Erfolg.",
-    "link": "https://in-gl.de/2026/10/05/mehr-als-jeder-vierte-war-zu-schnell-geschwindigkeit-kontrolle-polizei-rheinisch-bergischer-kreis/",
-    "published": "Mon, 05 Oct 2026 12:19:00 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "odenthal",
-      "wermelskirchen"
-    ],
-    "fetched": "2026-10-05T18:19:29.472996"
-  },
-  {
-    "id": "caa777847115",
-    "title": "POL-RBK: Wermelskirchen/Odenthal - Fast 1.000 Fahrzeuge kontrolliert - jeder vierte Verkehrsteilnehmende war zu schnell",
-    "summary": "Wermelskirchen/Odenthal (ots) - Überhöhte Geschwindigkeit ist nach wie vor die Hauptunfallursache auf den Straßen im Rheinisch-Bergischen Kreis. Aus diesem Grund hat die Polizei Rhein-Berg gestern (04.10.) unangekündigte Verkehrskontrollen in ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/62459/6364731",
-    "published": "Mon, 05 Oct 2026 10:27:02 +0200",
+    "id": "f32f0f635898",
+    "title": "POL-RBK: Odenthal - Einbrecher erbeuten Bargeld",
+    "summary": "Odenthal (ots) - Gestern Nachmittag (26.05.), zwischen 14:30 Uhr und 17:00 Uhr, ist es in Odenthal-Erberich zu einem Einbruch in ein Einfamilienhaus gekommen. Bislang Unbekannte sind im genannten Zeitraum gewaltsam in das Haus im Schlehdornweg ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6282453",
+    "published": "Wed, 27 May 2026 08:28:28 +0200",
     "source": "Presseportal Polizei RBK",
     "kommunen": [
+      "odenthal"
+    ],
+    "fetched": "2026-05-27T08:46:43.854758"
+  },
+  {
+    "id": "cecd90ddf9b6",
+    "title": "Seltene Wasseramsel und Eisvogel: Naturschützer laden zur Vogelsuche ein",
+    "summary": "Am 23. Mai führt eine zweistündige Exkursion nach Altenberg und in die Talbereiche von Dhünn und Eifgenbach. Welche seltenen Arten die Teilnehmer mit etwas Glück beobachten können.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/seltene-wasseramsel-und-eisvogel-naturschuetzer-laden-zur-vogelsuche-ein-5OQ6K3ITJNDVLB3DS5COW2CY74.html",
+    "published": "Thu, 21 May 2026 03:00:00 +0200",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid",
       "odenthal",
       "wermelskirchen"
     ],
-    "fetched": "2026-10-05T18:19:54.919997"
+    "fetched": "2026-05-21T04:39:57.102284"
   },
   {
-    "id": "f0cf03a4ed02",
-    "title": "Himmel un Ääd im Februar: Erinnerungen, Gespräche, Musik und Bewegung",
-    "summary": "Im Februar lädt Himmel un Ääd zu einem vielseitigen Programm ein: Yoga für Kinder und Erwachsene, Schreibtreff und ErzählZeit, Gesprächsabende mit den Omas gegen rechts und Johannes Soth sowie bewegende Erinnerungen aus dem Projekt „Schildgen schreibt Geschichte“. Musikalische Akzente setzen Billy Odenthal &#038; friends und das Orchester Südstadt Tango.",
-    "link": "https://in-gl.de/2026/02/02/himmel-un-aeaed-im-februar-erinnerungen-gespraeche-musik-und-bewegung/",
-    "published": "Mon, 02 Feb 2026 18:01:00 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "odenthal",
-      "bergisch-gladbach"
-    ],
-    "fetched": "2026-05-05T21:10:26.242986"
-  },
-  {
-    "id": "34968455e659",
-    "title": "Zur Concordia-Schule geht es nun hinten herum",
-    "summary": "Der Zugang von der Altenberger-Dom-Straße zum Concordiaweg und damit zur Grundschule wird an Montag nun doch für die Bauarbeiten gesperrt. Damit die Schülerinnen und Schüler dennoch gefahrlos zu ihrer Schule laufen können hat die Stadt jetzt eine zweite Route eingerichtet.",
-    "link": "https://in-gl.de/2026/01/30/zur-concordia-schule-geht-es-nun-hinten-herum/",
-    "published": "Fri, 30 Jan 2026 12:37:57 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "odenthal",
-      "bergisch-gladbach"
-    ],
-    "fetched": "2026-05-05T21:10:26.243123"
-  },
-  {
-    "id": "987fe05052b8",
-    "title": "Bauarbeiten an der Altenberger-Dom-Straße: Schulweg zur Concordiaschule wird vorübergehend geändert",
-    "summary": "Bergisch Gladbach. Im Zuge der laufenden Bauarbeiten zur Neugestaltung der Altenberger-Dom-Straße kommt es ab Montag, 2. Februar 2026, zu einer vorübergehenden Änderung des Schulwegs zur Concordiaschule. Ziel der Maßnahme ist es, die Sicherheit der Schülerinnen und Schüler während der Bauphase zu gewährleisten und zusätzlichen Verkehr im Wohngebiet zu vermeiden. Symbolbild Während der Bauarbeiten ",
-    "link": "https://www.glaktuell.net/bauarbeiten-an-der-altenberger-dom-strasse-schulweg-zur-concordiaschule-wird-voruebergehend-geaendert/",
-    "published": "Fri, 30 Jan 2026 09:30:00 +0000",
-    "source": "GL Aktuell (Gesamt)",
-    "kommunen": [
-      "odenthal",
-      "bergisch-gladbach"
-    ],
-    "fetched": "2026-05-05T21:10:35.312961"
-  },
-  {
-    "id": "2b74d860dbf2",
-    "title": "Kreissparkasse blickt auf 125 Jahren in Rhein-Berg zurück",
-    "summary": "Zum 125. Geburtstag der Filialen der Kreissparkasse Köln in Bergisch Gladbach, Overath und Odenthal lässt das Geldinstitut die Geschichte hier vor Ort Revue passieren und zeigt historische Fotos. Das Jubiläum wird am Montag mit einem ganztägigen Aktionstag in den Geburtstagsfilialen gefeiert.",
-    "link": "https://in-gl.de/2026/06/26/kreissparkasse-koeln-blickt-auf-125-jahren-in-rhein-berg-zuruck-bergisch-gladbach-overath-odenthal/",
-    "published": "Fri, 26 Jun 2026 06:58:00 +0000",
+    "id": "57bd6eef02f8",
+    "title": "Kreiskatholikenrat wählt neuen Vorstand",
+    "summary": "Klara König ist zur neuen Vorsitzende des Kreiskatholikenrats gewählt worden. Weitere Vorstandsmitglieder kommen aus Bergisch Gladbach, Odenthal und Leichlingen.",
+    "link": "https://in-gl.de/2026/05/13/kreiskatholikenrat-waehlt-neuen-vorstand/",
+    "published": "Wed, 13 May 2026 05:59:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
       "bergisch-gladbach",
-      "overath",
+      "leichlingen",
       "odenthal"
     ],
-    "fetched": "2026-06-26T18:00:31.107316"
+    "fetched": "2026-05-13T14:55:38.079181"
   },
   {
-    "id": "f3a1adfab126",
-    "title": "Odenthal: Polizei sucht Zeugen nach Diebstahl von Motocross-Rädern und E-Bike",
-    "summary": "In der Straße Am Stragholzer Kreuz in Odenthal schlugen Einbrecher in der Nacht zu Donnerstag zu. Die Polizei Rhein-Berg fahndet nach den Tätern und sucht Hinweise zum Verbleib der Fahrzeuge.",
-    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/odenthal-polizei-sucht-zeugen-nach-diebstahl-von-motocross-raedern-und-e-bike-MCXGTCV4CFEJTPYHSR3FLKMVLM.html",
-    "published": "Fri, 25 Sep 2026 10:17:59 +0200",
-    "source": "RGA Burscheid",
+    "id": "75f0620e960a",
+    "title": "Zweiter Abschnitt der Laurentiusstraße ist fertig",
+    "summary": "Auch der mittlere Abschnitt der Laurentiusstraße ist für den Verkehr freigegeben, das Parkhaus Marienberg und der Buchmühlenparkplatz sind wieder aus zwei Richtungen zu erreichen. Nun wird im letzten Abschnitt bis zur Odenthaler Straße gearbeitet; dort müssen Autofahrer Umweg in Kauf nehmen.",
+    "link": "https://in-gl.de/2026/05/12/zweiter-abschnitt-der-laurentiusstrasse-ist-fertig/",
+    "published": "Tue, 12 May 2026 07:09:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
+      "odenthal"
+    ],
+    "fetched": "2026-05-12T15:44:39.899078"
+  },
+  {
+    "id": "e0f4b0dfc995",
+    "title": "Kulturrucksack 2026: kostenlose Angebote für 10 – 14-Jährige, jetzt anmelden!",
+    "summary": "Kostenfreies Angebot an alle 10- bis 14-Jährigen aus dem Projektverbund für die Gemeinde Kürten&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;Kulturrucksack 2026: Kreative Vielfalt für Kinder und Jugendliche in Kürten&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Kürten, 24. Februar 2026&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Der Städteverbund Kürten, Burscheid, Leichlingen, Odenthal und Wermel",
+    "link": "https://www.kuerten.de/aktuelle-ereignisse/kulturrucksack-2026-kostenlose-angebote-fuer-10-14-jaehrige-jetzt-anmelden/",
+    "published": "Wed, 22 Apr 2026 07:07:42 +0000",
+    "source": "Gemeinde Kürten (offiziell)",
+    "kommunen": [
+      "burscheid",
       "odenthal",
-      "burscheid"
+      "leichlingen",
+      "kuerten",
+      "wermelskirchen"
     ],
-    "fetched": "2026-09-25T13:38:54.291257"
-  },
-  {
-    "id": "f45c3e91e319",
-    "title": "POL-RBK: Odenthal - Zwei Motocross-Maschinen und ein Pedelec entwendet",
-    "summary": "Odenthal (ots) - Am Donnerstagmorgen (24.09.) wurden Polizisten in die Straße Am Stragholzer Kreuz in Odenthal gerufen. Zwei bislang unbekannte Täter hatten in der Nacht zu Donnerstag zwei Motocross-Maschinen der Marke KTM sowie ein Pedelec ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/62459/6358762",
-    "published": "Fri, 25 Sep 2026 07:55:34 +0200",
-    "source": "Presseportal Polizei RBK",
-    "kommunen": [
-      "odenthal"
-    ],
-    "fetched": "2026-09-25T07:40:24.600148"
-  },
-  {
-    "id": "5dcac2fd3137",
-    "title": "Wie Odenthal seine Straßenbeleuchtung modernisiert – und dabei Energie spart",
-    "summary": "Odenthal bekommt neue Straßenbeleuchtung: Das Projekt wird vom Bund gefördert. Wie die intelligente Steuerung funktioniert und warum die Umrüstung so lange dauert.",
-    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/wie-odenthal-seine-strassenbeleuchtung-modernisiert-und-dabei-energie-spart-R4Q6LHA3ZJEGXATFAWFTQVXTIU.html",
-    "published": "Fri, 21 Aug 2026 02:00:00 +0200",
-    "source": "RGA Burscheid",
-    "kommunen": [
-      "odenthal",
-      "burscheid"
-    ],
-    "fetched": "2026-08-21T01:51:52.551410"
-  },
-  {
-    "id": "c9e544ad5ce5",
-    "title": "POL-RBK: Bergisch Gladbach - Zeugen stoppen alkoholisierte Autofahrerin nach gefährlichen Fahrmanövern",
-    "summary": "Bergisch Gladbach (ots) - Gestern Abend (17.09.) haben zwei aufmerksame Autofahrer eine alkoholisierte Fahrzeugführerin auf der Odenthaler Straße gestoppt und so möglicherweise Schlimmeres verhindert. Gegen 18:20 Uhr meldeten Zeugen einen ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/62459/6354446",
-    "published": "Fri, 18 Sep 2026 09:12:46 +0200",
-    "source": "Presseportal Polizei RBK",
-    "kommunen": [
-      "bergisch-gladbach",
-      "odenthal"
-    ],
-    "fetched": "2026-09-18T09:37:44.841398"
+    "fetched": "2026-05-06T16:12:25.979362"
   },
   {
     "id": "bf3912dc9028",
@@ -976,108 +533,43 @@
     "fetched": "2026-05-05T21:10:26.232425"
   },
   {
-    "id": "53e8ac284223",
-    "title": "Droht ein Verkehrschaos?: Zwei Wochen Vollsperrung in Schildgen",
-    "summary": "Zum Start der Herbstferien wird die Altenberger-Dom-Straße dichtgemacht, Autofahrer müssen Umleitungen in Kauf nehmen.",
-    "link": "https://www.ksta.de/region/rhein-berg/droht-ein-verkehrschaos-zwei-wochen-vollsperrung-in-schildgen-1397599",
-    "published": "Fri, 16 Oct 2026 15:49:35 +0200",
-    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
-    "kommunen": [
-      "bergisch-gladbach",
-      "odenthal"
-    ],
-    "fetched": "2026-10-22T20:06:29.916550"
-  },
-  {
-    "id": "2e0284c5b574",
-    "title": "Stadt plant Baustelle in Schildgen neu",
-    "summary": "Der Protest aus dem Ortsteil Nittum zeigt Wirkung: Die Stadtverwaltung plant den Ablauf des Umbaus der Altenberger-Dom-Straße im nördlichen Abschnitt noch einmal neu. Ab Montag wird zunächst nur ein Gehweg erneuert. Damit ist Zeit gewonnen, ein verträgliches Verkehrskonzept für die Zeit der einseitigen Sperrung der Hauptverkehrsstraße zu entwickeln.",
-    "link": "https://in-gl.de/2026/01/16/stadt-plant-baustelle-in-schildgen-neu/",
-    "published": "Fri, 16 Jan 2026 18:08:26 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "odenthal",
-      "bergisch-gladbach"
-    ],
-    "fetched": "2026-05-05T21:10:26.245452"
-  },
-  {
-    "id": "a2486c2c809c",
-    "title": "Erneuerung der Altenberger-Dom-Straße: Bauablauf angepasst – Verkehrseinschränkungen verschieben sich",
-    "summary": "Die Stadt Bergisch Gladbach passt den Bauablauf für die geplante Erneuerung der Altenberger-Dom-Straße im Stadtteil Schildgen an. Entgegen der bisherigen Planung führt der angekündigte Baubeginn am 19. Januar 2026 zunächst nicht zu einer halbseitigen Sperrung der Straße. Ziel der kurzfristigen Anpassung ist es, den Gesamtzeitplan der Maßnahme einzuhalten und gleichzeitig die verkehrlichen Auswirku",
-    "link": "https://www.glaktuell.net/erneuerung-der-altenberger-dom-strasse-bauablauf-angepasst-verkehrseinschraenkungen-verschieben-sich/",
-    "published": "Fri, 16 Jan 2026 09:30:00 +0000",
+    "id": "26f01d2e99a1",
+    "title": "Bergisch Gladbach und Odenthal bündeln Kräfte im Brandschutz",
+    "summary": "Kooperation soll Effizienz steigern und Einsatzkräfte entlasten (Symbolbild) Bergisch Gladbach/Odenthal. Die Feuerwehren der Städte Bergisch Gladbach und Odenthal rücken künftig auch organisatorisch enger zusammen. Beide Kommunen haben eine interkommunale Zusammenarbeit vereinbart, bei der zentrale Werkstattleistungen künftig von der Feuerwehr Bergisch Gladbach übernommen werden. Im Fokus der Koop",
+    "link": "https://www.glaktuell.net/bergisch-gladbach-und-odenthal-buendeln-kraefte-im-brandschutz/",
+    "published": "Thu, 26 Mar 2026 09:25:31 +0000",
     "source": "GL Aktuell (Gesamt)",
     "kommunen": [
+      "bergisch-gladbach",
+      "odenthal"
+    ],
+    "fetched": "2026-05-05T22:40:03.848389"
+  },
+  {
+    "id": "200309a562ca",
+    "title": "Feuerwehren GL und Odenthal arbeiten enger zusammen",
+    "summary": "Bergisch Gladbach und Odenthal wollen in Sachen Brandschutz intensiver kooperieren. Künftig übernimmt die Gladbacher Feuerwehr zentrale Werkstattleistungen für die Feuerwehr Odenthal, beide nutzen einen gemeinsamen Gerätepool. Die Verantwortlichen beider Kommunen sehen in der Kooperation ein zukunftsweisendes Modell.",
+    "link": "https://in-gl.de/2026/03/25/feuerwehren-gl-und-odenthal-arbeiten-enger-zusammen/",
+    "published": "Wed, 25 Mar 2026 17:05:23 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
       "odenthal",
       "bergisch-gladbach"
     ],
-    "fetched": "2026-05-05T21:10:35.315000"
+    "fetched": "2026-05-05T21:10:26.234940"
   },
   {
-    "id": "f8e98bf212a4",
-    "title": "POL-RBK: Odenthal - Hochwertiger Geländewagen gestohlen",
-    "summary": "Odenthal (ots) - Unbekannte haben im Ortsteil Blecher einen Geländewagen gestohlen. Die Polizei bittet um Zeugenhinweise. Gestern Morgen (10.09.) wurde die Polizei wegen eines Diebstahls eines Pkw in die Straße Am Telegraf gerufen. Die Besitzerin ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/62459/6349942",
-    "published": "Fri, 11 Sep 2026 07:56:32 +0200",
-    "source": "Presseportal Polizei RBK",
-    "kommunen": [
-      "odenthal"
-    ],
-    "fetched": "2026-09-11T11:10:10.686494"
-  },
-  {
-    "id": "6fa9e0f6bb57",
-    "title": "Hauptstraße wird wieder aufgerissen",
-    "summary": "Die stark befahrene Kreuzung der Hauptstraße mit der Odenthaler Straße wird ein weiteres Mal zur Baustelle. Ab Mittwoch arbeitet die RheinNetz am Versorgungsnetz im Untergrund. Daher ist für - voraussichtlich - sechs Wochen nur eine Fahrbahn befahrbar.",
-    "link": "https://in-gl.de/2026/07/10/hauptstrasse-wird-wieder-aufgerissen/",
-    "published": "Fri, 10 Jul 2026 16:19:06 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "odenthal"
-    ],
-    "fetched": "2026-07-10T17:55:45.659017"
-  },
-  {
-    "id": "8bc405f4b101",
-    "title": "Neuer Kreisverkehr in Wermelskirchen könnte 2027 in den Bau gehen",
-    "summary": "Unfallschwerpunkt, fehlende Querungsmöglichkeiten, neuer Supermarkt: Die Kreuzung Hilgener-/ Altenberger Straße steht vor einem grundlegenden Umbau mit Kreisverkehr.",
-    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/neuer-kreisverkehr-in-wermelskirchen-koennte-2027-in-den-bau-gehen-PLGRUASAF7DXUJM3I4Y2F72EZE.html",
-    "published": "Fri, 10 Jul 2026 01:00:00 +0200",
-    "source": "RGA Wermelskirchen",
-    "kommunen": [
-      "wermelskirchen",
-      "burscheid",
-      "odenthal"
-    ],
-    "fetched": "2026-07-10T00:15:14.753235"
-  },
-  {
-    "id": "48012b6be862",
-    "title": "POL-RBK: Leichlingen - Unbekannte geben sich als Handwerker aus und versuchen Seniorin zu täuschen",
-    "summary": "Leichlingen (ots) - Am gestrigen Donnerstag wurde die Polizei zu einem Mehrfamilienhaus in die Straße Kaltenberg gerufen. Eine dort wohnhafte Seniorin berichtete den eingesetzten Beamten, dass zwei unbekannte Männer versucht hätten, sich unter ...",
-    "link": "https://www.presseportal.de/blaulicht/pm/62459/6271149",
-    "published": "Fri, 08 May 2026 09:08:01 +0200",
-    "source": "Presseportal Polizei RBK",
+    "id": "9ea837926e43",
+    "title": "FW-GL: Interkommunale Zusammenarbeit der Feuerwehren Bergisch Gladbach und Odenthal vereinbart",
+    "summary": "Bergisch Gladbach / Odenthal (ots) - Gemeinsame Pressemitteilung Stadt Bergisch Gladbach | Feuerwehr Bergisch Gladbach | Gemeinde Odenthal | Feuerwehr Odenthal Interkommunale Zusammenarbeit stärkt Feuerwehrstrukturen im Rheinisch-Bergischen Kreis ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/116240/6243499",
+    "published": "Wed, 25 Mar 2026 17:33:44 +0100",
+    "source": "Presseportal Feuerwehr Bergisch Gladbach",
     "kommunen": [
       "odenthal",
-      "bergisch-gladbach",
-      "leichlingen"
+      "bergisch-gladbach"
     ],
-    "fetched": "2026-05-08T08:46:10.943438"
-  },
-  {
-    "id": "34351002d660",
-    "title": "Einbruch in Odenthaler Grundschule – Täter durchsuchen Büroräume der OGS",
-    "summary": "Am frühen Donnerstagmorgen (07.08.) wurde die Polizei zu einem Einbruch in die Offene Ganztagsschule (OGS) der Grundschule an der Sankt-Engelbert-Straße in Odenthal-Voiswinkel gerufen. Gegen 07:15 Uhr alarmierte der Hausmeister die Beamten, nachdem er beim Betreten des Gebäudes die aufgebrochene Eingangstür und durchwühlte Büroräume vorgefunden hatte. Symbolbild Eingangstür aufgehebelt, Schränke a",
-    "link": "https://www.glaktuell.net/einbruch-in-odenthaler-grundschule-taeter-durchsuchen-bueroraeume-der-ogs/",
-    "published": "Fri, 08 Aug 2025 08:17:54 +0000",
-    "source": "GL Aktuell Odenthal",
-    "kommunen": [
-      "bergisch-gladbach",
-      "odenthal"
-    ],
-    "fetched": "2026-05-05T22:40:06.386716"
+    "fetched": "2026-05-05T21:01:09.026280"
   },
   {
     "id": "6d922701a049",
@@ -1090,7 +582,10 @@
       "bergisch-gladbach",
       "odenthal"
     ],
-    "fetched": "2026-05-05T22:40:06.386307"
+    "fetched": "2026-05-05T22:40:06.386307",
+    "feed_kommunen": [
+      "odenthal"
+    ]
   },
   {
     "id": "9e4075ed8290",
@@ -1106,29 +601,279 @@
     "fetched": "2026-05-05T21:10:26.242489"
   },
   {
-    "id": "6616694bf524",
-    "title": "Einbruch in Pizzeria in Katterbach: Täter erbeutet Bargeld und Getränke",
-    "summary": "Ein bislang unbekannter Mann ist am späten Dienstagabend in eine Pizzeria an der Altenberger-Dom-Straße in Bergisch Gladbach-Katterbach eingebrochen. Er erbeutete Bargeld im unteren vierstelligen Bereich sowie mehrere Flaschen Alkohol und zwei Gasflaschen. Die Polizei sucht Zeugen. Nach Angaben der Polizei näherte sich der Mann gegen 23.30 Uhr der Pizzeria und hebelte ein auf Kipp stehendes [&#823",
-    "link": "https://www.glaktuell.net/einbruch-in-pizzeria-in-katterbach-taeter-erbeutet-bargeld-und-getraenke/",
-    "published": "Fri, 02 Oct 2026 10:17:00 +0000",
-    "source": "GL Aktuell (Gesamt)",
+    "id": "f0cf03a4ed02",
+    "title": "Himmel un Ääd im Februar: Erinnerungen, Gespräche, Musik und Bewegung",
+    "summary": "Im Februar lädt Himmel un Ääd zu einem vielseitigen Programm ein: Yoga für Kinder und Erwachsene, Schreibtreff und ErzählZeit, Gesprächsabende mit den Omas gegen rechts und Johannes Soth sowie bewegende Erinnerungen aus dem Projekt „Schildgen schreibt Geschichte“. Musikalische Akzente setzen Billy Odenthal &#038; friends und das Orchester Südstadt Tango.",
+    "link": "https://in-gl.de/2026/02/02/himmel-un-aeaed-im-februar-erinnerungen-gespraeche-musik-und-bewegung/",
+    "published": "Mon, 02 Feb 2026 18:01:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "bergisch-gladbach",
-      "odenthal"
+      "odenthal",
+      "bergisch-gladbach"
     ],
-    "fetched": "2026-10-02T12:23:12.790000"
+    "fetched": "2026-05-05T21:10:26.242986"
   },
   {
-    "id": "3a4452ce6425",
-    "title": "Bergisch Gladbach trauert um Sabine Becker – eine Brückenbauerin der Völkerverständigung",
-    "summary": "Gemeinsam mit ihrem Ehemann Axel Becker geh&ouml;rte Sabine Becker zu den ma&szlig;geblichen Wegbereitern der St&auml;dtepartnerschaft zwischen Bergisch Gladbach und der pal&auml;stinensischen Stadt Beit Jala. Seit den ersten Kontakten im Jahr 2002 setzte sich das Ehepaar unerm&uuml;dlich daf&uuml;r ein, Menschen zusammenzubringen, Vorurteile abzubauen und gegenseitiges Verst&auml;ndnis zu f&ouml;",
-    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52835",
-    "published": "2026-10-22 13:45:03",
-    "source": "Stadt Bergisch Gladbach (offiziell)",
+    "id": "6fc6e236125a",
+    "title": "Verletzter Radfahrer meldet Unfallflucht in Odenthal",
+    "summary": "Ein 20-jähriger Radfahrer aus Odenthal hat bei der Polizei Anzeige wegen eines Verkehrsunfalls erstattet, bei dem er verletzt wurde. Die mutmaßliche Unfallverursacherin entfernte sich nach dem Zusammenstoß vom Unfallort, ohne sich um den Verletzten zu kümmern. Symbolbild Zusammenstoß am frühen Morgen auf der Altenberger-Dom-Straße Nach Angaben des jungen Mannes ereignete sich der Unfall am frühen ",
+    "link": "https://www.glaktuell.net/verletzter-radfahrer-meldet-unfallflucht-in-odenthal/",
+    "published": "Sat, 24 Jan 2026 09:30:00 +0000",
+    "source": "GL Aktuell Odenthal",
     "kommunen": [
       "bergisch-gladbach",
       "odenthal"
     ],
-    "fetched": "2026-10-22T20:06:29.710988"
+    "fetched": "2026-05-05T22:40:06.386370",
+    "feed_kommunen": [
+      "odenthal"
+    ]
+  },
+  {
+    "id": "21f1fa17b45f",
+    "title": "Vielfältiges Kulturprogramm 2026 im Rheinisch-Bergischen Kreis",
+    "summary": "Mit einem breit aufgestellten Kulturprogramm lädt der Rheinisch-Bergischer Kreis im Jahr 2026 zu zahlreichen kulturellen Begegnungen ein. Von Januar bis November stehen Ausstellungen, Konzerte, Lesungen und Workshops auf dem Programm. Viele Veranstaltungen finden im Kreishaus statt, darüber hinaus werden weitere Orte im Kreisgebiet wie Bergisch Gladbach, Odenthal, Refrath und Wermelskirchen bespie",
+    "link": "https://www.glaktuell.net/vielfaeltiges-kulturprogramm-2026-im-rheinisch-bergischen-kreis/",
+    "published": "Mon, 19 Jan 2026 11:00:00 +0000",
+    "source": "GL Aktuell (Gesamt)",
+    "kommunen": [
+      "wermelskirchen",
+      "odenthal",
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-05-05T21:10:35.314436"
+  },
+  {
+    "id": "b38c99661316",
+    "title": "Betreuungsplatzvergabe in Burscheid, Kürten und Odenthal startet ab dem 1. Februar",
+    "summary": "&lt;p&gt;&lt;strong&gt;Der Rheinisch-Bergischer Kreis informiert:&lt;/strong&gt;&lt;br /&gt; Ab dem&lt;strong&gt; 1. Februar startet die Vergabe von Betreuungsplätzen in Kindertageseinrichtungen und in der Kindertagespflege&lt;/strong&gt; in Burscheid, Kürten und Odenthal für die Aufnahme zum August 2026.&lt;/p&gt; &lt;p&gt;Um ein Platzangebot erhalten zu können, ist die Registrierung eines persön",
+    "link": "https://www.kuerten.de/aktuelle-ereignisse/betreuungsplatzvergabe-in-burscheid-kuerten-und-odenthal-startet-ab-dem-1-februar/",
+    "published": "Wed, 14 Jan 2026 08:17:27 +0000",
+    "source": "Gemeinde Kürten (offiziell)",
+    "kommunen": [
+      "kuerten",
+      "burscheid",
+      "odenthal"
+    ],
+    "fetched": "2026-05-06T16:12:25.983739"
+  },
+  {
+    "id": "b077fc7dd15c",
+    "title": "Betreuungsplatzvergabe für August 2026 startet – Anmeldung ab 1. Februar",
+    "summary": "In den Städten Burscheid, Kürten und Odenthal beginnt ab dem 1. Februar die Vergabe von Betreuungsplätzen in Kindertageseinrichtungen sowie in der Kindertagespflege. Die Plätze gelten für den Betreuungsstart im August 2026. Symbolbild Registrierung im Online-Portal Voraussetzung Grundlage für die Teilnahme am Vergabeverfahren ist die rechtzeitige Registrierung im Online-Portal Little Bird. Eltern ",
+    "link": "https://www.glaktuell.net/betreuungsplatzvergabe-fuer-august-2026-startet-anmeldung-ab-1-februar/",
+    "published": "Mon, 12 Jan 2026 11:35:44 +0000",
+    "source": "GL Aktuell Burscheid",
+    "kommunen": [
+      "bergisch-gladbach",
+      "kuerten",
+      "burscheid",
+      "odenthal"
+    ],
+    "fetched": "2026-05-05T22:40:04.980564",
+    "feed_kommunen": [
+      "burscheid",
+      "kuerten",
+      "odenthal"
+    ]
+  },
+  {
+    "id": "daf07a5c5cf1",
+    "title": "Sanierung der Altenberger-Dom-Straße beginnt",
+    "summary": "Die zentrale Verkehrsachse in Schildgen wird nach langen Diskussionen in zwei Abschnitten erneuert und umgebaut. Die Arbeiten im nördlichen Bereich der Altenberger-Dom-Straße zwischen Leverkusener und Schlebuscher Straße sollen am 19. Januar starten und bis in den Herbst andauern. In dieser Zeit wird eine Fahrspur gesperrt, der Verkehr in Richtung Odenthal soll über Schlebusch ausweichen - aber au",
+    "link": "https://in-gl.de/2026/01/08/sanierung-der-altenberger-dom-strasse-startet/",
+    "published": "Thu, 08 Jan 2026 08:32:55 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "odenthal",
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-05-05T21:10:26.246681"
+  },
+  {
+    "id": "a66e98d443c7",
+    "title": "Pkw überschlägt sich auf der Scherfbachtalstraße",
+    "summary": "Ein riskantes Überholmanöver hat am Sonntagabend auf der Scherfbachtalstraße (L 296) in Odenthal zu einem schweren Verkehrsunfall geführt. Ein 18-jähriger Autofahrer verlor dabei die Kontrolle über sein Fahrzeug, das sich überschlug und auf dem Dach liegen blieb. Der junge Mann wurde nur leicht verletzt, der Sachschaden ist jedoch erheblich. Pkw Toyota nach Überholmanöver Überholmanöver kurz [&#82",
+    "link": "https://www.glaktuell.net/pkw-ueberschlaegt-sich-auf-der-scherfbachtalstrasse/",
+    "published": "Mon, 29 Dec 2025 12:43:41 +0000",
+    "source": "GL Aktuell Odenthal",
+    "kommunen": [
+      "bergisch-gladbach",
+      "odenthal"
+    ],
+    "fetched": "2026-05-05T22:40:06.386450",
+    "feed_kommunen": [
+      "odenthal"
+    ]
+  },
+  {
+    "id": "8c91cb83f1ab",
+    "title": "NCG feiert Abschied in die Ferien im Altenberger Dom",
+    "summary": "Die eigene Aula steht noch nicht wieder zur Verfügung, daher wurde das Weihnachtskonzert des Nicolaus-Cusanus-Gymnasiums erneut ein Auswärtsspiel: Der Altenberger Dom bildete eine gute Kulisse für einen stimmungsvollen Abschied in die Ferien. Die jüngeren Akteure zauberten sogar etwas Disneyfeeling in den Dom.",
+    "link": "https://in-gl.de/2025/12/22/ncg-feiert-abschied-in-die-ferien-im-altenberger-dom/",
+    "published": "Mon, 22 Dec 2025 07:28:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "odenthal"
+    ],
+    "fetched": "2026-05-05T21:10:26.247926"
+  },
+  {
+    "id": "190abad48cf2",
+    "title": "Geplante Autismus-Kita steht vor dem Aus",
+    "summary": "Im Dezember 2021 hatte der Stadtrat die Pläne für eine neue Kita mit einem Kompetenzzentrum beschlossen. Neben Betreuungsplätzen für Kinder mit Autismus-Spektrum-Störung sollte an der Odenthaler Straße auch ein Ort für Schulungen und Weiterbildungen geschaffen werden. Nun will die Stadtverwaltung das Projekt kippen.",
+    "link": "https://in-gl.de/2025/12/10/geplante-autismus-kita-steht-vor-dem-aus-bergisch-gladbach/",
+    "published": "Wed, 10 Dec 2025 09:10:15 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "odenthal"
+    ],
+    "fetched": "2026-05-05T21:10:26.249684"
+  },
+  {
+    "id": "e931aedbcb54",
+    "title": "Einbrecher in Burscheid und Odenthal unterwegs – Schmuck und Bargeld entwendet",
+    "summary": "Gleich zwei Einbrüche beschäftigten am Samstagabend (09.12.) die Polizei im Rheinisch-Bergischen Kreis. In Burscheid und Odenthal drangen unbekannte Täter in Wohnhäuser ein und entwendeten Schmuck und Bargeld. In beiden Fällen fehlt von den Einbrechern bislang jede Spur. Einbruch in der Pastor-Löh-Straße in Burscheid Der erste Einsatz führte die Beamten gegen Abend nach Burscheid. Zwischen 15:50 [",
+    "link": "https://www.glaktuell.net/einbrecher-in-burscheid-und-odenthal-unterwegs-schmuck-und-bargeld-entwendet/",
+    "published": "Wed, 10 Dec 2025 09:08:43 +0000",
+    "source": "GL Aktuell Odenthal",
+    "kommunen": [
+      "bergisch-gladbach",
+      "burscheid",
+      "odenthal"
+    ],
+    "fetched": "2026-05-05T22:40:06.386505",
+    "feed_kommunen": [
+      "odenthal"
+    ]
+  },
+  {
+    "id": "170757d4ead6",
+    "title": "Brötchentüten setzen klares Zeichen gegen Gewalt an Frauen im Rheinisch-Bergischen Kreis",
+    "summary": "Mit einer aufmerksamkeitsstarken Mitmachaktion setzen mehrere Bäckereien im Rheinisch-Bergischen Kreis derzeit ein sichtbares Signal gegen häusliche Gewalt. Im Rahmen der Orange Days geben Betriebe in Wermelskirchen, Burscheid, Kürten, Odenthal und Leichlingen speziell gestaltete Brötchentüten aus, die auf Hilfsangebote für betroffene Frauen hinweisen. Die Initiative wurde vom Runden Tisch „Keine ",
+    "link": "https://www.glaktuell.net/broetchentueten-setzen-klares-zeichen-gegen-gewalt-an-frauen-im-rheinisch-bergischen-kreis/",
+    "published": "Wed, 03 Dec 2025 10:51:12 +0000",
+    "source": "GL Aktuell Politik",
+    "kommunen": [
+      "odenthal",
+      "kuerten",
+      "bergisch-gladbach",
+      "wermelskirchen",
+      "burscheid",
+      "leichlingen"
+    ],
+    "fetched": "2026-10-22T20:41:38.135028"
+  },
+  {
+    "id": "eb40a352457e",
+    "title": "Einbruch in Odenthal: Polizei sucht Zeugen nach Tat am Bülsberger Weg",
+    "summary": "Odenthal. Nach einer einwöchigen Abwesenheit hat die Bewohnerin eines Einfamilienhauses am Bülsberger Weg am 3. November einen Einbruch festgestellt. Unbekannte hebelten die Balkontür auf, durchsuchten sämtliche Räume und entwendeten nach ersten Erkenntnissen eine Armbanduhr sowie weiteren Schmuck im unteren fünfstelligen Gesamtwert. Symbolbild Verdächtige Geräusche in der Tatnacht Ein Zeuge beric",
+    "link": "https://www.glaktuell.net/einbruch-in-odenthal-polizei-sucht-zeugen-nach-tat-am-buelsberger-weg/",
+    "published": "Tue, 04 Nov 2025 08:57:27 +0000",
+    "source": "GL Aktuell Odenthal",
+    "kommunen": [
+      "bergisch-gladbach",
+      "odenthal"
+    ],
+    "fetched": "2026-05-05T22:40:06.386556",
+    "feed_kommunen": [
+      "odenthal"
+    ]
+  },
+  {
+    "id": "2290c6d6ca79",
+    "title": "Schwerer Unfall in Odenthal – Vier Menschen verletzt, Verdacht auf Alkoholeinfluss",
+    "summary": "Odenthal. Ein schwerer Verkehrsunfall auf der Altenberger-Dom-Straße hat am Sonntagnachmittag (28.09.) vier Menschen schwer verletzt. Eine 50-jährige Beifahrerin aus Bergisch Gladbach schwebte zeitweise in Lebensgefahr. Gegen die Unfallverursacherin wird nun wegen Verdachts auf Alkohol am Steuer ermittelt. Unfall in Odenthal Frontalzusammenstoß mit drei Fahrzeugen beteiligt Nach bisherigen Ermittl",
+    "link": "https://www.glaktuell.net/schwerer-unfall-in-odenthal-vier-menschen-verletzt-verdacht-auf-alkoholeinfluss/",
+    "published": "Mon, 29 Sep 2025 08:19:21 +0000",
+    "source": "GL Aktuell Odenthal",
+    "kommunen": [
+      "bergisch-gladbach",
+      "odenthal"
+    ],
+    "fetched": "2026-05-05T22:40:06.386609",
+    "feed_kommunen": [
+      "odenthal"
+    ]
+  },
+  {
+    "id": "80278846c0e6",
+    "title": "Trickbetrüger geben sich als Bankmitarbeiter aus – Seniorinnen in Odenthal und Bergisch Gladbach getäuscht",
+    "summary": "Odenthal/Bergisch Gladbach – Am Samstag (23. August) wurden zwei Seniorinnen Opfer einer perfiden Betrugsmasche. Unbekannte gaben sich am Telefon als angebliche Bankmitarbeiter aus und forderten die Herausgabe von Bankkarten samt PIN. Ob den Frauen ein finanzieller Schaden entstanden ist, steht derzeit noch nicht fest. Symbolbild Vorgehen der Täter Gegen 11:30 Uhr erhielt eine 79-jährige Odenthale",
+    "link": "https://www.glaktuell.net/trickbetrueger-geben-sich-als-bankmitarbeiter-aus-seniorinnen-in-odenthal-und-bergisch-gladbach-getaeuscht/",
+    "published": "Mon, 25 Aug 2025 09:00:00 +0000",
+    "source": "GL Aktuell Odenthal",
+    "kommunen": [
+      "bergisch-gladbach",
+      "odenthal"
+    ],
+    "fetched": "2026-05-05T22:40:06.386663",
+    "feed_kommunen": [
+      "odenthal"
+    ]
+  },
+  {
+    "id": "34351002d660",
+    "title": "Einbruch in Odenthaler Grundschule – Täter durchsuchen Büroräume der OGS",
+    "summary": "Am frühen Donnerstagmorgen (07.08.) wurde die Polizei zu einem Einbruch in die Offene Ganztagsschule (OGS) der Grundschule an der Sankt-Engelbert-Straße in Odenthal-Voiswinkel gerufen. Gegen 07:15 Uhr alarmierte der Hausmeister die Beamten, nachdem er beim Betreten des Gebäudes die aufgebrochene Eingangstür und durchwühlte Büroräume vorgefunden hatte. Symbolbild Eingangstür aufgehebelt, Schränke a",
+    "link": "https://www.glaktuell.net/einbruch-in-odenthaler-grundschule-taeter-durchsuchen-bueroraeume-der-ogs/",
+    "published": "Fri, 08 Aug 2025 08:17:54 +0000",
+    "source": "GL Aktuell Odenthal",
+    "kommunen": [
+      "bergisch-gladbach",
+      "odenthal"
+    ],
+    "fetched": "2026-05-05T22:40:06.386716",
+    "feed_kommunen": [
+      "odenthal"
+    ]
+  },
+  {
+    "id": "19a3b4360a27",
+    "title": "Schwerer Unfall in Odenthal: Drei Verletzte – darunter ein Kind",
+    "summary": "Am Dienstagabend (8. Juli) kam es in Odenthal zu einem schweren Verkehrsunfall, bei dem drei Menschen verletzt wurden. Unter den Betroffenen ist auch ein fünfjähriger Junge, der wie eine weitere Fahrerin schwere Verletzungen erlitt. Unfall Funkenhof Unfall in einer Rechtskurve Nach ersten Erkenntnissen war gegen 18:40 Uhr ein 18-jähriger Fahrer aus Bergisch Gladbach mit seinem [&#8230;] The post S",
+    "link": "https://www.glaktuell.net/schwerer-unfall-in-odenthal-drei-verletzte-darunter-ein-kind/",
+    "published": "Wed, 09 Jul 2025 08:54:50 +0000",
+    "source": "GL Aktuell Odenthal",
+    "kommunen": [
+      "bergisch-gladbach",
+      "odenthal"
+    ],
+    "fetched": "2026-05-05T22:40:06.386766",
+    "feed_kommunen": [
+      "odenthal"
+    ]
+  },
+  {
+    "id": "81c453ce923f",
+    "title": "Zigarettenautomat in Odenthal-Blecher aufgebrochen – Polizei sucht Zeugen",
+    "summary": "In der Nacht zum Mittwoch (12. Juni) ist es im Odenthaler Ortsteil Blecher zu einem Aufbruch eines Zigarettenautomaten gekommen. Gegen 02:45 Uhr meldeten aufmerksame Zeugen der Polizei zwei unbekannte Täter, die sich an einem Automaten auf der Hauptstraße zu schaffen machten. Symbolbild Täter fliehen mit Beute zu Fuß Die beiden Unbekannten öffneten gewaltsam den Automaten [&#8230;] The post Zigare",
+    "link": "https://www.glaktuell.net/zigarettenautomat-in-odenthal-blecher-aufgebrochen-polizei-sucht-zeugen/",
+    "published": "Thu, 12 Jun 2025 10:23:13 +0000",
+    "source": "GL Aktuell Odenthal",
+    "kommunen": [
+      "bergisch-gladbach",
+      "odenthal"
+    ],
+    "fetched": "2026-05-05T22:40:06.386815",
+    "feed_kommunen": [
+      "odenthal"
+    ]
+  },
+  {
+    "id": "7095b3396848",
+    "title": "Motorrad-Fahrschülerin stürzt fünf Meter in die Tiefe – Schwer verletzt nach Unfall in Odenthal",
+    "summary": "Am Dienstagvormittag kam es in Odenthal zu einem schweren Verkehrsunfall mit einer Motorrad-Fahrschülerin. Die 44-jährige Frau aus Wülfrath verlor während einer Fahrstunde die Kontrolle über ihr Motorrad, kollidierte mit einem Geländer und stürzte rund fünf Meter in die Tiefe. Sie wurde schwer verletzt mit einem Rettungshubschrauber ins Krankenhaus gebracht. Symbolbild Unfall während Fahrstunde – ",
+    "link": "https://www.glaktuell.net/motorrad-fahrschuelerin-stuerzt-fuenf-meter-in-die-tiefe-schwer-verletzt-nach-unfall-in-odenthal/",
+    "published": "Wed, 11 Jun 2025 09:42:31 +0000",
+    "source": "GL Aktuell Odenthal",
+    "kommunen": [
+      "bergisch-gladbach",
+      "odenthal"
+    ],
+    "fetched": "2026-05-05T22:40:06.386868",
+    "feed_kommunen": [
+      "odenthal"
+    ]
   }
 ]

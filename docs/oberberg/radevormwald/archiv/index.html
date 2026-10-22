@@ -1,0 +1,1524 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Radevormwald – Archiv — AI Tageszeitung</title>
+<style>
+:root {
+  --rbk-blau: #1B3A5C;
+  --rbk-rot: #C0392B;
+  --rbk-grau: #F5F5F5;
+  --akzent: #2980B9;
+  --text: #2C3E50;
+  --bg: #FAFAFA;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: Georgia, 'Times New Roman', serif; color: var(--text); background: var(--bg); line-height: 1.6; }
+header { background: var(--rbk-blau); color: white; padding: 14px 24px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px; }
+header h1 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.8rem; letter-spacing: 2px; font-weight: 800; }
+header .sub { font-size: 0.9rem; opacity: 0.85; }
+header .meta { font-size: 0.8rem; text-align: right; opacity: 0.9; }
+.live-dot { display: inline-block; width: 8px; height: 8px; background: #2ECC71; border-radius: 50%; margin-right: 4px; animation: pulse 2s infinite; }
+@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
+.ticker { background: var(--rbk-rot); color: white; padding: 7px 24px; font-size: 0.85rem; font-family: sans-serif; }
+.ticker b { margin-right: 8px; }
+nav { background: white; border-bottom: 2px solid var(--rbk-blau); padding: 8px 24px; display: flex; flex-wrap: wrap; gap: 3px; }
+nav a { font-family: sans-serif; font-size: 0.82rem; padding: 5px 12px; text-decoration: none; color: var(--rbk-blau); border-radius: 4px; transition: all 0.2s; }
+nav a:hover, nav a.active { background: var(--rbk-blau); color: white; }
+nav .sep { color: #ccc; padding: 5px 2px; font-family: sans-serif; font-size: 0.82rem; }
+main { max-width: 1200px; margin: 20px auto; padding: 0 16px; }
+.grid { display: grid; grid-template-columns: 2fr 1fr; gap: 20px; }
+.artikel { background: white; border-radius: 6px; padding: 16px 18px; border-left: 4px solid var(--akzent); box-shadow: 0 1px 3px rgba(0,0,0,0.08); margin-bottom: 14px; transition: box-shadow 0.2s; }
+.artikel:hover { box-shadow: 0 3px 12px rgba(0,0,0,0.12); }
+.artikel .tag { font-family: sans-serif; font-size: 0.72rem; font-weight: 700; color: var(--rbk-rot); text-transform: uppercase; letter-spacing: 1px; }
+.artikel .tag.bericht { color: var(--rbk-blau); margin-left: 8px; }
+.artikel h2 { font-size: 1.15rem; margin: 4px 0; line-height: 1.3; }
+.artikel h2 a { color: var(--text); text-decoration: none; }
+.artikel h2 a:hover { color: var(--akzent); }
+.artikel .teaser { font-size: 0.9rem; color: #555; margin: 6px 0; }
+.artikel .info { font-family: sans-serif; font-size: 0.75rem; color: #888; }
+.sidebar-box { background: white; border-radius: 6px; padding: 14px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); margin-bottom: 14px; }
+.sidebar-box h3 { font-family: sans-serif; font-size: 0.85rem; color: var(--rbk-blau); border-bottom: 2px solid var(--rbk-blau); padding-bottom: 5px; margin-bottom: 10px; }
+.k-links { list-style: none; }
+.k-links li { margin: 6px 0; }
+.k-links a { font-family: sans-serif; font-size: 0.85rem; color: var(--text); text-decoration: none; display: flex; justify-content: space-between; }
+.k-links a:hover { color: var(--akzent); }
+.badge { background: var(--rbk-grau); padding: 1px 8px; border-radius: 10px; font-size: 0.75rem; }
+footer { background: var(--rbk-blau); color: white; text-align: center; padding: 16px; margin-top: 30px; font-size: 0.8rem; font-family: sans-serif; }
+footer a { color: #85C1E9; }
+.legal { max-width: 720px; }
+.legal h2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.15rem; color: var(--rbk-blau); margin: 22px 0 8px; }
+.legal p, .legal li { margin: 0 0 10px; }
+.legal ul { padding-left: 1.2rem; }
+.legal .hinweis { background: #fff8e6; border-left: 4px solid var(--rbk-rot); padding: 10px 14px; margin-bottom: 16px; }
+.empty { text-align: center; padding: 40px; color: #999; font-size: 1.1rem; }
+.rat-block { margin: 4px 0 26px; }
+.rat-block h2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.15rem; color: var(--rbk-blau); margin: 0 0 10px; }
+.rat-hero { background: white; border-left: 4px solid var(--rbk-rot); border-radius: 6px; padding: 16px 18px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+.rat-hero .wann { font-family: sans-serif; font-size: 0.78rem; font-weight: 700; color: var(--rbk-rot); letter-spacing: 0.04em; text-transform: uppercase; }
+.rat-hero h3 { font-size: 1.25rem; margin: 4px 0; }
+.rat-liste { list-style: none; }
+.rat-liste li { background: white; border-radius: 6px; padding: 12px 16px; margin-bottom: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+.rat-liste .wann { font-family: sans-serif; font-size: 0.82rem; color: var(--rbk-blau); font-weight: 700; }
+.rat-liste .ort { font-family: sans-serif; font-size: 0.8rem; color: #666; }
+.rat-quelle { font-family: sans-serif; font-size: 0.8rem; color: #666; margin-top: 8px; }
+.monat-gruppe { margin-bottom: 8px; }
+.monat-header { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.05rem; color: var(--rbk-blau); border-bottom: 2px solid var(--rbk-blau); padding: 8px 0 5px 0; margin: 18px 0 10px 0; display: flex; align-items: center; gap: 8px; }
+.monat-header:first-child { margin-top: 0; }
+.monat-count { background: var(--rbk-blau); color: white; font-size: 0.72rem; padding: 1px 8px; border-radius: 10px; font-weight: 400; }
+.btn-refresh { display: inline-flex; align-items: center; gap: 5px; font-family: sans-serif; font-size: 0.78rem; padding: 5px 14px; background: #2ECC71; color: white; border: none; border-radius: 4px; text-decoration: none; cursor: pointer; transition: background 0.2s; margin-top: 4px; }
+.btn-refresh[hidden], .refresh-status[hidden] { display: none; }
+.btn-refresh:hover { background: #27AE60; color: white; }
+.btn-refresh:disabled, .btn-refresh.loading { background: #95A5A6; cursor: wait; opacity: 0.8; }
+.btn-refresh .spinner { display: inline-block; width: 10px; height: 10px; border: 2px solid rgba(255,255,255,0.3); border-top-color: white; border-radius: 50%; animation: spin 0.8s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+.refresh-status { font-size: 0.72rem; color: rgba(255,255,255,0.85); margin-top: 4px; min-height: 14px; font-family: sans-serif; }
+.kreis-nav { background: var(--rbk-blau); padding: 6px 24px; display: flex; gap: 12px; }
+.kreis-nav a { font-family: sans-serif; font-size: 0.85rem; color: rgba(255,255,255,0.7); text-decoration: none; padding: 4px 10px; border-radius: 4px; }
+.kreis-nav a:hover, .kreis-nav a.active { color: white; background: rgba(255,255,255,0.15); }
+@media (max-width: 768px) { .grid { grid-template-columns: 1fr; } header h1 { font-size: 1.3rem; } }
+</style>
+</head>
+<body>
+<div class="kreis-nav">
+  <a href="/ai-tageszeitung/">Rhein-Berg</a>
+  <a href="/ai-tageszeitung/oberberg/">Oberberg</a>
+  <a href="/ai-tageszeitung/veranstaltungen/">📅 Veranstaltungen</a>
+</div>
+<header>
+  <div>
+    <h1>Radevormwald – Archiv</h1>
+    <div class="sub">AI Tageszeitung · Oberbergischer Kreis</div>
+  </div>
+  <div class="meta">
+    <div><span class="live-dot"></span>206 Artikel</div>
+    <div>22.10.2026, 22:19 Uhr</div>
+    <button type="button" onclick="triggerRefresh()" class="btn-refresh" id="btn-refresh" hidden>&#x21bb; Jetzt aktualisieren</button>
+    <div class="refresh-status" id="refresh-status"></div>
+  </div>
+</header>
+<nav><a href="../index.html">&larr; Zurück zu Radevormwald</a></nav>
+<main>
+  <div><div class="monat-gruppe">
+<h2 class="monat-header">Juli 2026 <span class="monat-count">58</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/unverpackt-laden-erweitert-das-konzept-D5SHFIUOMYG5UBIHEJQ4DGUUOM.html" target="_blank" rel="noopener">Unverpackt-Laden erweitert das Konzept</a></h2>
+  <div class="teaser">„Ausgewogen weiterdenken“: Das Sortiment des Unverpackt-Ladens an der Blumenstraße wird erweitert. Herzstück bleibt aber die unverpackte Ware.</div>
+  <div class="info">24.07.2026, 10:33 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/ich-liebe-das-wasser-aber-es-kann-toedlich-sein-IXNGWL23SQC3PGUC2XZ36MMFVY.html" target="_blank" rel="noopener">„Ich liebe das Wasser, aber es kann tödlich sein“</a></h2>
+  <div class="teaser">Zwei Trainerinnen beim TSV beobachten, wie Kinder mit immer größeren Defiziten ins Becken kommen. Sie bilden sich fort, um zu helfen. Doch das Problem reicht weit über den Schwimmunterricht hinaus.</div>
+  <div class="info">24.07.2026, 02:56 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/206209/radevormwald-kofferdieb-reisegepaeck/" target="_blank" rel="noopener">Radevormwald: Kofferdieb stiehlt Reisegepäck und flüchtet</a></h2>
+  <div class="teaser">Kofferdieb in Radevormwald: Ein Mann stahl zwei Koffer vor einem Wohnhaus und flüchtete mit einem silbernen VW Sharan.</div>
+  <div class="info">23.07.2026, 17:39 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/koffer-fuer-den-urlaub-vor-dem-haus-gestohlen-U2GOWGZZ6A5TQJICKYUEX77SFI.html" target="_blank" rel="noopener">Koffer für den Urlaub vor dem Haus gestohlen</a></h2>
+  <div class="teaser">Den Start in ihren Urlaub hatte sich eine Familie aus Radevormwald wohl anders vorgestellt. Für den kurz bevorstehenden Taxitransfer stellten sie gegen 7 Uhr zwei Koffer auf dem Gehweg vor dem Wohnhaus bereit.</div>
+  <div class="info">23.07.2026, 13:05 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6320070" target="_blank" rel="noopener">POL-GM: Kofferdieb in Radevormwald unterwegs</a></h2>
+  <div class="teaser">Radevormwald (ots) - Den Start in den Urlaub hatte sich eine Familie aus Radevormwald wohl anders vorgestellt. Für den kurz bevorstehenden Taxitransfer stellten sie gegen 7 Uhr zwei Koffer auf dem Gehweg vor dem Wohnhaus bereit. Wenige Minuten ...</div>
+  <div class="info">23.07.2026, 12:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/mit-gerd-osenberg-einen-ganz-grossen-verloren-5IYLF73TAJTYFO3N4OUDWO6J7M.html" target="_blank" rel="noopener">Mit Gerd Osenberg „einen ganz Großen verloren“</a></h2>
+  <div class="teaser">Gerd Osenberg war einer der erfolgreichsten deutschen Leichtathletik-Trainer. Er führte Sportlerinnen wie Heide Ecker-Rosendahl, Ulrike Nasse-Meyfarth und Heike Henkel zu Olympia-Gold.</div>
+  <div class="info">23.07.2026, 02:44 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/landtagswahl-2027-das-muessen-waehler-in-remscheid-und-radevormwald-wissen-4UJHKK2GT5DI3JIYDIHM4BE6OY.html" target="_blank" rel="noopener">Landtagswahl 2027: Das müssen Wähler in Remscheid und Radevormwald wissen</a></h2>
+  <div class="teaser">Im Frühjahr 2027 steht die Landtagswahl in Nordrhein-Westfalen an. In Remscheid und Radevormwald stehen die ersten Kandidatinnen und Kandidaten fest. Hier lesen Sie mehr über Personen, Termine und Wahlberechtigte.</div>
+  <div class="info">22.07.2026, 04:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/premiere-sommerspielebei-heissen-temperaturen-UI3DEE352HN2MZ2RGSRXVDOP7Q.html" target="_blank" rel="noopener">Premiere – Sommerspielebei heißen Temperaturen</a></h2>
+  <div class="teaser">Auf dem DTV-Vereinsgelände in Obergrunewald ging es sportlich zu. Der Jugendbeirat hatte für Jugendliche ein Sportfest mit Beach-Volleyball und Padel-Tennis organisiert.</div>
+  <div class="info">22.07.2026, 02:02 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/freizeittipps-zum-wochenende-hier-ist-im-bergischen-was-los-VHQFTG3UEZBTRBKAG3JZKVM7LE.html" target="_blank" rel="noopener">Freizeittipps zum Wochenende: Hier ist im Bergischen was los</a></h2>
+  <div class="teaser">In der ersten Ferienwoche gibt es ganz bestimmt keine Langeweile. Auf dem Rathausplatz startet das Löwen-Festival, irisches Flair gibt es in Lennep – und Lüttringhausen wird zu Klein-Italien. Der Feierabendmarkt macht auf dem Hasten halt und am Sonnt</div>
+  <div class="info">21.07.2026, 17:30 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/einbrecher-stehlen-ipads-aus-schule-OHROEZ2DQ3X4RH3LKONQAC2M2Q.html" target="_blank" rel="noopener">Einbrecher stehlen iPads aus Schule</a></h2>
+  <div class="teaser">Bereits am vergangenen Wochenende vor dem Beginn der Sommerferien hat es einen Einbruch in die Grundschule Bergerhof an der Lessingstraße gegeben.</div>
+  <div class="info">21.07.2026, 17:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/206066/oberberg-einbruch-wiehl-radevormwald/" target="_blank" rel="noopener">Oberberg: Einbrüche in Wiehl und Radevormwald – Polizei ermittelt</a></h2>
+  <div class="teaser">Einbrüche in Wiehl und Radevormwald: Täter entwendeten Werkzeug aus einem Betrieb und 30 Tablets aus einer Grundschule. Polizei sucht Zeugen.</div>
+  <div class="info">21.07.2026, 11:33 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6318602" target="_blank" rel="noopener">POL-GM: Einbruch in Schule - 30 Tablets gestohlen</a></h2>
+  <div class="teaser">Radevormwald (ots) - Über das Wochenende vom 10. bis 13. Juli (Montag) sind Unbekannte in eine Grundschule in der Lessingstraße eingebrochen. Über ein Fenster gelangten die Einbrecher in einen Klassenraum, stahlen 30 iPads und flüchteten ...</div>
+  <div class="info">21.07.2026, 11:15 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/merkels-politisches-schlachtross-wird-80-NCCTRSIEK33GPYCFHREHFG4VBI.html" target="_blank" rel="noopener">Merkels „politisches Schlachtross“ wird 80</a></h2>
+  <div class="teaser">Heute wird der frühere oberbergische Bundestagsabgeordnete Friedhelm Julius Beucher 80 Jahre alt. Der Ruhestand muss trotzdem warten.</div>
+  <div class="info">21.07.2026, 03:10 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/hospizverein-will-sichtbarer-werden-L7G5ODPMPO5EWLYSM37MNXL5ZA.html" target="_blank" rel="noopener">Hospizverein will sichtbarer werden</a></h2>
+  <div class="teaser">Sie öffneten die Fenster, luden zum Kaffee ein und kamen ins Gespräch: Die Mitarbeiter des Hospizvereins feierten ein vielfältiges Sommerfest.</div>
+  <div class="info">21.07.2026, 02:06 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/arbeit-remscheid-ist-gerettet-vorerst-jedenfalls-WGYZWWFM5FBENDOEQU2JS5A6XY.html" target="_blank" rel="noopener">Arbeit Remscheid ist gerettet - vorerst jedenfalls</a></h2>
+  <div class="teaser">Dem gemeinnützigen Unternehmen bleibt ein Insolvenzverfahren erspart. Das Finanzproblem ist aber nur kurzfristig gelöst. So sieht die Lage in dem Betrieb, der Langzeitarbeitslose an die Berufswelt heranführt, aus.</div>
+  <div class="info">20.07.2026, 06:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/sonderpruefung-noch-keine-entlastung-fuer-buergermeister-mans-JBNBL3OMHNWQDW3FEGDPG5WPEE.html" target="_blank" rel="noopener">Sonderprüfung: Noch keine Entlastung für Bürgermeister Mans</a></h2>
+  <div class="teaser">Im Jahresabschluss 2025 bescheinigen die Prüfer der Stadt einen ordnungsgemäßen Abschluss – stellen aber auch zwei Verstöße fest.</div>
+  <div class="info">20.07.2026, 04:59 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/radevormwald-was-passiert-auf-der-weide-an-der-b229-in-niedernfeld-OI4JTASSRRH67EZ63FEGECMWIY.html" target="_blank" rel="noopener">Radevormwald Was passiert auf der Weide an der B229 in Niedernfeld?</a></h2>
+  <div class="teaser">Die Fläche, die mit Aluminium-Spezialplatten bedeckt ist, zieht derzeit die Blicke auf sich. Der Bauer, dem das Feld gehört, bestätigt die Spekulationen.</div>
+  <div class="info">19.07.2026, 10:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/3607-radler-legen-802-659-kilometer-zurueck-IP5NR5ROAA5TZBPIRLCQ5C6I6Q.html" target="_blank" rel="noopener">3607 Radler legen 802.659 Kilometer zurück</a></h2>
+  <div class="teaser">Der Oberbergische Kreis sowie die Städte und Gemeinden haben am Stadtradeln teilgenommen. Ein großes, gemeinschaftliches Erlebnis.</div>
+  <div class="info">18.07.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/der-rat-in-radevormwald-waehlt-den-kuerzeren-weg-CJL7HCCWAA2IFGQMJYWSSUN2AI.html" target="_blank" rel="noopener">Der Rat in Radevormwald wählt den kürzeren Weg</a></h2>
+  <div class="teaser">Der Rat hat sich klar für den modularen Holzbau der Grundschule Bergerhof ausgesprochen. Warum der Neubau trotzdem nicht sofort beginnen kann, zeigt der weitere Planungsweg.</div>
+  <div class="info">17.07.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/nach-dem-toedlichen-badeunfall-was-ist-dem-jungen-mann-im-wasser-geschehen-WWEUFUE76NBVZLQYNPJ5CWWPE4.html" target="_blank" rel="noopener">Nach dem tödlichen Badeunfall: Was ist dem jungen Mann im Wasser geschehen?</a></h2>
+  <div class="teaser">Das Ufer bei Hammerstein ist bei Badenden beliebt. Doch im Bereich des alten Bachbetts der Wupper fällt das seichte Ufer steil ab. Der Wupperverband mahnt deshalb: Das Baden ist dort verboten.</div>
+  <div class="info">16.07.2026, 14:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/bav-zu-gast-an-einem-gymnasium-in-radevormwald-CGUPXFCHSBPJNYAZLTZLDOJLAY.html" target="_blank" rel="noopener">BAV zu Gast an einem Gymnasium in Radevormwald</a></h2>
+  <div class="teaser">Der „Zero Waste Club“ des BAV zu Gast im Theodor-Heuss-Gymnasium und informierte die Schüler über dieRohstoff-Potenziale in alten Smartphones.</div>
+  <div class="info">16.07.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/kulturtipps-das-ist-in-den-kommenden-tagen-im-bergischen-land-los-P27QKN4FXJETPDGDPOIMN3LHTA.html" target="_blank" rel="noopener">Kulturtipps: Das ist in den kommenden Tagen im Bergischen Land los</a></h2>
+  <div class="teaser">Die letzte Woche vor den Ferien und das erste Ferienwochenende locken mit Open-Air-Veranstaltungen: Die Symphoniker spielen in den Stadtteilen, das Kino an der Gelben Villa zeigt „Das Kanu des Manitu“, im Stadtpark gibt es mit Privacy und Riff richti</div>
+  <div class="info">15.07.2026, 17:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/landtagswahl-2027-dieser-kandidat-tritt-fuer-die-gruenen-in-remscheid-und-radevormwald-an-HBW55ONP5RFBZCKOXQD7EJOXQI.html" target="_blank" rel="noopener">Landtagswahl 2027: Cayan Yildiz tritt für die Grünen in Remscheid und Radevormwald an</a></h2>
+  <div class="teaser">Parteifreunde in Remscheid und Radevormwald haben festgelegt, wer für sie bei den Landtagswahlen in den beiden Städten antreten wird. Sie setzen auf einen jungen Politiker. Das ist er.</div>
+  <div class="info">15.07.2026, 10:02 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/ministerin-neubaur-diskutiert-bei-gira-mit-experten-75KDOYW4LMYZSAY7OOL5EAMNNA.html" target="_blank" rel="noopener">Ministerin Neubaur diskutiert bei Gira mit Experten</a></h2>
+  <div class="teaser">Die Technologien für eine klimaneutrale Gebäudewende sind vorhanden – jetzt braucht es politische Rahmenbedingungen. Darüber diskutierte Wirtschaftsministerin Mona Neubaur in Radevormwald mit führenden Vertretern der Elektro- und Digitalindustrie. Wa</div>
+  <div class="info">15.07.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/insolvenzen-in-solingen-und-remscheid-firmen-haben-weiter-probleme-7NP6BASGJJDAVO63DUMIXSLVMQ.html" target="_blank" rel="noopener">Insolvenzen in Solingen und Remscheid: Firmen haben weiter Probleme</a></h2>
+  <div class="teaser">Die Wirtschaftsauskunftei Creditreform hat in der Region rund um die Großstädte Solingen, Remscheid und Leverkusen 180 Insolvenzen im ersten Halbjahr ermittelt. Das ist ein ordentlicher Sprung nach oben, der viele Mitarbeiter und Familien in der Regi</div>
+  <div class="info">14.07.2026, 07:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/rat-muss-sich-beim-grundschulneubau-in-radevormwald-entscheiden-CXDG4E4ABI2TB7HXHHCMXW6GKY.html" target="_blank" rel="noopener">Rat muss sich beim Grundschulneubau in Radevormwald entscheiden</a></h2>
+  <div class="teaser">Die Grundschule Bergerhof in Radevormwald soll neu gebaut werden – doch wie? Auf dem Tisch liegen zwei Konzeptemit deutlich unterschiedlichen Kosten.</div>
+  <div class="info">14.07.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/tragischer-badeunfall-an-der-wuppertalsperre-familie-kann-20-jaehrigem-nicht-helfen-CCDCXIENABDURFXH7QO2HPNQLE.html" target="_blank" rel="noopener">Tragischer Badeunfall an der Wuppertalsperre: Familie kann 20-Jährigem nicht helfen</a></h2>
+  <div class="teaser">Am Ufer in Hammerstein: Taucher der DLRG finden den Hückeswagener vier Stunden nach seinem Verschwinden. Kripo sucht nach der Ursache des tragischen Badeunfalls.</div>
+  <div class="info">13.07.2026, 14:07 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/remscheid-das-sind-die-gefahren-in-der-wuppertalsperre-2ATSBN7PNJDEDMTPH43YBTBLKE.html" target="_blank" rel="noopener">Remscheid: Das sind die Gefahren in der Wuppertalsperre</a></h2>
+  <div class="teaser">Jens Pfitzner ist Leiter des Remscheider Gesundheitsamtes und schwimmt selbst gern in der Talsperre. Er kennt sie genau. Einschließlich ihrer Risiken.</div>
+  <div class="info">13.07.2026, 14:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/regen-schnee-sturm-diese-grundschueler-gehen-trotzdem-raus-und-lieben-es-Y57MVFAGAUB5HPHUUJKBZRBDTU.html" target="_blank" rel="noopener">Regen, Schnee, Sturm – diese Grundschüler gehen trotzdem raus. Und lieben es</a></h2>
+  <div class="teaser">Regen, Schnee, Wind – die Waldgruppe am Grundschulverbund Bergerhof-Wupper geht bei jedem Wetter raus. Waldpädagogin Meike Dmuß erklärt, warum das für Kinder wichtig ist.</div>
+  <div class="info">13.07.2026, 03:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/remscheid-nach-dem-letzten-chaos-an-der-kraewi-verhalten-sich-die-badegaeste-jetzt-besser-schwimmen-726ZGYSPOZHIXMK7CJ743LYA4A.html" target="_blank" rel="noopener">Remscheid: Nach dem letzten Chaos an der Kräwi: Verhalten sich die Badegäste jetzt besser? Schwimmen Wupper-Talsperre Kräwinkler Brücke</a></h2>
+  <div class="teaser">Müll und Vandalismus hatten auf dem Freizeitareal an der Wuppertalsperre zuletzt dafür gesorgt, dass Imbiss, Bootsverleih und Toiletten geschlossen werden mussten. Nun war es wieder heiß – und viele kamen. So ist die aktuelle Lage an der Kräwi.</div>
+  <div class="info">12.07.2026, 15:34 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/kooperationsvereinbarung-fuer-einheitliche-ogs-qualitaet-in-radevormwald-FRVQK2CUAK6FF3G4IBH3TKFHYE.html" target="_blank" rel="noopener">Kooperationsvereinbarung für einheitliche OGS-Qualität in Radevormwald</a></h2>
+  <div class="teaser">Radevormwald garantiert ab dem neuen Schuljahr allen Erstklässlern einen OGS-Platz – und setzt dabei auf einheitliche Qualitätsstandards.</div>
+  <div class="info">11.07.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/sport/regional/motorsport-andreas-voelkel-feiertcomeback-nach-40-jahren-3ETA6SKG6UBLB3XHTUI6NYA64A.html" target="_blank" rel="noopener">Motorsport: Andreas Völkel feiertComeback nach 40 Jahren</a></h2>
+  <div class="teaser">Andreas Völkel hat sich in Walldürn eindrucksvoll auf der Rennstrecke zurückgemeldet. Gemeinsam mit Mechaniker Willi Feuster feierte der Remscheider auf einer selbst aufgebauten Yamaha RD350 gleich zwei Siege.</div>
+  <div class="info">10.07.2026, 12:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/vier-museen-mit-viel-kultur-kunst-und-kulinarik-in-radevormwald-2TKZN53TNPQTR43ACUAVDCF3ZI.html" target="_blank" rel="noopener">Vier Museen mit viel Kultur, Kunst und Kulinarik in Radevormwald</a></h2>
+  <div class="teaser">Ein Sommerabend, viel Kultur und kulinarische Genüsse – das ist die Nacht der Museen am 15. August. Alle vier Museen in Rade machen mit. Was die Besucher erwartet.</div>
+  <div class="info">10.07.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/zwischen-rade-und-lennep-bald-wird-die-b229-zur-baustelle-5BEZKWLMPFF7DESB5F7BWSMD7A.html" target="_blank" rel="noopener">Zwischen Rade und Lennep: Bald wird die B229 zur Baustelle</a></h2>
+  <div class="teaser">Ab Spätsommer ist die Straße aufgrund von Straßensanierungsarbeiten erneut teilweise gesperrt. Das wird weder die Lenneper noch die Rader Autofahrer erfreuen. Das sind die Details.</div>
+  <div class="info">09.07.2026, 16:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/erfahrungen-mit-dem-neuen-re47-in-remscheid-und-solingen-habe-fast-drei-jahre-darauf-gewartet-FJN6X7GSQREXBJYVOMP35N4N7Q.html" target="_blank" rel="noopener">Erfahrungen mit dem neuen RE47 in Remscheid und Solingen: „Habe fast drei Jahre darauf gewartet“</a></h2>
+  <div class="teaser">Bei vielen ÖPNV-Nutzern hat sich die neue Direktverbindung zwischen Remscheid, Solingen und Düsseldorf noch gar nicht herumgesprochen. Seit einigen Tagen fährt der batterieelektrische RE47 wieder stündlich – wie Pendler den Neustart erleben und was d</div>
+  <div class="info">09.07.2026, 12:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/heiner-brand-in-radevormwald-leidenschaft-ist-eineunabdingbare-voraussetzung-fuer-erfolg-Y4CN5ZF4VPMH75U74SF3VW4QYI.html" target="_blank" rel="noopener">Heiner Brand in Radevormwald: „Leidenschaft ist eineunabdingbare Voraussetzung für Erfolg“</a></h2>
+  <div class="teaser">Der Handball-Weltmeistertrainer Heiner Brand erklärte beim Rader Wirtschafts-empfang, was Führungskräfte aus dem Spitzensport lernen können.</div>
+  <div class="info">09.07.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/bergisches-land-so-machen-urlauber-einbrechern-das-leben-schwer-6SZ3CEWZ3JCIXLPXORWBX2TYRU.html" target="_blank" rel="noopener">Bergisches Land: So machen Urlauber Einbrechern das Leben schwer</a></h2>
+  <div class="teaser">Sommer, Sonne, Einbruch? Damit Sie nach Ihrer Reise keine böse Überraschung erleben, gibt die Polizei Tipps, wie Bürgerinnen und Bürger sich wirksam schützen können. Eine spezielle Übersicht verrät jede Woche, an welchen Orten des Städtedreiecks Krim</div>
+  <div class="info">08.07.2026, 16:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/seniorin-in-radevormwald-wird-opfer-von-telefon-betruegerin-XF7QVTEHFZFQPBGLZEOVKSZYFA.html" target="_blank" rel="noopener">Seniorin in Radevormwald wird Opfer von Telefon-Betrügerin</a></h2>
+  <div class="teaser">Am Montagmittag klingelte bei einer Bewohnerin eines Altenheims in Radevormwald das Telefon. Die Anruferin gab sich als Angehörige aus und brachte die Seniorin um Geld und Schmuck.</div>
+  <div class="info">08.07.2026, 10:54 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/205338/radevormwald-schockanruf-seniorin-betrug/" target="_blank" rel="noopener">Radevormwald: Seniorin bei Schockanruf um Zehntausende Euro erbeutet</a></h2>
+  <div class="teaser">Eine Seniorin aus Radevormwald fiel einer Schockanruf-Betrugsmasche zum Opfer. Sie verlor Schmuck und einen mittleren fünfstelligen Betrag an unbekannte Täter.</div>
+  <div class="info">08.07.2026, 10:34 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6310353" target="_blank" rel="noopener">POL-GM: Seniorin wird Opfer von Betrügern</a></h2>
+  <div class="teaser">Radevormwald (ots) - Eine Bewohnerin eines Altenwohnheims in Radevormwald erhielt am Montagmittag einen Anruf von einer unbekannten Nummer. Die Anruferin gab an, dass die Ex-Frau eines Angehörigen im Krankenhaus sei und Geld und Schmuck benötigt ...</div>
+  <div class="info">08.07.2026, 09:30 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/grosser-jubel-fuer-23-pferdestaerken-in-radevormwald-DNA7MF2TCH6VBL3QMZFHVGAKDE.html" target="_blank" rel="noopener">Großer Jubel für 23 Pferdestärken in Radevormwald</a></h2>
+  <div class="teaser">Die Jugend-bildungsstätte in Radevormwald trug die zweite Meisterschaft im Palettenrennen aus – pünktlich zum Sommerfest. Auch der Bürgermeister ging an den Start.</div>
+  <div class="info">08.07.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/ursula-mahler-feiert-ihren-80-geburtstag-H4N52XMNX7UAHU5PG3BNLGD5GA.html" target="_blank" rel="noopener">Ursula Mahler feiert ihren 80. Geburtstag</a></h2>
+  <div class="teaser">Die ehemalige stellvertretende Landrätin und Vorsitzende des Heimat- und Verkehrsvereins ist bis heute sehr engagiert. Zu ihrem Geburtstag verrät sie, was ihr besonders Freude gemacht hat.</div>
+  <div class="info">07.07.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/ein-jahr-gira-solarpark-in-radevormwald-so-faellt-die-zwischenbilanz-aus-CBT6KOISZNRMLFWHLMVPRYGCY4.html" target="_blank" rel="noopener">Ein Jahr Gira-Solarpark in Radevormwald: So fällt die Zwischenbilanz aus</a></h2>
+  <div class="teaser">Vor fast einem Jahr hat die Firma Gira ihren Solarpark an der B229 in Betrieb genommen. Seither hat die Photovoltaikanlage, die mit 13.772 Modulen zu den größten in NRW gehört, mehr als 8,5 Millionen Kilowattstunden Strom emissionsfrei produziert.</div>
+  <div class="info">06.07.2026, 02:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/fuenf-motorradunfaelle-frau-prallt-in-radevormwald-gegen-die-leitplanke-6X2WSDDGBJC6LFFTVNNIVDCWGM.html" target="_blank" rel="noopener">Fünf Motorradunfälle: Frau prallt in Radevormwald gegen die Leitplanke</a></h2>
+  <div class="teaser">Eine 61-jährige Essenerin erleidet auf der K8 bei Remlingrade schwere Verletzungen. Am Wochenende krachte es weitere vier Male im Oberbergischen Kreis.</div>
+  <div class="info">05.07.2026, 11:56 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/neyetalsperre-exhibitionist-rennt-29-jaehriger-frau-hinterher-6MYC5FOW4ZBCREGBBP3WRK5B74.html" target="_blank" rel="noopener">Neyetalsperre: Exhibitionist rennt 29-jähriger Frau hinterher</a></h2>
+  <div class="teaser">Unbekannter Mann zeigt sich auf Wanderweg. Spaziergängerin schlägt ihn in die Flucht.</div>
+  <div class="info">05.07.2026, 11:51 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/morgen-faehrt-wieder-der-museumszug-der-wuppertalbahn-ONIETQAMQLHRX2GD6XVZ2CDGDQ.html" target="_blank" rel="noopener">Morgen fährt wieder der Museumszug der Wuppertalbahn</a></h2>
+  <div class="teaser">Der Verein Bergische Bahnen/Wupperschiene lädt für den 5. Juli wieder zu Sonderfahrten mit dem Museumszug der Wuppertalbahn ein. Zwischen Oberbarmen und Beyenburg sind vier Fahrten geplant.</div>
+  <div class="info">04.07.2026, 02:53 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/einbruch-inkattenbusch-IBL4E6NDY3UZYJK24EVL6XLFB4.html" target="_blank" rel="noopener">Einbruch inKattenbusch</a></h2>
+  <div class="teaser">Unbekannte sind zwischen 14 Uhr am Mittwoch (1. Juli) und Donnerstagmittag in ein Einfamilienhaus in der Straße „Kattenbusch“ eingebrochen. Das teilte die oberbergische Polizei gestern mit.</div>
+  <div class="info">03.07.2026, 13:50 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/nach-vandalismus-schock-kraewi-in-remscheid-steht-vor-dem-finanziellen-ruin-RP7VUZWCNJE7RLZ4MFSJBAZBBY.html" target="_blank" rel="noopener">Nach Vandalismus-Schock: Kräwi in Remscheid steht vor dem finanziellen Ruin</a></h2>
+  <div class="teaser">Den Betreibern der Freizeitanlage droht endgültig die Zahlungsunfähigkeit. Betroffen wären 44 Mitarbeitende und zahlreiche Ein-Euro-Jobber. Das steckt dahinter.</div>
+  <div class="info">03.07.2026, 13:41 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/akutes-finanzproblem-der-kraewi-in-remscheid-droht-das-aus-RP7VUZWCNJE7RLZ4MFSJBAZBBY.html" target="_blank" rel="noopener">Akutes Finanzproblem: Der Kräwi in Remscheid droht das Aus</a></h2>
+  <div class="teaser">Den Betreibern der Freizeitanlage droht endgültig die Zahlungsunfähigkeit. Betroffen wären 44 Mitarbeitende und zahlreiche Ein-Euro-Jobber. Das steckt dahinter.</div>
+  <div class="info">03.07.2026, 13:11 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6307443" target="_blank" rel="noopener">POL-GM: Einbruch in Einfamilienhaus</a></h2>
+  <div class="teaser">Radevormwald (ots) - Unbekannte sind zwischen 14 Uhr am Mittwoch (1. Juli) und Donnerstagmittag in ein Einfamilienhaus in der Straße &quot;Kattenbusch&quot; eingebrochen. Die Unbekannten brachen ein Fenster aus dem Rahmen und gelangten so in das Haus. Dann ...</div>
+  <div class="info">03.07.2026, 09:54 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/diakoniestation-stiftet-amberbaum-fuer-den-park-CXWMAH72J5WZ52QI55RGXRK55E.html" target="_blank" rel="noopener">Diakoniestation stiftet Amberbaum für den Park</a></h2>
+  <div class="teaser">Die Diakoniestation in Radevormwald hat einen klimaresistenten Baum für den Parc de Châteaubriant gestiftet. Die Seniorinnen der Wohngemeinschaften wollen mithelfen, dass der Baum gut anwächst.</div>
+  <div class="info">03.07.2026, 00:07 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/unbekannte-stehlen-geldboerse-aus-einer-handtasche-OOEKKRQOT6K2ZSAH7LFVW5UQW4.html" target="_blank" rel="noopener">Unbekannte stehlen Geldbörse aus einer Handtasche</a></h2>
+  <div class="teaser">Dreister geht es kaum: Aus einer verschlossenen Handtasche haben bislang noch unbekannte Täter eine Frau bei einem Einkauf in einem Discounter bestohlen.</div>
+  <div class="info">02.07.2026, 15:04 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/204859/oberberg-taschendiebstahl-autoaufbruch/" target="_blank" rel="noopener">Oberberg: Taschendiebstahl und Autoaufbruch – Polizei warnt</a></h2>
+  <div class="teaser">Taschendiebstahl in Radevormwald, Autoaufbruch in Gummersbach: Zwei Fälle beschäftigen die Kreispolizei Oberberg – die Ermittlungen laufen.</div>
+  <div class="info">02.07.2026, 09:40 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6306527" target="_blank" rel="noopener">POL-GM: Geldbörse beim Einkauf gestohlen</a></h2>
+  <div class="teaser">Radevormwald (ots) - Am Mittwoch (1. Juli) erledigte eine 69-Jährige aus Radevormwald ihre Einkäufe in einem Discounter in der Erlenbacher Straße. Die 69-Jährige betrat gegen 16:30 Uhr das Lebensmittelgeschäft, ihre Handtasche trug sie über ...</div>
+  <div class="info">02.07.2026, 09:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/dlrg-feiert-mit-segeln-suppe-und-feuerwerk-GWDIFF3E46TDLE2SGU6KB3UZZQ.html" target="_blank" rel="noopener">DLRG feiert mit Segeln, Suppe und Feuerwerk</a></h2>
+  <div class="teaser">An der Bever-Talsperre steigt am 11. und 12. Juli wieder das beliebte Sommerfest der Lebensretter.</div>
+  <div class="info">02.07.2026, 02:47 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/die-fussballmannschaft-gehoert-nicht-zur-verweichlichten-generation-wir-verklaeren-unsere-kindheit-CLNPYYE4JZA65EULJTSWIKCCBQ.html" target="_blank" rel="noopener">Die Fußballmannschaft gehört nicht zur verweichlichten Generation: Wir verklären unsere Kindheit</a></h2>
+  <div class="teaser">Gunnar Freudenberg begleitet die E-Jugend-Saison seines Sohnes Hannes als Co-Trainer. Wieder fiel ein Fußballturnier wegen der Hitze aus. Und es fiel der Begriff „verweichlichte Generation“. Diese Kolumne hält dagegen.</div>
+  <div class="info">01.07.2026, 17:30 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/von-dirty-dancing-bis-ac-dc-tribute-die-highlights-am-wochenende-im-bergischen-land-RJYHDSFO5ZDZTGDHGSJWJP3KSQ.html" target="_blank" rel="noopener">Von „Dirty Dancing“ bis AC/DC-Tribute: Die Highlights am Wochenende im Bergischen Land</a></h2>
+  <div class="teaser">30 Jahre Open-Air-Kino starten mit einem Filmklassiker, im Dorp feiert die Feuerwehr, in Lennep und am Neuenkamp wird gesportelt, gelacht und gefeiert und auf dem Schützenplatz gibt es Kirmesvergnügen. Kerzenschein und Musik im asiatischen Flair gibt</div>
+  <div class="info">01.07.2026, 15:04 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/zweiradmuseum-ziehtpositive-bilanz-nach-neustart-RRUMFBFZJDVMBZBWRXICFERMUU.html" target="_blank" rel="noopener">Zweiradmuseum ziehtpositive Bilanz nach Neustart</a></h2>
+  <div class="teaser">Bismarck Zweirad-Museum ist in Dahlerau angekommen.</div>
+  <div class="info">01.07.2026, 10:37 Uhr · RGA Radevormwald</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Juni 2026 <span class="monat-count">56</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/oldtimer-knattern-wieder-durch-radevormwald-5O4WKQTQF3YXGOX43GD2PKHHZI.html" target="_blank" rel="noopener">Oldtimer knattern wieder durch Radevormwald</a></h2>
+  <div class="teaser">Die IG Bismarck-Zweiräder lädt für den 26. Juli zur Ausfahrt historischer Motorräder ein. Parallel dazu gibt es auf dem Edeka-Parkplatz in Bergerhof eine Oldtimer- und Treckerausstellung.</div>
+  <div class="info">30.06.2026, 16:36 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/neubau-der-grundschule-bergerhof-wird-konkreter-2NCRJJI5YH3YXRKQD5G4AYCLEM.html" target="_blank" rel="noopener">Neubau der Grundschule Bergerhof wird konkreter</a></h2>
+  <div class="teaser">Es gibt zwei Varianten für den Neubau der Grundschule in Bergerhof. Im Schulausschuss wird entschieden. Auch für Interimsphase liegt ein Konzept vor.</div>
+  <div class="info">30.06.2026, 15:01 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/fusion-findet-nicht-nur-auf-dem-papier-statt-NF6V5HEIEHEKT62SVIKHVXWU3A.html" target="_blank" rel="noopener">„Fusion findet nicht nur auf dem Papier statt“</a></h2>
+  <div class="teaser">Die frisch fusionierte evangelische Kirchengemeinde Radevormwald feiert „Musikalisches Gemeindefest“. Die volle Kirche und die gute Stimmung sprachen für sich.</div>
+  <div class="info">30.06.2026, 00:27 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/stadt-schafft-mobile-klimageraete-an-COVSO3LHMN2PFBLRVSXM2NMX24.html" target="_blank" rel="noopener">Stadt schafft mobile Klimageräte an</a></h2>
+  <div class="teaser">Die Hitze ließ den Krisenstab der Stadt am Sonntag zusammenkommen. Das Weinfest endete vorzeitig, zum Abkühlen öffnete die reformierte Kirche am Markt.</div>
+  <div class="info">29.06.2026, 15:23 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/zwischen-schorle-slush-und-spaetem-tanz-OBW2WKUOJS7OVIYS5UDN6H4MKI.html" target="_blank" rel="noopener">Zwischen Schorle, Slush und spätem Tanz</a></h2>
+  <div class="teaser">Viel Wasser und Schorle, weniger Wein: Die Besucher beim Weinfest dosierten bei der Hitze den Genuss. Es kamen trotzdem Hunderte zum Feiern auf den Marktplatz.</div>
+  <div class="info">29.06.2026, 02:45 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/nacktbilder-unbekannte-erpressten-mann-aus-radevormwald-KFTEN2DPU5EDHDK2IA7H6PK44E.html" target="_blank" rel="noopener">Nacktbilder: Unbekannte erpressten Mann aus Radevormwald</a></h2>
+  <div class="teaser">20-Jähriger fiel auf Internet-Bekanntschaft herein. Die Kripo schildert diesen und einen weiteren Fall aus dem Oberbergischen Kreis. Das ist den Opfern widerfahren.</div>
+  <div class="info">28.06.2026, 14:16 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/ploetzlicher-sturm-in-radevormwald-das-ist-passiert-NUJBWU2EAZET3JOCG45GGI4DAU.html" target="_blank" rel="noopener">Plötzlicher Sturm in Radevormwald: Das ist passiert</a></h2>
+  <div class="teaser">Wetterphänomen: In der Nacht zu diesem Sonntag wurde es in Teilen Radevormwalds stürmisch. Besonders auf den Höhen wehte es kräftig. Das ist geschehen.</div>
+  <div class="info">28.06.2026, 12:45 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6303617" target="_blank" rel="noopener">POL-GM: Sexuelle Erpressung nach Flirt im Internet</a></h2>
+  <div class="teaser">Oberbergischer Kreis; Radevormwald; Gummersbach (ots) - Immer wieder werden bei der Polizei Erpressungen im Zusammenhang mit dem Versand von Nacktbildern angezeigt. Kürzlich wurde ein 20-Jähriger aus Radevormwald Opfer dieser Masche, die als ...</div>
+  <div class="info">28.06.2026, 09:55 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/darauf-duerfen-sich-die-radevormwalderim-dritten-quartal-freuen-S3PAU36QYHOFECVHXR4CRNN7X4.html" target="_blank" rel="noopener">Darauf dürfen sich die Radevormwalderim dritten Quartal freuen</a></h2>
+  <div class="teaser">Trotz der Sommerferien ist im Juli, August und September in Radevormwald viel los. Von Festen in der Innenstadt über Konzerte bis zur „Nacht der Museen“ reicht das Angebot.</div>
+  <div class="info">27.06.2026, 02:22 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/vorwurf-abrechnungsbetrug-polizei-stand-am-morgen-bei-ehemaligem-sana-arzt-vor-der-tuer-ASLBZZ6QQFGNFN23X5YCSMSOOY.html" target="_blank" rel="noopener">Vorwurf Abrechnungsbetrug: Polizei stand am Morgen bei ehemaligem Sana-Arzt vor der Tür</a></h2>
+  <div class="teaser">Ein internes Compliance-Gutachten des Krankenhaus-Konzerns löste im Rathaus Alarm aus. Oberbürgermeister Sven Wolf schaltete die Staatsanwaltschaft ein. Die ließ am Freitag Durchsuchungen folgen.</div>
+  <div class="info">26.06.2026, 12:06 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/diese-gaerten-sind-einfach-wunderschoen-5C7WU452NR4DIRQBIEAPN7LTBA.html" target="_blank" rel="noopener">Diese Gärten sind einfach wunderschön</a></h2>
+  <div class="teaser">Drei Gartenbesitzer öffneten zum Aktionstag „Rader Gartenschätze“ ihre Grünoasen für Besucher. Dabei gab es liebevolle Details und ungewöhnliche Pflanzen zu entdecken.</div>
+  <div class="info">25.06.2026, 01:37 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/wie-sich-das-bergische-handwerk-neu-erfindet-5TG7PWPZZMJSJLWT2EDESTDTS4.html" target="_blank" rel="noopener">Wie sich das bergische Handwerk neu erfindet</a></h2>
+  <div class="teaser">Frauen auf dem Bau, KI in der Verwaltung, Instagram für die Azubi-Suche: Die Kreishandwerkerschaft Bergisches Land erklärt, wie sich das Handwerk gewandelt hat.</div>
+  <div class="info">24.06.2026, 00:06 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/dwd-warnt-es-bleibt-weiter-sehr-heiss-in-remscheid-MBYP6IG2KVFYTFUVCTKHZZRA7A.html" target="_blank" rel="noopener">DWD warnt: Es bleibt weiter sehr heiß in Remscheid</a></h2>
+  <div class="teaser">Die Hitze hat das bergische Land fest im Griff. Seit Tagen warnt der Deutsche Wetterdienst (DWD) vor extremen Temperaturen. Alle Infos in unserem Liveticker.</div>
+  <div class="info">23.06.2026, 13:11 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/kreis-kontrolliert-transporter-an-der-b-229-PBGCHSIKEMJ4SP2OSIJ3U7QLQI.html" target="_blank" rel="noopener">Kreis kontrolliert Transporter an der B 229</a></h2>
+  <div class="teaser">In einer gemeinsamen Aktion am Montagmorgen wurden vom Amt für Veterinär- und Lebensmittelüber-wachung und der Kreispolizei Tier- und Lebensmittel-transporter überprüft. Gravierende Verstöße waren ...</div>
+  <div class="info">23.06.2026, 00:21 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/30-jahre-kinderhaus-pusteblume-in-radevormwald-aus-eine-elternidee-wurde-ein-herzensprojekt-FA4NSL6NQGM7W3OKI7TZNVXVTY.html" target="_blank" rel="noopener">30 Jahre Kinderhaus Pusteblume in Radevormwald: Aus einer Elternidee wurde ein Herzensprojekt</a></h2>
+  <div class="teaser">Mit einem Sommerfest hat das Kinderhaus Pusteblume in Radevormwald sein 30-jähriges Bestehen gefeiert. Im Gespräch mit unserer Redaktion erzählt Leiterin Katrin Pfeiffer-Somborn, wie aus einer Idee im Freundeskreis eine Kita wurde.</div>
+  <div class="info">22.06.2026, 02:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/in-diesen-bergischen-talsperren-ist-das-baden-erlaubt-O3MB6T4EQVCIPIQZMOFENSUE3A.html" target="_blank" rel="noopener">Remscheid In diesen bergischen Talsperren ist das Baden erlaubt</a></h2>
+  <div class="teaser">Bei hohen Temperaturen kann der Sprung ins kalte Nass erfrischen. Doch das Freibad Eschbachtal ist geschlossen. Eine Alternative muss also her. Wir haben eine Übersicht erstellt, in welchen Talsperren das Schwimmen erlaubt ist – und was es zu beachte</div>
+  <div class="info">20.06.2026, 07:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/aerzteversorgung-ist-gut-doch-ein-anderes-problem-droht-in-radevormwald-HGY3RDPUP5UHDNL43WEECOTQOY.html" target="_blank" rel="noopener">Ärzteversorgung ist gut –doch ein anderes Problem droht in Radevormwald</a></h2>
+  <div class="teaser">Die Kassenärztliche Vereinigung erklärt, wie sie die Lage in Rade bewertet. Dabei ging es um Hausärzte, fehlende Facharztpraxen und darum, wie die Versorgung künftig gesichert werden soll.</div>
+  <div class="info">20.06.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/heisse-tage-an-der-kraewi-schwitzen-nicht-nur-die-wuerstchen-74EWIMKFZZGIBJ3I5MVH4ONZSE.html" target="_blank" rel="noopener">Heiße Tage: An der Kräwi schwitzen nicht nur die Würstchen</a></h2>
+  <div class="teaser">Er hat bei diesen Temperaturen einen undankbaren Job: Julian Bielak (25) ist der Mann an Grill und Fritteuse. Das Besondere: Er liefert auch bei 70 Grad im Schatten. Denn das badende Volk will Pommes. So geht der Fritten-Chef mit der Hitze um.</div>
+  <div class="info">19.06.2026, 09:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/wenn-der-paletten-doktor-bei-gira-in-radevormwald-kommt-FVFP35VFCSA6FEOIEOQED6ZEQU.html" target="_blank" rel="noopener">Wenn der „Paletten-Doktor“ bei Gira in Radevormwald kommt</a></h2>
+  <div class="teaser">Rund 3000 beschädigte Paletten pro Jahr waren bisher ein aufwendiges Entsorgungs-problem. Jetzt lässt Gira sie reparieren – und spart so Abfälle und Belastung.</div>
+  <div class="info">19.06.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/fuer-den-guten-zweck-konzert-in-der-lutherischen-kirche-S4XEJAOANZAK3MNL4CZSS2RNWY.html" target="_blank" rel="noopener">Für den guten Zweck: Konzert in der lutherischen Kirche</a></h2>
+  <div class="teaser">In der evangelischen Kirchengemeinde in der Burgstraße geben drei Chöre ein Benefizkonzert zugunsten der Rader Musikschule und des Christlichen Hospizes Bergisch Land.</div>
+  <div class="info">18.06.2026, 11:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/echt-sommerlich-der-neue-engelbert-mit-frischen-tipps-fuer-heisse-tage-ist-da-EY6FTBCZVRHCNBQRQMPDTKQKPA.html" target="_blank" rel="noopener">Echt sommerlich: Der neue „Engelbert“ mit frischen Tipps für heiße Tage ist da</a></h2>
+  <div class="teaser">Das kostenlose Hochglanzmagazin der B. Boll Mediengruppe liegt ab sofort aus. Was die neue Ausgabe bietet – und wo man sie bekommt.</div>
+  <div class="info">18.06.2026, 10:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/wie-radevormwald-deutscher-vorreiter-wurde-DNFTPKCMMHZ4HON3RSLNWW5MY4.html" target="_blank" rel="noopener">Wie Radevormwald deutscher Vorreiter wurde</a></h2>
+  <div class="teaser">Als erste deutsche Stadt trat Rade 2016 dem Netzwerk „Age friendly Cities and Communities“ bei. Beim AFCC-Weltkongress zieht Initiator Reinhold Hikl nun eine Zehn-Jahres-Bilanz.</div>
+  <div class="info">18.06.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/130-angebote-beim-ferienspassprogramm-so-koennen-kinder-teilnehmen-BJJA7YGHWVBSNFOJTCIKLBFNW4.html" target="_blank" rel="noopener">130 Angebote beim Ferienspaßprogramm: So können Kinder teilnehmen</a></h2>
+  <div class="teaser">Der Countdown zum Radevormwalder Ferienspaß hat begonnen. Das Online-Portal mit allen Angeboten ist ab sofort geöffnet. Was der Ferienspaß bietet und wie es funktioniert.</div>
+  <div class="info">17.06.2026, 16:56 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/land-foerdert-mehr-wohneigentum-in-rade-RSTSBACIFCBQKA2Y3L7ICASCUI.html" target="_blank" rel="noopener">Land fördert mehr Wohneigentum in Rade</a></h2>
+  <div class="teaser">Haushalten mit kleinem Einkommen bietet das Land NRW günstige Förder- möglichkeiten fürs Eigenheim. Was das für Bauwillige in Rade bedeutet.</div>
+  <div class="info">17.06.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203986/radevormwald-unfall-dahlienstrasse/" target="_blank" rel="noopener">Radevormwald: Unfall im Industriegebiet – Lkw-Fahrer ohne Führerschein erwischt</a></h2>
+  <div class="teaser">Verkehrsunfall in Radevormwald: Im Industriegebiet stießen Lkw und Audi zusammen – der Lkw-Fahrer hatte keine gültige Fahrerlaubnis.</div>
+  <div class="info">16.06.2026, 11:59 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/unfall-im-industriegebiet-in-radevormwald-B5LHG3XPBZEXXFBTATIZKKPWPM.html" target="_blank" rel="noopener">Unfall im Industriegebiet in Radevormwald</a></h2>
+  <div class="teaser">Bei einem Unfall zwischen einem Pkw und einem Lkw wurde eine Frau leicht verletzt. Der Lkw-Fahrer war ohne Fahrerlaubnis unterwegs.</div>
+  <div class="info">16.06.2026, 11:24 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6295282" target="_blank" rel="noopener">POL-GM: Unfall im Industriegebiet</a></h2>
+  <div class="teaser">Radevormwald (ots) - Am Montagnachmittag (15. Juni) kam es an der Kreuzung &quot;Dahlienstraße/Röntgenstraße/Mermbacher Straße&quot; zu einem Verkehrsunfall, an dem ein Auto und ein Lastkraftwagen beteiligt waren. Ein 55-jähriger Lastkraftwagenfahrer war ...</div>
+  <div class="info">16.06.2026, 10:25 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/im-heimatmuseum-der-bergstadt-startet-am-28-juni-die-sonderausstellung-radevormwalder-EA5SGUV3VBGAXFHQTLVGCUR7HA.html" target="_blank" rel="noopener">Im Heimatmuseum der Bergstadt startet am 28. Juni die Sonderausstellung „Radevormwalder  Fußballvereine&quot;.</a></h2>
+  <div class="teaser">Nicht nur bei der Fußball-WM dreht sich alles ums runde Leder. Im Heimatmuseum der Bergstadt startet am 28. Juni die Sonderausstellung „Radevormwalder Fußballvereine“.</div>
+  <div class="info">16.06.2026, 09:30 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/im-staedte-ranking-radevormwald-erhaelt-die-bewertung-sehr-gut-4HFSEOTGPO3XSK4Q2DTSPD7LVY.html" target="_blank" rel="noopener">Im Städte-Ranking: Radevormwald erhält die Bewertung „Sehr gut“</a></h2>
+  <div class="teaser">Wie steht es vor Ort um Bildung, Gesundheit, Digitales, Mobilität und Freizeit? Das Institut der deutschen Wirtschaft hat 10.817 deutsche Kommunen untersucht.</div>
+  <div class="info">16.06.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/schuetzen-sorgen-fuer-kirmestrubel-und-royalen-glanz-XSHGYTE7TKWBTACHNJNLWGDJRM.html" target="_blank" rel="noopener">Schützen sorgen für Kirmestrubel und royalen Glanz</a></h2>
+  <div class="teaser">Die Schützen kürten am Wochenende nicht nur ihre neue Königin, sondern sorgten auch mit ihrer großen Kirmes für Rummel in der Innenstadt. Wäre da nur nicht das Wetter gewesen ...</div>
+  <div class="info">15.06.2026, 02:54 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/neue-bank-setzt-zeichen-gegen-ausgrenzung-in-radevormwald-W4BGO5LAG452EUINTMQJWKKU44.html" target="_blank" rel="noopener">Neue Bank setzt Zeichen gegen Ausgrenzung in Radevormwald</a></h2>
+  <div class="teaser">Eine neue Sitzbank am Parc de Châteaubriant wirbt für Integration und Zusammenhalt. Wer hinter dem Projekt steht und wie Radikalisierung verhindert werden kann.</div>
+  <div class="info">13.06.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/die-wahrscheinlichkeit-fuer-neue-windraeder-in-radevormwald-ist-relativ-hoch-WXLYKT3KCUHBLQWHFMFTLA6N4I.html" target="_blank" rel="noopener">Die Wahrscheinlichkeit für neue Windräder in Radevormwald ist „relativ hoch“</a></h2>
+  <div class="teaser">Die Stadt strebt weiter ein Flächenpooling für Windkraftstandorte an. Der potenziell von der Entwicklung betroffene Luftsportclub hat Zweifel.</div>
+  <div class="info">12.06.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/im-life-ness-kurse-fuer-zukuenftige-schwimmlehrer-in-radevormwald-BELAEVMU3C4KKNBZGKTU7ECYYM.html" target="_blank" rel="noopener">Im „life-ness“: Kurse für zukünftige Schwimmlehrer in Radevormwald</a></h2>
+  <div class="teaser">Der Kreissportbund startet eine Schwimmoffensive. Im Juli können sich Interessierte in Radevormwald zum Schwimmlehrer ausbilden lassen.</div>
+  <div class="info">11.06.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/secondhandmarkt-only-for-ladies-im-buergerhaus-QJBET2EN6JGJ3FWGXOMRJ6J4II.html" target="_blank" rel="noopener">Secondhandmarkt „Only for Ladies“ im Bürgerhaus</a></h2>
+  <div class="teaser">Zum dritten Mal laden die Radevormalderinnen Gabi Jungfleisch-Kopp, Maria Susanj und Mareike Klein zum Secondhandmarkt ein. Was neben einem neuen Ort und Namen dieses Mal sonst noch anders ist.</div>
+  <div class="info">10.06.2026, 13:56 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/so-viel-zahlt-die-stadt-radevormwald-an-kommunalpolitiker-WILP5PNNFIJMTHSZXDC7PJMEV4.html" target="_blank" rel="noopener">So viel zahlt die Stadt Radevormwald an Kommunalpolitiker.</a></h2>
+  <div class="teaser">Politik in Städten und Gemeinden ist ein Ehrenamt, doch Rats- und Fraktionsmitglieder erhalten Aufenthaltsentschädigungen und Sitzungsgelder. Unsere Redaktion zeigt, welche Pauschalen gelten und was das den Staatshaushalt kostet.</div>
+  <div class="info">10.06.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/ueberstunden-in-der-oberbergischen-gastronomie-kein-foul-gegen-die-fussballstimmung-OF52YJW3ZD5AHIYYTGHIWIPAB4.html" target="_blank" rel="noopener">Überstunden in der Oberbergischen Gastronomie: Kein „Foul gegen die Fußballstimmung“</a></h2>
+  <div class="teaser">Die WM steht vor der Tür und verspricht der Gastronomie ein volles Haus. Doch jetzt fordert die Gewerkschaft Nahrung-Genuss-Gaststätten klare Regeln.</div>
+  <div class="info">09.06.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/so-wird-das-weinfest-in-radevormwald-in-diesem-jahr-QEQK2WYDGRHXVHSFOPXDVCKMOY.html" target="_blank" rel="noopener">So wird das Weinfest in Radevormwald in diesem Jahr</a></h2>
+  <div class="teaser">Das Weinfest lädt drei Tage lang auf dem Rader Marktplatz zu einem guten Tropfen in geselliger Atmosphäre ein. Sechs Winzer sind dabei. Premiere feiert DJ Carl Bangz. Was die Besucher sonst noch erwartet.</div>
+  <div class="info">08.06.2026, 16:43 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/einbruch-am-sonntag-den-7-juni-im-drosselweg-in-radevormwald-BSCIVGDCCBAAREEHQI4U3F2EYE.html" target="_blank" rel="noopener">Einbruch am Sonntag, den 7. Juni, im Drosselweg in Radevormwald.</a></h2>
+  <div class="teaser">Zwei Frauen haben sich am Sonntagabend Zugang zu einer Wohnung in Radevormwald verschafft. Der Vermögensschaden liegt im unteren fünfstelligen Bereich.</div>
+  <div class="info">08.06.2026, 12:53 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6289878" target="_blank" rel="noopener">POL-GM: Einbrecherinnen in Radevormwald unterwegs</a></h2>
+  <div class="teaser">Radevormwald (ots) - Zwei unbekannte Frauen verschafften sich am Sonntag (7. Juni) gegen 21:10 Uhr Zugang zu einer Wohnung in der Straße &quot;Drosselweg&quot; in Radevormwald. Im Schlafzimmer der Wohnung öffneten sie Schränke und Schubladen und stahlen ...</div>
+  <div class="info">08.06.2026, 11:05 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/b229-motorrad-faengt-feuer-23-jaehriger-in-lebensgefahr-sperrung-zwischen-radevormwald-und-halver-I6NWJSHTWBCRDINPIEPA7DBTJE.html" target="_blank" rel="noopener">B229: Motorrad fängt Feuer - 23-Jähriger in Lebensgefahr - Sperrung zwischen Radevormwald und Halver aufgehoben</a></h2>
+  <div class="teaser">Auf der Bundesstraße 229 zwischen Radevormwald und Halver hat sich am Sonntagmittag ein schwerer Unfall ereignet. Inzwischen ist die B229 wieder freigegeben.</div>
+  <div class="info">07.06.2026, 23:34 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/beliebte-motorradstrecke-in-radevormwald-sperrung-nach-unfall-wieder-aufgehoben-VHKTE4XNRRHDRHPESUXZBJ6W6Y.html" target="_blank" rel="noopener">Beliebte Motorradstrecke in Radevormwald: Sperrung nach Unfall wieder aufgehoben</a></h2>
+  <div class="teaser">Nach einem Fahrfehler verliert ein Kradfahrer die Kontrolle. Die beliebte Motorradstrecke ist nach der Unfallaufnahme wieder freigegeben worden.</div>
+  <div class="info">07.06.2026, 23:22 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/warum-der-remscheid-jens-nettekoven-gerne-im-landtag-bleiben-moechte-V7VGWUDDJBH6XBCLMVQPDHJXVE.html" target="_blank" rel="noopener">Warum der Remscheid Jens Nettekoven gerne im Landtag bleiben möchte</a></h2>
+  <div class="teaser">CDU-Politiker tritt bei den Landtagswahlen im April 2027 erneut an - falls ihn seine Parteifreunde ins Rennen schicken. Das entscheidet sich in drei Wochen.</div>
+  <div class="info">07.06.2026, 17:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/neues-in-der-schlossmachergalerie-in-radevormwald-ich-will-das-fuer-meine-stadt-machen-AYBDH56WTLJMW6SSYSOJXVGS2U.html" target="_blank" rel="noopener">Neues in der Schlossmachergalerie in Radevormwald: „Ich will das für meine Stadt machen“</a></h2>
+  <div class="teaser">Denise Schmidt eröffnet am 6. Juni, ihr „Studio Mavi“: Sie will einen Ort für Kreativität und Begegnung in die Galerie bringen – aus lauter Liebe zur Stadt.</div>
+  <div class="info">06.06.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/rinder-und-photovoltaik-teilen-sich-eine-flaeche-in-radevormwald-V7T4MYPBE6JIXEDBQA4S5MJC7Y.html" target="_blank" rel="noopener">Rinder und Photovoltaik teilen sich eine Fläche in Radevormwald</a></h2>
+  <div class="teaser">Der Investor plant bei der Ortschaft Heide keine klassische Photovoltaik-Anlage mehr, sondern Agri-Photovoltaik mit Weidefläche für Jungrinder. Was dazu bereits genehmigt ist – und welche Hürde noch fehlt.</div>
+  <div class="info">05.06.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/farbenpraechtiges-radevormwald-neue-motive-am-kreisverkehr-MRKMBXST7QVRS6IN72ZF3NZ5DY.html" target="_blank" rel="noopener">Radevormwald: Neue Motive am Kreisverkehr zeigen sich farbenprächtig</a></h2>
+  <div class="teaser">Der Kölner Künstler Peter Zimmermann schuf die neuen Motive am Kreisverkehr Hohenfuhr-, Uelfe- und Kaiserstraße in Radevormwald. Was sich dahinter verbirgt.</div>
+  <div class="info">04.06.2026, 10:20 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/das-radevormwalder-schuetzen-und-heimatfest-steht-an-vier-tage-kirmes-5GK2TZ6OBANAOPLNXSX5KLV6YU.html" target="_blank" rel="noopener">Das Radevormwalder Schützen- und Heimatfest steht an: Vier Tage Kirmes</a></h2>
+  <div class="teaser">Vom 12. bis 15. Juni wird in der Bergstadt das Schützen- und Heimatfest gefeiert. Die Planung ist abgeschlossen, die Schützen stehen in den Startlöchern. Was es alles gibt.</div>
+  <div class="info">03.06.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/schwerer-unfall-bei-forstarbeiten-ZS22V4X5UVTDLNFDEO7E4CHW34.html" target="_blank" rel="noopener">Schwerer Unfall bei Forstarbeiten</a></h2>
+  <div class="teaser">Bei Baumfällarbeiten in Ennepetal, an der Stadtgrenze zu Radevormwald, hat sich am Montagvormittag ein Forstarbeiter schwer verletzt. Ein Rettungshubschrauber brachte den Mann in eine Klinik.</div>
+  <div class="info">02.06.2026, 15:40 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/radevormwald-motorradfahrer-schwer-verletzt-Z5ARCYOR67QT72ZFTKVMY73KJY.html" target="_blank" rel="noopener">Radevormwald: Motorradfahrer schwer verletzt</a></h2>
+  <div class="teaser">An einer Kreuzung in Radevormwald wollte ein Lieferwagenfahrer die L414 überqueren. Ein 32-jähriger Motorradfahrer musste stark bremsen, stürzte und verletzte sich schwer.</div>
+  <div class="info">02.06.2026, 14:02 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203439/radevormwald-motorradunfall-l414/" target="_blank" rel="noopener">Radevormwald: Motorradfahrer stürzt bei Verkehrsunfall an der L414</a></h2>
+  <div class="teaser">Schwerer Verkehrsunfall in Radevormwald: An der L414 stürzte ein 32-jähriger Motorradfahrer vor einem querenden Lieferwagen und verletzte sich schwer.</div>
+  <div class="info">02.06.2026, 10:36 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6286463" target="_blank" rel="noopener">POL-GM: Motorradfahrer bei Verkehrsunfall verletzt</a></h2>
+  <div class="teaser">Radevormwald (ots) - Am Montag (1. Juni) war ein 59-Jähriger aus Dortmund mit seinem Lieferwagen auf der K9 von Leye in Richtung Radevormwald unterwegs. Gegen 11:15 Uhr wollte er an der Kreuzung Uelfestraße/Uelfe-Wuppertal-Straße (L414) die L414 ...</div>
+  <div class="info">02.06.2026, 09:13 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/zahlungsmoral-der-kunden-was-betriebe-aus-solingen-und-remscheid-berichten-2QRPWBJVCFEBNGKHRGCQ4KHFZM.html" target="_blank" rel="noopener">Zahlungsmoral der Kunden: Was Betriebe aus Solingen und Remscheid berichten</a></h2>
+  <div class="teaser">Wie es dem Mittelstand geht und ob Kunden pünktlich ihre Rechnungen zahlen, weiß Crefo-Factoring mit Sitz in Solingen: Das Unternehmen betrachtet die Lage in der Klingenstadt, Remscheid und vielen umliegenden Orten. Ein Blick in die aktuelle Auswertu</div>
+  <div class="info">02.06.2026, 07:15 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald-volksradfahren-erreicht-neue-rekordbeteiligung-GE3K6NXUZPD7P2PSRQ3GFH63AM.html" target="_blank" rel="noopener">Radevormwald: Volksradfahren erreicht neue Rekordbeteiligung</a></h2>
+  <div class="teaser">Fast 250 Radfahrer starteten am Sonntagmorgen ihre Fahrt durchs Bergische Land. Die IG Bismarck Zweiräder und die Stadt hatten zur traditionellen Radtour eingeladen.</div>
+  <div class="info">02.06.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/radevormwald-patient-mit-drehleiter-gerettet-BSVE4O5U7RTO4PRJSY3ARLAYJM.html" target="_blank" rel="noopener">Radevormwald: Patient mit Drehleiter gerettet</a></h2>
+  <div class="teaser">Die Freiwillige Feuerwehr Herbeck hat am Montagmorgen einen Patienten aus einer Dachgeschosswohnung an der Kölner Straße gerettet.</div>
+  <div class="info">01.06.2026, 17:51 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/radevormwald-unbekannte-stehlen-motorrad-in-der-kreuzstrasse-IJGNP7EQCJUQWPERES5EHRDMTU.html" target="_blank" rel="noopener">Radevormwald: Unbekannte stehlen Motorrad in der Kreuzstraße</a></h2>
+  <div class="teaser">Unbekannte haben in der Nacht von Samstag auf Sonntag ein Motorrad von einem Grundstück in der Kreuzstraße gestohlen.</div>
+  <div class="info">01.06.2026, 17:37 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6285559" target="_blank" rel="noopener">POL-GM: Unbekannte stehlen Motorrad</a></h2>
+  <div class="teaser">Radevormwald (ots) - In der Nacht von Samstag auf Sonntag (30./31. Mai) stahlen Unbekannte ein Motorrad von einem Grundstück in der Kreuzstraße in Radevormwald. Die Kriminellen entkamen unerkannt. Bei dem gestohlenen Motorrad handelt es sich um ...</div>
+  <div class="info">01.06.2026, 10:25 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/so-koennten-diese-parks-verschoenert-werden-732T6LMZ3RMEZDHX5R6PMDFLIY.html" target="_blank" rel="noopener">So könnten diese Parks verschönert werden</a></h2>
+  <div class="teaser">Die Stadt erwägt, den Frowein- und den Kollenbergpark aufzuwerten. Ein Landschafts-planungsbüro macht erste Vorschläge. Dazu gehören die Einrichtung einer Hundewiese.</div>
+  <div class="info">01.06.2026, 00:46 Uhr · RGA Radevormwald</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Mai 2026 <span class="monat-count">76</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/unfall-in-heidersteg-zwei-remscheider-verletzt-FI2PDUD3XVEVBGUE727V5WLLAY.html" target="_blank" rel="noopener">Unfall in Heidersteg: Zwei Remscheider verletzt</a></h2>
+  <div class="teaser">Ein 17-Jähriger und eine 19-Jährige waren am Freitag mit einem Zweirad unterwegs. Sie stürzten in einer Kurve.</div>
+  <div class="info">31.05.2026, 13:22 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6285189" target="_blank" rel="noopener">POL-GM: Zweiradfahrer bei Alleinunfall leicht verletzt</a></h2>
+  <div class="teaser">Radevormwald (ots) - Am 29. Mai (Freitag) war ein 17-jähriger Kraftradfahrer auf der L81 in Fahrtrichtung der L412 unterwegs. Gegen 20:25 Uhr verlor der Remscheider in einer Linkskurve die Kontrolle über seine Yamaha. Das Kleinkraftrad touchierte ...</div>
+  <div class="info">31.05.2026, 11:06 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/4480-rennkilometer-der-radevormwalder-radsportler-silas-koech-hat-2026-noch-viel-vor-WMFB2R5D55VVAY7T7UDTUKLYR4.html" target="_blank" rel="noopener">„4480 Rennkilometer“: Der Radevormwalder Radsportler Silas Koech hat 2026 noch viel vor</a></h2>
+  <div class="teaser">Radsportler Silas Koech aus Radevormwald ist bei nationalen und internationalen Rennen am Start. Wo er in diesem Jahr bereits erfolgreich war und wie er sich vorbereitet.</div>
+  <div class="info">30.05.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6284305" target="_blank" rel="noopener">POL-GM: Motorradfahrer stürzt im Kurvenbereich</a></h2>
+  <div class="teaser">Wipperfürth (ots) - Bei einem Verkehrsunfall in Kotten wurde am Donnerstag (28. Mai) ein Motorradfahrer verletzt. Der 19-Jährige aus Schwelm war gegen 17:15 Uhr mit seiner Yamaha auf der K11 von Wipperfürth in Richtung Radevormwald unterwegs. In ...</div>
+  <div class="info">29.05.2026, 10:12 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/theodor-heuss-gymnasium-radevormwald-projekt-des-jugendbeirates-sichert-fahrraeder-PB5D6GMA6ERXENOYWM2ZI43NUA.html" target="_blank" rel="noopener">Theodor-Heuss-Gymnasium Radevormwald: Projekt des Jugendbeirates sichert Fahrräder</a></h2>
+  <div class="teaser">Am THG in Radevormwald können Schüler ihre Fahrräder jetzt überdacht abstellen – und gegenüber direkt reparieren. Hinter dem Projekt steht der Jugendbeirat, der beide Ideen in die Diskussion brachte.</div>
+  <div class="info">29.05.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/sport/regional/400-zuschauer-gaensehaut-momente-hsg-rade-herbeck-und-hsv-solingen-graefrath-spielen-in-radevormwald-FQBY76AHXAFREUFWWSG5WI22IE.html" target="_blank" rel="noopener">400 Zuschauer, Gänsehaut-Momente – HSG Rade/Herbeck und HSV Solingen-Gräfrath spielen in Radevormwald für verstorbenen Jungen</a></h2>
+  <div class="teaser">Über 400 Zuschauer machen aus der Partie für den guten Zweck gegen Zweitligist HSV Solingen-Gräfrath ein Handballfest und dürfen sich wie viele andere als Gewinner fühlen. Nicht nur der Erlös des Abends kann sich sehen lassen.</div>
+  <div class="info">28.05.2026, 15:25 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/radevormwald-ausgewaehlt-foerderprojekt-der-berlin-governance-platform-DDBNNCTSU7AXFYLTZYOSD4JX5Q.html" target="_blank" rel="noopener">Radevormwald ausgewählt: Förderprojekt der „Berlin Governance Platform“</a></h2>
+  <div class="teaser">Die Stadt Radevormwald ist für ein Förderprojekt der „Berlin Governance Platform“ ausgewählt worden – und möchte die kommunale Wärmeplanung mit einem neuen Beirat vorantreiben. Heute berät der Ausschuss über den nächsten Schritt.</div>
+  <div class="info">28.05.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/ohne-michi-geht-es-nicht-kapitaen-mit-ruhiger-fuehrung-wie-ein-e-jugend-spieler-seine-mannschaft-MVGB4UTFXRFBRPXWABXPBENEBE.html" target="_blank" rel="noopener">Einer wie Beckenbauer, Schlotterbeck und Rodri: „Ohne Michi geht es nicht“</a></h2>
+  <div class="teaser">Gunnar Freudenberg begleitet die E-Jugend-Saison seines Sohnes Hannes als Co-Trainer. Und stellte heute Kapitän Michi vor, der nicht nur seinen Trainer begeistert.</div>
+  <div class="info">27.05.2026, 17:30 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/radevormwald-fussgaengerin-leicht-verletzt-OP4OIAVZ7SWHDYJT7WITPYTW6A.html" target="_blank" rel="noopener">Radevormwald: Fußgängerin leicht verletzt</a></h2>
+  <div class="teaser">Auf der Kottenstraße in Radevormwald hat ein Autofahrer beim Rückwärtsrollen eine 60-jährige Fußgängerin erfasst.</div>
+  <div class="info">27.05.2026, 12:18 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6282545" target="_blank" rel="noopener">POL-GM: Fußgängerin bei Zusammenstoß mit Auto leicht verletzt</a></h2>
+  <div class="teaser">Radevormwald (ots) - Ein 52-jähriger Autofahrer aus Radevormwald beabsichtigte am Dienstag (26. Mai) gegen 11:25 Uhr, seinen Pkw zu wenden, und ließ sein Auto dazu auf der Kottenstraße rückwärts rollen. Dabei kam es zum Zusammenstoß mit einer ...</div>
+  <div class="info">27.05.2026, 09:20 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald-zum-55-jahrestag-des-zugungluecks-von-dahlerau-werden-glocken-laeuten-YJM2LG2E326FEPILZH7ONRQW4A.html" target="_blank" rel="noopener">Radevormwald: Zum 55. Jahrestag des Zugunglücks von Dahlerau werden Glocken läuten</a></h2>
+  <div class="teaser">46 Menschen starben am 27. Mai 1971 beim Zugunglück von Dahlerau – ein Trauma, das Radevormwald bis heute beschäftigt. Stadt und Kirchengemeinden rufen zum stillen Gedenken um 21.05 Uhr auf.</div>
+  <div class="info">27.05.2026, 01:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/vermisst-wer-hat-80-jaehrigen-radevormwalder-gesehen-7KWM2JBFGFE6FFVS7CBMQTU5VI.html" target="_blank" rel="noopener">Vermisster Senior aus Radevormwald ist wieder aufgetaucht</a></h2>
+  <div class="teaser">Der Senior wurde seit Montagabend nicht mehr gesehen. Am Dienstag ist er im Schwelmer Stadtgebiet wieder aufgetaucht.</div>
+  <div class="info">26.05.2026, 17:37 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6282318" target="_blank" rel="noopener">POL-GM: Ergänzung zur Pressemeldung https://www.presseportal.de/blaulicht/pm/65843/6281986 Vermisster 80-Jähriger aus Radevormwald wohlbehalten aufgefunden</a></h2>
+  <div class="teaser">Radevormwald / Schwelm (ots) - Der 80-Jährige, der seit Montagabend (25. Mai) aus Radevormwald vermisst wurde, ist am Dienstagnachmittag (26. Mai) gegen 16:10 Uhr im Schwelmer Stadtgebiet wohlbehalten angetroffen worden. Ein Zeuge, der aufgrund der .</div>
+  <div class="info">26.05.2026, 17:14 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6281986" target="_blank" rel="noopener">POL-GM: Öffentlichkeitsfahndung - 80-Jähriger vermisst</a></h2>
+  <div class="teaser">Radevormwald (ots) - Seit Montagabend (25. Mai) wird ein 80-Jähriger aus Radevormwald vermisst. Er verließ gegen 21:30 Uhr seine Wohnanschrift. Der Vermisste ist zeitweise desorientiert und könnte sich in einer hilflosen Lage befinden. Die ...</div>
+  <div class="info">26.05.2026, 13:13 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/203030/radevormwald-unfall-l130/" target="_blank" rel="noopener">Radevormwald: Ford kracht in Peugeot – 3 Verletzte</a></h2>
+  <div class="teaser">Radevormwald Unfall an der L130/K6: Drei Menschen wurden leicht verletzt. Zwei Autos waren nach der Kollision nicht mehr fahrbereit.</div>
+  <div class="info">26.05.2026, 04:39 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/kleinvieh-macht-halt-auch-mist-kriminelle-bringen-falsche-eurostuecke-in-umlauf-ZGHBFXTPDNH63IONF63I2BEXME.html" target="_blank" rel="noopener">Kleinvieh macht halt auch Mist:  Kriminelle bringen falsche Eurostücke in Umlauf</a></h2>
+  <div class="teaser">Brötchenkäufer zahlte mit 100 kasachischen Tenge. Doch Falschmünzer sind das eigentliche Problem.</div>
+  <div class="info">25.05.2026, 15:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/radevormwald-hoher-sachschaden-bei-kollision-54WBGIYXZ5DABHEHB6SLIWGE4U.html" target="_blank" rel="noopener">Radevormwald: Hoher Sachschaden bei Kollision</a></h2>
+  <div class="teaser">Zwischen Remlingrade und Önkfeld ereignete sich am Samstag ein schwerer Unfall. Das ist geschehen.</div>
+  <div class="info">25.05.2026, 13:05 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6281153" target="_blank" rel="noopener">POL-GM: Unfall im Kreuzungsbereich</a></h2>
+  <div class="teaser">Radevormwald (ots) - Am Samstag (23. Mai) kam es auf der Kreuzung L130/K6 zu einem schweren Verkehrsunfall. Gegen 13:45 Uhr war ein 59-jähriger Ford-Fahrer aus Radevormwald auf der K 6 von Remlingrade in Richtung Önkfeld unterwegs. An der Kreuzung ..</div>
+  <div class="info">25.05.2026, 11:16 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/schafft-es-radevormwald-diesmal-unter-die-ersten-drei-beim-stadtradeln-MKU6LLRMQPVL2J5VJIZOFVRZOU.html" target="_blank" rel="noopener">Schafft es Radevormwald diesmal unter die ersten Drei beim Stadtradeln?</a></h2>
+  <div class="teaser">Ab Pfingstmontag heißt es wieder: aufs Rad statt ins Auto. Wer hier lebt, arbeitet, zur Schule geht oder im Verein ist, kann bis 14. Juni Kilometer fürs Team sammeln.</div>
+  <div class="info">23.05.2026, 02:39 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/schuelerarbeiten-zeigen-kunst-macht-gluecklich-3PJCTVI36YXTTBTKPAGLP34O5E.html" target="_blank" rel="noopener">Schülerarbeiten zeigen: Kunst macht glücklich</a></h2>
+  <div class="teaser">Derzeit sind in der Radevormwalder KSK-Filiale an der Hohenfuhrstraße Arbeiten aus dem Kunstunterricht des THG zu sehen. Was die Besucher erwartet.</div>
+  <div class="info">22.05.2026, 14:16 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/buergerverein-hat-einen-neuen-vorstand-S3FW32LMB2SDAWYGLLET624MHY.html" target="_blank" rel="noopener">Bürgerverein hat einen neuen Vorstand</a></h2>
+  <div class="teaser">60 Mitglieder waren zur Jahresversammlung gekommen.</div>
+  <div class="info">22.05.2026, 13:36 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202645/lindlar-verkehrskontrollen-radevormwald/" target="_blank" rel="noopener">Lindlar und Radevormwald: Polizei stoppt 165 Fahrzeuge – Drogenfahrer erwischt</a></h2>
+  <div class="teaser">Polizei kontrollierte 165 Fahrzeuge in Lindlar und Radevormwald: zwei Drogenfahrer, drei ohne Führerschein, Raser mit 82 km/h erwischt.</div>
+  <div class="info">21.05.2026, 03:27 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/spd-setzt-sich-fuer-pfandringe-an-abfallbehaeltern-ein-ZDGB4ONH3ITUH6TP3AQQ4E5BHE.html" target="_blank" rel="noopener">SPD setzt sich für Pfandringe an Abfallbehältern ein</a></h2>
+  <div class="teaser">Fraktion beantragt, an die Müllbehälter in der Innenstadt Halterungen für Flaschen anzubringen. Für bedürftige Menschen wird das Pfandsammeln so leichter.</div>
+  <div class="info">21.05.2026, 02:57 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/polizei-kontrolliert-165-fahrzeuge-PHYKBD6MC6VJGV5UTJTHU3ZLDU.html" target="_blank" rel="noopener">Polizei kontrolliert 165 Fahrzeuge</a></h2>
+  <div class="teaser">Am Dienstag (19. Mai) führten Beamte der Polizeiwache Wipperfürth gezielte Verkehrskontrollen in Lindlar (von 13 bis 16 Uhr) und Radevormwald (17 bis 19 Uhr) durch.</div>
+  <div class="info">20.05.2026, 14:55 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6278335" target="_blank" rel="noopener">POL-GM: Verkehrskontrollen in Lindlar und Radevormwald</a></h2>
+  <div class="teaser">Lindlar; Radevormwald (ots) - Am Dienstag (19. Mai) führten Beamte der Polizeiwache Wipperfürth gezielte Verkehrskontrollen in Lindlar (13-16 Uhr) und Radevormwald (17 bis 19 Uhr) durch. Ziel war es die Verkehrssicherheit zu erhöhen und ...</div>
+  <div class="info">20.05.2026, 09:44 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/naechster-feierabendmarkt-findet-auf-der-kaiserstrasse-statt-LRHEIUHG4CTNRJEP5C3GLLXBOY.html" target="_blank" rel="noopener">Nächster Feierabendmarkt findet auf der Kaiserstraße statt</a></h2>
+  <div class="teaser">Um den Einzelhandel vor Ort zu stärken und die Vielfalt in der Innenstadt zu präsentieren, wird die Veranstaltung am Freitag in die obere Kaiserstraße verlegt. Worauf sich die Besucher freuen können.</div>
+  <div class="info">20.05.2026, 02:06 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/jubeln-mitfiebern-emotionen-teilen-RCRSCOXDXBC2UG4RJGQEDQKJYA.html" target="_blank" rel="noopener">„Jubeln, Mitfiebern, Emotionen teilen“</a></h2>
+  <div class="teaser">Im Life-Ness können Fußballfans mit der deutschen National-Elf mitfiebern. Hier gibt’s während der Fußball-WM 2026 Public Viewing-Abende. So soll es dort ablaufen.</div>
+  <div class="info">19.05.2026, 17:21 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/einbruch-infriseursalon-U7WNPSF5JHJOSIITBNBM4DBALM.html" target="_blank" rel="noopener">Einbruch inFriseursalon</a></h2>
+  <div class="teaser">In der Zeit von Samstag (16. Mai) bis vergangenen Montag öffneten Unbekannte ein Fenster eines Friseursalons in der Weststraße. Das teilte die Polizei gestern mit.</div>
+  <div class="info">19.05.2026, 13:22 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/202531/radevormwald-einbruch-friseursalon/" target="_blank" rel="noopener">Radevormwald: Einbruch in Friseursalon – Bargeld gestohlen</a></h2>
+  <div class="teaser">Einbruch in einen Friseursalon in der Weststraße in Radevormwald: Unbekannte öffneten ein Fenster, durchwühlten Schränke und stahlen Bargeld.</div>
+  <div class="info">19.05.2026, 12:38 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6277532" target="_blank" rel="noopener">POL-GM: Einbruch in Friseursalon</a></h2>
+  <div class="teaser">Radevormwald (ots) - In der Zeit von Samstag (16. Mai) bis Montag öffneten Unbekannte ein Fenster eines Friseursalons in der Weststraße. Die Einbrecher durchwühlten mehrere Schränke und stahlen Bargeld. Hinweise nimmt das Kriminalkommissariat ...</div>
+  <div class="info">19.05.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/detektivstory-hinter-einer-vergessenen-plastik-ASPX54SBTH234LYOQUIYW4QEKE.html" target="_blank" rel="noopener">Detektivstory hinter einer vergessenen Plastik</a></h2>
+  <div class="teaser">Eine kinetische Plastik im Nordstadtpark Radevormwald, kaum beachtet, überwuchert – und von einem bedeutenden Künstler. Wie Bernd Freudenberg den Schöpfer des Werks aufspürte.</div>
+  <div class="info">19.05.2026, 00:30 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/zusammenstoss-im-kreisverkehr-4WYFVZDZYUV7VD72GKOQ4ZQDCQ.html" target="_blank" rel="noopener">Zusammenstoß im Kreisverkehr</a></h2>
+  <div class="teaser">Bei einem Verkehrsunfall in Wipperfürth wurde am vergangenen Samstag (16. Mai) der Hückeswagener Fahrer eines Leichtkraftrades leicht verletzt. Das teilte die oberbergische Polizei gestern mit.</div>
+  <div class="info">18.05.2026, 14:25 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/diebe-wollten-in-baeckerei-XDFQ6CGYEURGVKJBUJPF55KPEE.html" target="_blank" rel="noopener">Diebe wollten in Bäckerei</a></h2>
+  <div class="teaser">Am Montagmorgen (18. Mai) versuchten Unbekannte, die Schiebetür einer Bäckerei an der Froweinstraße aufzudrücken. Dabei lösten sie gegen 3.10 Uhr die Alarmanlage aus und flüchteten dann in unbekannte Richtung.</div>
+  <div class="info">18.05.2026, 14:21 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6276724" target="_blank" rel="noopener">POL-GM: Einbrecher scheitern an Eingangstür</a></h2>
+  <div class="teaser">Radevormwald (ots) - Am Montagmorgen (18. Mai) versuchten Unbekannte, die Schiebetür einer Bäckerei in der Froweinstraße aufzudrücken. Dabei lösten sie gegen 3:10 Uhr die Alarmanlage aus und flüchteten in unbekannte Richtung. Hinweise nimmt ...</div>
+  <div class="info">18.05.2026, 11:31 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6276710" target="_blank" rel="noopener">POL-GM: Unfall im Kreisverkehr</a></h2>
+  <div class="teaser">Wipperfürth (ots) - Bei einem Verkehrsunfall in Wipperfürth wurde am Samstag (16. Mai) der Fahrer eines Leichtkraftrades leicht verletzt. Gegen 16:16 Uhr fuhr ein 50-jähriger Mann aus Radevormwald mit seinem Dacia auf der Straße &quot;Sugeres Platz&quot; ...</div>
+  <div class="info">18.05.2026, 11:24 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/fuer-seine-torten-kommen-promis-hierher-P5UZ5EEMOLVFEEBLHGUBXKD3DU.html" target="_blank" rel="noopener">Für seine Torten kommen Promis hierher</a></h2>
+  <div class="teaser">300 Kilometer bis zur Küste, 14-Stunden-Tage, prominente Kundschaft: Das Tortenatelier von Stefano Gallus hat sich weit über die Stadtgrenzen hinaus einen Namen gemacht.</div>
+  <div class="info">16.05.2026, 02:38 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/atv-triathlon-muss-auf-denjuni-vorgezogen-werden-NV5TFTKCBTE2NO2INCWEWNGYZ4.html" target="_blank" rel="noopener">ATV-Triathlon muss auf denJuni vorgezogen werden</a></h2>
+  <div class="teaser">Die Vorbereitungen für den traditionsreichen Ausdauerwettkampf am 21. Juni laufen; viele Athleten haben sich bereits angemeldet. Warum er dieses Mal nicht im August stattfindet.</div>
+  <div class="info">16.05.2026, 01:42 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/zornige-ameise-so-geht-es-nach-dem-brand-weiter-4SMW5VOZRWG7XI2IPOG6HMXTVE.html" target="_blank" rel="noopener">„Zornige Ameise“: So geht es nach dem Brand weiter</a></h2>
+  <div class="teaser">Nach dem verheerenden Feuer an der Bever-Talsperre liegt die „Zornige Ameise“ in Trümmern. Ob und wann es dort wieder ein Lokal geben könnte, ist noch völlig offen.</div>
+  <div class="info">15.05.2026, 04:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/die-stadt-sucht-neue-schiedspersonen-IBSX4EFKZ2SCSOR77PRNXTIEEA.html" target="_blank" rel="noopener">Die Stadt sucht neue Schiedspersonen</a></h2>
+  <div class="teaser">Nicht jeder Krach muss vor Gericht landen. Schiedsleute klären Konflikte außergerichtlich. Warum das Geld und Nerven spart und wer sich jetzt bewerben kann.</div>
+  <div class="info">14.05.2026, 02:05 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/radler-radlern-gehen-die-lampen-an-JZFYYSGF4RDIEL5VWDR5MIKEHQ.html" target="_blank" rel="noopener">Radler Radlern gehen die Lampen an</a></h2>
+  <div class="teaser">Entlang der Bahntrasse sorgen nun 42 Lichtmasten für Beleuchtung.</div>
+  <div class="info">13.05.2026, 13:59 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/feuer-im-tedi-brennendes-regal-sorgt-fuer-grossen-wasserschaden-S7V2LDBPNRALXBE3TELGA5GAAY.html" target="_blank" rel="noopener">Feuer im Tedi von Radevormwald: Polizei vermutet Brandstiftung</a></h2>
+  <div class="teaser">Warum fängt ein Regal mit Papier mit einem mal Feuer? Brandermittler übernehmen das Geschäft in der Schlossmachergalerie.</div>
+  <div class="info">13.05.2026, 12:30 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/armin-maiwald-schule-wird-zum-erlebnisparcours-LTNSPULQFKNX7WJWXLQMI4SGE4.html" target="_blank" rel="noopener">Armin-Maiwald-Schule wird zum Erlebnisparcours</a></h2>
+  <div class="teaser">Zum Programm auf dem Schulgelände an der Elberfelder Straße brachten die Schüler sämtlicher Jahrgänge viele Ideen ein. Akrobatik spielte eine wichtige Rolle.</div>
+  <div class="info">12.05.2026, 19:20 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/sport/regional/hsg-rade-herbeck-benefizspiel-fuer-verstorbenen-jungen-XR4USJKEL4UUCZUIWHI4AFIMUU.html" target="_blank" rel="noopener">HSG Radevormwald/Herbeck: Benefizspiel für verstorbenen Jungen</a></h2>
+  <div class="teaser">Nachdem der Sohn eines treuen Zuschauers tragischerweise einer unheilbaren Erkrankung erlegen ist, wollen die Handballerinnen aus Radevormwald helfen. Dafür konnten sie die Zweitliga-Spielerinnen des HSV Gräfrath gewinnen. Alle Infos zum Benefizspiel</div>
+  <div class="info">12.05.2026, 16:31 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/im-heimatverein-geht-es-um-die-wurst-mit-hausgemachter-sosse-BPADR2HW4KSN5BRMQJQ7PAJ6WM.html" target="_blank" rel="noopener">Im Heimatverein geht es um die Wurst – mit hausgemachter Soße</a></h2>
+  <div class="teaser">Die Sonderausstellung im Heimatmuseum zur örtlichen Industriegeschichte endet mit einer kulinarischen Verköstigung – denn die Currywurst-schneidemaschine ist „made in Radevormwald“.</div>
+  <div class="info">12.05.2026, 14:21 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/polizei-verhaftet-niederlaender-QJCXTNHNE2JVHHKVFR3QVJSTBA.html" target="_blank" rel="noopener">Polizei verhaftet Niederländer</a></h2>
+  <div class="teaser">Gegen den Autofahrer lagen Haftbefehle vor</div>
+  <div class="info">12.05.2026, 11:22 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6273594" target="_blank" rel="noopener">POL-GM: Bei Verkehrskontrolle klickten die Handschellen</a></h2>
+  <div class="teaser">Radevormwald (ots) - Eine Polizeistreife kontrollierte am Montag (11. Mai) gegen 12 Uhr ein Auto in der Westfalenstraße. Dabei stellten die Polizisten fest, dass gegen den 34 jährigen Fahrer aus den Niederlanden mehrere europäische Haftbefehle ...</div>
+  <div class="info">12.05.2026, 10:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/gruene-plaedieren-fuer-flixbus-haltestelle-in-rade-AQWNE5XWZET3F3BSP7O3TC5V4Y.html" target="_blank" rel="noopener">Grüne plädieren für Flixbus-Haltestelle in Rade</a></h2>
+  <div class="teaser">Halt könnte am Busbahnhof eingerichtet werden.</div>
+  <div class="info">12.05.2026, 02:10 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/wasserfuhr-brueder-praesentieren-neue-stuecke-7FPQFHUSS2A3JMNUEJGQGTIGHM.html" target="_blank" rel="noopener">Wasserfuhr-Brüder präsentieren neue Stücke</a></h2>
+  <div class="teaser">Fans dürfen sich auf einen exklusiven Jubiläumsabend mit neuen Stücken freuen. Die Jazz-Brüder Julian und Roman Wasserfuhr treten am 6. Juni in der Nachbarstadt auf.</div>
+  <div class="info">12.05.2026, 00:51 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/diese-tour-entschluesselt-die-stadtgeschichte-YDELR3GYDUL5ZQLHXMQGB6CIVA.html" target="_blank" rel="noopener">Diese Tour entschlüsselt die Stadtgeschichte</a></h2>
+  <div class="teaser">Bei einer unterhaltsamen Stadtführung mit Geschichtskenner Bernhard Priggel erfuhren rund 20 Teilnehmer viel Interessantes über die Stadt – auch was es mit den „Kratzsteinen“ auf sich hat.</div>
+  <div class="info">12.05.2026, 00:13 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/radevormwalder-feiern-wie-eine-grosse-familie-5WG6BBPGF65QQMOKK35D4XTTLQ.html" target="_blank" rel="noopener">Radevormwalder feiern wie eine große Familie</a></h2>
+  <div class="teaser">Musik und Tanz auf der Bühne, viele Stände in der Innenstadt und auch jede Menge Spaß für kleine Besucher – die Radevormwalder feierten wieder ein Stadtfest von Bürgern für Bürger.</div>
+  <div class="info">11.05.2026, 02:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/wipperfuerth-remscheider-motorradfahrer-wird-bei-unfall-auf-l-302-frielingsdorf-dorgaul-schwer-YGFV4UGJQVDXLKVICIJVWSLYTY.html" target="_blank" rel="noopener">Wipperfürth: Remscheider Motorradfahrer wird bei Unfall auf L 302 Frielingsdorf Dorgaul schwer verletzt</a></h2>
+  <div class="teaser">Schwerer Zusammenstoß: Polizei und Feuerwehr mussten am Samstag zur Landstraße 302 ausrücken. Auch die Straße war gesperrt. Was hier passiert ist.</div>
+  <div class="info">10.05.2026, 11:20 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/landtagswahl-in-remscheid-die-spd-schickt-diese-kandidatin-ins-rennen-RLVRPU6YNZAM7PXIZFXPRBTPVU.html" target="_blank" rel="noopener">Landtagswahl in Remscheid: Die SPD schickt diese Kandidatin ins Rennen</a></h2>
+  <div class="teaser">41 Sozialdemokraten aus Remscheid und Radevormwald haben darüber entscheiden, wer für sie bei der Wahl im kommenden Jahr antreten wird: Eine Politikerin kämpft nun um einen Sitz im Düsseldorfer Parlament.</div>
+  <div class="info">09.05.2026, 15:18 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/politik-billigt-den-neuen-schulentwicklungsplan-HFGXTHDT3NUI6REPXOIDTWRZOE.html" target="_blank" rel="noopener">Politik billigt den neuen Schulentwicklungsplan</a></h2>
+  <div class="teaser">Die Verwaltung erläuterte, wie sie auf die geburtenstarken Jahrgänge und den Rechtsanspruch auf Ganztagsbetreuung reagiert.</div>
+  <div class="info">09.05.2026, 00:12 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/jetzt-sind-zwei-museen-mit-radergeschichte-unter-einem-dach-SO53J7GO4446S54HAGHKPHJTNU.html" target="_blank" rel="noopener">Jetzt sind zwei Museen mit RaderGeschichte unter einem Dach</a></h2>
+  <div class="teaser">Es ist geschafft: Das Bismarck-Zweiradmuseum eröffnet am neuen Standort in der Wülfing-Textilstadt. Was die Besucher ab morgen dort erwartet.</div>
+  <div class="info">08.05.2026, 15:16 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/autor-seit-20jahren-morde-ich-FUSXSRMZEDQT3MLNHRKFLAA374.html" target="_blank" rel="noopener">Autor: „Seit 20Jahren morde ich“</a></h2>
+  <div class="teaser">Dirk Osygus las in der Bergischer Buchhandlung vor.</div>
+  <div class="info">08.05.2026, 14:09 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/remscheid-hier-gibt-es-hilfe-in-sachen-ki-7DEQCAOMWZATDCEFVYFLOESJ44.html" target="_blank" rel="noopener">Remscheid: Hier gibt es Hilfe in Sachen KI</a></h2>
+  <div class="teaser">KI im Bergischen Land: Ängste abbauen, Inspiration erhalten und einfach mal die neue Technologie ausprobieren – das ist auch in Remscheid und Umgebung möglich. Wer was anbietet.</div>
+  <div class="info">08.05.2026, 10:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/diese-feuerwehr-tipps-koennen-leben-retten-6EZP4MMZP2K3GFOWW74DT4THQM.html" target="_blank" rel="noopener">Diese Feuerwehr-Tipps können Leben retten</a></h2>
+  <div class="teaser">Stadt und Feuerwehr wollen die Selbst-hilfefähigkeiten der Menschen in Radevormwald stärken. Ab sofort gibt es deswegen spezielle Veranstaltungen, die auf den Notfall vorbereiten.</div>
+  <div class="info">08.05.2026, 02:12 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/so-startet-radevormwald-in-die-sportabzeichensaison-UQOB24VCPAF7IA2FB2NDGVIP5E.html" target="_blank" rel="noopener">So startet Radevormwald in die Sportabzeichensaison</a></h2>
+  <div class="teaser">Sportabzeichen in Radevormwald: Leichtathletik, Turnen, Schwimmen und auch Fahrradprüfungen stehen wieder an. Wo die Abnahmen stattfinden.</div>
+  <div class="info">08.05.2026, 00:16 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/einbruch-in-neuenhof-PCC5EI5SRNIVWHJPLZJCPZT64E.html" target="_blank" rel="noopener">Einbruch in Neuenhof</a></h2>
+  <div class="teaser">Am Mittwoch, 6. Mai, sind Unbekannte in der Ortschaft „Neuenhof“ in ein Zweifamilienhaus eingebrochen. Das teilte die Polizei gestern mit.</div>
+  <div class="info">07.05.2026, 13:04 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6270520" target="_blank" rel="noopener">POL-GM: Einbruch am helllichten Tag</a></h2>
+  <div class="teaser">Radevormwald (ots) - Am 6. Mai sind Unbekannte in der Ortschaft &quot;Neuenhof&quot; in ein Zweifamilienhaus eingebrochen. Zwischen 14:30 Uhr und 16:00 Uhr schlugen sie ein Fenster im Erdgeschoss ein, gelangten an den innenliegenden Griff und öffneten das ...</div>
+  <div class="info">07.05.2026, 11:00 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/gold-oder-aktien-hier-gab-es-antworten-ZR5BMSF6OWIY4GJJAFGM3QONAY.html" target="_blank" rel="noopener">Gold oder Aktien? Hier gab es Antworten</a></h2>
+  <div class="teaser">Zwar traf die Referentin wegen eines Staus erst viel später ein, doch der Informationsabend für Frauen zum Thema Börse und Geldanlage stieß auf großes Interesse.</div>
+  <div class="info">07.05.2026, 02:17 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/eine-besondere-sprechstunde-mit-gott-EJVSFGGHXM3NW7UHVOZN4IT2RU.html" target="_blank" rel="noopener">Eine besondere „Sprechstunde mit Gott“</a></h2>
+  <div class="teaser">Jubiläum: Die Feg Dahlerau lädt in ihr Gemeindehaus ein.</div>
+  <div class="info">07.05.2026, 00:19 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/mei-leben-als-fussballpapa-erleichterung-im-trainerteam-endlich-mal-wieder-ein-fussballspiel-KPDDIE5CGJDTVCZMXPFA76KJGY.html" target="_blank" rel="noopener">Mei Leben als Fußballpapa: Erleichterung im Trainerteam: Endlich mal wieder ein Fußballspiel verloren!</a></h2>
+  <div class="teaser">Gunnar Freudenberg begleitet die E-Jugend-Saison seines Sohnes Hannes als Co-Trainer. Und ist froh über ein 5:7 an einem verregneten Montagabend in Radevormwald. Aber warum?</div>
+  <div class="info">06.05.2026, 17:30 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/radfans-sollen-die-landschaft-geniessen-BI22TH7KBVRONSZP2QX3BM3QNY.html" target="_blank" rel="noopener">Radfans sollen die Landschaft genießen</a></h2>
+  <div class="teaser">Am Sonntag, 31. Mai, fällt der Startschuss fürs Volksradfahren. Start- und Zielpunkt ist das Sportzentrum Hermannstraße. Was man zum Breitensportevent wissen sollte.</div>
+  <div class="info">06.05.2026, 15:14 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/kulturtipps-das-ist-am-wochenende-in-remscheid-los-abba-tina-teubner-stefan-danziger-teo-otto-WOYML3HK6NASZF3IORJ2JAVQBY.html" target="_blank" rel="noopener">Kulturtipps: Das ist am Wochenende in Remscheid los - Abba, Tina Teubner, Stefan Danziger, Teo Otto Theater</a></h2>
+  <div class="teaser">Das Teo Otto Theater verspricht am Wochenende erstklassige Unterhaltung, bei der die Gäste auf der Bühne sitzen, Comedians treten auf Kleinkunstbühnen auf – und in der Nachbarstadt Radevormwald steigt ein Stadtfest.</div>
+  <div class="info">06.05.2026, 11:00 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/neue-gesichter-und-ein-neuer-aemterzuschnitt-AOSFGXMLVVQ675KCS5SYPGUISE.html" target="_blank" rel="noopener">Neue Gesichter und ein neuer Ämterzuschnitt</a></h2>
+  <div class="teaser">Die Organisation der Verwaltung wird umgebaut: Kai Wichmann übernimmt das Amt für Jugend und Bildung, Luca-Marie Burggraf die städtische Kommunikation.</div>
+  <div class="info">06.05.2026, 01:45 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/einbruch-in-ehemalige-klinik-WBR3LKG5GCEIGWBAPSSPYGK4OA.html" target="_blank" rel="noopener">Einbruch in ehemalige Klinik</a></h2>
+  <div class="teaser">In der Zeit von Donnerstag (30. April) bis Montag (4. Mai) hebelten Unbekannte die Tür eines Nebengebäudes einer ehemaligen Klinik an der Hermannstraße auf.</div>
+  <div class="info">05.05.2026, 13:51 Uhr · RGA Radevormwald · auch bei Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/tag-des-lokaljournalismus-2026-was-der-rga-ihnen-heute-bietet-F7O6K4AQDFDJNLLXG2XHX5VOUY.html" target="_blank" rel="noopener">Tag des Lokaljournalismus 2026: Was der RGA Ihnen heute bietet</a></h2>
+  <div class="teaser">Portal und E-Paper freigeschaltet für alle, ein Sonderheft mit FAQ und eine Einladung an alle, die sich für Lokaljournalismus interessieren.</div>
+  <div class="info">05.05.2026, 12:11 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201961/radevormwald-microsoft-betrug-konto/" target="_blank" rel="noopener">Radevormwald: Microsoft-Betrug – 86-Jähriger gibt Kontodaten preis</a></h2>
+  <div class="teaser">Radevormwald / Microsoft / Betrug / Cybercrime / Oberberg (Von Christian Sasse) Ein 86-jähriger Mann aus Radevormwald ist am Freitag, 1. Mai 2026, Opfer eines Microsoft-Betrugs geworden: Eine gefälschte Warnmeldung auf seinem Laptop brachte ihn dazu,</div>
+  <div class="info">05.05.2026, 01:31 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/buerger-koennen-virtuell-das-wohnzimmer-erkunden-YATB2RKYLZ2W2IDPDIJP7S3TFE.html" target="_blank" rel="noopener">Bürger können virtuell das „Wohnzimmer“ erkunden</a></h2>
+  <div class="teaser">Eine neue Video-Reihe gibt Einblicke in die Arbeit der Stadtentwicklung.</div>
+  <div class="info">05.05.2026, 00:49 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/gira-geschaeftsfuehrung-feiert-mit-erfolgreichen-azubis-5EHFOJGQB5SOUTLE32NBZA4M2Y.html" target="_blank" rel="noopener">Gira-Geschäftsführung feiert mit erfolgreichen Azubis</a></h2>
+  <div class="teaser">Fünf junge Fachkräfte haben es geschafft.</div>
+  <div class="info">05.05.2026, 00:29 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/was-macht-die-freiwillige-feuerwehr-elefantenbrumm-in-remscheid-an-der-rader-strasse-SBBEL2G2A5GRDN4TVEKDBCLXTQ.html" target="_blank" rel="noopener">Was macht die Freiwillige Feuerwehr Elefantenbrumm in Remscheid an der Rader Straße?</a></h2>
+  <div class="teaser">Seit einer Woche steht an der der Rader Straße ein altes, schmuckes Einsatzfahrzeug etwas schräg am Fahrbahnrand. Der RGA berichtete. Jetzt ist klar, was es damit auf sich hat.</div>
+  <div class="info">04.05.2026, 17:19 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/remscheid/mittelstand-in-solingen-und-remscheid-sorgenkind-industrie-stellenabbau-in-der-region-G3N75VJYKVHMPOIWALUCST77NU.html" target="_blank" rel="noopener">Mittelstand in Solingen und Remscheid: Sorgenkind Industrie – Stellenabbau in der Region</a></h2>
+  <div class="teaser">Es wollen so wenige Betriebe in Solingen und Remscheid investieren wie seit vielen Jahren nicht mehr: Das ist nicht nur ein Indikator dafür, wie es der Wirtschaft heute geht – sondern zeigt auch, dass die Zukunft vielen Arbeitgebern Kopfzerbrechen be</div>
+  <div class="info">04.05.2026, 15:00 Uhr · RGA Hückeswagen</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/betrueger-war-nicht-von-microsoft-P2RCZNYQNDG7AXWYELKVHNWVKU.html" target="_blank" rel="noopener">Betrüger war nicht von Microsoft</a></h2>
+  <div class="teaser">Immer wieder geben sich Betrüger als angebliche Microsoft-Mitarbeiter aus, um einen Virenbefall oder andere „Problemfälle“ beheben zu wollen. Am Freitag (1. Mai) wurde ein 86-Jähriger aus Radevormwald Opfer dieser Masche.</div>
+  <div class="info">04.05.2026, 11:33 Uhr · RGA Radevormwald</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.presseportal.de/blaulicht/pm/65843/6267615" target="_blank" rel="noopener">POL-GM: Betrug durch angeblichen Microsoft-Mitarbeiter</a></h2>
+  <div class="teaser">Radevormwald (ots) - Immer wieder geben sich Betrüger als angebliche Microsoft-Mitarbeiter aus, um einen Virenbefall oder andere &quot;Problemfälle&quot; beheben zu wollen. Am Freitag (1. Mai) wurde ein 86-Jähriger aus Radevormwald Opfer dieser Masche. ...</div>
+  <div class="info">04.05.2026, 09:06 Uhr · Presseportal Polizei OBK</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/party-der-feuerwehr-in-oenkfeld-in-radevormwald-wurde-kraeftig-in-den-mai-gefeiert-Y754P7X7WUG5F2GBJFIYV67RGQ.html" target="_blank" rel="noopener">Party der Feuerwehr in Önkfeld: In Radevormwald wurde kräftig in den Mai gefeiert</a></h2>
+  <div class="teaser">Mit einer DJ-Party und einem Frühschoppen startete die Löschgruppe Önkfeld in den Mai. Höhepunkt war wieder die Übung der Kinderfeuerwehr.</div>
+  <div class="info">04.05.2026, 03:30 Uhr · RGA Radevormwald</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">April 2026 <span class="monat-count">2</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201771/radevormwald-motorrad-unfall-20260426/" target="_blank" rel="noopener">Radevormwald: Motorradunfall im Gegenverkehr – dazu Moped-Crash in Lindlar und Waschmittel-Alarm in Waldbröl</a></h2>
+  <div class="teaser">Radevormwald / Motorradunfall / Polizei / Oberberg (Von Christian Sasse) Gleich drei Polizeimeldungen aus dem Oberbergischen Kreis beschäftigen die Region: Auf der Uelfe-Wuppertal-Straße zwischen Radevormwald und Önkfeld kam es am Sonntag zu einem Mo</div>
+  <div class="info">27.04.2026, 17:56 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/201349/radevormwald-linienbus-hauswand-unfall/" target="_blank" rel="noopener">Radevormwald: Linienbus rollt führerlos gegen Hauswand – Niemand verletzt</a></h2>
+  <div class="teaser">Radevormwald / Busunfall / Polizei / Oberberg (Von Christian Sasse) Ein Linienbus ist am Samstagnachmittag (11. April) in Radevormwald führerlos gegen eine Hauswand geprallt. Der 64-jährige Busfahrer hatte das Fahrzeug an der Haltestelle Hohenfuhrstr</div>
+  <div class="info">13.04.2026, 15:58 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">März 2026 <span class="monat-count">2</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200530/radevormwald-love-scamming-polizei/" target="_blank" rel="noopener">Radevormwald: Love Scamming kostet ahnungslosen Senior vierstellige Summe</a></h2>
+  <div class="teaser">Radevormwald / Love Scamming / Internetbetrug / Oberberg (Von Christian Sasse) Ein 65-jähriger Mann aus Radevormwald hat einer angeblichen Internetbekanntschaft aus Bangkok einen mittleren vierstelligen Eurobetrag überwiesen, nachdem sie ihm eine gem</div>
+  <div class="info">12.03.2026, 14:43 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200400/oberberg-polizei-unfallflucht-pedelec/" target="_blank" rel="noopener">Oberberg: Polizei berichtet über Unfallflucht, Pedelec-Sturz, Laden- und E-Bike-Diebstahl</a></h2>
+  <div class="teaser">Oberberg / Polizei / Unfall / Diebstahl (Von Christian Sasse) Zwischen Dienstag, 3. März, und Donnerstag, 5. März, kam es in mehreren oberbergischen Kommunen zu einer Unfallflucht, einem schweren Pedelec-Unfall, einem vereitelten Ladendiebstahl, eine</div>
+  <div class="info">06.03.2026, 11:36 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Februar 2026 <span class="monat-count">4</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200233/radevormwald-kollision-unfall-l421/" target="_blank" rel="noopener">Radevormwald: Wendemanöver auf der L421 – Zwei Schwerverletzte am Heidersteg</a></h2>
+  <div class="teaser">Radevormwald / L421 / Verkehrsunfall / Polizei / Oberberg (Von Christian Sasse) Ein 81-jähriger Mann aus Kappeln hatte beim Wendemanöver an einem Wanderparkplatz einen vorfahrtsberechtigten Pkw übersehen. Die L421 musste für rund 1,5 Stunden komplett</div>
+  <div class="info">26.02.2026, 02:21 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200144/radevormwald-falsche-polizeibeamte-geld/" target="_blank" rel="noopener">Radevormwald: Falsche Polizeibeamte erbeuten Bargeld von Seniorin (66)</a></h2>
+  <div class="teaser">Radevormwald / Polizei / Betrug / Falsche Polizisten (Von Christian Sasse) Eine 66-jährige Frau aus Radevormwald ist Opfer von falschen Polizeibeamten geworden. Am 16. Februar erhielt die Seniorin einen Anruf eines Mannes, der sich als Kriminaloberko</div>
+  <div class="info">23.02.2026, 10:42 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200074/radevormwald-werkzeugdiebstahl/" target="_blank" rel="noopener">Oberberg: Radevormwald – Werkzeugdiebstahl (Transporter) Polizei ermittelt</a></h2>
+  <div class="teaser">Oberberg / Radevormwald – (Von NEWS-Ticker) Zwischen Mittwochabend (18. Februar, 17:30 Uhr) und Donnerstagmorgen (19. Februar, 06:30 Uhr) haben Unbekannte in Radevormwald Werkzeuge aus einem abgestellten Transporter entwendet. Die Polizei sucht Zeuge</div>
+  <div class="info">20.02.2026, 09:37 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+<div class="artikel">
+  
+  <h2><a href="https://www.news-on-tour.de/200040/oberberg-polizeimeldungen-2026-02-18/" target="_blank" rel="noopener">Oberberg: 3 Polizeimeldungen (18.02.2026) – Trickdiebstahl in Radevormwald, BMW-Räder in Waldbröl und Einbrüche in Hückeswagen</a></h2>
+  <div class="teaser">Oberberg / Polizei / Kriminalität / OBK (Von Christian Sasse) Die Polizei im Oberbergischen Kreis meldet am Dienstag gleich drei Straftaten: Ein Trickdieb klaut Bargeld aus einer Kasse in Radevormwald, Unbekannte stehlen alle vier Räder eines BMW in </div>
+  <div class="info">18.02.2026, 14:13 Uhr · NEWS-on-Tour Oberberg</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Juni 2025 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/radevormwald/350-schafe-pflegen-gruenflaechen-am-gira-solarpark-in-radevormwald/" target="_blank" rel="noopener">350 Schafe pflegen Grünflächen am Gira Solarpark in Radevormwald</a></h2>
+  <div class="teaser">Radevormwald. Auf dem Gelände des neuen Gira Solarparks sind seit kurzem 350 Schafe im Einsatz. Der Beitrag 350 Schafe pflegen Grünflächen am Gira Solarpark in Radevormwald erschien zuerst auf Oberberg-Nachrichten.de.</div>
+  <div class="info">03.06.2025, 21:04 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Januar 2024 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/verschiedenes/marketing-effektiver-gestalten-so-werden-sie-im-obk-erfolgreich/" target="_blank" rel="noopener">So stärken Sie ihre Marketinganstrengungen und werden im Oberbergischen Kreis erfolgreich</a></h2>
+  <div class="teaser">Ob Gummerbach oder Radevormwald, Lindlar oder Morsbach, Engelskirchen oder Wiehl - der Oberbergische Kreis hat Unternehmen zahlreicher Branchen ein solides Fundament zu bieten. Erstklassige Infrastruktur, gute Kaufkraft und kulturelle Vielfalt bilden</div>
+  <div class="info">26.01.2024, 17:11 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Dezember 2023 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/radevormwald/weihnachtsplaetzchen-und-weihnachtspakete-fuer-den-guten-zweck/" target="_blank" rel="noopener">Weihnachtsplätzchen und Weihnachtspakete für den guten Zweck</a></h2>
+  <div class="teaser">Eine kleine Delegation des Gebäudetechnikspezialisten und Smartbuilding-Pioniers Gira hat am Dienstag (12.12.2023) über 2.000 selbst gebackene und in Tüten verpackte Weihnachtsplätzchen an den Radevormwalder Mittagstisch übergeben. Der Beitrag Weihna</div>
+  <div class="info">14.12.2023, 15:22 Uhr · Oberberg Nachrichten</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">November 2020 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wipperfuerth/motorradfahrer-stuerzt-auf-der-k13-in-oberroettenscheid/" target="_blank" rel="noopener">Motorradfahrer stürzt auf der K13 in Oberröttenscheid</a></h2>
+  <div class="teaser">Ein 66-jähriger Radevormwalder ist am Mittwochnachmittag (18.11.2020) auf der K13 in Oberröttenscheid mit seinem Motorrad gestürzt und hat sich dabei schwere Verletzungen zugezogen. Der Beitrag Motorradfahrer stürzt auf der K13 in Oberröttenscheid er</div>
+  <div class="info">19.11.2020, 12:02 Uhr · Oberberg Nachrichten Wipperfürth</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">Mai 2020 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/wipperfuerth/kradfahrer-nach-alleinunfall-schwerverletzt/" target="_blank" rel="noopener">Kradfahrer nach Alleinunfall schwerverletzt</a></h2>
+  <div class="teaser">Wipperfürth (Ortslage Levenhausen) – Am frühen Montagabend (18.05.2020), 18:00 Uhr befuhr ein 59-jähriger Motorradfahrer aus Neu Wulmsdorf die K11 aus Richtung Radevormwald in Fahrtrichtung Bevertalsperre. Kurz hinter der Ortslage Levenhausen … Der B</div>
+  <div class="info">19.05.2020, 08:58 Uhr · Oberberg Nachrichten Wipperfürth</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">September 2019 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/themen/polizeimeldungen/taeter-gesucht-unfallflucht-in-radevormwald-in-einem-ford-fiesta/" target="_blank" rel="noopener">Täter gesucht: Unfallflucht in Radevormwald in einem Ford Fiesta</a></h2>
+  <div class="teaser">Radevormwald – Vergangenen Mittwoch (18.September) hat ein bislang unbekannter Fahrzeugführer in einem Ford Fiesta auf der Kaiserstraße einen roten Seat Ibiza beschädigt. Der Seat parkte am Fahrbahnrand der Kaiserstraße in … Der Beitrag Täter gesucht</div>
+  <div class="info">23.09.2019, 07:58 Uhr · Oberberg Nachrichten Wipperfürth</div>
+</div>
+</div>
+<div class="monat-gruppe">
+<h2 class="monat-header">August 2019 <span class="monat-count">1</span></h2>
+<div class="artikel">
+  
+  <h2><a href="https://www.oberberg-nachrichten.de/kommunen/eigentuemer-von-bronzevasen-und-einer-grablaterne-gesucht/" target="_blank" rel="noopener">Eigentümer von Bronzevasen und einer Grablaterne gesucht</a></h2>
+  <div class="teaser">Radevormwald (ots) – Am 1. Juli sind am Kommunalfriedhof in Radevormwald sieben Bronzevasen sowie eine Grablaterne aufgefunden worden, die dort in einer Einkaufstasche deponiert waren. Bei den Fundsachen handelt es … Der Beitrag Eigentümer von Bronze</div>
+  <div class="info">28.08.2019, 09:24 Uhr · Oberberg Nachrichten Wipperfürth</div>
+</div>
+</div></div>
+</main>
+<footer>
+  <a href="../index.html">Radevormwald</a> · Archiv · Aktualisiert: 22.10.2026, 22:19 Uhr<br>
+  <a href="/ai-tageszeitung/impressum/">Impressum</a> · <a href="/ai-tageszeitung/rechtliches/">Rechtliche Hinweise</a> · <a href="/ai-tageszeitung/rechtliches/#datenschutz">Datenschutz</a><br>
+  <a href="https://github.com/dna-dieter/ai-tageszeitung/actions/workflows/update.yml">GitHub</a>
+</footer>
+
+<script>
+(function() {
+  // Button nur für Betreiber: sichtbar mit ?admin in der Adresse (wird gemerkt), ?admin=aus blendet ihn wieder aus.
+  try {
+    const p = new URLSearchParams(location.search);
+    if (p.has('admin')) {
+      if (p.get('admin') === 'aus') localStorage.removeItem('ai_tz_admin');
+      else localStorage.setItem('ai_tz_admin', '1');
+    }
+    if (localStorage.getItem('ai_tz_admin') === '1') {
+      const b = document.getElementById('btn-refresh');
+      if (b) b.hidden = false;
+    }
+  } catch (e) {}
+  const REPO = 'dna-dieter/ai-tageszeitung';
+  const WORKFLOW = 'update.yml';
+  const TOKEN_KEY = 'ai_tz_github_token';
+  const API = 'https://api.github.com';
+
+  function getToken() {
+    let t = localStorage.getItem(TOKEN_KEY);
+    if (!t) {
+      t = prompt(
+        'Einmaliger Setup: Bitte GitHub Personal Access Token eingeben.\n\n' +
+        'Der Token braucht Berechtigung "Actions: Read and write" auf diesem Repo.\n' +
+        'Der Token wird nur lokal in deinem Browser gespeichert.'
+      );
+      if (t) {
+        t = t.trim();
+        localStorage.setItem(TOKEN_KEY, t);
+      }
+    }
+    return t;
+  }
+
+  function setStatus(msg) {
+    const el = document.getElementById('refresh-status');
+    if (el) el.textContent = msg;
+  }
+
+  function setButton(loading, label) {
+    const btn = document.getElementById('btn-refresh');
+    if (!btn) return;
+    btn.disabled = loading;
+    btn.classList.toggle('loading', loading);
+    btn.innerHTML = loading
+      ? '<span class="spinner"></span> ' + (label || 'Aktualisiere...')
+      : '\u21bb ' + (label || 'Jetzt aktualisieren');
+  }
+
+  async function gh(path, opts) {
+    const token = getToken();
+    if (!token) throw new Error('Kein Token');
+    const res = await fetch(API + path, Object.assign({
+      headers: {
+        'Accept': 'application/vnd.github+json',
+        'Authorization': 'Bearer ' + token,
+        'X-GitHub-Api-Version': '2022-11-28'
+      }
+    }, opts || {}));
+    return res;
+  }
+
+  async function triggerWorkflow() {
+    const res = await gh('/repos/' + REPO + '/actions/workflows/' + WORKFLOW + '/dispatches', {
+      method: 'POST',
+      headers: {
+        'Accept': 'application/vnd.github+json',
+        'Authorization': 'Bearer ' + getToken(),
+        'X-GitHub-Api-Version': '2022-11-28',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ ref: 'main' })
+    });
+    if (res.status === 401 || res.status === 403) {
+      localStorage.removeItem(TOKEN_KEY);
+      throw new Error('Token ungültig oder abgelaufen (gelöscht, bitte neu eingeben)');
+    }
+    if (!res.ok) {
+      const text = await res.text();
+      throw new Error('Trigger fehlgeschlagen: ' + res.status + ' ' + text.slice(0, 120));
+    }
+  }
+
+  async function findRun(triggeredAt) {
+    const res = await gh('/repos/' + REPO + '/actions/workflows/' + WORKFLOW + '/runs?per_page=5&event=workflow_dispatch');
+    if (!res.ok) return null;
+    const data = await res.json();
+    const runs = data.workflow_runs || [];
+    for (const r of runs) {
+      const created = new Date(r.created_at).getTime();
+      if (created >= triggeredAt - 10000) return r;
+    }
+    return null;
+  }
+
+  async function waitForCompletion(triggeredAt) {
+    const deadline = Date.now() + 6 * 60 * 1000; // max 6 min
+    let run = null;
+    // find the run (kann ein paar Sekunden dauern)
+    while (!run && Date.now() < deadline) {
+      await new Promise(r => setTimeout(r, 3000));
+      run = await findRun(triggeredAt);
+      if (!run) setStatus('Starte Workflow...');
+    }
+    if (!run) throw new Error('Workflow-Lauf nicht gefunden');
+
+    while (Date.now() < deadline) {
+      const res = await gh('/repos/' + REPO + '/actions/runs/' + run.id);
+      if (!res.ok) break;
+      const r = await res.json();
+      setStatus('Status: ' + (r.status || '?') + (r.conclusion ? ' (' + r.conclusion + ')' : ''));
+      if (r.status === 'completed') return r;
+      await new Promise(res => setTimeout(res, 5000));
+    }
+    throw new Error('Timeout beim Warten');
+  }
+
+  window.triggerRefresh = async function() {
+    try {
+      const token = getToken();
+      if (!token) return;
+      setButton(true, 'Starte...');
+      setStatus('Sende Trigger an GitHub...');
+      const t0 = Date.now();
+      await triggerWorkflow();
+      setStatus('Workflow gestartet, warte auf Abschluss...');
+      const run = await waitForCompletion(t0);
+      if (run.conclusion === 'success') {
+        setStatus('Fertig! Lade Seite neu...');
+        // Kurz warten bis GitHub Pages deployed hat
+        setTimeout(() => location.reload(), 30000);
+        setStatus('Fertig! Seite lädt in 30s neu (GitHub Pages Deploy)...');
+      } else {
+        setButton(false);
+        setStatus('Fehlgeschlagen: ' + run.conclusion);
+      }
+    } catch (e) {
+      setButton(false);
+      setStatus('Fehler: ' + e.message);
+    }
+  };
+})();
+</script>
+
+</body></html>
