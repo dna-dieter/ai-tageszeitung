@@ -6,6 +6,9 @@ on:
     - cron: '5 * * * *'
   workflow_dispatch: # Manueller Trigger
 
+env:
+  TZ: Europe/Berlin
+
 permissions:
   contents: write
 

@@ -452,7 +452,7 @@ def fetch_kreis(kreis_slug: str, kreis_cfg: dict):
     (data_dir / "all_articles.json").write_text(json.dumps(all_list, ensure_ascii=False, indent=2))
 
     if new_count or changed or removed or "last_updated" not in config:
-        config["last_updated"] = datetime.now().isoformat()
+        config["last_updated"] = datetime.now(BERLIN).isoformat()
     feeds_file.write_text(json.dumps(config, ensure_ascii=False, indent=2))
 
     print(f"  Gesamt: {len(all_list)} Artikel ({new_count} neu)")

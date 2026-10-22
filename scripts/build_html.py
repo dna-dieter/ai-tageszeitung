@@ -9,11 +9,13 @@ from pathlib import Path
 from datetime import datetime, timedelta
 from collections import OrderedDict
 from email.utils import parsedate_to_datetime
+from zoneinfo import ZoneInfo
 import html as htmlmod
 
 from config import BASE, KREISE
 
 DOCS = BASE / "docs"
+BERLIN = ZoneInfo("Europe/Berlin")
 def _letzter_stand():
     """Zeitpunkt des letzten Laufs mit neuen Inhalten (last_updated aus feeds.json),
     damit die Seiten ohne neue Artikel unverändert bleiben."""
@@ -21,12 +23,15 @@ def _letzter_stand():
     for slug in KREISE:
         f = BASE / slug / "feeds.json"
         try:
-            werte.append(datetime.fromisoformat(json.loads(f.read_text())["last_updated"]))
+            wert = datetime.fromisoformat(json.loads(f.read_text())["last_updated"])
+            if wert.tzinfo is not None:
+                wert = wert.astimezone(BERLIN).replace(tzinfo=None)
+            werte.append(wert)
         except Exception:
             pass
     return max(werte) if werte else datetime.now()
 
-TIMESTAMP = _letzter_stand().strftime("%d.%m.%Y, %H:%M")
+TIMESTAMP = _letzter_stand().strftime("%d.%m.%Y, %H:%M Uhr")
 GITHUB_ACTIONS = "https://github.com/dna-dieter/ai-tageszeitung/actions/workflows/update.yml"
 SITE = "/ai-tageszeitung"
 ANBIETER = "Dieter Nadolski"
@@ -283,8 +288,16 @@ def parse_pub_date(raw):
             except Exception:
                 dt = None
     if dt is not None and dt.tzinfo is not None:
-        dt = dt.replace(tzinfo=None)
+        dt = dt.astimezone(BERLIN).replace(tzinfo=None)
     return dt
+
+def datum_de(raw):
+    """Einheitliches Anzeigeformat in Ortszeit Berlin: 22.10.2026, 14:30 Uhr (ohne Uhrzeit, wenn keine angegeben)."""
+    dt = parse_pub_date(raw)
+    if dt is None:
+        return htmlmod.escape((raw or "")[:25])
+    hat_zeit = bool(re.search(r"\d{1,2}:\d{2}", raw))
+    return dt.strftime("%d.%m.%Y, %H:%M Uhr") if hat_zeit else dt.strftime("%d.%m.%Y")
 
 def group_by_month(articles):
     grouped = {}
@@ -315,7 +328,7 @@ def artikel_html(a, show_kommune=True, kommune_map=None):
     teaser = htmlmod.escape(strip_tags(a.get("summary", ""))[:250])
     link = htmlmod.escape(a.get("link", "#"))
     source = htmlmod.escape(a.get("source", ""))
-    published = a.get("published", "")[:25]
+    published = datum_de(a.get("published", ""))
     tags = []
     if show_kommune and kommune_map:
         kommunen = ", ".join(kommune_map.get(k, k) for k in a.get("kommunen", []))
