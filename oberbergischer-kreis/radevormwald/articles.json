@@ -110,18 +110,6 @@
     "fetched": "2026-05-27T08:47:26.914697"
   },
   {
-    "id": "5572bc720851",
-    "title": "Radevormwald: Auto erfasst Fußgängerin beim Wenden",
-    "summary": "Radevormwald: Fußgängerin bei Verkehrsunfall auf der Kottenstraße leicht verletzt. Rettungswagen bringt 60-Jährige ins Krankenhaus.",
-    "link": "https://www.news-on-tour.de/203108/radevormwald-unfall-fussgaengerin/",
-    "published": "Wed, 27 May 2026 07:47:49 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "radevormwald"
-    ],
-    "fetched": "2026-05-27T08:47:13.289052"
-  },
-  {
     "id": "bc46372739ea",
     "title": "Radevormwald: Zum 55. Jahrestag des Zugunglücks von Dahlerau werden Glocken läuten",
     "summary": "46 Menschen starben am 27. Mai 1971 beim Zugunglück von Dahlerau – ein Trauma, das Radevormwald bis heute beschäftigt. Stadt und Kirchengemeinden rufen zum stillen Gedenken um 21.05 Uhr auf.",
@@ -206,18 +194,6 @@
       "radevormwald"
     ],
     "fetched": "2026-09-23T11:25:36.872013"
-  },
-  {
-    "id": "84c507cc99d7",
-    "title": "Als Professor Lorenz eine neue Technik erfand",
-    "summary": "Er bringt die historische Fresko-Malerei auf Leinwand. Heinz-Jürgen Lorenz zeigt im Wülfingmuseum seine Ausstellung „Veränderung“ – und damit einen besonderen Blick in die Welt.",
-    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/als-professor-lorenz-eine-neue-technik-erfand-FEEPW6PAGUPHPG77FERT3CZQAU.html",
-    "published": "Wed, 23 Sep 2026 03:44:00 +0200",
-    "source": "RGA Radevormwald",
-    "kommunen": [
-      "radevormwald"
-    ],
-    "fetched": "2026-09-23T05:52:42.574852"
   },
   {
     "id": "67e74ff3b5d7",
@@ -763,18 +739,6 @@
       "radevormwald"
     ],
     "fetched": "2026-08-05T03:26:18.040178"
-  },
-  {
-    "id": "5f80cce5301d",
-    "title": "Farbenprächtiges Radevormwald: Neue Motive am Kreisverkehr",
-    "summary": "Die neuen Motive der Fahneninstallation am Kreisel schuf der Kölner Künstler Peter Zimmermann. Was sich dieses Mal dahinter verbirgt.",
-    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/farbenpraechtiges-radevormwald-neue-motive-am-kreisverkehr-MRKMBXST7QVRS6IN72ZF3NZ5DY.html",
-    "published": "Wed, 03 Jun 2026 02:00:00 +0200",
-    "source": "RGA Radevormwald",
-    "kommunen": [
-      "radevormwald"
-    ],
-    "fetched": "2026-06-03T05:07:02.628735"
   },
   {
     "id": "9dbde800012b",
@@ -1503,18 +1467,6 @@
     "fetched": "2026-10-13T09:19:10.442927"
   },
   {
-    "id": "c4432fcbe3e0",
-    "title": "Feuer im Tedi: Brennendes Regal sorgt in Radevormwald für großen Wasserschaden",
-    "summary": "Betroffen ist auch das Restaurant Tasty Garden. Die Ursache des Feuers ist noch unklar.",
-    "link": "https://www.rga.de/lokales/oberbergischer-kreis/feuer-im-tedi-brennendes-regal-sorgt-fuer-grossen-wasserschaden-S7V2LDBPNRALXBE3TELGA5GAAY.html",
-    "published": "Tue, 12 May 2026 20:08:37 +0200",
-    "source": "RGA Radevormwald",
-    "kommunen": [
-      "radevormwald"
-    ],
-    "fetched": "2026-05-12T18:11:06.730731"
-  },
-  {
     "id": "d392395f34f4",
     "title": "Armin-Maiwald-Schule wird zum Erlebnisparcours",
     "summary": "Zum Programm auf dem Schulgelände an der Elberfelder Straße brachten die Schüler sämtlicher Jahrgänge viele Ideen ein. Akrobatik spielte eine wichtige Rolle.",
@@ -1866,7 +1818,8 @@
     "published": "Tue, 02 Jun 2026 14:02:20 +0200",
     "source": "RGA Radevormwald",
     "kommunen": [
-      "radevormwald"
+      "radevormwald",
+      "wipperfuerth"
     ],
     "fetched": "2026-06-02T15:04:07.788209"
   },
@@ -2881,19 +2834,6 @@
     "fetched": "2026-07-26T14:43:41.186644"
   },
   {
-    "id": "e67549aef89d",
-    "title": "Erstmeldung: Bundesstraße zwischen Rade und Hückeswagen gesperrt",
-    "summary": "Wer zwischen Radevormwald und Hückeswagen unterwegs ist, muss aktuell mit Behinderungen rechnen. Dort kam es zu einem Unfall, die Polizei ist vor Ort.",
-    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/erstmeldung-bundesstrasse-zwischen-rade-und-hueckeswagen-gesperrt-2CTIO5O42VHGDCJSHNPAH3QRS4.html",
-    "published": "Sun, 26 Jul 2026 13:53:16 +0200",
-    "source": "RGA Hückeswagen",
-    "kommunen": [
-      "radevormwald",
-      "hueckeswagen"
-    ],
-    "fetched": "2026-07-26T12:12:11.533073"
-  },
-  {
     "id": "9eb1c1d72a93",
     "title": "Auf Campingplatz in Hückeswagen: Kiosk bei Brand beschädigt",
     "summary": "Aufmerksamen Gästen ist es offenbar zu verdanken, dass nichts Schlimmeres passiert ist. Die Polizei ermittelt jetzt, was zu dem Feuer geführt hat.",
@@ -3308,18 +3248,6 @@
     "fetched": "2026-06-20T00:19:08.687773"
   },
   {
-    "id": "a1001243adf4",
-    "title": "Feuerwehr-Frau im Flammen-Container: „Das war heftig“",
-    "summary": "Bei bis zu 800 Grad Celsius: Die Feuerwehr Radevormwald trainiert für den Wohnungsbrand. Der kommt heute seltener vor, ist dafür aber viel gefährlicher.",
-    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/feuerwehr-frau-im-flammen-container-das-war-heftig-BCOJTMTTKNCXTPIOZQDFWJA6QE.html",
-    "published": "Sat, 19 Sep 2026 16:23:42 +0200",
-    "source": "RGA Radevormwald",
-    "kommunen": [
-      "radevormwald"
-    ],
-    "fetched": "2026-09-19T17:57:28.291459"
-  },
-  {
     "id": "4d34f6a043a3",
     "title": "Interkulturelle Woche: Die Termine in Radevormwald",
     "summary": "Die Interkulturelle Woche im Oberbergischen Kreis bietet mehr als 50 Veranstaltungen – darunter mehrere Termine in Rade. Vereine, Initiativen und Religionsgemeinschaften setzen Zeichen für Vielfalt.",
@@ -3418,18 +3346,6 @@
       "radevormwald"
     ],
     "fetched": "2026-09-12T05:43:21.847774"
-  },
-  {
-    "id": "9fb81bd51cba",
-    "title": "Radevormwald: Dachdeckerfirma spielt Hauptrolle in Handwerk-Doku",
-    "summary": "In der neuen Dokusoap „Passt, wackelt und hat Luft“ auf VOX spielt die Dachdeckerei und Zimmerei Krapp & Felbecker ab Sonntag eine Hauptrolle. In sechs Folgen wird der Alltag von Handwerkern aus ganz Deutschland dargestellt – im Mittelpunkt die Gesellen Fernando und Vincent mit Chef Michael.",
-    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/radevormwald-dachdeckerfirma-spielt-hauptrolle-in-handwerk-doku-FMILWAUSO3ZZVMROZNCEG3SBDQ.html",
-    "published": "Sat, 12 Sep 2026 02:00:00 +0200",
-    "source": "RGA Radevormwald",
-    "kommunen": [
-      "radevormwald"
-    ],
-    "fetched": "2026-09-12T01:04:00.051321"
   },
   {
     "id": "e2644d06b4c0",
@@ -4595,19 +4511,6 @@
     "fetched": "2026-07-31T04:33:06.613292"
   },
   {
-    "id": "26ecd0df016b",
-    "title": "Radevormwald: Motorradfahrer wird bei Sturz verletzt",
-    "summary": "Zwischen Wipperfürth und Radevormwald wurde am Donnerstag ein Motorradfahrer bei einem Verkehrsunfall verletzt.",
-    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald-motorradfahrer-wird-bei-sturz-verletzt-NS4GYB7HQ5XA2GRRMDJIZJ7TQU.html",
-    "published": "Fri, 29 May 2026 17:13:14 +0200",
-    "source": "RGA Radevormwald",
-    "kommunen": [
-      "radevormwald",
-      "wipperfuerth"
-    ],
-    "fetched": "2026-05-29T16:53:10.612106"
-  },
-  {
     "id": "68c1faefe22d",
     "title": "POL-GM: Motorradfahrer stürzt im Kurvenbereich",
     "summary": "Wipperfürth (ots) - Bei einem Verkehrsunfall in Kotten wurde am Donnerstag (28. Mai) ein Motorradfahrer verletzt. Der 19-Jährige aus Schwelm war gegen 17:15 Uhr mit seiner Yamaha auf der K11 von Wipperfürth in Richtung Radevormwald unterwegs. In ...",
@@ -4908,18 +4811,6 @@
       "radevormwald"
     ],
     "fetched": "2026-07-17T00:09:29.916118"
-  },
-  {
-    "id": "47e5064d3040",
-    "title": "Versuchter Einbruch in eine Tankstelle in Radevormwald",
-    "summary": "In der Nacht von Donnerstag auf Freitag haben Unbekannte versucht, in eine Tankstelle in Radevormwald einzubrechen. Die Polizei sucht derzeit nach den Tätern.",
-    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/versuchter-einbruch-in-eine-tankstelle-in-radevormwald-NJD6Z73MKVCBFHQVIGKS6W55KE.html",
-    "published": "Fri, 16 Oct 2026 10:21:04 +0200",
-    "source": "RGA Radevormwald",
-    "kommunen": [
-      "radevormwald"
-    ],
-    "fetched": "2026-10-16T12:19:55.565128"
   },
   {
     "id": "41658403a08e",

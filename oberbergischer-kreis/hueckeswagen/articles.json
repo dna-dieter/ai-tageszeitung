@@ -544,19 +544,6 @@
     "fetched": "2026-05-06T15:52:46.536337"
   },
   {
-    "id": "3040328916ba",
-    "title": "Stellen- und Ausbildungsangebote",
-    "summary": "Für die Bauhof Wupperfürth/Hückeswagen AöR suchen wir eine/n Mitarbeiter/in (m/w/d) Schwerpunkt Grünpflege.",
-    "link": "https://wipperfuerth.de/fileadmin/redaktion/Hansestadt_Wipperfuerth/Personal/Bauhofmitarbeiter-in_Gruenpflege.pdf",
-    "published": "Wed, 11 Feb 2026 13:45:00 +0100",
-    "source": "Stadt Wipperfürth (offiziell)",
-    "kommunen": [
-      "hueckeswagen",
-      "wipperfuerth"
-    ],
-    "fetched": "2026-05-06T15:52:46.536355"
-  },
-  {
     "id": "00f61ea2ac60",
     "title": "POL-GM: Verkehrsunfall auf der K1",
     "summary": "Hückeswagen (ots) - Am Mittwochmorgen (10. Juni) kam es auf der Wiehagener Straße (K1) zu einem Verkehrsunfall, bei dem ein 42-Jähriger aus Remscheid und ein 26-jähriger Hückeswagener verletzt wurden. Der Remscheider war mit seinem Skoda auf ...",
@@ -841,18 +828,6 @@
     "fetched": "2026-07-01T10:08:22.273332"
   },
   {
-    "id": "535405760b99",
-    "title": "Hückeswagen: Pedelec-Fahrer bei Alleinunfall schwer verletzt",
-    "summary": "Pedelec-Fahrer stürzt schwer verletzt in Hückeswagen: Ein 59-Jähriger aus Pulheim verliert auf der abschüssigen Großberghauser Straße die Kontrolle und wird ins Krankenhaus gebracht.",
-    "link": "https://www.news-on-tour.de/204812/hueckeswagen-pedelec-fahrer-sturz/",
-    "published": "Wed, 01 Jul 2026 08:44:39 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "hueckeswagen"
-    ],
-    "fetched": "2026-07-02T08:21:28.490168"
-  },
-  {
     "id": "fd56060f8834",
     "title": "Friedenskapelle verbindet und schenkt Hoffnung",
     "summary": "Mehr als 120 Gäste feierten das 40-jährige Bestehen der Friedenskapelle Voßhagen. Mit einem Gottesdienst und Musik wurde deutlich, welche Bedeutung die Kapelle als Ort des Friedens hat.",
@@ -960,7 +935,8 @@
     "published": "Tue, 26 May 2026 21:57:36 +0200",
     "source": "RGA Hückeswagen",
     "kommunen": [
-      "hueckeswagen"
+      "hueckeswagen",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-05-26T21:56:44.865651"
   },
@@ -1330,18 +1306,6 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-13T09:19:10.442927"
-  },
-  {
-    "id": "3c81e8155c46",
-    "title": "Hückeswagen: Bever-Talsperre: „Zornige Ameise“ brennt",
-    "summary": "Die Feuerwehr Hückeswagen ist aktuell mit einem Großaufgebot im Einsatz an der Bever-Talsperre.",
-    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/hueckeswagen-bever-talsperre-zornige-ameise-brennt-KNQF3YKPKJEP7AGIZNPTVYGPGI.html",
-    "published": "Tue, 12 May 2026 16:38:11 +0200",
-    "source": "RGA Hückeswagen",
-    "kommunen": [
-      "hueckeswagen"
-    ],
-    "fetched": "2026-05-12T15:45:40.675793"
   },
   {
     "id": "f97c76f88499",
@@ -2081,19 +2045,6 @@
     "fetched": "2026-05-05T21:23:25.227842"
   },
   {
-    "id": "ad4ac92585b2",
-    "title": "Vorstellung: Bürgermeisterkandidat Stefan Liedholz",
-    "summary": "In Hückeswagen treten zur kommenden Kommunalwahl am 13. September 2020 drei Kandidaten für das Amt des Bürgermeisters an: Frank-Michael Müller, Anne Loth und Stefan Liedholz. Der Beitrag Vorstellung: Bürgermeisterkandidat Stefan Liedholz erschien zuerst auf Oberberg-Nachrichten.de.",
-    "link": "https://www.oberberg-nachrichten.de/wipperfuerth/vorstellung-buergermeisterkandidat-stefan-liedholz/",
-    "published": "Thu, 20 Aug 2020 11:59:06 +0000",
-    "source": "Oberberg Nachrichten Wipperfürth",
-    "kommunen": [
-      "hueckeswagen",
-      "wipperfuerth"
-    ],
-    "fetched": "2026-05-05T21:23:25.227875"
-  },
-  {
     "id": "33306b5638df",
     "title": "Glasfaserausbau – Bauarbeiten in der Wupperstraße",
     "summary": "Wipperfürth / Hückeswagen &#8211; Ab heute (19. März 2020) werden Leerrohre für das schnelle Internet in der Wupperstraße verlegt: Die Trasse verläuft im Parkstreifen in Bauabschnitten von jeweils circa 60 &#8230; Der Beitrag Glasfaserausbau &#8211; Bauarbeiten in der Wupperstraße erschien zuerst auf Oberberg-Nachrichten.de.",
@@ -2643,19 +2594,6 @@
     "fetched": "2026-07-26T16:11:49.304931"
   },
   {
-    "id": "e67549aef89d",
-    "title": "Erstmeldung: Bundesstraße zwischen Rade und Hückeswagen gesperrt",
-    "summary": "Wer zwischen Radevormwald und Hückeswagen unterwegs ist, muss aktuell mit Behinderungen rechnen. Dort kam es zu einem Unfall, die Polizei ist vor Ort.",
-    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/erstmeldung-bundesstrasse-zwischen-rade-und-hueckeswagen-gesperrt-2CTIO5O42VHGDCJSHNPAH3QRS4.html",
-    "published": "Sun, 26 Jul 2026 13:53:16 +0200",
-    "source": "RGA Hückeswagen",
-    "kommunen": [
-      "radevormwald",
-      "hueckeswagen"
-    ],
-    "fetched": "2026-07-26T12:12:11.533073"
-  },
-  {
     "id": "d9495898167a",
     "title": "Hückeswagen: Einbrecher in Eisdiele unterwegs",
     "summary": "Diebe verschafften sich Zutritt und gelangten ins Treppenhaus des Gebäudes. Darum verfehlten sie ihr Ziel.",
@@ -3078,7 +3016,8 @@
     "published": "Sat, 29 Aug 2026 15:48:07 +0200",
     "source": "RGA Hückeswagen",
     "kommunen": [
-      "hueckeswagen"
+      "hueckeswagen",
+      "lindlar"
     ],
     "fetched": "2026-08-29T15:01:23.430706"
   },
@@ -3094,19 +3033,6 @@
       "lindlar"
     ],
     "fetched": "2026-08-29T15:01:39.400302"
-  },
-  {
-    "id": "8e1fb6e816d5",
-    "title": "Hückeswagen: Alleinunfall auf B483 – Motorradfahrer schwer verletzt",
-    "summary": "Schwerer Unfall auf der B483 bei Hückeswagen-Linde: Ein 34-jähriger Motorradfahrer wurde schwer verletzt und per Hubschrauber nach Köln geflogen.",
-    "link": "https://www.news-on-tour.de/241120/hueckeswagen-alleinunfall-b483/",
-    "published": "Sat, 29 Aug 2026 12:41:38 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "hueckeswagen",
-      "lindlar"
-    ],
-    "fetched": "2026-08-29T15:01:22.689934"
   },
   {
     "id": "0375b053a1c2",
@@ -3673,19 +3599,6 @@
       "wipperfuerth"
     ],
     "fetched": "2026-07-27T04:48:42.218724"
-  },
-  {
-    "id": "8f98bc91ad7e",
-    "title": "Ersthelfer mussten sich zurückziehen – 58-Jährige stirbt in brennendem Auto",
-    "summary": "Tödlicher Unfall auf der Landstraße zwischen Scheideweg und Dörpfelder Höhe: Das ist in der Nacht zum Pfingstmontag geschehen.",
-    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/ersthelfer-mussten-sich-zurueckziehen-58-jaehrige-stirbt-in-brennendem-auto-5AMVAF5B5VEOXMH7X3BFYIFSZA.html",
-    "published": "Mon, 25 May 2026 09:57:33 +0200",
-    "source": "RGA Hückeswagen",
-    "kommunen": [
-      "hueckeswagen",
-      "kreisweite-nachrichten"
-    ],
-    "fetched": "2026-05-25T10:44:26.650611"
   },
   {
     "id": "4570cdf5ce3a",

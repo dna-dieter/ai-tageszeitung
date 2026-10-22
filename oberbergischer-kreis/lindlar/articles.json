@@ -663,19 +663,6 @@
     "fetched": "2026-09-24T09:55:11.785439"
   },
   {
-    "id": "a7dda7f7ec47",
-    "title": "Öffentliche Bekanntmachung",
-    "summary": "Freiwilliger Landtausch Lindlar",
-    "link": "https://wipperfuerth.de/fileadmin/redaktion/_Nachrichten_TopThemen/Bekanntmachungen_Anlagen/2025/OEffentliche_Bekanntmachung_Flurbereinigung_Lindlar.pdf",
-    "published": "Thu, 24 Apr 2025 13:45:00 +0200",
-    "source": "Stadt Wipperfürth (offiziell)",
-    "kommunen": [
-      "wipperfuerth",
-      "lindlar"
-    ],
-    "fetched": "2026-05-06T15:52:46.537866"
-  },
-  {
     "id": "9cb48a1ff024",
     "title": "Oberberg: Polizeimeldungen zeigen vier dreiste Taten",
     "summary": "Polizeimeldungen aus Oberberg: Vier Fälle in Gummersbach, Bergneustadt und Lindlar beschäftigen die Ermittler und führen zu Zeugenaufrufen.",
@@ -1331,6 +1318,19 @@
     "fetched": "2026-08-02T11:25:05.984152"
   },
   {
+    "id": "1620abe6b542",
+    "title": "Hückeswagen: Motorradfahrer auf B483 schwer verletzt",
+    "summary": "Ein 34-jähriger Motorradfahrer aus Wuppertal ist auf der B483 bei Hückeswagen schwer verunglückt. Er wurde mit einem Rettungshubschrauber in eine Kölner Klinik gebracht.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/hueckeswagen-motorradfahrer-auf-b483-schwer-verletzt-YFVQ2CZ6NVCSZPKGZFVD6CQF4Q.html",
+    "published": "Sat, 29 Aug 2026 15:48:07 +0200",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen",
+      "lindlar"
+    ],
+    "fetched": "2026-08-29T15:01:23.430706"
+  },
+  {
     "id": "5bd864cb7093",
     "title": "POL-GM: 34jähriger Motorradfahrer verletzt sich bei Alleinunfall schwer",
     "summary": "Hückeswagen (ots) - Am 29.08.2026 um 12:25 Uhr befuhr ein 34jähriger aus Wuppertal mit seinem Motorrad die B483, als er in Höhe der Ortslage Linde im Kurvenbereich die Kontrolle über sein Fahrzeug verlor und abseits der Fahrbahn verunfallte. ...",
@@ -1342,19 +1342,6 @@
       "lindlar"
     ],
     "fetched": "2026-08-29T15:01:39.400302"
-  },
-  {
-    "id": "8e1fb6e816d5",
-    "title": "Hückeswagen: Alleinunfall auf B483 – Motorradfahrer schwer verletzt",
-    "summary": "Schwerer Unfall auf der B483 bei Hückeswagen-Linde: Ein 34-jähriger Motorradfahrer wurde schwer verletzt und per Hubschrauber nach Köln geflogen.",
-    "link": "https://www.news-on-tour.de/241120/hueckeswagen-alleinunfall-b483/",
-    "published": "Sat, 29 Aug 2026 12:41:38 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "hueckeswagen",
-      "lindlar"
-    ],
-    "fetched": "2026-08-29T15:01:22.689934"
   },
   {
     "id": "9a82f02c776c",
@@ -1755,6 +1742,19 @@
       "wiehl"
     ],
     "fetched": "2026-05-05T21:11:09.372875"
+  },
+  {
+    "id": "8060094bb7ec",
+    "title": "Öffentliche Bekanntmachung",
+    "summary": "Aufforderung zur Einreichung von Wahlvorschlägen für die am 14. September 2025 stattfindenden allgemeinen Kommunalwahlen.",
+    "link": "https://wipperfuerth.de/fileadmin/redaktion/_Nachrichten_TopThemen/Bekanntmachungen_Anlagen/2025/OEffentliche_Bekanntmachung_Wahlvorschlaege_Kommunalwahl_2025.pdf",
+    "published": "Fri, 25 Apr 2025 10:58:00 +0200",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth",
+      "lindlar"
+    ],
+    "fetched": "2026-05-06T15:52:46.537852"
   },
   {
     "id": "5d670b02b786",

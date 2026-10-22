@@ -320,6 +320,20 @@
     "fetched": "2026-08-25T16:50:28.221643"
   },
   {
+    "id": "8ecf0d17b85d",
+    "title": "Gummersbach: Unfallflucht und Diebstahl – Polizei sucht Zeugen",
+    "summary": "E-Scooter-Kollision in Dieringhausen und Diebstahl in Vollmerhausen: Polizei sucht Hinweise zum unbekannten Fahrer sowie zum gestohlenen Roller.",
+    "link": "https://www.news-on-tour.de/240969/gummersbach-unfallflucht-diebstahl/",
+    "published": "Tue, 25 Aug 2026 16:04:29 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach",
+      "wiehl",
+      "bergneustadt"
+    ],
+    "fetched": "2026-08-25T16:50:28.221672"
+  },
+  {
     "id": "7bcfaca275d6",
     "title": "Wiehl: Bürgerinfo zur Wiehltalbrücke – 400 Besucher im Dialog zur A4",
     "summary": "Wiehl / Wiehltalbrücke / A4 / Oberberg (Von Christian Sasse) Rund 400 Besucher haben am Montagabend (23. Februar 2026) an einer Bürgerinformationsveranstaltung zur Zukunft der Wiehltalbrücke auf der A4 teilgenommen. Im Stadtteilhaus Drabenderhöhe (Siebenbürger Platz 23, 51674 Wiehl) informierten die Autobahn GmbH des Bundes, Niederlassung Rheinland, und die Stadt Wiehl rund zweieinhalb Stunden lan",
@@ -354,18 +368,6 @@
       "wiehl"
     ],
     "fetched": "2026-06-23T12:14:43.197064"
-  },
-  {
-    "id": "0594ae8fec72",
-    "title": "Wiehl: Pkw prallt gegen Baum – Person eingeklemmt",
-    "summary": "Schwerer Unfall auf der Zeitstraße bei Wiehl: Ein Pkw prallte zwischen Drabenderhöhe und Brächen gegen einen Baum, eine Person ist eingeklemmt.",
-    "link": "https://www.news-on-tour.de/204360/wiehl-unfall-zeitstrasse-baum/",
-    "published": "Tue, 23 Jun 2026 09:33:10 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-06-23T12:14:26.256098"
   },
   {
     "id": "a1a70a275264",
@@ -1211,20 +1213,6 @@
     "fetched": "2026-09-27T13:53:34.696598"
   },
   {
-    "id": "52ef3cdd7a7e",
-    "title": "Wiehl, Bergneustadt & Gummersbach: Diebstahl – Polizei sucht Zeugen",
-    "summary": "Vier Taten in drei Städten: Werkzeug aus einem Tierheim und drei Pedelecs fehlen im Oberbergischen Kreis – die Polizei sucht Zeugen.",
-    "link": "https://www.news-on-tour.de/240881/gummersbach-diebstahl-pedelecs/",
-    "published": "Sun, 23 Aug 2026 11:15:52 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl",
-      "bergneustadt",
-      "gummersbach"
-    ],
-    "fetched": "2026-08-23T11:31:02.482378"
-  },
-  {
     "id": "3fbd1434eac1",
     "title": "POL-GM: Unbekannte stehlen Werkzeug aus Tierheim",
     "summary": "Wiehl (ots) - Zwischen Freitag (21. August, 17 Uhr) und Samstag, (7 Uhr) sind Unbekannte in ein Tierheim in der Straße Koppelweide eingebrochen. Die Unbekannten hebelten ein Zufahrtstor und eine Werkstatt auf. Dort entwendeten sie mehrere ...",
@@ -1426,19 +1414,6 @@
       "bergneustadt"
     ],
     "fetched": "2026-09-13T06:00:33.311259"
-  },
-  {
-    "id": "148601595b99",
-    "title": "Freibäder im Aufwind: Gute Zahlen in Bergneustadt, 40.000 Gäste in Bielstein",
-    "summary": "Bergneustadt übertrifft 2025 deutlich, Bielstein zählt rund 40.000 Gäste. Besucherzahlen aus Oberberg und dem Umland im Vergleich.",
-    "link": "https://www.news-on-tour.de/241981/bergneustadt-freibadsaison-bielstein/",
-    "published": "Sun, 13 Sep 2026 04:26:30 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl",
-      "bergneustadt"
-    ],
-    "fetched": "2026-09-25T01:24:52.115861"
   },
   {
     "id": "798448b069e8",
@@ -1962,18 +1937,6 @@
       "wiehl"
     ],
     "fetched": "2026-07-17T14:51:32.541865"
-  },
-  {
-    "id": "788c6a3f8a93",
-    "title": "Wiehl: Frontalzusammenstoß auf der Oberwiehler Straße",
-    "summary": "Auf der Oberwiehler Straße in Wiehl-Remperg stoßen zwei Fahrzeuge frontal zusammen. Rettungskräfte sind vor Ort, Ursache und Verletztenzahl sind noch unklar.",
-    "link": "https://www.news-on-tour.de/205889/wiehl-frontalzusammenstoss-remperg/",
-    "published": "Fri, 17 Jul 2026 11:49:05 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-07-17T12:18:35.958127"
   },
   {
     "id": "38de93e6da4d",

@@ -8,11 +8,15 @@ import html
 import json
 import hashlib
 import re
+import subprocess
 import sys
 import ssl
 import urllib.request
 from datetime import datetime
+from difflib import SequenceMatcher
+from email.utils import parsedate_to_datetime
 from pathlib import Path
+from urllib.parse import urlparse
 
 try:
     import feedparser
@@ -30,6 +34,217 @@ def strip_html(text: str) -> str:
 def article_id(entry) -> str:
     raw = entry.get("link", "") + entry.get("title", "")
     return hashlib.md5(raw.encode()).hexdigest()[:12]
+
+BROWSER_UA = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+)
+
+# Wörter, die in fast jeder Lokalüberschrift stehen und keine Geschichte identifizieren.
+STOPWORDS = {
+    "bergisch", "gladbach", "stadt", "staedte", "kreis", "rhein", "neue", "neuer",
+    "neues", "neuen", "woche", "wochen", "polizei", "einbruch", "einbrecher",
+    "zeugen", "nach", "beim", "heute", "gestern", "morgen",
+}
+
+def fetch_bytes(url: str, ctx) -> bytes:
+    """RSS laden. Manche Portale (in-gl.de) antworten Python mit 403, curl kommt durch."""
+    req = urllib.request.Request(url, headers={
+        "User-Agent": BROWSER_UA,
+        "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+        "Accept-Language": "de-DE,de;q=0.9",
+    })
+    try:
+        with urllib.request.urlopen(req, timeout=25, context=ctx) as response:
+            return response.read()
+    except Exception as first_error:
+        code = getattr(first_error, "code", None)
+        if code not in (403, 429, 503) and "403" not in str(first_error) and "503" not in str(first_error):
+            raise
+        try:
+            return subprocess.check_output(
+                ["curl", "-fsSL", "--compressed", "-A", BROWSER_UA, "--max-time", "30", url],
+                stderr=subprocess.DEVNULL,
+            )
+        except Exception:
+            raise first_error
+
+def parse_date(raw: str):
+    if not raw:
+        return None
+    try:
+        dt = parsedate_to_datetime(raw)
+        return dt.replace(tzinfo=None)
+    except Exception:
+        pass
+    m = re.match(r"(\d{4})-(\d{2})-(\d{2})(?:[ T](\d{2}):(\d{2})(?::(\d{2}))?)?", raw)
+    if not m:
+        return None
+    try:
+        return datetime(
+            int(m.group(1)), int(m.group(2)), int(m.group(3)),
+            int(m.group(4) or 0), int(m.group(5) or 0), int(m.group(6) or 0),
+        )
+    except Exception:
+        return None
+
+def canonical_url(url: str) -> str:
+    try:
+        parts = urlparse((url or "").strip())
+    except Exception:
+        return (url or "").strip().lower()
+    host = parts.netloc.lower()
+    if host.startswith("www."):
+        host = host[4:]
+    path = parts.path.rstrip("/") or "/"
+    return host + path
+
+def story_slug(url: str) -> str:
+    path = urlparse(url or "").path
+    path = re.sub(r"/\d{4}/\d{2}/\d{2}/", "/", path)
+    return path.strip("/").split("/")[-1]
+
+def norm_text(text: str) -> str:
+    text = html.unescape(text or "").lower()
+    text = text.replace("ä", "ae").replace("ö", "oe").replace("ü", "ue").replace("ß", "ss")
+    text = re.sub(r"[^a-z0-9 ]", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+def content_tokens(title: str) -> list:
+    tokens = []
+    for word in norm_text(title).split():
+        if len(word) < 5 or word in STOPWORDS:
+            continue
+        if len(word) > 6 and word.endswith("es"):
+            word = word[:-2]
+        elif len(word) > 5 and word.endswith("s"):
+            word = word[:-1]
+        tokens.append(word)
+    return tokens
+
+def source_rank(article: dict) -> int:
+    source = article.get("source", "").lower()
+    if "bürgerportal" in source or "buergerportal" in source:
+        return 800
+    if source.endswith("politik") or source.endswith("kultur"):
+        return 550
+    if "stadt-anzeiger" in source or source.startswith("rga"):
+        return 400
+    if "gl aktuell" in source:
+        return 250
+    if "stadt bergisch" in source:
+        return 120
+    if "polizei" in source or "feuerwehr" in source:
+        return 0
+    return 180
+
+def article_quality(article: dict) -> tuple:
+    return (source_rank(article), min(len(article.get("summary") or ""), 400))
+
+def same_story(a: dict, b: dict) -> bool:
+    if canonical_url(a.get("link", "")) == canonical_url(b.get("link", "")):
+        return True
+    slug_a, slug_b = story_slug(a.get("link", "")), story_slug(b.get("link", ""))
+    # Dieselbe WordPress-Meldung, nur mit neuem Datum im Pfad erneut veröffentlicht.
+    if len(slug_a) >= 28 and slug_a == slug_b:
+        return True
+    # Kurze, wiederkehrende Pfade („wort“, „wort-2“) sind Rubriken, keine Dubletten.
+    if min(len(slug_a), len(slug_b)) <= 24:
+        return False
+    date_a, date_b = parse_date(a.get("published", "")), parse_date(b.get("published", ""))
+    if date_a and date_b and abs((date_a - date_b).days) > 6:
+        return False
+    title_a, title_b = norm_text(a.get("title", "")), norm_text(b.get("title", ""))
+    if len(title_a) < 18 or len(title_b) < 18:
+        return False
+    ratio = SequenceMatcher(None, title_a, title_b).ratio()
+    if title_a == title_b:
+        return True
+    tokens_a = content_tokens(a.get("title", ""))
+    tokens_b = content_tokens(b.get("title", ""))
+    shared = set(tokens_a) & set(tokens_b)
+    long_shared = [token for token in shared if len(token) >= 8]
+    shorter = min(len(tokens_a), len(tokens_b)) or 1
+    containment = len(shared) / shorter
+    # Polizeimeldungen zum selben Delikttyp sind oft verschiedene Taten.
+    both_blotter = all(
+        any(word in (article.get("source") or "").lower() for word in ("polizei", "feuerwehr"))
+        for article in (a, b)
+    )
+    if both_blotter:
+        return ratio >= 0.93
+    if ratio >= 0.88 and long_shared:
+        return True
+    return ratio >= 0.68 and len(long_shared) >= 2 and containment >= 0.5
+
+def dedupe_articles(articles: dict) -> int:
+    """Gleiche Geschichte aus mehreren Quellen auf den gehaltvolleren Beitrag reduzieren."""
+    ids = list(articles.keys())
+    parent = {aid: aid for aid in ids}
+
+    def find(aid):
+        while parent[aid] != aid:
+            parent[aid] = parent[parent[aid]]
+            aid = parent[aid]
+        return aid
+
+    def union(left, right):
+        left, right = find(left), find(right)
+        if left != right:
+            parent[right] = left
+
+    by_url = {}
+    by_slug = {}
+    for aid, article in articles.items():
+        url_key = canonical_url(article.get("link", ""))
+        if url_key:
+            if url_key in by_url:
+                union(aid, by_url[url_key])
+            else:
+                by_url[url_key] = aid
+        slug = story_slug(article.get("link", ""))
+        if len(slug) >= 28:
+            if slug in by_slug:
+                union(aid, by_slug[slug])
+            else:
+                by_slug[slug] = aid
+
+    dated = []
+    for aid, article in articles.items():
+        moment = parse_date(article.get("published", ""))
+        if moment:
+            dated.append((moment, aid))
+    dated.sort()
+    for index, (moment, aid) in enumerate(dated):
+        for other_moment, other in dated[index + 1:]:
+            if (other_moment - moment).days > 8:
+                break
+            if find(aid) == find(other):
+                continue
+            if same_story(articles[aid], articles[other]):
+                union(aid, other)
+
+    clusters = {}
+    for aid in ids:
+        clusters.setdefault(find(aid), []).append(aid)
+
+    removed = 0
+    for members in clusters.values():
+        if len(members) < 2:
+            continue
+        winner = max(members, key=lambda aid: article_quality(articles[aid]))
+        kept = articles[winner]
+        kommunen = list(kept.get("kommunen") or [])
+        for aid in members:
+            if aid == winner:
+                continue
+            for kommune in articles[aid].get("kommunen") or []:
+                if kommune not in kommunen:
+                    kommunen.append(kommune)
+            del articles[aid]
+            removed += 1
+        kept["kommunen"] = kommunen
+    return removed
 
 def classify_article(title: str, summary: str, feed_coverage: str, keywords: dict) -> list:
     matches = set()
@@ -73,6 +288,9 @@ def fetch_kreis(kreis_slug: str, kreis_cfg: dict):
     ctx = ssl.create_default_context()
 
     for feed_cfg in config["feeds"]:
+        if feed_cfg.get("enabled") is False:
+            print(f"  Übersprungen: {feed_cfg['name']}")
+            continue
         url = feed_cfg["url"]
         name = feed_cfg["name"]
         coverage = feed_cfg.get("coverage", "kreisweite-nachrichten")
@@ -88,12 +306,7 @@ def fetch_kreis(kreis_slug: str, kreis_cfg: dict):
                 sep = "&" if "?" in url else "?"
                 page_url = f"{url}{sep}paged={page_num}"
             try:
-                req = urllib.request.Request(page_url, headers={
-                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 AI-Tageszeitung/1.0",
-                    "Accept": "application/rss+xml, application/xml, text/xml, */*",
-                })
-                response = urllib.request.urlopen(req, timeout=20, context=ctx)
-                raw = response.read()
+                raw = fetch_bytes(page_url, ctx)
                 d = feedparser.parse(raw)
                 if len(d.entries) == 0:
                     if d.bozo and page_num == 1:
@@ -140,6 +353,10 @@ def fetch_kreis(kreis_slug: str, kreis_cfg: dict):
                 "fetched": datetime.now().isoformat(),
             }
             new_count += 1
+
+    removed = dedupe_articles(all_articles)
+    if removed:
+        print(f"  Duplikate entfernt: {removed}")
 
     # Speichere je Kommune
     for slug in all_slugs:

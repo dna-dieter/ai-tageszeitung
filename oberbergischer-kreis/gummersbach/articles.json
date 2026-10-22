@@ -124,18 +124,6 @@
     "fetched": "2026-08-26T19:15:26.622451"
   },
   {
-    "id": "17cacaaa12bb",
-    "title": "Gummersbach: Verkehrsunfall auf der L306 fordert zwei Verletzte",
-    "summary": "Verkehrsunfall auf der L306 in Gummersbach: BMW geriet in den Gegenverkehr und stieß mit Dacia zusammen. Zwei Personen leicht verletzt.",
-    "link": "https://www.news-on-tour.de/241046/gummersbach-verkehrsunfall-l306/",
-    "published": "Wed, 26 Aug 2026 19:04:51 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach"
-    ],
-    "fetched": "2026-08-26T19:15:12.524351"
-  },
-  {
     "id": "d47b887baf99",
     "title": "Gummersbach: Verkehrsunfall auf Gelpestraße – zwei Verletzte, Straße gesperrt",
     "summary": "Zwei Pkw sind auf der Gelpestraße in Höhe Flaberg zusammengestoßen. Zwei Menschen verletzt, RTW und NEF vor Ort. Straße aktuell gesperrt.",
@@ -344,19 +332,6 @@
     "fetched": "2026-05-20T08:35:11.480707"
   },
   {
-    "id": "58f2bf4c24a9",
-    "title": "Marienheide: Radfahrerin bei Unfall an der Gummersbacher Straße verletzt",
-    "summary": "Radfahrerin in Marienheide bei Unfall an der Gummersbacher Straße verletzt – Autofahrer übersah die 59-Jährige beim Ausfahren aus einem Grundstück.",
-    "link": "https://www.news-on-tour.de/202615/marienheide-radfahrerin-unfall-rad/",
-    "published": "Wed, 20 May 2026 08:06:24 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach",
-      "marienheide"
-    ],
-    "fetched": "2026-05-20T11:56:35.885578"
-  },
-  {
     "id": "82a0810311ee",
     "title": "Unterkünfte und Aktivitäten in Gummersbach",
     "summary": "Gummersbach, im Oberbergischen Kreis in Nordrhein-Westfalen gelegen, besticht durch seinen historischen, kulturellen und natürlichen Charme und bietet eine spannende Kombination aus historischer Bedeutung, kulturellem Einfluss und atemberaubender natürlicher Schönheit. Einst ein industrielles Zentrum, zieht diese charmante Stadt heute sowohl Freizeit- als auch Geschäftsreisende aus aller Welt an. ",
@@ -455,18 +430,6 @@
       "gummersbach"
     ],
     "fetched": "2026-06-17T05:07:01.372670"
-  },
-  {
-    "id": "14874e6c515f",
-    "title": "Gummersbach: Prozess um Eichhörnchenbar – Betreiber gibt NEWS-on-Tour neue Details",
-    "summary": "Eichhörnchenbar-Prozess in Gummersbach: Martin Creutzburg schildert NEWS-on-Tour neue Details zum Video und zu den Nachermittlungen.",
-    "link": "https://www.news-on-tour.de/242206/gummersbach-prozess-eichhoernchenbar/",
-    "published": "Wed, 16 Sep 2026 23:55:09 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach"
-    ],
-    "fetched": "2026-09-17T00:26:37.072160"
   },
   {
     "id": "987d420d7873",
@@ -885,19 +848,6 @@
     "fetched": "2026-08-05T15:24:00.902637"
   },
   {
-    "id": "11b0a9be6430",
-    "title": "Bergneustadt: Küchenbrand – Feuerwehr stoppt Flammen. 6 Menschen in Klinik (5 Kinder)",
-    "summary": "Küchenbrand in Bergneustadt: Fünf Kinder und eine weitere Person kommen nach Rauchkontakt vorsorglich ins Krankenhaus Gummersbach.",
-    "link": "https://www.news-on-tour.de/236307/bergneustadt-kuechenbrand-klinik/",
-    "published": "Wed, 05 Aug 2026 11:58:26 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach",
-      "bergneustadt"
-    ],
-    "fetched": "2026-08-05T12:08:34.560899"
-  },
-  {
     "id": "ed04411c0482",
     "title": "Update: Oberberg: Gummersbach IT-Störung bei der Kreisverwaltung legt zentrale Systeme lahm",
     "summary": "Update 04.o3.2026 (01:26 Uhr) &#8211; Die IT-Störung beim Dienstleister des Oberbergischen Kreises besteht weiterhin. Die Kreisverwaltung ist nach wie vor nur eingeschränkt erreichbar. Positiv: Die Internetseite obk.de funktioniert inzwischen wieder &#8222;eingeschränkt&#8220;. Oberberg / Gummersbach – (Von Christian Sasse) Wegen eines Stromausfalls bei einem externen IT-Dienstleister ist die Krei",
@@ -1275,7 +1225,9 @@
     "published": "Tue, 25 Aug 2026 16:04:29 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "gummersbach"
+      "gummersbach",
+      "wiehl",
+      "bergneustadt"
     ],
     "fetched": "2026-08-25T16:50:28.221672"
   },
@@ -1571,19 +1523,6 @@
       "gummersbach"
     ],
     "fetched": "2026-07-21T09:34:15.352138"
-  },
-  {
-    "id": "9fa689a54c9d",
-    "title": "Bergneustadt: Fahrradfahrer bei Unfall schwer verletzt – Rettungseinsatz",
-    "summary": "Schwerer Fahrradunfall in Bergneustadt: Ein 70-jähriger Radfahrer stürzte am Montag auf der Kölner Straße nach Kollision mit einem Mini Cooper und wurde schwer verletzt.",
-    "link": "https://www.news-on-tour.de/206056/bergneustadt-fahrradunfall-schwer-verletzt/",
-    "published": "Tue, 21 Jul 2026 09:22:17 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "bergneustadt",
-      "gummersbach"
-    ],
-    "fetched": "2026-07-21T09:34:15.352167"
   },
   {
     "id": "31be2e84ec8b",
@@ -2103,18 +2042,6 @@
     "fetched": "2026-10-06T15:02:53.887553"
   },
   {
-    "id": "155562e73d3c",
-    "title": "Gummersbach: 3 Weltkriegsbomben in Kalteneich – Großeinsatz mit Evakuierung in Derschlag",
-    "summary": "Gummersbach / Kalteneich / Weltkriegsbombe / Kampfmittelräumdienst (Von Christian Sasse) Auf einer Wiese in Kalteneich, einer Ortslage am nordwestlichen Rand des Gummersbacher Stadtteils Derschlag südöstlich von Bernberg, sind am Dienstagvormittag, 5. Mai 2026, drei Weltkriegsbomben zu je rund fünf Zentnern entdeckt worden. Der Kampfmittelräumdienst der Bezirksregierung Köln entschärfte zwei der d",
-    "link": "https://www.news-on-tour.de/201975/gummersbach-weltkriegsbomben-derschlag/",
-    "published": "Tue, 05 May 2026 21:56:14 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach"
-    ],
-    "fetched": "2026-05-05T22:10:53.703913"
-  },
-  {
     "id": "75f2f1139a3e",
     "title": "Parkhaus Forum Gummersbach wird digital – ticketloses Parken kommt",
     "summary": "Gummersbach / Parken / Forum Gummersbach / Digitalisierung (Von Christian Sasse) Das Parkhaus Forum Gummersbach bekommt ab dem 18. Mai 2026 ein komplettes technisches Upgrade: Das bisherige Ticketsystem wird durch eine moderne Kennzeichenerkennung ersetzt – künftig parken Autofahrer im größten Parkhaus der Stadt völlig ticketlos. Bezahlt werden kann bequem am Automaten oder per Smartphone-App. Was",
@@ -2324,18 +2251,6 @@
       "gummersbach"
     ],
     "fetched": "2026-05-29T04:38:43.911647"
-  },
-  {
-    "id": "c2d7ec0c8875",
-    "title": "Gummersbach: Angriff auf Busfahrer in Derschlag – Opfer mehrfach operiert",
-    "summary": "Am Busbahnhof Derschlag schlugen zwei junge Männer einen 42-jährigen Busfahrer krankenhausreif – die Polizei ermittelt, die OVAG reagiert nun.",
-    "link": "https://www.news-on-tour.de/203185/gummersbach-busfahrer-derschlag/",
-    "published": "Thu, 28 May 2026 14:45:07 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach"
-    ],
-    "fetched": "2026-05-28T14:45:21.269418"
   },
   {
     "id": "9cad4a5d6619",
@@ -3403,20 +3318,6 @@
     "fetched": "2026-05-24T08:44:09.555687"
   },
   {
-    "id": "52ef3cdd7a7e",
-    "title": "Wiehl, Bergneustadt & Gummersbach: Diebstahl – Polizei sucht Zeugen",
-    "summary": "Vier Taten in drei Städten: Werkzeug aus einem Tierheim und drei Pedelecs fehlen im Oberbergischen Kreis – die Polizei sucht Zeugen.",
-    "link": "https://www.news-on-tour.de/240881/gummersbach-diebstahl-pedelecs/",
-    "published": "Sun, 23 Aug 2026 11:15:52 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl",
-      "bergneustadt",
-      "gummersbach"
-    ],
-    "fetched": "2026-08-23T11:31:02.482378"
-  },
-  {
     "id": "7771f824ec9c",
     "title": "POL-GM: Pedelecs gestohlen",
     "summary": "Bergneustadt; Gummersbach (ots) - Von einem Fahrradunterstand auf einem Supermarkt-Parkplatz in der Kölner Straße in Bergneustadt, in der Nähe der Dekra Stelle, haben Unbekannte ein schwarzes Pedelec mit orangefarbenem Akku-Deckel des Herstellers ...",
@@ -3651,18 +3552,6 @@
     "fetched": "2026-08-16T08:41:45.072573"
   },
   {
-    "id": "92788d1f962e",
-    "title": "Deutschland startet mit 7:1 – Public Viewing Oberberg in Gummersbach voll besetz",
-    "summary": "Public Viewing in Gummersbach: Am Sonntag läuft Deutschlands WM-Auftakt kostenlos auf großer LED-Wand – mit Foodtruck und Hüpfburg.",
-    "link": "https://www.news-on-tour.de/203708/gummersbach-public-viewing-wm/",
-    "published": "Sun, 14 Jun 2026 18:55:00 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach"
-    ],
-    "fetched": "2026-06-14T19:52:35.031184"
-  },
-  {
     "id": "9b672b4fdb17",
     "title": "POL-GM: Kupferrohre aus Garage gestohlen",
     "summary": "Gummersbach (ots) - Auf Kupfer hatten es Diebe am 12. Juni (Freitag) in der \"Graf-von-Löh-Straße\" abgesehen. Aus einer offenstehenden Garage stahlen sie zwischen 14:50 Uhr und 15:45 Uhr etwa 30 Kupferrohre. Die Kriminellen entkamen unerkannt mit ...",
@@ -3673,18 +3562,6 @@
       "gummersbach"
     ],
     "fetched": "2026-06-14T09:55:01.154064"
-  },
-  {
-    "id": "cc4df184a331",
-    "title": "HEUTE: Public Viewing Oberberg, Gummersbach – GER vs. CUW ab 19 Uhr auf Großbildleinwand, Kein Eintritt",
-    "summary": "Public Viewing in Gummersbach: Am Sonntag läuft Deutschlands WM-Auftakt kostenlos auf großer LED-Wand – mit Foodtruck und Hüpfburg.",
-    "link": "https://www.news-on-tour.de/203708/gummersbach-public-viewing-wm/",
-    "published": "Sun, 14 Jun 2026 00:15:28 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach"
-    ],
-    "fetched": "2026-06-14T06:02:21.986518"
   },
   {
     "id": "cab8e0e91d46",
@@ -3734,7 +3611,8 @@
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "engelskirchen",
-      "gummersbach"
+      "gummersbach",
+      "bergneustadt"
     ],
     "fetched": "2026-07-12T13:50:11.468691"
   },
@@ -4376,18 +4254,6 @@
     "fetched": "2026-05-05T21:11:16.626435"
   },
   {
-    "id": "58885e9d7a44",
-    "title": "VfL Gummersbach: Remis gegen MT Melsungen – Fans protestieren nach 31:31",
-    "summary": "VfL Gummersbach und MT Melsungen trennen sich 31:31. Roganovic erzielt 16 Tore, die Schlussphase sorgt nach Abpfiff für laute Proteste.",
-    "link": "https://www.news-on-tour.de/241447/gummersbach-remis-melsungen/",
-    "published": "Sat, 05 Sep 2026 23:30:52 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach"
-    ],
-    "fetched": "2026-09-05T23:49:02.402423"
-  },
-  {
     "id": "b94d7966eed5",
     "title": "Gummersbach: Remis gegen Melsungen – Fans protestieren nach 31:31",
     "summary": "VfL und MT Melsungen trennen sich 31:31. Direkt nach Abpfiff richten sich Pfiffe und Schieber-Rufe gegen die Schiedsrichter in der Arena.",
@@ -4486,18 +4352,6 @@
       "gummersbach"
     ],
     "fetched": "2026-05-05T21:11:16.621006"
-  },
-  {
-    "id": "3ee9cb3053ec",
-    "title": "Gummersbach: Easy Club beim Public Viewing zu GER vs. PAR voll",
-    "summary": "Easy Club in Gummersbach beim Public Viewing zu Deutschland gegen Paraguay rappelvoll: 250 Plätze besetzt, zur Pause führt Paraguay 0:1.",
-    "link": "https://www.news-on-tour.de/204740/gummersbach-easy-club-public-viewing/",
-    "published": "Mon, 29 Jun 2026 22:56:33 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach"
-    ],
-    "fetched": "2026-06-29T23:12:08.675329"
   },
   {
     "id": "d0666e75813a",
@@ -4851,18 +4705,6 @@
     "fetched": "2026-10-19T07:40:44.379955"
   },
   {
-    "id": "8e8e9772b28b",
-    "title": "Gummersbach: 2. Oktoberfest in der Schwalbe Arena – Partyfürsten, Klüngelköpp und DJ Loca machen die Halle zum Festzelt (+3 Videos)",
-    "summary": "Zweites Gummersbacher Oktoberfest in der Schwalbe Arena: volle Tafeln, drei Sets der Partyfürsten, kölsche Mitsingmomente mit den Klüngelköpp bei „Stääne“ und DJ Loca bis Mitternacht – der Nachbericht mit 44 Fotos.",
-    "link": "https://www.news-on-tour.de/254692/gummersbacher-oktoberfest-2026-nachbericht/",
-    "published": "Mon, 19 Oct 2026 04:20:09 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach"
-    ],
-    "fetched": "2026-10-19T07:40:44.380124"
-  },
-  {
     "id": "ef1f76d092e3",
     "title": "Gummersbach: Schwerer Verkehrsunfall in Vollmerhausen – Drei Verletzte auf der Westtangente",
     "summary": "Schwerer Verkehrsunfall in Gummersbach-Vollmerhausen: Drei Personen bei Frontalkollision an der Westtangente verletzt. Peugeot und Seat abgeschleppt.",
@@ -5207,18 +5049,6 @@
     "fetched": "2026-08-10T10:34:29.476500"
   },
   {
-    "id": "d6ff2bc03999",
-    "title": "Gummersbach: IT-Störung – Kreis kämpft mit Ausfällen im Straßenverkehrsamt",
-    "summary": "Systemausfall in Gummersbach: Das Straßenverkehrsamt arbeitet vor Ort derzeit nicht, i-Kfz bleibt laut Oberbergischem Kreis weiterhin nutzbar.",
-    "link": "https://www.news-on-tour.de/236865/gummersbach-it-stoerung-strassenamt/",
-    "published": "Mon, 10 Aug 2026 09:35:41 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach"
-    ],
-    "fetched": "2026-08-10T10:34:12.390471"
-  },
-  {
     "id": "490bd389ade9",
     "title": "Oberberg – Tischtennis: Kantersieg! VfL Gummersbach II überrollt VfL Engelskirchen 9:1",
     "summary": "Gummersbach / Tischtennis / VfL Gummersbach / Oberberg (Von Christian Sasse) Am Montagabend, 9. März 2026, feierte der VfL Gummersbach II in der 3. Bezirksklasse 10 einen überzeugenden 9:1-Heimsieg gegen den Vorletzten VfL Engelskirchen. Besonders bemerkenswert: Mit Agnes Müller und Carolin Wolf setzten die Gäste zwei Spielerinnen in der Herrenklasse ein. Souveräner Start in der Sporthalle Steinen",
@@ -5302,18 +5132,6 @@
       "gummersbach"
     ],
     "fetched": "2026-09-07T16:25:11.707083"
-  },
-  {
-    "id": "3d2875df26bb",
-    "title": "Gummersbach (Video Update!) Vertikale Modenschau begeistert am Forum mit Miller Twins",
-    "summary": "Miller Twins, Dennis Dean, sechs Shows, 18 Outfits: Die vertikale Modenschau am Forum Gummersbach machte Fassade und Rotunde zum Laufsteg.",
-    "link": "https://www.news-on-tour.de/241442/gummersbach-modenschau-miller-twins/",
-    "published": "Mon, 07 Sep 2026 07:19:40 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach"
-    ],
-    "fetched": "2026-09-07T10:10:23.215614"
   },
   {
     "id": "547b8d78bb57",
@@ -6067,18 +5885,6 @@
     "fetched": "2026-08-14T13:33:57.490226"
   },
   {
-    "id": "142518fcb801",
-    "title": "Gummersbach: VfL läutet Saisonstart ein – Dujshebaev führt vier Neuzugänge an (HQ Foto-Update!)",
-    "summary": "Saisonstart in der SCHWALBE arena: Der VfL stellt Dujshebaev, Biosca, Roganovic und Sindrason vor – Auftakt gegen Magdeburg am 30. August.",
-    "link": "https://www.news-on-tour.de/240321/vfl-gummersbach-saisonstart-2026-2027/",
-    "published": "Fri, 14 Aug 2026 13:17:06 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach"
-    ],
-    "fetched": "2026-08-14T15:03:15.653214"
-  },
-  {
     "id": "1d1157280cc3",
     "title": "Derschlag: Schwertransport kollidiert mit Ampel an der Kreuzung – Kreuzung teilweise gesperrt",
     "summary": "Oberberg / Gummersbach / Schwertransport / Verkehrsunfall / Derschlag (Von Christian Sasse) Am Donnerstagabend (12. März 2026) kam es gegen 23:15 Uhr an der Kreuzung in Gummersbach-Derschlag (Oberbergischer Kreis/NRW) zu einem Verkehrsunfall mit Sachschaden. Ein groß dimensionierter Transportzug der Firma STL Logistik AG aus Haiger, der von Siegen in Richtung Bayern unterwegs war, stieß beim Durch",
@@ -6142,18 +5948,6 @@
       "reichshof"
     ],
     "fetched": "2026-06-12T20:23:01.880878"
-  },
-  {
-    "id": "b7fa081bf57a",
-    "title": "Gummersbacher Oktoberfest 2026 – Tickets JETZT ORDERN – 17. Oktober (Schwalbe Arena)",
-    "summary": "Die Premiere ist Geschichte, der Nachschlag steht fest. Am Samstag, 17. Oktober 2026, geht das Gummersbacher Oktoberfest 2026 in die zweite Runde. Die Veranstalter werben mit dem Anspruch, das größte Oktoberfest im Bergischen auf die Beine zu stellen – ein Termin, der im Eventkalender des Oberbergischen Kreises inzwischen seinen festen Platz hat. Bayerisches Flair in der Schwalbe Arena Schauplatz ",
-    "link": "https://www.news-on-tour.de/203746/gummersbacher-oktoberfest-2026/",
-    "published": "Fri, 12 Jun 2026 11:20:09 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach"
-    ],
-    "fetched": "2026-06-12T14:14:55.383637"
   },
   {
     "id": "deb13a9dba83",

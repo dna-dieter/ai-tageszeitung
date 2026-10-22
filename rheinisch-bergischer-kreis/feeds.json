@@ -16,8 +16,9 @@
       "url": "https://in-gl.de/feed/",
       "type": "buergerportal",
       "coverage": "kreisweite-nachrichten",
-      "pages": 15,
-      "verified": true
+      "pages": 4,
+      "verified": true,
+      "note": "Längere Berichte und Hintergründe. Der Feed blockt Python mit 403, der Abruf fällt auf curl zurück. 4 Seiten à etwa 50 Beiträge."
     },
     {
       "name": "GL Aktuell (Gesamt)",
@@ -26,6 +27,24 @@
       "coverage": "kreisweite-nachrichten",
       "pages": 10,
       "verified": true
+    },
+    {
+      "name": "GL Aktuell Politik",
+      "url": "https://www.glaktuell.net/category/politik/feed/",
+      "type": "lokalnachrichten",
+      "coverage": "kreisweite-nachrichten",
+      "pages": 3,
+      "verified": true,
+      "note": "Bericht-Ressort: Rat, Verwaltung, Hintergründe. Nicht der Blaulicht-Strom."
+    },
+    {
+      "name": "GL Aktuell Kultur",
+      "url": "https://www.glaktuell.net/category/kultur/feed/",
+      "type": "lokalnachrichten",
+      "coverage": "kreisweite-nachrichten",
+      "pages": 2,
+      "verified": true,
+      "note": "Bericht-Ressort: Kultur, Porträts, Ausstellungen."
     },
     {
       "name": "GL Aktuell Bergisch Gladbach",
@@ -141,11 +160,12 @@
     },
     {
       "name": "Kölnische Rundschau Rhein-Berg",
-      "url": "https://www.rundschau-online.de/region/rhein-berg/?feed=rss",
+      "url": "https://feed.rundschau-online.de/feed/rss/region/rhein-berg/index.rss",
       "type": "tageszeitung",
       "coverage": "kreisweite-nachrichten",
-      "verified": false,
-      "note": "Feed-URL auf echtem System testen"
+      "verified": true,
+      "enabled": false,
+      "note": "Gleicher DuMont-Inhalt wie der Kölner Stadt-Anzeiger, gleiche Uhrzeiten. Bewusst aus, sonst steht jede Meldung doppelt."
     },
     {
       "name": "Radio Berg Nachrichten",
@@ -153,9 +173,10 @@
       "type": "radio",
       "coverage": "kreisweite-nachrichten",
       "verified": false,
-      "note": "Feed-URL auf echtem System testen"
+      "enabled": false,
+      "note": "Adresse antwortet mit 404, ein Ersatz-Feed ist auf der Seite nicht ausgewiesen."
     }
   ],
   "update_interval_minutes": 15,
-  "last_updated": "2026-10-22T20:06:30.925352"
+  "last_updated": "2026-10-22T20:42:06.324940"
 }
