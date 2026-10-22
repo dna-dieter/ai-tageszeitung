@@ -6,7 +6,7 @@ Arbeitet alle Kreise aus config.py ab.
 import json
 import re
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timedelta
 from collections import OrderedDict
 from email.utils import parsedate_to_datetime
 import html as htmlmod
@@ -499,6 +499,11 @@ def build_kommune_page(kreis_slug, kreis_cfg, kommune_slug, kommune_name):
 
     articles = load_articles(data_dir, kommune_slug)
     kreisweite = load_articles(data_dir, "kreisweite-nachrichten")
+    grenze = datetime.now() - timedelta(days=30)
+    kreisweite_frisch = sorted(
+        (a for a in kreisweite if (parse_pub_date(a.get("published", "")) or datetime.min) >= grenze),
+        key=lambda a: parse_pub_date(a.get("published", "")), reverse=True,
+    )
 
     # Navigation
     nav_links = ['<a href="../index.html">Alle</a>', kommune_nav(kommunen, "../", kreis_slug, kommune_slug)]
@@ -510,8 +515,8 @@ def build_kommune_page(kreis_slug, kreis_cfg, kommune_slug, kommune_name):
 
     kreisweite_links = "".join(
         f'<div style="font-size:0.85rem; margin:4px 0;"><a href="{htmlmod.escape(a.get("link","#"))}" target="_blank" style="color:var(--text); text-decoration:none;">{htmlmod.escape(a["title"][:55])}</a></div>'
-        for a in kreisweite[:5]
-    )
+        for a in kreisweite_frisch[:5]
+    ) or '<div style="font-size:0.85rem; color:#888;">Keine kreisweiten Meldungen der letzten 30 Tage.</div>'
 
     page = f"""<!DOCTYPE html>
 <html lang="de">

@@ -16,6 +16,7 @@ from datetime import datetime
 from difflib import SequenceMatcher
 from email.utils import parsedate_to_datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 from urllib.parse import urlparse
 
 try:
@@ -69,11 +70,19 @@ def fetch_bytes(url: str, ctx) -> bytes:
         except Exception:
             raise first_error
 
+BERLIN = ZoneInfo("Europe/Berlin")
+
+def sort_key(article: dict):
+    """Echtes Veröffentlichungsdatum (Ortszeit Berlin) zum Sortieren; ohne Datum ganz hinten."""
+    return parse_date(article.get("published", "")) or datetime.min
+
 def parse_date(raw: str):
     if not raw:
         return None
     try:
         dt = parsedate_to_datetime(raw)
+        if dt.tzinfo is not None:
+            dt = dt.astimezone(BERLIN)
         return dt.replace(tzinfo=None)
     except Exception:
         pass
@@ -375,14 +384,14 @@ def fetch_kreis(kreis_slug: str, kreis_cfg: dict):
     for slug in all_slugs:
         arts = sorted(
             [a for a in all_articles.values() if slug in a["kommunen"]],
-            key=lambda x: x.get("published", ""), reverse=True
+            key=sort_key, reverse=True
         )
         outdir = data_dir / slug
         outdir.mkdir(exist_ok=True)
         (outdir / "articles.json").write_text(json.dumps(arts, ensure_ascii=False, indent=2))
         print(f"  {slug}: {len(arts)} Artikel")
 
-    all_list = sorted(all_articles.values(), key=lambda x: x.get("published", ""), reverse=True)
+    all_list = sorted(all_articles.values(), key=sort_key, reverse=True)
     (data_dir / "all_articles.json").write_text(json.dumps(all_list, ensure_ascii=False, indent=2))
 
     config["last_updated"] = datetime.now().isoformat()
