@@ -291,6 +291,13 @@ def parse_pub_date(raw):
         dt = dt.astimezone(BERLIN).replace(tzinfo=None)
     return dt
 
+def sicherer_link(url, ersatz="#"):
+    """Nur http(s)-Links zulassen; alles andere (javascript:, data: …) wird zu '#'."""
+    url = (url or "").strip()
+    if re.match(r"https?://", url, re.I):
+        return htmlmod.escape(url)
+    return ersatz
+
 def datum_de(raw):
     """Einheitliches Anzeigeformat in Ortszeit Berlin: 22.10.2026, 14:30 Uhr (ohne Uhrzeit, wenn keine angegeben)."""
     dt = parse_pub_date(raw)
@@ -326,7 +333,7 @@ def month_label(key):
 def artikel_html(a, show_kommune=True, kommune_map=None):
     title = htmlmod.escape(a.get("title", "Ohne Titel"))
     teaser = htmlmod.escape(strip_tags(a.get("summary", ""))[:250])
-    link = htmlmod.escape(a.get("link", "#"))
+    link = sicherer_link(a.get("link"))
     source = htmlmod.escape(a.get("source", ""))
     published = datum_de(a.get("published", ""))
     tags = []
@@ -639,7 +646,7 @@ def build_kommune_page(kreis_slug, kreis_cfg, kommune_slug, kommune_name):
     sidebar_items += f'<li style="border-top:1px solid #eee; padding-top:6px; margin-top:6px;"><a href="../kreisweite/index.html"><b>Kreisweite Nachrichten</b> <span class="badge">{kreis_count}</span></a></li>'
 
     kreisweite_links = "".join(
-        f'<div style="font-size:0.85rem; margin:4px 0;"><a href="{htmlmod.escape(a.get("link","#"))}" target="_blank" style="color:var(--text); text-decoration:none;">{htmlmod.escape(a["title"][:55])}</a></div>'
+        f'<div style="font-size:0.85rem; margin:4px 0;"><a href="{sicherer_link(a.get("link"))}" target="_blank" style="color:var(--text); text-decoration:none;">{htmlmod.escape(a["title"][:55])}</a></div>'
         for a in kreisweite_frisch[:5]
     ) or '<div style="font-size:0.85rem; color:#888;">Keine kreisweiten Meldungen der letzten 30 Tage.</div>'
 
@@ -828,7 +835,7 @@ def build_veranstaltungen_page():
             datum  = htmlmod.escape(e.get("datum", ""))
             titel  = htmlmod.escape(e.get("titel", e.get("title", "Veranstaltung")))
             ort    = htmlmod.escape(e.get("ort", ""))
-            link   = htmlmod.escape(e.get("link", "#"))
+            link   = sicherer_link(e.get("link"))
             info   = htmlmod.escape(e.get("quelle", e.get("source", "")))
             teaser = htmlmod.escape(e.get("teaser", "")[:200])
             preis  = htmlmod.escape(e.get("preis", ""))
@@ -967,13 +974,13 @@ def build_kuerten_rat_page(kreis_cfg):
             f'{beschluesse}'
             '<p class="rat-quelle">Gekürzt aus der öffentlichen Niederschrift. '
             'Eröffnung, Entschuldigungen und die Genehmigung der vorigen Niederschrift sind weggelassen. '
-            f'<a href="{htmlmod.escape(letzte["pdf"])}" target="_blank" rel="noopener">Niederschrift als PDF</a>'
+            f'<a href="{sicherer_link(letzte["pdf"])}" target="_blank" rel="noopener">Niederschrift als PDF</a>'
             '</p></div>'
         )
     else:
         protokoll = '<p class="empty">Für die letzte Ratssitzung liegt noch keine kurze Fassung vor.</p>'
 
-    portal = htmlmod.escape(daten.get("portal") or "https://www.kuerten.de/sitzungen/")
+    portal = sicherer_link(daten.get("portal"), "https://www.kuerten.de/sitzungen/")
     nav = '<a href="../index.html">Alle</a>' + kommune_nav(kommunen, "../", "rheinisch-bergischer-kreis", "kuerten-rat")
     page = f"""<!DOCTYPE html>
 <html lang="de">
