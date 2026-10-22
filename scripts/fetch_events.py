@@ -9,6 +9,7 @@ Strategie:
 Ergebnis: docs/veranstaltungen/{region}.json
 """
 import json
+import os
 import re
 import ssl
 import sys
@@ -30,10 +31,11 @@ DOCS = BASE / "docs"
 EVT_DIR = DOCS / "veranstaltungen"
 EVT_DIR.mkdir(parents=True, exist_ok=True)
 
-# Öffentlicher Kalender von dasbergische.de (Schlüssel steht im Seitenquelltext).
+# Öffentlicher Kalender von dasbergische.de. Der Lizenzschlüssel kommt aus der
+# Umgebungsvariable BERG_LICENSE (GitHub-Secret), er steht nicht im Code.
 BERG_API = "https://meta.et4.de/rest.ashx/search/"
 BERG_EXPERIENCE = "dasbergische-web"
-BERG_LICENSE = "98988KLADEHEADFEADREADE9877"
+BERG_LICENSE = os.environ.get("BERG_LICENSE", "").strip()
 BERG_HORIZON_DAYS = 120
 
 RBK_CITIES = [
@@ -348,21 +350,17 @@ def save_or_keep(slug: str, events: list):
     save(slug, events)
 
 if __name__ == "__main__":
-    print("\n=== Veranstaltungen: RBK ===")
-    try:
-        rbk = fetch_bergische(RBK_CITIES)
-    except Exception as exc:
-        print(f"  FEHLER RBK: {exc}")
-        rbk = []
-    save_or_keep("rbk", rbk)
-
-    print("\n=== Veranstaltungen: Oberberg ===")
-    try:
-        ob = fetch_bergische(OBERBERG_CITIES)
-    except Exception as exc:
-        print(f"  FEHLER Oberberg: {exc}")
-        ob = []
-    save_or_keep("oberberg", ob)
+    for slug, label, cities in (("rbk", "RBK", RBK_CITIES), ("oberberg", "Oberberg", OBERBERG_CITIES)):
+        print(f"\n=== Veranstaltungen: {label} ===")
+        if not BERG_LICENSE:
+            print(f"::warning::BERG_LICENSE nicht gesetzt - Abruf Das Bergische ({label}) übersprungen, vorhandene Daten bleiben.")
+            continue
+        try:
+            events = fetch_bergische(cities)
+        except Exception as exc:
+            print(f"  FEHLER {label}: {type(exc).__name__}")
+            events = []
+        save_or_keep(slug, events)
 
     print("\n=== Veranstaltungen: Köln ===")
     try:

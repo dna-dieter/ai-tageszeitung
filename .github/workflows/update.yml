@@ -33,6 +33,8 @@ jobs:
         run: cd scripts && python fetch_feeds.py
 
       - name: Veranstaltungen extrahieren (RBK, Oberberg, ggf. Köln)
+        env:
+          BERG_LICENSE: ${{ secrets.BERG_LICENSE }}
         run: cd scripts && python fetch_events.py
 
       - name: Kürten-Rat aus SessionNet laden
