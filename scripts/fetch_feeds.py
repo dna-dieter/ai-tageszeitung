@@ -280,6 +280,49 @@ def classify_article(title: str, summary: str, feed_coverage: str, keywords: dic
                 break
     return list(matches) if matches else ["kreisweite-nachrichten"]
 
+# Schlagwörter, die bis Oktober 2026 als Teilwort zählten und entfernt wurden.
+LEGACY_KEYWORDS = {"bergisch-gladbach": ["hand"]}
+
+def reclassify_all(articles: dict, feeds: list, keywords: dict) -> int:
+    """Gemeinden aller Artikel neu berechnen: Feed-Herkunft + Schlagwörter.
+    Feed-Herkunft = Coverage der eigenen Quelle plus aller Feeds, in denen der Artikel
+    sonst noch auftauchte (Feld „feed_kommunen“). Für Altdaten ohne dieses Feld bleibt
+    eine Gemeinde erhalten, wenn ein gemeindespezifischer Feed desselben Anbieters
+    (z. B. „RGA …“) sie abdeckt – dieselbe Meldung steht dort oft in mehreren Ortsfeeds."""
+    coverage_by_source = {f["name"]: f.get("coverage", "kreisweite-nachrichten") for f in feeds}
+    anbieter_cov = {}
+    for f in feeds:
+        cov = f.get("coverage", "kreisweite-nachrichten")
+        if cov != "kreisweite-nachrichten":
+            anbieter_cov.setdefault(f["name"].split()[0], set()).add(cov)
+    changed = 0
+    for article in articles.values():
+        source = article.get("source", "")
+        own = coverage_by_source.get(source)
+        neu = set(classify_article(article.get("title", ""), article.get("summary", ""), own, keywords))
+        herkunft = set(article.get("feed_kommunen") or [])
+        if "feed_kommunen" not in article and own and own != "kreisweite-nachrichten":
+            moeglich = anbieter_cov.get(source.split()[0] if source else "", set())
+            herkunft = {k for k in article.get("kommunen") or [] if k in moeglich}
+        neu |= herkunft
+        # Bisherige Gemeinden nur entfernen, wenn belegbar falsch: der alte Teilwort-Treffer
+        # steckt im gespeicherten Text, die neue Wortgrenzen-Regel verwirft ihn. Treffer,
+        # die aus dem (beim Abruf längeren) Originaltext stammen, bleiben erhalten.
+        text = (article.get("title", "") + " " + article.get("summary", "")).lower()
+        for k in article.get("kommunen") or []:
+            if k in neu or k == "kreisweite-nachrichten":
+                continue
+            alt_treffer = any(kw.lstrip("=") in text for kw in keywords.get(k, []) + LEGACY_KEYWORDS.get(k, []))
+            if not alt_treffer:
+                neu.add(k)
+        if len(neu) > 1:
+            neu.discard("kreisweite-nachrichten")
+        neu = sorted(neu)
+        if neu != sorted(article.get("kommunen") or []):
+            article["kommunen"] = neu
+            changed += 1
+    return changed
+
 def load_existing(data_dir: Path) -> dict:
     f = data_dir / "all_articles.json"
     if f.exists():
@@ -357,6 +400,10 @@ def fetch_kreis(kreis_slug: str, kreis_cfg: dict):
                 for k in new_kommunen:
                     if k not in existing["kommunen"]:
                         existing["kommunen"].append(k)
+                if coverage != "kreisweite-nachrichten":
+                    fk = existing.setdefault("feed_kommunen", [])
+                    if coverage not in fk:
+                        fk.append(coverage)
                 continue
 
             title = entry.get("title", "Ohne Titel")
@@ -373,8 +420,15 @@ def fetch_kreis(kreis_slug: str, kreis_cfg: dict):
                 "source": name,
                 "kommunen": classify_article(title, summary, coverage, keywords),
                 "fetched": datetime.now().isoformat(),
+                "feed_kommunen": [coverage] if coverage != "kreisweite-nachrichten" else [],
             }
             new_count += 1
+
+    # Bestand mit der aktuellen Logik neu zuordnen (Feed-Herkunft + Schlagwörter),
+    # damit alte Fehlzuordnungen verschwinden. Es werden keine Artikel entfernt.
+    changed = reclassify_all(all_articles, config["feeds"], keywords)
+    if changed:
+        print(f"  Neu zugeordnet: {changed}")
 
     removed = dedupe_articles(all_articles)
     if removed:
