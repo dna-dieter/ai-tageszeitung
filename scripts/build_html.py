@@ -116,6 +116,7 @@ footer a { color: #85C1E9; }
 .monat-header:first-child { margin-top: 0; }
 .monat-count { background: var(--rbk-blau); color: white; font-size: 0.72rem; padding: 1px 8px; border-radius: 10px; font-weight: 400; }
 .btn-refresh { display: inline-flex; align-items: center; gap: 5px; font-family: sans-serif; font-size: 0.78rem; padding: 5px 14px; background: #2ECC71; color: white; border: none; border-radius: 4px; text-decoration: none; cursor: pointer; transition: background 0.2s; margin-top: 4px; }
+.btn-refresh[hidden], .refresh-status[hidden] { display: none; }
 .btn-refresh:hover { background: #27AE60; color: white; }
 .btn-refresh:disabled, .btn-refresh.loading { background: #95A5A6; cursor: wait; opacity: 0.8; }
 .btn-refresh .spinner { display: inline-block; width: 10px; height: 10px; border: 2px solid rgba(255,255,255,0.3); border-top-color: white; border-radius: 50%; animation: spin 0.8s linear infinite; }
@@ -130,6 +131,18 @@ footer a { color: #85C1E9; }
 REFRESH_JS = """
 <script>
 (function() {
+  // Button nur für Betreiber: sichtbar mit ?admin in der Adresse (wird gemerkt), ?admin=aus blendet ihn wieder aus.
+  try {
+    const p = new URLSearchParams(location.search);
+    if (p.has('admin')) {
+      if (p.get('admin') === 'aus') localStorage.removeItem('ai_tz_admin');
+      else localStorage.setItem('ai_tz_admin', '1');
+    }
+    if (localStorage.getItem('ai_tz_admin') === '1') {
+      const b = document.getElementById('btn-refresh');
+      if (b) b.hidden = false;
+    }
+  } catch (e) {}
   const REPO = 'dna-dieter/ai-tageszeitung';
   const WORKFLOW = 'update.yml';
   const TOKEN_KEY = 'ai_tz_github_token';
@@ -461,7 +474,7 @@ def header_html(title, subtitle, article_count=None, kreis_slug=None, active_sec
   <div class="meta">
     <div><span class="live-dot"></span>{count_text}</div>
     <div>{TIMESTAMP}</div>
-    <button type="button" onclick="triggerRefresh()" class="btn-refresh" id="btn-refresh">&#x21bb; Jetzt aktualisieren</button>
+    <button type="button" onclick="triggerRefresh()" class="btn-refresh" id="btn-refresh" hidden>&#x21bb; Jetzt aktualisieren</button>
     <div class="refresh-status" id="refresh-status"></div>
   </div>
 </header>"""
