@@ -19,7 +19,8 @@ GITHUB_ACTIONS = "https://github.com/dna-dieter/ai-tageszeitung/actions/workflow
 SITE = "/ai-tageszeitung"
 ANBIETER = "Dieter Nadolski"
 ANBIETER_MAIL = "info-zeitung@nadolski.de"
-ANBIETER_ANSCHRIFT = "(Platzhalter) c/o Muster, Musterstrasse 1, 11111 Muster"
+ANBIETER_ANSCHRIFT = "Stockbergergasse 21, 51515 Kürten"
+ANBIETER_ANSCHRIFT_HTML = "Stockbergergasse 21<br>51515 Kürten"
 LEGAL_LINKS = (
     f'<a href="{SITE}/impressum/">Impressum</a> · '
     f'<a href="{SITE}/rechtliches/">Rechtliche Hinweise</a> · '
@@ -782,19 +783,17 @@ def legal_page(filename, title, body):
 
 def build_legal_pages():
     impressum = f"""
-<p class="hinweis">Testfassung. Die Anschrift ist ein Platzhalter und keine ladungsfähige Anschrift. Sie steht hier, damit die Links geprüft werden können.</p>
 <h2>Anbieter</h2>
 <p>{ANBIETER}<br>
-{ANBIETER_ANSCHRIFT}</p>
+{ANBIETER_ANSCHRIFT_HTML}</p>
 <p>E-Mail: <a href="mailto:{ANBIETER_MAIL}">{ANBIETER_MAIL}</a></p>
 <h2>Verantwortlich für den Inhalt</h2>
 <p>{ANBIETER}<br>
-{ANBIETER_ANSCHRIFT}</p>
-<p>Verantwortlich im Sinne von § 18 Abs. 2 Medienstaatsvertrag. Die genannte Anschrift erfüllt diese Pflicht nicht, solange sie ein Platzhalter ist.</p>
+{ANBIETER_ANSCHRIFT_HTML}</p>
+<p>Verantwortlich im Sinne von § 18 Abs. 2 Medienstaatsvertrag.</p>
 <p>Das Angebot wird privat betrieben, ohne Gewerbe, Handelsregistereintrag und Umsatzsteuer-ID.</p>
 """
     rechtliches = f"""
-<p class="hinweis">Testfassung. Die Anschrift im Impressum ist ein Platzhalter.</p>
 <h2>Was diese Seite zeigt</h2>
 <p>Die AI Tageszeitung stellt Meldungen aus dem Rheinisch-Bergischen Kreis und dem Oberbergischen Kreis zusammen. Zu jeder Meldung stehen die Überschrift, die Quelle, das Datum, ein kurzer Auszug von höchstens 250 Zeichen und ein Link auf den Originalbeitrag.</p>
 <p>Die Formulierungen gehören den genannten Redaktionen und Pressestellen. Die Seite ersetzt den Originalbericht nicht und gibt fremde Texte nicht als eigene Recherche aus.</p>
@@ -803,7 +802,7 @@ def build_legal_pages():
 <h2>Veranstaltungen</h2>
 <p>Termine für Rhein-Berg und Oberberg kommen aus dem Kalender von Das Bergische, Termine für Köln von Rausgegangen. Angezeigt werden Titel, Zeitpunkt, Ort und ein Link. Ein Teil der Links führt auf die Übersichtsseite des Kalenders, wenn dort keine eigene Detailadresse hinterlegt ist.</p>
 <h2 id="datenschutz">Datenschutz</h2>
-<p>Verantwortlicher: {ANBIETER}, {ANBIETER_ANSCHRIFT}, <a href="mailto:{ANBIETER_MAIL}">{ANBIETER_MAIL}</a>. Die Anschrift ist derzeit ein Platzhalter.</p>
+<p>Verantwortlicher: {ANBIETER}, {ANBIETER_ANSCHRIFT}, <a href="mailto:{ANBIETER_MAIL}">{ANBIETER_MAIL}</a>.</p>
 <p>Die Seiten liegen als feste HTML-Dateien auf GitHub Pages. Der Betreiber setzt keine eigenen Cookies und keine Reichweitenmessung ein. Beim Aufruf verarbeitet der Hoster GitHub die üblichen Verbindungsdaten, insbesondere IP-Adresse, Zeitpunkt und Browsertyp, in seinen Serverprotokollen.</p>
 <p>Der Knopf „Jetzt aktualisieren“ fragt nach einem GitHub-Token. Der Token bleibt im Browser der Person, die ihn eingibt, und wird nur an die GitHub-API gesendet, um den Aktualisierungslauf zu starten. Er wird nicht an den Betreiber dieser Seite übertragen.</p>
 <p>Links auf Meldungen und Veranstaltungen führen auf die Seiten der jeweiligen Quelle. Dort gilt deren Datenschutzhinweis.</p>
