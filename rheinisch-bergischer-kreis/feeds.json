@@ -75,7 +75,8 @@
       "coverage": "kuerten",
       "pages": 5,
       "verified": true,
-      "note": "WordPress Custom Post Type Feed, ~78 Artikel über 3 Seiten"
+      "note": "WordPress Custom Post Type Feed, ~78 Artikel über 3 Seiten",
+      "hinweis_pruefung": "2026-10-22: Feed antwortet (HTTP 200), liefert aber 0 Einträge; letzter Artikel 2026-06-29. Bleibt aktiv."
     },
     {
       "name": "GL Aktuell Leichlingen",
@@ -174,7 +175,9 @@
       "coverage": "kreisweite-nachrichten",
       "verified": false,
       "enabled": false,
-      "note": "Adresse antwortet mit 404, ein Ersatz-Feed ist auf der Seite nicht ausgewiesen."
+      "note": "Adresse antwortet mit 404, ein Ersatz-Feed ist auf der Seite nicht ausgewiesen.",
+      "inaktiv_grund": "HTTP 404",
+      "inaktiv_seit": "2026-10-22"
     }
   ],
   "update_interval_minutes": 15,

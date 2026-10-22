@@ -55,7 +55,10 @@
       "type": "tageszeitung",
       "coverage": "wipperfuerth",
       "verified": false,
-      "note": "Liefert keine Items (leerer Channel, geprüft 2026-05-06) - kein Fix möglich, RGA-seitig deaktiviert"
+      "note": "Liefert keine Items (leerer Channel, geprüft 2026-05-06) - kein Fix möglich, RGA-seitig deaktiviert",
+      "enabled": false,
+      "inaktiv_grund": "Feed liefert 0 Einträge, bisher nie ein Artikel",
+      "inaktiv_seit": "2026-10-22"
     },
     {
       "name": "Stadt Wipperfürth (offiziell)",
@@ -79,7 +82,10 @@
       "type": "lokalnachrichten",
       "coverage": "wipperfuerth",
       "pages": 10,
-      "verified": true
+      "verified": true,
+      "enabled": false,
+      "inaktiv_grund": "Letzter Artikel 2022-11-25, keine neuen Inhalte",
+      "inaktiv_seit": "2026-10-22"
     },
     {
       "name": "Presseportal Polizei OBK",
@@ -93,28 +99,38 @@
       "url": "https://www.obk.de/rss/pressemitteilungen.xml",
       "type": "verwaltung",
       "coverage": "kreisweite-nachrichten",
-      "verified": false
+      "verified": false,
+      "enabled": false,
+      "inaktiv_grund": "HTTP 404",
+      "inaktiv_seit": "2026-10-22"
     },
     {
       "name": "Kölner Stadt-Anzeiger Oberberg",
-      "url": "https://www.ksta.de/region/oberberg/?feed=rss",
+      "url": "https://feed.ksta.de/feed/rss/region/oberberg/index.rss",
       "type": "tageszeitung",
       "coverage": "kreisweite-nachrichten",
-      "verified": false
+      "verified": false,
+      "url_alt": "https://www.ksta.de/region/oberberg/?feed=rss",
+      "url_repariert": "2026-10-22: alte URL lieferte kein gültiges XML, neue liefert HTTP 200 mit 47 aktuellen Einträgen"
     },
     {
       "name": "Kölnische Rundschau Oberberg",
-      "url": "https://www.rundschau-online.de/region/oberberg/?feed=rss",
+      "url": "https://feed.rundschau-online.de/feed/rss/region/oberberg/index.rss",
       "type": "tageszeitung",
       "coverage": "kreisweite-nachrichten",
-      "verified": false
+      "verified": false,
+      "url_alt": "https://www.rundschau-online.de/region/oberberg/?feed=rss",
+      "url_repariert": "2026-10-22: neue URL liefert HTTP 200 mit 46 Einträgen"
     },
     {
       "name": "Radio Berg Nachrichten",
       "url": "https://www.radioberg.de/rss/nachrichten.xml",
       "type": "radio",
       "coverage": "kreisweite-nachrichten",
-      "verified": false
+      "verified": false,
+      "enabled": false,
+      "inaktiv_grund": "HTTP 404",
+      "inaktiv_seit": "2026-10-22"
     }
   ],
   "update_interval_minutes": 60,

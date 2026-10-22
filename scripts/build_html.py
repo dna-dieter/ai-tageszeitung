@@ -504,17 +504,22 @@ def build_kreis_index(kreis_slug, kreis_cfg):
         type_icons = {"polizei": "🚔", "feuerwehr": "🚒", "tageszeitung": "📰",
                       "lokalnachrichten": "🌐", "radio": "📻", "verwaltung": "🏛️",
                       "buergerportal": "👥"}
+        grenze = datetime.now() - timedelta(days=30)
+        aktiv = {
+            a.get("source") for a in articles
+            if (parse_pub_date(a.get("published", "")) or datetime.min) >= grenze
+        }
         seen = set()
         items = []
         for f in feeds_cfg.get("feeds", []):
             name = f["name"]
-            if name in seen:
+            if name in seen or name not in aktiv:
                 continue
             seen.add(name)
             icon = type_icons.get(f.get("type", ""), "📰")
             items.append(f'<li style="margin:3px 0;">{icon} {htmlmod.escape(name)}</li>')
         quellen_html = f"""<div class="sidebar-box">
-      <h3>Quellen</h3>
+      <h3>Quellen (letzte 30 Tage)</h3>
       <ul style="list-style:none; font-size:0.82rem; font-family:sans-serif; color:#555;">{"".join(items)}</ul>
     </div>"""
 
