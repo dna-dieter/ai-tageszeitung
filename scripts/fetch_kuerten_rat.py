@@ -120,6 +120,13 @@ def main():
             "titel": fassung["titel"],
             "punkte": fassung["punkte"],
         }
+    if OUT.exists():
+        try:
+            alt = json.loads(OUT.read_text())
+            if {k: v for k, v in alt.items() if k != "aktualisiert"} == {k: v for k, v in payload.items() if k != "aktualisiert"}:
+                payload["aktualisiert"] = alt.get("aktualisiert", payload["aktualisiert"])
+        except Exception:
+            pass
     OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n")
     print(f"  Kürten-Rat: {len(kommende)} kommende Sitzungen")
 

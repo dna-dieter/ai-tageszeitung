@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: tageszeitung-update
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -45,5 +49,6 @@ jobs:
           else
             TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
             git commit -m "Auto-Update: ${TIMESTAMP}"
+            git pull --rebase
             git push
           fi

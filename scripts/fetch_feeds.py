@@ -337,7 +337,7 @@ def fetch_kreis(kreis_slug: str, kreis_cfg: dict):
     feeds_file = data_dir / "feeds.json"
     if not feeds_file.exists():
         print(f"SKIP {kreis_slug}: keine feeds.json")
-        return
+        return 0, 0
 
     print(f"\n{'='*60}")
     print(f"  {kreis_cfg['name']}")
@@ -352,10 +352,12 @@ def fetch_kreis(kreis_slug: str, kreis_cfg: dict):
     new_count = 0
     ctx = ssl.create_default_context()
 
+    failed = active = 0
     for feed_cfg in config["feeds"]:
         if feed_cfg.get("enabled") is False:
             print(f"  Übersprungen: {feed_cfg['name']}")
             continue
+        active += 1
         url = feed_cfg["url"]
         name = feed_cfg["name"]
         coverage = feed_cfg.get("coverage", "kreisweite-nachrichten")
@@ -387,7 +389,8 @@ def fetch_kreis(kreis_slug: str, kreis_cfg: dict):
 
         if max_pages > 1 and len(all_entries) > 0:
             print(f"    -> {len(all_entries)} Einträge gesamt ({max_pages} Seiten)")
-        elif max_pages == 1 and len(all_entries) == 0:
+        if len(all_entries) == 0:
+            failed += 1
             continue
 
         for entry in all_entries:
@@ -448,11 +451,20 @@ def fetch_kreis(kreis_slug: str, kreis_cfg: dict):
     all_list = sorted(all_articles.values(), key=sort_key, reverse=True)
     (data_dir / "all_articles.json").write_text(json.dumps(all_list, ensure_ascii=False, indent=2))
 
-    config["last_updated"] = datetime.now().isoformat()
+    if new_count or changed or removed or "last_updated" not in config:
+        config["last_updated"] = datetime.now().isoformat()
     feeds_file.write_text(json.dumps(config, ensure_ascii=False, indent=2))
 
     print(f"  Gesamt: {len(all_list)} Artikel ({new_count} neu)")
+    print(f"  Feeds ohne Antwort: {failed}/{active}")
+    return failed, active
 
 if __name__ == "__main__":
+    total_failed = total_active = 0
     for slug, cfg in KREISE.items():
-        fetch_kreis(slug, cfg)
+        f, a = fetch_kreis(slug, cfg)
+        total_failed += f
+        total_active += a
+    if total_active and total_failed * 2 > total_active:
+        print(f"FEHLER: Mehrheit der Feeds ausgefallen ({total_failed}/{total_active})")
+        sys.exit(1)

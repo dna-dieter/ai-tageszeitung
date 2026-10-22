@@ -14,7 +14,19 @@ import html as htmlmod
 from config import BASE, KREISE
 
 DOCS = BASE / "docs"
-TIMESTAMP = datetime.now().strftime("%d.%m.%Y, %H:%M")
+def _letzter_stand():
+    """Zeitpunkt des letzten Laufs mit neuen Inhalten (last_updated aus feeds.json),
+    damit die Seiten ohne neue Artikel unverändert bleiben."""
+    werte = []
+    for slug in KREISE:
+        f = BASE / slug / "feeds.json"
+        try:
+            werte.append(datetime.fromisoformat(json.loads(f.read_text())["last_updated"]))
+        except Exception:
+            pass
+    return max(werte) if werte else datetime.now()
+
+TIMESTAMP = _letzter_stand().strftime("%d.%m.%Y, %H:%M")
 GITHUB_ACTIONS = "https://github.com/dna-dieter/ai-tageszeitung/actions/workflows/update.yml"
 SITE = "/ai-tageszeitung"
 ANBIETER = "Dieter Nadolski"
