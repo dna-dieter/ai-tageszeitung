@@ -559,6 +559,47 @@ def build_kreis_index(kreis_slug, kreis_cfg):
     (docs_dir / "index.html").write_text(page)
     print(f"  {docs_dir.relative_to(DOCS)}/index.html: {len(articles)} Artikel")
 
+def teile_aktuell_archiv(articles, mindestens=100, tage=90):
+    """Aktuell = die 100 neuesten Artikel, mindestens aber alle der letzten 90 Tage; Rest ins Archiv (nur Anzeige, Daten bleiben)."""
+    articles = sorted(articles, key=lambda a: parse_pub_date(a.get("published", "")) or datetime.min, reverse=True)
+    grenze = datetime.now() - timedelta(days=tage)
+    n_frisch = sum(1 for a in articles if (parse_pub_date(a.get("published", "")) or datetime.min) >= grenze)
+    n = max(mindestens, n_frisch)
+    return articles[:n], articles[n:]
+
+def archiv_hinweis(anzahl):
+    if not anzahl:
+        return ""
+    return (f'<div class="empty" style="margin-top:12px;"><a href="archiv/index.html">'
+            f'Archiv: {anzahl} ältere Artikel ansehen &rarr;</a></div>')
+
+def build_archiv_page(ziel_dir, titel, kreis_cfg, kommunen, articles, show_kommune):
+    archiv_dir = ziel_dir / "archiv"
+    archiv_dir.mkdir(parents=True, exist_ok=True)
+    page = f"""<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{htmlmod.escape(titel)} – Archiv — AI Tageszeitung</title>
+<style>{CSS}</style>
+</head>
+<body>
+{header_html(f"{titel} – Archiv", f"AI Tageszeitung · {kreis_cfg['name']}", len(articles))}
+<nav><a href="../index.html">&larr; Zurück zu {htmlmod.escape(titel)}</a></nav>
+<main>
+  <div>{grouped_cards(articles, kommune_map=kommunen, show_kommune=show_kommune) if articles else '<div class="empty">Keine älteren Artikel.</div>'}</div>
+</main>
+<footer>
+  <a href="../index.html">{htmlmod.escape(titel)}</a> · Archiv · Aktualisiert: {TIMESTAMP}<br>
+  {LEGAL_LINKS}<br>
+  <a href="{GITHUB_ACTIONS}">GitHub</a>
+</footer>
+{REFRESH_JS}
+</body></html>"""
+    (archiv_dir / "index.html").write_text(page)
+    print(f"  {archiv_dir.relative_to(DOCS)}/index.html: {len(articles)} Artikel (Archiv)")
+
 def build_kommune_page(kreis_slug, kreis_cfg, kommune_slug, kommune_name):
     data_dir = BASE / kreis_slug
     kommunen = kreis_cfg["kommunen"]
@@ -568,6 +609,7 @@ def build_kommune_page(kreis_slug, kreis_cfg, kommune_slug, kommune_name):
     kommune_dir.mkdir(parents=True, exist_ok=True)
 
     articles = load_articles(data_dir, kommune_slug)
+    aktuell, archiv = teile_aktuell_archiv(articles)
     kreisweite = load_articles(data_dir, "kreisweite-nachrichten")
     grenze = datetime.now() - timedelta(days=30)
     kreisweite_frisch = sorted(
@@ -601,7 +643,7 @@ def build_kommune_page(kreis_slug, kreis_cfg, kommune_slug, kommune_name):
 <nav>{"".join(nav_links)}</nav>
 <main>
 <div class="grid">
-  <div>{grouped_cards(articles, kommune_map=kommunen, show_kommune=False)}</div>
+  <div>{grouped_cards(aktuell, kommune_map=kommunen, show_kommune=False)}{archiv_hinweis(len(archiv))}</div>
   <div>
     <div class="sidebar-box">
       <h3>Alle Kommunen</h3>
@@ -623,6 +665,7 @@ def build_kommune_page(kreis_slug, kreis_cfg, kommune_slug, kommune_name):
 </body></html>"""
 
     (kommune_dir / "index.html").write_text(page)
+    build_archiv_page(kommune_dir, kommune_name, kreis_cfg, kommunen, archiv, False)
     print(f"  {kommune_dir.relative_to(DOCS)}/index.html: {len(articles)} Artikel")
 
 def build_kreisweite_page(kreis_slug, kreis_cfg):
@@ -634,6 +677,7 @@ def build_kreisweite_page(kreis_slug, kreis_cfg):
     kreisweite_dir.mkdir(parents=True, exist_ok=True)
 
     articles = load_articles(data_dir, "kreisweite-nachrichten")
+    aktuell, archiv = teile_aktuell_archiv(articles)
 
     nav_links = ['<a href="../index.html">Alle</a>', kommune_nav(kommunen, "../", kreis_slug)]
 
@@ -652,7 +696,7 @@ def build_kreisweite_page(kreis_slug, kreis_cfg):
 <nav>{"".join(nav_links)}</nav>
 <main>
 <div class="grid">
-  <div>{grouped_cards(articles, kommune_map=kommunen, show_kommune=True)}</div>
+  <div>{grouped_cards(aktuell, kommune_map=kommunen, show_kommune=True)}{archiv_hinweis(len(archiv))}</div>
   <div>
     <div class="sidebar-box">
       <h3>Alle Kommunen</h3>
@@ -670,6 +714,7 @@ def build_kreisweite_page(kreis_slug, kreis_cfg):
 </body></html>"""
 
     (kreisweite_dir / "index.html").write_text(page)
+    build_archiv_page(kreisweite_dir, "Kreisweite Nachrichten", kreis_cfg, kommunen, archiv, True)
     print(f"  {kreisweite_dir.relative_to(DOCS)}/index.html: {len(articles)} Artikel")
 
 VERANSTALTUNGEN_CSS_EXTRA = """
