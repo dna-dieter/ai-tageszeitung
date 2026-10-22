@@ -53,6 +53,7 @@ main { max-width: 1200px; margin: 20px auto; padding: 0 16px; }
 .artikel { background: white; border-radius: 6px; padding: 16px 18px; border-left: 4px solid var(--akzent); box-shadow: 0 1px 3px rgba(0,0,0,0.08); margin-bottom: 14px; transition: box-shadow 0.2s; }
 .artikel:hover { box-shadow: 0 3px 12px rgba(0,0,0,0.12); }
 .artikel .tag { font-family: sans-serif; font-size: 0.72rem; font-weight: 700; color: var(--rbk-rot); text-transform: uppercase; letter-spacing: 1px; }
+.artikel .tag.bericht { color: var(--rbk-blau); margin-left: 8px; }
 .artikel h2 { font-size: 1.15rem; margin: 4px 0; line-height: 1.3; }
 .artikel h2 a { color: var(--text); text-decoration: none; }
 .artikel h2 a:hover { color: var(--akzent); }
@@ -278,11 +279,14 @@ def artikel_html(a, show_kommune=True, kommune_map=None):
     link = htmlmod.escape(a.get("link", "#"))
     source = htmlmod.escape(a.get("source", ""))
     published = a.get("published", "")[:25]
+    tags = []
     if show_kommune and kommune_map:
         kommunen = ", ".join(kommune_map.get(k, k) for k in a.get("kommunen", []))
-        tag = f'<div class="tag">{htmlmod.escape(kommunen)}</div>'
-    else:
-        tag = ""
+        tags.append(f'<span class="tag">{htmlmod.escape(kommunen)}</span>')
+    source_key = a.get("source", "").lower()
+    if "bürgerportal" in source_key or source_key.endswith("politik") or source_key.endswith("kultur"):
+        tags.append('<span class="tag bericht">Bericht</span>')
+    tag = f'<div class="tagline">{"".join(tags)}</div>' if tags else ""
     return f"""<div class="artikel">
   {tag}
   <h2><a href="{link}" target="_blank" rel="noopener">{title}</a></h2>
@@ -604,8 +608,8 @@ def veranstaltungen_portal_links(region):
             ("🎨", "Museen Köln", "https://www.museenkoeln.de/"),
         ],
         "rbk": [
-            ("🌐", "RGA Veranstaltungen", "https://www.rga.de/veranstaltungen/"),
-            ("🏛️", "Bergisch Gladbach – Veranstaltungen", "https://www.bergischgladbach.de/veranstaltungen.aspx"),
+            ("📅", "Das Bergische – Termine", "https://www.dasbergische.de/aktivitaeten/veranstaltungen"),
+            ("🏛️", "Bergisch Gladbach – Terminkalender", "https://www.bergischgladbach.de/termine.aspx"),
             ("🎭", "iGL Veranstaltungskalender", "https://in-gl.de/category/veranstaltungen/"),
             ("🎵", "Stadtkultur RBK", "https://www.rheinisch-bergischer-kreis.de/"),
             ("🎪", "Eventbrite Region Bergisch Gladbach", "https://www.eventbrite.de/d/germany--bergisch-gladbach/events/"),
@@ -614,7 +618,8 @@ def veranstaltungen_portal_links(region):
         "oberberg": [
             ("🌐", "Oberbergischer Kreis – Aktuelles", "https://www.obk.de/"),
             ("📰", "Oberberg-Aktuell", "https://www.oberberg-aktuell.de/"),
-            ("🎭", "OBK Veranstaltungskalender", "https://www.obk.de/veranstaltungen/"),
+            ("📅", "Das Bergische – Termine", "https://www.dasbergische.de/aktivitaeten/veranstaltungen"),
+            ("🎭", "OBK Veranstaltungskalender", "https://www.obk.de/obk/veranstaltungen/index.shtml.de"),
             ("🎵", "Gummersbach Stadtkultur", "https://www.gummersbach.de/"),
             ("🎪", "Eventbrite Gummersbach", "https://www.eventbrite.de/d/germany--gummersbach/events/"),
             ("📅", "Lokalkompass Oberberg", "https://www.lokalkompass.de/gummersbach/"),
@@ -647,7 +652,7 @@ def build_veranstaltungen_page():
                 'Veranstaltungshinweise verfügbar. Nutze die Portale unten.</div>'
             )
         parts = ['<div class="hinweis" style="background:#EAFAF1; border-color:#27AE60;">📅 '
-                 + str(len(events)) + ' Veranstaltungshinweise aus lokalen Nachrichten</div>']
+                 + str(len(events)) + ' kommende Termine</div>']
         for e in events[:40]:
             datum  = htmlmod.escape(e.get("datum", ""))
             titel  = htmlmod.escape(e.get("titel", e.get("title", "Veranstaltung")))

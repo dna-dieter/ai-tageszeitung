@@ -32,6 +32,7 @@ main { max-width: 1200px; margin: 20px auto; padding: 0 16px; }
 .artikel { background: white; border-radius: 6px; padding: 16px 18px; border-left: 4px solid var(--akzent); box-shadow: 0 1px 3px rgba(0,0,0,0.08); margin-bottom: 14px; transition: box-shadow 0.2s; }
 .artikel:hover { box-shadow: 0 3px 12px rgba(0,0,0,0.12); }
 .artikel .tag { font-family: sans-serif; font-size: 0.72rem; font-weight: 700; color: var(--rbk-rot); text-transform: uppercase; letter-spacing: 1px; }
+.artikel .tag.bericht { color: var(--rbk-blau); margin-left: 8px; }
 .artikel h2 { font-size: 1.15rem; margin: 4px 0; line-height: 1.3; }
 .artikel h2 a { color: var(--text); text-decoration: none; }
 .artikel h2 a:hover { color: var(--akzent); }
@@ -100,7 +101,7 @@ footer a { color: #85C1E9; }
   </div>
   <div class="meta">
     <div><span class="live-dot"></span>Stündlich aktualisiert</div>
-    <div>22.10.2026, 20:08</div>
+    <div>22.10.2026, 20:36</div>
     <button type="button" onclick="triggerRefresh()" class="btn-refresh" id="btn-refresh">&#x21bb; Jetzt aktualisieren</button>
     <div class="refresh-status" id="refresh-status"></div>
   </div>
@@ -111,7 +112,7 @@ footer a { color: #85C1E9; }
 <main>
   <div class="region-panel" data-region="koeln">
   <div style="margin: 20px 0 8px 0; font-family: sans-serif; font-size: 0.95rem; color: var(--rbk-blau); font-weight:600;">Veranstaltungen in der Domstadt</div>
-<div class="hinweis" style="background:#EAFAF1; border-color:#27AE60;">📅 10 Veranstaltungshinweise aus lokalen Nachrichten</div>
+<div class="hinweis" style="background:#EAFAF1; border-color:#27AE60;">📅 40 kommende Termine</div>
 <div class="evt-card">
   <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 0 €</span></div>
   <h3><a href="https://rausgegangen.de/events/gartennachmittag-im-finkennest-19/" target="_blank" rel="noopener">Gartennachmittag im Finkennest</a></h3>
@@ -134,14 +135,14 @@ footer a { color: #85C1E9; }
   <div class="evt-info">Quelle: Rausgegangen Köln</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 5 €</span></div>
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">kostenlos</span></div>
   <h3><a href="https://rausgegangen.de/events/caypoetry-koln-x-charity-week-0/" target="_blank" rel="noopener">Charity Event - Köln</a></h3>
   <div class="evt-ort">&#x1F4CD; Lebens.art-Cafe, Köln, Wißmannstraße 40</div>
   <div class="evt-teaser">Zwischen Poetry und Versteigerung geht es an dem Abend vor allem um eins: Spenden für Waisenkinder. i,Slam ist zum dritten Mal Teil der Charity Week, und vielleicht stehst Du am Ende selbst auf der Bü</div>
   <div class="evt-info">Quelle: Rausgegangen Köln</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 16 €</span></div>
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">kostenlos</span></div>
   <h3><a href="https://rausgegangen.de/events/late-night-bingo-koln-mit-drag-queen-amy-strong-4/" target="_blank" rel="noopener">Late Night Bingo - Köln (mit Drag Queen Amy Strong)</a></h3>
   <div class="evt-ort">&#x1F4CD; Zappes Süd, Dreikönigenstraße 23</div>
   <div class="evt-teaser">Bingo ist an dem Abend eher Vorwand, wenn Amy Strong aus West Berlin die Kugeln rollen lässt und daraus eine Drag Comedy Show macht. Drei Scheine sind im Ticket schon drin, der Rest hängt an ihrer gro</div>
@@ -162,17 +163,45 @@ footer a { color: #85C1E9; }
   <div class="evt-info">Quelle: Rausgegangen Köln</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 0 €</span></div>
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">kostenlos</span></div>
   <h3><a href="https://rausgegangen.de/events/pop-culture-game-night-mit-co-pop-rausgegangen-0/" target="_blank" rel="noopener">POP CULTURE GAME NIGHT mit c/o pop &amp; Rausgegangen</a></h3>
   <div class="evt-ort">&#x1F4CD; Club Bahnhof Ehrenfeld, Bartholomäus-Schink-Strasse 65</div>
   <div class="evt-teaser">Klingt nach Warm-up, ist aber ein Popkultur-Quiz mit einem Kölner Team, das seit 2025 eigene Abende baut. Danach kreist du bei Musical Chairs um zu wenige Stühle und landest direkt in der nächsten Run</div>
   <div class="evt-info">Quelle: Rausgegangen Köln</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 22 €</span></div>
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">kostenlos</span></div>
   <h3><a href="https://rausgegangen.de/events/rausgegangen-surprise-tickets-2/" target="_blank" rel="noopener">Rausgegangen Surprise Tickets</a></h3>
   <div class="evt-ort">&#x1F4CD; Surprise, Surprise, Verschiedene Orte</div>
   <div class="evt-teaser">Manchmal ist die schwierigste Abendfrage nicht mit wem, sondern wohin. Genau das bleibt bei diesen Surprise Tickets offen, bis nach dem Kauf die Mail kommt, nur zwei Plätze für Köln stehen schon fest </div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 24 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/dub-pistols-0/" target="_blank" rel="noopener">DUB PISTOLS</a></h3>
+  <div class="evt-ort">&#x1F4CD; GEBÄUDE 9, Deutz-Mühlheimer Straße 127</div>
+  <div class="evt-teaser">How many bands have the career longevity to release ten albums? They might havebeen perilously close to falling apart on various occasions in their history, but theDub Pistols have rolled with the pun</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 16 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/sheen-trio-3/" target="_blank" rel="noopener">Sheen Trio</a></h3>
+  <div class="evt-ort">&#x1F4CD; Altes Pfandhaus, Kartäuserwall 20</div>
+  <div class="evt-teaser">Dicht verwobene Atmosphären, vielschichtige Klangfarben und eine eindringliche Ausdruckskraft prägen die Musik des Sheen Trio. Zwischen Jazz, Rock und experimenteller Klangkunst entsteht ein feingli</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">kostenlos</span></div>
+  <h3><a href="https://rausgegangen.de/events/stadion-tour-2026-4/" target="_blank" rel="noopener">LEFTOVERS - Stadion Tour 2026</a></h3>
+  <div class="evt-ort">&#x1F4CD; Die Kantine, Neusser Landstraße 2</div>
+  <div class="evt-teaser">LEFTOVERS packen ihre neuen Songs und die Narben alter Nächte in eine Tour voller purer Energie und ehrlicher Haltung. Im Frühling bringen sie ihre „Stadion Tour“ in zehn Städte, bevor im Herbst das n</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">kostenlos</span></div>
+  <h3><a href="https://rausgegangen.de/events/the-bottomline-not-the-surface-official-album-release-concer-0/" target="_blank" rel="noopener">the bottomline - NOT THE SURFACE Official Album Release Concert</a></h3>
+  <div class="evt-ort">&#x1F4CD; Club Subway, Aachener Straße 82-84</div>
+  <div class="evt-teaser">the bottomline - NOT THE SURFACE Official Album Release Concert„Ein kongeniales und technisch hochtalentiertes Duo“ (Bernd Schöneck, KstA)Das Kölner Duo the bottomline rund um die Sängerin und Pian</div>
   <div class="evt-info">Quelle: Rausgegangen Köln</div>
 </div>
 <div class="evt-card">
@@ -182,6 +211,187 @@ footer a { color: #85C1E9; }
   <div class="evt-teaser">Drei sehr verschiedene Schreibweisen an einem Abend: Kaleb Erdmann liest neben Hooria Kazemian und Yuna Lee Pfau. Gerade bei Kazemian, die sich in ihrer Arbeit mit Sprache und Erinnerung beschäftigt, </div>
   <div class="evt-info">Quelle: Rausgegangen Köln</div>
 </div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">kostenlos</span></div>
+  <h3><a href="https://rausgegangen.de/events/one-man-boycott-1/" target="_blank" rel="noopener">One Man Boycott</a></h3>
+  <div class="evt-ort">&#x1F4CD; Tsunami Club, Im Ferkulum 9</div>
+  <div class="evt-teaser">Nach einem ungeplanten Krankenhausaufenthalt und einer Notoperation während ihrer März-Tour kehren One Man Boycott im Oktober nach Köln zurück, um zu Ende zu bringen, was sie begonnen haben.  Unte</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">kostenlos</span></div>
+  <h3><a href="https://rausgegangen.de/events/loop-of-us-von-interfemme-0/" target="_blank" rel="noopener">LOOP OF US von InterFemme</a></h3>
+  <div class="evt-ort">&#x1F4CD; TanzFaktur, Siegburger Straße 233w</div>
+  <div class="evt-teaser">Manche Schleifen kennt man zu gut, und genau da setzt LOOP OF US an. InterFemme hat das Stück kollektiv mit FLINTA* Personen aus Köln entwickelt, als Theater über Wiederholung, Widerspruch und die Fra</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">kostenlos</span></div>
+  <h3><a href="https://rausgegangen.de/events/22102026-2000-0/" target="_blank" rel="noopener">Lena Lorberg Trio</a></h3>
+  <div class="evt-ort">&#x1F4CD; King Georg, Sudermanstraße 2</div>
+  <div class="evt-teaser">Jerry Lu (Klavier), Dominik Raab (Schlagzeug), Lena Lorberg (Kontrabass) Die junge Kölner Bassistin Lena Lorberg präsentiert ihr neues Trio bestehend aus Dominik Raab am Schlagzeug und Jerry Lu am K</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 35 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/alin-coen-27/" target="_blank" rel="noopener">ALIN COEN</a></h3>
+  <div class="evt-ort">&#x1F4CD; Kulturkirche Köln, Siebachstraße 85</div>
+  <div class="evt-teaser">Achtsamkeit und Heilung, Nähe und Verantwortung, eine Musik, die vom Ohr direkt ins Herz dringt. Die Songpoetin Alin Coen besingt die feinen Fäden, die Menschen verbinden – Eltern und Kinder, Lieben</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">kostenlos</span></div>
+  <h3><a href="https://rausgegangen.de/events/almost-twins-45/" target="_blank" rel="noopener">Almost Twins Visions Tour 2026 + Support (Annie Bloch)</a></h3>
+  <div class="evt-ort">&#x1F4CD; die wohngemeinschaft, Richard-Wagner-Straße 39</div>
+  <div class="evt-teaser">Mit ihrem Debütalbum „Hands / Trees“ konnte die Leipziger Indie-Folk-Band Almost Twins bereits große Wellen schlagen: mehrere Tourneen in ganz Deutschland, zahlreiche Platzierungen auf DSP-Playlists,</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 22 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/almost-twins-visions-tour-2026-6/" target="_blank" rel="noopener">ALMOST TWINS &quot;VISIONS TOUR&quot; 2026</a></h3>
+  <div class="evt-ort">&#x1F4CD; die wohngemeinschaft, Richard-Wagner-Straße 39</div>
+  <div class="evt-teaser">Almost Twins klingen nach Indie Folk mit Weite: warme Synths, Wurlitzer, Saxofon und Klarinette tragen Max Grüners Songs, irgendwo zwischen José González, Erlend Øye und This Is The Kit. Nach dem gefe</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 21 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/black-fooss-konzert-2026-0/" target="_blank" rel="noopener">Bläck Fööss Konzert 2026</a></h3>
+  <div class="evt-ort">&#x1F4CD; Kölner Philharmonie, Bischofsgartenstr. 1</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">kostenlos</span></div>
+  <h3><a href="https://rausgegangen.de/events/charlie-jeer-2/" target="_blank" rel="noopener">Charlie Jeer</a></h3>
+  <div class="evt-ort">&#x1F4CD; Die Kantine, Neusser Landstraße 2</div>
+  <div class="evt-teaser">Presented by Live NationRollstuhlnutzende und Schwerbehinderte (mit „B“ im Ausweis) buchen reguläre Tickets. Deren Begleitungen haben freien Eintritt und benötigen keine Eintrittskarte.</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 25 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/charlie-jeer-3/" target="_blank" rel="noopener">CHARLIE JEER</a></h3>
+  <div class="evt-ort">&#x1F4CD; Die Kantine, Neusser Landstraße 2</div>
+  <div class="evt-teaser">Seitdem Charlie Jeer 2024 seiner Debütsingle „Her Eyes“ veröffentlichte, gilt der indisch-britische Musiker und Producer als regelrechter Shootingstar der UK-Musikwelt. Der Song, mittlerweile über </div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">kostenlos</span></div>
+  <h3><a href="https://rausgegangen.de/events/elektrorama-5-vehiclepassenger-jamsession-0/" target="_blank" rel="noopener">ELEKTRORAMA #5: VEHICLE/PASSENGER + Jamsession</a></h3>
+  <div class="evt-ort">&#x1F4CD; artheater Köln, Ehrenfeldgürtel 127</div>
+  <div class="evt-teaser">Donnerstag 22. OktoberElektrorama #5 VEHICLE/PASSENGER“Radical poetry meets futuristic free jazz” M Alberto - Vocals, Saxophone and Modular SynthesizerFlorian Herzog - Double Bass and Modular Synthesi</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 15 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/felix-janosa-die-beatles-das-universum-und-der-rest-plauder--1/" target="_blank" rel="noopener">Felix Janosa - &quot;Die Beatles, das Universum und der Rest&quot; Plauder - und Mitsingkonzert</a></h3>
+  <div class="evt-ort">&#x1F4CD; Theater 509, Dreikönigenstraße 23</div>
+  <div class="evt-teaser">Felix Janosa - &quot;Die Beatles, das Universum und der Rest&quot;Plauder - und MitsingkonzertEin ganz besonderes Beatles-Event bietet Komponist und Pianist Felix Janosa (&quot;Ritter Rost&quot;) aus Stolberg. Neben eige</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">kostenlos</span></div>
+  <h3><a href="https://rausgegangen.de/events/hammond-organ-grooves-jam-session-27/" target="_blank" rel="noopener">Hammond Organ Grooves &amp; Jam Session</a></h3>
+  <div class="evt-ort">&#x1F4CD; Salon De Jazz, Severinskloster 3a</div>
+  <div class="evt-teaser">Seit diesem Oktober findet die legendäre Reihe „Hammond Organ Grooves“ jeden 2. und 4. Donnerstag/Monat im Salon De Jazz statt. Die Reihe widmet sich traditionell den Sounds des Hammond Organ Trios i</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 20 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/judith-hill-4/" target="_blank" rel="noopener">Judith Hill</a></h3>
+  <div class="evt-ort">&#x1F4CD; Stadtgarten, Venloer Straße 40</div>
+  <div class="evt-teaser">20:00 I Konzert I Konzertsaal Judith Hill hat sich als eine der dynamischsten und vielseitigsten Künstlerinnen der Musikbranche etabliert. Von ihrem Durchbruch bei „The Voice“ bis hin zur Zusammenarb</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">kostenlos</span></div>
+  <h3><a href="https://rausgegangen.de/events/manic-pixie-mini-tour-0/" target="_blank" rel="noopener">MANIC PIXIE TOUR</a></h3>
+  <div class="evt-ort">&#x1F4CD; Agnes Buchhandlung, Neusser Straße 63</div>
+  <div class="evt-teaser">„Manic Pixie Dream Girl“ – ein Film-Klischee: ein quirky Girl, das nur dafür da ist, dem männlichen Hauptcharakter Leben einzuhauchen.Merle und Margo, Manic Pixies mit großen Träumen, streichen das</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 25 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/max-fry-better-luck-next-time-euuk-tour-3/" target="_blank" rel="noopener">Max Fry – Better Luck Next Time EU/UK Tour</a></h3>
+  <div class="evt-ort">&#x1F4CD; JAKI, Venloer Str. 40</div>
+  <div class="evt-teaser">Nachdem sich Max Fry als Schöpfer vielschichtiger Electronica etabliert hat, konzentriert er sich nun auf experimentellen und mitreißenden Indie/Alternative-Pop. Unabhängig vom Genre strebt Max dana</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 47 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/stoppok-rund-reise-die-band-tour-2026-1/" target="_blank" rel="noopener">STOPPOK - RUND-Reise- die Band-Tour 2026</a></h3>
+  <div class="evt-ort">&#x1F4CD; GLORIA Köln, Apostelnstraße 11</div>
+  <div class="evt-teaser">Einlass: 19:00 Uhr bestuhlt  Hauptsache RUND: STOPPOK hat Geburtstag und feiert auf den Bühnen des Landes Reisen bildet. Diese ,,RUND-Reise&quot; erst recht. STOPPOK, der geistreiche Seismograph unseres L</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 40 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/the-hu-125/" target="_blank" rel="noopener">THE HU</a></h3>
+  <div class="evt-ort">&#x1F4CD; Palladium Köln, Schanzenstraße 40</div>
+  <div class="evt-teaser">The HU are a fantastically unique force of nature. A musical sensation formed in 2016 in the Mongolian capital of Ulaanbaatar, the quartet are the pioneers of the genre Hunnu Rock, with almost 900 mil</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 16 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/jin-jim-10/" target="_blank" rel="noopener">Jin Jim</a></h3>
+  <div class="evt-ort">&#x1F4CD; Altes Pfandhaus, Kartäuserwall 20</div>
+  <div class="evt-teaser">Durch ihre markante Verbindung aus Jazz, Weltmusik und orchestraler Klangkultur gehört Jin Jim zu den wichtigsten Formationen der jungen deutschen Jazzszene. Der NDR bezeichnete die Gruppe als „einen</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">kostenlos</span></div>
+  <h3><a href="https://rausgegangen.de/events/die-co-pop-semester-opening-party-22-oktober-2026-0/" target="_blank" rel="noopener">Die c/o pop Semester Opening Party</a></h3>
+  <div class="evt-ort">&#x1F4CD; Club Bahnhof Ehrenfeld, Bartholomäus-Schink-Strasse 65</div>
+  <div class="evt-teaser">Zum ersten Mal kommen hier Studis aus ganz Köln zusammen, von Ersti bis Erasmus. Vor der Party gibt’s ein Popkultur-Quiz und Musical Chairs, später legen Gianni und Slaymira 2000s, HipHop und Club Cla</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 0 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/groove-cologne-concert-jam-session-15/" target="_blank" rel="noopener">Groove Cologne - Concert &amp; Jam-Session</a></h3>
+  <div class="evt-ort">&#x1F4CD; Jameson Distillery Pub, Friesenstr 30-40</div>
+  <div class="evt-teaser">Opening concert of our house-band, afterwards the stage will be open to jam. Bring your instrument or use ours and lets rock into the night! Everybody and every style is welcome!!! Our equipment for y</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">23. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 10 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/klangreise-freitag-1/" target="_blank" rel="noopener">Klangreise Freitag</a></h3>
+  <div class="evt-ort">&#x1F4CD; Ananda Köln City Center, Bismarckstraße 37</div>
+  <div class="evt-teaser">Einfach hinlegen, die Augen schließen und dich von Klängen tragen lassen. Bei der Klangreise musst du nichts können und nichts tun, außer da sein. Du liegst bequem auf deiner Matte, wir spielen Klä</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">23. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 0 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/singen-joy-of-singing-einfach-singen-in-koln-sulz-chor-auf-z-19/" target="_blank" rel="noopener">Singen - Joy of Singing - einfach singen in Köln-Sülz - Chor auf Zeit</a></h3>
+  <div class="evt-ort">&#x1F4CD; St. Karl Borromäus , Kirche für Leib und Seele, Zülpicher Straße 275</div>
+  <div class="evt-teaser">Herzliche Einladung zu „Joy of Singing“ – gemeinsames Singen von Liedern, die verbinden und gut tun.Wir singen Lieder, die leicht zu lernen sind und ohne Noten oder Textblätter auskommen. Durch das w</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">23. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 22 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/yin-ambient-25/" target="_blank" rel="noopener">Yin &amp; Ambient</a></h3>
+  <div class="evt-ort">&#x1F4CD; PURE SPACE - Yoga &amp; Sound Studio, Barbarastraße 3-9 Block 2</div>
+  <div class="evt-teaser">Hier erwarten dich Yin-Yoga-Haltungen, begleitet von Ambient-Klängen über unser Hi-Fi-Soundsystem.Das längere Verweilen in den Positionen wirkt auf Faszien und Gelenke, unterstützt Entspannung und</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">23. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 25 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/1-kasino-konzert-jp-weber-bjorn-heuser-0/" target="_blank" rel="noopener">1. Kasino Konzert - J.P. Weber &amp; Björn Heuser</a></h3>
+  <div class="evt-ort">&#x1F4CD; Gasthaus zum Jan, Thieboldsgasse 137</div>
+  <div class="evt-teaser">🎶 Premiere im Kasino!Wir starten unsere neue Konzertreihe &quot;KasinoKonzert&quot; im Gasthaus Zum Jan – klein, kölsch und ganz nah dran.Zum Auftakt begrüßen wir JP Weber &amp; Björn Heuser zu einem besonderen </div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">23. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 28 €</span></div>
+  <h3><a href="https://rausgegangen.de/events/codefendants-6/" target="_blank" rel="noopener">CODEFENDANTS</a></h3>
+  <div class="evt-ort">&#x1F4CD; GEBÄUDE 9, Deutz-Mühlheimer Straße 127</div>
+  <div class="evt-teaser">Codefendants are a genre-smashing punk collective blending alternative, hip hop and rock to create a sound they call Crimewave. Formed by Fat Mike (NOFX), Julio ‘Ceschi’ Ramos and Sam King (Get Dead),</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">23. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">kostenlos</span></div>
+  <h3><a href="https://rausgegangen.de/events/rupert-gillett-trio-do-cellos-dream-of-electric-pigs-album-r-0/" target="_blank" rel="noopener">Rupert Gillett Trio: &quot;Do Cellos Dream of Electric Pigs?&quot; ALBUM RELEASE CONCERT</a></h3>
+  <div class="evt-ort">&#x1F4CD; Loft, Wissmannstr. 30</div>
+  <div class="evt-teaser">Ein elektrisches Cello vorneweg, und plötzlich steht da ein Trio, das Jazz nicht geschniegelt, sondern schräg und mit Gesang spielt. Das neue Album heißt Do Cellos Dream of Electric Pigs? und allein d</div>
+  <div class="evt-info">Quelle: Rausgegangen Köln</div>
+</div>
   <div class="sidebar-box" style="margin-top:18px;">
     <h3>Veranstaltungsportale</h3>
 <div class="portal-links"><a class="portal-link" href="https://www.koeln.de/veranstaltungen/" target="_blank" rel="noopener"><span class="icon">🎭</span>Köln.de Veranstaltungen</a><a class="portal-link" href="https://www.koelnticket.de/veranstaltungen/" target="_blank" rel="noopener"><span class="icon">🎵</span>KölnTicket</a><a class="portal-link" href="https://www.koelner-philharmonie.de/" target="_blank" rel="noopener"><span class="icon">🏛️</span>Kölner Philharmonie</a><a class="portal-link" href="https://www.eventim.de/city/koeln-218/" target="_blank" rel="noopener"><span class="icon">🎪</span>Eventim Köln</a><a class="portal-link" href="https://www.koeln-events.de/" target="_blank" rel="noopener"><span class="icon">🌐</span>Köln-Events</a><a class="portal-link" href="https://www.museenkoeln.de/" target="_blank" rel="noopener"><span class="icon">🎨</span>Museen Köln</a></div>
@@ -189,437 +399,583 @@ footer a { color: #85C1E9; }
 </div>
 <div class="region-panel" data-region="rbk">
   <div style="margin: 20px 0 8px 0; font-family: sans-serif; font-size: 0.95rem; color: var(--rbk-blau); font-weight:600;">Veranstaltungen im RBK</div>
-<div class="hinweis" style="background:#EAFAF1; border-color:#27AE60;">📅 31 Veranstaltungshinweise aus lokalen Nachrichten</div>
-<div class="evt-card">
-  <div class="evt-datum">21. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/buergermeister-entschuldigt-sich-bei-sportverband-was-in-burscheid-schiefgelaufen-ist-TJGD27MRONBT3GG2CAYEA4IC5M.html" target="_blank" rel="noopener">Bürgermeister entschuldigt sich bei Sportverband – was in Burscheid schiefgelaufen ist</a></h3>
-  <div class="evt-teaser">Die Stadt Burscheid wollte die Gebühren für Turn- und Sporthallen um 30 Prozent erhöhen. Der Stadtsportverbandsvorsitzende kritisierte den Plan scharf – und bekam eine ungewöhnliche Entschuldigung vom</div>
-  <div class="evt-info">Quelle: RGA Burscheid</div>
-</div>
-<div class="evt-card">
-  <div class="evt-datum">14. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/kind-bei-unfall-an-der-eich-in-wermelskirchen-schwer-verletzt-U2XSOYPORBHPRKC4EZFOJC3N2E.html" target="_blank" rel="noopener">Kind bei Unfall an der Eich in Wermelskirchen schwer verletzt</a></h3>
-  <div class="evt-teaser">Die Siebenjährige wurde am Dienstagnachmittag in Wermelskirchen vom Pkw einer 78-Jährigen getroffen. Das Kind soll auf die Fahrbahn gelaufen sein.</div>
-  <div class="evt-info">Quelle: RGA Wermelskirchen</div>
-</div>
-<div class="evt-card">
-  <div class="evt-datum">14. Okt 2026</div>
-  <h3><a href="https://www.presseportal.de/blaulicht/pm/62459/6370675" target="_blank" rel="noopener">POL-RBK: Wermelskirchen - Kind rutscht aus und wird von Pkw überrollt</a></h3>
-  <div class="evt-teaser">Wermelskirchen (ots) - Am Dienstag (13.10.) ereignete sich ein Verkehrsunfall in der Straße Eich, bei dem ein 7-jähriges Mädchen schwer verletzt wurde. Bei Eintreffen der Polizisten wurde sie durch me</div>
-  <div class="evt-info">Quelle: Presseportal Polizei RBK</div>
-</div>
-<div class="evt-card">
-  <div class="evt-datum">14. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/wieder-party-in-wermelskirchen-halloween-geht-s-im-buergerzentrum-rund-J7XNDNKL4NDCJMVYLMVS3OYGMI.html" target="_blank" rel="noopener">Wieder Party in Wermelskirchen: Halloween geht&#x27;s im Bürgerzentrum rund</a></h3>
-  <div class="evt-teaser">Chris Steinke plant wieder etwas Großes. Diesmal sind am Nachmittag auch die Kinder eingeladen, bevor es dann ab 21 Uhr für die Erwachsenen weitergeht.</div>
-  <div class="evt-info">Quelle: RGA Wermelskirchen</div>
-</div>
-<div class="evt-card">
-  <div class="evt-datum">14. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/von-frau-liebevoll-zur-institution-15-jahre-erfolg-in-burscheid-IUX7EBASIZHOZLQJODIZ2IURQ4.html" target="_blank" rel="noopener">Von „Frau Liebevoll&quot; zur Institution – 15 Jahre Erfolg in Burscheid</a></h3>
-  <div class="evt-teaser">Seit 15 Jahren verkauft Anastasia Vasilakopoulou in ihrem Laden „Liebevoll“ Kerzen, Schmuck, Deko und Baby-Kinderkleidung. Am 17. Oktober ab 13 Uhr feiert sie das Jubiläum in der Hauptstraße 35. Warum</div>
-  <div class="evt-info">Quelle: RGA Burscheid</div>
-</div>
-<div class="evt-card">
-  <div class="evt-datum">20. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/70-musiker-im-altenberger-dom-ovh-zelebriert-die-grossen-gefuehle-in-der-romantik-CMQ43YTZFBH6DGV5HB7SABROE4.html" target="_blank" rel="noopener">70 Musiker im Altenberger Dom – OVH zelebriert die großen Gefühle in der Romantik</a></h3>
-  <div class="evt-teaser">Der Orchesterverein Hilgen widmet sein Novemberkonzert am 7. November im Altenberger Dom zwei Giganten der Romantik: Carl Maria von Weber und Richard Wagner. Auf dem Programm stehen unter anderem die </div>
-  <div class="evt-info">Quelle: RGA Burscheid</div>
-</div>
-<div class="evt-card">
-  <div class="evt-datum">20. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/wann-die-krippenausstellung-in-burscheid-startet-und-wie-sie-mitmachen-koennen-5OBEWZDGF5HERH47MKLO7TIVWE.html" target="_blank" rel="noopener">Wann die Krippenausstellung in Burscheid startet – und wie Sie mitmachen können</a></h3>
-  <div class="evt-teaser">Woher stammt die Krippe? Was macht sie besonders? Der Kulturverein Burscheid will die persönlichen Geschichten hinter den Weihnachtskrippen sammeln. Wer seine Krippe für die Ausstellung im Kulturbadeh</div>
-  <div class="evt-info">Quelle: RGA Burscheid</div>
-</div>
-<div class="evt-card">
-  <div class="evt-datum">13. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/warum-die-sanierung-des-vitalbads-burscheid-so-lange-dauerte-interview-FAU4D55V2RDHZEMC4HFMQTGTDE.html" target="_blank" rel="noopener">Warum die Sanierung des Vitalbads Burscheid so lange dauerte – Interview</a></h3>
-  <div class="evt-teaser">Nach langer Wartezeit öffnet das Vitalbad Burscheid am 19. Oktober um 14 Uhr wieder. Geschäftsführer Christian Meuthen spricht über unerwartete Baumängel, fehlerhafte Putzarbeiten und warum noch Resta</div>
-  <div class="evt-info">Quelle: RGA Burscheid</div>
-</div>
-<div class="evt-card">
-  <div class="evt-datum">13. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/remscheid/neu-im-bergischen-bock-auf-holz-tischler-laesst-familien-eigene-moebel-bauen-73P5DKV5D5G65EOKQ562ZDSWR4.html" target="_blank" rel="noopener">Neu im Bergischen: Bock auf Holz? Tischler lässt Familien eigene Möbel bauen</a></h3>
-  <div class="evt-teaser">Der Remscheider Tischler, Designer und Papa von zwei Kindern bietet in Remscheid, Solingen und Wermelskirchen ab sofort Workshops an. Wie es abläuft, was es kostet – und warum er das gerade in diesen </div>
-  <div class="evt-info">Quelle: RGA Wermelskirchen</div>
-</div>
-<div class="evt-card">
-  <div class="evt-datum">13. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/20-jahre-ymcd-gemischter-chor-feiert-mit-gaesten-und-trommelgruppe-assaman-QQQBI6ZAFJEPPAJ2JYWL2EMOWI.html" target="_blank" rel="noopener">20 Jahre ymcd: Gemischter Chor feiert mit Gästen und Trommelgruppe Assaman</a></h3>
-  <div class="evt-teaser">Rund 30 Sängerinnen und Sänger des ymcd haben am Sonntagabend ihr 20-jähriges Jubiläum gefeiert – mit so vielen Gästen, dass die Sitzplätze nicht reichten. Auf der Bühne standen auch die „Kirchfeldpän</div>
-  <div class="evt-info">Quelle: RGA Burscheid</div>
-</div>
+<div class="hinweis" style="background:#EAFAF1; border-color:#27AE60;">📅 40 kommende Termine</div>
 <div class="evt-card">
   <div class="evt-datum">22. Okt 2026</div>
-  <h3><a href="https://www.presseportal.de/blaulicht/pm/62459/6375801" target="_blank" rel="noopener">POL-RBK: Bergisch Gladbach - 29-Jähriger nach Ladendiebstahl vorläufig festgenommen</a></h3>
-  <div class="evt-teaser">Bergisch Gladbach (ots) - Ein 29-Jähriger wurde am Mittwoch (21.10.) vorläufig festgenommen, nachdem er aus einem Supermarkt am Refrather Weg mehrere Gegenstände entwendet hatte. Der Ladendetektiv des</div>
-  <div class="evt-info">Quelle: Presseportal Polizei RBK</div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Ferienaktion: Workshop Papier aus Pflanzen</a></h3>
+  <div class="evt-ort">&#x1F4CD; LVR-Industriemuseum Papiermühle Alte Dombach, Alte Dombach 1 (an der Kürtener Str.), 51465 Bergisch Gladbach</div>
+  <div class="evt-teaser">Welche Pflanzen eignen sich eigentlich zur Papierherstellung – und warum? In diesem Workshop gehen die Teilnehmenden auf „Natursuche“ und entdecken, welche Fasern, Strukturen und Eigenschaften in Blät</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">15. Okt 2026</div>
-  <h3><a href="https://www.glaktuell.net/roemische-hausaltaere-und-heldengeschichten-koelner-museen-laden-kinder-in-den-herbstferien-ein/" target="_blank" rel="noopener">Römische Hausaltäre und Heldengeschichten: Kölner Museen laden Kinder in den Herbstferien ein</a></h3>
-  <div class="evt-teaser">Der Museumsdienst Köln bietet in den Ferien Workshops und Führungen für Kinder und Jugendliche an. Für fast alle Angebote gibt es noch freie Plätze. In den Herbstferien können Kinder und Jugendliche i</div>
-  <div class="evt-info">Quelle: GL Aktuell (Gesamt)</div>
+  <div class="evt-datum">23. Okt 2026</div>
+  <h3><a href="https://shop.badino-overath.de/de/bookings/block_list/course_id/97/" target="_blank" rel="noopener">Herbstferien Intensiv Schwimm-Kurse</a></h3>
+  <div class="evt-ort">&#x1F4CD; Badino Freizeitbad, Propsteistraße 25, 51491 Overath</div>
+  <div class="evt-teaser">Dieser Kurs wird täglich in den Ferien angeboten. Die Ferienkurse sind bewusst als Auftakt einer langfristigen Initiative angelegt. Ziel aller Projektpartner ist es, die Schwimmausbildung in Overath d</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">15. Okt 2026</div>
-  <h3><a href="https://www.glaktuell.net/kinder-fussballcup-am-18-oktober-anmeldung-auch-noch-am-turniertag-moeglich/" target="_blank" rel="noopener">Kinder-Fußballcup am 18. Oktober: Anmeldung auch noch am Turniertag möglich</a></h3>
-  <div class="evt-teaser">Beim Turnier „Kommen, kicken, Tore schießen!“ in Hand/Gronau sind Kinder von 8 bis 14 Jahren willkommen – als Team oder allein. Im Anschluss folgt ein einwöchiges Fußballcamp. Spaß, Fairplay und Teamg</div>
-  <div class="evt-info">Quelle: GL Aktuell (Gesamt)</div>
+  <div class="evt-datum">23. Okt 2026</div>
+  <h3><a href="https://www.shop.industriemuseum.lvr.de/#/product/event/14084?date=2026-04-02&amp;date_id=79371" target="_blank" rel="noopener">Ferienaktion: Druckwerkstatt</a></h3>
+  <div class="evt-ort">&#x1F4CD; LVR-Industriemuseum Papiermühle Alte Dombach, Alte Dombach 1 (an der Kürtener Str.), 51465 Bergisch Gladbach</div>
+  <div class="evt-teaser">Hier wird mit Hoch- und Tiefdruck experimentiert und dabei mit verschiedenen Techniken überraschende Effekte und echte gedruckte Unikate erzeugt. Jedes Kind kann eigene selbstgestaltete Bilder drucken</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">15. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/so-haesslich-gruenen-politikerin-aus-burscheid-will-stromkasten-nicht-mehr-sehen-5K4UX7CIFJBE5JOYOIRSSK2TCU.html" target="_blank" rel="noopener">So hässlich&quot;: Grünen-Politikerin aus Burscheid will Stromkasten nicht mehr sehen</a></h3>
-  <div class="evt-teaser">Das Kulturforum Burscheid lockt viele Besucher an – doch am Eingang gibt es Verbesserungsbedarf. Ein unschöner Stromkasten und fehlende Werbung für Veranstaltungen stören die Ortspolitiker. Welche Lös</div>
-  <div class="evt-info">Quelle: RGA Burscheid</div>
+  <div class="evt-datum">24. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 40 €</span></div>
+  <h3><a href="https://t-ruppio.de/kraeuterwanderung/" target="_blank" rel="noopener">Kräuterwanderung + Pilze mit Thordis Ruppio und Frank Langer</a></h3>
+  <div class="evt-ort">&#x1F4CD; Parkplatz Rausmühle, Rausmühle 1, 42929 Wermelskirchen</div>
+  <div class="evt-teaser">Diese besondere Kräuterwanderung und Pilzführung führt Thordis Ruppio zusammen mit dem Pilzsachverständigen Frank Langer aus Remscheid durch. Der Weg führt die Gruppe durchs Eifgental, zunächst flussa</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">15. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/35-jahre-kuesterin-in-burscheid-ursula-sander-verabschiedet-sich-ZYETK6HFVRC5NARKHONZURKXLY.html" target="_blank" rel="noopener">35 Jahre Küsterin in Burscheid – Ursula Sander verabschiedet sich</a></h3>
-  <div class="evt-teaser">Ursula Sander geht nach 35 Jahren als Küsterin der Evangelischen Kirchengemeinde Burscheid in den Ruhestand. Sie kam 1990 aus Siebenbürgen nach Deutschland und übernahm die Stelle. Ihr Abschiedsgottes</div>
-  <div class="evt-info">Quelle: RGA Burscheid</div>
+  <div class="evt-datum">24. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 299 €</span></div>
+  <h3><a href="https://www.bergische-genusstage.de/programm/" target="_blank" rel="noopener">Bergische Genusstage - Diepeschrather Mühle</a></h3>
+  <div class="evt-ort">&#x1F4CD; Relais &amp; Châteaux Hotel Diepeschrather Mühle, Diepeschrath 2-6, 51469 Bergisch Gladbach</div>
+  <div class="evt-teaser">Der ambitionierte TV-Koch Nelson Müller kreiert ein fantastisches 6-Gänge-Fine-Dining-Menü Champagnerempfang - Maison Champagne Laurent-Perrier, Magnum Apero mit No 224 GIN und Qualitätsbrennerei Reis</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">17. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/endlich-wieder-party-in-wermelskirchen-chris-steinke-macht-s-richtig-NAOVWLPDH5HIXGSLCLYFAWM6JQ.html" target="_blank" rel="noopener">Endlich wieder Party in Wermelskirchen: Chris Steinke macht’s richtig</a></h3>
-  <div class="evt-teaser">Der DJ und Unternehmer holt seit Frühjahr die großen Veranstaltungen wieder nach Wermelskirchen. Das ist gut so und passt in die Zeit.</div>
-  <div class="evt-info">Quelle: RGA Wermelskirchen</div>
+  <div class="evt-datum">24. Okt 2026</div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Musikalische Lesung: Gogols „Die Nase“</a></h3>
+  <div class="evt-ort">&#x1F4CD; Thomas-Morus-Akademie, Overather Straße 51-53, 51429 Bergisch Gladbach</div>
+  <div class="evt-teaser">wir laden Dich herzlich zu einer musikalischen Lesung ein: Der Kölner Sprecher und Literaturvermittler Stephan Schäfer liest Nikolaj Gogols fantastische Erzählung „Die Nase“. Am Klavier gestaltet der </div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">17. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/burscheid-schueler-der-montanusschule-suchen-namen-fuer-ihr-kunst-huhn-5ET4FZ46ZREBFOG32IJGE4PQA4.html" target="_blank" rel="noopener">Burscheid: Schüler der Montanusschule suchen Namen für ihr Kunst-Huhn</a></h3>
-  <div class="evt-teaser">Ein Meter groß, mit Regenbogen-Kamm und einer Sonne auf der Brust: Die Klasse 4a hat monatelang an einem Kunst-Huhn gearbeitet. Nach der Ausstellung im Kreishaus steht das bunte Tier nun wieder in Bur</div>
-  <div class="evt-info">Quelle: RGA Burscheid</div>
+  <div class="evt-datum">25. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 299 €</span></div>
+  <h3><a href="https://bergische-genusstage.de/programm/" target="_blank" rel="noopener">Bergische Genusstage - Der Hof</a></h3>
+  <div class="evt-ort">&#x1F4CD; Der Hof, Altenberger-Dom-Str. 152, 51467 Bergisch Gladbach</div>
+  <div class="evt-teaser">„Champagner-4Hand-Lunch dem bekannten Der Berliner Kultkoch mit bergischen Wurzeln, Philipp „the Bird“ Vogel und Küchenchef Marius Sprenger&quot; verwöhnen die Gäste mit einer spannenden kulinarischen Liäs</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">17. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/mehr-alte-autos-aufwermelskirchens-strassen-RTRVPAT4TSW2ECYKO7HSO6WO4I.html" target="_blank" rel="noopener">Mehr alte Autos aufWermelskirchens Straßen</a></h3>
-  <div class="evt-teaser">Komm schon, noch einmal durch den TÜV: Warum eine wachsende Zahl von Autofahrern an ihren „Nuckelpinnen“ festhält und was bergische Werkstätten raten, wenn das Fahrzeug in die Jahre kommt.</div>
-  <div class="evt-info">Quelle: RGA Wermelskirchen</div>
+  <div class="evt-datum">25. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 10 €</span></div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Papierkunst zum Anfassen – Öffentliche Ausstellungs- und Werkstattführung durch die Wechselausstellung „PAPIER! Handgeschöpftes von John Gerard“</a></h3>
+  <div class="evt-ort">&#x1F4CD; LVR-Industriemuseum Papiermühle Alte Dombach, Alte Dombach 1 (an der Kürtener Str.), 51465 Bergisch Gladbach</div>
+  <div class="evt-teaser">Färben, Schöpfen, Falten – Wie entstehen aus Wasser, Fasern und Farben papierene Kunstwerke? In der Ausstellungswerkstatt können Besuchende an der Schöpfbütte mit verschieden Materialien experimentier</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">10. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/the-queen-kings-in-burscheid-coverband-wagt-sich-an-seltene-queen-songs-CF7PWEEQKZF3HAC42PQAR67LC4.html" target="_blank" rel="noopener">The Queen Kings in Burscheid: Coverband wagt sich an seltene Queen-Songs</a></h3>
-  <div class="evt-teaser">Die Coverband The Queen Kings feiert Freddie Mercury und seine Band Queen auf Bühnen in ganz Europa. Am Freitagabend war sie in Burscheid zu Gast. Und präsentierte etwas, das selbst dem Original nie g</div>
-  <div class="evt-info">Quelle: RGA Burscheid</div>
+  <div class="evt-datum">25. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 6 €</span></div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Öffentliche Spezialführung: Die Papiermaschine (PM4)</a></h3>
+  <div class="evt-ort">&#x1F4CD; LVR-Industriemuseum Papiermühle Alte Dombach, Alte Dombach 1 (an der Kürtener Str.), 51465 Bergisch Gladbach</div>
+  <div class="evt-teaser">In dieser Spezialführung kann entdeckt werden, wie aus Fasern endlose Papierbahnen wurden, welche Kraft und Präzision in der Maschine stecken und warum diese beeindruckende Papiermaschine so ein beson</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">12. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/burscheid-autorin-alix-bente-liest-aus-roman-kiss-me-in-orange-IWOIOH4BUBDGNMJWDJ5W6NUICU.html" target="_blank" rel="noopener">Burscheid: Autorin Alix Bente liest aus Roman „Kiss me in Orange&quot;</a></h3>
-  <div class="evt-teaser">Wer bei Herbstlaub und großen Gefühlen an „Gilmore Girls“ denkt, sollte sich diesen Abend nicht entgehen lassen: Am Mittwoch, 14. Oktober, liest Alix Bente in der Buchhandlung Ute Hentschel aus „Kiss </div>
-  <div class="evt-info">Quelle: RGA Burscheid</div>
+  <div class="evt-datum">25. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 3 €</span></div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Bienen-Sonntag</a></h3>
+  <div class="evt-ort">&#x1F4CD; Bergisches Museum für Bergbau, Handwerk und Gewerbe, Burggraben 19, 51429 Bergisch Gladbach</div>
+  <div class="evt-teaser">Die Imkerinnen und Imker des Bienenzuchtvereins Bergisch Gladbach e. V. vermitteln allerlei Wissenswertes über das Bienenjahr und das Imker-Handwerk. Die eifrig summenden Museums-Bienen und eine Schau</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">12. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/neu-in-burscheid-so-begruesst-die-stadt-ihre-neubuerger-ZUOIKVEQNZHSRGRD4IKISUZBW4.html" target="_blank" rel="noopener">Neu in Burscheid: So begrüßt die Stadt ihre Neubürger</a></h3>
-  <div class="evt-teaser">Bei einem Spaziergang durchs Städtchen lernen Zugezogene sollen auf Einladung der Stadt ihre neue Heimat besser kennenlernen. Das sind ihre Eindrücke.</div>
-  <div class="evt-info">Quelle: RGA Wermelskirchen</div>
+  <div class="evt-datum">25. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 5 €</span></div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Öffentliche Führung im Bergischen Museum für Bergbau, Handwerk und Gewerbe</a></h3>
+  <div class="evt-ort">&#x1F4CD; Bergisches Museum für Bergbau, Handwerk und Gewerbe, Burggraben 19, 51429 Bergisch Gladbach</div>
+  <div class="evt-teaser">Jeden letzten Sonntag im Monat laden unsere fachkundigen Museumskenner auf einen unterhaltsamen und informativen Spaziergang ein. Im Haupthaus und auf dem Außengelände erfahren Sie Wissenswertes über </div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">12. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/wann-der-burscheider-stadtlauf-stattfand-und-warum-die-strecke-so-schnell-war-5FSJFJ2JMRAKTETBO4D3K6B32I.html" target="_blank" rel="noopener">Wann der Burscheider Stadtlauf stattfand – und warum die Strecke so schnell war</a></h3>
-  <div class="evt-teaser">Beim 24. Stadtlauf passte alles. Das Wetter war freundlich, die Stimmung bestens, die Strecke schnell - und 60 Jugendliche setzten ein deutliches Zeichen für die Demokratie. Wolfgang Weitzdörfer, Mita</div>
-  <div class="evt-info">Quelle: RGA Burscheid</div>
+  <div class="evt-datum">25. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 5 €</span></div>
+  <h3><a href="https://www.blitz-reisen.de/veranstaltungen-im-reisezentrum/" target="_blank" rel="noopener">Multivisionsshow Norwegen</a></h3>
+  <div class="evt-ort">&#x1F4CD; Rheinisch-Bergisches Reisezentrum, Diepenbroich 51, 51491 Overath</div>
+  <div class="evt-teaser">Erleben Sie bei dieser Veranstaltung die Vielfalt Norwegens. Sie lernen Norwegen von Kap Lindesnes im Süden bis zur nördlichen Spitze, dem Nordkap, kennen. Traumhafte Fjorde und Fjelle erwarten Sie au</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">16. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/wenn-dann-nur-in-wermelskirchen-patienten-informieren-sich-am-krankenhaus-ueber-hueft-op-BSG2A3LNO5BYNG3FYYQP26JLWA.html" target="_blank" rel="noopener">„Wenn, dann nur in Wermelskirchen“: Patienten informieren sich am Krankenhaus über Hüft-Op</a></h3>
-  <div class="evt-teaser">Zu einer Info-Veranstaltung der Abteilung für Orthopädie und Unfallchirurgie kamen viele Wermelskirchener, aber auch potenzielle Patienten aus anderen Städten an die Königstraße. Viele sind froh, dass</div>
-  <div class="evt-info">Quelle: RGA Wermelskirchen</div>
+  <div class="evt-datum">25. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 30 €</span></div>
+  <h3><a href="https://weltklassik.de/index.php?page=termine&amp;id=5445" target="_blank" rel="noopener">Weltklassik einmal anders - Keep your fingers crossed! Piano Crossover!</a></h3>
+  <div class="evt-ort">&#x1F4CD; Schloss Eulenbroich, Zum Eulenbroicher Auel 19, 51503 Rösrath</div>
+  <div class="evt-teaser">Katharina Hack &quot;Ich spiele für Weltklassik am Klavier, weil Musik machen ein innerstes Bedürfnis ist und weil mich die Menschen, die ich bei den Konzerten treffen darf, inspirieren!&quot; - Katharina Hack </div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">16. Okt 2026</div>
-  <h3><a href="https://www.presseportal.de/blaulicht/pm/62459/6372208" target="_blank" rel="noopener">POL-RBK: Bergisch Gladbach - 43-Jährige nach räuberischem Diebstahl vorläufig festgenommen</a></h3>
-  <div class="evt-teaser">Bergisch Gladbach (ots) - Am Donnerstag (15.10.) nahm die Polizei eine 43-Jährige ohne festen Wohnsitz vorläufig fest, nachdem sie in einem alkoholisierten Zustand eine Sonnenbrille aus einem Optikerg</div>
-  <div class="evt-info">Quelle: Presseportal Polizei RBK</div>
+  <div class="evt-datum">26. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 15 €</span></div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Wandern &amp; Workout</a></h3>
+  <div class="evt-ort">&#x1F4CD; Wanderparkplatz Eifgen, Eifgen 8, 42929 Wermelskirchen</div>
+  <div class="evt-teaser">Erleben Sie die perfekte Kombination aus Wandern in der Natur in Verbindung mit einem effektiven Workout. Es handelt sich um ein Ganzkörpertraining für jedes Fitnesslevel. Hier können Sie Energie tank</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">16. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/wermelskirchen-ist-auch-fuer-die-generation-z-lebenswert-alexander-hibst-ist-neuer-chef-der-jungen-7IYBXNHQUVDKBFJUB3JGPLOX2A.html" target="_blank" rel="noopener">&quot;Wermelskirchen ist auch für die Generation Z lebenswert&quot;: Alexander Hibst ist neuer Chef der Jungen Union</a></h3>
-  <div class="evt-teaser">Der 18-Jährige trägt seine Heimatstadt im Herzen. Und ist fest überzeugt davon, dass auf kommunaler Ebene auch politisch einiges möglich ist. „Am wichtigsten ist uns aber, mit den Leuten ins Gespräch </div>
-  <div class="evt-info">Quelle: RGA Wermelskirchen</div>
+  <div class="evt-datum">26. Okt 2026</div>
+  <h3><a href="https://www.bergischgladbach.de/fuehrungen-zanders-gelaende2.aspx" target="_blank" rel="noopener">Allgemeine Führung über das Zanders-Areal</a></h3>
+  <div class="evt-ort">&#x1F4CD; Zanders-Areal, An der Gohrsmühle 25, 51465 Bergisch Gladbach</div>
+  <div class="evt-teaser">Der Rundgang über das 36 Hektar große Gelände führt Vergangenheit und Zukunft zusammen: Neben Einblicken in die Geschichte des Areals, das für fast zwei Jahrhunderte die Stadtentwicklung prägte, erläu</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">16. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/freizeittipps-fuers-wochenende-im-bergischen-land-SBCMGOS3MA5DX2EGQNBKE2N5EI.html" target="_blank" rel="noopener">Freizeittipps fürs Wochenende im Bergischen Land</a></h3>
-  <div class="evt-teaser">Vom „Laut und Hart“-Festival in Solingen über das Kartoffelfest in Lindlar bis hin zur Frauenkleider- und Kindersachenbörse in Wermelskirchen – am Wochenende ist im Bergischen Land wieder einiges los.</div>
-  <div class="evt-info">Quelle: RGA Wermelskirchen</div>
+  <div class="evt-datum">27. Okt 2026</div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Ferienaktion: Experimentierwerkstatt Drucken und Stempeln</a></h3>
+  <div class="evt-ort">&#x1F4CD; LVR-Industriemuseum Papiermühle Alte Dombach, Alte Dombach 1 (an der Kürtener Str.), 51465 Bergisch Gladbach</div>
+  <div class="evt-teaser">In dieser kreativen Werkstatt tauchen wir in die bunte Welt der Drucke ein und experimentieren mit unseren ganz eigenen Drucken und Stempeln. Wir arbeiten mit Tiefdruckmaschinen, echten Druckfarben, v</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">9. Okt 2026</div>
-  <h3><a href="https://www.glaktuell.net/bergisch-gladbach-setzt-zeichen-gegen-gewalt-an-frauen-und-maedchen/" target="_blank" rel="noopener">Bergisch Gladbach setzt Zeichen gegen Gewalt an Frauen und Mädchen</a></h3>
-  <div class="evt-teaser">Lesungen, Filmvorführungen, Workshops und Aktionen im Stadtgebiet: Vom 23. bis 27. November beteiligt sich Bergisch Gladbach mit einer Aktionswoche am Internationalen Tag zur Beendigung von Gewalt geg</div>
-  <div class="evt-info">Quelle: GL Aktuell (Gesamt)</div>
+  <div class="evt-datum">27. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 30 €</span></div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Fondue Abende in der Bergischen Stube</a></h3>
+  <div class="evt-ort">&#x1F4CD; Flammkuchenrestaurant &quot;Bergische Stube&quot; im Tagungshotel Kardinal schulte Haus, Overather Str. 51-53, 51429 Bergisch Gladbach</div>
+  <div class="evt-teaser">Von Oktober 2026 bis März 2027 lädt das Kardinal Schulte Haus zu stimmungsvollen Fondue-Abenden in die &quot;Bergische Stube&quot; ein. Erlebe einen geselligen Abend voller Geschmack und Atmosphäre. Neben dem k</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">9. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/burscheid-sperrungen-wegen-stadtlauf-am-11-oktober-was-autofahrer-wissen-muessen-SE5D5F62UJFAZMV4XFBEDB34UM.html" target="_blank" rel="noopener">Burscheid: Sperrungen wegen Stadtlauf am 11. Oktober – was Autofahrer wissen müssen</a></h3>
-  <div class="evt-teaser">Für den Stadtlauf am 11. Oktober werden in Burscheid bereits Poller aufgestellt. Teile der Innenstadt und der Radtrasse sind gesperrt. Wer spontan mitlaufen will: Nachmeldungen für den 3- und 10-Kilom</div>
-  <div class="evt-info">Quelle: RGA Burscheid</div>
+  <div class="evt-datum">27. Okt 2026</div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Klöntreff auf dem Lüderich</a></h3>
+  <div class="evt-ort">&#x1F4CD; Restaurant Bergwerk, Am Golfplatz 1, 51491 Overath</div>
+  <div class="evt-teaser">Herzliche Einladung an Ehemalige, Freunde und Nachbarn zum diesjährigen Klöntreff auf dem Lüderich am 48. Jahrestag der Bergwerks-Stilllegung, Dienstag, dem 27. Oktober 2026, ab 19 Uhr im Restaurant B</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">9. Okt 2026</div>
-  <h3><a href="https://www.glaktuell.net/skateboard-workshop-in-bergisch-gladbach-drei-tage-auf-dem-board/" target="_blank" rel="noopener">Skateboard-Workshop in Bergisch Gladbach: Drei Tage auf dem Board</a></h3>
-  <div class="evt-teaser">Skateboard fahren lernen, neue Tricks ausprobieren und die eigene Technik verbessern: In den Herbstferien bietet die Stadt Bergisch Gladbach einen dreitägigen Workshop für Kinder und Jugendliche zwisc</div>
-  <div class="evt-info">Quelle: GL Aktuell (Gesamt)</div>
+  <div class="evt-datum">28. Okt 2026</div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Ferienaktion: Papier und Bücher selbst herstellen und verschönern</a></h3>
+  <div class="evt-ort">&#x1F4CD; LVR-Industriemuseum Papiermühle Alte Dombach, Alte Dombach 1 (an der Kürtener Str.), 51465 Bergisch Gladbach</div>
+  <div class="evt-teaser">Vom eigenen Papier bis zum fertigen Buch: Hier gestalten Kinder Schritt für Schritt ihr ganz persönliches Werk mit wundervollen, kleinen Details. So entsteht ein einzigartiges Buch voller Kreativität </div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">9. Okt 2026</div>
-  <h3><a href="https://www.presseportal.de/blaulicht/pm/62459/6367817" target="_blank" rel="noopener">POL-RBK: Bergisch Gladbach - Nächtlicher Einbruch bei einem Werkzeughersteller in Lustheide</a></h3>
-  <div class="evt-teaser">Bergisch Gladbach (ots) - In der Nacht zu Donnerstag (08.10.) erhielt ein Mitarbeiter einer Sicherheitsfirma um 04:30 Uhr einen Einbruchalarm und fuhr unverzüglich zu dem Geschäft eines Werkzeugherste</div>
-  <div class="evt-info">Quelle: Presseportal Polizei RBK</div>
+  <div class="evt-datum">29. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 6 €</span></div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Kinderführung: Kindheit in der Alten Dombach um 1850</a></h3>
+  <div class="evt-ort">&#x1F4CD; LVR-Industriemuseum Papiermühle Alte Dombach, Alte Dombach 1 (an der Kürtener Str.), 51465 Bergisch Gladbach</div>
+  <div class="evt-teaser">Die Papiermacherkinder Gertrud und Johann Berg wohnen und arbeiten in der Papiermühle. Wie leben sie und welche Arbeiten müssen sie in der Mühle verrichten? Im Anschluss an die Führung kann jeder eine</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">9. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/burscheid-autor-henrick-clausing-liest-mit-hund-filou-vor-50-kindern-JF2K5TUEFBAWPPEWQSLK2LKRME.html" target="_blank" rel="noopener">Burscheid: Autor Henrick Clausing liest mit Hund Filou vor 50 Kindern</a></h3>
-  <div class="evt-teaser">Eine Lesung der besonderen Art: Der Osnabrücker Autor Henrick Clausing stellte sein Kinderbuch über Berufshunde vor – mit seinem eigenen Hund Filou als Star des Vormittags. Der kleine Vierbeiner ist a</div>
-  <div class="evt-info">Quelle: RGA Burscheid</div>
+  <div class="evt-datum">30. Okt 2026</div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Ferienaktion: Workshop Leuchtende Herbststimmung</a></h3>
+  <div class="evt-ort">&#x1F4CD; LVR-Industriemuseum Papiermühle Alte Dombach, Alte Dombach 1 (an der Kürtener Str.), 51465 Bergisch Gladbach</div>
+  <div class="evt-teaser">Gemeinsam basteln wir wunderschöne Herbstlichter, in die Kerzen gestellt werden können. Aus verschiedenen bunten Blättern und warmem Kerzenlicht entsteht eine gemütliche Herbstatmosphäre. Ein Angebot </div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">30. Okt 2026</div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Ökologische Pilzwanderung für Familien</a></h3>
+  <div class="evt-ort">&#x1F4CD; Besucher-Portal Steinhaus, Steinhaus 1, 51429 Bergisch Gladbach</div>
+  <div class="evt-teaser">Entdeckt die faszinierende Welt der Pilze im Naturschutzgebiet Königsforst! Bei dieser naturkundlichen Exkursion erfahrt ihr, welche zentrale Rolle Pilze im Ökosystem Wald spielen, wie sie leben, sich</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">30. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 7 €</span></div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Halloween-Spezial: Taschenlampenführung Kindheit in der Alten Dombach um 1850</a></h3>
+  <div class="evt-ort">&#x1F4CD; LVR-Industriemuseum Papiermühle Alte Dombach, Alte Dombach 1 (an der Kürtener Str.), 51465 Bergisch Gladbach</div>
+  <div class="evt-teaser">Hier erwacht die Papiermühle zu einem geheimnisvollen Ort! Und Gertrud und Johann Berg, die Papiermacherkinder, haben so manche schaurige Geschichte zu erzählen. Mit Taschenlampe ausgestattet machen s</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">30. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 40 €</span></div>
+  <h3><a href="https://www.bergischerloewe.de/programmdetails.aspx?vid=93834882-abf6-4dbc-b9eb-1ef763e67946&amp;datum=30.10.2026" target="_blank" rel="noopener">K POP Live!</a></h3>
+  <div class="evt-ort">&#x1F4CD; Bürgerhaus Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach</div>
+  <div class="evt-teaser">Bereit für eine Show, die Euch komplett aus dem Alltag reißt? Für einen Abend voller Beats, Emotionen, spektakulärer Moves und echtem Idol-Feeling? Dann heißt es jetzt: Licht aus, Musik an und Bühne f</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">30. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 3 €</span></div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Taschenlampenführung: „Nachts im Museum: Ensors Spukgestalten“</a></h3>
+  <div class="evt-ort">&#x1F4CD; Kunstmuseum Villa Zanders, Konrad-Adenauer-Platz 8, 51465 Bergisch Gladbach</div>
+  <div class="evt-teaser">Da ist doch eine Hexe! Und dort hinten ein gruseliger Teufel! Oh nein! Oder hat der nur eine Maske auf? Und der mit der roten Nase spuckt doch einfach Rotwein in einem hohen Bogen aus. Und da! Ein nac</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">30. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 259 €</span></div>
+  <h3><a href="https://www.bergische-genusstage.de/programm/" target="_blank" rel="noopener">Bergische Genusstage - Hotel zur Post</a></h3>
+  <div class="evt-ort">&#x1F4CD; Hotel-Restaurant zur Post, Altenberger-Dom-Str. 23, 51519 Odenthal</div>
+  <div class="evt-teaser">Die Sterneköche Christopher und Alejandro Wilbrand präsentieren feinste modern- bergische Küche mit einem exquisiten 5-Gänge-Gourmet-Menü. Champagnerempfang mit den Chefs - Maison Champagne Laurent-Pe</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">31. Okt 2026</div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Ferienaktion: Drachentag am Spielplatz</a></h3>
+  <div class="evt-ort">&#x1F4CD; LVR-Industriemuseum Papiermühle Alte Dombach, Alte Dombach 1 (an der Kürtener Str.), 51465 Bergisch Gladbach</div>
+  <div class="evt-teaser">Komm vorbei und bastle mit uns bunte Papierdrachen – ganz ohne Anmeldung! Sobald dein Drache fertig ist, geht es raus aufs Museumsgelände und den Spielplatz, wo wir gemeinsam unsere Drachen in den Him</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">31. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 149 €</span></div>
+  <h3><a href="https://www.bergische-genusstage.de/programm/" target="_blank" rel="noopener">Bergische Genusstage - Café &amp; Restaurant Rausmühle</a></h3>
+  <div class="evt-ort">&#x1F4CD; Café und Restaurant Rausmühle, Rausmühle 1, 42929 Wermelskirchen</div>
+  <div class="evt-teaser">Inhaber und Küchenchef Matjaz Ackun hat eine klare Philospohie: unsere Küche ist echtes Handwerk mit Respekt vor den Jahreszeiten und den Produkten, die sie hervorbringen. Regionalität, Saisonalität u</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">1. Nov 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 199 €</span></div>
+  <h3><a href="https://www.bergische-genusstage.de/programm/" target="_blank" rel="noopener">Bergische Genusstage - Altenberger Hof</a></h3>
+  <div class="evt-ort">&#x1F4CD; Altenberger Hof, Eugen-Heinen-Platz 7, 51519 Odenthal</div>
+  <div class="evt-teaser">Küchenchef Eiko Scharfenberger serviert seine modernen Speisen in einem fantastischen 5-Gänge Fine-Dining-Menü im Galerierestaurant Altenberger Hof inmitten hochrangiger Kunstausstellungen. Champagner</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">1. Nov 2026</div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Lesezeichen im SinnesWald</a></h3>
+  <div class="evt-ort">&#x1F4CD; SinnesWald, Wietsche 1, 42799 Leichlingen</div>
+  <div class="evt-teaser">Es lesen: Nora Heinemann-Saupp / Antje Kiencke Tilmann Krämer / Jan Lamsfuß Peter Lautz / Britta PeddenbruchZwischen-Musik spielen Schüler*innen der Musikschule Leichlingen. Anmeldung erforderlich unt</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">1. Nov 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 6 €</span></div>
+  <h3><a href="https://www.shop.industriemuseum.lvr.de/#/product/event/8488?date=2026-04-05&amp;date_id=79344" target="_blank" rel="noopener">Führung für Kinder in der Papiermühle Alte Dombach</a></h3>
+  <div class="evt-ort">&#x1F4CD; LVR-Industriemuseum Papiermühle Alte Dombach, Alte Dombach 1 (an der Kürtener Str.), 51465 Bergisch Gladbach</div>
+  <div class="evt-teaser">Die Papiermacherkinder Gertrud und Johann Berg wohnen und arbeiten in der Papiermühle. Wie leben sie und welche Arbeiten müssen sie in der Mühle verrichten? Im Anschluss an die Führung kann jeder eine</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">1. Nov 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 3 €</span></div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Handwerker-Vorführung: Spinnen mit Karin Dünner und Janina Endresz</a></h3>
+  <div class="evt-ort">&#x1F4CD; Bergisches Museum für Bergbau, Handwerk und Gewerbe, Burggraben 19, 51429 Bergisch Gladbach</div>
+  <div class="evt-teaser">Sonntagnachmittags lassen die ehrenamtlichen Handwerker im Bergischen Museum für Bergbau, Handwerk und Gewerbe historische Techniken aufleben. Schauen Sie ihnen über die Schulter. Heute können Sie Kar</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">1. Nov 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 22 €</span></div>
+  <h3><a href="https://www.schloss-eulenbroich.de/news/4050/ger-o-donnell--trevor-sexton--irish-folk-at-its-best" target="_blank" rel="noopener">Ger O Donnell &amp; Trevor Sexton – Irish Folk at its Best</a></h3>
+  <div class="evt-ort">&#x1F4CD; Schloss Eulenbroich, Zum Eulenbroicher Auel 19, 51503 Rösrath</div>
+  <div class="evt-teaser">Das gefeierte irische Folk-Duo Ger O Donnell (County Clare) und Trevor Sexton (County Limerick) kehrt 2026 endlich wieder nach Deutschland zurück und wird die Bühnen mit seiner unverwechselbaren Energ</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">2. Nov 2026</div>
+  <h3><a href="https://www.bergischgladbach.de/fuehrungen-zanders-gelaende2.aspx" target="_blank" rel="noopener">Themenführung: Historische Spurensuche - Papierproduktion auf Zanders</a></h3>
+  <div class="evt-ort">&#x1F4CD; Zanders-Areal, An der Gohrsmühle 25, 51465 Bergisch Gladbach</div>
+  <div class="evt-teaser">Auf eine Spurensuche in die Geschichte der industriellen Papierproduktion können sich interessierte Bürger*innen auf diesem Rundgang begeben: von der Papiermacherei mit sog. &quot;Holländern&quot; bis zu den ha</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">6. Nov 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 38 €</span></div>
+  <h3><a href="https://www.bergischerloewe.de/programmdetails.aspx?vid=5f7a0302-76c7-426b-b135-c37fe3fe1dbe&amp;datum=06.11.2026" target="_blank" rel="noopener">Mario Basler</a></h3>
+  <div class="evt-ort">&#x1F4CD; Bürgerhaus Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach</div>
+  <div class="evt-teaser">Kultfußballer, Freistoß-Künstler, Plaudertasche: Mario Basler ist zurück auf der Bühne! Mit „Basler ballert - best of“ liefert der Publikumsliebling ein unterhaltsames Programm voller Anekdoten, humor</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">6. Nov 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 15 €</span></div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Big Band Marialinden</a></h3>
+  <div class="evt-ort">&#x1F4CD; Kulturbahnhof Overath, Bahnhofplatz, 51491 Overath</div>
+  <div class="evt-teaser">Mit satten Klängen und mitreißenden Grooves präsentiert die Big Band Marialinden ihr Repertoire aus Jazz, Funk, Sould, Rock und Pop. Besonderes Highlight: Sängerin Janna Köhler mit Stücken wie Fever, </div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">7. Nov 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 10 €</span></div>
+  <h3><a href="https://korkundkante.de/products/kork-kante-hausmesse-im-altenberger-hof" target="_blank" rel="noopener">Kork &amp; Kante Hausmesse</a></h3>
+  <div class="evt-ort">&#x1F4CD; Altenberger Hof, Eugen-Heinen-Platz 7, 51519 Odenthal</div>
+  <div class="evt-teaser">Am 7. und 8. November 2026 laden wir euch zu unserer ersten Kork &amp; Kante Hausmesse in den Altenberger Hof ein. Trefft 15 bis 20 Winzerinnen und Winzer persönlich, hört die Geschichten hinter ihren Wei</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">7. Nov 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 20 €</span></div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">OVH Domkonzert in Altenberg</a></h3>
+  <div class="evt-ort">&#x1F4CD; Altenberger Dom, Eugen-Heinen-Platz 2, 51519 Odenthal</div>
+  <div class="evt-teaser">Am Samstag, den 7. November um 14 Uhr lädt der Orchesterverein Hilgen (OVH) wie jedes Jahr zu einem Konzert in den Altenberger Dom ein. Die Leitung hat Silke Löhr, Akademische Musikdirektorin der Univ</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">7. Nov 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 149 €</span></div>
+  <h3><a href="https://www.althoffcollection.com/de/althoff-grandhotel-schloss-bensberg/schloss-events/dinner-concert-klangwelten-im-dialog" target="_blank" rel="noopener">Dinner &amp; Concert | Klangwelten im Dialog</a></h3>
+  <div class="evt-ort">&#x1F4CD; Grandhotel Schloss Bensberg, Kadettenstraße, 51429 Bergisch Gladbach</div>
+  <div class="evt-teaser">Erlebe ein außergewöhnliches Konzerterlebnis in der einzigartigen Atmosphäre von Schloss Bensberg: Mit der neuen Konzertreihe „Klangwelten im Dialog“ lebt die traditionsreiche Kultur der Salonkonzerte</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">7. Nov 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 40 €</span></div>
+  <h3><a href="https://korkundkante.de/products/alkoholfreier-weinabend" target="_blank" rel="noopener">Alkoholfreies Wein-Tasting</a></h3>
+  <div class="evt-ort">&#x1F4CD; Weinhandel Kork &amp; Kante, Kölner Str. 382, 51515 Kürten</div>
+  <div class="evt-teaser">Das alkoholfreie Weintasting findet am 7. November ab 18:00 Uhr in Bechen statt. Für 40 € pro Person probieren wir uns gemeinsam durch die spannende Welt der alkoholfreien Getränke. Los geht es mit ei</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
   <div class="sidebar-box" style="margin-top:18px;">
     <h3>Veranstaltungsportale</h3>
-<div class="portal-links"><a class="portal-link" href="https://www.rga.de/veranstaltungen/" target="_blank" rel="noopener"><span class="icon">🌐</span>RGA Veranstaltungen</a><a class="portal-link" href="https://www.bergischgladbach.de/veranstaltungen.aspx" target="_blank" rel="noopener"><span class="icon">🏛️</span>Bergisch Gladbach – Veranstaltungen</a><a class="portal-link" href="https://in-gl.de/category/veranstaltungen/" target="_blank" rel="noopener"><span class="icon">🎭</span>iGL Veranstaltungskalender</a><a class="portal-link" href="https://www.rheinisch-bergischer-kreis.de/" target="_blank" rel="noopener"><span class="icon">🎵</span>Stadtkultur RBK</a><a class="portal-link" href="https://www.eventbrite.de/d/germany--bergisch-gladbach/events/" target="_blank" rel="noopener"><span class="icon">🎪</span>Eventbrite Region Bergisch Gladbach</a><a class="portal-link" href="https://www.ksta.de/region/rhein-berg-oberberg/" target="_blank" rel="noopener"><span class="icon">📅</span>Kölner Stadtanzeiger RBK</a></div>
+<div class="portal-links"><a class="portal-link" href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener"><span class="icon">📅</span>Das Bergische – Termine</a><a class="portal-link" href="https://www.bergischgladbach.de/termine.aspx" target="_blank" rel="noopener"><span class="icon">🏛️</span>Bergisch Gladbach – Terminkalender</a><a class="portal-link" href="https://in-gl.de/category/veranstaltungen/" target="_blank" rel="noopener"><span class="icon">🎭</span>iGL Veranstaltungskalender</a><a class="portal-link" href="https://www.rheinisch-bergischer-kreis.de/" target="_blank" rel="noopener"><span class="icon">🎵</span>Stadtkultur RBK</a><a class="portal-link" href="https://www.eventbrite.de/d/germany--bergisch-gladbach/events/" target="_blank" rel="noopener"><span class="icon">🎪</span>Eventbrite Region Bergisch Gladbach</a><a class="portal-link" href="https://www.ksta.de/region/rhein-berg-oberberg/" target="_blank" rel="noopener"><span class="icon">📅</span>Kölner Stadtanzeiger RBK</a></div>
   </div>
 </div>
 <div class="region-panel" data-region="oberberg">
   <div style="margin: 20px 0 8px 0; font-family: sans-serif; font-size: 0.95rem; color: var(--rbk-blau); font-weight:600;">Veranstaltungen im Oberberg</div>
-<div class="hinweis" style="background:#EAFAF1; border-color:#27AE60;">📅 38 Veranstaltungshinweise aus lokalen Nachrichten</div>
-<div class="evt-card">
-  <div class="evt-datum">21. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/267441/gummersbach-kinderklinik-spende/" target="_blank" rel="noopener">Gummersbach: 4086 Kilometer für die Kinderklinik erlaufen – Kaltenbach Gruppe spendet 4086,80 Euro</a></h3>
-  <div class="evt-teaser">Rund 60 Beschäftigte der Kaltenbach Gruppe liefen 4086 Kilometer und spendeten 4086,80 Euro an die Kinderklinik Gummersbach.</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
-</div>
-<div class="evt-card">
-  <div class="evt-datum">21. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/267436/waldbroel-aerztezentrum-posthof/" target="_blank" rel="noopener">Waldbröl plant neues Ärztezentrum: Mediziner am Posthof gesucht</a></h3>
-  <div class="evt-teaser">Am Posthof in Waldbröl soll ein neues Ärztezentrum entstehen. Die Initiatoren laden Mediziner und Therapeuten zum Infotreffen ein.</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
-</div>
-<div class="evt-card">
-  <div class="evt-datum">21. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/267409/oberberg-hospizwochen-netzwerk/" target="_blank" rel="noopener">Oberberg: Hospizwochen erreichen Menschen mit 18 Veranstaltungen</a></h3>
-  <div class="evt-teaser">Aktionsreihe mit 18 Veranstaltungen: Rund 100 Gäste kamen zum Auftakt und zum Kinoabschluss. Der Kreis zieht nach drei Wochen positive Bilanz.</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
-</div>
-<div class="evt-card">
-  <div class="evt-datum">21. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/hueckeswagen-50-jahre-wipperwagen-hobbytheater-hueckeswagen-bringt-doppelleben-komoedie-auf-die-2TSBY3P37NC5PNEU3LV3UJFXZU.html" target="_blank" rel="noopener">Hückeswagen: 50 Jahre Wipperwagen: Hobbytheater Hückeswagen bringt Doppelleben-Komödie auf die Bühne</a></h3>
-  <div class="evt-teaser">Das 50. Gründungsjahr feiert das Ensemble des Wipperwagens mit der temporeichen Komödie „Run for your Wife“. Dieses Mal im Kultur-Haus Zach.</div>
-  <div class="evt-info">Quelle: RGA Hückeswagen</div>
-</div>
-<div class="evt-card">
-  <div class="evt-datum">14. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/249853/lindlar-tauschrausch-weihnachten/" target="_blank" rel="noopener">Lindlar: Erster Weihnachts-Tauschrausch lockt zum nachhaltigen Verschenken</a></h3>
-  <div class="evt-teaser">Lindlar feiert Premiere: Der erste Weihnachts-Tauschrausch auf :metabolon lädt am 7. November zum kostenlosen Stöbern und Schenken ein.</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
-</div>
-<div class="evt-card">
-  <div class="evt-datum">14. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/anlaufstelle-fuer-alle-hilfebeduerftigen-EUSHJFB5PJZLTTKNJYPFK6XPRA.html" target="_blank" rel="noopener">Anlaufstelle für alle Hilfebedürftigen</a></h3>
-  <div class="evt-teaser">Was als Reaktion auf eine „bunte Szene“ am Wilhelmplatz begann, ist heute fester Bestandteil der Hückeswagener Hilfsangebote. Am Sonntag, 18. Oktober, feiert die Christliche Islandtafel.</div>
-  <div class="evt-info">Quelle: RGA Hückeswagen</div>
-</div>
-<div class="evt-card">
-  <div class="evt-datum">14. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/sana-chefaerztin-erklaert-was-altersmedizin-leistet-25ZPP5MOMA2NZDAPD47Y4V63AY.html" target="_blank" rel="noopener">Sana-Chefärztin erklärt, was Altersmedizin leistet</a></h3>
-  <div class="evt-teaser">Sana-Krankenhaus erklärt bei einer Patientenveranstaltung, für wen Geriatrie gedacht ist und was sie kann.</div>
-  <div class="evt-info">Quelle: RGA Radevormwald</div>
-</div>
-<div class="evt-card">
-  <div class="evt-datum">20. Okt 2026</div>
-  <h3><a href="https://www.presseportal.de/blaulicht/pm/65843/6374479" target="_blank" rel="noopener">POL-GM: Festnahme nach versuchtem Betrug</a></h3>
-  <div class="evt-teaser">Lindlar (ots) - Ein 65-Jähriger aus Lindlar hatte am Dienstag (13. Oktober) einen Anruf erhalten. Die unbekannte Person gab sich als Polizist aus und berichtete, dass nach einem Raubüberfall zwei Täte</div>
-  <div class="evt-info">Quelle: Presseportal Polizei OBK</div>
-</div>
-<div class="evt-card">
-  <div class="evt-datum">20. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/255119/nuembrecht-taschenlampenfuehrung/" target="_blank" rel="noopener">Nümbrecht: Taschenlampenführung startet auf Schloss Homburg</a></h3>
-  <div class="evt-teaser">Taschenlampenführung in Nümbrecht: Ab 6. November erkunden Familien Schloss Homburg und die PLAYMOBIL-Ausstellung. Tickets kosten extra.</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
-</div>
-<div class="evt-card">
-  <div class="evt-datum">20. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/255117/lindlar-einbruch-waldbroel/" target="_blank" rel="noopener">Lindlar, Wipperfürth &amp; Waldbröl: Festnahme, Einbruch und 14-Jährige schwer verletzt</a></h3>
-  <div class="evt-teaser">Lindlar, Wipperfürth und Waldbröl: Festnahme nach Betrugsversuch, gestohlener Schmuck und Werkzeuge sowie eine schwer verletzte 14-Jährige.</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
-</div>
-<div class="evt-card">
-  <div class="evt-datum">13. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/249822/gummersbach-heimsieg-handball/" target="_blank" rel="noopener">Gummersbach: Souveräner Heimsieg gegen Pelister – VfL stürmt an Tabellenspitze</a></h3>
-  <div class="evt-teaser">Souveräner Heimsieg: Der VfL Gummersbach schlägt Pelister 38:28 und übernimmt die Tabellenführung in der European League Gruppe G.</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
-</div>
-<div class="evt-card">
-  <div class="evt-datum">13. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/243829/nuembrecht-krummfest-gaderoth/" target="_blank" rel="noopener">Nümbrecht: Krummfest bringt vier Rockbands nach Gaderoth</a></h3>
-  <div class="evt-teaser">Krummfest im Dorfhaus Gaderoth: Vier Bands spielen am 17. Oktober in Nümbrecht. Einlass ist um 18 Uhr, Tickets kosten 15 bis 18 Euro.</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
-</div>
-<div class="evt-card">
-  <div class="evt-datum">13. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/243823/morsbach-notfallvorsorge-obk-vhs/" target="_blank" rel="noopener">Morsbach: Kostenfreie Infoveranstaltung zur Notfallvorsorge des OBK</a></h3>
-  <div class="evt-teaser">Kostenfreie Infoveranstaltung des OBK zur Notfallvorsorge am 15. Oktober 2026 in Morsbach und online. Jetzt über VHS Oberberg anmelden.</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
-</div>
-<div class="evt-card">
-  <div class="evt-datum">13. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/bei-uns-steht-das-kind-im-mittelpunkt-YX3FOHFQTAZ57Z4SMQNZTGHHT4.html" target="_blank" rel="noopener">„Bei uns steht das Kind im Mittelpunkt“</a></h3>
-  <div class="evt-teaser">Beim Tag der offenen Tür auf dem Dierl konnten sich Eltern über die Räume, das pädagogische Konzept und die Angebote des AWO-Familienzentrums Margarete-Starrmann informieren.</div>
-  <div class="evt-info">Quelle: RGA Hückeswagen</div>
-</div>
+<div class="hinweis" style="background:#EAFAF1; border-color:#27AE60;">📅 40 kommende Termine</div>
 <div class="evt-card">
   <div class="evt-datum">22. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/hueckeswagen-jugendlicher-nach-ladendiebstahl-festgehalten-zweiter-tatverdaechtiger-fluechtig-U24LRKTIMVBUTAONK7UDG2OSYQ.html" target="_blank" rel="noopener">Hückeswagen: Jugendlicher nach Ladendiebstahl festgehalten – zweiter Tatverdächtiger flüchtig</a></h3>
-  <div class="evt-teaser">Zwei Jugendliche sollen am Mittwoch versucht haben, mehrere Dosen Energy-Getränke aus einem Lebensmittelgeschäft in Hückeswagen zu stehlen.</div>
-  <div class="evt-info">Quelle: RGA Hückeswagen</div>
+  <h3><a href="http://www.ferienland-reichshof.de/" target="_blank" rel="noopener">Die Wiehltalsperre - Wie kommt das Wasser zu uns?</a></h3>
+  <div class="evt-ort">&#x1F4CD; Schieberhaus der Wiehltalsperre, Talsperrenstr. 1, 51580 Reichshof</div>
+  <div class="evt-teaser">Faszination Wasser - Talsperren und Wasserwerksbesichtigung Was geschieht in der Wiehltalsperre und dem Entnahmeturm, damit unser Wasser trinkbar ist? Diese und viele weitere Dinge zur Trinkwassertals</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">22. Okt 2026</div>
-  <h3><a href="https://www.presseportal.de/blaulicht/pm/65843/6375922" target="_blank" rel="noopener">POL-GM: Nach Unfall zu Fuß geflüchtet</a></h3>
-  <div class="evt-teaser">Gummersbach (ots) - Ein 36-Jähriger aus Gummersbach hat am Mittwochabend (21. Oktober, gegen 21 Uhr) auf einem Supermarktparkplatz in der Wiesenstraße mehrere geparkte Autos touchiert und ist anschlie</div>
-  <div class="evt-info">Quelle: Presseportal Polizei OBK</div>
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 10 €</span></div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Meister Eder und sein Pumuckl (Figurentheater)</a></h3>
+  <div class="evt-ort">&#x1F4CD; Eckenhääner Huus, Reichshofstraße 30, 51580 Reichshof</div>
+  <div class="evt-teaser">Am Donnerstag, 22. Oktober 2026, um 16 Uhr gastiert das Karfunkel-Figurentheater mit der beliebten Geschichte „Meister Eder und sein Pumuckl“ im Eckenhääner Huus in Reichshof-Eckenhagen. In Meister Ed</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">22. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/zu-besuch-in-koeln-dompropst-trifft-radevormwalds-buergermeister-MGMKSPMWKTARCTDTAIB4N4H7KM.html" target="_blank" rel="noopener">Zu Besuch in Köln: Dompropst trifft Radevormwalds Bürgermeister</a></h3>
-  <div class="evt-teaser">Der aus Radevormwald stammende Kölner Dompropst Guido Assmann hat Bürgermeister Dejan Vujinovic bei einer Führung die Schätze der Kathedrale gezeigt. Er erklärte auch, woher die Redensart „Halt die Kl</div>
-  <div class="evt-info">Quelle: RGA Radevormwald</div>
+  <div class="evt-datum">22. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 13 €</span></div>
+  <h3><a href="http://vhs.link/JWFycX" target="_blank" rel="noopener">Madamm Frauenkabarett </a></h3>
+  <div class="evt-ort">&#x1F4CD; Pfarramt Gemeinderaum, Klosterstraße 6, 51709 Marienheide</div>
+  <div class="evt-teaser">Auch chromblitzende Hochleistungskaffeemaschinen können eklige braune Brühe produzieren. Und die bleibt, besonders wenn sie Schlückchen für Schlückchen aus trüben Tassen getrunken wird, ungenießbar ek</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">15. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/251944/waldbroel-foerderbescheid-markthalle/" target="_blank" rel="noopener">Waldbröl: 4,4 Millionen Euro Förderbescheid stärkt die Innenstadt</a></h3>
-  <div class="evt-teaser">Waldbröl erhält 4,4 Millionen Euro Förderbescheid für die Stadtentwicklung. Neue Markthalle und Merkurareal werden bis 2030 zum Zentrum.</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
+  <div class="evt-datum">23. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 6 €</span></div>
+  <h3><a href="http://www.aggertalhoehle.de/main/home/informationen/oeffnungszeiten" target="_blank" rel="noopener">Führung in der Aggertalhöhle</a></h3>
+  <div class="evt-ort">&#x1F4CD; Aggertalhöhle, Im Krümmel 39, 51766 Engelskirchen</div>
+  <div class="evt-teaser">Die Aggertalhöhle ist vom 1. April bis einschließlich 1. November jeweils von Donnerstag bis Sonntag und an gesetzlichen Feiertagen geöffnet. Unter dem Titel »Erster Einblick« starten Führungen jeweil</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">15. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/250489/reichshof-bleiwerte-wildberg/" target="_blank" rel="noopener">Reichshof: Erhöhte Bleiwerte in Wildberg – Vorsorgemaßnahmen für Spielplätze</a></h3>
-  <div class="evt-teaser">In Reichshof-Wildberg wurden erhöhte Bleiwerte im Boden festgestellt. Ein Spielplatz wurde gesperrt, Anwohner erhalten nun wichtige Warnhinweise.</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
+  <div class="evt-datum">23. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 11 €</span></div>
+  <h3><a href="https://panarbora.de/veranstaltungen-und-events" target="_blank" rel="noopener">Panarbora Geisterpark</a></h3>
+  <div class="evt-ort">&#x1F4CD; Baumwipfelpfad Panarbora, Nutscheidstr. 1, 51545 Waldbröl</div>
+  <div class="evt-teaser">Vom 26. September bis zum 1. November 2026 wird es bei uns wieder gespenstisch! Wenn kleine Geister auftauchen und sich unser Aussichtsturm und der Baumwipfelpfad in ein Halloween-Gewand hüllen, begin</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">18. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/254692/gummersbacher-oktoberfest-2026-nachbericht/" target="_blank" rel="noopener">Gummersbach: 2. Oktoberfest in der Schwalbe Arena – Partyfürsten, Klüngelköpp und DJ Loca machen die Halle zum Festzelt</a></h3>
-  <div class="evt-teaser">Zweites Gummersbacher Oktoberfest in der Schwalbe Arena: volle Tafeln, drei Sets der Partyfürsten, kölsche Mitsingmomente mit den Klüngelköpp bei „Stääne“ und DJ Loca bis Mitternacht – der Nachbericht</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
+  <div class="evt-datum">23. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 6 €</span></div>
+  <h3><a href="https://www.schloss-homburg.de/cms200schloss/museum/sonderausstellungen/vorschau/index.shtml.de" target="_blank" rel="noopener">Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer</a></h3>
+  <div class="evt-ort">&#x1F4CD; Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht</div>
+  <div class="evt-teaser">Kleine Figuren erzählen große Geschichten! Das 100-jährige Jubiläum des Museums auf Schloss Homburg wird mit einer großen Sonderausstellung gefeiert. In faszinierenden Miniaturwelten werden regionale </div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">11. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/theaterstueck-greift-thema-cybermobbing-auf-TIK2LLCDFDSAJGSYKFDEB7SYSI.html" target="_blank" rel="noopener">Theaterstück greift Thema Cybermobbing auf</a></h3>
-  <div class="evt-teaser">Das Westfälische Landestheater zeigte in der Aula des Schulzentrums den achten Klassen der Sekundarschule das Stück „OUT! Gefangen im Netz“. Zu Beginn gab es eine Überraschung.</div>
-  <div class="evt-info">Quelle: RGA Radevormwald</div>
+  <div class="evt-datum">23. Okt 2026</div>
+  <h3><a href="https://www.lvr.de/freilichtmuseum-lindlar/programm/herbstferienprogramm/#module-523562" target="_blank" rel="noopener">Herbstferien im Museum</a></h3>
+  <div class="evt-ort">&#x1F4CD; LVR-Freilichtmuseum Lindlar, Heiligenhoven 16a, 51789 Lindlar</div>
+  <div class="evt-teaser">Was kann aus bereits vorhandenen Materialien und natürlichen Rohstoffen neues entstehen? Unter dem Motto „Wunderbar verwertbar“ dreht sich in den Herbstferien alles um Nachhaltigkeit, Wiederverwertung</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">17. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/254364/nuembrecht-jubilaeum-grundschule/" target="_blank" rel="noopener">Nümbrecht: Grundschule feiert Jubiläum – 60 Jahre Auf dem Höchsten</a></h3>
-  <div class="evt-teaser">Die GGS Auf dem Höchsten feierte 60 Jahre mit Kinderprojekten, einer Freundschaftsbank und einer gemeinsamen Baumpflanzung.</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
+  <div class="evt-datum">23. Okt 2026</div>
+  <h3><a href="http://kokobe-oberberg.de/" target="_blank" rel="noopener">Die inklusive Freizeitmesse </a></h3>
+  <div class="evt-ort">&#x1F4CD; Alte Drahtzieherei, Wupperstraße 8, 51688 Wipperfürth</div>
+  <div class="evt-teaser">Die erste inklusive Freizeitmesse für den Norden des OBK. Viele Aussteller, ein tolles Bühnen- und Mitmachprogramm. Es wird eine mobile Schießanlage für Menschen mit Sehbeeinträchtigung da sein, versc</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">17. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/253172/engelskirchen-engelmuseum-goebel/" target="_blank" rel="noopener">Engelskirchen: Engelmuseum zeigt berühmte Goebel-Engel – Sonderausstellung lockt Besucher</a></h3>
-  <div class="evt-teaser">Sonderausstellung im Engelmuseum Engelskirchen: Berühmte Goebel-Engel aus Porzellan locken Besucher. Exklusiver Sammler-Engel limitiert verfügbar.</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
+  <div class="evt-datum">23. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 30 €</span></div>
+  <h3><a href="https://www.aggertalhoehle.de/main/fuehrungen" target="_blank" rel="noopener">Rätseltour in der Aggertalhöhle: Die verlorenen Artefakte</a></h3>
+  <div class="evt-ort">&#x1F4CD; Aggertalhöhle, Im Krümmel 39, 51766 Engelskirchen</div>
+  <div class="evt-teaser">Das gibt es nur in der Aggertalhöhle! In der dunklen Höhle gehen wir auf die Suche nach einem geheimen Code. Das bedeutet, es müssen knifflige Rätsel gelöst werden, um diesen Code zu finden und zu kna</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">19. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/manege-frei-fuer-mehr-selbstbewusstsein-OAJRKNTKFYWHJBYFIVI3WSFZU4.html" target="_blank" rel="noopener">Manege frei für mehr Selbstbewusstsein</a></h3>
-  <div class="evt-teaser">Die Kinder der Grundschule Bergerhof in Radevormwald brachten drei unglaubliche Zirkusvorführungen auf die Bühne. Mit einer großen Portion Glück machten sich nicht nur die Zuschauer auf den Heimweg.</div>
-  <div class="evt-info">Quelle: RGA Radevormwald</div>
+  <div class="evt-datum">23. Okt 2026</div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Naturkosmetik für Kinder – Rühren, Duften, Selbermachen</a></h3>
+  <div class="evt-ort">&#x1F4CD; Kultur-Bahnhof-Morsbach, Bahnhofstraße 40, 51597 Morsbach</div>
+  <div class="evt-teaser">In diesem kreativen Workshop entdecken Kinder zusammen mit der zertifizierten Kräuterpädagogin Ina Klinkenberg die bunte Welt der Naturkosmetik. Gemeinsam mischen wir duftende Lippenpflege und bunte B</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">19. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/254767/nuembrecht-krummfest-deutschrock/" target="_blank" rel="noopener">Nümbrecht: Krumm&amp;Chief rockt das Krummfest im Dorfhaus Gaderoth (Mit Video)</a></h3>
-  <div class="evt-teaser">Krummfest im Dorfhaus Gaderoth: Krumm&amp;#038;Chief spielt Deutschrock in Nümbrecht, Nici singt „Feigling“ – und 2027 soll es weitergehen.</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
+  <div class="evt-datum">24. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 20 €</span></div>
+  <h3><a href="https://affen-und-vogelpark.de/neues-aus-dem-park/" target="_blank" rel="noopener">Halloween entgruselt</a></h3>
+  <div class="evt-ort">&#x1F4CD; Affen- und Vogelpark, Am Bromberg, 51580 Reichshof</div>
+  <div class="evt-teaser">An vier Wochenenden im Herbst 2026 wird’s im Park geheimnisvoll – aber nie zu angsteinflößend: Du schnitzt Kürbisse, folgst verwinkelten Wegen, lauschst den Geschichten der Hexe und sagst mit der Fack</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">19. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/254692/gummersbacher-oktoberfest-2026-nachbericht/" target="_blank" rel="noopener">Gummersbach: 2. Oktoberfest in der Schwalbe Arena – Partyfürsten, Klüngelköpp und DJ Loca machen die Halle zum Festzelt (+3 Videos)</a></h3>
-  <div class="evt-teaser">Zweites Gummersbacher Oktoberfest in der Schwalbe Arena: volle Tafeln, drei Sets der Partyfürsten, kölsche Mitsingmomente mit den Klüngelköpp bei „Stääne“ und DJ Loca bis Mitternacht – der Nachbericht</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
+  <div class="evt-datum">24. Okt 2026</div>
+  <h3><a href="https://www.shop.industriemuseum.lvr.de/#/product/event/16312" target="_blank" rel="noopener">Workshop: Exklusiver Metallgussworkshop für Erwachsene am Oelchenshammer</a></h3>
+  <div class="evt-ort">&#x1F4CD; LVR-Industriemuseum Oelchenshammer, Oelchensweg, 51766 Engelskirchen</div>
+  <div class="evt-teaser">Tauche ein in die faszinierende Welt des Metallgusses und entdecke eines der ältesten Metallbearbeitungsverfahren. Am historischen Oelchenshammers lernst Du Schritt für Schritt, wie in Formkästen mit </div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">19. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/254767/nuembrecht-krummfest-deutschrock/" target="_blank" rel="noopener">Nümbrecht: Krumm&amp;Chief rockt das Krummfest im Dorfhaus Gaderoth</a></h3>
-  <div class="evt-teaser">Krummfest im Dorfhaus Gaderoth: Krumm&amp;#038;Chief spielt Deutschrock in Nümbrecht, Nici singt „Feigling“ – und 2027 soll es weitergehen.</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
+  <div class="evt-datum">24. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 310 €</span></div>
+  <h3><a href="https://www.wildesgruen.de/kraeuterwochenende/" target="_blank" rel="noopener">Pilzwochenende im Bergischen Land</a></h3>
+  <div class="evt-ort">&#x1F4CD; Waldheim Dörspetal, An der Dörspe 22, 51702 Bergneustadt</div>
+  <div class="evt-teaser">Tauche ein in ein erlebnisreiches Wochenende voller Natur, Wissen und Waldluft! Organisiert wird das Pilzwochenende von Annabelle Gojdenko-Baitinger (Pilzcoach Bergisches Land) und Tine Knauft (Wildes</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">12. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/oktoberfest-als-dank-fuer-345-ehrenamtler-4MVSIPNKCSZGIWGOWS57HQ4UEQ.html" target="_blank" rel="noopener">Oktoberfest als Dank für 345 Ehrenamtler</a></h3>
-  <div class="evt-teaser">Beim zweiten Ehrenamtsabend herrschte beste Oktoberfest-stimmung. Neben Musik und deftiger Bewirtung gab es eine besondere Ehrung und eine Spende.</div>
-  <div class="evt-info">Quelle: RGA Hückeswagen</div>
+  <div class="evt-datum">24. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 15 €</span></div>
+  <h3><a href="https://www.aggertalhoehle.de/main/fuehrungen" target="_blank" rel="noopener">Themenführung in der Aggertalhöhle: &quot;CSI - Verborgene Spuren&quot;</a></h3>
+  <div class="evt-ort">&#x1F4CD; Aggertalhöhle, Im Krümmel 39, 51766 Engelskirchen</div>
+  <div class="evt-teaser">Es gibt Spuren in der Aggertalhöhle, die im Licht der normalen Höhlenbeleuchtung verborgen, unsichtbar bleiben. Aber es lohnt sich, auch einmal auf die Suche nach diesen Spuren zu gehen. Was ist eigen</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">12. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/243615/marienheide-sportunterricht-fitnessstudio/" target="_blank" rel="noopener">Marienheide: Moderner Sportunterricht verlegt Krafttraining ins Fitnessstudio</a></h3>
-  <div class="evt-teaser">Im Sportunterricht ins Fitnessstudio: Ein Oberstufenkurs der Gesamtschule Marienheide trainiert an modernen Kraftgeräten in Gummersbach.</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
+  <div class="evt-datum">24. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 6 €</span></div>
+  <h3><a href="http://www.lieblingsmarkt.info/" target="_blank" rel="noopener">Lindlarer Lieblingsmarkt Herbstpartie</a></h3>
+  <div class="evt-ort">&#x1F4CD; 2T Kletter- und Boulderhalle, Bismarckstraße 1, 51789 Lindlar</div>
+  <div class="evt-teaser">Die Lindlarer Lieblingsmarkt Herbstpartie verbindet stimmungsvolle Marktatmosphäre mit Lifestyle, Handwerk und Genuss. In der besonderen Kulisse des 2T-Areals mit eindrucksvollem Freizeit-, Sport- und</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">12. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/203746/gummersbacher-oktoberfest-2026/" target="_blank" rel="noopener">(Update) Gummersbacher Oktoberfest 2026: Ablauf, Preise, Abendkasse – 17. Oktober</a></h3>
-  <div class="evt-teaser">Oberberg / Gummersbach / Oktoberfest / Schwalbe Arena (Von Christian Sasse) – Die Premiere ist Geschichte, der Nachschlag ist fest gebucht: Am Samstag, 17. Oktober 2026, geht das Gummersbacher Oktober</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
+  <div class="evt-datum">24. Okt 2026</div>
+  <h3><a href="https://www.shop.industriemuseum.lvr.de/#/product/event/15399" target="_blank" rel="noopener">Ferienaktion: Kettenreaktion für Kinder</a></h3>
+  <div class="evt-ort">&#x1F4CD; LVR-Industriemuseum Kraftwerk Ermen &amp; Engels, Engels-Platz 2, 51766 Engelskirchen</div>
+  <div class="evt-teaser">Zahnräder, Bausteine, Bänder und Rollen – was haben diese Dinge gemeinsam? Sie sind Elemente für die Kettenreaktion, die ihr im Kraftwerk Ermen &amp; Engels baut. Testet dazu in der Ausstellung aus, wie t</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">12. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/rader-feuerwehr-rettet-den-weihnachtsmann-NCBAL2VJCPQBAYYQWKSUIFBSGU.html" target="_blank" rel="noopener">Rader Feuerwehr rettet den Weihnachtsmann</a></h3>
-  <div class="evt-teaser">Feuerwehreinheit Stadt verband beim Tag der offenen Tür Information und Unterhaltung: mit Fahrzeugen, Rundfahrten, Vorführungen und einem kuriosen „Rettungseinsatz“.</div>
-  <div class="evt-info">Quelle: RGA Radevormwald</div>
+  <div class="evt-datum">24. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 99 €</span></div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Räucherkurs im Kräutercafé</a></h3>
+  <div class="evt-ort">&#x1F4CD; Kräutercafé Waldbröl, Geilenkausener Str. 12, 51545 Waldbröl</div>
+  <div class="evt-teaser">Der Räucherkurs beinhaltet das kennenlernen von Räucherstoffen und das herstellen 3 eigener Räuchermischungen. Kosten liegen bei 99 Euro pro Person inklusive 3 Räuchermischungen, digitales Skript und </div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">12. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/243629/gummersbach-einbruchschutz-vhs/" target="_blank" rel="noopener">Gummersbach: Kostenlose Beratung zum Einbruchschutz – Polizei und VHS informieren</a></h3>
-  <div class="evt-teaser">Kostenlose Beratung zum Einbruchschutz in Gummersbach: Kriminalpolizei Oberberg und VHS bieten Info-Veranstaltung am 24. Oktober an.</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
+  <div class="evt-datum">24. Okt 2026</div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Fröhlicher Herbstausflug mit Pony und Sulky</a></h3>
+  <div class="evt-ort">&#x1F4CD; Pferdehof Mildsiefen, Mildsiefen 11, 51588 Nümbrecht</div>
+  <div class="evt-teaser">Programm: Im kleinen Sulky können die Kinder die herbstliche Umgebung entdecken, während unser Pony sie sicher durch raschelnde Blätter und klare Herbstluft zieht. Vor der Fahrt wird das Pony begrüßt,</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">16. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/252677/gummersbach-testament-erbrecht/" target="_blank" rel="noopener">Gummersbach: Testament-Vortrag – Volksbund informiert über Erbrecht</a></h3>
-  <div class="evt-teaser">Testament in Gummersbach: Der Volksbund Deutsche Kriegsgräberfürsorge lädt am 05.11.2026 zu einem Vortrag zum Thema Erbrecht und Vorsorge ins Kreishaus ein.</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
+  <div class="evt-datum">25. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 10 €</span></div>
+  <h3><a href="http://www.leierkastenheiterkeit.com/" target="_blank" rel="noopener">Orientexpress - Eine musikalische Reise mit einem berühmten Zug von Paris nach Istanbul</a></h3>
+  <div class="evt-ort">&#x1F4CD; Drehorgelmuseum, Kapellenweg 2-4, 51709 Marienheide</div>
+  <div class="evt-teaser">Um telefonische Voranmeldung unter 02264-2013181 wird gebeten.</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">16. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/das-sind-die-hoehepunkte-im-4-quartal-in-radevormwald-U2QNWNH7CFGXKVL2JLUEIV7M6Y.html" target="_blank" rel="noopener">Das sind die Höhepunkte im 4. Quartal in Radevormwald</a></h3>
-  <div class="evt-teaser">In den Monaten bis zum Jahresende stehen in Radevormwald zahlreiche Veranstaltungen an, vom Jubiläumskonzert des Posaunenchors bis zum Weihnachtsmarkt. Ein Überblick der wichtigsten Termine bis Dezemb</div>
-  <div class="evt-info">Quelle: RGA Radevormwald</div>
+  <div class="evt-datum">25. Okt 2026</div>
+  <h3><a href="http://www.leierkastenheiterkeit.com/" target="_blank" rel="noopener">Melodien aus dem &quot;Zigeunerbaron&quot;</a></h3>
+  <div class="evt-ort">&#x1F4CD; Drehorgelmuseum, Kapellenweg 2-4, 51709 Marienheide</div>
+  <div class="evt-teaser">Melodien aus dem &quot;Zigeunerbaron&quot; und andere, gespielt von Johann Strauss Sohn (25. Oktober 1925 - 3. Juni 1899) und arrangiert von anderen für selbstspielende Musikinstrumente wie von Gustav Bruder od</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">16. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/stadtmarketing-plantmartinsmarkt-und-huettenzauber-in-hueckeswagen-LDVP27NO62LCJXWTN3RT7U34BU.html" target="_blank" rel="noopener">Stadtmarketing plantMartinsmarkt und „Hüttenzauber“ in Hückeswagen</a></h3>
-  <div class="evt-teaser">Im August schwebte das Damoklesschwert der Auflösung über dem Verein, inzwischen blickt der Vorsitzende optimistisch in die Zukunft.</div>
-  <div class="evt-info">Quelle: RGA Hückeswagen</div>
+  <div class="evt-datum">25. Okt 2026</div>
+  <h3><a href="https://www.reichshof.org/veranstaltungen/index.html?idart=11118&amp;client=1" target="_blank" rel="noopener">Mit der Wegepatin unterwegs auf dem Wacholderweg</a></h3>
+  <div class="evt-ort">&#x1F4CD; Wanderparkplatz Landwehrstraße, Landwehrstraße, 51580 Reichshof</div>
+  <div class="evt-teaser">Der Wacholder prägte einst weite Landschaften im Oberbergischen. Wegepatin Susanne Maaß lädt dazu ein, eine der letzten verbliebenen Wacholderheiden zu entdecken und erläutert dabei das Handwerk der W</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">9. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/243505/lindlar-kartoffelfest-freilichtmuseum/" target="_blank" rel="noopener">Lindlar: Kartoffelfest im Freilichtmuseum lockt Besucher zur Ernte-Aktion</a></h3>
-  <div class="evt-teaser">Kartoffelfest in Lindlar: Am 18. Oktober lockt das LVR-Freilichtmuseum mit Ernte-Mitmachaktionen, altem Handwerk und herbstlichen Leckereien.</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
+  <div class="evt-datum">25. Okt 2026</div>
+  <h3><a href="https://freilichtmuseum-lindlar.lvr.de/de/veranstaltungen/ferienprogramm/sommrferien.html#:~:text=25.06.2023%2C%2011-17%20Uhr&amp;text=Zum%20Start%20in%20die%20Sommerferien,zum%20Tausch%20mit%20ins%20Museum" target="_blank" rel="noopener">Kleidertauschbörse</a></h3>
+  <div class="evt-ort">&#x1F4CD; LVR-Freilichtmuseum Lindlar, Heiligenhoven 16a, 51789 Lindlar</div>
+  <div class="evt-teaser">Zum Start in die Sommerferien lädt das Freilichtmuseum Groß und Klein zum Kleidertausch ein. „Tauschen statt kaufen“ schont nicht nur den Geldbeutel, sondern auch die Umwelt! Bringt eure aussortierte </div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">9. Okt 2026</div>
-  <h3><a href="https://www.news-on-tour.de/243495/bergneustadt-weihnachtsmarkt-2026/" target="_blank" rel="noopener">Bergneustädter Weihnachtsmarkt am 12. und 13. Dezember 2026 „mit Stempelkarte“</a></h3>
-  <div class="evt-teaser">Weihnachtsmarkt am dritten Advent: Musik, Marktstände und Kirchenkonzert. Dazu plant Sylvia Stracke eine weihnachtliche Tour mit Stempelkarte.</div>
-  <div class="evt-info">Quelle: NEWS-on-Tour Oberberg</div>
+  <div class="evt-datum">25. Okt 2026</div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Bergsport am Blockhaus – E-Bike</a></h3>
+  <div class="evt-ort">&#x1F4CD; Ferienland Reichshof, Rodener Platz 3, 51580 Reichshof</div>
+  <div class="evt-teaser">Diese Radtouren sind nur für E-Bikes bestimmt. Von Eckenhagen aus geht es in die oberbergische Heimat, in den Olper Kreis und bis an die Bundesgrenze zu Rheinland-Pfalz. Ob auf asphaltierter Fahrbahn,</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
 <div class="evt-card">
-  <div class="evt-datum">9. Okt 2026</div>
-  <h3><a href="https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/staedtische-hilfestellung-beim-ankommen-in-deutschland-DCMDPHTFFP4L3643XR7BN6AVDA.html" target="_blank" rel="noopener">Städtische Hilfestellung beim Ankommen in Deutschland</a></h3>
-  <div class="evt-teaser">Seit zwei Jahren hilft Tobias Menger Flüchtlingen in Hückeswagen dabei, wirklich in Deutschland anzukommen und sich in die Stadtgesellschaft zu integrieren. Im Sozialausschuss berichtete er jetzt.</div>
-  <div class="evt-info">Quelle: RGA Hückeswagen</div>
+  <div class="evt-datum">25. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 3 €</span></div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Abschlag am Oelchenshammer</a></h3>
+  <div class="evt-ort">&#x1F4CD; LVR-Industriemuseum Oelchenshammer, Oelchensweg, 51766 Engelskirchen</div>
+  <div class="evt-teaser">Traditionell geht Ende Oktober am Oelchenshammer, einem der letzten wasserbetriebenen Schmiedehämmer in der Region, die Saison zu Ende. Bei dieser letzten Schmiedeaktion gibt es viele Angebote für all</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">25. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 8 €</span></div>
+  <h3><a href="https://www.shop.industriemuseum.lvr.de/#/product/event/15755" target="_blank" rel="noopener">Führung: Auf den Spuren von Vater und Sohn - die Familie Engels</a></h3>
+  <div class="evt-ort">&#x1F4CD; LVR-Industriemuseum Kraftwerk Ermen &amp; Engels, Engels-Platz 2, 51766 Engelskirchen</div>
+  <div class="evt-teaser">Die ehemalige Baumwollspinnerei Ermen &amp; Engels zählt zu den frühen Textilfabriken in Deutschland und trug maßgeblich zur Industrialisierung des Oberbergischen bei. Beim Rundgang durch das Kraftwerk un</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">25. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 6 €</span></div>
+  <h3><a href="https://www.aggertalhoehle.de/main/fuehrungen" target="_blank" rel="noopener">Laternen-Führung in der Aggertalhöhle</a></h3>
+  <div class="evt-ort">&#x1F4CD; Aggertalhöhle, Im Krümmel 39, 51766 Engelskirchen</div>
+  <div class="evt-teaser">Diese Führung ist etwas besonderes. Die normale Höhlenbeleuchtung hat Pause, denn wir gehen mit Laternen in die dunkle Höhle. Wir unternehmen eine kleine Zeitreise ins ausgehende 18. Jahrhundert. Wie </div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">25. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 20 €</span></div>
+  <h3><a href="https://www.schauspielhaus-bergneustadt.de/" target="_blank" rel="noopener">„Todsicher“: Komödie von und mit Rita Winter</a></h3>
+  <div class="evt-ort">&#x1F4CD; Schauspielhaus Bergneustadt, Kölner Straße 273, 51702 Bergneustadt</div>
+  <div class="evt-teaser">Haben Sie auch schon einmal vor dem Umkleidekabinenspiegel über das Leben nachgedacht? Sind Sie followersüchtig? Wenn Sie von einem gutaussehenden Radfahrer, fast über den Haufen gefahren - und anschl</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">26. Okt 2026</div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Herbstferien-Programm für Kinder auf :metabolon</a></h3>
+  <div class="evt-ort">&#x1F4CD; :metabolon - Umweltlernort und Freizeitspass, Am Berkebach 1, 51789 Lindlar</div>
+  <div class="evt-teaser">Auf :metabolon wird wieder ein abwechslungsreiches Programm in den Herbstferien angeboten. Es gibt zwei Themen zu denen unterschiedliche Termine angeboten werden. Von der Wegwerfgesellschaft zu einer </div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">26. Okt 2026</div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Voltigierabenteuer in den Herbstferien</a></h3>
+  <div class="evt-ort">&#x1F4CD; Pferdehof Mildsiefen, Mildsiefen 11, 51588 Nümbrecht</div>
+  <div class="evt-teaser">In den Herbstferien heißt es: aufsteigen, ausprobieren und staunen! Die Kinder erleben eine abwechslungsreiche Voltigierwoche, in der sie spielerisch die Welt des Turnens auf dem Pferd entdecken. Mit </div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">27. Okt 2026</div>
+  <h3><a href="https://www.shop.industriemuseum.lvr.de/#/product/event/15987" target="_blank" rel="noopener">Ferienaktion: Drucken statt Zeichnen – dein erster 3D Druck</a></h3>
+  <div class="evt-ort">&#x1F4CD; LVR-Industriemuseum Kraftwerk Ermen &amp; Engels, Engels-Platz 2, 51766 Engelskirchen</div>
+  <div class="evt-teaser">Wie entsteht eigentlich etwas im 3D-Drucker? In diesem Workshop entdecken Kinder Schritt für Schritt, wie aus einer Idee ein echtes Objekt wird. Nach einer verständlichen Einführung in das 3D-Druck-Ve</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">29. Okt 2026</div>
+  <h3><a href="https://www.shop.industriemuseum.lvr.de/#/product/event/16003" target="_blank" rel="noopener">Ferienaktion: Wie sieht ein Toaster im Inneren aus? Repair-Café mal anders</a></h3>
+  <div class="evt-ort">&#x1F4CD; LVR-Industriemuseum Kraftwerk Ermen &amp; Engels, Engels-Platz 2, 51766 Engelskirchen</div>
+  <div class="evt-teaser">So lecker duftet das Toastbrot am Morgen. Aber wie wird es eigentlich so knusprig braun? Wie funktioniert eigentlich ein Staubsauger oder was ist das Besondere an einer Festplatte? Baut gemeinsam tech</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">29. Okt 2026</div>
+  <h3><a href="https://www.shop.industriemuseum.lvr.de/#/product/event/15561" target="_blank" rel="noopener">Kulturrucksack: Lightpainting Graffiti</a></h3>
+  <div class="evt-ort">&#x1F4CD; LVR-Industriemuseum Kraftwerk Ermen &amp; Engels, Engels-Platz 2, 51766 Engelskirchen</div>
+  <div class="evt-teaser">Werde zum Graffiti-Artist im dreidimensionalen Raum mit Hilfe der Technik des Lightpainting. Visualisiere deine Vision deiner Zukunft in einem großen Licht-Graffiti im dunklen Turbinenkeller des ehema</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">29. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 159 €</span></div>
+  <h3><a href="https://www.bergische-genusstage.de/programm/" target="_blank" rel="noopener">Bergische Genusstage - Restaurant Eimermacher</a></h3>
+  <div class="evt-ort">&#x1F4CD; Restaurant Eimermacher, Ehreshoven 15, 51766 Engelskirchen</div>
+  <div class="evt-teaser">Küchenchef Matthias Eimermacher kocht auf sehr hohem Niveau und überrascht seine Gäste immer wieder mit neuen Kreationen. Diesmal eine authentisch-bergische Komposition in 5-Gängen. Champagnerempfang </div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">30. Okt 2026</div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Spieleabend</a></h3>
+  <div class="evt-ort">&#x1F4CD; Heimatmuseum Bergneustadt, Wallstraße 1, 51702 Bergneustadt</div>
+  <div class="evt-teaser">Ein Gesellschaftsspieleabend für ALLE Altersgruppen. Mit vielen alten und neuen Spielen und mit jede Menge Spaß. Bring gerne dein Lieblingsspiel mit und komm dazu. Für Getränke ist gesorgt. Mehr Infor</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">30. Okt 2026</div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">B-FIVE-BLUESBAND , Blues und Rock&#x27;n Roll</a></h3>
+  <div class="evt-ort">&#x1F4CD; Döörper Treff, Hochstraße 34, 51545 Waldbröl</div>
+  <div class="evt-teaser">Die Band spielt „Finest Rhythm &amp; Blues und Rock &amp; Roll“ und interpretiert Songs von namhaften Musikern wie B.B. King, Lucky Peterson, John Mayall, Stevie Ray Vaughn, Jimmy Reed und hat auch tanzbare S</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">31. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 20 €</span></div>
+  <h3><a href="https://www.reichshof.org/veranstaltungen/index.html?idart=11985&amp;client=1" target="_blank" rel="noopener">Offene Achtsame Esel-Wanderung</a></h3>
+  <div class="evt-ort">&#x1F4CD; Seelentierzeit Begegnungshof, Alper Straße 24, 51580 Reichshof</div>
+  <div class="evt-teaser">Einmal im Monat, an jedem letzten Samstag (außer im Dezember), findet eine offene Esel-Wanderung mit vier lieben Eseln statt. Nach einer achtsamen, freien Begegnung mit den Eseln auf dem Hof wandern w</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">31. Okt 2026</div>
+  <h3><a href="http://www.ferienland-reichshof.de/" target="_blank" rel="noopener">Kräuterworkshop auf dem Konradshof Welcher Tee für welches Weh? Kräuter erkennen , sammeln, trocknen</a></h3>
+  <div class="evt-ort">&#x1F4CD; Frühstückspension Konradshof, Konradshofer Str. 1, 51580 Reichshof</div>
+  <div class="evt-teaser">Frau Fritsch (Phytaro dipl. Kräuterfachfrau, heimisch Ethnomedizin) verfolgt einen ganzheitlichen Lebensstil mit dem Blick für das Wesentliche. Ihre Liebe zur Natur drückt sie besonders durch ihren ar</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">31. Okt 2026</div>
+  <h3><a href="https://www.shop.industriemuseum.lvr.de/#/product/event/15989" target="_blank" rel="noopener">Kinder-Führung: Stromausfall im Kraftwerk</a></h3>
+  <div class="evt-ort">&#x1F4CD; LVR-Industriemuseum Kraftwerk Ermen &amp; Engels, Engels-Platz 2, 51766 Engelskirchen</div>
+  <div class="evt-teaser">Ein Blackout legt das Museum lahm! Geht auf Entdeckungsreise durch das Kraftwerk Ermen &amp; Engels und löst gemeinsam tatkräftig das Rätsel. Erkundet die verschiedenen Etagen und findet heraus, was nötig</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">31. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 7 €</span></div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">Nachts im Museum</a></h3>
+  <div class="evt-ort">&#x1F4CD; Heimatmuseum Bergneustadt, Wallstraße 1, 51702 Bergneustadt</div>
+  <div class="evt-teaser">Eine Taschenlampenführung für Erwachsene und Kinder ab acht Jahren durch das finstere Museum mit Hubertus Dan. Ein besonderes Erlebnis, das man nicht verpassen sollte! Mehr Informationen und Anmeldung</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
+</div>
+<div class="evt-card">
+  <div class="evt-datum">31. Okt 2026 &middot; <span style="color:#27AE60;font-weight:normal;">ab 5 €</span></div>
+  <h3><a href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener">ZUNFT Halloween Party 2026 in der Erzquell Brauerei</a></h3>
+  <div class="evt-ort">&#x1F4CD; Erzquell Brauerei, Bielsteiner Straße 108, 51674 Wiehl</div>
+  <div class="evt-teaser">Es wird wieder gruselig in der Erzquell Brauerei! Am Samstag, den 31. Oktober 2026, lädt die Brauerei zur ZUNFT Halloween Party ein. Gefeiert wird dort, wo jedes Jahr die legendäre Rosenmontagsparty s</div>
+  <div class="evt-info">Quelle: Das Bergische</div>
 </div>
   <div class="sidebar-box" style="margin-top:18px;">
     <h3>Veranstaltungsportale</h3>
-<div class="portal-links"><a class="portal-link" href="https://www.obk.de/" target="_blank" rel="noopener"><span class="icon">🌐</span>Oberbergischer Kreis – Aktuelles</a><a class="portal-link" href="https://www.oberberg-aktuell.de/" target="_blank" rel="noopener"><span class="icon">📰</span>Oberberg-Aktuell</a><a class="portal-link" href="https://www.obk.de/veranstaltungen/" target="_blank" rel="noopener"><span class="icon">🎭</span>OBK Veranstaltungskalender</a><a class="portal-link" href="https://www.gummersbach.de/" target="_blank" rel="noopener"><span class="icon">🎵</span>Gummersbach Stadtkultur</a><a class="portal-link" href="https://www.eventbrite.de/d/germany--gummersbach/events/" target="_blank" rel="noopener"><span class="icon">🎪</span>Eventbrite Gummersbach</a><a class="portal-link" href="https://www.lokalkompass.de/gummersbach/" target="_blank" rel="noopener"><span class="icon">📅</span>Lokalkompass Oberberg</a></div>
+<div class="portal-links"><a class="portal-link" href="https://www.obk.de/" target="_blank" rel="noopener"><span class="icon">🌐</span>Oberbergischer Kreis – Aktuelles</a><a class="portal-link" href="https://www.oberberg-aktuell.de/" target="_blank" rel="noopener"><span class="icon">📰</span>Oberberg-Aktuell</a><a class="portal-link" href="https://www.dasbergische.de/aktivitaeten/veranstaltungen" target="_blank" rel="noopener"><span class="icon">📅</span>Das Bergische – Termine</a><a class="portal-link" href="https://www.obk.de/obk/veranstaltungen/index.shtml.de" target="_blank" rel="noopener"><span class="icon">🎭</span>OBK Veranstaltungskalender</a><a class="portal-link" href="https://www.gummersbach.de/" target="_blank" rel="noopener"><span class="icon">🎵</span>Gummersbach Stadtkultur</a><a class="portal-link" href="https://www.eventbrite.de/d/germany--gummersbach/events/" target="_blank" rel="noopener"><span class="icon">🎪</span>Eventbrite Gummersbach</a><a class="portal-link" href="https://www.lokalkompass.de/gummersbach/" target="_blank" rel="noopener"><span class="icon">📅</span>Lokalkompass Oberberg</a></div>
   </div>
 </div>
 </main>
 <footer>
-  AI Tageszeitung · Veranstaltungskalender · Aktualisiert: 22.10.2026, 20:08<br>
+  AI Tageszeitung · Veranstaltungskalender · Aktualisiert: 22.10.2026, 20:36<br>
   <a href="/ai-tageszeitung/">Rhein-Berg</a> ·
   <a href="/ai-tageszeitung/oberberg/">Oberberg</a>
 </footer>

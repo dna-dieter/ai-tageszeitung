@@ -3,8 +3,8 @@
 Veranstaltungs-Extraktor für die AI Tageszeitung.
 
 Strategie:
-  RBK + Oberberg: Event-Artikel aus vorhandenen all_articles.json filtern
-  Köln:           Eigene Feeds laden (in koeln/feeds.json konfiguriert)
+  RBK + Oberberg: Terminkalender „Das Bergische“ (destination.one)
+  Köln:           Rausgegangen, JSON-LD
 
 Ergebnis: docs/veranstaltungen/{region}.json
 """
@@ -12,6 +12,7 @@ import json
 import re
 import ssl
 import sys
+import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -29,22 +30,25 @@ DOCS = BASE / "docs"
 EVT_DIR = DOCS / "veranstaltungen"
 EVT_DIR.mkdir(parents=True, exist_ok=True)
 
-# Keywords: Artikel die dieses Wort im Titel ODER Teaser haben → Veranstaltung
-EVENT_KEYWORDS = [
-    "veranstaltung", "konzert", "ausstellung", "vortrag", "führung", "festival",
-    "markt", "messe", "workshop", "kurs", "seminar", "treffen", "feier", "fest",
-    "premiere", "lesung", "turnier", "lauf", "wanderung", "radtour",
-    "tag der offenen", "infoabend", "info-abend", "informationsabend",
-    "lädt ein", "findet statt", "findet am", "eingeladen", "besichtigung",
-    "aufführung", "theaterst", "musikabend", "bürgerversamml", "stadtführung",
-    "spaziergang", "flohhmarkt", "flohmarkt", "weihnachtsmarkt", "jahrmarkt",
-    "sportveranstaltung", "vereinsfest", "sommerfest", "frühlingsfest",
-    "dorfgemeinschaft", "kulturabend", "öffentliche sitzung",
-]
+# Öffentlicher Kalender von dasbergische.de (Schlüssel steht im Seitenquelltext).
+BERG_API = "https://meta.et4.de/rest.ashx/search/"
+BERG_EXPERIENCE = "dasbergische-web"
+BERG_LICENSE = "98988KLADEHEADFEADREADE9877"
+BERG_HORIZON_DAYS = 120
 
-def is_event(article: dict) -> bool:
-    text = (article.get("title", "") + " " + article.get("summary", "")).lower()
-    return any(kw in text for kw in EVENT_KEYWORDS)
+RBK_CITIES = [
+    "Bergisch Gladbach", "Burscheid", "Kürten", "Leichlingen",
+    "Odenthal", "Overath", "Rösrath", "Wermelskirchen",
+]
+OBERBERG_CITIES = [
+    "Bergneustadt", "Engelskirchen", "Gummersbach", "Hückeswagen",
+    "Lindlar", "Marienheide", "Morsbach", "Nümbrecht",
+    "Radevormwald", "Reichshof", "Waldbröl", "Wiehl", "Wipperfürth",
+]
+WEEKDAY = {
+    "Monday": 0, "Tuesday": 1, "Wednesday": 2, "Thursday": 3,
+    "Friday": 4, "Saturday": 5, "Sunday": 6,
+}
 
 def parse_date(raw: str):
     if not raw:
@@ -69,37 +73,143 @@ def format_datum(dt) -> str:
               "Jul", "Aug", "Sep", "Okt", "Nov", "Dez"]
     return f"{dt.day}. {MONATE[dt.month - 1]} {dt.year}"
 
-def article_to_event(a: dict) -> dict:
-    dt = parse_date(a.get("published", ""))
+def _parse_iso(raw: str):
+    if not raw:
+        return None
+    try:
+        dt = datetime.fromisoformat(raw)
+    except Exception:
+        return None
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt
+
+def next_occurrence(intervals: list, now: datetime, horizon: datetime):
+    """Nächster Termin eines Kalendereintrags innerhalb des Horizonts."""
+    best = None
+    grace = now - timedelta(hours=8)
+    for iv in intervals or []:
+        start = _parse_iso(iv.get("start"))
+        if start is None:
+            continue
+        repeat_until = _parse_iso(iv.get("repeatUntil")) or start
+        weekdays = [WEEKDAY[d] for d in (iv.get("weekdays") or []) if d in WEEKDAY]
+        weekly = weekdays and iv.get("freq") == "Weekly" and repeat_until >= grace
+        candidate = None
+        if weekly:
+            day = max(grace.date(), start.date())
+            last = min(horizon.date(), repeat_until.date())
+            while day <= last:
+                if day.weekday() in weekdays:
+                    candidate = datetime.combine(day, start.timetz())
+                    if candidate >= grace:
+                        break
+                    candidate = None
+                day += timedelta(days=1)
+        elif grace <= start <= horizon:
+            candidate = start
+        if candidate and (best is None or candidate < best):
+            best = candidate
+    return best
+
+def _plain(item: dict) -> str:
+    for text in item.get("texts") or []:
+        if text.get("type") == "text/plain" and text.get("value"):
+            raw = text["value"]
+            break
+    else:
+        raw = ""
+        for text in item.get("texts") or []:
+            if text.get("value"):
+                raw = text["value"]
+                break
+    raw = re.sub(r"<[^>]+>", " ", raw)
+    raw = re.sub(r"\s+", " ", raw).strip()
+    return raw[:220]
+
+def _price(item: dict) -> str:
+    for number in item.get("numbers") or []:
+        if number.get("type") != "PRICE_ADULT":
+            continue
+        try:
+            value = float(number.get("value"))
+        except (TypeError, ValueError):
+            return ""
+        if value <= 0:
+            return "kostenlos"
+        return f"ab {value:.0f} €"
+    return ""
+
+def _place(item: dict) -> str:
+    city = item.get("city") or ""
+    parts = [item.get("name") or "", item.get("street") or ""]
+    tail = " ".join(p for p in [item.get("zip") or "", city] if p)
+    if tail:
+        parts.append(tail)
+    seen = []
+    for part in parts:
+        part = part.strip()
+        if part and part not in seen:
+            seen.append(part)
+    return ", ".join(seen)
+
+def berg_item_to_event(item: dict, when: datetime) -> dict:
+    web = (item.get("web") or "").strip()
+    link = web if web.startswith("http") else "https://www.dasbergische.de/aktivitaeten/veranstaltungen"
     return {
-        "titel":  a.get("title", ""),
-        "datum":  format_datum(dt),
-        "datum_raw": a.get("published", ""),
-        "ort":    "",
-        "link":   a.get("link", "#"),
-        "quelle": a.get("source", ""),
-        "teaser": a.get("summary", "")[:200],
+        "titel": item.get("title") or "",
+        "datum": format_datum(when),
+        "datum_raw": when.isoformat(),
+        "ort": _place(item),
+        "preis": _price(item),
+        "link": link,
+        "quelle": "Das Bergische",
+        "teaser": _plain(item),
     }
 
-def extract_from_articles(region_slug: str, all_articles_path: Path) -> list:
-    if not all_articles_path.exists():
-        print(f"  SKIP {region_slug}: {all_articles_path} nicht gefunden")
-        return []
-    articles = json.loads(all_articles_path.read_text())
-    cutoff = datetime.now(tz=timezone.utc) - timedelta(days=14)
+def fetch_bergische(cities: list, limit: int = 40) -> list:
+    """Kommende Termine aus dem Kalender von dasbergische.de."""
+    quoted = " OR ".join(f'"{city}"' for city in cities)
+    query = f"(type:(Event) AND city_exact:({quoted}))"
+    now = datetime.now(timezone.utc).astimezone()
+    horizon = now + timedelta(days=BERG_HORIZON_DAYS)
+    def stamp(moment: datetime, clock: str) -> str:
+        offset = moment.strftime("%z")
+        return moment.strftime(f"%Y-%m-%dT{clock}") + offset[:3] + ":" + offset[3:]
+
+    params = {
+        "experience": BERG_EXPERIENCE,
+        "licensekey": BERG_LICENSE,
+        "template": "ET2014A.json",
+        "mkt": "de",
+        "limit": "80",
+        "sort": "start asc",
+        "startdate": stamp(now, "00:00:00"),
+        "enddate": stamp(horizon, "23:59:00"),
+        "q": query,
+    }
+    url = BERG_API + "?" + urllib.parse.urlencode(params)
+    req = urllib.request.Request(url, headers={
+        "User-Agent": RAUSGEGANGEN_UA,
+        "Accept": "application/json",
+    })
+    with urllib.request.urlopen(req, timeout=40) as response:
+        data = json.load(response)
     events = []
-    for a in articles:
-        if not is_event(a):
+    seen = set()
+    for item in data.get("items") or []:
+        when = next_occurrence(item.get("timeIntervals"), now, horizon)
+        if when is None:
             continue
-        dt = parse_date(a.get("published", ""))
-        # Nur aktuelle (letzte 14 Tage) oder zukünftige Artikel
-        if dt and dt < cutoff:
+        title = (item.get("title") or "").strip()
+        key = (title.lower(), item.get("city"), when.date().isoformat())
+        if not title or key in seen:
             continue
-        events.append(article_to_event(a))
-    # Nach Datum sortieren, neueste zuerst
-    events.sort(key=lambda x: x.get("datum_raw", ""), reverse=True)
-    print(f"  {region_slug}: {len(events)} Veranstaltungsartikel (von {len(articles)} gesamt)")
-    return events
+        seen.add(key)
+        events.append(berg_item_to_event(item, when))
+    events.sort(key=lambda event: event.get("datum_raw", ""))
+    print(f"  Kalender: {len(events)} Termine (API {data.get('overallcount', '?')} Treffer)")
+    return events[:limit]
 
 RAUSGEGANGEN_UA = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -214,17 +324,42 @@ def save(slug: str, events: list):
     path.write_text(json.dumps(events, ensure_ascii=False, indent=2))
     print(f"  -> {path.relative_to(BASE)} ({len(events)} Einträge)")
 
+def save_or_keep(slug: str, events: list):
+    """Leere Ergebnisse überschreiben einen vorhandenen Kalender nicht."""
+    path = EVT_DIR / f"{slug}.json"
+    if not events and path.exists():
+        try:
+            old = json.loads(path.read_text())
+        except Exception:
+            old = []
+        if old:
+            print(f"  -> behalte {path.name} ({len(old)} vorhandene Einträge)")
+            return
+    save(slug, events)
+
 if __name__ == "__main__":
     print("\n=== Veranstaltungen: RBK ===")
-    rbk = extract_from_articles("rbk", BASE / "rheinisch-bergischer-kreis" / "all_articles.json")
-    save("rbk", rbk)
+    try:
+        rbk = fetch_bergische(RBK_CITIES)
+    except Exception as exc:
+        print(f"  FEHLER RBK: {exc}")
+        rbk = []
+    save_or_keep("rbk", rbk)
 
     print("\n=== Veranstaltungen: Oberberg ===")
-    ob = extract_from_articles("oberberg", BASE / "oberbergischer-kreis" / "all_articles.json")
-    save("oberberg", ob)
+    try:
+        ob = fetch_bergische(OBERBERG_CITIES)
+    except Exception as exc:
+        print(f"  FEHLER Oberberg: {exc}")
+        ob = []
+    save_or_keep("oberberg", ob)
 
     print("\n=== Veranstaltungen: Köln ===")
-    koeln = fetch_koeln()
-    save("koeln", koeln)
+    try:
+        koeln = fetch_koeln()
+    except Exception as exc:
+        print(f"  FEHLER Köln: {exc}")
+        koeln = []
+    save_or_keep("koeln", koeln)
 
     print("\nFertig!")
