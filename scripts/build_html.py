@@ -324,6 +324,10 @@ def artikel_html(a, show_kommune=True, kommune_map=None):
     if "bürgerportal" in source_key or source_key.endswith("politik") or source_key.endswith("kultur"):
         tags.append('<span class="tag bericht">Bericht</span>')
     tag = f'<div class="tagline">{"".join(tags)}</div>' if tags else ""
+    if a.get("_auch"):
+        source += " · auch bei " + htmlmod.escape(", ".join(a["_auch"]))
+    if a.get("_weitere"):
+        source += f" · {a['_weitere']} ältere Ausgaben im Archiv"
     return f"""<div class="artikel">
   {tag}
   <h2><a href="{link}" target="_blank" rel="noopener">{title}</a></h2>
@@ -331,9 +335,58 @@ def artikel_html(a, show_kommune=True, kommune_map=None):
   <div class="info">{published} · {source}</div>
 </div>"""
 
-def grouped_cards(articles, max_items=None, show_kommune=True, kommune_map=None):
+# Wiederkehrende Rubriken: in der Anzeige nur die neueste Ausgabe zeigen.
+RUBRIKEN = (
+    "das gl-wort",
+    "öffentliche bekanntmachung",
+    "amtliche bekanntmachung",
+    "stellen- und ausbildungsangebote",
+    "pressemitteilung des oberbergischen kreises",
+)
+
+def _titel_norm(title):
+    return re.sub(r"\s+", " ", strip_tags(title or "")).strip().lower()
+
+def zusammenfassen(articles):
+    """Nur für die Anzeige: gleiche Überschrift aus mehreren Quellen (innerhalb von 3 Tagen)
+    als eine Karte mit „auch bei …“, wiederkehrende Rubriken nur in der neuesten Ausgabe.
+    Die Daten bleiben unverändert."""
+    arts = sorted(articles, key=lambda a: parse_pub_date(a.get("published", "")) or datetime.min, reverse=True)
+    out, by_title, rubrik_karte = [], {}, {}
+    for a in arts:
+        t = _titel_norm(a.get("title"))
+        dt = parse_pub_date(a.get("published", ""))
+        rubrik = next((r for r in RUBRIKEN if t.startswith(r)), None)
+        if rubrik:
+            if rubrik in rubrik_karte:
+                rubrik_karte[rubrik]["_weitere"] = rubrik_karte[rubrik].get("_weitere", 0) + 1
+                continue
+            karte = dict(a)
+            rubrik_karte[rubrik] = karte
+            out.append(karte)
+            continue
+        kern = re.sub(r"^(pol|fw)-[a-z]+:\s*", "", t)
+        kern = re.sub(r"^[\wäöüß/\- ]{3,30}:\s*", "", kern)
+        kern = re.sub(r"[^\wäöüß ]", "", kern).strip()
+        t = kern if len(kern) > 25 else t
+        frueher = by_title.get(t)
+        if frueher is not None and frueher.get("source") != a.get("source"):
+            fdt = parse_pub_date(frueher.get("published", ""))
+            if dt and fdt and abs((fdt - dt).days) <= 3:
+                auch = frueher.setdefault("_auch", [])
+                if a.get("source") and a.get("source") not in auch:
+                    auch.append(a.get("source"))
+                continue
+        karte = dict(a)
+        by_title[t] = karte
+        out.append(karte)
+    return out
+
+def grouped_cards(articles, max_items=None, show_kommune=True, kommune_map=None, zusammen=True):
     if not articles:
         return '<div class="empty">Noch keine Artikel vorhanden.</div>'
+    if zusammen:
+        articles = zusammenfassen(articles)
     groups = group_by_month(articles)
     parts = []
     shown = 0
