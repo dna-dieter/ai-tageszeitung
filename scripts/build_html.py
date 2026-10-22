@@ -84,6 +84,16 @@ footer a { color: #85C1E9; }
 .legal ul { padding-left: 1.2rem; }
 .legal .hinweis { background: #fff8e6; border-left: 4px solid var(--rbk-rot); padding: 10px 14px; margin-bottom: 16px; }
 .empty { text-align: center; padding: 40px; color: #999; font-size: 1.1rem; }
+.rat-block { margin: 4px 0 26px; }
+.rat-block h2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.15rem; color: var(--rbk-blau); margin: 0 0 10px; }
+.rat-hero { background: white; border-left: 4px solid var(--rbk-rot); border-radius: 6px; padding: 16px 18px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+.rat-hero .wann { font-family: sans-serif; font-size: 0.78rem; font-weight: 700; color: var(--rbk-rot); letter-spacing: 0.04em; text-transform: uppercase; }
+.rat-hero h3 { font-size: 1.25rem; margin: 4px 0; }
+.rat-liste { list-style: none; }
+.rat-liste li { background: white; border-radius: 6px; padding: 12px 16px; margin-bottom: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+.rat-liste .wann { font-family: sans-serif; font-size: 0.82rem; color: var(--rbk-blau); font-weight: 700; }
+.rat-liste .ort { font-family: sans-serif; font-size: 0.8rem; color: #666; }
+.rat-quelle { font-family: sans-serif; font-size: 0.8rem; color: #666; margin-top: 8px; }
 .monat-gruppe { margin-bottom: 8px; }
 .monat-header { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.05rem; color: var(--rbk-blau); border-bottom: 2px solid var(--rbk-blau); padding: 8px 0 5px 0; margin: 18px 0 10px 0; display: flex; align-items: center; gap: 8px; }
 .monat-header:first-child { margin-top: 0; }
@@ -371,6 +381,32 @@ def header_html(title, subtitle, article_count=None, kreis_slug=None, active_sec
   </div>
 </header>"""
 
+def kommune_nav(kommunen, prefix, kreis_slug, active_slug=None):
+    parts = []
+    for slug, name in kommunen.items():
+        cls = ' class="active"' if slug == active_slug else ''
+        parts.append(f'<a href="{prefix}{slug}/index.html"{cls}>{htmlmod.escape(name)}</a>')
+        if kreis_slug == "rheinisch-bergischer-kreis" and slug == "kuerten":
+            rat_cls = ' class="active"' if active_slug == "kuerten-rat" else ''
+            parts.append(f'<a href="{prefix}kuerten-rat/index.html"{rat_cls}>Kürten-Rat</a>')
+    return "".join(parts)
+
+def kommune_sidebar(kommunen, data_dir, prefix, kreis_slug):
+    parts = []
+    for slug, name in kommunen.items():
+        parts.append(
+            f'<li><a href="{prefix}{slug}/index.html">{htmlmod.escape(name)} '
+            f'<span class="badge">{count_articles(data_dir, slug)}</span></a></li>'
+        )
+        if kreis_slug == "rheinisch-bergischer-kreis" and slug == "kuerten":
+            parts.append(f'<li><a href="{prefix}kuerten-rat/index.html">Kürten-Rat</a></li>')
+    return "".join(parts)
+
+def rat_datum(iso_datum: str) -> str:
+    moment = datetime.strptime(iso_datum, "%Y-%m-%d")
+    wochentage = ["Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag"]
+    return f"{wochentage[moment.weekday()]}, {moment.day}. {MONATE_DE[moment.month]} {moment.year}"
+
 # --- Build Functions ---
 
 def build_kreis_index(kreis_slug, kreis_cfg):
@@ -387,15 +423,10 @@ def build_kreis_index(kreis_slug, kreis_cfg):
     ticker = " · ".join(htmlmod.escape(a["title"][:60]) for a in articles[:3]) or "Keine aktuellen Meldungen"
 
     # Kommune-Navigation
-    nav_links = [f'<a href="index.html" class="active">Alle</a>']
-    for s, n in kommunen.items():
-        nav_links.append(f'<a href="{s}/index.html">{n}</a>')
+    nav_links = ['<a href="index.html" class="active">Alle</a>', kommune_nav(kommunen, "", kreis_slug)]
 
     # Sidebar
-    sidebar_items = "".join(
-        f'<li><a href="{s}/index.html">{n} <span class="badge">{count_articles(data_dir, s)}</span></a></li>'
-        for s, n in kommunen.items()
-    )
+    sidebar_items = kommune_sidebar(kommunen, data_dir, "", kreis_slug)
     # Kreisweite Nachrichten als eigene Kategorie
     kreis_count = count_articles(data_dir, "kreisweite-nachrichten")
     sidebar_items += f'<li style="border-top:1px solid #eee; padding-top:6px; margin-top:6px;"><a href="kreisweite/index.html"><b>Kreisweite Nachrichten</b> <span class="badge">{kreis_count}</span></a></li>'
@@ -470,16 +501,10 @@ def build_kommune_page(kreis_slug, kreis_cfg, kommune_slug, kommune_name):
     kreisweite = load_articles(data_dir, "kreisweite-nachrichten")
 
     # Navigation
-    nav_links = [f'<a href="../index.html">Alle</a>']
-    for s, n in kommunen.items():
-        cls = ' class="active"' if s == kommune_slug else ''
-        nav_links.append(f'<a href="../{s}/index.html"{cls}>{n}</a>')
+    nav_links = ['<a href="../index.html">Alle</a>', kommune_nav(kommunen, "../", kreis_slug, kommune_slug)]
 
     # Sidebar
-    sidebar_items = "".join(
-        f'<li><a href="../{s}/index.html">{n} <span class="badge">{count_articles(data_dir, s)}</span></a></li>'
-        for s, n in kommunen.items()
-    )
+    sidebar_items = kommune_sidebar(kommunen, data_dir, "../", kreis_slug)
     kreis_count = count_articles(data_dir, "kreisweite-nachrichten")
     sidebar_items += f'<li style="border-top:1px solid #eee; padding-top:6px; margin-top:6px;"><a href="../kreisweite/index.html"><b>Kreisweite Nachrichten</b> <span class="badge">{kreis_count}</span></a></li>'
 
@@ -535,14 +560,9 @@ def build_kreisweite_page(kreis_slug, kreis_cfg):
 
     articles = load_articles(data_dir, "kreisweite-nachrichten")
 
-    nav_links = [f'<a href="../index.html">Alle</a>']
-    for s, n in kommunen.items():
-        nav_links.append(f'<a href="../{s}/index.html">{n}</a>')
+    nav_links = ['<a href="../index.html">Alle</a>', kommune_nav(kommunen, "../", kreis_slug)]
 
-    sidebar_items = "".join(
-        f'<li><a href="../{s}/index.html">{n} <span class="badge">{count_articles(data_dir, s)}</span></a></li>'
-        for s, n in kommunen.items()
-    )
+    sidebar_items = kommune_sidebar(kommunen, data_dir, "../", kreis_slug)
 
     page = f"""<!DOCTYPE html>
 <html lang="de">
@@ -754,6 +774,108 @@ def build_veranstaltungen_page():
     (evt_dir / "index.html").write_text(page)
     print(f"  veranstaltungen/index.html")
 
+def build_kuerten_rat_page(kreis_cfg):
+    data_dir = BASE / "rheinisch-bergischer-kreis"
+    kommunen = kreis_cfg["kommunen"]
+    docs_dir = DOCS / "kuerten-rat"
+    docs_dir.mkdir(parents=True, exist_ok=True)
+    quelle = data_dir / "kuerten-rat.json"
+    daten = json.loads(quelle.read_text()) if quelle.exists() else {}
+
+    def termin_html(sitzung, hero=False):
+        wann = rat_datum(sitzung["datum"])
+        if sitzung.get("uhrzeit"):
+            wann += ", " + sitzung["uhrzeit"] + " Uhr"
+        ort = htmlmod.escape(sitzung.get("ort") or "Ort noch nicht genannt")
+        name = htmlmod.escape(sitzung.get("gremium") or "Sitzung")
+        if hero:
+            hinweis = (
+                '<p class="rat-quelle">Die Einladung liegt noch nicht vor. '
+                'Sie erscheint im Ratsinformationssystem, sobald die Gemeinde sie freigibt.</p>'
+                if not sitzung.get("dokumente") else ""
+            )
+            return (
+                '<div class="rat-hero">'
+                f'<div class="wann">{htmlmod.escape(wann)}</div>'
+                f'<h3>{name}</h3>'
+                f'<div class="ort">{ort}</div>'
+                f'{hinweis}'
+                '</div>'
+            )
+        return (
+            '<li>'
+            f'<div class="wann">{htmlmod.escape(wann)}</div>'
+            f'<div><b>{name}</b><div class="ort">{ort}</div></div>'
+            '</li>'
+        )
+
+    rat = daten.get("naechster_rat")
+    hero = termin_html(rat, hero=True) if rat else '<p class="empty">Kein weiterer Ratstermin im Kalender.</p>'
+    weitere = [
+        termin_html(sitzung)
+        for sitzung in daten.get("kommende") or []
+        if not sitzung.get("ist_rat")
+    ]
+    liste = '<ul class="rat-liste">' + "".join(weitere) + '</ul>' if weitere else '<p class="empty">Keine weiteren Sitzungen im Kalender.</p>'
+
+    letzte = daten.get("letzte_ratssitzung") or {}
+    punkte = letzte.get("punkte") or []
+    beschluesse = "".join(
+        '<div class="artikel">'
+        '<div class="tag">Beschluss</div>'
+        f'<h2>{htmlmod.escape(punkt["titel"])}</h2>'
+        f'<div class="teaser">{htmlmod.escape(punkt["text"])}</div>'
+        '</div>'
+        for punkt in punkte
+    )
+    if letzte:
+        protokoll = (
+            f'<div class="rat-block"><h2>{htmlmod.escape(letzte["titel"])}</h2>'
+            f'{beschluesse}'
+            '<p class="rat-quelle">Gekürzt aus der öffentlichen Niederschrift. '
+            'Eröffnung, Entschuldigungen und die Genehmigung der vorigen Niederschrift sind weggelassen. '
+            f'<a href="{htmlmod.escape(letzte["pdf"])}" target="_blank" rel="noopener">Niederschrift als PDF</a>'
+            '</p></div>'
+        )
+    else:
+        protokoll = '<p class="empty">Für die letzte Ratssitzung liegt noch keine kurze Fassung vor.</p>'
+
+    portal = htmlmod.escape(daten.get("portal") or "https://www.kuerten.de/sitzungen/")
+    nav = '<a href="../index.html">Alle</a>' + kommune_nav(kommunen, "../", "rheinisch-bergischer-kreis", "kuerten-rat")
+    page = f"""<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kürten-Rat — AI Tageszeitung</title>
+<style>{CSS}</style>
+</head>
+<body>
+{header_html("Kürten-Rat", "AI Tageszeitung · Rheinisch-Bergischer Kreis", active_section="rbk")}
+<nav>{nav}</nav>
+<main>
+<div class="rat-block">
+  <h2>Nächste Ratssitzung</h2>
+  {hero}
+</div>
+<div class="rat-block">
+  <h2>Weitere Sitzungen</h2>
+  {liste}
+  <p class="rat-quelle">Termine aus dem Ratsinformationssystem der Gemeinde Kürten.
+  <a href="{portal}" target="_blank" rel="noopener">SessionNet öffnen</a></p>
+</div>
+{protokoll}
+</main>
+<footer>
+  <a href="../index.html">Startseite</a> · Kürten-Rat · Aktualisiert: {TIMESTAMP}<br>
+  {LEGAL_LINKS}<br>
+  <a href="{GITHUB_ACTIONS}">GitHub</a>
+</footer>
+{REFRESH_JS}
+</body></html>"""
+    (docs_dir / "index.html").write_text(page)
+    print("  kuerten-rat/index.html")
+
 def legal_page(filename, title, body):
     page = f"""<!DOCTYPE html>
 <html lang="de">
@@ -818,6 +940,8 @@ if __name__ == "__main__":
         for ks, kn in kreis_cfg["kommunen"].items():
             build_kommune_page(kreis_slug, kreis_cfg, ks, kn)
         build_kreisweite_page(kreis_slug, kreis_cfg)
+        if kreis_slug == "rheinisch-bergischer-kreis":
+            build_kuerten_rat_page(kreis_cfg)
     print("\n=== Veranstaltungen ===")
     build_veranstaltungen_page()
     print("\n=== Impressum und Rechtliches ===")

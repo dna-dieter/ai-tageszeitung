@@ -28,6 +28,9 @@ jobs:
       - name: Veranstaltungen extrahieren (RBK, Oberberg, ggf. Köln)
         run: cd scripts && python fetch_events.py
 
+      - name: Kürten-Rat aus SessionNet laden
+        run: cd scripts && python fetch_kuerten_rat.py
+
       - name: HTML-Seiten generieren (beide Kreise + Veranstaltungen)
         run: cd scripts && python build_html.py
 
