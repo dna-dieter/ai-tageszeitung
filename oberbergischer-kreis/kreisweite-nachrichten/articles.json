@@ -2415,6 +2415,18 @@
     "fetched": "2026-07-23T04:26:25.068818"
   },
   {
+    "id": "db67c446b314",
+    "title": "Troisdorf & Bad Honnef: DLRG-Retter aus Oberberg bei Hochwasser-Großübung",
+    "summary": "Rund 200 DLRG-Einsatzkräfte trainierten im Rhein-Sieg-Kreis für eine Hochwasserlage – auch Wasserretter aus Oberberg waren dabei.",
+    "link": "https://www.news-on-tour.de/269340/troisdorf-dlrg-grossuebung-hochwasser/",
+    "published": "Thu, 22 Oct 2026 13:33:01 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-22T15:10:39.616865"
+  },
+  {
     "id": "9ffb918d2aa3",
     "title": "Oberberg: Kreis bestätigt – Internetseite bleibt erreichbar",
     "summary": "Für den 22. Oktober kündigt die Kreisverwaltung Wartungsarbeiten an. Die Internetseite bleibt grundsätzlich erreichbar, einzelne Dienste könnten ausfallen.",
@@ -2422,7 +2434,8 @@
     "published": "Thu, 22 Oct 2026 08:57:35 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "kreisweite-nachrichten",
+      "gummersbach"
     ],
     "fetched": "2026-10-22T10:03:10.101076"
   },
