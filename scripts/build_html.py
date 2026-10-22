@@ -445,17 +445,6 @@ def load_articles(data_dir, slug):
 def count_articles(data_dir, slug):
     return len(load_articles(data_dir, slug))
 
-def kreis_nav_html(active_slug=None):
-    """Navigation zwischen den Kreisen."""
-    links = []
-    for ks, kcfg in KREISE.items():
-        ds = kcfg["docs_slug"]
-        href = f"/{ds}/" if ds else "/"
-        href = f"{'oberberg/' if ds else ''}index.html"
-        cls = ' class="active"' if ks == active_slug else ''
-        links.append(f'<a href="/{href}"{cls}>{kcfg["short"]}</a>')
-    return "\n".join(links)
-
 def header_html(title, subtitle, article_count=None, kreis_slug=None, active_section=None):
     count_text = f"{article_count} Artikel" if article_count else "Stündlich aktualisiert"
     cls_rbk = ' class="active"' if active_section == "rbk" else ''
