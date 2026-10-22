@@ -843,6 +843,8 @@ def build_veranstaltungen_page():
             card += '  <div class="evt-datum">' + datum
             if preis:
                 card += ' &middot; <span style="color:#27AE60;font-weight:normal;">' + preis + '</span>'
+            else:
+                card += ' &middot; <span style="color:#888;font-weight:normal;">Preis k.A.</span>'
             card += '</div>\n'
             card += '  <h3><a href="' + link + '" target="_blank" rel="noopener">' + titel + '</a></h3>\n'
             if ort:

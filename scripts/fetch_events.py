@@ -140,6 +140,16 @@ def _price(item: dict) -> str:
         return f"ab {value:.0f} €"
     return ""
 
+def _preis_aus(price_raw: str) -> str:
+    """Preis nur angeben, wenn er belegt ist: 0 = kostenlos, fehlend = leer (Anzeige: Preis k.A.)."""
+    if price_raw in ("", "None"):
+        return ""
+    try:
+        wert = float(price_raw.replace(",", "."))
+    except ValueError:
+        return ""
+    return "kostenlos" if wert <= 0 else f"ab {wert:.0f} €"
+
 def _place(item: dict) -> str:
     city = item.get("city") or ""
     parts = [item.get("name") or "", item.get("street") or ""]
@@ -285,7 +295,7 @@ def scrape_rausgegangen_koeln(max_events: int = 40) -> list:
                     ort       = ", ".join(ort_parts[:2])  # Name + Straße
                     offers    = d.get("offers", {})
                     price_raw = str(offers.get("price", ""))
-                    price     = f"ab {float(price_raw):.0f} €" if price_raw and price_raw != "0" else "kostenlos"
+                    price     = _preis_aus(price_raw)
                     # Datum formatieren
                     dt = None
                     if start:
