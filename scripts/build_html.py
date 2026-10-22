@@ -16,6 +16,15 @@ from config import BASE, KREISE
 DOCS = BASE / "docs"
 TIMESTAMP = datetime.now().strftime("%d.%m.%Y, %H:%M")
 GITHUB_ACTIONS = "https://github.com/dna-dieter/ai-tageszeitung/actions/workflows/update.yml"
+SITE = "/ai-tageszeitung"
+ANBIETER = "Dieter Nadolski"
+ANBIETER_MAIL = "info-zeitung@nadolski.de"
+ANBIETER_ANSCHRIFT = "(Platzhalter) c/o Muster, Musterstrasse 1, 11111 Muster"
+LEGAL_LINKS = (
+    f'<a href="{SITE}/impressum/">Impressum</a> · '
+    f'<a href="{SITE}/rechtliches/">Rechtliche Hinweise</a> · '
+    f'<a href="{SITE}/rechtliches/#datenschutz">Datenschutz</a>'
+)
 GITHUB_REPO = "dna-dieter/ai-tageszeitung"
 GITHUB_WORKFLOW_FILE = "update.yml"
 
@@ -68,6 +77,11 @@ main { max-width: 1200px; margin: 20px auto; padding: 0 16px; }
 .badge { background: var(--rbk-grau); padding: 1px 8px; border-radius: 10px; font-size: 0.75rem; }
 footer { background: var(--rbk-blau); color: white; text-align: center; padding: 16px; margin-top: 30px; font-size: 0.8rem; font-family: sans-serif; }
 footer a { color: #85C1E9; }
+.legal { max-width: 720px; }
+.legal h2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.15rem; color: var(--rbk-blau); margin: 22px 0 8px; }
+.legal p, .legal li { margin: 0 0 10px; }
+.legal ul { padding-left: 1.2rem; }
+.legal .hinweis { background: #fff8e6; border-left: 4px solid var(--rbk-rot); padding: 10px 14px; margin-bottom: 16px; }
 .empty { text-align: center; padding: 40px; color: #999; font-size: 1.1rem; }
 .monat-gruppe { margin-bottom: 8px; }
 .monat-header { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.05rem; color: var(--rbk-blau); border-bottom: 2px solid var(--rbk-blau); padding: 8px 0 5px 0; margin: 18px 0 10px 0; display: flex; align-items: center; gap: 8px; }
@@ -434,6 +448,7 @@ def build_kreis_index(kreis_slug, kreis_cfg):
 </main>
 <footer>
   AI Tageszeitung · {kreis_cfg['name']} · Aktualisiert: {TIMESTAMP}<br>
+  {LEGAL_LINKS}<br>
   <a href="{GITHUB_ACTIONS}">GitHub</a>
 </footer>
 {REFRESH_JS}
@@ -500,6 +515,7 @@ def build_kommune_page(kreis_slug, kreis_cfg, kommune_slug, kommune_name):
 </main>
 <footer>
   <a href="../index.html">Startseite</a> · {kommune_name} · Aktualisiert: {TIMESTAMP}<br>
+  {LEGAL_LINKS}<br>
   <a href="{GITHUB_ACTIONS}">GitHub</a>
 </footer>
 {REFRESH_JS}
@@ -551,6 +567,7 @@ def build_kreisweite_page(kreis_slug, kreis_cfg):
 </main>
 <footer>
   <a href="../index.html">Startseite</a> · Kreisweite Nachrichten · Aktualisiert: {TIMESTAMP}<br>
+  {LEGAL_LINKS}<br>
   <a href="{GITHUB_ACTIONS}">GitHub</a>
 </footer>
 {REFRESH_JS}
@@ -725,6 +742,7 @@ def build_veranstaltungen_page():
 </main>
 <footer>
   AI Tageszeitung · Veranstaltungskalender · Aktualisiert: {TIMESTAMP}<br>
+  {LEGAL_LINKS}<br>
   <a href="/ai-tageszeitung/">Rhein-Berg</a> ·
   <a href="/ai-tageszeitung/oberberg/">Oberberg</a>
 </footer>
@@ -735,6 +753,65 @@ def build_veranstaltungen_page():
     (evt_dir / "index.html").write_text(page)
     print(f"  veranstaltungen/index.html")
 
+def legal_page(filename, title, body):
+    page = f"""<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{title} — AI Tageszeitung</title>
+<style>{CSS}</style>
+</head>
+<body>
+{header_html("AI TAGESZEITUNG", title)}
+<main>
+<div class="legal">
+{body}
+</div>
+</main>
+<footer>
+  AI Tageszeitung · {title}<br>
+  {LEGAL_LINKS}
+</footer>
+{REFRESH_JS}
+</body></html>"""
+    target = DOCS / filename / "index.html"
+    target.parent.mkdir(parents=True, exist_ok=True)
+    target.write_text(page)
+    print(f"  {filename}/index.html")
+
+def build_legal_pages():
+    impressum = f"""
+<p class="hinweis">Testfassung. Die Anschrift ist ein Platzhalter und keine ladungsfähige Anschrift. Sie steht hier, damit die Links geprüft werden können.</p>
+<h2>Anbieter</h2>
+<p>{ANBIETER}<br>
+{ANBIETER_ANSCHRIFT}</p>
+<p>E-Mail: <a href="mailto:{ANBIETER_MAIL}">{ANBIETER_MAIL}</a></p>
+<h2>Verantwortlich für den Inhalt</h2>
+<p>{ANBIETER}<br>
+{ANBIETER_ANSCHRIFT}</p>
+<p>Verantwortlich im Sinne von § 18 Abs. 2 Medienstaatsvertrag. Die genannte Anschrift erfüllt diese Pflicht nicht, solange sie ein Platzhalter ist.</p>
+<p>Das Angebot wird privat betrieben, ohne Gewerbe, Handelsregistereintrag und Umsatzsteuer-ID.</p>
+"""
+    rechtliches = f"""
+<p class="hinweis">Testfassung. Die Anschrift im Impressum ist ein Platzhalter.</p>
+<h2>Was diese Seite zeigt</h2>
+<p>Die AI Tageszeitung stellt Meldungen aus dem Rheinisch-Bergischen Kreis und dem Oberbergischen Kreis zusammen. Zu jeder Meldung stehen die Überschrift, die Quelle, das Datum, ein kurzer Auszug von höchstens 250 Zeichen und ein Link auf den Originalbeitrag.</p>
+<p>Die Formulierungen gehören den genannten Redaktionen und Pressestellen. Die Seite ersetzt den Originalbericht nicht und gibt fremde Texte nicht als eigene Recherche aus.</p>
+<h2>Quellen</h2>
+<p>Die Quelle steht an jedem Beitrag. Dazu gehören unter anderem das Bürgerportal in-gl.de, GL Aktuell, der Kölner Stadt-Anzeiger, der Remscheider General-Anzeiger, Kommunen, Polizei und Feuerwehr über das Presseportal sowie weitere lokale Angebote. Dieselbe Meldung aus mehreren Quellen wird nach Möglichkeit nur einmal gezeigt.</p>
+<h2>Veranstaltungen</h2>
+<p>Termine für Rhein-Berg und Oberberg kommen aus dem Kalender von Das Bergische, Termine für Köln von Rausgegangen. Angezeigt werden Titel, Zeitpunkt, Ort und ein Link. Ein Teil der Links führt auf die Übersichtsseite des Kalenders, wenn dort keine eigene Detailadresse hinterlegt ist.</p>
+<h2 id="datenschutz">Datenschutz</h2>
+<p>Verantwortlicher: {ANBIETER}, {ANBIETER_ANSCHRIFT}, <a href="mailto:{ANBIETER_MAIL}">{ANBIETER_MAIL}</a>. Die Anschrift ist derzeit ein Platzhalter.</p>
+<p>Die Seiten liegen als feste HTML-Dateien auf GitHub Pages. Der Betreiber setzt keine eigenen Cookies und keine Reichweitenmessung ein. Beim Aufruf verarbeitet der Hoster GitHub die üblichen Verbindungsdaten, insbesondere IP-Adresse, Zeitpunkt und Browsertyp, in seinen Serverprotokollen.</p>
+<p>Der Knopf „Jetzt aktualisieren“ fragt nach einem GitHub-Token. Der Token bleibt im Browser der Person, die ihn eingibt, und wird nur an die GitHub-API gesendet, um den Aktualisierungslauf zu starten. Er wird nicht an den Betreiber dieser Seite übertragen.</p>
+<p>Links auf Meldungen und Veranstaltungen führen auf die Seiten der jeweiligen Quelle. Dort gilt deren Datenschutzhinweis.</p>
+<p>Auskunft, Berichtigung und Löschung können über die genannte E-Mail verlangt werden. Beschwerden nimmt die Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen entgegen.</p>
+"""
+    legal_page("impressum", "Impressum", impressum)
+    legal_page("rechtliches", "Rechtliche Hinweise", rechtliches)
+
 if __name__ == "__main__":
     for kreis_slug, kreis_cfg in KREISE.items():
         print(f"\n=== {kreis_cfg['name']} ===")
@@ -744,4 +821,6 @@ if __name__ == "__main__":
         build_kreisweite_page(kreis_slug, kreis_cfg)
     print("\n=== Veranstaltungen ===")
     build_veranstaltungen_page()
+    print("\n=== Impressum und Rechtliches ===")
+    build_legal_pages()
     print("\nFertig!")
