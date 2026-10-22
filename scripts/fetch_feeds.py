@@ -246,6 +246,19 @@ def dedupe_articles(articles: dict) -> int:
         kept["kommunen"] = kommunen
     return removed
 
+_KW_CACHE = {}
+
+def keyword_regex(kw: str):
+    """Schlagwort als Regex: Treffer nur am Wortanfang (z. B. „Kürtener“ zu „kürten“).
+    Beginnt das Schlagwort mit „=“, muss das ganze Wort passen (z. B. „=olpe“ trifft
+    Olpe, aber nicht „Stolpersteine“ oder „Olper Straße“). \\b ist in Python
+    Unicode-fähig, Umlaute und ß zählen als Buchstaben."""
+    if kw not in _KW_CACHE:
+        exact = kw.startswith("=")
+        body = re.escape(kw[1:] if exact else kw)
+        _KW_CACHE[kw] = re.compile(r"(?<!\w)" + body + (r"(?!\w)" if exact else ""))
+    return _KW_CACHE[kw]
+
 def classify_article(title: str, summary: str, feed_coverage: str, keywords: dict) -> list:
     matches = set()
     if feed_coverage and feed_coverage != "kreisweite-nachrichten":
@@ -253,7 +266,7 @@ def classify_article(title: str, summary: str, feed_coverage: str, keywords: dic
     text = (title + " " + summary).lower()
     for slug, kws in keywords.items():
         for kw in kws:
-            if kw in text:
+            if keyword_regex(kw).search(text):
                 matches.add(slug)
                 break
     return list(matches) if matches else ["kreisweite-nachrichten"]
