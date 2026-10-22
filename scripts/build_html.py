@@ -222,23 +222,31 @@ REFRESH_JS = """
 # --- Helpers ---
 
 def strip_tags(text):
-    clean = re.sub(r'<[^>]+>', '', text)
+    clean = re.sub(r'<[^>]+>', '', text or "")
+    clean = htmlmod.unescape(clean)
     return re.sub(r'\s+', ' ', clean).strip()
 
 def parse_pub_date(raw):
     if not raw:
         return None
+    dt = None
     try:
-        return parsedate_to_datetime(raw)
+        dt = parsedate_to_datetime(raw)
     except Exception:
-        pass
-    m = re.match(r'(\d{4})-(\d{2})-(\d{2})', raw)
-    if m:
-        try:
-            return datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)))
-        except Exception:
-            pass
-    return None
+        dt = None
+    if dt is None:
+        m = re.match(r'(\d{4})-(\d{2})-(\d{2})(?:[ T](\d{2}):(\d{2})(?::(\d{2}))?)?', raw)
+        if m:
+            try:
+                dt = datetime(
+                    int(m.group(1)), int(m.group(2)), int(m.group(3)),
+                    int(m.group(4) or 0), int(m.group(5) or 0), int(m.group(6) or 0),
+                )
+            except Exception:
+                dt = None
+    if dt is not None and dt.tzinfo is not None:
+        dt = dt.replace(tzinfo=None)
+    return dt
 
 def group_by_month(articles):
     grouped = {}
@@ -355,6 +363,7 @@ def build_kreis_index(kreis_slug, kreis_cfg):
 
     all_file = data_dir / "all_articles.json"
     articles = json.loads(all_file.read_text()) if all_file.exists() else []
+    articles.sort(key=lambda a: parse_pub_date(a.get("published", "")) or datetime.min, reverse=True)
 
     ticker = " · ".join(htmlmod.escape(a["title"][:60]) for a in articles[:3]) or "Keine aktuellen Meldungen"
 

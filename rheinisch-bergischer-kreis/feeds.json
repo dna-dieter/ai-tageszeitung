@@ -124,12 +124,20 @@
       "note": "Dienststelle 116240 (korrigiert), funktioniert außerhalb Sandbox"
     },
     {
+      "name": "Stadt Bergisch Gladbach (offiziell)",
+      "url": "https://www.bergischgladbach.de/module/rss/news.aspx",
+      "type": "verwaltung",
+      "coverage": "bergisch-gladbach",
+      "verified": true,
+      "note": "Offizielle Mitteilungen der Stadt. rss.aspx leitet auf diese Adresse um."
+    },
+    {
       "name": "Kölner Stadt-Anzeiger Rhein-Berg",
-      "url": "https://www.ksta.de/region/rhein-berg/?feed=rss",
+      "url": "https://feed.ksta.de/feed/rss/region/rhein-berg/index.rss",
       "type": "tageszeitung",
       "coverage": "kreisweite-nachrichten",
-      "verified": false,
-      "note": "Paywall möglich, Feed-URL auf echtem System testen"
+      "verified": true,
+      "note": "Echter RSS-Feed (die alte ?feed=rss-Adresse lieferte nur HTML). Enthält Gladbach, Rösrath, Overath, Burscheid und den übrigen Kreis."
     },
     {
       "name": "Kölnische Rundschau Rhein-Berg",
@@ -149,5 +157,5 @@
     }
   ],
   "update_interval_minutes": 15,
-  "last_updated": "2026-10-22T15:10:10.574408"
+  "last_updated": "2026-10-22T20:06:30.925352"
 }

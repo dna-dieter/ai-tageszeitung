@@ -4,6 +4,7 @@ RSS-Feed-Fetcher für die AI Tageszeitung.
 Arbeitet alle Kreise aus config.py ab.
 Behält bestehende Artikel, fügt nur neue hinzu.
 """
+import html
 import json
 import hashlib
 import re
@@ -22,7 +23,8 @@ except ImportError:
 from config import BASE, KREISE
 
 def strip_html(text: str) -> str:
-    clean = re.sub(r'<[^>]+>', '', text)
+    clean = re.sub(r'<[^>]+>', '', text or "")
+    clean = html.unescape(clean)
     return re.sub(r'\s+', ' ', clean).strip()
 
 def article_id(entry) -> str:

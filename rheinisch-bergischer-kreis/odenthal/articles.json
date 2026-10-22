@@ -91,6 +91,19 @@
     "fetched": "2026-05-06T16:12:25.979362"
   },
   {
+    "id": "6e6641e5f070",
+    "title": "Zwei Wochen geht nichts mehr: Altenberger-Dom-Straße in Schildgen gesperrt – Umleitungen eingerichtet",
+    "summary": "Die Vollsperrung der Altenberger-Dom-Straße hat begonnen.",
+    "link": "https://www.ksta.de/region/rhein-berg/das-grauen-hat-begonnen-jetzt-ist-schildgen-dicht-1-1398876",
+    "published": "Wed, 21 Oct 2026 02:00:23 +0200",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach",
+      "odenthal"
+    ],
+    "fetched": "2026-10-22T20:06:29.916237"
+  },
+  {
     "id": "e84bb0f60a2b",
     "title": "Baumaßnahme an der Altenberger-Dom-Straße: Schulweg zur Concordiaschule wieder freigegeben",
     "summary": "Kurzfristige Sperrung sorgt für Probleme Seit Montag, 19. Januar, führt die Stadt Bergisch Gladbach Bauarbeiten an der Altenberger-Dom-Straße durch. Mit Beginn der Maßnahme wurde ein Gehwegabschnitt gesperrt, der üblicherweise von den Schülerinnen und Schülern der Concordiaschule als direkter Schulweg genutzt wird. Die kurzfristige Sperrung führte insbesondere zum Schulschluss zu erheblichen Schwi",
@@ -981,6 +994,19 @@
     "fetched": "2026-05-05T21:10:26.232425"
   },
   {
+    "id": "53e8ac284223",
+    "title": "Droht ein Verkehrschaos?: Zwei Wochen Vollsperrung in Schildgen",
+    "summary": "Zum Start der Herbstferien wird die Altenberger-Dom-Straße dichtgemacht, Autofahrer müssen Umleitungen in Kauf nehmen.",
+    "link": "https://www.ksta.de/region/rhein-berg/droht-ein-verkehrschaos-zwei-wochen-vollsperrung-in-schildgen-1397599",
+    "published": "Fri, 16 Oct 2026 15:49:35 +0200",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach",
+      "odenthal"
+    ],
+    "fetched": "2026-10-22T20:06:29.916550"
+  },
+  {
     "id": "2e0284c5b574",
     "title": "Stadt plant Baustelle in Schildgen neu",
     "summary": "Der Protest aus dem Ortsteil Nittum zeigt Wirkung: Die Stadtverwaltung plant den Ablauf des Umbaus der Altenberger-Dom-Straße im nördlichen Abschnitt noch einmal neu. Ab Montag wird zunächst nur ein Gehweg erneuert. Damit ist Zeit gewonnen, ein verträgliches Verkehrskonzept für die Zeit der einseitigen Sperrung der Hauptverkehrsstraße zu entwickeln.",
@@ -1109,5 +1135,18 @@
       "odenthal"
     ],
     "fetched": "2026-10-02T12:23:12.790000"
+  },
+  {
+    "id": "42d6b453bb74",
+    "title": "Standorte der mobilen Geschwindigkeitsüberwachung",
+    "summary": "In dieser Woche sind folgende Messestellen vorgesehen: Freitag, 16.10.2026: Am R&uuml;bezahlwald, Herweg, KuckuckswegSamstag, 17.10.2026: Hornstra&szlig;e, Halbenmorgen In der n&auml;chsten Woche sind folgende Messestellen vorgesehen: Montag, 19.10.2026:&nbsp;L&uuml;ckerather Weg,&nbsp;Kippekausen,&nbsp;Ferrenbergstra&szlig;eDienstag, 20.10.2026:&nbsp;Dolmanstra&szlig;e,&nbsp;Im Hilgersfeld,&nbsp;",
+    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52824",
+    "published": "2026-10-16 09:38:25",
+    "source": "Stadt Bergisch Gladbach (offiziell)",
+    "kommunen": [
+      "bergisch-gladbach",
+      "odenthal"
+    ],
+    "fetched": "2026-10-22T20:06:29.711754"
   }
 ]

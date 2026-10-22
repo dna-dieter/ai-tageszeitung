@@ -1114,6 +1114,18 @@
     "fetched": "2026-05-05T21:10:26.231628"
   },
   {
+    "id": "ac98a1186e89",
+    "title": "Stadtgestaltung: Projekte gegen Hitze: Bergisch Gladbach macht City hitzefest",
+    "summary": "Die Verwaltung bündelt drei Projekte für die Hauptstraße.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/projekte-gegen-hitze-bergisch-gladbach-macht-city-hitzefest-1400371",
+    "published": "Wed, 21 Oct 2026 15:26:59 +0200",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-22T20:06:29.916170"
+  },
+  {
     "id": "89ef70b75de6",
     "title": "POL-RBK: Bergisch Gladbach - Einbrecher in Herkenrath und Frankenforst unterwegs",
     "summary": "Bergisch Gladbach (ots) - Gestern Abend (20.10.) wurde die Polizei gegen 19:50 Uhr zu einem Mehrfamilienhaus in der Straße Zum Kreuzbusch in Herkenrath gerufen. Ein dortiger Bewohner hatte zuvor auf seinen Überwachungskameras zwei dunkel ...",
@@ -1124,6 +1136,19 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-10-21T10:01:24.080495"
+  },
+  {
+    "id": "6e6641e5f070",
+    "title": "Zwei Wochen geht nichts mehr: Altenberger-Dom-Straße in Schildgen gesperrt – Umleitungen eingerichtet",
+    "summary": "Die Vollsperrung der Altenberger-Dom-Straße hat begonnen.",
+    "link": "https://www.ksta.de/region/rhein-berg/das-grauen-hat-begonnen-jetzt-ist-schildgen-dicht-1-1398876",
+    "published": "Wed, 21 Oct 2026 02:00:23 +0200",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach",
+      "odenthal"
+    ],
+    "fetched": "2026-10-22T20:06:29.916237"
   },
   {
     "id": "0105b0d0fb67",
@@ -1721,6 +1746,18 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-05-05T21:10:26.232700"
+  },
+  {
+    "id": "1d0e363fd71d",
+    "title": "Kritische Finanzlage: Bergisch Gladbach verhängt Haushaltssperre",
+    "summary": "Zwölf Millionen Euro schlechter als geplant – Ausgaben über 1000 Euro werden strenger geprüft",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/bergisch-gladbach-verhaengt-haushaltssperre-1396047",
+    "published": "Wed, 14 Oct 2026 15:19:29 +0200",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-22T20:06:29.916861"
   },
   {
     "id": "87a974501029",
@@ -4232,6 +4269,19 @@
     "fetched": "2026-05-05T21:10:26.231777"
   },
   {
+    "id": "9716ee7194c1",
+    "title": "Rad- und Gehweg: Bau zwischen Herkenrath und Kürten-Spitze: Radweg bleibt eine Geduldsprobe",
+    "summary": "Der Bau beginnt frühestens 2027, Straßen NRW weist Sorgen vor Umleitungen durch Anliegerstraßen und Baumfällungen zurück – eine Lücke bleibt dennoch.",
+    "link": "https://www.ksta.de/region/rhein-berg/kuerten/rad-und-gehweg-bau-zwischen-herkenrath-und-kuerten-spitze-radweg-bleibt-eine-geduldsprobe-1399723",
+    "published": "Tue, 20 Oct 2026 16:52:43 +0200",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach",
+      "kuerten"
+    ],
+    "fetched": "2026-10-22T20:06:29.916310"
+  },
+  {
     "id": "77d70c67b291",
     "title": "POL-RBK: Bergisch Gladbach - Zeugen nach Brandstiftung gesucht",
     "summary": "Bergisch Gladbach (ots) - Vergangene Woche brannte im Stadtteil Sand ein hochwertiger Pkw. Die Polizei geht von vorsätzlicher Brandstiftung aus und sucht Zeugen, die Hinweise geben können. In der Nacht auf Donnerstag (15.10.) wurde die Polizei ...",
@@ -5079,6 +5129,18 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-10-19T15:31:15.018555"
+  },
+  {
+    "id": "bfdc450b6871",
+    "title": "Spenden-Hilferuf: Haus Hardt kämpft um seine Zukunft",
+    "summary": "Naturfreunde Köln müssen rund 70.000 Euro für neue Kläranlage in Bergisch Gladbach aufbringen – und bitten dringend um Spenden.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/haus-hardt-kaempft-um-seine-zukunft-und-startet-spenden-hilferuf-1394788",
+    "published": "Tue, 13 Oct 2026 07:35:07 +0200",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-22T20:06:29.916925"
   },
   {
     "id": "374c90178504",
@@ -7873,6 +7935,30 @@
     "fetched": "2026-10-15T13:19:50.435680"
   },
   {
+    "id": "25e7ff551ee7",
+    "title": "Es hagelt Kritik: Letzte Fahrt zum Jahresende in Herkenrath",
+    "summary": "Die Stadt Bergisch Gladbach will den Schülerspezialverkehr in Herkenrath und Moitzfeld einstellen. Es hagelt jedoch Kritik an den Alternativen.",
+    "link": "https://www.ksta.de/region/rhein-berg/letzte-fahrt-zum-jahresende-in-herkenrath-1396573",
+    "published": "Thu, 15 Oct 2026 11:47:05 +0200",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-22T20:06:29.916727"
+  },
+  {
+    "id": "18e8e77bf26a",
+    "title": "Jeder Kauf zählt: Adventskalender der Lions aus Bergisch Gladbach hilft und lässt gewinnen",
+    "summary": "Das Schöne ist, dass nicht nur jeder die Chance auf tolle Gewinne hat, sondern auch die Chance hat, etwas Gutes zu tun.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/adventskalender-der-lions-aus-bergisch-gladbach-hilft-und-laesst-gewinnen-1396551",
+    "published": "Thu, 15 Oct 2026 11:27:57 +0200",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-22T20:06:29.916770"
+  },
+  {
     "id": "2543e655e5ec",
     "title": "Verschiebebahnhof Rathaus: Fünf Bürgeranliegen – keine Entscheidung in der Sache",
     "summary": "Schleichverkehr am Herkenfelder Weg, eine gefährliche Querung in Bärbroich, Hitze in der Innenstadt: Bürgerinnen und Bürger haben dem Ausschuss für Anregungen und Beschwerden am Mittwochabend konkrete Probleme und durchdachte Vorschläge vorgelegt. Der grün geführte Ausschuss reichte alles weiter – an Gremien und an eine Verwaltung, die schon mit den Altfällen nicht hinterherkommt. Sie haben Autos ",
@@ -7883,6 +7969,18 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-10-15T13:19:50.435721"
+  },
+  {
+    "id": "50dd719a8519",
+    "title": "Der Streit reicht tief: Fahrradstraßen spalten den Stadtrat in Bergisch Gladbach",
+    "summary": "Eine aufgeladene Debatte: CDU spricht von „Wortbruch“, SPD und Grüne von schlechtem politischen Stil. Wie geht es nun weiter?",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/fahrradstrassen-spalten-den-stadtrat-in-bergisch-gladbach-1396510",
+    "published": "Thu, 15 Oct 2026 10:54:24 +0200",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-22T20:06:29.916804"
   },
   {
     "id": "941f0d3b254b",
@@ -10309,6 +10407,18 @@
     "fetched": "2026-07-18T08:55:28.491880"
   },
   {
+    "id": "505e898bfa2c",
+    "title": "Shoppen in 2027: Neunmal sonntags zum Einkaufen in Bergisch Gladbach",
+    "summary": "Bergisch Gladbacher Stadtrat beschließt mehrere Ladenöffnungen für 2027 – Verdi droht mit rechtlichen Schritten.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/sonntags-zum-einkaufen-in-bergisch-gladbach-1-1396524",
+    "published": "Sat, 17 Oct 2026 05:00:22 +0200",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-22T20:06:29.916489"
+  },
+  {
     "id": "62f316516782",
     "title": "Schmuck bei Wohnungseinbruch in Bergisch Gladbach gestohlen",
     "summary": "In Bergisch Gladbach-Frankenforst ist es am Mittwoch (18.03.) zu einem Wohnungseinbruch gekommen. Unbekannte Täter verschafften sich Zugang zu einer Wohnung in einem Mehrfamilienhaus am Wildpfad und entwendeten Schmuck. Die Bewohnerin bemerkte den Einbruch am Abend, als sie gegen 18:00 Uhr in ihre Wohnung zurückkehrte. Bereits beim Betreten fiel ihr auf, dass mehrere Möbelstücke beschädigt oder [&",
@@ -11637,6 +11747,42 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-10-19T20:59:31.189819"
+  },
+  {
+    "id": "b312ab22e341",
+    "title": "Leiterin des Jugendrotkreuzes: Mit 20 Jahren an die Spitze im Rheinisch-Bergischen Kreis",
+    "summary": "Lilly Guder aus Bensberg/Refrath löst Stefan Ebert als Leiterin des Jugendrotkreuzes im Rheinisch-Bergischen Kreis ab.",
+    "link": "https://www.ksta.de/region/rhein-berg/leiterin-des-jugendrotkreuzes-mit-20-jahren-an-die-spitze-im-rheinisch-bergischen-kreis-1398892",
+    "published": "Mon, 19 Oct 2026 14:24:25 +0200",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-22T20:06:29.916341"
+  },
+  {
+    "id": "33a1ec1baf85",
+    "title": "„Puls 354“: Wenn Liebe in Bergisch Gladbach den Puls hochtreibt",
+    "summary": "Das Junge Ensemble erzählt mit „Puls 354“ in kurzen Szenen von Nähe, Verlust und Ausgrenzung.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/puls-354-wenn-liebe-in-bergisch-gladbach-den-puls-hochtreibt-1398881",
+    "published": "Mon, 19 Oct 2026 14:11:38 +0200",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-22T20:06:29.916402"
+  },
+  {
+    "id": "05acfe6f9111",
+    "title": "125 Zimmer: Schlosshotel Lerbach in Bergisch Gladbach soll 2028 eröffnen",
+    "summary": "Die Bauarbeiten laufen, der Neubau mit 66 Zimmern wurde umgeplant.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/66-zimmer-schlosshotel-lerbach-in-bergisch-gladbach-soll-2028-eroeffnen-1398873",
+    "published": "Mon, 19 Oct 2026 13:57:12 +0200",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-22T20:06:29.916426"
   },
   {
     "id": "e6a87b212561",
@@ -14760,6 +14906,31 @@
     "fetched": "2026-05-06T16:12:25.979932"
   },
   {
+    "id": "53e8ac284223",
+    "title": "Droht ein Verkehrschaos?: Zwei Wochen Vollsperrung in Schildgen",
+    "summary": "Zum Start der Herbstferien wird die Altenberger-Dom-Straße dichtgemacht, Autofahrer müssen Umleitungen in Kauf nehmen.",
+    "link": "https://www.ksta.de/region/rhein-berg/droht-ein-verkehrschaos-zwei-wochen-vollsperrung-in-schildgen-1397599",
+    "published": "Fri, 16 Oct 2026 15:49:35 +0200",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach",
+      "odenthal"
+    ],
+    "fetched": "2026-10-22T20:06:29.916550"
+  },
+  {
+    "id": "0da457ba3d6e",
+    "title": "Alarm geschlagen: Einbrecher flüchten aus Tankstelle – Polizei findet Geländewagen",
+    "summary": "Zeuge beobachtet nächtlichen Einbruch in Bergisch Gladbach-Schildgen – Täter schlagen Scheibe ein und entkommen im Auto.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/einbrecher-fluechten-aus-tankstelle-polizei-findet-gelaendewagen-1397286",
+    "published": "Fri, 16 Oct 2026 09:39:39 +0200",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-22T20:06:29.916634"
+  },
+  {
     "id": "56242e36c407",
     "title": "POL-RBK: Bergisch Gladbach - Zwei Tatverdächtige brechen in Tankstelle ein - Zeugenaufruf",
     "summary": "Bergisch Gladbach (ots) - Ein Anwohner beobachtete in der vergangenen Nacht (16.10.) einen Einbruch in eine Tankstelle auf der Leverkusener Straße im Stadtteil Schildgen. Nach bisherigen Ermittlungen konnte der Zeuge um kurz vor 03:00 Uhr zwei ...",
@@ -14796,6 +14967,18 @@
       "burscheid"
     ],
     "fetched": "2026-10-16T07:03:05.091810"
+  },
+  {
+    "id": "aab05e7c1722",
+    "title": "Endlich ist es so weit: Neuer Deutscher Platz in Bensberg ist fertig",
+    "summary": "Nach acht Monaten Bauzeit wird die Bensberger Parkanlage am Freitag endlich eingeweiht",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/neuer-deutscher-platz-in-bensberg-ist-endlich-fertig-1-1395960",
+    "published": "Fri, 16 Oct 2026 03:36:26 +0200",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-22T20:06:29.916659"
   },
   {
     "id": "2e0284c5b574",
@@ -16142,5 +16325,126 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-05-05T22:40:03.166335"
+  },
+  {
+    "id": "3a4452ce6425",
+    "title": "Bergisch Gladbach trauert um Sabine Becker – eine Brückenbauerin der Völkerverständigung",
+    "summary": "Gemeinsam mit ihrem Ehemann Axel Becker geh&ouml;rte Sabine Becker zu den ma&szlig;geblichen Wegbereitern der St&auml;dtepartnerschaft zwischen Bergisch Gladbach und der pal&auml;stinensischen Stadt Beit Jala. Seit den ersten Kontakten im Jahr 2002 setzte sich das Ehepaar unerm&uuml;dlich daf&uuml;r ein, Menschen zusammenzubringen, Vorurteile abzubauen und gegenseitiges Verst&auml;ndnis zu f&ouml;",
+    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52835",
+    "published": "2026-10-22 13:45:03",
+    "source": "Stadt Bergisch Gladbach (offiziell)",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-22T20:06:29.710988"
+  },
+  {
+    "id": "b48a7a6cce87",
+    "title": "70 Jahre Städtepartnerschaft: Bergisch Gladbach und Bourgoin-Jallieu feiern deutsch-französische Freundschaft",
+    "summary": "Seit 15 Jahren organisiert der Arbeitskreis j&auml;hrliche B&uuml;rgerreisen nach Bourgoin-Jallieu. Die Teilnehmenden wohnen dabei in franz&ouml;sischen Gastfamilien. Aus den regelm&auml;&szlig;igen Begegnungen sind zahlreiche pers&ouml;nliche Freundschaften entstanden, die auch &uuml;ber die Besuche hinaus gepflegt werden. Der zunehmende Austausch in beiden Sprachen zeigt, wie lebendig die Partne",
+    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52834",
+    "published": "2026-10-22 13:40:19",
+    "source": "Stadt Bergisch Gladbach (offiziell)",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-22T20:06:29.711111"
+  },
+  {
+    "id": "e3d89bd4bdcc",
+    "title": "Gemeinsam für Erinnerung und Frieden: Sammlung für den Volksbund in Bergisch Gladbach eröffnet",
+    "summary": "Die Erste Stellvertretende B&uuml;rgermeisterin Brigitta Opiela er&ouml;ffnete die Sammlung in Vertretung von B&uuml;rgermeister Marcel Kreutz, der zugleich Vorsitzender des Ortsverbandes ist. Begleitet wurde sie von der stellvertretenden B&uuml;rgermeisterin Anna Maria Scheerer und Dezernent Thore Eggert. Ebenfalls vor Ort waren der Regionalgesch&auml;ftsf&uuml;hrer Rheinland, Jasper Stephan-Bene",
+    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52833",
+    "published": "2026-10-22 13:37:22",
+    "source": "Stadt Bergisch Gladbach (offiziell)",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-22T20:06:29.711231"
+  },
+  {
+    "id": "e17a44c63b3d",
+    "title": "Digitale Dienste weiterhin eingeschränkt – erste positive Signale der Dienstleister",
+    "summary": "Die Online-Terminbuchung der B&uuml;rgerdienste funktioniert weiterhin. Dar&uuml;ber hinaus sind die st&auml;dtischen Stellen wie gewohnt telefonisch und per E-Mail erreichbar. Die IT-Dienstleister melden erste positive Entwicklungen und arbeiten an einer sicheren Wiederinbetriebnahme der betroffenen Angebote. Wann diese wieder vollst&auml;ndig zur Verf&uuml;gung stehen, ist derzeit noch offen. Di",
+    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52830",
+    "published": "2026-10-22 13:02:18",
+    "source": "Stadt Bergisch Gladbach (offiziell)",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-22T20:06:29.711288"
+  },
+  {
+    "id": "d003e83bbdb7",
+    "title": "Bürgerinnen und Bürger sind gefragt: Stadt Bergisch Gladbach lädt zur Beteiligung am Leitbild für den städtischen Wald ein",
+    "summary": "Das Leitbild bildet die Grundlage f&uuml;r eine nachhaltige, klimaangepasste und zukunftsorientierte Bewirtschaftung der st&auml;dtischen W&auml;lder. Dabei sollen &ouml;kologische, soziale und wirtschaftliche Aspekte miteinander verbunden werden. Der st&auml;dtische Wald soll weiterhin Lebensraum f&uuml;r Tiere und Pflanzen, Ort der Erholung und Begegnung sowie eine nachhaltig bewirtschaftete Res",
+    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52831",
+    "published": "2026-10-22 10:10:10",
+    "source": "Stadt Bergisch Gladbach (offiziell)",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-22T20:06:29.711377"
+  },
+  {
+    "id": "bbde1309dd32",
+    "title": "Digitale Dienste in Bergisch Gladbach möglicherweise eingeschränkt",
+    "summary": "Einzelne digitale Angebote werden durch externe Dienstleister betrieben. Diese k&ouml;nnen Dienste nach eigener Sicherheitsbewertung vorsorglich abschalten. Deshalb kann es vor&uuml;bergehend zu Einschr&auml;nkungen kommen. Die st&auml;dtische IT, die Stabsstelle Notfall- und Krisenmanagement sowie die Verantwortlichen der Stadt verfolgen die Entwicklung eng und stimmen das weitere Vorgehen gemein",
+    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52828",
+    "published": "2026-10-21 18:25:52",
+    "source": "Stadt Bergisch Gladbach (offiziell)",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-22T20:06:29.711423"
+  },
+  {
+    "id": "a124f772c597",
+    "title": "Übernahme des neuen Stadthauses verschiebt sich um wenige Wochen",
+    "summary": "Im Rahmen des heutigen &Uuml;bergabetermins haben Vertreterinnen und Vertreter der Stadtverwaltung, der Projektsteuerung, externe Berater, Gutachter sowie der Vermieter den aktuellen Stand der Arbeiten vor Ort gemeinsam bewertet. Dabei zeigte sich, dass die Arbeiten insgesamt weit fortgeschritten sind, in verschiedenen Gewerken jedoch noch Leistungen ausstehen. Eine vollst&auml;ndige oder teilweis",
+    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52825",
+    "published": "2026-10-19 08:39:42",
+    "source": "Stadt Bergisch Gladbach (offiziell)",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-22T20:06:29.711473"
+  },
+  {
+    "id": "757944938616",
+    "title": "Städtepartnerschaft mit Leben gefüllt: Bergisch Gladbacher zu Gast in Pszczyna",
+    "summary": "Die Reise fand im Rahmen der j&auml;hrlich vom Partnerschaftsverein Bergisch Gladbach &ndash; Pszczyna e.V. organisierten &bdquo;Reise gegen das Vergessen&ldquo; nach Krakau und Auschwitz statt. Der Aufenthalt in Pszczyna geh&ouml;rt traditionell zum Programm und erm&ouml;glicht den Teilnehmenden, die Partnerstadt und ihre Menschen pers&ouml;nlich kennenzulernen. &bdquo;Wir werden dort jedes Mal s",
+    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52775",
+    "published": "2026-10-17 23:54:54",
+    "source": "Stadt Bergisch Gladbach (offiziell)",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-22T20:06:29.711648"
+  },
+  {
+    "id": "42d6b453bb74",
+    "title": "Standorte der mobilen Geschwindigkeitsüberwachung",
+    "summary": "In dieser Woche sind folgende Messestellen vorgesehen: Freitag, 16.10.2026: Am R&uuml;bezahlwald, Herweg, KuckuckswegSamstag, 17.10.2026: Hornstra&szlig;e, Halbenmorgen In der n&auml;chsten Woche sind folgende Messestellen vorgesehen: Montag, 19.10.2026:&nbsp;L&uuml;ckerather Weg,&nbsp;Kippekausen,&nbsp;Ferrenbergstra&szlig;eDienstag, 20.10.2026:&nbsp;Dolmanstra&szlig;e,&nbsp;Im Hilgersfeld,&nbsp;",
+    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52824",
+    "published": "2026-10-16 09:38:25",
+    "source": "Stadt Bergisch Gladbach (offiziell)",
+    "kommunen": [
+      "bergisch-gladbach",
+      "odenthal"
+    ],
+    "fetched": "2026-10-22T20:06:29.711754"
+  },
+  {
+    "id": "b6a6e3f3d0b2",
+    "title": "Zwei neue Videos zeigen Engagement für Klimaschutz und nachhaltige Mobilität",
+    "summary": "Antworten auf diese Fragen liefern zwei neue Videos der Stabsstelle W&auml;rmeplanung, Klimaschutz und -anpassung, die jetzt ver&ouml;ffentlicht wurden.Im ersten Beitrag stellen sich die B&uuml;rger-Solar-Berater vor. Die ehrenamtlich Engagierten unterst&uuml;tzen B&uuml;rgerinnen und B&uuml;rger dabei, die M&ouml;glichkeiten einer eigenen Photovoltaikanlage besser einzusch&auml;tzen und erste Sch",
+    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52823",
+    "published": "2026-10-16 09:01:55",
+    "source": "Stadt Bergisch Gladbach (offiziell)",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-22T20:06:29.711820"
   }
 ]
