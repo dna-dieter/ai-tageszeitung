@@ -1,9 +1,6 @@
 name: Stündliche Aktualisierung
 
 on:
-  schedule:
-    # Jede Stunde um :05
-    - cron: '5 * * * *'
   workflow_dispatch: # Manueller Trigger
 
 env:
