@@ -202,6 +202,14 @@
       "coverage": "burscheid",
       "verified": true,
       "note": "Offizielle Meldungen. Neu 2026-10-23 laut feed_analyse_2026-10-23_v2.md, geprüft 23.10. (HTTP 200, gültiges RSS)"
+    },
+    {
+      "name": "Rheinisch-Bergische Wirtschaftsförderung (RBW)",
+      "url": "https://www.rbw.de/feed/",
+      "type": "verwaltung",
+      "coverage": "kreisweite-nachrichten",
+      "verified": true,
+      "note": "Neu 2026-10-23 laut rbk_blogger_2026-10-23.md, geprüft 23.10. (HTTP 200, 10 Items, neuester 22.10.)."
     }
   ],
   "update_interval_minutes": 15,
