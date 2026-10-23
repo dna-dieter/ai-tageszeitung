@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Herbstferien im Museum",
-    "datum": "23. Okt 2026",
-    "datum_raw": "2026-10-23T13:00:00+02:00",
-    "ort": "LVR-Freilichtmuseum Lindlar, Heiligenhoven 16a, 51789 Lindlar",
-    "preis": "",
-    "link": "https://www.lvr.de/freilichtmuseum-lindlar/programm/herbstferienprogramm/#module-523562",
-    "quelle": "Das Bergische",
-    "teaser": "Was kann aus bereits vorhandenen Materialien und natürlichen Rohstoffen neues entstehen? Unter dem Motto „Wunderbar verwertbar“ dreht sich in den Herbstferien alles um Nachhaltigkeit, Wiederverwertung und altes Handwerk."
-  },
-  {
     "titel": "Die inklusive Freizeitmesse ",
     "datum": "23. Okt 2026",
     "datum_raw": "2026-10-23T14:00:00+02:00",
@@ -148,6 +138,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Programm: Im kleinen Sulky können die Kinder die herbstliche Umgebung entdecken, während unser Pony sie sicher durch raschelnde Blätter und klare Herbstluft zieht. Vor der Fahrt wird das Pony begrüßt, gestreichelt und be"
+  },
+  {
+    "titel": "Herbstferien im Museum",
+    "datum": "25. Okt 2026",
+    "datum_raw": "2026-10-25T11:00:00+01:00",
+    "ort": "LVR-Freilichtmuseum Lindlar, Heiligenhoven 16a, 51789 Lindlar",
+    "preis": "",
+    "link": "https://www.lvr.de/freilichtmuseum-lindlar/programm/herbstferienprogramm/#module-523562",
+    "quelle": "Das Bergische",
+    "teaser": "Was kann aus bereits vorhandenen Materialien und natürlichen Rohstoffen neues entstehen? Unter dem Motto „Wunderbar verwertbar“ dreht sich in den Herbstferien alles um Nachhaltigkeit, Wiederverwertung und altes Handwerk."
   },
   {
     "titel": "Orientexpress - Eine musikalische Reise mit einem berühmten Zug von Paris nach Istanbul",
@@ -398,5 +398,395 @@
     "link": "https://weggefaehrte.com/2026/09/10/panoramarunde-wildbergerhuette-eine-oberbergische-genusswanderung/",
     "quelle": "Das Bergische",
     "teaser": "Das Bergische Land hat ja durchaus seine bekannten, viel begangenen Ecken. Die Landschaft ganz im Südosten des Oberbergischen Kreises, an der Grenze zum Siegerland, gehört jedoch zu den echten Geheimtipps für Naturliebha"
+  },
+  {
+    "titel": "Finissage der Ausstellung Arbeits[T]räume im Kraftwerk",
+    "datum": "1. Nov 2026",
+    "datum_raw": "2026-11-01T11:00:00+01:00",
+    "ort": "LVR-Industriemuseum Kraftwerk Ermen & Engels, Engels-Platz 2, 51766 Engelskirchen",
+    "preis": "ab 6 €",
+    "link": "https://www.shop.industriemuseum.lvr.de/#/product/event/15824",
+    "quelle": "Das Bergische",
+    "teaser": "Viel los beim Saisonfinale im Kraftwerk! Die Ausstellung \"Arbeits[T]räume\" lädt ein letztes Mal dazu ein, über die Arbeitswelt von morgen nachzudenken: Wie sieht die aus? Vier-Tage-Woche oder Vollzeit-Job? Home-Office od"
+  },
+  {
+    "titel": "Familienworkshop: Die Stromwerkstatt - Wissen, warum's brizzelt!",
+    "datum": "1. Nov 2026",
+    "datum_raw": "2026-11-01T14:00:00+01:00",
+    "ort": "LVR-Industriemuseum Kraftwerk Ermen & Engels, Engels-Platz 2, 51766 Engelskirchen",
+    "preis": "ab 9 €",
+    "link": "https://www.shop.industriemuseum.lvr.de/#/product/event/11709",
+    "quelle": "Das Bergische",
+    "teaser": "Der Strom kommt aus der Steckdose – klar. Aber wie kommt er dort hin, wie wird er erzeugt und was bedeutet das für unsere Umwelt und den Geldbeutel? Schaffen es die Teilnehmenden, in einem Spiel ein stabiles Stromnetz zu"
+  },
+  {
+    "titel": "Waldbröl's Erbe, NS-Großbauten in der kommunalen Erinnerung",
+    "datum": "4. Nov 2026",
+    "datum_raw": "2026-11-04T19:30:00+01:00",
+    "ort": "Döörper Treff, Hochstraße 34, 51545 Waldbröl",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Das Verhältnis von kommunalen Gemeinschaften zu ihrem baulichen NS-Erbe ist komplex und teils sogar widersprüchlich. Dieses Verhältnis und damit verbundene städtische Erinnerungen lassen sich über die jeweilige lokale un"
+  },
+  {
+    "titel": "Nachts im Museum",
+    "datum": "6. Nov 2026",
+    "datum_raw": "2026-11-06T17:00:00+01:00",
+    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
+    "preis": "ab 6 €",
+    "link": "http://www.schloss-homburg.de/cms200schloss/veranstaltung/374152/index.shtml.de",
+    "quelle": "Das Bergische",
+    "teaser": "Wenn es draußen dunkel wird schalten wir die Taschenlampen an und gehen auf Entdeckungstour durchs dunkle Schloss und die große PLAYMOBIL Ausstellung. Warum waren die Betten früher eigentlich so klein? Ist es gemütlich i"
+  },
+  {
+    "titel": "Sankt Martin in Bernberg – Traditionelles Martinsfest",
+    "datum": "6. Nov 2026",
+    "datum_raw": "2026-11-06T17:30:00+01:00",
+    "ort": "Gemeinschaftsgrundschule Bernberg, Ulmenweg 10, 51647 Gummersbach",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Sankt Martin in Bernberg – seit über 30 Jahren eine besondere Tradition! Am Freitag, 6. November 2026, lädt der Förderverein der GGS Bernberg e.V. zum traditionellen Sankt-Martinsfest ein. In besonders besucherstarken Ja"
+  },
+  {
+    "titel": "Pilzseminar für Einsteiger:innen",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T09:00:00+01:00",
+    "ort": "VHS im EKZ Bergischer Hof, Brückenstraße 1, 51643 Gummersbach",
+    "preis": "ab 44 €",
+    "link": "http://www.vhs-gm.de/programm/gesellschaft-25.html?action%5B89%5D=course&courseId=571-C-3387732&filter%5Bq%5D=Pilz&rowIndex=0",
+    "quelle": "Das Bergische",
+    "teaser": "In diesem Tagesseminar werden häufig vorkommende Speisepilze und deren giftige Doppelgänger kennengelernt. Zunächst gibt es im Seminarraum einen Einblick in die faszinierende Welt der Pilze, deren Lebensweise und Bedeutu"
+  },
+  {
+    "titel": "Nix kütt fott – 1. Weihnachtstauschrausch des BAV Zero Waste Clubs",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T14:00:00+01:00",
+    "ort": ":metabolon - Umweltlernort und Freizeitspass, Am Berkebach 1, 51789 Lindlar",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Weihnachten rückt näher und mit der kalten Jahreszeit beginnt auch wieder die Zeit für Lichterketten, Weihnachtsdekoration und gemütliche Spieleabende. Gleichzeitig finden sich in vielen Haushalten Dinge, die kaum noch g"
+  },
+  {
+    "titel": "Winterliche Kränze binden",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T15:00:00+01:00",
+    "ort": "Waldheim Dörspetal, An der Dörspe 22, 51702 Bergneustadt",
+    "preis": "ab 25 €",
+    "link": "https://www.waldheim-doerspetal.de/veranstaltungen/kranzweise261107",
+    "quelle": "Das Bergische",
+    "teaser": "Aus Zapfen, Bucheckern, Nüssen, Eicheln und ausgewählten Gewürzen wollen wir gemeinsam stimmungsvolle Kränze für die Winterzeit binden. Angeleitet wird der Nachmittag von Hille Oberbüscher von kranzweise. Vorkenntnisse s"
+  },
+  {
+    "titel": "Kerzenscheinkonzert",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T20:00:00+01:00",
+    "ort": "Heimatmuseum Bergneustadt, Wallstraße 1, 51702 Bergneustadt",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Zwei außergewöhnliche Musiker überzeugen durch ihre Leidenschaft für die Musik und ihre kreative Zusammenarbeit. Peter Schönfeld ergänzt seine virtuosen Fähigkeiten am Kontrabass durch den Einsatz von ungewöhnlichen Gerä"
+  },
+  {
+    "titel": "Kunstausstellung Haus der Kunst",
+    "datum": "8. Nov 2026",
+    "datum_raw": "2026-11-08T15:00:00+01:00",
+    "ort": "Haus der Kunst, Jakob-Engels-Strasse 2, 51588 Nümbrecht",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Jeanette de Payebrune Malerei Eröffnung: 08.11.2026, 15:00 Uhr, Haus der Kunst Öffnungszeiten: donnerstags: 16:00-18:00 Uhr samstags und sonntags: 14:00-17:00 Uhr Veranstalter: Kunstverein Nümbrecht e.V. Veranstaltungsor"
+  },
+  {
+    "titel": "Kurkonzert",
+    "datum": "8. Nov 2026",
+    "datum_raw": "2026-11-08T15:00:00+01:00",
+    "ort": "Parkhotel Nümbrecht, Parkstraße 3, 51588 Nümbrecht",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "mit den Blasmusikfreunden Olpe Eintritt frei. Veranstalter: Nümbrechter Kur GmbH Veranstaltungsort: Parkhotel (Kursaal)"
+  },
+  {
+    "titel": "Musik, die Kinder in Bewegung bringt! Ein fröhliches Mitmach- und Bewegungskonzert mit Faryna ",
+    "datum": "8. Nov 2026",
+    "datum_raw": "2026-11-08T15:00:00+01:00",
+    "ort": "Rathaus Engelskirchen, Engels-Platz 4, 51766 Engelskirchen",
+    "preis": "ab 10 €",
+    "link": "http://www.engelskirchen.de/portal/meldungen/uebersicht-0-23501.html?titel=Aktuelle+Meldungen",
+    "quelle": "Das Bergische",
+    "teaser": "Am Sonntag, 8. November 2026 um 15.00 Uhr findet das fröhliche Mitmach- und Bewegunskonzert im Ratssaal des Rathauses der Gemeinde Engelskirchen statt. Ein Powerprogramm für Kinder von 3-8 Jahren Kinder bewegen sich gern"
+  },
+  {
+    "titel": "Außer Kontrolle nach Ray Cooney",
+    "datum": "11. Nov 2026",
+    "datum_raw": "2026-11-11T20:00:00+01:00",
+    "ort": "Halle 32, Steinmüllerallee 10, 51643 Gummersbach",
+    "preis": "ab 19 €",
+    "link": "https://www.halle32.de/programm/ausser-kontrolle-nach-ray-cooney-1310/",
+    "quelle": "Das Bergische",
+    "teaser": "In dieser turbulenten, witzig-spannenden Krimifarce nach Ray Cooney gerät Staatsminister Richard Willey in London zwischen leblosen Privatdetektiven, eifersüchtigen Ehepartnern und einem nervigen Kellner in ein Chaos, da"
+  },
+  {
+    "titel": "Winterdorf Gummersbach",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T12:00:00+01:00",
+    "ort": "Steinmüllerallee, 51643 Gummersbach",
+    "preis": "",
+    "link": "https://www.winterdorf-gummersbach.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Seid zu Gast in unserer unnachahmlichen Weihnachtswelt und genieße eine Stimmung wie sie es früher und nicht nur im Märchen einmal gab. Vom 12.11.26 bis zum 23.12.26 tauchen wir das Herz der Gummersbacher Steinmülleralle"
+  },
+  {
+    "titel": "Achtsamkeits-Workshop mit Kunst und Waldbaden",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T15:00:00+01:00",
+    "ort": "Waldheim Dörspetal, An der Dörspe 22, 51702 Bergneustadt",
+    "preis": "ab 290 €",
+    "link": "https://achtsamkeit-braner.de/kreativ-we",
+    "quelle": "Das Bergische",
+    "teaser": "Du möchtest dem Alltag für ein Wochenende den Rücken kehren, zur Ruhe kommen und neue Energie tanken? Von Donnerstag bis Samstag erwartet dich ein abwechslungsreiches Programm mit Meditation, achtsamem Yoga, Waldbaden un"
+  },
+  {
+    "titel": "Die gemütliche Kurzstrecke",
+    "datum": "13. Nov 2026",
+    "datum_raw": "2026-11-13T14:00:00+01:00",
+    "ort": "Eissporthalle Wiehl, Mühlenstraße 23, 51674 Wiehl",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "einfache Wege, ca. 4-5 km Schlusseinkehr: möglich Veranstalter: SGV Abteilung Homburger Land Treffpunkt: 14:00 Uhr Wiehl, Parkplatz Vorderbereich Eissporthalle"
+  },
+  {
+    "titel": "Martinsumzug im Freilichtmuseum",
+    "datum": "13. Nov 2026",
+    "datum_raw": "2026-11-13T16:30:00+01:00",
+    "ort": "LVR-Freilichtmuseum Lindlar, Heiligenhoven 16a, 51789 Lindlar",
+    "preis": "",
+    "link": "https://freilichtmuseum-lindlar.lvr.de/de/veranstaltungen/jahresprogramm/martinsumzug/martinsumzug.html",
+    "quelle": "Das Bergische",
+    "teaser": "Sankt Martin reitet durch das Museumsgelände und teilt seinen Mantel mit dem Bettler. Der Laternenumzug geht mit musikalischer Begleitung bis zum großen Martinsfeuer. Dort gibt es Weckmänner und warme Getränke. Familien,"
+  },
+  {
+    "titel": "Nachts im Museum",
+    "datum": "13. Nov 2026",
+    "datum_raw": "2026-11-13T17:00:00+01:00",
+    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
+    "preis": "ab 6 €",
+    "link": "http://www.schloss-homburg.de/cms200schloss/veranstaltung/374154/index.shtml.de",
+    "quelle": "Das Bergische",
+    "teaser": "Wenn es draußen dunkel wird schalten wir die Taschenlampen an und gehen auf Entdeckungstour durchs dunkle Schloss und die große PLAYMOBIL Ausstellung. Warum waren die Betten früher eigentlich so klein? Ist es gemütlich i"
+  },
+  {
+    "titel": "Herbst-Winter-Werkkunstmarkt",
+    "datum": "14. Nov 2026",
+    "datum_raw": "2026-11-14T11:00:00+01:00",
+    "ort": "GWN Arena Nümbrecht, Mateh-Yehuda Str. 3a, 51588 Nümbrecht",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Wenn die Tage langsam kürzer werden und die erste winterliche Vorfreude in der Luft liegt, öffnet die GWN-Arena in Nümbrecht wieder ihre Türen für ein kreatives Highlight: Am Samstag und Sonntag, 14. und 15. November 202"
+  },
+  {
+    "titel": "Waffelstube in der \"Alten Schmiede\"",
+    "datum": "14. Nov 2026",
+    "datum_raw": "2026-11-14T14:00:00+01:00",
+    "ort": "„Alte Schmiede“, christl. Schüler- und Jugendcafé, Marktstrasse 10, 51588 Nümbrecht",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "mit Kaffee und Kuchen Am Werkkunstmarkt-Wochenende öffnet die „Alte Schmiede“ ihre Türen für Jung und Alt. Bei Kaffee und Kuchen haben Sie die Möglichkeit, zu schauen, zu entspannen, zu verweilen und Zeit mit netten Mens"
+  },
+  {
+    "titel": "Nachts im Museum",
+    "datum": "14. Nov 2026",
+    "datum_raw": "2026-11-14T17:00:00+01:00",
+    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
+    "preis": "ab 6 €",
+    "link": "http://www.schloss-homburg.de/cms200schloss/veranstaltung/374155/index.shtml.de",
+    "quelle": "Das Bergische",
+    "teaser": "Wenn es draußen dunkel wird schalten wir die Taschenlampen an und gehen auf Entdeckungstour durchs dunkle Schloss und die große PLAYMOBIL Ausstellung. Warum waren die Betten früher eigentlich so klein? Ist es gemütlich i"
+  },
+  {
+    "titel": "Alles Kappes",
+    "datum": "15. Nov 2026",
+    "datum_raw": "2026-11-15T10:30:00+01:00",
+    "ort": "Parkplatz Lidl, In der Mähbach 2, 51580 Reichshof",
+    "preis": "",
+    "link": "http://www.reichshof.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Die Wanderung „Alles Kappes“ findet rund um Eckenhagen statt. Im Anschluss an die Wanderung besteht die Möglichkeit das Kappesfest am Bauernhofmuseum zu besuchen. Wanderführerin: Doris Bilobrowec Treffpunkt: Parkplatz Li"
+  },
+  {
+    "titel": "Don Pasquale - Oper für alle",
+    "datum": "18. Nov 2026",
+    "datum_raw": "2026-11-18T20:00:00+01:00",
+    "ort": "Halle 32, Steinmüllerallee 10, 51643 Gummersbach",
+    "preis": "",
+    "link": "https://www.halle32.de/programm/don-pasquale-oper-fuer-alle-1298/",
+    "quelle": "Das Bergische",
+    "teaser": "Komische Oper von Gaetano Donizetti in deutscher Sprache Ein Projekt der Gummersbacher Philharmoniker, in Zusammenarbeit mit internationalen Solisten und dem VoxMusica Chor Wipperfürth e.V. unter der Leitung von Karsten "
+  },
+  {
+    "titel": "Waldorfleuchten falten",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T17:30:00+01:00",
+    "ort": "Waldheim Dörspetal, An der Dörspe 22, 51702 Bergneustadt",
+    "preis": "ab 25 €",
+    "link": "https://www.waldheim-doerspetal.de/veranstaltungen/waldorfleuchten261119",
+    "quelle": "Das Bergische",
+    "teaser": "Anstelle des offenen Kreativabends gestalten wir gemeinsam Waldorfleuchten – kleine, stimmungsvolle Objekte, die sich wunderbar als Teelicht oder in Kombination mit einer Lichterkette nutzen lassen. Schritt für Schritt l"
+  },
+  {
+    "titel": "Event-Brauereiführung mit der Band Voice Boys",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T19:00:00+01:00",
+    "ort": "Erzquell Brauerei, Bielsteiner Straße 108, 51674 Wiehl",
+    "preis": "ab 39 €",
+    "link": "https://www.erzquell.de/erlebnisse-in-der-brauerei/brauereibesichtigungen-bielstein/",
+    "quelle": "Das Bergische",
+    "teaser": "Bei dieser besonderen Führung erleben Sie die Erzquell Brauerei einmal ganz intensiv: Sie erhalten spannende Einblicke in die Kunst des Brauhandwerks und können anschließend im gemütlichen Braustübchen den Abend auskling"
+  },
+  {
+    "titel": "Nachts im Museum",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T17:00:00+01:00",
+    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
+    "preis": "ab 6 €",
+    "link": "http://www.schloss-homburg.de/cms200schloss/veranstaltung/374156/index.shtml.de",
+    "quelle": "Das Bergische",
+    "teaser": "Wenn es draußen dunkel wird schalten wir die Taschenlampen an und gehen auf Entdeckungstour durchs dunkle Schloss und die große PLAYMOBIL Ausstellung. Warum waren die Betten früher eigentlich so klein? Ist es gemütlich i"
+  },
+  {
+    "titel": "Springmaus: Merry Christmaus",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T20:00:00+01:00",
+    "ort": "Parkhotel Nümbrecht, Parkstraße 3, 51588 Nümbrecht",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Der Weihnachtsklassiker der Springmaus ist die perfekte Einstimmung auf die festlichen Tage. Auf ihre einzigartige Weise stellen die Akteure von Deutschlands bekanntestem Improvisationstheater das Weihnachtsgeschehen auf"
+  },
+  {
+    "titel": "Nachts im Museum",
+    "datum": "21. Nov 2026",
+    "datum_raw": "2026-11-21T17:00:00+01:00",
+    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
+    "preis": "ab 6 €",
+    "link": "http://www.schloss-homburg.de/cms200schloss/veranstaltung/374158/index.shtml.de",
+    "quelle": "Das Bergische",
+    "teaser": "Wenn es draußen dunkel wird schalten wir die Taschenlampen an und gehen auf Entdeckungstour durchs dunkle Schloss und die große PLAYMOBIL Ausstellung. Warum waren die Betten früher eigentlich so klein? Ist es gemütlich i"
+  },
+  {
+    "titel": "Ein \"lebendiges\" Dorf im Homburger Land",
+    "datum": "22. Nov 2026",
+    "datum_raw": "2026-11-22T10:00:00+01:00",
+    "ort": "Rewe Wiehl, Wiesenstraße 6, 51674 Wiehl",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "und anschließend Grünkohlessen beim „Klacker“ Überwiegend Wald- u. Wiesenwege mit jeweils ca. 130 im An- u. Abstieg, Länge ca. 6-8 km Schlusseinkehr möglich, Anmeldung für die Schlusseinkehr bis zum 08.11.2026 Veranstalt"
+  },
+  {
+    "titel": "Nachts im Museum",
+    "datum": "27. Nov 2026",
+    "datum_raw": "2026-11-27T17:00:00+01:00",
+    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
+    "preis": "ab 6 €",
+    "link": "http://www.schloss-homburg.de/cms200schloss/veranstaltung/374159/index.shtml.de",
+    "quelle": "Das Bergische",
+    "teaser": "Wenn es draußen dunkel wird schalten wir die Taschenlampen an und gehen auf Entdeckungstour durchs dunkle Schloss und die große PLAYMOBIL Ausstellung. Warum waren die Betten früher eigentlich so klein? Ist es gemütlich i"
+  },
+  {
+    "titel": "Nikolausmarkt am Heimatmuseum Bergneustadt",
+    "datum": "27. Nov 2026",
+    "datum_raw": "2026-11-27T18:00:00+01:00",
+    "ort": "Heimatmuseum Bergneustadt, Wallstraße 1, 51702 Bergneustadt",
+    "preis": "",
+    "link": "http://www.heimatmuseum-bergneustadt.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Der Nikolausmarkt am Heimatmuseum in der historischen Altstadt Bergneustadts, der traditionell am ersten Adventswochenende stattfindet, wird ausschließlich von Neustädter Vereinen, Schulen, Kindergärten, etc. gestaltet. "
+  },
+  {
+    "titel": "Der Wald im Wandel der Jahreszeiten - Klein und groß erleben gemeinsam den Wald",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T09:30:00+01:00",
+    "ort": "Parkplatz Dreisbacher Höhe, Dreisbacher Höhe 1, 51674 Wiehl",
+    "preis": "",
+    "link": "https://www.wiehl.de/aktuelles/veranstaltungskalender/veranstaltung/?id=4148",
+    "quelle": "Das Bergische",
+    "teaser": "Den Wald in seinen Jahreszeiten betrachten und bewusst die Veränderungen wahrnehmen. Wir gehen immer denselben Weg und betrachten den Wandel. Kombiniert mit Outdoor-Entspannungstechniken, wie Vertrauensübungen, Lauftechn"
+  },
+  {
+    "titel": "Kreatives mit Pilzen",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T10:00:00+01:00",
+    "ort": "VHS im EKZ Bergischer Hof, Brückenstraße 1, 51643 Gummersbach",
+    "preis": "ab 33 €",
+    "link": "http://www.vhs-gm.de/programm/kulturkreativitaet.html?action%5B160%5D=course&courseId=571-C-3384806&filter%5Bq%5D=Pilz&rowIndex=1",
+    "quelle": "Das Bergische",
+    "teaser": "Pilze werden allgemein fast ausschließlich nach ihrem Speisewert und ihrer Giftigkeit beurteilt. Häufig wird dabei vergessen, dass ein Leben ohne Pilze nicht möglich ist. Aber Pilze lassen sich auch unglaublich kreativ e"
+  },
+  {
+    "titel": "Winterfest \"Rund um die Bonte Kerke\"",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T16:00:00+01:00",
+    "ort": "\"Bonte Kerke\" (Lieberhausen), Kirchplatz, 51647 Gummersbach",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Programm: Samstag: Vorabendprogramm zum Winterfest von 16 – 21 Uhr der Feuerwehr Löschgruppe Homert.Sonntag: 10.30 Uhr – Gottesdienst „Musik zum Advent“, Programm: Chor „Resonanz Wiehl“, Alt- und Sopranflöte, Orgel, Veeh"
+  },
+  {
+    "titel": "Nachts im Museum",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T17:00:00+01:00",
+    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
+    "preis": "ab 6 €",
+    "link": "http://www.schloss-homburg.de/cms200schloss/veranstaltung/374160/index.shtml.de",
+    "quelle": "Das Bergische",
+    "teaser": "Wenn es draußen dunkel wird schalten wir die Taschenlampen an und gehen auf Entdeckungstour durchs dunkle Schloss und die große PLAYMOBIL Ausstellung. Warum waren die Betten früher eigentlich so klein? Ist es gemütlich i"
+  },
+  {
+    "titel": "GWN Wintermärchen",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T17:00:00+01:00",
+    "ort": "Evangelische Kirche Nümbrecht, Hauptstraße, 51588 Nümbrecht",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Einschalten der Weihnachtsbeleuchtung, Bastelzelt Anglühen des Weihnachtsbaumes, Gänse- und Ballonfahrtverlosung, Posaunenchor Wirtenbach Veranstalter: Gemeindewerke Nümbrecht Veranstaltungsort: Evangelische Kirche (Vorp"
+  },
+  {
+    "titel": "Krimilokal – Lokalkrimi: Heiter rieselt der Tod",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T19:30:00+01:00",
+    "ort": "Landhotel Napoleon, Lamsfuß 12, 51688 Wipperfürth",
+    "preis": "ab 90 €",
+    "link": "https://krimilokal-lokalkrimi.de/event/heiter-rieselt-der-tod-45/",
+    "quelle": "Das Bergische",
+    "teaser": "Weihnachtszeit: Glühwein und Plätzchenduft, Tannengrün und leuchtende Kerzen. Alle Jahre wieder steht Weihnachten ins Haus. Das Fest der Liebe. Aber was ist das? Statt Liebe gibt es nur Stress. Die Menschen hetzen schnel"
+  },
+  {
+    "titel": "Mascha und der Bär -  der Winterzauber",
+    "datum": "29. Nov 2026",
+    "datum_raw": "2026-11-29T15:00:00+01:00",
+    "ort": "Parkhotel Nümbrecht, Parkstraße 3, 51588 Nümbrecht",
+    "preis": "ab 9 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Am Sonntag, den 29. November 2026, um 15:00 Uhr lädt die Nümbrechter Kur GmbH Familien mit Kindern zu einem besonderen Wintererlebnis in den Kursaal des Parkhotels Nümbrecht ein: Das Figurentheater Köln mit Andreas Blasc"
+  },
+  {
+    "titel": "Giorgi Khupenia und Shuri Soga",
+    "datum": "29. Nov 2026",
+    "datum_raw": "2026-11-29T17:00:00+01:00",
+    "ort": "Rathaus Engelskirchen, Engels-Platz 4, 51766 Engelskirchen",
+    "preis": "ab 19 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Am Sonntag, 29. November um 17.00 Uhr spielen Giorgi Khupenia und Shuri Soga Werke von Carl Philipp Emanuel Bach, Carl Reinecke, Frank Martin und Charles-Marie Widor im Ratssaal der Gemeinde Engelskirchen. Giorgi Khupeni"
   }
 ]
