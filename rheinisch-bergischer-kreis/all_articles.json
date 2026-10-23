@@ -1,5 +1,61 @@
 [
   {
+    "id": "5cae1677e3cf",
+    "title": "Standorte der mobilen Geschwindigkeitsüberwachung",
+    "summary": "In dieser Woche sind folgende Messestellen vorgesehen: Freitag, 23.10.2026: Reiser, Borngasse, Lerbacher WegSamstag, 24.10.2026: Steinacker, Hornstraße In der nächsten Woche sind folgende Messestellen vorgesehen: Montag, 26.10.2026: Hornstraße, Brüderstraße, Mülheimer StraßeDienstag, 27.10.2026: Heidkamper Straße, Mutzer Straße, Richard-Zanders-StraßeMittwoch, 28.10.2026: Büschemer Straße, Nußbaum",
+    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52836",
+    "published": "2026-10-23 11:28:28",
+    "source": "Stadt Bergisch Gladbach (offiziell)",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-23T11:56:57.063324",
+    "feed_kommunen": [
+      "bergisch-gladbach"
+    ]
+  },
+  {
+    "id": "014bec7494eb",
+    "title": "Karneval in Leichlingen: Karnevalszelt in der Balker Aue – VLK sieht offene Fragen",
+    "summary": "Die Nähe zur Wupper könnte die Pläne für ein Festzelt erschweren. Die VLK fordert Klarheit über rechtliche Anforderungen, notwendige Schutzmaßnahmen und mögliche finanzielle Folgen.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/leichlingen-festzelt-in-der-balker-aue-vlk-sieht-offene-fragen_aid-157095861",
+    "published": "Fri, 23 Oct 2026 11:16:00 +0200",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-10-23T11:56:59.064987",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
+    "id": "047ed518926b",
+    "title": "POL-RBK: Bergisch Gladbach - Bargeld aus Spinden im Hallenbad entwendet",
+    "summary": "Bergisch Gladbach (ots) - Am Donnerstag (22.10.) wurde die Polizei zu einem Hallenbad in der Borngasse in Paffrath gerufen. In der Zeit zwischen 11:30 Uhr und 14:00 Uhr sollen insgesamt vier Spinde der Herrenumkleide geöffnet worden sein. Aus den ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6376355",
+    "published": "Fri, 23 Oct 2026 08:19:24 +0200",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-23T11:56:55.370542",
+    "feed_kommunen": []
+  },
+  {
+    "id": "86748ce8f87a",
+    "title": "POL-RBK: Rösrath - Oldtimer gestohlen",
+    "summary": "Rösrath (ots) - In Rösrath wurde gestern Morgen (22.10.) der Polizei der Diebstahl eines Oldtimers der Marke Mercedes gemeldet. Der graue Pkw der Marke Mercedes, Typ 500 E, stand in der Hofeinfahrt eines Hauses in der Lüghauser Straße im ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6376353",
+    "published": "Fri, 23 Oct 2026 08:18:10 +0200",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "roesrath"
+    ],
+    "fetched": "2026-10-23T11:56:55.370708",
+    "feed_kommunen": []
+  },
+  {
     "id": "3372fcece0b0",
     "title": "Bedarf an Blutspenden bleibt im Herbst hoch",
     "summary": "Das Deutsche Rote Kreuz (DRK) warnt vor einer Herbstflaute und ruft vermehrt zu Blutspenden auf. Auch im Herbst bleibe der Bedarf hoch.",
@@ -13,6 +69,19 @@
     "feed_kommunen": [
       "wermelskirchen"
     ]
+  },
+  {
+    "id": "e3ac759ab016",
+    "title": "POL-RBK: Rheinisch-Bergischer Kreis - Tag des Einbruchschutzes - Polizei Rhein-Berg berät vor Ort",
+    "summary": "Bergisch Gladbach (ots) - Die Zeitumstellung am Sonntag (25.10.) ist auch der Beginn der besonders bei Einbrechern beliebten dunklen Jahreszeit. Aus diesem Grund ist der kommende Sonntag auch der Tag des Einbruchschutzes. Die Polizei Rhein-Berg rät ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6376335",
+    "published": "Fri, 23 Oct 2026 08:01:02 +0200",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-23T11:56:55.370874",
+    "feed_kommunen": []
   },
   {
     "id": "a6f987751018",

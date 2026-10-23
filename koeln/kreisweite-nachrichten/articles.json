@@ -1,5 +1,31 @@
 [
   {
+    "id": "eb22bd048524",
+    "title": "Podcast: True Crime vs. True Criminology: Was wir über Verbrechen falsch denken",
+    "summary": "In der neuen Podcast-Folge „Hoffnungslose Optimisten“ sprechen Basti Campmann und Sarah Brasack mit zwei Kölner Kriminologinnen.",
+    "link": "https://www.ksta.de/podcast/podcast-true-crime-vs-true-criminology-was-wir-ueber-verbrechen-falsch-denken-1401560",
+    "published": "Fri, 23 Oct 2026 10:15:27 +0200",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T11:58:29.862924",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b1d63f198eb8",
+    "title": "Großevent betroffen: Bahn sperrt Strecke zwischen Köln und Aachen für mehrere Tage",
+    "summary": "Fahrgäste müssen sich ab Freitag auf Einschränkungen im Regional- und S-Bahn-Verkehr einstellen. Mehrere Linien sind betroffen.",
+    "link": "https://www.ksta.de/koeln/deutsche-bahn-sperrt-strecke-koeln-aachen-fuer-mehrere-tage-1401521",
+    "published": "Fri, 23 Oct 2026 09:38:55 +0200",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T11:58:29.862949",
+    "feed_kommunen": []
+  },
+  {
     "id": "248645a472cb",
     "title": "Schuss-Serie in Köln: Polizei zählt 34 Fälle und 24 Festnahmen",
     "summary": "Im Fall des Uhrengeschäfts beantragte die Staatsanwaltschaft Haftbefehle gegen die zwei Tatverdächtigen.",
@@ -338,6 +364,19 @@
     "feed_kommunen": []
   },
   {
+    "id": "883142a0d500",
+    "title": "Ämter und Stadtbezirke",
+    "summary": "22. Oktober 2026, 12:03",
+    "link": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/aemter-und-stadtbezirke-1",
+    "published": "Thu, 22 Oct 2026 11:03:00 +0100",
+    "source": "Stadt Köln Pressemeldungen",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T11:58:29.430570",
+    "feed_kommunen": []
+  },
+  {
     "id": "09f51e47482f",
     "title": "Vor dem ersten Geburtstag: So geht es den Kölner Löwenbabys",
     "summary": "Löwe Zohan und die Löwinnen Prija und Reeva sind knapp elf Monate alt und unterscheiden sich in Größe, Gewicht und Aussehen.",
@@ -361,6 +400,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-23T08:03:11.306848",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6d0907c97334",
+    "title": "Urne mit Dom: Kölnerin umhüllt Aschebehälter mit Filz- oder Papierkokon",
+    "summary": "Kölner lieben ihre Stadt bis über den Tod hinaus, hat die Gestalterin Anja Büscher gelernt, seit sie Urnen mit Filzmänteln und Dom-Motiven von Gnoss ausstattet.",
+    "link": "https://www.ksta.de/koeln/nippes/niehl/urne-mit-dom-koelnerin-umhuellt-aschebehaelter-mit-filz-oder-papierkokon-1397572",
+    "published": "Thu, 22 Oct 2026 11:33:00 +0200",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T11:58:29.863084",
     "feed_kommunen": []
   },
   {

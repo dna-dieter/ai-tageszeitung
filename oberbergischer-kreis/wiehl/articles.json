@@ -2445,5 +2445,20 @@
     "feed_kommunen": [
       "wiehl"
     ]
+  },
+  {
+    "id": "918b67a30a05",
+    "title": "A 4: Sperrungen wegen Bau der Schrankenanlage",
+    "summary": "Die Autobahn GmbH des Bundes geht den nächsten Schritt zum Schutz der Wiehltalbrücke: Im November wird auf der A 4 eine Schrankenanlage errichtet, um besonders schwere Lkw vor der Brücke zu stoppen.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9592-a-4-sperrungen-wegen-bau-der.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-23T11:58:05.772865",
+    "feed_kommunen": [
+      "wiehl"
+    ]
   }
 ]

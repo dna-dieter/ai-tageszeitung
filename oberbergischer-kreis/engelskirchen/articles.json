@@ -1,5 +1,46 @@
 [
   {
+    "id": "e18a897a4eef",
+    "title": "Marienheide und Engelskirchen: Alarmanlagen vertreiben Einbrecher – Zeugen gesucht",
+    "summary": "Zwei Firmen in Marienheide und Engelskirchen: Einbrecher lösten die Alarmanlage aus und flüchteten ohne Beute. Die Polizei sucht Zeugen.",
+    "link": "https://www.news-on-tour.de/270407/marienheide-engelskirchen-einbruch/",
+    "published": "Fri, 23 Oct 2026 09:17:23 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "marienheide",
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T11:57:53.848214",
+    "feed_kommunen": []
+  },
+  {
+    "id": "511fb6bf6099",
+    "title": "Engelskirchen: Gartenspaziergang „Garten im Wandel“ zeigt naturnahe Anpassung an Klimafolgen",
+    "summary": "Gartenspaziergang „Garten im Wandel“ in Engelskirchen-Loope: 15 Teilnehmende erkundeten naturnahe Anpassung an Hitze, Trockenheit und Starkregen.",
+    "link": "https://www.news-on-tour.de/270384/engelskirchen-gartenspaziergang-garten/",
+    "published": "Fri, 23 Oct 2026 07:15:11 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T11:57:53.848355",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2c8e2f111103",
+    "title": "Engelskirchen: Circular Week 2026 mit BAV und Weihnachtstauschrausch in Lindlar",
+    "summary": "Vom 26. bis 31. Oktober: Circular Week mit Online-Konferenz, Repair-Cafés und Weihnachtstauschrausch am 7. November auf :metabolon in Lindlar.",
+    "link": "https://www.news-on-tour.de/270382/engelskirchen-circular-week/",
+    "published": "Fri, 23 Oct 2026 07:10:48 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "lindlar",
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T11:57:53.848465",
+    "feed_kommunen": []
+  },
+  {
     "id": "8c33ad71660d",
     "title": "Engelskirchen: Kleidertausch lockt zahlreiche Besucher ins Rathaus",
     "summary": "Erfolg für die Nachhaltigkeit in Engelskirchen: Der Kleidertausch lockte zahlreiche Besucher ins Rathaus. Der nächste Termin folgt Frühjahr 2027.",
@@ -93,21 +134,6 @@
       "engelskirchen"
     ],
     "fetched": "2026-10-23T07:50:19.020737",
-    "feed_kommunen": [
-      "engelskirchen"
-    ]
-  },
-  {
-    "id": "d273d2d0c341",
-    "title": "BAV Circular Week 2026 und Weihnachtstauschrausch",
-    "summary": "Kreislaufwirtschaft erleben und mitgestalten",
-    "link": "https://www.engelskirchen.de/portal/meldungen/bav-circular-week-2026-und-weihnachtstauschrausch-900002515-23501.html?rubrik=900000013",
-    "published": "Thu, 22 Oct 2026 14:23:00 +0200",
-    "source": "Gemeinde Engelskirchen (offiziell)",
-    "kommunen": [
-      "engelskirchen"
-    ],
-    "fetched": "2026-10-23T07:50:19.020815",
     "feed_kommunen": [
       "engelskirchen"
     ]
