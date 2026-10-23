@@ -178,8 +178,32 @@
       "note": "Adresse antwortet mit 404, ein Ersatz-Feed ist auf der Seite nicht ausgewiesen.",
       "inaktiv_grund": "HTTP 404",
       "inaktiv_seit": "2026-10-22"
+    },
+    {
+      "name": "Rheinische Anzeigenblätter Rhein-Berg",
+      "url": "https://www.rheinische-anzeigenblaetter.de/rhein-berg/rss",
+      "type": "lokalnachrichten",
+      "coverage": "kreisweite-nachrichten",
+      "verified": true,
+      "note": "Bergisches Handelsblatt, Teaser mit Link. Neu 2026-10-23 laut feed_analyse_2026-10-23_v2.md, geprüft 23.10. (HTTP 200, gültiges RSS)"
+    },
+    {
+      "name": "Rheinische Post Leichlingen",
+      "url": "https://rp-online.de/nrw/staedte/leichlingen/feed.rss",
+      "type": "tageszeitung",
+      "coverage": "leichlingen",
+      "verified": true,
+      "note": "Lokalteil Leichlingen, nur Teaser (Paywall). Neu 2026-10-23 laut feed_analyse_2026-10-23_v2.md, geprüft 23.10. (HTTP 200, gültiges RSS)"
+    },
+    {
+      "name": "Stadt Burscheid (offiziell)",
+      "url": "https://www.burscheid.de/portal/rss.xml",
+      "type": "verwaltung",
+      "coverage": "burscheid",
+      "verified": true,
+      "note": "Offizielle Meldungen. Neu 2026-10-23 laut feed_analyse_2026-10-23_v2.md, geprüft 23.10. (HTTP 200, gültiges RSS)"
     }
   ],
   "update_interval_minutes": 15,
-  "last_updated": "2026-10-23T06:36:59.911454+02:00"
+  "last_updated": "2026-10-23T07:47:05.606566+02:00"
 }
