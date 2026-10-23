@@ -1093,18 +1093,23 @@ def build_legal_pages():
 """
     rechtliches = f"""
 <h2>Was diese Seite zeigt</h2>
-<p>Die AI Tageszeitung stellt Meldungen aus dem Rheinisch-Bergischen Kreis und dem Oberbergischen Kreis zusammen. Zu jeder Meldung stehen die Überschrift, die Quelle, das Datum, ein kurzer Auszug von höchstens 250 Zeichen und ein Link auf den Originalbeitrag.</p>
+<p>Die AI Tageszeitung ist ein privates Angebot von Dieter Nadolski. Sie stellt automatisch und stündlich Meldungen aus dem Rheinisch-Bergischen Kreis, dem Oberbergischen Kreis und der Stadt Köln zusammen. Dazu kommen ein eigener Bereich „Rhein-Berg Vereine &amp; Bürgerstimmen“, ein Veranstaltungskalender und die Seite „Kürten-Rat“ mit Terminen und Beschlüssen aus dem Ratsinformationssystem der Gemeinde Kürten. Zu jeder Meldung stehen die Überschrift, die Quelle, das Datum, ein kurzer Auszug von höchstens 250 Zeichen und ein Link auf den Originalbeitrag. Die Zuordnung zu Gemeinden geschieht automatisch und kann irren.</p>
 <p>Die Formulierungen gehören den genannten Redaktionen und Pressestellen. Die Seite ersetzt den Originalbericht nicht und gibt fremde Texte nicht als eigene Recherche aus.</p>
 <h2>Quellen</h2>
-<p>Die Quelle steht an jedem Beitrag. Dazu gehören unter anderem das Bürgerportal in-gl.de, GL Aktuell, der Kölner Stadt-Anzeiger, der Remscheider General-Anzeiger, Kommunen, Polizei und Feuerwehr über das Presseportal sowie weitere lokale Angebote. Dieselbe Meldung aus mehreren Quellen wird nach Möglichkeit nur einmal gezeigt.</p>
+<p>Die Quelle steht an jedem Beitrag. Dazu gehören unter anderem das Bürgerportal in-gl.de, GL Aktuell, der Kölner Stadt-Anzeiger, der Remscheider General-Anzeiger, die Rheinische Post (Leichlingen), Oberberg-Aktuell, die Rheinischen Anzeigenblätter (Rhein-Berg und Oberberg), die Rheinisch-Bergische Wirtschaftsförderung, Polizei und Feuerwehr über das Presseportal sowie weitere lokale Angebote.</p>
+<p>Offizielle Mitteilungen kommen unter anderem von Burscheid, Engelskirchen, Hückeswagen, Morsbach, Nümbrecht, Radevormwald, Waldbröl und Wiehl. Für Köln werden die Pressemeldungen der Stadt Köln und Meldungen des Kölner Stadt-Anzeigers (je Abruf höchstens die 30 neuesten) übernommen. Köln-Meldungen erscheinen nur im Köln-Bereich.</p>
+<p>Der Bereich „Rhein-Berg Vereine &amp; Bürgerstimmen“ zeigt Beiträge von Vereinen und Bürgerportalen, zum Beispiel Forum Wermelskirchen, Leichlingen Magazin, Bergischer Geschichtsverein Rhein-Berg und Heimat- und Bürgerverein Overath.</p>
+<p>Dieselbe Meldung aus mehreren Quellen wird nach Möglichkeit nur einmal gezeigt.</p>
 <h2>Veranstaltungen</h2>
-<p>Termine für Rhein-Berg und Oberberg kommen aus dem Kalender von Das Bergische, Termine für Köln von Rausgegangen. Angezeigt werden Titel, Zeitpunkt, Ort und ein Link. Ein Teil der Links führt auf die Übersichtsseite des Kalenders, wenn dort keine eigene Detailadresse hinterlegt ist.</p>
+<p>Termine für Rhein-Berg und Oberberg kommen aus dem Kalender von Das Bergische, Termine für Köln aus dem Veranstaltungskalender der Stadt Köln. Angezeigt werden Titel, Zeitpunkt, Ort, eine kurze Beschreibung von höchstens 200 Zeichen und ein Link. Ein Teil der Links führt auf die Übersichtsseite des Kalenders, wenn dort keine eigene Detailadresse hinterlegt ist.</p>
 <h2 id="datenschutz">Datenschutz</h2>
 <p>Verantwortlicher: {ANBIETER}, {ANBIETER_ANSCHRIFT}, <a href="mailto:{ANBIETER_MAIL}">{ANBIETER_MAIL}</a>.</p>
 <p>Die Seiten liegen als feste HTML-Dateien auf GitHub Pages. Der Betreiber setzt keine eigenen Cookies und keine Reichweitenmessung ein. Beim Aufruf verarbeitet der Hoster GitHub die üblichen Verbindungsdaten, insbesondere IP-Adresse, Zeitpunkt und Browsertyp, in seinen Serverprotokollen.</p>
-<p>Der Knopf „Jetzt aktualisieren“ fragt nach einem GitHub-Token. Der Token bleibt im Browser der Person, die ihn eingibt, und wird nur an die GitHub-API gesendet, um den Aktualisierungslauf zu starten. Er wird nicht an den Betreiber dieser Seite übertragen.</p>
+<p>Für Besucherinnen und Besucher gibt es keinen Aktualisierungsknopf; die Seite aktualisiert sich stündlich von selbst. Nur der Betreiber kann über eine eigene Admin-Adresse einen Knopf „Jetzt aktualisieren“ einblenden. Dieser Knopf fragt nach einem GitHub-Token. Der Token bleibt im Browser der Person, die ihn eingibt, und wird nur an die GitHub-API gesendet, um den Aktualisierungslauf zu starten. Er wird nicht an den Betreiber dieser Seite übertragen.</p>
 <p>Links auf Meldungen und Veranstaltungen führen auf die Seiten der jeweiligen Quelle. Dort gilt deren Datenschutzhinweis.</p>
+<p>Im Bereich „Rhein-Berg Vereine &amp; Bürgerstimmen“ stehen außerdem Links zu Facebook-Gruppen und zu einem WhatsApp-Kanal. Das sind reine externe Links: Es gibt keine eingebetteten Inhalte, keine Like- oder Teilen-Knöpfe und kein Tracking. Erst beim Anklicken wird die Seite des Drittanbieters (Meta mit Facebook bzw. WhatsApp) geöffnet. Ab dann gelten dessen Datenschutzbestimmungen, auch wenn man dort nicht angemeldet ist.</p>
 <p>Auskunft, Berichtigung und Löschung können über die genannte E-Mail verlangt werden. Beschwerden nimmt die Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen entgegen.</p>
+<p><i>Stand dieser Hinweise: 23. Oktober 2026.</i></p>
 """
     legal_page("impressum", "Impressum", impressum)
     legal_page("rechtliches", "Rechtliche Hinweise", rechtliches)
