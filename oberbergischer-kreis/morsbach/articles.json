@@ -1,5 +1,31 @@
 [
   {
+    "id": "a3c9dbf87d17",
+    "title": "Chormusik und Ortsgeschichte in Holpe",
+    "summary": "Holpe (red). Einen musikalischen Sonntag verbrachte der Cäcilien-Pfarrchor St. Patricius Eitorf in Holpe, dem Heimatort seines Chorleiters Johannes Klüser. Am 18. Oktober gestaltete der Chor dort Laudes und Messe musikalisch mit. Auf dem Programm standen unter anderem „Credo“, „Sanctus“ und „Benedictus“ aus der „Missa brevis“ von Jacob de Haan, „Ubi Caritas“ von Audrey Snyder sowie „Verleih uns Fr",
+    "link": "https://www.rheinische-anzeigenblaetter.de/morsbach/c-nachrichten/chormusik-und-ortsgeschichte-in-holpe_a381881",
+    "published": "Thu, 22 Oct 2026 14:27:50 +0200",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-10-23T07:50:17.956785",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4909ec03f42f",
+    "title": "Spitzenspiel in Derschlag: Wer bleibt Rösrath auf den Fersen?",
+    "summary": "Oberberg - In der Kreisliga A duellieren sich am Sonntag der Tabellenzweite und dessen direkter Verfolger - Kreisliga B: Schlusslicht Morsbach hofft gegen Elsenroth auf das Ende der Pleitenserie.",
+    "link": "http://www.oberberg-aktuell.de/fussball/spitzenspiel-in-derschlag--wer-bleibt-r--srath-auf-den-fersen--a-139410",
+    "published": "Thu, 22 Oct 2026 06:00:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-10-23T07:50:16.848891",
+    "feed_kommunen": []
+  },
+  {
     "id": "78dca82d636e",
     "title": "Heimatverein: Der Morsbacher Motor – Eine Kurzgeschichte des Heimatvereins",
     "summary": "Der Verein hat Morsbach geprägt – gefeiert wird am Samstag im Gertrudisheim.",
@@ -11,6 +37,79 @@
     ],
     "fetched": "2026-10-22T22:18:53.931992",
     "feed_kommunen": []
+  },
+  {
+    "id": "40d72660d73b",
+    "title": "Unsere Igel benötigen dringend Hilfe",
+    "summary": "Morsbach (red). Immer weniger Insekten kleben an den Windschutzscheiben der Autos, und auch überfahrene Igel und Eichhörnchen sind seltener zu sehen. Doch das ist nach Einschätzung der oberbergischen Igelexpertin Sarah Noll keine erfreuliche Entwicklung. Bei der Jahreshauptversammlung des NABU Morsbach erläuterte sie, dass die Tiere seltener geworden seien und deshalb auch weniger häufig dem Straß",
+    "link": "https://www.rheinische-anzeigenblaetter.de/morsbach/c-nachrichten/unsere-igel-benoetigen-dringend-hilfe_a381806",
+    "published": "Wed, 21 Oct 2026 11:49:43 +0200",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-10-23T07:50:17.957665",
+    "feed_kommunen": []
+  },
+  {
+    "id": "34b2f0cba2e3",
+    "title": "Der ADFC-Fahrradklima-Test",
+    "summary": "Der ADFC-Fahrradklima-Test bietet die Möglichkeit, die Bedingungen für Radfahrende vor Ort zu bewerten. Wie sicher ist das Radfahren? Wie gut sind die Radwege ausgebaut? Und wo besteht noch Verbesserungsbedarf? Je mehr Menschen teilnehmen, desto aussagekräftiger wird das Bild vom Fahrradklima vor Ort. Die Ergebnisse helfen dabei, Stärken und Schwächen sichtbar zu machen und Verbesserungen für […] ",
+    "link": "https://www.morsbach.de/blog/homepage/der-adfc-fahrradklima-test/",
+    "published": "Tue, 20 Oct 2026 05:29:51 +0000",
+    "source": "Gemeinde Morsbach (offiziell)",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-10-23T07:50:23.080094",
+    "feed_kommunen": [
+      "morsbach"
+    ]
+  },
+  {
+    "id": "dbf8021e7802",
+    "title": "Wissenschaft vor Ort",
+    "summary": "Neue Themenreihe: Krieg und Frieden Neue Formen des Krieges – und neue Probleme ihrer Rechtfertigung mit Prof. Dr. Reinhard Merkel im Kulturbahnhof am 29.10.2026 um 19.00 Uhr Das Kriegsvölkerrecht, wie es in der Charta der Vereinten Nationen niedergelegt ist und vom Völkergewohnheitsrecht beglaubigt wird, unterscheidet drei grundlegende Formen zwischenstaatlicher bewaffneter Gewalt und versieht si",
+    "link": "https://www.morsbach.de/blog/homepage/wissenschaft-vor-ort-2/",
+    "published": "Thu, 15 Oct 2026 06:00:12 +0000",
+    "source": "Gemeinde Morsbach (offiziell)",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-10-23T07:50:23.081489",
+    "feed_kommunen": [
+      "morsbach"
+    ]
+  },
+  {
+    "id": "104757614423",
+    "title": "Ausbildung zum/zur Verwaltungsfachangestellten (m/w/d)",
+    "summary": "",
+    "link": "https://www.morsbach.de/blog/homepage/ausbildung-zum-zur-verwaltungsfachangestellten-m-w-d-2/",
+    "published": "Wed, 14 Oct 2026 08:52:59 +0000",
+    "source": "Gemeinde Morsbach (offiziell)",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-10-23T07:50:23.080157",
+    "feed_kommunen": [
+      "morsbach"
+    ]
+  },
+  {
+    "id": "7c1de7bec7ac",
+    "title": "Sommer-Lese-Club: Lesen, rätseln, kreativ sein und gemeinsam Spaß haben",
+    "summary": "Zahlreiche Kinder und Jugendliche haben in den Sommerferien fleißig gelesen, kreative Aufgaben gelöst und beim großen Sommer-Lese-Bingo mitgemacht. Bei der Preisübergabe wurden nun die besonderen Leistungen der Teilnehmerinnen und Teilnehmer gewürdigt. Beim Sommer-Lese-Club ging es um weit mehr als ums Lesen von Büchern. Natürlich wurden zahlreiche Bücher verschlungen und spannende Geschichten ent",
+    "link": "https://www.morsbach.de/blog/homepage/sommer-lese-club-lesen-raetseln-kreativ-sein-und-gemeinsam-spass-haben/",
+    "published": "Tue, 13 Oct 2026 15:24:49 +0000",
+    "source": "Gemeinde Morsbach (offiziell)",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-10-23T07:50:23.080633",
+    "feed_kommunen": [
+      "morsbach"
+    ]
   },
   {
     "id": "b1f17461faeb",
@@ -35,6 +134,96 @@
       "morsbach"
     ],
     "fetched": "2026-10-12T18:58:06.167335"
+  },
+  {
+    "id": "65b61a1e0f77",
+    "title": "„Open School Day“ an der Leonardo da Vinci – Schule am 07. November 2026",
+    "summary": "„Lernen zum Anfassen – Grundschüler entdecken die Leonardo da Vinci – Schule Am Samstag, dem 07. November 2026, öffnet die Leonardo da Vinci Schule Morsbach von 10.00 bis 14.00 Uhr ihre Türen für alle interessierten Grundschülerinnen und Grundschüler der vierten Klassen sowie deren Eltern. Der „Open School Day“ bietet eine hervorragende Gelegenheit, die Schule, ihre […] The post „Open School Day“ ",
+    "link": "https://www.morsbach.de/blog/homepage/open-school-day-an-der-leonardo-da-vinci-schule-am-07-november-2026/",
+    "published": "Mon, 12 Oct 2026 09:17:09 +0000",
+    "source": "Gemeinde Morsbach (offiziell)",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-10-23T07:50:23.081102",
+    "feed_kommunen": [
+      "morsbach"
+    ]
+  },
+  {
+    "id": "6c3d17f8f23f",
+    "title": "Die Oberbergischen Hospizwochen werden anlässlich des Welthospiztages (10. Oktober 2026) vom Hospiz- und Palliativnetzwerk des Oberbergischen Kreises veranstaltet",
+    "summary": "Die Oberbergischen Hospizwochen bestehen aus einem vielfältigen Programm. Bei insgesamt 18 Veranstaltungen im gesamten Kreisgebiet können sich Menschen über Angebote der Hospiz- und Palliativversorgung informieren, Kunst und Kultur erleben sowie Menschen kennenlernen und in einen gemeinsamen Austausch kommen. Alle Veranstaltungen sind kostenfrei. Das Motto des diesjährigen Welthospiztages lautet: ",
+    "link": "https://www.morsbach.de/blog/homepage/die-oberbergischen-hospizwochen-werden-anlaesslich-des-welthospiztages-10-oktober-2026-vom-hospiz-und-palliativnetzwerk-des-oberbergischen-kreises-veranstaltet/",
+    "published": "Wed, 07 Oct 2026 14:23:32 +0000",
+    "source": "Gemeinde Morsbach (offiziell)",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-10-23T07:50:23.082113",
+    "feed_kommunen": [
+      "morsbach"
+    ]
+  },
+  {
+    "id": "91930646bc2a",
+    "title": "Baby- und Kinderbasar im Pfarrheim Lichtenberg",
+    "summary": "Am 11.10.2026 richtet der Förderverein des DRK Kindergarten „Schatzkiste“ wieder den beliebten Baby- und Kinderbasar im Pfarrheim Lichtenberg aus. Angeboten werden neben Baby- und Kinderkleidung auch Schuhe und Spielzeug. Der Basar findet von 14 bis 16 Uhr im Pfarrheim an der Bergstraße 4, direkt neben der Kirche statt. Schwangere erhalten schon, zusammen mit einer Begleitperson, […] The post Baby",
+    "link": "https://www.morsbach.de/blog/homepage/baby-und-kinderbasar-im-pfarrheim-lichtenberg-4/",
+    "published": "Tue, 06 Oct 2026 10:38:57 +0000",
+    "source": "Gemeinde Morsbach (offiziell)",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-10-23T07:50:23.082523",
+    "feed_kommunen": [
+      "morsbach"
+    ]
+  },
+  {
+    "id": "7ddaa6a95ec4",
+    "title": "Poolparty im Hallenbad Morsbach",
+    "summary": "Jugendrat Morsbach lädt am 9. Oktober zur großen Poolparty ein Wasserspaß, Musik und gute Stimmung: Der Jugendrat Morsbach veranstaltet am Freitag, 9. Oktober 2026, eine Poolparty im Hallenbad Morsbach. Die Veranstaltung findet in zwei Altersgruppen statt. Kinder und Jugendliche unter 14 Jahren können von 15.30 bis 18.30 Uhr teilnehmen. Für alle ab 14 Jahren geht […] The post Poolparty im Hallenba",
+    "link": "https://www.morsbach.de/blog/homepage/poolparty-im-hallenbad-morsbach/",
+    "published": "Thu, 01 Oct 2026 08:00:27 +0000",
+    "source": "Gemeinde Morsbach (offiziell)",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-10-23T07:50:23.082892",
+    "feed_kommunen": [
+      "morsbach"
+    ]
+  },
+  {
+    "id": "c490eee8d2ad",
+    "title": "Hundebestandsaufnahme in der Gemeinde Morsbach",
+    "summary": "Die Gemeinde Morsbach führt ab November 2026 eine Hundebestandsaufnahme im gesamten Gemeindegebiet durch. Mit der Durchführung der Erhebung wurde die Springer Kommunale Dienste GmbH beauftragt. Ziel der Hundebestandsaufnahme ist es, einen möglichst vollständigen und aktuellen Überblick über den im Gemeindegebiet gehaltenen Hundebestand zu erhalten. Die Erhebung stellt damit zugleich eine wichtige ",
+    "link": "https://www.morsbach.de/blog/homepage/hundebestandsaufnahme-in-der-gemeinde-morsbach-ab-oktober-2026/",
+    "published": "Wed, 30 Sep 2026 13:21:57 +0000",
+    "source": "Gemeinde Morsbach (offiziell)",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-10-23T07:50:23.083343",
+    "feed_kommunen": [
+      "morsbach"
+    ]
+  },
+  {
+    "id": "d0f50c9a7296",
+    "title": "Morsbach engagiert sich für Heimat: Heimat-Preis würdigt besonderes Engagement",
+    "summary": "Am 05.04.2024 hat der Rat der Gemeinde Morsbach beschlossen, einen lokalen Heimat-Preis zu vergeben. Diese Auszeichnung ist Teil einer Initiative der Landesregierung Nordrhein-Westfalen, die das Ziel verfolgt, außergewöhnliches Engagement für die Heimat auf kommunaler Ebene sichtbar zu machen. Mit dem Heimat-Preis werden Bürgerinnen und Bürger geehrt, die sich ehrenamtlich mit ihren Projekten akti",
+    "link": "https://www.morsbach.de/blog/homepage/morsbach-engagiert-sich-fuer-heimat-heimat-preis-wuerdigt-besonderes-engagement-2/",
+    "published": "Tue, 29 Sep 2026 13:24:12 +0000",
+    "source": "Gemeinde Morsbach (offiziell)",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-10-23T07:50:23.083805",
+    "feed_kommunen": [
+      "morsbach"
+    ]
   },
   {
     "id": "090af3ab75ef",
@@ -363,6 +552,33 @@
       "waldbroel"
     ],
     "fetched": "2026-07-13T12:16:26.339526"
+  },
+  {
+    "id": "df301554330e",
+    "title": "STADTRADELN 2026 im Oberbergischen Kreis: 3.607 aktiv Radelnde haben insgesamt 802.659 km zurückgelegt",
+    "summary": "Der Oberbergische Kreis sowie die Städte und Gemeinden Bergneustadt, Engelskirchen, Gummersbach, Hückeswagen, Lindlar, Nümbrecht, Marienheide, Morsbach, Radevormwald, Reichshof, Waldbröl, Wiehl und Wipperfürth haben vom 25.05. bis 14.06.2026 gemeinsam an der Aktion STADTRADELN des Klima-Bündnis Services teilgenommen.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1977&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=3d09975badbf92eae3309fcbc2febdfc",
+    "published": "Tue, 30 Jun 2026 09:00:28 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht",
+      "lindlar",
+      "marienheide",
+      "engelskirchen",
+      "bergneustadt",
+      "hueckeswagen",
+      "reichshof",
+      "waldbroel",
+      "wiehl",
+      "morsbach",
+      "gummersbach",
+      "radevormwald",
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-23T07:50:25.597572",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
   },
   {
     "id": "1f61ed5e86fc",

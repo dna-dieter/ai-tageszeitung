@@ -1,5 +1,58 @@
 [
   {
+    "id": "1c09e9f385a2",
+    "title": "Fliegner schockt Süng kurz vor Schluss",
+    "summary": "Oberberg - Am Abend fanden zwei verlegte Partien statt: In der Staffel 3 verbuchte der SV Frömmersbach einen ungefährdeten Sieg in Engelskirchen, das Lindlarer Gemeindederby in der Staffel 2 hatte mehr Spannung zu bieten - 'Sportsbar Lutter' präsentiert die Kreisliga B.",
+    "link": "http://www.oberberg-aktuell.de/fussball/fliegner-schockt-s--ng-kurz-vor-schluss-a-139462",
+    "published": "Thu, 22 Oct 2026 22:39:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar",
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T07:50:16.846662",
+    "feed_kommunen": []
+  },
+  {
+    "id": "eb462acb4e5a",
+    "title": "Einfache Marschroute: Hohkeppel will ein Tor mehr erzielen als der Gegner",
+    "summary": "​​​​​​​Lindlar – Nach dem enttäuschenden 2:2 gegen den Tabellenvorletzten Neunkirchen-Seelscheid bemängelt Trainer Giuseppe Brunetto die fehlende Kaltschnäuzigkeit bei seinem Team.",
+    "link": "http://www.oberberg-aktuell.de/fussball/einfache-marschroute--hohkeppel-will-ein-tor-mehr-erzielen-als-der-gegner-a-139408",
+    "published": "Thu, 22 Oct 2026 15:00:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-10-23T07:50:16.847589",
+    "feed_kommunen": []
+  },
+  {
+    "id": "576b5b019fe0",
+    "title": "Lindlar und Hohkeppel II: Erfolgserlebnis dringend benötigt",
+    "summary": "Oberberg - Die beiden oberbergischen Bezirksligisten hängen im Tabellenkeller fest und hoffen nun vor heimischer Kulisse auf die Wende.",
+    "link": "http://www.oberberg-aktuell.de/fussball/lindlar-und-hohkeppel-ii--erfolgserlebnis-dringend-ben--tigt-a-139411",
+    "published": "Thu, 22 Oct 2026 12:00:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-10-23T07:50:16.848118",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f475e2ed3c37",
+    "title": "Ernährung im Schulalltag im Fokus",
+    "summary": "Lindlar - Zweiter Fachtag zum Thema \"Bildung für nachhaltige Entwicklung\" (BNE) - Ins LVR-Freilichtmuseum kamen 75 Teilnehmer.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/ern--hrung-im-schulalltag-im-fokus-a-139400",
+    "published": "Wed, 21 Oct 2026 11:25:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-10-23T07:50:16.850282",
+    "feed_kommunen": []
+  },
+  {
     "id": "f279a60edab4",
     "title": "Nümbrecht, Marienheide & Lindlar: Diebstahl – Täter stehlen Werkzeug und Geld",
     "summary": "Diebstahl in Nümbrecht, Marienheide und Lindlar: Unbekannte erbeuten Werkzeug, Bargeld und eine Bankkarte. Die Kriminalpolizei sucht Zeugen.",
@@ -12,6 +65,21 @@
       "marienheide"
     ],
     "fetched": "2026-10-21T10:01:56.618726"
+  },
+  {
+    "id": "4a72440d46df",
+    "title": "Bankkarte und Geld aus Auto gestohlen",
+    "summary": "Oberberg – Täter nahmen in Marienheide einen unverschlossenen Wagen ins Visier – Einbrecher in Nümbrecht unterwegs – Diebstahl von Portemonnaie in Lindlar.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/bankkarte-und-geld-aus-auto-gestohlen-a-139399",
+    "published": "Wed, 21 Oct 2026 09:54:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "marienheide",
+      "nuembrecht",
+      "lindlar"
+    ],
+    "fetched": "2026-10-23T07:50:16.850585",
+    "feed_kommunen": []
   },
   {
     "id": "52f7c0fcb220",
@@ -36,6 +104,19 @@
       "lindlar"
     ],
     "fetched": "2026-10-22T22:18:53.932409",
+    "feed_kommunen": []
+  },
+  {
+    "id": "88131d467057",
+    "title": "Frielingsdorf feiert seine Vielfalt",
+    "summary": "Lindlar. Unter dem Motto „Alle Kulturen, alle Generationen, ein Dorf“ kamen Menschen aus Frielingsdorf und Umgebung zum zweiten Integrationsfest zusammen. Rund um das Jugendheim verbrachten die Gäste einen abwechslungsreichen Tag miteinander. Für die Kinder gab es zahlreiche Angebote. Sie konnten basteln, sich schminken lassen, Stockbrot am Lagerfeuer backen, handwerken oder sich auf der Hüpfburg ",
+    "link": "https://www.rheinische-anzeigenblaetter.de/lindlar/c-nachrichten/frielingsdorf-feiert-seine-vielfalt_a381734",
+    "published": "Tue, 20 Oct 2026 14:38:30 +0200",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-10-23T07:50:17.959887",
     "feed_kommunen": []
   },
   {
@@ -254,6 +335,22 @@
       "lindlar"
     ],
     "fetched": "2026-10-09T08:55:51.425559"
+  },
+  {
+    "id": "b664e2df8f3b",
+    "title": "Seniorensicherheit: Polizei klärt über aktuelle Betrugsmaschen auf und berichtet aus der Praxis",
+    "summary": "Erst vor kurzem händigt eine 83-Jährige Seniorin aus Lindlar eine fünfstellige Summe an Betrüger aus, nachdem sie Opfer eines Schockanrufes geworden war.",
+    "link": "https://www.engelskirchen.de/portal/meldungen/seniorensicherheit-polizei-klaert-ueber-aktuelle-betrugsmaschen-auf-und-berichtet-aus-der-praxis-900002510-23501.html?rubrik=900000004",
+    "published": "Thu, 08 Oct 2026 09:46:00 +0200",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "lindlar",
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T07:50:19.021171",
+    "feed_kommunen": [
+      "engelskirchen"
+    ]
   },
   {
     "id": "3ed76fc87659",
@@ -1383,6 +1480,33 @@
       "lindlar"
     ],
     "fetched": "2026-06-30T11:50:39.163128"
+  },
+  {
+    "id": "df301554330e",
+    "title": "STADTRADELN 2026 im Oberbergischen Kreis: 3.607 aktiv Radelnde haben insgesamt 802.659 km zurückgelegt",
+    "summary": "Der Oberbergische Kreis sowie die Städte und Gemeinden Bergneustadt, Engelskirchen, Gummersbach, Hückeswagen, Lindlar, Nümbrecht, Marienheide, Morsbach, Radevormwald, Reichshof, Waldbröl, Wiehl und Wipperfürth haben vom 25.05. bis 14.06.2026 gemeinsam an der Aktion STADTRADELN des Klima-Bündnis Services teilgenommen.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1977&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=3d09975badbf92eae3309fcbc2febdfc",
+    "published": "Tue, 30 Jun 2026 09:00:28 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht",
+      "lindlar",
+      "marienheide",
+      "engelskirchen",
+      "bergneustadt",
+      "hueckeswagen",
+      "reichshof",
+      "waldbroel",
+      "wiehl",
+      "morsbach",
+      "gummersbach",
+      "radevormwald",
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-23T07:50:25.597572",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
   },
   {
     "id": "8c1c4076326d",

@@ -1374,6 +1374,33 @@
     "fetched": "2026-07-01T10:08:22.273291"
   },
   {
+    "id": "df301554330e",
+    "title": "STADTRADELN 2026 im Oberbergischen Kreis: 3.607 aktiv Radelnde haben insgesamt 802.659 km zurückgelegt",
+    "summary": "Der Oberbergische Kreis sowie die Städte und Gemeinden Bergneustadt, Engelskirchen, Gummersbach, Hückeswagen, Lindlar, Nümbrecht, Marienheide, Morsbach, Radevormwald, Reichshof, Waldbröl, Wiehl und Wipperfürth haben vom 25.05. bis 14.06.2026 gemeinsam an der Aktion STADTRADELN des Klima-Bündnis Services teilgenommen.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1977&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=3d09975badbf92eae3309fcbc2febdfc",
+    "published": "Tue, 30 Jun 2026 09:00:28 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht",
+      "lindlar",
+      "marienheide",
+      "engelskirchen",
+      "bergneustadt",
+      "hueckeswagen",
+      "reichshof",
+      "waldbroel",
+      "wiehl",
+      "morsbach",
+      "gummersbach",
+      "radevormwald",
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-23T07:50:25.597572",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
     "id": "482ddb52feab",
     "title": "Bergneustadt (Update #5): Traktordiebstahl – Fendt fuhr Richtung Marienheide",
     "summary": "In Bergneustadt wurde am Montagmorgen ein grüner Fendt-Traktor vom Hof „Rosenthal“ gestohlen. Die Überwachungskamera filmte den Unbekannten. Die Polizei ermittelt.",

@@ -15,6 +15,23 @@
     ]
   },
   {
+    "id": "73879a72b43a",
+    "title": "Neue Route durch Leichlingen: Kunst und Natur auf zwei Rädern erleben",
+    "summary": "Die Tour „Art & Bike“ verbindet Leichlingen, Burscheid und Wermelskirchen. Auf rund 42 Kilometern können Radfahrer 24 Kunstwerke entdecken. Die Strecke lässt sich auch in kürzere Abschnitte aufteilen.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/neue-route-mit-kunst-und-natur-fuer-radfahrer-in-leichlingen_aid-156956349",
+    "published": "Thu, 22 Oct 2026 16:00:00 +0200",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen",
+      "burscheid",
+      "wermelskirchen"
+    ],
+    "fetched": "2026-10-23T07:48:55.410472",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
     "id": "aead1eaa8715",
     "title": "Burscheid: Stadt bleibt trotz PHP-Sicherheitslücke online – Updates rechtzeitig",
     "summary": "Nach einer schweren Sicherheitslücke in der Programmiersprache PHP fahren erste Websites in der Region wieder hoch. Die Stadt Burscheid blieb online, weil ihr Dienstleister Updates rechtzeitig einspielte. Einige städtische Online-Services bleiben vorsorglich abgeschaltet.",
@@ -25,6 +42,36 @@
       "burscheid"
     ],
     "fetched": "2026-10-22T10:02:31.654705",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
+    "id": "dbedeead1b41",
+    "title": "Straßensanierung der Straße Bellinghausen",
+    "summary": "Vollsperrung vom 26. Oktober 2026 bis voraussichtlich 9. November 2026",
+    "link": "https://www.burscheid.de/portal/meldungen/strassensanierung-der-strasse-bellinghausen-900000708-40230.html?rubrik=900000001",
+    "published": "Thu, 22 Oct 2026 10:43:00 +0200",
+    "source": "Stadt Burscheid (offiziell)",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-10-23T07:48:56.401898",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
+    "id": "4359e3c9e328",
+    "title": "Wichtige Information",
+    "summary": "Online-Services derzeit nicht verfügbar",
+    "link": "https://www.burscheid.de/portal/meldungen/wichtige-information-900000707-40230.html?rubrik=900000001",
+    "published": "Thu, 22 Oct 2026 08:38:00 +0200",
+    "source": "Stadt Burscheid (offiziell)",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-10-23T07:48:56.401965",
     "feed_kommunen": [
       "burscheid"
     ]
@@ -197,6 +244,21 @@
     "fetched": "2026-10-16T17:20:13.337711"
   },
   {
+    "id": "36986e3f32e0",
+    "title": "Die wichtigsten Beschlüsse aus dem Stadtrat",
+    "summary": "In der vergangenen Ratssitzung am 15. Oktober 2026 wurden wichtige Entscheidungen für unsere Stadt getroffen.",
+    "link": "https://www.burscheid.de/portal/meldungen/die-wichtigsten-beschluesse-aus-dem-stadtrat-900000704-40230.html?rubrik=900000001",
+    "published": "Fri, 16 Oct 2026 12:35:00 +0200",
+    "source": "Stadt Burscheid (offiziell)",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-10-23T07:48:56.402132",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
     "id": "41658403a08e",
     "title": "Bergisches Land: B. Boll Mediengruppe gibt Engelbert-Magazin Herbst heraus Müngstener Brücke Müngsten",
     "summary": "Das Hochglanzmagazin der B. Boll Mediengruppe liegt ab sofort kostenfrei an vielen Stellen im Bergischen Land aus. Es gibt auch wieder etwas zu gewinnen. Das steckt drin, im neuen „Engelbert“.",
@@ -247,6 +309,36 @@
     "fetched": "2026-10-16T07:03:06.125737"
   },
   {
+    "id": "1e6da1ec0e40",
+    "title": "Bürgersolarberatung Burscheid startet als ehrenamtliche Nachbarschaftshilfe",
+    "summary": "Ehrenamtliche unterstützen Bürgerinnen und Bürger auf dem Weg zur eigenen Solaranlage",
+    "link": "https://www.burscheid.de/portal/meldungen/buergersolarberatung-burscheid-startet-als-ehrenamtliche-nachbarschaftshilfe-900000702-40230.html?rubrik=900000001",
+    "published": "Thu, 15 Oct 2026 12:35:00 +0200",
+    "source": "Stadt Burscheid (offiziell)",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-10-23T07:48:56.402261",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
+    "id": "ebf488d39f82",
+    "title": "Aktuelle Informationen des Bergischen Abfallwirtschaftsverbands",
+    "summary": "Circular Week 2026 – Kreislaufwirtschaft erleben und mitgestalten",
+    "link": "https://www.burscheid.de/portal/meldungen/aktuelle-informationen-des-bergischen-abfallwirtschaftsverbands-900000700-40230.html?rubrik=900000001",
+    "published": "Thu, 15 Oct 2026 10:08:00 +0200",
+    "source": "Stadt Burscheid (offiziell)",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-10-23T07:48:56.402382",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
     "id": "6407468ccbd7",
     "title": "Trinkwasserbrunnen bringt Burscheider Politiker auf die Palme – wieder",
     "summary": "Trinkwasserbrunnen oder Refill-Stationen? Darüber ist in Burscheid ein heftiger Streit entbrannt. Die CDU setzt auf freiwillige Angebote des Einzelhandels, SPD und Grüne fordern öffentliche Daseinsvorsorge. Was die EU-Trinkwasserrichtlinie dazu sagt.",
@@ -281,6 +373,21 @@
       "burscheid"
     ],
     "fetched": "2026-10-15T01:24:00.265251"
+  },
+  {
+    "id": "0880f5a3478d",
+    "title": "10. Neubürgerbegrüßung am 10. Oktober 2026",
+    "summary": "Bürgermeister und Stadtverwaltung begrüßen neue Burscheider*innen",
+    "link": "https://www.burscheid.de/portal/meldungen/10-neubuergerbegruessung-am-10-oktober-2026-900000699-40230.html?rubrik=900000001",
+    "published": "Wed, 14 Oct 2026 09:35:00 +0200",
+    "source": "Stadt Burscheid (offiziell)",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-10-23T07:48:56.402473",
+    "feed_kommunen": [
+      "burscheid"
+    ]
   },
   {
     "id": "3c0dde44a512",
@@ -517,6 +624,36 @@
     "fetched": "2026-10-09T16:06:33.969210"
   },
   {
+    "id": "80bcb90ddfc7",
+    "title": "Energetische Sanierung der Straßenbeleuchtung in Burscheid",
+    "summary": "Maßnahme im Rahmen der Nationalen Klimaschutzinitiative",
+    "link": "https://www.burscheid.de/portal/meldungen/energetische-sanierung-der-strassenbeleuchtung-in-burscheid-900000698-40230.html?rubrik=900000001",
+    "published": "Fri, 09 Oct 2026 12:10:00 +0200",
+    "source": "Stadt Burscheid (offiziell)",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-10-23T07:48:56.402567",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
+    "id": "f34ed4efdcbd",
+    "title": "K2 zwischen Berghamberg und Dierath wird umfassend erneuert",
+    "summary": "Vollsperrung ab 12. Oktober – Arbeiten dauern voraussichtlich ein Jahr",
+    "link": "https://www.burscheid.de/portal/meldungen/k2-zwischen-berghamberg-und-dierath-wird-umfassend-erneuert-900000693-40230.html?rubrik=900000001",
+    "published": "Fri, 09 Oct 2026 08:15:00 +0200",
+    "source": "Stadt Burscheid (offiziell)",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-10-23T07:48:56.402690",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
     "id": "76c034d1c29b",
     "title": "Kreisstraße 2 in Burscheid: Fahrbahn und Radweg werden ein Jahr lang erneuert",
     "summary": "Ab 12. Oktober wird die K2 zwischen Berghamberg und Dierath in Burscheid komplett gesperrt. Neben der Fahrbahn werden auch Versorgungsleitungen, Beleuchtung und Entwässerung erneuert. Was Autofahrer und Anwohner während der einjährigen Bauzeit wissen müssen.",
@@ -565,6 +702,21 @@
     "fetched": "2026-10-08T16:23:22.556569"
   },
   {
+    "id": "82ecf932b7ba",
+    "title": "Interkommunaler Austausch beim Kulturtisch am 22. Oktober",
+    "summary": "... in der Kattwinkelschen Fabrik - Gäste sind herzlich willkommen",
+    "link": "https://www.burscheid.de/portal/meldungen/interkommunaler-austausch-beim-kulturtisch-am-22-oktober-900000694-40230.html?rubrik=900000001",
+    "published": "Thu, 08 Oct 2026 08:30:00 +0200",
+    "source": "Stadt Burscheid (offiziell)",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-10-23T07:48:56.402796",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
     "id": "4643bc78a3bb",
     "title": "Stadtbücherei Burscheid: Das Programm im Oktober – alle Termine im Überblick",
     "summary": "Ob Sütterlin-Lesestunde, Camping-Abenteuer mit dem kleinen Drachen Kokosnuss oder Programmieren mit Robotern – die Stadtbücherei Burscheid hat im Oktober für jedes Alter etwas dabei. Die meisten Veranstaltungen sind kostenlos. Wann welches Angebot stattfindet.",
@@ -600,6 +752,21 @@
       "burscheid"
     ],
     "fetched": "2026-10-07T15:29:40.858504"
+  },
+  {
+    "id": "de89af6b4443",
+    "title": "Endspurt erfolgreich gemeistert. Das Warten hat bald ein Ende:",
+    "summary": "VitalBad Burscheid öffnet zum Start der Herbstferien wieder seine Türen",
+    "link": "https://www.burscheid.de/portal/meldungen/endspurt-erfolgreich-gemeistert-das-warten-hat-bald-ein-ende--900000692-40230.html?rubrik=900000001",
+    "published": "Wed, 07 Oct 2026 09:35:00 +0200",
+    "source": "Stadt Burscheid (offiziell)",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-10-23T07:48:56.402905",
+    "feed_kommunen": [
+      "burscheid"
+    ]
   },
   {
     "id": "8c973f51d221",

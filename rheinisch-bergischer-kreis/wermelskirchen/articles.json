@@ -1,5 +1,20 @@
 [
   {
+    "id": "a6f987751018",
+    "title": "Höller empfängt wieder Gäste",
+    "summary": "Seit dem Tod von Wirt Horst Eisenmenger waren die Türen der Gaststätte Höller geschlossen. Nun führt Linda Bleek das Erbe ihres Vaters weiter. Mit frischen Ideen – und tatkräftiger Unterstützung.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/hoeller-empfaengt-wieder-gaeste-EK6AWF4GCW7EZLK67K4PRXZWUI.html",
+    "published": "Fri, 23 Oct 2026 07:20:00 +0200",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-10-23T07:48:50.062955",
+    "feed_kommunen": [
+      "wermelskirchen"
+    ]
+  },
+  {
     "id": "14d2db346829",
     "title": "Wermelskirchener Grüne Damen sind ausgezeichnet- aber wie sieht deren Alltag aus?",
     "summary": "Vorige Woche bekamen die Ehrenamtler, die am Krankenhaus aktiv sind, in Aachen den Brigitte-Schröder-Preis. Der WGA war an einem Dienst-Morgen mit dabei auf den Stationen.",
@@ -25,6 +40,23 @@
       "wermelskirchen"
     ],
     "fetched": "2026-10-22T20:06:29.916110"
+  },
+  {
+    "id": "73879a72b43a",
+    "title": "Neue Route durch Leichlingen: Kunst und Natur auf zwei Rädern erleben",
+    "summary": "Die Tour „Art & Bike“ verbindet Leichlingen, Burscheid und Wermelskirchen. Auf rund 42 Kilometern können Radfahrer 24 Kunstwerke entdecken. Die Strecke lässt sich auch in kürzere Abschnitte aufteilen.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/neue-route-mit-kunst-und-natur-fuer-radfahrer-in-leichlingen_aid-156956349",
+    "published": "Thu, 22 Oct 2026 16:00:00 +0200",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen",
+      "burscheid",
+      "wermelskirchen"
+    ],
+    "fetched": "2026-10-23T07:48:55.410472",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
   },
   {
     "id": "5905dcd866e3",

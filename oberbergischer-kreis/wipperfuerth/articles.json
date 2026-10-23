@@ -42,6 +42,19 @@
     "fetched": "2026-10-22T10:03:10.101055"
   },
   {
+    "id": "d21d429609ec",
+    "title": "Armbanduhr aus Auto gestohlen",
+    "summary": "Wipperfürth - Kriminelle brachen in den Straßen „Sonnenschein“ und „Wasserfuhr“ in geparkte Fahrzeuge ein.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/autoscheiben-eingeschlagen-a-139436",
+    "published": "Thu, 22 Oct 2026 10:20:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-23T07:50:16.848383",
+    "feed_kommunen": []
+  },
+  {
     "id": "4a7ad5980684",
     "title": "POL-GM: Autoscheiben eingeschlagen",
     "summary": "Wipperfürth (ots) - Unbekannte haben am Mittwoch (21. Oktober) in Wipperfürth die Scheiben zweier Autos eingeschlagen. Zwischen 11:10 Uhr und 11:15 Uhr schlugen Unbekannte die Scheibe der Beifahrertür eines Autos ein, das in der Straße ...",
@@ -52,6 +65,19 @@
       "wipperfuerth"
     ],
     "fetched": "2026-10-22T15:10:55.396224"
+  },
+  {
+    "id": "4960c0c01634",
+    "title": "Zum Geburtstag ist Luca geheilt",
+    "summary": "Wipperfürth – Der an MDS erkrankte Junge wird heute sechs Jahre alt und darf nun auch endlich wieder „Kind“ sein.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/zum-geburtstag-ist-er-geheilt-a-139371",
+    "published": "Thu, 22 Oct 2026 06:00:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-23T07:50:16.849026",
+    "feed_kommunen": []
   },
   {
     "id": "88e5ce38034a",
@@ -81,6 +107,19 @@
       "waldbroel"
     ],
     "fetched": "2026-10-20T11:25:13.097133"
+  },
+  {
+    "id": "19c3cda8bd79",
+    "title": "100 Jahre Hans Hermann Voss",
+    "summary": "Wipperfürth. Am 3. Oktober wäre Hans Hermann Voss 100 Jahre alt geworden. Der Maschinenbauingenieur entwickelte die von seinem Vater übernommene Armaturenfabrik zu einer international tätigen Unternehmensgruppe. Heute gehören zu VOSS 24 Gesellschaften in 14 Ländern mit mehr als 8.600 Beschäftigten. Seit 2006 ist die Hans Hermann Voss-Stiftung Eigentümerin der Unternehmensgruppe. 1953 trat Hans Her",
+    "link": "https://www.rheinische-anzeigenblaetter.de/wipperfuerth/c-nachrichten/100-jahre-hans-hermann-voss_a381689",
+    "published": "Tue, 20 Oct 2026 11:28:04 +0200",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-23T07:50:17.962809",
+    "feed_kommunen": []
   },
   {
     "id": "701d416d7d3c",
@@ -1752,6 +1791,33 @@
       "wipperfuerth"
     ],
     "fetched": "2026-07-01T10:08:25.864530"
+  },
+  {
+    "id": "df301554330e",
+    "title": "STADTRADELN 2026 im Oberbergischen Kreis: 3.607 aktiv Radelnde haben insgesamt 802.659 km zurückgelegt",
+    "summary": "Der Oberbergische Kreis sowie die Städte und Gemeinden Bergneustadt, Engelskirchen, Gummersbach, Hückeswagen, Lindlar, Nümbrecht, Marienheide, Morsbach, Radevormwald, Reichshof, Waldbröl, Wiehl und Wipperfürth haben vom 25.05. bis 14.06.2026 gemeinsam an der Aktion STADTRADELN des Klima-Bündnis Services teilgenommen.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1977&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=3d09975badbf92eae3309fcbc2febdfc",
+    "published": "Tue, 30 Jun 2026 09:00:28 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht",
+      "lindlar",
+      "marienheide",
+      "engelskirchen",
+      "bergneustadt",
+      "hueckeswagen",
+      "reichshof",
+      "waldbroel",
+      "wiehl",
+      "morsbach",
+      "gummersbach",
+      "radevormwald",
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-23T07:50:25.597572",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
   },
   {
     "id": "e107b5497c62",
@@ -6843,6 +6909,21 @@
     "fetched": "2026-05-05T21:23:25.231900"
   },
   {
+    "id": "5a6a17497027",
+    "title": "Europawahl",
+    "summary": "",
+    "link": "https://www.wipperfuerth.de/detailansicht.html?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=517&cHash=358912bfeb19cb150d7dd9770c6fdf3f",
+    "published": "Mon, 27 May 2019 08:00:00 +0200",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-23T07:50:07.961255",
+    "feed_kommunen": [
+      "wipperfuerth"
+    ]
+  },
+  {
     "id": "010308214aa1",
     "title": "Wortfunken – Poetry Slam in Wipperfürth",
     "summary": "Am Sonntag, den 12.05.2019, findet um 19:00 Uhr ein Poetry Slam in der Alten Drahtzieherei in Wipperführt statt. Der Beitrag Wortfunken &#8211; Poetry Slam in Wipperfürth erschien zuerst auf Oberberg-Nachrichten.de.",
@@ -7004,6 +7085,21 @@
       "wipperfuerth"
     ],
     "fetched": "2026-05-06T15:52:46.539449",
+    "feed_kommunen": [
+      "wipperfuerth"
+    ]
+  },
+  {
+    "id": "e9fa2b30304b",
+    "title": "Haushaltsrede",
+    "summary": "",
+    "link": "https://www.wipperfuerth.de/detailansicht.html?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=229&cHash=de8dcb1afb3b54ef39a123e290b09a94",
+    "published": "Thu, 21 Dec 2017 08:24:11 +0100",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-23T07:50:07.961720",
     "feed_kommunen": [
       "wipperfuerth"
     ]

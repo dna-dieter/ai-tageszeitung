@@ -1,5 +1,19 @@
 [
   {
+    "id": "b1a4e8f6f527",
+    "title": "Wiehl will auch auswärts in der Saison ankommen",
+    "summary": "Oberberg – Nach dem Premierendreier herrscht wieder Hoffnung auf der Eichhardt, doch am Wochenende wartet eine schwierige Aufgabe – Schönenbach hofft gegen Marialinden auf den ersten Heimerfolg - Nümbrecht vor schwerer Aufgabe bei Blau-Weiß Köln",
+    "link": "http://www.oberberg-aktuell.de/fussball/wiehl-will-auch-ausw--rts-in-der-saison-ankommen-a-139407",
+    "published": "Thu, 22 Oct 2026 09:00:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "nuembrecht",
+      "wiehl"
+    ],
+    "fetched": "2026-10-23T07:50:16.848609",
+    "feed_kommunen": []
+  },
+  {
     "id": "f279a60edab4",
     "title": "Nümbrecht, Marienheide & Lindlar: Diebstahl – Täter stehlen Werkzeug und Geld",
     "summary": "Diebstahl in Nümbrecht, Marienheide und Lindlar: Unbekannte erbeuten Werkzeug, Bargeld und eine Bankkarte. Die Kriminalpolizei sucht Zeugen.",
@@ -12,6 +26,21 @@
       "marienheide"
     ],
     "fetched": "2026-10-21T10:01:56.618726"
+  },
+  {
+    "id": "4a72440d46df",
+    "title": "Bankkarte und Geld aus Auto gestohlen",
+    "summary": "Oberberg – Täter nahmen in Marienheide einen unverschlossenen Wagen ins Visier – Einbrecher in Nümbrecht unterwegs – Diebstahl von Portemonnaie in Lindlar.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/bankkarte-und-geld-aus-auto-gestohlen-a-139399",
+    "published": "Wed, 21 Oct 2026 09:54:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "marienheide",
+      "nuembrecht",
+      "lindlar"
+    ],
+    "fetched": "2026-10-23T07:50:16.850585",
+    "feed_kommunen": []
   },
   {
     "id": "fda5127a39c7",
@@ -36,6 +65,36 @@
       "nuembrecht"
     ],
     "fetched": "2026-10-20T11:25:13.097106"
+  },
+  {
+    "id": "ef1e9395c762",
+    "title": "Nümbrecht gesund – gemeinsam gesund",
+    "summary": "Nächster Vortrag am 4. November 2026 unter dem Titel \"Schlüssel zur Gesundheit: Gesunder Darm – gesunder Mensch\".",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=2008&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=9c14fa99716f24f50db85998022069a7",
+    "published": "Tue, 20 Oct 2026 08:34:00 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.593095",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
+    "id": "7db06684aff8",
+    "title": "Informationsveranstaltungen des Gymnasiums im November 2026",
+    "summary": "Das Homburgische Gymnasium Nümbrecht informiert über zwei Veranstaltungen im November 2026.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=2010&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=70bd2919780b21a92703c952126beb9b",
+    "published": "Mon, 19 Oct 2026 13:37:00 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.593225",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
   },
   {
     "id": "885107bcdcc4",
@@ -112,6 +171,21 @@
     "fetched": "2026-10-18T00:53:53.041958"
   },
   {
+    "id": "891b0f249747",
+    "title": "Schnuppertag an der Sekundarschule Nümbrecht Ruppichteroth – Eine Schule für alle!",
+    "summary": "Am Samstag, den 7. November 2026, öffnet die Sekundarschule Nümbrecht Ruppichteroth an beiden Standorten ihre Türen und lädt alle interessierten Viertklässlerinnen und Viertklässler sowie deren Eltern herzlich zum Schnuppertag ein.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=2005&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=b8556826225d7becddb9b3438c8f090d",
+    "published": "Fri, 16 Oct 2026 15:08:00 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.593486",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
     "id": "bf923640f891",
     "title": "Nümbrecht: Darmgesundheit im Fokus – Dr. Edgar Leißling referiert über das sensible Ökosystem",
     "summary": "Darmgesundheit im Fokus: Dr. Edgar Leißling referiert in Nümbrecht über den Einfluss der Darmflora auf Immunsystem und Stimmung.",
@@ -122,6 +196,21 @@
       "nuembrecht"
     ],
     "fetched": "2026-10-15T18:13:07.751724"
+  },
+  {
+    "id": "74937fad8a8d",
+    "title": "PRESSEMITTEILUNG - Gedenkfeier zur Reichspogromnacht: Gegen das Vergessen und zur Mahnung!",
+    "summary": "Das zu Ende gehende Jahr zeigt auch dieses Mal wieder, wie wichtig es immer noch ist, sich an die Ereignisse des 9. November 1938 zu erinnern, als es zu organisierten und gelenkten Zerstörungen von Einrichtungen und Besitztümern jüdischer Menschen in Deutschland durch das NS-Regime kam.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=2009&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=16a31e5428ca8f628d783244f14326e2",
+    "published": "Thu, 15 Oct 2026 11:22:00 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.593791",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
   },
   {
     "id": "ddd19fcdbce7",
@@ -186,6 +275,21 @@
     "fetched": "2026-10-02T12:24:08.675187"
   },
   {
+    "id": "b7ef9d73583c",
+    "title": "Gemeinde Nümbrecht tritt Förderverein der NRW-Stiftung bei",
+    "summary": "Urkunde wurde im Rahmen der Ratssitzung übergeben",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=2007&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=be43fc5022ee8c6e9019eceb34e875c4",
+    "published": "Thu, 01 Oct 2026 10:29:00 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.593879",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
     "id": "6683b381d5ea",
     "title": "Gummersbach & Nümbrecht: Polizeibericht – Räder und Tresorbeute",
     "summary": "Drei Eigentumsdelikte in Oberberg: Fünf Autos ohne Räder, versuchter Wohnungseinbruch in Nümbrecht und Tresorbeute aus Haus am Silbersee.",
@@ -211,6 +315,36 @@
     "fetched": "2026-09-29T08:22:00.429877"
   },
   {
+    "id": "239632655a3d",
+    "title": "Pflegekurs in Nümbrecht erfolgreich abgeschlossen",
+    "summary": "Freudig nahmen 14 pflegende Angehörige am 21.09.2026 das Zertifikat über die Teilnahme am Pflegekurs von der Senioren- und Pflegeberaterin der Gemeinde Nümbrecht, Petra Hein, entgegen.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=2006&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=b1fd545aa6b3537728ae3ab78d1277cf",
+    "published": "Fri, 25 Sep 2026 15:27:00 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.594067",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
+    "id": "6aaa4ece74fc",
+    "title": "Kommunale Wärmeplanung: Nümbrecht kann Wärmewende mit Augenmaß gestalten",
+    "summary": "Vorläufige Ergebnisse im Gemeindeentwicklungsausschuss vorgestellt. Vergleichsweise junges Gasnetz schafft Handlungsspielraum für die kommenden Jahre.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=2002&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=11a74415138133614735abb1200b221f",
+    "published": "Thu, 24 Sep 2026 09:10:00 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.594230",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
     "id": "97250afc8ac0",
     "title": "Nümbrecht: Feuerwehr stoppt Kellerbrand am Nachtigallenweg – Frau in Klinik",
     "summary": "Kellerbrand in Nümbrecht: Am Nachtigallenweg retten sich zwei Frauen ins Freie. Eine kommt nach Rauchgasverdacht vorsorglich in die Klinik.",
@@ -233,6 +367,21 @@
       "nuembrecht"
     ],
     "fetched": "2026-09-22T18:47:37.651007"
+  },
+  {
+    "id": "7ee7e5e88d7f",
+    "title": "PRESSEMITTEILUNG: Zwei neue Fahrzeuge für die Feuerwehr Nümbrecht übergeben",
+    "summary": "LF 10 für die Löschgruppe Hömel und Mannschaftstransportfahrzeug für die Kinder- und Jugendfeuerwehr",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=2001&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=87a46887025681266c46e782f07a92c0",
+    "published": "Tue, 22 Sep 2026 12:19:36 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.594363",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
   },
   {
     "id": "5d7792466846",
@@ -297,6 +446,22 @@
     "fetched": "2026-09-19T10:50:38.440426"
   },
   {
+    "id": "a002f604bdcd",
+    "title": "Wenn die Straße den Menschen gehört",
+    "summary": "Autofreier Sonntag begeistert Nümbrecht und Waldbröl. Knapp 2.500 Menschen nahmen am 30. August 2026 am 22. Autofreien Sonntag zwischen Nümbrecht und Waldbröl teil. Bei schönem Wetter gehörte die 16 Kilometer lange Strecke von 9 bis 18 Uhr ganz den Radfahrenden, Wandernden und Walkenden. Bewegung, Begegnungen und gute Laune standen im Mittelpunkt.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1999&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=62e03124dd092a0443bb7ba77b574170",
+    "published": "Wed, 16 Sep 2026 16:22:36 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht",
+      "waldbroel"
+    ],
+    "fetched": "2026-10-23T07:50:25.594633",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
     "id": "d6e476617e57",
     "title": "Nümbrecht: Museumsfest feiert 100 Jahre Schloss Homburg",
     "summary": "Ritterturnier, Kulturprogramm und Sammlung prägen das Jubiläum zum 100. Geburtstag des Museums auf Schloss Homburg im Oberbergischen.",
@@ -336,6 +501,21 @@
     "fetched": "2026-09-10T22:29:33.690003"
   },
   {
+    "id": "e73fd7d08571",
+    "title": "Waldwege bleiben sechs Wochen nach Sanierung gesperrt",
+    "summary": "Durch das Starkregenereignis im Juli 2021 waren auf Nümbrechter Gemeindegebiet fast 7.000 Meter Waldwege in Mitleidenschaft gezogen worden. Im Anschluss hieran breitete sich der Borkenkäfer aus, sodass insgesamt 80 Hektar Wald gerodet und mit schwerem Gerät abtransportiert werden mussten. Dies fügte den Waldwegen zusätzlichen Schaden zu.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1998&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=8f380bbcf1adadedeb3285cf83428c11",
+    "published": "Thu, 10 Sep 2026 11:59:57 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.594918",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
     "id": "ab5f8b2831c7",
     "title": "Nümbrecht: Sachbeschädigung – Unbekannte zerstören Verglasung",
     "summary": "Sachbeschädigung an einer Haltestelle in Homburg-Bröl: Unbekannte zerstören die Verglasung. Polizei sucht Zeugen zwischen 4. und 7. September.",
@@ -358,6 +538,36 @@
       "nuembrecht"
     ],
     "fetched": "2026-09-09T11:14:07.199450"
+  },
+  {
+    "id": "d317e16c4663",
+    "title": "Polizeidienststelle im Rathaus hat einen neuen Bezirksbeamten",
+    "summary": "Polizeihauptkommissar (PHK) Sascha Dewald ist als neuer Bezirksbeamte in das Bezirksdienstbüro im Rathaus in Nümbrecht eingezogen. Er ist damit zusammen mit seinem Kollegen Holger Wirtz direkter Ansprechpartner für alle Nümbrechter Bürgerinnen und Bürger sowie Gäste.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1997&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=81e4a4fd5ce066901a803a275afb4df6",
+    "published": "Tue, 08 Sep 2026 15:18:00 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.595168",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
+    "id": "02ba819c58f5",
+    "title": "Sprechstunde des Bürgermeisters",
+    "summary": "Die Bürgersprechstunden finden immer am 3. Dienstag im Monat in der Zeit von 17.00 bis 18.00 Uhr statt.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1347&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=c4403116178c30ea648a8a573454f529",
+    "published": "Fri, 04 Sep 2026 10:38:00 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.595302",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
   },
   {
     "id": "af3245acadf6",
@@ -447,6 +657,21 @@
       "nuembrecht"
     ],
     "fetched": "2026-08-24T09:00:01.714501"
+  },
+  {
+    "id": "2f4f9bb68f7f",
+    "title": "Straßendeckensanierungen der Gemeinde Nümbrecht",
+    "summary": "Seitens der Gemeinde Nümbrecht werden Deckensanierungsmaßnahmen an folgenden zwei Gemeindestraßen unter Vollsperrung ausgeführt.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1996&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=f80328bd33e8d0d3d0f410673973e26a",
+    "published": "Mon, 24 Aug 2026 10:15:00 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.595433",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
   },
   {
     "id": "ba5db47190e1",
@@ -550,6 +775,21 @@
     "fetched": "2026-08-06T12:11:29.737073"
   },
   {
+    "id": "f81e7fae3986",
+    "title": "Die Wiederaufforstung beschädigter Waldflächen wird weiter gefördert",
+    "summary": "Wer kleine durch Trockenheit und Borkenkäferbefall beschädigte Waldflächen auf Nümbrechter Gemeindegebiet besitzt, kann von der Gemeinde nach wie vor finanzielle Unterstützung erhalten. Das hat der Rat der Gemeinde Nümbrecht in seiner Sitzung am 16. Juli 2026 einstimmig beschlossen. Hintergrund sind die hohe Bedeutung des mit der Förderung verfolgten Zwecks sowie noch nicht aufgebrauchte Fördermit",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1990&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=a55b667f23c73143681ed7563feec4a4",
+    "published": "Wed, 05 Aug 2026 11:00:00 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.595771",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
     "id": "5841821cf19d",
     "title": "POL-GM: Einbruch in Café",
     "summary": "Waldbröl (ots) - Ein Unbekannter ist in der Nacht von Dienstag auf Mittwoch (4./5. August) in ein Café in der Nümbrechter Straße eingebrochen. Wie auf Aufnahmen einer Überwachungskamera zu sehen ist, schlug der Unbekannte gegen 03:20 Uhr die ...",
@@ -625,6 +865,21 @@
     "fetched": "2026-07-29T09:46:47.294745"
   },
   {
+    "id": "82b7aa67e7c9",
+    "title": "Interaktive Broschüre informiert über die Gemeinde Nümbrecht",
+    "summary": "Sie wollen Nümbrecht (näher) kennenlernen? Dann haben Sie ab sofort die Möglichkeit, die Gemeinde in einem neuen interaktiven Format zu entdecken. Unter dem Slogan \"So schön kann Heimat sein\" bietet die neue Broschüre einen kompakten Überblick über den Heilklimatischen Kurort im Oberbergischen. Erfahren Sie, was die ländliche Gemeinde für Bürger und Gäste bereithält und was Nümbrecht so lebenswert",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1986&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=bd0514a1f04fe5317b591e326b4c97e8",
+    "published": "Mon, 27 Jul 2026 13:59:05 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.596123",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
     "id": "f517c168adb3",
     "title": "Oberberg: Einbruch und Diebstahl – Verrückt! Täter flüchtet in fremden Schuhen (3 Meldungen)",
     "summary": "Einbruch und Diebstahl in Oberberg: In Wipperfürth, Hückeswagen und Nümbrecht schlugen Unbekannte binnen zwei Tagen zu. Die Polizei sucht Zeugen.",
@@ -651,6 +906,21 @@
     "fetched": "2026-07-24T09:28:55.002621"
   },
   {
+    "id": "0142a68d3581",
+    "title": "Frische Vielfalt auf dem Nümbrechter Wochenmarkt",
+    "summary": "Der Nümbrechter Wochenmarkt entwickelt sich weiter und gewinnt mit zwei neuen regionalen Anbietern an Attraktivität. Seit einigen Wochen bereichert der Hof Hämel aus Meinerzhagen das Angebot mit frischem Obst, Gemüse, Eiern und Blumen. Mit der Nümbrechter Imkerin Silke Strang ist zudem eine weitere Anbieterin hinzugekommen, die den Markt mit Honig und weiteren hochwertigen Erzeugnissen aus eigener",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1989&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=1d7f9cf766e489dc58cbd676d623aec9",
+    "published": "Wed, 22 Jul 2026 11:25:00 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.596459",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
     "id": "f5f55fcaa5c9",
     "title": "POL-GM: 37-Jähriger leistet nach Trunkenheitsfahrt Widerstand",
     "summary": "Nümbrecht; Wiehl (ots) - Nach einem Zeugenhinweis auf eine Trunkenheitsfahrt auf der L336 bei Nümbrecht-Bierenbachtal beabsichtigte die Polizei am Samstag (18. Juli) gegen 21:34 Uhr, einen 37-jährigen Motorradfahrer in Wiehl zu kontrollieren. Auf ...",
@@ -662,6 +932,36 @@
       "wiehl"
     ],
     "fetched": "2026-07-20T11:10:56.452469"
+  },
+  {
+    "id": "d19a6d47e95c",
+    "title": "Nümbrechter legen beim \"STADTRADELN\" über 17.000 km zurück",
+    "summary": "Vom 25. Mai bis 14. Juni 2026 fand im Oberbergischen Kreis erneut die Aktion \"STADTRADELN - Radeln für ein gutes Klima\" statt. Die weltweite Kampagne wirbt für das Radfahren und möchte Menschen dazu bewegen, im Alltag öfters auf diese klimafreundliche Mobilitätsform umzusteigen. Mehr als 100 Nümbrechter Bürgerinnen und Bürger haben an der Aktion teilgenommen und dabei insgesamt über 17.000 km gesa",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1988&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=5849bc08700fe95e564e8c123c17295c",
+    "published": "Fri, 17 Jul 2026 14:34:00 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.596800",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
+    "id": "ca3b5612c195",
+    "title": "Jahrgangsstufe 7 des Gymnasiums Nümbrecht zu Gast bei der Feuerwehr",
+    "summary": "Was sind die Voraussetzungen für eine Verbrennung? Wie hält und bedient man einen Löscher richtig? Was passiert, wenn man einen Fettbrand mit Wasser löscht? Und warum kann Mehlstaub explodieren? Mit diesen und vielen weiteren Fragen beschäftigten sich in der 24. Kalenderwoche vier Klassen des 7. Schuljahres des Gymnasiums Nümbrecht – und erlebten dabei eine Feuerwehr, die weit mehr zu bieten hat a",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1987&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=6d509a75aab3bdded6b9c8c2679d9455",
+    "published": "Fri, 17 Jul 2026 14:17:00 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.597226",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
   },
   {
     "id": "9df704a1e886",
@@ -750,6 +1050,48 @@
     "fetched": "2026-07-02T14:26:28.257520"
   },
   {
+    "id": "216f4d8733df",
+    "title": "Förderung für Vereine im Jugendkulturbereich und Förderung der Jugendarbeit in Musikvereinen und Jugendchören",
+    "summary": "Der Oberbergische Kreis stellt auch in diesem Jahr wieder Fördermittel bereit für:1. Vereine, die im Jugendkulturbereich tätig sind und2. Musikvereine und Jugendchöre, die die Förderung der Jugendarbeit leisten.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1978&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=1f4825788f26dc0b76582151d7715979",
+    "published": "Tue, 30 Jun 2026 14:03:14 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.597478",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
+    "id": "df301554330e",
+    "title": "STADTRADELN 2026 im Oberbergischen Kreis: 3.607 aktiv Radelnde haben insgesamt 802.659 km zurückgelegt",
+    "summary": "Der Oberbergische Kreis sowie die Städte und Gemeinden Bergneustadt, Engelskirchen, Gummersbach, Hückeswagen, Lindlar, Nümbrecht, Marienheide, Morsbach, Radevormwald, Reichshof, Waldbröl, Wiehl und Wipperfürth haben vom 25.05. bis 14.06.2026 gemeinsam an der Aktion STADTRADELN des Klima-Bündnis Services teilgenommen.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1977&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=3d09975badbf92eae3309fcbc2febdfc",
+    "published": "Tue, 30 Jun 2026 09:00:28 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht",
+      "lindlar",
+      "marienheide",
+      "engelskirchen",
+      "bergneustadt",
+      "hueckeswagen",
+      "reichshof",
+      "waldbroel",
+      "wiehl",
+      "morsbach",
+      "gummersbach",
+      "radevormwald",
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-23T07:50:25.597572",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
     "id": "c6d93d5a5070",
     "title": "POL-GM: Radfahrer bei Alleinunfall schwer verletzt",
     "summary": "Waldbröl (ots) - Ein 62-jähriger Nümbrechter war am Montag (22. Juni) mit seinem Rennrad auf der K17 von Oberbreidenbach in Richtung Rölefeld unterwegs. Gegen 17:55 Uhr kam der Nümbrechter ausgangs einer scharfen, leicht abschüssigen ...",
@@ -761,6 +1103,36 @@
       "nuembrecht"
     ],
     "fetched": "2026-06-23T12:14:43.197199"
+  },
+  {
+    "id": "ceb9026955db",
+    "title": "Pflegekurs in Nümbrecht startet im August",
+    "summary": "In diesem Jahr findet wieder ein Kurs für pflegende Angehörige oder ihnen nahestehende Personen statt. Beginn ist der 17. August. Der Kurs ist kostenlos und es können 15 Personen teilnehmen.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1975&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=9e9fe6cfc0ff4313f8bd3440d99ae938",
+    "published": "Tue, 23 Jun 2026 09:05:24 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.597748",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
+    "id": "4f6ddf166ed0",
+    "title": "PRESSEMITTEILUNG: 5. Nümbrechter Wirtschaftsstammtisch",
+    "summary": "Austausch, Einblicke und neue Kontakte bei der brehmergroup",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1974&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=0616ed1cb8fa2c24a85ff42199a7cbde",
+    "published": "Tue, 23 Jun 2026 08:48:14 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.597837",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
   },
   {
     "id": "b7eb1ec2d9dd",
@@ -787,6 +1159,37 @@
     "fetched": "2026-06-16T11:31:59.986059"
   },
   {
+    "id": "afa41afd6594",
+    "title": "Jugendfeuerwehr Nümbrecht beim Kreiszeltlager in Wiehl",
+    "summary": "Von Freitag bis Sonntag nahm die Jugendfeuerwehr Nümbrecht am Kreiszeltlager der Jugendfeuerwehren des Oberbergischen Kreises in Wiehl teil.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1972&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=88935931b83b303bfa554ad858b5d05f",
+    "published": "Tue, 16 Jun 2026 09:17:02 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht",
+      "wiehl"
+    ],
+    "fetched": "2026-10-23T07:50:25.597966",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
+    "id": "1f48097cea45",
+    "title": "PRESSEMITTEILUNG: Richtfest des Erweiterungsbaus der GGS Marienberghausen",
+    "summary": "Die Schülerzahlen in der GGS Marienberghausen sind erfreulicherweise konstant, der Bedarf an Klassenräumen übersteigt jedoch die Kapazitäten im Gebäudebestand.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1971&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=110e8498e5c810814740f54ab1ff8538",
+    "published": "Mon, 15 Jun 2026 15:35:22 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.598157",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
     "id": "b967cc480ccc",
     "title": "Bergneustadt: Zwei Heißluftballons fahren über die City (Foto des Tages)",
     "summary": "Zwei Ballone über Bergneustadt: Leserin Mirjana Sasse fing den Früh- und den GWN-Ballon ein – dazu der Blick aufs Ballonfahren in Oberberg.",
@@ -800,6 +1203,21 @@
     "fetched": "2026-06-13T05:44:24.001893"
   },
   {
+    "id": "228b096a0ab3",
+    "title": "Ferienspaß 2026",
+    "summary": "Auch in diesem Jahr finden in den Sommerferien wieder die Ferienspaßaktionen statt.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1968&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=5a2f7afc5939b4c80904f7842749da37",
+    "published": "Fri, 12 Jun 2026 11:35:00 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.598246",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
     "id": "0c9fd7eb2453",
     "title": "Richtfest für den Erweiterungsbau der GGS Marienberghausen in Nümbrecht",
     "summary": "Zwei Tage für die Module, rund zehn Wochen reine Bauzeit vor Ort: Am 11. Juni 2026 ist an der GGS Marienberghausen das Richtfest für den Erweiterungsbau gefeiert worden. Der Neubau schafft dringend benötigte Räume und geht pünktlich zum Schuljahr 2026/2027 in Betrieb. Auslöser ist ein Platzproblem. Die Schülerzahlen bleiben stabil, doch der Gebäudebestand reicht für den Bedarf an Klassenräumen nic",
@@ -810,6 +1228,51 @@
       "nuembrecht"
     ],
     "fetched": "2026-06-11T16:19:05.928622"
+  },
+  {
+    "id": "c2f2a49b3e18",
+    "title": "PRESSEMITTEILUNG: Umgestaltung des Kurparks Nümbrecht: Mehr Qualität, mehr Erlebnis, mehr Natur",
+    "summary": "Nach über fünfzig Jahren wird der Kurpark in Nümbrecht fit für die Zukunft gemacht: Ab Mitte Mai 2026 beginnt die umfassende Umgestaltung der beliebten Parkanlage.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1957&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=f6a4f49ff7ec0337ea5a9e548eb483bc",
+    "published": "Thu, 11 Jun 2026 10:42:00 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.598440",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
+    "id": "4ad5aad03e26",
+    "title": "TuS Elsenroth lädt am 18.07.2026 zum JUX Turnier ein",
+    "summary": "Sportfreunde und Fußballbegeisterte aufgepasst! Am Samstag, dem 18.07.2026, findet das diesjährige TuS JUX Turnier auf der Kreuzheide statt. Alle Hobby-, Freizeit- und Betriebsmannschaften sind herzlich eingeladen.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1964&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=47235b19749b834679d42cf095ad80c4",
+    "published": "Wed, 10 Jun 2026 11:36:00 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.598654",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
+    "id": "1fc3d8b7b5fa",
+    "title": "STADTRADELN 2026: Gemeinsame Radtour war ein gelungenes Erlebnis",
+    "summary": "",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1970&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=b635c14b72b547cfe78a12f0696522c2",
+    "published": "Wed, 10 Jun 2026 09:16:00 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.598714",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
   },
   {
     "id": "0622f1248cdd",
@@ -861,6 +1324,21 @@
     "fetched": "2026-05-29T12:26:30.020572"
   },
   {
+    "id": "5fb215553a8b",
+    "title": "Zwei besondere Fahrzeuge für die Feuerwehr Nümbrecht",
+    "summary": "Neuer Tankwagen und geländegängiger Unimog erweitern die Einsatzmöglichkeiten.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1969&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=b1cd53ad36844fe331f806d5994a8d4b",
+    "published": "Wed, 27 May 2026 14:30:34 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.598814",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
     "id": "463c602edc30",
     "title": "POL-GM: Einbruch in Einfamilienhaus",
     "summary": "Nümbrecht (ots) - Im Zeitraum 16.05.2026 bis 25.05.2026 hebelten Unbekannte die Terrassentür eines derzeit unbewohnten Einfamilienhauses in der Höhenstraße auf. Aus dem Haus und aus einem auf dem Grundstück befindlichen Holzschuppen stahlen die ...",
@@ -908,6 +1386,21 @@
       "nuembrecht"
     ],
     "fetched": "2026-05-22T11:54:07.079272"
+  },
+  {
+    "id": "7a337e214985",
+    "title": "LEADER-Kleinprojekteförderung: Projekte aus Nümbrecht erhalten Unterstützung",
+    "summary": "Im Rahmen einer Feierstunde auf Schloss Homburg wurden am 19.05.2026 insgesamt 22 Förderbescheide aus dem LEADER-Kleinprojekteprogramm übergeben.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1967&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=b2a085c1195d313ccac5be41be1ec003",
+    "published": "Thu, 21 May 2026 14:41:04 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-23T07:50:25.598976",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
   },
   {
     "id": "c2566e6cdae2",

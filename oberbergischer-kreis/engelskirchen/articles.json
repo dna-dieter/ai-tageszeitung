@@ -1,5 +1,19 @@
 [
   {
+    "id": "1c09e9f385a2",
+    "title": "Fliegner schockt Süng kurz vor Schluss",
+    "summary": "Oberberg - Am Abend fanden zwei verlegte Partien statt: In der Staffel 3 verbuchte der SV Frömmersbach einen ungefährdeten Sieg in Engelskirchen, das Lindlarer Gemeindederby in der Staffel 2 hatte mehr Spannung zu bieten - 'Sportsbar Lutter' präsentiert die Kreisliga B.",
+    "link": "http://www.oberberg-aktuell.de/fussball/fliegner-schockt-s--ng-kurz-vor-schluss-a-139462",
+    "published": "Thu, 22 Oct 2026 22:39:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar",
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T07:50:16.846662",
+    "feed_kommunen": []
+  },
+  {
     "id": "d5bb2809217c",
     "title": "Zwei Baustellen im Aggertal: Sperrung der Ründerother Ortsdurchfahrt: Bypass für die Verkehrsader",
     "summary": "Während die Ründerother Ortsdurchfahrt saniert wird und ab morgen bei Loope die Bahn baut, bleibt der große Stau aus.",
@@ -11,6 +25,66 @@
     ],
     "fetched": "2026-10-22T22:18:53.931403",
     "feed_kommunen": []
+  },
+  {
+    "id": "a30ee4c1e799",
+    "title": "FIFTY WAYS mit neuer Besetzung",
+    "summary": "am 28.11.2026, Baumwolllager in Engelskirchen, um 19:30",
+    "link": "https://www.engelskirchen.de/portal/meldungen/fifty-ways-mit-neuer-besetzung-900002517-23501.html?rubrik=900000002",
+    "published": "Thu, 22 Oct 2026 15:01:00 +0200",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T07:50:19.020539",
+    "feed_kommunen": [
+      "engelskirchen"
+    ]
+  },
+  {
+    "id": "52f0a2409aee",
+    "title": "Kleidertausch in Engelskirchen ein voller Erfolg",
+    "summary": "Der Kleidertausch der Fairtrade-Steuerungsgruppe Engelskirchen am 2. Oktober 2026 war wieder ein voller Erfolg.",
+    "link": "https://www.engelskirchen.de/portal/meldungen/kleidertausch-in-engelskirchen-ein-voller-erfolg-900002516-23501.html?rubrik=900000002",
+    "published": "Thu, 22 Oct 2026 14:39:00 +0200",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T07:50:19.020661",
+    "feed_kommunen": [
+      "engelskirchen"
+    ]
+  },
+  {
+    "id": "79bbd2735e05",
+    "title": "Gartenblick im Rundblick",
+    "summary": "Garten im Wandel – Erster Gartenspaziergang",
+    "link": "https://www.engelskirchen.de/portal/meldungen/gartenblick-im-rundblick-900002514-23501.html?rubrik=900000010",
+    "published": "Thu, 22 Oct 2026 14:25:00 +0200",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T07:50:19.020737",
+    "feed_kommunen": [
+      "engelskirchen"
+    ]
+  },
+  {
+    "id": "d273d2d0c341",
+    "title": "BAV Circular Week 2026 und Weihnachtstauschrausch",
+    "summary": "Kreislaufwirtschaft erleben und mitgestalten",
+    "link": "https://www.engelskirchen.de/portal/meldungen/bav-circular-week-2026-und-weihnachtstauschrausch-900002515-23501.html?rubrik=900000013",
+    "published": "Thu, 22 Oct 2026 14:23:00 +0200",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T07:50:19.020815",
+    "feed_kommunen": [
+      "engelskirchen"
+    ]
   },
   {
     "id": "a342576171bc",
@@ -36,6 +110,72 @@
       "engelskirchen"
     ],
     "fetched": "2026-10-22T22:18:53.932228",
+    "feed_kommunen": []
+  },
+  {
+    "id": "cef4eab8bf91",
+    "title": "RB 25: Die Bauarbeiten sind gestartet",
+    "summary": "Oberberg – Zwischen dem 21. und 26. Oktober dauert die Fahrt zwischen Gummersbach und Köln wieder länger – Abweichender Halt in Ründeroth.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/rb-----die-bauarbeiten-sind-gestartet-a-139401",
+    "published": "Wed, 21 Oct 2026 11:00:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach",
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T07:50:16.850436",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c41e9647cbcc",
+    "title": "Buntes Erntedankfest im Herbstwald",
+    "summary": "Engelskirchen. Bei strahlendem Herbstwetter wurde der Waldfestplatz in Remerscheid am Freitag vor Erntedank zum Treffpunkt für Grundschule, Kirchengemeinden und Anwohner. Vor einem bunt geschmückten Altar feierten sie gemeinsam einen Gottesdienst unter freiem Himmel. Die Kinder der Grundschule Schnellenbach sorgten mit ihren leuchtend gelben Kappen für farbenfrohe Akzente inmitten der Natur. Gemei",
+    "link": "https://www.rheinische-anzeigenblaetter.de/engelskirchen/c-nachrichten/buntes-erntedankfest-im-herbstwald_a381731",
+    "published": "Tue, 20 Oct 2026 14:26:38 +0200",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T07:50:17.960283",
+    "feed_kommunen": []
+  },
+  {
+    "id": "13c928572507",
+    "title": "Pflanzen tauschen, Kontakte knüpfen",
+    "summary": "Engelskirchen. Der Tauschring Engelskirchen und Umgebung hat bei einem thematischen Stammtisch im Dorfhaus Bickenbach zahlreiche Gartenfreunde zusammengebracht. Im Mittelpunkt stand der Austausch von Samen und Pflanzen. Dabei wechselten sowohl Gartenklassiker als auch besondere Sorten wie lila Kartoffeln oder Meerrettich die Besitzer. Die Organisatoren freuten sich besonders über neue Gesichter. V",
+    "link": "https://www.rheinische-anzeigenblaetter.de/engelskirchen/c-nachrichten/pflanzen-tauschen-kontakte-knuepfen_a381722",
+    "published": "Tue, 20 Oct 2026 13:55:24 +0200",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T07:50:17.961190",
+    "feed_kommunen": []
+  },
+  {
+    "id": "63e28a823fea",
+    "title": "Umleitungen auf drei OVAG-Linien",
+    "summary": "Ründeroth. Wegen Bauarbeiten auf der Hauptstraße ist die Ortsdurchfahrt in Ründeroth voll gesperrt. Davon betroffen sind die OVAG-Linien 310, 312 und 317. Zusätzlich sorgt die Sperrung der Overather Straße zwischen Loope und Ehreshoven am Bahnübergang für eine weitere Umleitung der Linie 310. Für die Zeit vom 19. bis 30. Oktober hat die OVAG ein Umleitungs- und Ersatzverkehrskonzept eingerichtet. ",
+    "link": "https://www.rheinische-anzeigenblaetter.de/engelskirchen/c-nachrichten/umleitungen-auf-drei-ovag-linien_a381659",
+    "published": "Mon, 19 Oct 2026 14:49:21 +0200",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T07:50:17.964589",
+    "feed_kommunen": []
+  },
+  {
+    "id": "55f5ca2d77fd",
+    "title": "Perfekte 60 Ringe für die Wanderkette",
+    "summary": "Engelskirchen. Bei der St. Sebastianus Schützenbruderschaft Loope stand zum 62. Mal das Schießen um die Wanderkette auf dem Programm. Paula Schlößer sicherte sich mit der Bestleistung von 60 von 60 möglichen Ringen die Wanderkette. Geschossen wurde mit dem Kleinkaliber über eine Entfernung von 50 Metern. Sechs Wertungsschüsse wurden jeweils zum Gesamtergebnis addiert. Die jüngsten Mitglieder der B",
+    "link": "https://www.rheinische-anzeigenblaetter.de/engelskirchen/c-nachrichten/perfekte-60-ringe-fuer-die-wanderkette_a381653",
+    "published": "Mon, 19 Oct 2026 14:42:09 +0200",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T07:50:17.964987",
     "feed_kommunen": []
   },
   {
@@ -214,6 +354,97 @@
       "reichshof"
     ],
     "fetched": "2026-10-11T12:39:51.585282"
+  },
+  {
+    "id": "eaf2896735ee",
+    "title": "Einbau der Brückenträger an der neuen Brücke „Dörrenberger Weg“",
+    "summary": "Terminverschiebung Vollsperrung „Dörrenberger Brücke“ vom 13.10.2026 auf den 20.10.2026.",
+    "link": "https://www.engelskirchen.de/portal/meldungen/einbau-der-brueckentraeger-an-der-neuen-bruecke-doerrenberger-weg--900002511-23501.html?rubrik=900000007",
+    "published": "Thu, 08 Oct 2026 09:58:00 +0200",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T07:50:19.020960",
+    "feed_kommunen": [
+      "engelskirchen"
+    ]
+  },
+  {
+    "id": "b664e2df8f3b",
+    "title": "Seniorensicherheit: Polizei klärt über aktuelle Betrugsmaschen auf und berichtet aus der Praxis",
+    "summary": "Erst vor kurzem händigt eine 83-Jährige Seniorin aus Lindlar eine fünfstellige Summe an Betrüger aus, nachdem sie Opfer eines Schockanrufes geworden war.",
+    "link": "https://www.engelskirchen.de/portal/meldungen/seniorensicherheit-polizei-klaert-ueber-aktuelle-betrugsmaschen-auf-und-berichtet-aus-der-praxis-900002510-23501.html?rubrik=900000004",
+    "published": "Thu, 08 Oct 2026 09:46:00 +0200",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "lindlar",
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T07:50:19.021171",
+    "feed_kommunen": [
+      "engelskirchen"
+    ]
+  },
+  {
+    "id": "da1fe81172ef",
+    "title": "ADFC Fahrradklima-Test",
+    "summary": "Wie fahrradfreundlich ist Engelskirchen?",
+    "link": "https://www.engelskirchen.de/portal/meldungen/adfc-fahrradklima-test-900002509-23501.html?rubrik=900000005",
+    "published": "Thu, 08 Oct 2026 09:36:00 +0200",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T07:50:19.021233",
+    "feed_kommunen": [
+      "engelskirchen"
+    ]
+  },
+  {
+    "id": "37b17268067b",
+    "title": "Ersatztermin: Ausländische Haushalts- und Betreuungskräfte in Privathaushalten",
+    "summary": "Wer seine Angehörigen im Alter möglichst lange zu Hause versorgen will, kommt um die Beschäftigung einer ausländischen Haushalts- und Betreuungskraft kaum herum.",
+    "link": "https://www.engelskirchen.de/portal/meldungen/ersatztermin-auslaendische-haushalts-und-betreuungskraefte-in-privathaushalten-900002508-23501.html?rubrik=900000004",
+    "published": "Thu, 08 Oct 2026 09:30:00 +0200",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T07:50:19.021418",
+    "feed_kommunen": [
+      "engelskirchen"
+    ]
+  },
+  {
+    "id": "42a3f82f60c1",
+    "title": "Ernte 2026 auf der Streuobstwiese der Sekundarschule im Walbachtal",
+    "summary": "Den Auftakt der diesjährigen Streuobsternte machten die neuen AG-Teilnehmerinnen und AG-Teilnehmer aus den Jahrgängen 5 bis 7.",
+    "link": "https://www.engelskirchen.de/portal/meldungen/ernte-2026-auf-der-streuobstwiese-der-sekundarschule-im-walbachtal-900002507-23501.html?rubrik=900000004",
+    "published": "Wed, 07 Oct 2026 12:25:00 +0200",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T07:50:19.021567",
+    "feed_kommunen": [
+      "engelskirchen"
+    ]
+  },
+  {
+    "id": "ec51a0bf75fe",
+    "title": "Rathausteam läuft beim Grengellauf des VfL Engelskirchen mit",
+    "summary": "Beim diesjährigen Grengellauf des VfL Engelskirchen zeigte die Gemeindeverwaltung unter der Leitung von Bürgermeister Lukas Miebach erstmals Teamgeist auf der Strecke. Gemeinsam mit zahlreichen Mitarbeitern und Landrat Klaus Grootens nahmen die Verwaltungsmitarbeiter als Läufer und Walker an dem sportlichen Event teil.",
+    "link": "https://www.engelskirchen.de/portal/meldungen/rathausteam-laeuft-beim-grengellauf-des-vfl-engelskirchen-mit-900002506-23501.html?rubrik=900000002",
+    "published": "Tue, 06 Oct 2026 10:57:00 +0200",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T07:50:19.021832",
+    "feed_kommunen": [
+      "engelskirchen"
+    ]
   },
   {
     "id": "5c436beff968",
@@ -813,6 +1044,33 @@
       "engelskirchen"
     ],
     "fetched": "2026-06-30T17:11:34.360827"
+  },
+  {
+    "id": "df301554330e",
+    "title": "STADTRADELN 2026 im Oberbergischen Kreis: 3.607 aktiv Radelnde haben insgesamt 802.659 km zurückgelegt",
+    "summary": "Der Oberbergische Kreis sowie die Städte und Gemeinden Bergneustadt, Engelskirchen, Gummersbach, Hückeswagen, Lindlar, Nümbrecht, Marienheide, Morsbach, Radevormwald, Reichshof, Waldbröl, Wiehl und Wipperfürth haben vom 25.05. bis 14.06.2026 gemeinsam an der Aktion STADTRADELN des Klima-Bündnis Services teilgenommen.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1977&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=3d09975badbf92eae3309fcbc2febdfc",
+    "published": "Tue, 30 Jun 2026 09:00:28 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht",
+      "lindlar",
+      "marienheide",
+      "engelskirchen",
+      "bergneustadt",
+      "hueckeswagen",
+      "reichshof",
+      "waldbroel",
+      "wiehl",
+      "morsbach",
+      "gummersbach",
+      "radevormwald",
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-23T07:50:25.597572",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
   },
   {
     "id": "895e0ec272bb",

@@ -1,5 +1,31 @@
 [
   {
+    "id": "93474be9c1b7",
+    "title": "Ehrenamtliche Laien-Sprachmittler gewürdigt",
+    "summary": "Oberberg - Kommunales Integrationszentrum des Kreises überreicht Auszeichnung des Landes.",
+    "link": "http://www.oberberg-aktuell.de/soziales/ehrenamtliche-laien-sprachmittler-gew--rdigt-a-139456",
+    "published": "Thu, 22 Oct 2026 22:07:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T07:50:16.846790",
+    "feed_kommunen": []
+  },
+  {
+    "id": "674a8b55f288",
+    "title": "AfD Oberberg: Kreisvorstand und Landtagskandidaten sind gewählt",
+    "summary": "Oberberg - Bernd Rummler bleibt Vorsitzender - Daniel Seinsche und Dietmar Rekowski gehen als Listenkandidaten ins Rennen um den Einzug in den Landtag.",
+    "link": "http://www.oberberg-aktuell.de/politik/afd-oberberg--kreisvorstand-und-landtagskandidaten-sind-gew--hlt-a-139443",
+    "published": "Thu, 22 Oct 2026 19:30:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T07:50:16.846972",
+    "feed_kommunen": []
+  },
+  {
     "id": "0e4f731fc210",
     "title": "Oberberg: Sprachmittlung – Kreis würdigt Laien-Dolmetscher mit Ehrenamtsnachweis NRW",
     "summary": "Das Kommunale Integrationszentrum hat das Team der ehrenamtlichen Sprachmittlung mit dem Ehrenamtsnachweis NRW gewürdigt. 56 Laien-Dolmetscher sprechen 27 Sprachen.",
@@ -10,6 +36,45 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-22T20:06:47.734849"
+  },
+  {
+    "id": "a7ff45a1d7ca",
+    "title": "Richtig handeln bei Starkregen und Überflutung",
+    "summary": "Oberberg – Rund 200 Einsatzkräfte haben im Rhein-Sieg-Kreis an einer Katastrophenschutzübung teilgenommen – Auch die oberbergischen Wasserrettungseinheiten waren beteiligt.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/richtig-handeln-bei-starkregen-und---berflutung-a-139457",
+    "published": "Thu, 22 Oct 2026 16:55:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T07:50:16.847193",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5762727ae5ec",
+    "title": "Pflege-App sucht Tester im Oberbergischen",
+    "summary": "Oberberg. Pflegende Angehörige und Menschen, die andere zu Hause unterstützen, sind für das Forschungsprojekt TeReS gefragt. Im Oberbergischen Kreis wird die App seit acht Wochen erprobt. Die Erfahrungen der Nutzer sollen zeigen, wie digitale Unterstützung gestaltet sein muss, damit sie im Alltag hilft. Für die wissenschaftliche Begleitstudie werden bis zum 13. November weitere Rückmeldungen gesuc",
+    "link": "https://www.rheinische-anzeigenblaetter.de/bergneustadt/c-nachrichten/pflege-app-sucht-tester-im-oberbergischen_a381890",
+    "published": "Thu, 22 Oct 2026 16:45:08 +0200",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T07:50:17.955860",
+    "feed_kommunen": []
+  },
+  {
+    "id": "de1135a83612",
+    "title": "Trainieren für den Ernstfall",
+    "summary": "Oberberg (red). Stark- und Dauerregen, beschädigte Infrastruktur, unpassierbare Straßen und angenommene Deichbrüche: Mit diesem Szenario wurden rund 200 Einsatzkräfte bei einer mehrtägigen Katastrophenschutzübung konfrontiert. Der DLRG Landesverband Nordrhein führte die Übung Anfang Oktober in Abstimmung mit den Bezirksregierungen Düsseldorf und Köln im Rhein-Sieg-Kreis durch. Auch Wasserrettungse",
+    "link": "https://www.rheinische-anzeigenblaetter.de/bergneustadt/c-nachrichten/trainieren-fuer-den-ernstfall_a381887",
+    "published": "Thu, 22 Oct 2026 15:33:18 +0200",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T07:50:17.956291",
+    "feed_kommunen": []
   },
   {
     "id": "db67c446b314",
@@ -24,6 +89,45 @@
     "fetched": "2026-10-22T15:10:39.616865"
   },
   {
+    "id": "b9a637807dd4",
+    "title": "Sicherheitslücke trifft auch das Oberbergische",
+    "summary": "Oberberg – Ursächlich sind Probleme mit der weltweit verbreiteten Programmiersprache PHP – Viele Serviceportale wieder online (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/sicherheitsluecke-trifft-auch-das-oberbergische-a-139438",
+    "published": "Thu, 22 Oct 2026 15:05:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T07:50:16.847371",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7b6f0154f14d",
+    "title": "PHP2Shell – was ist zu tun?",
+    "summary": "Kritische Lücke in PHP – was Website- und Shop-Betreiber jetzt tun müssen.",
+    "link": "http://www.oberberg-aktuell.de/cyber/php-shell--was-ist-zu-tun-a-139440",
+    "published": "Thu, 22 Oct 2026 12:29:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T07:50:16.847947",
+    "feed_kommunen": []
+  },
+  {
+    "id": "52aa26beec57",
+    "title": "Burg Metternich",
+    "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
+    "link": "http://www.oberberg-aktuell.de/foto-des-tages/burg-metternich-a-139143",
+    "published": "Thu, 22 Oct 2026 08:00:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T07:50:16.848680",
+    "feed_kommunen": []
+  },
+  {
     "id": "4a157b573fb0",
     "title": "Wenn Hitze zum Wirtschaftsfaktor wird: Klimatisierung im Unternehmen",
     "summary": "Die richtige Klimatisierung ist entscheidend für das Wohlbefinden der Mitarbeiter in Unternehmen. Entdecken Sie die besten Lösungen. Der Beitrag Wenn Hitze zum Wirtschaftsfaktor wird: Klimatisierung im Unternehmen erschien zuerst auf Oberberg-Nachrichten.de.",
@@ -34,6 +138,32 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-21T20:04:30.843892"
+  },
+  {
+    "id": "2b19da3fd538",
+    "title": "„Abzocke“, sagt ein Bürger - „Geltendes Recht“, sagt der Kreis",
+    "summary": "Oberberg – Anwalt Volker Steffen beschwerte sich monatelang bei Kreis und Straßen.NRW über den Schilderwald entlang der L 339 und den Blitzer in Niederbröl – Nun durfte er im Kreisausschuss vorsprechen.",
+    "link": "http://www.oberberg-aktuell.de/politik/abzocke-sagt-ein-buerger-geltendes-recht-sagt-der-kreis-a-139409",
+    "published": "Wed, 21 Oct 2026 16:55:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T07:50:16.849484",
+    "feed_kommunen": []
+  },
+  {
+    "id": "cffae14dbb28",
+    "title": "Begleitung bis zum letzten Tag und darüber hinaus",
+    "summary": "Oberberg – Rund um den Welthospiztag am 10. Oktober wurden im Oberbergischen die Hospiz-Wochen veranstaltet.",
+    "link": "http://www.oberberg-aktuell.de/soziales/begleitung-bis-zum-letzten-tag-und-dar--ber-hinaus-a-139412",
+    "published": "Wed, 21 Oct 2026 16:45:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T07:50:16.849636",
+    "feed_kommunen": []
   },
   {
     "id": "47afd9a9cd2b",
@@ -48,6 +178,32 @@
     "fetched": "2026-10-21T15:08:13.020036"
   },
   {
+    "id": "71ee6213d594",
+    "title": "TeReS sucht pflegende Angehörige zum Testen der App",
+    "summary": "Oberberg - Neue App für pflegende Angehörige wird unter anderem im Oberbergischen Kreis erprobt – Das System soll auch die Senioren- und Pflegeberatungsstellen entlasten.",
+    "link": "http://www.oberberg-aktuell.de/oberbergischer-kreis/vom-prototyp-in-die-praxis-a-135325",
+    "published": "Wed, 21 Oct 2026 14:00:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T07:50:16.849842",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ab45d9c6c662",
+    "title": "Ideen gegen das Rauchen",
+    "summary": "Jugendliche aus Leverkusen, dem Rheinisch-Bergischen und dem Oberbergischen Kreis entwickelten kreative Beiträge für den Wettbewerb „Be Smart – Don‘t Start“Region (red). Wie lässt sich die Botschaft „Nicht rauchen“ so formulieren, dass sie andere Jugendliche erreicht? 13 Klassen aus Leverkusen, dem Rheinisch-Bergischen Kreis und dem Oberbergischen Kreis haben sich dieser Frage gestellt und Beiträg",
+    "link": "https://www.rheinische-anzeigenblaetter.de/oberberg/c-nachrichten/ideen-gegen-das-rauchen_a381767",
+    "published": "Wed, 21 Oct 2026 07:26:20 +0200",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T07:50:17.958624",
+    "feed_kommunen": []
+  },
+  {
     "id": "d4765f6d577c",
     "title": "Neue Weine: Oberbergs einziger Weinbaubetrieb: Weinlese ist abgeschlossen",
     "summary": "Nach einem feuchten Frühjahr und monatelanger Trockenheit fällt die Mostmenge gering aus – dafür gibt es neue Weine.",
@@ -58,6 +214,58 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-22T22:18:53.932581",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f50d8f17aff5",
+    "title": "„Nachts im Museum“ startet wieder",
+    "summary": "Oberberg. Wenn die Tage kürzer und die Abende dunkler werden, können Familien mit Kindern ab fünf Jahren das Museum Schloss Homburg bei einer besonderen Führung entdecken. Unter dem Titel „Nachts im Museum“ lädt das Museum erneut in den Wintermonaten immer freitags und samstags um 17:00 Uhr zu der beliebten Taschenlampenführung durch das dunkle Schloss und in diesem Jahr zusätzlich durch die große",
+    "link": "https://www.rheinische-anzeigenblaetter.de/nuembrecht/c-nachrichten/nachts-im-museum-startet-wieder_a381728",
+    "published": "Tue, 20 Oct 2026 14:17:17 +0200",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T07:50:17.960786",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7ae593069bca",
+    "title": "Kunst und Natur auf zwei Rädern erleben",
+    "summary": "Region (red). Mit den neuen „Art & Bike“-Routen können Radfahrer im Bergischen Land ab sofort Kunst im öffentlichen Raum und Naturerlebnis miteinander verbinden. Nachdem Ende August die erste Strecke offiziell eröffnet worden war, sind nun auch die drei weiteren Touren fertiggestellt. Damit stehen insgesamt vier thematische Fahrradrouten zur Verfügung, die auf rund 147 Kilometern an 87 Kunstwerken",
+    "link": "https://www.rheinische-anzeigenblaetter.de/engelskirchen/c-nachrichten/kunst-und-natur-auf-zwei-raedern-erleben_a381680",
+    "published": "Tue, 20 Oct 2026 10:24:14 +0200",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T07:50:17.963315",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a51a7b9aa85c",
+    "title": "21 neue Notfallsanitäter",
+    "summary": "Oberberg (red). 21 Auszubildende haben ihre staatliche Prüfung zur Notfallsanitäterin beziehungsweise zum Notfallsanitäter an der AGewiS erfolgreich bestanden. Damit stehen sie nach ihrer dreijährigen Ausbildung als qualifizierte Fachkräfte für die rettungsdienstliche Versorgung bereit. Insgesamt waren 28 Auszubildende zur Prüfung angetreten. Neun der erfolgreichen Absolventinnen und Absolventen w",
+    "link": "https://www.rheinische-anzeigenblaetter.de/gummersbach/c-nachrichten/21-neue-notfallsanitaeter_a381650",
+    "published": "Mon, 19 Oct 2026 14:23:26 +0200",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T07:50:17.965414",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ba589384ec53",
+    "title": "Seit fünf Jahrzehnten an der Seite der Menschen",
+    "summary": "Oberberg. Der SKFM feiert sein 50-jähriges Bestehen. Rund 300 Ehrenamtliche engagieren sich kreisweit für Menschen, die Unterstützung benötigen. Der Sozialdienst katholischer Frauen und Männer (SKFM) im Oberbergischen Kreis hat sein 50-jähriges Bestehen gefeiert. Der Verein ist Mitglied im Diözesan-Caritasverband Köln und fördert unter dem Motto „Da sein, wo sonst niemand ist“ das soziale Ehrenamt",
+    "link": "https://www.rheinische-anzeigenblaetter.de/gummersbach/c-nachrichten/seit-fuenf-jahrzehnten-an-der-seite-der-menschen_a381638",
+    "published": "Mon, 19 Oct 2026 13:47:02 +0200",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T07:50:17.966323",
     "feed_kommunen": []
   },
   {

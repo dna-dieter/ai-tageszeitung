@@ -1,5 +1,18 @@
 [
   {
+    "id": "7c0bcdf38045",
+    "title": "Jugendliche stehlen Energy-Drinks",
+    "summary": "Hückeswagen - Ein Ladendieb wurde gestellt, der andere konnte entkommen - Täterbeschreibung liegt vor.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/jugendliche-stehlen-energy-drinks-a-139442",
+    "published": "Thu, 22 Oct 2026 13:55:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-23T07:50:16.847710",
+    "feed_kommunen": []
+  },
+  {
     "id": "9636b4a3a2bf",
     "title": "Gummersbach: Verkehrsunfall – Mann flüchtet, Diebstähle in Wipperfürth & Hückeswagen",
     "summary": "Verkehrsunfall in Gummersbach, eingeschlagene Autoscheiben in Wipperfürth und Diebstahl von Energy-Drinks in Hückeswagen: drei Polizeimeldungen.",
@@ -41,6 +54,21 @@
     "fetched": "2026-10-22T15:10:55.396244"
   },
   {
+    "id": "4606773a3b30",
+    "title": "Digitale Angebote der Stadt nach Sicherheitswarnung wieder erreichbar",
+    "summary": "Vorsorgliche Abschaltung nach Warnung vor kritischer Sicherheitslücke",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/digitale-angebote-der-stadt-nach-sicherheitswarnung-wieder-erreichbar-900000721-37660.html?rubrik=900000003",
+    "published": "Thu, 22 Oct 2026 09:30:00 +0200",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-23T07:50:24.399286",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
     "id": "11ba7e62507e",
     "title": "Hückeswagen: Eine neue Chefin fürs Johannesstift",
     "summary": "Im Hückeswagener Altenzentrum übernimmt zum 1. Januar 2027 Natalie Roth die Leitung. Die 50-Jährige hat hier schon ihre Ausbildung zur Pflegefachkraft absolviert. Die bisherige Leiterin Andrea ...",
@@ -51,6 +79,21 @@
       "hueckeswagen"
     ],
     "fetched": "2026-10-22T10:03:10.711758",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "99396b5414c7",
+    "title": "Abwasserschwundmenge: Zählerstand jetzt melden",
+    "summary": "Schloss-Stadt Hückeswagen bittet um rechtzeitige Übermittlung – neues Online-Formular macht die Meldung einfacher",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/abwasserschwundmenge-zaehlerstand-jetzt-melden-900000720-37660.html?rubrik=900000002",
+    "published": "Wed, 21 Oct 2026 09:08:00 +0200",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-23T07:50:24.399444",
     "feed_kommunen": [
       "hueckeswagen"
     ]
@@ -211,6 +254,36 @@
     "fetched": "2026-10-19T15:32:10.779111"
   },
   {
+    "id": "3d4276cbe2bf",
+    "title": "Bücherflohmarkt zugunsten der Stadtbibliothek mit breit gefächertem Angebot",
+    "summary": "Vom 29. Oktober bis 10. November 2026 jeweils zu den regulären Öffnungszeiten im Obergeschoss",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/buecherflohmarkt-zugunsten-der-stadtbibliothek-mit-breit-gefaechertem-angebot-900000719-37660.html?rubrik=900000004",
+    "published": "Fri, 16 Oct 2026 08:01:00 +0200",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-23T07:50:24.399580",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "b993c73e8d38",
+    "title": "Leseherbst in Hückeswagen",
+    "summary": "Eine Woche voller Geschichten und Begegnungen",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/leseherbst-in-hueckeswagen-900000718-37660.html?rubrik=900000004",
+    "published": "Fri, 16 Oct 2026 07:52:00 +0200",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-23T07:50:24.399641",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
     "id": "063d86355a15",
     "title": "Stadtmarketing plantMartinsmarkt und „Hüttenzauber“ in Hückeswagen",
     "summary": "Im August schwebte das Damoklesschwert der Auflösung über dem Verein, inzwischen blickt der Vorsitzende optimistisch in die Zukunft.",
@@ -248,6 +321,21 @@
     "fetched": "2026-10-15T07:19:49.598312"
   },
   {
+    "id": "be2a24b9b619",
+    "title": "Fördermittel für Bahnhofs- und Islandstraße",
+    "summary": "2,8 Mio. Euro vom Land NRW für Projekte im ISEK",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/foerdermittel-fuer-bahnhofs-und-islandstrasse-900000717-37660.html?rubrik=900000002",
+    "published": "Wed, 14 Oct 2026 09:37:00 +0200",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-23T07:50:24.399720",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
     "id": "88e445333cca",
     "title": "Anlaufstelle für alle Hilfebedürftigen",
     "summary": "Was als Reaktion auf eine „bunte Szene“ am Wilhelmplatz begann, ist heute fester Bestandteil der Hückeswagener Hilfsangebote. Am Sonntag, 18. Oktober, feiert die Christliche Islandtafel.",
@@ -271,6 +359,21 @@
       "radevormwald"
     ],
     "fetched": "2026-10-13T17:33:16.927488"
+  },
+  {
+    "id": "d2aa9a267805",
+    "title": "Neue Brunnenkammer am Wilhelmsplatz eingebaut",
+    "summary": "Autokran hebt Kammer in die Baugrube",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/neue-brunnenkammer-am-wilhelmsplatz-eingebaut-900000716-37660.html?rubrik=900000002",
+    "published": "Tue, 13 Oct 2026 14:42:00 +0200",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-23T07:50:24.399789",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
   },
   {
     "id": "f2803b798ea9",
@@ -425,6 +528,36 @@
     "fetched": "2026-10-10T08:24:47.158797"
   },
   {
+    "id": "97b45cbb659d",
+    "title": "Schloss-Stadt Hückeswagen sucht Nachwuchs",
+    "summary": "Ausbildungsplatz zum/zur Verwaltungsfachangestellten für 2027:Abwechslungsreiche Aufgaben, attraktive Ausbildungsbedingungen und vielfältige Perspektiven im öffentlichen Dienst",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/schloss-stadt-hueckeswagen-sucht-nachwuchs-900000714-37660.html?rubrik=900000002",
+    "published": "Fri, 09 Oct 2026 09:39:00 +0200",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-23T07:50:24.399942",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "acf23fa3dcac",
+    "title": "Bauarbeiten am Wilhelmsplatz",
+    "summary": "Dauerhafte Sperrung der Rechtsabbiegespur zur Goethestraße ab Montag, den 12. Oktober 2026",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/bauarbeiten-am-wilhelmsplatz-900000713-37660.html?rubrik=900000002",
+    "published": "Fri, 09 Oct 2026 09:17:00 +0200",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-23T07:50:24.400059",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
     "id": "8824ae043d45",
     "title": "Städtische Hilfestellung beim Ankommen in Deutschland",
     "summary": "Seit zwei Jahren hilft Tobias Menger Flüchtlingen in Hückeswagen dabei, wirklich in Deutschland anzukommen und sich in die Stadtgesellschaft zu integrieren. Im Sozialausschuss berichtete er jetzt.",
@@ -435,6 +568,21 @@
       "hueckeswagen"
     ],
     "fetched": "2026-10-09T08:55:37.381277"
+  },
+  {
+    "id": "823138f88dcb",
+    "title": "Fontänenfeld und Trinkwasserspender werden winterfest gemacht",
+    "summary": "Wasserspiele und Trinkwasserspender auf dem Bahnhofsplatz werden bis zum Frühjahr abgeschaltet",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/fontaenenfeld-und-trinkwasserspender-werden-winterfest-gemacht-900000712-37660.html?rubrik=900000001",
+    "published": "Thu, 08 Oct 2026 15:18:00 +0200",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-23T07:50:24.400182",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
   },
   {
     "id": "df2b4e0a5513",
@@ -483,6 +631,22 @@
       "hueckeswagen"
     ],
     "fetched": "2026-10-07T15:30:21.622014"
+  },
+  {
+    "id": "4bb64449a59e",
+    "title": "Schließung der Nebenstellen des Straßenverkehrsamtes",
+    "summary": "Das Straßenverkehrsamt des Oberbergischen Kreises informiert über die Schließung der beiden Nebenstellen Hückeswagen, Alte Ladestraße 1 und Waldbröl, Kaiserstraße 69-77. Oberbergischer Kreis. Die Nebenstellen des Straßenverkehrsamtes in Hückeswagen und Waldbröl […]",
+    "link": "https://www.waldbroel.de/schliessung-der-nebenstellen-des-strassenverkehrsamtes/",
+    "published": "Wed, 07 Oct 2026 11:01:01 +0000",
+    "source": "Stadt Waldbröl (offiziell)",
+    "kommunen": [
+      "hueckeswagen",
+      "waldbroel"
+    ],
+    "fetched": "2026-10-23T07:50:20.893228",
+    "feed_kommunen": [
+      "waldbroel"
+    ]
   },
   {
     "id": "4acd2b9b642d",
@@ -545,6 +709,21 @@
       "radevormwald"
     ],
     "fetched": "2026-10-03T08:00:05.578862"
+  },
+  {
+    "id": "5a6668db39d5",
+    "title": "Wanderführende überreichen Spende an Musikschul-Band",
+    "summary": "Ergebnis der Wanderwoche an \"GenM\" überreicht",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/wanderfuehrende-ueberreichen-spende-an-musikschul-band-900000710-37660.html?rubrik=900000004",
+    "published": "Fri, 02 Oct 2026 12:35:00 +0200",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-23T07:50:24.400264",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
   },
   {
     "id": "8276f66fd520",
@@ -3319,6 +3498,33 @@
       "hueckeswagen"
     ],
     "fetched": "2026-07-01T00:18:26.417436"
+  },
+  {
+    "id": "df301554330e",
+    "title": "STADTRADELN 2026 im Oberbergischen Kreis: 3.607 aktiv Radelnde haben insgesamt 802.659 km zurückgelegt",
+    "summary": "Der Oberbergische Kreis sowie die Städte und Gemeinden Bergneustadt, Engelskirchen, Gummersbach, Hückeswagen, Lindlar, Nümbrecht, Marienheide, Morsbach, Radevormwald, Reichshof, Waldbröl, Wiehl und Wipperfürth haben vom 25.05. bis 14.06.2026 gemeinsam an der Aktion STADTRADELN des Klima-Bündnis Services teilgenommen.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=1977&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=3d09975badbf92eae3309fcbc2febdfc",
+    "published": "Tue, 30 Jun 2026 09:00:28 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht",
+      "lindlar",
+      "marienheide",
+      "engelskirchen",
+      "bergneustadt",
+      "hueckeswagen",
+      "reichshof",
+      "waldbroel",
+      "wiehl",
+      "morsbach",
+      "gummersbach",
+      "radevormwald",
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-23T07:50:25.597572",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
   },
   {
     "id": "4bc42f37521d",
