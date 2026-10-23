@@ -328,7 +328,55 @@ def scrape_rausgegangen_koeln(max_events: int = 40) -> list:
     print(f"  Köln: {len(events)} Veranstaltungen geladen")
     return events
 
+KOELN_RSS = "https://www.stadt-koeln.de/externe-dienste/rss/veranstaltungen.xml"
+MONAT_NR = {m: i for i, m in enumerate(
+    ["januar", "februar", "märz", "april", "mai", "juni", "juli", "august",
+     "september", "oktober", "november", "dezember"], start=1)}
+
+def fetch_stadt_koeln_rss(max_events: int = 40) -> list:
+    """Offizieller Veranstaltungs-RSS der Stadt Köln. Das Datum steht am Anfang
+    der Beschreibung, z. B. "19. Oktober 2026 bis 23. Oktober 2026, 13 bis 18 Uhr"."""
+    import feedparser
+    d = feedparser.parse(KOELN_RSS)
+    heute = datetime.now().date()
+    events = []
+    for e in d.entries:
+        roh = re.sub(r"<[^>]+>", "\n", e.get("summary", ""))
+        zeilen = [z.strip() for z in roh.split("\n") if z.strip()]
+        kopf = zeilen[0] if zeilen else ""
+        daten = re.findall(r"(\d{1,2})\.\s*([A-Za-zäÄ]+)\s+(\d{4})", kopf)
+        termine = []
+        for tag, monat, jahr in daten:
+            nr = MONAT_NR.get(monat.lower())
+            if nr:
+                try:
+                    termine.append(datetime(int(jahr), nr, int(tag)))
+                except ValueError:
+                    pass
+        if not termine:
+            continue
+        start, ende = termine[0], termine[-1]
+        if ende.date() < heute:
+            continue
+        when = max(start, datetime.combine(heute, datetime.min.time()))
+        events.append({
+            "titel": e.get("title", ""),
+            "datum": format_datum(when),
+            "datum_raw": when.isoformat(),
+            "ort": "Köln",
+            "preis": "",
+            "link": e.get("link", ""),
+            "quelle": "Stadt Köln",
+            "teaser": " ".join(zeilen[1:])[:300],
+        })
+    events.sort(key=lambda x: x["datum_raw"])
+    return events[:max_events]
+
 def fetch_koeln() -> list:
+    # Zuerst der offizielle RSS der Stadt Köln (rausgegangen liefert 403).
+    events = fetch_stadt_koeln_rss(max_events=40)
+    if events:
+        return events
     return scrape_rausgegangen_koeln(max_events=40)
 
 def save(slug: str, events: list):
