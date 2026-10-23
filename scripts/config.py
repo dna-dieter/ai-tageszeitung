@@ -78,4 +78,13 @@ KREISE = {
         "kommunen": {},
         "keywords": {},
     },
+    # Rhein-Berg Vereine & Bürgerstimmen: eigener Bereich neben Rhein-Berg, getrennt von den
+    # normalen RBK-Feeds. Keine Gemeinde-Schlagwörter, damit nichts in RBK-Gemeinden einsortiert wird.
+    "rhein-berg-buergerstimmen": {
+        "name": "Rhein-Berg Vereine & Bürgerstimmen",
+        "short": "Bürgerstimmen",
+        "docs_slug": "buergerstimmen",  # docs/buergerstimmen/
+        "kommunen": {},
+        "keywords": {},
+    },
 }

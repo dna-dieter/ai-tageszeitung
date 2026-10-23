@@ -1,0 +1,38 @@
+{
+  "region": "Rhein-Berg Vereine & Bürgerstimmen",
+  "gemeinden": [],
+  "feeds": [
+    {
+      "name": "Forum Wermelskirchen",
+      "url": "https://forumwk.de/feed/",
+      "type": "buergerportal",
+      "coverage": "kreisweite-nachrichten",
+      "verified": true,
+      "note": "Bürgerforum Wermelskirchen, Dhünn, Dabringhausen. Geprüft 23.10. (HTTP 200, 12 Items, neuester 21.10.). Laut rbk_blogger_2026-10-23.md."
+    },
+    {
+      "name": "Leichlingen Magazin",
+      "url": "https://www.leichlingenmagazin.de/feed/",
+      "type": "lokalnachrichten",
+      "coverage": "kreisweite-nachrichten",
+      "verified": true,
+      "note": "Lokalmagazin Leichlingen. Geprüft 23.10. (HTTP 200, 10 Items, neuester 09.10.)."
+    },
+    {
+      "name": "Bergischer Geschichtsverein Rhein-Berg",
+      "url": "https://bgv-rhein-berg.de/feed/",
+      "type": "verein",
+      "coverage": "kreisweite-nachrichten",
+      "verified": true,
+      "note": "Geschichtsverein, kreisweit. Geprüft 23.10. (HTTP 200, 10 Items, neuester 14.10.)."
+    },
+    {
+      "name": "Heimat- und Bürgerverein Overath",
+      "url": "https://www.hbv-overath.de/share/nachrichten.xml",
+      "type": "verein",
+      "coverage": "kreisweite-nachrichten",
+      "verified": true,
+      "note": "Verein Overath, selten aktiv. Geprüft 23.10. (HTTP 200, 25 Items, neuester 29.04.)."
+    }
+  ]
+}
