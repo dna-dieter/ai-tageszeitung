@@ -451,8 +451,10 @@ def header_html(title, subtitle, article_count=None, kreis_slug=None, active_sec
     cls_ob  = ' class="active"' if active_section == "oberberg" else ''
     cls_evt = ' class="active"' if active_section == "veranstaltungen" else ''
     cls_koe = ' class="active"' if active_section == "koeln" else ''
+    cls_bst = ' class="active"' if active_section == "buergerstimmen" else ''
     return f"""<div class="kreis-nav">
   <a href="/ai-tageszeitung/"{cls_rbk}>Rhein-Berg</a>
+  <a href="/ai-tageszeitung/buergerstimmen/"{cls_bst}>Rhein-Berg Vereine &amp; Bürgerstimmen</a>
   <a href="/ai-tageszeitung/oberberg/"{cls_ob}>Oberberg</a>
   <a href="/ai-tageszeitung/koeln/"{cls_koe}>Köln</a>
   <a href="/ai-tageszeitung/veranstaltungen/"{cls_evt}>📅 Veranstaltungen</a>
@@ -518,7 +520,10 @@ def build_kreis_index(kreis_slug, kreis_cfg):
     sidebar_items = kommune_sidebar(kommunen, data_dir, "", kreis_slug)
     # Kreisweite Nachrichten als eigene Kategorie
     kreis_count = count_articles(data_dir, "kreisweite-nachrichten")
-    sidebar_items += f'<li style="border-top:1px solid #eee; padding-top:6px; margin-top:6px;"><a href="kreisweite/index.html"><b>{"Alle Köln-Nachrichten" if kreis_slug == "koeln" else "Kreisweite Nachrichten"}</b> <span class="badge">{kreis_count}</span></a></li>'
+    sidebar_items += f'<li style="border-top:1px solid #eee; padding-top:6px; margin-top:6px;"><a href="kreisweite/index.html"><b>{"Alle Köln-Nachrichten" if kreis_slug == "koeln" else ("Alle Beiträge" if kreis_slug == "rhein-berg-buergerstimmen" else "Kreisweite Nachrichten")}</b> <span class="badge">{kreis_count}</span></a></li>'
+    if kreis_slug == "rheinisch-bergischer-kreis":
+        bst_count = count_articles(BASE / "rhein-berg-buergerstimmen", "kreisweite-nachrichten")
+        sidebar_items += f'<li><a href="buergerstimmen/index.html"><b>Rhein-Berg Vereine &amp; Bürgerstimmen</b> <span class="badge">{bst_count}</span></a></li>'
 
     # Quellen aus feeds.json laden
     feeds_file = data_dir / "feeds.json"
@@ -527,7 +532,7 @@ def build_kreis_index(kreis_slug, kreis_cfg):
         feeds_cfg = json.loads(feeds_file.read_text())
         type_icons = {"polizei": "🚔", "feuerwehr": "🚒", "tageszeitung": "📰",
                       "lokalnachrichten": "🌐", "radio": "📻", "verwaltung": "🏛️",
-                      "buergerportal": "👥"}
+                      "buergerportal": "👥", "verein": "🤝"}
         grenze = datetime.now() - timedelta(days=30)
         aktiv = {
             a.get("source") for a in articles
@@ -547,7 +552,7 @@ def build_kreis_index(kreis_slug, kreis_cfg):
       <ul style="list-style:none; font-size:0.82rem; font-family:sans-serif; color:#555;">{"".join(items)}</ul>
     </div>"""
 
-    active = {"rheinisch-bergischer-kreis": "rbk", "koeln": "koeln"}.get(kreis_slug, "oberberg")
+    active = {"rheinisch-bergischer-kreis": "rbk", "koeln": "koeln", "rhein-berg-buergerstimmen": "buergerstimmen"}.get(kreis_slug, "oberberg")
     page = f"""<!DOCTYPE html>
 <html lang="de">
 <head>
