@@ -401,6 +401,20 @@ def fetch_kreis(kreis_slug: str, kreis_cfg: dict):
             failed += 1
             continue
 
+        # Einträge ohne plausibles Datum (z. B. 01.01.1970) überspringen.
+        all_entries = [
+            e for e in all_entries
+            if not e.get("published_parsed") or e["published_parsed"].tm_year >= 2000
+        ]
+        # Optionales Limit je Abruf (z. B. KStA Köln: nur die neuesten N).
+        max_items = feed_cfg.get("max_items")
+        if max_items:
+            all_entries = sorted(
+                all_entries,
+                key=lambda e: tuple(e.get("published_parsed") or ()),
+                reverse=True,
+            )[:max_items]
+
         for entry in all_entries:
             aid = article_id(entry)
             if aid in all_articles:
