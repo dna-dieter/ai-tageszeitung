@@ -1,5 +1,19 @@
 [
   {
+    "id": "f5271a0ac521",
+    "title": "Alarmanlagen vertreiben Firmeneinbrecher",
+    "summary": "Oberberg – Kriminelle waren in Marienheide und Engelskirchen aktiv.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/alarmanlagen-vertreiben-firmeneinbrecher-a-139490",
+    "published": "Fri, 23 Oct 2026 12:56:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "engelskirchen",
+      "marienheide"
+    ],
+    "fetched": "2026-10-23T16:58:10.761432",
+    "feed_kommunen": []
+  },
+  {
     "id": "e18a897a4eef",
     "title": "Marienheide und Engelskirchen: Alarmanlagen vertreiben Einbrecher – Zeugen gesucht",
     "summary": "Zwei Firmen in Marienheide und Engelskirchen: Einbrecher lösten die Alarmanlage aus und flüchteten ohne Beute. Die Polizei sucht Zeugen.",
@@ -11,6 +25,34 @@
       "engelskirchen"
     ],
     "fetched": "2026-10-23T11:57:53.848214",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d8dead1b14f8",
+    "title": "POL-GM: Alarmanlagen vertreiben Einbrecher",
+    "summary": "Marienheide; Engelskirchen (ots) - Unbekannte haben am Donnerstagabend (22. Oktober) versucht, in zwei Firmen in Marienheide und Engelskirchen einzubrechen. In beiden Fällen lösten die Einbrecher die Alarmanlage aus und flüchteten ohne Beute. In ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6376557",
+    "published": "Fri, 23 Oct 2026 10:30:09 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "engelskirchen",
+      "marienheide"
+    ],
+    "fetched": "2026-10-23T16:58:09.255691",
+    "feed_kommunen": []
+  },
+  {
+    "id": "511fb6bf6099",
+    "title": "Engelskirchen: Gartenspaziergang „Garten im Wandel“ zeigt naturnahe Anpassung an Klimafolgen",
+    "summary": "Gartenspaziergang „Garten im Wandel“ in Engelskirchen-Loope: 15 Teilnehmende erkundeten naturnahe Anpassung an Hitze, Trockenheit und Starkregen.",
+    "link": "https://www.news-on-tour.de/270384/engelskirchen-gartenspaziergang-garten/",
+    "published": "Fri, 23 Oct 2026 07:15:11 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "engelskirchen",
+      "marienheide"
+    ],
+    "fetched": "2026-10-23T11:57:53.848355",
     "feed_kommunen": []
   },
   {

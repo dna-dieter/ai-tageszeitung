@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Herbstferien Intensiv Schwimm-Kurse",
-    "datum": "23. Okt 2026",
-    "datum_raw": "2026-10-23T08:15:00+02:00",
-    "ort": "Badino Freizeitbad, Propsteistraße 25, 51491 Overath",
-    "preis": "",
-    "link": "https://shop.badino-overath.de/de/bookings/block_list/course_id/97/",
-    "quelle": "Das Bergische",
-    "teaser": "Dieser Kurs wird täglich in den Ferien angeboten. Die Ferienkurse sind bewusst als Auftakt einer langfristigen Initiative angelegt. Ziel aller Projektpartner ist es, die Schwimmausbildung in Overath dauerhaft auszubauen,"
-  },
-  {
     "titel": "Ferienaktion: Druckwerkstatt",
     "datum": "23. Okt 2026",
     "datum_raw": "2026-10-23T11:00:00+02:00",
@@ -118,6 +108,16 @@
     "link": "https://weltklassik.de/index.php?page=termine&id=5445",
     "quelle": "Das Bergische",
     "teaser": "Katharina Hack \"Ich spiele für Weltklassik am Klavier, weil Musik machen ein innerstes Bedürfnis ist und weil mich die Menschen, die ich bei den Konzerten treffen darf, inspirieren!\" - Katharina Hack Katharina Hack, von "
+  },
+  {
+    "titel": "Herbstferien Intensiv Schwimm-Kurse",
+    "datum": "26. Okt 2026",
+    "datum_raw": "2026-10-26T08:15:00+02:00",
+    "ort": "Badino Freizeitbad, Propsteistraße 25, 51491 Overath",
+    "preis": "",
+    "link": "https://shop.badino-overath.de/de/bookings/block_list/course_id/97/",
+    "quelle": "Das Bergische",
+    "teaser": "Dieser Kurs wird täglich in den Ferien angeboten. Die Ferienkurse sind bewusst als Auftakt einer langfristigen Initiative angelegt. Ziel aller Projektpartner ist es, die Schwimmausbildung in Overath dauerhaft auszubauen,"
   },
   {
     "titel": "Wandern & Workout",
@@ -260,6 +260,16 @@
     "teaser": "Komm vorbei und bastle mit uns bunte Papierdrachen – ganz ohne Anmeldung! Sobald dein Drache fertig ist, geht es raus aufs Museumsgelände und den Spielplatz, wo wir gemeinsam unsere Drachen in den Himmel steigen lassen. "
   },
   {
+    "titel": "Halloween-Gruselfahrt mit dem Planwagen",
+    "datum": "31. Okt 2026",
+    "datum_raw": "2026-10-31T18:00:00+01:00",
+    "ort": "Bechen Esel, Odenthaler Straße 2b, 51515 Kürten",
+    "preis": "ab 25 €",
+    "link": "https://www.wolles-eventfahrten.de/product/23950821/halloween-gruselfahrt-31-10-2026",
+    "quelle": "Das Bergische",
+    "teaser": "Familienfreundliche Halloween-Gruselfahrt mit dem Planwagen durchs Bergische am 31.10.2026, 18:00–20:00 Uhr. Start: Bechen „Am Esel“. Snacks und Getränke inklusive. Kinder bis einschließlich 12 Jahre: 12 €; Erwachsene un"
+  },
+  {
     "titel": "Bergische Genusstage - Café & Restaurant Rausmühle",
     "datum": "31. Okt 2026",
     "datum_raw": "2026-10-31T18:30:00+01:00",
@@ -388,15 +398,5 @@
     "link": "https://korkundkante.de/products/alkoholfreier-weinabend",
     "quelle": "Das Bergische",
     "teaser": "Das alkoholfreie Weintasting findet am 7. November ab 18:00 Uhr in Bechen statt. Für 40 € pro Person probieren wir uns gemeinsam durch die spannende Welt der alkoholfreien Getränke. Los geht es mit einem Aperitif, beispi"
-  },
-  {
-    "titel": "Gerd Köster und Weggefährten",
-    "datum": "7. Nov 2026",
-    "datum_raw": "2026-11-07T20:00:00+01:00",
-    "ort": "Bürgerhaus Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach",
-    "preis": "ab 32 €",
-    "link": "http://www.bergischerloewe.de/programmdetails.aspx?vid=84e229ce-a83f-4d81-8941-a0128b00a7c6&datum=07.11.2026",
-    "quelle": "Das Bergische",
-    "teaser": "Ihre Lebenserfahrung, Neugier und Spielfreude hat nicht mal Platz in einem ganzen Schrank. Nie oder lange nicht mehr Gehörtes mischt sich mit Bewährtem und Neuem. Die langjährigen Weggefährten sind: der fantastische Frie"
   }
 ]

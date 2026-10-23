@@ -1,5 +1,96 @@
 [
   {
+    "id": "02c97fe53260",
+    "title": "Baustellen in den Stadtteilen",
+    "summary": "23. Oktober 2026, 13:56",
+    "link": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/baustellen-den-stadtteilen-1",
+    "published": "Fri, 23 Oct 2026 12:56:00 +0100",
+    "source": "Stadt Köln Pressemeldungen",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T16:58:50.011025",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4cb203c23a94",
+    "title": "Ausstellung im Stadtgartenviertel: Die Stiftung „Werkkunst“ zeigt Kunst von Manfred Weil",
+    "summary": "Erben Kölner Werkschul-Künstler gründeten vor drei Jahren eine Stiftung. Jetzt zeigt diese im Stadtwaldviertel Werke von Manfred Weil.",
+    "link": "https://www.ksta.de/koeln/koelner-innenstadt/koeln-innenstadt-stiftung-werkkunst-zeigt-werke-von-manfred-weil-1399379",
+    "published": "Fri, 23 Oct 2026 13:29:11 +0200",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T16:58:50.332350",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5d25535f4060",
+    "title": "Stille Feiertage im November 2026",
+    "summary": "23. Oktober 2026, 13:15Stadt Köln informiert über Regeln des NRW-Feiertagsgesetzes",
+    "link": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/stille-feiertage-im-november-2026",
+    "published": "Fri, 23 Oct 2026 12:15:00 +0100",
+    "source": "Stadt Köln Pressemeldungen",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T16:58:50.011051",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9513c0f81b7f",
+    "title": "Amtliche Wetterwarnung: Sturmböen drohen – Stadt Köln warnt vor umstürzenden Bäumen",
+    "summary": "Aufgrund einer amtlichen Wetterwarnung des Deutschen Wetterdienstes empfiehlt die Stadt Parkanlangen und Waldgebiete zu meiden.",
+    "link": "https://www.ksta.de/koeln/amtliche-warnung-vor-sturmboeen-stadt-koeln-warnt-vor-umstuerzenden-baeumen-1401699",
+    "published": "Fri, 23 Oct 2026 12:49:56 +0200",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T16:58:50.332377",
+    "feed_kommunen": []
+  },
+  {
+    "id": "12994c12c3c7",
+    "title": "Neuer Service für Hundebesitzer: Kölnerin entwickelt App für Vierbeiner und ihre Halter",
+    "summary": "Nett4Dogs ist eine App für Hundebesitzer, mit der diese passende Spielkameraden für ihr Tier Freunde finden können.",
+    "link": "https://www.ksta.de/koeln/koelner-innenstadt/tinder-fuer-hunde-koelnerin-entwickelt-dating-app-fuer-vierbeiner-1399348",
+    "published": "Fri, 23 Oct 2026 12:42:40 +0200",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T16:58:50.332396",
+    "feed_kommunen": []
+  },
+  {
+    "id": "dbc992111ad4",
+    "title": "Vor FC-Spiel in Köln: Polizei ermittelt erste Tatverdächtige nach Krawallen",
+    "summary": "Die Zahl der Verletzten erhöht sich auf zwölf. Beim Risikospiel gegen Schalke am Samstag setzt der FC mehr Sicherheitskräfte ein.",
+    "link": "https://www.ksta.de/koeln/koeln-erste-verdaechtige-nach-krawall-beim-moenchengladbach-spiel-1401240",
+    "published": "Fri, 23 Oct 2026 12:18:51 +0200",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T16:58:50.332413",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ad4d4ab4a22c",
+    "title": "Es wird stürmisch in Köln",
+    "summary": "23. Oktober 2026, 12:08Stadt empfiehlt, Waldgebiete, Parkanlagen, Friedhöfe und Alleen zu meiden",
+    "link": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/es-wird-stuermisch-koeln",
+    "published": "Fri, 23 Oct 2026 11:08:00 +0100",
+    "source": "Stadt Köln Pressemeldungen",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T16:58:50.011067",
+    "feed_kommunen": []
+  },
+  {
     "id": "eb22bd048524",
     "title": "Podcast: True Crime vs. True Criminology: Was wir über Verbrechen falsch denken",
     "summary": "In der neuen Podcast-Folge „Hoffnungslose Optimisten“ sprechen Basti Campmann und Sarah Brasack mit zwei Kölner Kriminologinnen.",

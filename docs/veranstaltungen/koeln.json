@@ -50,16 +50,6 @@
     "teaser": "Das VR-Team auf Erlebnis-Tour. Heute im Interim Zentralbibliothek."
   },
   {
-    "titel": "Nippes spielt!",
-    "datum": "23. Okt 2026",
-    "datum_raw": "2026-10-23T00:00:00",
-    "ort": "Köln",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/nippes-spielt-27",
-    "quelle": "Stadt Köln",
-    "teaser": "Der Brettspielnachmittag für Spielbegeisterte in der Stadtteilbibliothek Nippes."
-  },
-  {
     "titel": "Bücherplausch",
     "datum": "23. Okt 2026",
     "datum_raw": "2026-10-23T00:00:00",
@@ -78,6 +68,16 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mach-mint-9",
     "quelle": "Stadt Köln",
     "teaser": "Spannende Experimente für coole Kids in der Stadtteilbibliothek Ehrenfeld."
+  },
+  {
+    "titel": "Abgesagt – Nippes spielt!",
+    "datum": "23. Okt 2026",
+    "datum_raw": "2026-10-23T00:00:00",
+    "ort": "Köln",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/nippes-spielt-27",
+    "quelle": "Stadt Köln",
+    "teaser": "Diese Veranstaltung ist abgesagt."
   },
   {
     "titel": "Vorlesezeit",

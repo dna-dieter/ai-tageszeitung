@@ -1,5 +1,18 @@
 [
   {
+    "id": "d6b19d276825",
+    "title": "Krippen für Schaufenster gesucht",
+    "summary": "Waldbröl (red). Ein Schaufensterbummel mit unterschiedlichen Weihnachtskrippen soll in diesem Jahr erstmals der Waldbröler Krippenweg ermöglichen. Dafür werden noch besondere oder ausgefallene Krippen gesucht, die während der Adventszeit als Leihgaben ausgestellt werden können. Der Krippenweg startet am ersten Adventswochenende mit dem Waldbröler Weihnachtsmarkt. Bei dessen Eröffnung am 27. Novemb",
+    "link": "https://www.rheinische-anzeigenblaetter.de/waldbroel/c-nachrichten/krippen-fuer-schaufenster-gesucht_a381896",
+    "published": "Fri, 23 Oct 2026 11:58:18 +0200",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-10-23T16:58:12.103593",
+    "feed_kommunen": []
+  },
+  {
     "id": "58af557218b2",
     "title": "Waldbröler Krippenweg – Weihnachtskrippen gesucht!",
     "summary": "Ein gemütlicher Schaufensterbummel in der Adventszeit, bei dem man unterschiedliche Weihnachtskrippen bestaunen kann … Das soll der Waldbröler Krippenweg bieten, den wir in diesem Jahr erstmals in Waldbröl etablieren wollen. […]",
@@ -15,16 +28,16 @@
     ]
   },
   {
-    "id": "f9034edb3692",
-    "title": "Waldbröl: Autoscheiben eingeschlagen – Zulassung und Wertsachen gestohlen",
-    "summary": "In Waldbröl wurden in einer Nacht zwei geparkte Autos aufgebrochen. Die Täter stahlen Zulassung, Sonnenbrille, Parfüm und Bargeld.",
+    "id": "5bc44c50ae7a",
+    "title": "Waldbröl: Autoscheiben eingeschlagen – Zulassungsbescheinigung und Wertsachen gestohlen",
+    "summary": "In Waldbröl haben Unbekannte zwischen Mittwochabend und Donnerstag (21./22. Oktober) zwei geparkte Autos aufgebrochen. Sie stahlen eine Zulassungsbescheinigung, eine Sonnenbrille, Parfüm und Bargeld.",
     "link": "https://www.news-on-tour.de/270414/waldbroel-autoscheiben-eingeschlagen/",
     "published": "Fri, 23 Oct 2026 09:29:53 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "waldbroel"
     ],
-    "fetched": "2026-10-23T11:57:53.848103",
+    "fetched": "2026-10-23T16:58:02.364021",
     "feed_kommunen": []
   },
   {
@@ -38,6 +51,19 @@
       "waldbroel"
     ],
     "fetched": "2026-10-23T11:58:03.163917",
+    "feed_kommunen": []
+  },
+  {
+    "id": "161a1fc44065",
+    "title": "POL-GM: Autoscheiben eingeschlagen - Zulassungsbescheinigung und Wertsachen gestohlen",
+    "summary": "Waldbröl (ots) - In der Nacht von Mittwoch auf Donnerstag (21./22. Oktober) haben Unbekannte in Waldbröl die Scheiben zweier geparkter Autos beschädigt und Gegenstände aus den Fahrzeugen gestohlen. Im Hermann-Löns-Weg versuchten die Unbekannten ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6376555",
+    "published": "Fri, 23 Oct 2026 10:30:02 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-10-23T16:58:09.255973",
     "feed_kommunen": []
   },
   {
@@ -96,16 +122,17 @@
     "fetched": "2026-10-21T20:04:39.471325"
   },
   {
-    "id": "7e2bf9c1e03f",
-    "title": "Waldbröl plant neues Ärztezentrum: Mediziner am Posthof gesucht",
-    "summary": "Am Posthof in Waldbröl soll ein neues Ärztezentrum entstehen. Die Initiatoren laden Mediziner und Therapeuten zum Infotreffen ein.",
+    "id": "f3389210e11a",
+    "title": "Waldbröl: Ärztehaus am Posthof wird geprüft – Mediziner und Therapeuten gesucht",
+    "summary": "Am Posthof in Waldbröl wird ein neues Ärztehaus geprüft. Die Initiatoren laden Ärzte, Therapeuten und Gesundheitspartner am 4. November zum Infotreffen ein.",
     "link": "https://www.news-on-tour.de/267436/waldbroel-aerztezentrum-posthof/",
     "published": "Wed, 21 Oct 2026 15:30:23 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "waldbroel"
     ],
-    "fetched": "2026-10-21T20:04:39.471345"
+    "fetched": "2026-10-23T16:58:02.371042",
+    "feed_kommunen": []
   },
   {
     "id": "c7496a69fd92",

@@ -1,5 +1,18 @@
 [
   {
+    "id": "c18c21f12c08",
+    "title": "Bevorstehende Autobahnsperrungen: Infos zu den Umleitungen",
+    "summary": "Oberberg - Die Schrankenanlage auf der A4 kommt - Baustart schon am Montag - Anlage soll die Wiehltalbrücke weiter entlasten - Stadt Wiehl informiert ausführlich über die Umleitungsstrecken (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/schrankenanlage-auf-a---baustart-mit-sperrungen-schon-am-montag-a-139441",
+    "published": "Fri, 23 Oct 2026 15:22:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-23T16:58:10.760976",
+    "feed_kommunen": []
+  },
+  {
     "id": "7f6dc3cf42ac",
     "title": "LKW werden abgeleitet: Brücke in Wiehl bekommt Schranke",
     "summary": "Ab Dezember werden alle LKW mit über 44 Tonnen vor der Wiehltalquerung zwangsweise von der Autobahn abgeleitet.",
@@ -13,9 +26,9 @@
     "feed_kommunen": []
   },
   {
-    "id": "24b204af0044",
-    "title": "Wiehl: Schrankenanlage schützt Wiehltalbrücke – Massive A4-Sperrungen ab Montag",
-    "summary": "Die Wiehltalbrücke (A4) erhält eine Schrankenanlage gegen zu schwere Lkw. Autofahrer in Wiehl müssen mit massiven Vollsperrungen rechnen.",
+    "id": "d2ad27e95fbc",
+    "title": "Wiehl: Schrankenanlage für die Wiehltalbrücke – A4-Sperrungen ab Montag",
+    "summary": "Die Wiehltalbrücke (A4) erhält eine Schrankenanlage gegen Lkw über 44 Tonnen. Für den Bau sind von Montag, 26. Oktober, bis Montag, 30. November, Anschlussstellen und Abschnitte der A4 gesperrt.",
     "link": "https://www.news-on-tour.de/269314/wiehl-schrankenanlage-wiehltalbruecke/",
     "published": "Thu, 22 Oct 2026 12:08:24 +0000",
     "source": "NEWS-on-Tour Oberberg",
@@ -23,19 +36,7 @@
       "wiehl",
       "gummersbach"
     ],
-    "fetched": "2026-10-22T15:10:39.616896"
-  },
-  {
-    "id": "7fe48796e769",
-    "title": "Schrankenanlage auf A4: Baustart mit Sperrungen schon am Montag",
-    "summary": "Oberberg - Anlage soll die Wiehltalbrücke weiter entlasten - Bisherige Maßnahmen reichen nicht aus.",
-    "link": "http://www.oberberg-aktuell.de/lokalmix/schrankenanlage-auf-a---baustart-mit-sperrungen-schon-am-montag-a-139441",
-    "published": "Thu, 22 Oct 2026 13:22:00 +0200",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-10-23T07:50:16.847844",
+    "fetched": "2026-10-23T16:58:02.368006",
     "feed_kommunen": []
   },
   {

@@ -26,9 +26,9 @@
     "feed_kommunen": []
   },
   {
-    "id": "24b204af0044",
-    "title": "Wiehl: Schrankenanlage schützt Wiehltalbrücke – Massive A4-Sperrungen ab Montag",
-    "summary": "Die Wiehltalbrücke (A4) erhält eine Schrankenanlage gegen zu schwere Lkw. Autofahrer in Wiehl müssen mit massiven Vollsperrungen rechnen.",
+    "id": "d2ad27e95fbc",
+    "title": "Wiehl: Schrankenanlage für die Wiehltalbrücke – A4-Sperrungen ab Montag",
+    "summary": "Die Wiehltalbrücke (A4) erhält eine Schrankenanlage gegen Lkw über 44 Tonnen. Für den Bau sind von Montag, 26. Oktober, bis Montag, 30. November, Anschlussstellen und Abschnitte der A4 gesperrt.",
     "link": "https://www.news-on-tour.de/269314/wiehl-schrankenanlage-wiehltalbruecke/",
     "published": "Thu, 22 Oct 2026 12:08:24 +0000",
     "source": "NEWS-on-Tour Oberberg",
@@ -36,7 +36,8 @@
       "wiehl",
       "gummersbach"
     ],
-    "fetched": "2026-10-22T15:10:39.616896"
+    "fetched": "2026-10-23T16:58:02.368006",
+    "feed_kommunen": []
   },
   {
     "id": "83784af6ff96",

@@ -1,5 +1,47 @@
 [
   {
+    "id": "d9fb2d2e74d2",
+    "title": "Nachwuchs glänzt beim Herbstkonzert",
+    "summary": "Engelskirchen. Unter dem Motto „Abenteuer“ veranstaltete der Musikverein Loope am 10. Oktober sein diesjähriges Herbstkonzert. Mit Werken wie „Ivanhoe“ und der „Star Wars“-Filmmusik nahmen die Musiker das Publikum mit in die Welt großer Geschichten. Melodien wie „The Pink Panther“ und „Baby Elephant Walk“ von Henry Mancini sowie „Take On Me“ und „Dick und Doof“ ergänzten das abwechslungsreiche Pro",
+    "link": "https://www.rheinische-anzeigenblaetter.de/engelskirchen/c-nachrichten/nachwuchs-glaenzt-beim-herbstkonzert_a381920",
+    "published": "Fri, 23 Oct 2026 16:16:27 +0200",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T16:58:12.102860",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f5271a0ac521",
+    "title": "Alarmanlagen vertreiben Firmeneinbrecher",
+    "summary": "Oberberg – Kriminelle waren in Marienheide und Engelskirchen aktiv.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/alarmanlagen-vertreiben-firmeneinbrecher-a-139490",
+    "published": "Fri, 23 Oct 2026 12:56:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "engelskirchen",
+      "marienheide"
+    ],
+    "fetched": "2026-10-23T16:58:10.761432",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e9e0ff2d73f7",
+    "title": "Musik, die Kinder in Bewegung bringt!",
+    "summary": "Ein fröhliches Mitmach- und Bewegungskonzert mit Faryna",
+    "link": "https://www.engelskirchen.de/portal/meldungen/musik-die-kinder-in-bewegung-bringt--900002518-23501.html?rubrik=900000002",
+    "published": "Fri, 23 Oct 2026 12:23:00 +0200",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T16:58:13.173524",
+    "feed_kommunen": [
+      "engelskirchen"
+    ]
+  },
+  {
     "id": "e18a897a4eef",
     "title": "Marienheide und Engelskirchen: Alarmanlagen vertreiben Einbrecher – Zeugen gesucht",
     "summary": "Zwei Firmen in Marienheide und Engelskirchen: Einbrecher lösten die Alarmanlage aus und flüchteten ohne Beute. Die Polizei sucht Zeugen.",
@@ -14,6 +56,20 @@
     "feed_kommunen": []
   },
   {
+    "id": "d8dead1b14f8",
+    "title": "POL-GM: Alarmanlagen vertreiben Einbrecher",
+    "summary": "Marienheide; Engelskirchen (ots) - Unbekannte haben am Donnerstagabend (22. Oktober) versucht, in zwei Firmen in Marienheide und Engelskirchen einzubrechen. In beiden Fällen lösten die Einbrecher die Alarmanlage aus und flüchteten ohne Beute. In ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6376557",
+    "published": "Fri, 23 Oct 2026 10:30:09 +0200",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "engelskirchen",
+      "marienheide"
+    ],
+    "fetched": "2026-10-23T16:58:09.255691",
+    "feed_kommunen": []
+  },
+  {
     "id": "511fb6bf6099",
     "title": "Engelskirchen: Gartenspaziergang „Garten im Wandel“ zeigt naturnahe Anpassung an Klimafolgen",
     "summary": "Gartenspaziergang „Garten im Wandel“ in Engelskirchen-Loope: 15 Teilnehmende erkundeten naturnahe Anpassung an Hitze, Trockenheit und Starkregen.",
@@ -21,15 +77,16 @@
     "published": "Fri, 23 Oct 2026 07:15:11 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "engelskirchen"
+      "engelskirchen",
+      "marienheide"
     ],
     "fetched": "2026-10-23T11:57:53.848355",
     "feed_kommunen": []
   },
   {
-    "id": "2c8e2f111103",
-    "title": "Engelskirchen: Circular Week 2026 mit BAV und Weihnachtstauschrausch in Lindlar",
-    "summary": "Vom 26. bis 31. Oktober: Circular Week mit Online-Konferenz, Repair-Cafés und Weihnachtstauschrausch am 7. November auf :metabolon in Lindlar.",
+    "id": "d87ee0be1432",
+    "title": "Lindlar: BAV beteiligt sich an Circular Week – Weihnachtstauschrausch am 7. November",
+    "summary": "Circular Week vom 26. bis 31. Oktober: BAV und :metabolon in Lindlar mit Online-Konferenz, Exkursion und Ferienprogramm. Am Samstag, 7. November, folgt der erste Weihnachtstauschrausch.",
     "link": "https://www.news-on-tour.de/270382/engelskirchen-circular-week/",
     "published": "Fri, 23 Oct 2026 07:10:48 +0000",
     "source": "NEWS-on-Tour Oberberg",
@@ -37,7 +94,7 @@
       "lindlar",
       "engelskirchen"
     ],
-    "fetched": "2026-10-23T11:57:53.848465",
+    "fetched": "2026-10-23T16:58:02.365265",
     "feed_kommunen": []
   },
   {
