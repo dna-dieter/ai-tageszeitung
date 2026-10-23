@@ -1,5 +1,46 @@
 [
   {
+    "id": "322d7b6306d5",
+    "title": "Marienheide: Seniorenfeier 2026 mit Ehrung der Ältesten",
+    "summary": "Bei der Seniorenfeier in Marienheide wurden Erna Köppen (101) und Alfred Dittrich (94) als älteste Gäste geehrt.",
+    "link": "https://www.news-on-tour.de/270374/marienheide-seniorenfeier-aeltesten/",
+    "published": "Fri, 23 Oct 2026 06:10:03 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-10-23T08:12:18.370453",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f125d0e72cbf",
+    "title": "Engelskirchen: FIFTY WAYS spielen mit neuer Besetzung für ENGELSART",
+    "summary": "Die Funk-, Soul- und Jazzband FIFTY WAYS hat neue Musiker: Daniel Galati am Schlagzeug, Henning Wolter am Piano. Konzert am 28. November 2026.",
+    "link": "https://www.news-on-tour.de/270372/engelskirchen-fifty-ways-neue-besetzung/",
+    "published": "Fri, 23 Oct 2026 06:08:29 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-23T08:12:18.370632",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8fbd7f6b4c5a",
+    "title": "Hückeswagen: 64 Spender investieren in die Rehkitz-Rettung",
+    "summary": "Mithilfe von Drohnen retten die Hückeswagener Jäger jedes Frühjahr mehr als 30 Rehkitze vor dem Tod durch Mähmaschinen. Ab nächstem Jahr kommt ein neues, hochmodernes Fluggerät zum Einsatz, für das der Hegering mit einer besonderen Aktion Geld gesammelt hat. Warum das alte nicht mehr ausreichte.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/radevormwald-64-spender-investieren-in-die-rehkitz-rettung-NXIOMHB7CKDPAZT3IVNROZBCMY.html",
+    "published": "Fri, 23 Oct 2026 08:00:05 +0200",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-23T08:12:19.064929",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
     "id": "01dd52b917bd",
     "title": "Diesig",
     "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
@@ -11,6 +52,21 @@
     ],
     "fetched": "2026-10-23T08:02:39.442282",
     "feed_kommunen": []
+  },
+  {
+    "id": "e2088f0eb457",
+    "title": "Stand des Stadtbaumkonzepts in Radevormwald: Neue Bäume können für Konflikte sorgen",
+    "summary": "Die Innenstadt von Radevormwald soll mehr Bäume bekommen, nicht zuletzt wegen der Vorteile für das städtische Klima. Im Umweltausschuss erläuterte eine Landschaftsarchitektin den Stand des Stadtbaumkonzeptes.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/stand-des-stadtbaumkonzepts-in-radevormwald-neue-baeume-koennen-fuer-konflikte-sorgen-D7Y6VH2O5PYDFHESIECXH4MGTE.html",
+    "published": "Fri, 23 Oct 2026 08:00:00 +0200",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-10-23T08:12:20.295921",
+    "feed_kommunen": [
+      "radevormwald"
+    ]
   },
   {
     "id": "4c895cea4ab1",
@@ -4543,6 +4599,21 @@
       "radevormwald"
     ],
     "fetched": "2026-10-06T07:29:33.505537"
+  },
+  {
+    "id": "d25c3ef9b229",
+    "title": "Bäume, Hecken und Sträucher: Ab dem 1. Oktober ist wieder Schnittzeit – bitte halten Sie unsere Wege frei",
+    "summary": "Zahlreiche städtische Wege wachsen immer wieder durch benachbarten Bewuchs auf privaten Flächen zu. Die Marktstadt Waldbröl bittet daher alle Eigentümerinnen und Eigentümer sowie Anliegerinnen und Anlieger, die kommenden Wochen für […]",
+    "link": "https://www.waldbroel.de/baeume-hecken-und-straeucher-ab-dem-1-oktober-ist-wieder-schnittzeit-bitte-halten-sie-unsere-wege-frei/",
+    "published": "Tue, 06 Oct 2026 05:07:05 +0000",
+    "source": "Stadt Waldbröl (offiziell)",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-10-23T08:12:38.776175",
+    "feed_kommunen": [
+      "waldbroel"
+    ]
   },
   {
     "id": "9073b7c1a9fe",
