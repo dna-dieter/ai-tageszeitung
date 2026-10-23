@@ -37,6 +37,24 @@ BERG_API = "https://meta.et4.de/rest.ashx/search/"
 BERG_EXPERIENCE = "dasbergische-web"
 BERG_LICENSE = os.environ.get("BERG_LICENSE", "").strip()
 BERG_HORIZON_DAYS = 120
+# Vorschau: mindestens VORSCHAU_MIN Termine UND mindestens alle Termine bis
+# zum Ende des Folgemonats; es gilt, was mehr zeigt (Vorgabe Dieter, 23.10.2026).
+VORSCHAU_MIN = 40
+
+
+def ende_folgemonat(heute) -> str:
+    """ISO-Datum (YYYY-MM-DD) des letzten Tags im Monat nach `heute`."""
+    jahr, monat = (heute.year + 1, 1) if heute.month == 12 else (heute.year, heute.month + 1)
+    naechster = datetime(jahr + 1, 1, 1) if monat == 12 else datetime(jahr, monat + 1, 1)
+    return (naechster - timedelta(days=1)).date().isoformat()
+
+
+def vorschau(events: list, heute=None) -> list:
+    """Sortierte Termine: max(VORSCHAU_MIN, alle bis Ende Folgemonat)."""
+    heute = heute or datetime.now().date()
+    grenze = ende_folgemonat(heute)
+    bis_grenze = sum(1 for e in events if e.get("datum_raw", "")[:10] <= grenze)
+    return events[:max(VORSCHAU_MIN, bis_grenze)]
 
 RBK_CITIES = [
     "Bergisch Gladbach", "Burscheid", "Kürten", "Leichlingen",
@@ -179,7 +197,7 @@ def berg_item_to_event(item: dict, when: datetime) -> dict:
         "teaser": _plain(item),
     }
 
-def fetch_bergische(cities: list, limit: int = 40) -> list:
+def fetch_bergische(cities: list) -> list:
     """Kommende Termine aus dem Kalender von dasbergische.de."""
     quoted = " OR ".join(f'"{city}"' for city in cities)
     query = f"(type:(Event) AND city_exact:({quoted}))"
@@ -194,7 +212,7 @@ def fetch_bergische(cities: list, limit: int = 40) -> list:
         "licensekey": BERG_LICENSE,
         "template": "ET2014A.json",
         "mkt": "de",
-        "limit": "80",
+        "limit": "500",
         "sort": "start asc",
         "startdate": stamp(now, "00:00:00"),
         "enddate": stamp(horizon, "23:59:00"),
@@ -221,7 +239,7 @@ def fetch_bergische(cities: list, limit: int = 40) -> list:
         events.append(berg_item_to_event(item, when))
     events.sort(key=lambda event: event.get("datum_raw", ""))
     print(f"  Kalender: {len(events)} Termine (API {data.get('overallcount', '?')} Treffer)")
-    return events[:limit]
+    return vorschau(events)
 
 RAUSGEGANGEN_UA = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -370,7 +388,7 @@ def fetch_stadt_koeln_rss(max_events: int = 40) -> list:
             "teaser": " ".join(zeilen[1:])[:300],
         })
     events.sort(key=lambda x: x["datum_raw"])
-    return events[:max_events]
+    return vorschau(events)
 
 def fetch_koeln() -> list:
     # Zuerst der offizielle RSS der Stadt Köln (rausgegangen liefert 403).

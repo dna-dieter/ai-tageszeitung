@@ -864,9 +864,13 @@ def build_veranstaltungen_page():
                 '<div class="hinweis">Für <b>' + htmlmod.escape(region_name) + '</b> sind aktuell keine '
                 'Veranstaltungshinweise verfügbar. Nutze die Portale unten.</div>'
             )
+        letzter = htmlmod.escape(events[-1].get("datum", ""))
+        hinweis = str(len(events)) + ' kommende Termine bis ' + letzter
+        if len(events) < 40:
+            hinweis += ' (die Quelle liefert derzeit nicht mehr Termine)'
         parts = ['<div class="hinweis" style="background:#EAFAF1; border-color:#27AE60;">📅 '
-                 + str(len(events)) + ' kommende Termine</div>']
-        for e in events[:40]:
+                 + hinweis + '</div>']
+        for e in events:
             datum  = htmlmod.escape(e.get("datum", ""))
             titel  = htmlmod.escape(e.get("titel", e.get("title", "Veranstaltung")))
             ort    = htmlmod.escape(e.get("ort", ""))
