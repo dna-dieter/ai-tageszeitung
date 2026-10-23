@@ -69,4 +69,13 @@ KREISE = {
             "wipperfuerth": ["wipperfürth", "wipperfuerth"],
         },
     },
+    # Köln: eigener Bereich, eigene Datenablage. Keine Gemeinde-Schlagwörter,
+    # damit nichts in RBK/OBK einsortiert wird (jeder Bereich wird getrennt verarbeitet).
+    "koeln": {
+        "name": "Köln",
+        "short": "Köln",
+        "docs_slug": "koeln",  # docs/koeln/
+        "kommunen": {},
+        "keywords": {},
+    },
 }

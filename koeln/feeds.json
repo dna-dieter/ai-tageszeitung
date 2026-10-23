@@ -1,0 +1,25 @@
+{
+  "region": "Köln",
+  "gemeinden": [
+    "Köln"
+  ],
+  "feeds": [
+    {
+      "name": "Stadt Köln Pressemeldungen",
+      "url": "https://www.stadt-koeln.de/externe-dienste/rss/pressemeldungen.xml",
+      "type": "verwaltung",
+      "coverage": "kreisweite-nachrichten",
+      "verified": true,
+      "note": "Offizielle Pressemeldungen der Stadt Köln. Neu 2026-10-23 laut feed_analyse_2026-10-23_v2.md, geprüft 23.10. (HTTP 200, 15 Items)."
+    },
+    {
+      "name": "Kölner Stadt-Anzeiger Köln",
+      "url": "https://feed.ksta.de/feed/rss/koeln/index.rss",
+      "type": "tageszeitung",
+      "coverage": "kreisweite-nachrichten",
+      "max_items": 30,
+      "verified": true,
+      "note": "Hohes Volumen (ca. 26/Tag, 314 Items), daher je Abruf nur die 30 neuesten. Neu 2026-10-23 laut feed_analyse_2026-10-23_v2.md, geprüft 23.10. (HTTP 200)."
+    }
+  ]
+}
