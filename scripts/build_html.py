@@ -520,6 +520,7 @@ def weiterfuehrende_links_html(kreis_slug):
     return f"""<div class="sidebar-box">
       <h3>Weiterführende Links – lokale Gruppen &amp; Kanäle</h3>
       <ul class="k-links">{items}</ul>
+      <p style="font-family:sans-serif; font-size:0.78rem; color:#666; margin-top:8px; line-height:1.4;">Datenschutz: Das sind reine externe Links. Es gibt keine eingebetteten Inhalte, keine Like- oder Teilen-Knöpfe und kein Tracking. Erst beim Anklicken wird die Seite des Drittanbieters (Meta mit Facebook bzw. WhatsApp) geöffnet. Ab dann gelten dessen Datenschutzbestimmungen, auch wenn man dort nicht angemeldet ist. Mehr in den <a href="/ai-tageszeitung/rechtliches/">Rechtlichen Hinweisen</a>.</p>
     </div>"""
 
 def build_kreis_index(kreis_slug, kreis_cfg):
