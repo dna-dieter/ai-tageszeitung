@@ -450,9 +450,11 @@ def header_html(title, subtitle, article_count=None, kreis_slug=None, active_sec
     cls_rbk = ' class="active"' if active_section == "rbk" else ''
     cls_ob  = ' class="active"' if active_section == "oberberg" else ''
     cls_evt = ' class="active"' if active_section == "veranstaltungen" else ''
+    cls_koe = ' class="active"' if active_section == "koeln" else ''
     return f"""<div class="kreis-nav">
   <a href="/ai-tageszeitung/"{cls_rbk}>Rhein-Berg</a>
   <a href="/ai-tageszeitung/oberberg/"{cls_ob}>Oberberg</a>
+  <a href="/ai-tageszeitung/koeln/"{cls_koe}>Köln</a>
   <a href="/ai-tageszeitung/veranstaltungen/"{cls_evt}>📅 Veranstaltungen</a>
 </div>
 <header>
@@ -516,7 +518,7 @@ def build_kreis_index(kreis_slug, kreis_cfg):
     sidebar_items = kommune_sidebar(kommunen, data_dir, "", kreis_slug)
     # Kreisweite Nachrichten als eigene Kategorie
     kreis_count = count_articles(data_dir, "kreisweite-nachrichten")
-    sidebar_items += f'<li style="border-top:1px solid #eee; padding-top:6px; margin-top:6px;"><a href="kreisweite/index.html"><b>Kreisweite Nachrichten</b> <span class="badge">{kreis_count}</span></a></li>'
+    sidebar_items += f'<li style="border-top:1px solid #eee; padding-top:6px; margin-top:6px;"><a href="kreisweite/index.html"><b>{"Alle Köln-Nachrichten" if kreis_slug == "koeln" else "Kreisweite Nachrichten"}</b> <span class="badge">{kreis_count}</span></a></li>'
 
     # Quellen aus feeds.json laden
     feeds_file = data_dir / "feeds.json"
@@ -545,7 +547,7 @@ def build_kreis_index(kreis_slug, kreis_cfg):
       <ul style="list-style:none; font-size:0.82rem; font-family:sans-serif; color:#555;">{"".join(items)}</ul>
     </div>"""
 
-    active = "rbk" if kreis_slug == "rheinisch-bergischer-kreis" else "oberberg"
+    active = {"rheinisch-bergischer-kreis": "rbk", "koeln": "koeln"}.get(kreis_slug, "oberberg")
     page = f"""<!DOCTYPE html>
 <html lang="de">
 <head>
