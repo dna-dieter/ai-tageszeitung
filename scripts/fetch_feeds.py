@@ -106,7 +106,15 @@ def canonical_url(url: str) -> str:
     if host.startswith("www."):
         host = host[4:]
     path = parts.path.rstrip("/") or "/"
-    return host + path
+    # Manche CMS (z. B. TYPO3 tx_news) unterscheiden Meldungen nur über die Query.
+    # Tracking-Parameter fallen weg, alles andere bleibt Teil der Adresse.
+    query = "&".join(
+        sorted(
+            kv for kv in parts.query.split("&")
+            if kv and not kv.lower().startswith(("utm_", "fbclid", "gclid", "ref="))
+        )
+    )
+    return host + path + ("?" + query if query else "")
 
 def story_slug(url: str) -> str:
     path = urlparse(url or "").path
