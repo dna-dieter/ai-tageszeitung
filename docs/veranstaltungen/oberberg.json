@@ -1,28 +1,8 @@
 [
   {
-    "titel": "Panarbora Geisterpark",
-    "datum": "23. Okt 2026",
-    "datum_raw": "2026-10-23T11:00:00+02:00",
-    "ort": "Baumwipfelpfad Panarbora, Nutscheidstr. 1, 51545 Waldbröl",
-    "preis": "ab 11 €",
-    "link": "https://panarbora.de/veranstaltungen-und-events",
-    "quelle": "Das Bergische",
-    "teaser": "Vom 26. September bis zum 1. November 2026 wird es bei uns wieder gespenstisch! Wenn kleine Geister auftauchen und sich unser Aussichtsturm und der Baumwipfelpfad in ein Halloween-Gewand hüllen, beginnt eine ganz besonde"
-  },
-  {
-    "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
-    "datum": "23. Okt 2026",
-    "datum_raw": "2026-10-23T11:00:00+02:00",
-    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
-    "preis": "ab 6 €",
-    "link": "https://www.schloss-homburg.de/cms200schloss/museum/sonderausstellungen/vorschau/index.shtml.de",
-    "quelle": "Das Bergische",
-    "teaser": "Kleine Figuren erzählen große Geschichten! Das 100-jährige Jubiläum des Museums auf Schloss Homburg wird mit einer großen Sonderausstellung gefeiert. In faszinierenden Miniaturwelten werden regionale Geschichte und Gesch"
-  },
-  {
     "titel": "Herbstferien im Museum",
     "datum": "23. Okt 2026",
-    "datum_raw": "2026-10-23T11:00:00+02:00",
+    "datum_raw": "2026-10-23T12:00:00+02:00",
     "ort": "LVR-Freilichtmuseum Lindlar, Heiligenhoven 16a, 51789 Lindlar",
     "preis": "",
     "link": "https://www.lvr.de/freilichtmuseum-lindlar/programm/herbstferienprogramm/#module-523562",
@@ -108,6 +88,26 @@
     "link": "https://www.aggertalhoehle.de/main/fuehrungen",
     "quelle": "Das Bergische",
     "teaser": "Es gibt Spuren in der Aggertalhöhle, die im Licht der normalen Höhlenbeleuchtung verborgen, unsichtbar bleiben. Aber es lohnt sich, auch einmal auf die Suche nach diesen Spuren zu gehen. Was ist eigentlich gemeint, wenn "
+  },
+  {
+    "titel": "Panarbora Geisterpark",
+    "datum": "24. Okt 2026",
+    "datum_raw": "2026-10-24T11:00:00+02:00",
+    "ort": "Baumwipfelpfad Panarbora, Nutscheidstr. 1, 51545 Waldbröl",
+    "preis": "ab 11 €",
+    "link": "https://panarbora.de/veranstaltungen-und-events",
+    "quelle": "Das Bergische",
+    "teaser": "Vom 26. September bis zum 1. November 2026 wird es bei uns wieder gespenstisch! Wenn kleine Geister auftauchen und sich unser Aussichtsturm und der Baumwipfelpfad in ein Halloween-Gewand hüllen, beginnt eine ganz besonde"
+  },
+  {
+    "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
+    "datum": "24. Okt 2026",
+    "datum_raw": "2026-10-24T11:00:00+02:00",
+    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
+    "preis": "ab 6 €",
+    "link": "https://www.schloss-homburg.de/cms200schloss/museum/sonderausstellungen/vorschau/index.shtml.de",
+    "quelle": "Das Bergische",
+    "teaser": "Kleine Figuren erzählen große Geschichten! Das 100-jährige Jubiläum des Museums auf Schloss Homburg wird mit einer großen Sonderausstellung gefeiert. In faszinierenden Miniaturwelten werden regionale Geschichte und Gesch"
   },
   {
     "titel": "Lindlarer Lieblingsmarkt Herbstpartie",

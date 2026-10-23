@@ -1,5 +1,74 @@
 [
   {
+    "id": "2ba71c72828a",
+    "title": "Bestattung in der Natur: Leichlingen bekommt einen Trauerwald",
+    "summary": "Im Haus Vorster Wald können sich Menschen künftig unter Laubbäumen bestatten lassen. Das Angebot erspart Angehörigen die regelmäßige Grabpflege und steht Menschen aller Konfessionen offen.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/leichlingen-bekommt-einen-trauerwald_aid-156697733",
+    "published": "Fri, 23 Oct 2026 17:55:00 +0200",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-10-23T19:10:51.069810",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
+    "id": "61076f2a00c7",
+    "title": "Politik in Leichlingen: SPD fordert mehr Schatten und Grün in der Stadt",
+    "summary": "Beschattete Buswartehäuschen, begrünte Pergolen und Wasser zum Spielen: Mit diesen Maßnahmen möchte die SPD die Folgen hoher Temperaturen in der Stadt abmildern.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/leichlingen-spd-fordert-mehr-schatten-und-gruen-in-der-stadt_aid-157028195",
+    "published": "Fri, 23 Oct 2026 17:40:00 +0200",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-10-23T19:10:51.070015",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
+    "id": "ec248287b847",
+    "title": "Frauenberatungsstelle: Frauenberatung im Kreis Rhein-Berg wird 40 Jahre alt",
+    "summary": "Die Frauenberatungsstelle für den Rheinisch-Bergischen Kreis wird 40 Jahre alt und hilft Frauen bei Krisen und Gewalterfahrungen.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/frauenberatung-im-kreis-rhein-berg-wird-40-jahre-alt-1401986",
+    "published": "Fri, 23 Oct 2026 16:47:47 +0200",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T19:10:47.070175",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e92cdefcce8d",
+    "title": "Für Erinnerung und Frieden: Volksbund in Bergisch Gladbach: Erinnerung soll jungen Menschen Geschichte vermitteln",
+    "summary": "Die Spendensammlung des Volksbundes hat begonnen; Ehrenamtliche sammeln noch bis Dezember.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/volksbund-startet-aktion-in-bergisch-gladbach-1401978",
+    "published": "Fri, 23 Oct 2026 16:27:12 +0200",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-23T19:10:47.070455",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6bdabe50438f",
+    "title": "Frauen in der Kommunalpolitik: Erster Politischer Salon vernetzt Kommunalpolitikerinnen im Kreis Rhein-Berg",
+    "summary": "Beim ersten Politischen Salon in Bergisch Gladbach tauschten sich 44 Kommunalpolitikerinnen aus.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/politischer-salon-vernetzt-kommunalpolitikerinnen-in-rhein-berg-1401957",
+    "published": "Fri, 23 Oct 2026 16:17:51 +0200",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-23T19:10:47.070576",
+    "feed_kommunen": []
+  },
+  {
     "id": "031d2f42507c",
     "title": "Angebote für Kinder und Erwachsene: Hier spukt es an Halloween gehörig im Bergischen",
     "summary": "Von der Taschenlampenführung in der Papiermühle bis zur Gruselfahrt im Planwagen: Viele Angebote für Kinder und Erwachsene.",

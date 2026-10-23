@@ -1,5 +1,122 @@
 [
   {
+    "id": "ce5f7e4d9eab",
+    "title": "Wohnungskauf: Ab wo sich Pendeln nach Köln lohnt",
+    "summary": "Von Köln ins Umland zu ziehen und in die Stadt zu pendeln lohnt sich, aber nur unter bestimmten Voraussetzungen. Am attraktivsten sind Leverkusen und Hürth. Bei Nutzung von ÖPNV und Homeoffice kommen viel mehr Städte infrage.",
+    "link": "https://www.ksta.de/wirtschaft/wohnungskauf-ab-wo-sich-pendeln-nach-koeln-lohnt-1401816",
+    "published": "Fri, 23 Oct 2026 18:00:00 +0200",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T19:12:37.636569",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ae5f897b6894",
+    "title": "St. Martin 2026 in Köln: Hier ziehen Martinsumzüge durch die Kölner Straßen",
+    "summary": "Laternen ausgepackt: Hier gibt es viele Termine der Martinsumzüge 2026 in Köln auf einen Blick.",
+    "link": "https://www.ksta.de/koeln/st-martin-2026-koeln-alle-martinszuege-im-ueberblick-642738",
+    "published": "Fri, 23 Oct 2026 17:19:50 +0200",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T19:12:37.636595",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2a9cdbbae355",
+    "title": "Bayenthal und Höhenhaus: Polizei prüft Brandstiftung in Köln – Serientäter am Werk?",
+    "summary": "In der Nacht zu Freitag (23. Oktober) musste die Kölner Feuerwehr gleich mehrmals ausrücken.",
+    "link": "https://www.ksta.de/koeln/bayenthal-und-hoehenhaus-polizei-prueft-brandstiftung-serientaeter-1401584",
+    "published": "Fri, 23 Oct 2026 16:10:11 +0200",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T19:12:37.636612",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f76797d76a03",
+    "title": "Altersarmut bei Künstlern: Bekannter Kölner Musiker bekennt: „Ich bekomme knapp 400 Euro Rente“",
+    "summary": "Richard Bargel ist ein sehr bekannter Bluesmusiker, bekommt aber weniger als 400 Euro Rente.",
+    "link": "https://www.ksta.de/koeln/nach-tod-von-ralf-richter-koelner-musiker-75-bekennt-alterarmut-1397218",
+    "published": "Fri, 23 Oct 2026 16:00:45 +0200",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T19:12:37.636628",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f0f570d47437",
+    "title": "Comeback nach langem Streit: Deutzer Kirmes setzt auf Spektakel und Sicherheit",
+    "summary": "Nach zweijähriger Zwangspause steigt wieder die Deutzer Kirmes. Der Veranstalter legt großen Wert auf Sicherheit und ein gutes Verhältnis zu den Anwohnenden.",
+    "link": "https://www.ksta.de/koeln/koeln-deutzer-kirmes-setzt-auf-spektakel-und-sicherheit-1401902",
+    "published": "Fri, 23 Oct 2026 15:16:00 +0200",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T19:12:37.636663",
+    "feed_kommunen": []
+  },
+  {
+    "id": "832e7584f227",
+    "title": "„Crime as a Service“: Spielschulden als Motiv hinter Schüssen auf Restaurants in Köln vermutet",
+    "summary": "Ermittler sehen einen Zusammenhang bei den Schüssen auf Gastronomiebetriebe in der Innenstadt und in Rodenkirchen.",
+    "link": "https://www.ksta.de/koeln/schuesse-auf-koelner-restaurants-spielschulden-als-motiv-vermutet-1401666",
+    "published": "Fri, 23 Oct 2026 15:11:20 +0200",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T19:12:37.636681",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7c31084f7231",
+    "title": "Mit großer Eisbahn und Zelt: Neuer Kölner Weihnachtsmarkt entsteht auf historischem Gelände",
+    "summary": "In Bickendorf entsteht ein neuer Weihnachtsmarkt – mit 500 Quadratmeter großer Eisbahn und wettergeschütztem Zelt.",
+    "link": "https://www.ksta.de/koeln/neuer-koelner-weihnachtsmarkt-entsteht-auf-historischem-gelaende-1401972",
+    "published": "Fri, 23 Oct 2026 15:01:25 +0200",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T19:12:37.636699",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6a7e9e543a04",
+    "title": "„Staat sollte gegensteuern“: Hohe Zinsen drücken Immobilienpreise auch in Köln – Mieten steigen",
+    "summary": "Die Zinsen für Immobilienkredite sind auf einen Höchststand seit der Finanzkrise gestiegen. Am Wohnungsmarkt hinterlässt das Spuren.",
+    "link": "https://www.ksta.de/wirtschaft/immobilien/hohe-zinsen-druecken-immobilienpreise-auch-in-koeln-mieten-steigen-weiter-1401694",
+    "published": "Fri, 23 Oct 2026 14:59:19 +0200",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T19:12:37.636716",
+    "feed_kommunen": []
+  },
+  {
+    "id": "982b418625f2",
+    "title": "Kölner Innenstadt: Stadt muss erneut Bereiche am Dom absperren",
+    "summary": "2025 musste die Stadt die Domplatte teils absperren, jetzt folgt der Roncalliplatz. Dazu: Weitere Baustellen aus Köln.",
+    "link": "https://www.ksta.de/koeln/koelner-innenstadt/koelner-innenstadt-stadt-muss-erneut-bereiche-am-dom-absperren-1400321",
+    "published": "Fri, 23 Oct 2026 14:04:15 +0200",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T19:12:37.636731",
+    "feed_kommunen": []
+  },
+  {
     "id": "02c97fe53260",
     "title": "Baustellen in den Stadtteilen",
     "summary": "23. Oktober 2026, 13:56",
@@ -101,6 +218,32 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-23T11:58:29.862924",
+    "feed_kommunen": []
+  },
+  {
+    "id": "60bda77f831a",
+    "title": "Neues Party-Format: Prinzen-Garde verspricht „Festival der Sinne“",
+    "summary": "Die Prinzen-Garde Köln startet mit dem neuen Veranstaltungsformat „GardeRausch“ in die Session.",
+    "link": "https://www.ksta.de/koeln/karneval-in-koeln/neues-party-format-prinzen-garde-verspricht-festival-der-sinne-1401892",
+    "published": "Fri, 23 Oct 2026 09:58:08 +0200",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T19:12:37.636781",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a2685aca96a7",
+    "title": "Pünktlich vor dem 11.11.: Mottoschal unterstützt Botschaft: Runter vom Sofa und anpacken",
+    "summary": "Rechtzeitig vor dem Sessionsstart ist der neue Mottoschal erhältlich. Kostümriese Deiters hat dabei das aktuelle Motto des Festkomitees wieder kreativ umgesetzt.",
+    "link": "https://www.ksta.de/koeln/karneval-in-koeln/mottoschal-2027-unterstuetzt-botschaft-runter-vom-sofa-und-anpacken-1401810",
+    "published": "Fri, 23 Oct 2026 09:56:03 +0200",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-23T19:12:37.636798",
     "feed_kommunen": []
   },
   {
