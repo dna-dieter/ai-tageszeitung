@@ -500,6 +500,28 @@ def rat_datum(iso_datum: str) -> str:
 
 # --- Build Functions ---
 
+# Statischer Kasten für "Rhein-Berg Vereine & Bürgerstimmen": nur bestätigte Links laut
+# rbk_social_2026-10-23.md. Einfache Links, keine Embeds, kein Tracking, keine Inhalte aus den Gruppen.
+BUERGERSTIMMEN_LINKS = [
+    ("Leichlingen Info & offenes Forum (Facebook-Gruppe)", "https://www.facebook.com/groups/Die.Leichlinger/"),
+    ("Wermelskirchen – das Original! (Facebook-Gruppe)", "https://www.facebook.com/groups/wermelskirchen/"),
+    ("Du bist aus Wermelskirchen (Facebook-Gruppe)", "https://www.facebook.com/groups/251860244925508/"),
+    ("NETT-WERK Bergisch Gladbach (Facebook-Gruppe)", "https://www.facebook.com/groups/484180354933947/"),
+    ("ForumWk auf WhatsApp (Kanal, Ankündigung)", "https://forumwk.de/2025/11/08/neu-forumwk-jetzt-auch-auf-whatsapp/"),
+]
+
+def weiterfuehrende_links_html(kreis_slug):
+    if kreis_slug != "rhein-berg-buergerstimmen":
+        return ""
+    items = "".join(
+        f'<li><a href="{htmlmod.escape(u)}" target="_blank" rel="noopener nofollow">{htmlmod.escape(t)}</a></li>'
+        for t, u in BUERGERSTIMMEN_LINKS
+    )
+    return f"""<div class="sidebar-box">
+      <h3>Weiterführende Links – lokale Gruppen &amp; Kanäle</h3>
+      <ul class="k-links">{items}</ul>
+    </div>"""
+
 def build_kreis_index(kreis_slug, kreis_cfg):
     data_dir = BASE / kreis_slug
     kommunen = kreis_cfg["kommunen"]
@@ -574,6 +596,7 @@ def build_kreis_index(kreis_slug, kreis_cfg):
       <ul class="k-links">{sidebar_items}</ul>
     </div>
     {quellen_html}
+    {weiterfuehrende_links_html(kreis_slug)}
   </div>
 </div>
 </main>
@@ -678,6 +701,7 @@ def build_kommune_page(kreis_slug, kreis_cfg, kommune_slug, kommune_name):
       <h3>Alle Kommunen</h3>
       <ul class="k-links">{sidebar_items}</ul>
     </div>
+    {weiterfuehrende_links_html(kreis_slug)}
     <div class="sidebar-box">
       <h3>Kreisweite Nachrichten</h3>
       {kreisweite_links}
@@ -731,6 +755,7 @@ def build_kreisweite_page(kreis_slug, kreis_cfg):
       <h3>Alle Kommunen</h3>
       <ul class="k-links">{sidebar_items}</ul>
     </div>
+    {weiterfuehrende_links_html(kreis_slug)}
   </div>
 </div>
 </main>
