@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Führung in der Aggertalhöhle",
-    "datum": "23. Okt 2026",
-    "datum_raw": "2026-10-23T00:00:00+02:00",
-    "ort": "Aggertalhöhle, Im Krümmel 39, 51766 Engelskirchen",
-    "preis": "ab 6 €",
-    "link": "http://www.aggertalhoehle.de/main/home/informationen/oeffnungszeiten",
-    "quelle": "Das Bergische",
-    "teaser": "Die Aggertalhöhle ist vom 1. April bis einschließlich 1. November jeweils von Donnerstag bis Sonntag und an gesetzlichen Feiertagen geöffnet. Unter dem Titel »Erster Einblick« starten Führungen jeweils um 10.00, 11.15, 1"
-  },
-  {
     "titel": "Panarbora Geisterpark",
     "datum": "23. Okt 2026",
     "datum_raw": "2026-10-23T11:00:00+02:00",
@@ -68,6 +58,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "In diesem kreativen Workshop entdecken Kinder zusammen mit der zertifizierten Kräuterpädagogin Ina Klinkenberg die bunte Welt der Naturkosmetik. Gemeinsam mischen wir duftende Lippenpflege und bunte Badepralinen mit natü"
+  },
+  {
+    "titel": "Führung in der Aggertalhöhle",
+    "datum": "24. Okt 2026",
+    "datum_raw": "2026-10-24T00:00:00+02:00",
+    "ort": "Aggertalhöhle, Im Krümmel 39, 51766 Engelskirchen",
+    "preis": "ab 6 €",
+    "link": "http://www.aggertalhoehle.de/main/home/informationen/oeffnungszeiten",
+    "quelle": "Das Bergische",
+    "teaser": "Die Aggertalhöhle ist vom 1. April bis einschließlich 1. November jeweils von Donnerstag bis Sonntag und an gesetzlichen Feiertagen geöffnet. Unter dem Titel »Erster Einblick« starten Führungen jeweils um 10.00, 11.15, 1"
   },
   {
     "titel": "Halloween entgruselt",

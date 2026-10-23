@@ -1,102 +1,152 @@
 [
   {
-    "titel": "Koelsch Couture - Designer Pop up",
+    "titel": "Herbstferienaktion mit Juppi",
     "datum": "23. Okt 2026",
-    "datum_raw": "2026-10-23T11:00+0200",
-    "ort": "Ehrenstraße/ Ecke Friesenwall, Ehrenstraße/ Ecke Friesenwall",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/koelsch-couture-designer-pop-up-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zwischen Archivstücken und Designerlabels hängt gut möglich genau das Teil, nach dem Du seit Ewigkeiten suchst. Koelsch Couture bringt Vintage von Maison Margiela bis Stone Island zusammen 👀"
-  },
-  {
-    "titel": "Rausgegangen Surprise Tickets",
-    "datum": "23. Okt 2026",
-    "datum_raw": "2026-10-23T19:00+0200",
-    "ort": "Surprise, Surprise, Verschiedene Orte",
-    "preis": "ab 22 €",
-    "link": "https://rausgegangen.de/events/rausgegangen-surprise-tickets-3/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Manchmal ist die schwierigste Abendfrage nicht mit wem, sondern wohin. Genau das bleibt bei diesen Surprise Tickets offen, bis nach dem Kauf die Mail kommt, nur zwei Plätze für Köln stehen schon fest 👀"
-  },
-  {
-    "titel": "KÖLN VIDEO SCREENING EVENT - Premiere, Musikk, lecker Freibierchen uvm",
-    "datum": "23. Okt 2026",
-    "datum_raw": "2026-10-23T19:00+0200",
-    "ort": "astreet 48, Aachener Straße 48",
+    "datum_raw": "2026-10-23T00:00:00",
+    "ort": "Köln",
     "preis": "",
-    "link": "https://rausgegangen.de/events/koln-video-screening-event-premiere-musikk-lecker-freibierch-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zwanzig Minuten Film, dann kippt der Abend in Musik und Leute, die noch bleiben wollen. Hinter der Premiere steckt das Kollektiv Professional Kids, und reinkommen kostet nichts 🪩"
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/herbstferienaktion-mit-juppi",
+    "quelle": "Stadt Köln",
+    "teaser": "Tolle Spielaktionen"
   },
   {
-    "titel": "Herstory - Eine feministische Theaterperformance",
+    "titel": "Nippeser Strickmamsellcher",
     "datum": "23. Okt 2026",
-    "datum_raw": "2026-10-23T19:00+0200",
-    "ort": "COMEDIA Theater, Vondelstraße 4-8",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/herstory-eine-feministische-theaterperformance-1/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Erwachsenwerden, aber bitte nicht nach Drehbuch. In dieser feministischen Theaterperformance stehen Mädchen und junge Frauen zwischen 12 und 18 selbst auf der Bühne und bringen ihre eigenen Erfahrungen mit Rollenbildern,"
-  },
-  {
-    "titel": "Rupert Gillett Trio: \"Do Cellos Dream of Electric Pigs?\" ALBUM RELEASE CONCERT",
-    "datum": "23. Okt 2026",
-    "datum_raw": "2026-10-23T19:30+0200",
-    "ort": "Loft, Wissmannstr. 30",
+    "datum_raw": "2026-10-23T00:00:00",
+    "ort": "Köln",
     "preis": "",
-    "link": "https://rausgegangen.de/events/rupert-gillett-trio-do-cellos-dream-of-electric-pigs-album-r-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Ein elektrisches Cello vorneweg, und plötzlich steht da ein Trio, das Jazz nicht geschniegelt, sondern schräg und mit Gesang spielt. Das neue Album heißt Do Cellos Dream of Electric Pigs? und allein dieser Titel verrät s"
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/nippeser-strickmamsellcher-290",
+    "quelle": "Stadt Köln",
+    "teaser": "Stricken und Klönen in der Stadtteilbibliothek Nippes."
   },
   {
-    "titel": "Clara Lösel - Ich dachte, sowas fühl nur ich",
+    "titel": "LeseWelten",
     "datum": "23. Okt 2026",
-    "datum_raw": "2026-10-23T20:00+0200",
-    "ort": "Theater am Tanzbrunnen, Rheinparkweg 1",
-    "preis": "kostenlos",
-    "link": "https://rausgegangen.de/events/clara-losel-ich-dachte-sowas-fuhl-nur-ich-13/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Clara Lösel bringt ihre neue Tour mit dem Buch „Ich dachte, sowas fühl nur ich“ bereits vor dem offiziellen Start auf die Bühne. In drei exklusiven Preview-Shows kannst du ihre ehrlichen und nahbaren Texte erleben, die t"
-  },
-  {
-    "titel": "New York Jazz: Nikita Sipiagin Quartet",
-    "datum": "23. Okt 2026",
-    "datum_raw": "2026-10-23T20:00+0200",
-    "ort": "King Georg, Sudermanstraße 2",
-    "preis": "ab 24 €",
-    "link": "https://rausgegangen.de/events/new-york-jazz-nikita-sipiagin-quartet-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Vier Leute aus den USA, Spanien und Frankreich, und trotzdem klingt das wie eine ziemlich klare gemeinsame Sprache. Im Mittelpunkt stehen eigene Stücke mit viel Raum zum Improvisieren, dazu ein frischer Blick auf Jazzsta"
-  },
-  {
-    "titel": "Konzert mit Udi Yervant & Medz Bazar",
-    "datum": "23. Okt 2026",
-    "datum_raw": "2026-10-23T20:00+0200",
-    "ort": "Kulturbunker Köln-Mülheim, Berliner Straße 20",
-    "preis": "ab 22 €",
-    "link": "https://rausgegangen.de/events/7-festival-der-solidaritat-lesung-konzert-diskussion-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Nicht das übliche Konzertding, eher ein Abend, an dem Musik und Haltung nah beieinander liegen. Udi Yervant Bostancı bringt armenische, kurdische und türkische Traditionen zusammen, das Ganze im Rahmen des Festivals der "
-  },
-  {
-    "titel": "fi x Henrik Schwarz & AYA",
-    "datum": "23. Okt 2026",
-    "datum_raw": "2026-10-23T23:00+0200",
-    "ort": "Ursprung fi, Widdersdorfer Straße 246",
-    "preis": "ab 16 €",
-    "link": "https://rausgegangen.de/events/fi-x-henrik-schwarz-aya-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Zwei Floors, ein Live Set von Henrik Schwarz und mittendrin Aya zwischen BONJOUR BEN und C00LM8. Das ist eher so eine Nacht, bei der Du kurz bleiben willst und dann doch bis zum Schluss rumhängst 🪩"
-  },
-  {
-    "titel": "Loveselectors w/ Schuhmacher, Lizzle, Elijah",
-    "datum": "23. Okt 2026",
-    "datum_raw": "2026-10-23T23:00+0200",
-    "ort": "Club Subway, Aachener Straße 82-84",
+    "datum_raw": "2026-10-23T00:00:00",
+    "ort": "Köln",
     "preis": "",
-    "link": "https://rausgegangen.de/events/loveselectors-w-alleira-lizzle-elijah-0/",
-    "quelle": "Rausgegangen Köln",
-    "teaser": "Finally! We’re back on October 23rd at @club_subway in Cologne. This time we’re very happy to welcome @schuhmachar, alongside @lizzlbeth , who’s back for another round, and @elijah.weinfurtner , representing LoveSelector"
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-527",
+    "quelle": "Stadt Köln",
+    "teaser": "Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Nippes."
+  },
+  {
+    "titel": "MINT-Vorlesen",
+    "datum": "23. Okt 2026",
+    "datum_raw": "2026-10-23T00:00:00",
+    "ort": "Köln",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mint-vorlesen-33",
+    "quelle": "Stadt Köln",
+    "teaser": "Bücher und Experimente für neugierige Kinder – in der Stadtteilbibliothek Haus Balchem."
+  },
+  {
+    "titel": "Spielend neue Welten entdecken",
+    "datum": "23. Okt 2026",
+    "datum_raw": "2026-10-23T00:00:00",
+    "ort": "Köln",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/spielend-neue-welten-entdecken-16",
+    "quelle": "Stadt Köln",
+    "teaser": "Das VR-Team auf Erlebnis-Tour. Heute im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Nippes spielt!",
+    "datum": "23. Okt 2026",
+    "datum_raw": "2026-10-23T00:00:00",
+    "ort": "Köln",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/nippes-spielt-27",
+    "quelle": "Stadt Köln",
+    "teaser": "Der Brettspielnachmittag für Spielbegeisterte in der Stadtteilbibliothek Nippes."
+  },
+  {
+    "titel": "Bücherplausch",
+    "datum": "23. Okt 2026",
+    "datum_raw": "2026-10-23T00:00:00",
+    "ort": "Köln",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherplausch-14",
+    "quelle": "Stadt Köln",
+    "teaser": "Offener Treffpunkt rund ums Lesen in der Stadtteilbibliothek Porz."
+  },
+  {
+    "titel": "Mach MI(N)T!",
+    "datum": "23. Okt 2026",
+    "datum_raw": "2026-10-23T00:00:00",
+    "ort": "Köln",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mach-mint-9",
+    "quelle": "Stadt Köln",
+    "teaser": "Spannende Experimente für coole Kids in der Stadtteilbibliothek Ehrenfeld."
+  },
+  {
+    "titel": "Vorlesezeit",
+    "datum": "24. Okt 2026",
+    "datum_raw": "2026-10-24T00:00:00",
+    "ort": "Köln",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-294",
+    "quelle": "Stadt Köln",
+    "teaser": "Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Chorweiler."
+  },
+  {
+    "titel": "LeseWelten",
+    "datum": "24. Okt 2026",
+    "datum_raw": "2026-10-24T00:00:00",
+    "ort": "Köln",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-531",
+    "quelle": "Stadt Köln",
+    "teaser": "Bilderbuchgeschichten für Kinder ab 3 Jahren im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Joot Jespillt!",
+    "datum": "24. Okt 2026",
+    "datum_raw": "2026-10-24T00:00:00",
+    "ort": "Köln",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/joot-jespillt",
+    "quelle": "Stadt Köln",
+    "teaser": "Dein öffentlicher Spieletreff für Brett- und Gesellschaftsspiele in der Stadtteilbibliothek Kalk."
+  },
+  {
+    "titel": "Künstlerische Intervention: Mapping Waidmarkt – Veranstaltung 4",
+    "datum": "24. Okt 2026",
+    "datum_raw": "2026-10-24T00:00:00",
+    "ort": "Köln",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/kuenstlerische-intervention-mapping-waidmarkt-veranstaltung-4",
+    "quelle": "Stadt Köln",
+    "teaser": "Begeben Sie sich auf eine geführte Begehung des Waidmarkts und lernen Sie dabei das Projekt von Moritz Riesenbeck kennen."
+  },
+  {
+    "titel": "Mittelalterliches Gutsfest und Kürbisschnitzen",
+    "datum": "24. Okt 2026",
+    "datum_raw": "2026-10-24T00:00:00",
+    "ort": "Köln",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mittelalterliches-gutsfest-und-kuerbisschnitzen-veranstaltung-des-umweltzentrum-gut-leidenhausen",
+    "quelle": "Stadt Köln",
+    "teaser": "Ritter, Kräuterfrauen, Kürbisschnitzen, Stockbrot und kreative Mitmachaktionen laden zum Entdecken und Mitmachen ein."
+  },
+  {
+    "titel": "Flohmarkt – Alles rund ums Kind",
+    "datum": "25. Okt 2026",
+    "datum_raw": "2026-10-25T00:00:00",
+    "ort": "Köln",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/flohmarkt-alles-rund-ums-kind",
+    "quelle": "Stadt Köln",
+    "teaser": "Großer Flohmarkt im Bürgerzentrum Chorweiler, Pariser Platz 1, 50765 Köln"
+  },
+  {
+    "titel": "MINTköln 2026: Blätterlachen – Wo ist die Natur in der Stadt?",
+    "datum": "25. Okt 2026",
+    "datum_raw": "2026-10-25T00:00:00",
+    "ort": "Köln",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mintkoeln-2026-blaetterlachen-wo-ist-die-natur-der-stadt",
+    "quelle": "Stadt Köln",
+    "teaser": "Lesung für Kinder ab 9 Jahren im Rahmen von \"Sonntags in der Bibliothek\" und unseres MINT-Festivals im Interim der Zentralbibliothek."
   }
 ]
