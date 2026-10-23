@@ -131,8 +131,80 @@
       "enabled": false,
       "inaktiv_grund": "HTTP 404",
       "inaktiv_seit": "2026-10-22"
+    },
+    {
+      "name": "Oberberg-Aktuell",
+      "url": "https://www.oberberg-aktuell.de/rss",
+      "type": "lokalnachrichten",
+      "coverage": "kreisweite-nachrichten",
+      "verified": true,
+      "note": "Kreisweites Lokalportal, ca. 12 Meldungen/Tag. Neu 2026-10-23 laut feed_analyse_2026-10-23_v2.md, geprüft 23.10. (HTTP 200, gültiges RSS)"
+    },
+    {
+      "name": "Rheinische Anzeigenblätter Oberberg",
+      "url": "https://www.rheinische-anzeigenblaetter.de/oberberg/rss",
+      "type": "lokalnachrichten",
+      "coverage": "kreisweite-nachrichten",
+      "verified": true,
+      "note": "Anzeigenblatt, Teaser mit Link. Neu 2026-10-23 laut feed_analyse_2026-10-23_v2.md, geprüft 23.10. (HTTP 200, gültiges RSS)"
+    },
+    {
+      "name": "Gemeinde Engelskirchen (offiziell)",
+      "url": "https://www.engelskirchen.de/portal/rss.xml",
+      "type": "verwaltung",
+      "coverage": "engelskirchen",
+      "verified": true,
+      "note": "Offizielle Meldungen. Neu 2026-10-23 laut feed_analyse_2026-10-23_v2.md, geprüft 23.10. (HTTP 200, gültiges RSS)"
+    },
+    {
+      "name": "Stadt Wiehl (offiziell)",
+      "url": "https://www.wiehl.de/daten/rss/neuigkeiten.php",
+      "type": "verwaltung",
+      "coverage": "wiehl",
+      "verified": true,
+      "note": "Offizielle Neuigkeiten. Neu 2026-10-23 laut feed_analyse_2026-10-23_v2.md, geprüft 23.10. (HTTP 200, gültiges RSS)"
+    },
+    {
+      "name": "Stadt Waldbröl (offiziell)",
+      "url": "https://www.waldbroel.de/feed/",
+      "type": "verwaltung",
+      "coverage": "waldbroel",
+      "verified": true,
+      "note": "WordPress-Feed der Stadt. Neu 2026-10-23 laut feed_analyse_2026-10-23_v2.md, geprüft 23.10. (HTTP 200, gültiges RSS)"
+    },
+    {
+      "name": "Gemeinde Morsbach (offiziell)",
+      "url": "https://www.morsbach.de/feed/",
+      "type": "verwaltung",
+      "coverage": "morsbach",
+      "verified": true,
+      "note": "WordPress-Feed der Gemeinde. Neu 2026-10-23 laut feed_analyse_2026-10-23_v2.md, geprüft 23.10. (HTTP 200, gültiges RSS)"
+    },
+    {
+      "name": "Schloss-Stadt Hückeswagen (offiziell)",
+      "url": "https://www.hueckeswagen.de/portal/rss.xml",
+      "type": "verwaltung",
+      "coverage": "hueckeswagen",
+      "verified": true,
+      "note": "Offizielle Meldungen. Neu 2026-10-23 laut feed_analyse_2026-10-23_v2.md, geprüft 23.10. (HTTP 200, gültiges RSS)"
+    },
+    {
+      "name": "Gemeinde Nümbrecht (offiziell)",
+      "url": "https://www.nuembrecht.de/feed.rss",
+      "type": "verwaltung",
+      "coverage": "nuembrecht",
+      "verified": true,
+      "note": "Geringes Volumen, Server meldet text/html. Neu 2026-10-23 laut feed_analyse_2026-10-23_v2.md, geprüft 23.10. (HTTP 200, gültiges RSS)"
+    },
+    {
+      "name": "Stadt Radevormwald (offiziell)",
+      "url": "https://www.radevormwald.de/feed/",
+      "type": "verwaltung",
+      "coverage": "radevormwald",
+      "verified": true,
+      "note": "Geringes Volumen. Neu 2026-10-23 laut feed_analyse_2026-10-23_v2.md, geprüft 23.10. (HTTP 200, gültiges RSS)"
     }
   ],
   "update_interval_minutes": 60,
-  "last_updated": "2026-10-23T06:37:51.769435+02:00"
+  "last_updated": "2026-10-23T07:47:38.604386+02:00"
 }
