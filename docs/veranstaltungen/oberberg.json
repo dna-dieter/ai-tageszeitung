@@ -1,25 +1,5 @@
 [
   {
-    "titel": "Halloween entgruselt",
-    "datum": "24. Okt 2026",
-    "datum_raw": "2026-10-24T09:00:00+02:00",
-    "ort": "Affen- und Vogelpark, Am Bromberg, 51580 Reichshof",
-    "preis": "ab 20 €",
-    "link": "https://affen-und-vogelpark.de/neues-aus-dem-park/",
-    "quelle": "Das Bergische",
-    "teaser": "An vier Wochenenden im Herbst 2026 wird’s im Park geheimnisvoll – aber nie zu angsteinflößend: Du schnitzt Kürbisse, folgst verwinkelten Wegen, lauschst den Geschichten der Hexe und sagst mit der Fackel den Eulen und Pol"
-  },
-  {
-    "titel": "Workshop: Exklusiver Metallgussworkshop für Erwachsene am Oelchenshammer",
-    "datum": "24. Okt 2026",
-    "datum_raw": "2026-10-24T09:00:00+02:00",
-    "ort": "LVR-Industriemuseum Oelchenshammer, Oelchensweg, 51766 Engelskirchen",
-    "preis": "",
-    "link": "https://www.shop.industriemuseum.lvr.de/#/product/event/16312",
-    "quelle": "Das Bergische",
-    "teaser": "Tauche ein in die faszinierende Welt des Metallgusses und entdecke eines der ältesten Metallbearbeitungsverfahren. Am historischen Oelchenshammers lernst Du Schritt für Schritt, wie in Formkästen mit Formsand sowie Guss-"
-  },
-  {
     "titel": "Pilzwochenende im Bergischen Land",
     "datum": "24. Okt 2026",
     "datum_raw": "2026-10-24T10:00:00+02:00",
@@ -108,6 +88,16 @@
     "link": "http://www.aggertalhoehle.de/main/home/informationen/oeffnungszeiten",
     "quelle": "Das Bergische",
     "teaser": "Die Aggertalhöhle ist vom 1. April bis einschließlich 1. November jeweils von Donnerstag bis Sonntag und an gesetzlichen Feiertagen geöffnet. Unter dem Titel »Erster Einblick« starten Führungen jeweils um 10.00, 11.15, 1"
+  },
+  {
+    "titel": "Halloween entgruselt",
+    "datum": "25. Okt 2026",
+    "datum_raw": "2026-10-25T09:00:00+01:00",
+    "ort": "Affen- und Vogelpark, Am Bromberg, 51580 Reichshof",
+    "preis": "ab 20 €",
+    "link": "https://affen-und-vogelpark.de/neues-aus-dem-park/",
+    "quelle": "Das Bergische",
+    "teaser": "An vier Wochenenden im Herbst 2026 wird’s im Park geheimnisvoll – aber nie zu angsteinflößend: Du schnitzt Kürbisse, folgst verwinkelten Wegen, lauschst den Geschichten der Hexe und sagst mit der Fackel den Eulen und Pol"
   },
   {
     "titel": "Herbstferien im Museum",

@@ -1,5 +1,18 @@
 [
   {
+    "id": "c4e3f79535c6",
+    "title": "Jetzt kommt der Dauerregen",
+    "summary": "Oberberg – Deutscher Wetterdienst hat eine weitere amtliche Warnung herausgegeben (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/oberbergischer-kreis/auch-in-oberberg-wird---s-jetzt-st--rmisch-a-139497",
+    "published": "Sat, 24 Oct 2026 16:35:00 +0200",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-24T17:17:27.605636",
+    "feed_kommunen": []
+  },
+  {
     "id": "a56a2ced88bf",
     "title": "In der Antarktis: Weltrekordversuch mit der Zwillingsschwester",
     "summary": "Engelskirchen – Irina und Maria Dell nehmen im Februar an einem außergewöhnlichen Triathlon in der Antarktis teil – Eisbaden und Langstreckenschwimmen stehen auf dem Trainingsplan.",
@@ -284,19 +297,6 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-23T19:11:57.797439",
-    "feed_kommunen": []
-  },
-  {
-    "id": "7555bb9916e4",
-    "title": "Auch in Oberberg wird’s jetzt stürmisch",
-    "summary": "Oberberg – Deutscher Wetterdienst hat amtliche Warnung herausgegeben.",
-    "link": "http://www.oberberg-aktuell.de/oberbergischer-kreis/auch-in-oberberg-wird---s-jetzt-st--rmisch-a-139497",
-    "published": "Fri, 23 Oct 2026 15:23:00 +0200",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "kreisweite-nachrichten"
-    ],
-    "fetched": "2026-10-23T16:58:10.760738",
     "feed_kommunen": []
   },
   {
