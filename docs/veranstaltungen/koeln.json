@@ -3,140 +3,2490 @@
     "titel": "Vorlesezeit",
     "datum": "24. Okt 2026",
     "datum_raw": "2026-10-24T00:00:00",
-    "ort": "Köln",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/vorlesezeit-294",
-    "quelle": "Stadt Köln",
-    "teaser": "Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Chorweiler."
+    "ort": "Stadtteilbibliothek Chorweiler, Chorweiler",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41136/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 11:30 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Chorweiler."
   },
   {
     "titel": "LeseWelten",
     "datum": "24. Okt 2026",
     "datum_raw": "2026-10-24T00:00:00",
-    "ort": "Köln",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-531",
-    "quelle": "Stadt Köln",
-    "teaser": "Bilderbuchgeschichten für Kinder ab 3 Jahren im Interim Zentralbibliothek."
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41140/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11:30 bis 12 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren im Interim Zentralbibliothek."
   },
   {
     "titel": "Joot Jespillt!",
     "datum": "24. Okt 2026",
     "datum_raw": "2026-10-24T00:00:00",
-    "ort": "Köln",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/joot-jespillt",
-    "quelle": "Stadt Köln",
-    "teaser": "Dein öffentlicher Spieletreff für Brett- und Gesellschaftsspiele in der Stadtteilbibliothek Kalk."
+    "ort": "Stadtteilbibliothek Kalk, Kalk",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41458/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "13 bis 18 Uhr · Dein öffentlicher Spieletreff für Brett- und Gesellschaftsspiele in der Stadtteilbibliothek Kalk."
   },
   {
     "titel": "Künstlerische Intervention: Mapping Waidmarkt – Veranstaltung 4",
     "datum": "24. Okt 2026",
     "datum_raw": "2026-10-24T00:00:00",
-    "ort": "Köln",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/kuenstlerische-intervention-mapping-waidmarkt-veranstaltung-4",
-    "quelle": "Stadt Köln",
-    "teaser": "Begeben Sie sich auf eine geführte Begehung des Waidmarkts und lernen Sie dabei das Projekt von Moritz Riesenbeck kennen."
+    "ort": "Waidmarkt, Altstadt/Süd",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40939/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "18 Uhr · Begeben Sie sich auf eine geführte Begehung des Waidmarkts und lernen Sie dabei das Projekt von Moritz Riesenbeck kennen."
   },
   {
     "titel": "Mittelalterliches Gutsfest und Kürbisschnitzen",
     "datum": "24. Okt 2026",
     "datum_raw": "2026-10-24T00:00:00",
-    "ort": "Köln",
+    "ort": "Freundeskreis Haus des Waldes e. V., Eil",
+    "preis": "Die Teilnahme ist kostenlos",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41425/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "ab 11 Uhr · Ritter, Kräuterfrauen, Kürbisschnitzen, Stockbrot und kreative Mitmachaktionen laden zum Entdecken und Mitmachen ein."
+  },
+  {
+    "titel": "BuchstabenBilderBücher: Bücher von Rolf Lock",
+    "datum": "24. Okt 2026",
+    "datum_raw": "2026-10-24T00:00:00",
+    "ort": "Kunst- und Museumsbibliothek (Lesesaal Museum Ludwig), Altstadt/Nord",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41040/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Vernissage: 18. September 2026, 19 Uhr, Montag: 14 bis 21 Uhr, Dienstag bis Donnerstag: 10 bis 21 Uhr, Freitag bis Sonntag: 10 bis 18 Uhr · Die Ausstellung zeigt groß- und kleinformatige Arbeiten von Rolf Lock, die in den letzten Jahren entstanden sind."
+  },
+  {
+    "titel": "MINTköln 2026",
+    "datum": "24. Okt 2026",
+    "datum_raw": "2026-10-24T00:00:00",
+    "ort": "Verschiedene Veranstaltungsorte in Köln",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41364/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Das Festival der Stadtbibliothek Köln zu den Themen Mathematik, Informatik, Naturwissenschaft und Technik – zwei Wochen, stadtweit, über 100 Workshops. Sei dabei und entdecke die Welt in Bewegung!"
+  },
+  {
+    "titel": "Kunstausstellung: Künstler-Treff-Porz",
+    "datum": "24. Okt 2026",
+    "datum_raw": "2026-10-24T00:00:00",
+    "ort": "Galerie im Bezirksrathaus Porz, Porz",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41374/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Montag bis Freitag: 10 bis 18 Uhr, Samstag: 10 bis 14 Uhr, sonn- und feiertags geschlossen · Künstler-Treff-Porz mit seiner Ausstellung Bilder erzählen Geschichten"
+  },
+  {
+    "titel": "Künstlerische Intervention: Mapping Waidmarkt",
+    "datum": "24. Okt 2026",
+    "datum_raw": "2026-10-24T00:00:00",
+    "ort": "Waidmarkt, Altstadt/Süd",
+    "preis": "Eintritt frei",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40298/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Im Zentrum des Projekts von Moritz Riesenbeck steht eine bewegliche, multifunktionale Kapsel."
+  },
+  {
+    "titel": "Städtebauliche Entwicklung Longericher Straße in Köln-Bilderstöckchen, 246. Änderung des Flächennutzungsplans",
+    "datum": "24. Okt 2026",
+    "datum_raw": "2026-10-24T00:00:00",
+    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
     "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mittelalterliches-gutsfest-und-kuerbisschnitzen-veranstaltung-des-umweltzentrum-gut-leidenhausen",
-    "quelle": "Stadt Köln",
-    "teaser": "Ritter, Kräuterfrauen, Kürbisschnitzen, Stockbrot und kreative Mitmachaktionen laden zum Entdecken und Mitmachen ein."
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41488/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr,, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
+  },
+  {
+    "titel": "Sicherung der Clubkultur im Bereich Lichtstraße/Ehrenfeldgürtel in Köln-Ehrenfeld, 254. Änderung des Flächennutzungsplanes",
+    "datum": "24. Okt 2026",
+    "datum_raw": "2026-10-24T00:00:00",
+    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41462/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
+  },
+  {
+    "titel": "Haselbergstraße/Piusstraße, 2. Änderung (2. Teilaufhebung) in Köln-Lindenthal",
+    "datum": "24. Okt 2026",
+    "datum_raw": "2026-10-24T00:00:00",
+    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41583/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
+  },
+  {
+    "titel": "Führung durch den Skulpturenpark Köln",
+    "datum": "24. Okt 2026",
+    "datum_raw": "2026-10-24T00:00:00",
+    "ort": "Skulpturenpark Köln, Neustadt/Nord",
+    "preis": "Der Eintritt in den Park ist frei. Kosten für die Führungen: Erwachsene: 8 Euro,",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/39535/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Jeden ersten Sonntag im Monat von 15 bis 16 Uhr · Im Skulpturenpark zeigen wir eine große Bandbreite moderner zeitgenössischer Außenskulpturen unter freiem Himmel."
   },
   {
     "titel": "Flohmarkt – Alles rund ums Kind",
     "datum": "25. Okt 2026",
     "datum_raw": "2026-10-25T00:00:00",
-    "ort": "Köln",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/flohmarkt-alles-rund-ums-kind",
-    "quelle": "Stadt Köln",
-    "teaser": "Großer Flohmarkt im Bürgerzentrum Chorweiler, Pariser Platz 1, 50765 Köln"
+    "ort": "Bürgerzentrum Chorweiler, Chorweiler",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41489/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10 bis 15 Uhr · Großer Flohmarkt im Bürgerzentrum Chorweiler, Pariser Platz 1, 50765 Köln"
   },
   {
     "titel": "MINTköln 2026: Blätterlachen – Wo ist die Natur in der Stadt?",
     "datum": "25. Okt 2026",
     "datum_raw": "2026-10-25T00:00:00",
-    "ort": "Köln",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mintkoeln-2026-blaetterlachen-wo-ist-die-natur-der-stadt",
-    "quelle": "Stadt Köln",
-    "teaser": "Lesung für Kinder ab 9 Jahren im Rahmen von \"Sonntags in der Bibliothek\" und unseres MINT-Festivals im Interim der Zentralbibliothek."
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Veranstaltung ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41222/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15 bis 16 Uhr · Lesung für Kinder ab 9 Jahren im Rahmen von Sonntags in der Bibliothek und unseres MINT-Festivals im Interim der Zentralbibliothek."
   },
   {
     "titel": "Kostbarkeiten aus dem Orient – Weihrauch, Myrrhe, Harze und Balsame Botanische Themenführung",
     "datum": "25. Okt 2026",
     "datum_raw": "2026-10-25T00:00:00",
-    "ort": "Köln",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/kostbarkeiten-aus-dem-orient-weihrauch-myrrhe-harze-und-balsame-botanische-themenfuehrung",
-    "quelle": "Stadt Köln",
-    "teaser": "Silvia Vermeulen vermittelt Wissenswertes über die Botanik und Geschichte der traditionellen Räucherpflanzen sowie über ihre kulturelle Bedeutung."
+    "ort": "Flora und Botanischer Garten, Riehl",
+    "preis": "Die Teilnahme an der Führung kostet 7 Euro für Erwachsene und 4 euro für Kinder,",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41426/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "ab 11 Uhr · Silvia Vermeulen vermittelt Wissenswertes über die Botanik und Geschichte der traditionellen Räucherpflanzen sowie über ihre kulturelle Bedeutung."
+  },
+  {
+    "titel": "Street Gallery Lindenthal – Lebenslinien",
+    "datum": "25. Okt 2026",
+    "datum_raw": "2026-10-25T00:00:00",
+    "ort": "Kunsthalle Lindenthal, Braunsfeld",
+    "preis": "Die Ausstellung ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41467/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Vernissage: 25. Oktober 2026, 14 Uhr, Sonntag, 25.Oktober, bis Mittwoch, 4. November: 14 bis 18 Uhr, Samstag, 31. Oktober: 11 bis 15 Uhr, · Ausstellung von Street Gallery"
+  },
+  {
+    "titel": "Herbstferienaktion mit Juppi",
+    "datum": "26. Okt 2026",
+    "datum_raw": "2026-10-26T00:00:00",
+    "ort": "Spiel- und Sportplatz Stresemannstraße, Finkenberg",
+    "preis": "Das Ferienprogramm ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41464/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "13 bis 18 Uhr · Tolle Spielaktionen"
   },
   {
     "titel": "Bücherbabys – die literarische Krabbelgruppe",
     "datum": "27. Okt 2026",
     "datum_raw": "2026-10-27T00:00:00",
-    "ort": "Köln",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/buecherbabys-die-literarische-krabbelgruppe-507",
-    "quelle": "Stadt Köln",
-    "teaser": "Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Haus Balchem."
+    "ort": "Stadtteilbibliothek Haus Balchem, Altstadt/Süd",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41144/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "09:30 bis 10:00 Uhr · Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Haus Balchem."
   },
   {
     "titel": "Spieletester*innen",
     "datum": "27. Okt 2026",
     "datum_raw": "2026-10-27T00:00:00",
-    "ort": "Köln",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/spieletesterinnen-35",
-    "quelle": "Stadt Köln",
-    "teaser": "Kinder und Jugendliche ab 6 und 12 Jahren haben die Möglichkeit aktuelle Spiele auszuprobieren – in der Stadtteilbibliothek Kalk."
+    "ort": "Stadtteilbibliothek Kalk, Kalk",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40627/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15 bis 16:30 Uhr (ab 6 Jahre), 16:30 bis 18 Uhr (ab 12 Jahre) · Kinder und Jugendliche ab 6 und 12 Jahren haben die Möglichkeit aktuelle Spiele auszuprobieren – in der Stadtteilbibliothek Kalk."
   },
   {
     "titel": "Nippeser Strickmamsellcher",
     "datum": "27. Okt 2026",
     "datum_raw": "2026-10-27T00:00:00",
-    "ort": "Köln",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/nippeser-strickmamsellcher-285",
-    "quelle": "Stadt Köln",
-    "teaser": "Stricken und Klönen in der Stadtteilbibliothek Nippes."
+    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41117/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15:30 bis 17:30 Uhr · Stricken und Klönen in der Stadtteilbibliothek Nippes."
   },
   {
     "titel": "LeseWelten am Dienstag",
     "datum": "27. Okt 2026",
     "datum_raw": "2026-10-27T00:00:00",
-    "ort": "Köln",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/lesewelten-am-dienstag-59",
-    "quelle": "Stadt Köln",
-    "teaser": "Eine Kinderlesung in Zusammenarbeit mit LeseWelten Köln in der Stadtteilbibliothek Kalk."
+    "ort": "Stadtteilbibliothek Kalk, Kalk",
+    "preis": "Die Veranstaltung ist kostenfrei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41480/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17 Uhr · Eine Kinderlesung in Zusammenarbeit mit LeseWelten Köln in der Stadtteilbibliothek Kalk."
   },
   {
     "titel": "packsdrauf Solarparty",
     "datum": "27. Okt 2026",
     "datum_raw": "2026-10-27T00:00:00",
-    "ort": "Köln",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/packsdrauf-solarparty-4",
-    "quelle": "Stadt Köln",
-    "teaser": "Tipps zu Photovoltaik- und Steckersolar-Anlagen im Rahmen der MINTköln 2026 im Interim Zentralbibliothek."
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41631/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "18 bis 19:30 Uhr · Tipps zu Photovoltaik- und Steckersolar-Anlagen im Rahmen der MINTköln 2026 im Interim Zentralbibliothek."
   },
   {
     "titel": "MINTköln 2026: Und dann hats geknallt!",
     "datum": "27. Okt 2026",
     "datum_raw": "2026-10-27T00:00:00",
-    "ort": "Köln",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41394/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "18 Uhr · Forschende erzählen von ihren größten Rückschlägen – im Rahmen der MINTköln 2026 im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Ausstellungsführung: Hungerleben – Lebenshunger. Köln 1946/47",
+    "datum": "28. Okt 2026",
+    "datum_raw": "2026-10-28T00:00:00",
+    "ort": "Historisches Archiv mit Rheinischem Bildarchiv, Neustadt/Süd",
+    "preis": "Die Veranstaltung ist kostenfrei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41639/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17:30 Uhr · Führung durch die Ausstellung Hungerleben – Lebenshunger. Köln 1946/47"
+  },
+  {
+    "titel": "MINT-Vorlesen",
+    "datum": "28. Okt 2026",
+    "datum_raw": "2026-10-28T00:00:00",
+    "ort": "Stadtteilbibliothek Bocklemünd/Mengenich, Bocklemünd/Mengenich",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41180/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:45 bis 17:30 Uhr · Bücher und Experimente für neugierige Kinder – in der Stadtteilbibliothek Bocklemünd/Mengenich."
+  },
+  {
+    "titel": "Vortrag: Kampfmittelbeseitigung von der Nachkriegszeit bis heute",
+    "datum": "28. Okt 2026",
+    "datum_raw": "2026-10-28T00:00:00",
+    "ort": "Historisches Archiv mit Rheinischem Bildarchiv, Neustadt/Süd",
+    "preis": "Die Veranstaltung ist kostenfrei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41587/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "18 bis 20 Uhr · Kampfmittelfunde sind in Köln keine Seltenheit. Ein Vortrag über historische und aktuelle Arbeiten des Kampfmittelbeseitigungsdienstes und über die Gefahren von Bomben, Munition und Co."
+  },
+  {
+    "titel": "Führung im Bunker K101",
+    "datum": "29. Okt 2026",
+    "datum_raw": "2026-10-29T00:00:00",
+    "ort": "bunkerk101, Ehrenfeld",
+    "preis": "Die Veranstaltung ist kostenfrei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41588/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10 bis 11:30 Uhr · Führung unter dem Titel Wenigstens ein Dach über dem Kopf im Bunker in der Körnerstr."
+  },
+  {
+    "titel": "Stricken und Klönen",
+    "datum": "29. Okt 2026",
+    "datum_raw": "2026-10-29T00:00:00",
+    "ort": "Stadtteilbibliothek Bocklemünd/Mengenich, Bocklemünd/Mengenich",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41107/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10 bis 12 Uhr · Gemütlicher Stricktreff in der Stadtteilbibliothek Bocklemünd."
+  },
+  {
+    "titel": "Köln hört zu!",
+    "datum": "29. Okt 2026",
+    "datum_raw": "2026-10-29T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41511/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 12 Uhr · Das Projekt Zuhören draußen im Interim der Zentralbibliothek."
+  },
+  {
+    "titel": "Kaffee, Kuchen und KI",
+    "datum": "29. Okt 2026",
+    "datum_raw": "2026-10-29T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41209/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17 Uhr · KünstIiche Intelligenz entdecken im Interim der Zentralbibliothek – eine Veranstaltung im Rahmen der Reihe Digitale Werkstatt."
+  },
+  {
+    "titel": "Sew it yourself!",
+    "datum": "29. Okt 2026",
+    "datum_raw": "2026-10-29T00:00:00",
+    "ort": "Stadtteilbibliothek Rodenkirchen, Rodenkirchen",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40850/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 18:30 Uhr · Nähmaschine für Ahnungslose. Ein Makerspace-Workshop in der Stadtteilbibliothek Rodenkirchen."
+  },
+  {
+    "titel": "Pen & Paper-Spieleabend",
+    "datum": "29. Okt 2026",
+    "datum_raw": "2026-10-29T00:00:00",
+    "ort": "Stadtteilbibliothek Ehrenfeld, Ehrenfeld",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41259/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "17 bis 18:30 Uhr · Die Würfel rollen für Kinder von 8 bis 12 Jahren in der Stadtteilbibliothek Ehrenfeld!"
+  },
+  {
+    "titel": "MINTköln 2026: Lieber trocken als nass",
+    "datum": "29. Okt 2026",
+    "datum_raw": "2026-10-29T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41636/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "18 Uhr · Der als Hochwasser-Papst titulierte Reinhard Riku Vogt gibt Tipps zur Eigenvorsorge bei Hochwasser und Starkregen. Im Rahmen der MINTköln 2026 im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Köln hört zu!",
+    "datum": "30. Okt 2026",
+    "datum_raw": "2026-10-30T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41512/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "12 bis 13 Uhr · Das Projekt Zuhören draußen im Interim der Zentralbibliothek."
+  },
+  {
+    "titel": "Aktionstag Halloween",
+    "datum": "30. Okt 2026",
+    "datum_raw": "2026-10-30T00:00:00",
+    "ort": "Stadtteilbibliothek Mülheim, Mülheim",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41194/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "12 bis 18 Uhr · Für die ganze Familie – in der Stadtteilbibliothek Mülheim"
+  },
+  {
+    "titel": "Nippeser Strickmamsellcher",
+    "datum": "30. Okt 2026",
+    "datum_raw": "2026-10-30T00:00:00",
+    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41125/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15:30 bis 17:30 Uhr · Stricken und Klönen in der Stadtteilbibliothek Nippes."
+  },
+  {
+    "titel": "LeseWelten",
+    "datum": "30. Okt 2026",
+    "datum_raw": "2026-10-30T00:00:00",
+    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41112/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Nippes."
+  },
+  {
+    "titel": "Phishing erkennen – Schutz vor digitalen Angriffen",
+    "datum": "30. Okt 2026",
+    "datum_raw": "2026-10-30T00:00:00",
+    "ort": "Stadtteilbibliothek Kalk, Kalk",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41197/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17:30 Uhr · Ein Vortrag im Rahmen der Reihe Digitale Werkstatt in Kooperation mit der Verbraucherzentrale NRW e. V. – in der Stadtteilbibliothek Kalk."
+  },
+  {
+    "titel": "Lizenz für 3D-Druck",
+    "datum": "30. Okt 2026",
+    "datum_raw": "2026-10-30T00:00:00",
+    "ort": "Stadtteilbibliothek Porz, Porz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/38962/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 18 Uhr · Ein Workshop im Rahmen von Maker Porz."
+  },
+  {
+    "titel": "Mach MI(N)T!",
+    "datum": "30. Okt 2026",
+    "datum_raw": "2026-10-30T00:00:00",
+    "ort": "Stadtteilbibliothek Ehrenfeld, Ehrenfeld",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41193/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17:30 Uhr · Spannende Experimente für coole Kids in der Stadtteilbibliothek Ehrenfeld."
+  },
+  {
+    "titel": "Friedhöfe – mehr als nur ein Ort der Trauer Führung über den Ostfriedhof",
+    "datum": "30. Okt 2026",
+    "datum_raw": "2026-10-30T00:00:00",
+    "ort": "Ostfriedhof, Dellbrück",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41430/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "ab 13 Uhr · Bei einem Rundgang über den Ostfriedhof erfahren die Teilnehmenden mehr über historische Grabstätten von der Jungsteinzeit bis zur Gegenwart."
+  },
+  {
+    "titel": "Repair Café",
+    "datum": "31. Okt 2026",
+    "datum_raw": "2026-10-31T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41451/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10 bis 15 Uhr · Reparieren statt wegwerfen – im Rahmen der MINTköln 2026 im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "MINTköln 2026: Aktionstag",
+    "datum": "31. Okt 2026",
+    "datum_raw": "2026-10-31T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41410/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10 bis 15 Uhr · Der große MINT-Aktionstag mit vielen tollen Mitmach-Ständen zum Abschluss der MINTköln 2026 im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Vorlesezeit",
+    "datum": "31. Okt 2026",
+    "datum_raw": "2026-10-31T00:00:00",
+    "ort": "Stadtteilbibliothek Chorweiler, Chorweiler",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41137/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 11:30 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Chorweiler."
+  },
+  {
+    "titel": "LeseWelten",
+    "datum": "31. Okt 2026",
+    "datum_raw": "2026-10-31T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41141/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11:30 bis 12 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Wissenschaft im Rathaus: Wenn Zellen aus dem Takt geraten – Einblick in die Ursachen neurodegenerativer Erkrankungen",
+    "datum": "2. Nov 2026",
+    "datum_raw": "2026-11-02T00:00:00",
+    "ort": "Rathaus - Spanischer Bau, Altstadt/Nord",
+    "preis": "kostenlos",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/39394/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "von 18:30 bis 19:30 · Was geschieht im Inneren der Nervenzellen, wenn diese Krankheiten entstehen? Warum funktioniert die Kommunikation zwischen den Zellen plötzlich nicht mehr so wie früher?"
+  },
+  {
+    "titel": "Spieletester*innen",
+    "datum": "3. Nov 2026",
+    "datum_raw": "2026-11-03T00:00:00",
+    "ort": "Stadtteilbibliothek Kalk, Kalk",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40628/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15 bis 16:30 Uhr (ab 6 Jahre), 16:30 bis 18 Uhr (ab 12 Jahre) · Kinder und Jugendliche ab 6 und 12 Jahren haben die Möglichkeit aktuelle Spiele auszuprobieren – in der Stadtteilbibliothek Kalk."
+  },
+  {
+    "titel": "Nippeser Strickmamsellcher",
+    "datum": "3. Nov 2026",
+    "datum_raw": "2026-11-03T00:00:00",
+    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41276/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15:30 bis 17:30 Uhr · Stricken und Klönen in der Stadtteilbibliothek Nippes."
+  },
+  {
+    "titel": "Wir spielen Schach",
+    "datum": "3. Nov 2026",
+    "datum_raw": "2026-11-03T00:00:00",
+    "ort": "Stadtteilbibliothek Mülheim, Mülheim",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41274/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 18 Uhr · Schach spielen und lernen für Kinder ab 8 Jahren in der Stadtteilbibliothek Mülheim"
+  },
+  {
+    "titel": "Ein Ort der Poesie: Anderland 8",
+    "datum": "3. Nov 2026",
+    "datum_raw": "2026-11-03T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Der Eintritt kostet 12 Euro, ermäßigt 10 Euro.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41361/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "19:30 Uhr · Das Kölner Festival zur Poesie mit Esther Kinsky und José F. A. Oliver. Im Rahmen unseres Kulturprogramms im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Persönliche Hilfestellung für eMedien",
+    "datum": "3. Nov 2026",
+    "datum_raw": "2026-11-03T00:00:00",
+    "ort": "Stadtteilbibliothek Rodenkirchen, Rodenkirchen",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41096/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "4 Termine:, 15 bis 15:30 Uhr, 15:30 bis 16 Uhr, 16 bis 16:30 Uhr, 16:30 bis 17 Uhr · Spezifische Problemlösung für Onleihe und Libby (Overdrive). Im Rahmen der Reihe Digitale Werkstatt in der Stadtteilbibliothek Rodenkirchen."
+  },
+  {
+    "titel": "Bücherbabys – die literarische Krabbelgruppe",
+    "datum": "3. Nov 2026",
+    "datum_raw": "2026-11-03T00:00:00",
+    "ort": "Stadtteilbibliothek Haus Balchem, Altstadt/Süd",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41432/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "9:30 bis 10:30 Uhr · Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Haus Balchem."
+  },
+  {
+    "titel": "Internationale Deutsche Jugendmeisterschaft im Boxen U18",
+    "datum": "3. Nov 2026",
+    "datum_raw": "2026-11-03T00:00:00",
+    "ort": "Sporthalle am Südstadion",
+    "preis": "Die Ticketpreise können Sie der Internetseite des Veranstalters entnehmen",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41258/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Die besten Nachwuchssportler*innen unter 18 Jahren kämpfen in jeweils zehn Gewichtsklassen um den deutschen Meistertitel."
+  },
+  {
+    "titel": "Online-Informationsveranstaltung für Eltern zum Übergang in die weiterführende Schule",
+    "datum": "4. Nov 2026",
+    "datum_raw": "2026-11-04T00:00:00",
+    "ort": "Online-Veranstaltung",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/38261/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10 bis 11:30 Uhr · Diese Veranstaltung soll Eltern bei der Wahl der Schulform helfen."
+  },
+  {
+    "titel": "Lunch Lectures",
+    "datum": "4. Nov 2026",
+    "datum_raw": "2026-11-04T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41524/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "13:15 Uhr · 35 Literaturgeschichten – heute mit Maryam Aras und dem amerikanischen Schriftsteller John Dos Passos. Im Rahmen unseres Kulturprogramms im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "LeseWelten",
+    "datum": "4. Nov 2026",
+    "datum_raw": "2026-11-04T00:00:00",
+    "ort": "Stadtteilbibliothek Haus Balchem, Altstadt/Süd",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41444/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15:30 bis 16 Uhr · Wir öffnen die Türen des Kamishibai und lesen eine Geschichte vor – in der Stadtteilbibliothek Haus Balchem."
+  },
+  {
+    "titel": "NAO in Ehrenfeld",
+    "datum": "4. Nov 2026",
+    "datum_raw": "2026-11-04T00:00:00",
+    "ort": "Stadtteilbibliothek Ehrenfeld, Ehrenfeld",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41281/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17 Uhr · Präsentation unseres humanoiden Roboters zum Ausprobieren, Ansprechen und Anfassen in der Stadtteilbibliothek Ehrenfeld."
+  },
+  {
+    "titel": "Spielend neue Welten entdecken",
+    "datum": "4. Nov 2026",
+    "datum_raw": "2026-11-04T00:00:00",
+    "ort": "Stadtteilbibliothek Bocklemünd/Mengenich, Bocklemünd/Mengenich",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41280/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 18 Uhr · Das VR-Team auf Erlebnis-Tour. Heute in der Stadtteilbibliothek Bocklemünd."
+  },
+  {
+    "titel": "Workshop: Vorführung historischer Techniken – Das Nasse Kollodium-Verfahren",
+    "datum": "4. Nov 2026",
+    "datum_raw": "2026-11-04T00:00:00",
+    "ort": "Historisches Archiv mit Rheinischem Bildarchiv, Neustadt/Süd",
+    "preis": "Kostenfrei",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40112/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 19 Uhr · Gemeinsam verfolgen wir in diesem Workshop den Prozess von der Vorbereitung der Nassplatte über die Aufnahme mit bis hin zum fertigen Bild."
+  },
+  {
+    "titel": "Vorlesezeit mit Bilderbüchern",
+    "datum": "4. Nov 2026",
+    "datum_raw": "2026-11-04T00:00:00",
+    "ort": "Stadtteilbibliothek Sülz, Sülz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41282/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Sülz."
+  },
+  {
+    "titel": "Bücherbabys – die literarische Krabbelgruppe",
+    "datum": "5. Nov 2026",
+    "datum_raw": "2026-11-05T00:00:00",
+    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41283/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 12 Uhr · Im Zentrum steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Nippes."
+  },
+  {
+    "titel": "Chor Kanti",
+    "datum": "5. Nov 2026",
+    "datum_raw": "2026-11-05T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41285/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 12:30 Uhr · Jeden Donnerstag außerhalb der Ferien trifft sich der Chor Kanti – im Interim der Zentralbibliothek"
+  },
+  {
+    "titel": "Offene Werkstatt für digitale Mündigkeit und Souveränität",
+    "datum": "5. Nov 2026",
+    "datum_raw": "2026-11-05T00:00:00",
+    "ort": "Stadtteilbibliothek Ehrenfeld, Ehrenfeld",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41088/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 13 Uhr · Hilfe zur Selbsthilfe: Wie schütze ich meine Daten? Welche Alternativen zu großen IT-Konzernen gibt es? Aus der Reihe Digitale Werkstatt in der Stadtteilbibliothek Ehrenfeld."
+  },
+  {
+    "titel": "Erstellung eigener 3D-Welten – Workshop",
+    "datum": "5. Nov 2026",
+    "datum_raw": "2026-11-05T00:00:00",
+    "ort": "KOMEZ – Kommunales Medienzentrum Köln, Mülheim",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41043/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "14 bis 16:30 Uhr · Für Lehkräfte und pädagogisches Personal"
+  },
+  {
+    "titel": "Storytime at the Library",
+    "datum": "5. Nov 2026",
+    "datum_raw": "2026-11-05T00:00:00",
+    "ort": "Stadtteilbibliothek Sülz, Sülz",
+    "preis": "Die Teilnahme ist kostenlos. Attendance is free of charge.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41499/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15:30 bis 16 Uhr · Bilderbuchgeschichten auf Englisch für Kinder ab 3 Jahren in der Stadtteilbibliothek Sülz. Picture Books for children aged 3 and older in the district library Sülz."
+  },
+  {
+    "titel": "Hand in Hand",
+    "datum": "5. Nov 2026",
+    "datum_raw": "2026-11-05T00:00:00",
+    "ort": "Stadtteilbibliothek Porz, Porz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41291/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 18 Uhr · Offener Handarbeitstreff in der Stadtteilbibliothek Porz."
+  },
+  {
+    "titel": "Nadelspiel",
+    "datum": "5. Nov 2026",
+    "datum_raw": "2026-11-05T00:00:00",
+    "ort": "Stadtteilbibliothek Chorweiler, Chorweiler",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41290/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 18 Uhr · Stricken und Häkeln in der Stadtteilbibliothek Chorweiler."
+  },
+  {
+    "titel": "Vorlesen mit dem Kamishibai – Erzähltheater",
+    "datum": "5. Nov 2026",
+    "datum_raw": "2026-11-05T00:00:00",
+    "ort": "Stadtteilbibliothek Ehrenfeld, Ehrenfeld",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41293/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17 Uhr · Wir öffnen die Türen des Kamishibai und lesen eine Geschichte vor – in der Stadtteilbibliothek Ehrenfeld."
+  },
+  {
+    "titel": "Bilderbuchkino",
+    "datum": "5. Nov 2026",
+    "datum_raw": "2026-11-05T00:00:00",
+    "ort": "Stadtteilbibliothek Porz, Porz",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41292/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17:30 Uhr · Vorlese- und Malstunde ab 4 Jahren – in der Stadtteilbibliothek Porz."
+  },
+  {
+    "titel": "Keine von uns: Das Leben der Irmgard Keun",
+    "datum": "5. Nov 2026",
+    "datum_raw": "2026-11-05T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Der Eintritt kostet 8 Euro, ermäßigt 6 Euro, mit Schwerbehindertenausweis 4 Euro",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41266/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "19 Uhr · Buchvorstellung mit dem Autor Tobias Lehmkuhl und Gisa Funck – im Rahmen unseres Kulturprogramms im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Digital Fit",
+    "datum": "6. Nov 2026",
+    "datum_raw": "2026-11-06T00:00:00",
+    "ort": "Stadtteilbibliothek Porz, Porz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41216/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10 bis 12 Uhr · Ihr Einstieg in die digitale Welt. Ehrenamtliche Hilfestellung zu allen Fragen rund um Smartphone, Internet und mehr. Im Rahmen der Reihe Digitale Werkstatt in der Stadtteilbibliothek Porz."
+  },
+  {
+    "titel": "Bücherbabys – die literarische Krabbelgruppe",
+    "datum": "6. Nov 2026",
+    "datum_raw": "2026-11-06T00:00:00",
+    "ort": "Stadtteilbibliothek Sülz, Sülz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41304/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10:30 bis 11 Uhr · Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Sülz."
+  },
+  {
+    "titel": "Digitaler Freitag",
+    "datum": "6. Nov 2026",
+    "datum_raw": "2026-11-06T00:00:00",
+    "ort": "Stadtteilbibliothek Kalk, Kalk",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41093/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10:30 bis 12 Uhr · Eine Selbsthilfegruppe zu digitalen Themen aus der Reihe Digitale Werkstatt in der Stadtteilbibliothek Kalk."
+  },
+  {
+    "titel": "Smartphone, Computer, Internet – wir begleiten Sie ins digitale Leben",
+    "datum": "6. Nov 2026",
+    "datum_raw": "2026-11-06T00:00:00",
+    "ort": "Stadtteilbibliothek Ehrenfeld, Ehrenfeld",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41305/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11:30 bis 12:30 Uhr · Offene Sprechstunde zu digitalen Themen. Im Rahmen der Reihe Digitale Werkstatt in der Stadtteilbibliothek Ehrenfeld."
+  },
+  {
+    "titel": "Urban Sketching",
+    "datum": "6. Nov 2026",
+    "datum_raw": "2026-11-06T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41516/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "14 bis 17 Uhr · Zeichen- und Malkurs für Interessierte und Anfänger*innen. Heute: ​Materialien und erste Skizzen. Ein Makerspace-Workshop im Interim der Zentralbibliothek."
+  },
+  {
+    "titel": "Nippeser Strickmamsellcher",
+    "datum": "6. Nov 2026",
+    "datum_raw": "2026-11-06T00:00:00",
+    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41294/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15:30 bis 17:30 Uhr · Stricken und Klönen in der Stadtteilbibliothek Nippes."
+  },
+  {
+    "titel": "LeseWelten",
+    "datum": "6. Nov 2026",
+    "datum_raw": "2026-11-06T00:00:00",
+    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41298/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Nippes."
+  },
+  {
+    "titel": "Craft Training",
+    "datum": "6. Nov 2026",
+    "datum_raw": "2026-11-06T00:00:00",
+    "ort": "Stadtteilbibliothek Rodenkirchen, Rodenkirchen",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41306/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 18 Uhr · Handarbeitstreff in der Stadtteilbibliothek Rodenkirchen."
+  },
+  {
+    "titel": "MINT-Vorlesen",
+    "datum": "6. Nov 2026",
+    "datum_raw": "2026-11-06T00:00:00",
+    "ort": "Stadtteilbibliothek Sülz, Sülz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41500/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17 Uhr · Bücher und Experimente für neugierige Kinder – in der Stadtteilbibliothek Sülz."
+  },
+  {
+    "titel": "Persönliche Hilfestellung für eMedien",
+    "datum": "6. Nov 2026",
+    "datum_raw": "2026-11-06T00:00:00",
+    "ort": "Stadtteilbibliothek Chorweiler, Chorweiler",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41303/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "4 Termine:, 10 bis 10:30 Uhr, 10:30 bis 11 Uhr, 11 bis 11:30 Uhr, 11:30 bis 12 Uhr · Persönliche Hilfe mit Onleihe und Libby (Overdrive) in der Stadtteilbibliothek Chorweiler"
+  },
+  {
+    "titel": "Onleihe Hilfestellung der Stadtbibliothek",
+    "datum": "6. Nov 2026",
+    "datum_raw": "2026-11-06T00:00:00",
+    "ort": "Stadtteilbibliothek Porz, Porz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41302/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Vier Termine:, 10 bis 10:30 Uhr, 10:30 bis 11 Uhr, 11 bis 11:30 Uhr, 11:30 bis 12 Uhr · Persönliche Beratung zu Onleihe-Problemen. Im Rahmen der Reihe Digitale Werkstatt in der Stadtteilbibliothek Porz."
+  },
+  {
+    "titel": "Steno: Ohne Kohle schneller schreiben",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40835/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10 bis 13 Uhr · Ein Makerspace-Workshop im Interim der Zentralbibliothek."
+  },
+  {
+    "titel": "Neue Tricks für NAO",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40831/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10:30 bis 13:30 Uhr · Programmierung unseres humanoiden Roboters. Im Rahmen unseres Makerspace-Programmes im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Vorlesezeit",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T00:00:00",
+    "ort": "Stadtteilbibliothek Chorweiler, Chorweiler",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41307/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 11:30 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Chorweiler."
+  },
+  {
+    "titel": "Literaturkreis Neubrück",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T00:00:00",
+    "ort": "Stadtteilbibliothek Kalk, Kalk",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/39408/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 13 Uhr · Der Literaturkreis Neubrück richtet sich an Lesebegeisterte und findet momentan in der Stadtteilbibliothek Kalk statt."
+  },
+  {
+    "titel": "Zett Emm_20_26 – 14. Jugendfestival für zeitgenössische Musik",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T00:00:00",
+    "ort": "Alte Feuerwache, Neustadt/Nord",
+    "preis": "Eintritt frei",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41025/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 Uhr · Junge Kompositionsschüler*innen der Rheinischen Musiksschule präsentieren in fünf halbstündigen Konzerten Komisches, Interessantes, Unterhaltsames und Abwechslungsreiches rund um die Zeitgenössische Musik."
+  },
+  {
+    "titel": "LeseWelten",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41311/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11:30 bis 12 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Kölner Museumsnacht 2026",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T00:00:00",
+    "ort": "Verschiedene Veranstaltungsorte in Köln",
+    "preis": "20 Euro, 10 Euro mit Ermäßigung, Kinder und Begleitpersonen haben freien Eintrit",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41384/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "18 bis 1 Uhr · Elf renommierte Museen, bis zu 25 außergewöhnliche Pop-up-Locations und Kunst, Performances, Workshops und Lesungen in der ganzen Stadt"
+  },
+  {
+    "titel": "Retrospektive und Perspektive. Vater und Sohn: Fotografie trifft auf Pop-Art",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T00:00:00",
+    "ort": "Kunsthalle Lindenthal, Braunsfeld",
+    "preis": "Die Ausstellung ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41529/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Vernissage: 7. November 2026, 18 Uhr, Täglich von 16 bis 18 Uhr · Kunstausstellung Vater & Sohn in der Kunsthalle Lindenthal"
+  },
+  {
+    "titel": "MINT-Workshop am Sonntag",
+    "datum": "8. Nov 2026",
+    "datum_raw": "2026-11-08T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Veranstaltung ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41245/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "14 bis 17 Uhr · Die fjmk bastelt und programmiert mit euch im Rahmen von Sonntags in der Bibliothek im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Auf einem Kometen durchs Sonnensystem",
+    "datum": "8. Nov 2026",
+    "datum_raw": "2026-11-08T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Veranstaltung ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41498/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15 bis 16 Uhr · In einer interaktiven, außerirdischen Lesung wird Kindern spannendes Weltraumwissen vermittelt. Im Rahmen von Sonntags in der Bibliothek im Interim der Zentralbibliothek"
+  },
+  {
+    "titel": "Schulstunde zum Thema Coding gestalten",
+    "datum": "9. Nov 2026",
+    "datum_raw": "2026-11-09T00:00:00",
+    "ort": "KOMEZ – Kommunales Medienzentrum Köln, Mülheim",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41470/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "14 bis 16:30 Uhr · Für Lehrkräfte und pädagogisches Personal der 1. bis 6. Klasse an Kölner Schulen"
+  },
+  {
+    "titel": "Karrieretag Köln",
+    "datum": "10. Nov 2026",
+    "datum_raw": "2026-11-10T00:00:00",
+    "ort": "RheinEnergieSTADION, Müngersdorf",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41630/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10 bis 17 Uhr · Ihre Jobmesse in Köln – Eintritt frei!"
+  },
+  {
+    "titel": "DMP Online: Kreative Projekte mit dem Lasercutter",
+    "datum": "10. Nov 2026",
+    "datum_raw": "2026-11-10T00:00:00",
+    "ort": "Online-Veranstaltung",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41386/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "14:30 bis 16 Uhr · Für Lehrkräfte und pädagogisches Personal an Kölner Schulen"
+  },
+  {
+    "titel": "Spieletester*innen",
+    "datum": "10. Nov 2026",
+    "datum_raw": "2026-11-10T00:00:00",
+    "ort": "Stadtteilbibliothek Kalk, Kalk",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40629/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15 bis 16:30 Uhr (ab 6 Jahre), 16:30 bis 18 Uhr (ab 12 Jahre) · Kinder und Jugendliche ab 6 und 12 Jahren haben die Möglichkeit aktuelle Spiele auszuprobieren – in der Stadtteilbibliothek Kalk."
+  },
+  {
+    "titel": "Nippeser Strickmamsellcher",
+    "datum": "10. Nov 2026",
+    "datum_raw": "2026-11-10T00:00:00",
+    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41277/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15:30 bis 17:30 Uhr · Stricken und Klönen in der Stadtteilbibliothek Nippes."
+  },
+  {
+    "titel": "SchachXperten",
+    "datum": "10. Nov 2026",
+    "datum_raw": "2026-11-10T00:00:00",
+    "ort": "Stadtteilbibliothek Chorweiler, Chorweiler",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41316/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17:30 Uhr · Schach spielen und lernen ab 8 Jahren in der Stadtteilbibliothek Chorweiler."
+  },
+  {
+    "titel": "Spielend neue Welten entdecken",
+    "datum": "10. Nov 2026",
+    "datum_raw": "2026-11-10T00:00:00",
+    "ort": "Stadtteilbibliothek Mülheim, Mülheim",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41315/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 18 Uhr · Das VR-Team auf Erlebnis-Tour. Heute in der Stadtteilbibliothek Mülheim."
+  },
+  {
+    "titel": "LeseWelten am Dienstag",
+    "datum": "10. Nov 2026",
+    "datum_raw": "2026-11-10T00:00:00",
+    "ort": "Stadtteilbibliothek Kalk, Kalk",
+    "preis": "Die Veranstaltung ist kostenfrei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41481/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17 Uhr · Eine Kinderlesung in Zusammenarbeit mit LeseWelten Köln in der Stadtteilbibliothek Kalk."
+  },
+  {
+    "titel": "(un)sichtbar gemacht: Aromantik und Asexualität",
+    "datum": "10. Nov 2026",
+    "datum_raw": "2026-11-10T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41272/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "19 Uhr · Lesung und Gespräch mit Annika Baumgart und Katharina Kroschel. Im Rahmen unseres Kulturprogramms im Interim der Zentralbibliothek."
+  },
+  {
+    "titel": "Bücherbabys – die literarische Krabbelgruppe",
+    "datum": "10. Nov 2026",
+    "datum_raw": "2026-11-10T00:00:00",
+    "ort": "Stadtteilbibliothek Haus Balchem, Altstadt/Süd",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41433/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "9:30 bis 10:30 Uhr · Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Haus Balchem."
+  },
+  {
+    "titel": "Bücherbabys – die literarische Krabbelgruppe",
+    "datum": "11. Nov 2026",
+    "datum_raw": "2026-11-11T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Veranstaltung ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41317/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10:15 bis 10:45 Uhr · Im Zentrum steht die Sprach- und Sinnesförderung der Kleinsten – im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Vorlesezeit",
+    "datum": "11. Nov 2026",
+    "datum_raw": "2026-11-11T00:00:00",
+    "ort": "Stadtteilbibliothek Mülheim, Mülheim",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41319/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Mülheim"
+  },
+  {
+    "titel": "Lesehund Albert",
+    "datum": "11. Nov 2026",
+    "datum_raw": "2026-11-11T00:00:00",
+    "ort": "Stadtteilbibliothek Kalk, Kalk",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41402/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "17 bis 18 Uhr, , Folgetermine:, 18. November, 25. November, 2. Dezember, 9. Dezember · Lesetraining für Kinder der zweiten und dritten Klasse mit Begleitung eines Hundes in der Stadtteilbibliothek Kalk."
+  },
+  {
+    "titel": "Infoveranstaltung der Bauaufsicht",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T00:00:00",
+    "ort": "Kalk-Karree, Kalk",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41542/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10 bis etwa 14 Uhr · Wir erklären Ihnen, wie Sie Bauanträge richtig und vollständig einreichen."
+  },
+  {
+    "titel": "Bücherbabys – die literarische Krabbelgruppe",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T00:00:00",
+    "ort": "Stadtteilbibliothek Mülheim, Mülheim",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41320/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 12 Uhr · Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Mülheim."
+  },
+  {
+    "titel": "Chor Kanti",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41286/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 12:30 Uhr · Jeden Donnerstag außerhalb der Ferien trifft sich der Chor Kanti – im Interim der Zentralbibliothek"
+  },
+  {
+    "titel": "Mobile Filming",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40907/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15 bis 16:30 Uhr · Filmen mit dem Handy – aber richtig! Ein Makerspace-Workshop im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Offener Spieletreff",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T00:00:00",
+    "ort": "Stadtteilbibliothek Porz, Porz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41323/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15 bis 18 Uhr · Du bist dran! Treff für Gesellschaftsspiele in der Stadtteilbibliothek Porz."
+  },
+  {
+    "titel": "Kuscheltier-Übernachtung",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T00:00:00",
+    "ort": "Stadtteilbibliothek Bocklemünd/Mengenich, Bocklemünd/Mengenich",
+    "preis": "Die Teilnahme ist kostenlos",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41324/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17:30 Uhr · Bastelnachmittag mit anschließender Übernachtung deines Kuscheltiers – in der Stadtteilbibliothek Bocklemünd/Mengenich."
+  },
+  {
+    "titel": "Quiltingtreff",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T00:00:00",
+    "ort": "Stadtteilbibliothek Haus Balchem, Altstadt/Süd",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41443/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 18 Uhr · Nähkunst mit der Hand – gemeinsam Quilten in der Stadtteilbibliothek Haus Balchem."
+  },
+  {
+    "titel": "Bücherbande-Treff",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Veranstaltung ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41495/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 18 Uhr · Ein Nachmittag mit Lieblingsbüchern und anderen lesebegeisterten Kindern im Interim der Zentralbibliothek"
+  },
+  {
+    "titel": "Bilderbuchkreativzeit",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T00:00:00",
+    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41334/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17:30 Uhr · Lese- und Kreativzeit für Kinder ab 4 Jahren in der Stadtteilbibliothek Nippes."
+  },
+  {
+    "titel": "Lizenz für 3D-Druck",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T00:00:00",
+    "ort": "Stadtteilbibliothek Rodenkirchen, Rodenkirchen",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40285/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 18:30 Uhr · In diesem Workshop erhalten Sie eine Lizenz für den 3D-Drucker. In der Stadtteilbibliothek Rodenkirchen."
+  },
+  {
+    "titel": "Handarbeitstreff",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T00:00:00",
+    "ort": "Stadtteilbibliothek Sülz, Sülz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41325/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 18:30 Uhr · Gemeinsam stricken, sticken und häkeln in der Stadtteilbibliothek Sülz."
+  },
+  {
+    "titel": "Mobile Filming 2",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40908/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "17 bis 18:30 Uhr · Filmtechniken für Fortgeschrittene – Ein Makerspace-Workshop im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Pen & Paper-Spieleabend",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41514/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "17:30 bis 19:30 Uhr · Gemeinsam erleben und bestehen wir Abenteuer – im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Shampoobars selbst herstellen",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Materialgebühr beträgt 3 Euro. Du bezahlst sie in bar vor Ort.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40830/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "18 bis 19:30 Uhr · Ein Makerspace-Workshop im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Lesung mit Agnieszka Lessmann und Frank Olbert",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Der Eintritt kostet 8 Euro, ermäßigt 6 Euro, mit Schwerbehindertenausweis 4 Euro",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41267/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "19 Uhr · Buchpremiere von Schieferbruchverse und Das verschwundene Viertel – im Rahmen unseres Kulturprogramms im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Einführung für Schulen in die Anwendung Edumaps",
+    "datum": "13. Nov 2026",
+    "datum_raw": "2026-11-13T00:00:00",
+    "ort": "Online-Veranstaltung",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40279/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "13:30 bis 15 Uhr · Für Lehrkräfte und pädagogisches Fachpersonal an Kölner Schulen"
+  },
+  {
+    "titel": "Repair Café",
+    "datum": "13. Nov 2026",
+    "datum_raw": "2026-11-13T00:00:00",
+    "ort": "Stadtteilbibliothek Rodenkirchen, Rodenkirchen",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41236/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15 bis 17 Uhr · Reparieren statt wegwerfen – in der Stadtteilbibliothek Rodenkirchen."
+  },
+  {
+    "titel": "Nippeser Strickmamsellcher",
+    "datum": "13. Nov 2026",
+    "datum_raw": "2026-11-13T00:00:00",
+    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41295/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15:30 bis 17:30 Uhr · Stricken und Klönen in der Stadtteilbibliothek Nippes."
+  },
+  {
+    "titel": "Vorlesezeit",
+    "datum": "13. Nov 2026",
+    "datum_raw": "2026-11-13T00:00:00",
+    "ort": "Stadtteilbibliothek Mülheim, Mülheim",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41633/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Mülheim"
+  },
+  {
+    "titel": "LeseWelten",
+    "datum": "13. Nov 2026",
+    "datum_raw": "2026-11-13T00:00:00",
+    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41299/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Nippes."
+  },
+  {
+    "titel": "Lizenz für Lasercutter",
+    "datum": "13. Nov 2026",
+    "datum_raw": "2026-11-13T00:00:00",
+    "ort": "Stadtteilbibliothek Porz, Porz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/39044/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 18 Uhr · Durch diesen Workshop erhalten Sie die Möglichkeit, den Lasercutter der Stadtbibliothek Porz selbstständig zu nutzen."
+  },
+  {
+    "titel": "MINT-Vorlesen",
+    "datum": "13. Nov 2026",
+    "datum_raw": "2026-11-13T00:00:00",
+    "ort": "Stadtteilbibliothek Sülz, Sülz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41501/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17 Uhr · Bücher und Experimente für neugierige Kinder – in der Stadtteilbibliothek Sülz."
+  },
+  {
+    "titel": "Pen & Paper-Spieleabend: Freitag der Dreizehnte",
+    "datum": "13. Nov 2026",
+    "datum_raw": "2026-11-13T00:00:00",
+    "ort": "Stadtteilbibliothek Ehrenfeld, Ehrenfeld",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41348/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "19 bis 22 Uhr · Gruselige Pen & Paper-Runde ab 18 Jahren in der Stadtteilbibliothek Ehrenfeld. Bist du mutig genug?"
+  },
+  {
+    "titel": "Rugby Länderspiel Deutschland gegen Dänemark",
+    "datum": "14. Nov 2026",
+    "datum_raw": "2026-11-14T00:00:00",
+    "ort": "ASV Köln e. V.",
+    "preis": "8 bis 20 Euro je nach Platzwahl",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41454/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "ab 13:30 Uhr · Die deutsche Rugby-Nationalmannschaft trifft auf die dänische Mannschaft. Das Spiel bietet Zuschauer*innen die Gelegenheit, die Nationalmannschaft live im Sportpark Müngersdorf zu erleben."
+  },
+  {
+    "titel": "Ratoncitos de biblioteca",
+    "datum": "14. Nov 2026",
+    "datum_raw": "2026-11-14T00:00:00",
+    "ort": "Stadtteilbibliothek Bocklemünd/Mengenich, Bocklemünd/Mengenich",
+    "preis": "Der Eintritt ist frei.  Entrada gratuita.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41184/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10:30 bis 11:15 Uhr · Singen, spielen und Bücher lesen. Eine spanische Veranstaltung für Kleinkinder in der Stadtteilbibliothek Bocklemünd. Cantar, jugar y leer libros. Un evento en español para niños pequeños en la biblioteca del barrio de Bocklemünd."
+  },
+  {
+    "titel": "MINT-Vorlesen am Samstag",
+    "datum": "14. Nov 2026",
+    "datum_raw": "2026-11-14T00:00:00",
+    "ort": "Stadtteilbibliothek Kalk, Kalk",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40461/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 11:30 Uhr · Eine Kinderlesung in der Stadtteilbibliothek Kalk."
+  },
+  {
+    "titel": "Vorlesezeit",
+    "datum": "14. Nov 2026",
+    "datum_raw": "2026-11-14T00:00:00",
+    "ort": "Stadtteilbibliothek Chorweiler, Chorweiler",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41308/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 11:30 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Chorweiler."
+  },
+  {
+    "titel": "Lesekreis in Sülz",
+    "datum": "14. Nov 2026",
+    "datum_raw": "2026-11-14T00:00:00",
+    "ort": "Stadtteilbibliothek Sülz, Sülz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41327/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 12 Uhr · Monatlicher Austausch über gemeinsam gewählte Lektüre in der Stadtteilbibliothek Sülz."
+  },
+  {
+    "titel": "Ehrenfelder Lesekreis",
+    "datum": "14. Nov 2026",
+    "datum_raw": "2026-11-14T00:00:00",
+    "ort": "Stadtteilbibliothek Ehrenfeld, Ehrenfeld",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41326/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 12:30 Uhr · Monatlicher Austausch über gemeinsam gewählte Lektüre in der Stadtteilbibliothek Ehrenfeld."
+  },
+  {
+    "titel": "Digital Independence Day",
+    "datum": "14. Nov 2026",
+    "datum_raw": "2026-11-14T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41212/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 13 Uhr · Alternativen zu großen IT-Konzernen kennenlernen mit dem Chaos Computer Club. Im Rahmen der Reihe Digitale Werkstatt im Interim der Zentralbibliothek."
+  },
+  {
+    "titel": "Workshop Digitales Zeichnen",
+    "datum": "14. Nov 2026",
+    "datum_raw": "2026-11-14T00:00:00",
+    "ort": "Stadtteilbibliothek Kalk, Kalk",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40477/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 13 Uhr · Ein digitaler Zeichen-Workshop zum Programm TagTool, mit dem man eine Glaswand gestalten kann – in der Stadtteilbibliothek Kalk"
+  },
+  {
+    "titel": "Sashiko: Lieblingsstücke reparieren und veredeln",
+    "datum": "14. Nov 2026",
+    "datum_raw": "2026-11-14T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Materialgebühr beträgt 4 Euro. Du bezahlst sie in bar vor Ort.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40825/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 13:30 Uhr · Japanische Stickkunst kennenlernen – ein Makerspace-Workshop im Interim der Zentralbibliothek."
+  },
+  {
+    "titel": "LeseWelten",
+    "datum": "14. Nov 2026",
+    "datum_raw": "2026-11-14T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41312/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11:30 bis 12 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Führung im Bunker K101",
+    "datum": "14. Nov 2026",
+    "datum_raw": "2026-11-14T00:00:00",
+    "ort": "bunkerk101, Ehrenfeld",
+    "preis": "Die Veranstaltung ist kostenfrei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41589/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "14 bis 15:30 Uhr · Führung unter dem Titel Wenigstens ein Dach über dem Kopf im Bunker in der Körnerstr."
+  },
+  {
+    "titel": "Podium für Morgen – Konzert der SVA der Rheinischen Musikschule",
+    "datum": "14. Nov 2026",
+    "datum_raw": "2026-11-14T00:00:00",
+    "ort": "Humboldt-Gymnasium, Altstadt/Süd",
+    "preis": "Eintritt frei",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41390/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "18 Uhr · Die Nachwuchsmusiker*innen der Studienvorbereitenden Ausbildung (SVA) der Rheinischen Musikschule präsentieren ein abwechslungsreiches Konzertprogramm."
+  },
+  {
+    "titel": "Tag der offenen Tür Gymnasium Müngersdorf / Regionalschule Weiden",
+    "datum": "14. Nov 2026",
+    "datum_raw": "2026-11-14T00:00:00",
+    "ort": "Gymnasium Müngerdorf, Müngersdorf",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41520/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "9 bis 12 Uhr · Die Rheinische Musikschule Köln informiert als Kooperatinspartnerin über das Unterrichtsangebot vor Ort."
+  },
+  {
+    "titel": "Kabarett: Christian Ehring",
+    "datum": "14. Nov 2026",
+    "datum_raw": "2026-11-14T00:00:00",
+    "ort": "Rathaussaal Porz, Porz",
+    "preis": "Vorverkauf: 33,50 Euro Abendkasse: 35,50 Euro (eine Stunde vor Beginn, nur Barza",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/39932/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Einlass: 19:30 Uhr, Beginn: 20 Uhr · Der Moderator Christian Ehring von der erfolgreichen Extra 3-Sendung ist mit seinem neuen Kabarett-Programm Versöhnung zu Gast."
+  },
+  {
+    "titel": "7. Konrad-Adenauer-Wettbewerb",
+    "datum": "14. Nov 2026",
+    "datum_raw": "2026-11-14T00:00:00",
+    "ort": "Rheinische Musikschule Köln, Ehrenfeld",
+    "preis": "Für das Publikum ist der Eintritt frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/38758/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Wettbewerb für junge Schüler*innen der Rheinischen Musikschule bis 12 Jahre"
+  },
+  {
+    "titel": "MINT-Workshop am Sonntag",
+    "datum": "15. Nov 2026",
+    "datum_raw": "2026-11-15T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Veranstaltung ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41246/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "14 bis 17 Uhr · Die fjmk bastelt und programmiert mit euch im Rahmen von Sonntags in der Bibliothek im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Offener Puzzle-Treff",
+    "datum": "15. Nov 2026",
+    "datum_raw": "2026-11-15T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Veranstaltung ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41418/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "14 bis 18 Uhr · Puzzeln für alle mit dem Puzzleverein Deutschland e. V. im Rahmen von Sonntags in der Bibliothek im Interim der Zentralbibliothek."
+  },
+  {
+    "titel": "Außerschulische Lernorte und Schule im Dialog – Netzwerkmesse Köln",
+    "datum": "16. Nov 2026",
+    "datum_raw": "2026-11-16T00:00:00",
+    "ort": "Gymnasium Thusneldastraße, Deutz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41530/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "14 bis 16:30 Uhr · Für Lehrkräfte und pädagogisches Personal an Kölner Schulen."
+  },
+  {
+    "titel": "Kölner Gesundheitsgespräche: Geistig fit bleiben – mit zehn Maßnahmen Demenz vorbeugen",
+    "datum": "16. Nov 2026",
+    "datum_raw": "2026-11-16T00:00:00",
+    "ort": "Volkshochschule Köln - Studienhaus am Neumarkt, Altstadt/Süd",
+    "preis": "Die Teilnahme ist kostenfrei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41234/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "18 bis 19:30 Uhr · Vortrag und Gespräch"
+  },
+  {
+    "titel": "Weihnachtskarten gestalten mit dem Schneideplotter",
+    "datum": "17. Nov 2026",
+    "datum_raw": "2026-11-17T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Veranstaltung ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40828/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 14 Uhr · Ein Makerspace-Workshop im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Spieletester*innen",
+    "datum": "17. Nov 2026",
+    "datum_raw": "2026-11-17T00:00:00",
+    "ort": "Stadtteilbibliothek Kalk, Kalk",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40630/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15 bis 16:30 Uhr (ab 6 Jahre), 16:30 bis 18 Uhr (ab 12 Jahre) · Kinder und Jugendliche ab 6 und 12 Jahren haben die Möglichkeit aktuelle Spiele auszuprobieren – in der Stadtteilbibliothek Kalk."
+  },
+  {
+    "titel": "Nippeser Strickmamsellcher",
+    "datum": "17. Nov 2026",
+    "datum_raw": "2026-11-17T00:00:00",
+    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41278/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15:30 bis 17:30 Uhr · Stricken und Klönen in der Stadtteilbibliothek Nippes."
+  },
+  {
+    "titel": "Vorlesen mit dem Kamishibai – Erzähltheater",
+    "datum": "17. Nov 2026",
+    "datum_raw": "2026-11-17T00:00:00",
+    "ort": "Stadtteilbibliothek Rodenkirchen, Rodenkirchen",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41328/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17 Uhr · Wir öffnen die Türen des Kamishibai und lesen eine Geschichte vor – in der Stadtteilbibliothek Rodenkirchen."
+  },
+  {
+    "titel": "Bilderbuchkino und Bastelspaß",
+    "datum": "17. Nov 2026",
+    "datum_raw": "2026-11-17T00:00:00",
+    "ort": "Stadtteilbibliothek Chorweiler, Chorweiler",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41329/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17 Uhr · Vorlesen und Basteln für Kinder von 4 bis 6 Jahren in der Stadtteilbibliothek Chorweiler."
+  },
+  {
+    "titel": "LeseWelten am Dienstag",
+    "datum": "17. Nov 2026",
+    "datum_raw": "2026-11-17T00:00:00",
+    "ort": "Stadtteilbibliothek Kalk, Kalk",
+    "preis": "Die Veranstaltung ist kostenfrei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41482/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17 Uhr · Eine Kinderlesung in Zusammenarbeit mit LeseWelten Köln in der Stadtteilbibliothek Kalk."
+  },
+  {
+    "titel": "Mobile Filming 2",
+    "datum": "17. Nov 2026",
+    "datum_raw": "2026-11-17T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40915/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "17:30 bis 19 Uhr · Filmtechniken für Fortgeschrittene – Ein Makerspace-Workshop im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Bücherbabys – die literarische Krabbelgruppe",
+    "datum": "17. Nov 2026",
+    "datum_raw": "2026-11-17T00:00:00",
+    "ort": "Stadtteilbibliothek Haus Balchem, Altstadt/Süd",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41434/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "9:30 bis 10:30 Uhr · Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Haus Balchem."
+  },
+  {
+    "titel": "Offene Kreativwerkstatt Digital Making Place – Fokus Lasercutter",
+    "datum": "18. Nov 2026",
+    "datum_raw": "2026-11-18T00:00:00",
+    "ort": "KOMEZ – Kommunales Medienzentrum Köln, Mülheim",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41471/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "12:30 bis 16:30 Uhr · Für Lehrkräfte und pädagogisches Personal an Kölner Schulen"
+  },
+  {
+    "titel": "Lunch Lectures",
+    "datum": "18. Nov 2026",
+    "datum_raw": "2026-11-18T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41525/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "13:15 Uhr · 35 Literaturgeschichten – heute mit Alina Herbing und der amerikanischen Schriftstellerin Lucia Berlin. Im Rahmen unseres Kulturprogramms im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Vorlesezeit für Vorschulkinder",
+    "datum": "18. Nov 2026",
+    "datum_raw": "2026-11-18T00:00:00",
+    "ort": "Stadtteilbibliothek Sülz, Sülz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41330/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17 Uhr · Bilderbuchgeschichten für Kinder ab 5 Jahren in der Stadtteilbibliothek Sülz."
+  },
+  {
+    "titel": "Ausstellungsführung: Hungerleben – Lebenshunger. Köln 1946/47",
+    "datum": "18. Nov 2026",
+    "datum_raw": "2026-11-18T00:00:00",
+    "ort": "Historisches Archiv mit Rheinischem Bildarchiv, Neustadt/Süd",
+    "preis": "Die Veranstaltung ist kostenfrei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41640/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17:30 Uhr · Führung durch die Ausstellung Hungerleben - Lebenshunger. Köln 1946/47"
+  },
+  {
+    "titel": "Präventionsabend: Risiken im Netz – Fake News, Cybercrime & Co.",
+    "datum": "18. Nov 2026",
+    "datum_raw": "2026-11-18T00:00:00",
+    "ort": "Schule IM Süden, Meschenich",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40792/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "18 bis 20 Uhr · Für alle Personen mit und ohne schulischen Bezug"
+  },
+  {
+    "titel": "Renzel und Gretel: Ein Mann und seine Gitarre",
+    "datum": "18. Nov 2026",
+    "datum_raw": "2026-11-18T00:00:00",
+    "ort": "Stadtteilbibliothek Rodenkirchen, Rodenkirchen",
+    "preis": "Der Eintritt kostet 15 Euro.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41414/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "19:30 Uhr · Klaus Renzel präsentiert sein musikalisches Comedy-Solo in der Stadtteilbibliothek Rodenkirchen. Eine Veranstaltung des Fördervereins Literamus e. V."
+  },
+  {
+    "titel": "Date mit deiner Zukunft",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T00:00:00",
+    "ort": "Ausbildungsleitung der Stadt Köln, Deutz",
+    "preis": "Die Veranstaltung ist kostenfrei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41596/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10 bis 16 Uhr · Date mit deiner Zukunft – eine Informationsveranstaltung für Schüler*innen und Quereinsteiger*innen"
+  },
+  {
+    "titel": "Bücherbabys – die literarische Krabbelgruppe",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T00:00:00",
+    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41284/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 12 Uhr · Im Zentrum steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Nippes."
+  },
+  {
+    "titel": "Chor Kanti",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41287/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 12:30 Uhr · Jeden Donnerstag außerhalb der Ferien trifft sich der Chor Kanti – im Interim der Zentralbibliothek"
+  },
+  {
+    "titel": "AIS.chat im Schulalltag für Berufskollegs",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T00:00:00",
+    "ort": "Online-Veranstaltung",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41356/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "12 bis 13:30 Uhr · Für Lehrkräfte und pädagogisches Personal an Kölner Schulen"
+  },
+  {
+    "titel": "Digitale Souveränität und Resilienz bei Schüler*innen fördern",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T00:00:00",
+    "ort": "Online-Veranstaltung",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41473/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "14 bis 16 Uhr · Für Lehrkräfte und pädagogisches Personal an Kölner Schulen"
+  },
+  {
+    "titel": "Führung: Zu Besuch im Rheinischen Bildarchiv",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T00:00:00",
+    "ort": "Historisches Archiv mit Rheinischem Bildarchiv, Neustadt/Süd",
     "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/veranstaltungskalender/mintkoeln-2026-und-dann-hats-geknallt",
-    "quelle": "Stadt Köln",
-    "teaser": "Forschende erzählen von ihren größten Rückschlägen – im Rahmen der MINTköln 2026 im Interim Zentralbibliothek."
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41097/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17 Uhr · Ausgebucht: Bei diesem Rundgang erhalten Sie einen umfassenden Überblick zu den Alltäglichkeiten und Besonderheiten eines modernen Bildarchivs."
+  },
+  {
+    "titel": "Kaffee, Kuchen und KI",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41210/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17 Uhr · KünstIiche Intelligenz entdecken im Interim der Zentralbibliothek – eine Veranstaltung im Rahmen der Reihe Digitale Werkstatt."
+  },
+  {
+    "titel": "Kreativ-Tag",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T00:00:00",
+    "ort": "Stadtteilbibliothek Porz, Porz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41331/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 18 Uhr · Lasercutter x Kreativ-Tag: Papp-Modelle bemalen in der Stadtteilbibliothek Porz."
+  },
+  {
+    "titel": "Repair Café",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T00:00:00",
+    "ort": "Stadtteilbibliothek Mülheim, Mülheim",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41335/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 18:30 Uhr · Reparieren statt wegwerfen – in der Stadtteilbibliothek Mülheim."
+  },
+  {
+    "titel": "Sew it yourself!",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T00:00:00",
+    "ort": "Stadtteilbibliothek Rodenkirchen, Rodenkirchen",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40851/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 18:30 Uhr · Nähmaschine für Ahnungslose. Ein Makerspace-Workshop in der Stadtteilbibliothek Rodenkirchen."
+  },
+  {
+    "titel": "Demokratie lebt vom Mitmachen",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T00:00:00",
+    "ort": "Humboldt-Gymnasium, Altstadt/Süd",
+    "preis": "kostenlos",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41650/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 Uhr bis 19:30 Uhr · Forum für Demokratie und Engagement – für alle Generationen."
+  },
+  {
+    "titel": "Vorlesezeit",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T00:00:00",
+    "ort": "Stadtteilbibliothek Ehrenfeld, Ehrenfeld",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41333/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17:30 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Ehrenfeld"
+  },
+  {
+    "titel": "Neue Tricks für NAO",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41632/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 19:30 Uhr · Programmierung unseres humanoiden Roboters. Im Rahmen unseres Makerspace-Programmes im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Comic Lounge 68",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T00:00:00",
+    "ort": "Stadtteilbibliothek Haus Balchem, Altstadt/Süd",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41436/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:45 bis 18:45 Uhr · Heutiges Thema: Wo Gespenster toben – Coaching für angehende Comiczeichner*innen ab 9 Jahren mit Leo Leowald in der Stadtteilbibliothek Haus Balchem."
+  },
+  {
+    "titel": "Fynn Ole Engler: Mit Einstein denken",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Der Eintritt kostet 8 Euro, ermäßigt 6 Euro, mit Schwerbehindertenausweis 4 Euro",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40884/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "19 Uhr · Der Autor im Gespräch mit Gert Scobel. Im Rahmen unseres Kulturprogramms im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Bücherbabys – die literarische Krabbelgruppe",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T00:00:00",
+    "ort": "Stadtteilbibliothek Kalk, Kalk",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41465/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10 bis 11 Uhr · Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Kalk."
+  },
+  {
+    "titel": "Digital Fit",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T00:00:00",
+    "ort": "Stadtteilbibliothek Porz, Porz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41217/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10 bis 12 Uhr · Ihr Einstieg in die digitale Welt. Ehrenamtliche Hilfestellung zu allen Fragen rund um Smartphone, Internet und mehr. Im Rahmen der Reihe Digitale Werkstatt in der Stadtteilbibliothek Porz."
+  },
+  {
+    "titel": "Nippeser Strickmamsellcher",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T00:00:00",
+    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41296/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15:30 bis 17:30 Uhr · Stricken und Klönen in der Stadtteilbibliothek Nippes."
+  },
+  {
+    "titel": "LeseWelten",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T00:00:00",
+    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41300/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Nippes."
+  },
+  {
+    "titel": "Schere, Stift, Papier",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T00:00:00",
+    "ort": "Stadtteilbibliothek Chorweiler, Chorweiler",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41337/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17 Uhr · Bastelaktion für Kinder von 6 bis 10 Jahre in der Stadtteilbibliothek Chorweiler"
+  },
+  {
+    "titel": "MINT-Vorlesen und Experimentieren",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T00:00:00",
+    "ort": "Stadtteilbibliothek Rodenkirchen, Rodenkirchen",
+    "preis": "Die Veranstaltung ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41339/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17 Uhr · MINT-Vorlesestunde mit passendem Experiment in der Stadtteilbibliothek Rodenkirchen."
+  },
+  {
+    "titel": "Vorlesezeit auf Türkisch",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T00:00:00",
+    "ort": "Stadtteilbibliothek Mülheim, Mülheim",
+    "preis": "Der Eintritt ist frei. Giriş ücretsiz",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41400/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17 Uhr, Saat 16.00’dan 17.00’a kadar · Große Geschichten für kleine Leute. Zweisprachige Lesung in der Stadtteilbibliothek Mülheim. Küçük İnsanlar için Büyük Hikâyeler. İki dilde hikâye okuma Stadtteilbibliothek Mülheim'da."
+  },
+  {
+    "titel": "Bundesweiter Vorlesetag",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T00:00:00",
+    "ort": "Stadtteilbibliothek Porz, Porz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41572/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17:30 Uhr · Die Autorin Diary Writer liest aus ihrem autobiografischen Buch Raum – in der Stadtteilbibliothek Porz."
+  },
+  {
+    "titel": "Bücherplausch",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T00:00:00",
+    "ort": "Stadtteilbibliothek Porz, Porz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41336/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 18 Uhr · Offener Treffpunkt rund ums Lesen in der Stadtteilbibliothek Porz."
+  },
+  {
+    "titel": "MINT-Vorlesen",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T00:00:00",
+    "ort": "Stadtteilbibliothek Sülz, Sülz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41502/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17 Uhr · Bücher und Experimente für neugierige Kinder – in der Stadtteilbibliothek Sülz."
+  },
+  {
+    "titel": "Monstermäßige Vorlesezeit",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41459/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17:30 Uhr · Auf der Suche nach 101 Monstern – eine Veranstaltung im Rahmen des Bundesweiten Vorlesetags im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Mach MI(N)T!",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T00:00:00",
+    "ort": "Stadtteilbibliothek Ehrenfeld, Ehrenfeld",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41338/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17:30 Uhr · Spannende Experimente für coole Kids in der Stadtteilbibliothek Ehrenfeld."
+  },
+  {
+    "titel": "ChatGPT & Co für Neugierige",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T00:00:00",
+    "ort": "Stadtteilbibliothek Kalk, Kalk",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41207/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 18 Uhr · Lernen Sie ChatGPT und Künstliche Intelligenz kennen. Im Rahmen der Reihe Digitale Werkstatt in der Stadtteilbibliothek Kalk."
+  },
+  {
+    "titel": "Digitalsprechstunde",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T00:00:00",
+    "ort": "Stadtteilbibliothek Kalk, Kalk",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41203/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "3 Termine:, 10:30 bis 11 Uhr, 11 bis 11:30 Uhr, 11:30 bis 12 Uhr · Hilfestellung zu digitalen Themen – eine Veranstaltung aus der Reihe Digitale Werkstatt in der Stadtteilbibliothek Kalk."
+  },
+  {
+    "titel": "34. Rock & Chanson Festival",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T00:00:00",
+    "ort": "Rathaussaal Porz, Porz",
+    "preis": "ab 35 Euro",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41377/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Freitag, 20. November 2026:, Einlass: 18:30 Uhr, Beginn: 19 Uhr, , Samstag, 21. November 2026:, Einlass: 17:30 Uhr, Beginn: 18 Uhr · Musikfestival der Länder Frankreich, Deutschland und Polen"
+  },
+  {
+    "titel": "Bücherbabys – die literarische Krabbelgruppe",
+    "datum": "21. Nov 2026",
+    "datum_raw": "2026-11-21T00:00:00",
+    "ort": "Stadtteilbibliothek Ehrenfeld, Ehrenfeld",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41340/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10:30 bis 11 Uhr · Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Ehrenfeld."
+  },
+  {
+    "titel": "Digitale Musikproduktion",
+    "datum": "21. Nov 2026",
+    "datum_raw": "2026-11-21T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Veranstaltung ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40827/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10:30 bis 13:30 Uhr · Den erste eigenen Song mit GarageBand kreieren – Ein Makerspace-Workshop im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Vorlesezeit",
+    "datum": "21. Nov 2026",
+    "datum_raw": "2026-11-21T00:00:00",
+    "ort": "Stadtteilbibliothek Chorweiler, Chorweiler",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41309/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 11:30 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Chorweiler."
+  },
+  {
+    "titel": "Vorlesen am Samstag",
+    "datum": "21. Nov 2026",
+    "datum_raw": "2026-11-21T00:00:00",
+    "ort": "Stadtteilbibliothek Kalk, Kalk",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40469/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 11:30 Uhr · Eine Kinderlesung in der Stadtteilbibliothek Kalk."
+  },
+  {
+    "titel": "PÄNG – Die Jobmesse für pädagogische Berufe",
+    "datum": "21. Nov 2026",
+    "datum_raw": "2026-11-21T00:00:00",
+    "ort": "Pattenhalle Ehrenfeld, Ehrenfeld",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40590/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 16 Uhr · Die Jobmesse PÄNG ist Ihre Anlaufstelle, wenn Sie sich für pädagogische Berufe interessieren."
+  },
+  {
+    "titel": "Spielend in den Herbst",
+    "datum": "21. Nov 2026",
+    "datum_raw": "2026-11-21T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41349/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 16 Uhr · Ein Brettspiel-Event im Interim der Zentralbibliothek."
+  },
+  {
+    "titel": "LeseWelten",
+    "datum": "21. Nov 2026",
+    "datum_raw": "2026-11-21T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41313/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11:30 bis 12 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Preisträgerkonzert des Konrad-Adenauer-Wettbewerbs",
+    "datum": "21. Nov 2026",
+    "datum_raw": "2026-11-21T00:00:00",
+    "ort": "Rheinische Musikschule Köln, Ehrenfeld",
+    "preis": "Eintritt frei",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41027/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15 Uhr · Die Preisträger*innen präsentieren Auszüge aus ihrem Wettbewerbsprogramm."
+  },
+  {
+    "titel": "Tag der offenen Tür Georg-Büchner-Gymnasium Weiden / Regionalschule Weiden",
+    "datum": "21. Nov 2026",
+    "datum_raw": "2026-11-21T00:00:00",
+    "ort": "Georg-Büchner-Gymnasium, Weiden",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41521/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "8:30 bis 12 Uhr · Die Rheinische Musikschule Köln informiert als Kooperationspartner über das Unterrichtsangebot vor Ort."
+  },
+  {
+    "titel": "Tag der offenen Tür Humboldt-Gymnasium (Musikzweig) / Regionalschule Süd",
+    "datum": "21. Nov 2026",
+    "datum_raw": "2026-11-21T00:00:00",
+    "ort": "Rheinische Musikschule – Regionalschule Süd / Musikzweig Humboldt-Gymnasium, Altstadt/Süd",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41569/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "9 bis 12 Uhr · Das Humboldt-Gymnasium und die Rheinische Musikschule Köln informieren über den Musikschwerpunkt und das musikalische Angebot der Regionalschule Süd."
+  },
+  {
+    "titel": "MINT-Workshop am Sonntag",
+    "datum": "22. Nov 2026",
+    "datum_raw": "2026-11-22T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Veranstaltung ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41247/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "14 bis 17 Uhr · Die fjmk bastelt und programmiert mit euch im Rahmen von Sonntags in der Bibliothek im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Fang den Bösen!",
+    "datum": "22. Nov 2026",
+    "datum_raw": "2026-11-22T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41419/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15 bis 16 Uhr · Krimiratespiel für Kinder im Rahmen von Sonntags in der Bibliothek im Interim der Zentralbibliothek."
+  },
+  {
+    "titel": "Workshop zu LeOn (Leseraum Online)",
+    "datum": "23. Nov 2026",
+    "datum_raw": "2026-11-23T00:00:00",
+    "ort": "KOMEZ – Kommunales Medienzentrum Köln, Mülheim",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41359/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "13:30 bis 15:30 Uhr · Für Lehrkräfte und pädagogisches Personal an Kölner Schulen"
+  },
+  {
+    "titel": "Startklar mit dem iPad: Grundlagen, Apps & Ideen für den Unterricht",
+    "datum": "24. Nov 2026",
+    "datum_raw": "2026-11-24T00:00:00",
+    "ort": "KOMEZ – Kommunales Medienzentrum Köln, Mülheim",
+    "preis": "Bitte melden Sie sich mit dem Anmeldeformular oder telefonisch unter 0221 / 221-",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41385/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "14 bis 16:30 Uhr · Für Lehrkräfte und pädagogisches Personal an Kölner Schulen"
+  },
+  {
+    "titel": "Spieletester*innen",
+    "datum": "24. Nov 2026",
+    "datum_raw": "2026-11-24T00:00:00",
+    "ort": "Stadtteilbibliothek Kalk, Kalk",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40631/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15 bis 16:30 Uhr (ab 6 Jahre), 16:30 bis 18 Uhr (ab 12 Jahre) · Kinder und Jugendliche ab 6 und 12 Jahren haben die Möglichkeit aktuelle Spiele auszuprobieren – in der Stadtteilbibliothek Kalk."
+  },
+  {
+    "titel": "Nippeser Strickmamsellcher",
+    "datum": "24. Nov 2026",
+    "datum_raw": "2026-11-24T00:00:00",
+    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41279/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15:30 bis 17:30 Uhr · Stricken und Klönen in der Stadtteilbibliothek Nippes."
+  },
+  {
+    "titel": "LeseWelten am Dienstag",
+    "datum": "24. Nov 2026",
+    "datum_raw": "2026-11-24T00:00:00",
+    "ort": "Stadtteilbibliothek Kalk, Kalk",
+    "preis": "Die Veranstaltung ist kostenfrei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41483/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17 Uhr · Eine Kinderlesung in Zusammenarbeit mit LeseWelten Köln in der Stadtteilbibliothek Kalk."
+  },
+  {
+    "titel": "Parolen-Paroli",
+    "datum": "24. Nov 2026",
+    "datum_raw": "2026-11-24T00:00:00",
+    "ort": "Stadtteilbibliothek Mülheim, Mülheim",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41415/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "18 bis 21 Uhr · Argumentationstraining gegen Stammtischparolen – in der Stadtteilbibliothek Mülheim."
+  },
+  {
+    "titel": "Niklas Luhmann: Ein Leben zwischen Umbruch und Ordnung",
+    "datum": "24. Nov 2026",
+    "datum_raw": "2026-11-24T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Der Eintritt kostet 8 Euro, ermäßigt 6 Euro, mit Schwerbehindertenausweis 4 Euro",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40886/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "19 Uhr · Autor und Sohn Clemens Luhmann im Gespräch mit Gert Scobel. Im Rahmen unseres Kulturprogramms im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Bücherbabys – die literarische Krabbelgruppe",
+    "datum": "24. Nov 2026",
+    "datum_raw": "2026-11-24T00:00:00",
+    "ort": "Stadtteilbibliothek Haus Balchem, Altstadt/Süd",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41435/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "9:30 bis 10:30 Uhr · Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Haus Balchem."
+  },
+  {
+    "titel": "Bücherbabys – die literarische Krabbelgruppe",
+    "datum": "25. Nov 2026",
+    "datum_raw": "2026-11-25T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Veranstaltung ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41318/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10:15 bis 10:45 Uhr · Im Zentrum steht die Sprach- und Sinnesförderung der Kleinsten – im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Vorlesezeit",
+    "datum": "25. Nov 2026",
+    "datum_raw": "2026-11-25T00:00:00",
+    "ort": "Stadtteilbibliothek Mülheim, Mülheim",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41341/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Mülheim"
+  },
+  {
+    "titel": "Let's Quiz! – Unter Wasser",
+    "datum": "25. Nov 2026",
+    "datum_raw": "2026-11-25T00:00:00",
+    "ort": "Stadtteilbibliothek Chorweiler, Chorweiler",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41350/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17:15 Uhr · Quizze und Rätsel der besonderen Form – testet euer Wissen über (und unter) Wasser in der Stadtteilbibliothek Chorweiler."
+  },
+  {
+    "titel": "Grußkarten-Werkstatt",
+    "datum": "25. Nov 2026",
+    "datum_raw": "2026-11-25T00:00:00",
+    "ort": "Stadtteilbibliothek Porz, Porz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41351/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 18 Uhr · Weihnachtliche Grußkarten selbst gestalten – in der Stadtteilbibliothek Porz."
+  },
+  {
+    "titel": "Vorlesen mit dem Kamishibai-Erzähltheater",
+    "datum": "25. Nov 2026",
+    "datum_raw": "2026-11-25T00:00:00",
+    "ort": "Stadtteilbibliothek Sülz, Sülz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41342/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17 Uhr · Wir lesen und erzählen mit dem Kamishibai in der Stadtteilbibliothek Sülz."
+  },
+  {
+    "titel": "Ausstellungsführung: Hungerleben – Lebenshunger. Köln 1946/47",
+    "datum": "25. Nov 2026",
+    "datum_raw": "2026-11-25T00:00:00",
+    "ort": "Historisches Archiv mit Rheinischem Bildarchiv, Neustadt/Süd",
+    "preis": "Die Veranstaltung ist kostenfrei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41641/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17:30 Uhr · Führung durch die Ausstellung Hungerleben - Lebenshunger. Köln 1946/47"
+  },
+  {
+    "titel": "Vortrag: Vom Zeltlager zum demokratischen Sozialismus",
+    "datum": "25. Nov 2026",
+    "datum_raw": "2026-11-25T00:00:00",
+    "ort": "Historisches Archiv mit Rheinischem Bildarchiv, Neustadt/Süd",
+    "preis": "Die Veranstaltung ist kostenfrei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41592/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "18 bis 20 Uhr · Der Kinder- und Jugendverband Die Kölner Falken in den ersten Nachkriegsjahren"
+  },
+  {
+    "titel": "Kristof Magnusson: Ein Mann der Kunst",
+    "datum": "25. Nov 2026",
+    "datum_raw": "2026-11-25T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Der Eintritt kostet 8 Euro, ermäßigt 6 Euro, mit Schwerbehindertenausweis 4 Euro",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41268/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "19 Uhr · Ein Buch für die Stadt Köln 2026 – der Autor im Gespräch mit Claudia Dichter. Im Rahmen unseres Kulturprogramms im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Messe der Berufskollegs 2026",
+    "datum": "25. Nov 2026",
+    "datum_raw": "2026-11-25T00:00:00",
+    "ort": "MediaPark 6, Altstadt/Nord",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/34055/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "25. November 2026, 9 bis 16 Uhr, 18 Uhr: Vortrag für Eltern \"Berufskollegs im Überblick\" und Messe-Rundgang, 26. November 2026, 9 bis 15:30 Uhr · Die Kölner Berufskollegs informieren und beraten über die Möglichkeiten in der beruflichen Bildung und den damit verbundenen Chancen, berufliche und schul"
+  },
+  {
+    "titel": "Chor Kanti",
+    "datum": "26. Nov 2026",
+    "datum_raw": "2026-11-26T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41289/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 12:30 Uhr · Jeden Donnerstag außerhalb der Ferien trifft sich der Chor Kanti – im Interim der Zentralbibliothek"
+  },
+  {
+    "titel": "Erzählcafé",
+    "datum": "26. Nov 2026",
+    "datum_raw": "2026-11-26T00:00:00",
+    "ort": "Stadtteilbibliothek Porz, Porz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41401/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 18 Uhr · Kontakte knüpfen für die Adventszeit – in der Stadtteilbibliothek Porz."
+  },
+  {
+    "titel": "Code and Create",
+    "datum": "26. Nov 2026",
+    "datum_raw": "2026-11-26T00:00:00",
+    "ort": "Stadtteilbibliothek Chorweiler, Chorweiler",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41344/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 18 Uhr · Kreative Technikwerkstatt für Kinder in der Stadtteilbibliothek Chorweiler."
+  },
+  {
+    "titel": "Bilderbuchkino",
+    "datum": "26. Nov 2026",
+    "datum_raw": "2026-11-26T00:00:00",
+    "ort": "Stadtteilbibliothek Porz, Porz",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41345/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17:30 Uhr · Vorlese- und Malstunde ab 4 Jahren – in der Stadtteilbibliothek Porz."
+  },
+  {
+    "titel": "Wir zünden eine Kerze an",
+    "datum": "26. Nov 2026",
+    "datum_raw": "2026-11-26T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41396/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17:30 Uhr · Mit Geschichten, Kreativität und Spiel verkürzen wir die Wartezeit auf Weihnachten – in der Kinderbibliothek im Interim der Zentralbibliothek."
+  },
+  {
+    "titel": "Match nach Mittag",
+    "datum": "26. Nov 2026",
+    "datum_raw": "2026-11-26T00:00:00",
+    "ort": "Stadtteilbibliothek Mülheim, Mülheim",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41343/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 18 Uhr · Leg los mit LEGO®: Mehr als nur Bauen! In der Stadtteilbibliothek Mülheim."
+  },
+  {
+    "titel": "AIS.chat im Schulalltag für Schulen der Sekundarstufen I und II",
+    "datum": "26. Nov 2026",
+    "datum_raw": "2026-11-26T00:00:00",
+    "ort": "Online-Veranstaltung",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41358/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:45 bis 18:15 Uhr · Für Lehrkräfte und pädagogisches Personal an Schulen"
+  },
+  {
+    "titel": "Die vergessene Legende: Vom deutschen Mädel zur jüdischen Schauspielikone",
+    "datum": "26. Nov 2026",
+    "datum_raw": "2026-11-26T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40887/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "19 Uhr · Das außergewöhnliche Leben der Irene Klein. Buchvorstellung mit Tochter und Autorin Lital Porat. Im Rahmen unseres Kulturprogramms im Interim der Zentralbibliothek."
+  },
+  {
+    "titel": "Nippeser Strickmamsellcher",
+    "datum": "27. Nov 2026",
+    "datum_raw": "2026-11-27T00:00:00",
+    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41297/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15:30 bis 17:30 Uhr · Stricken und Klönen in der Stadtteilbibliothek Nippes."
+  },
+  {
+    "titel": "MINT-Vorlesen",
+    "datum": "27. Nov 2026",
+    "datum_raw": "2026-11-27T00:00:00",
+    "ort": "Stadtteilbibliothek Haus Balchem, Altstadt/Süd",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41437/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17 Uhr · Bücher und Experimente für neugierige Kinder – in der Stadtteilbibliothek Haus Balchem."
+  },
+  {
+    "titel": "Vorlesezeit",
+    "datum": "27. Nov 2026",
+    "datum_raw": "2026-11-27T00:00:00",
+    "ort": "Stadtteilbibliothek Mülheim, Mülheim",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41634/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Mülheim"
+  },
+  {
+    "titel": "LeseWelten",
+    "datum": "27. Nov 2026",
+    "datum_raw": "2026-11-27T00:00:00",
+    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41301/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Nippes."
+  },
+  {
+    "titel": "Lizenz für 3D-Druck",
+    "datum": "27. Nov 2026",
+    "datum_raw": "2026-11-27T00:00:00",
+    "ort": "Stadtteilbibliothek Porz, Porz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/38963/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 18 Uhr · Ein Workshop im Rahmen von Maker Porz."
+  },
+  {
+    "titel": "Nippes spielt!",
+    "datum": "27. Nov 2026",
+    "datum_raw": "2026-11-27T00:00:00",
+    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41347/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 18 Uhr · Der Brettspielnachmittag für Spielbegeisterte in der Stadtteilbibliothek Nippes."
+  },
+  {
+    "titel": "Herbstliche Grüße",
+    "datum": "27. Nov 2026",
+    "datum_raw": "2026-11-27T00:00:00",
+    "ort": "Stadtteilbibliothek Ehrenfeld, Ehrenfeld",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41352/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:00 bis 17:30 · Grußkarten, Einladungen und Lesezeichen mit Naturmaterialien herstellen und verzieren in der Stadtbibliothek Ehrenfeld"
+  },
+  {
+    "titel": "Fachbereichskonzert: Tastenzauber",
+    "datum": "27. Nov 2026",
+    "datum_raw": "2026-11-27T00:00:00",
+    "ort": "Rheinische Musikschule Köln, Ehrenfeld",
+    "preis": "Eintritt frei",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41035/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "17 Uhr · Der Fachbereich Tasteninstrumente der Rheinischen Musikschule lädt ein: Magische Momente mit unseren Jüngsten"
+  },
+  {
+    "titel": "Vorweihnachtskonzert der Regionalschule Weiden",
+    "datum": "27. Nov 2026",
+    "datum_raw": "2026-11-27T00:00:00",
+    "ort": "Rheinische Musikschule – Regionalschule Weiden, Weiden",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41522/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "18 Uhr · Die Regionalschule Weiden der Rheinischen Musikschule lädt herzlich zu einem festlichen Konzert ihrer Schüler*innen ein."
+  },
+  {
+    "titel": "Comedy-Veranstaltung: Daphne de Luxe",
+    "datum": "27. Nov 2026",
+    "datum_raw": "2026-11-27T00:00:00",
+    "ort": "Rathaussaal Porz, Porz",
+    "preis": "Vorverkauf: 33,50 Euro  Abendkasse: 35,50 Euro (eine Stunde vor Beginn, nur Barz",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/39933/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Einlass: 19:30 Uhr, Beginn: 20 Uhr · Die fränkische Kabarettistin Daphne de Luxe präsentiert ihr Programm Artgerecht"
+  },
+  {
+    "titel": "Ran an den Zauberwürfel!",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40838/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10 bis 13 Uhr · Die Einstiegsmethode. Ein Makerspace-Workshop im Interim der Zentralbibliothek."
+  },
+  {
+    "titel": "Vorlesezeit",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T00:00:00",
+    "ort": "Stadtteilbibliothek Chorweiler, Chorweiler",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41310/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 11:30 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Chorweiler."
+  },
+  {
+    "titel": "Erste Töne mit der Ukulele",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40832/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 12:30 Uhr · Im Rahmen des Makerspace-Programms im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Repair Café",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40291/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 15 Uhr · Reparieren statt wegwerfen in unserem Interim der Zentralbibliothek."
+  },
+  {
+    "titel": "LeseWelten",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41314/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11:30 bis 12 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Abgesagt – MINT-Vorlesen am Samstag",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T00:00:00",
+    "ort": "Stadtteilbibliothek Kalk, Kalk",
+    "preis": "Diese Veranstaltung ist abgesagt.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40462/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Diese Veranstaltung ist abgesagt. · Diese Veranstaltung ist abgesagt."
+  },
+  {
+    "titel": "Waldweihnacht",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T00:00:00",
+    "ort": "Gut Leidenhausen, Eil",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/35941/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "jeweils 12 bis 19:30 Uhr · Umweltbildungszentrum Gut Leidenhausen"
+  },
+  {
+    "titel": "Musikflohmarkt",
+    "datum": "29. Nov 2026",
+    "datum_raw": "2026-11-29T00:00:00",
+    "ort": "Bürgerzentrum Chorweiler, Chorweiler",
+    "preis": "Eintritt 2 Euro",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41490/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 17 Uhr · Musikflohmarkt im Bürgerzentrum Chorweiler am Sonntag den 29. November 2026, 11 bis 17 Uhr"
+  },
+  {
+    "titel": "MINT-Workshop am Sonntag",
+    "datum": "29. Nov 2026",
+    "datum_raw": "2026-11-29T00:00:00",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Veranstaltung ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41248/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "14 bis 17 Uhr · Die fjmk bastelt und programmiert mit euch im Rahmen von Sonntags in der Bibliothek im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Märchen-Mash-Up",
+    "datum": "29. Nov 2026",
+    "datum_raw": "2026-11-29T00:00:00",
+    "ort": "Stadtbibliothek Köln",
+    "preis": "Die Veranstaltung ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41422/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15 bis 16 Uhr · Interaktives Impro-Märchenprogramm. Im Rahmen von Sonntags in der Bibliothek im Interim der Zentralbibliothek."
+  },
+  {
+    "titel": "Debattieren lernen",
+    "datum": "30. Nov 2026",
+    "datum_raw": "2026-11-30T00:00:00",
+    "ort": "Stadtteilbibliothek Sülz, Sülz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41403/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "18 bis 21 Uhr · Gesprächsmethoden für themenbezogenen, kontroversen Austausch entdecken – in der Stadtteilbibliothek Sülz."
   }
 ]
