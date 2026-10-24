@@ -390,8 +390,64 @@ def fetch_stadt_koeln_rss(max_events: int = 40) -> list:
     events.sort(key=lambda x: x["datum_raw"])
     return vorschau(events)
 
+KOELN_OD = "https://www.stadt-koeln.de/externe-dienste/open-data/events-od.php"
+
+
+def fetch_stadt_koeln_od() -> list:
+    """Open-Data-Veranstaltungen der Stadt Köln (Datenlizenz Deutschland – Zero 2.0).
+    Zeitraum: heute bis Ende des Folgemonats (Parameter ndays)."""
+    heute = datetime.now().date()
+    grenze = datetime.fromisoformat(ende_folgemonat(heute)).date()
+    ndays = (grenze - heute).days + 1
+    url = KOELN_OD + "?" + urllib.parse.urlencode({"ndays": ndays, "nobrs": 1})
+    req = urllib.request.Request(url, headers={"User-Agent": RAUSGEGANGEN_UA,
+                                               "Accept": "application/json"})
+    with urllib.request.urlopen(req, timeout=60) as response:
+        data = json.load(response)
+    events, seen = [], set()
+    for item in data.get("items") or []:
+        try:
+            start = datetime.fromisoformat(item.get("beginndatum") or "").date()
+            ende = datetime.fromisoformat(item.get("endedatum") or item.get("beginndatum")).date()
+        except ValueError:
+            continue
+        if ende < heute:
+            continue
+        when = datetime.combine(max(start, heute), datetime.min.time())
+        titel = (item.get("title") or "").strip()
+        key = (titel.lower(), when.date().isoformat())
+        if not titel or key in seen:
+            continue
+        seen.add(key)
+        ort = ", ".join(x for x in (item.get("veranstaltungsort"), item.get("stadtteil")) if x) or "Köln"
+        link = (item.get("link") or "").replace("http://", "https://", 1)
+        teaser = re.sub(r"<[^>]+>", " ", item.get("description") or "").strip()
+        if item.get("uhrzeit"):
+            teaser = (item["uhrzeit"] + " · " + teaser).strip(" ·")
+        events.append({
+            "titel": titel,
+            "datum": format_datum(when),
+            "datum_raw": when.isoformat(),
+            "ort": ort,
+            "preis": (item.get("preis") or "").strip()[:80],
+            "link": link,
+            "quelle": "Stadt Köln (Open Data)",
+            "teaser": teaser[:300],
+        })
+    events.sort(key=lambda x: x["datum_raw"])
+    print(f"  Open Data Köln: {len(events)} Termine (ndays={ndays})")
+    return vorschau(events)
+
+
 def fetch_koeln() -> list:
-    # Zuerst der offizielle RSS der Stadt Köln (rausgegangen liefert 403).
+    # Zuerst Open Data der Stadt Köln; Fallback: RSS der Stadt Köln, dann rausgegangen.
+    try:
+        events = fetch_stadt_koeln_od()
+    except Exception as exc:
+        print(f"  FEHLER Open Data Köln: {type(exc).__name__}")
+        events = []
+    if events:
+        return events
     events = fetch_stadt_koeln_rss(max_events=40)
     if events:
         return events
