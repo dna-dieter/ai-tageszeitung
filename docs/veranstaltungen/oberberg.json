@@ -1,25 +1,5 @@
 [
   {
-    "titel": "Pilzwochenende im Bergischen Land",
-    "datum": "24. Okt 2026",
-    "datum_raw": "2026-10-24T10:00:00+02:00",
-    "ort": "Waldheim Dörspetal, An der Dörspe 22, 51702 Bergneustadt",
-    "preis": "ab 310 €",
-    "link": "https://www.wildesgruen.de/kraeuterwochenende/",
-    "quelle": "Das Bergische",
-    "teaser": "Tauche ein in ein erlebnisreiches Wochenende voller Natur, Wissen und Waldluft! Organisiert wird das Pilzwochenende von Annabelle Gojdenko-Baitinger (Pilzcoach Bergisches Land) und Tine Knauft (Wildes Grün). Der Fokus li"
-  },
-  {
-    "titel": "Themenführung in der Aggertalhöhle: \"CSI - Verborgene Spuren\"",
-    "datum": "24. Okt 2026",
-    "datum_raw": "2026-10-24T10:00:00+02:00",
-    "ort": "Aggertalhöhle, Im Krümmel 39, 51766 Engelskirchen",
-    "preis": "ab 15 €",
-    "link": "https://www.aggertalhoehle.de/main/fuehrungen",
-    "quelle": "Das Bergische",
-    "teaser": "Es gibt Spuren in der Aggertalhöhle, die im Licht der normalen Höhlenbeleuchtung verborgen, unsichtbar bleiben. Aber es lohnt sich, auch einmal auf die Suche nach diesen Spuren zu gehen. Was ist eigentlich gemeint, wenn "
-  },
-  {
     "titel": "Panarbora Geisterpark",
     "datum": "24. Okt 2026",
     "datum_raw": "2026-10-24T11:00:00+02:00",
@@ -98,6 +78,26 @@
     "link": "https://affen-und-vogelpark.de/neues-aus-dem-park/",
     "quelle": "Das Bergische",
     "teaser": "An vier Wochenenden im Herbst 2026 wird’s im Park geheimnisvoll – aber nie zu angsteinflößend: Du schnitzt Kürbisse, folgst verwinkelten Wegen, lauschst den Geschichten der Hexe und sagst mit der Fackel den Eulen und Pol"
+  },
+  {
+    "titel": "Pilzwochenende im Bergischen Land",
+    "datum": "25. Okt 2026",
+    "datum_raw": "2026-10-25T10:00:00+01:00",
+    "ort": "Waldheim Dörspetal, An der Dörspe 22, 51702 Bergneustadt",
+    "preis": "ab 310 €",
+    "link": "https://www.wildesgruen.de/kraeuterwochenende/",
+    "quelle": "Das Bergische",
+    "teaser": "Tauche ein in ein erlebnisreiches Wochenende voller Natur, Wissen und Waldluft! Organisiert wird das Pilzwochenende von Annabelle Gojdenko-Baitinger (Pilzcoach Bergisches Land) und Tine Knauft (Wildes Grün). Der Fokus li"
+  },
+  {
+    "titel": "Themenführung in der Aggertalhöhle: \"CSI - Verborgene Spuren\"",
+    "datum": "25. Okt 2026",
+    "datum_raw": "2026-10-25T10:00:00+01:00",
+    "ort": "Aggertalhöhle, Im Krümmel 39, 51766 Engelskirchen",
+    "preis": "ab 15 €",
+    "link": "https://www.aggertalhoehle.de/main/fuehrungen",
+    "quelle": "Das Bergische",
+    "teaser": "Es gibt Spuren in der Aggertalhöhle, die im Licht der normalen Höhlenbeleuchtung verborgen, unsichtbar bleiben. Aber es lohnt sich, auch einmal auf die Suche nach diesen Spuren zu gehen. Was ist eigentlich gemeint, wenn "
   },
   {
     "titel": "Herbstferien im Museum",
