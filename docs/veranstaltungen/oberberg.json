@@ -1,45 +1,5 @@
 [
   {
-    "titel": "Panarbora Geisterpark",
-    "datum": "24. Okt 2026",
-    "datum_raw": "2026-10-24T11:00:00+02:00",
-    "ort": "Baumwipfelpfad Panarbora, Nutscheidstr. 1, 51545 Waldbröl",
-    "preis": "ab 11 €",
-    "link": "https://panarbora.de/veranstaltungen-und-events",
-    "quelle": "Das Bergische",
-    "teaser": "Vom 26. September bis zum 1. November 2026 wird es bei uns wieder gespenstisch! Wenn kleine Geister auftauchen und sich unser Aussichtsturm und der Baumwipfelpfad in ein Halloween-Gewand hüllen, beginnt eine ganz besonde"
-  },
-  {
-    "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
-    "datum": "24. Okt 2026",
-    "datum_raw": "2026-10-24T11:00:00+02:00",
-    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
-    "preis": "ab 6 €",
-    "link": "https://www.schloss-homburg.de/cms200schloss/museum/sonderausstellungen/vorschau/index.shtml.de",
-    "quelle": "Das Bergische",
-    "teaser": "Kleine Figuren erzählen große Geschichten! Das 100-jährige Jubiläum des Museums auf Schloss Homburg wird mit einer großen Sonderausstellung gefeiert. In faszinierenden Miniaturwelten werden regionale Geschichte und Gesch"
-  },
-  {
-    "titel": "Lindlarer Lieblingsmarkt Herbstpartie",
-    "datum": "24. Okt 2026",
-    "datum_raw": "2026-10-24T11:00:00+02:00",
-    "ort": "2T Kletter- und Boulderhalle, Bismarckstraße 1, 51789 Lindlar",
-    "preis": "ab 6 €",
-    "link": "http://www.lieblingsmarkt.info/",
-    "quelle": "Das Bergische",
-    "teaser": "Die Lindlarer Lieblingsmarkt Herbstpartie verbindet stimmungsvolle Marktatmosphäre mit Lifestyle, Handwerk und Genuss. In der besonderen Kulisse des 2T-Areals mit eindrucksvollem Freizeit-, Sport- und Eventcharakter, ent"
-  },
-  {
-    "titel": "Ferienaktion: Kettenreaktion für Kinder",
-    "datum": "24. Okt 2026",
-    "datum_raw": "2026-10-24T11:00:00+02:00",
-    "ort": "LVR-Industriemuseum Kraftwerk Ermen & Engels, Engels-Platz 2, 51766 Engelskirchen",
-    "preis": "",
-    "link": "https://www.shop.industriemuseum.lvr.de/#/product/event/15399",
-    "quelle": "Das Bergische",
-    "teaser": "Zahnräder, Bausteine, Bänder und Rollen – was haben diese Dinge gemeinsam? Sie sind Elemente für die Kettenreaktion, die ihr im Kraftwerk Ermen & Engels baut. Testet dazu in der Ausstellung aus, wie technische Herausford"
-  },
-  {
     "titel": "Räucherkurs im Kräutercafé",
     "datum": "24. Okt 2026",
     "datum_raw": "2026-10-24T14:00:00+02:00",
@@ -100,6 +60,16 @@
     "teaser": "Es gibt Spuren in der Aggertalhöhle, die im Licht der normalen Höhlenbeleuchtung verborgen, unsichtbar bleiben. Aber es lohnt sich, auch einmal auf die Suche nach diesen Spuren zu gehen. Was ist eigentlich gemeint, wenn "
   },
   {
+    "titel": "Panarbora Geisterpark",
+    "datum": "25. Okt 2026",
+    "datum_raw": "2026-10-25T10:00:00+02:00",
+    "ort": "Baumwipfelpfad Panarbora, Nutscheidstr. 1, 51545 Waldbröl",
+    "preis": "ab 11 €",
+    "link": "https://panarbora.de/veranstaltungen-und-events",
+    "quelle": "Das Bergische",
+    "teaser": "Vom 26. September bis zum 1. November 2026 wird es bei uns wieder gespenstisch! Wenn kleine Geister auftauchen und sich unser Aussichtsturm und der Baumwipfelpfad in ein Halloween-Gewand hüllen, beginnt eine ganz besonde"
+  },
+  {
     "titel": "Herbstferien im Museum",
     "datum": "25. Okt 2026",
     "datum_raw": "2026-10-25T11:00:00+01:00",
@@ -108,6 +78,16 @@
     "link": "https://www.lvr.de/freilichtmuseum-lindlar/programm/herbstferienprogramm/#module-523562",
     "quelle": "Das Bergische",
     "teaser": "Was kann aus bereits vorhandenen Materialien und natürlichen Rohstoffen neues entstehen? Unter dem Motto „Wunderbar verwertbar“ dreht sich in den Herbstferien alles um Nachhaltigkeit, Wiederverwertung und altes Handwerk."
+  },
+  {
+    "titel": "Lindlarer Lieblingsmarkt Herbstpartie",
+    "datum": "25. Okt 2026",
+    "datum_raw": "2026-10-25T11:00:00+01:00",
+    "ort": "2T Kletter- und Boulderhalle, Bismarckstraße 1, 51789 Lindlar",
+    "preis": "ab 6 €",
+    "link": "http://www.lieblingsmarkt.info/",
+    "quelle": "Das Bergische",
+    "teaser": "Die Lindlarer Lieblingsmarkt Herbstpartie verbindet stimmungsvolle Marktatmosphäre mit Lifestyle, Handwerk und Genuss. In der besonderen Kulisse des 2T-Areals mit eindrucksvollem Freizeit-, Sport- und Eventcharakter, ent"
   },
   {
     "titel": "Orientexpress - Eine musikalische Reise mit einem berühmten Zug von Paris nach Istanbul",
@@ -158,6 +138,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Diese Radtouren sind nur für E-Bikes bestimmt. Von Eckenhagen aus geht es in die oberbergische Heimat, in den Olper Kreis und bis an die Bundesgrenze zu Rheinland-Pfalz. Ob auf asphaltierter Fahrbahn, Schotterwegen oder "
+  },
+  {
+    "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
+    "datum": "25. Okt 2026",
+    "datum_raw": "2026-10-25T11:00:00+02:00",
+    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
+    "preis": "ab 6 €",
+    "link": "https://www.schloss-homburg.de/cms200schloss/museum/sonderausstellungen/vorschau/index.shtml.de",
+    "quelle": "Das Bergische",
+    "teaser": "Kleine Figuren erzählen große Geschichten! Das 100-jährige Jubiläum des Museums auf Schloss Homburg wird mit einer großen Sonderausstellung gefeiert. In faszinierenden Miniaturwelten werden regionale Geschichte und Gesch"
   },
   {
     "titel": "Abschlag am Oelchenshammer",
