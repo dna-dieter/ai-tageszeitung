@@ -1,25 +1,5 @@
 [
   {
-    "titel": "Pilzwochenende im Bergischen Land",
-    "datum": "25. Okt 2026",
-    "datum_raw": "2026-10-25T10:00:00+01:00",
-    "ort": "Waldheim Dörspetal, An der Dörspe 22, 51702 Bergneustadt",
-    "preis": "ab 310 €",
-    "link": "https://www.wildesgruen.de/kraeuterwochenende/",
-    "quelle": "Das Bergische",
-    "teaser": "Tauche ein in ein erlebnisreiches Wochenende voller Natur, Wissen und Waldluft! Organisiert wird das Pilzwochenende von Annabelle Gojdenko-Baitinger (Pilzcoach Bergisches Land) und Tine Knauft (Wildes Grün). Der Fokus li"
-  },
-  {
-    "titel": "Themenführung in der Aggertalhöhle: \"CSI - Verborgene Spuren\"",
-    "datum": "25. Okt 2026",
-    "datum_raw": "2026-10-25T10:00:00+01:00",
-    "ort": "Aggertalhöhle, Im Krümmel 39, 51766 Engelskirchen",
-    "preis": "ab 15 €",
-    "link": "https://www.aggertalhoehle.de/main/fuehrungen",
-    "quelle": "Das Bergische",
-    "teaser": "Es gibt Spuren in der Aggertalhöhle, die im Licht der normalen Höhlenbeleuchtung verborgen, unsichtbar bleiben. Aber es lohnt sich, auch einmal auf die Suche nach diesen Spuren zu gehen. Was ist eigentlich gemeint, wenn "
-  },
-  {
     "titel": "Herbstferien im Museum",
     "datum": "25. Okt 2026",
     "datum_raw": "2026-10-25T11:00:00+01:00",
@@ -88,16 +68,6 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Diese Radtouren sind nur für E-Bikes bestimmt. Von Eckenhagen aus geht es in die oberbergische Heimat, in den Olper Kreis und bis an die Bundesgrenze zu Rheinland-Pfalz. Ob auf asphaltierter Fahrbahn, Schotterwegen oder "
-  },
-  {
-    "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
-    "datum": "25. Okt 2026",
-    "datum_raw": "2026-10-25T11:00:00+02:00",
-    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
-    "preis": "ab 6 €",
-    "link": "https://www.schloss-homburg.de/cms200schloss/museum/sonderausstellungen/vorschau/index.shtml.de",
-    "quelle": "Das Bergische",
-    "teaser": "Kleine Figuren erzählen große Geschichten! Das 100-jährige Jubiläum des Museums auf Schloss Homburg wird mit einer großen Sonderausstellung gefeiert. In faszinierenden Miniaturwelten werden regionale Geschichte und Gesch"
   },
   {
     "titel": "Abschlag am Oelchenshammer",
@@ -178,6 +148,16 @@
     "link": "https://www.shop.industriemuseum.lvr.de/#/product/event/15987",
     "quelle": "Das Bergische",
     "teaser": "Wie entsteht eigentlich etwas im 3D-Drucker? In diesem Workshop entdecken Kinder Schritt für Schritt, wie aus einer Idee ein echtes Objekt wird. Nach einer verständlichen Einführung in das 3D-Druck-Verfahren gestalten di"
+  },
+  {
+    "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
+    "datum": "27. Okt 2026",
+    "datum_raw": "2026-10-27T11:00:00+02:00",
+    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
+    "preis": "ab 6 €",
+    "link": "https://www.schloss-homburg.de/cms200schloss/museum/sonderausstellungen/vorschau/index.shtml.de",
+    "quelle": "Das Bergische",
+    "teaser": "Kleine Figuren erzählen große Geschichten! Das 100-jährige Jubiläum des Museums auf Schloss Homburg wird mit einer großen Sonderausstellung gefeiert. In faszinierenden Miniaturwelten werden regionale Geschichte und Gesch"
   },
   {
     "titel": "Kinoprogramm für Kinder und Jugendliche",

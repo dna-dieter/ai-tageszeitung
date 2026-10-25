@@ -1,5 +1,32 @@
 [
   {
+    "id": "c2692d6d159f",
+    "title": "Hohkeppeler Lebenszeichen - Lindlar wie ein Absteiger",
+    "summary": "Oberberg - Die Eintracht-Reserve gewinnt das Kellerduell gegen Niehl - Lindlar wird von Weiler-Volkhoven 45 Minuten lang vorgeführt.",
+    "link": "http://www.oberberg-aktuell.de/fussball/bezirksliga---------a-139547",
+    "published": "Sun, 25 Oct 2026 18:11:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-10-25T18:17:09.632179",
+    "feed_kommunen": []
+  },
+  {
+    "id": "cf1d952eaf4b",
+    "title": "Auswärts wie gelähmt: Wiehl auch in Rheinbach nur Punktelieferant",
+    "summary": "Oberberg - Die Lesniak-Elf holt sich die nächste hohe Pleite in der Fremde ab - Die Sparkasse Gummersbach präsentiert die Landesliga.",
+    "link": "http://www.oberberg-aktuell.de/fussball/landesliga---------a-139546",
+    "published": "Sun, 25 Oct 2026 18:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach",
+      "wiehl"
+    ],
+    "fetched": "2026-10-25T18:17:09.632330",
+    "feed_kommunen": []
+  },
+  {
     "id": "4d89a4d01d50",
     "title": "Robert Wilde rettet Derschlag II einen Zähler",
     "summary": "Oberberg - Staffel 3: In einer abwechslungsreichen Partie teilen sich die Borussia-Reserve und Engelskirchen die Punkte - 'Sportsbar Lutter' präsentiert die Kreisliga B.",
@@ -20,7 +47,8 @@
     "published": "Sun, 25 Oct 2026 15:43:48 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "bergneustadt"
+      "bergneustadt",
+      "gummersbach"
     ],
     "fetched": "2026-10-25T17:17:01.384636",
     "feed_kommunen": []
