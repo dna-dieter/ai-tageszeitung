@@ -1,45 +1,5 @@
 [
   {
-    "titel": "Öffentliche Spezialführung: Die Papiermaschine (PM4)",
-    "datum": "25. Okt 2026",
-    "datum_raw": "2026-10-25T14:00:00+01:00",
-    "ort": "LVR-Industriemuseum Papiermühle Alte Dombach, Alte Dombach 1 (an der Kürtener Str.), 51465 Bergisch Gladbach",
-    "preis": "ab 6 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "In dieser Spezialführung kann entdeckt werden, wie aus Fasern endlose Papierbahnen wurden, welche Kraft und Präzision in der Maschine stecken und warum diese beeindruckende Papiermaschine so ein besonderes technisches De"
-  },
-  {
-    "titel": "Papierkunst zum Anfassen – Öffentliche Ausstellungs- und Werkstattführung durch die Wechselausstellung „PAPIER! Handgeschöpftes von John Gerard“",
-    "datum": "25. Okt 2026",
-    "datum_raw": "2026-10-25T14:00:00+01:00",
-    "ort": "LVR-Industriemuseum Papiermühle Alte Dombach, Alte Dombach 1 (an der Kürtener Str.), 51465 Bergisch Gladbach",
-    "preis": "ab 10 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Färben, Schöpfen, Falten – Wie entstehen aus Wasser, Fasern und Farben papierene Kunstwerke? In der Ausstellungswerkstatt können Besuchende an der Schöpfbütte mit verschieden Materialien experimentieren. Dabei sind Sie e"
-  },
-  {
-    "titel": "Bienen-Sonntag",
-    "datum": "25. Okt 2026",
-    "datum_raw": "2026-10-25T14:00:00+01:00",
-    "ort": "Bergisches Museum für Bergbau, Handwerk und Gewerbe, Burggraben 19, 51429 Bergisch Gladbach",
-    "preis": "ab 3 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Die Imkerinnen und Imker des Bienenzuchtvereins Bergisch Gladbach e. V. vermitteln allerlei Wissenswertes über das Bienenjahr und das Imker-Handwerk. Die eifrig summenden Museums-Bienen und eine Schaubeute laden zur Beob"
-  },
-  {
-    "titel": "Öffentliche Führung im Bergischen Museum für Bergbau, Handwerk und Gewerbe",
-    "datum": "25. Okt 2026",
-    "datum_raw": "2026-10-25T14:00:00+01:00",
-    "ort": "Bergisches Museum für Bergbau, Handwerk und Gewerbe, Burggraben 19, 51429 Bergisch Gladbach",
-    "preis": "ab 5 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Jeden letzten Sonntag im Monat laden unsere fachkundigen Museumskenner auf einen unterhaltsamen und informativen Spaziergang ein. Im Haupthaus und auf dem Außengelände erfahren Sie Wissenswertes über das Leben und Arbeit"
-  },
-  {
     "titel": "Multivisionsshow Norwegen",
     "datum": "25. Okt 2026",
     "datum_raw": "2026-10-25T15:00:00+01:00",
@@ -698,6 +658,16 @@
     "link": "https://www.althoffcollection.com/de/althoff-grandhotel-schloss-bensberg/angebote/saisonale-angebote/weihnachten/weihnachtsbrunch",
     "quelle": "Das Bergische",
     "teaser": "Genießen Sie die traditionelle Vorweihnachtzeit und freuen sich zusammen mit Ihrer Familie, Freunden oder Kollegen auf weihnachtliche Köstlichkeiten und feine Gerichte. Was kann es Schöneres geben, als in der Vorweihnach"
+  },
+  {
+    "titel": "Öffentliche Führung im Bergischen Museum für Bergbau, Handwerk und Gewerbe",
+    "datum": "29. Nov 2026",
+    "datum_raw": "2026-11-29T14:00:00+01:00",
+    "ort": "Bergisches Museum für Bergbau, Handwerk und Gewerbe, Burggraben 19, 51429 Bergisch Gladbach",
+    "preis": "ab 5 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Jeden letzten Sonntag im Monat laden unsere fachkundigen Museumskenner auf einen unterhaltsamen und informativen Spaziergang ein. Im Haupthaus und auf dem Außengelände erfahren Sie Wissenswertes über das Leben und Arbeit"
   },
   {
     "titel": "Frau Höpker bittet zum Gesang - Mitsing Konzert",
