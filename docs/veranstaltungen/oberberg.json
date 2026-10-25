@@ -290,16 +290,6 @@
     "teaser": "Ein Blackout legt das Museum lahm! Geht auf Entdeckungsreise durch das Kraftwerk Ermen & Engels und löst gemeinsam tatkräftig das Rätsel. Erkundet die verschiedenen Etagen und findet heraus, was nötig ist, um Strom zu er"
   },
   {
-    "titel": "Nachts im Museum",
-    "datum": "31. Okt 2026",
-    "datum_raw": "2026-10-31T18:00:00+01:00",
-    "ort": "Heimatmuseum Bergneustadt, Wallstraße 1, 51702 Bergneustadt",
-    "preis": "ab 7 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Eine Taschenlampenführung für Erwachsene und Kinder ab acht Jahren durch das finstere Museum mit Hubertus Dan. Ein besonderes Erlebnis, das man nicht verpassen sollte! Mehr Informationen und Anmeldung im Heimatmuseum Ber"
-  },
-  {
     "titel": "ZUNFT Halloween Party 2026 in der Erzquell Brauerei",
     "datum": "31. Okt 2026",
     "datum_raw": "2026-10-31T18:00:00+01:00",
@@ -308,6 +298,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Es wird wieder gruselig in der Erzquell Brauerei! Am Samstag, den 31. Oktober 2026, lädt die Brauerei zur ZUNFT Halloween Party ein. Gefeiert wird dort, wo jedes Jahr die legendäre Rosenmontagsparty steigt: in der bekann"
+  },
+  {
+    "titel": "Nachts im Museum",
+    "datum": "31. Okt 2026",
+    "datum_raw": "2026-10-31T18:00:00+01:00",
+    "ort": "Heimatmuseum Bergneustadt, Wallstraße 1, 51702 Bergneustadt",
+    "preis": "ab 7 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Eine Taschenlampenführung für Erwachsene und Kinder ab acht Jahren durch das finstere Museum mit Hubertus Dan. Ein besonderes Erlebnis, das man nicht verpassen sollte! Mehr Informationen und Anmeldung im Heimatmuseum Ber"
   },
   {
     "titel": "Herbstkonzert des Musikkreises Holpe e.V.",
@@ -420,6 +420,16 @@
     "teaser": "Zwei außergewöhnliche Musiker überzeugen durch ihre Leidenschaft für die Musik und ihre kreative Zusammenarbeit. Peter Schönfeld ergänzt seine virtuosen Fähigkeiten am Kontrabass durch den Einsatz von ungewöhnlichen Gerä"
   },
   {
+    "titel": "Musik, die Kinder in Bewegung bringt! Ein fröhliches Mitmach- und Bewegungskonzert mit Faryna ",
+    "datum": "8. Nov 2026",
+    "datum_raw": "2026-11-08T15:00:00+01:00",
+    "ort": "Rathaus Engelskirchen, Engels-Platz 4, 51766 Engelskirchen",
+    "preis": "ab 10 €",
+    "link": "http://www.engelskirchen.de/portal/meldungen/uebersicht-0-23501.html?titel=Aktuelle+Meldungen",
+    "quelle": "Das Bergische",
+    "teaser": "Am Sonntag, 8. November 2026 um 15.00 Uhr findet das fröhliche Mitmach- und Bewegunskonzert im Ratssaal des Rathauses der Gemeinde Engelskirchen statt. Ein Powerprogramm für Kinder von 3-8 Jahren Kinder bewegen sich gern"
+  },
+  {
     "titel": "Kunstausstellung Haus der Kunst",
     "datum": "8. Nov 2026",
     "datum_raw": "2026-11-08T15:00:00+01:00",
@@ -438,16 +448,6 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "mit den Blasmusikfreunden Olpe Eintritt frei. Veranstalter: Nümbrechter Kur GmbH Veranstaltungsort: Parkhotel (Kursaal)"
-  },
-  {
-    "titel": "Musik, die Kinder in Bewegung bringt! Ein fröhliches Mitmach- und Bewegungskonzert mit Faryna ",
-    "datum": "8. Nov 2026",
-    "datum_raw": "2026-11-08T15:00:00+01:00",
-    "ort": "Rathaus Engelskirchen, Engels-Platz 4, 51766 Engelskirchen",
-    "preis": "ab 10 €",
-    "link": "http://www.engelskirchen.de/portal/meldungen/uebersicht-0-23501.html?titel=Aktuelle+Meldungen",
-    "quelle": "Das Bergische",
-    "teaser": "Am Sonntag, 8. November 2026 um 15.00 Uhr findet das fröhliche Mitmach- und Bewegunskonzert im Ratssaal des Rathauses der Gemeinde Engelskirchen statt. Ein Powerprogramm für Kinder von 3-8 Jahren Kinder bewegen sich gern"
   },
   {
     "titel": "Außer Kontrolle nach Ray Cooney",

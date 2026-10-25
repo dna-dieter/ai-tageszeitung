@@ -10,16 +10,6 @@
     "teaser": "„Champagner-4Hand-Lunch dem bekannten Der Berliner Kultkoch mit bergischen Wurzeln, Philipp „the Bird“ Vogel und Küchenchef Marius Sprenger\" verwöhnen die Gäste mit einer spannenden kulinarischen Liäson: hier bleibt kein"
   },
   {
-    "titel": "Papierkunst zum Anfassen – Öffentliche Ausstellungs- und Werkstattführung durch die Wechselausstellung „PAPIER! Handgeschöpftes von John Gerard“",
-    "datum": "25. Okt 2026",
-    "datum_raw": "2026-10-25T14:00:00+01:00",
-    "ort": "LVR-Industriemuseum Papiermühle Alte Dombach, Alte Dombach 1 (an der Kürtener Str.), 51465 Bergisch Gladbach",
-    "preis": "ab 10 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Färben, Schöpfen, Falten – Wie entstehen aus Wasser, Fasern und Farben papierene Kunstwerke? In der Ausstellungswerkstatt können Besuchende an der Schöpfbütte mit verschieden Materialien experimentieren. Dabei sind Sie e"
-  },
-  {
     "titel": "Öffentliche Spezialführung: Die Papiermaschine (PM4)",
     "datum": "25. Okt 2026",
     "datum_raw": "2026-10-25T14:00:00+01:00",
@@ -28,6 +18,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "In dieser Spezialführung kann entdeckt werden, wie aus Fasern endlose Papierbahnen wurden, welche Kraft und Präzision in der Maschine stecken und warum diese beeindruckende Papiermaschine so ein besonderes technisches De"
+  },
+  {
+    "titel": "Papierkunst zum Anfassen – Öffentliche Ausstellungs- und Werkstattführung durch die Wechselausstellung „PAPIER! Handgeschöpftes von John Gerard“",
+    "datum": "25. Okt 2026",
+    "datum_raw": "2026-10-25T14:00:00+01:00",
+    "ort": "LVR-Industriemuseum Papiermühle Alte Dombach, Alte Dombach 1 (an der Kürtener Str.), 51465 Bergisch Gladbach",
+    "preis": "ab 10 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Färben, Schöpfen, Falten – Wie entstehen aus Wasser, Fasern und Farben papierene Kunstwerke? In der Ausstellungswerkstatt können Besuchende an der Schöpfbütte mit verschieden Materialien experimentieren. Dabei sind Sie e"
   },
   {
     "titel": "Bienen-Sonntag",
@@ -360,16 +360,6 @@
     "teaser": "Das alkoholfreie Weintasting findet am 7. November ab 18:00 Uhr in Bechen statt. Für 40 € pro Person probieren wir uns gemeinsam durch die spannende Welt der alkoholfreien Getränke. Los geht es mit einem Aperitif, beispi"
   },
   {
-    "titel": "Gerd Köster und Weggefährten",
-    "datum": "7. Nov 2026",
-    "datum_raw": "2026-11-07T20:00:00+01:00",
-    "ort": "Bürgerhaus Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach",
-    "preis": "ab 32 €",
-    "link": "http://www.bergischerloewe.de/programmdetails.aspx?vid=84e229ce-a83f-4d81-8941-a0128b00a7c6&datum=07.11.2026",
-    "quelle": "Das Bergische",
-    "teaser": "Ihre Lebenserfahrung, Neugier und Spielfreude hat nicht mal Platz in einem ganzen Schrank. Nie oder lange nicht mehr Gehörtes mischt sich mit Bewährtem und Neuem. Die langjährigen Weggefährten sind: der fantastische Frie"
-  },
-  {
     "titel": "Helmut Gote: Das Gold des Ackers – ein kulinarischer Abend rund um die Sojabohne",
     "datum": "7. Nov 2026",
     "datum_raw": "2026-11-07T20:00:00+01:00",
@@ -378,6 +368,16 @@
     "link": "https://www.schloss-eulenbroich.de/news/4059/helmut-gote",
     "quelle": "Das Bergische",
     "teaser": "Bei uns in Deutschland und auch in Europa spielt die Sojabohne an sich nur eine kleine Rolle auf dem alltäglichen Speisezettel, und wenn, dann meist verarbeitet zu Fleischersatzprodukten, Soja-Saucen, Sojadrinks oder Tof"
+  },
+  {
+    "titel": "Gerd Köster und Weggefährten",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T20:00:00+01:00",
+    "ort": "Bürgerhaus Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach",
+    "preis": "ab 32 €",
+    "link": "http://www.bergischerloewe.de/programmdetails.aspx?vid=84e229ce-a83f-4d81-8941-a0128b00a7c6&datum=07.11.2026",
+    "quelle": "Das Bergische",
+    "teaser": "Ihre Lebenserfahrung, Neugier und Spielfreude hat nicht mal Platz in einem ganzen Schrank. Nie oder lange nicht mehr Gehörtes mischt sich mit Bewährtem und Neuem. Die langjährigen Weggefährten sind: der fantastische Frie"
   },
   {
     "titel": "Handwerker-Vorführung: Weben mit bergischen Weberinnen",
@@ -440,16 +440,6 @@
     "teaser": "GITARRISSIMO ist ein Kooperationsprojekt der Musikschulen im Rheinisch-Bergischen Kreis in Zusammenarbeit mit dem Kreiskulturamt. In dem eintägigen Workshop erarbeiten kleine und große Gitarren-Fans gemeinsam Musik für e"
   },
   {
-    "titel": "Schnuppertouren in Bergisch Gladbach",
-    "datum": "15. Nov 2026",
-    "datum_raw": "2026-11-15T14:00:00+01:00",
-    "ort": "Rathaus Bergisch Gladbach, Konrad-Adenauer Platz 1, 51469 Bergisch Gladbach",
-    "preis": "",
-    "link": "https://www.bergischgladbach.de/schnuppertouren.aspx",
-    "quelle": "Das Bergische",
-    "teaser": "Bereits am Sonntag, den 12. April 2026 starten die kostenlosen Schnuppertouren in Bergisch Gladbach in eine neue Saison. Zum zwölften Mal bieten engagierte Stadtführerinnen und Stadtführer in Zusammenarbeit mit der Stadt"
-  },
-  {
     "titel": "Öffentliche Führung \"Papier – vom Handwerk zum Massenprodukt\"",
     "datum": "15. Nov 2026",
     "datum_raw": "2026-11-15T14:00:00+01:00",
@@ -458,6 +448,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Bei dieser Führung geht es um die Herstellung und den Gebrauch von Papier früher und heute. Highlight des Rundgangs ist die Vorführung der Labor-Papiermaschine. Die Teilnehmenden erfahren, wie Papier in Vergangenheit und"
+  },
+  {
+    "titel": "Schnuppertouren in Bergisch Gladbach",
+    "datum": "15. Nov 2026",
+    "datum_raw": "2026-11-15T14:00:00+01:00",
+    "ort": "Rathaus Bergisch Gladbach, Konrad-Adenauer Platz 1, 51469 Bergisch Gladbach",
+    "preis": "",
+    "link": "https://www.bergischgladbach.de/schnuppertouren.aspx",
+    "quelle": "Das Bergische",
+    "teaser": "Bereits am Sonntag, den 12. April 2026 starten die kostenlosen Schnuppertouren in Bergisch Gladbach in eine neue Saison. Zum zwölften Mal bieten engagierte Stadtführerinnen und Stadtführer in Zusammenarbeit mit der Stadt"
   },
   {
     "titel": "Rangerführungen",
@@ -540,6 +540,16 @@
     "teaser": "Der Weihnachtsmarkt in Bergisch Gladbach zentral auf dem Konrad-Adenauer-Platz gehört zu den größten im Rheinisch-Bergischen Kreis. Obwohl viele sagen: „Das ist doch jedes Jahr das Gleiche!“ stimmt es in gewisser Weise, "
   },
   {
+    "titel": "„Femme fatale“ mit dem Cirque Buffon",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T19:00:00+01:00",
+    "ort": "Hotel-Restaurant Wißkirchen, Am Rösberg 2, 51519 Odenthal",
+    "preis": "",
+    "link": "https://www.hotel-wisskirchen.de/das-spiegelzelt-in-altenberg/",
+    "quelle": "Das Bergische",
+    "teaser": "Der Cirque Bouffon gastiert zum 6. Mal mit einer faszinierenden Dinner-Show \"Femme fatale\" im nostalgischen Spiegelzelt in Altenberg. Das internationale Künstlerensemble des Cirque Bouffon verzaubert sein Publikum im Sti"
+  },
+  {
     "titel": "Kölsche Weihnachts Dinnershow",
     "datum": "20. Nov 2026",
     "datum_raw": "2026-11-20T19:00:00+01:00",
@@ -558,16 +568,6 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Das Motto der sechsten Lesereise \"Bunte Vielfalt trifft schwarzen Humor\" steht für die inhaltliche Bandbreite der vorgestellten Romane von zwei Autorinnen und zwei Autoren der finnischen Literaturszene. Ein knallharter K"
-  },
-  {
-    "titel": "„Femme fatale“ mit dem Cirque Buffon",
-    "datum": "20. Nov 2026",
-    "datum_raw": "2026-11-20T19:00:00+01:00",
-    "ort": "Hotel-Restaurant Wißkirchen, Am Rösberg 2, 51519 Odenthal",
-    "preis": "",
-    "link": "https://www.hotel-wisskirchen.de/das-spiegelzelt-in-altenberg/",
-    "quelle": "Das Bergische",
-    "teaser": "Der Cirque Bouffon gastiert zum 6. Mal mit einer faszinierenden Dinner-Show \"Femme fatale\" im nostalgischen Spiegelzelt in Altenberg. Das internationale Künstlerensemble des Cirque Bouffon verzaubert sein Publikum im Sti"
   },
   {
     "titel": "Gerd J. Pohl liest: Am Abgrund... und einen Schritt weiter",
