@@ -1,5 +1,20 @@
 [
   {
+    "id": "893060da94dc",
+    "title": "Sieg im Topspiel: Derschlag hat gegen den THB immer eine Antwort parat",
+    "summary": "Oberberg - Die Borussen gewinnen das Verfolgerduell gegen Bröltal und festigen Platz zwei - Lindlar II und Bergneustadt trennen sich remis - Altenberg rückt auf Rang drei vor - Marienhagen bezwingt TVK - Unentschieden in Marienheide - RS 19 feiert knappen Sieg (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/fussball/kreisliga-a---------a-139544",
+    "published": "Sun, 25 Oct 2026 18:30:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar",
+      "bergneustadt",
+      "marienheide"
+    ],
+    "fetched": "2026-10-25T19:17:06.054890",
+    "feed_kommunen": []
+  },
+  {
     "id": "c2692d6d159f",
     "title": "Hohkeppeler Lebenszeichen - Lindlar wie ein Absteiger",
     "summary": "Oberberg - Die Eintracht-Reserve gewinnt das Kellerduell gegen Niehl - Lindlar wird von Weiler-Volkhoven 45 Minuten lang vorgeführt.",
@@ -10,20 +25,6 @@
       "lindlar"
     ],
     "fetched": "2026-10-25T18:17:09.632179",
-    "feed_kommunen": []
-  },
-  {
-    "id": "97af32e53e72",
-    "title": "Bergneustadt holt auch in Lindlar einen Punkt",
-    "summary": "Oberberg - Die TuS-Reserve und der SSV trennen sich mit einer gerechten Punkteteilung.",
-    "link": "http://www.oberberg-aktuell.de/fussball/kreisliga-a---------a-139544",
-    "published": "Sun, 25 Oct 2026 16:35:00 +0100",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "bergneustadt",
-      "lindlar"
-    ],
-    "fetched": "2026-10-25T17:17:06.292067",
     "feed_kommunen": []
   },
   {
