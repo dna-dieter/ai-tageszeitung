@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Führung in der Aggertalhöhle",
-    "datum": "25. Okt 2026",
-    "datum_raw": "2026-10-25T00:00:00+02:00",
-    "ort": "Aggertalhöhle, Im Krümmel 39, 51766 Engelskirchen",
-    "preis": "ab 6 €",
-    "link": "http://www.aggertalhoehle.de/main/home/informationen/oeffnungszeiten",
-    "quelle": "Das Bergische",
-    "teaser": "Die Aggertalhöhle ist vom 1. April bis einschließlich 1. November jeweils von Donnerstag bis Sonntag und an gesetzlichen Feiertagen geöffnet. Unter dem Titel »Erster Einblick« starten Führungen jeweils um 10.00, 11.15, 1"
-  },
-  {
     "titel": "Halloween entgruselt",
     "datum": "25. Okt 2026",
     "datum_raw": "2026-10-25T09:00:00+01:00",
@@ -208,6 +198,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Auch in der zweiten Herbstferienwoche gibt es im Hückeswagener Kultur-Haus Zach an der Islandstraße wieder ein ansprechendes Kinoprogramm für das junge Publikum. Somit wird am Dienstag, den 27.10.2026 ein Film für Kinder"
+  },
+  {
+    "titel": "Führung in der Aggertalhöhle",
+    "datum": "29. Okt 2026",
+    "datum_raw": "2026-10-29T00:00:00+02:00",
+    "ort": "Aggertalhöhle, Im Krümmel 39, 51766 Engelskirchen",
+    "preis": "ab 6 €",
+    "link": "http://www.aggertalhoehle.de/main/home/informationen/oeffnungszeiten",
+    "quelle": "Das Bergische",
+    "teaser": "Die Aggertalhöhle ist vom 1. April bis einschließlich 1. November jeweils von Donnerstag bis Sonntag und an gesetzlichen Feiertagen geöffnet. Unter dem Titel »Erster Einblick« starten Führungen jeweils um 10.00, 11.15, 1"
   },
   {
     "titel": "Ferienaktion: Wie sieht ein Toaster im Inneren aus? Repair-Café mal anders",
