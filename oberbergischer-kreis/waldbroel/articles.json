@@ -1,5 +1,21 @@
 [
   {
+    "id": "63fcd1b11ffa",
+    "title": "Oberberg: 8 Polizeimeldungen von Einbrüchen bis Herbststurm – Zeugen gesucht",
+    "summary": "Acht Polizeimeldungen aus dem Oberbergischen Kreis: Einbrüche in Engelskirchen, Waldbröl, Hückeswagen und Lindlar, zwei Unfälle sowie der Herbststurm.",
+    "link": "https://www.news-on-tour.de/272125/oberberg-polizeimeldungen_20261025/",
+    "published": "Sun, 25 Oct 2026 10:23:06 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "waldbroel",
+      "hueckeswagen",
+      "engelskirchen",
+      "lindlar"
+    ],
+    "fetched": "2026-10-25T12:13:03.883724",
+    "feed_kommunen": []
+  },
+  {
     "id": "a7b00d5fdcb2",
     "title": "Einbrecher hatten es auf Marihuana abgesehen",
     "summary": "Oberberg – Unbekannte stiegen Freitagnacht in eine Apotheke in Engelskirchen ein – Gaststätteneinbruch in Waldbröl – Hückeswagen: Kriminelle erbeuten Geld aus Tresor einer sozialen Einrichtung.",
@@ -12,6 +28,19 @@
       "waldbroel"
     ],
     "fetched": "2026-10-25T11:17:10.604048",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c58e44124922",
+    "title": "POL-GM: Einbruch in Gaststätte",
+    "summary": "Waldbröl (ots) - Eine Gaststätte in der Hochstraße war in der Nacht von Freitag (23. Oktober) auf Samstag das Ziel von Einbrechern. Zwischen 2:50 Uhr und 10 Uhr gelangten die Unbekannten durch ein Fenster in den Schankraum. Dort hebelten sie ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6377347",
+    "published": "Sun, 25 Oct 2026 10:50:23 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-10-25T12:13:08.267528",
     "feed_kommunen": []
   },
   {

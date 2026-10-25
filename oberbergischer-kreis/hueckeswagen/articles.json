@@ -1,5 +1,69 @@
 [
   {
+    "id": "a66d0dcb4f97",
+    "title": "Hückeswagen: Auffahrunfall in Wipperfürth: Hückeswagener verletzt",
+    "summary": "Polizei und Feuerwehr waren am Freitag im Einsatz. Kurz vor der Wupperbrücke war es zu einem Unfall gekommen. Was genau passiert ist.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/hueckeswagen-auffahrunfall-in-wipperfuerth-hueckeswagener-verletzt-X34VA7ZVAZF43C4SJKVUP66XXM.html",
+    "published": "Sun, 25 Oct 2026 11:35:09 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen",
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-25T12:13:04.772062",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "37b723e0222c",
+    "title": "Hückeswagen: Gleich zwei Einbrüche am Wochenende beschäftigen die Polizei",
+    "summary": "Auf eine soziale Einrichtung und einen Juwelier hatten es bislang unbekannte Täter abgesehen. Die Polizei sucht nun Zeugen. Hinweise können neuerdings auch per E-Mail erfolgen.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/hueckeswagen-gleich-zwei-einbrueche-am-wochenende-beschaeftigen-die-polizei-QSNOT6HQWZFD5C6YLBZSRIXG6I.html",
+    "published": "Sun, 25 Oct 2026 11:31:57 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-25T12:13:04.772233",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "63fcd1b11ffa",
+    "title": "Oberberg: 8 Polizeimeldungen von Einbrüchen bis Herbststurm – Zeugen gesucht",
+    "summary": "Acht Polizeimeldungen aus dem Oberbergischen Kreis: Einbrüche in Engelskirchen, Waldbröl, Hückeswagen und Lindlar, zwei Unfälle sowie der Herbststurm.",
+    "link": "https://www.news-on-tour.de/272125/oberberg-polizeimeldungen_20261025/",
+    "published": "Sun, 25 Oct 2026 10:23:06 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "waldbroel",
+      "hueckeswagen",
+      "engelskirchen",
+      "lindlar"
+    ],
+    "fetched": "2026-10-25T12:13:03.883724",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8a01b13e8939",
+    "title": "Radevormwald und Hückeswagen: So fällt die Bilanz des Sturmtiefs \"Luise\" aus",
+    "summary": "Der Herbst ist da – und mit ihm die Winde. Polizei und Feuerwehr waren daher von Freitag bis Sonntag im Einsatz. Das ist die Lage im Kreisgebiet.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/oberbergischer-kreis-so-faellt-die-bilanz-des-sturmtiefs-luise-aus-radevormwald-hueckeswagen-UT2NO7CQDFGE3HQJEUTJSEO22I.html",
+    "published": "Sun, 25 Oct 2026 11:21:22 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "radevormwald",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-25T12:13:04.772383",
+    "feed_kommunen": [
+      "hueckeswagen",
+      "radevormwald"
+    ]
+  },
+  {
     "id": "a7b00d5fdcb2",
     "title": "Einbrecher hatten es auf Marihuana abgesehen",
     "summary": "Oberberg – Unbekannte stiegen Freitagnacht in eine Apotheke in Engelskirchen ein – Gaststätteneinbruch in Waldbröl – Hückeswagen: Kriminelle erbeuten Geld aus Tresor einer sozialen Einrichtung.",
@@ -12,6 +76,19 @@
       "waldbroel"
     ],
     "fetched": "2026-10-25T11:17:10.604048",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b292d2d8f3cb",
+    "title": "POL-GM: Einbrecher scheitern an Schaufensterscheibe",
+    "summary": "Hückeswagen (ots) - Am Sonntag (25. Oktober) versuchten Unbekannte, gegen 2:10 Uhr, die Schaufensterscheibe eines Juweliers in der Islandstraße mit einem Stein einzuwerfen. Die Scheibe hielt stand und die Alarmanlage wurde ausgelöst. Die ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6377346",
+    "published": "Sun, 25 Oct 2026 10:49:25 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-25T12:13:08.267729",
     "feed_kommunen": []
   },
   {

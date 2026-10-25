@@ -1,5 +1,82 @@
 [
   {
+    "id": "fd9a860e3552",
+    "title": "\"Hotspot\" reißt die Hütte ab",
+    "summary": "Lindlar - Die Katholische Landjugendbewegung (KLJB) Frielingsdorf feiert an diesem Wochenende ihr traditionelles Oktoberfest - Nach der Western-Party am Freitagabend stand am Samstag die Coverband \"Hotspot\" auf dem Programm.",
+    "link": "http://www.oberberg-aktuell.de/lindlar/hotspot-rei--t-die-h--tte-ab-a-139542",
+    "published": "Sun, 25 Oct 2026 12:05:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-10-25T12:13:09.655126",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a66d0dcb4f97",
+    "title": "Hückeswagen: Auffahrunfall in Wipperfürth: Hückeswagener verletzt",
+    "summary": "Polizei und Feuerwehr waren am Freitag im Einsatz. Kurz vor der Wupperbrücke war es zu einem Unfall gekommen. Was genau passiert ist.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/hueckeswagen-auffahrunfall-in-wipperfuerth-hueckeswagener-verletzt-X34VA7ZVAZF43C4SJKVUP66XXM.html",
+    "published": "Sun, 25 Oct 2026 11:35:09 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen",
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-25T12:13:04.772062",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "37b723e0222c",
+    "title": "Hückeswagen: Gleich zwei Einbrüche am Wochenende beschäftigen die Polizei",
+    "summary": "Auf eine soziale Einrichtung und einen Juwelier hatten es bislang unbekannte Täter abgesehen. Die Polizei sucht nun Zeugen. Hinweise können neuerdings auch per E-Mail erfolgen.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/hueckeswagen-gleich-zwei-einbrueche-am-wochenende-beschaeftigen-die-polizei-QSNOT6HQWZFD5C6YLBZSRIXG6I.html",
+    "published": "Sun, 25 Oct 2026 11:31:57 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-25T12:13:04.772233",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "63fcd1b11ffa",
+    "title": "Oberberg: 8 Polizeimeldungen von Einbrüchen bis Herbststurm – Zeugen gesucht",
+    "summary": "Acht Polizeimeldungen aus dem Oberbergischen Kreis: Einbrüche in Engelskirchen, Waldbröl, Hückeswagen und Lindlar, zwei Unfälle sowie der Herbststurm.",
+    "link": "https://www.news-on-tour.de/272125/oberberg-polizeimeldungen_20261025/",
+    "published": "Sun, 25 Oct 2026 10:23:06 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "waldbroel",
+      "hueckeswagen",
+      "engelskirchen",
+      "lindlar"
+    ],
+    "fetched": "2026-10-25T12:13:03.883724",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8a01b13e8939",
+    "title": "Radevormwald und Hückeswagen: So fällt die Bilanz des Sturmtiefs \"Luise\" aus",
+    "summary": "Der Herbst ist da – und mit ihm die Winde. Polizei und Feuerwehr waren daher von Freitag bis Sonntag im Einsatz. Das ist die Lage im Kreisgebiet.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/oberbergischer-kreis-so-faellt-die-bilanz-des-sturmtiefs-luise-aus-radevormwald-hueckeswagen-UT2NO7CQDFGE3HQJEUTJSEO22I.html",
+    "published": "Sun, 25 Oct 2026 11:21:22 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "radevormwald",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-25T12:13:04.772383",
+    "feed_kommunen": [
+      "hueckeswagen",
+      "radevormwald"
+    ]
+  },
+  {
     "id": "a7b00d5fdcb2",
     "title": "Einbrecher hatten es auf Marihuana abgesehen",
     "summary": "Oberberg – Unbekannte stiegen Freitagnacht in eine Apotheke in Engelskirchen ein – Gaststätteneinbruch in Waldbröl – Hückeswagen: Kriminelle erbeuten Geld aus Tresor einer sozialen Einrichtung.",
@@ -12,6 +89,19 @@
       "waldbroel"
     ],
     "fetched": "2026-10-25T11:17:10.604048",
+    "feed_kommunen": []
+  },
+  {
+    "id": "75a6b5843c1c",
+    "title": "Gummersbach: Kellerbrand in Derschlag – Feuerwehr trägt Bewohner ins Freie",
+    "summary": "Kellerbrand an der Klosterstraße in Derschlag: Acht Bewohner verließen das Mehrfamilienhaus selbst, einen trug die Feuerwehr ins Freie.",
+    "link": "https://www.news-on-tour.de/272130/gummersbach-kellerbrand-derschlag/",
+    "published": "Sun, 25 Oct 2026 10:04:31 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-10-25T12:13:03.883876",
     "feed_kommunen": []
   },
   {
@@ -39,6 +129,71 @@
       "gummersbach"
     ],
     "fetched": "2026-10-25T11:17:10.604183",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d44cb397e99d",
+    "title": "POL-GM: Erster Herbststurm beschäftigt auch die oberbergische Polizei",
+    "summary": "Oberbergischer Kreis (ots) - Im gesamten Kreisgebiet des Oberbergischen Kreises musste die Oberbergische Polizei in der Zeit von 8 Uhr am Freitag (23. Oktober) bis 11 Uhr am Sonntag zu insgesamt 27 Einsätzen ausrücken, die auf den Sturm ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6377350",
+    "published": "Sun, 25 Oct 2026 10:53:39 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-25T12:13:08.267151",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1ada0df44221",
+    "title": "POL-GM: Einbrecher hatten es auf Marihuana abgesehen",
+    "summary": "Engelskirchen (ots) - Am Freitag (23. Oktober) hebelten Unbekannte zwischen 2:50 Uhr und 3 Uhr die Tür des Medikamentenlagers einer Apotheke in der Straße \"Bahnhofsplatz\" auf und stahlen mehrere Tüten mit Marihuana-Blüten. Auf einer ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6377349",
+    "published": "Sun, 25 Oct 2026 10:52:12 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-25T12:13:08.267346",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c58e44124922",
+    "title": "POL-GM: Einbruch in Gaststätte",
+    "summary": "Waldbröl (ots) - Eine Gaststätte in der Hochstraße war in der Nacht von Freitag (23. Oktober) auf Samstag das Ziel von Einbrechern. Zwischen 2:50 Uhr und 10 Uhr gelangten die Unbekannten durch ein Fenster in den Schankraum. Dort hebelten sie ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6377347",
+    "published": "Sun, 25 Oct 2026 10:50:23 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-10-25T12:13:08.267528",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b292d2d8f3cb",
+    "title": "POL-GM: Einbrecher scheitern an Schaufensterscheibe",
+    "summary": "Hückeswagen (ots) - Am Sonntag (25. Oktober) versuchten Unbekannte, gegen 2:10 Uhr, die Schaufensterscheibe eines Juweliers in der Islandstraße mit einem Stein einzuwerfen. Die Scheibe hielt stand und die Alarmanlage wurde ausgelöst. Die ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6377346",
+    "published": "Sun, 25 Oct 2026 10:49:25 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-25T12:13:08.267729",
+    "feed_kommunen": []
+  },
+  {
+    "id": "98290fc1d4a7",
+    "title": "POL-GM: Wohnungseinbruch in Lindlar",
+    "summary": "Lindlar (ots) - Am Samstagmorgen (24. Oktober) hebelten Unbekannte zwischen 5:50 Uhr und 7:30 Uhr die Wohnungstür einer Wohnung in einem Mehrfamilienhaus in der Eichenhofstraße auf. Die Einbrecher stahlen eine Geldbörse mit Bargeld, ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6377344",
+    "published": "Sun, 25 Oct 2026 10:48:23 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-10-25T12:13:08.267931",
     "feed_kommunen": []
   },
   {
