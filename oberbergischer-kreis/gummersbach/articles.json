@@ -1,5 +1,33 @@
 [
   {
+    "id": "ffa3a7cd4f1d",
+    "title": "Auffahrunfälle fordern zwei Leichtverletzte",
+    "summary": "Oberberg – In Gummersbach wurde ein Jugendlicher leicht verletzt, in Wipperfürth eine 61-Jährige.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/auffahrunf--lle-fordern-zwei-leichtverletzte-a-139548",
+    "published": "Sun, 25 Oct 2026 10:54:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wipperfuerth",
+      "gummersbach"
+    ],
+    "fetched": "2026-10-25T11:17:10.604183",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b9e1d94d4ad9",
+    "title": "POL-GM: Bei Auffahrunfall verletzt",
+    "summary": "Gummersbach (ots) - Bei einem Auffahrunfall in Niederseßmar am Freitag (23. Oktober) erlitt der Fahrer eines Kleinkraftrades leichte Verletzungen. Der 16-Jährige aus Reichshof war gegen 13:30 Uhr auf der Kölner Straße von Rebbelroth in Richtung ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6377337",
+    "published": "Sun, 25 Oct 2026 10:44:23 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "reichshof",
+      "gummersbach"
+    ],
+    "fetched": "2026-10-25T11:17:09.246746",
+    "feed_kommunen": []
+  },
+  {
     "id": "df84a6b14540",
     "title": "Gummersbach: Feuerwehr löscht Autobrand in Halle – Flammen erreichen Dach",
     "summary": "Autobrand in Gummersbach-Niederseßmar: In einer Halle an der Friedrichstaler Straße griff das Feuer am 25. Oktober aufs Dach über.",
