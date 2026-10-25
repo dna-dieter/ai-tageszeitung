@@ -1,5 +1,31 @@
 [
   {
+    "id": "e74ade9175c8",
+    "title": "Bann gebrochen: Gummersbach holt ersten Heimsieg",
+    "summary": "Gummersbach – Die U19 des VfL gewinnt ohne ihre Leistungsträger Gand und Kuebler gegen die Sportfreunde Budenheim -'RPP - Ambulantes Therapie- und Reha-Zentrum' und AggerEnergie präsentieren die Berichterstattung über den VfL Gummersbach.",
+    "link": "http://www.oberberg-aktuell.de/handball/spielbericht-jhbl-u---vs-budenheim----------a-139551",
+    "published": "Sun, 25 Oct 2026 13:38:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-10-25T14:17:21.930187",
+    "feed_kommunen": []
+  },
+  {
+    "id": "72346a30e28c",
+    "title": "Feuerwehr über Stunden bei Brand in Gewerbepark im Einsatz",
+    "summary": "Gummersbach – In Friedrichsthal war am Sonntagmorgen aus ungeklärter Ursache ein Auto in Brand geraten - Flammen griffen auf Hallendach über - Bei den aufwändigen Löscharbeiten kam ein Kran zum Einsatz - Hoher Schaden (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/feuerwehr-bei-brand-in-gewerbepark-im-einsatz-a-139539",
+    "published": "Sun, 25 Oct 2026 13:15:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-10-25T14:17:21.930396",
+    "feed_kommunen": []
+  },
+  {
     "id": "75a6b5843c1c",
     "title": "Gummersbach: Kellerbrand in Derschlag – Feuerwehr trägt Bewohner ins Freie",
     "summary": "Kellerbrand an der Klosterstraße in Derschlag: Acht Bewohner verließen das Mehrfamilienhaus selbst, einen trug die Feuerwehr ins Freie.",
@@ -51,19 +77,6 @@
       "gummersbach"
     ],
     "fetched": "2026-10-25T10:16:53.009677",
-    "feed_kommunen": []
-  },
-  {
-    "id": "87c6ce2d7fb8",
-    "title": "Feuerwehr bei Brand in Gewerbepark im Einsatz",
-    "summary": "Gummersbach – In Friedrichsthal war am Sonntagmorgen aus ungeklärter Ursache ein Auto in Brand geraten – Flammen griffen auf Hallendach über.",
-    "link": "http://www.oberberg-aktuell.de/blaulicht/feuerwehr-bei-brand-in-gewerbepark-im-einsatz-a-139539",
-    "published": "Sun, 25 Oct 2026 08:24:00 +0100",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "gummersbach"
-    ],
-    "fetched": "2026-10-25T09:17:05.923342",
     "feed_kommunen": []
   },
   {
