@@ -1,5 +1,46 @@
 [
   {
+    "id": "df84a6b14540",
+    "title": "Gummersbach: Feuerwehr löscht Autobrand in Halle – Flammen erreichen Dach",
+    "summary": "Autobrand in Gummersbach-Niederseßmar: In einer Halle an der Friedrichstaler Straße griff das Feuer am 25. Oktober aufs Dach über.",
+    "link": "https://www.news-on-tour.de/272118/gummersbach-autobrand-niedersessmar-2/",
+    "published": "Sun, 25 Oct 2026 09:15:41 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-10-25T10:16:53.009677",
+    "feed_kommunen": []
+  },
+  {
+    "id": "222b1cce0676",
+    "title": "Diesmal in Ründeroth: Riesiges Hornissennest in luftiger Höhe entfernt",
+    "summary": "Engelskirchen - In diesem Jahr werden in Engelskirchen außergewöhnlich viele Nester der Asiatischen Hornisse entdeckt - Nun mussten die Experten Thomas Beissel und Johannes Schuster erneut eingreifen.",
+    "link": "http://www.oberberg-aktuell.de/engelskirchen/diesmal-in-r--nderoth--riesiges-hornissennest-in-luftiger-h--he-entfernt-a-139541",
+    "published": "Sun, 25 Oct 2026 09:32:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-25T10:16:58.255562",
+    "feed_kommunen": []
+  },
+  {
+    "id": "56eb581658cf",
+    "title": "Kein Draisinenbetrieb in Wuppertal: Wuppertrail löst sich auf",
+    "summary": "Das Radeln auf Schienen ruht seit mehr als zwei Jahren. Der Wuppertaler Betreiberverein schließt nun ab.",
+    "link": "https://www.rga.de/lokales/wuppertal/kein-draisinenbetrieb-in-wuppertal-wuppertrail-loest-sich-auf-3QAEDTJ67IMS7FK5KTS22TRNBI.html",
+    "published": "Sun, 25 Oct 2026 09:22:38 +0100",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-10-25T10:16:54.242154",
+    "feed_kommunen": [
+      "radevormwald"
+    ]
+  },
+  {
     "id": "87c6ce2d7fb8",
     "title": "Feuerwehr bei Brand in Gewerbepark im Einsatz",
     "summary": "Gummersbach – In Friedrichsthal war am Sonntagmorgen aus ungeklärter Ursache ein Auto in Brand geraten – Flammen griffen auf Hallendach über.",
