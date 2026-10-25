@@ -866,8 +866,11 @@ def build_veranstaltungen_page():
             )
         letzter = htmlmod.escape(events[-1].get("datum", ""))
         hinweis = str(len(events)) + ' kommende Termine bis ' + letzter
-        if len(events) < 40:
-            hinweis += ' (die Quelle liefert derzeit nicht mehr Termine)'
+        # Hinweis, wenn weniger als 40 Termine oder der Abruf nur eine Ersatzquelle
+        # mit kürzerem Zeitraum lieferte (Feld "eingeschraenkt" aus fetch_events.py).
+        if len(events) < 40 or any(e.get("eingeschraenkt") for e in events):
+            quellen = sorted({e.get("quelle", "") for e in events if e.get("quelle")})
+            hinweis += ' · Termine eingeschränkt, Quelle: ' + htmlmod.escape(", ".join(quellen) or "unbekannt")
         parts = ['<div class="hinweis" style="background:#EAFAF1; border-color:#27AE60;">📅 '
                  + hinweis + '</div>']
         for e in events:
@@ -880,6 +883,8 @@ def build_veranstaltungen_page():
             preis  = htmlmod.escape(e.get("preis", ""))
             card = '<div class="evt-card">\n'
             card += '  <div class="evt-datum">' + datum
+            if e.get("datum_bis"):
+                card += ' bis ' + htmlmod.escape(e["datum_bis"])
             if preis:
                 card += ' &middot; <span style="color:#27AE60;font-weight:normal;">' + preis + '</span>'
             else:

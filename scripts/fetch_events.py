@@ -381,6 +381,7 @@ def fetch_stadt_koeln_rss(max_events: int = 40) -> list:
             "titel": e.get("title", ""),
             "datum": format_datum(when),
             "datum_raw": when.isoformat(),
+            "datum_bis": format_datum(ende) if ende.date() > when.date() else "",
             "ort": "Köln",
             "preis": "",
             "link": e.get("link", ""),
@@ -428,6 +429,7 @@ def fetch_stadt_koeln_od() -> list:
             "titel": titel,
             "datum": format_datum(when),
             "datum_raw": when.isoformat(),
+            "datum_bis": format_datum(datetime.combine(ende, datetime.min.time())) if ende > when.date() else "",
             "ort": ort,
             "preis": (item.get("preis") or "").strip()[:80],
             "link": link,
@@ -448,10 +450,11 @@ def fetch_koeln() -> list:
         events = []
     if events:
         return events
-    events = fetch_stadt_koeln_rss(max_events=40)
-    if events:
-        return events
-    return scrape_rausgegangen_koeln(max_events=40)
+    print("::warning::Open-Data-Datensatz der Stadt Köln nicht verfügbar - Fallback auf den RSS der Stadt Köln.")
+    events = fetch_stadt_koeln_rss(max_events=40) or scrape_rausgegangen_koeln(max_events=40)
+    for event in events:
+        event["eingeschraenkt"] = True
+    return events
 
 def save(slug: str, events: list):
     path = EVT_DIR / f"{slug}.json"
