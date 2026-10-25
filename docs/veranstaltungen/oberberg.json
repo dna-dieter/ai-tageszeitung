@@ -1,35 +1,5 @@
 [
   {
-    "titel": "Herbstferien im Museum",
-    "datum": "25. Okt 2026",
-    "datum_raw": "2026-10-25T14:30:00+01:00",
-    "ort": "LVR-Freilichtmuseum Lindlar, Heiligenhoven 16a, 51789 Lindlar",
-    "preis": "",
-    "link": "https://www.lvr.de/freilichtmuseum-lindlar/programm/herbstferienprogramm/#module-523562",
-    "quelle": "Das Bergische",
-    "teaser": "Was kann aus bereits vorhandenen Materialien und natürlichen Rohstoffen neues entstehen? Unter dem Motto „Wunderbar verwertbar“ dreht sich in den Herbstferien alles um Nachhaltigkeit, Wiederverwertung und altes Handwerk."
-  },
-  {
-    "titel": "Führung: Auf den Spuren von Vater und Sohn - die Familie Engels",
-    "datum": "25. Okt 2026",
-    "datum_raw": "2026-10-25T15:00:00+01:00",
-    "ort": "LVR-Industriemuseum Kraftwerk Ermen & Engels, Engels-Platz 2, 51766 Engelskirchen",
-    "preis": "ab 8 €",
-    "link": "https://www.shop.industriemuseum.lvr.de/#/product/event/15755",
-    "quelle": "Das Bergische",
-    "teaser": "Die ehemalige Baumwollspinnerei Ermen & Engels zählt zu den frühen Textilfabriken in Deutschland und trug maßgeblich zur Industrialisierung des Oberbergischen bei. Beim Rundgang durch das Kraftwerk und über das Gelände e"
-  },
-  {
-    "titel": "Laternen-Führung in der Aggertalhöhle",
-    "datum": "25. Okt 2026",
-    "datum_raw": "2026-10-25T16:15:00+02:00",
-    "ort": "Aggertalhöhle, Im Krümmel 39, 51766 Engelskirchen",
-    "preis": "ab 6 €",
-    "link": "https://www.aggertalhoehle.de/main/fuehrungen",
-    "quelle": "Das Bergische",
-    "teaser": "Diese Führung ist etwas besonderes. Die normale Höhlenbeleuchtung hat Pause, denn wir gehen mit Laternen in die dunkle Höhle. Wir unternehmen eine kleine Zeitreise ins ausgehende 18. Jahrhundert. Wie war das damals? Auf "
-  },
-  {
     "titel": "„Todsicher“: Komödie von und mit Rita Winter",
     "datum": "25. Okt 2026",
     "datum_raw": "2026-10-25T19:00:00+01:00",
@@ -68,6 +38,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "In den Herbstferien heißt es: aufsteigen, ausprobieren und staunen! Die Kinder erleben eine abwechslungsreiche Voltigierwoche, in der sie spielerisch die Welt des Turnens auf dem Pferd entdecken. Mit viel Bewegung, Freud"
+  },
+  {
+    "titel": "Herbstferien im Museum",
+    "datum": "27. Okt 2026",
+    "datum_raw": "2026-10-27T00:00:00+01:00",
+    "ort": "LVR-Freilichtmuseum Lindlar, Heiligenhoven 16a, 51789 Lindlar",
+    "preis": "",
+    "link": "https://www.lvr.de/freilichtmuseum-lindlar/programm/herbstferienprogramm/#module-523562",
+    "quelle": "Das Bergische",
+    "teaser": "Was kann aus bereits vorhandenen Materialien und natürlichen Rohstoffen neues entstehen? Unter dem Motto „Wunderbar verwertbar“ dreht sich in den Herbstferien alles um Nachhaltigkeit, Wiederverwertung und altes Handwerk."
   },
   {
     "titel": "Ferienaktion: Drucken statt Zeichnen – dein erster 3D Druck",
@@ -258,6 +238,16 @@
     "link": "https://www.shop.industriemuseum.lvr.de/#/product/event/11709",
     "quelle": "Das Bergische",
     "teaser": "Der Strom kommt aus der Steckdose – klar. Aber wie kommt er dort hin, wie wird er erzeugt und was bedeutet das für unsere Umwelt und den Geldbeutel? Schaffen es die Teilnehmenden, in einem Spiel ein stabiles Stromnetz zu"
+  },
+  {
+    "titel": "Laternen-Führung in der Aggertalhöhle",
+    "datum": "1. Nov 2026",
+    "datum_raw": "2026-11-01T16:15:00+02:00",
+    "ort": "Aggertalhöhle, Im Krümmel 39, 51766 Engelskirchen",
+    "preis": "ab 6 €",
+    "link": "https://www.aggertalhoehle.de/main/fuehrungen",
+    "quelle": "Das Bergische",
+    "teaser": "Diese Führung ist etwas besonderes. Die normale Höhlenbeleuchtung hat Pause, denn wir gehen mit Laternen in die dunkle Höhle. Wir unternehmen eine kleine Zeitreise ins ausgehende 18. Jahrhundert. Wie war das damals? Auf "
   },
   {
     "titel": "Waldbröl's Erbe, NS-Großbauten in der kommunalen Erinnerung",

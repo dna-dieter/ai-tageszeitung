@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Multivisionsshow Norwegen",
-    "datum": "25. Okt 2026",
-    "datum_raw": "2026-10-25T15:00:00+01:00",
-    "ort": "Rheinisch-Bergisches Reisezentrum, Diepenbroich 51, 51491 Overath",
-    "preis": "ab 5 €",
-    "link": "https://www.blitz-reisen.de/veranstaltungen-im-reisezentrum/",
-    "quelle": "Das Bergische",
-    "teaser": "Erleben Sie bei dieser Veranstaltung die Vielfalt Norwegens. Sie lernen Norwegen von Kap Lindesnes im Süden bis zur nördlichen Spitze, dem Nordkap, kennen. Traumhafte Fjorde und Fjelle erwarten Sie auf der Bilderreise du"
-  },
-  {
     "titel": "Weltklassik einmal anders - Keep your fingers crossed! Piano Crossover!",
     "datum": "25. Okt 2026",
     "datum_raw": "2026-10-25T17:00:00+01:00",
@@ -668,6 +658,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Jeden letzten Sonntag im Monat laden unsere fachkundigen Museumskenner auf einen unterhaltsamen und informativen Spaziergang ein. Im Haupthaus und auf dem Außengelände erfahren Sie Wissenswertes über das Leben und Arbeit"
+  },
+  {
+    "titel": "Multivisionsshow Norwegen",
+    "datum": "29. Nov 2026",
+    "datum_raw": "2026-11-29T15:00:00+01:00",
+    "ort": "Rheinisch-Bergisches Reisezentrum, Diepenbroich 51, 51491 Overath",
+    "preis": "ab 5 €",
+    "link": "https://www.blitz-reisen.de/veranstaltungen-im-reisezentrum/",
+    "quelle": "Das Bergische",
+    "teaser": "Erleben Sie bei dieser Veranstaltung die Vielfalt Norwegens. Sie lernen Norwegen von Kap Lindesnes im Süden bis zur nördlichen Spitze, dem Nordkap, kennen. Traumhafte Fjorde und Fjelle erwarten Sie auf der Bilderreise du"
   },
   {
     "titel": "Frau Höpker bittet zum Gesang - Mitsing Konzert",
