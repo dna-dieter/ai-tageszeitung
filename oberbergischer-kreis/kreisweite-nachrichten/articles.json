@@ -1,5 +1,18 @@
 [
   {
+    "id": "ec8a454a4e81",
+    "title": "Torschützenliste Kreisliga B",
+    "summary": "Oberberg - Hier können Sie die Torjägerliste der Kreisliga B mit allen Mannschaften einsehen.",
+    "link": "http://www.oberberg-aktuell.de/fussball/torschuetzenliste-kreisliga-b-a-1529",
+    "published": "Mon, 26 Oct 2026 18:15:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-26T19:17:21.281751",
+    "feed_kommunen": []
+  },
+  {
     "id": "a547c1d899c8",
     "title": "Wieder regulärer Online-Service bei der Kreisverwaltung",
     "summary": "Oberberg - Die digitalen Angebote, auch im Straßenverkehrsamt, stehen wieder bereit.",
@@ -75,19 +88,6 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-26T12:17:32.952167",
-    "feed_kommunen": []
-  },
-  {
-    "id": "306451e88022",
-    "title": "Torschützenliste Kreisliga A",
-    "summary": "Oberberg - Hier können Sie die Torjägerliste der Kreisliga A einsehen.",
-    "link": "http://www.oberberg-aktuell.de/fussball/torschuetzenliste-kreisliga-a-a-1421",
-    "published": "Mon, 26 Oct 2026 08:30:00 +0100",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "kreisweite-nachrichten"
-    ],
-    "fetched": "2026-10-26T09:17:19.934188",
     "feed_kommunen": []
   },
   {
