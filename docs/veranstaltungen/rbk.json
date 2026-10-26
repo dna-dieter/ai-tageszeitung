@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Herbstferien Intensiv Schwimm-Kurse",
-    "datum": "26. Okt 2026",
-    "datum_raw": "2026-10-26T08:15:00+02:00",
-    "ort": "Badino Freizeitbad, Propsteistraße 25, 51491 Overath",
-    "preis": "",
-    "link": "https://shop.badino-overath.de/de/bookings/block_list/course_id/97/",
-    "quelle": "Das Bergische",
-    "teaser": "Dieser Kurs wird täglich in den Ferien angeboten. Die Ferienkurse sind bewusst als Auftakt einer langfristigen Initiative angelegt. Ziel aller Projektpartner ist es, die Schwimmausbildung in Overath dauerhaft auszubauen,"
-  },
-  {
     "titel": "Wandern & Workout",
     "datum": "26. Okt 2026",
     "datum_raw": "2026-10-26T12:30:00+02:00",
@@ -28,6 +18,16 @@
     "link": "https://www.bergischgladbach.de/fuehrungen-zanders-gelaende2.aspx",
     "quelle": "Das Bergische",
     "teaser": "Der Rundgang über das 36 Hektar große Gelände führt Vergangenheit und Zukunft zusammen: Neben Einblicken in die Geschichte des Areals, das für fast zwei Jahrhunderte die Stadtentwicklung prägte, erläutern die Projektmita"
+  },
+  {
+    "titel": "Herbstferien Intensiv Schwimm-Kurse",
+    "datum": "27. Okt 2026",
+    "datum_raw": "2026-10-27T08:15:00+02:00",
+    "ort": "Badino Freizeitbad, Propsteistraße 25, 51491 Overath",
+    "preis": "",
+    "link": "https://shop.badino-overath.de/de/bookings/block_list/course_id/97/",
+    "quelle": "Das Bergische",
+    "teaser": "Dieser Kurs wird täglich in den Ferien angeboten. Die Ferienkurse sind bewusst als Auftakt einer langfristigen Initiative angelegt. Ziel aller Projektpartner ist es, die Schwimmausbildung in Overath dauerhaft auszubauen,"
   },
   {
     "titel": "Ferienaktion: Experimentierwerkstatt Drucken und Stempeln",
