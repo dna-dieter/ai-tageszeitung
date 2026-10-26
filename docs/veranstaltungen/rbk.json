@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Wandern & Workout",
-    "datum": "26. Okt 2026",
-    "datum_raw": "2026-10-26T12:30:00+02:00",
-    "ort": "Wanderparkplatz Eifgen, Eifgen 8, 42929 Wermelskirchen",
-    "preis": "ab 15 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Erleben Sie die perfekte Kombination aus Wandern in der Natur in Verbindung mit einem effektiven Workout. Es handelt sich um ein Ganzkörpertraining für jedes Fitnesslevel. Hier können Sie Energie tanken und abschalten. B"
-  },
-  {
     "titel": "Allgemeine Führung über das Zanders-Areal",
     "datum": "26. Okt 2026",
     "datum_raw": "2026-10-26T15:00:00+01:00",
@@ -228,6 +218,16 @@
     "link": "https://www.schloss-eulenbroich.de/news/4050/ger-o-donnell--trevor-sexton--irish-folk-at-its-best",
     "quelle": "Das Bergische",
     "teaser": "Das gefeierte irische Folk-Duo Ger O Donnell (County Clare) und Trevor Sexton (County Limerick) kehrt 2026 endlich wieder nach Deutschland zurück und wird die Bühnen mit seiner unverwechselbaren Energie erobern! Seit übe"
+  },
+  {
+    "titel": "Wandern & Workout",
+    "datum": "2. Nov 2026",
+    "datum_raw": "2026-11-02T12:30:00+02:00",
+    "ort": "Wanderparkplatz Eifgen, Eifgen 8, 42929 Wermelskirchen",
+    "preis": "ab 15 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Erleben Sie die perfekte Kombination aus Wandern in der Natur in Verbindung mit einem effektiven Workout. Es handelt sich um ein Ganzkörpertraining für jedes Fitnesslevel. Hier können Sie Energie tanken und abschalten. B"
   },
   {
     "titel": "Themenführung: Historische Spurensuche - Papierproduktion auf Zanders",
