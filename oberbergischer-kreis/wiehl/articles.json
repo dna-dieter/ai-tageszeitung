@@ -2489,5 +2489,20 @@
     "feed_kommunen": [
       "wiehl"
     ]
+  },
+  {
+    "id": "b3f04cd124e9",
+    "title": "Musikschulfest mit Konzertwochenende",
+    "summary": "Zu einem großen Konzertwochenende am 7. und 8. November 2026 lädt die Musikschule ins Burghaus Bielstein und in die evangelische Kirche Drabenderhöhe ein.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9593-musikschulfest-mit-konzertwochenende.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-26T10:17:41.685287",
+    "feed_kommunen": [
+      "wiehl"
+    ]
   }
 ]

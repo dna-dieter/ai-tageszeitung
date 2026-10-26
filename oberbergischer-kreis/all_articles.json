@@ -1,5 +1,46 @@
 [
   {
+    "id": "d3dc09d05002",
+    "title": "Gummersbach: VfL will in Göppingen die nächsten Punkte einfahren",
+    "summary": "Am Donnerstag, 29. Oktober, 19 Uhr, gastiert der VfL Gummersbach bei FRISCH AUF! Göppingen in der EWS Arena – Vorbericht zum elften Spieltag.",
+    "link": "https://www.news-on-tour.de/274471/gummersbach-vfl-goeppingen-punkte/",
+    "published": "Mon, 26 Oct 2026 09:09:33 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-10-26T10:17:31.263919",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f7759ce57146",
+    "title": "Gummersbach: Absauganlage brennt in Holzbetrieb in Hardt",
+    "summary": "Brand in Gummersbach-Hardt: In einem holzverarbeitenden Betrieb an der Hardtwiesenstraße brennt eine Absauganlage. Die Feuerwehr ist im Einsatz.",
+    "link": "https://www.news-on-tour.de/274457/gummersbach-brand-absauganlage-hardt/",
+    "published": "Mon, 26 Oct 2026 08:35:35 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-10-26T10:17:31.264085",
+    "feed_kommunen": []
+  },
+  {
+    "id": "cd97a2fa3534",
+    "title": "Bekanntmachung",
+    "summary": "Widerspruchsrecht Datenübermittlung",
+    "link": "https://www.engelskirchen.de/portal/meldungen/bekanntmachung-900002519-23501.html?rubrik=900000003",
+    "published": "Mon, 26 Oct 2026 09:04:00 +0100",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-26T10:17:41.169994",
+    "feed_kommunen": [
+      "engelskirchen"
+    ]
+  },
+  {
     "id": "306451e88022",
     "title": "Torschützenliste Kreisliga A",
     "summary": "Oberberg - Hier können Sie die Torjägerliste der Kreisliga A einsehen.",
@@ -38732,6 +38773,21 @@
       "wiehl"
     ],
     "fetched": "2026-10-23T11:58:05.772865",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "b3f04cd124e9",
+    "title": "Musikschulfest mit Konzertwochenende",
+    "summary": "Zu einem großen Konzertwochenende am 7. und 8. November 2026 lädt die Musikschule ins Burghaus Bielstein und in die evangelische Kirche Drabenderhöhe ein.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9593-musikschulfest-mit-konzertwochenende.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-26T10:17:41.685287",
     "feed_kommunen": [
       "wiehl"
     ]
