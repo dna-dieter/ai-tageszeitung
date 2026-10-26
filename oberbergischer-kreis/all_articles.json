@@ -1,5 +1,33 @@
 [
   {
+    "id": "306451e88022",
+    "title": "Torschützenliste Kreisliga A",
+    "summary": "Oberberg - Hier können Sie die Torjägerliste der Kreisliga A einsehen.",
+    "link": "http://www.oberberg-aktuell.de/fussball/torschuetzenliste-kreisliga-a-a-1421",
+    "published": "Mon, 26 Oct 2026 08:30:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-26T09:17:19.934188",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6cfa2489e368",
+    "title": "Wunschbaum-Aktion in Nümbrecht: Kindern zu Weihnachten eine Freude machen",
+    "summary": "Weihnachtsfreude schenken und dabei ganz konkret helfen: Die Gemeinde Nümbrecht startet in der Adventszeit eine WunschbaumAktion für Kinder bis einschließlich 12 Jahre.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=2011&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=d917a36514f73860ba3b571ad45cece1",
+    "published": "Mon, 26 Oct 2026 08:25:12 +0100",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-26T09:17:28.218446",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
     "id": "7b3ebcf4bbcd",
     "title": "Mondspektakel",
     "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
@@ -79,6 +107,20 @@
       "gummersbach"
     ],
     "fetched": "2026-10-26T03:17:07.241347",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9d167ed40b34",
+    "title": "Gold und Silber beim Deutschen Jugend-Cup",
+    "summary": "Gummersbach - Lidiya Postnikova und Aurora Wilke vom VfL Berghausen-Gimborn überzeugten in der Disziplin Poomsae auf nationaler Ebene.",
+    "link": "http://www.oberberg-aktuell.de/sportmix/gold-und-silber-beim-deutschen-jugend-cup-a-139573",
+    "published": "Mon, 26 Oct 2026 01:45:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach",
+      "marienheide"
+    ],
+    "fetched": "2026-10-26T09:17:19.934415",
     "feed_kommunen": []
   },
   {

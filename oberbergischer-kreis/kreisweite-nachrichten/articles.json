@@ -1,5 +1,18 @@
 [
   {
+    "id": "306451e88022",
+    "title": "Torschützenliste Kreisliga A",
+    "summary": "Oberberg - Hier können Sie die Torjägerliste der Kreisliga A einsehen.",
+    "link": "http://www.oberberg-aktuell.de/fussball/torschuetzenliste-kreisliga-a-a-1421",
+    "published": "Mon, 26 Oct 2026 08:30:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-26T09:17:19.934188",
+    "feed_kommunen": []
+  },
+  {
     "id": "7b3ebcf4bbcd",
     "title": "Mondspektakel",
     "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
