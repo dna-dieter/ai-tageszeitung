@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Herbstferien-Programm für Kinder auf :metabolon",
-    "datum": "26. Okt 2026",
-    "datum_raw": "2026-10-26T09:00:00+01:00",
-    "ort": ":metabolon - Umweltlernort und Freizeitspass, Am Berkebach 1, 51789 Lindlar",
-    "preis": "",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Auf :metabolon wird wieder ein abwechslungsreiches Programm in den Herbstferien angeboten. Es gibt zwei Themen zu denen unterschiedliche Termine angeboten werden. Von der Wegwerfgesellschaft zu einer zirkulären Zukunft –"
-  },
-  {
     "titel": "Panarbora Geisterpark",
     "datum": "26. Okt 2026",
     "datum_raw": "2026-10-26T11:00:00+02:00",
@@ -38,6 +28,16 @@
     "link": "https://www.lvr.de/freilichtmuseum-lindlar/programm/herbstferienprogramm/#module-523562",
     "quelle": "Das Bergische",
     "teaser": "Was kann aus bereits vorhandenen Materialien und natürlichen Rohstoffen neues entstehen? Unter dem Motto „Wunderbar verwertbar“ dreht sich in den Herbstferien alles um Nachhaltigkeit, Wiederverwertung und altes Handwerk."
+  },
+  {
+    "titel": "Herbstferien-Programm für Kinder auf :metabolon",
+    "datum": "27. Okt 2026",
+    "datum_raw": "2026-10-27T09:00:00+01:00",
+    "ort": ":metabolon - Umweltlernort und Freizeitspass, Am Berkebach 1, 51789 Lindlar",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Auf :metabolon wird wieder ein abwechslungsreiches Programm in den Herbstferien angeboten. Es gibt zwei Themen zu denen unterschiedliche Termine angeboten werden. Von der Wegwerfgesellschaft zu einer zirkulären Zukunft –"
   },
   {
     "titel": "Ferienaktion: Drucken statt Zeichnen – dein erster 3D Druck",
