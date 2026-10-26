@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Panarbora Geisterpark",
-    "datum": "26. Okt 2026",
-    "datum_raw": "2026-10-26T11:00:00+02:00",
-    "ort": "Baumwipfelpfad Panarbora, Nutscheidstr. 1, 51545 Waldbröl",
-    "preis": "ab 11 €",
-    "link": "https://panarbora.de/veranstaltungen-und-events",
-    "quelle": "Das Bergische",
-    "teaser": "Vom 26. September bis zum 1. November 2026 wird es bei uns wieder gespenstisch! Wenn kleine Geister auftauchen und sich unser Aussichtsturm und der Baumwipfelpfad in ein Halloween-Gewand hüllen, beginnt eine ganz besonde"
-  },
-  {
     "titel": "Voltigierabenteuer in den Herbstferien",
     "datum": "26. Okt 2026",
     "datum_raw": "2026-10-26T14:00:00+01:00",
@@ -48,6 +38,16 @@
     "link": "https://www.shop.industriemuseum.lvr.de/#/product/event/15987",
     "quelle": "Das Bergische",
     "teaser": "Wie entsteht eigentlich etwas im 3D-Drucker? In diesem Workshop entdecken Kinder Schritt für Schritt, wie aus einer Idee ein echtes Objekt wird. Nach einer verständlichen Einführung in das 3D-Druck-Verfahren gestalten di"
+  },
+  {
+    "titel": "Panarbora Geisterpark",
+    "datum": "27. Okt 2026",
+    "datum_raw": "2026-10-27T11:00:00+02:00",
+    "ort": "Baumwipfelpfad Panarbora, Nutscheidstr. 1, 51545 Waldbröl",
+    "preis": "ab 11 €",
+    "link": "https://panarbora.de/veranstaltungen-und-events",
+    "quelle": "Das Bergische",
+    "teaser": "Vom 26. September bis zum 1. November 2026 wird es bei uns wieder gespenstisch! Wenn kleine Geister auftauchen und sich unser Aussichtsturm und der Baumwipfelpfad in ein Halloween-Gewand hüllen, beginnt eine ganz besonde"
   },
   {
     "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
@@ -568,6 +568,16 @@
     "link": "http://www.vhs-gm.de/programm/kulturkreativitaet.html?action%5B160%5D=course&courseId=571-C-3384806&filter%5Bq%5D=Pilz&rowIndex=1",
     "quelle": "Das Bergische",
     "teaser": "Pilze werden allgemein fast ausschließlich nach ihrem Speisewert und ihrer Giftigkeit beurteilt. Häufig wird dabei vergessen, dass ein Leben ohne Pilze nicht möglich ist. Aber Pilze lassen sich auch unglaublich kreativ e"
+  },
+  {
+    "titel": "Denklinger Burgweihnacht",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T13:00:00+01:00",
+    "ort": "Denklinger Burg, Hauptstraße, 51580 Reichshof",
+    "preis": "",
+    "link": "https://www.burgweihnacht-denklingen.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Kunsthandwerk in der Burg, ortsansässige Vereine, Schule und Kindergarten vor Ort sorgen für das leibliche Wohl. Am Samstag verschiedene Auftritte, abends DJ-Musik. Sonntagmittag Unterhaltung durch die \"Flöckchen\". Koste"
   },
   {
     "titel": "Weihnachtsmarkt Gimborn",

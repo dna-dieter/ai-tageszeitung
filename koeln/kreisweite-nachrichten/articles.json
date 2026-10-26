@@ -1,5 +1,57 @@
 [
   {
+    "id": "3fd9938feed6",
+    "title": "„Nicht kalt für die Jahreszeit“: In Köln kann es wieder bis zu 20 Grad warm werden",
+    "summary": "Obwohl es bereits Ende Oktober ist, wird das Rheinland bislang von niedrigen Temperaturen verschont.",
+    "link": "https://www.ksta.de/koeln/wetter-in-koeln-kann-es-wieder-bis-zu-20-grad-warm-werden-1403439",
+    "published": "Mon, 26 Oct 2026 17:31:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-26T18:17:50.357140",
+    "feed_kommunen": []
+  },
+  {
+    "id": "81bfc5e66a1d",
+    "title": "Bester Newcomer: Björn von Morgenstern erhält Deutschen Comedypreis",
+    "summary": "Gerührt nahm der Stand-Up-Comedian die Auszeichnung als „Bester Newcomer“ bei der 1Live Comedy-Nacht XXL in Köln an.",
+    "link": "https://www.ksta.de/koeln/bjoern-von-morgenstern-erhaelt-den-comedypreis-als-bester-newcomer-1403125",
+    "published": "Mon, 26 Oct 2026 17:17:49 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-26T18:17:50.357168",
+    "feed_kommunen": []
+  },
+  {
+    "id": "db611e6a0565",
+    "title": "Richtung A57: Neuer Blitzer am Herkulestunnel wird am Mittwoch scharfgestellt",
+    "summary": "Auf der A57 ist es im Bereich des Herkulestunnels in den vergangenen Monaten immer wieder zu schweren Unfällen gekommen.",
+    "link": "https://www.ksta.de/koeln/ehrenfeld/neuehrenfeld/koeln-a57-blitzer-am-herkulestunnel-ab-mittwoch-in-betrieb-1403256",
+    "published": "Mon, 26 Oct 2026 16:56:02 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-26T18:17:50.357186",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c9700dfb5da5",
+    "title": "„Ich bin mit Liebe Polizist“: Beamte wehren sich bei Strafprozess in Köln gegen Prügel-Vorwurf",
+    "summary": "Den Beamten wird Körperverletzung im Amt und Verfolgung Unschuldiger vorgeworfen. Ihnen droht der Jobverlust.",
+    "link": "https://www.ksta.de/koeln/koeln-polizisten-wehren-sich-vor-gericht-gegen-pruegel-vorwurf-1403368",
+    "published": "Mon, 26 Oct 2026 16:42:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-26T18:17:50.357203",
+    "feed_kommunen": []
+  },
+  {
     "id": "349c58fad286",
     "title": "Köln früher und heute: Als das Haus Vanderstein-Bellen ein Schmuckstück am Heumarkt war",
     "summary": "Dort, wo heute das Maritim-Hotel steht, befand sich früher das stattliche Vanderstein-Bellen-Haus. Es wurde 1942 zerstört.",
