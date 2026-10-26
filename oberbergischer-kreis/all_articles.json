@@ -1,5 +1,18 @@
 [
   {
+    "id": "12142186531b",
+    "title": "Dienstfahrzeug gestohlen",
+    "summary": "Waldbröl (red). Unbekannte haben am Schulzentrum an der Goethestraße ein Dienstfahrzeug der Marktstadt Waldbröl gestohlen. Der Diebstahl ereignete sich in der Nacht von Donnerstag auf Freitag. Bei dem Fahrzeug handelt es sich um einen weißen Renault Kangoo mit dem Kennzeichen GM-WA 8086. Der Wagen trägt auf beiden Seiten sowie am Heck das Logo der Marktstadt Waldbröl. Die Stadtverwaltung weist dar",
+    "link": "https://www.rheinische-anzeigenblaetter.de/waldbroel/c-nachrichten/dienstfahrzeug-gestohlen_a382007",
+    "published": "Mon, 26 Oct 2026 22:48:31 +0100",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-10-26T23:17:13.085596",
+    "feed_kommunen": []
+  },
+  {
     "id": "351323127dc6",
     "title": "Mit viel PS und einer kleinen Portion Wahnsinn auf der Pulling-Strecke",
     "summary": "Reichshof – Familie Kaßner aus Freckhausen hat ein Hobby der besonderen Art - Beim „Garden Pulling“ räumen sie einen Preis nach dem anderen ab.",
@@ -192,19 +205,6 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-26T12:17:32.952167",
-    "feed_kommunen": []
-  },
-  {
-    "id": "c42bbc334812",
-    "title": "Waldbröl: Dienstfahrzeug gestohlen",
-    "summary": "Waldbröl - Ein weißer Renault Kangoo wurde vergangene Woche am Schulzentrum entwendet - Das Rathaus bittet um Hinweise.",
-    "link": "http://www.oberberg-aktuell.de/blaulicht/waldbr--l--dienstfahrzeug-gestohlen-a-139578",
-    "published": "Mon, 26 Oct 2026 10:40:00 +0100",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "waldbroel"
-    ],
-    "fetched": "2026-10-26T11:17:07.711679",
     "feed_kommunen": []
   },
   {
