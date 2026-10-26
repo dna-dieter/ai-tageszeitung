@@ -1,5 +1,88 @@
 [
   {
+    "id": "c42bbc334812",
+    "title": "Waldbröl: Dienstfahrzeug gestohlen",
+    "summary": "Waldbröl - Ein weißer Renault Kangoo wurde vergangene Woche am Schulzentrum entwendet - Das Rathaus bittet um Hinweise.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/waldbr--l--dienstfahrzeug-gestohlen-a-139578",
+    "published": "Mon, 26 Oct 2026 10:40:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-10-26T11:17:07.711679",
+    "feed_kommunen": []
+  },
+  {
+    "id": "3ea99bd02ae2",
+    "title": "Diebe flüchten zu Fuß in einen Wald",
+    "summary": "Bei einem Einbruch in eine Radevormwalder Firma wurden eine Fräsmaschine und Metall gestohlen. Polizei sieht noch, wie drei Männer abhauen.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/diebe-fluechten-zu-fuss-in-einen-wald-3IOPG3DHIDUEIJXZ5SICALJDVU.html",
+    "published": "Mon, 26 Oct 2026 10:37:49 +0100",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-10-26T11:17:04.438499",
+    "feed_kommunen": [
+      "radevormwald"
+    ]
+  },
+  {
+    "id": "7df32c2ad2f5",
+    "title": "Polizei Oberberg: Einbrüche in Drieberhausen und Radevormwald – Vier Verletzte bei Unfall in Rebbelroth",
+    "summary": "Oberberg: Auffahrunfall in Rebbelroth mit vier Leichtverletzten, Einbrüche in Drieberhausen und Radevormwald – Polizei sucht Zeugen.",
+    "link": "https://www.news-on-tour.de/274477/oberberg-polizei-meldungen-rebbelroth/",
+    "published": "Mon, 26 Oct 2026 09:27:17 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-10-26T11:17:03.273535",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2c5795864add",
+    "title": "Dienstfahrzeug gestohlen – Marktstadt Waldbröl bittet um Hinweise",
+    "summary": "Am Schulzentrum (Goethestr.) wurde in der Nacht von Donnerstag auf Freitag ein Dienstfahrzeug der Marktstadt Waldbröl gestohlen. Hierbei handelt es sich um einen weißen Renault Kangoo mit dem Kennzeichen GM-WA […]",
+    "link": "https://www.waldbroel.de/dienstfahrzeug-gestohlen-marktstadt-waldbroel-bittet-um-hinweise/",
+    "published": "Mon, 26 Oct 2026 09:25:05 +0000",
+    "source": "Stadt Waldbröl (offiziell)",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-10-26T11:17:10.430393",
+    "feed_kommunen": [
+      "waldbroel"
+    ]
+  },
+  {
+    "id": "a567f31a3e95",
+    "title": "Vier Verletzte auf der Kölner Straße",
+    "summary": "Gummersbach – Bei einem Auffahrunfall wurden am Sonntag zwei Fahranfänger und ihre Beifahrer verletzt.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/vier-verletzte-auf-der-k--lner-stra--e-a-139577",
+    "published": "Mon, 26 Oct 2026 10:25:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-10-26T11:17:07.711818",
+    "feed_kommunen": []
+  },
+  {
+    "id": "418e211fce73",
+    "title": "Metallteile standen bei Einbrechern hoch im Kurs",
+    "summary": "Oberberg - Unbekannte entwendeten aus einem Schrotthandel in Gummersbach Kupferteile - In Radevormwald fahndete die Polizei bislang vergeblich nach drei Einbrechern.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/einbruch---------a-139576",
+    "published": "Mon, 26 Oct 2026 10:17:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach",
+      "radevormwald"
+    ],
+    "fetched": "2026-10-26T11:17:07.711986",
+    "feed_kommunen": []
+  },
+  {
     "id": "d3dc09d05002",
     "title": "Gummersbach: VfL will in Göppingen die nächsten Punkte einfahren",
     "summary": "Am Donnerstag, 29. Oktober, 19 Uhr, gastiert der VfL Gummersbach bei FRISCH AUF! Göppingen in der EWS Arena – Vorbericht zum elften Spieltag.",
@@ -10,6 +93,45 @@
       "gummersbach"
     ],
     "fetched": "2026-10-26T10:17:31.263919",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c9ba059a1fac",
+    "title": "POL-GM: Einbruch in Firmengebäude",
+    "summary": "Radevormwald (ots) - Am Sonntag (25. Oktober) hebelten Unbekannte das Fenster eines Firmengebäudes in der Uelfe-Wuppertal-Straße auf und stahlen eine Fräsmaschine und mehrere Metallteile. Eine Zeugin beobachtete gegen 10:55 Uhr, wie ein silberner ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6377689",
+    "published": "Mon, 26 Oct 2026 10:04:14 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-10-26T11:17:06.755676",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b1d843292273",
+    "title": "POL-GM: Einbrecher hatten es auf Metall abgesehen",
+    "summary": "Gummersbach (ots) - In der Zeit von Samstag (24. Oktober), 18 Uhr, bis Sonntag, 17 Uhr, betraten Unbekannte das Gelände eines Schrotthandels in Drieberhausen. Dort schlugen sie das Fenster eines Lagerhauses ein und stahlen mehrere Kupferrohre. ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6377683",
+    "published": "Mon, 26 Oct 2026 10:02:16 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-10-26T11:17:06.755914",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b3d8495ff8de",
+    "title": "POL-GM: Auffahrunfall fordert vier Verletzte",
+    "summary": "Gummersbach (ots) - Bei einem Auffahrunfall in Rebbelroth wurden am Sonntagabend (25. Oktober) vier Menschen leicht verletzt. Ein 19-jähriger Gummersbacher war gegen 22:45 Uhr mit seinem Audi auf der Kölner Straße in Richtung Derschlag unterwegs. ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6377680",
+    "published": "Mon, 26 Oct 2026 10:01:13 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-10-26T11:17:06.756130",
     "feed_kommunen": []
   },
   {
