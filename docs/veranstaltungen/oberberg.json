@@ -500,6 +500,16 @@
     "teaser": "Der Weihnachtsklassiker der Springmaus ist die perfekte Einstimmung auf die festlichen Tage. Auf ihre einzigartige Weise stellen die Akteure von Deutschlands bekanntestem Improvisationstheater das Weihnachtsgeschehen auf"
   },
   {
+    "titel": "Adventsmarkt des CJG St. Josefshaus für Kinder und Familien",
+    "datum": "21. Nov 2026",
+    "datum_raw": "2026-11-21T12:00:00+01:00",
+    "ort": "CJG St. Josefshaus, Blockhausstraße 7, 51580 Reichshof",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Mit dem \"Waldmobil\", Tombola, Ponyreiten, Kinderschminken und vielem mehr. Parkmöglichkeiten auf dem Heimgelände an der Blockhausstraße oder auf den öffentlichen Parkplätzen im Ort."
+  },
+  {
     "titel": "Nachts im Museum",
     "datum": "21. Nov 2026",
     "datum_raw": "2026-11-21T17:00:00+01:00",
@@ -558,6 +568,16 @@
     "link": "http://www.vhs-gm.de/programm/kulturkreativitaet.html?action%5B160%5D=course&courseId=571-C-3384806&filter%5Bq%5D=Pilz&rowIndex=1",
     "quelle": "Das Bergische",
     "teaser": "Pilze werden allgemein fast ausschließlich nach ihrem Speisewert und ihrer Giftigkeit beurteilt. Häufig wird dabei vergessen, dass ein Leben ohne Pilze nicht möglich ist. Aber Pilze lassen sich auch unglaublich kreativ e"
+  },
+  {
+    "titel": "Weihnachtsmarkt Gimborn",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T14:00:00+01:00",
+    "ort": "Schlosshotel Gimborn, Schloßstrasse 15, 51709 Marienheide",
+    "preis": "",
+    "link": "http://www.schlosshotelgimborn.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Klein und fein! Genussvoll und romantisch! Besinnlich und besonders! So beginnt die Vorweihnachtszeit! Bummelt gemütlich bei unseren Aussteller*innen und schaut in Ruhe nach handgemachten Geschenken, Kunst und Handwerk, "
   },
   {
     "titel": "Winterfest \"Rund um die Bonte Kerke\"",

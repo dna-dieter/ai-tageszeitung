@@ -1,5 +1,18 @@
 [
   {
+    "id": "0b94a14805c6",
+    "title": "Torschützenliste Mittelrheinliga",
+    "summary": "Oberberg - Hier können Sie die Torjägerliste der Mittelrheinliga einsehen.",
+    "link": "http://www.oberberg-aktuell.de/fussball/torsch--tzenliste-mittelrheinliga-a-78638",
+    "published": "Mon, 26 Oct 2026 15:50:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-26T16:17:18.179061",
+    "feed_kommunen": []
+  },
+  {
     "id": "3bc31912cc5b",
     "title": "Torschützenliste Bezirksliga",
     "summary": "Oberberg - Hier können Sie die Torschützenliste der Bezirksliga Staffel 1 mit allen Mannschaften einsehen.",
