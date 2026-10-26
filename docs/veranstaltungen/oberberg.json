@@ -1,15 +1,5 @@
 [
   {
-    "titel": "„Todsicher“: Komödie von und mit Rita Winter",
-    "datum": "25. Okt 2026",
-    "datum_raw": "2026-10-25T19:00:00+01:00",
-    "ort": "Schauspielhaus Bergneustadt, Kölner Straße 273, 51702 Bergneustadt",
-    "preis": "ab 20 €",
-    "link": "https://www.schauspielhaus-bergneustadt.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Haben Sie auch schon einmal vor dem Umkleidekabinenspiegel über das Leben nachgedacht? Sind Sie followersüchtig? Wenn Sie von einem gutaussehenden Radfahrer, fast über den Haufen gefahren - und anschließend zum Essen ein"
-  },
-  {
     "titel": "Herbstferien-Programm für Kinder auf :metabolon",
     "datum": "26. Okt 2026",
     "datum_raw": "2026-10-26T09:00:00+01:00",
@@ -348,6 +338,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "mit den Blasmusikfreunden Olpe Eintritt frei. Veranstalter: Nümbrechter Kur GmbH Veranstaltungsort: Parkhotel (Kursaal)"
+  },
+  {
+    "titel": "„Todsicher“: Komödie von und mit Rita Winter",
+    "datum": "8. Nov 2026",
+    "datum_raw": "2026-11-08T19:00:00+01:00",
+    "ort": "Schauspielhaus Bergneustadt, Kölner Straße 273, 51702 Bergneustadt",
+    "preis": "ab 20 €",
+    "link": "https://www.schauspielhaus-bergneustadt.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Haben Sie auch schon einmal vor dem Umkleidekabinenspiegel über das Leben nachgedacht? Sind Sie followersüchtig? Wenn Sie von einem gutaussehenden Radfahrer, fast über den Haufen gefahren - und anschließend zum Essen ein"
   },
   {
     "titel": "Außer Kontrolle nach Ray Cooney",
