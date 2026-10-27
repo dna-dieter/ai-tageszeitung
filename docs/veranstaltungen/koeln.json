@@ -11,17 +11,6 @@
     "teaser": "09:30 bis 10:00 Uhr · Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Haus Balchem."
   },
   {
-    "titel": "Spieletester*innen",
-    "datum": "27. Okt 2026",
-    "datum_raw": "2026-10-27T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Kalk, Kalk",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40627/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "15 bis 16:30 Uhr (ab 6 Jahre), 16:30 bis 18 Uhr (ab 12 Jahre) · Kinder und Jugendliche ab 6 und 12 Jahren haben die Möglichkeit aktuelle Spiele auszuprobieren – in der Stadtteilbibliothek Kalk."
-  },
-  {
     "titel": "Nippeser Strickmamsellcher",
     "datum": "27. Okt 2026",
     "datum_raw": "2026-10-27T00:00:00",
@@ -64,6 +53,17 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41394/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "18 Uhr · Forschende erzählen von ihren größten Rückschlägen – im Rahmen der MINTköln 2026 im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Abgesagt – Spieletester*innen",
+    "datum": "27. Okt 2026",
+    "datum_raw": "2026-10-27T00:00:00",
+    "datum_bis": "",
+    "ort": "Stadtteilbibliothek Kalk, Kalk",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40627/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Diese Veranstaltung ist abgesagt. · Diese Veranstaltung ist abgesagt."
   },
   {
     "titel": "Herbstferienaktion mit Juppi",

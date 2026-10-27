@@ -1,5 +1,86 @@
 [
   {
+    "id": "c1b2e9db4f57",
+    "title": "Jokey ergänzt Rezyklatnachweis um RecyClass-Zertifizierung",
+    "summary": "Wipperfürth - EU-Standorte und das Werk in Serbien ergänzen ihre bestehende EN-15343-Zertifizierung durch die RecyClass Recycled Plastics Traceability Certification für PP-Rezyklate – als Baustein für belastbare Nachweise im Rahmen der PPWR und weiterer regulatorischer Anforderungen an Recyclingkunststoffe.",
+    "link": "http://www.oberberg-aktuell.de/jokey/jokey-erg--nzt-rezyklatnachweis-um-recyclass-zertifizierung-a-139634",
+    "published": "Tue, 27 Oct 2026 11:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-10-27T11:17:16.042400",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e99b844aa614",
+    "title": "Fehlende Zeugen: Prozess um Schlägerei und Verstoß gegen das Gewaltschutzgesetz geplatzt",
+    "summary": "Waldbröl – Das Verfahren gegen einen Waldbröler (30) muss im kommenden Jahr neu aufgerollt werden – Wichtige Zeugin fehlte krank – Eine weitere wurde gar nicht erst geladen.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/fehlende-zeugen--prozess-um-schl--gerei-und-versto---gegen-das-gewaltschutzgesetz-geplatzt-a-139633",
+    "published": "Tue, 27 Oct 2026 10:53:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-10-27T11:17:16.042652",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ede85d33c7b0",
+    "title": "Martinszüge im Oberbergischen",
+    "summary": "Oberberg - Ein Überblick zu den Martinszügen in der Region.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/martinszuege-im-oberbergischen-----a-82158",
+    "published": "Tue, 27 Oct 2026 10:50:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-27T11:17:16.042738",
+    "feed_kommunen": []
+  },
+  {
+    "id": "dbaf1ccc32fa",
+    "title": "Gummersbach: Tischtennis-Sieg – VfL III schlägt Engelskirchen 8:2",
+    "summary": "Der VfL Gummersbach III schlägt den VfL Engelskirchen in der 3. Bezirksklasse 9 mit 8:2. Ndibe und Kunze gewinnen ihr Doppel mit 12:10 im fünften Satz, Wojciechowski und Emme bleiben ungeschlagen.",
+    "link": "https://www.news-on-tour.de/274814/gummersbach-tischtennis-engelskirchen/",
+    "published": "Tue, 27 Oct 2026 09:48:28 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "engelskirchen",
+      "gummersbach"
+    ],
+    "fetched": "2026-10-27T11:17:10.831243",
+    "feed_kommunen": []
+  },
+  {
+    "id": "31bee38de872",
+    "title": "Oberberg: Einbruch in Waldbröl, Münz-Staubsauger in Marienheide aufgebrochen, Unfall in Radevormwald",
+    "summary": "Einbruch in Waldbröl, aufgebrochener Münz-Staubsauger in Marienheide-Kalsbach, Abbiegeunfall in Radevormwald: Die Polizei Oberberg sucht in zwei Fällen Zeugen.",
+    "link": "https://www.news-on-tour.de/274812/oberberg-polizeimeldungen-waldbroel/",
+    "published": "Tue, 27 Oct 2026 09:47:56 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "waldbroel",
+      "marienheide",
+      "radevormwald"
+    ],
+    "fetched": "2026-10-27T11:17:10.831446",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ed0bfb4e343f",
+    "title": "Waldbröl: Gestohlenes Dienstfahrzeug aufgetaucht",
+    "summary": "Waldbröl - Ein weißer Renault Kangoo wurde vergangene Woche am Schulzentrum entwendet (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/waldbr--l--dienstfahrzeug-gestohlen-a-139578",
+    "published": "Tue, 27 Oct 2026 10:20:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-10-27T11:17:16.042859",
+    "feed_kommunen": []
+  },
+  {
     "id": "807f16001654",
     "title": "Münzstaubsauger geknackt",
     "summary": "Marienheide – Krimineller brach einen SB-Staubsauger an einer Tankstelle auf und entkam mit Bargeld.",

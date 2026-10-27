@@ -1,5 +1,18 @@
 [
   {
+    "id": "c311ca3a33a3",
+    "title": "POL-RBK: Rhein.-Berg. Kreis - Bewerbungen ohne Abitur bei der Polizei",
+    "summary": "Rheinisch-Bergischer Kreis (ots) - Die Polizei NRW bietet jungen Menschen mit mittlerer Reife eine Perspektive. Bis Ende November können sich Interessierte bei der Fachoberschule Polizei bewerben. Die Polizei NRW: kein Job wie jeder andere. Junge ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6378581",
+    "published": "Tue, 27 Oct 2026 10:09:27 +0100",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-27T11:16:01.200942",
+    "feed_kommunen": []
+  },
+  {
     "id": "2535a986cec8",
     "title": "Nur zwei Stunden weg – und Einbrecher räumen Haus in Odenthal aus",
     "summary": "Am 26. Oktober sind Einbrecher in ein Einfamilienhaus in Odenthal-Hahnenberg eingestiegen. Sie durchsuchten Möbel und Schränke und stahlen zwei Uhren sowie Bargeld. Die Polizei bittet um Hinweise.",
@@ -89,6 +102,19 @@
     "feed_kommunen": []
   },
   {
+    "id": "252df2c6352c",
+    "title": "Spielemesse: Kennerspiele, Illustrationen und Abenteuer im Märchenwald",
+    "summary": "Verlage und Labels aus dem Rheinisch-Bergischen Kreis stellen auf der Spielemesse in Essen aus.",
+    "link": "https://www.ksta.de/region/rhein-berg/spielemesse-kennerspiele-illustrationen-und-abenteuer-im-maerchenwald-1403622",
+    "published": "Tue, 27 Oct 2026 07:56:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-27T11:16:03.006225",
+    "feed_kommunen": []
+  },
+  {
     "id": "236df6b7351b",
     "title": "Halloween – hier wird gefeiert",
     "summary": "Ü6, Ü16, Ü18, Ü30, Schlagerparty – an Halloween gibt es für jedes Alter etwas zu feiern. Auch rund um Wermelskirchen und Solingen wird sich so richtig unterhaltsam gegruselt.",
@@ -102,6 +128,19 @@
     "feed_kommunen": [
       "wermelskirchen"
     ]
+  },
+  {
+    "id": "9d9dc45d9bda",
+    "title": "Pferdeklinik Leichlingen: Zwischen OP und Intensivstall herrscht Betrieb rund um die Uhr",
+    "summary": "Ob Kastration oder Kolik, vom Shetlandpony bis zum Turnierpferd: Zu Besuch in der Pferdeklinik Leichlingen, die in diesem Jahr ihr 15-jähriges Bestehen feiert.",
+    "link": "https://www.ksta.de/region/leverkusen/leichlingen/pferdeklinik-leichlingen-betrieb-rund-um-die-uhr-zwischen-operationssaal-und-intensivstall-1364969",
+    "published": "Tue, 27 Oct 2026 06:29:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-10-27T11:16:03.006427",
+    "feed_kommunen": []
   },
   {
     "id": "399d86d9bf03",
