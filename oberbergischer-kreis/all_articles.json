@@ -1,5 +1,57 @@
 [
   {
+    "id": "807f16001654",
+    "title": "Münzstaubsauger geknackt",
+    "summary": "Marienheide – Krimineller brach einen SB-Staubsauger an einer Tankstelle auf und entkam mit Bargeld.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/m--nzstaubsauger-geknackt-a-139629",
+    "published": "Tue, 27 Oct 2026 10:12:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-10-27T10:17:30.115916",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b20bcfe10227",
+    "title": "Kradfahrer (16) bei Unfall verletzt",
+    "summary": "Radevormwald – Auto kollidiert mit Kradfahrer an der Einmündung der L 414 zur Kurzestraße.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/kradfahrer------bei-unfall-verletzt-a-139628",
+    "published": "Tue, 27 Oct 2026 10:06:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-10-27T10:17:30.116028",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4ab6cf3b336e",
+    "title": "Oberberg: 3.210 Reinigungskräfte warten auf Lohn-Plus – IG BAU warnt",
+    "summary": "Rund 3.210 Beschäftigte der Gebäudereinigung im Oberbergischen Kreis warten auf mehr Lohn. Die IG BAU fordert zwei Euro, die nächste Verhandlung ist am 3. November.",
+    "link": "https://www.news-on-tour.de/274800/oberberg-reinigungskraefte-lohn-plus-ig/",
+    "published": "Tue, 27 Oct 2026 08:52:11 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-27T10:17:22.366793",
+    "feed_kommunen": []
+  },
+  {
+    "id": "efbe398d5166",
+    "title": "Und plötzlich fielen drei Schüsse",
+    "summary": "Oberberg (red). Am Sonntagmorgen (25. Oktober) war ein 63-jähriger Bergneustädter mit seinen Hunden in der Nistenbergstraße auf einem Spaziergang unterwegs. Gegen 10:25 Uhr traf er dort auf einen Mann, mit dem es zu einer verbalen Auseinandersetzung kam. Im weiteren Verlauf zog der Mann eine Pistole und gab drei Schüsse auf den 63-Jährigen ab. Anschließend flüchtete er zu Fuß in Richtung Kölner St",
+    "link": "https://www.rheinische-anzeigenblaetter.de/oberberg/c-blaulicht/und-ploetzlich-fielen-drei-schuesse_a382016",
+    "published": "Tue, 27 Oct 2026 09:20:48 +0100",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-27T10:17:31.248538",
+    "feed_kommunen": []
+  },
+  {
     "id": "de740b752bf9",
     "title": "Lichterglanz und Glühweinduft: Das sind die Weihnachtsmärkte im Bergischen 2026",
     "summary": "Bald ist es schon wieder so weit – und die Buden öffnen. Dann weht ein Duft von Mandeln, Anis und Lebkuchen durch die Luft. Diese Termine in der Region stehen schon fest. Ein erster Überblick, der ständig aktualisiert wird.",
@@ -14,6 +66,60 @@
     "feed_kommunen": [
       "hueckeswagen",
       "radevormwald"
+    ]
+  },
+  {
+    "id": "ef55ddaa50b9",
+    "title": "POL-GM: Einbruch in Firmenhalle",
+    "summary": "Waldbröl (ots) - Die Fabrikationshalle einer Firma in der Adolf-Kolping-Straße war in der Zeit vom 23. bis 26. Oktober das Ziel von Einbrechern. Die Unbekannten hebelten ein Fenster auf und gelangten so in das Gebäude. Dort stahlen sie ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6378459",
+    "published": "Tue, 27 Oct 2026 09:00:33 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-10-27T10:17:27.084966",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f3fd4a753ccd",
+    "title": "POL-GM: Münz-Staubsauger aufgebrochen",
+    "summary": "Marienheide (ots) - Unbekannte haben am Montag (26. Oktober) den SB-Staubsauger auf einem Tankstellengelände in Kalsbach aufgebrochen und Bargeld gestohlen. Auf der Videoaufzeichnung ist ein Mann zu sehen, der sich gegen 2:30 Uhr zunächst im ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6378458",
+    "published": "Tue, 27 Oct 2026 09:00:30 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-10-27T10:17:27.085181",
+    "feed_kommunen": []
+  },
+  {
+    "id": "cc2538c81cb0",
+    "title": "POL-GM: Zusammenstoß beim Abbiegen",
+    "summary": "Radevormwald (ots) - Bei einem Verkehrsunfall in Radevormwald wurde am Montag (26. Oktober) der Fahrer eines Kleinkraftrades leicht verletzt. Der 16-Jährige aus Radevormwald war gegen 14:30 Uhr auf der Wuppertalstraße (L 414) von Radevormwald in ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6378457",
+    "published": "Tue, 27 Oct 2026 09:00:28 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-10-27T10:17:27.085389",
+    "feed_kommunen": []
+  },
+  {
+    "id": "da8cc3b772f4",
+    "title": "Bürgermeister Moritz lädt zum Stammtisch",
+    "summary": "Bürgersprechstunde im „Alter Markt“",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/buergermeister-moritz-laedt-zum-stammtisch-900000722-37660.html?rubrik=900000003",
+    "published": "Tue, 27 Oct 2026 09:00:00 +0100",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-27T10:17:39.381796",
+    "feed_kommunen": [
+      "hueckeswagen"
     ]
   },
   {

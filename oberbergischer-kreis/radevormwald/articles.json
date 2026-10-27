@@ -1,5 +1,18 @@
 [
   {
+    "id": "b20bcfe10227",
+    "title": "Kradfahrer (16) bei Unfall verletzt",
+    "summary": "Radevormwald – Auto kollidiert mit Kradfahrer an der Einmündung der L 414 zur Kurzestraße.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/kradfahrer------bei-unfall-verletzt-a-139628",
+    "published": "Tue, 27 Oct 2026 10:06:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-10-27T10:17:30.116028",
+    "feed_kommunen": []
+  },
+  {
     "id": "de740b752bf9",
     "title": "Lichterglanz und Glühweinduft: Das sind die Weihnachtsmärkte im Bergischen 2026",
     "summary": "Bald ist es schon wieder so weit – und die Buden öffnen. Dann weht ein Duft von Mandeln, Anis und Lebkuchen durch die Luft. Diese Termine in der Region stehen schon fest. Ein erster Überblick, der ständig aktualisiert wird.",
@@ -15,6 +28,19 @@
       "hueckeswagen",
       "radevormwald"
     ]
+  },
+  {
+    "id": "cc2538c81cb0",
+    "title": "POL-GM: Zusammenstoß beim Abbiegen",
+    "summary": "Radevormwald (ots) - Bei einem Verkehrsunfall in Radevormwald wurde am Montag (26. Oktober) der Fahrer eines Kleinkraftrades leicht verletzt. Der 16-Jährige aus Radevormwald war gegen 14:30 Uhr auf der Wuppertalstraße (L 414) von Radevormwald in ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6378457",
+    "published": "Tue, 27 Oct 2026 09:00:28 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-10-27T10:17:27.085389",
+    "feed_kommunen": []
   },
   {
     "id": "807e926cc50e",
