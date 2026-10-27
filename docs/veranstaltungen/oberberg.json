@@ -10,26 +10,6 @@
     "teaser": "Wie entsteht eigentlich etwas im 3D-Drucker? In diesem Workshop entdecken Kinder Schritt für Schritt, wie aus einer Idee ein echtes Objekt wird. Nach einer verständlichen Einführung in das 3D-Druck-Verfahren gestalten di"
   },
   {
-    "titel": "Panarbora Geisterpark",
-    "datum": "27. Okt 2026",
-    "datum_raw": "2026-10-27T11:00:00+02:00",
-    "ort": "Baumwipfelpfad Panarbora, Nutscheidstr. 1, 51545 Waldbröl",
-    "preis": "ab 11 €",
-    "link": "https://panarbora.de/veranstaltungen-und-events",
-    "quelle": "Das Bergische",
-    "teaser": "Vom 26. September bis zum 1. November 2026 wird es bei uns wieder gespenstisch! Wenn kleine Geister auftauchen und sich unser Aussichtsturm und der Baumwipfelpfad in ein Halloween-Gewand hüllen, beginnt eine ganz besonde"
-  },
-  {
-    "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
-    "datum": "27. Okt 2026",
-    "datum_raw": "2026-10-27T11:00:00+02:00",
-    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
-    "preis": "ab 6 €",
-    "link": "https://www.schloss-homburg.de/cms200schloss/museum/sonderausstellungen/vorschau/index.shtml.de",
-    "quelle": "Das Bergische",
-    "teaser": "Kleine Figuren erzählen große Geschichten! Das 100-jährige Jubiläum des Museums auf Schloss Homburg wird mit einer großen Sonderausstellung gefeiert. In faszinierenden Miniaturwelten werden regionale Geschichte und Gesch"
-  },
-  {
     "titel": "Kinoprogramm für Kinder und Jugendliche",
     "datum": "27. Okt 2026",
     "datum_raw": "2026-10-27T14:30:00+01:00",
@@ -48,6 +28,26 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Auf :metabolon wird wieder ein abwechslungsreiches Programm in den Herbstferien angeboten. Es gibt zwei Themen zu denen unterschiedliche Termine angeboten werden. Von der Wegwerfgesellschaft zu einer zirkulären Zukunft –"
+  },
+  {
+    "titel": "Panarbora Geisterpark",
+    "datum": "28. Okt 2026",
+    "datum_raw": "2026-10-28T11:00:00+02:00",
+    "ort": "Baumwipfelpfad Panarbora, Nutscheidstr. 1, 51545 Waldbröl",
+    "preis": "ab 11 €",
+    "link": "https://panarbora.de/veranstaltungen-und-events",
+    "quelle": "Das Bergische",
+    "teaser": "Vom 26. September bis zum 1. November 2026 wird es bei uns wieder gespenstisch! Wenn kleine Geister auftauchen und sich unser Aussichtsturm und der Baumwipfelpfad in ein Halloween-Gewand hüllen, beginnt eine ganz besonde"
+  },
+  {
+    "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
+    "datum": "28. Okt 2026",
+    "datum_raw": "2026-10-28T11:00:00+02:00",
+    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
+    "preis": "ab 6 €",
+    "link": "https://www.schloss-homburg.de/cms200schloss/museum/sonderausstellungen/vorschau/index.shtml.de",
+    "quelle": "Das Bergische",
+    "teaser": "Kleine Figuren erzählen große Geschichten! Das 100-jährige Jubiläum des Museums auf Schloss Homburg wird mit einer großen Sonderausstellung gefeiert. In faszinierenden Miniaturwelten werden regionale Geschichte und Gesch"
   },
   {
     "titel": "Führung in der Aggertalhöhle",
