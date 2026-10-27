@@ -1,5 +1,61 @@
 [
   {
+    "id": "9555cbddbb6b",
+    "title": "Theater, Musik und Gruseliges: Ausgehtipps zum Wochenende",
+    "summary": "Ein Konzert nicht nur zum Hören und eine Geschichte über Würde, Vorurteile und eine Freundschaft - all das gibt es am Wochenende im Teo Otto Theater. Das Löf lädt zu einer Prerelease-Party von einem Hörspiel „made in Remscheid“ ein. Und wer sich am Wochenende gruseln möchte: Halloween macht es bei vielen Partys möglich.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/theater-musik-und-gruseliges-ausgehtipps-zum-wochenende-XA4PF6QXO5CUPKK6OEKT6WPOPM.html",
+    "published": "Tue, 27 Oct 2026 17:00:06 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen",
+      "radevormwald"
+    ],
+    "fetched": "2026-10-27T17:17:08.987974",
+    "feed_kommunen": [
+      "hueckeswagen",
+      "radevormwald"
+    ]
+  },
+  {
+    "id": "c78645e9aa9a",
+    "title": "Frühzeitige Einblicke in verschiedene Berufsfelder ermöglichen",
+    "summary": "Oberberg – Mit einer Buchungsplattform will der Oberbergische Kreis Schüler und Oberbergische Unternehmen beim Thema Berufsfelderkundung zusammenbringen.",
+    "link": "http://www.oberberg-aktuell.de/oberbergischer-kreis/fr--hzeitige-einblicke-in-verschiedene-berufsfelder-erm--glichen-a-139642",
+    "published": "Tue, 27 Oct 2026 17:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-27T17:17:13.259358",
+    "feed_kommunen": []
+  },
+  {
+    "id": "85bc053fefc0",
+    "title": "Hückeswagen: Vandalismus an Jungbäumen in den Wupperauen – Zeugen gesucht",
+    "summary": "In den Wupperauen in Hückeswagen wurden zwei städtische Jungbäume gefällt. Die Stadt bittet um Hinweise aus der Bevölkerung.",
+    "link": "https://www.news-on-tour.de/275259/hueckeswagen-vandalismus-jungbaeume/",
+    "published": "Tue, 27 Oct 2026 15:20:55 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-27T17:17:08.113787",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ee7d0ad019a8",
+    "title": "Hückeswagen: Asphaltrisssanierung in zwölf Straßen – Arbeiten bis Donnerstag",
+    "summary": "Hückeswagen saniert vom 28. bis 29. Oktober 2026 Risse im Asphalt in zwölf Straßen. Die Arbeiten laufen als Wanderbaustelle mit möglichen Behinderungen.",
+    "link": "https://www.news-on-tour.de/275254/hueckeswagen-asphaltrisssanierung/",
+    "published": "Tue, 27 Oct 2026 15:17:59 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-27T17:17:08.113996",
+    "feed_kommunen": []
+  },
+  {
     "id": "e3dde307f0e1",
     "title": "Oberberg: Unternehmen können Berufsfelderkundungsplätze für Achtklässler anbieten",
     "summary": "Der Oberbergische Kreis startet die Buchungsplattform für Berufsfelderkundungen: Betriebe können ab 2. November 2026 Plätze für Achtklässler eintragen.",
@@ -84,21 +140,6 @@
     ],
     "fetched": "2026-10-27T13:17:31.457320",
     "feed_kommunen": []
-  },
-  {
-    "id": "31807316c311",
-    "title": "Vandalismus an Jungbäumen in den Wupperauen",
-    "summary": "Zeugen bitte melden!",
-    "link": "https://www.hueckeswagen.de/portal/meldungen/vandalismus-an-jungbaeumen-in-den-wupperauen-900000724-37660.html?rubrik=900000002",
-    "published": "Tue, 27 Oct 2026 12:54:00 +0100",
-    "source": "Schloss-Stadt Hückeswagen (offiziell)",
-    "kommunen": [
-      "hueckeswagen"
-    ],
-    "fetched": "2026-10-27T13:17:38.413990",
-    "feed_kommunen": [
-      "hueckeswagen"
-    ]
   },
   {
     "id": "e2f724f45589",
