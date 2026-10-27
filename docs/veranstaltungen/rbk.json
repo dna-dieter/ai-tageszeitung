@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Herbstferien Intensiv Schwimm-Kurse",
-    "datum": "27. Okt 2026",
-    "datum_raw": "2026-10-27T08:15:00+02:00",
-    "ort": "Badino Freizeitbad, Propsteistraße 25, 51491 Overath",
-    "preis": "",
-    "link": "https://shop.badino-overath.de/de/bookings/block_list/course_id/97/",
-    "quelle": "Das Bergische",
-    "teaser": "Dieser Kurs wird täglich in den Ferien angeboten. Die Ferienkurse sind bewusst als Auftakt einer langfristigen Initiative angelegt. Ziel aller Projektpartner ist es, die Schwimmausbildung in Overath dauerhaft auszubauen,"
-  },
-  {
     "titel": "Ferienaktion: Experimentierwerkstatt Drucken und Stempeln",
     "datum": "27. Okt 2026",
     "datum_raw": "2026-10-27T11:00:00+01:00",
@@ -38,6 +28,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Herzliche Einladung an Ehemalige, Freunde und Nachbarn zum diesjährigen Klöntreff auf dem Lüderich am 48. Jahrestag der Bergwerks-Stilllegung, Dienstag, dem 27. Oktober 2026, ab 19 Uhr im Restaurant Bergwerk auf dem Lüde"
+  },
+  {
+    "titel": "Herbstferien Intensiv Schwimm-Kurse",
+    "datum": "28. Okt 2026",
+    "datum_raw": "2026-10-28T08:15:00+02:00",
+    "ort": "Badino Freizeitbad, Propsteistraße 25, 51491 Overath",
+    "preis": "",
+    "link": "https://shop.badino-overath.de/de/bookings/block_list/course_id/97/",
+    "quelle": "Das Bergische",
+    "teaser": "Dieser Kurs wird täglich in den Ferien angeboten. Die Ferienkurse sind bewusst als Auftakt einer langfristigen Initiative angelegt. Ziel aller Projektpartner ist es, die Schwimmausbildung in Overath dauerhaft auszubauen,"
   },
   {
     "titel": "Ferienaktion: Papier und Bücher selbst herstellen und verschönern",
