@@ -26,6 +26,32 @@
     "feed_kommunen": []
   },
   {
+    "id": "6217e503dcce",
+    "title": "SV 09 verpasst gegen Rödinghausen den Heimsieg",
+    "summary": "Zwar hatte Daniel Spiegel den SV 09 in Führung gebracht, doch gelang dem SV Rödinghausen kurz vor Schluss noch der Ausgleich.",
+    "link": "https://in-gl.de/2026/10/26/sv-09-verpasst-gegen-roedinghausen-den-heimsieg/",
+    "published": "Mon, 26 Oct 2026 18:51:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-27T23:15:33.280696",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e7bedf863488",
+    "title": "Musik, Tanz und Geschichten im November bei Himmel un Ääd",
+    "summary": "Ein szenisches Konzert mit Gesang, Tanz und Videoprojektionen bildet den Höhepunkt des Novembers von Himmel un Ääd. Dazu kommen klassische Musik, Rock, eine humorvolle Theaterlesung, ein Tanzabend für Frauen und ein Themenabend über sogenannte Loverboys. Ergänzt wird das Programm durch Begegnungsangebote und kreative Workshops.",
+    "link": "https://in-gl.de/2026/10/26/musik-tanz-und-geschichten-im-november-bei-himmel-un-aeaed/",
+    "published": "Mon, 26 Oct 2026 18:02:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-27T23:15:33.280906",
+    "feed_kommunen": []
+  },
+  {
     "id": "ec248287b847",
     "title": "Frauenberatungsstelle: Frauenberatung im Kreis Rhein-Berg wird 40 Jahre alt",
     "summary": "Die Frauenberatungsstelle für den Rheinisch-Bergischen Kreis wird 40 Jahre alt und hilft Frauen bei Krisen und Gewalterfahrungen.",
@@ -99,6 +125,21 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-22T20:41:31.719896"
+  },
+  {
+    "id": "efb6ff8004ca",
+    "title": "Baustellen-Ticker: Arbeiten auf Hauptstraße beendet, Ampeln abgebaut",
+    "summary": "Autofahrer brauchten seit Ende Juli besonders viel Geduld, wenn sie aus Kürten oder Odenthal in die Innenstadt fuhren - oder von dort wieder zurück. Bauarbeiten der RheinNetz verwandelten den Kreuzungsbereich der Hauptstraße mit der Odenthaler Straße in ein Nadelöhr. Die sind nun abgeschlossen.",
+    "link": "https://in-gl.de/2026/10/22/alle-baustellen-ticker-bergisch-gladbach/",
+    "published": "Thu, 22 Oct 2026 13:51:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kuerten",
+      "odenthal",
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-22T23:27:49.435505",
+    "feed_kommunen": []
   },
   {
     "id": "8516804cc1ec",

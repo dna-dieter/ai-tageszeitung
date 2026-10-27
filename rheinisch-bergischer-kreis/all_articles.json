@@ -1,5 +1,20 @@
 [
   {
+    "id": "b5cc676d411c",
+    "title": "Spur der faulen Eier führt in die Garage",
+    "summary": "Der Geruch nach faulen Eiern war in einem Wohnhaus in der Wermelskirchener Innenstadt deutlich wahrnehmbar – im Keller, in der Garage und im Obergeschoss.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/spur-der-faulen-eier-fuehrt-in-die-garage-U3UQ5GRQBAY7SE7KWWSZUOOPV4.html",
+    "published": "Tue, 27 Oct 2026 22:45:00 +0100",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-10-27T23:16:03.761608",
+    "feed_kommunen": [
+      "wermelskirchen"
+    ]
+  },
+  {
     "id": "f4c328287d7d",
     "title": "\"Wir nutzen Synergien\": Medizinisches Versorgungszentrum zieht vom Schwanen ans Krankenhaus",
     "summary": "In der unteren Etage sollen die Mediziner zum April einziehen. Auch die Physiotherapie-Praxis am Krankenhaus soll erweitert werden, wie die Geschäftsführung mitteilt. Nicht alle sind davon begeistert, aber der Geschäftsführer kann beruhigen.",
@@ -201,6 +216,32 @@
     "feed_kommunen": []
   },
   {
+    "id": "bec8c764f795",
+    "title": "Leitbild für den städtischen Wald: Bürgerinnen und Bürger sind gefragt",
+    "summary": "Die Stadt Bergisch Gladbach lädt zur Beteiligung am Leitbild für den städtischen Wald ein. Ziel ist eine nachhaltige, klimaangepasste und zukunftsorientierte Waldbewirtschaftung. Vorschläge, Anregungen und persönliche Eindrücke können per Mail übermittelt werden.",
+    "link": "https://in-gl.de/2026/10/27/leitbild-fuer-den-staedtischen-wald-buergerinnen-und-buerger-sind-gefragt/",
+    "published": "Tue, 27 Oct 2026 08:54:10 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-27T23:15:33.280427",
+    "feed_kommunen": []
+  },
+  {
+    "id": "03cb293a17a6",
+    "title": "Badminton-Team des TV Refrath muss sich Dortelweil klar geschlagen geben",
+    "summary": "Gegen den zweifachen Deutschen Meister Fun-Ball Dortelweil hat die erste Badminton Mannschaft des TV Refrath in der Bundesliga sehr deutlich verloren - und die eigenen Zuschauer dennoch begeistert. Die zweite Mannschaft erzielte einen Sieg gegen Solingen und eine Niederlage gegen Recklinghausen.",
+    "link": "https://in-gl.de/2026/10/27/badminton-team-des-tv-refrath-muss-sich-dortelweil-klar-geschlagen-geben/",
+    "published": "Tue, 27 Oct 2026 08:45:49 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-27T23:15:33.280594",
+    "feed_kommunen": []
+  },
+  {
     "id": "2535a986cec8",
     "title": "Nur zwei Stunden weg – und Einbrecher räumen Haus in Odenthal aus",
     "summary": "Am 26. Oktober sind Einbrecher in ein Einfamilienhaus in Odenthal-Hahnenberg eingestiegen. Sie durchsuchten Möbel und Schränke und stahlen zwei Uhren sowie Bargeld. Die Polizei bittet um Hinweise.",
@@ -359,6 +400,32 @@
     "feed_kommunen": [
       "wermelskirchen"
     ]
+  },
+  {
+    "id": "6217e503dcce",
+    "title": "SV 09 verpasst gegen Rödinghausen den Heimsieg",
+    "summary": "Zwar hatte Daniel Spiegel den SV 09 in Führung gebracht, doch gelang dem SV Rödinghausen kurz vor Schluss noch der Ausgleich.",
+    "link": "https://in-gl.de/2026/10/26/sv-09-verpasst-gegen-roedinghausen-den-heimsieg/",
+    "published": "Mon, 26 Oct 2026 18:51:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-27T23:15:33.280696",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e7bedf863488",
+    "title": "Musik, Tanz und Geschichten im November bei Himmel un Ääd",
+    "summary": "Ein szenisches Konzert mit Gesang, Tanz und Videoprojektionen bildet den Höhepunkt des Novembers von Himmel un Ääd. Dazu kommen klassische Musik, Rock, eine humorvolle Theaterlesung, ein Tanzabend für Frauen und ein Themenabend über sogenannte Loverboys. Ergänzt wird das Programm durch Begegnungsangebote und kreative Workshops.",
+    "link": "https://in-gl.de/2026/10/26/musik-tanz-und-geschichten-im-november-bei-himmel-un-aeaed/",
+    "published": "Mon, 26 Oct 2026 18:02:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-27T23:15:33.280906",
+    "feed_kommunen": []
   },
   {
     "id": "5dbe03b77448",
@@ -1166,7 +1233,8 @@
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
       "kuerten",
-      "odenthal"
+      "odenthal",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-22T23:27:49.435505",
     "feed_kommunen": []
