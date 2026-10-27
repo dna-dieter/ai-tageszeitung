@@ -1,5 +1,22 @@
 [
   {
+    "id": "de740b752bf9",
+    "title": "Lichterglanz und Glühweinduft: Das sind die Weihnachtsmärkte im Bergischen 2026",
+    "summary": "Bald ist es schon wieder so weit – und die Buden öffnen. Dann weht ein Duft von Mandeln, Anis und Lebkuchen durch die Luft. Diese Termine in der Region stehen schon fest. Ein erster Überblick, der ständig aktualisiert wird.",
+    "link": "https://www.rga.de/lokales/remscheid/lichterglanz-und-gluehweinduft-das-sind-die-weihnachtsmaerkte-im-bergischen-2026-Y6HZSLZ3ABHZXJB7U3BXK6LX5U.html",
+    "published": "Tue, 27 Oct 2026 09:01:10 +0100",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen",
+      "burscheid"
+    ],
+    "fetched": "2026-10-27T09:16:06.242358",
+    "feed_kommunen": [
+      "wermelskirchen",
+      "burscheid"
+    ]
+  },
+  {
     "id": "b6b28f252570",
     "title": "Die Betreuungsbehörde informiert in der VHS – Vorträge zu Vorsorgevollmacht, Betreuungsrecht und Patientenverfügung",
     "summary": "In Kooperation mit der Betreuungsbehörde der Stadt Bergisch Gladbach bietet die VHS Bergisch Gladbach im November zwei Veranstaltungen rund um die Themen rechtliche Vorsorge und Selbstbestimmung an. Am 2. November 2026 um 18 Uhr findet in der VHS Bergisch Gladbach die Veranstaltung „Vorsorgevollmacht und Betreuungsrecht – Einführung mit Diskussion“ statt. Referentin ist Andrea Winkelmann. Die Teil",
@@ -28,6 +45,32 @@
     "feed_kommunen": [
       "bergisch-gladbach"
     ]
+  },
+  {
+    "id": "634914230d51",
+    "title": "POL-RBK: Odenthal - Einbrecher nutzen kurzes Zeitfenster",
+    "summary": "Odenthal (ots) - Gestern (26.10.) haben Einbrecher im Ortsteil Hahnenberg zugeschlagen. Die Polizei bittet um Zeugenhinweise. Gegen 19:35 Uhr kam der Bewohner nach der Arbeit zurück in sein Einfamilienhaus in der Thomas-Mann-Straße. Ihm fiel ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6378405",
+    "published": "Tue, 27 Oct 2026 08:06:03 +0100",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "odenthal"
+    ],
+    "fetched": "2026-10-27T09:16:08.604553",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ec3ebadfead1",
+    "title": "POL-RBK: Overath - Einbruch in Einfamilienhaus über Kellerfenster",
+    "summary": "Overath (ots) - Am Montagmorgen (26.10.) wurde die Polizei um 10:00 Uhr zu einem Einbruch in den Hirschberger Weg gerufen. Einbrecher hatten ein Kellerfenster eines Einfamilienhauses gewaltsam aufgebrochen und sich somit Zugang zu den ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6378395",
+    "published": "Tue, 27 Oct 2026 07:59:41 +0100",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "overath"
+    ],
+    "fetched": "2026-10-27T09:16:08.604746",
+    "feed_kommunen": []
   },
   {
     "id": "236df6b7351b",
@@ -100,6 +143,21 @@
       "burscheid"
     ],
     "fetched": "2026-10-26T17:16:24.917135",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
+    "id": "a129e60422a4",
+    "title": "Start der Kinder-Kultur-Reihe 2026/2027:",
+    "summary": "Für das Theaterstück „Eiersalat zum Quadrat“ sind noch Karten erhältlich.",
+    "link": "https://www.burscheid.de/portal/meldungen/start-der-kinder-kultur-reihe-2026-2027--900000709-40230.html?rubrik=900000001",
+    "published": "Mon, 26 Oct 2026 15:41:00 +0100",
+    "source": "Stadt Burscheid (offiziell)",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-10-27T09:16:13.304816",
     "feed_kommunen": [
       "burscheid"
     ]
