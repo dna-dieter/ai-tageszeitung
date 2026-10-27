@@ -1,5 +1,63 @@
 [
   {
+    "id": "bb76671c8b8a",
+    "title": "Die nächsten Blutspende-Termine in der Region",
+    "summary": "Oberberg - Das Deutsche Rote Kreuz gibt die Blutspendetermine für die kommenden Wochen bekannt (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/oberbergischer-kreis/drk-blutspendetermine-a-67028",
+    "published": "Tue, 27 Oct 2026 13:10:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-27T13:17:31.457320",
+    "feed_kommunen": []
+  },
+  {
+    "id": "31807316c311",
+    "title": "Vandalismus an Jungbäumen in den Wupperauen",
+    "summary": "Zeugen bitte melden!",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/vandalismus-an-jungbaeumen-in-den-wupperauen-900000724-37660.html?rubrik=900000002",
+    "published": "Tue, 27 Oct 2026 12:54:00 +0100",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-27T13:17:38.413990",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "e2f724f45589",
+    "title": "Ordnungs-, Bau- und Standesamt am 4. November geschlossen",
+    "summary": "Interne Schulung",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/ordnungs-bau-und-standesamt-am-4-november-geschlossen-900000723-37660.html?rubrik=900000002",
+    "published": "Tue, 27 Oct 2026 12:37:00 +0100",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-27T13:17:38.414066",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "6bd769895f55",
+    "title": "Kleinkraftradfahrer bei Unfall verletzt",
+    "summary": "Bei einem Verkehrsunfall in Radevormwald wurde am Montag (26. Oktober) der Fahrer eines Kleinkraftrades leicht verletzt. Das teilte die Pressestelle der oberbergischen Polizei gestern mit.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/kleinkraftradfahrer-bei-unfall-verletzt-3KD5CHCRRGXMX6HFJAN76VO6II.html",
+    "published": "Tue, 27 Oct 2026 12:36:34 +0100",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-10-27T13:17:27.067145",
+    "feed_kommunen": [
+      "radevormwald"
+    ]
+  },
+  {
     "id": "988a45b45ecb",
     "title": "Öffentlichkeitsfahndung nach Baustellendieb",
     "summary": "Nümbrecht - Unbekannte stahlen Baumaterialien von einer Baustelle an einer Grundschule - Behörden veröffentlichen Foto von einem der mutmaßlichen Täter.",
