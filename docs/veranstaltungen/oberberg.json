@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Herbstferien im Museum",
-    "datum": "27. Okt 2026",
-    "datum_raw": "2026-10-27T00:00:00+01:00",
-    "ort": "LVR-Freilichtmuseum Lindlar, Heiligenhoven 16a, 51789 Lindlar",
-    "preis": "",
-    "link": "https://www.lvr.de/freilichtmuseum-lindlar/programm/herbstferienprogramm/#module-523562",
-    "quelle": "Das Bergische",
-    "teaser": "Was kann aus bereits vorhandenen Materialien und natürlichen Rohstoffen neues entstehen? Unter dem Motto „Wunderbar verwertbar“ dreht sich in den Herbstferien alles um Nachhaltigkeit, Wiederverwertung und altes Handwerk."
-  },
-  {
     "titel": "Herbstferien-Programm für Kinder auf :metabolon",
     "datum": "27. Okt 2026",
     "datum_raw": "2026-10-27T09:00:00+01:00",
@@ -88,6 +78,16 @@
     "link": "https://www.shop.industriemuseum.lvr.de/#/product/event/15561",
     "quelle": "Das Bergische",
     "teaser": "Werde zum Graffiti-Artist im dreidimensionalen Raum mit Hilfe der Technik des Lightpainting. Visualisiere deine Vision deiner Zukunft in einem großen Licht-Graffiti im dunklen Turbinenkeller des ehemaligen Kraftwerks. Wi"
+  },
+  {
+    "titel": "Herbstferien im Museum",
+    "datum": "29. Okt 2026",
+    "datum_raw": "2026-10-29T11:00:00+01:00",
+    "ort": "LVR-Freilichtmuseum Lindlar, Heiligenhoven 16a, 51789 Lindlar",
+    "preis": "",
+    "link": "https://www.lvr.de/freilichtmuseum-lindlar/programm/herbstferienprogramm/#module-523562",
+    "quelle": "Das Bergische",
+    "teaser": "Was kann aus bereits vorhandenen Materialien und natürlichen Rohstoffen neues entstehen? Unter dem Motto „Wunderbar verwertbar“ dreht sich in den Herbstferien alles um Nachhaltigkeit, Wiederverwertung und altes Handwerk."
   },
   {
     "titel": "Bergische Genusstage - Restaurant Eimermacher",

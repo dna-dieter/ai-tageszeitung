@@ -1,5 +1,35 @@
 [
   {
+    "id": "7c7217ca9863",
+    "title": "Fachwerk-Ensemble",
+    "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
+    "link": "http://www.oberberg-aktuell.de/foto-des-tages/fachwerk-ensemble-a-139178",
+    "published": "Tue, 27 Oct 2026 08:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-27T08:17:10.692530",
+    "feed_kommunen": []
+  },
+  {
+    "id": "33b489e42926",
+    "title": "Wuppertaler Investor für Haus Hammerstein",
+    "summary": "Die Lebenshilfe NRW hat das Haus Hammerstein an einen Privatinvestor übergeben. Nach monatelanger Verzögerung ist der Verkauf nun abgeschlossen.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/wuppertaler-investor-fuer-haus-hammerstein-EJBL3OQOPC6FIFOL23NOWJ7A4A.html",
+    "published": "Tue, 27 Oct 2026 07:25:00 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen",
+      "radevormwald"
+    ],
+    "fetched": "2026-10-27T08:17:06.155839",
+    "feed_kommunen": [
+      "hueckeswagen",
+      "radevormwald"
+    ]
+  },
+  {
     "id": "2f042c9a6921",
     "title": "Fußball-Mannschaften des Wochenendes",
     "summary": "Oberberg - Hier stellt die Sportredaktion von Oberberg-Aktuell die Fußball-Mannschaften des Wochenendes vor.",
