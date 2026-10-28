@@ -1,5 +1,46 @@
 [
   {
+    "id": "d66c4194a658",
+    "title": "Oberberg: Kradfahrer schwer verletzt, Jungbäume gefällt, Baustellenfahrzeuge aufgebrochen",
+    "summary": "Kradfahrer bei Unfall auf der B256 bei Waldbröl schwer verletzt, Jungbäume in Hückeswagen gefällt und Werkzeuge aus Baustellenfahrzeugen in Wiehl gestohlen.",
+    "link": "https://www.news-on-tour.de/315440/baustellenfahrzeuge-oberberg-kradfahrer/",
+    "published": "Wed, 28 Oct 2026 09:06:47 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl",
+      "waldbroel",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-28T10:17:06.648426",
+    "feed_kommunen": []
+  },
+  {
+    "id": "cf42d237ebd4",
+    "title": "Jungbäume in den Wupperauen illegal gefällt",
+    "summary": "Hückeswagen - Die Polizei ermittelt nach einer illegalen Baumfällung (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/jungb--ume-gefaellt-a-139639",
+    "published": "Wed, 28 Oct 2026 09:40:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-28T10:17:10.679654",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1e0703a0590f",
+    "title": "POL-GM: Jungbäume in den Wupperauen illegal gefällt",
+    "summary": "Hückeswagen (ots) - Ein Mehlbeerenbaum und ein Vogelbeerenbaum wurden in den Wupperauen von Unbekannten gefällt. Der Tatzeitraum liegt zwischen 16 Uhr am Montag (26. Oktober) und 08:30 Uhr am Dienstag. Hinweise nimmt das Kriminalkommissariat ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6379298",
+    "published": "Wed, 28 Oct 2026 09:00:27 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-28T10:17:09.753773",
+    "feed_kommunen": []
+  },
+  {
     "id": "8b2bcc15307a",
     "title": "Hückeswagens Martinszüge – wer, wann, wo",
     "summary": "Zwischen 5. und 13. November ziehen Mädchen und Jungen wieder mit ihren Laternen durch die Stadt. Eine Übersicht der 13 Martinszüge.",

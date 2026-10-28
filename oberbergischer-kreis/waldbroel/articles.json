@@ -1,5 +1,46 @@
 [
   {
+    "id": "d66c4194a658",
+    "title": "Oberberg: Kradfahrer schwer verletzt, Jungbäume gefällt, Baustellenfahrzeuge aufgebrochen",
+    "summary": "Kradfahrer bei Unfall auf der B256 bei Waldbröl schwer verletzt, Jungbäume in Hückeswagen gefällt und Werkzeuge aus Baustellenfahrzeugen in Wiehl gestohlen.",
+    "link": "https://www.news-on-tour.de/315440/baustellenfahrzeuge-oberberg-kradfahrer/",
+    "published": "Wed, 28 Oct 2026 09:06:47 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl",
+      "waldbroel",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-28T10:17:06.648426",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7affc67f8de4",
+    "title": "Auto nimmt Motorradfahrer die Vorfahrt: 59-Jähriger schwer verunglückt",
+    "summary": "Waldbröl – Kradfahrer wurde bei Unfall auf der B 256 so schwer verletzt, dass Lebensgefahr nicht ausgeschlossen werden kann – Mutmaßlicher Unfallverursacher war nicht im Besitz einer gültigen Fahrerlaubnis.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/auto-nimmt-motorradfahrer-die-vorfahrt-----j--hriger-schwer-verungl--ckt-a-139661",
+    "published": "Wed, 28 Oct 2026 09:17:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-10-28T10:17:10.679998",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f14019fbf8db",
+    "title": "POL-GM: Kradfahrer bei Unfall auf B256 schwer verletzt",
+    "summary": "Waldbröl (ots) - Am Dienstag (27. Oktober) gegen 14 Uhr fuhr ein 69-jähriger Autofahrer aus Hamm (Sieg) auf der B256 aus Richtung Waldbröl kommend und beabsichtigte, nach links in die Schönenbacher Straße abzubiegen. Dabei kam es zur Kollision ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6379299",
+    "published": "Wed, 28 Oct 2026 09:00:30 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-10-28T10:17:09.753544",
+    "feed_kommunen": []
+  },
+  {
     "id": "2166d34fa857",
     "title": "Bürgerbüro am 3. November vormittags geschlossen",
     "summary": "Das Bürgerbüro der Marktstadt Waldbröl bleibt am Dienstag, 3. November 2026, aufgrund einer Fortbildungsmaßnahme vormittags geschlossen. Wir bitten um Ihr Verständnis.",

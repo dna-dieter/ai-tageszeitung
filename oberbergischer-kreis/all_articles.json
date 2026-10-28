@@ -1,5 +1,74 @@
 [
   {
+    "id": "d66c4194a658",
+    "title": "Oberberg: Kradfahrer schwer verletzt, Jungbäume gefällt, Baustellenfahrzeuge aufgebrochen",
+    "summary": "Kradfahrer bei Unfall auf der B256 bei Waldbröl schwer verletzt, Jungbäume in Hückeswagen gefällt und Werkzeuge aus Baustellenfahrzeugen in Wiehl gestohlen.",
+    "link": "https://www.news-on-tour.de/315440/baustellenfahrzeuge-oberberg-kradfahrer/",
+    "published": "Wed, 28 Oct 2026 09:06:47 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl",
+      "waldbroel",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-28T10:17:06.648426",
+    "feed_kommunen": []
+  },
+  {
+    "id": "cf42d237ebd4",
+    "title": "Jungbäume in den Wupperauen illegal gefällt",
+    "summary": "Hückeswagen - Die Polizei ermittelt nach einer illegalen Baumfällung (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/jungb--ume-gefaellt-a-139639",
+    "published": "Wed, 28 Oct 2026 09:40:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-28T10:17:10.679654",
+    "feed_kommunen": []
+  },
+  {
+    "id": "69bbb51efb30",
+    "title": "Kriminelle stehlen Werkzeuge und Diesel",
+    "summary": "Wiehl – Täter nahmen Baustellenfahrzeuge ins Visier.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/kriminelle-stehlen-werkzeuge-und-diesel-a-139662",
+    "published": "Wed, 28 Oct 2026 09:36:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-28T10:17:10.679751",
+    "feed_kommunen": []
+  },
+  {
+    "id": "0e70be83e0a6",
+    "title": "Einladung zur Gedenkfeier zum Volkstrauertag",
+    "summary": "Anlässlich des Volkstrauertages wird im Rahmen einer Gedenkstunde am Sonntag, dem 15. November 2026 um 12:00 Uhr im Foyer des Rathauses an alle Opfer von Kriegen erinnert.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=2012&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=8e2e44f9fbeb3dd0d19cc7a5a8396230",
+    "published": "Wed, 28 Oct 2026 09:23:04 +0100",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-28T10:17:18.382653",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
+    "id": "7affc67f8de4",
+    "title": "Auto nimmt Motorradfahrer die Vorfahrt: 59-Jähriger schwer verunglückt",
+    "summary": "Waldbröl – Kradfahrer wurde bei Unfall auf der B 256 so schwer verletzt, dass Lebensgefahr nicht ausgeschlossen werden kann – Mutmaßlicher Unfallverursacher war nicht im Besitz einer gültigen Fahrerlaubnis.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/auto-nimmt-motorradfahrer-die-vorfahrt-----j--hriger-schwer-verungl--ckt-a-139661",
+    "published": "Wed, 28 Oct 2026 09:17:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-10-28T10:17:10.679998",
+    "feed_kommunen": []
+  },
+  {
     "id": "267652fa2dbf",
     "title": "Bergneustadt: Friedensmarsch am 3. November – SPD und Grüne rufen zur Teilnahme auf",
     "summary": "Die SPD und Bündnis 90 / Die Grünen laden am 3. November zum Friedensmarsch in Bergneustadt ein – Treffpunkt Rathausplatz um 19 Uhr.",
@@ -10,6 +79,45 @@
       "bergneustadt"
     ],
     "fetched": "2026-10-28T09:17:07.060756",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f14019fbf8db",
+    "title": "POL-GM: Kradfahrer bei Unfall auf B256 schwer verletzt",
+    "summary": "Waldbröl (ots) - Am Dienstag (27. Oktober) gegen 14 Uhr fuhr ein 69-jähriger Autofahrer aus Hamm (Sieg) auf der B256 aus Richtung Waldbröl kommend und beabsichtigte, nach links in die Schönenbacher Straße abzubiegen. Dabei kam es zur Kollision ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6379299",
+    "published": "Wed, 28 Oct 2026 09:00:30 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-10-28T10:17:09.753544",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1e0703a0590f",
+    "title": "POL-GM: Jungbäume in den Wupperauen illegal gefällt",
+    "summary": "Hückeswagen (ots) - Ein Mehlbeerenbaum und ein Vogelbeerenbaum wurden in den Wupperauen von Unbekannten gefällt. Der Tatzeitraum liegt zwischen 16 Uhr am Montag (26. Oktober) und 08:30 Uhr am Dienstag. Hinweise nimmt das Kriminalkommissariat ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6379298",
+    "published": "Wed, 28 Oct 2026 09:00:27 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-28T10:17:09.753773",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6364caa67a3c",
+    "title": "POL-GM: Kriminelle stehlen Werkzeuge und Diesel",
+    "summary": "Wiehl (ots) - Zwischen 22:10 Uhr und 22:20 Uhr am Montag (26. Oktober) sind Unbekannte in der Robert-Koch-Straße mehrere Baustellenfahrzeuge angegangen. Die Unbekannten schlugen Fahrzeugscheiben ein und entwendeten Werkzeuge und Diesel. Hinweise ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6379297",
+    "published": "Wed, 28 Oct 2026 09:00:24 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-28T10:17:09.753980",
     "feed_kommunen": []
   },
   {
