@@ -1,5 +1,20 @@
 [
   {
+    "id": "5d68ceb12a4b",
+    "title": "Bunte Laternen bringen Licht in Bergisch Gladbach – Martinszüge und Lichterfeste im November",
+    "summary": "Besonders stimmungsvoll werden die Martinszüge, wenn auch die Anwohnerinnen und Anwohner entlang der Zugstrecken mitmachen. Die Stadt Bergisch Gladbach freut sich deshalb, wenn Fenster, Hauseingänge und Vorgärten mit Laternen oder Lichtern geschmückt werden. So entsteht entlang der Wege eine festliche Atmosphäre, die den Kindern und ihren Familien sicherlich in schöner Erinnerung bleiben wird. Die",
+    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52844",
+    "published": "2026-10-28 15:20:13",
+    "source": "Stadt Bergisch Gladbach (offiziell)",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-28T16:16:02.867423",
+    "feed_kommunen": [
+      "bergisch-gladbach"
+    ]
+  },
+  {
     "id": "05c6c19c19ed",
     "title": "Termin-Tipps für Leichlingen: Kultur, Konzerte und Märkte zum Jahresende",
     "summary": "Lesungen, Konzerte, eine Ausstellung und mehrere Weihnachtsmärkte prägen das Programm für November und Dezember in Leichlingen. Wir haben viele Termin-Tipps gesammelt.",
@@ -1366,8 +1381,7 @@
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
       "kuerten",
-      "odenthal",
-      "kreisweite-nachrichten"
+      "odenthal"
     ],
     "fetched": "2026-10-22T23:27:49.435505",
     "feed_kommunen": []

@@ -1,5 +1,31 @@
 [
   {
+    "id": "b213df3ac132",
+    "title": "Vor Gen-Z-Demo am Samstag: Farbanschlag auf Deutsche-Bank-Filiale in Köln",
+    "summary": "Unbekannte haben eine Filiale der Deutschen Bank in Braunsfeld mit roter Farbe beschmiert.",
+    "link": "https://www.ksta.de/koeln/vor-gen-z-demo-farbanschlag-auf-deutsche-bank-filiale-in-koeln-1404640",
+    "published": "Wed, 28 Oct 2026 15:34:04 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-28T16:17:40.156935",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d920103b7e77",
+    "title": "Aus für Baugebiet im Kölner Norden: Worringen bekommt kein neues Quartier",
+    "summary": "Die Pläne für das Neubaugebiet an der Brombeergasse am Worringer Ortsrand wurden beerdigt. Die Deutsche Reihenhaus AG zieht sich zurück – aus Kostengründen.",
+    "link": "https://www.ksta.de/koeln/chorweiler/worringen/koelner-norden-worringen-bekommt-doch-kein-neues-quartier-1401801",
+    "published": "Wed, 28 Oct 2026 15:13:10 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-28T16:17:40.156955",
+    "feed_kommunen": []
+  },
+  {
     "id": "5d372a3ef2d6",
     "title": "Demonstration an Halloween: „Gen Z regelt“ rechnet mit 15.000 Demo-Teilnehmern in Köln",
     "summary": "Die Zahl der geschätzten Teilnehmer für den Protest am Samstag auf dem Heumarkt hat sich verdreifacht. Sie beruht auf Online-Zusagen.",
@@ -36,6 +62,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-28T15:17:55.887418",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a9dcdea775d0",
+    "title": "Abend in der Kölner Comedia: Fantastische Frauen aus 150 Jahren Kölner Stadtgeschichte",
+    "summary": "Am 5. Dezember geht es in der Kölner Comedia um inspirierende, spannende Kölnerinnen der vergangenen 150 Jahre. Seien Sie live dabei!",
+    "link": "https://www.ksta.de/redaktion/abend-in-der-koelner-comedia-fantastische-frauen-aus-150-jahren-koelner-stadtgeschichte-1399771",
+    "published": "Wed, 28 Oct 2026 14:04:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-28T16:17:40.156988",
     "feed_kommunen": []
   },
   {
