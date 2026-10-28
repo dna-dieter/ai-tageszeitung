@@ -1,5 +1,20 @@
 [
   {
+    "id": "05c6c19c19ed",
+    "title": "Termin-Tipps für Leichlingen: Kultur, Konzerte und Märkte zum Jahresende",
+    "summary": "Lesungen, Konzerte, eine Ausstellung und mehrere Weihnachtsmärkte prägen das Programm für November und Dezember in Leichlingen. Wir haben viele Termin-Tipps gesammelt.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/leichlingen-termin-tipps-fuer-november-und-dezember-2026_aid-157248859",
+    "published": "Wed, 28 Oct 2026 14:00:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-10-28T14:16:08.407796",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
     "id": "cc25553f3fc4",
     "title": "Zeitreise durch Ösinghausen verschoben – neuer Termin am 4. November",
     "summary": "Der Quartierstreff Ösinghausen korrigiert den Termin für den Vortrag zur Ortsgeschichte: Statt heute (28. Oktober) findet er erst am 4. November statt. Stadtarchivar Norbert Bangert präsentiert historische Dokumente und eine Fotografie aus dem Jahr 1900. Anmeldung erforderlich.",
@@ -1351,8 +1366,7 @@
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
       "kuerten",
-      "odenthal",
-      "kreisweite-nachrichten"
+      "odenthal"
     ],
     "fetched": "2026-10-22T23:27:49.435505",
     "feed_kommunen": []
