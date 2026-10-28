@@ -1,5 +1,18 @@
 [
   {
+    "id": "527bcc3b0813",
+    "title": "Krankenhausreform: Hartmannbund warnt vor Kurzzeitverträgen für Ärzte in der Weiterbildung",
+    "summary": "Hartmannbund Nordrhein warnt: Krankenhausreform könnte Ärzte in der Weiterbildung zurück zu Kurzzeitverträgen führen. Arbeitsrechtliche Wege.",
+    "link": "https://www.news-on-tour.de/315450/nordrhein-krankenhausreform/",
+    "published": "Wed, 28 Oct 2026 09:50:53 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-28T11:17:26.159526",
+    "feed_kommunen": []
+  },
+  {
     "id": "d66c4194a658",
     "title": "Oberberg: Kradfahrer schwer verletzt, Jungbäume gefällt, Baustellenfahrzeuge aufgebrochen",
     "summary": "Kradfahrer bei Unfall auf der B256 bei Waldbröl schwer verletzt, Jungbäume in Hückeswagen gefällt und Werkzeuge aus Baustellenfahrzeugen in Wiehl gestohlen.",
@@ -39770,6 +39783,21 @@
       "wiehl"
     ],
     "fetched": "2026-10-26T10:17:41.685287",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "54c23a9a8091",
+    "title": "Die „KoboldKroniken“ live in der Bücherei",
+    "summary": "Der Kinderbuchautor Daniel Bleckmann kommt in die Stadtbücherei Wiehl und präsentiert seine Reihe „Die KoboldKroniken“. Er wird am 18. November 2026 nicht nur lesen, sondern auch live zeichnen.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9589-die-koboldkroniken-live-in-der.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-28T11:17:38.337110",
     "feed_kommunen": [
       "wiehl"
     ]
