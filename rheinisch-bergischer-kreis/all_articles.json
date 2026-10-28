@@ -1280,8 +1280,7 @@
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
       "kuerten",
-      "odenthal",
-      "kreisweite-nachrichten"
+      "odenthal"
     ],
     "fetched": "2026-10-22T23:27:49.435505",
     "feed_kommunen": []
@@ -8111,6 +8110,19 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-09-17T11:34:13.110546"
+  },
+  {
+    "id": "a2688e3ec67d",
+    "title": "Gründungsstipendium.NRW: Fortsetzung ab 01.10.2026",
+    "summary": "Nordrhein-Westfalen bietet hervorragende Rahmenbedingungen für Gründungen - von einer vielfältigen Wirtschaftsstruktur über starke Gründungsnetzwerke bis bis hin zur gezielten Förderung innovativer Gründungen. Eines der beliebtesten Förderprogramme für frühphasige Gründungen ist jetzt angepasst worden, sodass neue Anträge gestellt werden können.",
+    "link": "https://rbw.de/gruendungsstipendium-nrw-fortsetzung-ab-01-10-2026/",
+    "published": "Thu, 17 Sep 2026 06:59:30 +0000",
+    "source": "Rheinisch-Bergische Wirtschaftsförderung (RBW)",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-28T09:16:03.686691",
+    "feed_kommunen": []
   },
   {
     "id": "06c60aa1ccea",
