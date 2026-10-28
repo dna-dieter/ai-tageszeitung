@@ -1,5 +1,31 @@
 [
   {
+    "id": "73f90ea04147",
+    "title": "Betonsanierung der Tiefgarage Am Dom",
+    "summary": "28. Oktober 2026, 11:28Abstützungsmaßnahmen erfordern eingeschränkte Öffnungszeiten ab 2. November",
+    "link": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/betonsanierung-der-tiefgarage-am-dom-4",
+    "published": "Wed, 28 Oct 2026 11:28:00 +0100",
+    "source": "Stadt Köln Pressemeldungen",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-28T12:17:49.146602",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c824304f6373",
+    "title": "Strafgericht in Izmir: Ehemaliger Kölner Rocker-Boss zu mehr als 15 Jahren Haft verurteilt",
+    "summary": "In den 90er-Jahren war Coskun Necati Arabaci eine führende Figur im Kölner Rotlichtmilieu. Jetzt hat ihn ein Strafgericht in Izmir verurteilt.",
+    "link": "https://www.ksta.de/koeln/ehemaliger-koelner-rocker-boss-zu-mehr-als-15-jahren-haft-verurteilt-1404082",
+    "published": "Wed, 28 Oct 2026 11:15:10 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-28T12:17:49.509995",
+    "feed_kommunen": []
+  },
+  {
     "id": "2a6f2fc6eeb9",
     "title": "Aktuelle Entwicklungen am Ebertplatz",
     "summary": "28. Oktober 2026, 11:02Platzmanagement und Winterprogramm gehen in die Verlängerung",
@@ -10,6 +36,32 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-28T11:18:19.086028",
+    "feed_kommunen": []
+  },
+  {
+    "id": "bb73a91aa4d7",
+    "title": "Im Kölner Volksgarten: Verein braucht mehr Geld für Sanierung des Gotland-Hauses",
+    "summary": "Der Gotland-Verein möchte das Schwedenhaus als lebendigen Treffpunkt im Volksgarten erhalten. Die Kosten steigen jedoch.",
+    "link": "https://www.ksta.de/koeln/koelner-innenstadt/koeln-verein-braucht-mehr-geld-fuer-sanierung-des-gotland-hauses-1403422",
+    "published": "Wed, 28 Oct 2026 10:59:59 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-28T12:17:49.510017",
+    "feed_kommunen": []
+  },
+  {
+    "id": "665ca960e579",
+    "title": "Bilanz 2025/26: Extremes Niedrigwasser „lässt sich nicht wegbaggern“",
+    "summary": "Das Jahr war geprägt von extremem Niedrigwasser. Experten führen dies zum Teil auf den Klimawandel zurück – aber auch auf die Begradigung und Vertiefung von Flüssen.",
+    "link": "https://www.ksta.de/panorama/extremes-niedrigwasser-laesst-sich-nicht-wegbaggern-1404313",
+    "published": "Wed, 28 Oct 2026 10:58:57 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-28T12:17:49.510038",
     "feed_kommunen": []
   },
   {
@@ -26,6 +78,32 @@
     "feed_kommunen": []
   },
   {
+    "id": "6fe423cfa0f5",
+    "title": "Die Optimistin: Ein Lob auf das Unberechenbare",
+    "summary": "Mein Leben ist schon sehr effizient. Irgendwie hat mich die komplett durchtechnisierte Welt da reingezwungen. Dabei treibt die Nutzlosigkeit und Unvernunft so viel schönere Blüten",
+    "link": "https://www.ksta.de/koeln/die-optimistin-ein-lob-auf-das-unberechenbare-1400821",
+    "published": "Wed, 28 Oct 2026 10:31:37 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-28T12:17:49.510053",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4551fdd56711",
+    "title": "Jetzt hier Tickets gewinnen!: Kamelle-Festival: Zwölf Stunden Karneval und Festival am 11.11.",
+    "summary": "Keine Lust auf Gedränge und Regen auf der Zülpicher Straße? Das neue „Kamelle-Festival“ in der Halle Tor 2 bietet am 11.11. die perfekte Karnevals-Alternative.",
+    "link": "https://www.ksta.de/koeln/karneval-in-koeln/jetzt-mitmachen-und-tickets-gewinnen-kamelle-festival-zwoelf-stunden-karneval-und-festival-am-11-11-1400240",
+    "published": "Wed, 28 Oct 2026 10:24:50 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-28T12:17:49.510070",
+    "feed_kommunen": []
+  },
+  {
     "id": "646a84e382b9",
     "title": "Karneval 2027: Ehrenfelder Dienstagszug nur dank Rücklagen gesichert",
     "summary": "Der Ehrenfelder Dienstagszug 2027 ist nur dank Rücklagen gesichert. Teure Sicherheitskosten und mögliche Kürzungen gefährden alle Züge.",
@@ -36,6 +114,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-28T10:17:51.853642",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ba4e7e83365e",
+    "title": "Kölner Bundespolizei reagiert: Kurz nach Trainsurfing-Todesfall – Junge klettert auf Güterzug in Bornheim",
+    "summary": "Erneut hat sich ein 14-Jähriger auf einem Zug in Lebensgefahr begeben. Jetzt reagiert die Kölner Bundespolizei.",
+    "link": "https://www.ksta.de/region/rhein-sieg-bonn/bornheim/kurz-nach-trainsurfing-todesfall-junge-klettert-auf-gueterzug-in-bornheim-1404503",
+    "published": "Wed, 28 Oct 2026 09:50:44 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-28T12:17:49.510090",
     "feed_kommunen": []
   },
   {

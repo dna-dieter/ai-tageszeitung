@@ -1,5 +1,20 @@
 [
   {
+    "id": "84d54c947767",
+    "title": "Unterstützung für Leichlinger Hospiz: Adventskalender zeigt verborgene Motive",
+    "summary": "Der fotografische Adventskalender lädt dazu ein, Orte und Ecken in Leichlingen neu zu entdecken. Die Lehrerin Ina Block hat ihr Projekt dem Hospizdienst übergeben, der von dem Verkauf profitiert.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/leichlingen-adventskalender-mit-verborgenen-motiven-fuer-hospiz_aid-157317551",
+    "published": "Wed, 28 Oct 2026 11:56:50 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-10-28T12:16:10.361971",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
     "id": "d5ae3b4abb81",
     "title": "POL-RBK: Bergisch Gladbach - Einbrüche in Paffrath und Lustheide",
     "summary": "Bergisch Gladbach (ots) - Gestern (27.10.) sind unbekannte Täter in zwei Einfamilienhäuser eingebrochen. Gegen 18:35 Uhr rief eine Zeugin die Polizei in die Straße Flachsberg im Stadtteil Paffrath. Sie hatte leuchtende Taschenlampen in einem ...",
@@ -429,6 +444,19 @@
       "leichlingen"
     ],
     "fetched": "2026-10-27T11:16:03.006427",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2c012b378cca",
+    "title": "Zu Besuch in der Partnerstadt Pszczyna",
+    "summary": "Im September führte die „Reise gegen das Vergessen“ 20 Bergisch Gladbacher nach Krakau und Auschwitz. Auch ein Besuch in der polnischen Partnerstadt Pszczyna gehörte zum Programm. Dort wurden die Gäste im Rathaus empfangen und lernten bei einem Rundgang das Schloss, die Wisentzucht und weitere Sehenswürdigkeiten kennen.",
+    "link": "https://in-gl.de/2026/10/27/zu-besuch-in-der-partnerstadt-pszczyna/",
+    "published": "Tue, 27 Oct 2026 04:56:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-28T12:15:36.382675",
     "feed_kommunen": []
   },
   {
@@ -1293,7 +1321,8 @@
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
       "kuerten",
-      "odenthal"
+      "odenthal",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-22T23:27:49.435505",
     "feed_kommunen": []
