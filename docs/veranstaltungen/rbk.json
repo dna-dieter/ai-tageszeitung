@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Fondue Abende in der Bergischen Stube",
-    "datum": "27. Okt 2026",
-    "datum_raw": "2026-10-27T18:00:00+02:00",
-    "ort": "Flammkuchenrestaurant \"Bergische Stube\" im Tagungshotel Kardinal schulte Haus, Overather Str. 51-53, 51429 Bergisch Gladbach",
-    "preis": "ab 30 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Von Oktober 2026 bis März 2027 lädt das Kardinal Schulte Haus zu stimmungsvollen Fondue-Abenden in die \"Bergische Stube\" ein. Erlebe einen geselligen Abend voller Geschmack und Atmosphäre. Neben dem klassischen Schweizer"
-  },
-  {
     "titel": "Herbstferien Intensiv Schwimm-Kurse",
     "datum": "28. Okt 2026",
     "datum_raw": "2026-10-28T08:15:00+02:00",
@@ -208,6 +198,16 @@
     "link": "https://www.bergischgladbach.de/fuehrungen-zanders-gelaende2.aspx",
     "quelle": "Das Bergische",
     "teaser": "Auf eine Spurensuche in die Geschichte der industriellen Papierproduktion können sich interessierte Bürger*innen auf diesem Rundgang begeben: von der Papiermacherei mit sog. \"Holländern\" bis zu den hallenfüllenden modern"
+  },
+  {
+    "titel": "Fondue Abende in der Bergischen Stube",
+    "datum": "3. Nov 2026",
+    "datum_raw": "2026-11-03T18:00:00+02:00",
+    "ort": "Flammkuchenrestaurant \"Bergische Stube\" im Tagungshotel Kardinal schulte Haus, Overather Str. 51-53, 51429 Bergisch Gladbach",
+    "preis": "ab 30 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Von Oktober 2026 bis März 2027 lädt das Kardinal Schulte Haus zu stimmungsvollen Fondue-Abenden in die \"Bergische Stube\" ein. Erlebe einen geselligen Abend voller Geschmack und Atmosphäre. Neben dem klassischen Schweizer"
   },
   {
     "titel": "Mario Basler",
