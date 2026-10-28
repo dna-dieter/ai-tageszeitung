@@ -1,5 +1,18 @@
 [
   {
+    "id": "01ec7271e81f",
+    "title": "Endspurt bei Befragung zur Windenergie",
+    "summary": "Bergneustadt – Stimmabgabe bei Bürgerbefragung noch bis Sonntag möglich – Ergebnis soll nächste Woche veröffentlicht werden.",
+    "link": "http://www.oberberg-aktuell.de/bergneustadt/endspurt-bei-befragung-zur-windenergie-a-139687",
+    "published": "Wed, 28 Oct 2026 18:55:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-10-28T19:17:12.757636",
+    "feed_kommunen": []
+  },
+  {
     "id": "98536bb939f4",
     "title": "Eine Kogge, wo nie ein Schiff gefahren ist",
     "summary": "Wipperfürth – Nach fünf Jahren wurde heute die neu gestaltete Ellers Ecke als Park und Spielplatz ihrer Bestimmung übergeben – Mehr Aufenthaltsqualität für Eltern und Kinder.",
@@ -26,6 +39,19 @@
     "feed_kommunen": [
       "radevormwald"
     ]
+  },
+  {
+    "id": "517503541e27",
+    "title": "Öffentlicher Personennahverkehr: 54 Prozent der Oberberger ohne ausreichenden ÖPNV-Anschluss",
+    "summary": "Laut „ÖV-Atlas 2026“ liegen 146.000 Menschen im Kreis unter dem ÖPNV-Mindestangebot.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/54-prozent-der-oberberger-ohne-ausreichenden-oepnv-anschluss-1404863",
+    "published": "Wed, 28 Oct 2026 17:17:41 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-28T19:17:11.774368",
+    "feed_kommunen": []
   },
   {
     "id": "016d8be57a52",
