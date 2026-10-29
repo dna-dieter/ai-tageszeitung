@@ -1,5 +1,18 @@
 [
   {
+    "id": "d58631d992c1",
+    "title": "Engelskirchen: Einbrecher durchwühlt Einfamilienhaus am Aggerufer – Polizei sucht Zeugen",
+    "summary": "Einbruch in Engelskirchen: Unbekannte hebelten am Aggerufer ein Fenster auf und durchwühlten ein Einfamilienhaus. Zeugen gesucht.",
+    "link": "https://www.news-on-tour.de/316225/engelskirchen-einbruch-einfamilienhaus/",
+    "published": "Thu, 29 Oct 2026 09:22:06 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-29T11:17:19.711479",
+    "feed_kommunen": []
+  },
+  {
     "id": "e071bdd91f5f",
     "title": "Nümbrecht: Psychoonkologischer Projekttag stärkt Resilienz von Brustkrebspatientinnen",
     "summary": "Ein Projekttag zur Resilienz: 24 Teilnehmerinnen der Brustkrebs-Selbsthilfegruppe mammaCampy in Nümbrecht stärken ihre seelische Widerstandskraft.",
@@ -40218,6 +40231,21 @@
       "wiehl"
     ],
     "fetched": "2026-10-28T11:17:38.337110",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "e6b2acd55f9d",
+    "title": "Umbau von Bushaltestellen in nächster Runde",
+    "summary": "Der barrierefreie Ausbau von Bushaltestellen auf Wiehler Stadtgebiet geht in seine zweite Runde: Weitere 17 Haltestellen in elf übers Stadtgebiet verteilten Orten erhalten ein neues Gesicht.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9594-umbau-von-bushaltestellen-in-naechster.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-29T11:17:28.380760",
     "feed_kommunen": [
       "wiehl"
     ]

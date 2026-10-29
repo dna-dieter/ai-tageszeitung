@@ -2656,5 +2656,20 @@
     "feed_kommunen": [
       "wiehl"
     ]
+  },
+  {
+    "id": "e6b2acd55f9d",
+    "title": "Umbau von Bushaltestellen in nächster Runde",
+    "summary": "Der barrierefreie Ausbau von Bushaltestellen auf Wiehler Stadtgebiet geht in seine zweite Runde: Weitere 17 Haltestellen in elf übers Stadtgebiet verteilten Orten erhalten ein neues Gesicht.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9594-umbau-von-bushaltestellen-in-naechster.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-29T11:17:28.380760",
+    "feed_kommunen": [
+      "wiehl"
+    ]
   }
 ]

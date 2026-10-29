@@ -1,5 +1,44 @@
 [
   {
+    "id": "5d3713c08c45",
+    "title": "Selten erkannt: Deutschlands einzige Spezialambulanz behandelt Altersdepression in Köln",
+    "summary": "Vergesslichkeit und gedrückte Stimmung gilt im Alter oft als normal. Manchmal steckt eine behandelbare Krankheit dahinter.",
+    "link": "https://www.ksta.de/koeln/koeln-spezialambulanz-behandelt-depression-im-hohen-alter-1363088",
+    "published": "Thu, 29 Oct 2026 11:02:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-29T11:18:07.270748",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a587c7b16b0a",
+    "title": "20 Jahre „Unser Lädchen“: Tante Emma lebt weiter in Köln-Riehl",
+    "summary": "Vor 20 Jahren übernahmen die Sozialbetriebe Köln (SBK) den kleinen Laden auf ihrem Campus in Eigenregie.",
+    "link": "https://www.ksta.de/koeln/nippes/riehl/20-jahre-unser-laedchen-tante-emma-lebt-weiter-in-koeln-riehl-1403947",
+    "published": "Thu, 29 Oct 2026 10:59:31 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-29T11:18:07.270775",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f446cd8fcdaf",
+    "title": "Demonstration an Halloween: „Gen Z regelt“-Demo soll wohl doch durch Köln ziehen",
+    "summary": "Die Zahl der geschätzten Teilnehmer für den Protest am Samstag auf dem Heumarkt hat sich auf 15.000 verdreifacht. Außerdem wurde ein Aufzug angemeldet.",
+    "link": "https://www.ksta.de/koeln/genz-regelt-rechnet-mit-15-000-demo-teilnehmern-in-koeln-1404668",
+    "published": "Thu, 29 Oct 2026 10:16:05 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-29T11:18:07.270794",
+    "feed_kommunen": []
+  },
+  {
     "id": "261889bba326",
     "title": "Anderland-Festival in der Stadtbibliothek",
     "summary": "29. Oktober 2026, 10:07Esther Kinsky und José F. A. Oliver zu Gast am 3. November 2026",
@@ -244,19 +283,6 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-28T16:17:40.156955",
-    "feed_kommunen": []
-  },
-  {
-    "id": "5d372a3ef2d6",
-    "title": "Demonstration an Halloween: „Gen Z regelt“ rechnet mit 15.000 Demo-Teilnehmern in Köln",
-    "summary": "Die Zahl der geschätzten Teilnehmer für den Protest am Samstag auf dem Heumarkt hat sich verdreifacht. Sie beruht auf Online-Zusagen.",
-    "link": "https://www.ksta.de/koeln/genz-regelt-rechnet-mit-15-000-demo-teilnehmern-in-koeln-1404668",
-    "published": "Wed, 28 Oct 2026 14:53:11 +0100",
-    "source": "Kölner Stadt-Anzeiger Köln",
-    "kommunen": [
-      "kreisweite-nachrichten"
-    ],
-    "fetched": "2026-10-28T15:17:55.887383",
     "feed_kommunen": []
   },
   {
