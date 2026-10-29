@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Herbstferien Intensiv Schwimm-Kurse",
-    "datum": "29. Okt 2026",
-    "datum_raw": "2026-10-29T08:15:00+02:00",
-    "ort": "Badino Freizeitbad, Propsteistraße 25, 51491 Overath",
-    "preis": "",
-    "link": "https://shop.badino-overath.de/de/bookings/block_list/course_id/97/",
-    "quelle": "Das Bergische",
-    "teaser": "Dieser Kurs wird täglich in den Ferien angeboten. Die Ferienkurse sind bewusst als Auftakt einer langfristigen Initiative angelegt. Ziel aller Projektpartner ist es, die Schwimmausbildung in Overath dauerhaft auszubauen,"
-  },
-  {
     "titel": "Kinderführung: Kindheit in der Alten Dombach um 1850",
     "datum": "29. Okt 2026",
     "datum_raw": "2026-10-29T11:00:00+01:00",
@@ -18,6 +8,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Die Papiermacherkinder Gertrud und Johann Berg wohnen und arbeiten in der Papiermühle. Wie leben sie und welche Arbeiten müssen sie in der Mühle verrichten? Im Anschluss an die Führung kann jeder einen Bogen Papier schöp"
+  },
+  {
+    "titel": "Herbstferien Intensiv Schwimm-Kurse",
+    "datum": "30. Okt 2026",
+    "datum_raw": "2026-10-30T08:15:00+02:00",
+    "ort": "Badino Freizeitbad, Propsteistraße 25, 51491 Overath",
+    "preis": "",
+    "link": "https://shop.badino-overath.de/de/bookings/block_list/course_id/97/",
+    "quelle": "Das Bergische",
+    "teaser": "Dieser Kurs wird täglich in den Ferien angeboten. Die Ferienkurse sind bewusst als Auftakt einer langfristigen Initiative angelegt. Ziel aller Projektpartner ist es, die Schwimmausbildung in Overath dauerhaft auszubauen,"
   },
   {
     "titel": "Ferienaktion: Workshop Leuchtende Herbststimmung",
