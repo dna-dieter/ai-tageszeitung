@@ -572,6 +572,17 @@
     "teaser": "16:30 bis 17:30 Uhr · Vorlese- und Malstunde ab 4 Jahren – in der Stadtteilbibliothek Porz."
   },
   {
+    "titel": "Handarbeitstreff",
+    "datum": "5. Nov 2026",
+    "datum_raw": "2026-11-05T00:00:00",
+    "datum_bis": "",
+    "ort": "Stadtteilbibliothek Sülz, Sülz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41325/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 18:30 Uhr · Gemeinsam stricken, sticken und häkeln in der Stadtteilbibliothek Sülz."
+  },
+  {
     "titel": "Keine von uns: Das Leben der Irmgard Keun",
     "datum": "5. Nov 2026",
     "datum_raw": "2026-11-05T00:00:00",
@@ -1076,17 +1087,6 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40285/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "16:30 bis 18:30 Uhr · In diesem Workshop erhalten Sie eine Lizenz für den 3D-Drucker. In der Stadtteilbibliothek Rodenkirchen."
-  },
-  {
-    "titel": "Handarbeitstreff",
-    "datum": "12. Nov 2026",
-    "datum_raw": "2026-11-12T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Sülz, Sülz",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41325/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "16:30 bis 18:30 Uhr · Gemeinsam stricken, sticken und häkeln in der Stadtteilbibliothek Sülz."
   },
   {
     "titel": "Mobile Filming 2",
@@ -1714,6 +1714,17 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41333/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "16:30 bis 17:30 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Ehrenfeld"
+  },
+  {
+    "titel": "Handarbeitstreff",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T00:00:00",
+    "datum_bis": "",
+    "ort": "Stadtteilbibliothek Sülz, Sülz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41660/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 18:30 Uhr · Gemeinsam stricken, sticken und häkeln in der Stadtteilbibliothek Sülz."
   },
   {
     "titel": "Neue Tricks für NAO",
