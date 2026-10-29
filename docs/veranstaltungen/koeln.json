@@ -770,17 +770,6 @@
     "teaser": "11 bis 13 Uhr · Der Literaturkreis Neubrück richtet sich an Lesebegeisterte und findet momentan in der Stadtteilbibliothek Kalk statt."
   },
   {
-    "titel": "Zett Emm_20_26 – 14. Jugendfestival für zeitgenössische Musik",
-    "datum": "7. Nov 2026",
-    "datum_raw": "2026-11-07T00:00:00",
-    "datum_bis": "",
-    "ort": "Alte Feuerwache, Neustadt/Nord",
-    "preis": "Eintritt frei",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41025/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "11 Uhr · Junge Kompositionsschüler*innen der Rheinischen Musiksschule präsentieren in fünf halbstündigen Konzerten Komisches, Interessantes, Unterhaltsames und Abwechslungsreiches rund um die Zeitgenössische Musik."
-  },
-  {
     "titel": "LeseWelten",
     "datum": "7. Nov 2026",
     "datum_raw": "2026-11-07T00:00:00",
@@ -790,6 +779,17 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41311/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "11:30 bis 12 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Zett Emm_20_26 – 14. Jugendfestival für zeitgenössische Musik",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T00:00:00",
+    "datum_bis": "",
+    "ort": "Alte Feuerwache, Neustadt/Nord",
+    "preis": "Eintritt frei",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41025/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "13-19 Uhr · Junge Kompositionsschüler*innen der Rheinischen Musiksschule präsentieren in fünf halbstündigen Konzerten Komisches, Interessantes, Unterhaltsames und Abwechslungsreiches rund um die Zeitgenössische Musik."
   },
   {
     "titel": "Kölner Museumsnacht 2026",

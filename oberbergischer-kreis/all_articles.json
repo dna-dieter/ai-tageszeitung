@@ -1,5 +1,48 @@
 [
   {
+    "id": "a42be9e03c09",
+    "title": "Oberberg: NGG fordert abschlagsfreie Rente nach 45 Beitragsjahren",
+    "summary": "Im Oberbergischen Kreis gehen jährlich rund 2.450 Beschäftigte in Rente. Die NGG fordert die abschlagsfreie Rente nach 45 Beitragsjahren.",
+    "link": "https://www.news-on-tour.de/316608/oberberg-ngg-rente-45-beitragsjahre/",
+    "published": "Thu, 29 Oct 2026 13:15:03 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-29T14:17:18.163161",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a0a6be60007f",
+    "title": "Mehr Platz für Physio, Rehasport undKurse an der Rochollstraße",
+    "summary": "In die ehemalige Augenarztpraxis an der Rochollstraße ziehen Trainingsgeräte ein. Die Physiotherapiepraxis „Der gesunde Weg“ vergrößert sich und bekommt 160 Quadratmeter dazu.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/mehr-platz-fuer-physio-rehasport-undkurse-an-der-rochollstrasse-Y4AHOCZNQTPZHJSZVAWYUVWOSY.html",
+    "published": "Thu, 29 Oct 2026 14:15:00 +0100",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-10-29T14:17:20.108211",
+    "feed_kommunen": [
+      "radevormwald"
+    ]
+  },
+  {
+    "id": "f90338333870",
+    "title": "Der große Gatsby im Technoclub: Klassiker mit Gegenwartsbezug",
+    "summary": "Der Roman funktioniert auch als Gegenwartsstück. Das Landestheater Neuss war damit jetzt in Radevormwald zu Gast.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/der-grosse-gatsby-im-technoclub-klassiker-mit-gegenwartsbezug-2X4WDHD7ZHHRP5OLH2FLDYP7TA.html",
+    "published": "Thu, 29 Oct 2026 13:13:57 +0100",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-10-29T14:17:20.108377",
+    "feed_kommunen": [
+      "radevormwald"
+    ]
+  },
+  {
     "id": "2c0b64e4dc38",
     "title": "Halloween und \"Gen Z\"-Proteste: Polizei am Samstag verstärkt im Einsatz",
     "summary": "Oberberg – Behörde verfolgt Aufrufe in den Sozialen Medien aufmerksam – Bislang keine Versammlungen angemeldet – Polizei mit Appell an feiernde Menschen.",
@@ -39,16 +82,16 @@
     "feed_kommunen": []
   },
   {
-    "id": "94dcbf38179a",
+    "id": "09753c2ba161",
     "title": "Inklusion im ÖPNV: Wiehl baut 17 weitere Bushaltestellen barrierefrei aus",
     "summary": "Rund 40.000 Euro kostet jede umgebaute Haltestelle, das Land zahlt fast alles für 17 weitere Standorte.",
-    "link": "https://www.rundschau-online.de/region/oberberg/wiehl/wiehl-baut-17-weitere-bushaltestellen-barrierefrei-aus-1405244",
+    "link": "https://www.ksta.de/region/oberberg/wiehl/wiehl-baut-17-weitere-bushaltestellen-barrierefrei-aus-1405244",
     "published": "Thu, 29 Oct 2026 10:09:13 +0100",
-    "source": "Kölnische Rundschau Oberberg",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-10-29T13:17:29.601512",
+    "fetched": "2026-10-29T14:17:23.057062",
     "feed_kommunen": []
   },
   {

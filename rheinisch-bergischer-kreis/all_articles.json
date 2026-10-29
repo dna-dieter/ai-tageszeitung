@@ -1,5 +1,35 @@
 [
   {
+    "id": "1f13ed251c72",
+    "title": "CDU Leichlingen lädt ein: Karl-Reul-Gespräch mit NRW-Minister Liminski",
+    "summary": "Nathanael Liminski, NRW-Minister und Chef der Staatskanzlei, spricht auf Schloss Eicherhof über die Erwartungen an Politik und Staat in Zeiten demokratischer Herausforderungen.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/leichlingen-karl-reul-gespraech-mit-nrw-minister-liminski_aid-157448459",
+    "published": "Thu, 29 Oct 2026 14:00:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-10-29T14:16:10.333759",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
+    "id": "652459c0b91e",
+    "title": "Verkehrsbehinderungen rund um Leverkusen: Westring dicht, A1 voll gesperrt",
+    "summary": "Ab 9. November gibt es Sperrungen und Umleitungen. Betroffen sind der Westring und die A1 zwischen den Autobahnkreuzen Leverkusen-West und Leverkusen.",
+    "link": "https://rp-online.de/nrw/staedte/leverkusen/leverkusen-westring-dicht-a1-voll-gesperrt_aid-157459025",
+    "published": "Thu, 29 Oct 2026 13:02:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-10-29T14:16:10.333942",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
     "id": "9da6ba16968e",
     "title": "Gärtnerei in Leichlingen verschenkt: 700 Hornpfeilchen für die Stadt",
     "summary": "In Zeiten der Haushaltssperre in Leichlingen können auch die Pflanzstreifen und Beete nicht mehr neu begrünt werden. Die Leichlinger Gärtnerei Zimmers Gartenland springt deshalb ein.",
@@ -15,6 +45,19 @@
     ]
   },
   {
+    "id": "3b840d4094e4",
+    "title": "Handwerk: Geschäftsklima in Rhein-Berg: Gute Stimmung, aber Investitionen brechen ein",
+    "summary": "Der Kreis liegt im oberen Mittelfeld des Kammerbezirks, doch bei Investitionen und Aufträgen sieht es schwächer aus.",
+    "link": "https://www.ksta.de/region/rhein-berg/geschaeftsklima-in-rhein-berg-gute-stimmung-aber-investitionen-brechen-ein-1405280",
+    "published": "Thu, 29 Oct 2026 11:06:01 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-29T14:16:08.778090",
+    "feed_kommunen": []
+  },
+  {
     "id": "af92d0affc2b",
     "title": "POL-RBK: Bergisch Gladbach - Polizei bittet nach Körperverletzung auf Konrad-Adenauer-Platz um Zeugenhinweise",
     "summary": "Bergisch Gladbach (ots) - Vor einer Woche (21.10.) kam es auf dem Konrad-Adenauer-Platz in der Innenstadt zu einer Kollision zwischen einem E-Scooter-Fahrer und einem Marktarbeiter. Im Anschluss daran schlug der E-Scooter-Fahrer den Mann. Gegen ...",
@@ -25,6 +68,32 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-10-29T12:16:06.397870",
+    "feed_kommunen": []
+  },
+  {
+    "id": "44078b01bf30",
+    "title": "Konzert: Voller Saal in Bechen: Chorgemeinschaft Herweg und Dürscheid singt Pop und Schlager",
+    "summary": "In Bechen spannten die Männerchöre einen Bogen von Gospel über Schlager bis zu den Toten Hosen.",
+    "link": "https://www.ksta.de/region/rhein-berg/kuerten/chorgemeinschaft-herweg-und-duerscheid-singt-pop-und-schlager-1405278",
+    "published": "Thu, 29 Oct 2026 10:56:36 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kuerten"
+    ],
+    "fetched": "2026-10-29T14:16:08.778257",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8057a4826cfb",
+    "title": "Wettbewerb: „Foto des Jahres 2026“ in Rhein-Berg: Preise für über 2000 Euro zu gewinnen",
+    "summary": "Bis zum 8. November können Leserinnen und Leser Fotos einreichen und Gutscheine im Gesamtwert von mehr als 2000 Euro gewinnen.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/wettbewerb-foto-des-jahres-2026-in-rhein-berg-1405260",
+    "published": "Thu, 29 Oct 2026 10:51:57 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-29T14:16:08.778435",
     "feed_kommunen": []
   },
   {
