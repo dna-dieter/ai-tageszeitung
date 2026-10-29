@@ -1,5 +1,18 @@
 [
   {
+    "id": "e42fe3b3a2b6",
+    "title": "Kimba",
+    "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
+    "link": "http://www.oberberg-aktuell.de/foto-des-tages/kimba-a-139181",
+    "published": "Thu, 29 Oct 2026 08:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-29T08:17:25.416802",
+    "feed_kommunen": []
+  },
+  {
     "id": "a0b12fb2e613",
     "title": "Digitale Angebote der Agentur für Arbeit",
     "summary": "Oberberg - Sie können direkt und aktiv auf die digitalen Angebote der Agentur für Arbeit zugreifen. Auf unserer Internetseite erhalten Sie einen zentralen und jederzeit erreichbaren Überblick über alle Online-Angebote rund um Arbeitslosigkeit, Arbeitsuche und Leistungen der Bundesagentur für Arbeit .",

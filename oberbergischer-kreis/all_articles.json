@@ -1,5 +1,46 @@
 [
   {
+    "id": "e42fe3b3a2b6",
+    "title": "Kimba",
+    "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
+    "link": "http://www.oberberg-aktuell.de/foto-des-tages/kimba-a-139181",
+    "published": "Thu, 29 Oct 2026 08:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-29T08:17:25.416802",
+    "feed_kommunen": []
+  },
+  {
+    "id": "85c1718f7507",
+    "title": "Konzert-Lesung über Wurzeln, Welt, Vater, Land und Gott",
+    "summary": "Judy Bailey und Patrick Depuhl kommen nach Radevormwald.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/konzert-lesung-ueber-wurzeln-welt-vater-land-und-gott-3LP2YFUKYOCQ6M47IBKLVDD7AA.html",
+    "published": "Thu, 29 Oct 2026 07:45:00 +0100",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-10-29T08:17:20.832848",
+    "feed_kommunen": [
+      "radevormwald"
+    ]
+  },
+  {
+    "id": "596a16b25640",
+    "title": "Bergneustadt: Model-S-Fahrer packt aus – mein 13 Jahre alter Tesla P85 mit 313.922 km",
+    "summary": "Ein Model-S-Fahrer packt aus: Neuer Akku, drei Antriebseinheiten, gebrauchtes BMS, Ölwechsel, Pannen und Kosten. Mein Tesla Model S P85 „Dark Angel“ ist 13 Jahre alt und hat 313.922 Kilometer hinter sich.",
+    "link": "https://www.news-on-tour.de/315793/tesla-model-s-p85-fahrer-packt-aus/",
+    "published": "Thu, 29 Oct 2026 06:44:04 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-10-29T08:17:19.029676",
+    "feed_kommunen": []
+  },
+  {
     "id": "a0b12fb2e613",
     "title": "Digitale Angebote der Agentur für Arbeit",
     "summary": "Oberberg - Sie können direkt und aktiv auf die digitalen Angebote der Agentur für Arbeit zugreifen. Auf unserer Internetseite erhalten Sie einen zentralen und jederzeit erreichbaren Überblick über alle Online-Angebote rund um Arbeitslosigkeit, Arbeitsuche und Leistungen der Bundesagentur für Arbeit .",
