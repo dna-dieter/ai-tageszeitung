@@ -44,17 +44,6 @@
     "teaser": "15:30 bis 17:30 Uhr · Stricken und Klönen in der Stadtteilbibliothek Nippes."
   },
   {
-    "titel": "LeseWelten",
-    "datum": "30. Okt 2026",
-    "datum_raw": "2026-10-30T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41112/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "16 bis 17 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Nippes."
-  },
-  {
     "titel": "Phishing erkennen – Schutz vor digitalen Angriffen",
     "datum": "30. Okt 2026",
     "datum_raw": "2026-10-30T00:00:00",
@@ -97,6 +86,17 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41430/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "ab 13 Uhr · Bei einem Rundgang über den Ostfriedhof erfahren die Teilnehmenden mehr über historische Grabstätten von der Jungsteinzeit bis zur Gegenwart."
+  },
+  {
+    "titel": "Abgesagt – LeseWelten",
+    "datum": "30. Okt 2026",
+    "datum_raw": "2026-10-30T00:00:00",
+    "datum_bis": "",
+    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
+    "preis": "Diese Veranstaltung ist abgesagt.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41112/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Diese Veranstaltung ist abgesagt. · Diese Veranstaltung ist abgesagt. Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Nippes."
   },
   {
     "titel": "MINTköln 2026",

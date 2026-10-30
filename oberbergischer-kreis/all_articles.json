@@ -1,5 +1,44 @@
 [
   {
+    "id": "d3c13bb4b50d",
+    "title": "Göppingen: VfL Gummersbach gewinnt Auswärtsspiel 33:25 bei FRISCH AUF!",
+    "summary": "Der VfL Gummersbach gewinnt bei FRISCH AUF! Göppingen mit 33:25 und feiert den fünften Saisonsieg in der Opel HBL.",
+    "link": "https://www.news-on-tour.de/317512/goeppingen-vfl-gummersbach-sieg-33-25/",
+    "published": "Fri, 30 Oct 2026 11:12:31 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-10-30T12:17:01.641481",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7e917b23bb5c",
+    "title": "ASC Loope erhält Platinstatus beim DFB-Punktespiel",
+    "summary": "Engelskirchen – Fußballklub erreichte bei dem Wettbewerb dank vieler umgesetzter Maßnahmen eine besonders hohe Punktzahl.",
+    "link": "http://www.oberberg-aktuell.de/fussball/asc-loope-erh--lt-platinstatus-beim-dfb-punktespiel-a-139747",
+    "published": "Fri, 30 Oct 2026 11:40:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-10-30T12:17:06.732192",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2ea055788fee",
+    "title": "Zahl der Arbeitslosen im Oktober gesunken",
+    "summary": "Oberberg - Knapp 8.950 Menschen aus Oberberg waren im vergangenen Monat arbeitslos gemeldet – 2.370 freie Stellen im Bestand der Arbeitsagentur.",
+    "link": "http://www.oberberg-aktuell.de/oberbergischer-kreis/zahl-der-arbeitslosen-im-oktober-gesunken-a-139745",
+    "published": "Fri, 30 Oct 2026 11:28:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-30T12:17:06.732324",
+    "feed_kommunen": []
+  },
+  {
     "id": "926f8c4da1f1",
     "title": "Starke Reaktion auf 0:2-Rückstand",
     "summary": "Oberberg - Staffel 2: Aufsteiger Agathaberg sorgt weiter für Furore und gewann auch das Nachholspiel gegen Overath-Vilkerath - 'Sportsbar Lutter' präsentiert die Kreisliga B.",
@@ -668,21 +707,6 @@
     "fetched": "2026-10-28T15:17:16.683856",
     "feed_kommunen": [
       "hueckeswagen"
-    ]
-  },
-  {
-    "id": "a3f58cb4e859",
-    "title": "mammaCampy: Psychoonkologischer Samstag voller Erfolg – Resilienz stärken und neue Kraft schöpfen",
-    "summary": "Ein Tag im Zeichen der seelischen Stärke: Brustkrebs-Selbsthilfegruppe mammaCampy setzt sich mit Resilienz, persönlichen Ressourcen und neuen Perspektiven auseinander.",
-    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=2013&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=79b9ea4ad4c713c8d584221ed0cfd259",
-    "published": "Wed, 28 Oct 2026 14:10:30 +0100",
-    "source": "Gemeinde Nümbrecht (offiziell)",
-    "kommunen": [
-      "nuembrecht"
-    ],
-    "fetched": "2026-10-28T14:17:13.787611",
-    "feed_kommunen": [
-      "nuembrecht"
     ]
   },
   {
@@ -4137,6 +4161,21 @@
     ],
     "fetched": "2026-10-23T07:50:17.960786",
     "feed_kommunen": []
+  },
+  {
+    "id": "0fad6b969462",
+    "title": "mamma CAMPY: Psychoonkologischer Samstag voller Erfolg – Resilienz stärken und neue Kraft schöpfen",
+    "summary": "Ein Tag im Zeichen der seelischen Stärke: Brustkrebs-Selbsthilfegruppe mamma CAMPY setzt sich mit Resilienz, persönlichen Ressourcen und neuen Perspektiven auseinander.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=2013&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=79b9ea4ad4c713c8d584221ed0cfd259",
+    "published": "Tue, 20 Oct 2026 14:10:00 +0200",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-10-30T12:17:15.570608",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
   },
   {
     "id": "13c928572507",
