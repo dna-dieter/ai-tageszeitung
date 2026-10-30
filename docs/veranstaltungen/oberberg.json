@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Führung in der Aggertalhöhle",
-    "datum": "30. Okt 2026",
-    "datum_raw": "2026-10-30T00:00:00+02:00",
-    "ort": "Aggertalhöhle, Im Krümmel 39, 51766 Engelskirchen",
-    "preis": "ab 6 €",
-    "link": "http://www.aggertalhoehle.de/main/home/informationen/oeffnungszeiten",
-    "quelle": "Das Bergische",
-    "teaser": "Die Aggertalhöhle ist vom 1. April bis einschließlich 1. November jeweils von Donnerstag bis Sonntag und an gesetzlichen Feiertagen geöffnet. Unter dem Titel »Erster Einblick« starten Führungen jeweils um 10.00, 11.15, 1"
-  },
-  {
     "titel": "Herbstferien-Programm für Kinder auf :metabolon",
     "datum": "30. Okt 2026",
     "datum_raw": "2026-10-30T09:00:00+01:00",
@@ -58,6 +48,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Die Band spielt „Finest Rhythm & Blues und Rock & Roll“ und interpretiert Songs von namhaften Musikern wie B.B. King, Lucky Peterson, John Mayall, Stevie Ray Vaughn, Jimmy Reed und hat auch tanzbare Stücke von Chuck Berr"
+  },
+  {
+    "titel": "Führung in der Aggertalhöhle",
+    "datum": "31. Okt 2026",
+    "datum_raw": "2026-10-31T00:00:00+02:00",
+    "ort": "Aggertalhöhle, Im Krümmel 39, 51766 Engelskirchen",
+    "preis": "ab 6 €",
+    "link": "http://www.aggertalhoehle.de/main/home/informationen/oeffnungszeiten",
+    "quelle": "Das Bergische",
+    "teaser": "Die Aggertalhöhle ist vom 1. April bis einschließlich 1. November jeweils von Donnerstag bis Sonntag und an gesetzlichen Feiertagen geöffnet. Unter dem Titel »Erster Einblick« starten Führungen jeweils um 10.00, 11.15, 1"
   },
   {
     "titel": "Halloween entgruselt",

@@ -13,6 +13,19 @@
     "feed_kommunen": []
   },
   {
+    "id": "f2b47f19a6e9",
+    "title": "Polizei sucht Zeugen nach Angriff auf Marktkoch",
+    "summary": "Gut eine Woche nach dem Angriff eines E-Scooter-Fahrers auf Oliver Krause auf dem Wochenmarkt meldet sich die Polizei - mit einer Beschreibung des Täters und einem Zeugenaufruf. Krause, der als Marktkoch bekannt ist, wurde schwer verletzt und konnte das Krankenhaus erst nach einer Woche verlassen.",
+    "link": "https://in-gl.de/2026/10/29/polizei-sucht-nach-angriff-auf-marktkoch-nach-zeugen/",
+    "published": "Thu, 29 Oct 2026 14:51:21 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-30T07:15:35.282260",
+    "feed_kommunen": []
+  },
+  {
     "id": "3b840d4094e4",
     "title": "Handwerk: Geschäftsklima in Rhein-Berg: Gute Stimmung, aber Investitionen brechen ein",
     "summary": "Der Kreis liegt im oberen Mittelfeld des Kammerbezirks, doch bei Investitionen und Aufträgen sieht es schwächer aus.",
@@ -36,6 +49,32 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-29T14:16:08.778435",
+    "feed_kommunen": []
+  },
+  {
+    "id": "fe7c2e2f0e4c",
+    "title": "Kreis lädt zum Austausch über psychische Gesundheit",
+    "summary": "Ein Informationsabend im Kreishaus gibt Einblicke in verschiedene Perspektiven auf psychische Gesundheit und Sucht. Auf dem Programm: Vorträge, persönliche Erfahrungsberichte, Musik und ein Trialog zwischen Betroffenen, Angehörigen und Fachleuten. Die Teilnahme ist kostenfrei, eine Anmeldung bis zum 1. November ist erforderlich.",
+    "link": "https://in-gl.de/2026/10/29/austausch-ueber-psychische-gesundheit-a-n-d-e-r-s/",
+    "published": "Thu, 29 Oct 2026 08:14:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-30T07:15:35.282573",
+    "feed_kommunen": []
+  },
+  {
+    "id": "601ee0ece1af",
+    "title": "50 Jahre CBF: Gemeinsam für Teilhabe und Inklusion",
+    "summary": "Seit 1976 setzt sich der Club behinderter Menschen und ihrer Freunde (CBF) im Rheinisch-Bergischen Kreis für Barrierefreiheit, Selbstbestimmung und gesellschaftliche Teilhabe ein. Zum 50-jährigen Bestehen blickt der Verein auf zahlreiche Erfolge zurück und lädt zu einem gemeinsamen Jubiläumsfest ein.",
+    "link": "https://in-gl.de/2026/10/29/50-jahre-cbf-gemeinsam-fuer-teilhabe-und-inklusion/",
+    "published": "Thu, 29 Oct 2026 07:07:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-30T07:15:35.282854",
     "feed_kommunen": []
   },
   {
@@ -164,6 +203,21 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-22T20:41:31.719896"
+  },
+  {
+    "id": "efb6ff8004ca",
+    "title": "Baustellen-Ticker: Arbeiten auf Hauptstraße beendet, Ampeln abgebaut",
+    "summary": "Autofahrer brauchten seit Ende Juli besonders viel Geduld, wenn sie aus Kürten oder Odenthal in die Innenstadt fuhren - oder von dort wieder zurück. Bauarbeiten der RheinNetz verwandelten den Kreuzungsbereich der Hauptstraße mit der Odenthaler Straße in ein Nadelöhr. Die sind nun abgeschlossen.",
+    "link": "https://in-gl.de/2026/10/22/alle-baustellen-ticker-bergisch-gladbach/",
+    "published": "Thu, 22 Oct 2026 13:51:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kuerten",
+      "odenthal",
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-22T23:27:49.435505",
+    "feed_kommunen": []
   },
   {
     "id": "8516804cc1ec",
