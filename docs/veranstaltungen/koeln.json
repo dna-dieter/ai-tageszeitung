@@ -55,17 +55,6 @@
     "teaser": "16 bis 17:30 Uhr · Ein Vortrag im Rahmen der Reihe Digitale Werkstatt in Kooperation mit der Verbraucherzentrale NRW e. V. – in der Stadtteilbibliothek Kalk."
   },
   {
-    "titel": "Lizenz für 3D-Druck",
-    "datum": "30. Okt 2026",
-    "datum_raw": "2026-10-30T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Porz, Porz",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/38962/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "16 bis 18 Uhr · Ein Workshop im Rahmen von Maker Porz."
-  },
-  {
     "titel": "Mach MI(N)T!",
     "datum": "30. Okt 2026",
     "datum_raw": "2026-10-30T00:00:00",
@@ -603,6 +592,17 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41298/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "16 bis 17 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Nippes."
+  },
+  {
+    "titel": "Lizenz für 3D-Druck",
+    "datum": "6. Nov 2026",
+    "datum_raw": "2026-11-06T00:00:00",
+    "datum_bis": "",
+    "ort": "Stadtteilbibliothek Porz, Porz",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/38962/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 18 Uhr · Ein Workshop im Rahmen von Maker Porz."
   },
   {
     "titel": "Craft Training",
