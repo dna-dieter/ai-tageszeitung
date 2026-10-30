@@ -1,5 +1,20 @@
 [
   {
+    "id": "d0c15cb90214",
+    "title": "Im Rheinisch-Bergischen Kreis: Frühzeitige Hilfe soll Rettungsdienste und Krankenhäuser entlasten",
+    "summary": "Keine Angst vor Mehrkosten im Notfall und leichterer Zugang zu medizinischer Hilfe: CDU und SPD wollen die Versorgung im Rheinisch-Bergischen Kreis finanziell sichern und durch vorbeugende Angebote verbessern.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/rheinisch-bergischer-kreis-fruehzeitige-hilfe-soll-rettungswagen-und-krankenhaeuser-entlasten_aid-157462421",
+    "published": "Fri, 30 Oct 2026 14:00:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-10-30T14:16:03.001830",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
     "id": "41b8d70f237e",
     "title": "Einschränkungen bei städtischen Turnhallen: Zwei Turnhallen gesperrt – Probleme an der Turnhalle der GGS Gronau Hallen behoben",
     "summary": "An der GGS Katterbach führen mehrere technische und bauliche Mängel zur Sperrung. Neben Defekten an der Deckenbeleuchtung und der Unterverteilung müssen auch die Statik der Deckenbalken und die Schadstoffsituation geprüft werden. Eine Wiederinbetriebnahme kann voraussichtlich frühestens zum Jahresbeginn 2027 erfolgen. Die Voraussetzungen sind unbedenkliche Untersuchungsergebnisse und eine positive",
@@ -595,7 +610,8 @@
     "published": "Wed, 28 Oct 2026 17:31:03 +0100",
     "source": "Kölner Stadt-Anzeiger Rhein-Berg",
     "kommunen": [
-      "roesrath"
+      "roesrath",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-28T19:16:00.515915",
     "feed_kommunen": []

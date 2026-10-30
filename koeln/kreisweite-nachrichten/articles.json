@@ -1,5 +1,96 @@
 [
   {
+    "id": "a709d0304330",
+    "title": "Baustellen in den Stadtteilen",
+    "summary": "30. Oktober 2026, 14:00",
+    "link": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/baustellen-den-stadtteilen-137",
+    "published": "Fri, 30 Oct 2026 14:00:00 +0100",
+    "source": "Stadt Köln Pressemeldungen",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-30T14:17:45.531261",
+    "feed_kommunen": []
+  },
+  {
+    "id": "951905fb2b96",
+    "title": "Appell vor „Gen Z regelt“-Demo: Ludwig Sebus hat Verständnis für junge Demonstranten",
+    "summary": "Ludwig Sebus verfolgt mit 101 Jahren, was in Köln passiert. Vor Sessionsstart und der „Gen Z regelt“-Demo bezieht er klar Stellung.",
+    "link": "https://www.ksta.de/koeln/koeln-ludwig-sebus-hat-verstaendnis-fuer-gen-z-regelt-1406072",
+    "published": "Fri, 30 Oct 2026 13:40:57 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-30T14:17:45.711557",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5be94c4e440c",
+    "title": "Premiere: Generationenstreit auf der Bühne – Spielkreis Fritz Monreal lädt zu „Et Hätz schleiht em Veedel“",
+    "summary": "Drei Akte lang streiten sich Alt und Jung im Brunosaal über Fastnacht und Tradition. Henseler macht aus kölschen Gags lebendige Szenen.",
+    "link": "https://www.ksta.de/koeln/lindenthal/klettenberg/koeln-spielkreis-fritz-monreal-laedt-zu-et-haetz-schleiht-em-veedel-1403374",
+    "published": "Fri, 30 Oct 2026 13:00:53 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-30T14:17:45.711593",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ac4880f3a4a5",
+    "title": "Ausschließlich per Briefwahl: Wahl der Kölner Seniorenvertretung beginnt",
+    "summary": "Alle fünf Jahre wird in Köln die Seniorenvertretung gewählt. Teilnehmen können alle Bürgerinnen und Bürger ab 60 Jahren.",
+    "link": "https://www.ksta.de/koeln/koeln-wahl-der-seniorenvertretung-beginnt-1404533",
+    "published": "Fri, 30 Oct 2026 13:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-30T14:17:45.711608",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1eeff8ae47ad",
+    "title": "Arbeitsmarktbericht Oktober: Zahl der Arbeitslosen in Köln sinkt leicht",
+    "summary": "Die Arbeitslosenquote in NRW ist im Oktober leicht gefallen - auf 7,8 Prozent. Die Arbeitsagentur spricht zwar von einer Herbstbelebung. Einen richtigen Aufschwung sieht sie aber noch nicht.",
+    "link": "https://www.ksta.de/wirtschaft/arbeitsmarktbericht-oktober-zahl-der-arbeitslosen-in-koeln-sinkt-leicht-1406065",
+    "published": "Fri, 30 Oct 2026 12:33:27 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-30T14:17:45.711625",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5cb2f18bb898",
+    "title": "Dufte Idee aus Riehl: Kölner Start-up bringt Luxusdüfte in die Waschmaschine",
+    "summary": "Was wäre, wenn Reinigungs- und Waschmittel plötzlich wie ein edles, betörendes Parfum riechen? Aus dieser Idee entstand das junge Start-up Barron Cologne.",
+    "link": "https://www.ksta.de/koeln/nippes/riehl/koeln-riehler-start-up-bringt-luxusduefte-in-die-waschmaschine-1404148",
+    "published": "Fri, 30 Oct 2026 12:00:11 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-30T14:17:45.711640",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6606d47ccd14",
+    "title": "„Frauen-Ort“: Gedenktafel erinnert an Kölner Frauenrechtlerin Mathilde von Mevissen",
+    "summary": "Die Tafel ist Teil des Projekts Frauen-Orte NRW, das die Geschichte von bedeutenden Frauen im öffentlichen Raum sichtbar machen möchte.",
+    "link": "https://www.ksta.de/koeln/koelner-innenstadt/altstadt-nord/gedenktafel-erinnert-an-koelner-frauenrechtlerin-mathilde-von-mevissen-1404889",
+    "published": "Fri, 30 Oct 2026 12:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-30T14:17:45.711655",
+    "feed_kommunen": []
+  },
+  {
     "id": "57d0a954f881",
     "title": "Kampfmittel-Sondierung in Riehl",
     "summary": "30. Oktober 2026, 11:28Sozial-Betriebe Köln bereiten sich auf Teil-Evakuierung vor",
