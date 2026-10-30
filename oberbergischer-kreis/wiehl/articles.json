@@ -2684,5 +2684,20 @@
     "feed_kommunen": [
       "wiehl"
     ]
+  },
+  {
+    "id": "9eac3f0ff3f2",
+    "title": "Millimeterarbeit für kurze Wege",
+    "summary": "Neue Brücke an alter Stelle: Zwischen Brucher Straße und Wheelpark steht nun wieder der gewohnte kurze Weg zur Verfügung. Die Verbindung über die Wiehl ist jetzt offiziell freigegeben worden.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9595-millimeterarbeit-fuer-kurze-wege.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-30T11:17:10.529442",
+    "feed_kommunen": [
+      "wiehl"
+    ]
   }
 ]

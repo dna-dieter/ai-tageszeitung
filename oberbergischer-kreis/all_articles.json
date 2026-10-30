@@ -1,5 +1,44 @@
 [
   {
+    "id": "926f8c4da1f1",
+    "title": "Starke Reaktion auf 0:2-Rückstand",
+    "summary": "Oberberg - Staffel 2: Aufsteiger Agathaberg sorgt weiter für Furore und gewann auch das Nachholspiel gegen Overath-Vilkerath - 'Sportsbar Lutter' präsentiert die Kreisliga B.",
+    "link": "http://www.oberberg-aktuell.de/fussball/kreisliga-b---------a-139709",
+    "published": "Fri, 30 Oct 2026 10:50:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-30T11:17:08.761312",
+    "feed_kommunen": []
+  },
+  {
+    "id": "0c8ebf153024",
+    "title": "Seniorin erkennt Betrug gerade noch rechtzeitig",
+    "summary": "Gummersbach - Einer der Täter hatte sich als falscher Polizist bereits Zugang zu der Wohnung einer 84-Jährigen verschafft, doch eine Übergabe von Wertsachen fand nicht statt.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/seniorin-erkennt-betrug-gerade-noch-rechtzeitig-a-139744",
+    "published": "Fri, 30 Oct 2026 10:31:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-10-30T11:17:08.761497",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2e59b0a2b8fd",
+    "title": "Hückeswagen: Neuer Zebrastreifen an der Löwen-Grundschule",
+    "summary": "Hückeswagen: An der Buswendeschleife der Löwen-Grundschule gibt es einen neuen Zebrastreifen – wegen der neuen Fußwege am Freizeitbad.",
+    "link": "https://www.news-on-tour.de/317500/hueckeswagen-zebrastreifen/",
+    "published": "Fri, 30 Oct 2026 09:27:55 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-10-30T11:17:03.922012",
+    "feed_kommunen": []
+  },
+  {
     "id": "cb25bf993351",
     "title": "Oberberg: Arbeitslosigkeit sinkt – nur Bergneustadt legt zu",
     "summary": "In Oberberg sinkt die Zahl der Arbeitslosen im Oktober um 184 auf 8.953. Nur Bergneustadt meldet ein Plus. 512 neue Stellen kamen hinzu.",
@@ -7,7 +46,8 @@
     "published": "Fri, 30 Oct 2026 09:10:10 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "bergneustadt"
+      "bergneustadt",
+      "gummersbach"
     ],
     "fetched": "2026-10-30T10:17:08.313484",
     "feed_kommunen": []
@@ -51,21 +91,6 @@
     ],
     "fetched": "2026-10-30T09:17:09.140591",
     "feed_kommunen": []
-  },
-  {
-    "id": "8845ab9e8794",
-    "title": "Neuer Zebrastreifen an der Löwen-Grundschule eingerichtet",
-    "summary": "Sicherer Schulweg von der Hol- und Bringzone zur Grundschule",
-    "link": "https://www.hueckeswagen.de/portal/meldungen/neuer-zebrastreifen-an-der-loewen-grundschule-eingerichtet-900000727-37660.html?rubrik=900000002",
-    "published": "Fri, 30 Oct 2026 08:41:00 +0100",
-    "source": "Schloss-Stadt Hückeswagen (offiziell)",
-    "kommunen": [
-      "hueckeswagen"
-    ],
-    "fetched": "2026-10-30T09:17:17.072385",
-    "feed_kommunen": [
-      "hueckeswagen"
-    ]
   },
   {
     "id": "c4c678f72087",
@@ -40556,6 +40581,21 @@
       "wiehl"
     ],
     "fetched": "2026-10-29T11:17:28.380760",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "9eac3f0ff3f2",
+    "title": "Millimeterarbeit für kurze Wege",
+    "summary": "Neue Brücke an alter Stelle: Zwischen Brucher Straße und Wheelpark steht nun wieder der gewohnte kurze Weg zur Verfügung. Die Verbindung über die Wiehl ist jetzt offiziell freigegeben worden.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9595-millimeterarbeit-fuer-kurze-wege.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-10-30T11:17:10.529442",
     "feed_kommunen": [
       "wiehl"
     ]
