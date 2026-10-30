@@ -1,5 +1,76 @@
 [
   {
+    "id": "e6f01f75cedc",
+    "title": "Veranstaltungen im November 2026 in der Stadtbücherei Burscheid",
+    "summary": "Die Stadtbücherei Burscheid bietet ein abwechslungsreiches Veranstaltungsprogramm für unterschiedliche Altersgruppen und Interessen.",
+    "link": "https://www.burscheid.de/portal/meldungen/veranstaltungen-im-november-2026-in-der-stadtbuecherei-burscheid-900000712-40230.html?rubrik=900000001",
+    "published": "Fri, 30 Oct 2026 08:03:00 +0100",
+    "source": "Stadt Burscheid (offiziell)",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-10-30T08:16:14.132705",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
+    "id": "8b0d36fa94f6",
+    "title": "POL-RBK: Overath - Einbruch in Marialinden",
+    "summary": "Overath (ots) - Am frühen Freitagmorgen (30.10.) sind Unbekannte in ein Einfamilienhaus in Marialinden eingebrochen. Während die Bewohner schliefen, schlugen die Täter zu: Gegen 0:00 Uhr hatte sich die Bewohnerin noch im Haus in der Straße ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6380677",
+    "published": "Fri, 30 Oct 2026 07:44:40 +0100",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "overath"
+    ],
+    "fetched": "2026-10-30T08:16:06.589960",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5aa866c3ddd3",
+    "title": "POL-RBK: Overath - Werkzeug aus Handwerkerfahrzeug entwendet",
+    "summary": "Overath (ots) - Am Donnerstagmorgen (29.10.) meldete der Besitzer eines roten Opel Vivaro den Diebstahl mehrerer Werkzeuge aus seinem Transporter. Er hatte das Fahrzeug am Mittwoch (28.10.), gegen 19:20 Uhr, in einer Parkfläche am rechten ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6380670",
+    "published": "Fri, 30 Oct 2026 07:40:16 +0100",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "overath"
+    ],
+    "fetched": "2026-10-30T08:16:06.590157",
+    "feed_kommunen": []
+  },
+  {
+    "id": "34be33c37c51",
+    "title": "„Ich setze lieber auf Lösungen statt auf Klagen“",
+    "summary": "Die Fleischerei Daum & Eickhorn besteht am 1. November seit 125 Jahren. Vieles hat sich seitdem verändert. Geschäftsführer Gerrit Schneider hat Erfolg.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/ich-setze-lieber-auf-loesungen-statt-auf-klagen-DW6VFQVHUXIJ76MSXKAAB4SJ3E.html",
+    "published": "Fri, 30 Oct 2026 07:20:00 +0100",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-10-30T08:16:04.441260",
+    "feed_kommunen": [
+      "wermelskirchen"
+    ]
+  },
+  {
+    "id": "22718d8b35c6",
+    "title": "Fünf Tage ganz im Zeichen des Handballs",
+    "summary": "Intensive Trainingswoche in der Schwanenhalle beim WTV-Handballcamp.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/fuenf-tage-ganz-im-zeichen-des-handballs-UMPLU4OKNVWNEUUKLXVJMLXZWQ.html",
+    "published": "Fri, 30 Oct 2026 07:15:00 +0100",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-10-30T08:16:04.441348",
+    "feed_kommunen": [
+      "wermelskirchen"
+    ]
+  },
+  {
     "id": "9377b818e20e",
     "title": "\"Unser Leben ist die Manege\": Zirkusfamilie, die zu Gast in Wermelskirchen, ist erzählt aus ihrem Alltag",
     "summary": "Der Zirkus Sarelli gastiert wieder in Wermelskirchen. Am Freitag beginnen die Vorstellungen. Familie Bichlmaier gibt Einblicke in ihren Alltag. Was hat sich getan, seit sich voriges Jahr die Zirkustüren öffneten?",

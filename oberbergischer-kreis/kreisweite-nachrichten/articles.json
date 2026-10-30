@@ -1,5 +1,18 @@
 [
   {
+    "id": "4afc1526d6c2",
+    "title": "Vampir",
+    "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
+    "link": "http://www.oberberg-aktuell.de/foto-des-tages/vampir-a-139182",
+    "published": "Fri, 30 Oct 2026 08:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-30T08:17:19.769160",
+    "feed_kommunen": []
+  },
+  {
     "id": "a42be9e03c09",
     "title": "Oberberg: NGG fordert abschlagsfreie Rente nach 45 Beitragsjahren",
     "summary": "Im Oberbergischen Kreis gehen jährlich rund 2.450 Beschäftigte in Rente. Die NGG fordert die abschlagsfreie Rente nach 45 Beitragsjahren.",
