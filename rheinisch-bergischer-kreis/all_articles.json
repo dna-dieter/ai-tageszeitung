@@ -1,5 +1,20 @@
 [
   {
+    "id": "0af9dc5afe97",
+    "title": "FW-GL: Gemeinsam feiern im schönsten Beruf der Welt - Ein besonderer Tag für die Feuerwehr Bergisch Gladbach",
+    "summary": "Bergisch Gladbach (ots) - Über 100 Gäste bei feierlicher Ernennungs- und Zeugnisübergabe auf der Feuer- und Rettungswache 1 - Sechs neue Brandmeisteranwärter starten ihre Ausbildung - Feuerwehrleiter Jörg Köhler betont die besondere ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/116240/6381287",
+    "published": "Fri, 30 Oct 2026 16:09:45 +0100",
+    "source": "Presseportal Feuerwehr Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-30T17:16:09.861426",
+    "feed_kommunen": [
+      "bergisch-gladbach"
+    ]
+  },
+  {
     "id": "33974cfff633",
     "title": "Sexualisierte Gewalt im Jugendfußball: „Wir nehmen das Thema sehr ernst“",
     "summary": "Schutzkonzept, Führungszeugnisse, Verhaltenskodex: Fußballvereine aus der Region erklären, wie sie Kinder und Jugendliche in ihren Clubs schützen wollen.",
@@ -683,8 +698,7 @@
     "published": "Wed, 28 Oct 2026 17:31:03 +0100",
     "source": "Kölner Stadt-Anzeiger Rhein-Berg",
     "kommunen": [
-      "roesrath",
-      "kreisweite-nachrichten"
+      "roesrath"
     ],
     "fetched": "2026-10-28T19:16:00.515915",
     "feed_kommunen": []
