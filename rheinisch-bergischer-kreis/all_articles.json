@@ -1,5 +1,20 @@
 [
   {
+    "id": "b4453b25cb01",
+    "title": "Birkerhof am 5. November 2026 geschlossen",
+    "summary": "Wir bitten alle Bürgerinnen und Bürger um Verständnis.",
+    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52846",
+    "published": "2026-10-30 08:16:49",
+    "source": "Stadt Bergisch Gladbach (offiziell)",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-30T09:16:02.107140",
+    "feed_kommunen": [
+      "bergisch-gladbach"
+    ]
+  },
+  {
     "id": "e6f01f75cedc",
     "title": "Veranstaltungen im November 2026 in der Stadtbücherei Burscheid",
     "summary": "Die Stadtbücherei Burscheid bietet ein abwechslungsreiches Veranstaltungsprogramm für unterschiedliche Altersgruppen und Interessen.",
@@ -13,6 +28,19 @@
     "feed_kommunen": [
       "burscheid"
     ]
+  },
+  {
+    "id": "2cb020f36740",
+    "title": "POL-RBK: Bergisch Gladbach - Themenabend mit Podiumsdiskussion zur Gefahr der Loverboy-Masche",
+    "summary": "Bergisch Gladbach (ots) - Sie versprechen die große Liebe und werden dann der größte Albtraum. Loverboys nutzen das Vertrauen ihrer Opfer schamlos aus und führen sie in die Prostitution. Wie können sich jugendliche Mädchen vor dieser Gefahr ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6380682",
+    "published": "Fri, 30 Oct 2026 07:50:40 +0100",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-30T09:16:00.492816",
+    "feed_kommunen": []
   },
   {
     "id": "8b0d36fa94f6",
@@ -1908,8 +1936,7 @@
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
       "kuerten",
-      "odenthal",
-      "kreisweite-nachrichten"
+      "odenthal"
     ],
     "fetched": "2026-10-22T23:27:49.435505",
     "feed_kommunen": []

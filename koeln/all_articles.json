@@ -1,5 +1,31 @@
 [
   {
+    "id": "a1f88306fd1f",
+    "title": "Muezzinruf in Köln: Keine weiteren Anträge – Nur Ditib ruft zum Gebet",
+    "summary": "Seine Premiere war vor vier Jahren bundesweit ein Thema, doch schon kurz danach ebbte die Aufregung ab.",
+    "link": "https://www.ksta.de/koeln/ehrenfeld/muezzinruf-in-koeln-nur-ditib-ruft-zum-gebet-1403957",
+    "published": "Fri, 30 Oct 2026 08:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-30T09:17:44.207838",
+    "feed_kommunen": []
+  },
+  {
+    "id": "86214f005e25",
+    "title": "Uhrengeschäft in der Apostelnstraße: Wieder Schüsse in der Kölner Innenstadt",
+    "summary": "In der Kölner Innenstadt wurden erneut Schüsse auf ein Geschäft abgegeben. Die Polizei ist vor Ort.",
+    "link": "https://www.ksta.de/koeln/wieder-schuesse-in-koelner-innenstadt-1405869",
+    "published": "Fri, 30 Oct 2026 07:50:14 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-30T09:17:44.207862",
+    "feed_kommunen": []
+  },
+  {
     "id": "bd99ab0ad453",
     "title": "Protestkundegebungen der „GenZ“: Reul: keine Toleranz für „Lust auf Chaos“ in NRW",
     "summary": "Nordrhein-Westfalens Innenminister Reul ist bekannt für klare Ansagen. Kurz vor den Protestkundegebungen der „Generation Z“ hat er noch eine Halloween-Botschaft für potenzielle Krawallmacher.",
@@ -49,6 +75,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-30T05:17:25.700581",
+    "feed_kommunen": []
+  },
+  {
+    "id": "fe24deb0b7f0",
+    "title": "Anklage in Köln erhoben: Junger Uber-Kunde verwechselt das Auto und wird totgeschlagen",
+    "summary": "Die Fahrerin fühlte sich belästigt und rief ihren Ehemann. Der muss sich bald vor Gericht verantworten.",
+    "link": "https://www.ksta.de/koeln/koelner-anklage-uber-kunde-verwechselt-das-auto-und-wird-totgeschlagen-1405594",
+    "published": "Fri, 30 Oct 2026 05:03:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-30T09:17:44.207900",
     "feed_kommunen": []
   },
   {
