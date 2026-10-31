@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Halloween entgruselt",
-    "datum": "31. Okt 2026",
-    "datum_raw": "2026-10-31T09:00:00+01:00",
-    "ort": "Affen- und Vogelpark, Am Bromberg, 51580 Reichshof",
-    "preis": "ab 20 €",
-    "link": "https://affen-und-vogelpark.de/neues-aus-dem-park/",
-    "quelle": "Das Bergische",
-    "teaser": "An vier Wochenenden im Herbst 2026 wird’s im Park geheimnisvoll – aber nie zu angsteinflößend: Du schnitzt Kürbisse, folgst verwinkelten Wegen, lauschst den Geschichten der Hexe und sagst mit der Fackel den Eulen und Pol"
-  },
-  {
     "titel": "Panarbora Geisterpark",
     "datum": "31. Okt 2026",
     "datum_raw": "2026-10-31T11:00:00+02:00",
@@ -98,6 +88,16 @@
     "link": "http://www.aggertalhoehle.de/main/home/informationen/oeffnungszeiten",
     "quelle": "Das Bergische",
     "teaser": "Die Aggertalhöhle ist vom 1. April bis einschließlich 1. November jeweils von Donnerstag bis Sonntag und an gesetzlichen Feiertagen geöffnet. Unter dem Titel »Erster Einblick« starten Führungen jeweils um 10.00, 11.15, 1"
+  },
+  {
+    "titel": "Halloween entgruselt",
+    "datum": "1. Nov 2026",
+    "datum_raw": "2026-11-01T09:00:00+01:00",
+    "ort": "Affen- und Vogelpark, Am Bromberg, 51580 Reichshof",
+    "preis": "ab 20 €",
+    "link": "https://affen-und-vogelpark.de/neues-aus-dem-park/",
+    "quelle": "Das Bergische",
+    "teaser": "An vier Wochenenden im Herbst 2026 wird’s im Park geheimnisvoll – aber nie zu angsteinflößend: Du schnitzt Kürbisse, folgst verwinkelten Wegen, lauschst den Geschichten der Hexe und sagst mit der Fackel den Eulen und Pol"
   },
   {
     "titel": "Panoramarunde Wildbergerhütte – Eine oberbergische  Genusswanderung",
