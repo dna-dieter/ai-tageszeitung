@@ -1,35 +1,5 @@
 [
   {
-    "titel": "ZUNFT Halloween Party 2026 in der Erzquell Brauerei",
-    "datum": "31. Okt 2026",
-    "datum_raw": "2026-10-31T18:00:00+01:00",
-    "ort": "Erzquell Brauerei, Bielsteiner Straße 108, 51674 Wiehl",
-    "preis": "ab 5 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Es wird wieder gruselig in der Erzquell Brauerei! Am Samstag, den 31. Oktober 2026, lädt die Brauerei zur ZUNFT Halloween Party ein. Gefeiert wird dort, wo jedes Jahr die legendäre Rosenmontagsparty steigt: in der bekann"
-  },
-  {
-    "titel": "Nachts im Museum",
-    "datum": "31. Okt 2026",
-    "datum_raw": "2026-10-31T18:00:00+01:00",
-    "ort": "Heimatmuseum Bergneustadt, Wallstraße 1, 51702 Bergneustadt",
-    "preis": "ab 7 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Eine Taschenlampenführung für Erwachsene und Kinder ab acht Jahren durch das finstere Museum mit Hubertus Dan. Ein besonderes Erlebnis, das man nicht verpassen sollte! Mehr Informationen und Anmeldung im Heimatmuseum Ber"
-  },
-  {
-    "titel": "Herbstkonzert des Musikkreises Holpe e.V.",
-    "datum": "31. Okt 2026",
-    "datum_raw": "2026-10-31T19:30:00+01:00",
-    "ort": "Kulturstätte, Hahner Straße, 51597 Morsbach",
-    "preis": "ab 12 €",
-    "link": "https://www.musikkreis-holpe.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Es ist wieder soweit und unser alljährliches Herbstkonzert steht an und vielleicht wird es diesmal auch ein kleines bisschen unheimlich. Kommt vorbei, lehnt euch zurück und genießt einen musikalischen Abend zwischen Gäns"
-  },
-  {
     "titel": "Führung in der Aggertalhöhle",
     "datum": "1. Nov 2026",
     "datum_raw": "2026-11-01T00:00:00+02:00",
@@ -538,5 +508,185 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Am Sonntag, 29. November um 17.00 Uhr spielen Giorgi Khupenia und Shuri Soga Werke von Carl Philipp Emanuel Bach, Carl Reinecke, Frank Martin und Charles-Marie Widor im Ratssaal der Gemeinde Engelskirchen. Giorgi Khupeni"
+  },
+  {
+    "titel": "Weihnachts- und Balladenkonzert mit Werner Weimar & Harald Horn",
+    "datum": "4. Dez 2026",
+    "datum_raw": "2026-12-04T19:30:00+01:00",
+    "ort": "Döörper Treff, Hochstraße 34, 51545 Waldbröl",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Werner Weimar und Harald Horn, Weihnachtsprogramm Die Musiker bieten eine Weihnachts- und Balladenprogramm mit kraftvoller Stimme, virtuosem Piano und einer gewaltigen Portion Spielfreude zum Mitsingen. Hutkonzert."
+  },
+  {
+    "titel": "Nikolaus, Waffelduft und warme Getränke",
+    "datum": "5. Dez 2026",
+    "datum_raw": "2026-12-05T11:00:00+01:00",
+    "ort": "Hofladen Ülfetal, III. Ülfe 1, 42477 Radevormwald",
+    "preis": "",
+    "link": "http://www.hofladen-uelfetal.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Am 5. Dezember wird es weihnachtlich im Ülfetal: Der Nikolaus schaut vorbei und bringt gemütliche Stimmung für Groß und Klein mit. Dazu gibt es leckeren Waffelduft und warme Getränke – perfekt für eine kleine Adventspaus"
+  },
+  {
+    "titel": "Wintermarkt im Dörspetal",
+    "datum": "5. Dez 2026",
+    "datum_raw": "2026-12-05T14:00:00+01:00",
+    "ort": "Waldheim Dörspetal, An der Dörspe 22, 51702 Bergneustadt",
+    "preis": "",
+    "link": "https://www.waldheim-doerspetal.de/veranstaltungen/wintermarkt261205",
+    "quelle": "Das Bergische",
+    "teaser": "Am zweiten Adventswochenende öffnen wir die Türen unseres Wintermarkt im Waldheim Dörspetal. Freuen Sie sich auf Honig, Marmeladen, Schmuck, Keramik, winterliche Dekoration, Holzarbeiten und vieles mehr – liebevoll gefer"
+  },
+  {
+    "titel": "Nikolausmarkt in Holpe",
+    "datum": "5. Dez 2026",
+    "datum_raw": "2026-12-05T15:00:00+01:00",
+    "ort": "Fritz-Wingen-Platz, 51597 Morsbach",
+    "preis": "",
+    "link": "http://heimatverein-holpe.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Der Nikolausmarkt in Holpe findet, wie immer, am Fritz-Wingen-Platz/Schulhof und im ev. Gemeindehaus statt. Die Bewirtung erfolgt durch die Holper Vereine (Löschgruppe, SG Holpe-Wallerhausen, Heimatverein), sowie Kaffee "
+  },
+  {
+    "titel": "5. jecker Weihnachtsmarkt in Morsbach",
+    "datum": "5. Dez 2026",
+    "datum_raw": "2026-12-05T16:00:00+01:00",
+    "ort": "Kulturbahnhof, Bahnhofstraße 40, 51597 Morsbach",
+    "preis": "",
+    "link": "https://www.instagram.com/kgmorsbach/?hl=de",
+    "quelle": "Das Bergische",
+    "teaser": "Wie gewohnt erwarten euch weihnachtliche Köstlichkeiten, hübsche Kleinigkeiten und natürlich unsere Tombola. 🎁✨ Wir freuen uns schon jetzt auf die weihnachtliche Stimmung am Kulturbahnhof und die besondere Atmosphäre. ✨🎄"
+  },
+  {
+    "titel": "SSV Weihnachtsmarkt",
+    "datum": "5. Dez 2026",
+    "datum_raw": "2026-12-05T18:00:00+01:00",
+    "ort": "Weller Ranch, Welper Siefen 1, 51580 Reichshof",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Weihnachstmarkt, verschiedene Essensstände sowie Getränkestände mit Glühwein. Auch findet jeweils eine Tombola mit tollen Preisen statt."
+  },
+  {
+    "titel": "Schmiedevorführung im Museum Achse, Rad und Wagen",
+    "datum": "6. Dez 2026",
+    "datum_raw": "2026-12-06T13:00:00+01:00",
+    "ort": "Museum Achse, Rad und Wagen, Ohlerhammer, 51674 Wiehl",
+    "preis": "",
+    "link": "https://www.achseradwagen.de/index.php?id=3",
+    "quelle": "Das Bergische",
+    "teaser": "Im Museum findet eine Schmiedevorführung statt."
+  },
+  {
+    "titel": "Nümbrechter Budenzauber ",
+    "datum": "11. Dez 2026",
+    "datum_raw": "2026-12-11T00:00:00+01:00",
+    "ort": "Dorfplatz, 51588 Nümbrecht",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Der Budenzauber findet am Samstag von 13:00 – 22:00 Uhr und am Sonntag von 11:00 – 18:00 Uhr statt. Veranstalter: Gemeinde Nümbrecht und örtliche Vereine/ Gastronomie Veranstaltungsort: Nümbrecht (Dorfplatz)"
+  },
+  {
+    "titel": "Weihnachtskarten gestalten mit Linoldruck",
+    "datum": "11. Dez 2026",
+    "datum_raw": "2026-12-11T11:00:00+01:00",
+    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
+    "preis": "ab 35 €",
+    "link": "http://www.schloss-homburg.de/cms200schloss/veranstaltung/weihnachtskarten-gestalten-mit-linoldruck/index.shtml.de",
+    "quelle": "Das Bergische",
+    "teaser": "In diesem Workshop gestalten wir eigene Weihnachtskarten im Linoldruck. Am ersten Tag werden die Grundkenntnisse und verschiedene Möglichkeiten vermittelt, Motive auf die Druckplatte zu übertragen. Jeder kann ein eigenes"
+  },
+  {
+    "titel": "Weihnachtsmarkt Radevormwald",
+    "datum": "11. Dez 2026",
+    "datum_raw": "2026-12-11T14:00:00+01:00",
+    "ort": "Marktplatz Radevormwald, Markt 1, 42477 Radevormwald",
+    "preis": "",
+    "link": "https://wirtschaftsfoerderung-radevormwald.de/veranstaltungskalender/",
+    "quelle": "Das Bergische",
+    "teaser": "In der Innenstadt von Radevormwald findet wieder der traditionelle Weihnachtsmarkt statt. Vereine sowie Händlerinnen und Händler bieten unter anderem Liköre, diverse kreative Heißgetränke, Punsch- und Glühweinvariationen"
+  },
+  {
+    "titel": "Die gemütliche Kurzstrecke",
+    "datum": "11. Dez 2026",
+    "datum_raw": "2026-12-11T14:00:00+01:00",
+    "ort": "Eissporthalle Wiehl, Mühlenstraße 23, 51674 Wiehl",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "einfache Wege, ca. 4-5 km Schlusseinkehr: möglich Veranstalter: SGV Abteilung Homburger Land Treffpunkt: 14:00 Uhr Wiehl, Parkplatz Vorderbereich Eissporthalle Wanderführer: Rosemarie Romboy"
+  },
+  {
+    "titel": "Fackelwanderung mit Schnitzeljagd",
+    "datum": "11. Dez 2026",
+    "datum_raw": "2026-12-11T16:45:00+01:00",
+    "ort": "Kur- & Touristinfo Reichshof, Reichshofstraße 30, 51580 Reichshof",
+    "preis": "",
+    "link": "http://www.reichshof.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Die Kinder erwartet eine spannende Fackelwanderung mit Schnitzeljagd. Anschließend wird die Weihnachtsgeschichte gelesen und es gibt wärmenden Punsch und Spekulatius. Wanderführerin: Jasmin Kostrzewa Treffpunkt: Kur- & T"
+  },
+  {
+    "titel": "Unheimlich besinnlich! Lichterwanderung im Schlosswald",
+    "datum": "11. Dez 2026",
+    "datum_raw": "2026-12-11T17:00:00+01:00",
+    "ort": "Biologische Station Oberberg, Rotes Haus/Schloss Homburg 2, 51588 Nümbrecht",
+    "preis": "ab 10 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Kleine Lichter weisen den Weg durch den winterlichen Wald am Schloss Homburg. Alleine oder in kleinen Gruppen wandern wir ca. 2,5 km ohne Fackel oder Taschenlampe durch die Dunkelheit und erleben den Wald einmal ganz and"
+  },
+  {
+    "titel": "Hovesmeute, Celtic-Folk-Rock",
+    "datum": "11. Dez 2026",
+    "datum_raw": "2026-12-11T19:30:00+01:00",
+    "ort": "Döörper Treff, Hochstraße 34, 51545 Waldbröl",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "„Hovesmeute“ sind eine moderne Celtic-Folk-Rock-Band. Die Musik stammt aus den Ländern mit keltischen Wurzeln, wie beispielsweise aus Irland, Schottland oder der Bretagne. Traditionelle Rauf- und Sauflieder, Balladen und"
+  },
+  {
+    "titel": "Kleiner Weihnachtsmarkt in Eiershagen",
+    "datum": "12. Dez 2026",
+    "datum_raw": "2026-12-12T10:00:00+01:00",
+    "ort": "Gabriele und Jürgen Dehler, Eiershagener Berg 1, 51580 Reichshof",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Holzkunstwerke, Bastelarbeiten, Alpakaprodukte, Honig und Wachsprodukte, Bratwurst und Reibekuchen, Waffeln, Weihnachtsbäume, Tannengrün und mehr Grundstück und WC sind barrierefrei. Eintritt frei."
+  },
+  {
+    "titel": "Hof-Weihnacht und Adventszauber auf dem Biohof Klein",
+    "datum": "12. Dez 2026",
+    "datum_raw": "2026-12-12T11:00:00+01:00",
+    "ort": "Biohof Klein Zimmerseifen, Am Eichenholz 8, 51580 Reichshof",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Kulinarische Weihnachtsleckereien, handgefertigte Arbeiten, Hofbesichtigung, Tiere hautnah erleben, Strohrutsche und Stockbrot für Kinder, Live-Musik mit regionalen Bands, Weihnachtsbaumverkauf ...an Feuertonnen, mit Lec"
+  },
+  {
+    "titel": "Advent im Museum",
+    "datum": "13. Dez 2026",
+    "datum_raw": "2026-12-13T10:00:00+01:00",
+    "ort": "LVR-Freilichtmuseum Lindlar, Heiligenhoven 16a, 51789 Lindlar",
+    "preis": "ab 10 €",
+    "link": "https://freilichtmuseum-lindlar.lvr.de/de/veranstaltungen/jahresprogramm/advent_im_museum/advent_im_museum.html",
+    "quelle": "Das Bergische",
+    "teaser": "Erleben Sie das Museumsgelände und die historischen Gebäude in vorweihnachtlicher Stimmung. Der Duft von frisch gebackenen Spekulatius, Plätzchen und Lebkuchen liegt in der Luft. Musikgruppen, Märchenerzählerinnen, Handw"
+  },
+  {
+    "titel": "Weihnachtszauber für die ganze Familie",
+    "datum": "13. Dez 2026",
+    "datum_raw": "2026-12-13T17:00:00+01:00",
+    "ort": "Pferdehof Mildsiefen, Mildsiefen 11, 51588 Nümbrecht",
+    "preis": "ab 10 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Am 3. Advent wird es magisch. Der Pferdehof Mildsiefen taucht in ein glitzerndes Lichterparadies ein und lädt zu einem zauberhaften Weihnachtserlebnis ein – perfekt für kleine und große Weihnachtsfans. Erleben Sie einen "
   }
 ]

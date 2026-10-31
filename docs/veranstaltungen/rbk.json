@@ -1,25 +1,5 @@
 [
   {
-    "titel": "Halloween-Gruselfahrt mit dem Planwagen",
-    "datum": "31. Okt 2026",
-    "datum_raw": "2026-10-31T18:00:00+01:00",
-    "ort": "Bechen Esel, Odenthaler Straße 2b, 51515 Kürten",
-    "preis": "ab 25 €",
-    "link": "https://www.wolles-eventfahrten.de/product/23950821/halloween-gruselfahrt-31-10-2026",
-    "quelle": "Das Bergische",
-    "teaser": "Familienfreundliche Halloween-Gruselfahrt mit dem Planwagen durchs Bergische am 31.10.2026, 18:00–20:00 Uhr. Start: Bechen „Am Esel“. Snacks und Getränke inklusive. Kinder bis einschließlich 12 Jahre: 12 €; Erwachsene un"
-  },
-  {
-    "titel": "Bergische Genusstage - Café & Restaurant Rausmühle",
-    "datum": "31. Okt 2026",
-    "datum_raw": "2026-10-31T18:30:00+01:00",
-    "ort": "Café und Restaurant Rausmühle, Rausmühle 1, 42929 Wermelskirchen",
-    "preis": "ab 149 €",
-    "link": "https://www.bergische-genusstage.de/programm/",
-    "quelle": "Das Bergische",
-    "teaser": "Inhaber und Küchenchef Matjaz Ackun hat eine klare Philospohie: unsere Küche ist echtes Handwerk mit Respekt vor den Jahreszeiten und den Produkten, die sie hervorbringen. Regionalität, Saisonalität und hochwertige Zutat"
-  },
-  {
     "titel": "Bergische Genusstage - Altenberger Hof",
     "datum": "1. Nov 2026",
     "datum_raw": "2026-11-01T12:00:00+01:00",
@@ -568,5 +548,215 @@
     "link": "https://www.nelson-mueller.de/blogs/kulinarischer-kalender/jazz-in-der-muhle-23-11-und-21-12-25-mullers-in-der-muhle",
     "quelle": "Das Bergische",
     "teaser": "Der Abend beginnt stets mit Einlass um 18:00 Uhr im Konrad-Adenauer-Saal der Mühle, das 3-gängige Menü startet gegen 18:30 Uhr, das Programm startet in der Regel gegen 21:00 Uhr. Die Veranstaltung endet gegen 23:00 Uhr. "
+  },
+  {
+    "titel": "Altenberger Adventsmarkt 2026",
+    "datum": "4. Dez 2026",
+    "datum_raw": "2026-12-04T16:00:00+01:00",
+    "ort": "Altenberger Dom, Eugen-Heinen-Platz 2, 51519 Odenthal",
+    "preis": "",
+    "link": "http://www.odenthal-altenberg.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Vom 4. bis 6. Dezember lädt der Verschönerungs- und Kulturverein Altenberg auch in diesem Jahr zu einem Besuch auf dem Altenberger Adventsmarkt ein. Der Duft von Glühwein und Lebkuchen, weihnachtlich dekorierte Buden und"
+  },
+  {
+    "titel": "Planwagentour & Wine – zwei Partner, ein besonderes Erlebnis",
+    "datum": "4. Dez 2026",
+    "datum_raw": "2026-12-04T17:00:00+01:00",
+    "ort": "Weinhandel Kork & Kante, Kölner Str. 382, 51515 Kürten",
+    "preis": "ab 59 €",
+    "link": "https://www.wolles-eventfahrten.de/planwagenfahrt/planwagenfahrt-wein-tasting",
+    "quelle": "Das Bergische",
+    "teaser": "Am 4. und 11. Dezember 2026 startet die Planwagentour beim Kork & Kante Weinhandel in Bechen. Für beide Termine sind aktuell noch Plätze verfügbar. Bei diesem gemeinsamen Angebot von Wolle’s Eventfahrten und Kork & Kante"
+  },
+  {
+    "titel": "Krimidinner: Heiter rieselt der Tod",
+    "datum": "4. Dez 2026",
+    "datum_raw": "2026-12-04T19:30:00+01:00",
+    "ort": "Herzogenhof Odenthal, Altenberger-Dom-Straße 23, 51519 Odenthal",
+    "preis": "ab 89 €",
+    "link": "https://krimilokal-lokalkrimi.de/event/heiter-rieselt-der-tod-52/",
+    "quelle": "Das Bergische",
+    "teaser": "Weihnachtszeit: Glühwein und Plätzchenduft, Tannengrün und leuchtende Kerzen. Alle Jahre wieder steht Weihnachten ins Haus. Das Fest der Liebe. Aber was ist das? Statt Liebe gibt es nur Stress. Die Menschen hetzen schnel"
+  },
+  {
+    "titel": "Andreas Rebers",
+    "datum": "4. Dez 2026",
+    "datum_raw": "2026-12-04T20:00:00+01:00",
+    "ort": "Wirtshaus am Bock GmbH, Konrad-Adenauer-Platz 2, 51465 Bergisch Gladbach",
+    "preis": "ab 25 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Am Freitag, den 04.12.2026, endet die Kabarettreihe der IGP im Exil mit dem Andreas Rebers und seinem Programm „rein geschäftlich - Bilanz“. Was ist das Leben? Zufall? Witz, oder eben doch nur ein Geschäft? Um diese Frag"
+  },
+  {
+    "titel": "“Kölsche Weihnacht” mit Paveier & Freunde",
+    "datum": "8. Dez 2026",
+    "datum_raw": "2026-12-08T19:30:00+01:00",
+    "ort": "Bürgerhaus Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach",
+    "preis": "ab 40 €",
+    "link": "https://www.puetz-roth.de/veranstaltung/koelsche-weihnacht-mit-paveier-freunde-3/",
+    "quelle": "Das Bergische",
+    "teaser": "Wir haben wieder unser “Wohnzimmer” erweitert: Um möglichst vielen von Ihnen den Besuch dieses Weihnachtskonzerts in besonderem Ambiente zu ermöglichen, findet es zum sechsten Mal in dem von uns weihnachtlich geschmückte"
+  },
+  {
+    "titel": "Kölsche Weihnacht",
+    "datum": "9. Dez 2026",
+    "datum_raw": "2026-12-09T19:30:00+01:00",
+    "ort": "Bürgerhaus Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach",
+    "preis": "ab 46 €",
+    "link": "https://www.bergischerloewe.de/programmdetails.aspx?vid=001999f9-a324-498e-9a1d-a2391e5a9034&datum=09.12.2026",
+    "quelle": "Das Bergische",
+    "teaser": "Mit ihrer Konzertreihe „Kölsche Weihnacht – Paveier & Freunde“ sorgen sie für festliche Stimmung und ein unvergessliches vorweihnachtliches Erlebnis."
+  },
+  {
+    "titel": "Schloss Bensberg \"Unikat\" - Weihnachtsmarkt  ",
+    "datum": "10. Dez 2026",
+    "datum_raw": "2026-12-10T18:00:00+01:00",
+    "ort": "Grandhotel Schloss Bensberg, Kadettenstraße, 51429 Bergisch Gladbach",
+    "preis": "ab 14 €",
+    "link": "https://www.althoffcollection.com/de/althoff-grandhotel-schloss-bensberg/events/unikat-weihnachtsmarkt",
+    "quelle": "Das Bergische",
+    "teaser": "Erlebe den Zauber der Vorweihnachtszeit auf einem der stimmungsvollsten Weihnachtsmärkte Deutschlands – vor der prachtvollen Kulisse von Schloss Bensberg! Lasse Dich inspirieren von hochwertigem Kunsthandwerk, liebevoll "
+  },
+  {
+    "titel": "Ferdinand Linzenich: Lesung zu Weihnachten",
+    "datum": "10. Dez 2026",
+    "datum_raw": "2026-12-10T19:30:00+01:00",
+    "ort": "Bürgerhaus Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach",
+    "preis": "ab 19 €",
+    "link": "https://www.bergischerloewe.de/programmdetails.aspx?vid=052c7f78-51db-4f00-b42f-dd57fb28a2a4&datum=10.12.2026",
+    "quelle": "Das Bergische",
+    "teaser": "Wenn genervte Verkäuferinnen nur noch zetern „Das kommt erst wieder im neuen Jahr rein!“, wenn grün benadeltes Bruchholz zu Preisen gehandelt wird wie sonst nur Orchideen und auf zentralen Marktplätzen deutscher Städte d"
+  },
+  {
+    "titel": "Comedian Harmonists: Die Weihnachtsshow - Hell ist die Nacht",
+    "datum": "11. Dez 2026",
+    "datum_raw": "2026-12-11T20:00:00+01:00",
+    "ort": "Bürgerhaus Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach",
+    "preis": "ab 43 €",
+    "link": "https://www.bergischerloewe.de/programmdetails.aspx?vid=e072a94e-b1da-4dda-8edd-25fdac5612b5&datum=11.12.2026",
+    "quelle": "Das Bergische",
+    "teaser": "The Real Comedien Harmonists stimmen mit „Hell ist die Nacht“ musikalisch auf Weihnachten ein. In der besinnlichen Vorweihnachtszeit setzen The Real Comedian Harmonists festliche Glanzlichter auf die Bühne. Nach ihrer er"
+  },
+  {
+    "titel": "GLÜHWEIN-Wanderung",
+    "datum": "12. Dez 2026",
+    "datum_raw": "2026-12-12T12:00:00+01:00",
+    "ort": "St. Antonius Einsiedler, Odenthaler Straße 3, 51515 Kürten",
+    "preis": "ab 40 €",
+    "link": "https://korkundkante.de/products/gluhwein-wanderung-am-12-12-2026-in-bechen",
+    "quelle": "Das Bergische",
+    "teaser": "Kork & Kante laden Sie zu einer gemütlichen kleinen Wanderung durch die Adventszeit ein. Startend wieder an der Kirche ( Odenthaler Str. 3 in 51515 Kürten Bechen ) Entlang der Strecke warten Überraschungen und andere „Tr"
+  },
+  {
+    "titel": "Merry Christmaus",
+    "datum": "12. Dez 2026",
+    "datum_raw": "2026-12-12T19:30:00+01:00",
+    "ort": "Bürgerhaus Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach",
+    "preis": "ab 38 €",
+    "link": "http://www.bergischerloewe.de/programmdetails.aspx?vid=b98a3f77-bf9d-44ce-86c7-d74de8a2e80c&datum=12.12.2026",
+    "quelle": "Das Bergische",
+    "teaser": "Der Weihnachtsklasssiker der Springmaus ist die perfekte Einstimmung auf die festlichen Tage. Die deutschlandweit bekannteste Improvisationstheatergruppe Springmaus ist seit 1983 mit verschiedenen Live-Programmen in ganz"
+  },
+  {
+    "titel": "Der Schöllerhoftrail – (Am) Wasserwandern zwischen Eifgenbach und Dhünn",
+    "datum": "13. Dez 2026",
+    "datum_raw": "2026-12-13T10:30:00+01:00",
+    "ort": "Wanderparkplatz Schöllerhof, Altenberger-Dom-Straße, 51519 Odenthal",
+    "preis": "ab 16 €",
+    "link": "https://weggefaehrte.com/2026/08/25/der-schoellerhoftrail-auf-stillen-pfaden-entlang-von-eifgenbach-und-dhuenn/",
+    "quelle": "Das Bergische",
+    "teaser": "Das Eifgenbachtal zählt völlig zu Recht zu den absoluten Glanzstücken im Bergischen Land. Mit seinem verwunschenen Charme und lauschigen Waldpfaden zieht uns das wunderschöne Bachtal nahe Altenberg sofort in seinen Bann."
+  },
+  {
+    "titel": "Kinderkonzertreihe „Zauberschloss Bensberg“: Der Froschkönig",
+    "datum": "13. Dez 2026",
+    "datum_raw": "2026-12-13T14:00:00+01:00",
+    "ort": "Grandhotel Schloss Bensberg, Kadettenstraße, 51429 Bergisch Gladbach",
+    "preis": "ab 29 €",
+    "link": "https://www.althoffcollection.com/de/althoff-grandhotel-schloss-bensberg/schloss-events/der-froschkoenig-ein-musikalisches-maerchen",
+    "quelle": "Das Bergische",
+    "teaser": "Am 3. Advent eröffnet das Zauberschloss Bensberg wieder seine Tore für junge Musikliebhaber und lädt zu einer magischen Reise in die Welt vom Froschkönig ein. Die spannende Geschichte wird von der schönen klassischen Mus"
+  },
+  {
+    "titel": "Der kleine Drache Kokosnuss reist um die Welt",
+    "datum": "13. Dez 2026",
+    "datum_raw": "2026-12-13T14:30:00+01:00",
+    "ort": "Bürgerhaus Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach",
+    "preis": "ab 35 €",
+    "link": "https://www.bergischerloewe.de/programmdetails.aspx?vid=e689ace4-cdec-45c8-bb5a-e4831c019bb2&datum=13.12.2026",
+    "quelle": "Das Bergische",
+    "teaser": "Mit dem Original-Hörbuch-Sprecher Philipp Schepmann. Das Hörbuch szenisch gelesen und gespielt."
+  },
+  {
+    "titel": "Jazz in der Mühle \"Swinging Christmas\" mit der Indigo JazzLounge",
+    "datum": "20. Dez 2026",
+    "datum_raw": "2026-12-20T18:00:00+01:00",
+    "ort": "Relais & Châteaux Hotel Diepeschrather Mühle, Diepeschrath 2-6, 51469 Bergisch Gladbach",
+    "preis": "ab 109 €",
+    "link": "https://www.nelson-mueller.de/blogs/kulinarischer-kalender/jazz-in-der-muhle-23-11-und-21-12-25-mullers-in-der-muhle",
+    "quelle": "Das Bergische",
+    "teaser": "Der Abend beginnt stets mit Einlass um 18:00 Uhr im Konrad-Adenauer-Saal der Mühle, das 3-gängige Menü startet gegen 18:30 Uhr, das Programm startet in der Regel gegen 21:00 Uhr. Die Veranstaltung endet gegen 23:00 Uhr. "
+  },
+  {
+    "titel": "Natale Italiano - Weihnachten zwischen Dolce Vita und Pop",
+    "datum": "25. Dez 2026",
+    "datum_raw": "2026-12-25T18:00:00+01:00",
+    "ort": "Grandhotel Schloss Bensberg, Kadettenstraße, 51429 Bergisch Gladbach",
+    "preis": "ab 269 €",
+    "link": "https://www.althoffcollection.com/de/althoff-grandhotel-schloss-bensberg/angebote/saisonale-angebote/weihnachten/1-weihnachtsfeiertag",
+    "quelle": "Das Bergische",
+    "teaser": "Erlebe einen besonderen Weihnachtsabend voller Rhythmus, Genuss & festlichem Weihnachtszauber! Der gebürtige Italiener Joyello begeistert mit seiner unverwechselbaren Stimme, seiner Bühnenpräsenz und einem Repertoire, da"
+  },
+  {
+    "titel": "Tea & Elegance im Jan Wellem",
+    "datum": "27. Dez 2026",
+    "datum_raw": "2026-12-27T15:00:00+01:00",
+    "ort": "Grandhotel Schloss Bensberg, Kadettenstraße, 51429 Bergisch Gladbach",
+    "preis": "ab 59 €",
+    "link": "https://www.althoffcollection.com/de/althoff-grandhotel-schloss-bensberg/restaurants-und-bars/schlossrestaurant-jan-wellem/tea-elegance-im-jan-wellem",
+    "quelle": "Das Bergische",
+    "teaser": "Der besondere Afternoon Tea am Sonntagnachmittag im Restaurant Jan Wellem. Wir laden Sie in das Restaurant Jan Wellem zu einem stilvollen Nachmittag voller Genuss, Eleganz und kulinarischer Raffinesse ein. Ganz im Geiste"
+  },
+  {
+    "titel": "ZENsation",
+    "datum": "29. Dez 2026",
+    "datum_raw": "2026-12-29T15:00:00+01:00",
+    "ort": "Bürgerhaus Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach",
+    "preis": "",
+    "link": "https://www.bergischerloewe.de/programmdetails.aspx?vid=91dce64e-1c24-4320-ba08-f7ed93255b0e&datum=29.12.2026",
+    "quelle": "Das Bergische",
+    "teaser": "Ein Handstand ist hier nicht nur ein Act – er ist ein Zustand der totalen Balance und Identifikation mit dem Sein. Mit der Show „ZENsation“ kehrt der Chinesische Nationalcircus zu seinen Wurzeln zurück: poetisch, philoso"
+  },
+  {
+    "titel": "Casinonacht im Altenberger Hof",
+    "datum": "31. Dez 2026",
+    "datum_raw": "2026-12-31T00:00:00+01:00",
+    "ort": "Altenberger Hof, Eugen-Heinen-Platz 7, 51519 Odenthal",
+    "preis": "ab 239 €",
+    "link": "https://altenberger-hof.de/31-12-2026-casinonacht-im-altenberger-hof/",
+    "quelle": "Das Bergische",
+    "teaser": "Gönnen Sie sich eine Nacht voller Spannung, Glamour und Spitzenservice: Unsere Casinonacht verwandelt das Hotel in eine erstklassige Spielstätte. Erleben Sie echte Casino-Atmosphäre mit professionellen Croupiers an Poker"
+  },
+  {
+    "titel": "Silvesterkonzert der Berliner Philharmoniker",
+    "datum": "31. Dez 2026",
+    "datum_raw": "2026-12-31T17:00:00+01:00",
+    "ort": "Cineplex Bensberg, Schlossstr. 46-48, 51429 Bergisch Gladbach",
+    "preis": "",
+    "link": "https://www.cineplex.de/bergisch-gladbach/film/2026-silvesterkonzert-der-berliner-philharmoniker-F0241000012FWBXJYB",
+    "quelle": "Das Bergische",
+    "teaser": "Kann »ernste Musik« humorvoll sein? Unbedingt! Das zeigen die Berliner Philharmoniker und Chefdirigent Kirill Petrenko im Silvesterkonzert 2026: In seiner spritzigen Symphonie classique parodiert Sergej Prokofjew die Mus"
+  },
+  {
+    "titel": "Musikalischer Jahresausklang",
+    "datum": "31. Dez 2026",
+    "datum_raw": "2026-12-31T17:00:00+01:00",
+    "ort": "Bürgerhaus Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach",
+    "preis": "ab 45 €",
+    "link": "http://www.bergischerloewe.de/programmdetails.aspx?vid=0348fae4-afe2-4919-8053-a9e550556d00&datum=31.12.2026",
+    "quelle": "Das Bergische",
+    "teaser": "Klassik mit viel Schwung von Wolfgang Amadeus Mozart bis Johann Strauß erleben die Konzertbesucher an diesem Abend. Berühmte Walzer und Polkas der Wiener Strauss Familie stehen im Mittelpunkt des Konzertes. Das Orchester"
   }
 ]
