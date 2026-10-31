@@ -1,5 +1,18 @@
 [
   {
+    "id": "d011bb2c1131",
+    "title": "The Voice of Germany: Trotz grandiosem Auftritts war nach den Battles Schluss",
+    "summary": "Marienheide – Für Can Dean reichte es trotz großem Zuspruchs nicht für die nächste Runde bei The Voice of Germany - Ihm bleiben aber viele wertvolle Erfahrungen und Erinnerungen.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/the-voice-of-germany--trotz-grandiosem-auftritts-war-nach-den-battles-schluss-a-139667",
+    "published": "Sat, 31 Oct 2026 06:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-10-31T06:17:21.948401",
+    "feed_kommunen": []
+  },
+  {
     "id": "210d4962e4de",
     "title": "(Update) Bergneustädter Weihnachtsmarkt am 12. und 13. Dezember 2026: Weihnachts-Pass mit zwei Geschenken",
     "summary": "Update: Aus der Stempelkarte ist der kostenlose Weihnachts-Pass geworden. Weihnachtsmarkt am dritten Advent im Park des Ev. Altenheims: 43 Stände, Musik an beiden Tagen und der Nikolaus.",
@@ -7,7 +20,6 @@
     "published": "Sat, 31 Oct 2026 04:16:35 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "kreisweite-nachrichten",
       "bergneustadt"
     ],
     "fetched": "2026-10-31T05:17:01.179045",
