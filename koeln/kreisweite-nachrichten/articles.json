@@ -1,5 +1,18 @@
 [
   {
+    "id": "8100ad31ee33",
+    "title": "Wasserwerfer bei „Gen Z regelt“-Demo: Einsatz auf Schildergasse – Kritik an Vorgehen der Polizei",
+    "summary": "Am Samstag protestierte die „Gen Z“ in Köln. Wir liefern aktuelle Infos und Hintergründe.",
+    "link": "https://www.ksta.de/koeln/gen-z-regelt-demonstration-in-koeln-im-liveblog-1406012",
+    "published": "Sat, 31 Oct 2026 20:54:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-31T21:17:33.833859",
+    "feed_kommunen": []
+  },
+  {
     "id": "35752952eacf",
     "title": "Allerheiligen, Volkstrauertag, Totensonntag: Diese Regeln gelten an den stillen Feiertagen im November in Köln",
     "summary": "Im November gelten an drei Sonntagen besondere Regeln. Auch Herbstkirmes und Weihnachtsmärkte sind betroffen.",
@@ -114,19 +127,6 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-31T09:17:24.109777",
-    "feed_kommunen": []
-  },
-  {
-    "id": "d3327d6f753b",
-    "title": "„Gen Z regelt“: Köln rüstet sich für Protest – Burmester erwartet friedliche Demonstration",
-    "summary": "Am Samstag protestiert die „Gen Z“ in Köln. Wir liefern aktuelle Infos und Hintergründe.",
-    "link": "https://www.ksta.de/koeln/gen-z-regelt-demonstration-in-koeln-im-liveblog-1406012",
-    "published": "Sat, 31 Oct 2026 08:31:32 +0100",
-    "source": "Kölner Stadt-Anzeiger Köln",
-    "kommunen": [
-      "kreisweite-nachrichten"
-    ],
-    "fetched": "2026-10-31T09:17:24.109803",
     "feed_kommunen": []
   },
   {

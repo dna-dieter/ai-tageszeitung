@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Offene Achtsame Esel-Wanderung",
-    "datum": "31. Okt 2026",
-    "datum_raw": "2026-10-31T13:00:00+01:00",
-    "ort": "Seelentierzeit Begegnungshof, Alper Straße 24, 51580 Reichshof",
-    "preis": "ab 20 €",
-    "link": "https://www.reichshof.org/veranstaltungen/index.html?idart=11985&client=1",
-    "quelle": "Das Bergische",
-    "teaser": "Einmal im Monat, an jedem letzten Samstag (außer im Dezember), findet eine offene Esel-Wanderung mit vier lieben Eseln statt. Nach einer achtsamen, freien Begegnung mit den Eseln auf dem Hof wandern wir gemeinsam ca. ein"
-  },
-  {
     "titel": "Kräuterworkshop auf dem Konradshof Welcher Tee für welches Weh? Kräuter erkennen , sammeln, trocknen",
     "datum": "31. Okt 2026",
     "datum_raw": "2026-10-31T14:00:00+01:00",
@@ -478,6 +468,16 @@
     "link": "http://www.vhs-gm.de/programm/kulturkreativitaet.html?action%5B160%5D=course&courseId=571-C-3384806&filter%5Bq%5D=Pilz&rowIndex=1",
     "quelle": "Das Bergische",
     "teaser": "Pilze werden allgemein fast ausschließlich nach ihrem Speisewert und ihrer Giftigkeit beurteilt. Häufig wird dabei vergessen, dass ein Leben ohne Pilze nicht möglich ist. Aber Pilze lassen sich auch unglaublich kreativ e"
+  },
+  {
+    "titel": "Offene Achtsame Esel-Wanderung",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T13:00:00+01:00",
+    "ort": "Seelentierzeit Begegnungshof, Alper Straße 24, 51580 Reichshof",
+    "preis": "ab 20 €",
+    "link": "https://www.reichshof.org/veranstaltungen/index.html?idart=11985&client=1",
+    "quelle": "Das Bergische",
+    "teaser": "Einmal im Monat, an jedem letzten Samstag (außer im Dezember), findet eine offene Esel-Wanderung mit vier lieben Eseln statt. Nach einer achtsamen, freien Begegnung mit den Eseln auf dem Hof wandern wir gemeinsam ca. ein"
   },
   {
     "titel": "Denklinger Burgweihnacht",
