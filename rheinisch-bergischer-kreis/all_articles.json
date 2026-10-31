@@ -60,6 +60,32 @@
     ]
   },
   {
+    "id": "f80eaeb2382f",
+    "title": "Altenberger-Dom-Straße wieder freigegegeben",
+    "summary": "Nach gut neun Monaten ist der erste Abschnitt der Altenberger-Dom-Straße in Schildgen fertig gestellt und für den Verkehr freigegeben worden. Die Stadt verweist auf Verbesserungen für den Fuß- und Radverkehr, freut sich über die Einhaltung des Kostenrahmens und dankt den geplagten Anwohnern für ihre Geduld.",
+    "link": "https://in-gl.de/2026/10/30/altenberger-dom-strasse-wieder-freigegegeben/",
+    "published": "Fri, 30 Oct 2026 17:21:45 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-31T08:15:30.702000",
+    "feed_kommunen": []
+  },
+  {
+    "id": "bdc36025699f",
+    "title": "Stadt muss zwei Sporthallen schließen",
+    "summary": "Bei Routineuntersuchungen sind in den Sporthallen der GGS Katterbach und GGS Hebborn deutliche Mängel festgestellt worden. Beide Hallen wurden vollständig gesperrt. Dagegen konnten die Probleme an der Grundschule in Gronau behoben und die Halle geöffnet werden.",
+    "link": "https://in-gl.de/2026/10/30/stadt-muss-zwei-sporthallen-schliessen/",
+    "published": "Fri, 30 Oct 2026 17:05:34 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-10-31T08:15:30.702132",
+    "feed_kommunen": []
+  },
+  {
     "id": "d548214e6e84",
     "title": "Feuerwehr Bergisch Gladbach: Feuerwehr-Drehleiter rutscht in Herkenrath von der Straße",
     "summary": "Auf dem Weg zu einem Einsatz kommt das Feuerwehrfahrzeug von der Straße ab; die Bergung gestaltete sich aufwendig.",
@@ -2159,7 +2185,8 @@
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
       "kuerten",
-      "odenthal"
+      "odenthal",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-22T23:27:49.435505",
     "feed_kommunen": []
