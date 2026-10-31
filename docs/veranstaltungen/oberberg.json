@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Führung in der Aggertalhöhle",
-    "datum": "31. Okt 2026",
-    "datum_raw": "2026-10-31T00:00:00+02:00",
-    "ort": "Aggertalhöhle, Im Krümmel 39, 51766 Engelskirchen",
-    "preis": "ab 6 €",
-    "link": "http://www.aggertalhoehle.de/main/home/informationen/oeffnungszeiten",
-    "quelle": "Das Bergische",
-    "teaser": "Die Aggertalhöhle ist vom 1. April bis einschließlich 1. November jeweils von Donnerstag bis Sonntag und an gesetzlichen Feiertagen geöffnet. Unter dem Titel »Erster Einblick« starten Führungen jeweils um 10.00, 11.15, 1"
-  },
-  {
     "titel": "Halloween entgruselt",
     "datum": "31. Okt 2026",
     "datum_raw": "2026-10-31T09:00:00+01:00",
@@ -98,6 +88,16 @@
     "link": "https://www.musikkreis-holpe.de/",
     "quelle": "Das Bergische",
     "teaser": "Es ist wieder soweit und unser alljährliches Herbstkonzert steht an und vielleicht wird es diesmal auch ein kleines bisschen unheimlich. Kommt vorbei, lehnt euch zurück und genießt einen musikalischen Abend zwischen Gäns"
+  },
+  {
+    "titel": "Führung in der Aggertalhöhle",
+    "datum": "1. Nov 2026",
+    "datum_raw": "2026-11-01T00:00:00+02:00",
+    "ort": "Aggertalhöhle, Im Krümmel 39, 51766 Engelskirchen",
+    "preis": "ab 6 €",
+    "link": "http://www.aggertalhoehle.de/main/home/informationen/oeffnungszeiten",
+    "quelle": "Das Bergische",
+    "teaser": "Die Aggertalhöhle ist vom 1. April bis einschließlich 1. November jeweils von Donnerstag bis Sonntag und an gesetzlichen Feiertagen geöffnet. Unter dem Titel »Erster Einblick« starten Führungen jeweils um 10.00, 11.15, 1"
   },
   {
     "titel": "Panoramarunde Wildbergerhütte – Eine oberbergische  Genusswanderung",
