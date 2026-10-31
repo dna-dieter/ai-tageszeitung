@@ -1,25 +1,5 @@
 [
   {
-    "titel": "Panarbora Geisterpark",
-    "datum": "31. Okt 2026",
-    "datum_raw": "2026-10-31T11:00:00+02:00",
-    "ort": "Baumwipfelpfad Panarbora, Nutscheidstr. 1, 51545 Waldbröl",
-    "preis": "ab 11 €",
-    "link": "https://panarbora.de/veranstaltungen-und-events",
-    "quelle": "Das Bergische",
-    "teaser": "Vom 26. September bis zum 1. November 2026 wird es bei uns wieder gespenstisch! Wenn kleine Geister auftauchen und sich unser Aussichtsturm und der Baumwipfelpfad in ein Halloween-Gewand hüllen, beginnt eine ganz besonde"
-  },
-  {
-    "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
-    "datum": "31. Okt 2026",
-    "datum_raw": "2026-10-31T11:00:00+02:00",
-    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
-    "preis": "ab 6 €",
-    "link": "https://www.schloss-homburg.de/cms200schloss/museum/sonderausstellungen/vorschau/index.shtml.de",
-    "quelle": "Das Bergische",
-    "teaser": "Kleine Figuren erzählen große Geschichten! Das 100-jährige Jubiläum des Museums auf Schloss Homburg wird mit einer großen Sonderausstellung gefeiert. In faszinierenden Miniaturwelten werden regionale Geschichte und Gesch"
-  },
-  {
     "titel": "Offene Achtsame Esel-Wanderung",
     "datum": "31. Okt 2026",
     "datum_raw": "2026-10-31T13:00:00+01:00",
@@ -100,6 +80,16 @@
     "teaser": "An vier Wochenenden im Herbst 2026 wird’s im Park geheimnisvoll – aber nie zu angsteinflößend: Du schnitzt Kürbisse, folgst verwinkelten Wegen, lauschst den Geschichten der Hexe und sagst mit der Fackel den Eulen und Pol"
   },
   {
+    "titel": "Panarbora Geisterpark",
+    "datum": "1. Nov 2026",
+    "datum_raw": "2026-11-01T10:00:00+02:00",
+    "ort": "Baumwipfelpfad Panarbora, Nutscheidstr. 1, 51545 Waldbröl",
+    "preis": "ab 11 €",
+    "link": "https://panarbora.de/veranstaltungen-und-events",
+    "quelle": "Das Bergische",
+    "teaser": "Vom 26. September bis zum 1. November 2026 wird es bei uns wieder gespenstisch! Wenn kleine Geister auftauchen und sich unser Aussichtsturm und der Baumwipfelpfad in ein Halloween-Gewand hüllen, beginnt eine ganz besonde"
+  },
+  {
     "titel": "Panoramarunde Wildbergerhütte – Eine oberbergische  Genusswanderung",
     "datum": "1. Nov 2026",
     "datum_raw": "2026-11-01T10:30:00+01:00",
@@ -118,6 +108,16 @@
     "link": "https://www.shop.industriemuseum.lvr.de/#/product/event/15824",
     "quelle": "Das Bergische",
     "teaser": "Viel los beim Saisonfinale im Kraftwerk! Die Ausstellung \"Arbeits[T]räume\" lädt ein letztes Mal dazu ein, über die Arbeitswelt von morgen nachzudenken: Wie sieht die aus? Vier-Tage-Woche oder Vollzeit-Job? Home-Office od"
+  },
+  {
+    "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
+    "datum": "1. Nov 2026",
+    "datum_raw": "2026-11-01T11:00:00+02:00",
+    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
+    "preis": "ab 6 €",
+    "link": "https://www.schloss-homburg.de/cms200schloss/museum/sonderausstellungen/vorschau/index.shtml.de",
+    "quelle": "Das Bergische",
+    "teaser": "Kleine Figuren erzählen große Geschichten! Das 100-jährige Jubiläum des Museums auf Schloss Homburg wird mit einer großen Sonderausstellung gefeiert. In faszinierenden Miniaturwelten werden regionale Geschichte und Gesch"
   },
   {
     "titel": "Familienworkshop: Die Stromwerkstatt - Wissen, warum's brizzelt!",
