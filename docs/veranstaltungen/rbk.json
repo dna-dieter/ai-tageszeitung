@@ -20,6 +20,16 @@
     "teaser": "Es lesen: Nora Heinemann-Saupp / Antje Kiencke Tilmann Krämer / Jan Lamsfuß Peter Lautz / Britta PeddenbruchZwischen-Musik spielen Schüler*innen der Musikschule Leichlingen. Anmeldung erforderlich unter info@sinneswald.d"
   },
   {
+    "titel": "Spurensuche Altenberg mit Umtrunk \"Engelbert von Berg: Erzbischof, Graf und Pilger \"",
+    "datum": "1. Nov 2026",
+    "datum_raw": "2026-11-01T14:00:00+01:00",
+    "ort": "Barocker Torbogen, Eugen-Heinen-Platz, 51519 Odenthal",
+    "preis": "",
+    "link": "http://www.lugev.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Um 1185 geboren auf Schloss Burg ist Engelbert II. von Berg eine schillernde Persönlichkeit des Hochmittelalters. Randolf Link und Christiane Cyriax vermitteln interessante Einblicke in sein Leben und Wirken als Erzbisch"
+  },
+  {
     "titel": "Führung für Kinder in der Papiermühle Alte Dombach",
     "datum": "1. Nov 2026",
     "datum_raw": "2026-11-01T14:00:00+01:00",
@@ -38,16 +48,6 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Sonntagnachmittags lassen die ehrenamtlichen Handwerker im Bergischen Museum für Bergbau, Handwerk und Gewerbe historische Techniken aufleben. Schauen Sie ihnen über die Schulter. Heute können Sie Karin Dünner beim Spinn"
-  },
-  {
-    "titel": "Spurensuche Altenberg mit Umtrunk \"Engelbert von Berg: Erzbischof, Graf und Pilger \"",
-    "datum": "1. Nov 2026",
-    "datum_raw": "2026-11-01T14:00:00+01:00",
-    "ort": "Barocker Torbogen, Eugen-Heinen-Platz, 51519 Odenthal",
-    "preis": "",
-    "link": "http://www.lugev.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Um 1185 geboren auf Schloss Burg ist Engelbert II. von Berg eine schillernde Persönlichkeit des Hochmittelalters. Randolf Link und Christiane Cyriax vermitteln interessante Einblicke in sein Leben und Wirken als Erzbisch"
   },
   {
     "titel": "Ger O Donnell & Trevor Sexton – Irish Folk at its Best",
@@ -230,16 +230,6 @@
     "teaser": "GITARRISSIMO ist ein Kooperationsprojekt der Musikschulen im Rheinisch-Bergischen Kreis in Zusammenarbeit mit dem Kreiskulturamt. In dem eintägigen Workshop erarbeiten kleine und große Gitarren-Fans gemeinsam Musik für e"
   },
   {
-    "titel": "Öffentliche Führung \"Papier – vom Handwerk zum Massenprodukt\"",
-    "datum": "15. Nov 2026",
-    "datum_raw": "2026-11-15T14:00:00+01:00",
-    "ort": "LVR-Industriemuseum Papiermühle Alte Dombach, Alte Dombach 1 (an der Kürtener Str.), 51465 Bergisch Gladbach",
-    "preis": "ab 6 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Bei dieser Führung geht es um die Herstellung und den Gebrauch von Papier früher und heute. Highlight des Rundgangs ist die Vorführung der Labor-Papiermaschine. Die Teilnehmenden erfahren, wie Papier in Vergangenheit und"
-  },
-  {
     "titel": "Schnuppertouren in Bergisch Gladbach",
     "datum": "15. Nov 2026",
     "datum_raw": "2026-11-15T14:00:00+01:00",
@@ -248,6 +238,16 @@
     "link": "https://www.bergischgladbach.de/schnuppertouren.aspx",
     "quelle": "Das Bergische",
     "teaser": "Bereits am Sonntag, den 12. April 2026 starten die kostenlosen Schnuppertouren in Bergisch Gladbach in eine neue Saison. Zum zwölften Mal bieten engagierte Stadtführerinnen und Stadtführer in Zusammenarbeit mit der Stadt"
+  },
+  {
+    "titel": "Öffentliche Führung \"Papier – vom Handwerk zum Massenprodukt\"",
+    "datum": "15. Nov 2026",
+    "datum_raw": "2026-11-15T14:00:00+01:00",
+    "ort": "LVR-Industriemuseum Papiermühle Alte Dombach, Alte Dombach 1 (an der Kürtener Str.), 51465 Bergisch Gladbach",
+    "preis": "ab 6 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Bei dieser Führung geht es um die Herstellung und den Gebrauch von Papier früher und heute. Highlight des Rundgangs ist die Vorführung der Labor-Papiermaschine. Die Teilnehmenden erfahren, wie Papier in Vergangenheit und"
   },
   {
     "titel": "Rangerführungen",
