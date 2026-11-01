@@ -1,5 +1,64 @@
 [
   {
+    "id": "cf738f42b6ce",
+    "title": "Verletzte nach Unfällen durch Betrunkene",
+    "summary": "Oberberg – In Engelskirchen und Gummersbach mussten Autofahrer ihre Führerscheine abgeben.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/verletzte-nach-unfaellen-durch-betrunkene-a-139809",
+    "published": "Sun, 01 Nov 2026 10:55:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "engelskirchen",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-01T11:17:24.971777",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ba9efa9dc963",
+    "title": "Engelskirchen: Verkehrsunfall mit 1,9 Promille – Drei Autos, ein Zaun und ein Schild beschädigt",
+    "summary": "Unfall in Engelskirchen: Eine alkoholisierte Mercedes-Fahrerin (1,9 Promille) verursachte Sachschaden an drei Pkw, einem Zaun und einem Schild.",
+    "link": "https://www.news-on-tour.de/325393/engelskirchen-verkehrsunfall-alkohol/",
+    "published": "Sun, 01 Nov 2026 09:46:03 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-01T11:17:18.198207",
+    "feed_kommunen": []
+  },
+  {
+    "id": "28a6c86c1f6c",
+    "title": "Gummersbach, Radevormwald und weitere Orte: Einbrecher schlagen siebenmal zu",
+    "summary": "Einbrecher in Radevormwald, Hückeswagen, Lindlar, Engelskirchen, Gummersbach, Wiehl und Waldbröl: Schmuck, Bargeld und Handy gestohlen.",
+    "link": "https://www.news-on-tour.de/325386/gummersbach-radevormwald-einbrecher/",
+    "published": "Sun, 01 Nov 2026 09:32:47 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "engelskirchen",
+      "hueckeswagen",
+      "gummersbach",
+      "lindlar",
+      "radevormwald",
+      "wiehl",
+      "waldbroel"
+    ],
+    "fetched": "2026-11-01T11:17:18.198300",
+    "feed_kommunen": []
+  },
+  {
+    "id": "30237cf4accc",
+    "title": "POL-GM: Drei Autos, ein Zaun und ein Verkehrsschild bei Unfall beschädigt",
+    "summary": "Engelskirchen (ots) - Am Sonntagmorgen (1. November) fuhr eine 40-Jährige aus Hemmingen in ihrem Mercedes auf der Hollenberger Straße in Richtung Wahlscheid. Gegen 02:10 Uhr kam sie nach rechts von der Fahrbahn ab und kollidierte mit einer ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6381725",
+    "published": "Sun, 01 Nov 2026 10:25:09 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-01T11:17:23.156815",
+    "feed_kommunen": []
+  },
+  {
     "id": "7e917b23bb5c",
     "title": "ASC Loope erhält Platinstatus beim DFB-Punktespiel",
     "summary": "Engelskirchen – Fußballklub erreichte bei dem Wettbewerb dank vieler umgesetzter Maßnahmen eine besonders hohe Punktzahl.",

@@ -1,5 +1,69 @@
 [
   {
+    "id": "ee7d65a787e0",
+    "title": "Süßes oder Zünftiges?",
+    "summary": "Wiehl – Halloween-Party lockte rund 1.500 Besucher in die Erzquell Brauerei.",
+    "link": "http://www.oberberg-aktuell.de/Wiehl/s----es-oder-z--nftiges-a-139808",
+    "published": "Sun, 01 Nov 2026 11:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-01T11:17:24.971682",
+    "feed_kommunen": []
+  },
+  {
+    "id": "28a6c86c1f6c",
+    "title": "Gummersbach, Radevormwald und weitere Orte: Einbrecher schlagen siebenmal zu",
+    "summary": "Einbrecher in Radevormwald, Hückeswagen, Lindlar, Engelskirchen, Gummersbach, Wiehl und Waldbröl: Schmuck, Bargeld und Handy gestohlen.",
+    "link": "https://www.news-on-tour.de/325386/gummersbach-radevormwald-einbrecher/",
+    "published": "Sun, 01 Nov 2026 09:32:47 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "engelskirchen",
+      "hueckeswagen",
+      "gummersbach",
+      "lindlar",
+      "radevormwald",
+      "wiehl",
+      "waldbroel"
+    ],
+    "fetched": "2026-11-01T11:17:18.198300",
+    "feed_kommunen": []
+  },
+  {
+    "id": "01863d7fb31b",
+    "title": "POL-GM: 35-Jähriger muss nach Unfall unter Alkoholeinfluss Blutprobe und Führerschein abgeben",
+    "summary": "Gummersbach; Wiehl (ots) - Am Freitag (30. Oktober) gegen 18:30 Uhr fuhr ein 35-Jähriger aus Wiehl in seinem BMW auf dem Hömeler Weg (Höhe Übergang zur Bergstraße). Im Bereich der Brücke kam er nach links von der Fahrbahn ab und kollidierte ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6381729",
+    "published": "Sun, 01 Nov 2026 10:26:41 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-01T11:17:23.156614",
+    "feed_kommunen": []
+  },
+  {
+    "id": "17d114fc4f9a",
+    "title": "POL-GM: Mehrere Haus- und Wohnungseinbrüche am Wochenende",
+    "summary": "Radevormwald; Hückeswagen; Lindlar; Engelskrichen; Gummersbach; Wiehl; Waldbröl (ots) - In der Dehnerhofstraße in Radevormwald verschafften sich Unbekannte am Samstag (31. Oktober) zwischen 16:50 Uhr und 23 Uhr Zugang zu einer Erdgeschosswohnung ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6381721",
+    "published": "Sun, 01 Nov 2026 10:21:24 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "hueckeswagen",
+      "gummersbach",
+      "lindlar",
+      "radevormwald",
+      "wiehl",
+      "waldbroel"
+    ],
+    "fetched": "2026-11-01T11:17:23.156952",
+    "feed_kommunen": []
+  },
+  {
     "id": "c042cbd01f81",
     "title": "Nach Wahnsinns-Aufholjagd: Schiri-Drama in der Nachspielzeit",
     "summary": "Wiehl - A-Verband: Die Wiehler A-Junioren verlieren nach einem völlig verrückten Spielverlauf in Eilendorf - B-Verband: Bollow-Elf muss sich trotz guter Leistung dem Tabellenführer Vichttal geschlagen geben (AKTUALISIERT).",

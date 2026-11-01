@@ -1,5 +1,55 @@
 [
   {
+    "id": "28a6c86c1f6c",
+    "title": "Gummersbach, Radevormwald und weitere Orte: Einbrecher schlagen siebenmal zu",
+    "summary": "Einbrecher in Radevormwald, Hückeswagen, Lindlar, Engelskirchen, Gummersbach, Wiehl und Waldbröl: Schmuck, Bargeld und Handy gestohlen.",
+    "link": "https://www.news-on-tour.de/325386/gummersbach-radevormwald-einbrecher/",
+    "published": "Sun, 01 Nov 2026 09:32:47 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "engelskirchen",
+      "hueckeswagen",
+      "gummersbach",
+      "lindlar",
+      "radevormwald",
+      "wiehl",
+      "waldbroel"
+    ],
+    "fetched": "2026-11-01T11:17:18.198300",
+    "feed_kommunen": []
+  },
+  {
+    "id": "17d114fc4f9a",
+    "title": "POL-GM: Mehrere Haus- und Wohnungseinbrüche am Wochenende",
+    "summary": "Radevormwald; Hückeswagen; Lindlar; Engelskrichen; Gummersbach; Wiehl; Waldbröl (ots) - In der Dehnerhofstraße in Radevormwald verschafften sich Unbekannte am Samstag (31. Oktober) zwischen 16:50 Uhr und 23 Uhr Zugang zu einer Erdgeschosswohnung ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6381721",
+    "published": "Sun, 01 Nov 2026 10:21:24 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "hueckeswagen",
+      "gummersbach",
+      "lindlar",
+      "radevormwald",
+      "wiehl",
+      "waldbroel"
+    ],
+    "fetched": "2026-11-01T11:17:23.156952",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5741ff61eccc",
+    "title": "Rock in der Halle statt unter freiem Himmel",
+    "summary": "Lindlar – Rock am Scheelbach zog wegen Bauarbeiten um – Fünf Bands sorgten mit rockigen Klängen für die gewohnte Stimmung bei der beliebten Veranstaltung.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/rock-in-der-halle-statt-unter-freiem-himmel-a-139801",
+    "published": "Sun, 01 Nov 2026 10:20:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-01T11:17:24.971919",
+    "feed_kommunen": []
+  },
+  {
     "id": "86601edd4476",
     "title": "Lindlar: Heizen mit Holz – Fachleute zeigen umweltfreundliches Anzünden",
     "summary": "Heizen mit Holz am 26. November 2026 auf :metabolon in Lindlar: Vortrag der Schornsteinfegerinnung Köln und eine Heizvorführung an der Anlage.",
