@@ -1,25 +1,5 @@
 [
   {
-    "titel": "Halloween entgruselt",
-    "datum": "1. Nov 2026",
-    "datum_raw": "2026-11-01T09:00:00+01:00",
-    "ort": "Affen- und Vogelpark, Am Bromberg, 51580 Reichshof",
-    "preis": "ab 20 €",
-    "link": "https://affen-und-vogelpark.de/neues-aus-dem-park/",
-    "quelle": "Das Bergische",
-    "teaser": "An vier Wochenenden im Herbst 2026 wird’s im Park geheimnisvoll – aber nie zu angsteinflößend: Du schnitzt Kürbisse, folgst verwinkelten Wegen, lauschst den Geschichten der Hexe und sagst mit der Fackel den Eulen und Pol"
-  },
-  {
-    "titel": "Panarbora Geisterpark",
-    "datum": "1. Nov 2026",
-    "datum_raw": "2026-11-01T10:00:00+02:00",
-    "ort": "Baumwipfelpfad Panarbora, Nutscheidstr. 1, 51545 Waldbröl",
-    "preis": "ab 11 €",
-    "link": "https://panarbora.de/veranstaltungen-und-events",
-    "quelle": "Das Bergische",
-    "teaser": "Vom 26. September bis zum 1. November 2026 wird es bei uns wieder gespenstisch! Wenn kleine Geister auftauchen und sich unser Aussichtsturm und der Baumwipfelpfad in ein Halloween-Gewand hüllen, beginnt eine ganz besonde"
-  },
-  {
     "titel": "Panoramarunde Wildbergerhütte – Eine oberbergische  Genusswanderung",
     "datum": "1. Nov 2026",
     "datum_raw": "2026-11-01T10:30:00+01:00",
@@ -98,6 +78,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Sankt Martin in Bernberg – seit über 30 Jahren eine besondere Tradition! Am Freitag, 6. November 2026, lädt der Förderverein der GGS Bernberg e.V. zum traditionellen Sankt-Martinsfest ein. In besonders besucherstarken Ja"
+  },
+  {
+    "titel": "Halloween entgruselt",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T09:00:00+01:00",
+    "ort": "Affen- und Vogelpark, Am Bromberg, 51580 Reichshof",
+    "preis": "ab 20 €",
+    "link": "https://affen-und-vogelpark.de/neues-aus-dem-park/",
+    "quelle": "Das Bergische",
+    "teaser": "An vier Wochenenden im Herbst 2026 wird’s im Park geheimnisvoll – aber nie zu angsteinflößend: Du schnitzt Kürbisse, folgst verwinkelten Wegen, lauschst den Geschichten der Hexe und sagst mit der Fackel den Eulen und Pol"
   },
   {
     "titel": "Pilzseminar für Einsteiger:innen",
