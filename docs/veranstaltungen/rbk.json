@@ -1,35 +1,5 @@
 [
   {
-    "titel": "Spurensuche Altenberg mit Umtrunk \"Engelbert von Berg: Erzbischof, Graf und Pilger \"",
-    "datum": "1. Nov 2026",
-    "datum_raw": "2026-11-01T14:00:00+01:00",
-    "ort": "Barocker Torbogen, Eugen-Heinen-Platz, 51519 Odenthal",
-    "preis": "",
-    "link": "http://www.lugev.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Um 1185 geboren auf Schloss Burg ist Engelbert II. von Berg eine schillernde Persönlichkeit des Hochmittelalters. Randolf Link und Christiane Cyriax vermitteln interessante Einblicke in sein Leben und Wirken als Erzbisch"
-  },
-  {
-    "titel": "Führung für Kinder in der Papiermühle Alte Dombach",
-    "datum": "1. Nov 2026",
-    "datum_raw": "2026-11-01T14:00:00+01:00",
-    "ort": "LVR-Industriemuseum Papiermühle Alte Dombach, Alte Dombach 1 (an der Kürtener Str.), 51465 Bergisch Gladbach",
-    "preis": "ab 6 €",
-    "link": "https://www.shop.industriemuseum.lvr.de/#/product/event/8488?date=2026-04-05&date_id=79344",
-    "quelle": "Das Bergische",
-    "teaser": "Die Papiermacherkinder Gertrud und Johann Berg wohnen und arbeiten in der Papiermühle. Wie leben sie und welche Arbeiten müssen sie in der Mühle verrichten? Im Anschluss an die Führung kann jeder einen Bogen Papier schöp"
-  },
-  {
-    "titel": "Handwerker-Vorführung: Spinnen mit Karin Dünner und Janina Endresz",
-    "datum": "1. Nov 2026",
-    "datum_raw": "2026-11-01T14:00:00+01:00",
-    "ort": "Bergisches Museum für Bergbau, Handwerk und Gewerbe, Burggraben 19, 51429 Bergisch Gladbach",
-    "preis": "ab 3 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Sonntagnachmittags lassen die ehrenamtlichen Handwerker im Bergischen Museum für Bergbau, Handwerk und Gewerbe historische Techniken aufleben. Schauen Sie ihnen über die Schulter. Heute können Sie Karin Dünner beim Spinn"
-  },
-  {
     "titel": "Ger O Donnell & Trevor Sexton – Irish Folk at its Best",
     "datum": "1. Nov 2026",
     "datum_raw": "2026-11-01T19:30:00+01:00",
@@ -208,6 +178,16 @@
     "link": "https://www.bergischgladbach.de/gitarrissimo.aspx",
     "quelle": "Das Bergische",
     "teaser": "GITARRISSIMO ist ein Kooperationsprojekt der Musikschulen im Rheinisch-Bergischen Kreis in Zusammenarbeit mit dem Kreiskulturamt. In dem eintägigen Workshop erarbeiten kleine und große Gitarren-Fans gemeinsam Musik für e"
+  },
+  {
+    "titel": "Handwerker-Vorführung: Spinnen mit Karin Dünner und Janina Endresz",
+    "datum": "15. Nov 2026",
+    "datum_raw": "2026-11-15T14:00:00+01:00",
+    "ort": "Bergisches Museum für Bergbau, Handwerk und Gewerbe, Burggraben 19, 51429 Bergisch Gladbach",
+    "preis": "ab 3 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Sonntagnachmittags lassen die ehrenamtlichen Handwerker im Bergischen Museum für Bergbau, Handwerk und Gewerbe historische Techniken aufleben. Schauen Sie ihnen über die Schulter. Heute können Sie Karin Dünner beim Spinn"
   },
   {
     "titel": "Schnuppertouren in Bergisch Gladbach",
@@ -568,6 +548,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Am Freitag, den 04.12.2026, endet die Kabarettreihe der IGP im Exil mit dem Andreas Rebers und seinem Programm „rein geschäftlich - Bilanz“. Was ist das Leben? Zufall? Witz, oder eben doch nur ein Geschäft? Um diese Frag"
+  },
+  {
+    "titel": "Führung für Kinder in der Papiermühle Alte Dombach",
+    "datum": "6. Dez 2026",
+    "datum_raw": "2026-12-06T14:00:00+01:00",
+    "ort": "LVR-Industriemuseum Papiermühle Alte Dombach, Alte Dombach 1 (an der Kürtener Str.), 51465 Bergisch Gladbach",
+    "preis": "ab 6 €",
+    "link": "https://www.shop.industriemuseum.lvr.de/#/product/event/8488?date=2026-04-05&date_id=79344",
+    "quelle": "Das Bergische",
+    "teaser": "Die Papiermacherkinder Gertrud und Johann Berg wohnen und arbeiten in der Papiermühle. Wie leben sie und welche Arbeiten müssen sie in der Mühle verrichten? Im Anschluss an die Führung kann jeder einen Bogen Papier schöp"
   },
   {
     "titel": "“Kölsche Weihnacht” mit Paveier & Freunde",
