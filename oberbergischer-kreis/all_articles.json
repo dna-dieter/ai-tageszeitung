@@ -1,5 +1,44 @@
 [
   {
+    "id": "c042cbd01f81",
+    "title": "Nach Wahnsinns-Aufholjagd: Schiri-Drama in der Nachspielzeit",
+    "summary": "Wiehl - A-Verband: Die Wiehler A-Junioren verlieren nach einem völlig verrückten Spielverlauf in Eilendorf - B-Verband: Bollow-Elf muss sich trotz guter Leistung dem Tabellenführer Vichttal geschlagen geben (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/fussball/strittiger-elfer-bringt-wiehl-auf-die-verliererstra--e-a-139787",
+    "published": "Sun, 01 Nov 2026 09:40:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-01T10:17:15.613614",
+    "feed_kommunen": []
+  },
+  {
+    "id": "cf5e8a671f67",
+    "title": "Gummersbach: Parfüm ab 19 Euro lockt junge Menschen ins Forum",
+    "summary": "Parfüm ab 19 Euro im Forum Gummersbach: Bei Loris kaufen viele junge Leute ein. Betreiberin Bahar Celik über Duftöl, faire Preise und Geschenke.",
+    "link": "https://www.news-on-tour.de/325377/gummersbach-parfuem-forum/",
+    "published": "Sun, 01 Nov 2026 08:39:47 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-01T10:17:11.001301",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e6a4b3666939",
+    "title": "Gummersbach: Bürgerdialog der AfD-Bundestagsfraktion in der Alten Vogtei",
+    "summary": "Politische AnzeigeDie AfD-Bundestagsfraktion lädt am Samstag, 14. November 2026, um 19 Uhr zum Bürgerdialog in die Alte Vogtei Gummersbach ein. Politische Anzeige.",
+    "link": "https://www.news-on-tour.de/316231/gummersbach-afd-buergerdialog-alte-vogtei/",
+    "published": "Sun, 01 Nov 2026 08:33:06 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-01T10:17:11.001490",
+    "feed_kommunen": []
+  },
+  {
     "id": "30ffa255f1c9",
     "title": "Schaurig",
     "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
@@ -10,19 +49,6 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-01T08:17:10.007976",
-    "feed_kommunen": []
-  },
-  {
-    "id": "36b1ada4b16a",
-    "title": "Strittiger Elfer bringt Wiehl auf die Verliererstraße",
-    "summary": "Wiehl - B-Verband: Bollow-Elf muss sich trotz guter Leistung dem Tabellenführer Vichttal geschlagen geben.",
-    "link": "http://www.oberberg-aktuell.de/fussball/strittiger-elfer-bringt-wiehl-auf-die-verliererstra--e-a-139787",
-    "published": "Sat, 31 Oct 2026 18:35:00 +0100",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "wiehl"
-    ],
-    "fetched": "2026-10-31T19:17:02.354245",
     "feed_kommunen": []
   },
   {
