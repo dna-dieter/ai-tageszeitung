@@ -1,5 +1,19 @@
 [
   {
+    "id": "c7657a48a183",
+    "title": "Laternen überall: Übersicht über Martinszüge in Leverkusen, Leichlingen und Burscheid 2026",
+    "summary": "Am Dienstag, 3. November 2026, geht es mit den ersten Umzügen los.",
+    "link": "https://www.ksta.de/region/leverkusen/stadt-leverkusen/martinszuege-in-leverkusen-leichlingen-und-burscheid-2026-1406047",
+    "published": "Sun, 01 Nov 2026 07:57:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "burscheid",
+      "leichlingen"
+    ],
+    "fetched": "2026-11-01T08:15:56.835632",
+    "feed_kommunen": []
+  },
+  {
     "id": "f110b13bcb1b",
     "title": "November 2026: Martinszüge in Leichlingen: Termine und Wege im Überblick",
     "summary": "Vom 9. bis 13. November laden Schulen, Kitas und Familienzentren zu den traditionellen Umzügen ein. Hier finden Familien alle Startzeiten und Routen im Überblick.",
@@ -321,6 +335,19 @@
     "feed_kommunen": []
   },
   {
+    "id": "6ac55e0412b7",
+    "title": "ERASMUS+ am NCG: Finnen zu Besuch",
+    "summary": "Besuch aus dem Norden: Eine Woche lang waren finnische Schülerinnen und Schüler zu Gast am Nicolaus-Cusanus-Gymnasium in Bergisch Gladbach. Gemeinsam mit dem EF Jahrgang erkundeten sie die Region, lernten den deutschen Schulalltag kennen und tauschten sich über ihre Lebenswelten aus. Im Januar steht der Gegenbesuch in Finnland an.",
+    "link": "https://in-gl.de/2026/10/30/erasmus-am-ncg-finnen-zu-besuch/",
+    "published": "Fri, 30 Oct 2026 06:45:01 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-01T08:15:31.411733",
+    "feed_kommunen": []
+  },
+  {
     "id": "8b0d36fa94f6",
     "title": "POL-RBK: Overath - Einbruch in Marialinden",
     "summary": "Overath (ots) - Am frühen Freitagmorgen (30.10.) sind Unbekannte in ein Einfamilienhaus in Marialinden eingebrochen. Während die Bewohner schliefen, schlugen die Täter zu: Gegen 0:00 Uhr hatte sich die Bewohnerin noch im Haus in der Straße ...",
@@ -435,6 +462,19 @@
     "feed_kommunen": [
       "burscheid"
     ]
+  },
+  {
+    "id": "b14ca05eb1c2",
+    "title": "VHS informiert über Vorsorgevollmacht und Patientenverfügung",
+    "summary": "Wie lässt sich rechtzeitig für den Ernstfall vorsorgen? Die Betreuungsbehörde der Stadt Bergisch Gladbach bietet gemeinsam mit der VHS zwei kostenlose Veranstaltungen zu Vorsorgevollmacht, Betreuungsrecht und Patientenverfügung an. Neben grundlegenden Informationen gibt es Gelegenheit, Fragen zu stellen und sich mit den Themen auseinanderzusetzen.",
+    "link": "https://in-gl.de/2026/10/30/vhs-informiert-ueber-vorsorgevollmacht-und-patientenverfuegung/",
+    "published": "Fri, 30 Oct 2026 01:17:38 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-01T08:15:31.412069",
+    "feed_kommunen": []
   },
   {
     "id": "86ac6032e8d0",
@@ -2215,7 +2255,8 @@
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
       "kuerten",
-      "odenthal"
+      "odenthal",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-22T23:27:49.435505",
     "feed_kommunen": []
