@@ -1,5 +1,22 @@
 [
   {
+    "id": "58a3c81d7662",
+    "title": "Ruhige Halloween-Nacht im Oberbergischen Kreis",
+    "summary": "Für Samstagabend, 31. Oktober, zieht die Polizei für Radevormwald und Hückeswagen und weitere Städte im Oberbergischen Kreis eine positive Bilanz.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/ruhige-halloween-nacht-im-oberbergischen-kreis-6KM63XGDEFGBRPU2ZVYATPYX24.html",
+    "published": "Sun, 01 Nov 2026 11:22:28 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen",
+      "radevormwald"
+    ],
+    "fetched": "2026-11-01T12:17:07.692141",
+    "feed_kommunen": [
+      "hueckeswagen",
+      "radevormwald"
+    ]
+  },
+  {
     "id": "6614ea8a50bf",
     "title": "Einbrüche in Radevormwald und Hückeswagen: Schmuck und Geld gestohlen",
     "summary": "In den vergangenen Tagen hatte die Polizei im Oberbergischen Kreis allerhand zu tun. Einbrecher entwendeten Schmuck und Geld.",
@@ -30,7 +47,8 @@
       "lindlar",
       "radevormwald",
       "wiehl",
-      "waldbroel"
+      "waldbroel",
+      "reichshof"
     ],
     "fetched": "2026-11-01T11:17:18.198300",
     "feed_kommunen": []

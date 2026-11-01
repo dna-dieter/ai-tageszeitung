@@ -1,5 +1,48 @@
 [
   {
+    "id": "a89f8b01d9e7",
+    "title": "Ruhige Einsatzlage an Halloween",
+    "summary": "Oberberg - Die Polizei zieht ein positives Fazit der vergangenen Nacht.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/ruhige-einsatzlage-an-halloween-a-139811",
+    "published": "Sun, 01 Nov 2026 12:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-01T12:17:11.473840",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a3bd9c67b6dc",
+    "title": "Einbrecher machten vielerorts Beute",
+    "summary": "Oberberg – Kriminelle waren in den vergangenen Tagen in etlichen Kommunen unterwegs.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/einbrecher-machten-vielerorts-beute---------a-139810",
+    "published": "Sun, 01 Nov 2026 11:45:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-01T12:17:11.474072",
+    "feed_kommunen": []
+  },
+  {
+    "id": "58a3c81d7662",
+    "title": "Ruhige Halloween-Nacht im Oberbergischen Kreis",
+    "summary": "Für Samstagabend, 31. Oktober, zieht die Polizei für Radevormwald und Hückeswagen und weitere Städte im Oberbergischen Kreis eine positive Bilanz.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/ruhige-halloween-nacht-im-oberbergischen-kreis-6KM63XGDEFGBRPU2ZVYATPYX24.html",
+    "published": "Sun, 01 Nov 2026 11:22:28 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen",
+      "radevormwald"
+    ],
+    "fetched": "2026-11-01T12:17:07.692141",
+    "feed_kommunen": [
+      "hueckeswagen",
+      "radevormwald"
+    ]
+  },
+  {
     "id": "ee7d65a787e0",
     "title": "Süßes oder Zünftiges?",
     "summary": "Wiehl – Halloween-Party lockte rund 1.500 Besucher in die Erzquell Brauerei.",
@@ -83,7 +126,8 @@
       "lindlar",
       "radevormwald",
       "wiehl",
-      "waldbroel"
+      "waldbroel",
+      "reichshof"
     ],
     "fetched": "2026-11-01T11:17:18.198300",
     "feed_kommunen": []

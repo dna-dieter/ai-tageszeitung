@@ -1,5 +1,25 @@
 [
   {
+    "id": "28a6c86c1f6c",
+    "title": "Gummersbach, Radevormwald und weitere Orte: Einbrecher schlagen siebenmal zu",
+    "summary": "Einbrecher in Radevormwald, Hückeswagen, Lindlar, Engelskirchen, Gummersbach, Wiehl und Waldbröl: Schmuck, Bargeld und Handy gestohlen.",
+    "link": "https://www.news-on-tour.de/325386/gummersbach-radevormwald-einbrecher/",
+    "published": "Sun, 01 Nov 2026 09:32:47 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "engelskirchen",
+      "hueckeswagen",
+      "gummersbach",
+      "lindlar",
+      "radevormwald",
+      "wiehl",
+      "waldbroel",
+      "reichshof"
+    ],
+    "fetched": "2026-11-01T11:17:18.198300",
+    "feed_kommunen": []
+  },
+  {
     "id": "f5d606977a68",
     "title": "Denklinger Jecken starten in die neue Session",
     "summary": "Reichshof – Buntes Treiben am 8. November im Denklinger Burghof.",

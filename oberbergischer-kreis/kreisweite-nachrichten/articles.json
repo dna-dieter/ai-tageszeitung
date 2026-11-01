@@ -1,5 +1,31 @@
 [
   {
+    "id": "a89f8b01d9e7",
+    "title": "Ruhige Einsatzlage an Halloween",
+    "summary": "Oberberg - Die Polizei zieht ein positives Fazit der vergangenen Nacht.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/ruhige-einsatzlage-an-halloween-a-139811",
+    "published": "Sun, 01 Nov 2026 12:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-01T12:17:11.473840",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a3bd9c67b6dc",
+    "title": "Einbrecher machten vielerorts Beute",
+    "summary": "Oberberg – Kriminelle waren in den vergangenen Tagen in etlichen Kommunen unterwegs.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/einbrecher-machten-vielerorts-beute---------a-139810",
+    "published": "Sun, 01 Nov 2026 11:45:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-01T12:17:11.474072",
+    "feed_kommunen": []
+  },
+  {
     "id": "a60ac6c05bb9",
     "title": "POL-GM: Ruhige Einsatzlage an Halloween",
     "summary": "Oberbergischer Kreis (ots) - Die Polizei im Oberbergischen Kreis war zu Halloween verstärkt im Einsatz und zieht insgesamt ein positives Fazit. Es kam nur zu wenigen Einsätzen, die einen ruhigen Verlauf widerspiegeln. Vereinzelt wurden der Polizei ...",
