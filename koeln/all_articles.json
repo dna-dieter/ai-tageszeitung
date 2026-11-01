@@ -1,5 +1,57 @@
 [
   {
+    "id": "c0c4f7a8b777",
+    "title": "Ein Stück Savoir-Vivre: Wie ein Kölner Verein die Verbindungen zu Frankreich pflegt",
+    "summary": "Die Deutsch-Französische Gesellschaft Köln hält die Freundschaft zum Nachbarland, zur Sprache und zur Lebensart aufrecht.",
+    "link": "https://www.ksta.de/koeln/koelner-innenstadt/neustadt-sued/frankreich-freundeskreis-ein-stueck-savoir-vivre-in-koeln-1401045",
+    "published": "Sun, 01 Nov 2026 14:05:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-01T14:18:07.576333",
+    "feed_kommunen": []
+  },
+  {
+    "id": "050912f65e6c",
+    "title": "„Gen Z“-Demo in Köln: Polizei zieht erste Bilanz – OB Burmester verurteilt Gewalt",
+    "summary": "Am Samstag protestierte die „Gen Z“ in Köln. Im Anschluss kam es zu Krawallen. OB Burmester und NRW-Innenminister Reul äußern sich. Die Initiative kündigt neue Proteste an.",
+    "link": "https://www.ksta.de/koeln/gen-z-regelt-demonstration-in-koeln-im-liveblog-1406012",
+    "published": "Sun, 01 Nov 2026 13:37:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-01T14:18:07.576367",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1b9f27be4614",
+    "title": "Einklang zwischen Kunst und Natur: Kalender zeigt Besonderheit des Stammheimer Schlossparks",
+    "summary": "Für den Schlossparkkalender 2027 hat Gerhard Bonse den Park wieder im Laufe des Jahres und bei besonderer Witterung fotografiert.",
+    "link": "https://www.ksta.de/koeln/muelheim/stammheim/koeln-kalender-zeigt-besonderheit-des-stammheimer-schlossparks-1403199",
+    "published": "Sun, 01 Nov 2026 13:02:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-01T14:18:07.576385",
+    "feed_kommunen": []
+  },
+  {
+    "id": "20f3390c13e9",
+    "title": "„Nicht hinnehmen“: Reul verurteilt Ausschreitungen nach „Gen Z“-Demo in Köln",
+    "summary": "Junge Menschen protestierten friedlich, später eskalierte die Lage. Der NRW-Innenminister macht dafür gewaltbereite Gruppen verantwortlich.",
+    "link": "https://www.ksta.de/koeln/nicht-hinnehmen-reul-verurteilt-ausschreitungen-in-koeln-1406970",
+    "published": "Sun, 01 Nov 2026 12:54:59 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-01T14:18:07.576402",
+    "feed_kommunen": []
+  },
+  {
     "id": "f33de104e388",
     "title": "Erfolg für Bürger in Köln-Nippes: „Freie Ecke“ erleichtert Ausfahrt aus dem Clouth-Areal",
     "summary": "Von der Seekabelstraße aus haben Abbieger auf die Niehler Straße jetzt bessere Sicht. Fahrradbügel halten jetzt die Ecke frei.",
@@ -36,19 +88,6 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-01T06:18:02.531053",
-    "feed_kommunen": []
-  },
-  {
-    "id": "c9258ecdefc0",
-    "title": "Nach „Gen Z regelt“-Demo in Köln: Menschen stundenlang eingekesselt – Randale auf Domplatte",
-    "summary": "Am Samstag protestierte die „Gen Z“ in Köln. In Köln kam es zu Krawallen, Wasserwerfer wurden eingesetzt.",
-    "link": "https://www.ksta.de/koeln/gen-z-regelt-demonstration-in-koeln-im-liveblog-1406012",
-    "published": "Sat, 31 Oct 2026 23:01:00 +0100",
-    "source": "Kölner Stadt-Anzeiger Köln",
-    "kommunen": [
-      "kreisweite-nachrichten"
-    ],
-    "fetched": "2026-11-01T00:18:33.463157",
     "feed_kommunen": []
   },
   {
