@@ -20,16 +20,6 @@
     "teaser": "Viel los beim Saisonfinale im Kraftwerk! Die Ausstellung \"Arbeits[T]räume\" lädt ein letztes Mal dazu ein, über die Arbeitswelt von morgen nachzudenken: Wie sieht die aus? Vier-Tage-Woche oder Vollzeit-Job? Home-Office od"
   },
   {
-    "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
-    "datum": "1. Nov 2026",
-    "datum_raw": "2026-11-01T11:00:00+02:00",
-    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
-    "preis": "ab 6 €",
-    "link": "https://www.schloss-homburg.de/cms200schloss/museum/sonderausstellungen/vorschau/index.shtml.de",
-    "quelle": "Das Bergische",
-    "teaser": "Kleine Figuren erzählen große Geschichten! Das 100-jährige Jubiläum des Museums auf Schloss Homburg wird mit einer großen Sonderausstellung gefeiert. In faszinierenden Miniaturwelten werden regionale Geschichte und Gesch"
-  },
-  {
     "titel": "Familienworkshop: Die Stromwerkstatt - Wissen, warum's brizzelt!",
     "datum": "1. Nov 2026",
     "datum_raw": "2026-11-01T14:00:00+01:00",
@@ -48,6 +38,16 @@
     "link": "https://www.aggertalhoehle.de/main/fuehrungen",
     "quelle": "Das Bergische",
     "teaser": "Diese Führung ist etwas besonderes. Die normale Höhlenbeleuchtung hat Pause, denn wir gehen mit Laternen in die dunkle Höhle. Wir unternehmen eine kleine Zeitreise ins ausgehende 18. Jahrhundert. Wie war das damals? Auf "
+  },
+  {
+    "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
+    "datum": "3. Nov 2026",
+    "datum_raw": "2026-11-03T11:00:00+02:00",
+    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
+    "preis": "ab 6 €",
+    "link": "https://www.schloss-homburg.de/cms200schloss/museum/sonderausstellungen/vorschau/index.shtml.de",
+    "quelle": "Das Bergische",
+    "teaser": "Kleine Figuren erzählen große Geschichten! Das 100-jährige Jubiläum des Museums auf Schloss Homburg wird mit einer großen Sonderausstellung gefeiert. In faszinierenden Miniaturwelten werden regionale Geschichte und Gesch"
   },
   {
     "titel": "Waldbröl's Erbe, NS-Großbauten in der kommunalen Erinnerung",
