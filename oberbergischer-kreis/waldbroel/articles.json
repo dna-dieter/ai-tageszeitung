@@ -1,5 +1,58 @@
 [
   {
+    "id": "dc2b2005c7d0",
+    "title": "17-Jähriger bedroht Jugendliche mit einem Messer",
+    "summary": "Waldbröl – Bedrohung auf dem Promenadenweg – Polizisten konnten das Messer sicherstellen.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/---j--hriger-bedroht-jugendliche-mit-einem-messer-a-139847",
+    "published": "Mon, 02 Nov 2026 11:12:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-02T11:17:52.693722",
+    "feed_kommunen": []
+  },
+  {
+    "id": "78d90889b724",
+    "title": "Bauarbeiten ab Anfang November: B478 in Ruppichteroth wird halbseitig gesperrt",
+    "summary": "In Schönenberg wird ab Anfang November die Bushaltestelle Richtung Waldbröl barrierefrei ausgebaut.",
+    "link": "https://www.ksta.de/region/oberberg/b478-in-ruppichteroth-wird-halbseitig-gesperrt-1407434",
+    "published": "Mon, 02 Nov 2026 10:59:38 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-02T11:17:51.395085",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7874c5a22603",
+    "title": "POL-GM: 17-Jähriger bedroht Jugendliche mit Messer",
+    "summary": "Waldbröl (ots) - Eine 15-Jährige aus Nümbrecht ging am Freitag (30. Oktober) gegen 19 Uhr zusammen mit einem 18-jährigen Nümbrechter auf dem Promenadenweg. An einer Brücke war eine kleine Ansammlung an Personen. Als die beiden sich der Gruppe ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6382197",
+    "published": "Mon, 02 Nov 2026 10:45:52 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "waldbroel",
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-02T11:17:51.312337",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d1f05484a53b",
+    "title": "Erstes Einzelhandelstreffen: Digitale Sichtbarkeit steht in Waldbröl im Fokus",
+    "summary": "Beim ersten Einzelhandelstreffen in Waldbröl zeigte ein Digitalcoach, wie Geschäfte ihre Online-Präsenz stärken können.",
+    "link": "https://www.ksta.de/region/oberberg/waldbroel/digitale-sichtbarkeit-steht-in-waldbroel-im-fokus-1407385",
+    "published": "Mon, 02 Nov 2026 10:19:19 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-02T11:17:51.395855",
+    "feed_kommunen": []
+  },
+  {
     "id": "9dec1b342d8a",
     "title": "Richtig Heizen mit Holz",
     "summary": "Infoveranstaltung auf :metabolon in Lindlar Oberbergischer Kreis. Zu Beginn der Heizsaison laden das Bergische Energie- und Ressourcenzentrum, der Oberbergische Kreis und der Rheinisch-Bergische Kreis interessierte Bürgerinnen und Bürger nun bereits […]",

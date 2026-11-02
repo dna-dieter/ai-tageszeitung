@@ -1,5 +1,181 @@
 [
   {
+    "id": "dc2b2005c7d0",
+    "title": "17-Jähriger bedroht Jugendliche mit einem Messer",
+    "summary": "Waldbröl – Bedrohung auf dem Promenadenweg – Polizisten konnten das Messer sicherstellen.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/---j--hriger-bedroht-jugendliche-mit-einem-messer-a-139847",
+    "published": "Mon, 02 Nov 2026 11:12:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-02T11:17:52.693722",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9a87ba58a521",
+    "title": "Von Weidezaun gestoppt: 20-Jähriger flüchtete vor der Polizei",
+    "summary": "Wiehl – Audi-Fahrer aus Wiehl wollte sich einer Verkehrskontrolle entziehen – Hinweise auf Alkoholkonsum.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/von-weidezaun-gestoppt-----j--hriger-fl--chtete-vor-der-polizei-a-139846",
+    "published": "Mon, 02 Nov 2026 11:06:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-02T11:17:52.693872",
+    "feed_kommunen": []
+  },
+  {
+    "id": "78d90889b724",
+    "title": "Bauarbeiten ab Anfang November: B478 in Ruppichteroth wird halbseitig gesperrt",
+    "summary": "In Schönenberg wird ab Anfang November die Bushaltestelle Richtung Waldbröl barrierefrei ausgebaut.",
+    "link": "https://www.ksta.de/region/oberberg/b478-in-ruppichteroth-wird-halbseitig-gesperrt-1407434",
+    "published": "Mon, 02 Nov 2026 10:59:38 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-02T11:17:51.395085",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2af3a68e3d2d",
+    "title": "Glückliche Brandmeisteranwärter in Bergisch Gladbach: „Schönster Beruf der Welt“",
+    "summary": "Sechs junge Feuerwehrleute sind in Bergisch Gladbach als Brandmeisteranwärter vereidigt worden.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/glueckliche-brandmeisteranwaerter-in-bergisch-gladbach-1407429",
+    "published": "Mon, 02 Nov 2026 10:54:39 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-02T11:17:51.395244",
+    "feed_kommunen": []
+  },
+  {
+    "id": "976debe4ff0e",
+    "title": "Geschichten aus Zeiten ohne Strom: Von Kängurus und dem Strommann",
+    "summary": "Bei der ersten Taschenlampenführung durch das Bergneustädter Heimatmuseum gab es Geschichten aus Zeiten ohne Strom.",
+    "link": "https://www.ksta.de/region/oberberg/bergneustadt/geschichten-aus-zeiten-ohne-strom-von-kaengurus-und-dem-strommann-1407419",
+    "published": "Mon, 02 Nov 2026 10:50:11 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-02T11:17:51.395387",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7874c5a22603",
+    "title": "POL-GM: 17-Jähriger bedroht Jugendliche mit Messer",
+    "summary": "Waldbröl (ots) - Eine 15-Jährige aus Nümbrecht ging am Freitag (30. Oktober) gegen 19 Uhr zusammen mit einem 18-jährigen Nümbrechter auf dem Promenadenweg. An einer Brücke war eine kleine Ansammlung an Personen. Als die beiden sich der Gruppe ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6382197",
+    "published": "Mon, 02 Nov 2026 10:45:52 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "waldbroel",
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-02T11:17:51.312337",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c481d3001caf",
+    "title": "Sitzung Stadtrat am 03.11.2026 um 17:00 Uhr",
+    "summary": "Die Ratssitzung findet statt am 03.11.2026 in der Alten Drahtzieherei. Die öffentliche Sitzung beginnt um 17.00 Uhr.",
+    "link": "https://www.wipperfuerth.de/detailansicht/sitzung-stadtrat-am-03112026-um-1700-uhr.html",
+    "published": "Mon, 02 Nov 2026 10:32:31 +0100",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-02T11:17:49.579331",
+    "feed_kommunen": [
+      "wipperfuerth"
+    ]
+  },
+  {
+    "id": "ba82e21a8fae",
+    "title": "Burggarde Denklingen: Einstimmung auf die Session in Wildbergerhütte",
+    "summary": "Bei der „Offenen Generalprobe“ der Burggarde Denklingen in der Turnhalle probten 24 Tanzgruppen.",
+    "link": "https://www.ksta.de/region/oberberg/einstimmung-auf-die-session-in-wildbergerhuette-1407406",
+    "published": "Mon, 02 Nov 2026 10:30:27 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "reichshof"
+    ],
+    "fetched": "2026-11-02T11:17:51.395574",
+    "feed_kommunen": []
+  },
+  {
+    "id": "20616234d9fb",
+    "title": "Laternenumzüge in und um Wipperfürth",
+    "summary": "Übersicht der Laternenumzüge im Stadtgebiet.",
+    "link": "https://wipperfuerth.de/fileadmin/redaktion/Hansestadt_Wipperfuerth/Presse/2026/2026-11-02_Martinsumzuege.pdf",
+    "published": "Mon, 02 Nov 2026 10:29:15 +0100",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-02T11:17:49.579415",
+    "feed_kommunen": [
+      "wipperfuerth"
+    ]
+  },
+  {
+    "id": "7f449cfc1084",
+    "title": "Halloween in Bielstein: Gruselkabinett stürmt das Bielsteiner Bierlager",
+    "summary": "Rund 1500 Gäste feierten am Samstag die zweite Halloween-Party in der Ladehalle.",
+    "link": "https://www.ksta.de/region/oberberg/wiehl/gruselkabinett-stuermt-das-bielsteiner-bierlager-1407396",
+    "published": "Mon, 02 Nov 2026 10:25:10 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-02T11:17:51.395703",
+    "feed_kommunen": []
+  },
+  {
+    "id": "afddff0d4f7c",
+    "title": "Sperrung der Innenstadt für den Martinsumzug",
+    "summary": "Der Martinsumzug der Grundschulen St. Antonius und GGS Mühlenberg findet am 10.11.2026 statt. Start ist um 17.40 Uhr bzw. um 17.45 Uhr an den jeweiligen Schulen.",
+    "link": "https://www.wipperfuerth.de/detailansicht/sperrung-der-innenstadt-fuer-den-martinsumzug.html",
+    "published": "Mon, 02 Nov 2026 10:23:25 +0100",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-02T11:17:49.579610",
+    "feed_kommunen": [
+      "wipperfuerth"
+    ]
+  },
+  {
+    "id": "d1f05484a53b",
+    "title": "Erstes Einzelhandelstreffen: Digitale Sichtbarkeit steht in Waldbröl im Fokus",
+    "summary": "Beim ersten Einzelhandelstreffen in Waldbröl zeigte ein Digitalcoach, wie Geschäfte ihre Online-Präsenz stärken können.",
+    "link": "https://www.ksta.de/region/oberberg/waldbroel/digitale-sichtbarkeit-steht-in-waldbroel-im-fokus-1407385",
+    "published": "Mon, 02 Nov 2026 10:19:19 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-02T11:17:51.395855",
+    "feed_kommunen": []
+  },
+  {
+    "id": "bb851ffdd79c",
+    "title": "„Rock am Scheelbach“: Rock im Ohr, ein Ei auf der Haut in Lindlar",
+    "summary": "„Rock am Scheelbach“ funktionierte auch ohne freien Himmel.",
+    "link": "https://www.ksta.de/region/oberberg/lindlar/rock-im-ohr-ein-ei-auf-der-haut-in-lindlar-1407381",
+    "published": "Mon, 02 Nov 2026 10:13:28 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-02T11:17:51.395971",
+    "feed_kommunen": []
+  },
+  {
     "id": "c524876176e7",
     "title": "Neuer Auftakt für den Leseherbst 2026",
     "summary": "Neuer Veranstaltungsort für die „Lesehäppchen“ am 16.11.",
@@ -13,6 +189,32 @@
     "feed_kommunen": [
       "hueckeswagen"
     ]
+  },
+  {
+    "id": "200f23bf0505",
+    "title": "Melancholische Klänge in Osberghausen: Irisch-britische Kooperation",
+    "summary": "Das Trio Gavin-Fairhall-Lever begeisterte in der voll besetzten CulturKirche Osberghausen.",
+    "link": "https://www.ksta.de/region/oberberg/engelskirchen/irisch-britische-kooperation-in-osberghausen-1407361",
+    "published": "Mon, 02 Nov 2026 09:50:53 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-02T11:17:51.396099",
+    "feed_kommunen": []
+  },
+  {
+    "id": "08c195e4634f",
+    "title": "Hier wurde es gruselig: Eiskaltes Vergnügen an der Brucher in Marienheide",
+    "summary": "Anita Horn und die DLRG-Ortsgruppen hatten zu Halloween an die Brucher Talsperre geladen.",
+    "link": "https://www.ksta.de/region/oberberg/marienheide/eiskaltes-vergnuegen-an-der-brucher-in-marienheide-1407351",
+    "published": "Mon, 02 Nov 2026 09:42:39 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-11-02T11:17:51.396226",
+    "feed_kommunen": []
   },
   {
     "id": "32d26751d08d",

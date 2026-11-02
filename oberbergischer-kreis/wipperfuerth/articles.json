@@ -1,5 +1,50 @@
 [
   {
+    "id": "c481d3001caf",
+    "title": "Sitzung Stadtrat am 03.11.2026 um 17:00 Uhr",
+    "summary": "Die Ratssitzung findet statt am 03.11.2026 in der Alten Drahtzieherei. Die öffentliche Sitzung beginnt um 17.00 Uhr.",
+    "link": "https://www.wipperfuerth.de/detailansicht/sitzung-stadtrat-am-03112026-um-1700-uhr.html",
+    "published": "Mon, 02 Nov 2026 10:32:31 +0100",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-02T11:17:49.579331",
+    "feed_kommunen": [
+      "wipperfuerth"
+    ]
+  },
+  {
+    "id": "20616234d9fb",
+    "title": "Laternenumzüge in und um Wipperfürth",
+    "summary": "Übersicht der Laternenumzüge im Stadtgebiet.",
+    "link": "https://wipperfuerth.de/fileadmin/redaktion/Hansestadt_Wipperfuerth/Presse/2026/2026-11-02_Martinsumzuege.pdf",
+    "published": "Mon, 02 Nov 2026 10:29:15 +0100",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-02T11:17:49.579415",
+    "feed_kommunen": [
+      "wipperfuerth"
+    ]
+  },
+  {
+    "id": "afddff0d4f7c",
+    "title": "Sperrung der Innenstadt für den Martinsumzug",
+    "summary": "Der Martinsumzug der Grundschulen St. Antonius und GGS Mühlenberg findet am 10.11.2026 statt. Start ist um 17.40 Uhr bzw. um 17.45 Uhr an den jeweiligen Schulen.",
+    "link": "https://www.wipperfuerth.de/detailansicht/sperrung-der-innenstadt-fuer-den-martinsumzug.html",
+    "published": "Mon, 02 Nov 2026 10:23:25 +0100",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-02T11:17:49.579610",
+    "feed_kommunen": [
+      "wipperfuerth"
+    ]
+  },
+  {
     "id": "542ea4a5b978",
     "title": "Martinszüge 2026 in Oberberg: Alle 65 Termine mit Uhrzeit und Treffpunkt",
     "summary": "Martinszüge 2026 in Oberberg: 65 Termine mit Uhrzeit, Treffpunkt und Martinsfeuer – von Wipperfürth bis Morsbach. Martinstag ist der 11. November.",
