@@ -1,5 +1,31 @@
 [
   {
+    "id": "32d26751d08d",
+    "title": "Wohnhaus vor den Flammen gerettet",
+    "summary": "Wiehl – Mehrere Einheiten der Feuerwehr Wiehl waren in der vergangenen Nacht bei einem ausgedehnten Garagenbrand in Bielstein im Einsatz.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/wohnhaus-vor-den-flammen-gerettet-a-139840",
+    "published": "Mon, 02 Nov 2026 08:40:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-02T09:17:14.905419",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f4a7454ad39c",
+    "title": "Feuerwehr bekämpft Brand in Dachstuhl",
+    "summary": "Nümbrecht – In der vergangenen Nacht rückte ein Großaufgebot an Kräften zu einem Feuer in Breunfeld aus.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/feuerwehr-bek--mpft-brand-in-dachstuhl-a-139839",
+    "published": "Mon, 02 Nov 2026 08:22:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-02T09:17:14.905526",
+    "feed_kommunen": []
+  },
+  {
     "id": "bde390278d32",
     "title": "Kiefern-Braunporling",
     "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
@@ -55,6 +81,22 @@
     "fetched": "2026-11-02T04:17:22.208167",
     "feed_kommunen": [
       "radevormwald"
+    ]
+  },
+  {
+    "id": "9dec1b342d8a",
+    "title": "Richtig Heizen mit Holz",
+    "summary": "Infoveranstaltung auf :metabolon in Lindlar Oberbergischer Kreis. Zu Beginn der Heizsaison laden das Bergische Energie- und Ressourcenzentrum, der Oberbergische Kreis und der Rheinisch-Bergische Kreis interessierte Bürgerinnen und Bürger nun bereits […]",
+    "link": "https://www.waldbroel.de/richtig-heizen-mit-holz/",
+    "published": "Mon, 02 Nov 2026 02:05:19 +0000",
+    "source": "Stadt Waldbröl (offiziell)",
+    "kommunen": [
+      "lindlar",
+      "waldbroel"
+    ],
+    "fetched": "2026-11-02T09:17:18.389874",
+    "feed_kommunen": [
+      "waldbroel"
     ]
   },
   {
