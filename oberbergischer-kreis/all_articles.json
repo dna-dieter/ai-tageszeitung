@@ -1,5 +1,44 @@
 [
   {
+    "id": "50de412928d8",
+    "title": "Gummersbach: Köfte King im Forum – nur einer kennt das Rezept",
+    "summary": "AnzeigeKöfte King im Forum Gummersbach grillt seit 21. Oktober Köfte nach Art der türkischen Stadt İnegöl. Das Rezept kennt nur Gürcan Turan.",
+    "link": "https://www.news-on-tour.de/334413/gummersbach-koefte-king-forum/",
+    "published": "Mon, 02 Nov 2026 14:52:04 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-02T16:17:33.624558",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d68333aea082",
+    "title": "SVM reagiert auf sportliche Krise: Trainerwechsel beim Schlusslicht",
+    "summary": "Morsbach – Die Verantwortlichen des SV Morsbach, Tabellenletzter der Kreisliga B Staffel 3, haben das bisherige Trainertrio von seinen Aufgaben entbunden – Nachfolge wurde intern geregelt.",
+    "link": "http://www.oberberg-aktuell.de/fussball/svm-reagiert-auf-sportliche-krise--trainerwechsel-beim-schlusslicht-a-139864",
+    "published": "Mon, 02 Nov 2026 15:25:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-11-02T16:17:39.691402",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6f0282280cb2",
+    "title": "L 339: Bei weiteren Schäden wird reagiert",
+    "summary": "Oberberg – Anwalt Volker Steffen beschwerte sich monatelang bei Kreis und Straßen.NRW über den Schilderwald entlang der L 339 und den Blitzer in Niederbröl – Nun durfte er im Kreisausschuss vorsprechen - Straßen.NRW antwortet auf Anfrage (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/politik/abzocke-sagt-ein-buerger-geltendes-recht-sagt-der-kreis-a-139409",
+    "published": "Mon, 02 Nov 2026 15:18:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-02T16:17:39.691696",
+    "feed_kommunen": []
+  },
+  {
     "id": "250aa5635799",
     "title": "Hundesportverein musste Domizil räumen",
     "summary": "Marienheide – Vereinsgelände musste wegen Erweiterung des Gewerbegebiets aufgegeben werden – Suche nach neuem Gelände gestaltet sich schwierig.",
@@ -5051,19 +5090,6 @@
       "wiehl"
     ],
     "fetched": "2026-10-23T07:50:16.849224",
-    "feed_kommunen": []
-  },
-  {
-    "id": "2b19da3fd538",
-    "title": "„Abzocke“, sagt ein Bürger - „Geltendes Recht“, sagt der Kreis",
-    "summary": "Oberberg – Anwalt Volker Steffen beschwerte sich monatelang bei Kreis und Straßen.NRW über den Schilderwald entlang der L 339 und den Blitzer in Niederbröl – Nun durfte er im Kreisausschuss vorsprechen.",
-    "link": "http://www.oberberg-aktuell.de/politik/abzocke-sagt-ein-buerger-geltendes-recht-sagt-der-kreis-a-139409",
-    "published": "Wed, 21 Oct 2026 16:55:00 +0200",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "kreisweite-nachrichten"
-    ],
-    "fetched": "2026-10-23T07:50:16.849484",
     "feed_kommunen": []
   },
   {
