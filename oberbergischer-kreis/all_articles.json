@@ -1,5 +1,57 @@
 [
   {
+    "id": "c36164d06b55",
+    "title": "SCHWARZMARKT 2.0 vom 5. bis 7. November",
+    "summary": "Gummersbach - Nach über 2.000 Besuchern geht die Schnäppchenjagd in die nächste Runde.",
+    "link": "http://www.oberberg-aktuell.de/gummersbach/schwarzmarkt-----vom----bis----november-a-139844",
+    "published": "Mon, 02 Nov 2026 13:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-02T13:17:06.022784",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c7eaa6665112",
+    "title": "Robin Faulenbach löst Ansgar Lehnen ab",
+    "summary": "Bergneustadt – Der FC Wiedenest-Othetal hat einen neuen 1. Vorsitzenden – Mitglieder verabschieden neue Vereinssatzung.",
+    "link": "http://www.oberberg-aktuell.de/fussball/robin-faulenbach-l--st-ansgar-lehnen-ab-a-139842",
+    "published": "Mon, 02 Nov 2026 12:48:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-11-02T13:17:06.022904",
+    "feed_kommunen": []
+  },
+  {
+    "id": "475f1a0830ad",
+    "title": "(Update) Gummersbach: Bürgerdialog der AfD-Bundestagsfraktion in der Alten Vogtei",
+    "summary": "Politische AnzeigeUpdate: Eintritt frei, Anmeldung erbeten. Die AfD-Bundestagsfraktion lädt am Samstag, 14. November 2026, um 19 Uhr zum Bürgerdialog in die Alte Vogtei Gummersbach ein. Politische Anzeige.",
+    "link": "https://www.news-on-tour.de/316231/gummersbach-afd-buergerdialog-alte-vogtei/",
+    "published": "Mon, 02 Nov 2026 11:43:59 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-02T13:17:01.085478",
+    "feed_kommunen": []
+  },
+  {
+    "id": "516b9d6f48f1",
+    "title": "Betrunkener brettert über Verkehrsinsel und flüchtet",
+    "summary": "Gummersbach – Am Abzweig in Vollmerhausen hat am Morgen ein 39-Jähriger mehrere Schilder und einen Zaun überfahren und wurde einige hundert Meter weiter von der Polizei gestellt.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/betrunkener-brettert---ber-verkehrsinsel-und-fluechtet-a-139854",
+    "published": "Mon, 02 Nov 2026 12:30:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-02T13:17:06.023053",
+    "feed_kommunen": []
+  },
+  {
     "id": "91721d4f16d5",
     "title": "Etwa 100 Mitarbeiter evakuiert",
     "summary": "Gummersbach – bei der Firma ABUS stand am Morgen ein Auto in Flammen – Mitarbeiter kamen im Kranhaus unter – Niemand verletzt.",
@@ -767,19 +819,6 @@
       "gummersbach"
     ],
     "fetched": "2026-11-01T10:17:11.001301",
-    "feed_kommunen": []
-  },
-  {
-    "id": "e6a4b3666939",
-    "title": "Gummersbach: Bürgerdialog der AfD-Bundestagsfraktion in der Alten Vogtei",
-    "summary": "Politische AnzeigeDie AfD-Bundestagsfraktion lädt am Samstag, 14. November 2026, um 19 Uhr zum Bürgerdialog in die Alte Vogtei Gummersbach ein. Politische Anzeige.",
-    "link": "https://www.news-on-tour.de/316231/gummersbach-afd-buergerdialog-alte-vogtei/",
-    "published": "Sun, 01 Nov 2026 08:33:06 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach"
-    ],
-    "fetched": "2026-11-01T10:17:11.001490",
     "feed_kommunen": []
   },
   {
