@@ -1,5 +1,59 @@
 [
   {
+    "id": "25b5213f11ec",
+    "title": "Einbruch in Leichlingen: Balkonkraftwerke aus Lagerhalle gestohlen",
+    "summary": "Trotz verschlossener Tore verschafften sich Unbekannte in der Nacht zu Sonntag Zugang zu einem Firmengelände in Leichlingen. Die Polizei sucht Zeugen.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/einbruch-in-leichlingen-balkonkraftwerke-gestohlen_aid-157663207",
+    "published": "Mon, 02 Nov 2026 09:45:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-02T10:16:10.785675",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
+    "id": "661d4d320742",
+    "title": "POL-RBK: Rheinisch-Bergischer Kreis - Verschiedene Informationsveranstaltungen der Polizei Rhein-Berg",
+    "summary": "Rheinisch-Bergischer Kreis (ots) - In dieser Woche informiert die Polizei Rhein-Berg zu verschiedenen Themen. Zwei Veranstaltungen finden online statt, sodass sich Interessierte bequem von zuhause oder von unterwegs beraten lassen können. Am ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6382063",
+    "published": "Mon, 02 Nov 2026 09:18:29 +0100",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-02T10:16:07.363110",
+    "feed_kommunen": []
+  },
+  {
+    "id": "343aa57f673e",
+    "title": "POL-RBK: Bergisch Gladbach - Vierstelliger Bargeldbetrag bei Einbruch entwendet",
+    "summary": "Bergisch Gladbach (ots) - Unbekannte sind in der Nacht auf Sonntag (01.11.) in ein Einfamilienhaus in Refrath eingebrochen. Dabei stahlen sie Bargeld in vierstelliger Höhe. Gestern Morgen (01.11.) rief ein Mann die Polizei zu seinem Haus in den ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6382058",
+    "published": "Mon, 02 Nov 2026 09:13:23 +0100",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-02T10:16:07.363319",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2ba544a32438",
+    "title": "POL-RBK: Leichlingen - Diebstahl aus Lagerhalle",
+    "summary": "Leichlingen (ots) - In der Nacht zu Sonntag (01.11.) brachen bislang unbekannte Täter in die Lagerhalle einer Firma in der Straße An der Glashütte ein und entwendeten mehrere Balkonkraftwerke. Der Wert der entwendeten Gegenstände konnte bislang ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6382055",
+    "published": "Mon, 02 Nov 2026 09:10:52 +0100",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-02T10:16:07.363560",
+    "feed_kommunen": []
+  },
+  {
     "id": "a39b433e7d39",
     "title": "Informationsabend: Die Masche der Loverboys: Liebe als Falle",
     "summary": "Loverboys manipulieren junge Frauen und nutzen ihre Gefühle aus. Ein Themenabend in Bergisch Gladbach will aufklären und Betroffenen Mut machen.",
@@ -23,8 +77,7 @@
     "published": "Mon, 02 Nov 2026 07:00:18 +0000",
     "source": "Rheinisch-Bergische Wirtschaftsförderung (RBW)",
     "kommunen": [
-      "wermelskirchen",
-      "kreisweite-nachrichten"
+      "wermelskirchen"
     ],
     "fetched": "2026-11-02T09:16:11.150776",
     "feed_kommunen": []
