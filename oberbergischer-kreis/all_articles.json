@@ -1,5 +1,62 @@
 [
   {
+    "id": "687b12b8dd2a",
+    "title": "Oberberg: Kreistag und Landrat Grootens ziehen Bilanz nach einem Jahr",
+    "summary": "Kreistag und Landrat Klaus Grootens nach einem Jahr: Rettungsdienst, MVZ Waldbröl, Förderschule Bergneustadt und angespannte Finanzen.",
+    "link": "https://www.news-on-tour.de/334421/oberberg-kreistag-bilanz/",
+    "published": "Mon, 02 Nov 2026 16:13:44 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt",
+      "waldbroel"
+    ],
+    "fetched": "2026-11-02T17:17:41.527552",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2ddf259a0f9e",
+    "title": "„Bricht einem das Herz“: Ausverkauf bei Heinhaus in Hückeswagen ist gestartet",
+    "summary": "Seit Montag läuft bei Spielwaren Heinhaus der Ausverkauf. Uwe Heinhaus gibt das Geschäft zum Jahresende auf. Ob aber die Ware bis dahin reicht, ist fraglich: Denn am ersten Tag gab es gleich einen großen Andrang.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/ausverkauf-bei-heinhaus-gestartet-VBZC6ESHYZFPLG7XRM54FFYH6E.html",
+    "published": "Mon, 02 Nov 2026 17:03:15 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen",
+      "radevormwald"
+    ],
+    "fetched": "2026-11-02T17:17:42.400866",
+    "feed_kommunen": [
+      "hueckeswagen",
+      "radevormwald"
+    ]
+  },
+  {
+    "id": "06c288478638",
+    "title": "Prozessauftakt: Marienheider (35) soll junge Frau vergewaltigt haben",
+    "summary": "Marienheide/Köln – Ein Mann soll eine Marienheiderin an einer Wiese zunächst belästigt und kurz darauf vergewaltigt haben – Das Opfer leidet bis heute massiv unter den Folgen - Geständnis zum Prozessauftakt.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/prozessauftakt--marienheider------soll-junge-frau-vergewaltigt-haben-a-139862",
+    "published": "Mon, 02 Nov 2026 17:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-11-02T17:17:48.004904",
+    "feed_kommunen": []
+  },
+  {
+    "id": "3ff53d5e8733",
+    "title": "Tanaka sucht ein neues Zuhause",
+    "summary": "Wiehl - Oberberg-Aktuell präsentiert das „Tier der Woche“ aus dem Tierheim Koppelweide in Wiehl.",
+    "link": "http://www.oberberg-aktuell.de/Wiehl/tanaka-sucht-ein-neues-zuhause-a-139872",
+    "published": "Mon, 02 Nov 2026 16:36:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-02T17:17:48.005023",
+    "feed_kommunen": []
+  },
+  {
     "id": "50de412928d8",
     "title": "Gummersbach: Köfte King im Forum – nur einer kennt das Rezept",
     "summary": "AnzeigeKöfte King im Forum Gummersbach grillt seit 21. Oktober Köfte nach Art der türkischen Stadt İnegöl. Das Rezept kennt nur Gürcan Turan.",
