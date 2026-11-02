@@ -1,5 +1,18 @@
 [
   {
+    "id": "250aa5635799",
+    "title": "Hundesportverein musste Domizil räumen",
+    "summary": "Marienheide – Vereinsgelände musste wegen Erweiterung des Gewerbegebiets aufgegeben werden – Suche nach neuem Gelände gestaltet sich schwierig.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/hundeverein-musste-domizil-raeumen-a-139858",
+    "published": "Mon, 02 Nov 2026 15:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-11-02T15:17:35.597790",
+    "feed_kommunen": []
+  },
+  {
     "id": "057ef2cf7bd0",
     "title": "Ein Mann, eine Gitarre, eine Band: Sypien rockt den Saloon in Wipperfürth",
     "summary": "Daniel Sypien trat im Saloon der Alten Drahtzieherei als Alleinunterhalter auf.",
@@ -23,7 +36,8 @@
       "wiehl",
       "radevormwald",
       "waldbroel",
-      "gummersbach"
+      "gummersbach",
+      "wipperfuerth"
     ],
     "fetched": "2026-11-02T14:17:32.169506",
     "feed_kommunen": []
