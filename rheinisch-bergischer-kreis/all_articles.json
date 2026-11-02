@@ -1,5 +1,98 @@
 [
   {
+    "id": "c264c7cd4ca2",
+    "title": "Wirtschaftsförderin Rabea Küpper: Leichlingen hat „wenig dauerhafte Leerstände“",
+    "summary": "Rabea Küpper hilft Gründern und vermittelt zwischen Eigentümern und Mietinteressenten. Für zwei Ladenlokale laufen Gespräche, doch die Stadt kann Vermieter nicht zur Vermietung verpflichten.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/wirtschaftsfoerderin-rabea-kuepper-leichlingen-hat-wenig-dauerhafte-leerstaende_aid-157321131",
+    "published": "Mon, 02 Nov 2026 14:00:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-02T14:16:16.095591",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
+    "id": "bbec9891b4a6",
+    "title": "Nachlass regeln in Oberberg: Neuer Ratgeber hilft beim Vererben",
+    "summary": "Der Ratgeber der Verbraucherzentrale erklärt, wie sich der Nachlass regeln lässt.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/nachlass-regeln-in-oberberg-neuer-ratgeber-hilft-beim-vererben-1407642",
+    "published": "Mon, 02 Nov 2026 13:54:37 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-02T14:16:14.371587",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d308db0f96fd",
+    "title": "Pitch statt Klausur: Studierende präsentieren sieben Projekte in Bergisch Gladbach",
+    "summary": "Beim Semesterabschluss in Bergisch Gladbach präsentieren Studierende des bib sieben Projekte wie vor echten Kunden.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/studierende-praesentieren-sieben-projekte-in-bergisch-gladbach-1407630",
+    "published": "Mon, 02 Nov 2026 13:45:56 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-02T14:16:14.371718",
+    "feed_kommunen": []
+  },
+  {
+    "id": "354a8c4c1f81",
+    "title": "„K-Pop Live!“ in Bergisch Gladbach: Glitzer, Beats und harte Schule",
+    "summary": "Die Show „K-Pop Live!“ bringt das Lebensgefühl der koreanischen Popkultur in den Bergischen Löwen.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/k-pop-live-glitzer-beats-und-harte-schule-1407625",
+    "published": "Mon, 02 Nov 2026 13:39:32 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-02T14:16:14.371872",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5f1d1dd827a1",
+    "title": "Wie nötig ist ein vorbeugender Rettungsdienst im Rheinisch-Bergischen Kreis?: Hilfe vor dem Notfall",
+    "summary": "CDU und SPD wollen prüfen lassen, ob ein vorbeugender Rettungsdienst unnötige Einsätze vermeiden könnte.",
+    "link": "https://www.ksta.de/region/rhein-berg/hilfe-vor-dem-notfall-im-rheinisch-bergischen-kreis-1407614",
+    "published": "Mon, 02 Nov 2026 13:30:05 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-02T14:16:14.372042",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7a825ab0ab42",
+    "title": "Laientheater in Marialinden ausverkauft: Ganz normal verrückt",
+    "summary": "Das Marialindener Laientheater begeistert mit der Komödie „Neurosige Zeiten“.",
+    "link": "https://www.ksta.de/region/rhein-berg/laientheater-in-marialinden-ausverkauft-ganz-normal-verrueckt-1407607",
+    "published": "Mon, 02 Nov 2026 13:25:08 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "overath"
+    ],
+    "fetched": "2026-11-02T14:16:14.372168",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5114804d36f7",
+    "title": "Von Bach bis John Williams: Klassik im Wasserschloss Georghausen",
+    "summary": "Pianist Viktor Kharenko und seine Familie spielen am 6. November Werke von Bach bis John Williams.",
+    "link": "https://www.ksta.de/region/rhein-berg/von-bach-bis-john-williams-klassik-im-wasserschloss-georghausen-1407603",
+    "published": "Mon, 02 Nov 2026 13:21:20 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-02T14:16:14.372303",
+    "feed_kommunen": []
+  },
+  {
     "id": "7e58432dad92",
     "title": "Zwölf Millionen Euro: Radweg bis viermal so teuer",
     "summary": "Die Kosten für den K18-Radweg bei Dabringhausen steigen auf bis zu zwölf Millionen Euro.",
