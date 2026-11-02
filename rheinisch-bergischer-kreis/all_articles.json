@@ -1,5 +1,72 @@
 [
   {
+    "id": "7e58432dad92",
+    "title": "Zwölf Millionen Euro: Radweg bis viermal so teuer",
+    "summary": "Die Kosten für den K18-Radweg bei Dabringhausen steigen auf bis zu zwölf Millionen Euro.",
+    "link": "https://www.ksta.de/region/rhein-berg/zwoelf-millionen-euro-radweg-bis-viermal-so-teuer-1407505",
+    "published": "Mon, 02 Nov 2026 11:56:25 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-11-02T12:16:03.571544",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8c5b795774dd",
+    "title": "Schnelles Bergisch Gladbach: Seit 2006 düst Gladbach durchs Land",
+    "summary": "Vor 20 Jahren wurde in Köln ein ICE auf den Namen der Kreisstadt getauft.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/schnelles-bergisch-gladbach-seit-2006-duest-gladbach-durchs-land-1407496",
+    "published": "Mon, 02 Nov 2026 11:51:01 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-02T12:16:03.571639",
+    "feed_kommunen": []
+  },
+  {
+    "id": "861bdd1f9d7b",
+    "title": "Quellenbad Wermelskirchen: Im November ändern sich wieder die Öffnungszeiten",
+    "summary": "Grund unter anderem: Das Badpersonal wird bezüglich der neuen Badüberwachung geschult. Die erfolgt über Künstliche Intelligenz.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/quellenbad-wermelskirchen-im-november-aendern-sich-wieder-die-oeffnungszeiten-AIJXPJOZSRGZFGQ26SG63RKYFQ.html",
+    "published": "Mon, 02 Nov 2026 11:31:34 +0100",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-11-02T12:16:00.677001",
+    "feed_kommunen": [
+      "wermelskirchen"
+    ]
+  },
+  {
+    "id": "011ceffaa62d",
+    "title": "Ich geh mit meiner Laterne: Wo Sankt Martin durch Rhein-Berg zieht",
+    "summary": "Zahlreiche Martinszüge ziehen in den kommenden Tagen durch Rhein-Berg.",
+    "link": "https://www.ksta.de/region/rhein-berg/wo-sankt-martin-durch-rhein-berg-zieht-1407445",
+    "published": "Mon, 02 Nov 2026 11:12:50 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-02T12:16:03.571742",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2af3a68e3d2d",
+    "title": "Glückliche Brandmeisteranwärter in Bergisch Gladbach: „Schönster Beruf der Welt“",
+    "summary": "Sechs junge Feuerwehrleute sind in Bergisch Gladbach als Brandmeisteranwärter vereidigt worden.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/glueckliche-brandmeisteranwaerter-in-bergisch-gladbach-1407429",
+    "published": "Mon, 02 Nov 2026 10:54:39 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-02T12:16:03.571853",
+    "feed_kommunen": []
+  },
+  {
     "id": "25b5213f11ec",
     "title": "Einbruch in Leichlingen: Balkonkraftwerke aus Lagerhalle gestohlen",
     "summary": "Trotz verschlossener Tore verschafften sich Unbekannte in der Nacht zu Sonntag Zugang zu einem Firmengelände in Leichlingen. Die Polizei sucht Zeugen.",

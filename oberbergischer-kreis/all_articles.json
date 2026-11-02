@@ -1,5 +1,44 @@
 [
   {
+    "id": "91721d4f16d5",
+    "title": "Etwa 100 Mitarbeiter evakuiert",
+    "summary": "Gummersbach – bei der Firma ABUS stand am Morgen ein Auto in Flammen – Mitarbeiter kamen im Kranhaus unter – Niemand verletzt.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/etwa-----mitarbeiter-evakuiert-a-139845",
+    "published": "Mon, 02 Nov 2026 11:45:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-02T12:17:16.666276",
+    "feed_kommunen": []
+  },
+  {
+    "id": "adb7591683a4",
+    "title": "87-Jährige nach schwerem Unfall verstorben",
+    "summary": "Radevormwald – Anfang Oktober war eine ältere Autofahrerin mit einem Lastwagen zusammengestoßen - Nun ist die Frau im Krankenhaus ihren Verletzungen erlegen (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/kollision-mit-lastwagen--autofahrerin------lebensgef--hrlich-verletzt-a-138599",
+    "published": "Mon, 02 Nov 2026 11:25:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-11-02T12:17:16.666490",
+    "feed_kommunen": []
+  },
+  {
+    "id": "efa570bb47fe",
+    "title": "Graffiti an Firmengebäude: Polizei stellt junges Trio",
+    "summary": "Gummersbach - Sachbeschädigung in Dieringhausen - Videoaufnahmen zeigten die Verdächtigen.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/graffiti-an-firmengeb--ude--polizei-stellt-junges-trio-a-139848",
+    "published": "Mon, 02 Nov 2026 11:20:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-02T12:17:16.666603",
+    "feed_kommunen": []
+  },
+  {
     "id": "dc2b2005c7d0",
     "title": "17-Jähriger bedroht Jugendliche mit einem Messer",
     "summary": "Waldbröl – Bedrohung auf dem Promenadenweg – Polizisten konnten das Messer sicherstellen.",
@@ -39,6 +78,19 @@
     "feed_kommunen": []
   },
   {
+    "id": "67eb732924af",
+    "title": "POL-GM: Nachtrag zu Verkehrsunfall - 87-Jährige im Krankenhaus verstorben",
+    "summary": "Radevormwald (ots) - Nach dem schweren Unfall am Montag (5. Oktober) in Radevormwald (https://www.presseportal.de/blaulicht/pm/65843/6365186)ist die verunglückte 87-Jährige im Krankenhaus gestorben. Rückfragen von Pressevertretern bitte an: ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6382232",
+    "published": "Mon, 02 Nov 2026 10:57:45 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-11-02T12:17:15.776595",
+    "feed_kommunen": []
+  },
+  {
     "id": "2af3a68e3d2d",
     "title": "Glückliche Brandmeisteranwärter in Bergisch Gladbach: „Schönster Beruf der Welt“",
     "summary": "Sechs junge Feuerwehrleute sind in Bergisch Gladbach als Brandmeisteranwärter vereidigt worden.",
@@ -52,6 +104,33 @@
     "feed_kommunen": []
   },
   {
+    "id": "f9a3a31e68ff",
+    "title": "POL-GM: 20-Jähriger verfängt sich nach Verfolgungsfahrt in Weidezaun",
+    "summary": "Wiehl (ots) - Am Freitag (30. Oktober) um kurz vor Mitternacht beabsichtigte eine Streifenwagenbesatzung einen Audi-Fahrer im Bereich der Gummersbacher Straße Ecke Kölner Straße zu kontrollieren. Auf dem Parkplatz einer Fastfood-Kette hielt der ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6382217",
+    "published": "Mon, 02 Nov 2026 10:51:46 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-02T12:17:15.776819",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5c2b9fbf1d32",
+    "title": "POL-GM: Sachbeschädigung durch Graffiti - Tatverdächtige festgestellt",
+    "summary": "Gummersbach (ots) - Am Samstag (31. Oktober) gegen 21:34 Uhr wurde der Polizei eine Sachbeschädigung durch Graffiti an einem Firmengebäude in der Gustav-Adolf-Straße gemeldet. Auf Aufzeichnungen einer Videoüberwachungskamera waren sechs Personen ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6382215",
+    "published": "Mon, 02 Nov 2026 10:51:05 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-02T12:17:15.777051",
+    "feed_kommunen": []
+  },
+  {
     "id": "976debe4ff0e",
     "title": "Geschichten aus Zeiten ohne Strom: Von Kängurus und dem Strommann",
     "summary": "Bei der ersten Taschenlampenführung durch das Bergneustädter Heimatmuseum gab es Geschichten aus Zeiten ohne Strom.",
@@ -62,6 +141,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-02T11:17:51.395387",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6ba38073f459",
+    "title": "POL-GM: 37-Jähriger bedroht Mitbewohner mit Schreckschusspistole",
+    "summary": "Gummersbach (ots) - Am Freitag (30. Oktober) gegen 21:30 Uhr kam es zwischen einem 37-Jährigen aus Gummersbach und seinem 28-Jährigen Mitbewohner zu einem Streit. Der 28-Jährige verließ daraufhin die Wohnung in der Nähe der Brückenstraße. Der ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6382207",
+    "published": "Mon, 02 Nov 2026 10:49:35 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-02T12:17:15.777281",
     "feed_kommunen": []
   },
   {
