@@ -1,5 +1,34 @@
 [
   {
+    "id": "8e03507e11dd",
+    "title": "Von Kappesfest bis Creativ-Basar: Anstehende Termine in Oberberg",
+    "summary": "Vom Kappesfest in Eckenhagen bis zum Repair-Café in Wiehl: Diese Termine in Oberberg sollten Sie sich vormerken.",
+    "link": "https://www.ksta.de/region/oberberg/von-kappesfest-bis-creativ-basar-anstehende-termine-in-oberberg-1408281",
+    "published": "Tue, 03 Nov 2026 11:29:34 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wiehl",
+      "reichshof"
+    ],
+    "fetched": "2026-11-03T12:17:16.844055",
+    "feed_kommunen": []
+  },
+  {
+    "id": "3632b7ee66c5",
+    "title": "Oberberg: Drei Brände binnen fünf Stunden – Tiefgarage in Windhagen, Garage in Wiehl",
+    "summary": "Am 2. November rückten Feuerwehren in Nümbrecht-Breunfeld, Wiehl und Gummersbach-Windhagen zu Bränden aus. In Windhagen half das LUF 60 des Kreises.",
+    "link": "https://www.news-on-tour.de/341915/oberberg-braende-windhagen-wiehl/",
+    "published": "Tue, 03 Nov 2026 09:42:30 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl",
+      "nuembrecht",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-03T12:17:12.946599",
+    "feed_kommunen": []
+  },
+  {
     "id": "540e790afb5f",
     "title": "Wiehl: Unbekannte geben sich als Handwerker aus – Zeugen gesucht",
     "summary": "Wiehl: Ein Unbekannter gab sich als Sanitärarbeiter aus und betrat eine Wohnung, ein zweiter folgte. Die Polizei bittet um Hinweise.",
@@ -24,6 +53,19 @@
       "wiehl"
     ],
     "fetched": "2026-11-03T10:17:04.919576",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d0a6c9e64935",
+    "title": "Dachstuhl in Flammen: 70 Rettungskräfte in Breunfeld im Einsatz",
+    "summary": "Freiwillige Feuerwehren konnten in der Nacht zu Montag in Breunfeld und Bielstein größere Schäden verhindern.",
+    "link": "https://www.ksta.de/region/oberberg/dachstuhl-in-flammen-70-rettungskraefte-in-breunfeld-im-einsatz-1408181",
+    "published": "Tue, 03 Nov 2026 09:51:09 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-03T12:17:16.844826",
     "feed_kommunen": []
   },
   {

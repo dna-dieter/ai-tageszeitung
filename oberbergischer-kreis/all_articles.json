@@ -1,5 +1,84 @@
 [
   {
+    "id": "fa79d8e9ffd7",
+    "title": "Trauer um letzten Waldbröler Stadtdirektor",
+    "summary": "Waldbröl - Lorenz Pevec starb im Alter von 87 Jahren - Stadt würdigt seine Verdienste in Nachruf.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/trauer-um-letzten-waldbr--ler-stadtdirektor-a-139895",
+    "published": "Tue, 03 Nov 2026 12:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-03T12:17:17.671099",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a60046df78ff",
+    "title": "Halle 32: Von Bach bis Unheilig",
+    "summary": "Gummersbach – Ein Konzert im Kerzen- und Mondlicht: Am 28. November findet in Gummersbach ein „Moonlight Concert“ statt.",
+    "link": "http://www.oberberg-aktuell.de/kultur/halle-----von-bach-bis-unheilig-a-139899",
+    "published": "Tue, 03 Nov 2026 11:50:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-03T12:17:17.671249",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8e03507e11dd",
+    "title": "Von Kappesfest bis Creativ-Basar: Anstehende Termine in Oberberg",
+    "summary": "Vom Kappesfest in Eckenhagen bis zum Repair-Café in Wiehl: Diese Termine in Oberberg sollten Sie sich vormerken.",
+    "link": "https://www.ksta.de/region/oberberg/von-kappesfest-bis-creativ-basar-anstehende-termine-in-oberberg-1408281",
+    "published": "Tue, 03 Nov 2026 11:29:34 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wiehl",
+      "reichshof"
+    ],
+    "fetched": "2026-11-03T12:17:16.844055",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a54ef20292ed",
+    "title": "Lindlarer Big Band: Oberberger Amateure musizieren mit Jazzprofis",
+    "summary": "Beim Konzert „Sing and Swing“ im Lindlarer Kulturzentrum spielen Amateure mit Profis..",
+    "link": "https://www.ksta.de/region/oberberg/lindlar/lindlarer-big-band-oberberger-amateure-musizieren-mit-jazzprofis-1408279",
+    "published": "Tue, 03 Nov 2026 11:23:07 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-03T12:17:16.844195",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c9ebd944b68a",
+    "title": "Orange Falle in Oberberg: Wie ein Parasit Enten über Krebse erreicht",
+    "summary": "Serie „Lebendiges Oberberg“: Der Gewöhnliche Flohkrebs zersetzt Laub, dient Parasiten als Wirt.",
+    "link": "https://www.ksta.de/region/oberberg/orange-falle-in-wie-ein-parasit-enten-ueber-krebse-erreicht-1408273",
+    "published": "Tue, 03 Nov 2026 11:19:54 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T12:17:16.844345",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4bb3f631ec78",
+    "title": "Feuer bei Abus in Gummersbach: Auto brennt in Tiefgarage, Rauch im Gebäude",
+    "summary": "Die Polizei hat den zerstörten Wagen beschlagnahmt, um die Brandursache zu klären.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/feuer-bei-abus-in-gummersbach-1408267",
+    "published": "Tue, 03 Nov 2026 11:15:12 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-03T12:17:16.844464",
+    "feed_kommunen": []
+  },
+  {
     "id": "472602452e46",
     "title": "(Update 5) Bergneustadt: Bürgerbefragung zur Windkraft – Nein vorn bei Papierstimmen, online noch offen",
     "summary": "Update: Der Kreis bestätigt die Zahlen. Das Endergebnis kommt am Mittwoch, am 11. November liegt es dem Hauptausschuss vor. Bei den Papierstimmen der Bürgerbefragung zur Windkraft in Bergneustadt liegt Nein vorn, online sind 3.875 Stimmen offen. Was gesichert ist und was nicht.",
@@ -10,6 +89,21 @@
       "bergneustadt"
     ],
     "fetched": "2026-11-03T11:16:56.609013",
+    "feed_kommunen": []
+  },
+  {
+    "id": "3632b7ee66c5",
+    "title": "Oberberg: Drei Brände binnen fünf Stunden – Tiefgarage in Windhagen, Garage in Wiehl",
+    "summary": "Am 2. November rückten Feuerwehren in Nümbrecht-Breunfeld, Wiehl und Gummersbach-Windhagen zu Bränden aus. In Windhagen half das LUF 60 des Kreises.",
+    "link": "https://www.news-on-tour.de/341915/oberberg-braende-windhagen-wiehl/",
+    "published": "Tue, 03 Nov 2026 09:42:30 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl",
+      "nuembrecht",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-03T12:17:12.946599",
     "feed_kommunen": []
   },
   {
@@ -41,6 +135,19 @@
     ]
   },
   {
+    "id": "8458d3324850",
+    "title": "Lorenz Pevec gestorben: Waldbröl trauert um Ex-Stadtdirektor",
+    "summary": "Der frühere Waldbröler Stadtdirektor und verdiente Ehrenamtler im Alter von 87 Jahren gestorben.",
+    "link": "https://www.ksta.de/region/oberberg/waldbroel/lorenz-pevec-gestorben-waldbroel-trauert-um-ex-stadtdirektor-1408191",
+    "published": "Tue, 03 Nov 2026 10:00:06 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-03T12:17:16.844584",
+    "feed_kommunen": []
+  },
+  {
     "id": "0e1106873f34",
     "title": "Volkstrauertag im Oberbergischen",
     "summary": "Oberberg - Am Sonntag, 15. November, wird im Oberbergischen an die Kriegstoten und Opfer aller Nationen gedacht.",
@@ -51,6 +158,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-03T10:17:04.919491",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f904a69726f7",
+    "title": "Knapp 30.000 Euro für Indonesien: Waldbröler Basar übertrifft sich selbst",
+    "summary": "Der Missionsbasar im Waldbröler Wiedenhof brachte rund 30.000 Euro ein.",
+    "link": "https://www.ksta.de/region/oberberg/waldbroel/knapp-30-000-euro-fuer-indonesien-waldbroeler-basar-uebertrifft-sich-selbst-1408189",
+    "published": "Tue, 03 Nov 2026 09:57:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-03T12:17:16.844697",
     "feed_kommunen": []
   },
   {
@@ -65,6 +185,19 @@
       "wiehl"
     ],
     "fetched": "2026-11-03T10:17:04.919576",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d0a6c9e64935",
+    "title": "Dachstuhl in Flammen: 70 Rettungskräfte in Breunfeld im Einsatz",
+    "summary": "Freiwillige Feuerwehren konnten in der Nacht zu Montag in Breunfeld und Bielstein größere Schäden verhindern.",
+    "link": "https://www.ksta.de/region/oberberg/dachstuhl-in-flammen-70-rettungskraefte-in-breunfeld-im-einsatz-1408181",
+    "published": "Tue, 03 Nov 2026 09:51:09 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-03T12:17:16.844826",
     "feed_kommunen": []
   },
   {
@@ -110,16 +243,16 @@
     "feed_kommunen": []
   },
   {
-    "id": "8d8c35dbe663",
-    "title": "(Eilmeldung) Gummersbach: Feuerwehr-Einsatz in Dieringhausen wegen Kohlenmonoxid",
-    "summary": "Feuerwehr-Einsatz in Gummersbach-Dieringhausen: Die Kreisleitstelle meldet Kohlenmonoxid in einem Gebäude an der Dieringhauser Straße. Auch der Rettungsdienst ist im Einsatz.",
+    "id": "815e5b3acb63",
+    "title": "(Update) Gummersbach: Feuerwehr-Einsatz in Dieringhausen wegen Kohlenmonoxid",
+    "summary": "Update: Feuerwehr-Einsatz in Gummersbach-Dieringhausen: Die Kreisleitstelle meldete Kohlenmonoxid in einem Gebäude an der Dieringhauser Straße. Weitere Angaben sind bisher unbestätigt.",
     "link": "https://www.news-on-tour.de/341899/gummersbach-kohlenmonoxid-dieringhausen/",
     "published": "Tue, 03 Nov 2026 08:28:19 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "gummersbach"
     ],
-    "fetched": "2026-11-03T10:16:59.774126",
+    "fetched": "2026-11-03T12:17:12.948616",
     "feed_kommunen": []
   },
   {

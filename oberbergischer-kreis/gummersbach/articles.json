@@ -1,5 +1,46 @@
 [
   {
+    "id": "a60046df78ff",
+    "title": "Halle 32: Von Bach bis Unheilig",
+    "summary": "Gummersbach – Ein Konzert im Kerzen- und Mondlicht: Am 28. November findet in Gummersbach ein „Moonlight Concert“ statt.",
+    "link": "http://www.oberberg-aktuell.de/kultur/halle-----von-bach-bis-unheilig-a-139899",
+    "published": "Tue, 03 Nov 2026 11:50:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-03T12:17:17.671249",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4bb3f631ec78",
+    "title": "Feuer bei Abus in Gummersbach: Auto brennt in Tiefgarage, Rauch im Gebäude",
+    "summary": "Die Polizei hat den zerstörten Wagen beschlagnahmt, um die Brandursache zu klären.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/feuer-bei-abus-in-gummersbach-1408267",
+    "published": "Tue, 03 Nov 2026 11:15:12 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-03T12:17:16.844464",
+    "feed_kommunen": []
+  },
+  {
+    "id": "3632b7ee66c5",
+    "title": "Oberberg: Drei Brände binnen fünf Stunden – Tiefgarage in Windhagen, Garage in Wiehl",
+    "summary": "Am 2. November rückten Feuerwehren in Nümbrecht-Breunfeld, Wiehl und Gummersbach-Windhagen zu Bränden aus. In Windhagen half das LUF 60 des Kreises.",
+    "link": "https://www.news-on-tour.de/341915/oberberg-braende-windhagen-wiehl/",
+    "published": "Tue, 03 Nov 2026 09:42:30 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl",
+      "nuembrecht",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-03T12:17:12.946599",
+    "feed_kommunen": []
+  },
+  {
     "id": "86eed467529a",
     "title": "Erstmeldung: Großaufgebot in Dieringhausen im Einsatz",
     "summary": "Gummersbach – In einem Wohn- und Geschäftshaus an der Dieringhauser Straße ist es offenbar zu einem Kohlenmonoxid-Austritt gekommen.",
@@ -13,16 +54,16 @@
     "feed_kommunen": []
   },
   {
-    "id": "8d8c35dbe663",
-    "title": "(Eilmeldung) Gummersbach: Feuerwehr-Einsatz in Dieringhausen wegen Kohlenmonoxid",
-    "summary": "Feuerwehr-Einsatz in Gummersbach-Dieringhausen: Die Kreisleitstelle meldet Kohlenmonoxid in einem Gebäude an der Dieringhauser Straße. Auch der Rettungsdienst ist im Einsatz.",
+    "id": "815e5b3acb63",
+    "title": "(Update) Gummersbach: Feuerwehr-Einsatz in Dieringhausen wegen Kohlenmonoxid",
+    "summary": "Update: Feuerwehr-Einsatz in Gummersbach-Dieringhausen: Die Kreisleitstelle meldete Kohlenmonoxid in einem Gebäude an der Dieringhauser Straße. Weitere Angaben sind bisher unbestätigt.",
     "link": "https://www.news-on-tour.de/341899/gummersbach-kohlenmonoxid-dieringhausen/",
     "published": "Tue, 03 Nov 2026 08:28:19 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "gummersbach"
     ],
-    "fetched": "2026-11-03T10:16:59.774126",
+    "fetched": "2026-11-03T12:17:12.948616",
     "feed_kommunen": []
   },
   {
