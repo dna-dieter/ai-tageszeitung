@@ -39,19 +39,6 @@
     "feed_kommunen": []
   },
   {
-    "id": "c45060cc2648",
-    "title": "Sankt Martinsmarkt mit Musik und Laternenumzug in der Innenstadt",
-    "summary": "Im vergangenen Jahr war er ausgefallen, doch am kommenden Sonntag findet wieder der Sankt Martinsmarkt auf dem Konrad-Adenauer-Platz statt. Zum Programm gehören Live-Musik, ein Kreativ- und Schlemmermarkt sowie Bastelangebote für Kinder und Erwachsene. Zudem öffnen die Geschäfte in der Innenstadt zum verkaufsoffenen Sonntag.",
-    "link": "https://in-gl.de/2026/11/02/sankt-martinsmarkt-mit-musik-und-laternenumzug-in-der-innenstadt/",
-    "published": "Mon, 02 Nov 2026 10:41:00 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "kreisweite-nachrichten"
-    ],
-    "fetched": "2026-11-03T03:15:33.657571",
-    "feed_kommunen": []
-  },
-  {
     "id": "011ceffaa62d",
     "title": "Ich geh mit meiner Laterne: Wo Sankt Martin durch Rhein-Berg zieht",
     "summary": "Zahlreiche Martinszüge ziehen in den kommenden Tagen durch Rhein-Berg.",
@@ -438,6 +425,21 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-22T20:41:31.719896"
+  },
+  {
+    "id": "efb6ff8004ca",
+    "title": "Baustellen-Ticker: Arbeiten auf Hauptstraße beendet, Ampeln abgebaut",
+    "summary": "Autofahrer brauchten seit Ende Juli besonders viel Geduld, wenn sie aus Kürten oder Odenthal in die Innenstadt fuhren - oder von dort wieder zurück. Bauarbeiten der RheinNetz verwandelten den Kreuzungsbereich der Hauptstraße mit der Odenthaler Straße in ein Nadelöhr. Die sind nun abgeschlossen.",
+    "link": "https://in-gl.de/2026/10/22/alle-baustellen-ticker-bergisch-gladbach/",
+    "published": "Thu, 22 Oct 2026 13:51:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kuerten",
+      "odenthal",
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-22T23:27:49.435505",
+    "feed_kommunen": []
   },
   {
     "id": "8516804cc1ec",
