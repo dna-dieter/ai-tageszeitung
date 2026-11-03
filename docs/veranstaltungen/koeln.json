@@ -1,148 +1,5 @@
 [
   {
-    "titel": "Spieletester*innen",
-    "datum": "3. Nov 2026",
-    "datum_raw": "2026-11-03T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Kalk, Kalk",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40628/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "15 bis 16:30 Uhr (ab 6 Jahre), 16:30 bis 18 Uhr (ab 12 Jahre) · Kinder und Jugendliche ab 6 und 12 Jahren haben die Möglichkeit aktuelle Spiele auszuprobieren – in der Stadtteilbibliothek Kalk."
-  },
-  {
-    "titel": "Nippeser Strickmamsellcher",
-    "datum": "3. Nov 2026",
-    "datum_raw": "2026-11-03T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41276/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "15:30 bis 17:30 Uhr · Stricken und Klönen in der Stadtteilbibliothek Nippes."
-  },
-  {
-    "titel": "Wir spielen Schach",
-    "datum": "3. Nov 2026",
-    "datum_raw": "2026-11-03T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Mülheim, Mülheim",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41274/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "16 bis 18 Uhr · Schach spielen und lernen für Kinder ab 8 Jahren in der Stadtteilbibliothek Mülheim"
-  },
-  {
-    "titel": "Ein Ort der Poesie: Anderland 8",
-    "datum": "3. Nov 2026",
-    "datum_raw": "2026-11-03T00:00:00",
-    "datum_bis": "",
-    "ort": "Interim Zentralbibliothek",
-    "preis": "Der Eintritt kostet 12 Euro, ermäßigt 10 Euro.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41361/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "19:30 Uhr · Das Kölner Festival zur Poesie mit Esther Kinsky und José F. A. Oliver. Im Rahmen unseres Kulturprogramms im Interim Zentralbibliothek."
-  },
-  {
-    "titel": "Persönliche Hilfestellung für eMedien",
-    "datum": "3. Nov 2026",
-    "datum_raw": "2026-11-03T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Rodenkirchen, Rodenkirchen",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41096/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "4 Termine:, 15 bis 15:30 Uhr, 15:30 bis 16 Uhr, 16 bis 16:30 Uhr, 16:30 bis 17 Uhr · Spezifische Problemlösung für Onleihe und Libby (Overdrive). Im Rahmen der Reihe Digitale Werkstatt in der Stadtteilbibliothek Rodenkirchen."
-  },
-  {
-    "titel": "Bücherbabys – die literarische Krabbelgruppe",
-    "datum": "3. Nov 2026",
-    "datum_raw": "2026-11-03T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Haus Balchem, Altstadt/Süd",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41432/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "9:30 bis 10:30 Uhr · Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Haus Balchem."
-  },
-  {
-    "titel": "Street Gallery Lindenthal – Lebenslinien",
-    "datum": "3. Nov 2026",
-    "datum_raw": "2026-11-03T00:00:00",
-    "datum_bis": "4. Nov 2026",
-    "ort": "Kunsthalle Lindenthal, Braunsfeld",
-    "preis": "Die Ausstellung ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41467/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Vernissage: 25. Oktober 2026, 14 Uhr, Sonntag, 25.Oktober, bis Mittwoch, 4. November: 14 bis 18 Uhr, Samstag, 31. Oktober: 11 bis 15 Uhr, · Ausstellung von Street Gallery"
-  },
-  {
-    "titel": "Internationale Deutsche Jugendmeisterschaft im Boxen U18",
-    "datum": "3. Nov 2026",
-    "datum_raw": "2026-11-03T00:00:00",
-    "datum_bis": "7. Nov 2026",
-    "ort": "Sporthalle am Südstadion",
-    "preis": "Die Ticketpreise können Sie der Internetseite des Veranstalters entnehmen",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41258/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Die besten Nachwuchssportler*innen unter 18 Jahren kämpfen in jeweils zehn Gewichtsklassen um den deutschen Meistertitel."
-  },
-  {
-    "titel": "Städtebauliche Entwicklung Longericher Straße in Köln-Bilderstöckchen, 246. Änderung des Flächennutzungsplans",
-    "datum": "3. Nov 2026",
-    "datum_raw": "2026-11-03T00:00:00",
-    "datum_bis": "13. Nov 2026",
-    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41488/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr,, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
-  },
-  {
-    "titel": "Sicherung der Clubkultur im Bereich Lichtstraße/Ehrenfeldgürtel in Köln-Ehrenfeld, 254. Änderung des Flächennutzungsplanes",
-    "datum": "3. Nov 2026",
-    "datum_raw": "2026-11-03T00:00:00",
-    "datum_bis": "13. Nov 2026",
-    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41462/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
-  },
-  {
-    "titel": "Haselbergstraße/Piusstraße, 2. Änderung (2. Teilaufhebung) in Köln-Lindenthal",
-    "datum": "3. Nov 2026",
-    "datum_raw": "2026-11-03T00:00:00",
-    "datum_bis": "23. Nov 2026",
-    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41583/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
-  },
-  {
-    "titel": "Ausstellung: Fernweh und Heimat vom Kölner Maler-Kreis",
-    "datum": "3. Nov 2026",
-    "datum_raw": "2026-11-03T00:00:00",
-    "datum_bis": "1. Dez 2026",
-    "ort": "Bezirksrathaus Nippes, Weidenpesch",
-    "preis": "Der Eintritt ist frei.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41662/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Ausstellungseröffnung: 2. November, 18 Uhr, Montags und donnerstags: 8 bis 15 Uhr, Dienstags: 9 bis 18 Uhr, Mittwochs und freitags: 8 bis 12 Uhr · Was bedeutet Heimat? Und wohin zieht es uns, wenn wir Fernweh haben?"
-  },
-  {
-    "titel": "Führung durch den Skulpturenpark Köln",
-    "datum": "3. Nov 2026",
-    "datum_raw": "2026-11-03T00:00:00",
-    "datum_bis": "6. Dez 2026",
-    "ort": "Skulpturenpark Köln, Neustadt/Nord",
-    "preis": "Der Eintritt in den Park ist frei. Kosten für die Führungen: Erwachsene: 8 Euro,",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/39535/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Jeden ersten Sonntag im Monat von 15 bis 16 Uhr · Im Skulpturenpark zeigen wir eine große Bandbreite moderner zeitgenössischer Außenskulpturen unter freiem Himmel."
-  },
-  {
     "titel": "Online-Informationsveranstaltung für Eltern zum Übergang in die weiterführende Schule",
     "datum": "4. Nov 2026",
     "datum_raw": "2026-11-04T00:00:00",
@@ -218,6 +75,83 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41282/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "16:30 bis 17 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Sülz."
+  },
+  {
+    "titel": "Street Gallery Lindenthal – Lebenslinien",
+    "datum": "4. Nov 2026",
+    "datum_raw": "2026-11-04T00:00:00",
+    "datum_bis": "",
+    "ort": "Kunsthalle Lindenthal, Braunsfeld",
+    "preis": "Die Ausstellung ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41467/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Vernissage: 25. Oktober 2026, 14 Uhr, Sonntag, 25.Oktober, bis Mittwoch, 4. November: 14 bis 18 Uhr, Samstag, 31. Oktober: 11 bis 15 Uhr, · Ausstellung von Street Gallery"
+  },
+  {
+    "titel": "Internationale Deutsche Jugendmeisterschaft im Boxen U18",
+    "datum": "4. Nov 2026",
+    "datum_raw": "2026-11-04T00:00:00",
+    "datum_bis": "7. Nov 2026",
+    "ort": "Sporthalle am Südstadion",
+    "preis": "Die Ticketpreise können Sie der Internetseite des Veranstalters entnehmen",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41258/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Die besten Nachwuchssportler*innen unter 18 Jahren kämpfen in jeweils zehn Gewichtsklassen um den deutschen Meistertitel."
+  },
+  {
+    "titel": "Städtebauliche Entwicklung Longericher Straße in Köln-Bilderstöckchen, 246. Änderung des Flächennutzungsplans",
+    "datum": "4. Nov 2026",
+    "datum_raw": "2026-11-04T00:00:00",
+    "datum_bis": "13. Nov 2026",
+    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41488/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr,, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
+  },
+  {
+    "titel": "Sicherung der Clubkultur im Bereich Lichtstraße/Ehrenfeldgürtel in Köln-Ehrenfeld, 254. Änderung des Flächennutzungsplanes",
+    "datum": "4. Nov 2026",
+    "datum_raw": "2026-11-04T00:00:00",
+    "datum_bis": "13. Nov 2026",
+    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41462/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
+  },
+  {
+    "titel": "Haselbergstraße/Piusstraße, 2. Änderung (2. Teilaufhebung) in Köln-Lindenthal",
+    "datum": "4. Nov 2026",
+    "datum_raw": "2026-11-04T00:00:00",
+    "datum_bis": "23. Nov 2026",
+    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41583/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
+  },
+  {
+    "titel": "Ausstellung: Fernweh und Heimat vom Kölner Maler-Kreis",
+    "datum": "4. Nov 2026",
+    "datum_raw": "2026-11-04T00:00:00",
+    "datum_bis": "1. Dez 2026",
+    "ort": "Bezirksrathaus Nippes, Weidenpesch",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41662/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Ausstellungseröffnung: 2. November, 18 Uhr, Montags und donnerstags: 8 bis 15 Uhr, Dienstags: 9 bis 18 Uhr, Mittwochs und freitags: 8 bis 12 Uhr · Was bedeutet Heimat? Und wohin zieht es uns, wenn wir Fernweh haben?"
+  },
+  {
+    "titel": "Führung durch den Skulpturenpark Köln",
+    "datum": "4. Nov 2026",
+    "datum_raw": "2026-11-04T00:00:00",
+    "datum_bis": "6. Dez 2026",
+    "ort": "Skulpturenpark Köln, Neustadt/Nord",
+    "preis": "Der Eintritt in den Park ist frei. Kosten für die Führungen: Erwachsene: 8 Euro,",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/39535/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Jeden ersten Sonntag im Monat von 15 bis 16 Uhr · Im Skulpturenpark zeigen wir eine große Bandbreite moderner zeitgenössischer Außenskulpturen unter freiem Himmel."
   },
   {
     "titel": "Bücherbabys – die literarische Krabbelgruppe",
