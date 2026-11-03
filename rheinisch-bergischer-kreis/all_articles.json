@@ -1,5 +1,35 @@
 [
   {
+    "id": "6a3b671822d9",
+    "title": "Was im November im Kulturforum Burscheid läuft – von Impro-Comedy bis Jazz",
+    "summary": "Kultur gegen Novembergrau: In Burscheid startet am 7. November die Fotoausstellung „Burscheid. Vor Ort“ mit 14 künstlerischen Perspektiven auf die Stadt. Außerdem im Programm: Impro-Comedy, orientalische Klangwelten und der Start in die Adventszeit mit Liedern und Tänzen.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/was-im-november-im-kulturforum-burscheid-laeuft-von-impro-comedy-bis-jazz-BFTBRWYYSRH3XCVNMDN7JY6SPE.html",
+    "published": "Tue, 03 Nov 2026 04:00:02 +0100",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-03T04:16:03.767220",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
+    "id": "2b3c6ec427d5",
+    "title": "Alle freuen sich auf die 18. Wermelskirchener Musik-Tour",
+    "summary": "Zum 18. Mal machen 18 Locations mit. Andrea Strunk vom Veranstalter Werbestudio Strunk findet: „Die Musikrunde durch die Innenstadt und die Dörfer hat sich längst bewährt“. Es gibt viele echte Fans - und solche, die neu hinzukommen.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/alle-freuen-sich-auf-die-18-wermelskirchener-musik-tour-YXOKS63X2ZH6FBRXFQVSBVSGYM.html",
+    "published": "Tue, 03 Nov 2026 04:00:01 +0100",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-11-03T04:16:02.910563",
+    "feed_kommunen": [
+      "wermelskirchen"
+    ]
+  },
+  {
     "id": "5aa520e53f4f",
     "title": "Ausverkauft? Volksbühne verschenkt Karten – mit einer einfachen Krimifrage",
     "summary": "Wer hat die ausverkauften Vorstellungen verpasst? Jetzt gibt es eine zweite Chance: Die Volksbühne Bergisch Neukirchen spielt „Ein Mord wird angekündigt“ am 14. November im Megafon. Wir verlosen 4x2 Freikarten – Sie müssen nur eine einfache Krimifrage beantworten.",
@@ -2867,8 +2897,7 @@
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
       "kuerten",
-      "odenthal",
-      "kreisweite-nachrichten"
+      "odenthal"
     ],
     "fetched": "2026-10-22T23:27:49.435505",
     "feed_kommunen": []
