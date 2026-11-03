@@ -1,5 +1,31 @@
 [
   {
+    "id": "b73044c21732",
+    "title": "Haus Lerbach erwacht: Führungen und Geschichten",
+    "summary": "Für die Öffentlichkeit ist der Park von Haus Lerbach weiterhin geschlossen - aber für Führungen ist er immer wieder geöffnet worden. Unsere Autorin hat die Gruppen begleitet und dabei von den Besucherinnen und Besuchern viele persönliche Geschichten über „Schloss Lerbach“ gesammelt.",
+    "link": "https://in-gl.de/2026/11/03/haus-lerbach-erwacht-fuehrungen-und-geschichten/",
+    "published": "Tue, 03 Nov 2026 19:09:57 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T21:15:46.006560",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5211202682e7",
+    "title": "Geschäftslage, Beschäftigung und Investitionen bleiben schwach",
+    "summary": "Gegen den Trend in der Region Köln blicken die Unternehmen in Rhein-Berg noch pessimistischer auf die kommenden Monate. 31 Prozent der Betriebe bewerten die Lage inzwischen als schlecht. Fast die Hälfte will die Investitionen reduzieren, berichtet die IHK in ihrem aktuellen Konjunkturbericht.",
+    "link": "https://in-gl.de/2026/11/03/geschaeftslage-beschaeftigung-und-investitionen-bleiben-schwach/",
+    "published": "Tue, 03 Nov 2026 17:46:01 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T21:15:46.007012",
+    "feed_kommunen": []
+  },
+  {
     "id": "8093033c70ee",
     "title": "IHK-Umfrage: Stimmung bei Unternehmen in Leverkusen und Rhein-Berg weiterhin nicht gut",
     "summary": "Die Firmen klagen nach wie vor über zu hohe Kosten.",
@@ -23,6 +49,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-03T14:16:14.982449",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2ae0c456c953",
+    "title": "Spielcontainer im Gleispark nach Vandalismus gesperrt",
+    "summary": "Der Gleispark auf dem Zanders-Areal wird sehr gut angenommen, aber nicht von allen Besuchern gut behandelt. So wurde der große gelbe Spielcontainer gesperrt, nachdem ein Schutzgitter herausgetreten worden war. Trotz einiger Zerstörungen im Umfeld gibt es auf Zanders aber nach Einschätzung der Stadt kein echtes Vandalismus-Problem.",
+    "link": "https://in-gl.de/2026/11/03/spielcontainer-im-gleispark-nach-vandalismus-gesperrt/",
+    "published": "Tue, 03 Nov 2026 12:03:18 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T21:15:46.007425",
     "feed_kommunen": []
   },
   {
@@ -78,6 +117,19 @@
     "feed_kommunen": []
   },
   {
+    "id": "aabfd3c56055",
+    "title": "Unsere Buchtipps im November",
+    "summary": "Diese Bücher haben es uns angetan: Ein einfallsreicher Roman über einen liebenswerten Pechvogel. Ein perfekter Krimispaß für die dunkle Jahreszeit. Und ein hoffnungsvoller Roman über die Anforderungen des Lebens. (Bezahlter Beitrag)",
+    "link": "https://in-gl.de/2026/11/03/unsere-buchtipps-im-november-buchhandlung-funk-bergisch-gladbach-bensberg/",
+    "published": "Tue, 03 Nov 2026 09:53:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T21:15:46.008677",
+    "feed_kommunen": []
+  },
+  {
     "id": "c1d5dd2ac713",
     "title": "Rettungshundestaffel sucht Nachwuchs: Casting für Mensch und Hund",
     "summary": "Die Johanniter-Rettungshundestaffel sucht Nachwuchs und testet Mensch und Hund beim Casting.",
@@ -88,6 +140,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-03T14:16:14.983098",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9216cadf8101",
+    "title": "„Vorhang auf – wir spielen weiter Theater!“",
+    "summary": "Am THEAS Theater geht der Schauspielkurs für Kinder der zweiten bis vierten Klasse in die nächste Runde mit sechs Terminen.",
+    "link": "https://in-gl.de/2026/11/03/vorhang-auf-wir-spielen-weiter-theater/",
+    "published": "Tue, 03 Nov 2026 07:13:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T21:15:46.009685",
     "feed_kommunen": []
   },
   {
@@ -516,6 +581,21 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-22T20:41:31.719896"
+  },
+  {
+    "id": "efb6ff8004ca",
+    "title": "Baustellen-Ticker: Arbeiten auf Hauptstraße beendet, Ampeln abgebaut",
+    "summary": "Autofahrer brauchten seit Ende Juli besonders viel Geduld, wenn sie aus Kürten oder Odenthal in die Innenstadt fuhren - oder von dort wieder zurück. Bauarbeiten der RheinNetz verwandelten den Kreuzungsbereich der Hauptstraße mit der Odenthaler Straße in ein Nadelöhr. Die sind nun abgeschlossen.",
+    "link": "https://in-gl.de/2026/10/22/alle-baustellen-ticker-bergisch-gladbach/",
+    "published": "Thu, 22 Oct 2026 13:51:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kuerten",
+      "odenthal",
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-10-22T23:27:49.435505",
+    "feed_kommunen": []
   },
   {
     "id": "8516804cc1ec",
