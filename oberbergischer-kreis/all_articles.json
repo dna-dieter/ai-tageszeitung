@@ -1,5 +1,139 @@
 [
   {
+    "id": "0e1106873f34",
+    "title": "Volkstrauertag im Oberbergischen",
+    "summary": "Oberberg - Am Sonntag, 15. November, wird im Oberbergischen an die Kriegstoten und Opfer aller Nationen gedacht.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/volkstrauertag-im-oberbergischen------a-139632",
+    "published": "Tue, 03 Nov 2026 10:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T10:17:04.919491",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e388fbbf0bbc",
+    "title": "Mit Straßenlaterne kollidiert: 51-Jährige schwer verletzt",
+    "summary": "Wiehl – Wipperfürtherin verunglückte am Montagmorgen im Bereich der Bielsteiner Straße/L 321.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/mit-stra--enlaterne-kollidiert-----j--hrige-schwer-verletzt-a-139893",
+    "published": "Tue, 03 Nov 2026 09:53:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wipperfuerth",
+      "wiehl"
+    ],
+    "fetched": "2026-11-03T10:17:04.919576",
+    "feed_kommunen": []
+  },
+  {
+    "id": "565033589b91",
+    "title": "Wiehl: Alleinunfall an der L321 – 51-Jährige schwer verletzt",
+    "summary": "Schwer verletzt kam eine 51-Jährige aus Wipperfürth nach einem Alleinunfall in Wiehl ins Krankenhaus. Die L321 war mehrere Stunden gesperrt.",
+    "link": "https://www.news-on-tour.de/341903/wiehl-alleinunfall-l321/",
+    "published": "Tue, 03 Nov 2026 08:47:01 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wipperfuerth",
+      "wiehl"
+    ],
+    "fetched": "2026-11-03T10:16:59.773865",
+    "feed_kommunen": []
+  },
+  {
+    "id": "0d3c89296a7e",
+    "title": "Bürgerservice am 08.und 09.12.2026 geschlossen",
+    "summary": "Der Bürgerservice ist am 08. und 09.12.2026 wegen einer Schulung jeweils ganztägig geschlossen.",
+    "link": "https://www.wipperfuerth.de/detailansicht/buergerservice-am-08und-09122026-geschlossen.html",
+    "published": "Tue, 03 Nov 2026 09:41:24 +0100",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-03T10:17:02.302437",
+    "feed_kommunen": [
+      "wipperfuerth"
+    ]
+  },
+  {
+    "id": "86eed467529a",
+    "title": "Erstmeldung: Großaufgebot in Dieringhausen im Einsatz",
+    "summary": "Gummersbach – In einem Wohn- und Geschäftshaus an der Dieringhauser Straße ist es offenbar zu einem Kohlenmonoxid-Austritt gekommen.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/erstmeldung--gro--aufgebot-in-dieringhausen-im-einsatz-a-139892",
+    "published": "Tue, 03 Nov 2026 09:39:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-03T10:17:04.919675",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8d8c35dbe663",
+    "title": "(Eilmeldung) Gummersbach: Feuerwehr-Einsatz in Dieringhausen wegen Kohlenmonoxid",
+    "summary": "Feuerwehr-Einsatz in Gummersbach-Dieringhausen: Die Kreisleitstelle meldet Kohlenmonoxid in einem Gebäude an der Dieringhauser Straße. Auch der Rettungsdienst ist im Einsatz.",
+    "link": "https://www.news-on-tour.de/341899/gummersbach-kohlenmonoxid-dieringhausen/",
+    "published": "Tue, 03 Nov 2026 08:28:19 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-03T10:16:59.774126",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a8eecf14fb75",
+    "title": "Hunde-Casting in Wiehl: Retter auf vier Pfoten gesucht",
+    "summary": "Bei der Johanniter-Rettungshundestaffel sind Hund und Halter bei jedem Wetter gefordert.",
+    "link": "https://www.ksta.de/region/oberberg/wiehl/hunde-casting-in-wiehl-retter-auf-vier-pfoten-gesucht-1408164",
+    "published": "Tue, 03 Nov 2026 09:27:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-03T10:17:03.904421",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8fe623c0bac4",
+    "title": "Gummersbach: Wertermittlung für Bernberg – Einsicht ab 30. November",
+    "summary": "Wertermittlung Bernberg: Beteiligte können die Ergebnisse ab 30. November im Rathaus Gummersbach einsehen. Im Dezember folgt die Anhörung.",
+    "link": "https://www.news-on-tour.de/341896/gummersbach-wertermittlung-bernberg/",
+    "published": "Tue, 03 Nov 2026 08:24:47 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-03T10:16:59.774214",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d3bc473769bd",
+    "title": "Waldbröl: Nachruf auf früheren Stadtdirektor Lorenz Pevec (87)",
+    "summary": "Lorenz Pevec (87), früherer Stadtdirektor von Waldbröl, ist gestorben. Die Stadt würdigt seine Arbeit von 1970 bis 1999.",
+    "link": "https://www.news-on-tour.de/341893/waldbroel-nachruf-lorenz-pevec/",
+    "published": "Tue, 03 Nov 2026 08:24:43 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-03T10:16:59.774292",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c2da3c362451",
+    "title": "Kriminelle geben sich als Handwerker aus",
+    "summary": "Wiehl – Täterduo verschaffte sich Zutritt zu der Wohnung eines älteren Ehepaars – Ob etwas gestohlen wurde, steht noch nicht fest.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/kriminelle-geben-sich-als-handwerker-aus-a-139891",
+    "published": "Tue, 03 Nov 2026 09:16:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-03T10:17:04.919748",
+    "feed_kommunen": []
+  },
+  {
     "id": "63fe90d45f2f",
     "title": "(Update 2) Bergneustadt: Bürgerbefragung zur Windkraft – Nein vorn bei Papierstimmen, online noch offen",
     "summary": "Update: AfD beantragt sofortige Veröffentlichung der Online-Stimmen. Bei den Papierstimmen der Bürgerbefragung zur Windkraft in Bergneustadt liegt Nein vorn, online sind 3.875 Stimmen offen. Was gesichert ist und was nicht.",
@@ -10,6 +144,33 @@
       "bergneustadt"
     ],
     "fetched": "2026-11-03T09:17:00.494850",
+    "feed_kommunen": []
+  },
+  {
+    "id": "23e74d8e3258",
+    "title": "POL-GM: 51-Jährige bei Alleinunfall schwer verletzt",
+    "summary": "Wiehl (ots) - Eine 51-Jährige aus Wipperfürth fuhr am Montagmorgen (2. November) gegen 05:20 Uhr auf der Bielsteiner Straße. Im Bereich der Eimündung zur L321 verlor sie die Kontrolle über ihr Auto, kam von der Straße ab und kollidierte mit ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6383033",
+    "published": "Tue, 03 Nov 2026 09:09:47 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wipperfuerth",
+      "wiehl"
+    ],
+    "fetched": "2026-11-03T10:17:03.752433",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c9cbe8d6c2e7",
+    "title": "POL-GM: Kriminelle geben sich als Handwerker aus",
+    "summary": "Wiehl (ots) - Am Montag (2. November) verschafften sich Unbekannte Zugang zur Wohnung eines älteren Ehepaars in der Straße \"Zur Dorfkrone\". Gegen 14:45 Uhr klingelte es. Als die Bewohner öffnete, stand ein Mann vor der Tür, der sich als ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6383021",
+    "published": "Tue, 03 Nov 2026 09:02:18 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-03T10:17:03.752566",
     "feed_kommunen": []
   },
   {

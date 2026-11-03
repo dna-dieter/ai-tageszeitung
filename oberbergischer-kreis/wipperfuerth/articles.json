@@ -1,5 +1,62 @@
 [
   {
+    "id": "e388fbbf0bbc",
+    "title": "Mit Straßenlaterne kollidiert: 51-Jährige schwer verletzt",
+    "summary": "Wiehl – Wipperfürtherin verunglückte am Montagmorgen im Bereich der Bielsteiner Straße/L 321.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/mit-stra--enlaterne-kollidiert-----j--hrige-schwer-verletzt-a-139893",
+    "published": "Tue, 03 Nov 2026 09:53:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wipperfuerth",
+      "wiehl"
+    ],
+    "fetched": "2026-11-03T10:17:04.919576",
+    "feed_kommunen": []
+  },
+  {
+    "id": "565033589b91",
+    "title": "Wiehl: Alleinunfall an der L321 – 51-Jährige schwer verletzt",
+    "summary": "Schwer verletzt kam eine 51-Jährige aus Wipperfürth nach einem Alleinunfall in Wiehl ins Krankenhaus. Die L321 war mehrere Stunden gesperrt.",
+    "link": "https://www.news-on-tour.de/341903/wiehl-alleinunfall-l321/",
+    "published": "Tue, 03 Nov 2026 08:47:01 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wipperfuerth",
+      "wiehl"
+    ],
+    "fetched": "2026-11-03T10:16:59.773865",
+    "feed_kommunen": []
+  },
+  {
+    "id": "0d3c89296a7e",
+    "title": "Bürgerservice am 08.und 09.12.2026 geschlossen",
+    "summary": "Der Bürgerservice ist am 08. und 09.12.2026 wegen einer Schulung jeweils ganztägig geschlossen.",
+    "link": "https://www.wipperfuerth.de/detailansicht/buergerservice-am-08und-09122026-geschlossen.html",
+    "published": "Tue, 03 Nov 2026 09:41:24 +0100",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-03T10:17:02.302437",
+    "feed_kommunen": [
+      "wipperfuerth"
+    ]
+  },
+  {
+    "id": "23e74d8e3258",
+    "title": "POL-GM: 51-Jährige bei Alleinunfall schwer verletzt",
+    "summary": "Wiehl (ots) - Eine 51-Jährige aus Wipperfürth fuhr am Montagmorgen (2. November) gegen 05:20 Uhr auf der Bielsteiner Straße. Im Bereich der Eimündung zur L321 verlor sie die Kontrolle über ihr Auto, kam von der Straße ab und kollidierte mit ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6383033",
+    "published": "Tue, 03 Nov 2026 09:09:47 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wipperfuerth",
+      "wiehl"
+    ],
+    "fetched": "2026-11-03T10:17:03.752433",
+    "feed_kommunen": []
+  },
+  {
     "id": "687b12b8dd2a",
     "title": "Oberberg: Kreistag und Landrat Grootens ziehen Bilanz nach einem Jahr",
     "summary": "Kreistag und Landrat Klaus Grootens nach einem Jahr: Rettungsdienst, MVZ Waldbröl, Förderschule Bergneustadt und angespannte Finanzen.",
