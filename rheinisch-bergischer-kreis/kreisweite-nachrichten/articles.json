@@ -1,5 +1,18 @@
 [
   {
+    "id": "1fca4d561a9f",
+    "title": "Halloween in den Lux-Hallen: Pohl liest Poe vor 60 Gästen in Heidkamp",
+    "summary": "In den Lux-Hallen in Heidkamp ließ Gerd J. Pohl berühmte Schauergeschichten lebendig werden.",
+    "link": "https://www.ksta.de/region/rhein-berg/halloween-in-den-lux-hallen-pohl-liest-poe-in-heidkamp-1408383",
+    "published": "Tue, 03 Nov 2026 13:27:26 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T14:16:14.982449",
+    "feed_kommunen": []
+  },
+  {
     "id": "03b54cb67b9f",
     "title": "70 neue Kita-Plätze in Sand: Frisches Essen, Natur und Mitbestimmung stehen im Vordergrund",
     "summary": "Der Fröbel-Kindergarten in der Schulstraße betreut 70 Kinder, setzt auf Natur, Bewegung und frisches Essen.",
@@ -49,6 +62,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-03T12:16:04.793438",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c1d5dd2ac713",
+    "title": "Rettungshundestaffel sucht Nachwuchs: Casting für Mensch und Hund",
+    "summary": "Die Johanniter-Rettungshundestaffel sucht Nachwuchs und testet Mensch und Hund beim Casting.",
+    "link": "https://www.ksta.de/region/rhein-berg/hunde-casting-in-wiehl-retter-auf-vier-pfoten-gesucht-1408164",
+    "published": "Tue, 03 Nov 2026 09:27:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T14:16:14.983098",
     "feed_kommunen": []
   },
   {

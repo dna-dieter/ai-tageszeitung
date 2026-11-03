@@ -1,5 +1,48 @@
 [
   {
+    "id": "42df4012c218",
+    "title": "Antrag in Leichlingen: CDU fordert mehr Licht am Friedhof Kellerhansberg",
+    "summary": "Wenn es am Abend dunkel wird, fühlen sich viele Besucher auf dem Weg zu den Gräbern am Friedhof Kellerhansberg unsicher. Die CDU-Fraktion beantragt eine bessere Beleuchtung.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/leichlingen-cdu-beantragt-bessere-beleuchtung-am-friedhof_aid-157676429",
+    "published": "Tue, 03 Nov 2026 14:00:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-03T14:16:16.550429",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
+    "id": "1fca4d561a9f",
+    "title": "Halloween in den Lux-Hallen: Pohl liest Poe vor 60 Gästen in Heidkamp",
+    "summary": "In den Lux-Hallen in Heidkamp ließ Gerd J. Pohl berühmte Schauergeschichten lebendig werden.",
+    "link": "https://www.ksta.de/region/rhein-berg/halloween-in-den-lux-hallen-pohl-liest-poe-in-heidkamp-1408383",
+    "published": "Tue, 03 Nov 2026 13:27:26 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T14:16:14.982449",
+    "feed_kommunen": []
+  },
+  {
+    "id": "72a21a6b2a34",
+    "title": "FW-GL: Dachstuhlbrand in Frankenforst - Feuerwehr verhindert weitere Brandausbreitung",
+    "summary": "Bergisch Gladbach (ots) - Am Dienstagvormittag wurde die Feuerwehr Bergisch Gladbach zu einem Brand an einem Mehrfamilienhaus in der Brüderstraße im Stadtteil Frankenforst alarmiert. Ein Feuer auf einem Balkon hatte auf die Dachkonstruktion des ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/116240/6383426",
+    "published": "Tue, 03 Nov 2026 13:23:08 +0100",
+    "source": "Presseportal Feuerwehr Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-03T14:16:13.472142",
+    "feed_kommunen": [
+      "bergisch-gladbach"
+    ]
+  },
+  {
     "id": "33d3d052a586",
     "title": "Kirchenkonzert in Leichlingen: Studierende präsentieren Orgelmusik vergangener Jahrhunderte",
     "summary": "Von Bach bis Zipoli: Studierende der Robert-Schumann-Hochschule Düsseldorf bringen am Freitag, 6. November, Klänge aus verschiedenen Ländern nach Leichlingen.",
@@ -122,6 +165,21 @@
     "feed_kommunen": []
   },
   {
+    "id": "6a269f81c537",
+    "title": "Seniorencafé am 9. November 2026",
+    "summary": "Burscheider Seniorenbeirat",
+    "link": "https://www.burscheid.de/portal/meldungen/seniorencaf-am-9-november-2026-900000659-40230.html?rubrik=900000001",
+    "published": "Tue, 03 Nov 2026 10:17:00 +0100",
+    "source": "Stadt Burscheid (offiziell)",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-03T14:16:18.071243",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
     "id": "ea80e87aaf2b",
     "title": "POL-RBK: Bergisch Gladbach - Anfahrender Pkw verletzt Frau auf Tankstellengelände - Zeugenaufruf",
     "summary": "Bergisch Gladbach (ots) - Gestern Morgen (02.11.) um 07:50 Uhr soll eine Frau in der Odenthaler Straße von einem anfahrenden Pkw leicht verletzt worden sein. Die Unfallverursacherin entfernte sich nach dem Vorfall. Die leicht verletzte 28-jährige ...",
@@ -133,6 +191,19 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-11-03T11:16:01.254757",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c1d5dd2ac713",
+    "title": "Rettungshundestaffel sucht Nachwuchs: Casting für Mensch und Hund",
+    "summary": "Die Johanniter-Rettungshundestaffel sucht Nachwuchs und testet Mensch und Hund beim Casting.",
+    "link": "https://www.ksta.de/region/rhein-berg/hunde-casting-in-wiehl-retter-auf-vier-pfoten-gesucht-1408164",
+    "published": "Tue, 03 Nov 2026 09:27:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T14:16:14.983098",
     "feed_kommunen": []
   },
   {
