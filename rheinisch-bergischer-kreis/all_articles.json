@@ -1,5 +1,59 @@
 [
   {
+    "id": "33d3d052a586",
+    "title": "Kirchenkonzert in Leichlingen: Studierende präsentieren Orgelmusik vergangener Jahrhunderte",
+    "summary": "Von Bach bis Zipoli: Studierende der Robert-Schumann-Hochschule Düsseldorf bringen am Freitag, 6. November, Klänge aus verschiedenen Ländern nach Leichlingen.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/leichlingen-orgelkonzert-mit-studierenden-am-6-november_aid-157683925",
+    "published": "Tue, 03 Nov 2026 12:30:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-03T13:16:14.855667",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
+    "id": "a7748e08102a",
+    "title": "Vom CT bis zur Kastration: Die Pferdeklinik Leichlingen feiert 15-jähriges Bestehen",
+    "summary": "Zu Besuch in der Pferdeklinik Leichlingen: Sie feiert in diesem Jahr ihr 15-jähriges Bestehen.",
+    "link": "https://www.ksta.de/region/leverkusen/leichlingen/vom-ct-bis-zur-kastration-pferdeklinik-leichlingen-1408375",
+    "published": "Tue, 03 Nov 2026 12:24:50 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-03T13:16:13.112834",
+    "feed_kommunen": []
+  },
+  {
+    "id": "03b54cb67b9f",
+    "title": "70 neue Kita-Plätze in Sand: Frisches Essen, Natur und Mitbestimmung stehen im Vordergrund",
+    "summary": "Der Fröbel-Kindergarten in der Schulstraße betreut 70 Kinder, setzt auf Natur, Bewegung und frisches Essen.",
+    "link": "https://www.ksta.de/region/rhein-berg/70-neue-kita-plaetze-in-sand-1408358",
+    "published": "Tue, 03 Nov 2026 12:15:35 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T13:16:13.113006",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c17df7e2dd6e",
+    "title": "Papierbrücken und Eishockey: Finnische Gäste am NCG in Bergisch Gladbach",
+    "summary": "Das Programm für die finnischen Gäste umfasste Ausflüge in die Region.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/finnische-gaeste-am-ncg-in-bergisch-gladbach-1408353",
+    "published": "Tue, 03 Nov 2026 12:10:53 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-03T13:16:13.113101",
+    "feed_kommunen": []
+  },
+  {
     "id": "7867f3fac03e",
     "title": "Pendeln statt kölsche Preise: Wann sich der Umzug nicht lohnt",
     "summary": "Eine Studie zeigt, wie sich Kaufpreise und Pendelkosten verhalten.",
