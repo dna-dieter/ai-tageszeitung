@@ -1,5 +1,20 @@
 [
   {
+    "id": "76b849689b70",
+    "title": "(Update) Gummersbach: Feuer bei Abus Kransysteme – drei Brände in Oberberg binnen fünf Stunden",
+    "summary": "Update: Beim Brand in Gummersbach-Windhagen geht es nach Medienberichten um Abus Kransysteme. Ein Auto brannte in der Tiefgarage, niemand wurde verletzt. Dazu Einsätze in Wiehl und Nümbrecht-Breunfeld.",
+    "link": "https://www.news-on-tour.de/341915/oberberg-braende-windhagen-wiehl/",
+    "published": "Tue, 03 Nov 2026 16:50:14 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "nuembrecht",
+      "gummersbach",
+      "wiehl"
+    ],
+    "fetched": "2026-11-03T18:17:03.443292",
+    "feed_kommunen": []
+  },
+  {
     "id": "a60046df78ff",
     "title": "Halle 32: Von Bach bis Unheilig",
     "summary": "Gummersbach – Ein Konzert im Kerzen- und Mondlicht: Am 28. November findet in Gummersbach ein „Moonlight Concert“ statt.",
@@ -23,21 +38,6 @@
       "gummersbach"
     ],
     "fetched": "2026-11-03T12:17:16.844464",
-    "feed_kommunen": []
-  },
-  {
-    "id": "3632b7ee66c5",
-    "title": "Oberberg: Drei Brände binnen fünf Stunden – Tiefgarage in Windhagen, Garage in Wiehl",
-    "summary": "Am 2. November rückten Feuerwehren in Nümbrecht-Breunfeld, Wiehl und Gummersbach-Windhagen zu Bränden aus. In Windhagen half das LUF 60 des Kreises.",
-    "link": "https://www.news-on-tour.de/341915/oberberg-braende-windhagen-wiehl/",
-    "published": "Tue, 03 Nov 2026 09:42:30 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "wiehl",
-      "nuembrecht",
-      "gummersbach"
-    ],
-    "fetched": "2026-11-03T12:17:12.946599",
     "feed_kommunen": []
   },
   {
