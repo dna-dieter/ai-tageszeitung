@@ -1,5 +1,46 @@
 [
   {
+    "id": "472602452e46",
+    "title": "(Update 5) Bergneustadt: Bürgerbefragung zur Windkraft – Nein vorn bei Papierstimmen, online noch offen",
+    "summary": "Update: Der Kreis bestätigt die Zahlen. Das Endergebnis kommt am Mittwoch, am 11. November liegt es dem Hauptausschuss vor. Bei den Papierstimmen der Bürgerbefragung zur Windkraft in Bergneustadt liegt Nein vorn, online sind 3.875 Stimmen offen. Was gesichert ist und was nicht.",
+    "link": "https://www.news-on-tour.de/341887/bergneustadt-buergerbefragung-stimmen/",
+    "published": "Tue, 03 Nov 2026 09:42:38 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-11-03T11:16:56.609013",
+    "feed_kommunen": []
+  },
+  {
+    "id": "540e790afb5f",
+    "title": "Wiehl: Unbekannte geben sich als Handwerker aus – Zeugen gesucht",
+    "summary": "Wiehl: Ein Unbekannter gab sich als Sanitärarbeiter aus und betrat eine Wohnung, ein zweiter folgte. Die Polizei bittet um Hinweise.",
+    "link": "https://www.news-on-tour.de/341910/wiehl-handwerker-sanitaerarbeiter/",
+    "published": "Tue, 03 Nov 2026 09:38:52 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-03T11:16:56.609107",
+    "feed_kommunen": []
+  },
+  {
+    "id": "21b297604806",
+    "title": "Fördermittel für die Innenstadt",
+    "summary": "Sie sind ein Verein, ein Betrieb oder Bürgerin bzw. Bürger Hückeswagens?Dann stellen Sie jetzt einen Antrag auf Fördermittel für Ihr Projekt! Die nächste Frist ist der 11. Dezember 2026",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/foerdermittel-fuer-die-innenstadt-900000729-37660.html?rubrik=900000002",
+    "published": "Tue, 03 Nov 2026 10:21:00 +0100",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-03T11:17:09.795247",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
     "id": "0e1106873f34",
     "title": "Volkstrauertag im Oberbergischen",
     "summary": "Oberberg - Am Sonntag, 15. November, wird im Oberbergischen an die Kriegstoten und Opfer aller Nationen gedacht.",
@@ -131,19 +172,6 @@
       "wiehl"
     ],
     "fetched": "2026-11-03T10:17:04.919748",
-    "feed_kommunen": []
-  },
-  {
-    "id": "63fe90d45f2f",
-    "title": "(Update 2) Bergneustadt: Bürgerbefragung zur Windkraft – Nein vorn bei Papierstimmen, online noch offen",
-    "summary": "Update: AfD beantragt sofortige Veröffentlichung der Online-Stimmen. Bei den Papierstimmen der Bürgerbefragung zur Windkraft in Bergneustadt liegt Nein vorn, online sind 3.875 Stimmen offen. Was gesichert ist und was nicht.",
-    "link": "https://www.news-on-tour.de/341887/bergneustadt-buergerbefragung-stimmen/",
-    "published": "Tue, 03 Nov 2026 08:15:24 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "bergneustadt"
-    ],
-    "fetched": "2026-11-03T09:17:00.494850",
     "feed_kommunen": []
   },
   {
@@ -42297,6 +42325,21 @@
       "wiehl"
     ],
     "fetched": "2026-10-30T11:17:10.529442",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "468cda18e2cf",
+    "title": "Arztpraxis hilft in Drabenderhöhe",
+    "summary": "Die hausärztliche Versorgung in Drabenderhöhe steht auf stabiler Basis: Mit Unterstützung durch die Stadt Wiehl konnte Dr. Christian Franchy die Arztpraxis im Burzenland 2 übernehmen und erweitern.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9596-arztpraxis-hilft-in-drabenderhoehe.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-03T11:17:05.576581",
     "feed_kommunen": [
       "wiehl"
     ]

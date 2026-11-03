@@ -1,5 +1,18 @@
 [
   {
+    "id": "540e790afb5f",
+    "title": "Wiehl: Unbekannte geben sich als Handwerker aus – Zeugen gesucht",
+    "summary": "Wiehl: Ein Unbekannter gab sich als Sanitärarbeiter aus und betrat eine Wohnung, ein zweiter folgte. Die Polizei bittet um Hinweise.",
+    "link": "https://www.news-on-tour.de/341910/wiehl-handwerker-sanitaerarbeiter/",
+    "published": "Tue, 03 Nov 2026 09:38:52 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-03T11:16:56.609107",
+    "feed_kommunen": []
+  },
+  {
     "id": "e388fbbf0bbc",
     "title": "Mit Straßenlaterne kollidiert: 51-Jährige schwer verletzt",
     "summary": "Wiehl – Wipperfürtherin verunglückte am Montagmorgen im Bereich der Bielsteiner Straße/L 321.",
@@ -3003,6 +3016,21 @@
       "wiehl"
     ],
     "fetched": "2026-10-30T11:17:10.529442",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "468cda18e2cf",
+    "title": "Arztpraxis hilft in Drabenderhöhe",
+    "summary": "Die hausärztliche Versorgung in Drabenderhöhe steht auf stabiler Basis: Mit Unterstützung durch die Stadt Wiehl konnte Dr. Christian Franchy die Arztpraxis im Burzenland 2 übernehmen und erweitern.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9596-arztpraxis-hilft-in-drabenderhoehe.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-03T11:17:05.576581",
     "feed_kommunen": [
       "wiehl"
     ]
