@@ -1694,6 +1694,17 @@
     "teaser": "Freitag, 20. November 2026:, Einlass: 18:30 Uhr, Beginn: 19 Uhr, , Samstag, 21. November 2026:, Einlass: 17:30 Uhr, Beginn: 18 Uhr · Musikfestival der Länder Frankreich, Deutschland und Polen"
   },
   {
+    "titel": "3D-Druck am Samstag",
+    "datum": "21. Nov 2026",
+    "datum_raw": "2026-11-21T00:00:00",
+    "datum_bis": "",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Veranstaltung ist kostenfrei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41669/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10 bis 15 Uhr · Drucken Sie Ihre mitgebrachten 3D-Dateien kostenlos aus – im Interim der Zentralbibliothek."
+  },
+  {
     "titel": "Bücherbabys – die literarische Krabbelgruppe",
     "datum": "21. Nov 2026",
     "datum_raw": "2026-11-21T00:00:00",
@@ -2759,6 +2770,17 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40836/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "10 bis 13 Uhr · Ein Makerspace-Workshop im Interim der Zentralbibliothek."
+  },
+  {
+    "titel": "3D-Druck am Samstag",
+    "datum": "5. Dez 2026",
+    "datum_raw": "2026-12-05T00:00:00",
+    "datum_bis": "",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Veranstaltung ist kostenfrei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41670/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "10 bis 15 Uhr · Drucken Sie Ihre mitgebrachten 3D-Dateien kostenlos aus – im Interim der Zentralbibliothek."
   },
   {
     "titel": "Vorlesezeit",

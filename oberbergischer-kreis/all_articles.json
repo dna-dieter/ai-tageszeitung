@@ -1,5 +1,35 @@
 [
   {
+    "id": "63fe90d45f2f",
+    "title": "(Update 2) Bergneustadt: Bürgerbefragung zur Windkraft – Nein vorn bei Papierstimmen, online noch offen",
+    "summary": "Update: AfD beantragt sofortige Veröffentlichung der Online-Stimmen. Bei den Papierstimmen der Bürgerbefragung zur Windkraft in Bergneustadt liegt Nein vorn, online sind 3.875 Stimmen offen. Was gesichert ist und was nicht.",
+    "link": "https://www.news-on-tour.de/341887/bergneustadt-buergerbefragung-stimmen/",
+    "published": "Tue, 03 Nov 2026 08:15:24 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-11-03T09:17:00.494850",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2b844fed3795",
+    "title": "Der Mond als stiller Wächter",
+    "summary": "Jazzmusiker Julian Wasserfuhr ist seit kurzer Zeit Vater, für seine Tochter hat er das Lied „Bajo la luna“ geschrieben. Im Interview spricht er über die Hintergründe.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/der-mond-als-stiller-waechter-T2AG3FZPOK3ZX2RIMTPNGJZYDU.html",
+    "published": "Tue, 03 Nov 2026 08:40:00 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen",
+      "radevormwald"
+    ],
+    "fetched": "2026-11-03T09:17:01.085139",
+    "feed_kommunen": [
+      "hueckeswagen",
+      "radevormwald"
+    ]
+  },
+  {
     "id": "eba7547a7bf2",
     "title": "Wasserspiele",
     "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
@@ -10,19 +40,6 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-03T08:17:04.435119",
-    "feed_kommunen": []
-  },
-  {
-    "id": "2f1dfed79394",
-    "title": "Bergneustadt: Bürgerbefragung zur Windkraft – Nein vorn bei Papierstimmen, online noch offen",
-    "summary": "Bei den Papierstimmen der Bürgerbefragung zur Windkraft in Bergneustadt liegt Nein vorn, online sind 3.875 Stimmen offen. Was gesichert ist und was nicht.",
-    "link": "https://www.news-on-tour.de/341887/bergneustadt-buergerbefragung-stimmen/",
-    "published": "Tue, 03 Nov 2026 06:51:37 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "bergneustadt"
-    ],
-    "fetched": "2026-11-03T08:16:58.483075",
     "feed_kommunen": []
   },
   {
