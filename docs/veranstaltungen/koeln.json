@@ -547,7 +547,7 @@
     "preis": "Eintritt frei",
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41025/index.html",
     "quelle": "Stadt Köln (Open Data)",
-    "teaser": "13-19 Uhr · Junge Kompositionsschüler*innen der Rheinischen Musiksschule präsentieren in fünf halbstündigen Konzerten Komisches, Interessantes, Unterhaltsames und Abwechslungsreiches rund um die Zeitgenössische Musik."
+    "teaser": "13 bis 19 Uhr · Junge Kompositionsschüler*innen der Rheinischen Musiksschule präsentieren in fünf halbstündigen Konzerten Komisches, Interessantes, Unterhaltsames und Abwechslungsreiches rund um die Zeitgenössische Musik."
   },
   {
     "titel": "Kölner Museumsnacht 2026",
@@ -2860,6 +2860,17 @@
     "teaser": "15 bis 16 Uhr · Mitmach-Veranstaltung für Groß und Klein im Rahmen von Sonntags in der Bibliothek im Interim der Zentralbibliothek."
   },
   {
+    "titel": "Weihnachtskonzert 1 Sounds of the Season des Sinfonischen BlasOrchesters Köln",
+    "datum": "6. Dez 2026",
+    "datum_raw": "2026-12-06T00:00:00",
+    "datum_bis": "",
+    "ort": "Katholische Kirche Sankt Adelheid, Neubrück",
+    "preis": "Eintritt frei",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41655/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "17 Uhr · Das Sinfonische BlasOrchester Köln (SBOK) lädt ganz herzlich zu den Weihnachtskonzerten ein. Begleiten Sie uns auf einer Reise durch die Klänge der Advents- und Weihnachtszeit."
+  },
+  {
     "titel": "Wissenschaft im Rathaus: Populismus, Propaganda, Zensur, Überwachung? Mediale Machtausübung in der digitalen Transformation",
     "datum": "7. Dez 2026",
     "datum_raw": "2026-12-07T00:00:00",
@@ -3168,6 +3179,17 @@
     "teaser": "18 bis 20:30 Uhr · Gesprächsmethoden für themenbezogenen, kontroversen Austausch entdecken – im Interim Zentralbibliothek."
   },
   {
+    "titel": "Weihnachtskonzert 2 Sounds of the Season des Sinfonischen BlasOrchesters Köln",
+    "datum": "10. Dez 2026",
+    "datum_raw": "2026-12-10T00:00:00",
+    "datum_bis": "",
+    "ort": "Heilig-Geist-Kirche, Weiden",
+    "preis": "Eintritt frei",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41656/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "19 Uhr · Das Sinfonische BlasOrchester Köln (SBOK) lädt herzlich zu seinen Weihnachtskonzerten ein. Begleiten Sie uns auf einer Reise durch die Klänge der Advents- und Weihnachtszeit."
+  },
+  {
     "titel": "Repair Café",
     "datum": "11. Dez 2026",
     "datum_raw": "2026-12-11T00:00:00",
@@ -3474,6 +3496,17 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41486/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "16:30 bis 17 Uhr · Eine Kinderlesung in Zusammenarbeit mit LeseWelten Köln in der Stadtteilbibliothek Kalk."
+  },
+  {
+    "titel": "Weihnachtskonzert 3 Sounds of the Season des Sinfonischen BlasOrchesters Köln",
+    "datum": "15. Dez 2026",
+    "datum_raw": "2026-12-15T00:00:00",
+    "datum_bis": "",
+    "ort": "Rheinische Musikschule Köln, Ehrenfeld",
+    "preis": "Eintritt frei",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41657/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "19 Uhr · Das Sinfonische BlasOrchester Köln (SBOK) lädt herzlich zu seinen Weihnachtskonzerten ein. Begleiten Sie uns auf einer Reise durch die Klänge der Advents- und Weihnachtszeit."
   },
   {
     "titel": "Bücherbabys – die literarische Krabbelgruppe",
@@ -3804,6 +3837,17 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41579/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "11 bis 11:30 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Chorweiler."
+  },
+  {
+    "titel": "Weihnachtliches Kinder-Konzert zum Miterleben und Mitsingen des Sinfonischen BlasOrchesters Köln",
+    "datum": "19. Dez 2026",
+    "datum_raw": "2026-12-19T00:00:00",
+    "datum_bis": "",
+    "ort": "Sankt Karl Borromäus, Sülz",
+    "preis": "Eintritt frei!",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41658/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 Uhr · Das Sinfonische BlasOrchester Köln (SBOK) lädt herzlich zu seinem ersten weihnachtlichen Kinder-Konzert zum Miterleben und Mitsingen ein."
   },
   {
     "titel": "LeseWelten",
