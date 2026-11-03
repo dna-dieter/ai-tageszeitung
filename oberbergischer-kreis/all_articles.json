@@ -1,5 +1,20 @@
 [
   {
+    "id": "8365a0f87753",
+    "title": "Volkstrauertag am 15.11.2026",
+    "summary": "Sehr geehrte Damen, sehr geehrte Herren, hiermit möchte ich Sie, Bürgerinnen und Bürger der Marktstadt Waldbröl sowie die Verbände und Vereine zur Teilnahme an einer Gedenkfeier anlässlich des Volkstrauertages für […]",
+    "link": "https://www.waldbroel.de/volkstrauertag-am-15-11-2026/",
+    "published": "Tue, 03 Nov 2026 18:43:05 +0000",
+    "source": "Stadt Waldbröl (offiziell)",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-03T20:17:12.670599",
+    "feed_kommunen": [
+      "waldbroel"
+    ]
+  },
+  {
     "id": "7446c006be2c",
     "title": "Oberberg: NEWS-on-Tour bringt die Erinnerung zurück – Party-Archiv 2001 bis 2011 fast komplett",
     "summary": "Über 51.000 Fotos aus den Jahren 2001 bis 2011 sind zurück: B1, Banane, DKdance, Stadtfeste und Sport aus Oberberg, von Köln bis ins Sauerland. Und es kommen noch Fotos dazu.",
@@ -7,7 +22,7 @@
     "published": "Tue, 03 Nov 2026 18:09:33 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "gummersbach"
     ],
     "fetched": "2026-11-03T19:18:48.875584",
     "feed_kommunen": []
