@@ -1,5 +1,31 @@
 [
   {
+    "id": "bbc52ad9c694",
+    "title": "Wie widerstandsfähig sind die neuen Stadtbäume wirklich?",
+    "summary": "In der Schlossstraße und auf dem Deutschen Platz in Bensberg hat die Stadt Bäume gepflanzt, die besser mit dem Klimawandel klarkommen sollen. Doch auch diese klimaresilienten Stadtbäume weisen nach Einschätzung von BUND, RBN und Klimafreunde bereits Hitzeschäden auf. Dazu konfrontieren sie die Stadt mit einer Reihe von Fragen.",
+    "link": "https://in-gl.de/2026/11/02/wie-widerstandsfaehig-sind-die-neuen-stadtbaeume-wirklich/",
+    "published": "Mon, 02 Nov 2026 17:51:42 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-03T03:15:33.655830",
+    "feed_kommunen": []
+  },
+  {
+    "id": "19ae89784486",
+    "title": "31 Martinszüge und zwei Martinsmärkte in Bergisch Gladbach",
+    "summary": "In den nächsten Tagen ziehen die ersten Kinder mit ihren Laternen durch die Straßen und feiern St. Martin. Besonders freuen sich die teilnehmenden Kinder und Eltern, wenn Anwohner:innen der Zugwege ihr Haus mit Lichtern verschönern. Wir listen alle öffentlichen Termine auf - und informieren über die Martinsmärkte in Bensberg und Gladbach.",
+    "link": "https://in-gl.de/2026/11/02/33-martinszuege-und-zwei-martinsmaerkte-in-bergisch-gladbach/",
+    "published": "Mon, 02 Nov 2026 13:57:25 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-03T03:15:33.656132",
+    "feed_kommunen": []
+  },
+  {
     "id": "d308db0f96fd",
     "title": "Pitch statt Klausur: Studierende präsentieren sieben Projekte in Bergisch Gladbach",
     "summary": "Beim Semesterabschluss in Bergisch Gladbach präsentieren Studierende des bib sieben Projekte wie vor echten Kunden.",
@@ -26,6 +52,32 @@
     "feed_kommunen": []
   },
   {
+    "id": "bcc69c37e3f6",
+    "title": "Fröbel eröffnet neue Kita in Sand",
+    "summary": "Am Montag hat der neue Kindergarten Schulstraße in Sand seine Türen geöffnet. Bis zu 70 Kinder können hier spielen, Freundschaften schließen und jeden Tag Neues entdecken. Unter dem Motto „START.KLAR! – Mehr als Vorschule“ schafft der Fröbel e.V. als Träger zusätzliche Betreuungsplätze in Bergisch Gladbach und bringt die Erfahrung eines bundesweit tätigen Kita-Trägers mit.",
+    "link": "https://in-gl.de/2026/11/02/froebel-eroeffnet-neue-kita-in-sand/",
+    "published": "Mon, 02 Nov 2026 11:59:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-03T03:15:33.656448",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a29e664052bd",
+    "title": "„Neu gesehen“: Eberhard Winkelmann im Himmel un Ääd",
+    "summary": "Der Bergisch Gladbacher Künstler Eberhard Alfonso Maria Winkelmann lädt den Betrachter mit seinen farbenstarken Bildern ein, eine inspirierende Welt zu entdecken. Seine neue Ausstellung ist bis Anfang Dezember im Begegnungscafé Himmel un Ääd in Schildgen zu sehen.",
+    "link": "https://in-gl.de/2026/11/02/neu-gesehen-eberhard-winkelmann-im-himmel-un-aeaed/",
+    "published": "Mon, 02 Nov 2026 11:54:09 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-03T03:15:33.656679",
+    "feed_kommunen": []
+  },
+  {
     "id": "8c5b795774dd",
     "title": "Schnelles Bergisch Gladbach: Seit 2006 düst Gladbach durchs Land",
     "summary": "Vor 20 Jahren wurde in Köln ein ICE auf den Namen der Kreisstadt getauft.",
@@ -39,6 +91,19 @@
     "feed_kommunen": []
   },
   {
+    "id": "7d36aedc0815",
+    "title": "Immobilienkauf finanzieren: Worauf Käufer achten sollten",
+    "summary": "Der Kauf einer Immobilie zählt zu den wichtigsten finanziellen Entscheidungen im Leben. Eine gute Planung schafft die Grundlage für eine langfristig tragfähige Finanzierung. Michael Berger, Abteilungsleiter Baufinanzierung bei der VR Bank eG Bergisch Gladbach-Leverkusen, gibt sechs wichtige Tipps. (Bezahlter Beitrag)",
+    "link": "https://in-gl.de/2026/11/02/immobilienkauf-finanzieren-worauf-kaufer-achten-sollten-vr-bank-bergisch-gladbach-leverkusen/",
+    "published": "Mon, 02 Nov 2026 10:45:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-03T03:15:33.656929",
+    "feed_kommunen": []
+  },
+  {
     "id": "2af3a68e3d2d",
     "title": "Glückliche Brandmeisteranwärter in Bergisch Gladbach: „Schönster Beruf der Welt“",
     "summary": "Sechs junge Feuerwehrleute sind in Bergisch Gladbach als Brandmeisteranwärter vereidigt worden.",
@@ -49,6 +114,19 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-11-02T12:16:03.571853",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1694f8d40559",
+    "title": "Martini Markt und verkaufsoffener Sonntag in Bensberg",
+    "summary": "Am kommenden Wochenende lädt der Martini Markt zum Bummeln, Schlemmen und Entdecken ein. Als vor-adventlicher Weihnachtsmarkt bringt er die ersten weihnachtlichen Gefühle nach Bensberg und macht Lust auf die bevorstehende Adventszeit. Am Sonntag öffnen außerdem die Geschäfte zum verkaufsoffenen Sonntag.",
+    "link": "https://in-gl.de/2026/11/02/martini-markt-und-verkaufsoffener-sonntag-in-bensberg/",
+    "published": "Mon, 02 Nov 2026 09:30:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-03T03:15:33.657819",
     "feed_kommunen": []
   },
   {

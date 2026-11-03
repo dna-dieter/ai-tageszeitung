@@ -1,5 +1,33 @@
 [
   {
+    "id": "5aa520e53f4f",
+    "title": "Ausverkauft? Volksbühne verschenkt Karten – mit einer einfachen Krimifrage",
+    "summary": "Wer hat die ausverkauften Vorstellungen verpasst? Jetzt gibt es eine zweite Chance: Die Volksbühne Bergisch Neukirchen spielt „Ein Mord wird angekündigt“ am 14. November im Megafon. Wir verlosen 4x2 Freikarten – Sie müssen nur eine einfache Krimifrage beantworten.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/ausverkauft-volksbuehne-verschenkt-karten-mit-einer-einfachen-krimifrage-ZV3TVULPFVG3HP2V6XOX6D27CY.html",
+    "published": "Tue, 03 Nov 2026 03:00:00 +0100",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-03T03:15:58.133780",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
+    "id": "bbc52ad9c694",
+    "title": "Wie widerstandsfähig sind die neuen Stadtbäume wirklich?",
+    "summary": "In der Schlossstraße und auf dem Deutschen Platz in Bensberg hat die Stadt Bäume gepflanzt, die besser mit dem Klimawandel klarkommen sollen. Doch auch diese klimaresilienten Stadtbäume weisen nach Einschätzung von BUND, RBN und Klimafreunde bereits Hitzeschäden auf. Dazu konfrontieren sie die Stadt mit einer Reihe von Fragen.",
+    "link": "https://in-gl.de/2026/11/02/wie-widerstandsfaehig-sind-die-neuen-stadtbaeume-wirklich/",
+    "published": "Mon, 02 Nov 2026 17:51:42 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-03T03:15:33.655830",
+    "feed_kommunen": []
+  },
+  {
     "id": "2ddf259a0f9e",
     "title": "„Bricht einem das Herz“: Ausverkauf bei Heinhaus in Hückeswagen ist gestartet",
     "summary": "Seit Montag läuft bei Spielwaren Heinhaus der Ausverkauf. Uwe Heinhaus gibt das Geschäft zum Jahresende auf. Ob aber die Ware bis dahin reicht, ist fraglich: Denn am ersten Tag gab es gleich einen großen Andrang.",
@@ -43,6 +71,19 @@
     "feed_kommunen": [
       "burscheid"
     ]
+  },
+  {
+    "id": "19ae89784486",
+    "title": "31 Martinszüge und zwei Martinsmärkte in Bergisch Gladbach",
+    "summary": "In den nächsten Tagen ziehen die ersten Kinder mit ihren Laternen durch die Straßen und feiern St. Martin. Besonders freuen sich die teilnehmenden Kinder und Eltern, wenn Anwohner:innen der Zugwege ihr Haus mit Lichtern verschönern. Wir listen alle öffentlichen Termine auf - und informieren über die Martinsmärkte in Bensberg und Gladbach.",
+    "link": "https://in-gl.de/2026/11/02/33-martinszuege-und-zwei-martinsmaerkte-in-bergisch-gladbach/",
+    "published": "Mon, 02 Nov 2026 13:57:25 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-03T03:15:33.656132",
+    "feed_kommunen": []
   },
   {
     "id": "c264c7cd4ca2",
@@ -138,6 +179,32 @@
     "feed_kommunen": []
   },
   {
+    "id": "bcc69c37e3f6",
+    "title": "Fröbel eröffnet neue Kita in Sand",
+    "summary": "Am Montag hat der neue Kindergarten Schulstraße in Sand seine Türen geöffnet. Bis zu 70 Kinder können hier spielen, Freundschaften schließen und jeden Tag Neues entdecken. Unter dem Motto „START.KLAR! – Mehr als Vorschule“ schafft der Fröbel e.V. als Träger zusätzliche Betreuungsplätze in Bergisch Gladbach und bringt die Erfahrung eines bundesweit tätigen Kita-Trägers mit.",
+    "link": "https://in-gl.de/2026/11/02/froebel-eroeffnet-neue-kita-in-sand/",
+    "published": "Mon, 02 Nov 2026 11:59:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-03T03:15:33.656448",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a29e664052bd",
+    "title": "„Neu gesehen“: Eberhard Winkelmann im Himmel un Ääd",
+    "summary": "Der Bergisch Gladbacher Künstler Eberhard Alfonso Maria Winkelmann lädt den Betrachter mit seinen farbenstarken Bildern ein, eine inspirierende Welt zu entdecken. Seine neue Ausstellung ist bis Anfang Dezember im Begegnungscafé Himmel un Ääd in Schildgen zu sehen.",
+    "link": "https://in-gl.de/2026/11/02/neu-gesehen-eberhard-winkelmann-im-himmel-un-aeaed/",
+    "published": "Mon, 02 Nov 2026 11:54:09 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-03T03:15:33.656679",
+    "feed_kommunen": []
+  },
+  {
     "id": "7e58432dad92",
     "title": "Zwölf Millionen Euro: Radweg bis viermal so teuer",
     "summary": "Die Kosten für den K18-Radweg bei Dabringhausen steigen auf bis zu zwölf Millionen Euro.",
@@ -161,6 +228,32 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-11-02T12:16:03.571639",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7d36aedc0815",
+    "title": "Immobilienkauf finanzieren: Worauf Käufer achten sollten",
+    "summary": "Der Kauf einer Immobilie zählt zu den wichtigsten finanziellen Entscheidungen im Leben. Eine gute Planung schafft die Grundlage für eine langfristig tragfähige Finanzierung. Michael Berger, Abteilungsleiter Baufinanzierung bei der VR Bank eG Bergisch Gladbach-Leverkusen, gibt sechs wichtige Tipps. (Bezahlter Beitrag)",
+    "link": "https://in-gl.de/2026/11/02/immobilienkauf-finanzieren-worauf-kaufer-achten-sollten-vr-bank-bergisch-gladbach-leverkusen/",
+    "published": "Mon, 02 Nov 2026 10:45:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-03T03:15:33.656929",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c45060cc2648",
+    "title": "Sankt Martinsmarkt mit Musik und Laternenumzug in der Innenstadt",
+    "summary": "Im vergangenen Jahr war er ausgefallen, doch am kommenden Sonntag findet wieder der Sankt Martinsmarkt auf dem Konrad-Adenauer-Platz statt. Zum Programm gehören Live-Musik, ein Kreativ- und Schlemmermarkt sowie Bastelangebote für Kinder und Erwachsene. Zudem öffnen die Geschäfte in der Innenstadt zum verkaufsoffenen Sonntag.",
+    "link": "https://in-gl.de/2026/11/02/sankt-martinsmarkt-mit-musik-und-laternenumzug-in-der-innenstadt/",
+    "published": "Mon, 02 Nov 2026 10:41:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T03:15:33.657571",
     "feed_kommunen": []
   },
   {
@@ -205,6 +298,19 @@
     "feed_kommunen": []
   },
   {
+    "id": "1694f8d40559",
+    "title": "Martini Markt und verkaufsoffener Sonntag in Bensberg",
+    "summary": "Am kommenden Wochenende lädt der Martini Markt zum Bummeln, Schlemmen und Entdecken ein. Als vor-adventlicher Weihnachtsmarkt bringt er die ersten weihnachtlichen Gefühle nach Bensberg und macht Lust auf die bevorstehende Adventszeit. Am Sonntag öffnen außerdem die Geschäfte zum verkaufsoffenen Sonntag.",
+    "link": "https://in-gl.de/2026/11/02/martini-markt-und-verkaufsoffener-sonntag-in-bensberg/",
+    "published": "Mon, 02 Nov 2026 09:30:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-03T03:15:33.657819",
+    "feed_kommunen": []
+  },
+  {
     "id": "25b5213f11ec",
     "title": "Einbruch in Leichlingen: Balkonkraftwerke aus Lagerhalle gestohlen",
     "summary": "Trotz verschlossener Tore verschafften sich Unbekannte in der Nacht zu Sonntag Zugang zu einem Firmengelände in Leichlingen. Die Polizei sucht Zeugen.",
@@ -218,6 +324,19 @@
     "feed_kommunen": [
       "leichlingen"
     ]
+  },
+  {
+    "id": "ac4037fcc65b",
+    "title": "Verliebt. Verführt. Verkauft. Achtung Loverboys!",
+    "summary": "Was wie die große Liebe beginnt, kann in emotionaler Abhängigkeit, Gewalt und sexueller Ausbeutung enden. Sogenannte „Loverboys“ täuschen jungen Mädchen Liebe und Zuneigung vor, um sie gezielt zu manipulieren und schließlich in die Prostitution zu drängen. Um diese Gefahr geht es bei einem Informationsabend am Freitag in der IGP.",
+    "link": "https://in-gl.de/2026/11/02/verliebt-verfuehrt-verkauft-achtung-loverboys/",
+    "published": "Mon, 02 Nov 2026 08:32:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T03:15:33.658195",
+    "feed_kommunen": []
   },
   {
     "id": "661d4d320742",
@@ -275,6 +394,45 @@
     ]
   },
   {
+    "id": "de88b019a1bd",
+    "title": "Neuer Verein „Rösrath verbindet“ sucht Mitstreiter",
+    "summary": "Mit einem ehrenamtlich getragenen Fahr- und Begleitdienst möchte der Verein Menschen in Rösrath dabei unterstützen, mobil zu bleiben und aktiv am Leben in ihrer Stadt teilzunehmen. Dabei geht es um weit mehr als die reine Beförderung von einem Ort zum anderen.",
+    "link": "https://in-gl.de/2026/11/02/neuer-verein-roesrath-verbindet-sucht-mitstreiter/",
+    "published": "Mon, 02 Nov 2026 07:58:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "roesrath"
+    ],
+    "fetched": "2026-11-03T03:15:33.658459",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a26f2a8f534f",
+    "title": "„Wie spricht man mit Kindern über den Tod?“",
+    "summary": "Das Theaterstück mit Totte und Trulla im THEAS Theater vermittelt Kindern im Rahmen des Projekts „Leben mit dem Tod“ einen altersgerechten Zugang zu den Themen Verlust, Trauer und Tod. Rund 100 Grundschulkinder besuchten die Aufführung und setzten sich dabei auch mit eigenen Fragen und Erfahrungen auseinander.",
+    "link": "https://in-gl.de/2026/11/02/wie-spricht-man-mit-kindern-ueber-den-tod/",
+    "published": "Mon, 02 Nov 2026 07:14:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T03:15:33.658790",
+    "feed_kommunen": []
+  },
+  {
+    "id": "62b2fd694519",
+    "title": "Von Boule bis Beirat: Das Programm des Seniorenbeirats",
+    "summary": "Der November bietet Seniorinnen und Senioren einige Möglichkeiten für Begegnung und Austausch. Neben einem Stammtisch zur naturnahen Grabgestaltung und einer öffentlichen Sitzung des Seniorenbeirats gibt es Gelegenheit zum Boule-Spielen. Auch die neuen Tanzcafé-Termine für 2027 stehen fest.",
+    "link": "https://in-gl.de/2026/11/02/von-boule-bis-beirat-das-programm-des-seniorenbeirats/",
+    "published": "Mon, 02 Nov 2026 07:10:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T03:15:33.659082",
+    "feed_kommunen": []
+  },
+  {
     "id": "9d6bb75977ec",
     "title": "100 Jahre STEINCO: Mit Mut zur Veränderung in die Zukunft",
     "summary": "Ein Jahrhundert Unternehmensgeschichte, eine existenzbedrohende Krise und ein erfolgreicher Neustart: Die STEINCO Paul vom Stein GmbH in Wermelskirchen hat in 100 Jahren zahlreiche Herausforderungen gemeistert. Besonders im Jahr 2018 wurde das Traditionsunternehmen auf eine harte Probe gestellt. Damals musste der Hersteller von Rollen und Rädern Insolvenz in Eigenverwaltung anmelden. Heute, acht J",
@@ -316,6 +474,19 @@
     "feed_kommunen": []
   },
   {
+    "id": "db7532c31b1c",
+    "title": "Von Babymassage bis Tai Chi: Neue Qfit-Kurse im November",
+    "summary": "Das Qfit-Kursprogramm am Gesundheitscampus Quirlsberg bietet im November neue Angebote für unterschiedliche Lebensphasen. Neben Babymassage und Schwangerschaftsyoga stehen ein Tai-Chi-Kennenlernseminar sowie Veranstaltungen zur Beikosteinführung und zum Baby- und Kleinkinderschlaf auf dem Programm.",
+    "link": "https://in-gl.de/2026/11/02/von-babymassage-bis-tai-chi-neue-qfit-kurse-im-november/",
+    "published": "Mon, 02 Nov 2026 06:20:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T03:15:33.659632",
+    "feed_kommunen": []
+  },
+  {
     "id": "02e6ca0f20b5",
     "title": "Wann der Martinspark in Burscheid startet – und was Kinder dort erwartet",
     "summary": "Am 7. und 8. November steigt der „Burscheider Martinspark“ mit Karussell, Kinderschminken und Martinsmusik. Bayer 04 Leverkusen ist mit seinem mobilen Aktionsanhänger dabei und verlost Tickets sowie ein signiertes Trikot. Für das leibliche Wohl sorgen unter anderem zwei Schulklassen der Johannes-Löh-Gesamtschule.",
@@ -329,6 +500,58 @@
     "feed_kommunen": [
       "burscheid"
     ]
+  },
+  {
+    "id": "5e56e10af576",
+    "title": "Krea-Jugendclub: Millionen Visionen begeistern das Publikum",
+    "summary": "Kraftvolle Beats, ausdrucksstarke Stimmen und energiegeladene Tänze: Mit ihrer Show „Millionen Visionen“ zogen 34 Jugendliche und junge Erwachsene das Publikum in ihren Bann. Die Abschlussaufführung des Projekts „Stimmen für Demokratie“ in der Waldorfschule verband künstlerisches Können mit sehr persönlichen Botschaften.",
+    "link": "https://in-gl.de/2026/11/01/krea-jugendclub-millionen-visionen-begeistern-das-publikum/",
+    "published": "Sun, 01 Nov 2026 17:03:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T03:15:33.659990",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4697d640e548",
+    "title": "Kulturtage in der Kirche Zum Frieden Gottes",
+    "summary": "Die Kulturtage in der Kirche Zum Frieden Gottes rund um den „Sonnengesang des Franz von Assisi“ laden mit Musik, Kunst, Vorträgen und besonderen Begegnungen zum Entdecken und Mitmachen ein. Darüber hinaus gibt es Familiengottesdienste und die Möglichkeit für Kinder und Jugendliche, beim großen Krippenspiel mitzuwirken.",
+    "link": "https://in-gl.de/2026/11/01/kulturtage-in-der-kirche-zum-frieden-gottes/",
+    "published": "Sun, 01 Nov 2026 17:01:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T03:15:33.660343",
+    "feed_kommunen": []
+  },
+  {
+    "id": "72d958dccb5a",
+    "title": "SV 09 unterliegt spielstarker Paderborner U21",
+    "summary": "Der SV 09 hat bei der U21 des SC Paderborn eine deutliche Niederlage hinnehmen müssen. Die Gastgeber setzten die 09er zunehmend unter Druck. Ein Kopfball von Rexhep Ajdari an die Latte bot zwischenzeitlich die Chance auf den Ausgleich.",
+    "link": "https://in-gl.de/2026/11/01/sv-09-unterliegt-spielstarker-paderborner-u21/",
+    "published": "Sun, 01 Nov 2026 16:53:38 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T03:15:33.660588",
+    "feed_kommunen": []
+  },
+  {
+    "id": "80de9f537903",
+    "title": "Klimafreunde und Naturschützer legen Vorschläge zum Leitbild Wald vor",
+    "summary": "Der Bergische Naturschutzverein, die Klimafreunde und der BUND kritisieren das Leitbild der Stadt für den eigenen Wald: Es sei nach wie vor zu sehr von einer traditionellen, teuren und eingriffsintensiven Holzwirtschaft geprägt. Sie schlagen stattdessen vor, den Klimaschutz in den Vordergrund zu stellen und deutlich weniger Bäume zu fällen.",
+    "link": "https://in-gl.de/2026/11/01/klimafreunde-und-naturschuetzer-legen-vorschlaege-zum-leitbild-wald-vor/",
+    "published": "Sun, 01 Nov 2026 16:30:06 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T03:15:33.660935",
+    "feed_kommunen": []
   },
   {
     "id": "a25eeb5aa0a5",
@@ -1841,6 +2064,19 @@
     ]
   },
   {
+    "id": "ceff20b2c007",
+    "title": "Wenn Pflichtteilsansprüche drohen: Einfach alles verschenken?",
+    "summary": "Warum eine Vermögensübertragung zu Lebzeiten den Pflichtteil oft nicht beseitigt. (Bezahlter Beitrag)",
+    "link": "https://in-gl.de/2026/10/26/wenn-pflichtteilsanspruche-drohen-einfach-alles-verschenken-leonhard-imig-bergisch-gladbach/",
+    "published": "Mon, 26 Oct 2026 16:20:23 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T03:15:33.666643",
+    "feed_kommunen": []
+  },
+  {
     "id": "50267adaca36",
     "title": "Wegwerfen? Nein danke! Burscheider Reparaturcafé verdoppelt seine Termine",
     "summary": "Das Reparaturcafé in Burscheid ist künftig zweimal im Monat geöffnet. Die Ehrenamtler reparieren dann defekte Elektrogeräte, Erinnerungsstücke und Spielsachen.",
@@ -2631,7 +2867,8 @@
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
       "kuerten",
-      "odenthal"
+      "odenthal",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-22T23:27:49.435505",
     "feed_kommunen": []
