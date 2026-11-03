@@ -1,5 +1,20 @@
 [
   {
+    "id": "d7b1f7e004bf",
+    "title": "Thorsten Legat tritt als Trainer zuück",
+    "summary": "Auf Mallorca sorgt Thorsten Legat für Gesprächsstoff. Er werde künftig eine neue Rolle als Manager im neu gegründeten Club übernehmen, hieß es.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/thorsten-legat-tritt-als-trainer-zuueck-PWQ2FS2LDKLCFZY3DZCQLMEM7Y.html",
+    "published": "Tue, 03 Nov 2026 06:25:00 +0100",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-11-03T07:16:07.388064",
+    "feed_kommunen": [
+      "wermelskirchen"
+    ]
+  },
+  {
     "id": "6a3b671822d9",
     "title": "Was im November im Kulturforum Burscheid läuft – von Impro-Comedy bis Jazz",
     "summary": "Kultur gegen Novembergrau: In Burscheid startet am 7. November die Fotoausstellung „Burscheid. Vor Ort“ mit 14 künstlerischen Perspektiven auf die Stadt. Außerdem im Programm: Impro-Comedy, orientalische Klangwelten und der Start in die Adventszeit mit Liedern und Tänzen.",
@@ -2897,8 +2912,7 @@
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
       "kuerten",
-      "odenthal",
-      "kreisweite-nachrichten"
+      "odenthal"
     ],
     "fetched": "2026-10-22T23:27:49.435505",
     "feed_kommunen": []
