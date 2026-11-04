@@ -1,5 +1,18 @@
 [
   {
+    "id": "f61167eded51",
+    "title": "Brot, Wein und ein ganzer Gasthof in Spitze",
+    "summary": "Eigentlich wollten Leonie Culmann eine Bäckerei und Joscha Strasser eine Weinhandlung eröffnen. Beide suchten nach einem Ladenlokal. Dann wurde ihnen ein ehemaliger Gasthof in Kürten-Spitze angeboten. Heute verkaufen sie dort Brot und Wein, organisieren Veranstaltungen und verfolgen eine Idee, die schon lange vor der Suche nach Räumen entstanden war.",
+    "link": "https://in-gl.de/2026/11/04/brot-wein-und-ein-ganzer-gasthof-in-kuerten-spitze-leobrot-wein-am-berg-raum-26/",
+    "published": "Wed, 04 Nov 2026 20:22:28 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kuerten"
+    ],
+    "fetched": "2026-11-04T23:15:41.672420",
+    "feed_kommunen": []
+  },
+  {
     "id": "252f34885967",
     "title": "\"Die sind 50 Meter groß“: Fußballpapa erlebt ein Turnier mit Gruselfaktor",
     "summary": "Gunnar Freudenberg begleitet die Fußballkarriere seines Sohnes Hannes als Co-Trainer in der D-Jugend. Ein Halloween-Turnier mit Nebelmaschine und Kostümpreis klingt nach Spaß – bis der Spielplan den eigentlichen Gruselfaktor liefert.",
@@ -3859,7 +3872,8 @@
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
       "kuerten",
-      "odenthal"
+      "odenthal",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-22T23:27:49.435505",
     "feed_kommunen": []
