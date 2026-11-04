@@ -1,5 +1,49 @@
 [
   {
+    "id": "12d6f7b1336d",
+    "title": "Betonmischer umgestürzt: Straße zwischen Wipperfürth und Gummersbach gesperrt",
+    "summary": "Der Fahrer konnte sich aus dem Fahrzeug befreien.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/betonmischer-umgestuerzt-strasse-zwischen-wipperfuerth-und-gummersbach-gesperrt-MN7P7MPEQVHYFN5NXIZTFPMGKQ.html",
+    "published": "Wed, 04 Nov 2026 09:15:21 +0100",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "gummersbach",
+      "wipperfuerth",
+      "radevormwald"
+    ],
+    "fetched": "2026-11-04T09:17:10.453163",
+    "feed_kommunen": [
+      "radevormwald"
+    ]
+  },
+  {
+    "id": "c1b8f83bf8a7",
+    "title": "Derby unter Flutlicht: Ein Wiedersehen mit Brisanz",
+    "summary": "​​​​​​​Oberberg – Torsten Reisewitz kehrt mit dem SV Schönenbach an seine ehemalige Wirkungsstätte in Nümbrecht zurück – Schon im Kreispokal lieferten sich die Landesligakonkurrenten ein emotionales Duell - Auch Bezirksliga-Schlusslicht Lindlar ist bereits am Freitagabend gefordert.",
+    "link": "http://www.oberberg-aktuell.de/fussball/derby-unter-flutlicht--ein-wiedersehen-mit-brisanz-a-139920",
+    "published": "Wed, 04 Nov 2026 08:35:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar",
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-04T09:17:14.111898",
+    "feed_kommunen": []
+  },
+  {
+    "id": "3ce6c1314935",
+    "title": "(Eilmeldung) Wipperfürth: Betonmischer auf B237 umgestürzt – Vollsperrung",
+    "summary": "Eilmeldung aus Wipperfürth: Auf der B237 ist in Höhe der Haltestelle Neuenherweg ein Betonmischer umgestürzt. Die Straße ist voll gesperrt, der Fahrer wurde befreit.",
+    "link": "https://www.news-on-tour.de/343402/wipperfuerth-betonmischer-b237/",
+    "published": "Wed, 04 Nov 2026 07:28:21 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-04T09:17:09.104182",
+    "feed_kommunen": []
+  },
+  {
     "id": "7d3e2fc089d1",
     "title": "LKW-Fahrer (61) wird bei Arbeitsunfall lebensgefährlich verletzt",
     "summary": "Gummersbach – Der Mann musste von der Feuerwehr mit hydraulischem Gerät unter seinem LKW befreit werden.",

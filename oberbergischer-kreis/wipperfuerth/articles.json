@@ -1,5 +1,35 @@
 [
   {
+    "id": "12d6f7b1336d",
+    "title": "Betonmischer umgestürzt: Straße zwischen Wipperfürth und Gummersbach gesperrt",
+    "summary": "Der Fahrer konnte sich aus dem Fahrzeug befreien.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/betonmischer-umgestuerzt-strasse-zwischen-wipperfuerth-und-gummersbach-gesperrt-MN7P7MPEQVHYFN5NXIZTFPMGKQ.html",
+    "published": "Wed, 04 Nov 2026 09:15:21 +0100",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "gummersbach",
+      "wipperfuerth",
+      "radevormwald"
+    ],
+    "fetched": "2026-11-04T09:17:10.453163",
+    "feed_kommunen": [
+      "radevormwald"
+    ]
+  },
+  {
+    "id": "3ce6c1314935",
+    "title": "(Eilmeldung) Wipperfürth: Betonmischer auf B237 umgestürzt – Vollsperrung",
+    "summary": "Eilmeldung aus Wipperfürth: Auf der B237 ist in Höhe der Haltestelle Neuenherweg ein Betonmischer umgestürzt. Die Straße ist voll gesperrt, der Fahrer wurde befreit.",
+    "link": "https://www.news-on-tour.de/343402/wipperfuerth-betonmischer-b237/",
+    "published": "Wed, 04 Nov 2026 07:28:21 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-04T09:17:09.104182",
+    "feed_kommunen": []
+  },
+  {
     "id": "72ad31cf9342",
     "title": "Nachruf",
     "summary": "Die Hansestadt Wipperfürth trauert um ihren ehemaligen Mitarbeiter und Kollegen Waldemar Tebelius, der am 22.10.2026 im Alter von 70 Jahren verstorben ist.",
