@@ -1,5 +1,83 @@
 [
   {
+    "id": "953987f53a74",
+    "title": "Vom Hauptbahnhof zur Einkaufsmeile: Stadt Köln lässt Domplatte verbreitern",
+    "summary": "Über Jahre begann die Umgestaltung des nordwestlichen Domsockels nicht. Nun ist das erste Viertel der zwei Jahre um.",
+    "link": "https://www.ksta.de/koeln/koelner-innenstadt/altstadt-nord/baustelle-bis-2028-stadt-koeln-laesst-domplatte-verbreitern-1404738",
+    "published": "Wed, 04 Nov 2026 13:11:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-04T13:18:15.829658",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4884b0acc91d",
+    "title": "Einjähriges Testprojekt: Rodenkirchen verteilt kostenlose Periodenprodukte in öffentlichen Gebäuden",
+    "summary": "Die Bezirksvertretung Rodenkirchen beschließt ein einjähriges Pilotprojekt zu einem Einzelmandatsantrag, der großen Zuspruch fand.",
+    "link": "https://www.ksta.de/koeln/rodenkirchen/rodenkirchen-veedel/rodenkirchen-verteilt-kostenlose-periodenprodukte-in-oeffentlichen-gebaeuden-1404809",
+    "published": "Wed, 04 Nov 2026 13:00:52 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-04T13:18:15.829687",
+    "feed_kommunen": []
+  },
+  {
+    "id": "44eb8ca76139",
+    "title": "Deutsche Reaktionen auf US-Midterms: Trump-Pleite sorgt für „Hoffnung“ in Köln – Katerstimmung bei AfD",
+    "summary": "Trumps Republikaner verlieren die Midterms in den USA krachend. Hierzulande sorgt das überwiegend für Aufatmen – auch in Köln.",
+    "link": "https://www.ksta.de/politik/trumps-pleite-sorgt-fuer-hoffnung-in-koeln-katerstimmung-bei-afd-1408990",
+    "published": "Wed, 04 Nov 2026 12:20:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-04T13:18:15.829711",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2100ce774fbd",
+    "title": "Fertigstellung bis Ende 2029: Ehemalige Nettofiliale in Sülz weicht 100 Eigentumswohnungen",
+    "summary": "Ein Investor plant, 100 Eigentumswohnungen an der Rhöndorfer Straße 4 in Sülz zu bauen. Sozialer Wohnungsbau ist nicht vorgesehen.",
+    "link": "https://www.ksta.de/koeln/lindenthal/suelz/koeln-ehemalige-nettofiliale-in-suelz-weicht-100-eigentumswohnungen-1406015",
+    "published": "Wed, 04 Nov 2026 11:59:13 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-04T13:18:15.829729",
+    "feed_kommunen": []
+  },
+  {
+    "id": "90040def0a08",
+    "title": "Pilotphase auch in Köln: Pfefferspray und Schlagstock für Gerichtswachtmeister",
+    "summary": "Aggressives Verhalten und körperliche Angriffe beschäftigen zunehmend die Justiz in NRW. Nun sollen Gerichtswachtmeister neue Ausrüstung erhalten.",
+    "link": "https://www.ksta.de/koeln/pilotphase-in-koeln-pfefferspray-und-schlagstock-fuer-gerichtswachtmeister-1409140",
+    "published": "Wed, 04 Nov 2026 11:54:26 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-04T13:18:15.829746",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7d53d6cf931e",
+    "title": "Thriller zu Massaker im Iran: Schah-Rufe im Kölner Filmforum – Debatte um Reza Pahlavi",
+    "summary": "Der Sohn des früheren iranischen Königs nimmt den Freiheitspreis der Naumann-Stiftung entgegen. Daran gibt es Kritik.",
+    "link": "https://www.ksta.de/kultur-medien/iran-wolfgang-kubicki-zur-debatte-um-schah-sohn-reza-pahlavi-1407525",
+    "published": "Wed, 04 Nov 2026 10:30:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-04T13:18:15.829773",
+    "feed_kommunen": []
+  },
+  {
     "id": "c7e53d5399d0",
     "title": "Events, Messebau, Tierfutter, Hundeleinen: Der außergewöhnliche Lebenslauf des Kölner Künstlers Tim Ley",
     "summary": "Er ist gelernter Dachdecker, baute Kölner Clubs um und stellte seine Hundeleine in der TV-Show „Die Höhle der Löwen“ vor.",

@@ -1,5 +1,50 @@
 [
   {
+    "id": "4540625db3a4",
+    "title": "Diebe kommen über die Terrasse",
+    "summary": "An der Lindenbergstraße sind Unbekannte am Dienstag (3.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/diebe-kommen-ueber-die-terrasse-S4NILFF7FPEWIR6L32JGW3CXUY.html",
+    "published": "Wed, 04 Nov 2026 10:35:28 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-04T13:17:17.229576",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "aebe3b4f6457",
+    "title": "Zigarettenautomat geplündert",
+    "summary": "Zwischen 1.30 und 16 Uhr am Dienstag (3. November) haben Unbekannte einen Zigarettenautomaten an der Heinrich-Schicht-Straße geplündert, indem sie den Schließmechanismus durch Hebeln und Schnitte beschädigten.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/zigarettenautomat-gepluendert-U4XOLOR2CWB4FPWQUTU2JZ34FY.html",
+    "published": "Wed, 04 Nov 2026 10:33:07 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-04T13:17:17.229819",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "7700967da315",
+    "title": "Hückeswagen, Gummersbach & Marienheide: Einbruch, Steinwürfe, BMW beschlagnahmt",
+    "summary": "Einbruch über die Terrassentür und geplünderter Zigarettenautomat in Hückeswagen, Steinwürfe in Marienheide, BMW in Gummersbach beschlagnahmt.",
+    "link": "https://www.news-on-tour.de/343431/marienheide-steinwuerfe-einbruch/",
+    "published": "Wed, 04 Nov 2026 09:21:43 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "hueckeswagen",
+      "marienheide",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-04T13:17:16.580118",
+    "feed_kommunen": []
+  },
+  {
     "id": "76bdc569cfe5",
     "title": "Unbekannte plündern Zigarettenautomaten",
     "summary": "Hückeswagen – Täter schlugen in der Heinrich-Schicht-Straße zu – Polizei ermittelt außerdem nach Hauseinbruch.",

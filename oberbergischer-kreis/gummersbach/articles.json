@@ -1,5 +1,46 @@
 [
   {
+    "id": "06a56815d1de",
+    "title": "Michel Ley signiert: In Gummersbach mag man es Schaf",
+    "summary": "Der Gummersbacher Cartoonist signiert am 14. November in der Mayerschen Buchhandlung.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/michel-ley-signiert-in-gummersbach-mag-man-es-schaf-1409094",
+    "published": "Wed, 04 Nov 2026 11:19:55 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-04T13:17:21.460193",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c4b879102841",
+    "title": "Gummersbach: Beide Doppel entscheiden – Weiershagen II gewinnt Tischtennis-Spiel 6:4 bei Aggertal III",
+    "summary": "Der TuS Weiershagen II gewinnt beim Aggertaler TTC III mit 6:4. Die Einzel enden 4:4, den Unterschied machen die beiden Doppel. Die Spitzenspieler der Gastgeber gewinnen oben alles, die Gäste unten.",
+    "link": "https://www.news-on-tour.de/343449/gummersbach-tischtennis-weiershagen/",
+    "published": "Wed, 04 Nov 2026 09:34:29 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-04T13:17:16.579789",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7700967da315",
+    "title": "Hückeswagen, Gummersbach & Marienheide: Einbruch, Steinwürfe, BMW beschlagnahmt",
+    "summary": "Einbruch über die Terrassentür und geplünderter Zigarettenautomat in Hückeswagen, Steinwürfe in Marienheide, BMW in Gummersbach beschlagnahmt.",
+    "link": "https://www.news-on-tour.de/343431/marienheide-steinwuerfe-einbruch/",
+    "published": "Wed, 04 Nov 2026 09:21:43 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "hueckeswagen",
+      "marienheide",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-04T13:17:16.580118",
+    "feed_kommunen": []
+  },
+  {
     "id": "0b5e6b4f68f0",
     "title": "BMW-Fahrer flüchtet vor der Polizei",
     "summary": "Gummersbach – 18-Jähriger liefert sich Verfolgungsjagd mit einer Polizeistreife – Die Flucht endete in der Nähe der Aggertalsperre.",
@@ -20,7 +61,8 @@
     "published": "Wed, 04 Nov 2026 08:22:02 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
-      "gummersbach"
+      "gummersbach",
+      "reichshof"
     ],
     "fetched": "2026-11-04T10:17:08.331014",
     "feed_kommunen": []

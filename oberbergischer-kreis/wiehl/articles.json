@@ -1,5 +1,31 @@
 [
   {
+    "id": "f0811063026a",
+    "title": "Lautes Signal in die Chefetagen",
+    "summary": "Wiehl – Die Warnstreiks in der Metall- und Elektroindustrie im Rahmen der Tarifverhandlungen haben das Oberbergische erreicht – Am Dienstag gingen in Wiehl die Beschäftigten nach Aufruf der IG Metall auf die Straße für mehr Lohn.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/lautes-signal-in-die-chefetagen-a-139942",
+    "published": "Wed, 04 Nov 2026 11:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-04T13:17:22.662172",
+    "feed_kommunen": []
+  },
+  {
+    "id": "702109ce6322",
+    "title": "Wiehl im Mittelrheinliga-Pokalduell ohne wirkliche Chance",
+    "summary": "Oberberg - Die U19 des FV Wiehl scheidet im Achtelfinale des Kreispokals nach einer deutlichen Niederlage gegen den SV Bergisch Gladbach 09 aus.",
+    "link": "http://www.oberberg-aktuell.de/fussball/wiehl-im-mittelrheinliga-pokalduell-ohne-wirkliche-chance-a-139943",
+    "published": "Wed, 04 Nov 2026 10:18:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-04T13:17:22.662466",
+    "feed_kommunen": []
+  },
+  {
     "id": "9a8e3a9f45ac",
     "title": "Wiehler Tischtennis-Rollis spielen mit zwei Teams in der Bundesliga",
     "summary": "Wiehl – Die Erstvertretung des TTC Wiehl legte einen guten Saisonstart hin, während die Zweitvertretung als Aufsteiger am ersten Spieltag Lehrgeld zahlen musste.",
@@ -3112,6 +3138,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-03T11:17:05.576581",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "cfe1a5446ea6",
+    "title": "Lesung zu Mode und Faschismus fällt aus",
+    "summary": "Die für diesen Freitag, 6. November, geplante Lesung „Mode und Faschismus“ in der Stadtbücherei Wiehl muss leider wegen einer Terminüberschneidung verschoben werden. Die Veranstaltung wird stattdessen am 16. April 2027 um 18:30 Uhr stattfinden.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9582-lesung-zu-mode-und-faschismus-faellt-aus.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-04T13:17:25.229576",
     "feed_kommunen": [
       "wiehl"
     ]
