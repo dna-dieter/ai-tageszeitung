@@ -1,5 +1,73 @@
 [
   {
+    "id": "94fc2e19e790",
+    "title": "Zurück zu den Wurzeln",
+    "summary": "Lindlar – Der TuS Lindlar holt einen alten Bekannten ins Trainerteam zurück, der im und rund um das Volksbank Parkstadion praktisch jeden Grashalm kennt.",
+    "link": "http://www.oberberg-aktuell.de/fussball/zur--ck-zu-den-wurzeln-a-139962",
+    "published": "Wed, 04 Nov 2026 16:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-04T17:17:30.956129",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a97bdd265862",
+    "title": "Polizei ermittelt jungen Tatverdächtigen",
+    "summary": "Gummersbach – Im September wurde eine Frau „Am Wehrenbeul“ beraubt und bei einem Sturz verletzt – Heute konnte die Polizei einen Erfolg vermelden.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/polizei-ermittelt-jungen-tatverd--chtigen-a-139963",
+    "published": "Wed, 04 Nov 2026 15:47:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-04T17:17:30.956263",
+    "feed_kommunen": []
+  },
+  {
+    "id": "eb9fdaafdc21",
+    "title": "„Es wird hart, aber fair“",
+    "summary": "Wipperfürth – Gestern wurde der Haushalt für 2027 eingebracht - Düsterere Prognose als erwartet – Investitionen werden trotzdem fortgeführt.",
+    "link": "http://www.oberberg-aktuell.de/politik/---es-wird-hart--aber-fair----a-139959",
+    "published": "Wed, 04 Nov 2026 15:30:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-04T17:17:30.956393",
+    "feed_kommunen": []
+  },
+  {
+    "id": "cc31d61ccca3",
+    "title": "Pressemitteilung OVAG: Bauarbeiten auf der A4: Einschränkungen im Busverkehr der OVAG",
+    "summary": "Im Zusammenhang mit den Bauarbeiten der Autobahn GmbH zur Einrichtung einer Schrankenanlage zum Schutz der Wiehltalbrücke kommt es im November zu Verkehrseinschränkungen auf der A4 und den angrenzenden Straßen. Die damit verbundenen Umleitungen führen voraussichtlich zu einem erhöhten Verkehrsaufkommen auf den Ausweichstrecken. Dadurch ist mit Beeinträchtigungen im Busverkehr zu rechnen.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=2014&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=ac5e8d3f38c10dbc1c1c0e9085f95d71",
+    "published": "Wed, 04 Nov 2026 15:18:01 +0100",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "wiehl",
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-04T17:17:40.953919",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
+    "id": "2cbe5b1c563c",
+    "title": "POL-GM: Nachtrag: Tatverdächtiger nach Raub auf 61-Jährige ermittelt",
+    "summary": "Gummersbach (ots) - Nach einem Raub auf eine damals 61-Jährige in der Straße \"Am Wehrenbeul\" Ende September (siehe Pressemeldung https://www.presseportal.de/blaulicht/pm/65843/6358551) hat die Polizei einen 15-Jährigen aus Gummersbach als ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6384279",
+    "published": "Wed, 04 Nov 2026 15:15:23 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-04T17:17:29.654587",
+    "feed_kommunen": []
+  },
+  {
     "id": "e68aa8a21366",
     "title": "Wupperorte sollen festlich erstrahlen",
     "summary": "Die Weihnachtsbeleuchtung in den Wupperorten finanziert sich durch Spenden. Das Helferteam des Bürgervereins verteilt ab kommender Woche die Spendenflyer.",

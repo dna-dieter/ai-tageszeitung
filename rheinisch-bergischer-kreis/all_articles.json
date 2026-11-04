@@ -1,5 +1,31 @@
 [
   {
+    "id": "75749648bec6",
+    "title": "Gourmets in Rösrath: Zwei Brüder und die französische Küche",
+    "summary": "Das Restaurant Gourmet in Rösrath feiert kommende Woche sein 20-jähriges Bestehen.",
+    "link": "https://www.ksta.de/region/rhein-berg/roesrath/gourmets-in-roesrath-zwei-brueder-und-die-franzoesische-kueche-1409432",
+    "published": "Wed, 04 Nov 2026 15:39:07 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "roesrath"
+    ],
+    "fetched": "2026-11-04T17:16:17.498979",
+    "feed_kommunen": []
+  },
+  {
+    "id": "44323f1bce5c",
+    "title": "Gruselwald in Altenberg: Tausende Gäste wurden verzaubert",
+    "summary": "Zahlreiche Besucher aller Altersklassen strömten zum Gruselwald nach Altenberg.",
+    "link": "https://www.ksta.de/region/rhein-berg/gruselwald-in-altenberg-tausende-gaeste-wurden-verzaubert-1409402",
+    "published": "Wed, 04 Nov 2026 15:17:22 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "odenthal"
+    ],
+    "fetched": "2026-11-04T17:16:17.499072",
+    "feed_kommunen": []
+  },
+  {
     "id": "8161fad427ec",
     "title": "Touren im Bergischen Land: Digitale Wandernadeln auf 25 Themenwegen",
     "summary": "Auf den 25 Bergischen Streifzügen durch das Bergische Land lassen sich nun mit einer App digitale Auszeichnungen sammeln, von Bronze bis Gold. Wie das funktioniert.",
@@ -43,6 +69,45 @@
     "feed_kommunen": [
       "burscheid"
     ]
+  },
+  {
+    "id": "45bbde6537be",
+    "title": "„Trauerexpressionen II“: Erinnerung an Verstorbenen in Schildgen",
+    "summary": "Bei „Trauerexpressionen II“ in Schildgen berührten vor allem kurze Prosatexte die rund 80 Gäste.",
+    "link": "https://www.ksta.de/region/rhein-berg/trauerexpressionen-ii-erinnerung-an-verstorbenen-in-schildgen-1409330",
+    "published": "Wed, 04 Nov 2026 14:22:34 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-04T17:16:17.499180",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e7ff18eb7c98",
+    "title": "Filmfestival „Nahaufnahme“: Inklusions-Festival in Bergisch Gladbach",
+    "summary": "Das Filmfestival bringt in Bergisch Gladbach das Thema Inklusion auf die Leinwand",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/nahaufnahme-inklusions-festival-in-bergisch-gladbach-1409295",
+    "published": "Wed, 04 Nov 2026 13:55:26 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-04T17:16:17.499262",
+    "feed_kommunen": []
+  },
+  {
+    "id": "685c7c8da1e6",
+    "title": "Feuer auf Balkon: Katze aus Wohnung in Frankenforst gerettet",
+    "summary": "Ein Feuer auf einem Balkon in Frankenforst griff auf den Dachstuhl über.",
+    "link": "https://www.ksta.de/region/rhein-berg/feuer-auf-balkon-katze-aus-wohnung-in-frankenforst-gerettet-1409288",
+    "published": "Wed, 04 Nov 2026 13:50:43 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-04T17:16:17.499347",
+    "feed_kommunen": []
   },
   {
     "id": "379d3e82e33a",

@@ -1,5 +1,44 @@
 [
   {
+    "id": "0e7ea155c556",
+    "title": "Wartungsarbeiten am Tunnel: A1 muss bei Lövenich zwei Nächte lang gesperrt werden",
+    "summary": "Die Sperrungen gelten für den Bereich zwischen dem Autobahnkreuz Köln-West und der Anschlussstelle Köln-Bocklemünd.",
+    "link": "https://www.ksta.de/koeln/kkoeln-a1-muss-bei-loevenich-zwei-naechte-lang-gesperrt-werden-1348839",
+    "published": "Wed, 04 Nov 2026 16:11:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-04T17:18:14.276393",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8930387c822b",
+    "title": "Keine außergewöhnliche Verkehrssituation: Lokalpolitiker scheitern mit Ampel-Antrag für Sürther Straße",
+    "summary": "Morgens Chaos an der Sürther Straße: Die CDU fordert steuerbare Ampeln und abgesenkte Bordsteine. Wie die Verwaltung darauf reagiert.",
+    "link": "https://www.ksta.de/koeln/rodenkirchen/rodenkirchen-veedel/koeln-lokalpolitiker-scheitern-mit-ampel-antrag-fuer-suerther-strasse-1405571",
+    "published": "Wed, 04 Nov 2026 16:03:47 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-04T17:18:14.276418",
+    "feed_kommunen": []
+  },
+  {
+    "id": "685dc10da153",
+    "title": "10. Politisches Begleitgremium und Fachgespräch zur Ost-West-Achse",
+    "summary": "4. November 2026, 15:18Vorstellung erster Prüfergebnisse auf Basis des Planungsbeschlusses des Rates",
+    "link": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/10-politisches-begleitgremium-und-fachgespraech-zur-ost-west-achse",
+    "published": "Wed, 04 Nov 2026 15:18:00 +0100",
+    "source": "Stadt Köln Pressemeldungen",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-04T17:18:12.795876",
+    "feed_kommunen": []
+  },
+  {
     "id": "4a05c0732137",
     "title": "Kreatives Projekt: Über 60 junge Talente zeigen in der Alten Feuerwache in Köln ihre Träume",
     "summary": "Das Herbstprogramm in der Kunst- und Kulturstätte in der Innenstadt bot jungen Menschen Ausdrucksformen für Wünsche, Hoffnungen und Ängste.",
@@ -10,6 +49,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-04T15:18:33.255713",
+    "feed_kommunen": []
+  },
+  {
+    "id": "42cab4f038bb",
+    "title": "Albtraum in Köln: Vermieter lässt Wohnungstür von 83-Jähriger rausreißen",
+    "summary": "Kölner Mieter sind fassungslos. In ihrem Haus wurden einfach mehrere Türen, darunter die Wohnungstür einer 83-Jährigen, herausgerissen.",
+    "link": "https://www.ksta.de/koeln/muelheim/muelheim-veedel/albtraum-in-koeln-vermieter-laesst-wohnungstuer-von-83-jaehriger-rausreissen-1409397",
+    "published": "Wed, 04 Nov 2026 14:58:13 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-04T17:18:14.276437",
     "feed_kommunen": []
   },
   {
