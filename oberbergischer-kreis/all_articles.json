@@ -1,5 +1,20 @@
 [
   {
+    "id": "0a2235c72b7b",
+    "title": "Angeklagter räumt Schockanrufe ein",
+    "summary": "Vor dem Landgericht Köln muss sich ein 25-Jähriger verantworten. Er soll für eine Bande, die es auf Senioren abgesehen hatte, bei Schockanrufe geholfen haben.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/angeklagter-raeumt-schockanrufe-ein-M62JDUDJHKAJURGYLX46AT7TYU.html",
+    "published": "Wed, 04 Nov 2026 06:55:00 +0100",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-11-04T07:16:58.758240",
+    "feed_kommunen": [
+      "radevormwald"
+    ]
+  },
+  {
     "id": "9a8e3a9f45ac",
     "title": "Wiehler Tischtennis-Rollis spielen mit zwei Teams in der Bundesliga",
     "summary": "Wiehl – Die Erstvertretung des TTC Wiehl legte einen guten Saisonstart hin, während die Zweitvertretung als Aufsteiger am ersten Spieltag Lehrgeld zahlen musste.",
@@ -10,6 +25,19 @@
       "wiehl"
     ],
     "fetched": "2026-11-04T06:17:01.380715",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d1b1ea29c430",
+    "title": "POL-GM: Rettungshubschrauber nach Arbeitsunfall im Einsatz",
+    "summary": "Gummersbach (ots) - Ein 61-Jähriger aus Hattingen ist am Dienstag (3. November) bei einem Unfall auf einem Firmengelände in der Dieringhauser Straße lebensgefährlich verletzt worden. Nach ersten Erkenntnissen, arbeitete der 61-Jährige gegen ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6383685",
+    "published": "Wed, 04 Nov 2026 05:54:49 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-04T07:17:01.464586",
     "feed_kommunen": []
   },
   {
