@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Fondue Abende in der Bergischen Stube",
-    "datum": "3. Nov 2026",
-    "datum_raw": "2026-11-03T18:00:00+02:00",
-    "ort": "Flammkuchenrestaurant \"Bergische Stube\" im Tagungshotel Kardinal schulte Haus, Overather Str. 51-53, 51429 Bergisch Gladbach",
-    "preis": "ab 30 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Von Oktober 2026 bis März 2027 lädt das Kardinal Schulte Haus zu stimmungsvollen Fondue-Abenden in die \"Bergische Stube\" ein. Erlebe einen geselligen Abend voller Geschmack und Atmosphäre. Neben dem klassischen Schweizer"
-  },
-  {
     "titel": "Mario Basler",
     "datum": "6. Nov 2026",
     "datum_raw": "2026-11-06T20:00:00+01:00",
@@ -118,6 +108,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Unter der Leitung von Erich Olpen, der 40 Jahre als Elektriker in der Papierfabrik Zanders beschäftigt war, folgen die Besucherinnen und Besucher auf dem neuen Rundgang dem Energieträger Kohle über das Gelände: Vom Antra"
+  },
+  {
+    "titel": "Fondue Abende in der Bergischen Stube",
+    "datum": "10. Nov 2026",
+    "datum_raw": "2026-11-10T18:00:00+02:00",
+    "ort": "Flammkuchenrestaurant \"Bergische Stube\" im Tagungshotel Kardinal schulte Haus, Overather Str. 51-53, 51429 Bergisch Gladbach",
+    "preis": "ab 30 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Von Oktober 2026 bis März 2027 lädt das Kardinal Schulte Haus zu stimmungsvollen Fondue-Abenden in die \"Bergische Stube\" ein. Erlebe einen geselligen Abend voller Geschmack und Atmosphäre. Neben dem klassischen Schweizer"
   },
   {
     "titel": "Nature Journaling - Die Natur kreativ im Skizzenbuch festhalten",
