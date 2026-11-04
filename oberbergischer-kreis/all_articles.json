@@ -1,5 +1,18 @@
 [
   {
+    "id": "8f9119ff65ac",
+    "title": "Bergneustadt: Endergebnis der Bürgerbefragung – Mehrheit gegen Windräder, Beratung voraussichtlich Anfang 2027",
+    "summary": "Bürgerbefragung in Bergneustadt: Im Endergebnis stehen 51,8 und 52,7 Prozent Nein bei 39 Prozent Beteiligung. Bindend ist das nicht, die Gremien beraten voraussichtlich Anfang 2027.",
+    "link": "https://www.news-on-tour.de/343465/bergneustadt-buergerbefragung-ergebnis/",
+    "published": "Wed, 04 Nov 2026 22:18:18 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-11-05T00:17:19.917122",
+    "feed_kommunen": []
+  },
+  {
     "id": "b1eaf234983f",
     "title": "(Eilmeldung) Waldbröl: Unfall E-Scooter gegen Auto – eine Person schwer verletzt, Homburger Straße gesperrt",
     "summary": "Eilmeldung: Unfall E-Scooter gegen Auto auf der Homburger Straße in Waldbröl. Eine Person ist schwer verletzt, die Fahrbahn ist gesperrt.",
@@ -10,6 +23,19 @@
       "waldbroel"
     ],
     "fetched": "2026-11-04T23:17:16.224233",
+    "feed_kommunen": []
+  },
+  {
+    "id": "686cd284879f",
+    "title": "35-Millionen-Loch Stadtentwicklung in Gummersbach geht trotz Rekordminus weiter:",
+    "summary": "Die Gewerbesteuer in Gummersbach sprudelt, dennoch ist die Kreisstadt tief in der Kreide kommendes Jahr.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/35-millionen-loch-stadtentwicklung-in-gummersbach-geht-trotz-rekordminus-weiter-1409645",
+    "published": "Wed, 04 Nov 2026 19:57:27 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-05T00:17:25.007229",
     "feed_kommunen": []
   },
   {
