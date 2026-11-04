@@ -1,5 +1,18 @@
 [
   {
+    "id": "3be2556a5ee4",
+    "title": "(Update) Wipperfürth: Betonmischer kippt auf B237 um – Fahrer (70) leicht verletzt",
+    "summary": "Update: Betonmischer auf der B237 in Wipperfürth-Niederwipper umgekippt, der 70-jährige Fahrer aus Meinerzhagen wurde leicht verletzt. Die Bergung ist gegen 10:30 Uhr geplant.",
+    "link": "https://www.news-on-tour.de/343402/wipperfuerth-betonmischer-b237/",
+    "published": "Wed, 04 Nov 2026 09:11:16 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-04T10:17:08.330885",
+    "feed_kommunen": []
+  },
+  {
     "id": "12d6f7b1336d",
     "title": "Betonmischer umgestürzt: Straße zwischen Wipperfürth und Gummersbach gesperrt",
     "summary": "Der Fahrer konnte sich aus dem Fahrzeug befreien.",
@@ -9,24 +22,26 @@
     "kommunen": [
       "gummersbach",
       "wipperfuerth",
-      "radevormwald"
+      "radevormwald",
+      "hueckeswagen"
     ],
     "fetched": "2026-11-04T09:17:10.453163",
     "feed_kommunen": [
-      "radevormwald"
+      "radevormwald",
+      "hueckeswagen"
     ]
   },
   {
-    "id": "3ce6c1314935",
-    "title": "(Eilmeldung) Wipperfürth: Betonmischer auf B237 umgestürzt – Vollsperrung",
-    "summary": "Eilmeldung aus Wipperfürth: Auf der B237 ist in Höhe der Haltestelle Neuenherweg ein Betonmischer umgestürzt. Die Straße ist voll gesperrt, der Fahrer wurde befreit.",
-    "link": "https://www.news-on-tour.de/343402/wipperfuerth-betonmischer-b237/",
-    "published": "Wed, 04 Nov 2026 07:28:21 +0000",
-    "source": "NEWS-on-Tour Oberberg",
+    "id": "ef23dc730468",
+    "title": "Erstmeldung: Betonmischer an der L 237 umgekippt",
+    "summary": "Wipperfürth – In Höhe von Niederwipper ist am Mittwochmorgen ein Betonmischer verunglückt.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/erstmeldung--betonmischer-an-der-l-----umgekippt-a-139938",
+    "published": "Wed, 04 Nov 2026 09:15:00 +0100",
+    "source": "Oberberg-Aktuell",
     "kommunen": [
       "wipperfuerth"
     ],
-    "fetched": "2026-11-04T09:17:09.104182",
+    "fetched": "2026-11-04T10:17:13.714391",
     "feed_kommunen": []
   },
   {

@@ -1,5 +1,63 @@
 [
   {
+    "id": "76bdc569cfe5",
+    "title": "Unbekannte plündern Zigarettenautomaten",
+    "summary": "Hückeswagen – Täter schlugen in der Heinrich-Schicht-Straße zu – Polizei ermittelt außerdem nach Hauseinbruch.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/unbekannte-pl--ndern-zigarettenautomaten-fff-a-139941",
+    "published": "Wed, 04 Nov 2026 09:44:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-04T10:17:13.714064",
+    "feed_kommunen": []
+  },
+  {
+    "id": "12d6f7b1336d",
+    "title": "Betonmischer umgestürzt: Straße zwischen Wipperfürth und Gummersbach gesperrt",
+    "summary": "Der Fahrer konnte sich aus dem Fahrzeug befreien.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/betonmischer-umgestuerzt-strasse-zwischen-wipperfuerth-und-gummersbach-gesperrt-MN7P7MPEQVHYFN5NXIZTFPMGKQ.html",
+    "published": "Wed, 04 Nov 2026 09:15:21 +0100",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "gummersbach",
+      "wipperfuerth",
+      "radevormwald",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-04T09:17:10.453163",
+    "feed_kommunen": [
+      "radevormwald",
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "9f5f8a1b7333",
+    "title": "POL-GM: Zigarettenautomat in Industriegebiet geplündert",
+    "summary": "Hückeswagen (ots) - Zwischen 01:30 Uhr und 16 Uhr am Dienstag (3. November) haben Unbekannte einen Zigarettenautomaten in der Heinrich-Schicht-Straße geplündert, indem sie den Schließmechanismus durch Hebeln und Schnitte beschädigten. Hinweise ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6383820",
+    "published": "Wed, 04 Nov 2026 09:09:47 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-04T10:17:12.618157",
+    "feed_kommunen": []
+  },
+  {
+    "id": "06e12e0de8b5",
+    "title": "POL-GM: Einbrecher kamen über die Terrassentür",
+    "summary": "Hückeswagen (ots) - In der Lindenbergstraße sind Unbekannte am Dienstag (3. November) zwischen 16:20 Uhr und 19:08 Uhr in ein Einfamilienhaus eingebrochen. Sie hebelten die Terrassentür auf und gelangten so ins Haus. Dort durchwühlten sie ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6383819",
+    "published": "Wed, 04 Nov 2026 09:09:16 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-04T10:17:12.618352",
+    "feed_kommunen": []
+  },
+  {
     "id": "7162638f914e",
     "title": "Die Montanusschule wird „auf links gedreht“",
     "summary": "Im Sommer hat die Schadstoffsanierung an der Weststraße begonnen, inzwischen ist fast das gesamte Gebäude in den Rohbauzustand versetzt worden. Ab Jahresbeginn geht’s mit dem Wiederaufbau los.",
