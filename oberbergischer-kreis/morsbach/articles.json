@@ -28,6 +28,33 @@
     "feed_kommunen": []
   },
   {
+    "id": "f577bc98f252",
+    "title": "POL-GM: Einbrecher durchwühlen Wohnhäuser",
+    "summary": "Hückeswagen; Morsbach (ots) - Unbekannte sind am Mittwoch (4. November) in zwei Wohnhäuser eingebrochen. In Hückeswagen schlugen sie zwischen 13:00 Uhr und 16:30 Uhr ein Fenster auf der Rückseite eines Einfamilienhauses in der Friedrichstraße ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6384716",
+    "published": "Thu, 05 Nov 2026 10:50:33 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "morsbach",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-05T12:17:16.149377",
+    "feed_kommunen": []
+  },
+  {
+    "id": "65ccb2ba86c8",
+    "title": "POL-GM: Motorradfahrer flüchtet nach Verkehrsunfall",
+    "summary": "Morsbach (ots) - Am Mittwochabend (4. November) kam es auf der Wissener Straße, zwischen den Ortschaften Morsbach und Rhein zu einem Verkehrsunfall, an dem zwei Motorräder beteiligt waren. Gegen 19:45 Uhr fuhren zwei Motorradfahrer hintereinander ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6384713",
+    "published": "Thu, 05 Nov 2026 10:50:00 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-11-05T12:17:16.149807",
+    "feed_kommunen": []
+  },
+  {
     "id": "d68333aea082",
     "title": "SVM reagiert auf sportliche Krise: Trainerwechsel beim Schlusslicht",
     "summary": "Morsbach – Die Verantwortlichen des SV Morsbach, Tabellenletzter der Kreisliga B Staffel 3, haben das bisherige Trainertrio von seinen Aufgaben entbunden – Nachfolge wurde intern geregelt.",

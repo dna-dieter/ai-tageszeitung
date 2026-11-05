@@ -1,5 +1,70 @@
 [
   {
+    "id": "c6d9a23e11b6",
+    "title": "Karneval in Köln: 21 Kölner Kneipen, in denen am 11.11. jeck gefeiert wird",
+    "summary": "Am 11.11. beginnt in Köln die Karnevalssession. Wir zeigen 21 Kneipen zum jecken Sessionsauftakt mit Kölsch und Musik.",
+    "link": "https://www.ksta.de/koeln/karneval-in-koeln/11-11-in-koeln-kneipen-zum-karneval-feiern-880886",
+    "published": "Thu, 05 Nov 2026 12:05:44 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-05T12:18:11.112157",
+    "feed_kommunen": []
+  },
+  {
+    "id": "338dfa7cd03e",
+    "title": "Ehemaliger „Lindenstraße“-Drehort: WDR bereitet Verkauf seines Kölner Produktionsareals vor",
+    "summary": "Wo früher „Lindenstraße“ oder „Verbotene Liebe“ gedreht wurden, soll bald Schluss sein für den WDR.",
+    "link": "https://www.ksta.de/koeln/ehrenfeld/bocklemuend-mengenich/ex-lindenstrasse-wdr-bereitet-verkauf-seines-koelner-produktionsareals-vor-1409299",
+    "published": "Thu, 05 Nov 2026 12:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-05T12:18:11.112188",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2e0bdc0f36f6",
+    "title": "25 Meter hoch, 90 Jahre alt: Weihnachtsbaum auf dem Kölner Roncalliplatz aufgestellt",
+    "summary": "Mit der Rotfichte ist das Herzstück des Weihnachtsmarktes am Dom angekommen. Sie ist 25 Meter hoch und stammt aus der Eifel.",
+    "link": "https://www.ksta.de/koeln/koeln-weihnachtsbaum-auf-dem-roncalliplatz-aufgestellt-1409897",
+    "published": "Thu, 05 Nov 2026 11:59:15 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-05T12:18:11.112207",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e8746bfcc61f",
+    "title": "Keine Vorerfahrung benötigt: Gürzenich-Orchester sucht jugendliche Co-Moderation für Konzert",
+    "summary": "Für ein Konzert im Februar 2027 sucht das Gürzenich-Orchester zwei junge Co-Moderatoren und bietet auch professionelles Coaching an.",
+    "link": "https://www.ksta.de/koeln/koeln-guerzenich-orchester-sucht-junge-co-moderation-fuer-konzert-1409561",
+    "published": "Thu, 05 Nov 2026 11:51:36 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-05T12:18:11.112224",
+    "feed_kommunen": []
+  },
+  {
+    "id": "19f120443821",
+    "title": "Stadt gibt Entwarnung: Bombe in Köln-Riehl gefunden – aber ohne Zünder",
+    "summary": "Es ist keine Evakuierung nötig: Eine in Riehl entdeckte Weltkriegsbombe hatte keinen Zünder und wurde bereits abtransportiert.",
+    "link": "https://www.ksta.de/koeln/nippes/riehl/bombe-in-koeln-riehl-gefunden-aber-ohne-zuender-1409951",
+    "published": "Thu, 05 Nov 2026 11:41:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-05T12:18:11.112240",
+    "feed_kommunen": []
+  },
+  {
     "id": "251cef0ef860",
     "title": "Einsatz mit Herz: „Tiemo“ ist die letzte Zuflucht für ärmere Patienten",
     "summary": "Tierarztkosten sind in den letzten Jahren empfindlich gestiegen. Für viele ärmere Tierhalter sind sie kaum noch zu stemmen.",

@@ -3597,17 +3597,6 @@
     "teaser": "16 bis 17 Uhr · Künstliche Intelligenz entdecken im Interim der Zentralbibliothek – eine Veranstaltung im Rahmen der Reihe Digitale Werkstatt."
   },
   {
-    "titel": "Kleines Adventskonzert des Chor Kanti",
-    "datum": "17. Dez 2026",
-    "datum_raw": "2026-12-17T00:00:00",
-    "datum_bis": "",
-    "ort": "Interim Zentralbibliothek",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41653/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "16 bis 17 Uhr · Der Chor Kanti singt Weihnachtliches im Interim der Zentralbibliothek."
-  },
-  {
     "titel": "Bilderbuchkino",
     "datum": "17. Dez 2026",
     "datum_raw": "2026-12-17T00:00:00",
@@ -3639,6 +3628,17 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41661/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "16:30 bis 18:30 Uhr · Gemeinsam stricken, sticken und häkeln in der Stadtteilbibliothek Sülz."
+  },
+  {
+    "titel": "Kleines Adventskonzert des Chor Kanti",
+    "datum": "17. Dez 2026",
+    "datum_raw": "2026-12-17T00:00:00",
+    "datum_bis": "",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41653/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "17 bis 18 Uhr · Der Chor Kanti singt Weihnachtliches im Interim der Zentralbibliothek."
   },
   {
     "titel": "Schlafsalbe selbst herstellen",
