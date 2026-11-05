@@ -1,5 +1,80 @@
 [
   {
+    "id": "82e352cce6a5",
+    "title": "Standortbestimmung beim Tabellenführer",
+    "summary": "Oberberg - Regionalliga: Löwinnen gastieren beim Tabellenführer Bonn rrh. - Nümbrecht gegen Biefang in der Favoritenrolle - Oberliga: Für Marienheide/Müllenbach zählen nur zwei Punkte - Verbandsliga: Oberwiehl mit großen Verletzungssorgen.",
+    "link": "http://www.oberberg-aktuell.de/handball/hbf---------a-139948",
+    "published": "Thu, 05 Nov 2026 18:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "nuembrecht",
+      "marienheide",
+      "wiehl"
+    ],
+    "fetched": "2026-11-05T18:17:37.292965",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5a6a984600e1",
+    "title": "Vollsperrung BAB 4 Umleitungsverkehr in der Gemeinde Engelskirchen",
+    "summary": "Aufgrund einer Vollsperrung der A4 zwischen dem 09. und 30. November wird die Umleitung über Kaltenbach eingerichtet. Um den Verkehrsfluss zu sichern und Begegnungsverkehr zu vermeiden, gelten während dieser Zeit verschiedene Einfahrtsverbote sowie Einschränkungen in Forst und Ründeroth, wo bei Überlastung zusätzlich eine Ampel zur Regelung der Engstelle in Betrieb genommen wird.",
+    "link": "https://www.engelskirchen.de/portal/meldungen/vollsperrung-bab-4-umleitungsverkehr-in-der-gemeinde-engelskirchen-900002524-23501.html?rubrik=900000007",
+    "published": "Thu, 05 Nov 2026 17:39:00 +0100",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-05T18:17:39.234799",
+    "feed_kommunen": [
+      "engelskirchen"
+    ]
+  },
+  {
+    "id": "74196c9371f2",
+    "title": "Viele Besucher und reges Interesse bei der 1-Jahres-Feier der JA Wohnpartnerschaften!",
+    "summary": "",
+    "link": "https://www.engelskirchen.de/portal/meldungen/viele-besucher-und-reges-interesse-bei-der-1-jahres-feier-der-ja-wohnpartnerschaften--900002523-23501.html?rubrik=900000002",
+    "published": "Thu, 05 Nov 2026 17:39:00 +0100",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-05T18:17:39.234882",
+    "feed_kommunen": [
+      "engelskirchen"
+    ]
+  },
+  {
+    "id": "d3ba298e7932",
+    "title": "Verstärkung für das Hallenbad-Team gesucht!",
+    "summary": "Zur Verstärkung unseres Teams im Hallenbad sucht die Gemeinde Morsbach zum nächstmöglichen Zeitpunkt eine/einen Kassierer:in (m/w/d) für das Hallenbad. Der Stundenumfang beträgt 7-8 Stunden in der Woche im Rahmen des öffentlichen Badebetriebs. Die Einsatztage sind wöchentlich wechselnd in Absprache mit dem vorhandenen Kassenpersonal. Die Vergütung erfolgt auf geringfügiger Basis. Die Tätigkeit ist",
+    "link": "https://www.morsbach.de/blog/homepage/verstaerkung-fuer-das-hallenbad-team-gesucht/",
+    "published": "Thu, 05 Nov 2026 16:29:38 +0000",
+    "source": "Gemeinde Morsbach (offiziell)",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-11-05T18:17:42.886951",
+    "feed_kommunen": [
+      "morsbach"
+    ]
+  },
+  {
+    "id": "2a24dfb3c6c3",
+    "title": "Giorgi Khupenia und Shuri Soga",
+    "summary": "Erleben Sie am Sonntag, den 29. November um 17.00 Uhr ein besonderes musikalisches Highlight im Ratssaal der Gemeinde Engelskirchen. Die talentierten Musiker Giorgi Khupenia und Shuri Soga präsentieren ein abwechslungsreiches Programm mit Werken von Carl Philipp Emanuel Bach, Carl Reinecke, Frank Martin und Charles-Marie Widor. Die beiden preisgekrönten Künstler, die beide an der Hochschule für Mu",
+    "link": "https://www.engelskirchen.de/portal/meldungen/giorgi-khupenia-und-shuri-soga-900002522-23501.html?rubrik=900000002",
+    "published": "Thu, 05 Nov 2026 17:15:00 +0100",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-05T18:17:39.235365",
+    "feed_kommunen": [
+      "engelskirchen"
+    ]
+  },
+  {
     "id": "5f0d500ddfd5",
     "title": "Bergneustadts SPD sieht „keine klare Mehrheit“ gegen die Windkraft",
     "summary": "Bergneustadt – Die Sozialdemokraten verweisen auf die Wahlbeteiligung und die Notwendigkeit erneuerbarer Energien – „Gegenwind“ sieht in offenem Brief an den Bürgermeister weiter die Möglichkeiten, auch die Windkraftanlagen in der Sülemicke zu verhindern.",
@@ -24,6 +99,21 @@
     ],
     "fetched": "2026-11-05T17:17:23.628807",
     "feed_kommunen": []
+  },
+  {
+    "id": "fc70a028ea2b",
+    "title": "Neue Försterin Katharina Prickartz tritt ihren Dienst in Engelskirchen an",
+    "summary": "Katharina Prickartz übernimmt die Leitung für den Wald in Engelskirchen und tritt damit die Nachfolge von Andrea Rösch an. Die frisch examinierte Forstinspektorin freut sich darauf, als neue Ansprechpartnerin für Bürger und Waldbesitzer in der waldreichen Kommune zu arbeiten und insbesondere wichtige Aufgaben wie die Waldbrandprävention zu übernehmen.",
+    "link": "https://www.engelskirchen.de/portal/meldungen/neue-foersterin-katharina-prickartz-tritt-ihren-dienst-in-engelskirchen-an-900002521-23501.html?rubrik=900000007",
+    "published": "Thu, 05 Nov 2026 16:54:00 +0100",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-05T18:17:39.235665",
+    "feed_kommunen": [
+      "engelskirchen"
+    ]
   },
   {
     "id": "59f67f003a10",
