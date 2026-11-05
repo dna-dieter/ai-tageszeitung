@@ -1,5 +1,128 @@
 [
   {
+    "id": "c0bde50168ec",
+    "title": "Stadt beginnt mit der Unterhaltung der Reitwege in Diepeschrath und Lerbach - Regelmäßige Pflege in Diepeschrath – erstmalige Überarbeitung des Reitwegenetzes in Lerbach",
+    "summary": "Die Unterhaltungsmaßnahmen finden jährlich statt, dafür werden durch die Stadtverwaltung Fördermittel beim Rheinisch-Bergischen Kreis beantragt. Ziel ist es, die Wege in einem guten Zustand zu halten und eine sichere und möglichst uneingeschränkte Nutzung durch die Reiterinnen und Reiter zu ermöglichen. In Diepeschrath werden die Reitwege turnusmäßig gepflegt. Die in der kommenden Woche im Waldgeb",
+    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52860",
+    "published": "2026-11-05 14:05:53",
+    "source": "Stadt Bergisch Gladbach (offiziell)",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-05T14:16:02.382604",
+    "feed_kommunen": [
+      "bergisch-gladbach"
+    ]
+  },
+  {
+    "id": "933b0efe1c6f",
+    "title": "Sternenzauber in Witzhelden: Spender bringen Witzhelden zum Leuchten",
+    "summary": "Die Stadt kann sich keine Reparaturen und Neuanschaffungen für die Weihnachtsbeleuchtung leisten. Deshalb bittet der Sternenzauber-Weihnachtsmarkt um Hilfe.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/witzhelden-spender-fuer-weihnachtsbeleuchtung-gesucht_aid-157805327",
+    "published": "Thu, 05 Nov 2026 14:00:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-05T14:16:03.818018",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
+    "id": "5465dfb44f7f",
+    "title": "POL-RBK: Leichlingen - Gelbe Füße für mehr Sicherheit auf dem Schulweg - Aktion der Verkehrsunfallprävention und der Stadt Leichlingen",
+    "summary": "Leichlingen (ots) - Schritt für Schritt sicher durch den Straßenverkehr: Dieses Ziel verfolgt die gemeinsame Aktion \"Gelbe Füße\" der Kreispolizei Rhein-Berg und der Stadt Leichlingen. An vier Grundschulen haben Schülerinnen und Schüler ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6384922",
+    "published": "Thu, 05 Nov 2026 13:15:05 +0100",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-05T14:16:00.906460",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ea2e7570a18a",
+    "title": "EVL stellt Strom ab: Großflächiger Glasfaserausfall in Leichlingen",
+    "summary": "Ab Donnerstagmorgen, 9 Uhr, ging im Leichlinger Glasfasernetz nichts mehr. Anbieter Novanetz kritisiert die EVL, die unangekündigt den Strom abgestellt habe.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/grossflaechiger-glasfaserausfall-in-leichlingen_aid-157875563",
+    "published": "Thu, 05 Nov 2026 13:06:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-05T14:16:03.818206",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
+    "id": "4a20141d23a0",
+    "title": "Kurzer Prozess: Freispruch für Bergisch Gladbacher",
+    "summary": "Das Schöffengericht sprach einen Bergisch Gladbacher frei: Fast 8 Kilo Marihuana waren an seine Adresse adressiert.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/kurzer-prozess-freispruch-fuer-bergisch-gladbacher-1410033",
+    "published": "Thu, 05 Nov 2026 12:38:36 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-05T14:16:02.617891",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a45333325a1b",
+    "title": "8000 Fotos: Neuer Wandkalender aus Rösrath",
+    "summary": "Der Geschichtsverein Rösrath bringt einen Wandkalender mit historischen Fotos des Fotografen Fritz Zapp heraus.",
+    "link": "https://www.ksta.de/region/rhein-berg/roesrath/8000-fotos-neuer-wandkalender-aus-roesrath-1410026",
+    "published": "Thu, 05 Nov 2026 12:32:24 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "roesrath"
+    ],
+    "fetched": "2026-11-05T14:16:02.618027",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4cb961bb1a60",
+    "title": "BKSB lädt ein: Tag der offenen Tür im November",
+    "summary": "Am Samstag, 21. November, können sich Schüler und Eltern von 9 bis 13 Uhr über das Bildungsangebot informieren.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/bksb-laedt-ein-tag-der-offenen-tuer-im-november-1410018",
+    "published": "Thu, 05 Nov 2026 12:26:31 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-05T14:16:02.618171",
+    "feed_kommunen": []
+  },
+  {
+    "id": "febcde215706",
+    "title": "Zeuge ruft Polizei: Mann fährt in Bergisch Gladbach betrunken Auto",
+    "summary": "Ein 60-Jähriger aus Bergisch Gladbach ist einen Tag nach seiner ersten Auffälligkeit erneut betrunken Auto gefahren.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/zeuge-ruft-polizei-mann-faehrt-in-bergisch-gladbach-betrunken-auto-1410005",
+    "published": "Thu, 05 Nov 2026 12:16:27 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-05T14:16:02.618294",
+    "feed_kommunen": []
+  },
+  {
+    "id": "be1f42851d3a",
+    "title": "Blechschaden am Brandort: Haften Ehrenamtliche privat?",
+    "summary": "Beim Hallenbrand in Kürten rammt eine Seniorin die Tür eines DRK-Wagens, nun verklagt ihr Sohn zwei ehrenamtliche.",
+    "link": "https://www.ksta.de/region/rhein-berg/kuerten/blechschaden-am-brandort-haften-ehrenamtliche-privat-1410001",
+    "published": "Thu, 05 Nov 2026 12:10:34 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kuerten"
+    ],
+    "fetched": "2026-11-05T14:16:02.618422",
+    "feed_kommunen": []
+  },
+  {
     "id": "694ae5e4b6b2",
     "title": "Kriminelle in Rhein-Berg: Betrug direkt an der Haustür",
     "summary": "Falsche Bankmitarbeiter und Polizisten haben im Rheinisch-Bergischen Kreis Senioren um ihre Wertsachen gebracht.",

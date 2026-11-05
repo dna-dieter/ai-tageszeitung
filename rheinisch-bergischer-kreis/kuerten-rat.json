@@ -1,7 +1,7 @@
 {
   "quelle": "https://www.kuerten.de/sitzungen/",
   "portal": "https://sessionnet.owl-it.de/kuerten/bi/info.asp",
-  "aktualisiert": "2026-10-22T21:26:47",
+  "aktualisiert": "2026-11-05T14:18:44",
   "kommende": [
     {
       "datum": "2026-11-18",
@@ -9,7 +9,12 @@
       "uhrzeit": "17:30",
       "ort": "Bürgerhaus Kürten",
       "ist_rat": false,
-      "dokumente": []
+      "dokumente": [
+        {
+          "art": "Einladung",
+          "url": "https://sessionnet.owl-it.de/kuerten/bi/getfile.asp?id=127862&type=do"
+        }
+      ]
     },
     {
       "datum": "2026-11-19",
