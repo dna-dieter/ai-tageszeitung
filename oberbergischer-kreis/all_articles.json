@@ -1,5 +1,124 @@
 [
   {
+    "id": "78830e32c587",
+    "title": "„Herbstsymphonie in Acryl“: Kunst in der Helios-Klinik Wipperfürth",
+    "summary": "Die Wipperfürther Malerin Maria Callegari zeigt in der Empfangshalle ihre Kunst bis Ende Januar.",
+    "link": "https://www.ksta.de/region/oberberg/wipperfuerth/herbstsymphonie-in-acryl-kunst-in-der-helios-klinik-wipperfuerth-1409929",
+    "published": "Thu, 05 Nov 2026 11:08:30 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-05T11:17:20.801469",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4cd80428c817",
+    "title": "Langfinger durchwühlen Wohnhäuser und stehlen auf Friedhof",
+    "summary": "Oberberg – In Hückeswagen und Morsbach waren Häuser das Ziehl von Einbrecher, während in Wiehl Gräber das Ziel von Kriminellen waren.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/langfinger-durchw--hlen-wohnh--user-und-stehlen-auf-friedhof-a-139995",
+    "published": "Thu, 05 Nov 2026 11:05:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl",
+      "morsbach",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-05T11:17:21.626219",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1cb3a3c84db1",
+    "title": "Ex-Ministerin Höhn: Gespräche über die Energiewende in Nümbrecht",
+    "summary": "Frühere NRW-Umweltministerin sprach in Nümbrecht über die Energiewende und diskutierte mit zahlreichen Gästen.",
+    "link": "https://www.ksta.de/region/oberberg/nuembrecht/ex-ministerin-hoehn-gespraeche-ueber-die-energiewende-in-nuembrecht-1409917",
+    "published": "Thu, 05 Nov 2026 11:03:07 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-05T11:17:20.801613",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1fdf4d94588e",
+    "title": "Motorradfahrer flüchtet nach Unfall in Waldstück",
+    "summary": "Morsbach – 23-Jähriger bei Unfall verletzt – Er hatte Alkohol getrunken – Nach zweitem Fahrer wird gesucht - An den verunfallten Bikes waren nicht nur falsche Kennzeichen angebracht.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/motorradfahrer-fl--chtet-nach-unfall-in-waldst--ck-a-139996",
+    "published": "Thu, 05 Nov 2026 11:01:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-11-05T11:17:21.626420",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e17aeee621e2",
+    "title": "Rekordminus in Gummersbach: Haushalt klafft weit auseinander",
+    "summary": "Der Kreisstadt Gummersbach fehlen im kommenden Jahr 35,5 Millionen Euro im Haushalt.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/rekordminus-in-gummersbach-haushalt-klafft-weit-auseinander-1409912",
+    "published": "Thu, 05 Nov 2026 10:55:25 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-05T11:17:20.801723",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5df9daf81921",
+    "title": "51,8 Prozent dagegen: Mehrheit in Bergneustadt gegen Windräder",
+    "summary": "Die Menschen sprechen sich gegen zusätzliche Windräder auf dem Beulberg aus.",
+    "link": "https://www.ksta.de/region/oberberg/bergneustadt/51-8-prozent-dagegen-mehrheit-in-bergneustadt-gegen-windraeder-1409899",
+    "published": "Thu, 05 Nov 2026 10:36:34 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-11-05T11:17:20.801873",
+    "feed_kommunen": []
+  },
+  {
+    "id": "215bcef1aa46",
+    "title": "Drohende Überschuldung: Wipperfürth im Minus",
+    "summary": "Wipperfürth plant für 2027 mit einem Defizit von 12,7 Millionen Euro – das Eigenkapital dürfte bald aufgebraucht sein.",
+    "link": "https://www.ksta.de/region/oberberg/wipperfuerth/drohende-ueberschuldung-wipperfuerth-im-minus-1409893",
+    "published": "Thu, 05 Nov 2026 10:31:55 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-05T11:17:20.802167",
+    "feed_kommunen": []
+  },
+  {
+    "id": "23c2b4b693da",
+    "title": "Neustart in Wiehl: Stadt unterstützt Praxis von Dr. Franchy",
+    "summary": "Die Stadt Wiehl unterstützte den Neustart der Praxis von Christian Franchy in Drabenderhöhe.",
+    "link": "https://www.ksta.de/region/oberberg/wiehl/neustart-in-wiehl-stadt-unterstuetzt-praxis-von-dr-franchy-1409883",
+    "published": "Thu, 05 Nov 2026 10:23:57 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-05T11:17:20.802379",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a912b15a4812",
+    "title": "Wirtschaft in Oberberg: Trotz Besserung bleiben Jobs ein Problem",
+    "summary": "Die Wirtschaft im Oberbergischen Kreis hat sich laut IHK-Konjunkturbericht erneut leicht verbessert.",
+    "link": "https://www.ksta.de/region/oberberg/wirtschaft-in-oberberg-trotz-besserung-bleiben-jobs-ein-problem-1409874",
+    "published": "Thu, 05 Nov 2026 10:14:32 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-05T11:17:20.802610",
+    "feed_kommunen": []
+  },
+  {
     "id": "d28d4c22aa2f",
     "title": "Gymnasium Wiehl: Nur ein Bieter hält die Kostengrenze für Teilneubau",
     "summary": "Der Wiehler Stadtrat hat am Dienstag kaum eine Wahl: Nur ein Gebot hielt die Kostengrenze ein.",

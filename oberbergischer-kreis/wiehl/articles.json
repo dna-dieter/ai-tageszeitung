@@ -1,5 +1,33 @@
 [
   {
+    "id": "4cd80428c817",
+    "title": "Langfinger durchwühlen Wohnhäuser und stehlen auf Friedhof",
+    "summary": "Oberberg – In Hückeswagen und Morsbach waren Häuser das Ziehl von Einbrecher, während in Wiehl Gräber das Ziel von Kriminellen waren.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/langfinger-durchw--hlen-wohnh--user-und-stehlen-auf-friedhof-a-139995",
+    "published": "Thu, 05 Nov 2026 11:05:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl",
+      "morsbach",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-05T11:17:21.626219",
+    "feed_kommunen": []
+  },
+  {
+    "id": "23c2b4b693da",
+    "title": "Neustart in Wiehl: Stadt unterstützt Praxis von Dr. Franchy",
+    "summary": "Die Stadt Wiehl unterstützte den Neustart der Praxis von Christian Franchy in Drabenderhöhe.",
+    "link": "https://www.ksta.de/region/oberberg/wiehl/neustart-in-wiehl-stadt-unterstuetzt-praxis-von-dr-franchy-1409883",
+    "published": "Thu, 05 Nov 2026 10:23:57 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-05T11:17:20.802379",
+    "feed_kommunen": []
+  },
+  {
     "id": "d28d4c22aa2f",
     "title": "Gymnasium Wiehl: Nur ein Bieter hält die Kostengrenze für Teilneubau",
     "summary": "Der Wiehler Stadtrat hat am Dienstag kaum eine Wahl: Nur ein Gebot hielt die Kostengrenze ein.",

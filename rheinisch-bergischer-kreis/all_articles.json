@@ -1,5 +1,61 @@
 [
   {
+    "id": "858daaed2509",
+    "title": "Verkehrssicherungsmaßnahme:",
+    "summary": "Baumpflegearbeiten auf der Brucher Mühlenstraße am 9. und 10. November 2026",
+    "link": "https://www.burscheid.de/portal/meldungen/verkehrssicherungsmassnahme--900000717-40230.html?rubrik=900000001",
+    "published": "Thu, 05 Nov 2026 11:12:00 +0100",
+    "source": "Stadt Burscheid (offiziell)",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-05T11:16:07.991189",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
+    "id": "423264532d98",
+    "title": "Ausstellung bei den Grünen Leichlingen: Wenn Fotografien neue Welten öffnen",
+    "summary": "Das Künstlerpaar Beata und Michael Bork lädt dazu ein, Bekanntes anders wahrzunehmen. Die Grünen Leichlingen zeigen ihre Arbeiten erneut in einer Ausstellung.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/gruene-leichlingen-wenn-fotografien-neue-welten-oeffnen_aid-157806269",
+    "published": "Thu, 05 Nov 2026 11:00:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-05T11:16:07.255357",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
+    "id": "d88deb231e26",
+    "title": "[Anzeige] Vertrauen beginnt mit ehrlichem Gespräch",
+    "summary": "Für viele ist die eigene Immobilie die größte Entscheidung ihres Lebens. Im Gespräch erklärt Marcel Mancinelli, Immobilienmakler in Bergisch Gladbach, worauf es ihm dabei ankommt. Bergisch Gladbach hat viele Immobilienmakler. Marcel Mancinelli möchte sich an besonderen Maßstäben messen lassen: an Ehrlichkeit, Verlässlichkeit und dem Blick für das, was hinter jeder Immobilie steckt. Seine Haltung h",
+    "link": "https://www.rheinische-anzeigenblaetter.de/rhein-berg/c-nachrichten/vertrauen-beginnt-mit-ehrlichem-gespraech_a382403",
+    "published": "Thu, 05 Nov 2026 10:59:46 +0100",
+    "source": "Rheinische Anzeigenblätter Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-05T11:16:07.058483",
+    "feed_kommunen": []
+  },
+  {
+    "id": "886f48e3c197",
+    "title": "Lkw umgekippt: Auf der A1 in Richtung Köln sind nach 24 Stunden zwei Spuren wieder frei",
+    "summary": "Seit Mittwochmittag kommt es zu gravierenden Verkehrsbehinderungen auf der A1 im Bergischen Land. Dort war ein Lkw umgekippt.",
+    "link": "https://www.ksta.de/region/auf-der-a1-in-richtung-koeln-sind-nach-24-stunden-zwei-spur-wieder-frei-1409170",
+    "published": "Thu, 05 Nov 2026 10:52:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-05T11:16:06.216482",
+    "feed_kommunen": []
+  },
+  {
     "id": "4a6aad605228",
     "title": "Was tun, wenn ein Medikament nicht lieferbar ist",
     "summary": "Wer täglich ein bestimmtes Medikament einnehmen muss, den kann ein längerer Lieferengpass tief verunsichern. Der Fall einer 94-Jährigen und was Apotheker und Krankenkasse raten.",
