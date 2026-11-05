@@ -1,5 +1,22 @@
 [
   {
+    "id": "77a5081920e5",
+    "title": "Burscheid: Stadt baut eigene Vollstreckungsbehörde auf – zwei neue Stellen",
+    "summary": "Die Stadt Burscheid stockt ihren Stellenplan auf: zwei neue Mitarbeiter für die Vollstreckungsbehörde. Leichlingen hatte diese Aufgabe bisher für Burscheid und Odenthal übernommen. Eine Fortsetzung der Kooperation scheiterte an den Kosten.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/burscheid-stadt-baut-eigene-vollstreckungsbehoerde-auf-zwei-neue-stellen-VCPZJTTTTFCWTAFUWM6RJRMBMM.html",
+    "published": "Thu, 05 Nov 2026 14:30:00 +0100",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid",
+      "leichlingen",
+      "odenthal"
+    ],
+    "fetched": "2026-11-05T15:16:06.380965",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
     "id": "933b0efe1c6f",
     "title": "Sternenzauber in Witzhelden: Spender bringen Witzhelden zum Leuchten",
     "summary": "Die Stadt kann sich keine Reparaturen und Neuanschaffungen für die Weihnachtsbeleuchtung leisten. Deshalb bittet der Sternenzauber-Weihnachtsmarkt um Hilfe.",
@@ -10,6 +27,21 @@
       "leichlingen"
     ],
     "fetched": "2026-11-05T14:16:03.818018",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
+    "id": "50c9e12a22d9",
+    "title": "Leichlinger Anstöße: Was vom Christentum bleibt",
+    "summary": "Welche Überzeugungen und Werte haben christliche Wurzeln und wirken bis heute? Dieser Frage widmen sich die „Leichlinger Anstöße“ am 10. November.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/leichlinger-anstoesse-was-vom-christentum-bleibt_aid-157878373",
+    "published": "Thu, 05 Nov 2026 13:58:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-05T15:16:10.480705",
     "feed_kommunen": [
       "leichlingen"
     ]
@@ -35,7 +67,9 @@
     "published": "Thu, 05 Nov 2026 13:06:00 +0100",
     "source": "Rheinische Post Leichlingen",
     "kommunen": [
-      "leichlingen"
+      "leichlingen",
+      "burscheid",
+      "wermelskirchen"
     ],
     "fetched": "2026-11-05T14:16:03.818206",
     "feed_kommunen": [

@@ -1,5 +1,39 @@
 [
   {
+    "id": "15de66846468",
+    "title": "LKW-Unfall auf der A1: Einsatzkräfte waren 18 Stunden im Einsatz",
+    "summary": "Der umgefallen Gefahrgut-Transporter hielt seit Mittwochvormittag Feuerwehren und andere Einheiten in Atem. Die Staus auf den Bundesstraßen zogen sich noch bis in den Donnerstag.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/lkw-unfall-auf-der-a1-einsatzkraefte-waren-18-stunden-im-einsatz-IQEICUHQNNFQPDK2H2PAVAI4SU.html",
+    "published": "Thu, 05 Nov 2026 15:06:13 +0100",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen",
+      "burscheid"
+    ],
+    "fetched": "2026-11-05T15:16:05.148954",
+    "feed_kommunen": [
+      "wermelskirchen",
+      "burscheid"
+    ]
+  },
+  {
+    "id": "ea2e7570a18a",
+    "title": "EVL stellt Strom ab: Großflächiger Glasfaserausfall in Leichlingen",
+    "summary": "Ab Donnerstagmorgen, 9 Uhr, ging im Leichlinger Glasfasernetz nichts mehr. Anbieter Novanetz kritisiert die EVL, die unangekündigt den Strom abgestellt habe.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/grossflaechiger-glasfaserausfall-in-leichlingen_aid-157875563",
+    "published": "Thu, 05 Nov 2026 13:06:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen",
+      "burscheid",
+      "wermelskirchen"
+    ],
+    "fetched": "2026-11-05T14:16:03.818206",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
     "id": "4a6aad605228",
     "title": "Was tun, wenn ein Medikament nicht lieferbar ist",
     "summary": "Wer täglich ein bestimmtes Medikament einnehmen muss, den kann ein längerer Lieferengpass tief verunsichern. Der Fall einer 94-Jährigen und was Apotheker und Krankenkasse raten.",

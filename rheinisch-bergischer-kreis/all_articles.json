@@ -1,5 +1,39 @@
 [
   {
+    "id": "15de66846468",
+    "title": "LKW-Unfall auf der A1: Einsatzkräfte waren 18 Stunden im Einsatz",
+    "summary": "Der umgefallen Gefahrgut-Transporter hielt seit Mittwochvormittag Feuerwehren und andere Einheiten in Atem. Die Staus auf den Bundesstraßen zogen sich noch bis in den Donnerstag.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/lkw-unfall-auf-der-a1-einsatzkraefte-waren-18-stunden-im-einsatz-IQEICUHQNNFQPDK2H2PAVAI4SU.html",
+    "published": "Thu, 05 Nov 2026 15:06:13 +0100",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen",
+      "burscheid"
+    ],
+    "fetched": "2026-11-05T15:16:05.148954",
+    "feed_kommunen": [
+      "wermelskirchen",
+      "burscheid"
+    ]
+  },
+  {
+    "id": "77a5081920e5",
+    "title": "Burscheid: Stadt baut eigene Vollstreckungsbehörde auf – zwei neue Stellen",
+    "summary": "Die Stadt Burscheid stockt ihren Stellenplan auf: zwei neue Mitarbeiter für die Vollstreckungsbehörde. Leichlingen hatte diese Aufgabe bisher für Burscheid und Odenthal übernommen. Eine Fortsetzung der Kooperation scheiterte an den Kosten.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/burscheid-stadt-baut-eigene-vollstreckungsbehoerde-auf-zwei-neue-stellen-VCPZJTTTTFCWTAFUWM6RJRMBMM.html",
+    "published": "Thu, 05 Nov 2026 14:30:00 +0100",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid",
+      "leichlingen",
+      "odenthal"
+    ],
+    "fetched": "2026-11-05T15:16:06.380965",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
     "id": "c0bde50168ec",
     "title": "Stadt beginnt mit der Unterhaltung der Reitwege in Diepeschrath und Lerbach - Regelmäßige Pflege in Diepeschrath – erstmalige Überarbeitung des Reitwegenetzes in Lerbach",
     "summary": "Die Unterhaltungsmaßnahmen finden jährlich statt, dafür werden durch die Stadtverwaltung Fördermittel beim Rheinisch-Bergischen Kreis beantragt. Ziel ist es, die Wege in einem guten Zustand zu halten und eine sichere und möglichst uneingeschränkte Nutzung durch die Reiterinnen und Reiter zu ermöglichen. In Diepeschrath werden die Reitwege turnusmäßig gepflegt. Die in der kommenden Woche im Waldgeb",
@@ -30,6 +64,34 @@
     ]
   },
   {
+    "id": "50c9e12a22d9",
+    "title": "Leichlinger Anstöße: Was vom Christentum bleibt",
+    "summary": "Welche Überzeugungen und Werte haben christliche Wurzeln und wirken bis heute? Dieser Frage widmen sich die „Leichlinger Anstöße“ am 10. November.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/leichlinger-anstoesse-was-vom-christentum-bleibt_aid-157878373",
+    "published": "Thu, 05 Nov 2026 13:58:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-05T15:16:10.480705",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
+    "id": "8984a9b5c40b",
+    "title": "POL-RBK: Overath / Rhein-Sieg-Kreis - Erfolg für die Ermittler der Polizei Rhein-Sieg-Kreis: Vier mutmaßliche Telefon-Betrüger in Untersuchungshaft",
+    "summary": "Rhein-Sieg-Kreis (ots) - Nach umfangreichen, teils verdeckten Ermittlungen hat die Polizei vier mutmaßliche Mitglieder einer Betrügerbande festgenommen. Ihnen werden mehr als 20 Taten zwischen März und August 2026 zur Last gelegt. Der dabei ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6384975",
+    "published": "Thu, 05 Nov 2026 13:52:29 +0100",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "overath"
+    ],
+    "fetched": "2026-11-05T15:16:07.128070",
+    "feed_kommunen": []
+  },
+  {
     "id": "5465dfb44f7f",
     "title": "POL-RBK: Leichlingen - Gelbe Füße für mehr Sicherheit auf dem Schulweg - Aktion der Verkehrsunfallprävention und der Stadt Leichlingen",
     "summary": "Leichlingen (ots) - Schritt für Schritt sicher durch den Straßenverkehr: Dieses Ziel verfolgt die gemeinsame Aktion \"Gelbe Füße\" der Kreispolizei Rhein-Berg und der Stadt Leichlingen. An vier Grundschulen haben Schülerinnen und Schüler ...",
@@ -50,7 +112,9 @@
     "published": "Thu, 05 Nov 2026 13:06:00 +0100",
     "source": "Rheinische Post Leichlingen",
     "kommunen": [
-      "leichlingen"
+      "leichlingen",
+      "burscheid",
+      "wermelskirchen"
     ],
     "fetched": "2026-11-05T14:16:03.818206",
     "feed_kommunen": [
