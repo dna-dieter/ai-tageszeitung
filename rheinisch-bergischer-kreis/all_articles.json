@@ -1,5 +1,20 @@
 [
   {
+    "id": "1260b4873480",
+    "title": "Konzert am 14. November: Klangwege wagen sich an dramatisches Saint-Saëns-Requiem",
+    "summary": "Camille Saint-Saëns‘ Requiem erklingt am 14. November in Burscheid – ein Werk voller Farben und mit „feiner Nadel gestrickt“. Silke Hamburger hat es für kleine Besetzung entdeckt. Dazu gibt es Bach und Max Bruchs „Kol Nidrei“ mit Cellistin Joanna Sachryn.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/konzert-am-14-november-klangwege-wagen-sich-an-dramatisches-saint-saens-requiem-UE4HPFC6EVHYLDYKOP5AELZ75Y.html",
+    "published": "Thu, 05 Nov 2026 04:00:01 +0100",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-05T04:16:16.994466",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
     "id": "0e466ebfc7cd",
     "title": "Banking per Videocall: Kreissparkasse Köln bietet neues Praktikum für Schüler",
     "summary": "Die Kreissparkasse Köln erweitert ihr Praktikumsangebot für Schüler: Neben den klassischen Filialpraktika können Jugendliche seit diesem Jahr auch im Team Finance reinschnuppern – einer Beratungseinheit für 18- bis 30-Jährige, die vor allem digital arbeitet.",
@@ -3887,8 +3902,7 @@
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
       "kuerten",
-      "odenthal",
-      "kreisweite-nachrichten"
+      "odenthal"
     ],
     "fetched": "2026-10-22T23:27:49.435505",
     "feed_kommunen": []
