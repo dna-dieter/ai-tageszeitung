@@ -1,5 +1,18 @@
 [
   {
+    "id": "c6c3afd18d97",
+    "title": "Stadt Köln plant Vertragsverlängerung mit Mareike Marx",
+    "summary": "5. November 2026, 09:00Intendantin des Hänneschen-Theaters soll erfolgreiche Arbeit fortsetzen",
+    "link": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/stadt-koeln-plant-vertragsverlaengerung-mit-mareike-marx",
+    "published": "Thu, 05 Nov 2026 09:00:00 +0100",
+    "source": "Stadt Köln Pressemeldungen",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-05T09:17:48.467673",
+    "feed_kommunen": []
+  },
+  {
     "id": "bb3bd93f6c31",
     "title": "Kölner Rheinufer: Drei neue Bürohäuser entstehen nahe der Zoobrücke",
     "summary": "Der Abbruch zwischen Bastei und Zoobrücke läuft. Einen Mieter hat der Bauherr aber noch nicht.",
@@ -10,6 +23,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-05T08:17:38.930881",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f038d5130a9a",
+    "title": "Zwei Verletzte in Köln-Weidenpesch: Pkw-Fahrer flüchtet vor Polizei und verursacht Unfall",
+    "summary": "Ein AUtofahrer entzog sich einer Polizei-Kontrolle und flüchtete. Dabei kam es zu einem folgenschweren Unfall.",
+    "link": "https://www.ksta.de/koeln/neusser-strasse-koeln-weidenpesch-gesperrt-pkw-fahrer-fluechtet-vor-polizei-1409816",
+    "published": "Thu, 05 Nov 2026 07:58:04 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-05T09:17:48.582512",
     "feed_kommunen": []
   },
   {

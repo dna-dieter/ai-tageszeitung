@@ -1,5 +1,19 @@
 [
   {
+    "id": "d7a70d17bdc8",
+    "title": "Wipperfürth trifft auf strauchelnden Titelfavoriten",
+    "summary": "Oberberg - Nach dem Pokalduell Ende September ist Jan Wellem Bergisch Gladbach erneut an den Ohler Wiesen zu Gast, diesmal allerdings mit einem neuen Trainerteam - Frielingsdorf stellt sich auf unangenehme Aufgabe in Niehl ein - Hohkeppel II vor schwerer Auswärtshürde.",
+    "link": "http://www.oberberg-aktuell.de/fussball/wipperf--rth-trifft-auf-strauchelnden-titelfavoriten-a-139974",
+    "published": "Thu, 05 Nov 2026 09:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wipperfuerth",
+      "lindlar"
+    ],
+    "fetched": "2026-11-05T09:17:15.349657",
+    "feed_kommunen": []
+  },
+  {
     "id": "39024f60baa6",
     "title": "Sardinien",
     "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
@@ -43458,6 +43472,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-04T13:17:25.229576",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "74a270990b4d",
+    "title": "Totales Jahreszeiten-Durcheinander im Stadtteilhaus",
+    "summary": "Im Juni Schnee und im Winter warm? Wetterchaos im Stück „Das Jahreszeiten-Durcheinander“. Das Nimmerland Theater zeigte am Mittwoch im Stadtteilhaus Drabenderhöhe ein humorvolles, musikalisches Theaterstück über die Jahreszeiten, Klimawandel und Klimaschutz mit den schönsten und bekanntesten Liedern von Rolf Zuckowski.",
+    "link": "https://www.wiehl.de/aktuelles/bilderserien/9597-totales-jahreszeiten_durcheinander-im.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-05T09:17:18.117696",
     "feed_kommunen": [
       "wiehl"
     ]
