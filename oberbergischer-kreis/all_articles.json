@@ -1,5 +1,87 @@
 [
   {
+    "id": "844b15a12403",
+    "title": "Ausbildungsmarkt Oberberg: 337 Bewerber ohne Lehrstelle, IHK zählt 10,6 Prozent weniger Verträge",
+    "summary": "Ausbildungsmarkt Oberberg: 1.769 Bewerber treffen auf 1.542 gemeldete Stellen, 337 haben noch keinen Platz. Die IHK zählt weniger Verträge, das Handwerk meldet ein Plus.",
+    "link": "https://www.news-on-tour.de/343934/oberberg-ausbildungsmarkt-bilanz/",
+    "published": "Thu, 05 Nov 2026 12:08:15 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-05T13:17:12.912689",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1fb1e37d48d0",
+    "title": "Morsbach: Motorradfahrer flüchtet nach Auffahrunfall – Motorräder unversichert",
+    "summary": "Morsbach: Nach einem Auffahrunfall auf der Wissener Straße flüchtete ein Motorradfahrer zu Fuß, der Verletzte hatte keinen Führerschein.",
+    "link": "https://www.news-on-tour.de/343923/morsbach-motorradfahrer-unfallflucht/",
+    "published": "Thu, 05 Nov 2026 11:20:22 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-11-05T13:17:12.912846",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1bda3f2c6f88",
+    "title": "(Update) Bergneustadt nach der Bürgerbefragung: Gegenwind-Sprecher schreibt offenen Brief an den Stadtrat",
+    "summary": "Update: Bürgerbefragung in Bergneustadt: Im Endergebnis stehen 51,8 und 52,7 Prozent Nein bei 39 Prozent Beteiligung. Bindend ist das nicht, die Gremien beraten voraussichtlich Anfang 2027.",
+    "link": "https://www.news-on-tour.de/343465/bergneustadt-buergerbefragung-ergebnis/",
+    "published": "Thu, 05 Nov 2026 11:20:21 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-11-05T13:17:12.913042",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a7fc165135f7",
+    "title": "Neues DBG: In einem Jahr soll der Bau starten",
+    "summary": "Wiehl – Im Vergabeverfahren ist ein Totalunternehmer übriggeblieben, der alle Kriterien und Anforderungen erfüllt – Der Rat kann nächste Woche grünes Licht gehen – Bau des Interims im Stadion soll im Februar beginnen.",
+    "link": "http://www.oberberg-aktuell.de/politik/neues-dbg-in-einem-jahr-soll-der-bau-starten-a-140003",
+    "published": "Thu, 05 Nov 2026 12:20:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-05T13:17:18.630552",
+    "feed_kommunen": []
+  },
+  {
+    "id": "470bb06cfd7b",
+    "title": "Diebe schlagen Fenster ein",
+    "summary": "Unbekannte sind am Mittwoch (4. November) in zwei Wohnhäuser eingebrochen. In Hückeswagen schlugen sie zwischen 13 und 16.30 Uhr ein Fenster auf der Rückseite eines Einfamilienhauses in der Friedrichstraße ein und gelangten so in das Gebäude.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/diebe-schlagen-fenster-ein-S4T2O272YRXCQDYQ3IX4LOXCOY.html",
+    "published": "Thu, 05 Nov 2026 12:19:04 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-05T13:17:13.917720",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "c9ef16fa5fa6",
+    "title": "Hückeswagen, Morsbach & Wiehl: Einbrecher durchwühlen Häuser – Diebe auf Friedhof",
+    "summary": "Einbrecher durchwühlten Häuser in Hückeswagen und Morsbach, in Wiehl stahlen Diebe ein Bronzekreuz und eine Schale von einem Friedhof.",
+    "link": "https://www.news-on-tour.de/343920/hueckeswagen-einbrecher-friedhof/",
+    "published": "Thu, 05 Nov 2026 11:17:52 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "hueckeswagen",
+      "morsbach",
+      "wiehl"
+    ],
+    "fetched": "2026-11-05T13:17:12.913164",
+    "feed_kommunen": []
+  },
+  {
     "id": "5741fdacc944",
     "title": "Zwei Organisationen unterstützt",
     "summary": "Lindlar - Hilfsgüter aus dem Oberbergischen sind in der Ukraine angekommen.",
@@ -392,19 +474,6 @@
       "waldbroel"
     ],
     "fetched": "2026-11-05T01:17:22.060451",
-    "feed_kommunen": []
-  },
-  {
-    "id": "8f9119ff65ac",
-    "title": "Bergneustadt: Endergebnis der Bürgerbefragung – Mehrheit gegen Windräder, Beratung voraussichtlich Anfang 2027",
-    "summary": "Bürgerbefragung in Bergneustadt: Im Endergebnis stehen 51,8 und 52,7 Prozent Nein bei 39 Prozent Beteiligung. Bindend ist das nicht, die Gremien beraten voraussichtlich Anfang 2027.",
-    "link": "https://www.news-on-tour.de/343465/bergneustadt-buergerbefragung-ergebnis/",
-    "published": "Wed, 04 Nov 2026 22:18:18 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "bergneustadt"
-    ],
-    "fetched": "2026-11-05T00:17:19.917122",
     "feed_kommunen": []
   },
   {
