@@ -1,5 +1,89 @@
 [
   {
+    "id": "e1351a5955f8",
+    "title": "Radevormwald, Lindlar und weitere Orte: Einbrecher erbeuten Schmuck und Tresor",
+    "summary": "Einbrecher in Radevormwald und Frielingsdorf, durchwühlte Autos in Elbach, zwei Unfälle und 237 kontrollierte Fahrzeuge in Oberberg.",
+    "link": "https://www.news-on-tour.de/344325/radevormwald-einbrecher-frielingsdorf/",
+    "published": "Fri, 06 Nov 2026 11:00:41 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "radevormwald",
+      "lindlar"
+    ],
+    "fetched": "2026-11-06T12:17:33.914361",
+    "feed_kommunen": []
+  },
+  {
+    "id": "dab3369570c4",
+    "title": "ONI im Finale des 19. Deutschen Nachhaltigkeitspreises",
+    "summary": "Lindlar – Der Anlagenbauer aus Lindlar wurde für prestigeträchtigen Preis nominiert – Jury würdigt innovative Lösungen für industrielle Energieeffizienz.",
+    "link": "http://www.oberberg-aktuell.de/lindlar/oni-im-finale-des-----deutschen-nachhaltigkeitspreises-a-140032",
+    "published": "Fri, 06 Nov 2026 12:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-06T12:17:40.093805",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e5863b5b1970",
+    "title": "Mit 124 Sachen durch Tempo-50-Zone gerauscht",
+    "summary": "Oberberg - Vekehrsüberwachungen der Polizei in Lindlar und Radevormwald - Ein Autofahrer hatte mehr als zwei Promille im Blut.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/mit-----sachen-in-tempo----zone-unterwegs-a-140051",
+    "published": "Fri, 06 Nov 2026 11:40:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "radevormwald",
+      "lindlar"
+    ],
+    "fetched": "2026-11-06T12:17:40.094211",
+    "feed_kommunen": []
+  },
+  {
+    "id": "36553f74e8b5",
+    "title": "Einbrüche in Frielingsdorf und Radevormwald",
+    "summary": "Oberberg – Langfinder waren gestern unterwegs – Polizei gibt Tipps zum Einbruchsschutz.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/einbrueche-in-frielingsdorf-und-radevormwald-a-140052",
+    "published": "Fri, 06 Nov 2026 11:35:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "radevormwald",
+      "lindlar"
+    ],
+    "fetched": "2026-11-06T12:17:40.094326",
+    "feed_kommunen": []
+  },
+  {
+    "id": "aef72852e7dc",
+    "title": "POL-GM: Verkehrsüberwachung durch die Wache Wipperfürth und den Gummersbacher Verkehrsdienst",
+    "summary": "Lindlar; Radevormwald (ots) - Am Donnerstag (5. November) wurden durch Beamtinnen und Beamte der Polizeiwache in Wipperfürth und dem Verkehrsdienst aus Gummersbach, Verkehrskontrollen in Lindlar und Radevormwald durchgeführt. Ziel war es, die ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6385528",
+    "published": "Fri, 06 Nov 2026 11:14:18 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach",
+      "radevormwald",
+      "wipperfuerth",
+      "lindlar"
+    ],
+    "fetched": "2026-11-06T12:17:38.704567",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1043a6a866d8",
+    "title": "POL-GM: Einbruch in Frielingsdorf",
+    "summary": "Lindlar (ots) - Unbekannte sind am Donnerstag (5. November) in ein Einfamilienhaus in Frielingsdorf eingebrochen. Zwischen 17:30 Uhr und 20:05 Uhr kletterten sie offenbar auf einen Balkon und hebelten die Balkontür auf. Im Haus durchwühlten die ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6385518",
+    "published": "Fri, 06 Nov 2026 11:09:52 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-06T12:17:38.705504",
+    "feed_kommunen": []
+  },
+  {
     "id": "403587fc067f",
     "title": "Lindlar: Trinkwasserleitung wird erneuert – Einmündung Weyerstraße gesperrt",
     "summary": "Das Gemeindewerk Lindlar erneuert die Trinkwasserleitung in der Klauser Straße und Weyerstraße. Die Arbeiten dauern bis Ende Januar 2027.",
