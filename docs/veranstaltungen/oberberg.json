@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
-    "datum": "6. Nov 2026",
-    "datum_raw": "2026-11-06T11:00:00+02:00",
-    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
-    "preis": "ab 6 €",
-    "link": "https://www.schloss-homburg.de/cms200schloss/museum/sonderausstellungen/vorschau/index.shtml.de",
-    "quelle": "Das Bergische",
-    "teaser": "Kleine Figuren erzählen große Geschichten! Das 100-jährige Jubiläum des Museums auf Schloss Homburg wird mit einer großen Sonderausstellung gefeiert. In faszinierenden Miniaturwelten werden regionale Geschichte und Gesch"
-  },
-  {
     "titel": "Nachts im Museum",
     "datum": "6. Nov 2026",
     "datum_raw": "2026-11-06T17:00:00+01:00",
@@ -48,6 +38,16 @@
     "link": "http://www.vhs-gm.de/programm/gesellschaft-25.html?action%5B89%5D=course&courseId=571-C-3387732&filter%5Bq%5D=Pilz&rowIndex=0",
     "quelle": "Das Bergische",
     "teaser": "In diesem Tagesseminar werden häufig vorkommende Speisepilze und deren giftige Doppelgänger kennengelernt. Zunächst gibt es im Seminarraum einen Einblick in die faszinierende Welt der Pilze, deren Lebensweise und Bedeutu"
+  },
+  {
+    "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T11:00:00+02:00",
+    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
+    "preis": "ab 6 €",
+    "link": "https://www.schloss-homburg.de/cms200schloss/museum/sonderausstellungen/vorschau/index.shtml.de",
+    "quelle": "Das Bergische",
+    "teaser": "Kleine Figuren erzählen große Geschichten! Das 100-jährige Jubiläum des Museums auf Schloss Homburg wird mit einer großen Sonderausstellung gefeiert. In faszinierenden Miniaturwelten werden regionale Geschichte und Gesch"
   },
   {
     "titel": "Nix kütt fott – 1. Weihnachtstauschrausch des BAV Zero Waste Clubs",
