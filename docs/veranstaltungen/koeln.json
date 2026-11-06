@@ -1,212 +1,14 @@
 [
   {
-    "titel": "Digital Fit",
-    "datum": "6. Nov 2026",
-    "datum_raw": "2026-11-06T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Porz, Porz",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41216/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "10 bis 12 Uhr · Ihr Einstieg in die digitale Welt. Ehrenamtliche Hilfestellung zu allen Fragen rund um Smartphone, Internet und mehr. Im Rahmen der Reihe Digitale Werkstatt in der Stadtteilbibliothek Porz."
-  },
-  {
-    "titel": "Bücherbabys – die literarische Krabbelgruppe",
-    "datum": "6. Nov 2026",
-    "datum_raw": "2026-11-06T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Sülz, Sülz",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41304/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "10:30 bis 11 Uhr · Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Sülz."
-  },
-  {
-    "titel": "Digitaler Freitag",
-    "datum": "6. Nov 2026",
-    "datum_raw": "2026-11-06T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Kalk, Kalk",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41093/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "10:30 bis 12 Uhr · Eine Selbsthilfegruppe zu digitalen Themen aus der Reihe Digitale Werkstatt in der Stadtteilbibliothek Kalk."
-  },
-  {
-    "titel": "Smartphone, Computer, Internet – wir begleiten Sie ins digitale Leben",
-    "datum": "6. Nov 2026",
-    "datum_raw": "2026-11-06T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Ehrenfeld, Ehrenfeld",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41305/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "11:30 bis 12:30 Uhr · Offene Sprechstunde zu digitalen Themen. Im Rahmen der Reihe Digitale Werkstatt in der Stadtteilbibliothek Ehrenfeld."
-  },
-  {
-    "titel": "Urban Sketching",
-    "datum": "6. Nov 2026",
-    "datum_raw": "2026-11-06T00:00:00",
-    "datum_bis": "",
-    "ort": "Interim Zentralbibliothek",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41516/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "14 bis 17 Uhr · Zeichen- und Malkurs für Interessierte und Anfänger*innen. Heute: ​Materialien und erste Skizzen. Ein Makerspace-Workshop im Interim der Zentralbibliothek."
-  },
-  {
-    "titel": "Nippeser Strickmamsellcher",
-    "datum": "6. Nov 2026",
-    "datum_raw": "2026-11-06T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41294/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "15:30 bis 17:30 Uhr · Stricken und Klönen in der Stadtteilbibliothek Nippes."
-  },
-  {
-    "titel": "LeseWelten",
-    "datum": "6. Nov 2026",
-    "datum_raw": "2026-11-06T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41298/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "16 bis 17 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Nippes."
-  },
-  {
-    "titel": "Lizenz für 3D-Druck",
-    "datum": "6. Nov 2026",
-    "datum_raw": "2026-11-06T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Porz, Porz",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/38962/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "16 bis 18 Uhr · Ein Workshop im Rahmen von Maker Porz."
-  },
-  {
-    "titel": "Craft Training",
-    "datum": "6. Nov 2026",
-    "datum_raw": "2026-11-06T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Rodenkirchen, Rodenkirchen",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41306/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "16 bis 18 Uhr · Handarbeitstreff in der Stadtteilbibliothek Rodenkirchen."
-  },
-  {
-    "titel": "MINT-Vorlesen",
-    "datum": "6. Nov 2026",
-    "datum_raw": "2026-11-06T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Sülz, Sülz",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41500/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "16:30 bis 17 Uhr · Bücher und Experimente für neugierige Kinder – in der Stadtteilbibliothek Sülz."
-  },
-  {
-    "titel": "Persönliche Hilfestellung für eMedien",
-    "datum": "6. Nov 2026",
-    "datum_raw": "2026-11-06T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Chorweiler, Chorweiler",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41303/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "4 Termine:, 10 bis 10:30 Uhr, 10:30 bis 11 Uhr, 11 bis 11:30 Uhr, 11:30 bis 12 Uhr · Persönliche Hilfe mit Onleihe und Libby (Overdrive) in der Stadtteilbibliothek Chorweiler"
-  },
-  {
-    "titel": "Onleihe Hilfestellung der Stadtbibliothek",
-    "datum": "6. Nov 2026",
-    "datum_raw": "2026-11-06T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Porz, Porz",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41302/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Vier Termine:, 10 bis 10:30 Uhr, 10:30 bis 11 Uhr, 11 bis 11:30 Uhr, 11:30 bis 12 Uhr · Persönliche Beratung zu Onleihe-Problemen. Im Rahmen der Reihe Digitale Werkstatt in der Stadtteilbibliothek Porz."
-  },
-  {
     "titel": "Internationale Deutsche Jugendmeisterschaft im Boxen U18",
-    "datum": "6. Nov 2026",
-    "datum_raw": "2026-11-06T00:00:00",
-    "datum_bis": "7. Nov 2026",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T00:00:00",
+    "datum_bis": "",
     "ort": "Sporthalle am Südstadion",
     "preis": "Die Ticketpreise können Sie der Internetseite des Veranstalters entnehmen",
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41258/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "Die besten Nachwuchssportler*innen unter 18 Jahren kämpfen in jeweils zehn Gewichtsklassen um den deutschen Meistertitel."
-  },
-  {
-    "titel": "Städtebauliche Entwicklung Longericher Straße in Köln-Bilderstöckchen, 246. Änderung des Flächennutzungsplans",
-    "datum": "6. Nov 2026",
-    "datum_raw": "2026-11-06T00:00:00",
-    "datum_bis": "13. Nov 2026",
-    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41488/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr,, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
-  },
-  {
-    "titel": "Sicherung der Clubkultur im Bereich Lichtstraße/Ehrenfeldgürtel in Köln-Ehrenfeld, 254. Änderung des Flächennutzungsplanes",
-    "datum": "6. Nov 2026",
-    "datum_raw": "2026-11-06T00:00:00",
-    "datum_bis": "13. Nov 2026",
-    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41462/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
-  },
-  {
-    "titel": "Haselbergstraße/Piusstraße, 2. Änderung (2. Teilaufhebung) in Köln-Lindenthal",
-    "datum": "6. Nov 2026",
-    "datum_raw": "2026-11-06T00:00:00",
-    "datum_bis": "23. Nov 2026",
-    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41583/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
-  },
-  {
-    "titel": "Ausstellung: Fernweh und Heimat vom Kölner Maler-Kreis",
-    "datum": "6. Nov 2026",
-    "datum_raw": "2026-11-06T00:00:00",
-    "datum_bis": "1. Dez 2026",
-    "ort": "Bezirksrathaus Nippes, Weidenpesch",
-    "preis": "Der Eintritt ist frei.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41662/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Ausstellungseröffnung: 2. November, 18 Uhr, Montags und donnerstags: 8 bis 15 Uhr, Dienstags: 9 bis 18 Uhr, Mittwochs und freitags: 8 bis 12 Uhr · Was bedeutet Heimat? Und wohin zieht es uns, wenn wir Fernweh haben?"
-  },
-  {
-    "titel": "Bilderausstellung: Iwona Piek – Figurative Malerei",
-    "datum": "6. Nov 2026",
-    "datum_raw": "2026-11-06T00:00:00",
-    "datum_bis": "5. Dez 2026",
-    "ort": "Rathaussaal Porz, Porz",
-    "preis": "Der Eintritt ist frei",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41599/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Montag bis Freitag: 10 bis 18 Uhr, Samstag: 10 bis 14 Uhr, sonn- und feiertags geschlossen · Bilderausstellung – figurative Malerei von der Künstlerin Iwona Piek"
-  },
-  {
-    "titel": "Führung durch den Skulpturenpark Köln",
-    "datum": "6. Nov 2026",
-    "datum_raw": "2026-11-06T00:00:00",
-    "datum_bis": "6. Dez 2026",
-    "ort": "Skulpturenpark Köln, Neustadt/Nord",
-    "preis": "Der Eintritt in den Park ist frei. Kosten für die Führungen: Erwachsene: 8 Euro,",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/39535/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Jeden ersten Sonntag im Monat von 15 bis 16 Uhr · Im Skulpturenpark zeigen wir eine große Bandbreite moderner zeitgenössischer Außenskulpturen unter freiem Himmel."
   },
   {
     "titel": "Steno: Ohne Kohle schneller schreiben",
@@ -297,6 +99,28 @@
     "teaser": "18 bis 1 Uhr · Elf renommierte Museen, bis zu 25 außergewöhnliche Pop-up-Locations und Kunst, Performances, Workshops und Lesungen in der ganzen Stadt"
   },
   {
+    "titel": "Städtebauliche Entwicklung Longericher Straße in Köln-Bilderstöckchen, 246. Änderung des Flächennutzungsplans",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T00:00:00",
+    "datum_bis": "13. Nov 2026",
+    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41488/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr,, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
+  },
+  {
+    "titel": "Sicherung der Clubkultur im Bereich Lichtstraße/Ehrenfeldgürtel in Köln-Ehrenfeld, 254. Änderung des Flächennutzungsplanes",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T00:00:00",
+    "datum_bis": "13. Nov 2026",
+    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41462/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
+  },
+  {
     "titel": "Retrospektive und Perspektive. Vater und Sohn: Fotografie trifft auf Pop-Art",
     "datum": "7. Nov 2026",
     "datum_raw": "2026-11-07T00:00:00",
@@ -306,6 +130,50 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41529/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "Vernissage: 7. November 2026, 18 Uhr, Täglich von 16 bis 18 Uhr · Kunstausstellung Vater & Sohn in der Kunsthalle Lindenthal"
+  },
+  {
+    "titel": "Haselbergstraße/Piusstraße, 2. Änderung (2. Teilaufhebung) in Köln-Lindenthal",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T00:00:00",
+    "datum_bis": "23. Nov 2026",
+    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41583/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
+  },
+  {
+    "titel": "Ausstellung: Fernweh und Heimat vom Kölner Maler-Kreis",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T00:00:00",
+    "datum_bis": "1. Dez 2026",
+    "ort": "Bezirksrathaus Nippes, Weidenpesch",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41662/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Ausstellungseröffnung: 2. November, 18 Uhr, Montags und donnerstags: 8 bis 15 Uhr, Dienstags: 9 bis 18 Uhr, Mittwochs und freitags: 8 bis 12 Uhr · Was bedeutet Heimat? Und wohin zieht es uns, wenn wir Fernweh haben?"
+  },
+  {
+    "titel": "Bilderausstellung: Iwona Piek – Figurative Malerei",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T00:00:00",
+    "datum_bis": "5. Dez 2026",
+    "ort": "Rathaussaal Porz, Porz",
+    "preis": "Der Eintritt ist frei",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41599/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Montag bis Freitag: 10 bis 18 Uhr, Samstag: 10 bis 14 Uhr, sonn- und feiertags geschlossen · Bilderausstellung – figurative Malerei von der Künstlerin Iwona Piek"
+  },
+  {
+    "titel": "Führung durch den Skulpturenpark Köln",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T00:00:00",
+    "datum_bis": "6. Dez 2026",
+    "ort": "Skulpturenpark Köln, Neustadt/Nord",
+    "preis": "Der Eintritt in den Park ist frei. Kosten für die Führungen: Erwachsene: 8 Euro,",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/39535/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Jeden ersten Sonntag im Monat von 15 bis 16 Uhr · Im Skulpturenpark zeigen wir eine große Bandbreite moderner zeitgenössischer Außenskulpturen unter freiem Himmel."
   },
   {
     "titel": "MINT-Workshop am Sonntag",
