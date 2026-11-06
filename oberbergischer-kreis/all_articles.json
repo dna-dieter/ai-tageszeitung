@@ -1,5 +1,47 @@
 [
   {
+    "id": "0716afb7fff6",
+    "title": "Testspielgegner gesucht",
+    "summary": "Oberberg - Die Testspielbörse bei Oberberg-Aktuell.",
+    "link": "http://www.oberberg-aktuell.de/fussball/testspielgegner-f--r-die-sommervorbereitung-gesucht-a-132238",
+    "published": "Fri, 06 Nov 2026 14:05:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-06T14:17:21.686069",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5a410e4252f8",
+    "title": "Franziska Schröder hilft durch den Behördendschungel",
+    "summary": "Im Jugendamt unterstützt sie als Verfahrenslotsin ab sofort junge Menschen mit Behinderung bei Fragen und Anträgen.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/franziska-schroeder-hilft-durch-den-behoerdendschungel-NOKNH62BMPLMCZ73WNNLVGEHEE.html",
+    "published": "Fri, 06 Nov 2026 13:58:16 +0100",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-11-06T14:17:17.114930",
+    "feed_kommunen": [
+      "radevormwald"
+    ]
+  },
+  {
+    "id": "3b44c7e37fd9",
+    "title": "Oberberg rüstet sich für die A4-Vollsperrung",
+    "summary": "Oberberg - Die Schrankenanlage auf der A4 wird ab kommenden Montag eingerichtet - Stadt Wiehl und Gemeinde Engelskirchen informieren über die Umleitungsstrecken - Kreis: \"Homeoffice nutzen und Fahrgemeinschaften bilden\" (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/schrankenanlage-auf-a---baustart-mit-sperrungen-schon-am-montag-a-139441",
+    "published": "Fri, 06 Nov 2026 13:05:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "engelskirchen",
+      "wiehl"
+    ],
+    "fetched": "2026-11-06T14:17:21.686309",
+    "feed_kommunen": []
+  },
+  {
     "id": "ebf684197cca",
     "title": "Eine halbe Million Euro investiert: Sport, Action und Spaß auf 1.200 Quadratmetern",
     "summary": "Nümbrecht – Im Sportpark ist das „Spielwerk“ entstanden – Angebote zum Auspowern für Jung und Alt – Start ist kommende Woche.",
@@ -6602,20 +6644,6 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-23T19:11:57.797439",
-    "feed_kommunen": []
-  },
-  {
-    "id": "c18c21f12c08",
-    "title": "Bevorstehende Autobahnsperrungen: Infos zu den Umleitungen",
-    "summary": "Oberberg - Die Schrankenanlage auf der A4 kommt - Baustart schon am Montag - Anlage soll die Wiehltalbrücke weiter entlasten - Stadt Wiehl informiert ausführlich über die Umleitungsstrecken (AKTUALISIERT).",
-    "link": "http://www.oberberg-aktuell.de/lokalmix/schrankenanlage-auf-a---baustart-mit-sperrungen-schon-am-montag-a-139441",
-    "published": "Fri, 23 Oct 2026 15:22:00 +0200",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "wiehl",
-      "engelskirchen"
-    ],
-    "fetched": "2026-10-23T16:58:10.760976",
     "feed_kommunen": []
   },
   {
