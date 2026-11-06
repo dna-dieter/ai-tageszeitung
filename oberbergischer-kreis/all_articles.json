@@ -1,5 +1,59 @@
 [
   {
+    "id": "8cc3c3af6d1b",
+    "title": "Uelfi geht in Rade auf Weihnachts-Meisterprüfung",
+    "summary": "In den Schaufenstern stehen in der Adventszeit wieder Wichtelfenster. Dazu gibt es neue Geschichten um den Weihnachtswichtel „Uelfi“. Das begleitende Heft gibt es ab 23. November.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/uelfi-geht-in-rade-auf-weihnachts-meisterpruefung-IPPDGCJX5O2IOZA62OM5A4OQZ4.html",
+    "published": "Fri, 06 Nov 2026 15:45:00 +0100",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-11-06T16:17:02.040609",
+    "feed_kommunen": [
+      "radevormwald"
+    ]
+  },
+  {
+    "id": "9431a1801bf7",
+    "title": "19-Jähriger attackiert Partner seiner Mutter",
+    "summary": "Waldbröl – Am Amtsgericht Waldbröl wurde ein junger Waldbröler gestern wegen gefährlicher Körperverletzung verurteilt.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/---j--hriger-attackiert-partner-seiner-mutter-a-140069",
+    "published": "Fri, 06 Nov 2026 15:45:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-06T16:17:06.609819",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6b79f532c066",
+    "title": "Hoffnung auf Etat: Dieser Traum ist für Nümbrecht geplatzt",
+    "summary": "Nümbrechts Bürgermeister kann auch für 2027 keinen ausgeglichenen Etatentwurf vorlegen.",
+    "link": "https://www.ksta.de/region/oberberg/nuembrecht/hoffnung-auf-etat-dieser-traum-ist-fuer-nuembrecht-geplatzt-1411076",
+    "published": "Fri, 06 Nov 2026 15:14:59 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-06T16:17:05.566224",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9558c887fbf8",
+    "title": "Gelände des Franziskanerklosters: Stadt will beim Verkauf mitreden können",
+    "summary": "Stadtrat sichert Wipperfürth per Satzung einstimmig ein Vorkaufsrecht für das Gelände des früheren Franziskanerklosters",
+    "link": "https://www.ksta.de/region/oberberg/wipperfuerth/franziskanerkloster-wipperfuerth-stadt-will-beim-verkauf-mitreden-1411020",
+    "published": "Fri, 06 Nov 2026 15:07:58 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-06T16:17:05.566311",
+    "feed_kommunen": []
+  },
+  {
     "id": "0b50b074e34b",
     "title": "Schüler müssen in Engelskirchen früher aufstehen - Verspätungen und Ausfälle erwartet",
     "summary": "Die Sperrung der Autobahn 4 in Richtung Olpe könnte ab kommendem Montag auch den Schulbusverkehr in Engelskirchen beeinträchtigen. Die Busunternehmen rechnen auf den Umleitungsstrecken mit dichtem Verkehr und warnen vor teils erheblichen Verspätungen auf den morgendlichen Fahrten zu allen Schulen. Da die Schulbusse morgens sowohl weiterführende Schulen als auch Grundschulen bedienen, seien Verspät",
@@ -38,6 +92,32 @@
       "gummersbach"
     ],
     "fetched": "2026-11-06T15:17:14.789224",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ddd8c6d5cce6",
+    "title": "Nach Elternprotest: Lichterkette erhellt Schul-Waldweg in Nümbrecht",
+    "summary": "Nach Protesten der Eltern hat der Bürgermeister den dunklen Weg zu den Containerklassen in Nümbrecht beleuchten lassen.",
+    "link": "https://www.ksta.de/region/oberberg/nuembrecht/nach-elternprotest-lichterkette-erhellt-schulweg-in-nuembrecht-1411012",
+    "published": "Fri, 06 Nov 2026 14:29:50 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-06T16:17:05.566388",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c2cadf0b5649",
+    "title": "A4-Sperrung: Ovag setzt Bereitschaftsbusse ein",
+    "summary": "Die A4-Sperrungen im November treffen nahezu alle oberbergischen Buslinien.",
+    "link": "https://www.ksta.de/region/oberberg/a4-sperrung-ovag-setzt-bereitschaftsbusse-ein-1411004",
+    "published": "Fri, 06 Nov 2026 14:23:27 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-06T16:17:05.566444",
     "feed_kommunen": []
   },
   {

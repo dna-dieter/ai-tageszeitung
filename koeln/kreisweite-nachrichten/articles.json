@@ -1,5 +1,18 @@
 [
   {
+    "id": "644a948c2536",
+    "title": "Ausschreibung läuft: Kölner Abfallbetriebe suchen neues „Gesicht nach außen“",
+    "summary": "Das bisherige Geschäftsführer-Duo beendete im September seine Arbeit, nun hat ein externer Manager übernommen.",
+    "link": "https://www.ksta.de/koeln/ausschreibung-koelner-abfallbetriebe-suchen-gesicht-nach-aussen-1410120",
+    "published": "Fri, 06 Nov 2026 15:01:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-06T16:17:42.926780",
+    "feed_kommunen": []
+  },
+  {
     "id": "3fe9d612499c",
     "title": "KG Kölsche Lübüggele: Neuer Präsident will Eid auf den Pömpel einführen",
     "summary": "Friedrich Klupsch, Jungfrau im Kölner Dreigestirn 2024, ist jetzt Präsident der KG Kölsche Lübüggele.",
@@ -36,6 +49,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-06T14:18:10.774261",
+    "feed_kommunen": []
+  },
+  {
+    "id": "807ab5dea97c",
+    "title": "Baustellen in den Stadtteilen",
+    "summary": "6. November 2026, 12:40",
+    "link": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/baustellen-den-stadtteilen-4",
+    "published": "Fri, 06 Nov 2026 12:40:00 +0100",
+    "source": "Stadt Köln Pressemeldungen",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-06T16:17:42.723940",
     "feed_kommunen": []
   },
   {
