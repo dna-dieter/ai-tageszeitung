@@ -1,5 +1,31 @@
 [
   {
+    "id": "10895445e705",
+    "title": "Für mehr Teilhabe und weniger Einschnitte",
+    "summary": "Oberberg – Inklusive Freizeitmesse in Wipperfürth diente zur Aufklärung und Sensibilisierung – Gemeinsame Aktivitäten standen im Mittelpunkt.",
+    "link": "http://www.oberberg-aktuell.de/soziales/f--r-mehr-teilhabe-und-weniger-reformen-a-139908",
+    "published": "Fri, 06 Nov 2026 17:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-06T17:17:29.053680",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b582edf0d852",
+    "title": "Liste mit möglichen Einsparungen: Setzt die Politik jetzt den Rotstift an?",
+    "summary": "Oberberg – Landrat Klaus Grootens brachte den Doppelhaushalt 2027/2028 ein – Kreisumlage wird steigen – Landrat appelliert an Land und Bund – Werden Ordnungspartnerschaft, Oberberg Fairsorgt oder der Zuschuss für die Schwalbe-Arena gestrichen?",
+    "link": "http://www.oberberg-aktuell.de/politik/liste-mit-moeglichen-einsparungen-setzt-die-politik-jetzt-den-rotstift-an-a-140068",
+    "published": "Fri, 06 Nov 2026 16:33:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-06T17:17:29.053927",
+    "feed_kommunen": []
+  },
+  {
     "id": "8cc3c3af6d1b",
     "title": "Uelfi geht in Rade auf Weihnachts-Meisterprüfung",
     "summary": "In den Schaufenstern stehen in der Adventszeit wieder Wichtelfenster. Dazu gibt es neue Geschichten um den Weihnachtswichtel „Uelfi“. Das begleitende Heft gibt es ab 23. November.",
@@ -25,6 +51,45 @@
       "waldbroel"
     ],
     "fetched": "2026-11-06T16:17:06.609819",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a6cca4b669ab",
+    "title": "Skulpturen zum Anfassen: Zwei Künstlerinnen stellen aus",
+    "summary": "Im Kunstraum Markt 1 in Gummersbach zeigen Ute Hölscher und Gabriele Marl ab heute ihre Kunst.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/skulpturen-zum-anfassen-zwei-kuenstlerinnen-stellen-aus-1411115",
+    "published": "Fri, 06 Nov 2026 15:36:09 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-06T17:17:27.879184",
+    "feed_kommunen": []
+  },
+  {
+    "id": "51b30b14d8d3",
+    "title": "Gummersbach baut: Trotz 35-Millionen-Loch wird investiert",
+    "summary": "Trotz eines Minus von 35 Millionen Euro im Etat 2027 investiert Gummersbach 17 Millionen in die Stadtentwicklung.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/gummersbach-baut-trotz-35-millionen-loch-wird-investiert-1411104",
+    "published": "Fri, 06 Nov 2026 15:32:28 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-06T17:17:27.879297",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a56dfcb5c1fd",
+    "title": "Einzigartiges Beteiligungsmodell: Lindlar und 29 Vereine unterzeichneten",
+    "summary": "Lindlar und 29 Vereine aus dem Umfeld des Windparks Vogelberg haben unterzeichnet.",
+    "link": "https://www.ksta.de/region/oberberg/lindlar/einzigartiges-beteiligungsmodell-lindlar-und-vereine-unterschrieben-1411091",
+    "published": "Fri, 06 Nov 2026 15:23:37 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-06T17:17:27.879394",
     "feed_kommunen": []
   },
   {
