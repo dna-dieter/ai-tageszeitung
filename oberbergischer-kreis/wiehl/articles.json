@@ -1,5 +1,19 @@
 [
   {
+    "id": "0ad12f64900d",
+    "title": "(Update) Engelskirchen & Wiehl: A4 ab Montag Richtung Olpe gesperrt – Umleitung mit rotem Punkt",
+    "summary": "Update: Der Oberbergische Kreis warnt vor Staus auf den Umleitungen. Von 9. bis 30. November ist die A4 Richtung Olpe zwischen Engelskirchen und Bielstein gesperrt. Grund ist die Einrichtung einer Schrankenanlage.",
+    "link": "https://www.news-on-tour.de/344337/engelskirchen-a4-schrankenanlage/",
+    "published": "Fri, 06 Nov 2026 14:02:17 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "engelskirchen",
+      "wiehl"
+    ],
+    "fetched": "2026-11-06T15:17:09.165708",
+    "feed_kommunen": []
+  },
+  {
     "id": "3b44c7e37fd9",
     "title": "Oberberg rüstet sich für die A4-Vollsperrung",
     "summary": "Oberberg - Die Schrankenanlage auf der A4 wird ab kommenden Montag eingerichtet - Stadt Wiehl und Gemeinde Engelskirchen informieren über die Umleitungsstrecken - Kreis: \"Homeoffice nutzen und Fahrgemeinschaften bilden\" (AKTUALISIERT).",
@@ -11,20 +25,6 @@
       "wiehl"
     ],
     "fetched": "2026-11-06T14:17:21.686309",
-    "feed_kommunen": []
-  },
-  {
-    "id": "1e872d06b7c5",
-    "title": "Engelskirchen & Wiehl: A4 ab Montag Richtung Olpe gesperrt – Umleitung mit rotem Punkt",
-    "summary": "Von 9. bis 30. November ist die A4 Richtung Olpe zwischen Engelskirchen und Bielstein gesperrt. Grund ist die Einrichtung einer Schrankenanlage.",
-    "link": "https://www.news-on-tour.de/344337/engelskirchen-a4-schrankenanlage/",
-    "published": "Fri, 06 Nov 2026 11:58:31 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "engelskirchen",
-      "wiehl"
-    ],
-    "fetched": "2026-11-06T13:17:10.885740",
     "feed_kommunen": []
   },
   {

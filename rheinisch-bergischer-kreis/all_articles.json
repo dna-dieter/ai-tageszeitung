@@ -1,5 +1,20 @@
 [
   {
+    "id": "ff7a8717a86d",
+    "title": "Chorprojekt mit Jazzband und Orchester: Leichlinger singen gemeinsam Adventslieder",
+    "summary": "Adventslieder, Jazz und gemeinsames Singen: Die evangelische Kirchengemeinde lädt zu einem offenen Chorprojekt ein. Auch Menschen ohne Chorerfahrung können mitmachen. Höhepunkt ist ein musikalischer Gottesdienst am 13. Dezember.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/leichlinger-singen-gemeinsam-adventslieder_aid-157881897",
+    "published": "Fri, 06 Nov 2026 14:55:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-06T15:16:11.421057",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
     "id": "f844f1e476c6",
     "title": "Wegen unterbrochener Stromversorgung: „Schon albern“ – Novanetz kritisiert EVL nach Internetausfall",
     "summary": "Nach einer Stromabschaltung der EVL waren Tausende Haushalte am Donnerstag ohne Internet. Novanetz-Geschäftsführer Dennis Kornehl hält die Erklärung der EVL für wenig überzeugend: Die Stromanschlüsse habe der Energieversorger selbst gebaut.",
@@ -157,6 +172,19 @@
     "feed_kommunen": [
       "burscheid"
     ]
+  },
+  {
+    "id": "02864abf290e",
+    "title": "Kürten lädt seine Senioren ein",
+    "summary": "Die Vorweihnachtszeit beginnt, die Seniorenberatung der Gemeinde Kürten nimmt das zum Anlass, ihre Seniorinnen und Senioren einzuladen. Gemeinsam mit örtlichen Vereinen stellt man zwei Nachmittags-Veranstaltungen auf die Beine.",
+    "link": "https://in-gl.de/2026/11/05/kuerten-laedt-seine-senioren-ein/",
+    "published": "Thu, 05 Nov 2026 17:31:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kuerten"
+    ],
+    "fetched": "2026-11-06T15:15:35.981211",
+    "feed_kommunen": []
   },
   {
     "id": "daf7e8d71e72",

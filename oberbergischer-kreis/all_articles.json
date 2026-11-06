@@ -1,5 +1,46 @@
 [
   {
+    "id": "0b50b074e34b",
+    "title": "Schüler müssen in Engelskirchen früher aufstehen - Verspätungen und Ausfälle erwartet",
+    "summary": "Die Sperrung der Autobahn 4 in Richtung Olpe könnte ab kommendem Montag auch den Schulbusverkehr in Engelskirchen beeinträchtigen. Die Busunternehmen rechnen auf den Umleitungsstrecken mit dichtem Verkehr und warnen vor teils erheblichen Verspätungen auf den morgendlichen Fahrten zu allen Schulen. Da die Schulbusse morgens sowohl weiterführende Schulen als auch Grundschulen bedienen, seien Verspät",
+    "link": "https://www.rheinische-anzeigenblaetter.de/engelskirchen/c-nachrichten/schueler-muessen-in-engelskirchen-frueher-aufstehen-verspaetungen-und-ausfaelle-erwartet_a382439",
+    "published": "Fri, 06 Nov 2026 15:06:42 +0100",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-06T15:17:15.736809",
+    "feed_kommunen": []
+  },
+  {
+    "id": "0ad12f64900d",
+    "title": "(Update) Engelskirchen & Wiehl: A4 ab Montag Richtung Olpe gesperrt – Umleitung mit rotem Punkt",
+    "summary": "Update: Der Oberbergische Kreis warnt vor Staus auf den Umleitungen. Von 9. bis 30. November ist die A4 Richtung Olpe zwischen Engelskirchen und Bielstein gesperrt. Grund ist die Einrichtung einer Schrankenanlage.",
+    "link": "https://www.news-on-tour.de/344337/engelskirchen-a4-schrankenanlage/",
+    "published": "Fri, 06 Nov 2026 14:02:17 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "engelskirchen",
+      "wiehl"
+    ],
+    "fetched": "2026-11-06T15:17:09.165708",
+    "feed_kommunen": []
+  },
+  {
+    "id": "0e607e5ea42f",
+    "title": "Pflegereform 2027: Warum es sich lohnt, den eigenen Pflegebedarf schon jetzt prüfen zu lassen",
+    "summary": "Reichshof - Lebensbaum lädt zu Tagen der offenen Tür in Reichshof-Eckenhagen und Gummersbach-Dieringhausen ein – mit persönlicher Beratung zu Pflegegraden und Alltagsunterstützung.",
+    "link": "http://www.oberberg-aktuell.de/Werbende Artikel/pflegereform-------warum-es-sich-lohnt--den-eigenen-pflegebedarf-schon-jetzt-pr--fen-zu-lassen-a-140064",
+    "published": "Fri, 06 Nov 2026 14:50:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "reichshof",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-06T15:17:14.789224",
+    "feed_kommunen": []
+  },
+  {
     "id": "0716afb7fff6",
     "title": "Testspielgegner gesucht",
     "summary": "Oberberg - Die Testspielbörse bei Oberberg-Aktuell.",
@@ -52,20 +93,6 @@
       "nuembrecht"
     ],
     "fetched": "2026-11-06T13:17:18.370392",
-    "feed_kommunen": []
-  },
-  {
-    "id": "1e872d06b7c5",
-    "title": "Engelskirchen & Wiehl: A4 ab Montag Richtung Olpe gesperrt – Umleitung mit rotem Punkt",
-    "summary": "Von 9. bis 30. November ist die A4 Richtung Olpe zwischen Engelskirchen und Bielstein gesperrt. Grund ist die Einrichtung einer Schrankenanlage.",
-    "link": "https://www.news-on-tour.de/344337/engelskirchen-a4-schrankenanlage/",
-    "published": "Fri, 06 Nov 2026 11:58:31 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "engelskirchen",
-      "wiehl"
-    ],
-    "fetched": "2026-11-06T13:17:10.885740",
     "feed_kommunen": []
   },
   {
