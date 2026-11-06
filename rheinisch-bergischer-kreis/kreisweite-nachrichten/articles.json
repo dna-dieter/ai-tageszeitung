@@ -65,6 +65,19 @@
     "feed_kommunen": []
   },
   {
+    "id": "d47e2365c62b",
+    "title": "Sicher zu Hause mit dem Hausnotruf des DRK",
+    "summary": "Mehr Sicherheit Zuhause: Der Hausnotruf des DRK bietet rund um die Uhr schnelle Hilfe und ermöglicht Menschen mehr Sicherheit und Selbstständigkeit im eigenen Zuhause. Bis zum 30. November kann der Hausnotruf kostenlos getestet werden.",
+    "link": "https://in-gl.de/2026/11/06/sicher-zu-hause-mit-dem-hausnotruf-des-drk/",
+    "published": "Fri, 06 Nov 2026 06:23:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-06T19:15:35.689433",
+    "feed_kommunen": []
+  },
+  {
     "id": "daf7e8d71e72",
     "title": "Best of Bergisch bringt „Wasserzeichen“ zum Glänzen",
     "summary": "Zehn Jahre nach der Errichtung des „Wasserzeichens“ im Kreisverkehr Schnabelsmühle hat das markante Kunstwerk Schmutz angesetzt. Daher ist das Unternehmernetzwerk „Best of Bergisch“, auf das die Gestaltung im Zentrum des Turbokreisels zurückgekehrt und wieder aufpoliert.",
@@ -478,6 +491,20 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-02T14:16:14.372303",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c45060cc2648",
+    "title": "Sankt Martinsmarkt mit Musik und Laternenumzug in der Innenstadt",
+    "summary": "Im vergangenen Jahr war er ausgefallen, doch am kommenden Sonntag findet wieder der Sankt Martinsmarkt auf dem Konrad-Adenauer-Platz statt. Zum Programm gehören Live-Musik, ein Kreativ- und Schlemmermarkt sowie Bastelangebote für Kinder und Erwachsene. Zudem öffnen die Geschäfte in der Innenstadt zum verkaufsoffenen Sonntag.",
+    "link": "https://in-gl.de/2026/11/02/sankt-martinsmarkt-mit-musik-und-laternenumzug-in-der-innenstadt/",
+    "published": "Mon, 02 Nov 2026 10:41:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach",
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-03T03:15:33.657571",
     "feed_kommunen": []
   },
   {

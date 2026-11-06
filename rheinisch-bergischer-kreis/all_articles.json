@@ -1,5 +1,18 @@
 [
   {
+    "id": "c07a95735dc2",
+    "title": "Die Opfer der NS-Herrschaft in Bergisch Gladbach",
+    "summary": "Verfolgung, Deportation, Zwangsarbeit, Widerstand und Krieg in Bergisch Gladbach und Bensberg – Gastautor Tomás M. Santillán führt die Bruchstücke einer immer noch nicht vollständig aufgearbeiteten Geschichte zusammen.",
+    "link": "https://in-gl.de/2026/11/06/die-opfer-der-ns-herrschaft-in-bergisch-gladbach-tomas-santillan/",
+    "published": "Fri, 06 Nov 2026 16:00:43 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-06T19:15:35.687634",
+    "feed_kommunen": []
+  },
+  {
     "id": "782d778380bc",
     "title": "Rhein-Berg wird fit: Gesundheitsprojekt für Menschen ab 55",
     "summary": "Der Rheinisch-Bergische Kreis startet ein Projekt, das die Gesundheit von Menschen ab 55 Jahren mit wohnortnahen Angeboten stärken soll.",
@@ -250,6 +263,19 @@
     "feed_kommunen": [
       "wermelskirchen"
     ]
+  },
+  {
+    "id": "d47e2365c62b",
+    "title": "Sicher zu Hause mit dem Hausnotruf des DRK",
+    "summary": "Mehr Sicherheit Zuhause: Der Hausnotruf des DRK bietet rund um die Uhr schnelle Hilfe und ermöglicht Menschen mehr Sicherheit und Selbstständigkeit im eigenen Zuhause. Bis zum 30. November kann der Hausnotruf kostenlos getestet werden.",
+    "link": "https://in-gl.de/2026/11/06/sicher-zu-hause-mit-dem-hausnotruf-des-drk/",
+    "published": "Fri, 06 Nov 2026 06:23:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-06T19:15:35.689433",
+    "feed_kommunen": []
   },
   {
     "id": "386632227ff4",
@@ -2131,7 +2157,8 @@
     "published": "Mon, 02 Nov 2026 10:41:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "bergisch-gladbach"
+      "bergisch-gladbach",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-03T03:15:33.657571",
     "feed_kommunen": []
