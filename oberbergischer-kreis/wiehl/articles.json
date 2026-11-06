@@ -3352,5 +3352,20 @@
     "feed_kommunen": [
       "wiehl"
     ]
+  },
+  {
+    "id": "331496329b7c",
+    "title": "Literaturverfilmung in der Bücherei",
+    "summary": "Zum ersten Mal lädt die Stadtbücherei Wiehl am 19. November 2026 zu einem Film-Abend für Erwachsene ein. Auf dem Programm steht eine Literaturverfilmung.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9598-literaturverfilmung-in-der-buecherei.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-06T10:17:27.794170",
+    "feed_kommunen": [
+      "wiehl"
+    ]
   }
 ]
