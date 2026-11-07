@@ -3480,5 +3480,20 @@
     "feed_kommunen": [
       "wiehl"
     ]
+  },
+  {
+    "id": "3bcd49f23b13",
+    "title": "Alte Holzschlitten gesucht",
+    "summary": "Für das „Wiehler Winterland“ sucht das Citymanagement der Stadt alte Holzschlitten. Sie sollen während des Weihnachtsmarkts am 5./6. Dezember zu Hinguckern werden.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9600-alte-holzschlitten-gesucht.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-07T18:17:20.875072",
+    "feed_kommunen": [
+      "wiehl"
+    ]
   }
 ]

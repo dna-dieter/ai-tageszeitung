@@ -1,5 +1,18 @@
 [
   {
+    "id": "5b507e7daf41",
+    "title": "Alter Bekannter kehrt als sportlicher Leiter zurück",
+    "summary": "Engelskirchen – Der TSV Ründeroth steht vor einem Neuaufbau im Seniorenfußball und holt sich Verstärkung dazu.",
+    "link": "http://www.oberberg-aktuell.de/fussball/alter-bekannter-kehrt-als-sportlicher-leiter-zur--ck-a-140097",
+    "published": "Sat, 07 Nov 2026 17:37:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-07T18:17:18.084267",
+    "feed_kommunen": []
+  },
+  {
     "id": "1c8aa0434a20",
     "title": "Gute Nachrichten aus Düsseldorf: Millionen fließen nach Hückeswagen und ins Bergische Altschulden Geld",
     "summary": "Steigende Kosten, enormer Druck: Kommunen in Nordrhein-Westfalen sind am Limit. Das Problem sind Altschulden und Sozialausgaben. Jetzt steuert das Land gegen. Was das für die oberbergischen Städte bedeutet.",
@@ -44934,6 +44947,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-06T11:17:22.063267",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "3bcd49f23b13",
+    "title": "Alte Holzschlitten gesucht",
+    "summary": "Für das „Wiehler Winterland“ sucht das Citymanagement der Stadt alte Holzschlitten. Sie sollen während des Weihnachtsmarkts am 5./6. Dezember zu Hinguckern werden.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9600-alte-holzschlitten-gesucht.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-07T18:17:20.875072",
     "feed_kommunen": [
       "wiehl"
     ]
