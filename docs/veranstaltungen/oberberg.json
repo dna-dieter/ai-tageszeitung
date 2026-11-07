@@ -1,25 +1,5 @@
 [
   {
-    "titel": "Halloween entgruselt",
-    "datum": "7. Nov 2026",
-    "datum_raw": "2026-11-07T09:00:00+01:00",
-    "ort": "Affen- und Vogelpark, Am Bromberg, 51580 Reichshof",
-    "preis": "ab 20 €",
-    "link": "https://affen-und-vogelpark.de/neues-aus-dem-park/",
-    "quelle": "Das Bergische",
-    "teaser": "An vier Wochenenden im Herbst 2026 wird’s im Park geheimnisvoll – aber nie zu angsteinflößend: Du schnitzt Kürbisse, folgst verwinkelten Wegen, lauschst den Geschichten der Hexe und sagst mit der Fackel den Eulen und Pol"
-  },
-  {
-    "titel": "Pilzseminar für Einsteiger:innen",
-    "datum": "7. Nov 2026",
-    "datum_raw": "2026-11-07T09:00:00+01:00",
-    "ort": "VHS im EKZ Bergischer Hof, Brückenstraße 1, 51643 Gummersbach",
-    "preis": "ab 44 €",
-    "link": "http://www.vhs-gm.de/programm/gesellschaft-25.html?action%5B89%5D=course&courseId=571-C-3387732&filter%5Bq%5D=Pilz&rowIndex=0",
-    "quelle": "Das Bergische",
-    "teaser": "In diesem Tagesseminar werden häufig vorkommende Speisepilze und deren giftige Doppelgänger kennengelernt. Zunächst gibt es im Seminarraum einen Einblick in die faszinierende Welt der Pilze, deren Lebensweise und Bedeutu"
-  },
-  {
     "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
     "datum": "7. Nov 2026",
     "datum_raw": "2026-11-07T11:00:00+02:00",
@@ -68,6 +48,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Zwei außergewöhnliche Musiker überzeugen durch ihre Leidenschaft für die Musik und ihre kreative Zusammenarbeit. Peter Schönfeld ergänzt seine virtuosen Fähigkeiten am Kontrabass durch den Einsatz von ungewöhnlichen Gerä"
+  },
+  {
+    "titel": "Halloween entgruselt",
+    "datum": "8. Nov 2026",
+    "datum_raw": "2026-11-08T09:00:00+01:00",
+    "ort": "Affen- und Vogelpark, Am Bromberg, 51580 Reichshof",
+    "preis": "ab 20 €",
+    "link": "https://affen-und-vogelpark.de/neues-aus-dem-park/",
+    "quelle": "Das Bergische",
+    "teaser": "An vier Wochenenden im Herbst 2026 wird’s im Park geheimnisvoll – aber nie zu angsteinflößend: Du schnitzt Kürbisse, folgst verwinkelten Wegen, lauschst den Geschichten der Hexe und sagst mit der Fackel den Eulen und Pol"
   },
   {
     "titel": "Musik, die Kinder in Bewegung bringt! Ein fröhliches Mitmach- und Bewegungskonzert mit Faryna ",
