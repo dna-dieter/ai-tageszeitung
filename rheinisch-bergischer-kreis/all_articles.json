@@ -1,5 +1,20 @@
 [
   {
+    "id": "d523c119ecbe",
+    "title": "10.900 Blumenzwiebeln in Burscheid gepflanzt – Schüler schaffen Insektenparadies",
+    "summary": "Schülerinnen und Schüler aus Burscheid haben gemeinsam mit dem Baubetriebshof der TWB 10.900 Blumenzwiebeln in Hilgen gepflanzt. Die Aktion gehört zur kreisweiten Initiative „Rhein-Berg blüht auf!“. Mehr als 112.000 Zwiebeln wurden bereits gespendet – wer noch mitmacht.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/10-900-blumenzwiebeln-in-burscheid-gepflanzt-schueler-schaffen-insektenparadies-JPO263FKUZEBFG6YK3TID5OKCE.html",
+    "published": "Sat, 07 Nov 2026 05:00:01 +0100",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-07T05:16:08.295070",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
     "id": "17bfc8651735",
     "title": "Tafel-Mitarbeitende leisten eine Menge: Sie brauchen aber ein neues Domizil",
     "summary": "Die Containerbauten an der Feuerwache sind in die Jahre gekommen. Aber der Umzug lässt auf sich warten.",
@@ -2172,7 +2187,8 @@
     "published": "Mon, 02 Nov 2026 10:41:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "bergisch-gladbach"
+      "bergisch-gladbach",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-03T03:15:33.657571",
     "feed_kommunen": []
