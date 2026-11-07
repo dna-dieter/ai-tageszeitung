@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Kork & Kante Hausmesse",
-    "datum": "7. Nov 2026",
-    "datum_raw": "2026-11-07T11:00:00+01:00",
-    "ort": "Altenberger Hof, Eugen-Heinen-Platz 7, 51519 Odenthal",
-    "preis": "ab 10 €",
-    "link": "https://korkundkante.de/products/kork-kante-hausmesse-im-altenberger-hof",
-    "quelle": "Das Bergische",
-    "teaser": "Am 7. und 8. November 2026 laden wir euch zu unserer ersten Kork & Kante Hausmesse in den Altenberger Hof ein. Trefft 15 bis 20 Winzerinnen und Winzer persönlich, hört die Geschichten hinter ihren Weinen und probiert euc"
-  },
-  {
     "titel": "OVH Domkonzert in Altenberg",
     "datum": "7. Nov 2026",
     "datum_raw": "2026-11-07T14:00:00+01:00",
@@ -58,6 +48,16 @@
     "link": "http://www.bergischerloewe.de/programmdetails.aspx?vid=84e229ce-a83f-4d81-8941-a0128b00a7c6&datum=07.11.2026",
     "quelle": "Das Bergische",
     "teaser": "Ihre Lebenserfahrung, Neugier und Spielfreude hat nicht mal Platz in einem ganzen Schrank. Nie oder lange nicht mehr Gehörtes mischt sich mit Bewährtem und Neuem. Die langjährigen Weggefährten sind: der fantastische Frie"
+  },
+  {
+    "titel": "Kork & Kante Hausmesse",
+    "datum": "8. Nov 2026",
+    "datum_raw": "2026-11-08T12:00:00+01:00",
+    "ort": "Altenberger Hof, Eugen-Heinen-Platz 7, 51519 Odenthal",
+    "preis": "ab 10 €",
+    "link": "https://korkundkante.de/products/kork-kante-hausmesse-im-altenberger-hof",
+    "quelle": "Das Bergische",
+    "teaser": "Am 7. und 8. November 2026 laden wir euch zu unserer ersten Kork & Kante Hausmesse in den Altenberger Hof ein. Trefft 15 bis 20 Winzerinnen und Winzer persönlich, hört die Geschichten hinter ihren Weinen und probiert euc"
   },
   {
     "titel": "Handwerker-Vorführung: Weben mit bergischen Weberinnen",
