@@ -1,5 +1,20 @@
 [
   {
+    "id": "067bb70975af",
+    "title": "Schul-Liebe auf den zweiten Blick",
+    "summary": "An Schulen in Wermelskirchen arbeiten zunehmend auch Quer- und Seiteneinsteiger. Die Erfahrungen sind unterschiedlich – entscheidend sind Motivation, Eignung und Begleitung. Bei Philipp Naumann ...",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/schul-liebe-auf-den-zweiten-blick-XHTNFOYU3DFWFFYQHZJD6E4QRA.html",
+    "published": "Sat, 07 Nov 2026 07:55:00 +0100",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-11-07T08:16:07.967547",
+    "feed_kommunen": [
+      "wermelskirchen"
+    ]
+  },
+  {
     "id": "d523c119ecbe",
     "title": "10.900 Blumenzwiebeln in Burscheid gepflanzt – Schüler schaffen Insektenparadies",
     "summary": "Schülerinnen und Schüler aus Burscheid haben gemeinsam mit dem Baubetriebshof der TWB 10.900 Blumenzwiebeln in Hilgen gepflanzt. Die Aktion gehört zur kreisweiten Initiative „Rhein-Berg blüht auf!“. Mehr als 112.000 Zwiebeln wurden bereits gespendet – wer noch mitmacht.",
@@ -2187,8 +2202,7 @@
     "published": "Mon, 02 Nov 2026 10:41:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "bergisch-gladbach",
-      "kreisweite-nachrichten"
+      "bergisch-gladbach"
     ],
     "fetched": "2026-11-03T03:15:33.657571",
     "feed_kommunen": []
