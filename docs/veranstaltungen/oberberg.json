@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Nachts im Museum",
-    "datum": "6. Nov 2026",
-    "datum_raw": "2026-11-06T17:00:00+01:00",
-    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
-    "preis": "ab 6 €",
-    "link": "http://www.schloss-homburg.de/cms200schloss/veranstaltung/374152/index.shtml.de",
-    "quelle": "Das Bergische",
-    "teaser": "Wenn es draußen dunkel wird schalten wir die Taschenlampen an und gehen auf Entdeckungstour durchs dunkle Schloss und die große PLAYMOBIL Ausstellung. Warum waren die Betten früher eigentlich so klein? Ist es gemütlich i"
-  },
-  {
     "titel": "Halloween entgruselt",
     "datum": "7. Nov 2026",
     "datum_raw": "2026-11-07T09:00:00+01:00",
@@ -58,6 +48,16 @@
     "link": "https://www.waldheim-doerspetal.de/veranstaltungen/kranzweise261107",
     "quelle": "Das Bergische",
     "teaser": "Aus Zapfen, Bucheckern, Nüssen, Eicheln und ausgewählten Gewürzen wollen wir gemeinsam stimmungsvolle Kränze für die Winterzeit binden. Angeleitet wird der Nachmittag von Hille Oberbüscher von kranzweise. Vorkenntnisse s"
+  },
+  {
+    "titel": "Nachts im Museum",
+    "datum": "7. Nov 2026",
+    "datum_raw": "2026-11-07T17:00:00+01:00",
+    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
+    "preis": "ab 6 €",
+    "link": "http://www.schloss-homburg.de/cms200schloss/veranstaltung/374152/index.shtml.de",
+    "quelle": "Das Bergische",
+    "teaser": "Wenn es draußen dunkel wird schalten wir die Taschenlampen an und gehen auf Entdeckungstour durchs dunkle Schloss und die große PLAYMOBIL Ausstellung. Warum waren die Betten früher eigentlich so klein? Ist es gemütlich i"
   },
   {
     "titel": "Kerzenscheinkonzert",
