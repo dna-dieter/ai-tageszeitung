@@ -1,5 +1,20 @@
 [
   {
+    "id": "17bfc8651735",
+    "title": "Tafel-Mitarbeitende leisten eine Menge: Sie brauchen aber ein neues Domizil",
+    "summary": "Die Containerbauten an der Feuerwache sind in die Jahre gekommen. Aber der Umzug lässt auf sich warten.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/tafel-mitarbeitende-leisten-eine-menge-sie-brauchen-aber-ein-neues-domizil-FIOBNQ4OEZFANFABGUQTQ5BEWQ.html",
+    "published": "Sat, 07 Nov 2026 03:00:00 +0100",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-11-07T03:15:59.296698",
+    "feed_kommunen": [
+      "wermelskirchen"
+    ]
+  },
+  {
     "id": "c07a95735dc2",
     "title": "Die Opfer der NS-Herrschaft in Bergisch Gladbach",
     "summary": "Verfolgung, Deportation, Zwangsarbeit, Widerstand und Krieg in Bergisch Gladbach und Bensberg – Gastautor Tomás M. Santillán führt die Bruchstücke einer immer noch nicht vollständig aufgearbeiteten Geschichte zusammen.",
@@ -2157,7 +2172,8 @@
     "published": "Mon, 02 Nov 2026 10:41:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "bergisch-gladbach"
+      "bergisch-gladbach",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-03T03:15:33.657571",
     "feed_kommunen": []
