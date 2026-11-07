@@ -1,5 +1,18 @@
 [
   {
+    "id": "97de78c3f89e",
+    "title": "„Das Publikum in Köln ist wunderbar“: Fumagalli-Clowns kehren zum Kölner Weihnachtscircus zurück",
+    "summary": "Zuletzt waren die weltberühmten Clowns aus Italien vor zwei Jahren beim Weihnachtscircus.",
+    "link": "https://www.ksta.de/koeln/koeln-fumagalli-clowns-kehren-zum-weihnachtscircus-zurueck-1409231",
+    "published": "Sat, 07 Nov 2026 12:02:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-07T12:18:20.073393",
+    "feed_kommunen": []
+  },
+  {
     "id": "1d37f2662d6a",
     "title": "Demo-Stadt Köln: Fast 40 Versammlungen pro Woche – und es werden immer mehr",
     "summary": "Wir erklären, warum es in Köln immer mehr Demos gibt und wer am meisten darunter leidet.",
@@ -36,6 +49,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-07T09:18:21.374645",
+    "feed_kommunen": []
+  },
+  {
+    "id": "0d800169e683",
+    "title": "Schließung geplant: Beim Römisch-Germanischen Museum droht eine Blamage erster Güte",
+    "summary": "Das Haushaltsbündnis hat den Widerstand aus Kultur und Wissenschaft unterschätzt. Noch lässt sich das korrigieren.",
+    "link": "https://www.ksta.de/koeln/koeln-beim-roemisch-germanischen-museum-droht-eine-blamage-1410913",
+    "published": "Sat, 07 Nov 2026 06:03:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-07T12:18:20.073462",
     "feed_kommunen": []
   },
   {

@@ -1,5 +1,18 @@
 [
   {
+    "id": "c8999c0c5099",
+    "title": "Poppig, originell und vielfältig",
+    "summary": "Wiehl – In diesem Jahr gibt es beim Jugendkulturpreis des Netzwerks gegen Rechts sogar vier Preisträger.",
+    "link": "http://www.oberberg-aktuell.de/junge-leute/poppig--originell-und-vielfaeltig-a-140092",
+    "published": "Sat, 07 Nov 2026 12:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-07T12:17:20.068225",
+    "feed_kommunen": []
+  },
+  {
     "id": "459f40942e1f",
     "title": "„Todsicher“ zum Lachen und Nachdenken",
     "summary": "Bergneustadt – Das Schauspielhaus zeigt die Komödie „Todsicher“ von und mit Rita Winter über Leben, Tod und alles dazwischen.",
@@ -77,6 +90,19 @@
       "nuembrecht"
     ],
     "fetched": "2026-11-07T01:18:06.347151",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5083d27a19e8",
+    "title": "Schönenbach kommt in Nümbrecht unter die Räder",
+    "summary": "​​​​​​​Oberberg – Im Landesligaderby am Freitagabend setzte sich der SSV Homburg-Nümbrecht deutlich gegen den SV Schönenbach durch – Nach ausgeglichener erster Hälfte verlor der Gast, der mit einigen kurzfristig verpflichteten Neuzugängen auflief, nach dem Wechsel den Faden (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/fussball/sch--nenbach-kommt-in-n--mbrecht-unter-die-r--der-a-140083",
+    "published": "Sat, 07 Nov 2026 01:15:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-07T12:17:20.068838",
     "feed_kommunen": []
   },
   {
