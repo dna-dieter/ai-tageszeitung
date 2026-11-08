@@ -1,5 +1,36 @@
 [
   {
+    "id": "a5bf4421c38c",
+    "title": "Überforderte Wiehler holen sich die nächste Klatsche ab",
+    "summary": "Oberberg - Blau-Weiß Köln war für das Kellerkind aus Wiehl zu stark - Die Sparkasse Gummersbach präsentiert die Landesliga.",
+    "link": "http://www.oberberg-aktuell.de/fussball/--berforderte-wiehler-holen-sich-die-n--chste-klatsche-ab-a-140135",
+    "published": "Sun, 08 Nov 2026 22:25:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach",
+      "wiehl"
+    ],
+    "fetched": "2026-11-08T23:17:25.850708",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2793c1f10947",
+    "title": "Klaswipper düpiert Lindlar II mit einem halben Dutzend",
+    "summary": "Oberberg - Der TVK besiegt die TuS-Reserve deutlich - Nullnummer im Topspiel - Bröltal biegt 0:2-Rückstand um - Nümbrecht II schlägt Waldbröl - Neustadt mit Déjà-vu gegen Immekeppel - Bielstein luchst Derschlag einen Zähler ab - Misslungene Miller-Premiere in Marienhagen - Marienheide geht in Biesfeld unter (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/fussball/klaswipper-d--piert-lindlar-ii-mit-einem-halben-dutzend-a-140127",
+    "published": "Sun, 08 Nov 2026 22:15:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar",
+      "nuembrecht",
+      "waldbroel",
+      "marienheide",
+      "wiehl"
+    ],
+    "fetched": "2026-11-08T23:17:25.850980",
+    "feed_kommunen": []
+  },
+  {
     "id": "38c85dca8bf9",
     "title": "Weiershagen zieht den Kopf aus der Schlinge - BV 09 besiegt das Überraschungsteam",
     "summary": "Oberberg - Staffel 3: Dramatisches Duell zwischen Frömmersbach und Weiershagen endet remis, Drabenderhöhe hält sich auch gegen Schnellenbach schadlos - Staffel 2: Wippefeld stürmt mit Schützenfest gegen Frielingsdorf II an die Spitze - 'Sportsbar Lutter' präsentiert die Kreisliga B (AKTUALISIERT).",
@@ -42,20 +73,6 @@
       "nuembrecht"
     ],
     "fetched": "2026-11-08T19:17:12.830240",
-    "feed_kommunen": []
-  },
-  {
-    "id": "c6993632301b",
-    "title": "Überforderte Wiehler holen sich die nächste Klatsche ab",
-    "summary": "Oberberg - Blau-Weiß Köln war für das Kellerkind zu stark - Die Sparkasse Gummersbach präsentiert die Landesliga.",
-    "link": "http://www.oberberg-aktuell.de/fussball/landesliga---------a-140135",
-    "published": "Sun, 08 Nov 2026 18:05:00 +0100",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "wiehl",
-      "gummersbach"
-    ],
-    "fetched": "2026-11-08T18:17:22.232484",
     "feed_kommunen": []
   },
   {

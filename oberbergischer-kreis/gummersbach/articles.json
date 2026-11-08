@@ -1,5 +1,34 @@
 [
   {
+    "id": "2e99845749b9",
+    "title": "Vierte Niederlage in Folge: Gummersbach verschärft Nümbrechts Krise",
+    "summary": "Oberberg - Der SSV macht im Oberliga-Derby in Gummersbach zu viele Fehler - Die Negativserie der Löwen setzt sich fort: Das Basic-Team wartet nach Niederlage in Bardenberg weiter auf den ersten Sieg - 'Sportsbar Lutter' präsentiert die Handball-Oberliga (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/handball/hbol---------a-140109",
+    "published": "Sun, 08 Nov 2026 22:30:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach",
+      "nuembrecht",
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-08T23:17:25.850536",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a5bf4421c38c",
+    "title": "Überforderte Wiehler holen sich die nächste Klatsche ab",
+    "summary": "Oberberg - Blau-Weiß Köln war für das Kellerkind aus Wiehl zu stark - Die Sparkasse Gummersbach präsentiert die Landesliga.",
+    "link": "http://www.oberberg-aktuell.de/fussball/--berforderte-wiehler-holen-sich-die-n--chste-klatsche-ab-a-140135",
+    "published": "Sun, 08 Nov 2026 22:25:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach",
+      "wiehl"
+    ],
+    "fetched": "2026-11-08T23:17:25.850708",
+    "feed_kommunen": []
+  },
+  {
     "id": "b762853f515e",
     "title": "3. Tattoo Convention Gummersbach in der Halle 32: Was ein Tattoo kostet und wo es am meisten wehtut",
     "summary": "Rund 60 Tätowierer bei der 3. Tattoo Convention Gummersbach in der Halle 32: 150 Euro die Stunde oder ein Preis nach Aufwand, Modern Tribal als Trend und die Stellen, an denen es am meisten wehtut.",
@@ -10,20 +39,6 @@
       "gummersbach"
     ],
     "fetched": "2026-11-08T22:17:18.251375",
-    "feed_kommunen": []
-  },
-  {
-    "id": "c6993632301b",
-    "title": "Überforderte Wiehler holen sich die nächste Klatsche ab",
-    "summary": "Oberberg - Blau-Weiß Köln war für das Kellerkind zu stark - Die Sparkasse Gummersbach präsentiert die Landesliga.",
-    "link": "http://www.oberberg-aktuell.de/fussball/landesliga---------a-140135",
-    "published": "Sun, 08 Nov 2026 18:05:00 +0100",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "wiehl",
-      "gummersbach"
-    ],
-    "fetched": "2026-11-08T18:17:22.232484",
     "feed_kommunen": []
   },
   {
