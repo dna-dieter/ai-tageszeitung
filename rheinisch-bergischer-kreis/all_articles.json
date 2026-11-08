@@ -1,5 +1,20 @@
 [
   {
+    "id": "629cbfc11354",
+    "title": "IHK-Umfrage in Rhein-Berg: Knapp 40 Prozent der Betriebe wollen Personal abbauen",
+    "summary": "Wie sich die Erwartungen und Personalpläne der Betriebe im Rheinisch-Bergischen Kreis entwickeln, hat die IHK Köln in ihrer Herbstumfrage ermittelt. Bei Investitionen und Personal sieht es schlechter aus als im Frühjahr.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/rheinisch-bergischer-kreis-betriebe-sehen-laut-ihk-lage-schlechter_aid-157808287",
+    "published": "Sun, 08 Nov 2026 13:00:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-08T13:16:09.629250",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
     "id": "817e768843c0",
     "title": "Wermelskirchen: Einbrecher steigen in Einfamilienhaus ein",
     "summary": "Langfinger trieben am Wochenende ihr Unwesen. Tatort war am Samstag eine Immobilie am Maderweg. Die Polizei sucht nun Zeugen.",
@@ -2392,8 +2407,7 @@
     "published": "Mon, 02 Nov 2026 10:41:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "bergisch-gladbach",
-      "kreisweite-nachrichten"
+      "bergisch-gladbach"
     ],
     "fetched": "2026-11-03T03:15:33.657571",
     "feed_kommunen": []

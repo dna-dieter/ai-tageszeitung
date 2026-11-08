@@ -1,5 +1,33 @@
 [
   {
+    "id": "c6bfccacaf49",
+    "title": "Bei besten Bedingungen: Moritz Flader läuft allen davon",
+    "summary": "Marienheide - Der Athlet der LG Gummersbach siegte beim 49. Herbstwaldlauf, in der Frauen-Konkurrenz lag Ricarda Kuhlmann ganz vorne - Skiabteilung des TV Rodt-Müllenbach begrüßte 250 Teilnehmer an der Bruchertalsperre.",
+    "link": "http://www.oberberg-aktuell.de/leichtathletik/herbstwaldlauf---------a-140124",
+    "published": "Sun, 08 Nov 2026 13:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach",
+      "marienheide"
+    ],
+    "fetched": "2026-11-08T13:17:33.205916",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d4686cb7f1a0",
+    "title": "Reichshof: Betrunkener ohne Führerschein überschlägt sich in Allinghausen",
+    "summary": "Unfall in Allinghausen (Reichshof): Ein betrunkener 34-Jähriger ohne Führerschein überschlug sich mit seinem VW Golf auf der L 341. Dazu Autoaufbrüche in Engelskirchen.",
+    "link": "https://www.news-on-tour.de/344891/reichshof-verkehrsunfall-allinghausen/",
+    "published": "Sun, 08 Nov 2026 11:28:59 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "reichshof",
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-08T13:17:26.596887",
+    "feed_kommunen": []
+  },
+  {
     "id": "30d137d8c76d",
     "title": "Nur dank starker Abwehr: Nümbrecht ringt Biefang nieder",
     "summary": "Oberberg - Die Regionalligahandballerinnen des SSV Nümbrecht feiern im Heimspiel gegen den Turnverein Biefang den dritten Saisonsieg - Die HBD Löwen unterliegen dem Tabellenführer TSV Bonn rrh..",
@@ -36,6 +64,19 @@
       "gummersbach"
     ],
     "fetched": "2026-11-08T11:17:36.019012",
+    "feed_kommunen": []
+  },
+  {
+    "id": "789059c79864",
+    "title": "Motorradfahrer fliegt aus der Kurve",
+    "summary": "Wipperfürth – 25-Jähriger verlor die Kontrolle über seine KTM und wurde verletzt.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/motorradfahrer-fliegt-aus-der-kurve-a-140130",
+    "published": "Sun, 08 Nov 2026 10:40:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-08T13:17:33.206459",
     "feed_kommunen": []
   },
   {
