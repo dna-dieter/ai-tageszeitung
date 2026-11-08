@@ -1,5 +1,31 @@
 [
   {
+    "id": "e34a05bcbd03",
+    "title": "Pilotprojekt im EVK: Auszubildende leiten kardiologische Station",
+    "summary": "Wenn Theorie zur Praxis wird: Eine Woche lang leiteten Auszubildende der Quirlsberg Akademie erfolgreich eine kardiologische Station im EVK. Im Pilotprojekt „Schüler leiten eine Station“ übernahmen sie unter Begleitung erfahrener Praxisanleiter den Stationsalltag und versorgten 21 Patientinnen und Patienten.",
+    "link": "https://in-gl.de/2026/11/08/pilotprojekt-im-evk-auszubildende-leiten-kardiologische-station/",
+    "published": "Sun, 08 Nov 2026 15:26:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-08T17:15:38.119217",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9aa0554505ac",
+    "title": "Kreissparkasse Köln fördert Vereine  in Rhein-Berg mit 90.850 Euro",
+    "summary": "90.850 Euro für Vereine und soziale Projekte: Die Sozialstiftung und die Sportstiftung der Kreissparkasse Köln fördern in diesem Jahr 20 soziale Initiativen und 13 Sportvereine im Rheinisch-Bergischen Kreis. Zu den Förderpartnern gehören Die Kette e. V., THERAP e. V., der P&B Sportsclub und der Radsportverein Blitz Hoffnungsthal.",
+    "link": "https://in-gl.de/2026/11/08/kreissparkasse-koeln-foerdert-vereine-in-rhein-berg-mit-90-850-euro/",
+    "published": "Sun, 08 Nov 2026 14:54:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "roesrath"
+    ],
+    "fetched": "2026-11-08T17:15:38.119578",
+    "feed_kommunen": []
+  },
+  {
     "id": "d7423c5e004d",
     "title": "Erst Kreuzfahrtschiff, dann Trauerfeiern – diese Frau hat sich neu erfunden",
     "summary": "Frauke Jürgensen aus Burscheid hat sich immer wieder neu erfunden: Reiseverkehrskauffrau, Kreuzfahrt-Mitarbeiterin – und heute Freie Trauerrednerin. Die 38-Jährige begleitet Menschen in bedeutsamen Lebenssituationen. „Ich halte keine Trauerrede. Ich halte eine Lebensrede“, sagt sie.",
@@ -2465,7 +2491,8 @@
     "published": "Mon, 02 Nov 2026 10:41:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "bergisch-gladbach"
+      "bergisch-gladbach",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-03T03:15:33.657571",
     "feed_kommunen": []

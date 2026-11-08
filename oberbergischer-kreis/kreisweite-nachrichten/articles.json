@@ -1,5 +1,20 @@
 [
   {
+    "id": "6f13ff9c810c",
+    "title": "Wiehler Reserve schießt Morsbach zweistellig ab",
+    "summary": "Oberberg - Staffel 3: Das Schlusslicht kommt mit neuem Trainer auf der Eichhardt unter die Räder - Staffel 2: Agathaberg-Partie abgesagt - 'Sportsbar Lutter' präsentiert die Kreisliga B.",
+    "link": "http://www.oberberg-aktuell.de/fussball/elsenroth-gewinnt-torreiches-abendspiel-a-140034",
+    "published": "Sun, 08 Nov 2026 17:10:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "morsbach",
+      "wiehl",
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-08T17:17:32.982084",
+    "feed_kommunen": []
+  },
+  {
     "id": "e8b2dba8570c",
     "title": "Kreisparteitag der CDU: „Auf geht's“ in den Wahlkampf",
     "summary": "Oberberg - Auf dem Kreisparteitag der CDU Oberberg stimmte Nathanael Liminski, NRW-Minister für Bundes- und Europaangelegenheiten, Internationales sowie Medien und Chef der Staatskanzlei, seine Parteigenossen mit einer eindringlichen Rede auf die Landtagswahl im April 2027 ein.",
@@ -166,19 +181,6 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-05T23:17:07.421653",
-    "feed_kommunen": []
-  },
-  {
-    "id": "7b72d7ba49a8",
-    "title": "Elsenroth gewinnt torreiches Abendspiel",
-    "summary": "Oberberg - Staffel 3: An der Kreuzheide fallen zehn Treffer - 'Sportsbar Lutter' präsentiert die Kreisliga B.",
-    "link": "http://www.oberberg-aktuell.de/fussball/elsenroth-gewinnt-torreiches-abendspiel-a-140034",
-    "published": "Thu, 05 Nov 2026 22:05:00 +0100",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "kreisweite-nachrichten"
-    ],
-    "fetched": "2026-11-05T22:17:23.742443",
     "feed_kommunen": []
   },
   {
