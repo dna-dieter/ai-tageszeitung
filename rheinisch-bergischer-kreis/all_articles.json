@@ -1,5 +1,35 @@
 [
   {
+    "id": "5e6560fed6fd",
+    "title": "Burscheid: So sehen junge Fotografen die Stadt",
+    "summary": "14 junge Fotografen gingen mit ihren Kameras auf Spurensuche. Und hielten die Stadt im Bild fest. Es ist ein Projekt mit der Folkwang Universität der Künste. Jetzt wurde die Ausstellung eröffnet.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/burscheid-so-sehen-junge-fotografen-die-stadt-JQGHU7CUWREZTFOAJVP5G6DSPM.html",
+    "published": "Sun, 08 Nov 2026 13:23:02 +0100",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-08T14:16:05.010038",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
+    "id": "196864f15972",
+    "title": "Aktuelle Zahlen für Leverkusen und Rhein-Berg: Ausbildungsmarkt – Jugendliche und Betriebe finden nicht zusammen",
+    "summary": "Mehr Bewerber, unbesetzte Stellen und rückläufige Vertragszahlen: Die Ausbildungsbilanz 2025/26 zeigt, wie schwierig es für Jugendliche und Unternehmen geworden ist, zueinanderzufinden.",
+    "link": "https://rp-online.de/nrw/staedte/leverkusen/ausbildungsmarkt-jugendliche-und-betriebe-finden-nicht-zusammen_aid-157948157",
+    "published": "Sun, 08 Nov 2026 13:15:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-08T14:16:09.465027",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
     "id": "629cbfc11354",
     "title": "IHK-Umfrage in Rhein-Berg: Knapp 40 Prozent der Betriebe wollen Personal abbauen",
     "summary": "Wie sich die Erwartungen und Personalpläne der Betriebe im Rheinisch-Bergischen Kreis entwickeln, hat die IHK Köln in ihrer Herbstumfrage ermittelt. Bei Investitionen und Personal sieht es schlechter aus als im Frühjahr.",
@@ -86,6 +116,19 @@
     "feed_kommunen": [
       "leichlingen"
     ]
+  },
+  {
+    "id": "0f787a69ef11",
+    "title": "Badminton: TV Refrath verliert hoch beim Deutschen Meister",
+    "summary": "Dass die Aufgabe beim 1. BC Bischmisheim für das Badminton-Team des TV Refrath sehr schwierig werden würde, war für alle Beteiligten keine große Überraschung. Letztlich holte der Deutsche Meister beim 6:1 einen „Dreier“ und der TVR ging leer aus.",
+    "link": "https://in-gl.de/2026/11/08/badminton-tv-refrath-verliert-hoch-beim-deutschen-meister/",
+    "published": "Sun, 08 Nov 2026 06:14:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-08T14:15:35.663371",
+    "feed_kommunen": []
   },
   {
     "id": "dc015b96b77d",
@@ -2407,7 +2450,8 @@
     "published": "Mon, 02 Nov 2026 10:41:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "bergisch-gladbach"
+      "bergisch-gladbach",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-03T03:15:33.657571",
     "feed_kommunen": []

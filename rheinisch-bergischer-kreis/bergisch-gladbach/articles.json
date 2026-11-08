@@ -13,6 +13,19 @@
     "feed_kommunen": []
   },
   {
+    "id": "0f787a69ef11",
+    "title": "Badminton: TV Refrath verliert hoch beim Deutschen Meister",
+    "summary": "Dass die Aufgabe beim 1. BC Bischmisheim für das Badminton-Team des TV Refrath sehr schwierig werden würde, war für alle Beteiligten keine große Überraschung. Letztlich holte der Deutsche Meister beim 6:1 einen „Dreier“ und der TVR ging leer aus.",
+    "link": "https://in-gl.de/2026/11/08/badminton-tv-refrath-verliert-hoch-beim-deutschen-meister/",
+    "published": "Sun, 08 Nov 2026 06:14:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-08T14:15:35.663371",
+    "feed_kommunen": []
+  },
+  {
     "id": "969a32a4f4a7",
     "title": "Einbrüche in Bergisch Gladbach: Vier Einbruchsdelikte an einem Tag – Täter in drei Stadtteilen erfolgreich",
     "summary": "Vier Einbrüche an einem Tag in Bergisch Gladbach: Unbekannte hebelten Fenster auf, durchsuchten Häuser und stahlen Schmuck.",
@@ -639,7 +652,8 @@
     "published": "Mon, 02 Nov 2026 10:41:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "bergisch-gladbach"
+      "bergisch-gladbach",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-03T03:15:33.657571",
     "feed_kommunen": []
