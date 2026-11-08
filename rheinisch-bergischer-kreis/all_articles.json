@@ -1,5 +1,50 @@
 [
   {
+    "id": "c8465e56c0c3",
+    "title": "Wermelskirchen: Spritztour mit E-Scooter unter Alkoholeinfluss",
+    "summary": "Erwischt: Am Bahnhof wollte eine 37-Jährige eine Probefahrt mit einem Elektroroller machen. Doch sie hatte die Rechnung nicht mit der Polizei gemacht. Das ist passiert.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/wermelskirchen-spritztour-mit-e-scooter-unter-alkoholeinfluss-364POXYD3ZGJLL7V3BV3O4QQTM.html",
+    "published": "Sun, 08 Nov 2026 10:12:44 +0100",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-11-08T10:16:02.538868",
+    "feed_kommunen": [
+      "wermelskirchen"
+    ]
+  },
+  {
+    "id": "811b8c7bb366",
+    "title": "Ein Samstag der offenen Türen: In der Wermelskirchener Innenstadt ist eine Menge los",
+    "summary": "Zirkus, Torten, Musik: Schon am Samstagnachmittag gab es in Wermelskirchen viel zu entdecken, bis alles dann am Abend in die Musiknacht mündete. So war es.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/ein-samstag-der-offenen-tueren-in-der-wermelskirchener-innenstadt-ist-eine-menge-los-DEDXO5IQP5CPNPLQ6LCSPV546M.html",
+    "published": "Sun, 08 Nov 2026 09:32:46 +0100",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-11-08T10:16:02.538976",
+    "feed_kommunen": [
+      "wermelskirchen"
+    ]
+  },
+  {
+    "id": "16b57ae54be8",
+    "title": "Traditionsveranstaltung in Leichlingen: Neue Hoffnung fürs Stadtfest",
+    "summary": "Joshua Mers will das Stadtfest nach zwei Auflagen nicht mehr organisieren. Doch Rettung für die Traditionsveranstaltung deutet sich an. In welcher Form? Offen!",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/leichlingen-neue-hoffnung-fuers-stadtfest_aid-157806199",
+    "published": "Sun, 08 Nov 2026 09:30:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-08T10:16:07.563087",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
     "id": "dc015b96b77d",
     "title": "Burscheid: Das sind die schönsten Erinnerungen der Kaltenherberger Heimatfreunde Verein Kultur",
     "summary": "Theater spielen sie seit Corona nicht mehr. Doch die Erinnerungen an die Vereinszeit, die bleiben. Jetzt trafen sich 20 Ehemalige wieder. So war es – und so lebt zumindest die Mundart weiter.",
@@ -2319,8 +2364,7 @@
     "published": "Mon, 02 Nov 2026 10:41:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "bergisch-gladbach",
-      "kreisweite-nachrichten"
+      "bergisch-gladbach"
     ],
     "fetched": "2026-11-03T03:15:33.657571",
     "feed_kommunen": []

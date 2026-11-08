@@ -1,5 +1,85 @@
 [
   {
+    "id": "ae20cb6a7bf6",
+    "title": "Remscheid Radevormwald: Ein Strahlen im Dunkeln: Laternen verwandeln Wuppertalsperre in romantisches Lichtermeer",
+    "summary": "Die Remscheider DLRG-Jugend hatte sich zu St. Martin etwas Besonderes ausgedacht: Sie hatte zum Laternenumzug aufs Wasser eingeladen. Erst wanderte die leuchtende Schar über das Areal, dann ging es auf die Boote. Wir zeigen die schönsten Fotos.",
+    "link": "https://www.rga.de/lokales/remscheid/remscheid-radevormwald-ein-strahlen-im-dunkeln-laternen-verwandeln-wuppertalsperre-in-romantisches-MISMDKCGSVAHHAGRBP5JCNHYBE.html",
+    "published": "Sun, 08 Nov 2026 10:00:08 +0100",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-11-08T10:17:02.455739",
+    "feed_kommunen": [
+      "radevormwald"
+    ]
+  },
+  {
+    "id": "7f328f9d2b1c",
+    "title": "\"Kamelle\" und fliegende Bienen",
+    "summary": "Bergneustadt - Beim 22. Drachenfest auf dem Dümpel kommen kleine und große Drachenfans auf ihre Kosten – Auch heute lädt der Luftsport-Club zum Besuch auf dem Flugplatz ein.",
+    "link": "http://www.oberberg-aktuell.de/bergneustadt/fliegende-bienen-und-s----igkeitsregen-a-140126",
+    "published": "Sun, 08 Nov 2026 09:55:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-11-08T10:17:06.225553",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8460b2d5981b",
+    "title": "POL-GM: Mehrere Autos in Engelskirchen aufgebrochen",
+    "summary": "Engelskirchen (ots) - Zwischen Freitag (6. November) und Samstag wurden in Remerscheid und Wahlscheid insgesamt fünf abgestellte Autos von Kriminellen angegangen. In Remerscheid und Wahlscheid schlugen die Unbekannten am Samstag, zwischen 2:30 Uhr ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6386143",
+    "published": "Sun, 08 Nov 2026 09:43:48 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-08T10:17:04.946157",
+    "feed_kommunen": []
+  },
+  {
+    "id": "046dda827cfa",
+    "title": "POL-GM: Motorradfahrer bei Verkehrsunfall verletzt",
+    "summary": "Wipperfürth (ots) - Leichte Verletzungen zog sich am Freitag (6. November) ein Motorradfaher in Wipperfürth zu. Der 25-jährige Remscheider war mit seiner KTM gegen 15:25 Uhr auf der K 18 von Oberflosbach in Richtung der L 284 unterwegs. Im ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6386142",
+    "published": "Sun, 08 Nov 2026 09:41:30 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-08T10:17:04.946291",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9dec627aed68",
+    "title": "POL-GM: Betrunken mit Auto überschlagen",
+    "summary": "Reichshof (ots) - Bei einem Verkehrsunfall in Allinghausen wurde am Samstagnachmittag (7. November) ein Autofahrer schwer verletzt. Der 34-Jährige aus Reichshof war gegen 16:30 Uhr mit seinem VW Golf auf der L 341 von Allenbach in Richtung Hunsheim ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6386141",
+    "published": "Sun, 08 Nov 2026 09:40:37 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "reichshof"
+    ],
+    "fetched": "2026-11-08T10:17:04.946412",
+    "feed_kommunen": []
+  },
+  {
+    "id": "34a35acf5eaa",
+    "title": "(Update) Weihnachtszelt 23 Gummersbach: Start am 13. November – Eisstockschießen im Stadtgarten",
+    "summary": "Update: Am Freitag, 13. November, öffnet das Weihnachtszelt 23 im Gummersbacher Stadtgarten. Dazu die Spielregeln für die Eisstockbahnen; Preise, Öffnungszeiten und Feiertagszeiten bleiben unverändert.",
+    "link": "https://www.news-on-tour.de/241966/gummersbach-weihnachtszelt-eisstock/",
+    "published": "Sun, 08 Nov 2026 08:32:47 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-08T10:17:00.869771",
+    "feed_kommunen": []
+  },
+  {
     "id": "49990d752b38",
     "title": "Graureiher",
     "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
@@ -15785,18 +15865,6 @@
       "bergneustadt"
     ],
     "fetched": "2026-09-13T06:00:33.311290"
-  },
-  {
-    "id": "469092f3c13f",
-    "title": "Gummersbach: Weihnachtszelt 23 startet – Eisstockschießen im Stadtgarten",
-    "summary": "Ab 13. November gibt es im Stadtgarten Glühwein, Speisen, Eisstockschießen, reservierbare Tische und feste Sonderzeiten an Feiertagen.",
-    "link": "https://www.news-on-tour.de/241966/gummersbach-weihnachtszelt-eisstock/",
-    "published": "Sun, 13 Sep 2026 00:53:20 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach"
-    ],
-    "fetched": "2026-09-13T06:00:33.311317"
   },
   {
     "id": "49ad965ddd42",
@@ -45041,6 +45109,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-07T18:17:20.875072",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "d74998e8b7d6",
+    "title": "Bluesrock-Tribute im Burghaus",
+    "summary": "Die Musik von Eric Clapton ist besonders – Bluesrock, der Geschichte schrieb. Sein einzigartiger Sound und seine unverwechselbare Spielweise berühren Generationen von Musikliebhabern und haben ihn zu einem der einflussreichsten Musiker der Rockgeschichte gemacht.",
+    "link": "https://www.wiehl.de/aktuelles/bilderserien/9602-bluesrock_tribute-im-burghaus.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-08T10:17:08.931711",
     "feed_kommunen": [
       "wiehl"
     ]
