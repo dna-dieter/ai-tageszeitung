@@ -15,6 +15,19 @@
     ]
   },
   {
+    "id": "8956ba669911",
+    "title": "SV 09 führt hoch und verliert dennoch gegen Bocholt",
+    "summary": "Eine starke erste Halbzeit mit drei Treffern reicht nicht: Nach einer komfortablen Führung muss sich der SV Bergisch Gladbach 09 dem 1. FC Bocholt nach einer dramatischer Schlussphase geschlagen geben.",
+    "link": "https://in-gl.de/2026/11/08/sv-09-fuehrt-hoch-und-verliert-dennoch-gegen-bocholt/",
+    "published": "Sun, 08 Nov 2026 09:14:20 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-08T12:15:35.774245",
+    "feed_kommunen": []
+  },
+  {
     "id": "c8465e56c0c3",
     "title": "Wermelskirchen: Spritztour mit E-Scooter unter Alkoholeinfluss",
     "summary": "Erwischt: Am Bahnhof wollte eine 37-Jährige eine Probefahrt mit einem Elektroroller machen. Doch sie hatte die Rechnung nicht mit der Polizei gemacht. Das ist passiert.",
@@ -2379,7 +2392,8 @@
     "published": "Mon, 02 Nov 2026 10:41:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "bergisch-gladbach"
+      "bergisch-gladbach",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-03T03:15:33.657571",
     "feed_kommunen": []
