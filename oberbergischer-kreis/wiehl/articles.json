@@ -1,5 +1,19 @@
 [
   {
+    "id": "c6993632301b",
+    "title": "Überforderte Wiehler holen sich die nächste Klatsche ab",
+    "summary": "Oberberg - Blau-Weiß Köln war für das Kellerkind zu stark - Die Sparkasse Gummersbach präsentiert die Landesliga.",
+    "link": "http://www.oberberg-aktuell.de/fussball/landesliga---------a-140135",
+    "published": "Sun, 08 Nov 2026 18:05:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-08T18:17:22.232484",
+    "feed_kommunen": []
+  },
+  {
     "id": "6f13ff9c810c",
     "title": "Wiehler Reserve schießt Morsbach zweistellig ab",
     "summary": "Oberberg - Staffel 3: Das Schlusslicht kommt mit neuem Trainer auf der Eichhardt unter die Räder - Staffel 2: Agathaberg-Partie abgesagt - 'Sportsbar Lutter' präsentiert die Kreisliga B.",
@@ -8,8 +22,7 @@
     "source": "Oberberg-Aktuell",
     "kommunen": [
       "morsbach",
-      "wiehl",
-      "kreisweite-nachrichten"
+      "wiehl"
     ],
     "fetched": "2026-11-08T17:17:32.982084",
     "feed_kommunen": []
