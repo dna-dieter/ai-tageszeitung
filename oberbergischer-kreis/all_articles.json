@@ -1,5 +1,18 @@
 [
   {
+    "id": "8469175d4948",
+    "title": "„Ein kurzes Durchatmen“",
+    "summary": "Bergneustadt – Der TTC Schwalbe Bergneustadt verschafft sich mit einem 3:1-Auswärtssieg in Bad Königshofen etwas Luft im Tabellenkeller.",
+    "link": "http://www.oberberg-aktuell.de/sportmix/ttbl---------a-140148",
+    "published": "Sun, 08 Nov 2026 23:20:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-11-09T00:17:08.429251",
+    "feed_kommunen": []
+  },
+  {
     "id": "2e99845749b9",
     "title": "Vierte Niederlage in Folge: Gummersbach verschärft Nümbrechts Krise",
     "summary": "Oberberg - Der SSV macht im Oberliga-Derby in Gummersbach zu viele Fehler - Die Negativserie der Löwen setzt sich fort: Das Basic-Team wartet nach Niederlage in Bardenberg weiter auf den ersten Sieg - 'Sportsbar Lutter' präsentiert die Handball-Oberliga (AKTUALISIERT).",
@@ -8,8 +21,7 @@
     "source": "Oberberg-Aktuell",
     "kommunen": [
       "gummersbach",
-      "nuembrecht",
-      "kreisweite-nachrichten"
+      "nuembrecht"
     ],
     "fetched": "2026-11-08T23:17:25.850536",
     "feed_kommunen": []
