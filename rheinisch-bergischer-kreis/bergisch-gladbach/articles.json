@@ -1,5 +1,44 @@
 [
   {
+    "id": "f947c66e633a",
+    "title": "Loverboys: „Das passiert auch bei uns!“",
+    "summary": "Wenn vermeintliche Liebe zur Falle wird: Ein bewegender Informationsabend in der Integrierten Gesamtschule Paffrath machte deutlich, wie nah die Gefahr durch Loverboys und sexuelle Ausbeutung auch hier vor Ort ist – und warum Wegsehen keine Option sein darf.",
+    "link": "https://in-gl.de/2026/11/08/loverboys-das-passiert-auch-bei-uns/",
+    "published": "Sun, 08 Nov 2026 17:20:05 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-08T19:15:35.889404",
+    "feed_kommunen": []
+  },
+  {
+    "id": "bb5f8448ff75",
+    "title": "„Ungefiltert?“: 30 Künstler:innen laden zum Wechsel der Perspektive ein",
+    "summary": "Wie prägen Erfahrungen, Gefühle und Werte unseren Blick auf Kunst? Mit dieser Frage beschäftigen sich 30 Künstler*innen in der Herbstausstellung des Arbeitskreises der Künstler Bergisch Gladbach. Ihre Werke sind unter dem Titel „UNGEFILTERT?“ in der VHS zu sehen.",
+    "link": "https://in-gl.de/2026/11/08/ungefiltert-30-kuenstlerinnen-laden-zum-wechsel-der-perspektive-ein/",
+    "published": "Sun, 08 Nov 2026 16:34:28 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-08T19:15:35.889564",
+    "feed_kommunen": []
+  },
+  {
+    "id": "177683529dbc",
+    "title": "VHS und Women’s Hub schaffen neues Angebot für Frauen von Frauen",
+    "summary": "Gemeinsam Frauen stärken: Unter diesem Motto starten der Bergische Women’s Hub e.V. und die VHS Bergisch Gladbach eine neue Veranstaltungsreihe. Ab dem 3. Dezember stehen sieben Workshops und Vorträge in der VHS auf dem Programm, die Frauen in verschiedenen Lebens- und Berufsphasen begleiten, stärken und vernetzen.",
+    "link": "https://in-gl.de/2026/11/08/vhs-und-womens-hub-schaffen-neues-angebot-fuer-frauen-von-frauen/",
+    "published": "Sun, 08 Nov 2026 16:15:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-08T19:15:35.889724",
+    "feed_kommunen": []
+  },
+  {
     "id": "8956ba669911",
     "title": "SV 09 führt hoch und verliert dennoch gegen Bocholt",
     "summary": "Eine starke erste Halbzeit mit drei Treffern reicht nicht: Nach einer komfortablen Führung muss sich der SV Bergisch Gladbach 09 dem 1. FC Bocholt nach einer dramatischer Schlussphase geschlagen geben.",
@@ -652,7 +691,8 @@
     "published": "Mon, 02 Nov 2026 10:41:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "bergisch-gladbach"
+      "bergisch-gladbach",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-03T03:15:33.657571",
     "feed_kommunen": []

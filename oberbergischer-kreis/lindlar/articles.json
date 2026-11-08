@@ -1,15 +1,33 @@
 [
   {
-    "id": "9920754c7e88",
-    "title": "Ersatzgeschwächte Lindlarer können Niederlagenserie nicht stoppen",
-    "summary": "Oberberg - Das Bezirksliga-Schlusslicht verliert das Freitagabend-Spiel beim SV Bergfried Leverkusen, konnte die Partie aber lange Zeit offenhalten - Letztlich fehlten die offensiven Mittel.",
+    "id": "d5fdd4848216",
+    "title": "Schmidts Elfer sorgt für Beruhigung - VfR zeigt großes Herz",
+    "summary": "Oberberg - Frielingsdorf entführt drei Punkte aus Köln - Grippegeschwächte Wipperfürther trotzen Jan Wellem ein Remis ab - Lindlar unterlag bereits am Freitagabend dem SV Bergfried Leverkusen (AKTUALISIERT).",
     "link": "http://www.oberberg-aktuell.de/fussball/ersatzgeschw--chte-lindlarer-k--nnen-niederlagenserie-nicht-stoppen-a-140076",
-    "published": "Fri, 06 Nov 2026 23:05:00 +0100",
+    "published": "Sun, 08 Nov 2026 18:55:00 +0100",
     "source": "Oberberg-Aktuell",
     "kommunen": [
-      "lindlar"
+      "lindlar",
+      "wipperfuerth"
     ],
-    "fetched": "2026-11-06T23:17:22.864407",
+    "fetched": "2026-11-08T19:17:12.830103",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8300a6894ccd",
+    "title": "Klaswipper überrascht mit halbem Dutzend gegen Lindlar II",
+    "summary": "Oberberg - Der TVK besiegt die TuS-Reserve deutlich - Nullnummer im Topspiel - Bröltal biegt 0:2-Rückstand um - Nümbrecht II schlägt Waldbröl - Neustadt mit Déjà-vu gegen Immekeppel - Bielstein luchst Derschlag einen Zähler ab - Misslungene Miller-Premiere in Marienhagen - Marienheide geht in Biesfeld unter.",
+    "link": "http://www.oberberg-aktuell.de/fussball/kreisliga-a---------a-140127",
+    "published": "Sun, 08 Nov 2026 18:30:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar",
+      "wiehl",
+      "waldbroel",
+      "marienheide",
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-08T19:17:12.830240",
     "feed_kommunen": []
   },
   {
