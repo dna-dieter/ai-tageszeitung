@@ -1,5 +1,20 @@
 [
   {
+    "id": "d7423c5e004d",
+    "title": "Erst Kreuzfahrtschiff, dann Trauerfeiern – diese Frau hat sich neu erfunden",
+    "summary": "Frauke Jürgensen aus Burscheid hat sich immer wieder neu erfunden: Reiseverkehrskauffrau, Kreuzfahrt-Mitarbeiterin – und heute Freie Trauerrednerin. Die 38-Jährige begleitet Menschen in bedeutsamen Lebenssituationen. „Ich halte keine Trauerrede. Ich halte eine Lebensrede“, sagt sie.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/erst-kreuzfahrtschiff-dann-trauerfeiern-diese-frau-hat-sich-neu-erfunden-272MYF4JCFHBDOTBWLXEBONZQ4.html",
+    "published": "Sun, 08 Nov 2026 14:30:00 +0100",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-08T15:16:08.553010",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
     "id": "5e6560fed6fd",
     "title": "Burscheid: So sehen junge Fotografen die Stadt",
     "summary": "14 junge Fotografen gingen mit ihren Kameras auf Spurensuche. Und hielten die Stadt im Bild fest. Es ist ein Projekt mit der Folkwang Universität der Künste. Jetzt wurde die Ausstellung eröffnet.",
@@ -2450,8 +2465,7 @@
     "published": "Mon, 02 Nov 2026 10:41:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "bergisch-gladbach",
-      "kreisweite-nachrichten"
+      "bergisch-gladbach"
     ],
     "fetched": "2026-11-03T03:15:33.657571",
     "feed_kommunen": []
