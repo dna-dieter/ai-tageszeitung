@@ -150,16 +150,6 @@
     "teaser": "Bereits zum zweiten Mal findet dieser kammermusikalische Wettbewerb – einzigartig in NRW – in Schloss Eulenbroich statt. Der Wettbewerb betrifft die Gattung “Kunstlied”, d.h. Vertonungen internationaler Lyrik aus allen K"
   },
   {
-    "titel": "Refrather Weihnachtsdorf",
-    "datum": "16. Nov 2026",
-    "datum_raw": "2026-11-16T15:00:00+01:00",
-    "ort": "Peter Bürling, Peter-Bürling Platz, 51427 Bergisch Gladbach",
-    "preis": "",
-    "link": "https://www.refrather-weihnachtsdorf.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Vom 16. November bis 23. Dezember 2026 öffnet das Refrather Weihnachtsdorf seine Pforten. Feiern und genießen mitten im Herzen Refraths: Euch erwartet ein stimmungsvoller Markt mit kulinarischen Advents-Klassikern und li"
-  },
-  {
     "titel": "Themenführung: Die Papierfabrik und die Familie Zanders",
     "datum": "16. Nov 2026",
     "datum_raw": "2026-11-16T15:00:00+01:00",
@@ -168,6 +158,16 @@
     "link": "https://www.bergischgladbach.de/fuehrungen-zanders-gelaende2.aspx",
     "quelle": "Das Bergische",
     "teaser": "Die barrierefreie Tour konzentriert sich auf die Bedeutung der Unternehmerfamilie Zanders für Bergisch Gladbach. In den geschichtsträchtigen Räumen des repräsentativen Verwaltungsgebäudes von 1905 beleuchtet Stadtführeri"
+  },
+  {
+    "titel": "Refrather Weihnachtsdorf",
+    "datum": "16. Nov 2026",
+    "datum_raw": "2026-11-16T15:00:00+01:00",
+    "ort": "Peter Bürling, Peter-Bürling Platz, 51427 Bergisch Gladbach",
+    "preis": "",
+    "link": "https://www.refrather-weihnachtsdorf.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Vom 16. November bis 23. Dezember 2026 öffnet das Refrather Weihnachtsdorf seine Pforten. Feiern und genießen mitten im Herzen Refraths: Euch erwartet ein stimmungsvoller Markt mit kulinarischen Advents-Klassikern und li"
   },
   {
     "titel": "Prinz Karneval – Alaaf",
@@ -200,16 +200,6 @@
     "teaser": "Der Weihnachtsmarkt in Bergisch Gladbach zentral auf dem Konrad-Adenauer-Platz gehört zu den größten im Rheinisch-Bergischen Kreis. Obwohl viele sagen: „Das ist doch jedes Jahr das Gleiche!“ stimmt es in gewisser Weise, "
   },
   {
-    "titel": "„Femme fatale“ mit dem Cirque Buffon",
-    "datum": "20. Nov 2026",
-    "datum_raw": "2026-11-20T19:00:00+01:00",
-    "ort": "Hotel-Restaurant Wißkirchen, Am Rösberg 2, 51519 Odenthal",
-    "preis": "",
-    "link": "https://www.hotel-wisskirchen.de/das-spiegelzelt-in-altenberg/",
-    "quelle": "Das Bergische",
-    "teaser": "Der Cirque Bouffon gastiert zum 6. Mal mit einer faszinierenden Dinner-Show \"Femme fatale\" im nostalgischen Spiegelzelt in Altenberg. Das internationale Künstlerensemble des Cirque Bouffon verzaubert sein Publikum im Sti"
-  },
-  {
     "titel": "Kölsche Weihnachts Dinnershow",
     "datum": "20. Nov 2026",
     "datum_raw": "2026-11-20T19:00:00+01:00",
@@ -228,6 +218,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Das Motto der sechsten Lesereise \"Bunte Vielfalt trifft schwarzen Humor\" steht für die inhaltliche Bandbreite der vorgestellten Romane von zwei Autorinnen und zwei Autoren der finnischen Literaturszene. Ein knallharter K"
+  },
+  {
+    "titel": "„Femme fatale“ mit dem Cirque Buffon",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T19:00:00+01:00",
+    "ort": "Hotel-Restaurant Wißkirchen, Am Rösberg 2, 51519 Odenthal",
+    "preis": "",
+    "link": "https://www.hotel-wisskirchen.de/das-spiegelzelt-in-altenberg/",
+    "quelle": "Das Bergische",
+    "teaser": "Der Cirque Bouffon gastiert zum 6. Mal mit einer faszinierenden Dinner-Show \"Femme fatale\" im nostalgischen Spiegelzelt in Altenberg. Das internationale Künstlerensemble des Cirque Bouffon verzaubert sein Publikum im Sti"
   },
   {
     "titel": "Gerd J. Pohl liest: Am Abgrund... und einen Schritt weiter",
@@ -250,16 +250,6 @@
     "teaser": "Die Besucher erwartet ein stimmungsvolle Ambiente und eine Vielfalt an regionalem Kunsthandwerk. · Vorführungen des Museumsschmieds, der Spinner und der Weber und der Klang der Drehorgel schaffen eine nostalgische Atmosp"
   },
   {
-    "titel": "Bärbroicher Weihnachtsmarkt",
-    "datum": "21. Nov 2026",
-    "datum_raw": "2026-11-21T15:00:00+01:00",
-    "ort": "Schützenheim in Bärbroich, Ottoherscheid 25, 51429 Bergisch Gladbach",
-    "preis": "",
-    "link": "http://www.dasbergische.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Aus den Reihen der Bärbroicher Karnevalisten und Schützen wird auch in diesem Jahr wieder der schöne und urige Weihnachtsmarkt am Schützenheim veranstaltet. Eintritt : frei Ort: Schützenheim in Bärbroich Veranstalter: Bä"
-  },
-  {
     "titel": "Lichterfest",
     "datum": "21. Nov 2026",
     "datum_raw": "2026-11-21T15:00:00+01:00",
@@ -268,6 +258,16 @@
     "link": "https://www.bergischgladbach.de/veranstaltungen-2025.aspx",
     "quelle": "Das Bergische",
     "teaser": "Mit Lichterglanz und festlicher Stimmung verabschieden wir das Jahr. Unser erleuchtetes Museumsgelände lädt wieder zum Entdecken ein. Neben Handwerks-Vorführungen gibt es Bastelaktionen und Geschichten für Kinder. Für da"
+  },
+  {
+    "titel": "Bärbroicher Weihnachtsmarkt",
+    "datum": "21. Nov 2026",
+    "datum_raw": "2026-11-21T15:00:00+01:00",
+    "ort": "Schützenheim in Bärbroich, Ottoherscheid 25, 51429 Bergisch Gladbach",
+    "preis": "",
+    "link": "http://www.dasbergische.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Aus den Reihen der Bärbroicher Karnevalisten und Schützen wird auch in diesem Jahr wieder der schöne und urige Weihnachtsmarkt am Schützenheim veranstaltet. Eintritt : frei Ort: Schützenheim in Bärbroich Veranstalter: Bä"
   },
   {
     "titel": "Wein & Crime bei Kork & Kante in Bechen",
@@ -650,16 +650,6 @@
     "teaser": "Gönnen Sie sich eine Nacht voller Spannung, Glamour und Spitzenservice: Unsere Casinonacht verwandelt das Hotel in eine erstklassige Spielstätte. Erleben Sie echte Casino-Atmosphäre mit professionellen Croupiers an Poker"
   },
   {
-    "titel": "Silvesterkonzert der Berliner Philharmoniker",
-    "datum": "31. Dez 2026",
-    "datum_raw": "2026-12-31T17:00:00+01:00",
-    "ort": "Cineplex Bensberg, Schlossstr. 46-48, 51429 Bergisch Gladbach",
-    "preis": "",
-    "link": "https://www.cineplex.de/bergisch-gladbach/film/2026-silvesterkonzert-der-berliner-philharmoniker-F0241000012FWBXJYB",
-    "quelle": "Das Bergische",
-    "teaser": "Kann »ernste Musik« humorvoll sein? Unbedingt! Das zeigen die Berliner Philharmoniker und Chefdirigent Kirill Petrenko im Silvesterkonzert 2026: In seiner spritzigen Symphonie classique parodiert Sergej Prokofjew die Mus"
-  },
-  {
     "titel": "Musikalischer Jahresausklang",
     "datum": "31. Dez 2026",
     "datum_raw": "2026-12-31T17:00:00+01:00",
@@ -668,5 +658,15 @@
     "link": "http://www.bergischerloewe.de/programmdetails.aspx?vid=0348fae4-afe2-4919-8053-a9e550556d00&datum=31.12.2026",
     "quelle": "Das Bergische",
     "teaser": "Klassik mit viel Schwung von Wolfgang Amadeus Mozart bis Johann Strauß erleben die Konzertbesucher an diesem Abend. Berühmte Walzer und Polkas der Wiener Strauss Familie stehen im Mittelpunkt des Konzertes. Das Orchester"
+  },
+  {
+    "titel": "Silvesterkonzert der Berliner Philharmoniker",
+    "datum": "31. Dez 2026",
+    "datum_raw": "2026-12-31T17:00:00+01:00",
+    "ort": "Cineplex Bensberg, Schlossstr. 46-48, 51429 Bergisch Gladbach",
+    "preis": "",
+    "link": "https://www.cineplex.de/bergisch-gladbach/film/2026-silvesterkonzert-der-berliner-philharmoniker-F0241000012FWBXJYB",
+    "quelle": "Das Bergische",
+    "teaser": "Kann »ernste Musik« humorvoll sein? Unbedingt! Das zeigen die Berliner Philharmoniker und Chefdirigent Kirill Petrenko im Silvesterkonzert 2026: In seiner spritzigen Symphonie classique parodiert Sergej Prokofjew die Mus"
   }
 ]
