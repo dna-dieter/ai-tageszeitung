@@ -1,5 +1,33 @@
 [
   {
+    "id": "38c85dca8bf9",
+    "title": "Weiershagen zieht den Kopf aus der Schlinge - BV 09 besiegt das Überraschungsteam",
+    "summary": "Oberberg - Staffel 3: Dramatisches Duell zwischen Frömmersbach und Weiershagen endet remis, Drabenderhöhe hält sich auch gegen Schnellenbach schadlos - Staffel 2: Wippefeld stürmt mit Schützenfest gegen Frielingsdorf II an die Spitze - 'Sportsbar Lutter' präsentiert die Kreisliga B (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/fussball/elsenroth-gewinnt-torreiches-abendspiel-a-140034",
+    "published": "Sun, 08 Nov 2026 20:20:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar",
+      "wiehl",
+      "morsbach"
+    ],
+    "fetched": "2026-11-08T21:17:32.141886",
+    "feed_kommunen": []
+  },
+  {
+    "id": "3bef2ce00a8d",
+    "title": "17 Krings-Tore: Bärenstarke Wölfinnen ringen den Primus nieder",
+    "summary": "Oberberg - Wahlscheid jubelt über zwei nicht eingeplante Punkte - Gelpe/Strombach siegt beim Szakacs-Comeback in Witzhelden - Oberwiehl erkämpft sich zwei Zähler gegen Bocklemünd II.",
+    "link": "http://www.oberberg-aktuell.de/handball/hbfvl---------a-140112",
+    "published": "Sun, 08 Nov 2026 20:15:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-08T21:17:32.142053",
+    "feed_kommunen": []
+  },
+  {
     "id": "8300a6894ccd",
     "title": "Klaswipper überrascht mit halbem Dutzend gegen Lindlar II",
     "summary": "Oberberg - Der TVK besiegt die TuS-Reserve deutlich - Nullnummer im Topspiel - Bröltal biegt 0:2-Rückstand um - Nümbrecht II schlägt Waldbröl - Neustadt mit Déjà-vu gegen Immekeppel - Bielstein luchst Derschlag einen Zähler ab - Misslungene Miller-Premiere in Marienhagen - Marienheide geht in Biesfeld unter.",
@@ -28,20 +56,6 @@
       "gummersbach"
     ],
     "fetched": "2026-11-08T18:17:22.232484",
-    "feed_kommunen": []
-  },
-  {
-    "id": "6f13ff9c810c",
-    "title": "Wiehler Reserve schießt Morsbach zweistellig ab",
-    "summary": "Oberberg - Staffel 3: Das Schlusslicht kommt mit neuem Trainer auf der Eichhardt unter die Räder - Staffel 2: Agathaberg-Partie abgesagt - 'Sportsbar Lutter' präsentiert die Kreisliga B.",
-    "link": "http://www.oberberg-aktuell.de/fussball/elsenroth-gewinnt-torreiches-abendspiel-a-140034",
-    "published": "Sun, 08 Nov 2026 17:10:00 +0100",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "morsbach",
-      "wiehl"
-    ],
-    "fetched": "2026-11-08T17:17:32.982084",
     "feed_kommunen": []
   },
   {
