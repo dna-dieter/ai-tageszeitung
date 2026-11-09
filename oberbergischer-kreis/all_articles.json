@@ -1,5 +1,32 @@
 [
   {
+    "id": "255584094c05",
+    "title": "Stehende Ovationen nach einem Abend voller Swing",
+    "summary": "Lindlar – Das Konzert „Sing & Swing“ im Kulturzentrum Lindlar vereinte ein Big-Band-Ensemble mit erfahrenen Jazzprofis.",
+    "link": "http://www.oberberg-aktuell.de/kultur/stehende-ovationen-nach-einem-abend-voller-swing-a-140173",
+    "published": "Mon, 09 Nov 2026 16:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-09T16:17:27.282306",
+    "feed_kommunen": []
+  },
+  {
+    "id": "22df50796df3",
+    "title": "(Update) Oberbergische Bahn: Vilkerath erst 2027 – Bahnhofsarbeiten dauern länger",
+    "summary": "Update: Der Haltepunkt Overath-Vilkerath öffnet laut Deutscher Bahn erst im Frühjahr 2027. Auch in Rösrath, Hoffnungsthal und Ründeroth dauern die Arbeiten länger.",
+    "link": "https://www.news-on-tour.de/206356/oberbergische-bahn-rb25-vilkerath/",
+    "published": "Mon, 09 Nov 2026 14:40:03 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "engelskirchen",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-09T16:17:21.842134",
+    "feed_kommunen": []
+  },
+  {
     "id": "035d896a81bb",
     "title": "Gummersbach: 182 Absolventen an der TH Köln – Rise-Award für drei Beste",
     "summary": "Absolventenfeier am Campus Gummersbach der TH Köln: 182 Abschlüsse im Sommersemester 2026, die drei Besten erhalten den Rise-Award der Firma FERCHAU.",
@@ -23097,18 +23124,6 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-07-28T06:37:14.503280"
-  },
-  {
-    "id": "6c11cad93259",
-    "title": "Oberbergische Bahn: RB 25 startet am 8. August wieder durch",
-    "summary": "Ab 8. August rollt die RB 25 wieder von Köln über Gummersbach nach Lüdenscheid. Der neue Haltepunkt in Vilkerath folgt erst am 13. Dezember.",
-    "link": "https://www.news-on-tour.de/206356/oberbergische-bahn-rb25-vilkerath/",
-    "published": "Tue, 28 Jul 2026 04:39:35 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach"
-    ],
-    "fetched": "2026-07-28T06:37:14.503326"
   },
   {
     "id": "d28bce3e6a78",
