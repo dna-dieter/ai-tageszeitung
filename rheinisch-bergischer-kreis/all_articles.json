@@ -5516,7 +5516,8 @@
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
       "kuerten",
-      "odenthal"
+      "odenthal",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-10-22T23:27:49.435505",
     "feed_kommunen": []
@@ -9203,7 +9204,7 @@
     "published": "Wed, 07 Oct 2026 14:09:45 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "bergisch-gladbach"
     ],
     "fetched": "2026-10-22T20:41:31.723214"
   },
@@ -10088,6 +10089,19 @@
     "fetched": "2026-10-04T18:05:36.495676"
   },
   {
+    "id": "c1e71ae4f9f3",
+    "title": "Mit Nadel und Faden: Neustart der Nähstube in Kürten",
+    "summary": "Im Frühjahr 2026 musste die Nähstube des Fluchtpunkt Kürten schließen – es fehlten eine Führungsperson und ein Raum. Jetzt hat sie einen Neustart in Spitze hingelegt und ist lebendig wie eh und je.",
+    "link": "https://in-gl.de/2026/10/02/mit-nadel-und-faden-neustart-der-naehstube-in-kuerten/",
+    "published": "Fri, 02 Oct 2026 07:46:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kuerten"
+    ],
+    "fetched": "2026-11-09T18:15:40.078144",
+    "feed_kommunen": []
+  },
+  {
     "id": "830c2a13b4eb",
     "title": "POL-RBK: Bergisch Gladbach / Overath - Termine der Kriminalprävention für die kommende Woche",
     "summary": "Bergisch Gladbach / Overath (ots) - Unsere Expertinnen und Experten der Kriminalprävention sind nächste Woche in Bergisch Gladbach und Overath unterwegs, um Bürgerinnen und Bürger des Rheinisch-Bergischen Kreises zu sensibilisieren und mit ihnen ...",
@@ -10294,18 +10308,6 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-10-01T13:02:07.990209"
-  },
-  {
-    "id": "4a1d592fd6da",
-    "title": "Mit Nadel und Faden: Neustart der Nähstube in Kürten",
-    "summary": "m Frühjahr 2026 musste die Nähstube des Fluchtpunkt Kürten schließen – es fehlten eine Führungsperson und ein Raum. Jetzt hat sie einen Neustart in Spitze hingelegt und ist lebendig wie eh und je.",
-    "link": "https://in-gl.de/2026/10/01/mit-nadel-und-faden-neustart-der-naehstube-in-kuerten/",
-    "published": "Thu, 01 Oct 2026 07:46:00 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "kuerten"
-    ],
-    "fetched": "2026-10-01T18:49:20.512666"
   },
   {
     "id": "9eb7cf031156",

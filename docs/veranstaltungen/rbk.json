@@ -40,6 +40,16 @@
     "teaser": "Beim Nature Journaling machen Sie sich mit Stift und Skizzenbuch auf eine kleine Entdeckungsreise in die Natur. Sie halten Pflanzen, Tiere und Pilze in der Umgebung in einfacher Form zeichnerisch und schriftlich fest. Da"
   },
   {
+    "titel": "Führungen an und in der Neuemühle in Wermelskirchen: Geschichte einer Bergischen Mühle",
+    "datum": "13. Nov 2026",
+    "datum_raw": "2026-11-13T16:00:00+01:00",
+    "ort": "Restaurant Neuemühle, Neuemühle 1, 42929 Wermelskirchen",
+    "preis": "ab 7 €",
+    "link": "http://www.lugev.de/",
+    "quelle": "Das Bergische",
+    "teaser": "LuGeV präsentiert eine der wenigen erhaltenen, denkmalgeschützen Bergischen Mühlen. Bernd Kaden führt zu interessanten Stellen der ehemaligen Kornmühle mit Bäckerei. Auf dem Weg entlang am Obergraben inmitten in der male"
+  },
+  {
     "titel": " Freitag der 13. - Gruselige Nachtwanderung  im Wald",
     "datum": "13. Nov 2026",
     "datum_raw": "2026-11-13T18:00:00+01:00",
@@ -390,16 +400,6 @@
     "teaser": "Erleben Sie bei dieser Veranstaltung die Vielfalt Norwegens. Sie lernen Norwegen von Kap Lindesnes im Süden bis zur nördlichen Spitze, dem Nordkap, kennen. Traumhafte Fjorde und Fjelle erwarten Sie auf der Bilderreise du"
   },
   {
-    "titel": "Frau Höpker bittet zum Gesang - Mitsing Konzert",
-    "datum": "29. Nov 2026",
-    "datum_raw": "2026-11-29T18:00:00+01:00",
-    "ort": "Bürgerhaus Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach",
-    "preis": "ab 28 €",
-    "link": "https://www.bergischerloewe.de/programmdetails.aspx?vid=9f6eb371-613f-42a4-b9ac-4616fda10fca&datum=29.11.2026",
-    "quelle": "Das Bergische",
-    "teaser": "Darf ich bitten? Sie darf. Seit 2008 begeistert die charismatische Künstlerin landauf landab mit einem musikalischen Gesangserlebnis das mehr ist als „nur“ gemeinsames Singen. Kein Wunder; Frau Höpkers Format ist einziga"
-  },
-  {
     "titel": "Klassik in der Mühle",
     "datum": "29. Nov 2026",
     "datum_raw": "2026-11-29T18:00:00+01:00",
@@ -408,6 +408,16 @@
     "link": "https://www.nelson-mueller.de/blogs/kulinarischer-kalender/jazz-in-der-muhle-23-11-und-21-12-25-mullers-in-der-muhle",
     "quelle": "Das Bergische",
     "teaser": "Der Abend beginnt stets mit Einlass um 18:00 Uhr im Konrad-Adenauer-Saal der Mühle, das 3-gängige Menü startet gegen 18:30 Uhr, das Programm startet in der Regel gegen 21:00 Uhr. Die Veranstaltung endet gegen 23:00 Uhr. "
+  },
+  {
+    "titel": "Frau Höpker bittet zum Gesang - Mitsing Konzert",
+    "datum": "29. Nov 2026",
+    "datum_raw": "2026-11-29T18:00:00+01:00",
+    "ort": "Bürgerhaus Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach",
+    "preis": "ab 28 €",
+    "link": "https://www.bergischerloewe.de/programmdetails.aspx?vid=9f6eb371-613f-42a4-b9ac-4616fda10fca&datum=29.11.2026",
+    "quelle": "Das Bergische",
+    "teaser": "Darf ich bitten? Sie darf. Seit 2008 begeistert die charismatische Künstlerin landauf landab mit einem musikalischen Gesangserlebnis das mehr ist als „nur“ gemeinsames Singen. Kein Wunder; Frau Höpkers Format ist einziga"
   },
   {
     "titel": "Kulinarischer Weihnachtsmarkt in Wermelskirchen",
@@ -650,16 +660,6 @@
     "teaser": "Gönnen Sie sich eine Nacht voller Spannung, Glamour und Spitzenservice: Unsere Casinonacht verwandelt das Hotel in eine erstklassige Spielstätte. Erleben Sie echte Casino-Atmosphäre mit professionellen Croupiers an Poker"
   },
   {
-    "titel": "Musikalischer Jahresausklang",
-    "datum": "31. Dez 2026",
-    "datum_raw": "2026-12-31T17:00:00+01:00",
-    "ort": "Bürgerhaus Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach",
-    "preis": "ab 45 €",
-    "link": "http://www.bergischerloewe.de/programmdetails.aspx?vid=0348fae4-afe2-4919-8053-a9e550556d00&datum=31.12.2026",
-    "quelle": "Das Bergische",
-    "teaser": "Klassik mit viel Schwung von Wolfgang Amadeus Mozart bis Johann Strauß erleben die Konzertbesucher an diesem Abend. Berühmte Walzer und Polkas der Wiener Strauss Familie stehen im Mittelpunkt des Konzertes. Das Orchester"
-  },
-  {
     "titel": "Silvesterkonzert der Berliner Philharmoniker",
     "datum": "31. Dez 2026",
     "datum_raw": "2026-12-31T17:00:00+01:00",
@@ -668,5 +668,15 @@
     "link": "https://www.cineplex.de/bergisch-gladbach/film/2026-silvesterkonzert-der-berliner-philharmoniker-F0241000012FWBXJYB",
     "quelle": "Das Bergische",
     "teaser": "Kann »ernste Musik« humorvoll sein? Unbedingt! Das zeigen die Berliner Philharmoniker und Chefdirigent Kirill Petrenko im Silvesterkonzert 2026: In seiner spritzigen Symphonie classique parodiert Sergej Prokofjew die Mus"
+  },
+  {
+    "titel": "Musikalischer Jahresausklang",
+    "datum": "31. Dez 2026",
+    "datum_raw": "2026-12-31T17:00:00+01:00",
+    "ort": "Bürgerhaus Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach",
+    "preis": "ab 45 €",
+    "link": "http://www.bergischerloewe.de/programmdetails.aspx?vid=0348fae4-afe2-4919-8053-a9e550556d00&datum=31.12.2026",
+    "quelle": "Das Bergische",
+    "teaser": "Klassik mit viel Schwung von Wolfgang Amadeus Mozart bis Johann Strauß erleben die Konzertbesucher an diesem Abend. Berühmte Walzer und Polkas der Wiener Strauss Familie stehen im Mittelpunkt des Konzertes. Das Orchester"
   }
 ]
