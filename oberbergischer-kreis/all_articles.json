@@ -1,5 +1,46 @@
 [
   {
+    "id": "306451e88022",
+    "title": "Torschützenliste Kreisliga A",
+    "summary": "Oberberg - Hier können Sie die Torjägerliste der Kreisliga A einsehen.",
+    "link": "http://www.oberberg-aktuell.de/fussball/torschuetzenliste-kreisliga-a-a-1421",
+    "published": "Mon, 09 Nov 2026 08:35:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-09T09:17:47.874315",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e851164b8378",
+    "title": "Martinszug 2026",
+    "summary": "Am Dienstag, dem 10. November 2026 veranstaltet die Gemeinschaftsgrundschule Grötzenberg wieder ihren Martinszug.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=2015&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=517be002d1fb9aa8f30051f7093570cf",
+    "published": "Mon, 09 Nov 2026 08:30:19 +0100",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-09T09:17:56.958098",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
+    "id": "8bfcc9fb2e1b",
+    "title": "Geschwisterpaar regiert die Denklinger Jecken",
+    "summary": "Reichshof –Sessionseröffnung im Burghof: Die KG Rot-Weiß Denklingen läutet die närrische Zeit ein.",
+    "link": "http://www.oberberg-aktuell.de/karneval/geschwisterpaar-regiert-die-denklinger-jeckenff-a-140144",
+    "published": "Mon, 09 Nov 2026 08:15:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "reichshof"
+    ],
+    "fetched": "2026-11-09T09:17:47.874446",
+    "feed_kommunen": []
+  },
+  {
     "id": "24c2a37ad587",
     "title": "Greetsiel",
     "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
