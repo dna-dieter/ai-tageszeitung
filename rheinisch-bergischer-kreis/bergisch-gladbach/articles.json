@@ -1,5 +1,57 @@
 [
   {
+    "id": "91906fab6a2f",
+    "title": "Refrath feiert: Kasalla, Höhner und Paveier in der Steinbreche",
+    "summary": "Hunderte Jecke haben sich bei zwei ausverkauften Partys mit Paveier, Höhner und Kasalla auf die Session eingestimmt.",
+    "link": "https://www.ksta.de/region/rhein-berg/refrath-feiert-kasalla-hoehner-und-paveier-in-der-steinbreche-1412661",
+    "published": "Mon, 09 Nov 2026 16:29:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-09T17:16:20.110789",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1c2cebe7342e",
+    "title": "Bensberg genießt: Martinimarkt auf der neuen Schloßstraße",
+    "summary": "Beim Martinimarkt auf der Schloßstraße erinnert der Diakon an das Teilen – mitten zwischen Glühwein und Crêpes.",
+    "link": "https://www.ksta.de/region/rhein-berg/bensberg-geniesst-martinimarkt-auf-der-neuen-schlossstrasse-1412648",
+    "published": "Mon, 09 Nov 2026 16:19:45 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-09T17:16:20.111069",
+    "feed_kommunen": []
+  },
+  {
+    "id": "68ad8691c9d0",
+    "title": "Frauen-Netzwerk: Die VHS Bergisch Gladbach schafft neuen Lernort",
+    "summary": "Gemeinsam mit dem Bergischen Women’s Hub entsteht in einem neu gestalteten Raum ein Ort für Austausch unter Frauen.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/frauen-netzwerk-die-vhs-bergisch-gladbach-schafft-neuen-lernort-1412637",
+    "published": "Mon, 09 Nov 2026 16:14:08 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-09T17:16:20.111202",
+    "feed_kommunen": []
+  },
+  {
+    "id": "42dddecde254",
+    "title": "Bergisch Gladbach: Aufnahmequote bei Geflüchteten verfehlt",
+    "summary": "Bergisch Gladbach muss weitere Geflüchtete aufnehmen, doch die Unterkünfte sind stark ausgelastet – auch für Obdachlose.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/bergisch-gladbach-aufnahmequote-bei-gefluechteten-verfehlt-1412618",
+    "published": "Mon, 09 Nov 2026 15:54:52 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-09T17:16:20.111694",
+    "feed_kommunen": []
+  },
+  {
     "id": "7fd36858bfba",
     "title": "Lichterfest im Bergischen Museum – Handwerk,  „Je festlicher, desto schöner!“",
     "summary": "Bei einem Rundgang über das Museumsgelände können Besucherinnen und Besucher einen Blick in die historischen Werkstätten werfen. Hier gibt es viel Wissenswertes über das Handwerk vor 150 Jahren zu entdecken. Schauen Sie den Handwerkerinnen und Handwerkern über die Schulter, werden Sie selbst aktiv oder lassen Sie die stimmungsvolle Kulisse auf sich wirken. Passend zu den traditionellen Handwerken ",
@@ -13,6 +65,19 @@
     "feed_kommunen": [
       "bergisch-gladbach"
     ]
+  },
+  {
+    "id": "efbf9d1cb61d",
+    "title": "Ilse Aigner bei Krüger: Mögliche Bundespräsidentin in Bergisch Gladbach",
+    "summary": "Ilse Aigner, mögliche künftige Bundespräsidentin, besuchte 2009 mit Wolfgang Bosbach den Lebensmittelhersteller Krüger.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/ilse-aigner-bei-krueger-moegliche-bundespraesidentin-in-bergisch-gladbach-1412607",
+    "published": "Mon, 09 Nov 2026 15:44:27 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-09T17:16:20.111832",
+    "feed_kommunen": []
   },
   {
     "id": "a5e33591324f",
@@ -53,6 +118,19 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-11-09T11:16:12.998919",
+    "feed_kommunen": []
+  },
+  {
+    "id": "68ae2130b96a",
+    "title": "Badminton: TV Refrath gewinnt vier Westdeutsche Meistertitel",
+    "summary": "Bei den Westdeutschen Badminton-Meisterschaften in Mülheim hat der TV Refrath kräftig abgeräumt. Vier Titel sowie vier Silber- und acht Bronzemedaillen gingen an die Refrather Spielerinnen und Spieler. Besonders erfolgreich waren Kailynn Huang mit drei Podestplätzen und ihr Bruder Ian Huang mit ebenfalls drei Medaillen.",
+    "link": "https://in-gl.de/2026/11/09/badminton-tv-refrath-gewinnt-vier-westdeutsche-meistertitel/",
+    "published": "Mon, 09 Nov 2026 06:25:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-09T17:15:40.059852",
     "feed_kommunen": []
   },
   {
@@ -773,7 +851,8 @@
     "published": "Mon, 02 Nov 2026 10:41:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "bergisch-gladbach"
+      "bergisch-gladbach",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-03T03:15:33.657571",
     "feed_kommunen": []
