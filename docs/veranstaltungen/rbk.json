@@ -410,6 +410,16 @@
     "teaser": "Der Abend beginnt stets mit Einlass um 18:00 Uhr im Konrad-Adenauer-Saal der Mühle, das 3-gängige Menü startet gegen 18:30 Uhr, das Programm startet in der Regel gegen 21:00 Uhr. Die Veranstaltung endet gegen 23:00 Uhr. "
   },
   {
+    "titel": "Kulinarischer Weihnachtsmarkt in Wermelskirchen",
+    "datum": "3. Dez 2026",
+    "datum_raw": "2026-12-03T18:00:00+01:00",
+    "ort": "Platz unter dem Weihnachtsbaum, Carl-Leverkusstraße Ecke Obere Remscheiderstr., 42929 Wermelskirchen",
+    "preis": "",
+    "link": "http://www.wiw-marketing.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Unter dem größten, beleuchteten Naturweihnachtsbaum Deutschlands findet am zweiten und dritten Adventswochenende der „Kulinarische Weihnachtsmarkt“ statt. Rund um den Platz unter dem Baum genießen die Gäste Köstlichkeite"
+  },
+  {
     "titel": "Altenberger Adventsmarkt 2026",
     "datum": "4. Dez 2026",
     "datum_raw": "2026-12-04T16:00:00+01:00",
@@ -508,6 +518,16 @@
     "link": "https://www.bergischerloewe.de/programmdetails.aspx?vid=052c7f78-51db-4f00-b42f-dd57fb28a2a4&datum=10.12.2026",
     "quelle": "Das Bergische",
     "teaser": "Wenn genervte Verkäuferinnen nur noch zetern „Das kommt erst wieder im neuen Jahr rein!“, wenn grün benadeltes Bruchholz zu Preisen gehandelt wird wie sonst nur Orchideen und auf zentralen Marktplätzen deutscher Städte d"
+  },
+  {
+    "titel": "Weihnachtsmarkt am Sommerberg",
+    "datum": "11. Dez 2026",
+    "datum_raw": "2026-12-11T15:00:00+01:00",
+    "ort": "AWO der Sommerberg GmbH, Am Sommerberg 86, 51503 Rösrath",
+    "preis": "",
+    "link": "http://www.awo-der-sommerberg.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Der Weihnachtsmarkt am Sommerberg lockt in diesem Jahr wieder mit Angeboten für Groß und Klein. Ein Basar mit kreativen Geschenkideen und jede Menge Leckereien und Musik stimmen auf die Weihnachtszeit ein. Alle Sachen si"
   },
   {
     "titel": "Comedian Harmonists: Die Weihnachtsshow - Hell ist die Nacht",

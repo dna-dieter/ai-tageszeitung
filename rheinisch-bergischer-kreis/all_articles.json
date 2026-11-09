@@ -1,5 +1,33 @@
 [
   {
+    "id": "8c3cf003b032",
+    "title": "Baumpflegearbeiten in Burscheid – Brucher Mühlenstraße zeitweise gesperrt",
+    "summary": "In Burscheid stehen am 9. und 10. November Baumpflegearbeiten an. Auf der Brucher Mühlenstraße werden gefährliche Bäume gefällt und Totholz entfernt. Verkehrsteilnehmer müssen mit zeitweisen Sperrungen rechnen.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/baumpflegearbeiten-in-burscheid-brucher-muehlenstrasse-zeitweise-gesperrt-2X6TIOHHVBFKTLQJJFN7LLYBZQ.html",
+    "published": "Mon, 09 Nov 2026 10:08:16 +0100",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-09T10:16:03.929716",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
+    "id": "b9e5542a82de",
+    "title": "Erstes Gehalt, erste Finanzentscheidungen: Was junge Menschen jetzt wissen sollten",
+    "summary": "Mit dem Start in die Ausbildung beginnt für junge Menschen ein neuer Lebensabschnitt – und oft auch der erste Schritt in die finanzielle Eigenständigkeit. Das bringt oft viele Fragen mit sich. Erste Antworten darauf gibt Jacqueline Felder, Leiterin der Filiale Kürten der Kreissparkasse Köln.(Bezahlter Beitrag)",
+    "link": "https://in-gl.de/2026/11/09/erstes-gehalt-erste-finanzentscheidungen-was-junge-menschen-jetzt-wissen-sollten/",
+    "published": "Mon, 09 Nov 2026 05:30:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kuerten"
+    ],
+    "fetched": "2026-11-09T10:15:37.935014",
+    "feed_kommunen": []
+  },
+  {
     "id": "f947c66e633a",
     "title": "Loverboys: „Das passiert auch bei uns!“",
     "summary": "Wenn vermeintliche Liebe zur Falle wird: Ein bewegender Informationsabend in der Integrierten Gesamtschule Paffrath machte deutlich, wie nah die Gefahr durch Loverboys und sexuelle Ausbeutung auch hier vor Ort ist – und warum Wegsehen keine Option sein darf.",
@@ -2556,7 +2584,8 @@
     "published": "Mon, 02 Nov 2026 10:41:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "bergisch-gladbach"
+      "bergisch-gladbach",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-03T03:15:33.657571",
     "feed_kommunen": []
