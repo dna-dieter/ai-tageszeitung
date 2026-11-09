@@ -1,5 +1,31 @@
 [
   {
+    "id": "1f7f88cbdf5a",
+    "title": "Größer, grüner, attraktiver: Festplatz soll ausgebaut werden",
+    "summary": "Gummersbach – Gummersbachs Stadtverwaltung plant den Umbau des Festplatzes auf dem Steinmüllergelände.",
+    "link": "http://www.oberberg-aktuell.de/gummersbach/gr----er--gr--ner--attraktiver--festplatz-soll-ausgebaut-werden-a-140176",
+    "published": "Mon, 09 Nov 2026 13:55:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-09T14:17:20.314413",
+    "feed_kommunen": []
+  },
+  {
+    "id": "3a842b605edb",
+    "title": "Gummersbach: VfL will Flensburg im Achtelfinale auswärts bezwingen",
+    "summary": "Pokal-Achtelfinale bei der SG Flensburg-Handewitt: Nach dem 31:30 in der Liga will der VfL Gummersbach am 12. November erneut gewinnen.",
+    "link": "https://www.news-on-tour.de/345010/gummersbach-achtelfinale_20261109/",
+    "published": "Mon, 09 Nov 2026 12:51:11 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-09T14:17:14.067252",
+    "feed_kommunen": []
+  },
+  {
     "id": "db246f80da68",
     "title": "Bestseller-Autorin: Anne Dittmann liest in Gummersbach aus ihrem Buch",
     "summary": "Forum XXelle lädt am 20. November zur Lesung mit Autorin Anne Dittmann in den Pollmannsaal in Gummersbach ein.",
@@ -36,7 +62,9 @@
     "published": "Mon, 09 Nov 2026 12:26:44 +0100",
     "source": "Rheinische Anzeigenblätter Oberberg",
     "kommunen": [
-      "gummersbach"
+      "gummersbach",
+      "waldbroel",
+      "nuembrecht"
     ],
     "fetched": "2026-11-09T13:17:39.366485",
     "feed_kommunen": []

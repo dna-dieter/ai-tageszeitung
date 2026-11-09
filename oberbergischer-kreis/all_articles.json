@@ -1,5 +1,70 @@
 [
   {
+    "id": "79e08a453d76",
+    "title": "Neue Aktion zugunsten des Kunstrasenumbaus gestartet",
+    "summary": "Lindlar - Der SV Frielingsdorf kooperiert erneut mit dem REWE-Markt im Ort - Spendenscheck in Höhe von 1.500 Euro übergeben - SVF-Mitglieder grillen für die Kunden.",
+    "link": "http://www.oberberg-aktuell.de/fussball/neue-aktion-zugunsten-des-kunstrasenumbaus-gestartet-a-140177",
+    "published": "Mon, 09 Nov 2026 14:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-09T14:17:20.314314",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1f7f88cbdf5a",
+    "title": "Größer, grüner, attraktiver: Festplatz soll ausgebaut werden",
+    "summary": "Gummersbach – Gummersbachs Stadtverwaltung plant den Umbau des Festplatzes auf dem Steinmüllergelände.",
+    "link": "http://www.oberberg-aktuell.de/gummersbach/gr----er--gr--ner--attraktiver--festplatz-soll-ausgebaut-werden-a-140176",
+    "published": "Mon, 09 Nov 2026 13:55:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-09T14:17:20.314413",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9b3f2891c854",
+    "title": "Wiehl: Neues Chorprojekt zu Brahms startet mit Schnupperprobe",
+    "summary": "Chorprojekt in Wiehl widmet sich Brahms: Schnupperprobe am 18. November 2026 in Bielstein, Konzerte folgen im November 2027 in Wiehl-Bielstein und Siegburg.",
+    "link": "https://www.news-on-tour.de/345009/wiehl-chorprojekt-brahms/",
+    "published": "Mon, 09 Nov 2026 12:51:15 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-09T14:17:14.067139",
+    "feed_kommunen": []
+  },
+  {
+    "id": "3a842b605edb",
+    "title": "Gummersbach: VfL will Flensburg im Achtelfinale auswärts bezwingen",
+    "summary": "Pokal-Achtelfinale bei der SG Flensburg-Handewitt: Nach dem 31:30 in der Liga will der VfL Gummersbach am 12. November erneut gewinnen.",
+    "link": "https://www.news-on-tour.de/345010/gummersbach-achtelfinale_20261109/",
+    "published": "Mon, 09 Nov 2026 12:51:11 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-09T14:17:14.067252",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5bb1ff488070",
+    "title": "Eine Party unter blauem Himmel",
+    "summary": "Wiehl – Der Karnevalsverein Bielstein feierte seinen Sessionsstart mit befreundeten Karnevalisten auf dem Rathausplatz in Wiehl.",
+    "link": "http://www.oberberg-aktuell.de/karneval/eine-party-unter-blauem-himmel-a-140171",
+    "published": "Mon, 09 Nov 2026 13:30:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-09T14:17:20.314565",
+    "feed_kommunen": []
+  },
+  {
     "id": "620afcc57d65",
     "title": "Fünf Autos in Remerscheid und Wahlscheid betroffen",
     "summary": "In Remerscheid und Wahlscheid haben Unbekannte zwischen Freitag, 6. November, und Samstag insgesamt fünf abgestellte Autos angegangen. Sie stahlen unter anderem Bargeld und Ausweisdokumente. Bei zwei Fahrzeugen in Remerscheid und Wahlscheid schlugen die Täter nach Angaben der Polizei am Samstag zwischen 2.30 und 10.15 Uhr die Seitenscheiben ein. Sie entwendeten Bargeld, mehrere Debitkarten und Aus",
@@ -127,7 +192,9 @@
     "published": "Mon, 09 Nov 2026 12:26:44 +0100",
     "source": "Rheinische Anzeigenblätter Oberberg",
     "kommunen": [
-      "gummersbach"
+      "gummersbach",
+      "waldbroel",
+      "nuembrecht"
     ],
     "fetched": "2026-11-09T13:17:39.366485",
     "feed_kommunen": []

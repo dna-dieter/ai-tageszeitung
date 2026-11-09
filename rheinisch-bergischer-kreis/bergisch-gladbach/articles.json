@@ -41,6 +41,19 @@
     "feed_kommunen": []
   },
   {
+    "id": "c1f505b66221",
+    "title": "Von Kabarett bis Zauberslam: Neues Programm im THEAS",
+    "summary": "Humor, Magie und Musik prägen das Novemberprogramm des THEAS Theaters. Neben Harald Pompers Kabarett und der Komödie „Gittis Faust“ stehen eine Lesung über Albert Göring und der erste Bergisch Gladbacher Zauberslam auf dem Spielplan. Zum Monatsende sorgen Mitsingkonzerte und ein weihnachtliches Bühnenprogramm für Adventsstimmung.",
+    "link": "https://in-gl.de/2026/11/08/von-kabarett-bis-zauberslam-neues-programm-im-theas/",
+    "published": "Sun, 08 Nov 2026 17:59:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-09T14:15:36.153166",
+    "feed_kommunen": []
+  },
+  {
     "id": "f947c66e633a",
     "title": "Loverboys: „Das passiert auch bei uns!“",
     "summary": "Wenn vermeintliche Liebe zur Falle wird: Ein bewegender Informationsabend in der Integrierten Gesamtschule Paffrath machte deutlich, wie nah die Gefahr durch Loverboys und sexuelle Ausbeutung auch hier vor Ort ist – und warum Wegsehen keine Option sein darf.",
@@ -745,7 +758,8 @@
     "published": "Mon, 02 Nov 2026 10:41:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "bergisch-gladbach"
+      "bergisch-gladbach",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-03T03:15:33.657571",
     "feed_kommunen": []
