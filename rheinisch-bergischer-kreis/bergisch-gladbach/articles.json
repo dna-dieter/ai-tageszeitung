@@ -1,5 +1,46 @@
 [
   {
+    "id": "a5e33591324f",
+    "title": "FW-GL: 57-jähriger Bergisch Gladbacher bei Alleinunfall tödlich verunglückt - Gemeinsame Pressemitteilung der Kreispolizeibehörde und der Feuerwehr Bergisch Gladbach",
+    "summary": "Bergisch Gladbach (ots) - Am Samstagmittag (07.11.) ereignete sich ein folgenschwerer Verkehrsunfall im Rather Weg im Stadtteil Lustheide. Ein 57-jähriger Bergisch Gladbacher kam mit seinem Pkw von der Fahrbahn ab und kollidierte mit einem Baum. ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/116240/6386601",
+    "published": "Mon, 09 Nov 2026 10:37:29 +0100",
+    "source": "Presseportal Feuerwehr Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-09T11:16:13.899648",
+    "feed_kommunen": [
+      "bergisch-gladbach"
+    ]
+  },
+  {
+    "id": "9032b41e928b",
+    "title": "Medizinischer Notfall möglich: 57-Jähriger nach Alleinunfall in Bergisch Gladbach gestorben",
+    "summary": "Ein Autofahrer ist bei einem Unfall in Bergisch-Gladbach gestorben. Sein Auto prallte gegen einen Telefonmast und einen Baum.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/bergisch-gladbach-57-jaehriger-stirbt-bei-alleinunfall-1412280",
+    "published": "Mon, 09 Nov 2026 10:35:44 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-09T11:16:15.532447",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b1e7c9eba0fe",
+    "title": "POL-RBK: Bergisch Gladbach - 57-jähriger Bergisch Gladbacher bei Alleinunfall tödlich verunglückt - Gemeinsame Pressemitteilung der Kreispolizeibehörde und der Feuerwehr Bergisch Gladbach",
+    "summary": "Bergisch Gladbach (ots) - Am Samstagmittag (07.11.) ereignete sich ein folgenschwerer Verkehrsunfall im Rather Weg im Stadtteil Lustheide. Ein 57-jähriger Bergisch Gladbacher kam mit seinem Pkw von der Fahrbahn ab und kollidierte mit einem Baum. ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6386558",
+    "published": "Mon, 09 Nov 2026 10:13:54 +0100",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-09T11:16:12.998919",
+    "feed_kommunen": []
+  },
+  {
     "id": "f947c66e633a",
     "title": "Loverboys: „Das passiert auch bei uns!“",
     "summary": "Wenn vermeintliche Liebe zur Falle wird: Ein bewegender Informationsabend in der Integrierten Gesamtschule Paffrath machte deutlich, wie nah die Gefahr durch Loverboys und sexuelle Ausbeutung auch hier vor Ort ist – und warum Wegsehen keine Option sein darf.",
@@ -704,8 +745,7 @@
     "published": "Mon, 02 Nov 2026 10:41:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "bergisch-gladbach",
-      "kreisweite-nachrichten"
+      "bergisch-gladbach"
     ],
     "fetched": "2026-11-03T03:15:33.657571",
     "feed_kommunen": []
