@@ -1,15 +1,5 @@
 [
   {
-    "titel": "„Todsicher“: Komödie von und mit Rita Winter",
-    "datum": "8. Nov 2026",
-    "datum_raw": "2026-11-08T19:00:00+01:00",
-    "ort": "Schauspielhaus Bergneustadt, Kölner Straße 273, 51702 Bergneustadt",
-    "preis": "ab 20 €",
-    "link": "https://www.schauspielhaus-bergneustadt.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Haben Sie auch schon einmal vor dem Umkleidekabinenspiegel über das Leben nachgedacht? Sind Sie followersüchtig? Wenn Sie von einem gutaussehenden Radfahrer, fast über den Haufen gefahren - und anschließend zum Essen ein"
-  },
-  {
     "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
     "datum": "10. Nov 2026",
     "datum_raw": "2026-11-10T11:00:00+02:00",
@@ -438,6 +428,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Weihnachstmarkt, verschiedene Essensstände sowie Getränkestände mit Glühwein. Auch findet jeweils eine Tombola mit tollen Preisen statt."
+  },
+  {
+    "titel": "„Todsicher“: Komödie von und mit Rita Winter",
+    "datum": "5. Dez 2026",
+    "datum_raw": "2026-12-05T20:00:00+01:00",
+    "ort": "Schauspielhaus Bergneustadt, Kölner Straße 273, 51702 Bergneustadt",
+    "preis": "ab 20 €",
+    "link": "https://www.schauspielhaus-bergneustadt.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Haben Sie auch schon einmal vor dem Umkleidekabinenspiegel über das Leben nachgedacht? Sind Sie followersüchtig? Wenn Sie von einem gutaussehenden Radfahrer, fast über den Haufen gefahren - und anschließend zum Essen ein"
   },
   {
     "titel": "Schmiedevorführung im Museum Achse, Rad und Wagen",
