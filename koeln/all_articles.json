@@ -1,5 +1,31 @@
 [
   {
+    "id": "80420b5e8c17",
+    "title": "Viktoria Köln auf Aufstiegskurs: Kann im Sportpark Höhenberg Zweitliga-Fußball gespielt werden?",
+    "summary": "Der Drittliga-Tabellenführer plant für die Zukunft: Der Sportpark ist aktuell zu klein, doch ein Ausbau ist theoretisch möglich.",
+    "link": "https://www.ksta.de/sport/koelner-sport/viktoria-koeln-kann-im-sportpark-hoehenberg-zweitliga-fussball-gespielt-werden-1412424",
+    "published": "Mon, 09 Nov 2026 14:26:45 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-09T15:18:23.334019",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8fc328789cdf",
+    "title": "Mülleimer abgebaut: An dem Fußweg in den Beethovenpark in Sülz sind Abfalleimer verschwunden",
+    "summary": "Die AWB baut mehrere Abfalleimer an der Euskirchener Straße ab und nennt den Grund für die Maßnahme. Anwohnende kritisieren den Schritt.",
+    "link": "https://www.ksta.de/koeln/lindenthal/suelz/suelz-an-dem-fussweg-in-den-beethovenpark-fehlen-abfalleimer-1410096",
+    "published": "Mon, 09 Nov 2026 14:13:45 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-09T15:18:23.334044",
+    "feed_kommunen": []
+  },
+  {
     "id": "823d2d44305e",
     "title": "Chancen schaffen, Potenziale fördern",
     "summary": "9. November 2026, 14:06Inklusionsbericht 2024/2025 veröffentlicht",
@@ -13,16 +39,16 @@
     "feed_kommunen": []
   },
   {
-    "id": "a8904537c4e2",
-    "title": "Düstere Prognose: So wird das Wetter am 11.11. im Rheinland",
-    "summary": "Der Start in die Karnevalssession könnte im Rheinland buchstäblich ins Wasser fallen. Im Süden könnte es brenzlig werden.",
+    "id": "51ae12820d9c",
+    "title": "Düstere Prognose: So wird das Wetter am 11.11. in Köln und der Region",
+    "summary": "Der Start in die Karnevalssession könnte im Rheinland buchstäblich ins Wasser fallen. Der DWD warnt vor heftigen Schauern.",
     "link": "https://www.ksta.de/koeln/karneval-so-wird-das-wetter-am-11-11-in-koeln-und-im-rheinland-1412451",
-    "published": "Mon, 09 Nov 2026 13:31:18 +0100",
+    "published": "Mon, 09 Nov 2026 13:46:08 +0100",
     "source": "Kölner Stadt-Anzeiger Köln",
     "kommunen": [
       "kreisweite-nachrichten"
     ],
-    "fetched": "2026-11-09T14:18:05.015842",
+    "fetched": "2026-11-09T15:18:23.334058",
     "feed_kommunen": []
   },
   {

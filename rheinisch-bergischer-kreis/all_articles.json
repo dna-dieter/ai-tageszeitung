@@ -1,5 +1,22 @@
 [
   {
+    "id": "049a0cfc7add",
+    "title": "Mittelstand in Solingen und Remscheid erhält Zahlungen meist pünktlich",
+    "summary": "Neun von zehn Mittelständlern bezeichnen die Zahlungsmoral ihrer Kunden als befriedigend oder besser. Probleme gibt es eher bei Geschäften mit der öffentlichen Hand. Das zeigt eine Umfrage unter 260 Mittelständlern in der Region.",
+    "link": "https://www.rga.de/lokales/remscheid/mittelstand-in-solingen-und-remscheid-erhaelt-zahlungen-meist-puenktlich-PCDYQQPTERF4DGKIILWKC5KTVY.html",
+    "published": "Mon, 09 Nov 2026 15:00:01 +0100",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen",
+      "burscheid"
+    ],
+    "fetched": "2026-11-09T15:16:13.280095",
+    "feed_kommunen": [
+      "wermelskirchen",
+      "burscheid"
+    ]
+  },
+  {
     "id": "6a2f0180685c",
     "title": "Aktuelle Informationen des Bergischen Abfallwirtschaftsverbands",
     "summary": "Machen Sie Ihre Biotonne fit für den Winter",
@@ -2666,8 +2683,7 @@
     "published": "Mon, 02 Nov 2026 10:41:00 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
-      "bergisch-gladbach",
-      "kreisweite-nachrichten"
+      "bergisch-gladbach"
     ],
     "fetched": "2026-11-03T03:15:33.657571",
     "feed_kommunen": []
