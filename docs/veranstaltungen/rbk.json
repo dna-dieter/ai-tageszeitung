@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Wandern & Workout",
-    "datum": "9. Nov 2026",
-    "datum_raw": "2026-11-09T12:30:00+02:00",
-    "ort": "Wanderparkplatz Eifgen, Eifgen 8, 42929 Wermelskirchen",
-    "preis": "ab 15 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Erleben Sie die perfekte Kombination aus Wandern in der Natur in Verbindung mit einem effektiven Workout. Es handelt sich um ein Ganzkörpertraining für jedes Fitnesslevel. Hier können Sie Energie tanken und abschalten. B"
-  },
-  {
     "titel": "Führung „Der Weg der Kohle\" auf Zanders",
     "datum": "9. Nov 2026",
     "datum_raw": "2026-11-09T15:00:00+01:00",
@@ -80,16 +70,6 @@
     "teaser": "GITARRISSIMO ist ein Kooperationsprojekt der Musikschulen im Rheinisch-Bergischen Kreis in Zusammenarbeit mit dem Kreiskulturamt. In dem eintägigen Workshop erarbeiten kleine und große Gitarren-Fans gemeinsam Musik für e"
   },
   {
-    "titel": "Handwerker-Vorführung: Spinnen mit Karin Dünner und Janina Endresz",
-    "datum": "15. Nov 2026",
-    "datum_raw": "2026-11-15T14:00:00+01:00",
-    "ort": "Bergisches Museum für Bergbau, Handwerk und Gewerbe, Burggraben 19, 51429 Bergisch Gladbach",
-    "preis": "ab 3 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Sonntagnachmittags lassen die ehrenamtlichen Handwerker im Bergischen Museum für Bergbau, Handwerk und Gewerbe historische Techniken aufleben. Schauen Sie ihnen über die Schulter. Heute können Sie Karin Dünner beim Spinn"
-  },
-  {
     "titel": "Schnuppertouren in Bergisch Gladbach",
     "datum": "15. Nov 2026",
     "datum_raw": "2026-11-15T14:00:00+01:00",
@@ -98,6 +78,16 @@
     "link": "https://www.bergischgladbach.de/schnuppertouren.aspx",
     "quelle": "Das Bergische",
     "teaser": "Bereits am Sonntag, den 12. April 2026 starten die kostenlosen Schnuppertouren in Bergisch Gladbach in eine neue Saison. Zum zwölften Mal bieten engagierte Stadtführerinnen und Stadtführer in Zusammenarbeit mit der Stadt"
+  },
+  {
+    "titel": "Rangerführungen",
+    "datum": "15. Nov 2026",
+    "datum_raw": "2026-11-15T14:00:00+01:00",
+    "ort": "Besucher-Portal Steinhaus, Steinhaus 1, 51429 Bergisch Gladbach",
+    "preis": "ab 8 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Forstschutz? Was ist das? Bei den diesjährigen Rangerführungen geht es um die Tätigkeiten der Ranger im urbanen Raum und ihren Blick auf den Wald und seine Nutz-, Schutz- und Erholungsfunktion. Auf unserer 2-stündigen Wa"
   },
   {
     "titel": "Öffentliche Führung \"Papier – vom Handwerk zum Massenprodukt\"",
@@ -110,14 +100,14 @@
     "teaser": "Bei dieser Führung geht es um die Herstellung und den Gebrauch von Papier früher und heute. Highlight des Rundgangs ist die Vorführung der Labor-Papiermaschine. Die Teilnehmenden erfahren, wie Papier in Vergangenheit und"
   },
   {
-    "titel": "Rangerführungen",
+    "titel": "Handwerker-Vorführung: Spinnen mit Karin Dünner und Janina Endresz",
     "datum": "15. Nov 2026",
     "datum_raw": "2026-11-15T14:00:00+01:00",
-    "ort": "Besucher-Portal Steinhaus, Steinhaus 1, 51429 Bergisch Gladbach",
-    "preis": "ab 8 €",
+    "ort": "Bergisches Museum für Bergbau, Handwerk und Gewerbe, Burggraben 19, 51429 Bergisch Gladbach",
+    "preis": "ab 3 €",
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
-    "teaser": "Forstschutz? Was ist das? Bei den diesjährigen Rangerführungen geht es um die Tätigkeiten der Ranger im urbanen Raum und ihren Blick auf den Wald und seine Nutz-, Schutz- und Erholungsfunktion. Auf unserer 2-stündigen Wa"
+    "teaser": "Sonntagnachmittags lassen die ehrenamtlichen Handwerker im Bergischen Museum für Bergbau, Handwerk und Gewerbe historische Techniken aufleben. Schauen Sie ihnen über die Schulter. Heute können Sie Karin Dünner beim Spinn"
   },
   {
     "titel": "Rösrather StadtVERführungen 2026",
@@ -138,6 +128,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Bereits zum zweiten Mal findet dieser kammermusikalische Wettbewerb – einzigartig in NRW – in Schloss Eulenbroich statt. Der Wettbewerb betrifft die Gattung “Kunstlied”, d.h. Vertonungen internationaler Lyrik aus allen K"
+  },
+  {
+    "titel": "Wandern & Workout",
+    "datum": "16. Nov 2026",
+    "datum_raw": "2026-11-16T12:30:00+02:00",
+    "ort": "Wanderparkplatz Eifgen, Eifgen 8, 42929 Wermelskirchen",
+    "preis": "ab 15 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Erleben Sie die perfekte Kombination aus Wandern in der Natur in Verbindung mit einem effektiven Workout. Es handelt sich um ein Ganzkörpertraining für jedes Fitnesslevel. Hier können Sie Energie tanken und abschalten. B"
   },
   {
     "titel": "Themenführung: Die Papierfabrik und die Familie Zanders",
@@ -240,16 +240,6 @@
     "teaser": "Die Besucher erwartet ein stimmungsvolle Ambiente und eine Vielfalt an regionalem Kunsthandwerk. · Vorführungen des Museumsschmieds, der Spinner und der Weber und der Klang der Drehorgel schaffen eine nostalgische Atmosp"
   },
   {
-    "titel": "Lichterfest",
-    "datum": "21. Nov 2026",
-    "datum_raw": "2026-11-21T15:00:00+01:00",
-    "ort": "Bergisches Museum für Bergbau, Handwerk und Gewerbe, Burggraben 19, 51429 Bergisch Gladbach",
-    "preis": "ab 3 €",
-    "link": "https://www.bergischgladbach.de/veranstaltungen-2025.aspx",
-    "quelle": "Das Bergische",
-    "teaser": "Mit Lichterglanz und festlicher Stimmung verabschieden wir das Jahr. Unser erleuchtetes Museumsgelände lädt wieder zum Entdecken ein. Neben Handwerks-Vorführungen gibt es Bastelaktionen und Geschichten für Kinder. Für da"
-  },
-  {
     "titel": "Bärbroicher Weihnachtsmarkt",
     "datum": "21. Nov 2026",
     "datum_raw": "2026-11-21T15:00:00+01:00",
@@ -258,6 +248,16 @@
     "link": "http://www.dasbergische.de/",
     "quelle": "Das Bergische",
     "teaser": "Aus den Reihen der Bärbroicher Karnevalisten und Schützen wird auch in diesem Jahr wieder der schöne und urige Weihnachtsmarkt am Schützenheim veranstaltet. Eintritt : frei Ort: Schützenheim in Bärbroich Veranstalter: Bä"
+  },
+  {
+    "titel": "Lichterfest",
+    "datum": "21. Nov 2026",
+    "datum_raw": "2026-11-21T15:00:00+01:00",
+    "ort": "Bergisches Museum für Bergbau, Handwerk und Gewerbe, Burggraben 19, 51429 Bergisch Gladbach",
+    "preis": "ab 3 €",
+    "link": "https://www.bergischgladbach.de/veranstaltungen-2025.aspx",
+    "quelle": "Das Bergische",
+    "teaser": "Mit Lichterglanz und festlicher Stimmung verabschieden wir das Jahr. Unser erleuchtetes Museumsgelände lädt wieder zum Entdecken ein. Neben Handwerks-Vorführungen gibt es Bastelaktionen und Geschichten für Kinder. Für da"
   },
   {
     "titel": "Wein & Crime bei Kork & Kante in Bechen",
