@@ -1,5 +1,57 @@
 [
   {
+    "id": "c801ac791fdf",
+    "title": "Musikverein Kürten: 179 Jahre alt und voller junger Talente",
+    "summary": "Beim Stiftungsfest des Musikvereins Kürten in Bechen begeistern drei Orchester mit großer Vielfalt.",
+    "link": "https://www.ksta.de/region/rhein-berg/kuerten/musikverein-kuerten-179-jahre-alt-und-voller-junger-talente-1413610",
+    "published": "Tue, 10 Nov 2026 16:19:19 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kuerten"
+    ],
+    "fetched": "2026-11-10T18:16:19.076834",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d75110235791",
+    "title": "Kunst im Flur: „Ungefiltert“-Ausstellung in der VHS Bergisch Gladbach",
+    "summary": "In den Fluren der Volkshochschule zeigen 30 Künstlerinnen und Künstler des AdK, wie sehr der eigene Blick prägt.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/kunst-im-flur-ausstellung-in-der-vhs-bergisch-gladbach-1413598",
+    "published": "Tue, 10 Nov 2026 16:13:55 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-10T18:16:19.076975",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a9e376a37ae7",
+    "title": "Rösrath testet: Am Sandweg bleibt es ruhig",
+    "summary": "Rösrath sperrt morgens den Sandweg vor zwei Grundschulen für Autos.",
+    "link": "https://www.ksta.de/region/rhein-berg/roesrath/roesrath-testet-schulstrasse-am-sandweg-bleibt-es-ruhig-1413593",
+    "published": "Tue, 10 Nov 2026 16:07:43 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "roesrath"
+    ],
+    "fetched": "2026-11-10T18:16:19.077065",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9495f569fece",
+    "title": "Kinderzahlen sinken: Kreis erwägt Aus für AWO-Familienzentrum",
+    "summary": "Weil die Kinderzahlen stärker sinken als erwartet, plant der Kreis erste Einschnitte.",
+    "link": "https://www.ksta.de/region/rhein-berg/kinderzahlen-sinken-kreis-erwaegt-aus-fuer-awo-familienzentrum-1413580",
+    "published": "Tue, 10 Nov 2026 15:59:53 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T18:16:19.077186",
+    "feed_kommunen": []
+  },
+  {
     "id": "9a74e3332106",
     "title": "Wanderbus-Hoffnung: Kreis will Aus für 2027 nach Rekordsaison kippen",
     "summary": "Fast 2000 Fahrgäste nutzten 2026 den touristischen Bus.",
