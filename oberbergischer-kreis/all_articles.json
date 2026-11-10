@@ -1,5 +1,86 @@
 [
   {
+    "id": "c160f5efdd89",
+    "title": "(Update) Gummersbach: Kellerbrand in Dieringhausen – Bewohnerin leicht verletzt",
+    "summary": "Update: Im Keller eines Doppelhauses in Gummersbach-Dieringhausen brannte eine Mülltonne. Eine Bewohnerin (28) wurde leicht verletzt, ihre Haushälfte ist vorerst unbewohnbar.",
+    "link": "https://www.news-on-tour.de/345515/gummersbach-rauchentwicklung/",
+    "published": "Tue, 10 Nov 2026 13:02:15 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-10T14:17:29.089757",
+    "feed_kommunen": []
+  },
+  {
+    "id": "92444f07d288",
+    "title": "Guildo Horn: Adventstour-Eröffnung in der Halle 32",
+    "summary": "Guildo Horn startet am Freitag, 13. November, mit seinen Orthopädischen Strümpfen in der Halle 32 in Gummersbach.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/guildo-horn-adventstour-eroeffnung-in-der-halle-32-1413425",
+    "published": "Tue, 10 Nov 2026 14:00:01 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-10T14:17:32.521439",
+    "feed_kommunen": []
+  },
+  {
+    "id": "af6a3da7fc84",
+    "title": "70 Stimmen, ein Konzert: Oratorienprojekt in Drabenderhöhe",
+    "summary": "Begeisterte Besucher in Drabenderhöhe: Rund 70 Sängerinnen und Sänger boten ein Oratorienprojekt.",
+    "link": "https://www.ksta.de/region/oberberg/70-stimmen-ein-konzert-oratorienprojekt-in-drabenderhoehe-1413414",
+    "published": "Tue, 10 Nov 2026 13:53:43 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-10T14:17:32.521571",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1a97c7489827",
+    "title": "Seit 125 Jahren an der Islandstraße:Mode Sessinghaus feiert Jubiläum",
+    "summary": "Vor 125 Jahren als Hutgeschäft eröffnet, ist das Modehaus Sessinghaus heute eine Institution an der Islandstraße. Das 125-jährige Bestehen wird gefeiert.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/seit-125-jahren-an-der-islandstrasse-mode-sessinghaus-feiert-jubilaeum-GKFJCTQHN2IYIUKPKMMWFA7LBM.html",
+    "published": "Tue, 10 Nov 2026 13:51:47 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-10T14:17:29.521521",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "9678590d191f",
+    "title": "Bergneustadt: Schlappenstürmer will an den Ballermann – Auftritt bei der Party-Arena",
+    "summary": "Schlappenstürmer Julian Heinze aus Bergneustadt singt am 12. Dezember bei der Party-Arena in Gummersbach. Sein Ziel: der Bierkönig.",
+    "link": "https://www.news-on-tour.de/345553/bergneustadt-schlappenstuermer-malle/",
+    "published": "Tue, 10 Nov 2026 12:37:45 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-10T14:17:29.089937",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d466a44e05af",
+    "title": "Ärztin, Architektin, Künstlerin: Zu Gast in Oberbergs Ateliers",
+    "summary": "Engelsart lud zum „Offenen Atelier Oberberg“ ein: Wir haben zwei der 33 Künstlerinnen und Künstler besucht.",
+    "link": "https://www.ksta.de/region/oberberg/engelskirchen/aerztin-architektin-kuenstlerin-zu-gast-in-oberbergs-ateliers-1413249",
+    "published": "Tue, 10 Nov 2026 13:35:15 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T14:17:32.521727",
+    "feed_kommunen": []
+  },
+  {
     "id": "58a465791770",
     "title": "„Verkehrschaos ist ausgeblieben“",
     "summary": "Oberberg – Autobahn zwischen Engelskirchen und Bielstein in Fahrtrichtung Olpe ist seit Montag gesperrt – Zu Stausituation kommt es zu Stoßzeiten.",
@@ -73,6 +154,19 @@
     ]
   },
   {
+    "id": "b7bdfdf6de23",
+    "title": "Kirche schrumpft: Dom-Sanierung in Oberberg kostet Millionen",
+    "summary": "Bei der Herbstsynode des Kirchenkreises An der Agger ging es um Finanzen, große Bauvorhaben und den Umbau der Gebäude.",
+    "link": "https://www.ksta.de/region/oberberg/nuembrecht/kirche-schrumpft-dom-sanierung-in-oberberg-kostet-millionen-1413243",
+    "published": "Tue, 10 Nov 2026 11:22:32 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T14:17:32.521881",
+    "feed_kommunen": []
+  },
+  {
     "id": "d728671ffaab",
     "title": "18 Nachwuchskräfte losgesprochen",
     "summary": "Oberberg – Feierstunde für die Absolventen – Erfolgreicher Ausbildungsabschluss in der Landwirtschaft.",
@@ -86,16 +180,16 @@
     "feed_kommunen": []
   },
   {
-    "id": "f8da7baf630f",
+    "id": "d0aa49dfa640",
     "title": "Kaum Spielräume in Oberberg: 50 Millionen vom Land, doch Bund bleibt Thema",
     "summary": "Trotz mehr Geld vom Land beklagt Christian Berger, dass der Bund Sozialleistungen nicht genug gegenfinanziert.",
-    "link": "https://www.rundschau-online.de/region/oberberg/oberberg-50-millionen-vom-land-doch-bund-bleibt-thema-1413212",
+    "link": "https://www.ksta.de/region/oberberg/oberberg-50-millionen-vom-land-doch-bund-bleibt-thema-1413212",
     "published": "Tue, 10 Nov 2026 11:00:20 +0100",
-    "source": "Kölnische Rundschau Oberberg",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
     "kommunen": [
       "kreisweite-nachrichten"
     ],
-    "fetched": "2026-11-10T13:17:11.027237",
+    "fetched": "2026-11-10T14:17:32.522034",
     "feed_kommunen": []
   },
   {
@@ -112,29 +206,29 @@
     "feed_kommunen": []
   },
   {
-    "id": "a7298e285181",
+    "id": "b4e98d82e1da",
     "title": "Neue Herz-Sektion: Waldbröl behandelt per Katheter und Impuls",
     "summary": "Beim Herztag am 14. November stellt das Kreiskrankenhaus Waldbröl seine neue Elektrophysiologie vor.",
-    "link": "https://www.rundschau-online.de/region/oberberg/waldbroel/neue-herz-sektion-waldbroel-behandelt-per-katheter-und-impuls-1413203",
+    "link": "https://www.ksta.de/region/oberberg/waldbroel/neue-herz-sektion-waldbroel-behandelt-per-katheter-und-impuls-1413203",
     "published": "Tue, 10 Nov 2026 10:54:38 +0100",
-    "source": "Kölnische Rundschau Oberberg",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
     "kommunen": [
       "waldbroel"
     ],
-    "fetched": "2026-11-10T13:17:11.027316",
+    "fetched": "2026-11-10T14:17:32.522163",
     "feed_kommunen": []
   },
   {
-    "id": "a57ed3b8579a",
+    "id": "a3f2af9853d8",
     "title": "Vogtei-Streit: Stadt darf AfD den Saal nicht verweigern",
     "summary": "Die AfD lädt am Samstag in die Alte Vogtei ein, die Initiative „Unser Oberberg ist bunt, nicht braun“ hält mit Kundgebung dagegen.",
-    "link": "https://www.rundschau-online.de/region/oberberg/vogtei-streit-stadt-darf-afd-den-saal-nicht-verweigern-1413150",
+    "link": "https://www.ksta.de/region/oberberg/vogtei-streit-stadt-darf-afd-den-saal-nicht-verweigern-1413150",
     "published": "Tue, 10 Nov 2026 10:47:38 +0100",
-    "source": "Kölnische Rundschau Oberberg",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
     "kommunen": [
       "kreisweite-nachrichten"
     ],
-    "fetched": "2026-11-10T13:17:11.027424",
+    "fetched": "2026-11-10T14:17:32.522330",
     "feed_kommunen": []
   },
   {
@@ -181,19 +275,6 @@
     "feed_kommunen": [
       "hueckeswagen"
     ]
-  },
-  {
-    "id": "f97d64b40116",
-    "title": "Gummersbach: Rauchentwicklung in Wohngebäude – Einsatz",
-    "summary": "Rauchentwicklung aus einem Wohngebäude in Gummersbach-Dieringhausen: Feuerwehr, Rettungsdienst und Polizei im Einsatz.",
-    "link": "https://www.news-on-tour.de/345515/gummersbach-rauchentwicklung/",
-    "published": "Tue, 10 Nov 2026 09:20:36 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach"
-    ],
-    "fetched": "2026-11-10T11:17:08.019714",
-    "feed_kommunen": []
   },
   {
     "id": "f53d950c3bd3",
@@ -46391,6 +46472,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-09T12:17:30.598020",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "0d44fef6a1b3",
+    "title": "Lesung zu den „Männern von morgen“",
+    "summary": "Das „Forum XXelle“ lädt am 20. November 2026 zu einem Abend über Jungs, Männlichkeitsbilder und gesellschaftliche Verantwortung ein – mit der Spiegel-Bestseller-Autorin Anne Dittmann.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9603-lesung-zu-den-maennern-von-morgen.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-10T14:17:35.443522",
     "feed_kommunen": [
       "wiehl"
     ]

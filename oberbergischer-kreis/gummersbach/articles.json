@@ -1,5 +1,45 @@
 [
   {
+    "id": "c160f5efdd89",
+    "title": "(Update) Gummersbach: Kellerbrand in Dieringhausen – Bewohnerin leicht verletzt",
+    "summary": "Update: Im Keller eines Doppelhauses in Gummersbach-Dieringhausen brannte eine Mülltonne. Eine Bewohnerin (28) wurde leicht verletzt, ihre Haushälfte ist vorerst unbewohnbar.",
+    "link": "https://www.news-on-tour.de/345515/gummersbach-rauchentwicklung/",
+    "published": "Tue, 10 Nov 2026 13:02:15 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-10T14:17:29.089757",
+    "feed_kommunen": []
+  },
+  {
+    "id": "92444f07d288",
+    "title": "Guildo Horn: Adventstour-Eröffnung in der Halle 32",
+    "summary": "Guildo Horn startet am Freitag, 13. November, mit seinen Orthopädischen Strümpfen in der Halle 32 in Gummersbach.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/guildo-horn-adventstour-eroeffnung-in-der-halle-32-1413425",
+    "published": "Tue, 10 Nov 2026 14:00:01 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-10T14:17:32.521439",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9678590d191f",
+    "title": "Bergneustadt: Schlappenstürmer will an den Ballermann – Auftritt bei der Party-Arena",
+    "summary": "Schlappenstürmer Julian Heinze aus Bergneustadt singt am 12. Dezember bei der Party-Arena in Gummersbach. Sein Ziel: der Bierkönig.",
+    "link": "https://www.news-on-tour.de/345553/bergneustadt-schlappenstuermer-malle/",
+    "published": "Tue, 10 Nov 2026 12:37:45 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-10T14:17:29.089937",
+    "feed_kommunen": []
+  },
+  {
     "id": "3263262f4ec8",
     "title": "Eine Verletzte (28) bei Kellerbrand – Wohnung unbewohnbar",
     "summary": "Gummersbach – Wegen einer brennenden Mülltonne in einem Doppelhaus musste am Dienstagvormittag die Feuerwehr nach Dieringhausen ausrücken – Zweite Hausbewohnerin unverletzt evakuiert.",
@@ -10,19 +50,6 @@
       "gummersbach"
     ],
     "fetched": "2026-11-10T12:17:22.737854",
-    "feed_kommunen": []
-  },
-  {
-    "id": "f97d64b40116",
-    "title": "Gummersbach: Rauchentwicklung in Wohngebäude – Einsatz",
-    "summary": "Rauchentwicklung aus einem Wohngebäude in Gummersbach-Dieringhausen: Feuerwehr, Rettungsdienst und Polizei im Einsatz.",
-    "link": "https://www.news-on-tour.de/345515/gummersbach-rauchentwicklung/",
-    "published": "Tue, 10 Nov 2026 09:20:36 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach"
-    ],
-    "fetched": "2026-11-10T11:17:08.019714",
     "feed_kommunen": []
   },
   {

@@ -1,5 +1,31 @@
 [
   {
+    "id": "d466a44e05af",
+    "title": "Ärztin, Architektin, Künstlerin: Zu Gast in Oberbergs Ateliers",
+    "summary": "Engelsart lud zum „Offenen Atelier Oberberg“ ein: Wir haben zwei der 33 Künstlerinnen und Künstler besucht.",
+    "link": "https://www.ksta.de/region/oberberg/engelskirchen/aerztin-architektin-kuenstlerin-zu-gast-in-oberbergs-ateliers-1413249",
+    "published": "Tue, 10 Nov 2026 13:35:15 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T14:17:32.521727",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b7bdfdf6de23",
+    "title": "Kirche schrumpft: Dom-Sanierung in Oberberg kostet Millionen",
+    "summary": "Bei der Herbstsynode des Kirchenkreises An der Agger ging es um Finanzen, große Bauvorhaben und den Umbau der Gebäude.",
+    "link": "https://www.ksta.de/region/oberberg/nuembrecht/kirche-schrumpft-dom-sanierung-in-oberberg-kostet-millionen-1413243",
+    "published": "Tue, 10 Nov 2026 11:22:32 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T14:17:32.521881",
+    "feed_kommunen": []
+  },
+  {
     "id": "d728671ffaab",
     "title": "18 Nachwuchskräfte losgesprochen",
     "summary": "Oberberg – Feierstunde für die Absolventen – Erfolgreicher Ausbildungsabschluss in der Landwirtschaft.",
@@ -13,16 +39,16 @@
     "feed_kommunen": []
   },
   {
-    "id": "f8da7baf630f",
+    "id": "d0aa49dfa640",
     "title": "Kaum Spielräume in Oberberg: 50 Millionen vom Land, doch Bund bleibt Thema",
     "summary": "Trotz mehr Geld vom Land beklagt Christian Berger, dass der Bund Sozialleistungen nicht genug gegenfinanziert.",
-    "link": "https://www.rundschau-online.de/region/oberberg/oberberg-50-millionen-vom-land-doch-bund-bleibt-thema-1413212",
+    "link": "https://www.ksta.de/region/oberberg/oberberg-50-millionen-vom-land-doch-bund-bleibt-thema-1413212",
     "published": "Tue, 10 Nov 2026 11:00:20 +0100",
-    "source": "Kölnische Rundschau Oberberg",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
     "kommunen": [
       "kreisweite-nachrichten"
     ],
-    "fetched": "2026-11-10T13:17:11.027237",
+    "fetched": "2026-11-10T14:17:32.522034",
     "feed_kommunen": []
   },
   {
@@ -39,16 +65,16 @@
     "feed_kommunen": []
   },
   {
-    "id": "a57ed3b8579a",
+    "id": "a3f2af9853d8",
     "title": "Vogtei-Streit: Stadt darf AfD den Saal nicht verweigern",
     "summary": "Die AfD lädt am Samstag in die Alte Vogtei ein, die Initiative „Unser Oberberg ist bunt, nicht braun“ hält mit Kundgebung dagegen.",
-    "link": "https://www.rundschau-online.de/region/oberberg/vogtei-streit-stadt-darf-afd-den-saal-nicht-verweigern-1413150",
+    "link": "https://www.ksta.de/region/oberberg/vogtei-streit-stadt-darf-afd-den-saal-nicht-verweigern-1413150",
     "published": "Tue, 10 Nov 2026 10:47:38 +0100",
-    "source": "Kölnische Rundschau Oberberg",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
     "kommunen": [
       "kreisweite-nachrichten"
     ],
-    "fetched": "2026-11-10T13:17:11.027424",
+    "fetched": "2026-11-10T14:17:32.522330",
     "feed_kommunen": []
   },
   {

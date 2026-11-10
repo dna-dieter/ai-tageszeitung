@@ -1,5 +1,18 @@
 [
   {
+    "id": "af6a3da7fc84",
+    "title": "70 Stimmen, ein Konzert: Oratorienprojekt in Drabenderhöhe",
+    "summary": "Begeisterte Besucher in Drabenderhöhe: Rund 70 Sängerinnen und Sänger boten ein Oratorienprojekt.",
+    "link": "https://www.ksta.de/region/oberberg/70-stimmen-ein-konzert-oratorienprojekt-in-drabenderhoehe-1413414",
+    "published": "Tue, 10 Nov 2026 13:53:43 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-10T14:17:32.521571",
+    "feed_kommunen": []
+  },
+  {
     "id": "58a465791770",
     "title": "„Verkehrschaos ist ausgeblieben“",
     "summary": "Oberberg – Autobahn zwischen Engelskirchen und Bielstein in Fahrtrichtung Olpe ist seit Montag gesperrt – Zu Stausituation kommt es zu Stoßzeiten.",
@@ -3745,6 +3758,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-09T12:17:30.598020",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "0d44fef6a1b3",
+    "title": "Lesung zu den „Männern von morgen“",
+    "summary": "Das „Forum XXelle“ lädt am 20. November 2026 zu einem Abend über Jungs, Männlichkeitsbilder und gesellschaftliche Verantwortung ein – mit der Spiegel-Bestseller-Autorin Anne Dittmann.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9603-lesung-zu-den-maennern-von-morgen.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-10T14:17:35.443522",
     "feed_kommunen": [
       "wiehl"
     ]
