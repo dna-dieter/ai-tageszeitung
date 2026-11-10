@@ -1,5 +1,57 @@
 [
   {
+    "id": "ceafc8846d28",
+    "title": "„Jeden Moment genießen“: Das Kölner Dreigestirn zeigt sich zum Sessionsauftakt ganz privat",
+    "summary": "Das designierte Kölner Dreigestirn freut sich auf die Session. Prinz Marius I., Bauer Alex und Jungfrau Johanna wollen Taktgeber für den Wandel sein.",
+    "link": "https://www.ksta.de/koeln/karneval-in-koeln/koelner-dreigestirn-zeigt-sich-zum-sessionsauftakt-ganz-privat-1413573",
+    "published": "Tue, 10 Nov 2026 15:51:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T16:18:25.541049",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e9506c15e1b6",
+    "title": "Köln-Mülheim: Kiosk-Verkäufer mit Messer bedroht – Polizei sucht nach mutmaßlichem Räuber",
+    "summary": "Der Mann hatte die Herausgabe von Bargeld gefordert. Als der Kiosk-Verkäufer sich zur Wehr setzte, flüchtete der Tatverdächtige.",
+    "link": "https://www.ksta.de/koeln/muelheim/muelheim-veedel/koeln-muelheim-kiosk-verkaeufer-mit-messer-bedroht-1413511",
+    "published": "Tue, 10 Nov 2026 15:49:27 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T16:18:25.541069",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8cd0a0b705dc",
+    "title": "Kampagne gestartet: Festkomitee will mit „Karnevals-WG“ junge Menschen ansprechen",
+    "summary": "Die neue Kampagne ist Teil des Strategieprozesses „Alaaf 2040“ des Festkomitees Kölner Karneval.",
+    "link": "https://www.ksta.de/koeln/karneval-in-koeln/karneval-koeln-festkomitee-startet-kampagne-karnevals-wg-1413307",
+    "published": "Tue, 10 Nov 2026 15:32:30 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T16:18:25.541084",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ca400c3b255c",
+    "title": "Theater im Bauturm: Der ganze Faust als aberwitziges Solo",
+    "summary": "Kieran Joel, Regisseur und Hauptdarsteller in einer Person, nimmt sich den größten deutschen Klassiker vor. Mit durchschlagendem Erfolg.",
+    "link": "https://www.ksta.de/kultur-medien/theater-im-bauturm-der-ganze-faust-als-aberwitziges-solo-1413521",
+    "published": "Tue, 10 Nov 2026 15:30:59 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T16:18:25.541096",
+    "feed_kommunen": []
+  },
+  {
     "id": "ed93a06ca7ad",
     "title": "Halloween: Laut Innenministerium gab es versuchte Plünderungen in Köln",
     "summary": "Bei den Halloween-Krawallen in Köln wollten Randalierer offenbar auch Geschäfte plündern. Die Polizei konnte die Versuche nach Angaben des NRW-Innenministeriums verhindern.",
@@ -23,6 +75,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-10T15:18:05.755918",
+    "feed_kommunen": []
+  },
+  {
+    "id": "dcb19a64f0cb",
+    "title": "Sportliche Termine der Woche",
+    "summary": "10. November 2026, 14:47",
+    "link": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/sportliche-termine-der-woche-18",
+    "published": "Tue, 10 Nov 2026 14:47:00 +0100",
+    "source": "Stadt Köln Pressemeldungen",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T16:18:25.331503",
     "feed_kommunen": []
   },
   {

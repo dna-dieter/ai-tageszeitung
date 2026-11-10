@@ -1,5 +1,44 @@
 [
   {
+    "id": "9a74e3332106",
+    "title": "Wanderbus-Hoffnung: Kreis will Aus für 2027 nach Rekordsaison kippen",
+    "summary": "Fast 2000 Fahrgäste nutzten 2026 den touristischen Bus.",
+    "link": "https://www.ksta.de/region/rhein-berg/odenthal/wanderbus-hoffnung-kreis-will-aus-nach-rekordsaison-kippen-1413544",
+    "published": "Tue, 10 Nov 2026 15:44:12 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T16:16:19.681010",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a8da4b4446ee",
+    "title": "Vom Labor in die Werkhalle, in den Alltag: Landesregierung beschließt Innovationsstrategie 2028-2034",
+    "summary": "Fünf Zukunftsthemen bis 2034 – Ministerin Neubaur: Jetzt geht es um Tempo",
+    "link": "https://rbw.de/vom-labor-in-die-werkhalle/",
+    "published": "Tue, 10 Nov 2026 14:28:56 +0000",
+    "source": "Rheinisch-Bergische Wirtschaftsförderung (RBW)",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T16:16:24.814976",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e4a61c17be9c",
+    "title": "Letzter Nachtbus: Auf diesen Linien soll er entfallen",
+    "summary": "Der Kreis will jährlich 160.000 Euro im Nahverkehr sparen: Die letzten Nachtfahrten entfallen auf acht Linien.",
+    "link": "https://www.ksta.de/region/rhein-berg/letzter-nachtbus-auf-diesen-linien-soll-er-entfallen-1413539",
+    "published": "Tue, 10 Nov 2026 15:24:32 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T16:16:19.681123",
+    "feed_kommunen": []
+  },
+  {
     "id": "54ab8fbb06c7",
     "title": "Drei Vereine: Gemeinsam für Moitzfeld",
     "summary": "TuS Moitzfeld, Dorfgemeinschaft Moitzfeld und KjG Moitzfeld intensivieren ihre Zusammenarbeit. Ein gemeinsames Logo und die Ausstattung zweier Jugendmannschaften mit neuen Trikots sind erste sichtbare Zeichen der engeren Zusammenarbeit. Ziel ist es, das Vereinsleben im Dorf besser zu vernetzen und gemeinsam neue Projekte auf den Weg zu bringen.",
@@ -129,6 +168,19 @@
     "feed_kommunen": []
   },
   {
+    "id": "3b0f8e4b92fc",
+    "title": "Thunar Jentsch zeigt „lebensFARBEN“ in den Lux-Hallen",
+    "summary": "Bilder, ohne Oben und Unten, Farben, die sich mit dem Lichteinfall verändern, und Skulpturen, die persönliche Erinnerungen bewahren: Vom 14. bis zum 28. November 2026 präsentieren die Lux-Hallen die Ausstellung „lebensFARBEN – Zwischen Farbe und Leben“ von Thunar Jentsch.",
+    "link": "https://in-gl.de/2026/11/10/thunar-jentsch-zeigt-lebensfarben-in-den-lux-hallen/",
+    "published": "Tue, 10 Nov 2026 06:47:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T16:15:43.018172",
+    "feed_kommunen": []
+  },
+  {
     "id": "2af702effd29",
     "title": "Darum ist bei Tura Pohlhausen schon bald Schluss mit lustig",
     "summary": "Am Freitag endet eine lange Tradition: Im Vereinsheim steigt zum letzten Mal kölscher Karneval. Warum Organisator Dirk Hohlmann und Moderator Markus Homburg aufhören.",
@@ -172,6 +224,19 @@
     "feed_kommunen": [
       "burscheid"
     ]
+  },
+  {
+    "id": "234b41d69ae5",
+    "title": "Rösrath: „Lebendiges Erinnern, Flagge zeigen“",
+    "summary": "Drei Stolpersteine erinnern vor dem historischen Rathaus an Rösrather Bürger, die als Kommunisten verfolgt und im Konzentrationslager ermordet wurden. Rund 30 Menschen kamen zur Mahnwache zusammen, um an die Opfer der NS-Zeit zu erinnern und über die Bedeutung des Gedenkens für die Gegenwart zu sprechen.",
+    "link": "https://in-gl.de/2026/11/10/rosrath-lebendiges-erinnern-flagge-zeigen-gedenken-zur-reichspogromnacht/",
+    "published": "Mon, 09 Nov 2026 23:19:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "roesrath"
+    ],
+    "fetched": "2026-11-10T16:15:43.018549",
+    "feed_kommunen": []
   },
   {
     "id": "efa32761bc9a",

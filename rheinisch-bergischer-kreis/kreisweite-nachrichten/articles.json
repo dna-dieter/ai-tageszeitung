@@ -1,5 +1,44 @@
 [
   {
+    "id": "9a74e3332106",
+    "title": "Wanderbus-Hoffnung: Kreis will Aus für 2027 nach Rekordsaison kippen",
+    "summary": "Fast 2000 Fahrgäste nutzten 2026 den touristischen Bus.",
+    "link": "https://www.ksta.de/region/rhein-berg/odenthal/wanderbus-hoffnung-kreis-will-aus-nach-rekordsaison-kippen-1413544",
+    "published": "Tue, 10 Nov 2026 15:44:12 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T16:16:19.681010",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a8da4b4446ee",
+    "title": "Vom Labor in die Werkhalle, in den Alltag: Landesregierung beschließt Innovationsstrategie 2028-2034",
+    "summary": "Fünf Zukunftsthemen bis 2034 – Ministerin Neubaur: Jetzt geht es um Tempo",
+    "link": "https://rbw.de/vom-labor-in-die-werkhalle/",
+    "published": "Tue, 10 Nov 2026 14:28:56 +0000",
+    "source": "Rheinisch-Bergische Wirtschaftsförderung (RBW)",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T16:16:24.814976",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e4a61c17be9c",
+    "title": "Letzter Nachtbus: Auf diesen Linien soll er entfallen",
+    "summary": "Der Kreis will jährlich 160.000 Euro im Nahverkehr sparen: Die letzten Nachtfahrten entfallen auf acht Linien.",
+    "link": "https://www.ksta.de/region/rhein-berg/letzter-nachtbus-auf-diesen-linien-soll-er-entfallen-1413539",
+    "published": "Tue, 10 Nov 2026 15:24:32 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T16:16:19.681123",
+    "feed_kommunen": []
+  },
+  {
     "id": "4863fc7f9a7f",
     "title": "Ragnar Migenda gibt Amt als Beigeordneter vorzeitig ab",
     "summary": "Er ist nicht nur der erste Stellvertreter des Bürgermeisters, sondern als Beigeordneter für einige der wichtigsten und zugleich umstrittensten Themen der Lokalpolitik verantwortlich: Ende März 2027 geht Ragnar Migenda in den vorzeitigen Ruhestand. Aus gesundheitlichen Gründen.",
@@ -10,6 +49,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-10T14:15:46.610539",
+    "feed_kommunen": []
+  },
+  {
+    "id": "3b0f8e4b92fc",
+    "title": "Thunar Jentsch zeigt „lebensFARBEN“ in den Lux-Hallen",
+    "summary": "Bilder, ohne Oben und Unten, Farben, die sich mit dem Lichteinfall verändern, und Skulpturen, die persönliche Erinnerungen bewahren: Vom 14. bis zum 28. November 2026 präsentieren die Lux-Hallen die Ausstellung „lebensFARBEN – Zwischen Farbe und Leben“ von Thunar Jentsch.",
+    "link": "https://in-gl.de/2026/11/10/thunar-jentsch-zeigt-lebensfarben-in-den-lux-hallen/",
+    "published": "Tue, 10 Nov 2026 06:47:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T16:15:43.018172",
     "feed_kommunen": []
   },
   {

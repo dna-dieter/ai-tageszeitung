@@ -1,5 +1,89 @@
 [
   {
+    "id": "93f8ed3e520f",
+    "title": "Neue Pfarrerin in Eckenhagen begrüßt",
+    "summary": "Reichshof - Jenny Rath tritt die Nachfolge von Martin Will an - Gut gefüllte Barockkirche beim Gottesdienst.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/neue-pfarrerin-in-eckenhagen-begr----t-a-140236",
+    "published": "Tue, 10 Nov 2026 16:12:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "reichshof"
+    ],
+    "fetched": "2026-11-10T16:17:35.201444",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ac9501d9b359",
+    "title": "GC-heat stattet Waldbröler Grundschüler mit Warnwesten aus",
+    "summary": "Pünktlich zum Beginn der dunklen Jahreszeit fand auch in diesem Jahr die Warnwestenübergabe der Waldbröler Firma GC-heat an die Grundschulkinder der Marktstadt Waldbröl statt. Insbesondere zu dieser Zeit des Jahres […]",
+    "link": "https://www.waldbroel.de/gc-heat-stattet-waldbroeler-grundschueler-mit-warnwesten-aus/",
+    "published": "Tue, 10 Nov 2026 14:45:14 +0000",
+    "source": "Stadt Waldbröl (offiziell)",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-10T16:17:39.368317",
+    "feed_kommunen": [
+      "waldbroel"
+    ]
+  },
+  {
+    "id": "754d46542ff1",
+    "title": "Die Gemeindebücherei wird zum Wohnzimmer",
+    "summary": "Ein Ort zum Lesen, Spielen, Kreativsein und Freunde treffen – die Gemeindebücherei auf der Hahner Straße ist längst mehr als nur ein Ort, an dem Bücher ausgeliehen werden. Die Gemeindebücherei wird immer mehr zu einem echten „Wohnzimmer“ für Kinder und Familien. Besonders die Nähe zur Schule macht die Bücherei zu einem beliebten Treffpunkt: Schülerinnen und […] The post Die Gemeindebücherei wird z",
+    "link": "https://www.morsbach.de/blog/homepage/die-gemeindebuecherei-wird-zum-wohnzimmer/",
+    "published": "Tue, 10 Nov 2026 14:34:05 +0000",
+    "source": "Gemeinde Morsbach (offiziell)",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-11-10T16:17:42.752249",
+    "feed_kommunen": [
+      "morsbach"
+    ]
+  },
+  {
+    "id": "9154da5b2c59",
+    "title": "Nächster Gesellschaftsspiel-Nachmittag für Erwachsene am 25. November",
+    "summary": "Regelmäßiger Spiele-Nachmittag jeden 4. Mittwoch im Monat in der Stadtbibliothek",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/naechster-gesellschaftsspiel-nachmittag-fuer-erwachsene-am-25-november-900000731-37660.html?rubrik=900000004",
+    "published": "Tue, 10 Nov 2026 15:25:00 +0100",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-10T16:17:43.816123",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "cdce59157ecd",
+    "title": "Von Martinszug bis Fußchirurgie: Alle wichtigen Termine in Oberberg",
+    "summary": "Martinsumzüge, ein Vortrag zur Fußchirurgie und Tipps zur Altersvorsorge: Diese Termine sollten Sie sich vormerken.",
+    "link": "https://www.ksta.de/region/oberberg/martinszug-bis-fusschirurgie-alle-wichtigen-termine-in-oberberg-1413518",
+    "published": "Tue, 10 Nov 2026 15:13:43 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T16:17:33.896518",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e07e72cd0109",
+    "title": "Gedenken in Nümbrecht: Antisemitismus ist „Schande für Deutschland“",
+    "summary": "Mehr als 250 Menschen gedachten in Nümbrecht der Pogromnacht.",
+    "link": "https://www.ksta.de/region/oberberg/nuembrecht/gedenken-in-nuembrecht-antisemitismus-ist-schande-fuer-deutschland-1413509",
+    "published": "Tue, 10 Nov 2026 15:06:24 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-10T16:17:33.896604",
+    "feed_kommunen": []
+  },
+  {
     "id": "4f4640878433",
     "title": "FERCHAU-RISE-Award für die Semesterbesten",
     "summary": "Gummersbach – Elisa Jia Lin Liu, Tjark Gaudich und Matthias Marx wurden als beste Absolventen am Campus Gummersbach der TH Köln ausgezeichnet.",
