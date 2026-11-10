@@ -20,6 +20,16 @@
     "teaser": "Beim Nature Journaling machen Sie sich mit Stift und Skizzenbuch auf eine kleine Entdeckungsreise in die Natur. Sie halten Pflanzen, Tiere und Pilze in der Umgebung in einfacher Form zeichnerisch und schriftlich fest. Da"
   },
   {
+    "titel": "Bensberger Hüttenzauber",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T17:00:00+01:00",
+    "ort": "Schlossstraße, 51429 Bergisch Gladbach",
+    "preis": "",
+    "link": "https://www.facebook.com/bensbergerhuettenzauber/?locale=de_DE",
+    "quelle": "Das Bergische",
+    "teaser": "Der „Bensberger Hüttenzauber“ verlängert die festliche Stimmung über die Weihnachtstage hinaus. Bis zum 30. Dezember erwartet die Gäste ein abwechslungsreiches Programm mit Live-Musik und kulinarischen Themenabenden. Auf"
+  },
+  {
     "titel": "Führungen an und in der Neuemühle in Wermelskirchen: Geschichte einer Bergischen Mühle",
     "datum": "13. Nov 2026",
     "datum_raw": "2026-11-13T16:00:00+01:00",
@@ -378,6 +388,16 @@
     "link": "http://www.lugev.de/",
     "quelle": "Das Bergische",
     "teaser": "Die GEOLOGICA ist als Traditionsbörse für das Bergische Land in Bergisch Gladbach ein beliebter Treffpunkt für Fachleute und Sammler, die Mineralien und Fossilien tauschen, kaufen und verkaufen. Sie ist aber auch seit fü"
+  },
+  {
+    "titel": "Weihnachtsmarkt der Begegnung in Bensberg",
+    "datum": "29. Nov 2026",
+    "datum_raw": "2026-11-29T12:00:00+01:00",
+    "ort": "Evangelische Kirche Bensberg, Friedhofsweg 9, 51429 Bergisch Gladbach",
+    "preis": "",
+    "link": "https://www.kirche-bensberg.de/weihnachtsmarkt-der-begegnung-2025/",
+    "quelle": "Das Bergische",
+    "teaser": "Am 1. Advent verwandelt sich das Gelände rund um die Ev. Kirche in Bensberg wieder in einen besonderen Ort der Begegnung. Gemütlich, authentisch und mit Angeboten aus der Gemeinde für die Gemeinde – so möchten wir gemein"
   },
   {
     "titel": "Advents- und Weihnachtsbrunch",
