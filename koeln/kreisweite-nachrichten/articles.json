@@ -1,5 +1,57 @@
 [
   {
+    "id": "ed93a06ca7ad",
+    "title": "Halloween: Laut Innenministerium gab es versuchte Plünderungen in Köln",
+    "summary": "Bei den Halloween-Krawallen in Köln wollten Randalierer offenbar auch Geschäfte plündern. Die Polizei konnte die Versuche nach Angaben des NRW-Innenministeriums verhindern.",
+    "link": "https://www.ksta.de/koeln/halloween-laut-innenministerium-gab-es-versuchte-pluenderungen-in-koeln-1413480",
+    "published": "Tue, 10 Nov 2026 14:56:02 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T15:18:05.755906",
+    "feed_kommunen": []
+  },
+  {
+    "id": "917b16bff66c",
+    "title": "Kalk: 30-Jähriger mit scharfer Schusswaffe und Machete festgenommen",
+    "summary": "Die Polizei entdeckte neben den Waffen auch Magazine und eine Sturmhaube unter dem Auto des Mannes.",
+    "link": "https://www.ksta.de/koeln/kalk/kalk-veedel/koeln-30-jaehriger-mit-scharfer-schusswaffe-und-machete-festgenommen-1413381",
+    "published": "Tue, 10 Nov 2026 14:49:55 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T15:18:05.755918",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c7400f0316ea",
+    "title": "Personalisierte Medikamente: Wie „goatAM“ die Zukunft der Medizin durch 3D-Druck prägt",
+    "summary": "Der 3D-Druck verspricht maßgeschneiderte Dosierungen und eine effizientere Behandlung.",
+    "link": "https://www.ksta.de/ratgeber/gesundheit/start-up-goatam-druckt-medikamente-im-3d-drucker-1357407",
+    "published": "Tue, 10 Nov 2026 14:30:18 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T15:18:05.755930",
+    "feed_kommunen": []
+  },
+  {
+    "id": "09a51a31de04",
+    "title": "Verfilmung von Bestseller „Identitti“: „Es gibt immer noch viel zu wenig Frauen in großen Rollen“",
+    "summary": "„Identitti\" startet am 12. November: Hauptdarstellerinnen sprechen bei der Köln-Premiere über Identität und Frauenrollen.",
+    "link": "https://www.ksta.de/freizeit/identitti-im-kino-cast-handlung-und-stimmen-von-der-koeln-premiere-1413302",
+    "published": "Tue, 10 Nov 2026 14:27:11 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T15:18:05.755945",
+    "feed_kommunen": []
+  },
+  {
     "id": "9a9012b75b60",
     "title": "Wetterphänomen: Warum Köln am Dienstagmorgen in dickem Nebel lag",
     "summary": "Bis weit in den Vormittag hinein war es in Köln am Dienstag sehr nebelig, hinzu kamen niedrige Temperaturen. Das ändert sich in den nächsten Tagen.",
@@ -49,6 +101,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-10T14:18:35.401799",
+    "feed_kommunen": []
+  },
+  {
+    "id": "0a0d8a99ba23",
+    "title": "Messe der Kölner Berufskollegs 2026",
+    "summary": "10. November 2026, 12:09Im Mediapark werden Wege in Ausbildung, Studium und Beruf vorgestellt",
+    "link": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/messe-der-koelner-berufskollegs-2026",
+    "published": "Tue, 10 Nov 2026 12:09:00 +0100",
+    "source": "Stadt Köln Pressemeldungen",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T15:18:05.106645",
     "feed_kommunen": []
   },
   {
