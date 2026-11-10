@@ -3816,5 +3816,20 @@
     "feed_kommunen": [
       "wiehl"
     ]
+  },
+  {
+    "id": "f88f470d843f",
+    "title": "Haushaltsrede von Bürgermeister Ulrich Stücker",
+    "summary": "In der Ratssitzung am 10. November 2026 hat Bürgermeister Ulrich Stücker den Haushalt der Stadt Wiehl für das Jahr 2027 eingebracht. Das Video dokumentiert die Rede.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9605-haushaltsrede-von-buergermeister-ulrich.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-10T23:17:50.425917",
+    "feed_kommunen": [
+      "wiehl"
+    ]
   }
 ]
