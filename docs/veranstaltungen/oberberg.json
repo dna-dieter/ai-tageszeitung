@@ -25,7 +25,7 @@
     "datum_raw": "2026-11-12T12:00:00+01:00",
     "ort": "Steinmüllerallee, 51643 Gummersbach",
     "preis": "",
-    "link": "https://www.winterdorf-gummersbach.de/",
+    "link": "http://www.winterdorf-gummersbach.de/",
     "quelle": "Das Bergische",
     "teaser": "Seid zu Gast in unserer unnachahmlichen Weihnachtswelt und genieße eine Stimmung wie sie es früher und nicht nur im Märchen einmal gab. Vom 12.11.26 bis zum 23.12.26 tauchen wir das Herz der Gummersbacher Steinmülleralle"
   },
@@ -390,6 +390,16 @@
     "teaser": "Alle Kinder sind eingeladen zu einer kleinen Feier. \"Wir erfahren etwas über den Heiligen Nikolaus, singen gemeinsam um den Tannenbaum und lassen uns vom Nikolaus überraschen.\" Im Anschluss gibt es adventliches Gebäck, K"
   },
   {
+    "titel": "Weihnachtsbasteln für Kinder",
+    "datum": "2. Dez 2026",
+    "datum_raw": "2026-12-02T14:00:00+01:00",
+    "ort": "Kur- & Touristinfo Reichshof, Reichshofstraße 30, 51580 Reichshof",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Am 02. und 03. Dezember, jeweils von 14:00 bis 16:00 Uhr können Kinder ab vier Jahren und ihre Familien in der Kur- & Touristinfo in Reichshof-Eckenhagen festliche Lichtgläser basteln. Beim nachhaltigen Bastelprojekt wer"
+  },
+  {
     "titel": "Weihnachts- und Balladenkonzert mit Werner Weimar & Harald Horn",
     "datum": "4. Dez 2026",
     "datum_raw": "2026-12-04T19:30:00+01:00",
@@ -480,6 +490,16 @@
     "teaser": "Im Museum findet eine Schmiedevorführung statt."
   },
   {
+    "titel": "Heimsuchung (Abiturstück) nach Jenny Erpenbeck",
+    "datum": "9. Dez 2026",
+    "datum_raw": "2026-12-09T20:00:00+01:00",
+    "ort": "Halle 32, Steinmüllerallee 10, 51643 Gummersbach",
+    "preis": "ab 22 €",
+    "link": "https://www.halle32.de/programm/heimsuchung-abiturstueck-nach-jenny-erpenbeck-1311/",
+    "quelle": "Das Bergische",
+    "teaser": "Nach dem zeitgenössischen Roman von Jenny Erpenbeck: An einem Brandenburger See entfalten sich generationenübergreifende Geschichten von 1906 bis 2002. Die Hausbewohner erleben Krieg, DDR und Wiedervereinigung, jeder mit"
+  },
+  {
     "titel": "Nümbrechter Budenzauber ",
     "datum": "11. Dez 2026",
     "datum_raw": "2026-12-11T00:00:00+01:00",
@@ -524,7 +544,7 @@
     "datum": "11. Dez 2026",
     "datum_raw": "2026-12-11T16:45:00+01:00",
     "ort": "Kur- & Touristinfo Reichshof, Reichshofstraße 30, 51580 Reichshof",
-    "preis": "",
+    "preis": "ab 15 €",
     "link": "http://www.reichshof.de/",
     "quelle": "Das Bergische",
     "teaser": "Die Kinder erwartet eine spannende Fackelwanderung mit Schnitzeljagd. Anschließend wird die Weihnachtsgeschichte gelesen und es gibt wärmenden Punsch und Spekulatius. Wanderführerin: Jasmin Kostrzewa Treffpunkt: Kur- & T"
@@ -588,5 +608,15 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Am 3. Advent wird es magisch. Der Pferdehof Mildsiefen taucht in ein glitzerndes Lichterparadies ein und lädt zu einem zauberhaften Weihnachtserlebnis ein – perfekt für kleine und große Weihnachtsfans. Erleben Sie einen "
+  },
+  {
+    "titel": "Lars Redlich - Lars` Christmas",
+    "datum": "15. Dez 2026",
+    "datum_raw": "2026-12-15T20:00:00+01:00",
+    "ort": "Halle 32, Steinmüllerallee 10, 51643 Gummersbach",
+    "preis": "ab 32 €",
+    "link": "https://www.halle32.de/programm/lars-redlich-lars-christmas-1332/",
+    "quelle": "Das Bergische",
+    "teaser": "Lars Redlich – quasi der Thermomix unter den Kleinkünstlern: Er singt, swingt, springt von der Sopran-Arie in den Hip Hop, mimt den Rocker, die Diva und textet Hits wie ,,Stairway to Heaven“ oder ,,Despacito“ brüllend ko"
   }
 ]

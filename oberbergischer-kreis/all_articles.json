@@ -1,5 +1,32 @@
 [
   {
+    "id": "58a465791770",
+    "title": "„Verkehrschaos ist ausgeblieben“",
+    "summary": "Oberberg – Autobahn zwischen Engelskirchen und Bielstein in Fahrtrichtung Olpe ist seit Montag gesperrt – Zu Stausituation kommt es zu Stoßzeiten.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/verkehrschaos-ist-ausgeblieben-a-140225",
+    "published": "Tue, 10 Nov 2026 12:54:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "engelskirchen",
+      "wiehl"
+    ],
+    "fetched": "2026-11-10T13:17:11.851509",
+    "feed_kommunen": []
+  },
+  {
+    "id": "0a3042384481",
+    "title": "Schwere Prüfung kurz vor Weihnachten",
+    "summary": "Marienheide – Zum 38. Mal richtet der TV Rodt-Müllenbach den Nikolaus-Berglauf aus.",
+    "link": "http://www.oberberg-aktuell.de/leichtathletik/schwere-pr--fung-kurz-vor-weihnachten-a-124860",
+    "published": "Tue, 10 Nov 2026 12:33:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-11-10T13:17:11.851574",
+    "feed_kommunen": []
+  },
+  {
     "id": "3263262f4ec8",
     "title": "Eine Verletzte (28) bei Kellerbrand – Wohnung unbewohnbar",
     "summary": "Gummersbach – Wegen einer brennenden Mülltonne in einem Doppelhaus musste am Dienstagvormittag die Feuerwehr nach Dieringhausen ausrücken – Zweite Hausbewohnerin unverletzt evakuiert.",
@@ -59,6 +86,19 @@
     "feed_kommunen": []
   },
   {
+    "id": "f8da7baf630f",
+    "title": "Kaum Spielräume in Oberberg: 50 Millionen vom Land, doch Bund bleibt Thema",
+    "summary": "Trotz mehr Geld vom Land beklagt Christian Berger, dass der Bund Sozialleistungen nicht genug gegenfinanziert.",
+    "link": "https://www.rundschau-online.de/region/oberberg/oberberg-50-millionen-vom-land-doch-bund-bleibt-thema-1413212",
+    "published": "Tue, 10 Nov 2026 11:00:20 +0100",
+    "source": "Kölnische Rundschau Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T13:17:11.027237",
+    "feed_kommunen": []
+  },
+  {
     "id": "a816c360fe34",
     "title": "Oberberg: Bau-Monitor zeigt Lücke von rund 3.200 Wohnungen – Neubau nötig",
     "summary": "Bau-Monitor 2026: Im Oberbergischen Kreis fehlen rund 3.200 Wohnungen – obwohl es mit rund 134.900 über 7.500 mehr gibt als vor 15 Jahren.",
@@ -69,6 +109,32 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-10T11:17:08.019620",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a7298e285181",
+    "title": "Neue Herz-Sektion: Waldbröl behandelt per Katheter und Impuls",
+    "summary": "Beim Herztag am 14. November stellt das Kreiskrankenhaus Waldbröl seine neue Elektrophysiologie vor.",
+    "link": "https://www.rundschau-online.de/region/oberberg/waldbroel/neue-herz-sektion-waldbroel-behandelt-per-katheter-und-impuls-1413203",
+    "published": "Tue, 10 Nov 2026 10:54:38 +0100",
+    "source": "Kölnische Rundschau Oberberg",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-10T13:17:11.027316",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a57ed3b8579a",
+    "title": "Vogtei-Streit: Stadt darf AfD den Saal nicht verweigern",
+    "summary": "Die AfD lädt am Samstag in die Alte Vogtei ein, die Initiative „Unser Oberberg ist bunt, nicht braun“ hält mit Kundgebung dagegen.",
+    "link": "https://www.rundschau-online.de/region/oberberg/vogtei-streit-stadt-darf-afd-den-saal-nicht-verweigern-1413150",
+    "published": "Tue, 10 Nov 2026 10:47:38 +0100",
+    "source": "Kölnische Rundschau Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T13:17:11.027424",
     "feed_kommunen": []
   },
   {

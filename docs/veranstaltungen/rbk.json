@@ -470,16 +470,6 @@
     "teaser": "Am Freitag, den 04.12.2026, endet die Kabarettreihe der IGP im Exil mit dem Andreas Rebers und seinem Programm „rein geschäftlich - Bilanz“. Was ist das Leben? Zufall? Witz, oder eben doch nur ein Geschäft? Um diese Frag"
   },
   {
-    "titel": "Winterzauber Weihnachtsmarkt im Märchenwald Altenberg",
-    "datum": "5. Dez 2026",
-    "datum_raw": "2026-12-05T13:00:00+01:00",
-    "ort": "Märchenwald Altenberg, Märchenwaldweg 15, 51519 Odenthal",
-    "preis": "",
-    "link": "https://www.maerchenwald-altenberg.de/events-erleben/winterzauber/",
-    "quelle": "Das Bergische",
-    "teaser": "An den drei letzten Adventswochenenden verwandelt sich der Märchenwald Altenberg in einen gemütlichen Weihnachtsmarkt für die ganze Familie. Direkt vor der märchenhaften Waldkulisse laden liebevoll dekorierte Stände mit "
-  },
-  {
     "titel": "Märchenwald Winterzauber",
     "datum": "5. Dez 2026",
     "datum_raw": "2026-12-05T13:00:00+01:00",
@@ -488,6 +478,16 @@
     "link": "https://www.maerchenwald-altenberg.de/events-erleben/winterzauber/",
     "quelle": "Das Bergische",
     "teaser": "Ab dem 28. November erstrahlt der Märchenwald, an den Adventswochenenden und den Weihnachtsferien, in stimmungsvoller Illumination.Zwischen Bäumen, Wegen und Märchenfiguren schaffen leuchtende Installationen ein besonder"
+  },
+  {
+    "titel": "Winterzauber Weihnachtsmarkt im Märchenwald Altenberg",
+    "datum": "5. Dez 2026",
+    "datum_raw": "2026-12-05T13:00:00+01:00",
+    "ort": "Märchenwald Altenberg, Märchenwaldweg 15, 51519 Odenthal",
+    "preis": "",
+    "link": "https://www.maerchenwald-altenberg.de/events-erleben/winterzauber/",
+    "quelle": "Das Bergische",
+    "teaser": "An den drei letzten Adventswochenenden verwandelt sich der Märchenwald Altenberg in einen gemütlichen Weihnachtsmarkt für die ganze Familie. Direkt vor der märchenhaften Waldkulisse laden liebevoll dekorierte Stände mit "
   },
   {
     "titel": "Winterzauber am Golfplatz Lüderich",

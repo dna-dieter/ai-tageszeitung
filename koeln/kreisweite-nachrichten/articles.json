@@ -1,5 +1,70 @@
 [
   {
+    "id": "bdeff4d041d2",
+    "title": "Lanxess-Arena: Xavier Naidoo spielt im Frühjahr 2027 in Köln",
+    "summary": "Im Winter 2025 gab der gebürtige Mannheimer sein letztes Konzert in Köln. Nun kehrt er zurück in die Lanxess-Arena.",
+    "link": "https://www.ksta.de/koeln/lanxess-arena-xavier-naidoo-spielt-im-fruehjahr-2027-in-koeln-1411146",
+    "published": "Tue, 10 Nov 2026 12:07:36 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T13:17:51.603037",
+    "feed_kommunen": []
+  },
+  {
+    "id": "237b8ea2d9cb",
+    "title": "Alte Liebe rostet nicht: Wie ein Kölner Verleger seinen Oldtimer in ein Elektroauto verwandelte",
+    "summary": "Der Umbau seines blauen Fiat 500 zu einem Elektroauto war ein Herzensprojekt für Edmund Labonté.",
+    "link": "https://www.ksta.de/koeln/alte-liebe-rostet-nicht-koelner-verleger-macht-fiat-500-zum-e-auto-1409941",
+    "published": "Tue, 10 Nov 2026 12:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T13:17:51.603054",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d90e1da607c3",
+    "title": "Neustart für Kölner Veedelstreffpunkt: Das Liebig 257 zieht um an die Escher Straße",
+    "summary": "Fünf Jahre nach Eröffnung zieht der Veedels-Freiraum „Liebig257“ in eine alte Kita um. Nun wurde noch mal in den alten Räumen gefeiert.",
+    "link": "https://www.ksta.de/koeln/nippes/nippes-veedel/koeln-nippes-das-liebig-257-zieht-um-an-die-escher-strasse-1407329",
+    "published": "Tue, 10 Nov 2026 11:29:52 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T13:17:51.603071",
+    "feed_kommunen": []
+  },
+  {
+    "id": "481219a58c51",
+    "title": "Kölner Recherchepreis: Ehrung für herausragende Arbeiten junger Journalistinnen und Journalisten",
+    "summary": "Die Träger des diesjährigen Kölner Recherchepreises kommen von der Rheinpfalz (Ludwigshafen), dem Online-Portal „RUMS“ (Münster) und den Nürnberger Nachrichten.",
+    "link": "https://www.ksta.de/koeln/koelner-recherchepreisehrung-fuer-herausragende-arbeiten-junger-journalistinnen-und-journalisten-1412880",
+    "published": "Tue, 10 Nov 2026 11:28:52 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T13:17:51.603082",
+    "feed_kommunen": []
+  },
+  {
+    "id": "961b07b6d17b",
+    "title": "Im März 2028: Mario Barth tritt in der Kölner Lanxess-Arena auf",
+    "summary": "Während die aktuelle Tour verlängert wurde, kündigt der Comedian bereits sein nächstes Programm an – mit einem Auftritt in Köln.",
+    "link": "https://www.ksta.de/koeln/koeln-mario-barth-kommt-2028-in-die-lanxess-arena-1409350",
+    "published": "Tue, 10 Nov 2026 11:09:46 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T13:17:51.603092",
+    "feed_kommunen": []
+  },
+  {
     "id": "ba8a8ed070f5",
     "title": "Karneval für Groß und Klein: Wo Jecke am 11.11. abseits von Heumarkt und Uniwiese feiern können",
     "summary": "Am 11.11. ist in Köln einiges los: Von Festival und Open Air bis Clubnacht und Veedelsfeier – hier sind Termine für Feierlustige.",
