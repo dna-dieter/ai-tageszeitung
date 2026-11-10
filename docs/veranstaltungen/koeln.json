@@ -3113,6 +3113,17 @@
     "teaser": "15:30 bis 16 Uhr · Wir öffnen die Türen des Kamishibai und lesen eine Geschichte vor – in der Stadtteilbibliothek Haus Balchem."
   },
   {
+    "titel": "MINT-Vorlesen und Experimentieren",
+    "datum": "16. Dez 2026",
+    "datum_raw": "2026-12-16T00:00:00",
+    "datum_bis": "",
+    "ort": "Stadtteilbibliothek Rodenkirchen, Rodenkirchen",
+    "preis": "Die Veranstaltung ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41624/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17 Uhr · MINT-Vorlesestunde mit passendem Experiment in der Stadtteilbibliothek Rodenkirchen."
+  },
+  {
     "titel": "Let's Quiz! – Weihnachtsedition",
     "datum": "16. Dez 2026",
     "datum_raw": "2026-12-16T00:00:00",
@@ -3309,17 +3320,6 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41623/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "16 bis 17 Uhr · Bastelaktion für Kinder von 6 bis 10 Jahren in der Stadtteilbibliothek Chorweiler"
-  },
-  {
-    "titel": "MINT-Vorlesen und Experimentieren",
-    "datum": "18. Dez 2026",
-    "datum_raw": "2026-12-18T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Rodenkirchen, Rodenkirchen",
-    "preis": "Die Veranstaltung ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41624/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "16 bis 17 Uhr · MINT-Vorlesestunde mit passendem Experiment in der Stadtteilbibliothek Rodenkirchen."
   },
   {
     "titel": "Vorlesezeit auf Türkisch",
