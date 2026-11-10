@@ -50,6 +50,16 @@
     "teaser": "Hexenwahn und Intrigen in einer Stadt am Abgrund. Ein Krimi für Liebhaber von meisterhaft erzählter historischer Spannung. Cöln, 1784. Massengebete auf dem Rathausplatz konnten die schlimmste Flutkatastrophe seit Mensche"
   },
   {
+    "titel": "Drink & Aquarell",
+    "datum": "14. Nov 2026",
+    "datum_raw": "2026-11-14T15:00:00+01:00",
+    "ort": "Café KaffeePause, Hauptstraße 46, 51491 Overath",
+    "preis": "ab 20 €",
+    "link": "http://josephinewischert.de/drink-and-aquarell",
+    "quelle": "Das Bergische",
+    "teaser": "Drink & Aquarell geht in die 2. Runde! Du hast Lust, kreativ zu werden und dabei einen schönen Nachmittag im Café zu verbringen? 🎨☕ Dann bist du herzlich zum „Drink & Aquarell“-Workshop am 14.11.2026 von 15–18 Uhr eingel"
+  },
+  {
     "titel": "27. Gitarrissimo - Abschlusskonzert",
     "datum": "14. Nov 2026",
     "datum_raw": "2026-11-14T18:00:00+01:00",
@@ -190,16 +200,6 @@
     "teaser": "Kölsche Weihnachtsstimmung, kulinarischer Genuss und erstklassige Live-Musik – am 20. November lädt das Esszimmer zur zweiten Kölschen Weihnachts-Dinner Show ein. Freuen Sie sich auf einen stimmungsvollen Abend mit einem"
   },
   {
-    "titel": "Lesereise \"Bunte Vielfalt trifft schwarzen Humor\"",
-    "datum": "20. Nov 2026",
-    "datum_raw": "2026-11-20T19:00:00+01:00",
-    "ort": "Bürgerhaus Odenthal, Altenberger-Dom-Straße 36, 51519 Odenthal",
-    "preis": "ab 5 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Das Motto der sechsten Lesereise \"Bunte Vielfalt trifft schwarzen Humor\" steht für die inhaltliche Bandbreite der vorgestellten Romane von zwei Autorinnen und zwei Autoren der finnischen Literaturszene. Ein knallharter K"
-  },
-  {
     "titel": "„Femme fatale“ mit dem Cirque Buffon",
     "datum": "20. Nov 2026",
     "datum_raw": "2026-11-20T19:00:00+01:00",
@@ -208,6 +208,16 @@
     "link": "https://www.hotel-wisskirchen.de/das-spiegelzelt-in-altenberg/",
     "quelle": "Das Bergische",
     "teaser": "Der Cirque Bouffon gastiert zum 6. Mal mit einer faszinierenden Dinner-Show \"Femme fatale\" im nostalgischen Spiegelzelt in Altenberg. Das internationale Künstlerensemble des Cirque Bouffon verzaubert sein Publikum im Sti"
+  },
+  {
+    "titel": "Lesereise \"Bunte Vielfalt trifft schwarzen Humor\"",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T19:00:00+01:00",
+    "ort": "Bürgerhaus Odenthal, Altenberger-Dom-Straße 36, 51519 Odenthal",
+    "preis": "ab 5 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Das Motto der sechsten Lesereise \"Bunte Vielfalt trifft schwarzen Humor\" steht für die inhaltliche Bandbreite der vorgestellten Romane von zwei Autorinnen und zwei Autoren der finnischen Literaturszene. Ein knallharter K"
   },
   {
     "titel": "Gerd J. Pohl liest: Am Abgrund... und einen Schritt weiter",
@@ -458,6 +468,26 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Am Freitag, den 04.12.2026, endet die Kabarettreihe der IGP im Exil mit dem Andreas Rebers und seinem Programm „rein geschäftlich - Bilanz“. Was ist das Leben? Zufall? Witz, oder eben doch nur ein Geschäft? Um diese Frag"
+  },
+  {
+    "titel": "Winterzauber Weihnachtsmarkt im Märchenwald Altenberg",
+    "datum": "5. Dez 2026",
+    "datum_raw": "2026-12-05T13:00:00+01:00",
+    "ort": "Märchenwald Altenberg, Märchenwaldweg 15, 51519 Odenthal",
+    "preis": "",
+    "link": "https://www.maerchenwald-altenberg.de/events-erleben/winterzauber/",
+    "quelle": "Das Bergische",
+    "teaser": "An den drei letzten Adventswochenenden verwandelt sich der Märchenwald Altenberg in einen gemütlichen Weihnachtsmarkt für die ganze Familie. Direkt vor der märchenhaften Waldkulisse laden liebevoll dekorierte Stände mit "
+  },
+  {
+    "titel": "Märchenwald Winterzauber",
+    "datum": "5. Dez 2026",
+    "datum_raw": "2026-12-05T13:00:00+01:00",
+    "ort": "Märchenwald Altenberg, Märchenwaldweg 15, 51519 Odenthal",
+    "preis": "ab 8 €",
+    "link": "https://www.maerchenwald-altenberg.de/events-erleben/winterzauber/",
+    "quelle": "Das Bergische",
+    "teaser": "Ab dem 28. November erstrahlt der Märchenwald, an den Adventswochenenden und den Weihnachtsferien, in stimmungsvoller Illumination.Zwischen Bäumen, Wegen und Märchenfiguren schaffen leuchtende Installationen ein besonder"
   },
   {
     "titel": "Winterzauber am Golfplatz Lüderich",
