@@ -1,15 +1,28 @@
 [
   {
-    "id": "5c0743d361f7",
-    "title": "Fünf Fahrzeuge kollidieren: Gefahrgutunfall auf A4 bei Köln – Autobahn gesperrt",
-    "summary": "Vier Lkw und ein Auto sind auf der A4 ineinandergefahren. Gefahrgut tritt aus, zwei Menschen sind verletzt. Die Bergung dauert an.",
+    "id": "967c465b2856",
+    "title": "„Das Phantom der Oper“ in Köln: Herrlich absurd – oder einfach nur herrlich",
+    "summary": "Das „Phantom der Oper“ kommt in den Kölner Musical Dome. Die drei Hauptdarsteller erzählen, was sich hinter der Maske des Megamusicals verbirgt.",
+    "link": "https://www.ksta.de/kultur-medien/das-phantom-der-oper-in-koeln-herrlich-absurd-oder-einfach-nur-herrlich-1412766",
+    "published": "Tue, 10 Nov 2026 06:30:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T08:18:27.120964",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f4fa8868f1b3",
+    "title": "Fünf Fahrzeuge betroffen: Gefahrgutunfall auf A4 in Köln – Autobahn gesperrt",
+    "summary": "Vier Lkw und ein Auto sind auf der A4 in einen Unfall verwickelt worden. Gefahrgut tritt aus, zwei Menschen sind verletzt. Die Bergung dauert an.",
     "link": "https://www.ksta.de/koeln/koeln-gefahrgutunfall-auf-a4-autobahn-gesperrt-1412906",
     "published": "Tue, 10 Nov 2026 06:19:24 +0100",
     "source": "Kölner Stadt-Anzeiger Köln",
     "kommunen": [
       "kreisweite-nachrichten"
     ],
-    "fetched": "2026-11-10T07:18:04.268231",
+    "fetched": "2026-11-10T08:18:27.120981",
     "feed_kommunen": []
   },
   {
