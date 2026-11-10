@@ -1,5 +1,59 @@
 [
   {
+    "id": "1d3f8673e478",
+    "title": "Von St. Gangolf bis Martini: Schau beleuchtetRadevormwalds Kirchengeschichte",
+    "summary": "Im Heimatmuseum wird eine neue Sonderausstellung aufgebaut. Sie beschäftigt sich mit der Radevormwalderr Kirchengeschichte. Eröffnung ist am 22. November.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/von-st-gangolf-bis-martini-schau-beleuchtetradevormwalds-kirchengeschichte-XNTB3MGLTK4D4LP35ZHWR7HNQM.html",
+    "published": "Tue, 10 Nov 2026 17:02:23 +0100",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-11-10T17:17:36.566340",
+    "feed_kommunen": [
+      "radevormwald"
+    ]
+  },
+  {
+    "id": "f6ac0afbf368",
+    "title": "Von der Liebe zur Musik und der Liebe zu den Menschen",
+    "summary": "Gummersbach – Der Gummersbacher Musiker Werner Weimar hat in diesem Jahr sein 50. Bühnenjubiläum gefeiert.",
+    "link": "http://www.oberberg-aktuell.de/gummersbach/von-der-liebe-zur-musik-und-der-liebe-zu-den-menschen-a-140258",
+    "published": "Tue, 10 Nov 2026 17:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-10T17:17:41.150474",
+    "feed_kommunen": []
+  },
+  {
+    "id": "94b6e0acf748",
+    "title": "Reichshof sucht den Kompromiss zwischen finanziellem Absturz und massiven Steuererhöhungen",
+    "summary": "Reichshof – Obwohl der Gemeindehaushalt für 2027 „nur“ ein Loch von 1,8 Millionen Euro ausweist, droht der Gang in die Haushaltssicherung – Kämmerer Dresbach schlägt Maßnahmenkatalog im zweistelligen Millionenbereich bis 2030 vor – Darin enthalten: drastische Steuererhöhungen.",
+    "link": "http://www.oberberg-aktuell.de/reichshof/reichshof-sucht-den-kompromiss-zwischen-finanziellem-absturz-und-massiven-steuererh--hungen-a-140245",
+    "published": "Tue, 10 Nov 2026 16:45:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "reichshof"
+    ],
+    "fetched": "2026-11-10T17:17:41.150763",
+    "feed_kommunen": []
+  },
+  {
+    "id": "634541d72765",
+    "title": "Ein Feuerwerk der Akkordeonmusik",
+    "summary": "Wiehl – Jahreskonzert des Akkordeon-Orchesters Drabenderhöhe-Bergisch-Land begeisterte das Publikum – Langjährige Mitglieder und Dirigenten geehrt.",
+    "link": "http://www.oberberg-aktuell.de/Wiehl/ein-feuerwerk-der-akkordeonmusik-a-140214",
+    "published": "Tue, 10 Nov 2026 16:44:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-10T17:17:41.150905",
+    "feed_kommunen": []
+  },
+  {
     "id": "93f8ed3e520f",
     "title": "Neue Pfarrerin in Eckenhagen begrüßt",
     "summary": "Reichshof - Jenny Rath tritt die Nachfolge von Martin Will an - Gut gefüllte Barockkirche beim Gottesdienst.",

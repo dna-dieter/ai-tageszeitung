@@ -280,16 +280,6 @@
     "teaser": "Pilze werden allgemein fast ausschließlich nach ihrem Speisewert und ihrer Giftigkeit beurteilt. Häufig wird dabei vergessen, dass ein Leben ohne Pilze nicht möglich ist. Aber Pilze lassen sich auch unglaublich kreativ e"
   },
   {
-    "titel": "Offene Achtsame Esel-Wanderung",
-    "datum": "28. Nov 2026",
-    "datum_raw": "2026-11-28T13:00:00+01:00",
-    "ort": "Seelentierzeit Begegnungshof, Alper Straße 24, 51580 Reichshof",
-    "preis": "ab 20 €",
-    "link": "https://www.reichshof.org/veranstaltungen/index.html?idart=11985&client=1",
-    "quelle": "Das Bergische",
-    "teaser": "Einmal im Monat, an jedem letzten Samstag (außer im Dezember), findet eine offene Esel-Wanderung mit vier lieben Eseln statt. Nach einer achtsamen, freien Begegnung mit den Eseln auf dem Hof wandern wir gemeinsam ca. ein"
-  },
-  {
     "titel": "Denklinger Burgweihnacht",
     "datum": "28. Nov 2026",
     "datum_raw": "2026-11-28T13:00:00+01:00",
@@ -298,6 +288,16 @@
     "link": "https://www.burgweihnacht-denklingen.de/",
     "quelle": "Das Bergische",
     "teaser": "Kunsthandwerk in der Burg, ortsansässige Vereine, Schule und Kindergarten vor Ort sorgen für das leibliche Wohl. Am Samstag verschiedene Auftritte, abends DJ-Musik. Sonntagmittag Unterhaltung durch die \"Flöckchen\". Koste"
+  },
+  {
+    "titel": "Offene Achtsame Esel-Wanderung",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T13:00:00+01:00",
+    "ort": "Seelentierzeit Begegnungshof, Alper Straße 24, 51580 Reichshof",
+    "preis": "ab 20 €",
+    "link": "https://www.reichshof.org/veranstaltungen/index.html?idart=11985&client=1",
+    "quelle": "Das Bergische",
+    "teaser": "Einmal im Monat, an jedem letzten Samstag (außer im Dezember), findet eine offene Esel-Wanderung mit vier lieben Eseln statt. Nach einer achtsamen, freien Begegnung mit den Eseln auf dem Hof wandern wir gemeinsam ca. ein"
   },
   {
     "titel": "Weihnachtsmarkt Gimborn",
