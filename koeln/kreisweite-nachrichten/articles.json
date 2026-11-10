@@ -1,5 +1,44 @@
 [
   {
+    "id": "71831274cf8e",
+    "title": "Konstruktion aus Modulen: Stadt Köln hat Bauunternehmen für das Suchthilfezentrum gefunden",
+    "summary": "Die IG Panateleonsviertel fordert eine Prüfung. Die Stadt Köln verweist auf die Rechtmäßigkeit.",
+    "link": "https://www.ksta.de/koeln/koeln-stadt-hat-bauunternehmen-fuer-das-suchthilfezentrum-gefunden-1412499",
+    "published": "Tue, 10 Nov 2026 05:30:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T06:17:49.597792",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e51091ffa7aa",
+    "title": "Trotz Landschaftsschutz: Kölner Behörde hält neuen FC-Platz für möglich",
+    "summary": "Seit Jahren kommt der Bau neuer Plätze des 1. FC Köln nicht voran, ein Kompromiss soll es ändern. Nun bewegt sich etwas.",
+    "link": "https://www.ksta.de/koeln/lindenthal/suelz/trotz-landschaftsschutz-koelner-behoerde-haelt-fc-platz-fuer-moeglich-1412567",
+    "published": "Tue, 10 Nov 2026 05:03:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T06:17:49.597805",
+    "feed_kommunen": []
+  },
+  {
+    "id": "514a3d4e359c",
+    "title": "Die Lieder der Session: Wer wird die nächste „Karnevalsmaus“? - Karnevals-DJ analysiert",
+    "summary": "Neue Session, neue Lieder: DJ Kapellmeister weiß, was Songs brauchen, um im Karneval zu begeistern. Zwei „Kracher“ hat er schon ausgemacht.",
+    "link": "https://www.ksta.de/koeln/karneval-in-koeln/koeln-karnevals-dj-analysiert-die-neuen-lieder-fuer-den-koelner-karneval-1412261",
+    "published": "Tue, 10 Nov 2026 05:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-10T06:17:49.597818",
+    "feed_kommunen": []
+  },
+  {
     "id": "6463ddc4f333",
     "title": "Großer Jubel und Freudentränen: Jetzt ist es amtlich: Südstadt-Kneipe sichert sich begehrten Titel",
     "summary": "Zum zweiten Mal wurde der Wettbewerb „Musikkneipe des Jahres“ durchgeführt. 155 Kneipen standen zur Wahl. Am Ende hat sich die Torburg aus der Kölner Südstadt durchgesetzt.",
