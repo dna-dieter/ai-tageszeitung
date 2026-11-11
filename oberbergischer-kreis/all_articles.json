@@ -1,5 +1,57 @@
 [
   {
+    "id": "509f723b1e9b",
+    "title": "Waldbröl: Quishing mit gefälschtem Krankenkassenbrief – 58-Jährige gibt Daten preis",
+    "summary": "Eine 58-Jährige aus Waldbröl scannte den QR-Code in einem gefälschten Brief einer Krankenkasse. Die Polizei erklärt die Masche Quishing.",
+    "link": "https://www.news-on-tour.de/345613/waldbroel-quishing-krankenkasse/",
+    "published": "Wed, 11 Nov 2026 11:07:55 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-11T12:17:33.932016",
+    "feed_kommunen": []
+  },
+  {
+    "id": "fde7979e510d",
+    "title": "Wiehl: Volksbank Oberberg unterstützt Tafeln mit 15.000 Euro und Honig",
+    "summary": "Die Volksbank Oberberg unterstützt vier Tafeln mit 15.000 Euro und Honig. In Wiehl wurde deutlich, wie angespannt die Lage der Tafeln ist.",
+    "link": "https://www.news-on-tour.de/345612/wiehl-tafeln-honig/",
+    "published": "Wed, 11 Nov 2026 11:07:54 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-11T12:17:33.932184",
+    "feed_kommunen": []
+  },
+  {
+    "id": "54d03cc4c0ed",
+    "title": "Gummersbach: Ordnungswesen zieht in die Augustastraße 12 – sechs Tage geschlossen",
+    "summary": "Der Bereich Allgemeines Ordnungswesen der Stadt Gummersbach zieht um: Vom 13. bis 18. November geschlossen, ab 19. November in der Augustastraße 12.",
+    "link": "https://www.news-on-tour.de/345611/augustastrasse-gummersbach/",
+    "published": "Wed, 11 Nov 2026 11:07:44 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-11T12:17:33.932385",
+    "feed_kommunen": []
+  },
+  {
+    "id": "23c0c6ffab25",
+    "title": "Wenn eine imaginäre Freundin zur Bestseller-Reihe verhilft",
+    "summary": "Engelskirchen – Die finnische Autorin Satu Rämö stellte im ausverkauften Neuen Baumwolllager ihren fünften Krimi um Ermittlerin Hildur Rúnarsdóttir vor.",
+    "link": "http://www.oberberg-aktuell.de/engelskirchen/wenn-eine-imagin--re-freundin-zur-bestseller-reihe-verhilft-a-140282",
+    "published": "Wed, 11 Nov 2026 11:33:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-11T12:17:40.692712",
+    "feed_kommunen": []
+  },
+  {
     "id": "27a5f86d7651",
     "title": "Jeck!",
     "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
@@ -46942,6 +46994,36 @@
       "wiehl"
     ],
     "fetched": "2026-11-10T23:17:50.425917",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "cf284089c5de",
+    "title": "Hohe Auszeichnung als „Schule der Zukunft“",
+    "summary": "Die Grundschule Oberwiehl ist für ihr herausragendes Engagement im Bereich „Bildung für nachhaltige Entwicklung“ (BNE) belohnt worden: mit der höchsten Auszeichnungsstufe.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9604-hohe-auszeichnung-als-schule-der.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-11T12:17:43.112339",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "83fdcc4f0e91",
+    "title": "Ehrung für zwei Jubiläen",
+    "summary": "Mit Bank und Baum hat die Stadt Wiehl gestern im Alten Kurpark den Unternehmer Christian Peter Kotz geehrt: zu seinem 90. Geburtstag und für 20 Jahre Ehrenbürgerschaft.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9606-ehrung-fuer-zwei-jubilaeen.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-11T12:17:43.112496",
     "feed_kommunen": [
       "wiehl"
     ]

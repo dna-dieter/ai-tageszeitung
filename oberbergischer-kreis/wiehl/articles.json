@@ -1,5 +1,18 @@
 [
   {
+    "id": "fde7979e510d",
+    "title": "Wiehl: Volksbank Oberberg unterstützt Tafeln mit 15.000 Euro und Honig",
+    "summary": "Die Volksbank Oberberg unterstützt vier Tafeln mit 15.000 Euro und Honig. In Wiehl wurde deutlich, wie angespannt die Lage der Tafeln ist.",
+    "link": "https://www.news-on-tour.de/345612/wiehl-tafeln-honig/",
+    "published": "Wed, 11 Nov 2026 11:07:54 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-11T12:17:33.932184",
+    "feed_kommunen": []
+  },
+  {
     "id": "39a7cb516139",
     "title": "FV Wiehl will den Hauptvorstand breiter aufstellen",
     "summary": "Wiehl – Auf der nächsten Jahreshauptversammlung des Fußballvereins am 30. November stehen unter anderem Neuwahlen auf der Tagesordnung – Vorstand soll künftig in fünf Ressorts unterteilt werden.",
@@ -3855,6 +3868,36 @@
       "wiehl"
     ],
     "fetched": "2026-11-10T23:17:50.425917",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "cf284089c5de",
+    "title": "Hohe Auszeichnung als „Schule der Zukunft“",
+    "summary": "Die Grundschule Oberwiehl ist für ihr herausragendes Engagement im Bereich „Bildung für nachhaltige Entwicklung“ (BNE) belohnt worden: mit der höchsten Auszeichnungsstufe.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9604-hohe-auszeichnung-als-schule-der.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-11T12:17:43.112339",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "83fdcc4f0e91",
+    "title": "Ehrung für zwei Jubiläen",
+    "summary": "Mit Bank und Baum hat die Stadt Wiehl gestern im Alten Kurpark den Unternehmer Christian Peter Kotz geehrt: zu seinem 90. Geburtstag und für 20 Jahre Ehrenbürgerschaft.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9606-ehrung-fuer-zwei-jubilaeen.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-11T12:17:43.112496",
     "feed_kommunen": [
       "wiehl"
     ]

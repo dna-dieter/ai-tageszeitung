@@ -200,14 +200,14 @@
     "teaser": "Der Weihnachtsmarkt in Bergisch Gladbach zentral auf dem Konrad-Adenauer-Platz gehört zu den größten im Rheinisch-Bergischen Kreis. Obwohl viele sagen: „Das ist doch jedes Jahr das Gleiche!“ stimmt es in gewisser Weise, "
   },
   {
-    "titel": "Kölsche Weihnachts Dinnershow",
+    "titel": "Lesereise \"Bunte Vielfalt trifft schwarzen Humor\"",
     "datum": "20. Nov 2026",
     "datum_raw": "2026-11-20T19:00:00+01:00",
-    "ort": "Das Esszimmer im Technologie Park, Friedrich-Ebert-Strasse 75, 51429 Bergisch Gladbach",
-    "preis": "ab 79 €",
-    "link": "http://www.das-esszimmer-bensberg.de/",
+    "ort": "Bürgerhaus Odenthal, Altenberger-Dom-Straße 36, 51519 Odenthal",
+    "preis": "ab 5 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
-    "teaser": "Kölsche Weihnachtsstimmung, kulinarischer Genuss und erstklassige Live-Musik – am 20. November lädt das Esszimmer zur zweiten Kölschen Weihnachts-Dinner Show ein. Freuen Sie sich auf einen stimmungsvollen Abend mit einem"
+    "teaser": "Das Motto der sechsten Lesereise \"Bunte Vielfalt trifft schwarzen Humor\" steht für die inhaltliche Bandbreite der vorgestellten Romane von zwei Autorinnen und zwei Autoren der finnischen Literaturszene. Ein knallharter K"
   },
   {
     "titel": "„Femme fatale“ mit dem Cirque Buffon",
@@ -220,14 +220,14 @@
     "teaser": "Der Cirque Bouffon gastiert zum 6. Mal mit einer faszinierenden Dinner-Show \"Femme fatale\" im nostalgischen Spiegelzelt in Altenberg. Das internationale Künstlerensemble des Cirque Bouffon verzaubert sein Publikum im Sti"
   },
   {
-    "titel": "Lesereise \"Bunte Vielfalt trifft schwarzen Humor\"",
+    "titel": "Kölsche Weihnachts Dinnershow",
     "datum": "20. Nov 2026",
     "datum_raw": "2026-11-20T19:00:00+01:00",
-    "ort": "Bürgerhaus Odenthal, Altenberger-Dom-Straße 36, 51519 Odenthal",
-    "preis": "ab 5 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "ort": "Das Esszimmer im Technologie Park, Friedrich-Ebert-Strasse 75, 51429 Bergisch Gladbach",
+    "preis": "ab 79 €",
+    "link": "http://www.das-esszimmer-bensberg.de/",
     "quelle": "Das Bergische",
-    "teaser": "Das Motto der sechsten Lesereise \"Bunte Vielfalt trifft schwarzen Humor\" steht für die inhaltliche Bandbreite der vorgestellten Romane von zwei Autorinnen und zwei Autoren der finnischen Literaturszene. Ein knallharter K"
+    "teaser": "Kölsche Weihnachtsstimmung, kulinarischer Genuss und erstklassige Live-Musik – am 20. November lädt das Esszimmer zur zweiten Kölschen Weihnachts-Dinner Show ein. Freuen Sie sich auf einen stimmungsvollen Abend mit einem"
   },
   {
     "titel": "Gerd J. Pohl liest: Am Abgrund... und einen Schritt weiter",
@@ -328,6 +328,16 @@
     "link": "https://www.puetz-roth.de/veranstaltung/tanz-auf-dem-vulkan-mit-dem-swing-ensemble-die-gluehwuermchen/",
     "quelle": "Das Bergische",
     "teaser": "Der turbulenten 1920er wird derzeit, 100 Jahre später, viel und oft gedacht. Die Mischung aus politischer Spannung und selbstvergessener Vergnügungssucht scheint heute wieder spürbar zu sein, zumal hier in Köln als auch "
+  },
+  {
+    "titel": "Glühweinfest in Odenthal-Holz",
+    "datum": "27. Nov 2026",
+    "datum_raw": "2026-11-27T17:00:00+01:00",
+    "ort": "Restaurant Cramer Stuben, Bergstraße 165, 51519 Odenthal",
+    "preis": "",
+    "link": "https://www.facebook.com/events/1145594298046900/1145594301380233/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22attachment%22%2C%22surface%22%3A%22newsfeed%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+    "quelle": "Das Bergische",
+    "teaser": "Auch in diesem Jahr gibt es im Biergarten der Gaststätte Cramer Stuben wieder ein gemütliches Glühweinfest. Es gibt leckeren Glühwein, heißen Kakao, Bratwürste vom Grill und viele weitere Köstlichkeiten."
   },
   {
     "titel": "Wilfried Schmickler: \"Der tut's noch\"",
