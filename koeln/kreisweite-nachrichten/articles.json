@@ -1,15 +1,54 @@
 [
   {
-    "id": "6d762837f62c",
-    "title": "Start in den Kölner Karneval: Trend bestätigt sich: Mehr Andrang in der Südstadt – So läuft der 11.11.",
-    "summary": "Es ist wieder so weit: Die Jecken feiern, das Kölsch fließt und die Session startet – alle Informationen zum 11.11. in Köln gibt es im Liveticker.",
-    "link": "https://www.ksta.de/koeln/karneval-in-koeln/elfter-elfter-im-karneval-liveticker-stimmung-trotz-regens-prima-in-koeln-1412530",
-    "published": "Wed, 11 Nov 2026 16:05:46 +0100",
+    "id": "5d5097674318",
+    "title": "Zum 1. Januar: Rhein-Energie erhöht Strompreise",
+    "summary": "Auch Gas wird bei dem Kölner Grundversorger zum 1. Januar 2027 teurer. Wer betroffen ist und wie hoch die Steigerung ausfällt.",
+    "link": "https://www.ksta.de/wirtschaft/zum-1-januar-rhein-energie-erhoeht-strompreise-1414506",
+    "published": "Wed, 11 Nov 2026 17:04:40 +0100",
     "source": "Kölner Stadt-Anzeiger Köln",
     "kommunen": [
       "kreisweite-nachrichten"
     ],
-    "fetched": "2026-11-11T16:18:34.092985",
+    "fetched": "2026-11-11T17:17:53.634972",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e697e16679af",
+    "title": "„Köln hat die beste Stimmung“: Jecken reisen sogar aus Österreich zur Sessionseröffnung an",
+    "summary": "Woher kommen die vielen Feiernden auf Kölns Straßen? Wir haben uns umgehört und viele begeisterte Stimmen eingefangen.",
+    "link": "https://www.ksta.de/koeln/karneval-in-koeln/koeln-hat-die-beste-stimmung-jecken-reisen-sogar-aus-oesterreich-an-1414480",
+    "published": "Wed, 11 Nov 2026 17:03:17 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T17:17:53.634992",
+    "feed_kommunen": []
+  },
+  {
+    "id": "07bff54a5966",
+    "title": "Start in den Kölner Karneval: Mehr Rettungseinsätze als im Vorjahr – So läuft der 11.11.",
+    "summary": "Es ist wieder so weit: Die Jecken feiern Karneval, das Kölsch fließt und die Session startet – alle Informationen zum 11.11. in Köln gibt es im Liveticker.",
+    "link": "https://www.ksta.de/koeln/karneval-in-koeln/elfter-elfter-im-karneval-liveticker-stimmung-trotz-regens-prima-in-koeln-1412530",
+    "published": "Wed, 11 Nov 2026 16:52:37 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T17:17:53.635007",
+    "feed_kommunen": []
+  },
+  {
+    "id": "27a1ded0646e",
+    "title": "Kölle Alaaf!: Grauer Himmel, bunte Kostüme – Kölner Karneval in Bildern",
+    "summary": "Gelbe Minions, blaue Fischfrauen, grüne Tannenbäume und lilafarbene Trauben – die Jecken trotzen dem November-Grau-in-Grau.",
+    "link": "https://www.ksta.de/koeln/karneval-in-koeln/koeln-grauer-himmel-bunte-kostueme-zum-sessionsauftakt-1414161",
+    "published": "Wed, 11 Nov 2026 16:21:23 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T17:17:53.635027",
     "feed_kommunen": []
   },
   {
@@ -179,19 +218,6 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-11T12:18:48.050033",
-    "feed_kommunen": []
-  },
-  {
-    "id": "d20795cd7e57",
-    "title": "Alaaf!: Grauer Himmel, bunte Kostüme – Kölner Karneval in Bildern",
-    "summary": "Gelbe Minions, blaugrüne Fischfrauen, lilafarbene Trauben – die Jecken trotzen dem November-Grau-in-Grau.",
-    "link": "https://www.ksta.de/koeln/karneval-in-koeln/koeln-grauer-himmel-bunte-kostueme-zum-sessionsauftakt-1414161",
-    "published": "Wed, 11 Nov 2026 11:44:39 +0100",
-    "source": "Kölner Stadt-Anzeiger Köln",
-    "kommunen": [
-      "kreisweite-nachrichten"
-    ],
-    "fetched": "2026-11-11T12:18:48.050051",
     "feed_kommunen": []
   },
   {
