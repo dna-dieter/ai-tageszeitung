@@ -1,5 +1,18 @@
 [
   {
+    "id": "69fbef94d096",
+    "title": "Radfahrer zieht sich schwerste Verletzungen zu",
+    "summary": "Reichshof – 34-Jähriger aus Fulda wurde heute Morgen in Wildbergerhütte von einem Auto angefahren – Siegener Straße stundenlang gesperrt.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/radfahrer-zieht-sich-schwerste-verletzungen-zu-a-140273",
+    "published": "Wed, 11 Nov 2026 09:27:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "reichshof"
+    ],
+    "fetched": "2026-11-11T10:17:25.896309",
+    "feed_kommunen": []
+  },
+  {
     "id": "6e195856b4aa",
     "title": "Verkehrssituation verbessern: Smiley-Tafel für Wildbergerhütte: Dorfverein soll zahlen",
     "summary": "Die Gemeinde zahlt die rund 3000 Euro teure Tempoanzeige nicht selbst, hilft aber womöglich mit einem Zuschuss.",
@@ -10,6 +23,20 @@
       "reichshof"
     ],
     "fetched": "2026-11-11T09:17:10.093204",
+    "feed_kommunen": []
+  },
+  {
+    "id": "74dddf9b9b57",
+    "title": "POL-GM: Radfahrer bei Zusammenstoß mit Pkw schwerstverletzt",
+    "summary": "Reichshof (ots) - Eine 26-Jährige aus Morsbach fuhr am Mittwoch (11. November) gegen 5:10 Uhr in ihrem Pkw auf der Siegener Straße aus Richtung Odenspiel kommend in Richtung Nosbach. Im Einmündungsbereich mit der Crottorfer Straße kam es zur ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6388170",
+    "published": "Wed, 11 Nov 2026 08:57:55 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "reichshof",
+      "morsbach"
+    ],
+    "fetched": "2026-11-11T10:17:24.830284",
     "feed_kommunen": []
   },
   {
