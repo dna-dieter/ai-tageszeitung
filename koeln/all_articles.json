@@ -1,5 +1,44 @@
 [
   {
+    "id": "c023bdcb3c9b",
+    "title": "Flughafen Köln/Bonn: Mann hält sich 1334 Tage unerlaubt in Deutschland auf",
+    "summary": "Am Flughafen Köln/Bonn kontrollierte die Bundespolizei einen 23-Jährigen, der 1.334 Tage unerlaubt im Land war. Dann tauchte eine zweite Identität auf.",
+    "link": "https://www.ksta.de/koeln/flughafen-koeln-bonn-mann-haelt-sich-1334-tage-unerlaubt-in-deutschland-auf-1413925",
+    "published": "Wed, 11 Nov 2026 07:30:50 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T08:18:31.701350",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5ff916e7fa5e",
+    "title": "Zwei Personen schwer verletzt: Gefahrgutunfall auf A4 in Köln – Sperrung am Morgen aufgehoben",
+    "summary": "Vier Lkw und ein Auto sind auf der A4 in einen Unfall verwickelt worden. Gefahrgut trat aus, zwei Menschen wurden verletzt. Die Autobahn musste viele Stunden lang gesperrt werden.",
+    "link": "https://www.ksta.de/koeln/koeln-gefahrgutunfall-auf-a4-autobahn-wieder-frei-1412906",
+    "published": "Wed, 11 Nov 2026 06:44:13 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T08:18:31.701372",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9b040d411dcd",
+    "title": "„Café Waschsalon“ schließt nach 33 Jahren: Die letzten Kölsch, Lichter aus, Trommeln still",
+    "summary": "Die Institution auf der Ehrenstraße macht am Samstag endgültig zu. Viele Feiern, kuriose Geschichten – und mehrere Ehen.",
+    "link": "https://www.ksta.de/koeln/karneval-in-koeln/koelner-institution-macht-caf-waschsalon-schliesst-nach-33-jahren-1413855",
+    "published": "Wed, 11 Nov 2026 06:30:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T08:18:31.701393",
+    "feed_kommunen": []
+  },
+  {
     "id": "ec2d1c4f0f6a",
     "title": "Liste Coesfeld: Bezirksregierung kritisiert Kölner Ausländeramt",
     "summary": "Die Bezirksregierung Köln übt Kritik am Umgang der Ausländerbehörde mit ausreisepflichtigen Personen.",
