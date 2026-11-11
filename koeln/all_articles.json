@@ -1,5 +1,31 @@
 [
   {
+    "id": "f317667bc998",
+    "title": "Leeder, Krätzjer und Verzällcher: Kölsche Weihnacht feiert 30 Jahre Advent auf Kölsch",
+    "summary": "Die Traditionsveranstaltung erfreut schon seit 30 Jahren mit Musik und Geschichten in schönstem Kölsch – leise Töne und viel Humor.",
+    "link": "https://www.ksta.de/koeln/porz/wahn/koeln-koelsche-weihnacht-feiert-30-jahre-advent-auf-koelsch-1413103",
+    "published": "Wed, 11 Nov 2026 14:02:54 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T14:18:44.835238",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a2b881eb23f5",
+    "title": "Start in den Karneval: Köln trotzt dem Nieselregen – So läuft der 11.11.",
+    "summary": "Es ist wieder so weit: Die Jecken feiern, das Kölsch fließt und die Session startet – alle Informationen zum 11.11. in Köln gibt es im Liveticker.",
+    "link": "https://www.ksta.de/koeln/karneval-in-koeln/elfter-elfter-im-karneval-liveticker-so-feiert-koeln-den-sessionsstart-1412530",
+    "published": "Wed, 11 Nov 2026 13:23:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T14:18:44.835276",
+    "feed_kommunen": []
+  },
+  {
     "id": "a4a278f00a66",
     "title": "Glühgarten im Interim: „The Max“ in Ehrenfeld startet als „Winter-Hangout“",
     "summary": "Da, wo einmal Ehrenfelds neues Quartier auf dem Max-Becker-Areal entstehen soll, wird bis zum Baustart allerlei Action geboten.",
@@ -13,16 +39,16 @@
     "feed_kommunen": []
   },
   {
-    "id": "031f40913dd9",
-    "title": "Karneval: Leere Uniwiese, volle Kneipen – So feiert Köln den 11.11.",
-    "summary": "Es ist wieder so weit: Die Jecken feiern, das Kölsch fließt und die Session startet – alle Informationen zum 11.11. in Köln gibt es im Liveticker",
-    "link": "https://www.ksta.de/koeln/karneval-in-koeln/elfter-elfter-im-karneval-liveticker-so-feiert-koeln-den-sessionsstart-1412530",
-    "published": "Wed, 11 Nov 2026 12:09:39 +0100",
+    "id": "20c21a3527a4",
+    "title": "„Das schreckt viele ab“: Wirt ist genervt – Weg zum Kölsch ist kaum möglich",
+    "summary": "Wer ins Kölner's will, muss durch zwei Sperren und einen Schein vorzeigen. Das schreckt Gäste ab.",
+    "link": "https://www.ksta.de/koeln/karneval-in-koeln/elfter-im-elften-wirt-ist-genervt-weg-zum-koelsch-ist-kaum-moeglich-1414323",
+    "published": "Wed, 11 Nov 2026 12:23:38 +0100",
     "source": "Kölner Stadt-Anzeiger Köln",
     "kommunen": [
       "kreisweite-nachrichten"
     ],
-    "fetched": "2026-11-11T12:18:48.050003",
+    "fetched": "2026-11-11T14:18:44.835300",
     "feed_kommunen": []
   },
   {
