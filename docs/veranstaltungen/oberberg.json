@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
-    "datum": "11. Nov 2026",
-    "datum_raw": "2026-11-11T11:00:00+02:00",
-    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
-    "preis": "ab 6 €",
-    "link": "https://www.schloss-homburg.de/cms200schloss/museum/sonderausstellungen/vorschau/index.shtml.de",
-    "quelle": "Das Bergische",
-    "teaser": "Kleine Figuren erzählen große Geschichten! Das 100-jährige Jubiläum des Museums auf Schloss Homburg wird mit einer großen Sonderausstellung gefeiert. In faszinierenden Miniaturwelten werden regionale Geschichte und Gesch"
-  },
-  {
     "titel": "Außer Kontrolle nach Ray Cooney",
     "datum": "11. Nov 2026",
     "datum_raw": "2026-11-11T20:00:00+01:00",
@@ -18,6 +8,16 @@
     "link": "https://www.halle32.de/programm/ausser-kontrolle-nach-ray-cooney-1310/",
     "quelle": "Das Bergische",
     "teaser": "In dieser turbulenten, witzig-spannenden Krimifarce nach Ray Cooney gerät Staatsminister Richard Willey in London zwischen leblosen Privatdetektiven, eifersüchtigen Ehepartnern und einem nervigen Kellner in ein Chaos, da"
+  },
+  {
+    "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T11:00:00+02:00",
+    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
+    "preis": "ab 6 €",
+    "link": "https://www.schloss-homburg.de/cms200schloss/museum/sonderausstellungen/vorschau/index.shtml.de",
+    "quelle": "Das Bergische",
+    "teaser": "Kleine Figuren erzählen große Geschichten! Das 100-jährige Jubiläum des Museums auf Schloss Homburg wird mit einer großen Sonderausstellung gefeiert. In faszinierenden Miniaturwelten werden regionale Geschichte und Gesch"
   },
   {
     "titel": "Winterdorf Gummersbach",
