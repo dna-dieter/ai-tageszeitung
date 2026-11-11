@@ -80,16 +80,6 @@
     "teaser": "Bereits am Sonntag, den 12. April 2026 starten die kostenlosen Schnuppertouren in Bergisch Gladbach in eine neue Saison. Zum zwölften Mal bieten engagierte Stadtführerinnen und Stadtführer in Zusammenarbeit mit der Stadt"
   },
   {
-    "titel": "Rangerführungen",
-    "datum": "15. Nov 2026",
-    "datum_raw": "2026-11-15T14:00:00+01:00",
-    "ort": "Besucher-Portal Steinhaus, Steinhaus 1, 51429 Bergisch Gladbach",
-    "preis": "ab 8 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Forstschutz? Was ist das? Bei den diesjährigen Rangerführungen geht es um die Tätigkeiten der Ranger im urbanen Raum und ihren Blick auf den Wald und seine Nutz-, Schutz- und Erholungsfunktion. Auf unserer 2-stündigen Wa"
-  },
-  {
     "titel": "Öffentliche Führung \"Papier – vom Handwerk zum Massenprodukt\"",
     "datum": "15. Nov 2026",
     "datum_raw": "2026-11-15T14:00:00+01:00",
@@ -108,6 +98,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Sonntagnachmittags lassen die ehrenamtlichen Handwerker im Bergischen Museum für Bergbau, Handwerk und Gewerbe historische Techniken aufleben. Schauen Sie ihnen über die Schulter. Heute können Sie Karin Dünner beim Spinn"
+  },
+  {
+    "titel": "Rangerführungen",
+    "datum": "15. Nov 2026",
+    "datum_raw": "2026-11-15T14:00:00+01:00",
+    "ort": "Besucher-Portal Steinhaus, Steinhaus 1, 51429 Bergisch Gladbach",
+    "preis": "ab 8 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Forstschutz? Was ist das? Bei den diesjährigen Rangerführungen geht es um die Tätigkeiten der Ranger im urbanen Raum und ihren Blick auf den Wald und seine Nutz-, Schutz- und Erholungsfunktion. Auf unserer 2-stündigen Wa"
   },
   {
     "titel": "Rösrather StadtVERführungen 2026",
