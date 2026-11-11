@@ -1,5 +1,19 @@
 [
   {
+    "id": "e0e4048c9cb3",
+    "title": "Auto kippt nach Zusammenstoß auf die Seite",
+    "summary": "Ein 70 Jahre alter Autofahrer aus Bochum ist am Montag, 9. November, bei einem Unfall in Reichshof-Wehnrath leicht verletzt worden. Sein Fiat war nach einem Zusammenstoß auf die Seite gekippt. Der Mann war nach Angaben der Polizei gegen 13.35 Uhr auf der Gewerbeparkstraße in Richtung Wiehler Straße unterwegs. Kurz vor der Einmündung zur Straße Am Höhmelskopf kam er aus bislang ungeklärter Ursache ",
+    "link": "https://www.rheinische-anzeigenblaetter.de/reichshof/c-blaulicht/auto-kippt-nach-zusammenstoss-auf-die-seite_a382808",
+    "published": "Wed, 11 Nov 2026 15:39:29 +0100",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "reichshof",
+      "wiehl"
+    ],
+    "fetched": "2026-11-11T16:17:27.675806",
+    "feed_kommunen": []
+  },
+  {
     "id": "69fbef94d096",
     "title": "Radfahrer zieht sich schwerste Verletzungen zu",
     "summary": "Reichshof – 34-Jähriger aus Fulda wurde heute Morgen in Wildbergerhütte von einem Auto angefahren – Siegener Straße stundenlang gesperrt.",
@@ -212,6 +226,21 @@
       "gummersbach"
     ],
     "fetched": "2026-11-06T15:17:14.789224",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c7f22ab63e9e",
+    "title": "E-Scooter-Fahrer bei Zusammenstoß mit Auto schwer verletz",
+    "summary": "Bei einem Unfall in Waldbröl ist am Mittwochabend, 4. November, ein 32 Jahre alter E-Scooter-Fahrer schwer verletzt worden. Der Mann kam zur stationären Behandlung in ein Krankenhaus. Nach Angaben der Polizei fuhr eine 29-jährige Autofahrerin gegen 21.46 Uhr auf der Homburger Straße stadtauswärts. Im Kreuzungsbereich mit der Turnerstraße und der Kreuzstraße kam es zum Zusammenstoß mit dem E-Scoote",
+    "link": "https://www.rheinische-anzeigenblaetter.de/waldbroel/c-blaulicht/e-scooter-fahrer-bei-zusammenstoss-mit-auto-schwer-verletz_a382430",
+    "published": "Fri, 06 Nov 2026 10:55:39 +0100",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "waldbroel",
+      "reichshof",
+      "morsbach"
+    ],
+    "fetched": "2026-11-06T11:17:20.656184",
     "feed_kommunen": []
   },
   {
