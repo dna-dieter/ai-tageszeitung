@@ -1,5 +1,70 @@
 [
   {
+    "id": "0fb5a2f24dec",
+    "title": "Nach sechs Jahren Pause: Kölner Domumfeld wird an Silvester wieder beleuchtet",
+    "summary": "Wegen der sexuellen Übergriffe in der Silvesternacht 2015/2016 hatte die Stadt eine Beleuchtung am Dom eingeführt.",
+    "link": "https://www.ksta.de/koeln/koelner-innenstadt/altstadt-nord/nach-langer-pause-koelner-domumgebung-wird-an-silvester-beleuchtet-1413557",
+    "published": "Wed, 11 Nov 2026 05:30:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T06:18:41.585931",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7780aee551e9",
+    "title": "Mögliche Bündelung in der Innenstadt: Stadt Köln schließt Führerscheinstellen ohne Ankündigung",
+    "summary": "In fünf Stadtbezirken verweist die Verwaltung Betroffene auf das Kundenzentrum Innenstadt. Dort beobachtete die Redaktion lange Warteschlangen.",
+    "link": "https://www.ksta.de/koeln/stadt-koeln-schliesst-fuehrerscheinstellen-ohne-ankuendigung-1413667",
+    "published": "Wed, 11 Nov 2026 05:03:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T06:18:41.585958",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c8ffa9b7970c",
+    "title": "Sozialhilfebetrug: Die Beute darf nicht bleiben",
+    "summary": "Wenn Betrüger ihren Vermögensvorteil behalten könnten, muss der Staat alle rechtlichen Möglichkeiten ausschöpfen.",
+    "link": "https://www.ksta.de/koeln/sozialhilfebetrug-die-beute-darf-nicht-bleiben-1413241",
+    "published": "Wed, 11 Nov 2026 05:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T06:18:41.585975",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8b8fda630d0d",
+    "title": "Kölner Südstadt-Wirt warnt: „Wenn das Wetter irgendwann wieder gut wird, haben wir ein Problem“",
+    "summary": "Wie sich die Südstadt-Kneipe „Torburg“ auf den Elften Elften vorbereitet - und wie Wirt Martin Wolf auf die Entwicklung auf dem Chlodwigplatz blickt.",
+    "link": "https://www.ksta.de/koeln/karneval-in-koeln/koeln-so-viel-bier-verkauft-die-suedstadt-kneipe-torburg-am-elften-elften-1413333",
+    "published": "Wed, 11 Nov 2026 05:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T06:18:41.585998",
+    "feed_kommunen": []
+  },
+  {
+    "id": "fdd2b154228f",
+    "title": "Geldwäsche und Sozialbetrug: Warum ein Kölner Clan sein Haus vorerst behalten darf",
+    "summary": "Drei Verurteilungen wegen Sozialbetrugs, aber keine Einziehung der Villa: Die Staatsanwaltschaft legt Revision gegen das Urteil des Landgerichts ein",
+    "link": "https://www.ksta.de/koeln/geldwaesche-und-sozialbetrug-warum-ein-koelner-clan-sein-haus-vorerst-behalten-darf-1413174",
+    "published": "Wed, 11 Nov 2026 05:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T06:18:41.586015",
+    "feed_kommunen": []
+  },
+  {
     "id": "d5870dbccd4e",
     "title": "Krawalle nach „Gen Z regelt“-Demo: 200 Verfahren laufen – Innenministerium spricht von versuchten Plünderungen",
     "summary": "35 Menschen wurden bei dem Einsatz an Halloween in Gewahrsam genommen – das ist mittlerweile über sie bekannt.",
