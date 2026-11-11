@@ -1,5 +1,20 @@
 [
   {
+    "id": "f76a3dde1867",
+    "title": "Das „Wohnzimmer von Dawerkusen“",
+    "summary": "2007 wurde ein Förderverein für die sanierungsbedürftige Mehrzweckhalle in Dabringhausen gegründet. Jetzt übergibt Mitbegründer Horst Krüger den Vorsitz.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/das-wohnzimmer-von-dawerkusen-5IJRRSAU3HAW2C6BFJLDF2PKJI.html",
+    "published": "Wed, 11 Nov 2026 07:00:04 +0100",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-11-11T07:16:10.492036",
+    "feed_kommunen": [
+      "wermelskirchen"
+    ]
+  },
+  {
     "id": "8d0d064d3490",
     "title": "Ragnar Migenda gibt Amt als Beigeordneter vorzeitig ab",
     "summary": "Er ist nicht nur der erste Stellvertreter des Bürgermeisters, sondern als Beigeordneter für einige der wichtigsten und zugleich umstrittensten Themen der Lokalpolitik verantwortlich: Ende März 2027 gibt Ragnar Migenda sein Amt zwei Jahre vor der Zeit auf. Aus gesundheitlichen Gründen.",
@@ -56,6 +71,19 @@
     "feed_kommunen": [
       "leichlingen"
     ]
+  },
+  {
+    "id": "663e50aa2751",
+    "title": "Mehr Schutz vor HPV: Impfquoten bei Jugendlichen steigen",
+    "summary": "Kleiner Pieks, große Wirkung: Beim Impfpass-Check des Gesundheitsamtes des Rheinisch-Bergischen Kreises wurden an 13 weiterführenden Schulen insgesamt 594 Impfpässe von Siebtklässlerinnen und Siebtklässlern gecheckt. Besonders bei der HPV-Impfung ist die Impfquote im Vergleich zum Vorjahr gestiegen.",
+    "link": "https://in-gl.de/2026/11/10/mehr-schutz-vor-hpv-impfquoten-bei-jugendlichen-steigen/",
+    "published": "Tue, 10 Nov 2026 17:01:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T07:15:41.940584",
+    "feed_kommunen": []
   },
   {
     "id": "cef7f6643a55",
