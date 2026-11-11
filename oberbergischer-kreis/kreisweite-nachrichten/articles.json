@@ -1,5 +1,44 @@
 [
   {
+    "id": "27a5f86d7651",
+    "title": "Jeck!",
+    "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
+    "link": "http://www.oberberg-aktuell.de/foto-des-tages/jeck--a-139973",
+    "published": "Wed, 11 Nov 2026 11:11:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T11:17:12.511385",
+    "feed_kommunen": []
+  },
+  {
+    "id": "74ad3accb725",
+    "title": "Anträge in 2026: Oberberg: 425 Anträge auf den Kleinen Waffenschein",
+    "summary": "Die Zahl der Anträge im Oberbergischen steigt weiter: Bislang gab es 425, die Bewilligungsquote liegt bei rund 94 Prozent.",
+    "link": "https://www.ksta.de/region/oberberg/oberberg-425-antraege-auf-den-kleinen-waffenschein-1414103",
+    "published": "Wed, 11 Nov 2026 10:43:21 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T11:17:11.495320",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4309bdcd2405",
+    "title": "Premiere für „Phantom der Oper“ im Musical Dome Köln - hier Tickets gewinnen",
+    "summary": "Das Musical „Phantom der Oper” kehrt zurück nach Deutschland - in den Musical Dome Köln. Am Sonntag ist Gala-Premiere mit rotem Teppich. Wir verlosen 2x2 Tickets. Sogar Andrew Lloyd Webber soll kommen. Hier mitmachen!",
+    "link": "https://www.rga.de/kultur/regional/premiere-fuer-phantom-der-oper-im-musical-dome-koeln-hier-tickets-gewinnen-CWVMKALNIBDV7IOJDB3ZV646AI.html",
+    "published": "Wed, 11 Nov 2026 10:39:06 +0100",
+    "source": "RGA Oberbergischer Kreis (Gesamt)",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T11:17:10.958986",
+    "feed_kommunen": []
+  },
+  {
     "id": "cdce59157ecd",
     "title": "Von Martinszug bis Fußchirurgie: Alle wichtigen Termine in Oberberg",
     "summary": "Martinsumzüge, ein Vortrag zur Fußchirurgie und Tipps zur Altersvorsorge: Diese Termine sollten Sie sich vormerken.",

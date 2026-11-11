@@ -1,5 +1,86 @@
 [
   {
+    "id": "27a5f86d7651",
+    "title": "Jeck!",
+    "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
+    "link": "http://www.oberberg-aktuell.de/foto-des-tages/jeck--a-139973",
+    "published": "Wed, 11 Nov 2026 11:11:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T11:17:12.511385",
+    "feed_kommunen": []
+  },
+  {
+    "id": "39a7cb516139",
+    "title": "FV Wiehl will den Hauptvorstand breiter aufstellen",
+    "summary": "Wiehl – Auf der nächsten Jahreshauptversammlung des Fußballvereins am 30. November stehen unter anderem Neuwahlen auf der Tagesordnung – Vorstand soll künftig in fünf Ressorts unterteilt werden.",
+    "link": "http://www.oberberg-aktuell.de/fussball/fv-wiehl-will-den-hauptvorstand-breiter-aufstellen-a-140281",
+    "published": "Wed, 11 Nov 2026 11:08:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-11T11:17:12.511553",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ed35dd999f58",
+    "title": "Kostenfreie Schulung im Dezember – Werden Sie Gesundheitslots:in!",
+    "summary": "Gemeinsam für ein gesundes Aufwachsen in Waldbröl Sie haben Ideen, wie Kinder in Waldbröl gesünder aufwachsen können – mit mehr Bewegung, guter Ernährung oder einem starken Miteinander? Sie möchten sich […]",
+    "link": "https://www.waldbroel.de/kostenfreie-schulung-im-dezember-werden-sie-gesundheitslotsin/",
+    "published": "Wed, 11 Nov 2026 09:53:00 +0000",
+    "source": "Stadt Waldbröl (offiziell)",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-11T11:17:15.048656",
+    "feed_kommunen": [
+      "waldbroel"
+    ]
+  },
+  {
+    "id": "be46dcabef80",
+    "title": "Reparaturarbeiten an der Wiehler Straße in Bierenbachtal",
+    "summary": "Nümbrecht – Schadstellen werden ab 16. November beseitigt – Fahrbahn wird auf eine Spur verengt.",
+    "link": "http://www.oberberg-aktuell.de/nuembrecht/reparaturarbeiten-an-der-wiehler-stra--e-in-bierenbachtal-a-140279",
+    "published": "Wed, 11 Nov 2026 10:45:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl",
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-11T11:17:12.511650",
+    "feed_kommunen": []
+  },
+  {
+    "id": "74ad3accb725",
+    "title": "Anträge in 2026: Oberberg: 425 Anträge auf den Kleinen Waffenschein",
+    "summary": "Die Zahl der Anträge im Oberbergischen steigt weiter: Bislang gab es 425, die Bewilligungsquote liegt bei rund 94 Prozent.",
+    "link": "https://www.ksta.de/region/oberberg/oberberg-425-antraege-auf-den-kleinen-waffenschein-1414103",
+    "published": "Wed, 11 Nov 2026 10:43:21 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T11:17:11.495320",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4309bdcd2405",
+    "title": "Premiere für „Phantom der Oper“ im Musical Dome Köln - hier Tickets gewinnen",
+    "summary": "Das Musical „Phantom der Oper” kehrt zurück nach Deutschland - in den Musical Dome Köln. Am Sonntag ist Gala-Premiere mit rotem Teppich. Wir verlosen 2x2 Tickets. Sogar Andrew Lloyd Webber soll kommen. Hier mitmachen!",
+    "link": "https://www.rga.de/kultur/regional/premiere-fuer-phantom-der-oper-im-musical-dome-koeln-hier-tickets-gewinnen-CWVMKALNIBDV7IOJDB3ZV646AI.html",
+    "published": "Wed, 11 Nov 2026 10:39:06 +0100",
+    "source": "RGA Oberbergischer Kreis (Gesamt)",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T11:17:10.958986",
+    "feed_kommunen": []
+  },
+  {
     "id": "584cb59dfe5e",
     "title": "Waldbrölerin fällt auf gefälschten Krankenkassenbrief herein",
     "summary": "Waldbröl – Vorsicht beim Scannen von QR-Codes – Betrüger nutzen „Quishing“-Masche immer häufiger.",
@@ -23,6 +104,32 @@
       "reichshof"
     ],
     "fetched": "2026-11-11T10:17:25.896309",
+    "feed_kommunen": []
+  },
+  {
+    "id": "eb840c2fb0d8",
+    "title": "Haltepunkt der RB25: Ründeroth: Bahnhofsumbau soll erst 2027 fertig werden",
+    "summary": "Die Bauarbeiten am Bahnhof Ründeroth kommen voran, doch Reisende müssen sich bis zum Sommer 2027 gedulden.",
+    "link": "https://www.ksta.de/region/oberberg/ruenderoth-bahnhofsumbau-soll-erst-2027-fertig-werden-1414045",
+    "published": "Wed, 11 Nov 2026 09:15:44 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-11T11:17:11.495440",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4fa127ec61ba",
+    "title": "Hilfe für die Ukraine: Lindlarer Spenden-Konvoi erreicht Radomyschl und Charkiw",
+    "summary": "Drei Fahrzeuge und zwei Anhänger, gespendet von Unternehmer Wolfgang Oehm, kamen in Radomyschl und Charkiw an.",
+    "link": "https://www.ksta.de/region/oberberg/lindlar/lindlarer-spenden-konvoi-erreicht-radomyschl-und-charkiw-1414042",
+    "published": "Wed, 11 Nov 2026 09:12:27 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-11T11:17:11.495553",
     "feed_kommunen": []
   },
   {
