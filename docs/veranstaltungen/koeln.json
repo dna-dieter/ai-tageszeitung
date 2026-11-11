@@ -1,115 +1,5 @@
 [
   {
-    "titel": "Bücherbabys – die literarische Krabbelgruppe",
-    "datum": "11. Nov 2026",
-    "datum_raw": "2026-11-11T00:00:00",
-    "datum_bis": "",
-    "ort": "Interim Zentralbibliothek",
-    "preis": "Die Veranstaltung ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41317/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "10:15 bis 10:45 Uhr · Im Zentrum steht die Sprach- und Sinnesförderung der Kleinsten – im Interim Zentralbibliothek."
-  },
-  {
-    "titel": "Vorlesezeit",
-    "datum": "11. Nov 2026",
-    "datum_raw": "2026-11-11T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Mülheim, Mülheim",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41319/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "16 bis 17 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Mülheim"
-  },
-  {
-    "titel": "Lesehund Albert",
-    "datum": "11. Nov 2026",
-    "datum_raw": "2026-11-11T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Kalk, Kalk",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41402/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "17 bis 18 Uhr, , Folgetermine:, 18. November, 25. November, 2. Dezember, 9. Dezember · Lesetraining für Kinder der zweiten und dritten Klasse mit Begleitung eines Hundes in der Stadtteilbibliothek Kalk."
-  },
-  {
-    "titel": "Städtebauliche Entwicklung Longericher Straße in Köln-Bilderstöckchen, 246. Änderung des Flächennutzungsplans",
-    "datum": "11. Nov 2026",
-    "datum_raw": "2026-11-11T00:00:00",
-    "datum_bis": "13. Nov 2026",
-    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41488/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr,, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
-  },
-  {
-    "titel": "Sicherung der Clubkultur im Bereich Lichtstraße/Ehrenfeldgürtel in Köln-Ehrenfeld, 254. Änderung des Flächennutzungsplanes",
-    "datum": "11. Nov 2026",
-    "datum_raw": "2026-11-11T00:00:00",
-    "datum_bis": "13. Nov 2026",
-    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41462/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
-  },
-  {
-    "titel": "Retrospektive und Perspektive. Vater und Sohn: Fotografie trifft auf Pop-Art",
-    "datum": "11. Nov 2026",
-    "datum_raw": "2026-11-11T00:00:00",
-    "datum_bis": "21. Nov 2026",
-    "ort": "Kunsthalle Lindenthal, Braunsfeld",
-    "preis": "Die Ausstellung ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41529/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Vernissage: 7. November 2026, 18 Uhr, Täglich von 16 bis 18 Uhr · Kunstausstellung Vater & Sohn in der Kunsthalle Lindenthal"
-  },
-  {
-    "titel": "Haselbergstraße/Piusstraße, 2. Änderung (2. Teilaufhebung) in Köln-Lindenthal",
-    "datum": "11. Nov 2026",
-    "datum_raw": "2026-11-11T00:00:00",
-    "datum_bis": "23. Nov 2026",
-    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41583/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
-  },
-  {
-    "titel": "Ausstellung: Fernweh und Heimat vom Kölner Maler-Kreis",
-    "datum": "11. Nov 2026",
-    "datum_raw": "2026-11-11T00:00:00",
-    "datum_bis": "1. Dez 2026",
-    "ort": "Bezirksrathaus Nippes, Weidenpesch",
-    "preis": "Der Eintritt ist frei.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41662/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Ausstellungseröffnung: 2. November, 18 Uhr, Montags und donnerstags: 8 bis 15 Uhr, Dienstags: 9 bis 18 Uhr, Mittwochs und freitags: 8 bis 12 Uhr · Was bedeutet Heimat? Und wohin zieht es uns, wenn wir Fernweh haben?"
-  },
-  {
-    "titel": "Bilderausstellung: Iwona Piek – Figurative Malerei",
-    "datum": "11. Nov 2026",
-    "datum_raw": "2026-11-11T00:00:00",
-    "datum_bis": "5. Dez 2026",
-    "ort": "Rathaussaal Porz, Porz",
-    "preis": "Der Eintritt ist frei",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41599/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Montag bis Freitag: 10 bis 18 Uhr, Samstag: 10 bis 14 Uhr, sonn- und feiertags geschlossen · Bilderausstellung – figurative Malerei von der Künstlerin Iwona Piek"
-  },
-  {
-    "titel": "Führung durch den Skulpturenpark Köln",
-    "datum": "11. Nov 2026",
-    "datum_raw": "2026-11-11T00:00:00",
-    "datum_bis": "6. Dez 2026",
-    "ort": "Skulpturenpark Köln, Neustadt/Nord",
-    "preis": "Der Eintritt in den Park ist frei. Kosten für die Führungen: Erwachsene: 8 Euro,",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/39535/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Jeden ersten Sonntag im Monat von 15 bis 16 Uhr · Im Skulpturenpark zeigen wir eine große Bandbreite moderner zeitgenössischer Außenskulpturen unter freiem Himmel."
-  },
-  {
     "titel": "Stricken und Klönen",
     "datum": "12. Nov 2026",
     "datum_raw": "2026-11-12T00:00:00",
@@ -284,6 +174,83 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41267/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "19 Uhr · Buchpremiere von Schieferbruchverse und Das verschwundene Viertel – im Rahmen unseres Kulturprogramms im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Städtebauliche Entwicklung Longericher Straße in Köln-Bilderstöckchen, 246. Änderung des Flächennutzungsplans",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T00:00:00",
+    "datum_bis": "13. Nov 2026",
+    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41488/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr,, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
+  },
+  {
+    "titel": "Sicherung der Clubkultur im Bereich Lichtstraße/Ehrenfeldgürtel in Köln-Ehrenfeld, 254. Änderung des Flächennutzungsplanes",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T00:00:00",
+    "datum_bis": "13. Nov 2026",
+    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41462/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
+  },
+  {
+    "titel": "Retrospektive und Perspektive. Vater und Sohn: Fotografie trifft auf Pop-Art",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T00:00:00",
+    "datum_bis": "21. Nov 2026",
+    "ort": "Kunsthalle Lindenthal, Braunsfeld",
+    "preis": "Die Ausstellung ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41529/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Vernissage: 7. November 2026, 18 Uhr, Täglich von 16 bis 18 Uhr · Kunstausstellung Vater & Sohn in der Kunsthalle Lindenthal"
+  },
+  {
+    "titel": "Haselbergstraße/Piusstraße, 2. Änderung (2. Teilaufhebung) in Köln-Lindenthal",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T00:00:00",
+    "datum_bis": "23. Nov 2026",
+    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41583/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
+  },
+  {
+    "titel": "Ausstellung: Fernweh und Heimat vom Kölner Maler-Kreis",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T00:00:00",
+    "datum_bis": "1. Dez 2026",
+    "ort": "Bezirksrathaus Nippes, Weidenpesch",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41662/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Ausstellungseröffnung: 2. November, 18 Uhr, Montags und donnerstags: 8 bis 15 Uhr, Dienstags: 9 bis 18 Uhr, Mittwochs und freitags: 8 bis 12 Uhr · Was bedeutet Heimat? Und wohin zieht es uns, wenn wir Fernweh haben?"
+  },
+  {
+    "titel": "Bilderausstellung: Iwona Piek – Figurative Malerei",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T00:00:00",
+    "datum_bis": "5. Dez 2026",
+    "ort": "Rathaussaal Porz, Porz",
+    "preis": "Der Eintritt ist frei",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41599/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Montag bis Freitag: 10 bis 18 Uhr, Samstag: 10 bis 14 Uhr, sonn- und feiertags geschlossen · Bilderausstellung – figurative Malerei von der Künstlerin Iwona Piek"
+  },
+  {
+    "titel": "Führung durch den Skulpturenpark Köln",
+    "datum": "12. Nov 2026",
+    "datum_raw": "2026-11-12T00:00:00",
+    "datum_bis": "6. Dez 2026",
+    "ort": "Skulpturenpark Köln, Neustadt/Nord",
+    "preis": "Der Eintritt in den Park ist frei. Kosten für die Führungen: Erwachsene: 8 Euro,",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/39535/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Jeden ersten Sonntag im Monat von 15 bis 16 Uhr · Im Skulpturenpark zeigen wir eine große Bandbreite moderner zeitgenössischer Außenskulpturen unter freiem Himmel."
   },
   {
     "titel": "Einführung für Schulen in die Anwendung Edumaps",
