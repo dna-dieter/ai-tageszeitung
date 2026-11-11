@@ -1,5 +1,18 @@
 [
   {
+    "id": "5e81b4749db6",
+    "title": "Hückeswagen – Gesellschaftsspiel-Nachmittag für Erwachsene am 25. November",
+    "summary": "Hückeswagen. Seien Sie dabei beim Gesellschaftsspiel-Nachmittag! Spiele, Spaß und Gemeinschaft erwarten Sie am 25. November in der Stadtbibliothek. Der Beitrag Hückeswagen – Gesellschaftsspiel-Nachmittag für Erwachsene am 25. November erschien zuerst auf Oberberg-Nachrichten.de.",
+    "link": "https://www.oberberg-nachrichten.de/hueckeswagen/gesellschaftsspiel-nachmittag-fuer-erwachsene/",
+    "published": "Wed, 11 Nov 2026 17:40:21 +0000",
+    "source": "Oberberg Nachrichten",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-11T19:17:08.944200",
+    "feed_kommunen": []
+  },
+  {
     "id": "f3aa7340cc36",
     "title": "Nach Vandalismus in den Wupperauen: Zwei neue Bäume gepflanzt",
     "summary": "Hückeswagen – Eine Zitterpappel und eine Elsbeere ersetzen die beiden Bäume, die kürzlich mutwillig gefällt worden waren.",
@@ -71,21 +84,6 @@
       "hueckeswagen"
     ],
     "fetched": "2026-11-11T08:17:23.135120",
-    "feed_kommunen": [
-      "hueckeswagen"
-    ]
-  },
-  {
-    "id": "9154da5b2c59",
-    "title": "Nächster Gesellschaftsspiel-Nachmittag für Erwachsene am 25. November",
-    "summary": "Regelmäßiger Spiele-Nachmittag jeden 4. Mittwoch im Monat in der Stadtbibliothek",
-    "link": "https://www.hueckeswagen.de/portal/meldungen/naechster-gesellschaftsspiel-nachmittag-fuer-erwachsene-am-25-november-900000731-37660.html?rubrik=900000004",
-    "published": "Tue, 10 Nov 2026 15:25:00 +0100",
-    "source": "Schloss-Stadt Hückeswagen (offiziell)",
-    "kommunen": [
-      "hueckeswagen"
-    ],
-    "fetched": "2026-11-10T16:17:43.816123",
     "feed_kommunen": [
       "hueckeswagen"
     ]
