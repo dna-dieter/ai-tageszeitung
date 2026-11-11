@@ -1,5 +1,18 @@
 [
   {
+    "id": "c025ce66747c",
+    "title": "Gefälschter Krankenkassenbrief: Frau aus Waldbröl gibt Daten preis",
+    "summary": "Eine 58-Jährige aus Waldbröl hat nach dem Erhalt eines täuschend echt wirkenden Krankenkassenbriefs private Daten preisgegeben. Die Frau scannte einen QR-Code in dem Schreiben. Ob ihr dadurch ein Schaden entstanden ist, stand bei der Anzeigenaufnahme noch nicht fest. Die Betrugsmasche wird „Quishing“ genannt. Dabei nutzen Kriminelle gefälschte QR-Codes, um an sensible Daten wie Passwörter oder Zug",
+    "link": "https://www.rheinische-anzeigenblaetter.de/waldbroel/c-blaulicht/gefaelschter-krankenkassenbrief-frau-aus-waldbroel-gibt-daten-preis_a382799",
+    "published": "Wed, 11 Nov 2026 15:16:46 +0100",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-11T15:17:25.359894",
+    "feed_kommunen": []
+  },
+  {
     "id": "edaa63d926f0",
     "title": "Hückeswagen: Fußballer und Trainer Mohammed „Mokka\" Lakraa mit 61 gestorben",
     "summary": "Langjähriger Hückeswagener Fußballer und Trainer ist nach kurzer schwerer Krankheit gestorben. Der gebürtige Marokkaner hat überall seine Spuren hinterlassen. Die Betroffenheit in der Region ist entsprechend riesig.",
@@ -94,19 +107,6 @@
       "wiehl"
     ],
     "fetched": "2026-11-11T13:17:14.307653",
-    "feed_kommunen": []
-  },
-  {
-    "id": "509f723b1e9b",
-    "title": "Waldbröl: Quishing mit gefälschtem Krankenkassenbrief – 58-Jährige gibt Daten preis",
-    "summary": "Eine 58-Jährige aus Waldbröl scannte den QR-Code in einem gefälschten Brief einer Krankenkasse. Die Polizei erklärt die Masche Quishing.",
-    "link": "https://www.news-on-tour.de/345613/waldbroel-quishing-krankenkasse/",
-    "published": "Wed, 11 Nov 2026 11:07:55 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "waldbroel"
-    ],
-    "fetched": "2026-11-11T12:17:33.932016",
     "feed_kommunen": []
   },
   {

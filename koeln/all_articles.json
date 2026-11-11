@@ -1,5 +1,83 @@
 [
   {
+    "id": "de8b209a2b81",
+    "title": "Sessionsauftakt mit Glasverbot: 11.11. in Köln – Büdchen erhöhen Kölsch-Preise",
+    "summary": "Preisschock zum Karnevalsstart am 11.11. in Köln! Was das Kölsch am Büdchen auf der Zülpicher Straße und am Heumarkt kostet und wo das Glasverbot gilt.",
+    "link": "https://www.ksta.de/koeln/karneval-in-koeln/11-11-in-koeln-buedchen-erhoehen-koelsch-preise-1414404",
+    "published": "Wed, 11 Nov 2026 15:11:46 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T15:18:32.500972",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b0d5c1a4dc9b",
+    "title": "Mein Veedel: Die Körnerstraße in Ehrenfeld ist Nici Kempermanns Kraftquelle",
+    "summary": "Nici Kempermann, die Sängerin von Kempes Feinest, lebt seit elf Jahren im Veedel und hat dort auch ihr eigenes Köln-Mosaik hinterlassen.",
+    "link": "https://www.ksta.de/koeln/ehrenfeld/ehrenfeld/mein-veedel-die-koernerstrasse-in-ehrenfeld-ist-nici-kempermanns-kraftquelle-1412363",
+    "published": "Wed, 11 Nov 2026 15:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T15:18:32.501010",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b5ff9c346516",
+    "title": "Newsletter „Stadt mit K“: Wir verlosen 4 x 2 Tickets für „Elfter im Elften“ am 14. November",
+    "summary": "Unter allen angemeldeten Nutzern unseres Newsletters „Stadt mit K“ verlosen wir Karten für die Sessionseröffnung in der Lanxess-Arena.",
+    "link": "https://www.ksta.de/gewinnspiele/newsletter-stadt-mit-k-wir-verlosen-4-x-2-tickets-fuer-elfter-im-elften-am-14-november-1414388",
+    "published": "Wed, 11 Nov 2026 14:40:29 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T15:18:32.501053",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c9a3c748a03c",
+    "title": "Urteil des Verwaltungsgerichts Köln: Veedelsadvent in Zollstock darf stattfinden",
+    "summary": "Der Premiere für den Weihnachtsmarkt am Höninger Weg steht nichts mehr entgegen. Die Beschwerde eines Anwohners wurde abgewiesen.",
+    "link": "https://www.ksta.de/koeln/rodenkirchen/zollstock/veedelsadvent-in-koeln-zollstock-darf-stattfinden-1414327",
+    "published": "Wed, 11 Nov 2026 14:33:06 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T15:18:32.501070",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8d24a8bbeceb",
+    "title": "„Andrea hat gar nichts geahnt“: WDR-Moderatorin bekommt vor Live-Sendung einen Heiratsantrag",
+    "summary": "Zum Sessionsstart hat Andrea Schönenborn einen Heiratsantrag bekommen: Ihr Freund überraschte sie am Morgen des 11.11.",
+    "link": "https://www.ksta.de/koeln/karneval-in-koeln/koeln-wdr-moderatorin-bekommt-heiratsantrag-vor-live-sendung-1414346",
+    "published": "Wed, 11 Nov 2026 14:25:41 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T15:18:32.501086",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b99c928576bb",
+    "title": "Premiere am Elften im Elften: Höhner präsentieren neue Handball-Hymne – mit neuer Note",
+    "summary": "Beim Sessionsstart stellen die Höhner ihre neue Version des Handball-WM-Hits „Wenn nicht jetzt, wann dann“ vor. Mit dabei ist ein besonderer Gast.",
+    "link": "https://www.ksta.de/koeln/karneval-in-koeln/elfter-im-elften-hoehner-praesentieren-neue-handball-hymne-1414359",
+    "published": "Wed, 11 Nov 2026 14:22:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T15:18:32.501105",
+    "feed_kommunen": []
+  },
+  {
     "id": "f317667bc998",
     "title": "Leeder, Krätzjer und Verzällcher: Kölsche Weihnacht feiert 30 Jahre Advent auf Kölsch",
     "summary": "Die Traditionsveranstaltung erfreut schon seit 30 Jahren mit Musik und Geschichten in schönstem Kölsch – leise Töne und viel Humor.",
