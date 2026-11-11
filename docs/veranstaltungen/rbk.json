@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Fondue Abende in der Bergischen Stube",
-    "datum": "10. Nov 2026",
-    "datum_raw": "2026-11-10T18:00:00+02:00",
-    "ort": "Flammkuchenrestaurant \"Bergische Stube\" im Tagungshotel Kardinal schulte Haus, Overather Str. 51-53, 51429 Bergisch Gladbach",
-    "preis": "ab 30 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Von Oktober 2026 bis März 2027 lädt das Kardinal Schulte Haus zu stimmungsvollen Fondue-Abenden in die \"Bergische Stube\" ein. Erlebe einen geselligen Abend voller Geschmack und Atmosphäre. Neben dem klassischen Schweizer"
-  },
-  {
     "titel": "Nature Journaling - Die Natur kreativ im Skizzenbuch festhalten",
     "datum": "12. Nov 2026",
     "datum_raw": "2026-11-12T15:30:00+01:00",
@@ -178,6 +168,16 @@
     "link": "https://www.schloss-eulenbroich.de/news/4029/prinz-karneval--alaaf",
     "quelle": "Das Bergische",
     "teaser": "Mit dem Kindertheater Zauberflöckchen in die 5. Jahreszeit: Eine musikalische Jeckengeschichte mit der spanischen Ratte Ramon und seinem Freund, dem Präsidenten der „Jecken Funken“ für Kinder zwischen 3-6 Jahren. Die Rat"
+  },
+  {
+    "titel": "Fondue Abende in der Bergischen Stube",
+    "datum": "17. Nov 2026",
+    "datum_raw": "2026-11-17T18:00:00+02:00",
+    "ort": "Flammkuchenrestaurant \"Bergische Stube\" im Tagungshotel Kardinal schulte Haus, Overather Str. 51-53, 51429 Bergisch Gladbach",
+    "preis": "ab 30 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Von Oktober 2026 bis März 2027 lädt das Kardinal Schulte Haus zu stimmungsvollen Fondue-Abenden in die \"Bergische Stube\" ein. Erlebe einen geselligen Abend voller Geschmack und Atmosphäre. Neben dem klassischen Schweizer"
   },
   {
     "titel": "4. Rösrather Schlossgespräch mit Frank Schätzing",
