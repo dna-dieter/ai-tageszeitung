@@ -1,5 +1,87 @@
 [
   {
+    "id": "6b08c8b8ac4b",
+    "title": "Wiedersehen nach zweieinhalb Wochen: Gummersbach hofft auf nächsten Coup gegen Flensburg",
+    "summary": "Gummersbach – Die VfL-Handballer kämpfen in Flensburg um den Einzug ins Viertelfinale des DHB-Pokals – 'RPP - Ambulantes Therapie- und Reha-Zentrum' und AggerEnergie präsentieren die Berichterstattung über den VfL Gummersbach.",
+    "link": "http://www.oberberg-aktuell.de/handball/wiedersehen-nach-zweieinhalb-wochen--gummersbach-hofft-auf-n--chsten-coup-gegen-flensburg-a-140286",
+    "published": "Wed, 11 Nov 2026 13:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-11T13:17:14.307288",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ba3a596951b4",
+    "title": "Einladung zur Kranzniederlegung",
+    "summary": "Die Gemeinde Morsbach lädt am 15. November 2026 um 11.30 Uhr zur feierlichen Kranzniederlegung am Ehrenmal Holpe ein. Gemeinsam gedenken wir am Volkstrauertag der Opfer von Krieg und Gewaltherrschaft. Der Musikkreis Holpe begleitet die Gedenkveranstaltung musikalisch. The post Einladung zur Kranzniederlegung first appeared on Gemeinde Morsbach.",
+    "link": "https://www.morsbach.de/blog/homepage/einladung-zur-kranzniederlegung/",
+    "published": "Wed, 11 Nov 2026 11:59:22 +0000",
+    "source": "Gemeinde Morsbach (offiziell)",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-11-11T13:17:19.209519",
+    "feed_kommunen": [
+      "morsbach"
+    ]
+  },
+  {
+    "id": "a21bcffad378",
+    "title": "Zwei neue Bäume für die Wupperauen",
+    "summary": "Ersatzpflanzungen nach Vandalismus",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/zwei-neue-baeume-fuer-die-wupperauen-900000732-37660.html?rubrik=900000002",
+    "published": "Wed, 11 Nov 2026 12:54:00 +0100",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-11T13:17:19.980492",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "133ca3b71861",
+    "title": "Lindlar: DRK stellt Altkleidersammlung ein",
+    "summary": "Lindlar – Finanzierung aufgrund Insolvenz zweier Sortierbetriebe und gestiegener Kosten nicht mehr gesichert – Sammelcontainer werden kurzfristig entfernt.",
+    "link": "http://www.oberberg-aktuell.de/lindlar/lindlar--drk-stellt-altkleidersammlung-ein-a-140287",
+    "published": "Wed, 11 Nov 2026 12:41:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-11T13:17:14.307428",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b1311a5ce44b",
+    "title": "Klamme Kommune: Steht Lindlars Karnevalszug wegen teurer Absperrungen auf der Kippe?",
+    "summary": "Politik sollte den Lindwurm als herausragendes Ereignis priorisieren, damit die Gemeinde die Beschilderung übernimmt.",
+    "link": "https://www.ksta.de/region/oberberg/lindlar/steht-lindlars-karnevalszug-auf-der-kippe-1414223",
+    "published": "Wed, 11 Nov 2026 12:32:43 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-11T13:17:12.283221",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2980b2efcc56",
+    "title": "Erleichterung und große Vorfreude: „Historischer Beschluss“ für das DBG",
+    "summary": "Wiehl – Rat mit einstimmiger Entscheidung für die Vergabe an den Totalunternehmer aus Bielefeld – Für knapp 63 Millionen Euro entsteht ab nächstem Jahr das neue Dietrich-Bonhoeffer-Gymnasium – Politik, Schulleitung und Unternehmer ordneten den Beschluss ein.",
+    "link": "http://www.oberberg-aktuell.de/politik/erleichterung-vorfreude-und-spannung-historischer-beschluss-fuer-das-dbg-a-140284",
+    "published": "Wed, 11 Nov 2026 12:24:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-11T13:17:14.307653",
+    "feed_kommunen": []
+  },
+  {
     "id": "509f723b1e9b",
     "title": "Waldbröl: Quishing mit gefälschtem Krankenkassenbrief – 58-Jährige gibt Daten preis",
     "summary": "Eine 58-Jährige aus Waldbröl scannte den QR-Code in einem gefälschten Brief einer Krankenkasse. Die Polizei erklärt die Masche Quishing.",

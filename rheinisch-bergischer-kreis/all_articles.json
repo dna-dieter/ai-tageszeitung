@@ -15,6 +15,71 @@
     ]
   },
   {
+    "id": "219c5e8716d1",
+    "title": "„Unerwartete Schwierigkeiten“: RB25: Rösrath bekommt Bahnsteig 2, Vilkerath muss warten",
+    "summary": "Die Modernisierung der Stationen an der RB25 soll erst Mitte 2027 weitgehend fertig sein.",
+    "link": "https://www.ksta.de/region/rhein-berg/rb25-roesrath-bekommt-bahnsteig-2-vilkerath-muss-warten-1414204",
+    "published": "Wed, 11 Nov 2026 11:41:39 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "roesrath"
+    ],
+    "fetched": "2026-11-11T13:16:06.024578",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4996562fbe5f",
+    "title": "Berufskollegs bündeln Kräfte: Zwei Berufskollegs in Gladbach sollen Verbund gründen",
+    "summary": "Das Land räumt Verbünden mehr Spielraum ein: Zwei eigenständige Schulen sollen Bildungsgänge abstimmen und Ressourcen teilen.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/zwei-berufskollegs-in-gladbach-sollen-verbund-gruenden-1414199",
+    "published": "Wed, 11 Nov 2026 11:38:47 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T13:16:06.024715",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9ff7f872285f",
+    "title": "Gegen das Gift des Vergessens: Kerzen, Lieder, Mahnungen: Gedenken an die Pogromnacht im Bergischen",
+    "summary": "Mit Kerzen, Liedern und mahnenden Worten gedachten rund 80 Menschen der Opfer – und warnten vor heutigem Antisemitismus.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/kerzen-lieder-mahnungen-gedenken-an-die-pogromnacht-im-bergischen-1414194",
+    "published": "Wed, 11 Nov 2026 11:35:44 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T13:16:06.024856",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6436be62a06f",
+    "title": "Große Wirkung: Impfpass-Check: Mehr Siebtklässler gegen HPV geschützt",
+    "summary": "Bei Siebtklässlern im Rheinisch-Bergischen Kreis ist die HPV-Impfquote gestiegen, bei Jungen auf rund 53 Prozent, bei Mädchen auf 64 Prozent.",
+    "link": "https://www.ksta.de/region/rhein-berg/impfpass-check-mehr-siebtklaessler-gegen-hpv-geschuetzt-1414185",
+    "published": "Wed, 11 Nov 2026 11:31:53 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T13:16:06.024991",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f4b6e2c44e92",
+    "title": "Junge Blasorchester Rhein-Berg: Nach einer Probenwoche im Sauerland bebt der Bergische Löwen",
+    "summary": "Nach einer Probenwoche im Sauerland begeistert das Junge Blasorchester Rhein-Berg den vollen Theatersaal mit Tuba-Solo, „Pompeii“ und zwei Zugaben.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/nach-einer-probenwoche-im-sauerland-bebt-der-bergische-loewen-1414183",
+    "published": "Wed, 11 Nov 2026 11:28:15 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T13:16:06.025140",
+    "feed_kommunen": []
+  },
+  {
     "id": "dde32667b61c",
     "title": "Die würdevolle Bestattung – eine Sorge weniger",
     "summary": "Die eigene Bestattung zu planen, kann Entlastung für einen selbst und Angehörige schaffen. Die Veranstaltungsreihe „Gewusst wie!“ gibt Tipps.",
@@ -5734,6 +5799,19 @@
     "feed_kommunen": [
       "bergisch-gladbach"
     ]
+  },
+  {
+    "id": "2e4874d7082f",
+    "title": "Fraunhofer-Institut für Produktionstechnologie IPT: Whitepaper zur KI gestützen Robotik",
+    "summary": "AI-Powered Robots in Industry – A Reality Check on the Status Quo",
+    "link": "https://rbw.de/whitepaper-technologiemanagement/",
+    "published": "Fri, 23 Oct 2026 10:35:44 +0000",
+    "source": "Rheinisch-Bergische Wirtschaftsförderung (RBW)",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-11T13:16:09.746918",
+    "feed_kommunen": []
   },
   {
     "id": "74d20568d696",
