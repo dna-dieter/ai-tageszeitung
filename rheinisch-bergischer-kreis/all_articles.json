@@ -26,6 +26,32 @@
     "feed_kommunen": []
   },
   {
+    "id": "5c0e5f58d832",
+    "title": "Gnadenkirche lädt zum Projektchor ein",
+    "summary": "Im Mai bringt die „Nacht der 1000 Stimmen“ beim Deutschen Evangelischen Kirchentag in Düsseldorf Sängerinnen und Sänger aus ganz Deutschland zusammen. Auch in der Gnadenkirche in Bergisch Gladbach entsteht ein Projektchor zur Vorbereitung. Wer Freude am Singen hat, kann Teil des großen Chorerlebnisses werden.",
+    "link": "https://in-gl.de/2026/11/11/gnadenkirche-laedt-zum-projektchor-ein/",
+    "published": "Wed, 11 Nov 2026 17:01:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-11T22:15:39.525534",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7962332b9b1c",
+    "title": "Der Eine Welt Laden sucht Mitarbeitende",
+    "summary": "Der Eine Welt Laden in der Bergisch Gladbacher Stadtbücherei sucht ehrenamtliche Unterstützung. Um die Öffnungszeiten weiterhin anbieten zu können, werden neue Mitarbeitende für den Ladendienst und weitere Aufgaben gesucht.",
+    "link": "https://in-gl.de/2026/11/11/der-eine-welt-laden-sucht-mitarbeitende/",
+    "published": "Wed, 11 Nov 2026 17:01:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-11T22:15:39.525703",
+    "feed_kommunen": []
+  },
+  {
     "id": "a2f9bdaa0021",
     "title": "Neu im Q1: die Theaterwerkstatt",
     "summary": "Das Jugend-Kulturzentrum Q1 startet eine neue Theaterwerkstatt für junge Menschen zwischen 12 und 21 Jahren. Ob Schauspiel, Regie, Bühnenbild oder Technik: Die Teilnehmenden können verschiedene Bereiche kennenlernen und sich unter professioneller Anleitung ausprobieren. Die Plätze sind begrenzt, schnell sein lohnt sich!",
@@ -4487,6 +4513,19 @@
     "feed_kommunen": [
       "bergisch-gladbach"
     ]
+  },
+  {
+    "id": "fee0a308c3e7",
+    "title": "Schüler aus Bratislava zu Gast am OHG",
+    "summary": "15 Schülerinnen und Schüler aus Bratislava waren eine Woche lang zu Gast am Otto-Hahn-Gymnasium in Bensberg. Gemeinsam arbeiteten sie an einem Technikprojekt, bauten Kalimbas und lernten bei Ausflügen und gemeinsamen Aktivitäten das Rheinland kennen. Im März folgt der Gegenbesuch in der Slowakei.",
+    "link": "https://in-gl.de/2026/10/29/schueler-aus-bratislava-zu-gast-am-ohg/",
+    "published": "Thu, 29 Oct 2026 20:41:15 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-11T22:15:39.554626",
+    "feed_kommunen": []
   },
   {
     "id": "29fc63cda368",
