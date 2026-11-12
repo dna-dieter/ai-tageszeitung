@@ -1,5 +1,18 @@
 [
   {
+    "id": "88939e70cb9b",
+    "title": "11.11. in Köln: Bei ihrem Sicherheitskonzept hat die Stadt einen Fakt nicht bedacht",
+    "summary": "Das Uni-Viertel hat an Anziehungskraft verloren, aber woanders sind neue Probleme entstanden. Ein Kommentar zum Sessionsauftakt.",
+    "link": "https://www.ksta.de/koeln/karneval-in-koeln/11-11-in-koeln-suedstadt-wird-zum-neuen-hotspot-im-karneval-1414462",
+    "published": "Thu, 12 Nov 2026 05:03:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T06:18:54.033926",
+    "feed_kommunen": []
+  },
+  {
     "id": "58d53d350c71",
     "title": "Start in den Kölner Karneval: Trommeln und Bengalos in Ehrenfeld – Mini-Rave in der Südstadt",
     "summary": "Es ist wieder so weit: Die Jecken feiern Karneval, das Kölsch fließt und die Session startet – alle Informationen zum 11.11. in Köln gibt es im Liveticker.",
@@ -127,6 +140,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-11T17:17:53.635027",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8dfad95379eb",
+    "title": "Jeckes Feiern am Elften im Elften",
+    "summary": "11. November 2026, 16:00Kwartier Latäng und Südstadt gut besucht, Ordnungsamt schließt Kiosk",
+    "link": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/jeckes-feiern-am-elften-im-elften-1",
+    "published": "Wed, 11 Nov 2026 16:00:00 +0100",
+    "source": "Stadt Köln Pressemeldungen",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T06:18:53.752990",
     "feed_kommunen": []
   },
   {
