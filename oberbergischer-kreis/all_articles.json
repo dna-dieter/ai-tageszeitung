@@ -1,5 +1,109 @@
 [
   {
+    "id": "b30043db2a4b",
+    "title": "Neues Prinzenpaar: Die Närrischen Oberberger stellen sich vor",
+    "summary": "Trotz Nieselregen und Kälte feierte die KG Närrische Oberberger den Sessionsstart und stellte ihr neues Prinzenpaar vor.",
+    "link": "https://www.ksta.de/region/oberberg/neues-prinzenpaar-die-naerrischen-oberberger-stellen-sich-vor-1415112",
+    "published": "Thu, 12 Nov 2026 12:02:11 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T12:17:23.833750",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ad74f41e0c46",
+    "title": "Nach 50 Jahren: DRK Lindlar holt 36 Kleidercontainer ab",
+    "summary": "Weil zwei Sortierfirmen insolvent sind, bricht der Markt für gebrauchte Kleidung zusammen – das DRK zieht Konsequenzen.",
+    "link": "https://www.ksta.de/region/oberberg/lindlar/nach-50-jahren-drk-lindlar-holt-36-kleidercontainer-ab-1415102",
+    "published": "Thu, 12 Nov 2026 11:57:25 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-12T12:17:23.833887",
+    "feed_kommunen": []
+  },
+  {
+    "id": "21108beb72db",
+    "title": "Statt Medizinstudium: Emily Dahm rettet jetzt Leben in Oberberg",
+    "summary": "Die 22-jährige Emily Dahm hat ihre Ausbildung zur Notfallsanitäterin abgeschlossen und ist nun in Wipperfürth im Einsatz.",
+    "link": "https://www.ksta.de/region/oberberg/statt-medizinstudium-emily-dahm-rettet-jetzt-leben-in-oberberg-1415089",
+    "published": "Thu, 12 Nov 2026 11:51:46 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-12T12:17:23.834012",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d6d6c29ede0a",
+    "title": "Daniel Noss: Neue Leitung der Wiehler Feuerwehr",
+    "summary": "Daniel Noss löst Jens Schmidt ab, Elke Zakaria erhält silbernen Wiehltaler, und viele Anträge gehen an Fachausschüsse.",
+    "link": "https://www.ksta.de/region/oberberg/wiehl/daniel-nossneue-leitung-der-wiehler-feuerwehr-1415081",
+    "published": "Thu, 12 Nov 2026 11:46:58 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-12T12:17:23.834121",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9b1add1636bb",
+    "title": "Wiehler Stadtrat: Stimmen für Gymnasium-Neubau trotz Sparzwang",
+    "summary": "Der Wiehler Stadtrat beschließt trotz schwieriger Haushaltslage den Neubau des Gymnasiums und setzt damit auf die Zukunft der Stadt.",
+    "link": "https://www.ksta.de/region/oberberg/wiehl/wiehl-stadtrat-beschliesst-neubau-des-gymnasiums-1415072",
+    "published": "Thu, 12 Nov 2026 11:39:01 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-12T12:17:23.834243",
+    "feed_kommunen": []
+  },
+  {
+    "id": "845233e98cfd",
+    "title": "Wiehls Ehrenbürger: Zwei Bänke und ein Feldahorn für C.P. Kotz",
+    "summary": "Stadt Wiehl würdigt den Unternehmer und Mäzen zum 90. Geburtstag mit einem Ruheplatz im alten Kurpark samt Feldahorn.",
+    "link": "https://www.ksta.de/region/oberberg/wiehl/christian-peter-kotz-wiehl-ehrt-unternehmer-mit-neuem-ruheplatz-1415061",
+    "published": "Thu, 12 Nov 2026 11:30:14 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-12T12:17:23.834372",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1157a55fab56",
+    "title": "Tafeln in Oberberg: Warum Ware und Helfer fehlen",
+    "summary": "Die Volksbank Oberberg spendet vier Tafeln 15.000 Euro und Honig. Herausforderungen für Einrichtungen werden größer.",
+    "link": "https://www.ksta.de/region/oberberg/tafeln-in-oberberg-erhalten-15-000-euro-spende-von-volksbank-1415055",
+    "published": "Thu, 12 Nov 2026 11:22:15 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T12:17:23.834488",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b02ae2203f65",
+    "title": "Karneval in Lindlar: Karnevalszug 2027 wegen Sperrkosten in Gefahr",
+    "summary": "Lindlar droht in die vorläufige Haushaltsführung zu rutschen. Hauptausschuss vertagt Entscheidung über Absperrungen für Karnevalszug.",
+    "link": "https://www.ksta.de/region/oberberg/lindlar/karnevalszug-in-lindlar-sperrkosten-gefaehrden-veranstaltung-2027-1414948",
+    "published": "Thu, 12 Nov 2026 11:16:50 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-12T12:17:23.834612",
+    "feed_kommunen": []
+  },
+  {
     "id": "f3c1bb1ce560",
     "title": "Ein Pferd, viele Laternen und 800 Weckmänner",
     "summary": "Reichshof - Regenwetter hielt die Kinder und ihre Familien nicht davon ab, am traditionellen Martinszug in Denklingen teilzunehmen",
