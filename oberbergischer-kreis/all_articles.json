@@ -1,5 +1,48 @@
 [
   {
+    "id": "1b9bfb4cb3b7",
+    "title": "Brückeninstandsetzungsarbeiten B506 - Bahnstraße bis zum 27.11.2026 voll gesperrt.",
+    "summary": "Wegen Instandsetzungsarbeiten an der Wupperbrücke muss die Bahnstraße zwischen Am Hammerwerk und Kaiserstraße bis voraussichtlich 27.11.2026 voll gesperrt werden. Umleitungen werden eingerichtet.",
+    "link": "https://www.wipperfuerth.de/detailansicht/brueckeninstandsetzungsarbeiten-b506-bahnstrasse-bis-zum-27112026-voll-gesperrt.html",
+    "published": "Thu, 12 Nov 2026 08:03:55 +0100",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-12T08:17:42.918581",
+    "feed_kommunen": [
+      "wipperfuerth"
+    ]
+  },
+  {
+    "id": "e7d9aaa80096",
+    "title": "Galoppierende Inflation beiden städtischen Gebühren",
+    "summary": "Der Kehr- und der Winterdienst werden viel teurer – um 66 bzw. 84 Prozent. Im Haupt- und Finanzausschuss informierte die Stadt über die Hintergründe der Kostenexplosion.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/galoppierende-inflation-beiden-staedtischen-gebuehren-V2GGBUMX7S4MX6CZZRCAG6YXAY.html",
+    "published": "Thu, 12 Nov 2026 08:00:00 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-12T08:17:40.639410",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "adfc147840ca",
+    "title": "Zugvögel",
+    "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
+    "link": "http://www.oberberg-aktuell.de/foto-des-tages/zugvoegel-a-139971",
+    "published": "Thu, 12 Nov 2026 08:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T08:17:46.441753",
+    "feed_kommunen": []
+  },
+  {
     "id": "d0ec67bf5f4a",
     "title": "KG Rua Kapaaf stellt den neuen Sessionsorden vor",
     "summary": "Die jecke Zeit rückt auch in der Bergstadt immer näher. Pünktlich zum Martinstag am 11. November und zum Auftakt in die närrische Session stellt die Karnevalsgesellschaft (KG) Rua Kapaaf ihren neuen Sessionsorden 2026/2027 vor.",
