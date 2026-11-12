@@ -260,16 +260,6 @@
     "teaser": "Die Besucher erwartet ein stimmungsvolle Ambiente und eine Vielfalt an regionalem Kunsthandwerk. · Vorführungen des Museumsschmieds, der Spinner und der Weber und der Klang der Drehorgel schaffen eine nostalgische Atmosp"
   },
   {
-    "titel": "Bärbroicher Weihnachtsmarkt",
-    "datum": "21. Nov 2026",
-    "datum_raw": "2026-11-21T15:00:00+01:00",
-    "ort": "Schützenheim in Bärbroich, Ottoherscheid 25, 51429 Bergisch Gladbach",
-    "preis": "",
-    "link": "http://www.dasbergische.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Aus den Reihen der Bärbroicher Karnevalisten und Schützen wird auch in diesem Jahr wieder der schöne und urige Weihnachtsmarkt am Schützenheim veranstaltet. Eintritt : frei Ort: Schützenheim in Bärbroich Veranstalter: Bä"
-  },
-  {
     "titel": "Lichterfest",
     "datum": "21. Nov 2026",
     "datum_raw": "2026-11-21T15:00:00+01:00",
@@ -278,6 +268,16 @@
     "link": "https://www.bergischgladbach.de/veranstaltungen-2025.aspx",
     "quelle": "Das Bergische",
     "teaser": "Mit Lichterglanz und festlicher Stimmung verabschieden wir das Jahr. Unser erleuchtetes Museumsgelände lädt wieder zum Entdecken ein. Neben Handwerks-Vorführungen gibt es Bastelaktionen und Geschichten für Kinder. Für da"
+  },
+  {
+    "titel": "Bärbroicher Weihnachtsmarkt",
+    "datum": "21. Nov 2026",
+    "datum_raw": "2026-11-21T15:00:00+01:00",
+    "ort": "Schützenheim in Bärbroich, Ottoherscheid 25, 51429 Bergisch Gladbach",
+    "preis": "",
+    "link": "http://www.dasbergische.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Aus den Reihen der Bärbroicher Karnevalisten und Schützen wird auch in diesem Jahr wieder der schöne und urige Weihnachtsmarkt am Schützenheim veranstaltet. Eintritt : frei Ort: Schützenheim in Bärbroich Veranstalter: Bä"
   },
   {
     "titel": "Wein & Crime bei Kork & Kante in Bechen",
@@ -498,6 +498,16 @@
     "link": "http://www.wiw-marketing.de/",
     "quelle": "Das Bergische",
     "teaser": "Unter dem größten, beleuchteten Naturweihnachtsbaum Deutschlands findet am zweiten und dritten Adventswochenende der „Kulinarische Weihnachtsmarkt“ statt. Rund um den Platz unter dem Baum genießen die Gäste Köstlichkeite"
+  },
+  {
+    "titel": "Lesung mit Renate Kaiser: „Ich date, also bin ich“",
+    "datum": "3. Dez 2026",
+    "datum_raw": "2026-12-03T19:00:00+01:00",
+    "ort": "Weinhandel Kork & Kante, Kölner Str. 382, 51515 Kürten",
+    "preis": "ab 15 €",
+    "link": "https://korkundkante.de/products/lesung-bei-kork-kante-mit-renate-kaiser",
+    "quelle": "Das Bergische",
+    "teaser": "Nach 23 Jahren Ehe stürzt sich Renate Kaiser mit 50 ins Online-Dating – und erlebt mehr als 400 Dates. Die Leverkusener Autorin erzählt humorvoll und mit viel Selbstironie von skurrilen Begegnungen und überraschenden Wen"
   },
   {
     "titel": "Altenberger Adventsmarkt 2026",
