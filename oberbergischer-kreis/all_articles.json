@@ -1,5 +1,57 @@
 [
   {
+    "id": "f3c1bb1ce560",
+    "title": "Ein Pferd, viele Laternen und 800 Weckmänner",
+    "summary": "Reichshof - Regenwetter hielt die Kinder und ihre Familien nicht davon ab, am traditionellen Martinszug in Denklingen teilzunehmen",
+    "link": "http://www.oberberg-aktuell.de/reichshof/ein-pferd--viele-laternen-und-----weckm--nner-a-140321",
+    "published": "Thu, 12 Nov 2026 11:07:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "reichshof"
+    ],
+    "fetched": "2026-11-12T11:17:31.410326",
+    "feed_kommunen": []
+  },
+  {
+    "id": "3105695d321a",
+    "title": "Vollsperrung in Niederseßmar",
+    "summary": "Gummersbach – Bei einem Unfall auf der Gummersbacher Straße wurden gestern Abend zwei Personen verletzt.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/vollsperrung-in-niederse--mar-a-140324",
+    "published": "Thu, 12 Nov 2026 10:52:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-12T11:17:31.410391",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c72bacf0299c",
+    "title": "Mit zwei Promille unterwegs",
+    "summary": "Reichshof – Die Polizei hat am Abend des Elften im Elften einen alkoholisierten Autofahrer aus Reichshof gestoppt.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/mit-zwei-promille-unterwegs-a-140323",
+    "published": "Thu, 12 Nov 2026 10:40:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "reichshof"
+    ],
+    "fetched": "2026-11-12T11:17:31.410449",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e83883bb6a13",
+    "title": "24-Jähriger überschlägt sich mit BMW",
+    "summary": "Gummersbach – Auf einer Landstraße bei Dümmlinghausen wurden gestern zwei Personen verletzt.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/---j--hriger---berschl--gt-sich-mit-bmw-a-140322",
+    "published": "Thu, 12 Nov 2026 10:28:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-12T11:17:31.410502",
+    "feed_kommunen": []
+  },
+  {
     "id": "11c346592ebf",
     "title": "Deckensanierung der Brölbahnstraße",
     "summary": "Die Marktstadt Waldbröl wird eine Fahrbahn- und Busbuchtsanierung der Brölbahnstraße vom „Alten Friedhofsweg“ bis zum Kreisverkehr Brölstraße durchführen. Diese ist aufgrund erheblicher Schäden an den Busbuchten, sowie an der Deckschicht […]",
@@ -13,6 +65,97 @@
     "feed_kommunen": [
       "waldbroel"
     ]
+  },
+  {
+    "id": "e5dfa124e1e2",
+    "title": "POL-GM: Versuchter Einbruch in Einfamilienhaus",
+    "summary": "Lindlar (ots) - Am Mittwochabend (11. November) hatten Unbekannte versucht, in ein Einfamilienhaus in Hohkeppel einzubrechen. Gegen 18:45 Uhr hörte der Bewohner, der sich im ersten Obergeschoss aufhielt, kratzende und klirrende Geräusche aus dem ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6389108",
+    "published": "Thu, 12 Nov 2026 10:12:58 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-12T11:17:29.896469",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4721682d4496",
+    "title": "POL-GM: Einbrecher scheitern an Tür zu Lagerraum",
+    "summary": "Wiehl (ots) - In der Nacht von Dienstag auf Mittwoch (10./11. November) haben Unbekannte versucht, in einen Lagerraum in der Zeitstraße in Drabenderhöhe einzubrechen. Die Kriminellen versuchten, die Tür aufzuhebeln, scheiterten jedoch. In den ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6389106",
+    "published": "Thu, 12 Nov 2026 10:12:00 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-12T11:17:29.896643",
+    "feed_kommunen": []
+  },
+  {
+    "id": "bf5db3472354",
+    "title": "POL-GM: Unbekannte dringen in Schuppen ein",
+    "summary": "Gummersbach (ots) - Im Zeitraum von Montag (9. November, 0 Uhr) bis Dienstag (10. November, 21 Uhr) sind Unbekannte in einen Schuppen in der Beseler Straße in Dieringhausen eingedrungen, indem sie den Bügel eines Verschlussschiebers abschraubten. ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6389105",
+    "published": "Thu, 12 Nov 2026 10:11:15 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-12T11:17:29.896814",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d7a5258216b7",
+    "title": "POL-GM: Polizei stoppt alkoholisierten Autofahrer",
+    "summary": "Reichshof (ots) - Die Polizei hat am Mittwochabend (11. November) einen 31-jährigen Autofahrer aus Reichshof gestoppt. Gegen 20:50 Uhr hatten Zeugen ein Auto gemeldet, dessen Fahrer durch eine auffällige Fahrweise aufgefallen war. Die Polizisten ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6389104",
+    "published": "Thu, 12 Nov 2026 10:10:29 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "reichshof"
+    ],
+    "fetched": "2026-11-12T11:17:29.896979",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f863fe854784",
+    "title": "POL-GM: Zwei Leichtverletzte bei Verkehrsunfall in Niedersessmar",
+    "summary": "Gummersbach (ots) - Bei einem Verkehrsunfall auf der Gummersbacher Straße in Niedersessmar sind am Mittwochabend (11. November) zwei Autofahrende leicht verletzt worden. Gegen 21:05 Uhr war ein 33-jähriger Gummersbacher mit seinem VW auf der ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6389102",
+    "published": "Thu, 12 Nov 2026 10:10:09 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-12T11:17:29.897201",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1e687c1f9dd7",
+    "title": "POL-GM: Auto überschlägt sich auf Landstraße",
+    "summary": "Gummersbach (ots) - Auf der L337 bei Dümmlinghausen kam es am Mittwoch (11. November) zu einem Verkehrsunfall, bei dem zwei Personen leicht verletzt wurden. Gegen 16 Uhr war ein 24-jähriger Bergneustädter mit seinem BMW auf der regennassen ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6389101",
+    "published": "Thu, 12 Nov 2026 10:10:06 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-12T11:17:29.897371",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6da889239928",
+    "title": "POL-GM: Einbrecher durchwühlen Wohnhaus",
+    "summary": "Gummersbach (ots) - Zwischen 10:35 Uhr und 11:30 Uhr am Mittwoch (11. November) sind Unbekannte in ein Wohnhaus in der Straße \"In der Steinerwiese\" im Gummersbacher Ortsteil Bernberg eingebrochen. Die Bewohner hatten das Haus für kurze Zeit ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6389100",
+    "published": "Thu, 12 Nov 2026 10:10:03 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-12T11:17:29.897539",
+    "feed_kommunen": []
   },
   {
     "id": "6d9f986cc1d2",
@@ -47488,6 +47631,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-11T12:17:43.112496",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "f44849efeea3",
+    "title": "Neue Feuerwehrspitze gewählt",
+    "summary": "In der Ratssitzung am vergangenen Dienstag ist Stadtbrandinspektor Daniel Noss einstimmig zum neuen Leiter der Wiehler Feuerwehr gewählt worden. Er tritt sein Amt mit Beginn des neuen Jahres an.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9607-neue-feuerwehrspitze-gewaehlt.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-12T11:17:33.976002",
     "feed_kommunen": [
       "wiehl"
     ]

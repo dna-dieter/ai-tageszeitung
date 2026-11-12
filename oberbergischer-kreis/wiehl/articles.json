@@ -1,5 +1,18 @@
 [
   {
+    "id": "4721682d4496",
+    "title": "POL-GM: Einbrecher scheitern an Tür zu Lagerraum",
+    "summary": "Wiehl (ots) - In der Nacht von Dienstag auf Mittwoch (10./11. November) haben Unbekannte versucht, in einen Lagerraum in der Zeitstraße in Drabenderhöhe einzubrechen. Die Kriminellen versuchten, die Tür aufzuhebeln, scheiterten jedoch. In den ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6389106",
+    "published": "Thu, 12 Nov 2026 10:12:00 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-12T11:17:29.896643",
+    "feed_kommunen": []
+  },
+  {
     "id": "32968a6e2357",
     "title": "21 neue Wander- und Radwanderführer ausgebildet",
     "summary": "Oberberg - SGV Homburger Land sichert mit Qualifizierungsprojekt seine Zukunft – Urkunden in Wiehl überreicht.",
@@ -3964,6 +3977,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-11T12:17:43.112496",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "f44849efeea3",
+    "title": "Neue Feuerwehrspitze gewählt",
+    "summary": "In der Ratssitzung am vergangenen Dienstag ist Stadtbrandinspektor Daniel Noss einstimmig zum neuen Leiter der Wiehler Feuerwehr gewählt worden. Er tritt sein Amt mit Beginn des neuen Jahres an.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9607-neue-feuerwehrspitze-gewaehlt.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-12T11:17:33.976002",
     "feed_kommunen": [
       "wiehl"
     ]

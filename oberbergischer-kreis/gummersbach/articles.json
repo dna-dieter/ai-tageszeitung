@@ -1,5 +1,83 @@
 [
   {
+    "id": "3105695d321a",
+    "title": "Vollsperrung in Niederseßmar",
+    "summary": "Gummersbach – Bei einem Unfall auf der Gummersbacher Straße wurden gestern Abend zwei Personen verletzt.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/vollsperrung-in-niederse--mar-a-140324",
+    "published": "Thu, 12 Nov 2026 10:52:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-12T11:17:31.410391",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e83883bb6a13",
+    "title": "24-Jähriger überschlägt sich mit BMW",
+    "summary": "Gummersbach – Auf einer Landstraße bei Dümmlinghausen wurden gestern zwei Personen verletzt.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/---j--hriger---berschl--gt-sich-mit-bmw-a-140322",
+    "published": "Thu, 12 Nov 2026 10:28:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-12T11:17:31.410502",
+    "feed_kommunen": []
+  },
+  {
+    "id": "bf5db3472354",
+    "title": "POL-GM: Unbekannte dringen in Schuppen ein",
+    "summary": "Gummersbach (ots) - Im Zeitraum von Montag (9. November, 0 Uhr) bis Dienstag (10. November, 21 Uhr) sind Unbekannte in einen Schuppen in der Beseler Straße in Dieringhausen eingedrungen, indem sie den Bügel eines Verschlussschiebers abschraubten. ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6389105",
+    "published": "Thu, 12 Nov 2026 10:11:15 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-12T11:17:29.896814",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f863fe854784",
+    "title": "POL-GM: Zwei Leichtverletzte bei Verkehrsunfall in Niedersessmar",
+    "summary": "Gummersbach (ots) - Bei einem Verkehrsunfall auf der Gummersbacher Straße in Niedersessmar sind am Mittwochabend (11. November) zwei Autofahrende leicht verletzt worden. Gegen 21:05 Uhr war ein 33-jähriger Gummersbacher mit seinem VW auf der ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6389102",
+    "published": "Thu, 12 Nov 2026 10:10:09 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-12T11:17:29.897201",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1e687c1f9dd7",
+    "title": "POL-GM: Auto überschlägt sich auf Landstraße",
+    "summary": "Gummersbach (ots) - Auf der L337 bei Dümmlinghausen kam es am Mittwoch (11. November) zu einem Verkehrsunfall, bei dem zwei Personen leicht verletzt wurden. Gegen 16 Uhr war ein 24-jähriger Bergneustädter mit seinem BMW auf der regennassen ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6389101",
+    "published": "Thu, 12 Nov 2026 10:10:06 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-12T11:17:29.897371",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6da889239928",
+    "title": "POL-GM: Einbrecher durchwühlen Wohnhaus",
+    "summary": "Gummersbach (ots) - Zwischen 10:35 Uhr und 11:30 Uhr am Mittwoch (11. November) sind Unbekannte in ein Wohnhaus in der Straße \"In der Steinerwiese\" im Gummersbacher Ortsteil Bernberg eingebrochen. Die Bewohner hatten das Haus für kurze Zeit ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6389100",
+    "published": "Thu, 12 Nov 2026 10:10:03 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-12T11:17:29.897539",
+    "feed_kommunen": []
+  },
+  {
     "id": "294c7a68ba4f",
     "title": "Löwen wollen endlich den ersten Saisonsieg holen",
     "summary": "Oberberg - Regionalliga: Haan ist nicht der Lieblingsgegner des HC Gelpe/Strombach - Oberliga: DIe Löwen empfangen Köln zum Kellerduell - Verunsicherte Nümbrechter suchen ihre Form in Birkesdorf - Gummersbach II trifft auf Topteam.",
