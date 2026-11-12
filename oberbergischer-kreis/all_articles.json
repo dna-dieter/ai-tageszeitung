@@ -1,5 +1,34 @@
 [
   {
+    "id": "11c346592ebf",
+    "title": "Deckensanierung der Brölbahnstraße",
+    "summary": "Die Marktstadt Waldbröl wird eine Fahrbahn- und Busbuchtsanierung der Brölbahnstraße vom „Alten Friedhofsweg“ bis zum Kreisverkehr Brölstraße durchführen. Diese ist aufgrund erheblicher Schäden an den Busbuchten, sowie an der Deckschicht […]",
+    "link": "https://www.waldbroel.de/deckensanierung-der-broelbahnstrasse/",
+    "published": "Thu, 12 Nov 2026 09:15:05 +0000",
+    "source": "Stadt Waldbröl (offiziell)",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-12T10:17:33.474514",
+    "feed_kommunen": [
+      "waldbroel"
+    ]
+  },
+  {
+    "id": "6d9f986cc1d2",
+    "title": "SVE-Reserve empfängt den Primus – VfR will weiter Punkte sammeln",
+    "summary": "Oberberg - Hohkeppel II steht der Besuch des Tabellenführers DJK Südwest Köln ins Haus - Wipperfürth hat die Grippewelle überstanden und tritt bei Schwarz-Weiß Köln an - Lindlar hofft gegen Hürth II auf den Befreiungsschlag.",
+    "link": "http://www.oberberg-aktuell.de/fussball/sve-reserve-empf--ngt-den-primus-----vfr-will-weiter-punkte-sammeln-a-140306",
+    "published": "Thu, 12 Nov 2026 10:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wipperfuerth",
+      "lindlar"
+    ],
+    "fetched": "2026-11-12T10:17:29.945492",
+    "feed_kommunen": []
+  },
+  {
     "id": "ce72e17e46b4",
     "title": "Beim SV Morsbach rotiert das Trainerkarussell",
     "summary": "Morsbach – Rolle rückwärts beim Tabellenletzten der Kreisliga B Staffel 3: Die Zusammenarbeit mit Coach Sascha Vor wurde binnen weniger Tage wieder beendet, bis auf Weiteres übernehmen nun dessen Vorgänger Gabriel Joos und Sebastian Huhn die Mannschaft.",
