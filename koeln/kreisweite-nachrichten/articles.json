@@ -1,5 +1,83 @@
 [
   {
+    "id": "7679989c0d5e",
+    "title": "Wolfgang-Hahn-Preis für Lorna Simpson: Die Fragen schwarzer Identität",
+    "summary": "Wolfgang-Hahn-Preis: Lorna Simpson und die Fragen schwarzer Identität",
+    "link": "https://www.ksta.de/kultur-medien/wolfgang-hahn-preis-lorna-simpson-und-die-fragen-schwarzer-identitaet-1415206",
+    "published": "Thu, 12 Nov 2026 14:12:43 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T14:18:35.959331",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7d5b240685a2",
+    "title": "Sicherer Bus- und Bahnbetrieb: KVB bereiten sich auf Schnee und Eis vor",
+    "summary": "Mit einem vierstufigen Plan für den Winterdienst wollen die KVB sicherstellen, dass Busse und Bahnen auch im Schneegestöber fahren können.",
+    "link": "https://www.ksta.de/koeln/koeln-kvb-bereitet-sich-auf-schnee-und-eis-vor-1414516",
+    "published": "Thu, 12 Nov 2026 12:42:55 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T14:18:35.959361",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f957983bef32",
+    "title": "Viel los in Ossendorf: Anwohner der Motorworld ächzen unter Besucheransturm",
+    "summary": "Anwohner der Delfossestraße wünschen sich Entzerrung. Der Wertstoffhof der AWB, IKEA und die Motorworld sorgen für viel Verkehr.",
+    "link": "https://www.ksta.de/koeln/ehrenfeld/ossendorf/viel-los-in-ossendorf-anwohner-der-motorworld-aechzen-unter-besucheransturm-1407856",
+    "published": "Thu, 12 Nov 2026 12:25:53 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T14:18:35.959394",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2afcd12311e5",
+    "title": "Premiere in Köln: Wilde Party beim Kamelle-Festival am Elften im Elften",
+    "summary": "Das neue Kamelle-Festival in der Halle Tor 2 überzeugte 2000 Gäste mit einem Mix aus Tradition und Party. Nach dem Erfolg ist eine Neuauflage für 2027 geplant.",
+    "link": "https://www.ksta.de/koeln/karneval-in-koeln/koeln-wilde-party-beim-kamelle-festival-am-elften-im-elften-1415134",
+    "published": "Thu, 12 Nov 2026 12:22:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T14:18:35.959415",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8ed6f5f240dd",
+    "title": "Gegen Einsamkeit: Das „Social Studio“ in Köln will Menschen offline verbinden",
+    "summary": "Beim Kölner Event „Masche und Mord“ läuft alle zwei Wochen eine Folge des Podcasts „True Crime Köln“ vom „Kölner Stadt-Anzeiger“.",
+    "link": "https://www.ksta.de/koeln/koelner-innenstadt/neustadt-sued/social-studio-in-koeln-moderner-strick-club-trifft-auf-true-crime-1406128",
+    "published": "Thu, 12 Nov 2026 12:15:38 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T14:18:35.959438",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d0e86e55c54b",
+    "title": "Erweiterter Telefonservice: Kölner Verbraucherzentrale schränkt Öffnungszeiten vor Ort ein",
+    "summary": "Mit einer Anpassung ihres Kundenservice reagiert die Beratungsstelle auf eine veränderte Nachfrage.",
+    "link": "https://www.ksta.de/koeln/koelner-verbraucherzentrale-schraenkt-oeffnungszeiten-vor-ort-ein-1410223",
+    "published": "Thu, 12 Nov 2026 12:05:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T14:18:35.959454",
+    "feed_kommunen": []
+  },
+  {
     "id": "2623dd2abfb1",
     "title": "Stadtkämmerin in Lindenthal: Dörte Diemert verbreitet Hoffnung in der Lindenthaler Bezirksvertretung",
     "summary": "Trotz Sparzwang bleiben die bezirksorientierten Mittel in Lindenthal in voller Höhe. Bei den Stadtverschönerungsmitteln ist das anders.",

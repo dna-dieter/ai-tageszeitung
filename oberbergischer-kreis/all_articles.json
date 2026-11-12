@@ -1,5 +1,76 @@
 [
   {
+    "id": "404a84515c88",
+    "title": "Gummersbach trauert um „Gus“ Anton",
+    "summary": "Gummersbach - Der langjährige Kulturbeauftragte, erste Intendant des Stadttheaters und Träger des Ehrenrings der Stadt Gummersbach starb am Mittwoch im Alter von 88 Jahren.",
+    "link": "http://www.oberberg-aktuell.de/gummersbach/gummersbach-trauert-um----gus----anton-a-140336",
+    "published": "Thu, 12 Nov 2026 14:15:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-12T14:17:25.933788",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f5a164ab61fc",
+    "title": "PRESSEMITTEILUNG: Weihnachtliche Vorfreude: Das Rathaus öffnet sein Adventstürchen",
+    "summary": "Der lebendige Adventskalender bringt auch in diesem Jahr wieder Adventsstimmung nach Nümbrecht. Die Nümbrechter Aktionsgemeinschaft lädt in der Adventszeit dazu ein, gemeinsam Türchen zu öffnen, Geschichten zu lauschen und vorweihnachtliche Gemeinschaft zu erleben.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=2016&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=89c6629f67c235374c0026634af43f19",
+    "published": "Thu, 12 Nov 2026 14:04:35 +0100",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-12T14:17:34.316648",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
+    "id": "29f9c3e7d742",
+    "title": "Die Solinger machen den meisten Müll im Bergischen – knapp vor den Remscheidern",
+    "summary": "Fast 467 Kilogramm Abfall produzierte jeder Solinger im Jahr 2025. Das ist der höchste Wert im Bergischen Land. Doch eine andere Großstadt liegt in dieser Statistik des Landes NRW nur knapp dahinter.",
+    "link": "https://www.rga.de/lokales/remscheid/die-solinger-machen-den-meisten-muell-im-bergischen-knapp-vor-den-remscheidern-FZKQZVZDMRH6PEE7QDIL6PHU2Q.html",
+    "published": "Thu, 12 Nov 2026 14:00:00 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen",
+      "radevormwald"
+    ],
+    "fetched": "2026-11-12T14:17:22.352044",
+    "feed_kommunen": [
+      "hueckeswagen",
+      "radevormwald"
+    ]
+  },
+  {
+    "id": "cff775eb9195",
+    "title": "Dreifach weiblich, dreifach jeck - Schönenbach startet in die Session",
+    "summary": "Waldbröl - Mit einem dreifachen „Schürmich Ruck Zuck!“ wurden mit Prinz Steffi I., Bauer Susi und Jungfrau Becky die neuen Tollitäten der Karnevalsfreunde Schönenbach im Dorfhaus proklamiert.",
+    "link": "http://www.oberberg-aktuell.de/waldbroel/dreifach-weiblich--dreifach-jeck---sch--nenbach-startet-in-die-session-a-140332",
+    "published": "Thu, 12 Nov 2026 13:45:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-12T14:17:25.934022",
+    "feed_kommunen": []
+  },
+  {
+    "id": "81e21dd38d39",
+    "title": "EBS investiert rund 16 Millionen Euro in Elsenroth",
+    "summary": "Nümbrecht – Im Gewerbegebiet am Hauptstandort des Unternehmens entsteht bis Sommer 2027 ein neues Verwaltungsgebäude – Spezialist für Tintenstrahldrucksysteme möchte wachsen.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/ebs-inkjet-investiert-rund----millionen-euro-in-elsenroth-a-140335",
+    "published": "Thu, 12 Nov 2026 13:44:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-12T14:17:25.934208",
+    "feed_kommunen": []
+  },
+  {
     "id": "4b432371c306",
     "title": "Oberberg: Brandschutz in der Adventszeit – Kreis warnt vor Brandgefahren",
     "summary": "Zum Tag des Rauchmelders am 13. November mahnt der Oberbergische Kreis zu Vorsorge und Brandschutz bei Kerzen und Lichterketten in der Adventszeit.",
