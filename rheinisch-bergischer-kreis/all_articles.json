@@ -1,5 +1,20 @@
 [
   {
+    "id": "2b65e80eed37",
+    "title": "„Es darf jetzt endlich losgehen“",
+    "summary": "Das neue Dreigestirn bereitet sich seit Monaten auf seine Amtszeit vor – am Samstag werden die Dawerkuser Tollitäten proklamiert. Rund 100 Auftritte werden bis Rosenmontag folgen.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/es-darf-jetzt-endlich-losgehen-WZCQSV75RI2DNLOMFXJGACGAT4.html",
+    "published": "Thu, 12 Nov 2026 07:02:00 +0100",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-11-12T07:16:06.489353",
+    "feed_kommunen": [
+      "wermelskirchen"
+    ]
+  },
+  {
     "id": "59b1e0e70fa5",
     "title": "Wechsel im Kulturforum Burscheid: Wilke komplettiert neues Vorstandstrio",
     "summary": "Das Kulturforum Burscheid bekommt ein neues Vorstandsmitglied: Carl Henry Wilke löst Renate Bergfelder-Weiss ab, die den Kulturbetrieb mit aufgebaut hat. Wie der Verein sein erstes Jahr feiern will – und wer zum Team gehört.",
@@ -250,6 +265,19 @@
     "feed_kommunen": []
   },
   {
+    "id": "28242d0b76a6",
+    "title": "In Overath hilft das DRK bei der verlässlichen Kinder-Betreuung",
+    "summary": "Wenn die eigene Kindertagespflegeperson krankheitsbedingt ausfällt, stehen Familien oft vor einer großen Herausforderung. Wer betreut das Kind, wenn die vertraute Bezugsperson plötzlich nicht zur Verfügung steht? Eine verlässliche Antwort darauf bietet jetzt der neue Vertretungsstützpunkt Kindertagespflege in Overath.",
+    "link": "https://in-gl.de/2026/11/11/in-overath-hilft-das-drk-bei-der-verlaesslichen-kinder-betreuung/",
+    "published": "Wed, 11 Nov 2026 12:01:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "overath"
+    ],
+    "fetched": "2026-11-12T07:15:38.287172",
+    "feed_kommunen": []
+  },
+  {
     "id": "08f7452eaa58",
     "title": "Weihnachtsmarkt im Höhendorf: Witzhelden feiert den Sternenzauber und das Ehrenamt",
     "summary": "Der Sternenzauber Witzhelden lockt mit Chören, Konzerten, Feuershow und Lichterzug ins Dorf. Vom 3. bis 6. Dezember gibt es ein abwechslungsreiches Programm.",
@@ -411,6 +439,19 @@
     "feed_kommunen": [
       "wermelskirchen"
     ]
+  },
+  {
+    "id": "ac2e8c1e89a7",
+    "title": "Endspurt für Bürgerbegehren der Pfadfinder",
+    "summary": "Die Pfadfinder vom Stamm Folke Bernadotte haben noch weniger als zwei Wochen Zeit, die erforderlichen Unterschriften für ein Bürgerbegehren zum Erhalt des Q1-Gebäudes am Quirlsberg zu sammeln. Jetzt ist es auch möglich, Unterschriftenlisten nach Hause geliefert zu bekommen.",
+    "link": "https://in-gl.de/2026/11/11/endspurt-fuer-buergerbegehren-der-pfadfinder/",
+    "published": "Wed, 11 Nov 2026 06:26:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T07:15:38.288765",
+    "feed_kommunen": []
   },
   {
     "id": "f76a3dde1867",
