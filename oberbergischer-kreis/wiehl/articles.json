@@ -1,5 +1,59 @@
 [
   {
+    "id": "2f08d50f3f0d",
+    "title": "Wiehl: Feuerwehrspitze neu gewählt – Daniel Noss übernimmt das Kommando",
+    "summary": "Feuerwehrspitze in Wiehl neu aufgestellt: Daniel Noss übernimmt Anfang 2027 die Leitung der Wehr. Der Stadtrat wählte die Führung einstimmig.",
+    "link": "https://www.news-on-tour.de/345720/wiehl-feuerwehrspitze-noss/",
+    "published": "Thu, 12 Nov 2026 11:58:14 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-12T13:17:05.960717",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a4bf506872ce",
+    "title": "Wiehl: Zwei Bänke und ein Baum für Ehrenbürger Kotz",
+    "summary": "Zwei Sitzbänke und ein Feldahorn: Die Stadt Wiehl ehrt Christian Peter Kotz zum 90. Geburtstag und zu 20 Jahren Ehrenbürgerschaft.",
+    "link": "https://www.news-on-tour.de/345702/wiehl-ehrung-christian-peter-kotz/",
+    "published": "Thu, 12 Nov 2026 11:32:22 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-12T13:17:05.961016",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4070609ed990",
+    "title": "Lindlar: Einbruch in Hohkeppel scheitert – weitere Fälle in Wiehl und Gummersbach",
+    "summary": "Einbruchsversuch in Lindlar-Hohkeppel: Bewohner findet Hebelspuren an der Terrassentür. Dazu Fälle in Drabenderhöhe, Bernberg und Dieringhausen.",
+    "link": "https://www.news-on-tour.de/345700/lindlar-einbruch-hohkeppel/",
+    "published": "Thu, 12 Nov 2026 11:31:37 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "lindlar",
+      "wiehl",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-12T13:17:05.961100",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9fc82b3d474d",
+    "title": "MINTeraktiv in Oberberg: 280 Kinder bei der 16. Herbstakademie",
+    "summary": "Rund 280 Kinder und Jugendliche nahmen an der 16. Herbstakademie MINTeraktiv teil. In Wiehl verwandelten 11- bis 13-Jährige Zeichnungen in Videospiele und bauten Controller aus Alufolie, Knete und Obst.",
+    "link": "https://www.news-on-tour.de/345690/minteraktiv-herbstakademie-kinder/",
+    "published": "Thu, 12 Nov 2026 11:25:34 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-12T13:17:05.961214",
+    "feed_kommunen": []
+  },
+  {
     "id": "d6d6c29ede0a",
     "title": "Daniel Noss: Neue Leitung der Wiehler Feuerwehr",
     "summary": "Daniel Noss löst Jens Schmidt ab, Elke Zakaria erhält silbernen Wiehltaler, und viele Anträge gehen an Fachausschüsse.",
@@ -4031,6 +4085,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-12T11:17:33.976002",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "1839000f59dc",
+    "title": "Silberner Wiehltaler an Elke Zakaria",
+    "summary": "Seit 20 Jahren gehört Elke Zakaria dem Rat der Stadt Wiehl an. Jetzt ist das Mitglied der Fraktion von Bündnis 90/Die Grünen mit dem Silbernen Wiehltaler ausgezeichnet worden.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9608-silberner-wiehltaler-an-elke-zakaria.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-12T13:17:15.070366",
     "feed_kommunen": [
       "wiehl"
     ]
