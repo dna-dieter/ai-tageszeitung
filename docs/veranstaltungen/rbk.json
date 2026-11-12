@@ -50,6 +50,16 @@
     "teaser": "Hexenwahn und Intrigen in einer Stadt am Abgrund. Ein Krimi für Liebhaber von meisterhaft erzählter historischer Spannung. Cöln, 1784. Massengebete auf dem Rathausplatz konnten die schlimmste Flutkatastrophe seit Mensche"
   },
   {
+    "titel": "Tag der offenen Tür im Spiegelzelt",
+    "datum": "14. Nov 2026",
+    "datum_raw": "2026-11-14T12:00:00+01:00",
+    "ort": "Hotel-Restaurant Wißkirchen, Am Rösberg 2, 51519 Odenthal",
+    "preis": "",
+    "link": "https://www.hotel-wisskirchen.de/das-spiegelzelt-in-altenberg/",
+    "quelle": "Das Bergische",
+    "teaser": "Am 20. November startet die Dinner-Show des Cirque Buffon im Spiegelzelt in Altenberg. Vorher kannst Du bei einem Kaffee oder Kaltgetränk die besondere Atmosphäre des Spiegelzeltes erleben und genießen. Du kannst Dich sc"
+  },
+  {
     "titel": "Drink & Aquarell",
     "datum": "14. Nov 2026",
     "datum_raw": "2026-11-14T15:00:00+01:00",
@@ -210,16 +220,6 @@
     "teaser": "Das Motto der sechsten Lesereise \"Bunte Vielfalt trifft schwarzen Humor\" steht für die inhaltliche Bandbreite der vorgestellten Romane von zwei Autorinnen und zwei Autoren der finnischen Literaturszene. Ein knallharter K"
   },
   {
-    "titel": "„Femme fatale“ mit dem Cirque Buffon",
-    "datum": "20. Nov 2026",
-    "datum_raw": "2026-11-20T19:00:00+01:00",
-    "ort": "Hotel-Restaurant Wißkirchen, Am Rösberg 2, 51519 Odenthal",
-    "preis": "",
-    "link": "https://www.hotel-wisskirchen.de/das-spiegelzelt-in-altenberg/",
-    "quelle": "Das Bergische",
-    "teaser": "Der Cirque Bouffon gastiert zum 6. Mal mit einer faszinierenden Dinner-Show \"Femme fatale\" im nostalgischen Spiegelzelt in Altenberg. Das internationale Künstlerensemble des Cirque Bouffon verzaubert sein Publikum im Sti"
-  },
-  {
     "titel": "Kölsche Weihnachts Dinnershow",
     "datum": "20. Nov 2026",
     "datum_raw": "2026-11-20T19:00:00+01:00",
@@ -228,6 +228,16 @@
     "link": "http://www.das-esszimmer-bensberg.de/",
     "quelle": "Das Bergische",
     "teaser": "Kölsche Weihnachtsstimmung, kulinarischer Genuss und erstklassige Live-Musik – am 20. November lädt das Esszimmer zur zweiten Kölschen Weihnachts-Dinner Show ein. Freuen Sie sich auf einen stimmungsvollen Abend mit einem"
+  },
+  {
+    "titel": "„Femme fatale“ mit dem Cirque Buffon",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T19:00:00+01:00",
+    "ort": "Hotel-Restaurant Wißkirchen, Am Rösberg 2, 51519 Odenthal",
+    "preis": "",
+    "link": "https://www.hotel-wisskirchen.de/das-spiegelzelt-in-altenberg/",
+    "quelle": "Das Bergische",
+    "teaser": "Der Cirque Bouffon gastiert zum 6. Mal mit einer faszinierenden Dinner-Show \"Femme fatale\" im nostalgischen Spiegelzelt in Altenberg. Das internationale Künstlerensemble des Cirque Bouffon verzaubert sein Publikum im Sti"
   },
   {
     "titel": "Gerd J. Pohl liest: Am Abgrund... und einen Schritt weiter",
@@ -348,6 +358,16 @@
     "link": "https://www.facebook.com/events/1145594298046900/1145594301380233/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22attachment%22%2C%22surface%22%3A%22newsfeed%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
     "quelle": "Das Bergische",
     "teaser": "Auch in diesem Jahr gibt es im Biergarten der Gaststätte Cramer Stuben wieder ein gemütliches Glühweinfest. Es gibt leckeren Glühwein, heißen Kakao, Bratwürste vom Grill und viele weitere Köstlichkeiten."
+  },
+  {
+    "titel": "Weihnachtsmarkt in Kürten",
+    "datum": "27. Nov 2026",
+    "datum_raw": "2026-11-27T18:00:00+01:00",
+    "ort": "Rathaus, Karlheinz-Stockhausenplatz 1, 51515 Kürten",
+    "preis": "",
+    "link": "http://www.dasbergische.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Vom 27.-29.11.2026 findet auf der Karlheinz-Stockhausen-Platz wieder der alljährlicher Weihnachtsmarkt statt. Auch in diesem Jahr gibt es zahlreiche Aussteller, die das ganze Jahr gebastelt und gewerkelt haben und für ei"
   },
   {
     "titel": "Wilfried Schmickler: \"Der tut's noch\"",
