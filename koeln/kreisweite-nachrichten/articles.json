@@ -1,5 +1,70 @@
 [
   {
+    "id": "2d11a6857ca9",
+    "title": "Leckeres Gänseessen: 15 Restaurants in Köln für knusprigen Gänsebraten",
+    "summary": "Wir stellen Restaurants in Köln vor, die Gänsebraten servieren oder sogar liefern.",
+    "link": "https://www.ksta.de/freizeit/restaurants/gaenseessen-in-koeln-in-diesen-15-restaurants-gibt-es-gaensebraten-2026-673995",
+    "published": "Thu, 12 Nov 2026 17:04:43 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T17:18:46.621493",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b1b7a7d8c352",
+    "title": "Bundesligist stabilisiert sich weiter: Rekordumsatz des FC, aber enge Spielräume",
+    "summary": "Der 1. FC Köln erzielt einen Umsatzrekord, bleibt aber wirtschaftlich vorsichtig. Der Klassenerhalt ist für die finanzielle Stabilität essenziell.",
+    "link": "https://www.ksta.de/sport/1-fc-koeln/1-fc-koeln-erzielt-rekordumsatz-trotz-engem-finanziellen-spielraum-1415413",
+    "published": "Thu, 12 Nov 2026 17:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T17:18:46.621519",
+    "feed_kommunen": []
+  },
+  {
+    "id": "074d9e4d58a4",
+    "title": "Beschlagnahmte Toypudel: Kölner Tierheim sucht Hundefreunde mit „allerbesten Nerven“",
+    "summary": "Zwei illegal eingeführte Toypudel-Welpen suchen im Kölner Tierheim Dellbrück ein neues Zuhause. Doch die Vermittlung ist an strenge Bedingungen geknüpft.",
+    "link": "https://www.ksta.de/koeln/muelheim/dellbrueck/tierheim-dellbrueck-sucht-zuhause-fuer-beschlagnahmte-toypudel-1415428",
+    "published": "Thu, 12 Nov 2026 16:51:13 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T17:18:46.621547",
+    "feed_kommunen": []
+  },
+  {
+    "id": "bbdb7f68e8ff",
+    "title": "Rat der Stadt Köln beschließt Doppelhaushalt 2027/2028",
+    "summary": "12. November 2026, 16:31Erstmals Aufwendungen von jährlich mehr als sieben Milliarden Euro – Weiterer Konsolidierungskurs unvermeidlich",
+    "link": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/rat-der-stadt-koeln-beschliesst-doppelhaushalt-20272028",
+    "published": "Thu, 12 Nov 2026 16:31:00 +0100",
+    "source": "Stadt Köln Pressemeldungen",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T17:18:46.371830",
+    "feed_kommunen": []
+  },
+  {
+    "id": "fcc21394e23d",
+    "title": "Weihnachtsmarkt im Veedel: Diese Weihnachtsmärkte finden 2026 in den Kölner Stadtteilen statt",
+    "summary": "Veedels-Weihnachtsmärkte Köln 2026: In den Stadtteilen locken viele kleine Märkte. Die schönsten Termine und Infos im Überblick.",
+    "link": "https://www.ksta.de/freizeit/weihnachten/weihnachtsmaerkte-in-den-koelner-veedeln-2026-infos-und-termine-686882",
+    "published": "Thu, 12 Nov 2026 15:51:53 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T17:18:46.621594",
+    "feed_kommunen": []
+  },
+  {
     "id": "ca484fce0682",
     "title": "Führerscheinangelegenheiten werden in der Innenstadt gebündelt",
     "summary": "12. November 2026, 15:46Effektivere Terminvergabe an zentralem Ort – Start am 30. November 2026",
@@ -13,6 +78,32 @@
     "feed_kommunen": []
   },
   {
+    "id": "8303726eb807",
+    "title": "„Wahrheiten aussprechen“: Beliebter Comedian wagt sich erstmals in die Kölner Bütt",
+    "summary": "Der Comedian debütiert in der kommenden Session als Redner im Kölner Karneval und möchte dabei gesellschaftliche Haltung zeigen.",
+    "link": "https://www.ksta.de/koeln/karneval-in-koeln/khalid-bounouar-comedian-tritt-erstmals-in-der-koelner-buett-auf-1415353",
+    "published": "Thu, 12 Nov 2026 15:29:02 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T17:18:46.621609",
+    "feed_kommunen": []
+  },
+  {
+    "id": "14b64ce909c3",
+    "title": "Betrug in Kölner Hotel: Luxus-Uhr mit Falschgeld bezahlt – Polizei nimmt drei Tatverdächtige fest",
+    "summary": "Ein 54-Jähriger wollte in einem Kölner Hotel eine Luxus-Taschenuhr verkaufen und erhielt dafür mehrere zehntausend Euro Falschgeld. Nun gab es drei Festnahmen.",
+    "link": "https://www.ksta.de/koeln/koelner-innenstadt/koeln-polizei-nimmt-verdaechtige-nach-betrug-mit-falschgeld-fest-1415289",
+    "published": "Thu, 12 Nov 2026 15:23:34 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T17:18:46.621626",
+    "feed_kommunen": []
+  },
+  {
     "id": "81fd3bd3a3b9",
     "title": "Elfter im Elften – die Bilanz",
     "summary": "12. November 2026, 15:10Zwei Kioske wegen Verstößen gegen den Jugendschutz geschlossen",
@@ -23,6 +114,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-12T16:18:38.962252",
+    "feed_kommunen": []
+  },
+  {
+    "id": "276d19743116",
+    "title": "Kontrollen am Wochenende: Bundespolizei erlässt Mitführverbot gefährlicher Gegenstände an Kölner Bahnhöfen",
+    "summary": "Vom 13. bis 15. November verbietet die Bundespolizei an Kölner Bahnhöfen und in Nahverkehrszügen das Mitführen von Waffen.",
+    "link": "https://www.ksta.de/koeln/bundespolizei-erlaesst-mitfuehrverbot-gefaehrlicher-gegenstaende-an-koelner-bahnhoefen-1415197",
+    "published": "Thu, 12 Nov 2026 15:03:24 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T17:18:46.621640",
     "feed_kommunen": []
   },
   {

@@ -1,5 +1,57 @@
 [
   {
+    "id": "2e98b0718368",
+    "title": "Karneval: Kinderprinzessinnen beim Sessionsauftakt in Leichlingen gefeiert",
+    "summary": "Beim Sessionsauftakt in Leichlingen wurden die künftigen Kinderprinzessinnen Lena I. und Elena I. dem närrischen Publikum offiziell vorgestellt.",
+    "link": "https://www.ksta.de/region/leverkusen/leichlingen/leichlingen-kinderprinzessinnen-beim-sessionsauftakt-gefeiert-1415282",
+    "published": "Thu, 12 Nov 2026 15:19:53 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-12T17:16:14.439937",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a5e4eb8b7175",
+    "title": "Weihnachtsnachmittag in Heidkamp: Mehr als gemeinsames Trauern",
+    "summary": "Beim Weihnachtsnachmittag in den LuxHallen kamen rund 120 trauernde Gäste zum Basteln und Plaudern zusammen.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/weihnachtsnachmittag-in-heidkampmehr-als-gemeinsames-trauern-1415339",
+    "published": "Thu, 12 Nov 2026 15:14:23 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T17:16:14.440064",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d6163950fb4e",
+    "title": "Achtung Loverboys: Betroffene warnt Jugendliche vor falscher Liebe",
+    "summary": "Nach sechs Jahren Zwangsprostitution warnt die Juristin Sandra Reitz vor der Masche der Täter und kämpft dagegen.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/loverboys-sandra-reitz-warnt-in-bergisch-gladbach-vor-der-masche-1415327",
+    "published": "Thu, 12 Nov 2026 15:06:05 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T17:16:14.440188",
+    "feed_kommunen": []
+  },
+  {
+    "id": "fe67b4e063f4",
+    "title": "Kindertagespflege in Overath: Neuer Stützpunkt springt bei Tagesmüttern ein",
+    "summary": "In Marialinden springen DRK und die Stadt mit einem neuen Vertretungsstützpunkt ein, wenn Kindertagespflege ausfällt.",
+    "link": "https://www.ksta.de/region/rhein-berg/overath/kindertagespflege-in-overath-neuer-vertretungsstuetzpunkt-eroeffnet-1415309",
+    "published": "Thu, 12 Nov 2026 14:54:30 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "overath"
+    ],
+    "fetched": "2026-11-12T17:16:14.440306",
+    "feed_kommunen": []
+  },
+  {
     "id": "3627d0760680",
     "title": "Sonderausschuss in Leichlingen: Schulzentrum bekommt mehr Hallenkapazität",
     "summary": "Eine Studie beziffert den Hallenbedarf der beiden Schulen auf zehn bis elf Hallenteile. Die Stadt will unter anderem eine Vierfach-Sporthalle bauen.",
@@ -13,6 +65,45 @@
     "feed_kommunen": [
       "leichlingen"
     ]
+  },
+  {
+    "id": "5e554f2c9ba7",
+    "title": "Familiensache: Rösrath bekommt sein erstes Familien-Dreigestirn",
+    "summary": "Das Karnevals-Komitee hat in Schloss Eulenbroich das erste Familien-Dreigestirn vorgestellt.",
+    "link": "https://www.ksta.de/region/rhein-berg/roesrath/roesrath-praesentiert-erstes-familien-dreigestirn-der-geschichte-1415296",
+    "published": "Thu, 12 Nov 2026 14:47:47 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "roesrath"
+    ],
+    "fetched": "2026-11-12T17:16:14.440402",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ea6111060947",
+    "title": "Rösrather Bücherei: Ausschuss will Etat mehr als verdreifachen",
+    "summary": "Die Rösrather Stadtbücherei soll mehr Geld für Medien, mehr Personal und größere Räume bekommen.",
+    "link": "https://www.ksta.de/region/rhein-berg/roesrath/roesrather-stadtbuecherei-soll-mehr-geld-und-neue-raeume-erhalten-1415293",
+    "published": "Thu, 12 Nov 2026 14:43:23 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "roesrath"
+    ],
+    "fetched": "2026-11-12T17:16:14.440502",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7d0b4a214c7a",
+    "title": "Blutproben per Drohne: 40 Kilometer in 26 Minuten",
+    "summary": "Die nach Angaben des Betreibers längste genehmigte Drohnenroute Europas von Gladbach nach Oberberg wurde erstmals komplett beflogen.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/drohnenflug-von-bergisch-gladbach-nach-oberberg-erfolgreich-1415283",
+    "published": "Thu, 12 Nov 2026 14:38:18 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-12T17:16:14.440625",
+    "feed_kommunen": []
   },
   {
     "id": "29f9c3e7d742",

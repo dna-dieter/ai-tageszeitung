@@ -1,7 +1,7 @@
 {
   "quelle": "https://www.kuerten.de/sitzungen/",
   "portal": "https://sessionnet.owl-it.de/kuerten/bi/info.asp",
-  "aktualisiert": "2026-11-12T12:18:59",
+  "aktualisiert": "2026-11-12T17:19:27",
   "kommende": [
     {
       "datum": "2026-11-18",
@@ -43,7 +43,12 @@
       "uhrzeit": "17:30",
       "ort": "Bürgerhaus Clubräume 1 u. 2",
       "ist_rat": false,
-      "dokumente": []
+      "dokumente": [
+        {
+          "art": "Einladung",
+          "url": "https://sessionnet.owl-it.de/kuerten/bi/getfile.asp?id=128053&type=do"
+        }
+      ]
     },
     {
       "datum": "2026-11-26",
@@ -51,7 +56,12 @@
       "uhrzeit": "17:30",
       "ort": "Bürgerhaus Kürten",
       "ist_rat": false,
-      "dokumente": []
+      "dokumente": [
+        {
+          "art": "Einladung",
+          "url": "https://sessionnet.owl-it.de/kuerten/bi/getfile.asp?id=126625&type=do"
+        }
+      ]
     },
     {
       "datum": "2026-12-02",
