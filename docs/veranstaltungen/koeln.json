@@ -2475,6 +2475,17 @@
     "teaser": "15 bis 16 Uhr · Für Schulleitungen, Lehrkräfte und pädagogische Fachkräfte"
   },
   {
+    "titel": "MINT-Vorlesen",
+    "datum": "9. Dez 2026",
+    "datum_raw": "2026-12-09T00:00:00",
+    "datum_bis": "",
+    "ort": "Stadtteilbibliothek Chorweiler, Chorweiler",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41748/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:30 bis 17:30 Uhr · Bücher und Experimente für neugierige Kinder – in der Stadtteilbibliothek Chorweiler."
+  },
+  {
     "titel": "Ausstellungsführung: Hungerleben – Lebenshunger. Köln 1946/47",
     "datum": "9. Dez 2026",
     "datum_raw": "2026-12-09T00:00:00",
@@ -3111,6 +3122,17 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41211/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "16 bis 17 Uhr · Künstliche Intelligenz entdecken im Interim der Zentralbibliothek – eine Veranstaltung im Rahmen der Reihe Digitale Werkstatt."
+  },
+  {
+    "titel": "Scrunchie-Weihnachts-Werkstatt",
+    "datum": "17. Dez 2026",
+    "datum_raw": "2026-12-17T00:00:00",
+    "datum_bis": "",
+    "ort": "Stadtteilbibliothek Rodenkirchen, Rodenkirchen",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41750/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17:30 Uhr · Haargummis selbst gestalten – in der Stadtteilbibliothek Rodenkirchen."
   },
   {
     "titel": "Bilderbuchkino",
