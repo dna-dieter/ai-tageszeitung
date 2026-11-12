@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Kunstausstellung Haus der Kunst",
-    "datum": "12. Nov 2026",
-    "datum_raw": "2026-11-12T16:00:00+01:00",
-    "ort": "Haus der Kunst, Jakob-Engels-Strasse 2, 51588 Nümbrecht",
-    "preis": "",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Jeanette de Payebrune Malerei Eröffnung: 08.11.2026, 15:00 Uhr, Haus der Kunst Öffnungszeiten: donnerstags: 16:00-18:00 Uhr samstags und sonntags: 14:00-17:00 Uhr Veranstalter: Kunstverein Nümbrecht e.V. Veranstaltungsor"
-  },
-  {
     "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
     "datum": "13. Nov 2026",
     "datum_raw": "2026-11-13T11:00:00+02:00",
@@ -78,6 +68,16 @@
     "link": "http://www.nuembrecht-erleben.de/",
     "quelle": "Das Bergische",
     "teaser": ""
+  },
+  {
+    "titel": "Kunstausstellung Haus der Kunst",
+    "datum": "14. Nov 2026",
+    "datum_raw": "2026-11-14T14:00:00+01:00",
+    "ort": "Haus der Kunst, Jakob-Engels-Strasse 2, 51588 Nümbrecht",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Jeanette de Payebrune Malerei Eröffnung: 08.11.2026, 15:00 Uhr, Haus der Kunst Öffnungszeiten: donnerstags: 16:00-18:00 Uhr samstags und sonntags: 14:00-17:00 Uhr Veranstalter: Kunstverein Nümbrecht e.V. Veranstaltungsor"
   },
   {
     "titel": "Waffelstube in der \"Alten Schmiede\"",
