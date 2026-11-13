@@ -1,5 +1,33 @@
 [
   {
+    "id": "847d0f167fa4",
+    "title": "POL-RBK: Burscheid - Bargeld bei Einbruch in Einfamilienhaus entwendet",
+    "summary": "Burscheid (ots) - Am gestrigen Donnerstagabend (12.11.) brach eine unbekannte Anzahl an Tätern zwischen 17:45 Uhr und 19:10 Uhr in ein freistehendes Einfamilienhaus in der Straße Blasberg in Burscheid ein. Nach derzeitigen Erkenntnissen drangen ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6389930",
+    "published": "Fri, 13 Nov 2026 10:27:32 +0100",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-13T11:16:41.181412",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f7168b5a7c20",
+    "title": "Elf Stimmen für mehr Teilhabe",
+    "summary": "Der neue Beirat für Menschen mit Behinderung wird am 16. Februar gewählt. Vorschläge für Kandidaturen nimmt die Stabsstelle Inklusion ab sofort an – die Frist endet am 16. Dezember.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/elf-stimmen-fuer-mehr-teilhabe-7TBB6KSOU544KKRSQQ4LDVDOJI.html",
+    "published": "Fri, 13 Nov 2026 10:25:00 +0100",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-11-13T11:16:39.735976",
+    "feed_kommunen": [
+      "wermelskirchen"
+    ]
+  },
+  {
     "id": "f9d35d23d0d4",
     "title": "Geschützt: StartRaum GL: Procevia GmbH",
     "summary": "Es gibt keinen Textauszug, da dies ein geschützter Beitrag ist.",
@@ -230,6 +258,19 @@
       "roesrath"
     ],
     "fetched": "2026-11-12T21:15:38.752285",
+    "feed_kommunen": []
+  },
+  {
+    "id": "daa0780f7f33",
+    "title": "Beim Hochwasserschutz müssen die Kommunen kooperieren",
+    "summary": "Gut fünf Jahre nach der Flutkatastrophe vom Juli 2021 mit ausgedehnten Überschwemmungen im gesamten Sülztal hat sich der Verein Lebenswertes Sülztal in einer gut besuchten Veranstaltung mit der Frage befasst, welche Lehren daraus gezogen werden müssen.",
+    "link": "https://in-gl.de/2026/11/12/beim-hochwasserschutz-muessen-die-kommunen-kooperieren/",
+    "published": "Thu, 12 Nov 2026 17:01:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-13T11:15:36.944131",
     "feed_kommunen": []
   },
   {

@@ -1,5 +1,44 @@
 [
   {
+    "id": "99c553d18636",
+    "title": "Kritik aus der Politik: Stadt Köln zentralisiert alle Führerscheinstellen in der Innenstadt",
+    "summary": "Die Stadt Köln schließt alle dezentralen Führerscheinstellen und bündelt den Service in der Innenstadt. Politiker kritisieren die mangelnde Kommunikation.",
+    "link": "https://www.ksta.de/koeln/kritik-aus-der-politik-stadt-koeln-buendelt-fuehrerscheinstellen-in-der-innenstadt-1415456",
+    "published": "Fri, 13 Nov 2026 11:01:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-13T11:19:19.147347",
+    "feed_kommunen": []
+  },
+  {
+    "id": "165841deb6d5",
+    "title": "Auch Traktoren angemeldet: Zwei Demos am Samstag in Köln – Verkehrsstörungen erwartet",
+    "summary": "Für kommenden Samstag sind mehrere Versammlungen in Köln-Deutz und der Innenstadt angemeldet. Die Polizei rechnet mit Straßensperrungen und Verkehrsstörungen.",
+    "link": "https://www.ksta.de/koeln/koelner-innenstadt/deutz/zwei-demos-in-koeln-am-samstag-verkehrsstoerungen-erwartet-1415463",
+    "published": "Fri, 13 Nov 2026 10:48:58 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-13T11:19:19.147374",
+    "feed_kommunen": []
+  },
+  {
+    "id": "eb19b3fdbbfb",
+    "title": "Wahl der Seniorenvertretung der Stadt Köln 2026",
+    "summary": "13. November 2026, 10:21Stadt empfiehlt Briefwahlunterlagen bis spätestens 18. November zurückzuschicken",
+    "link": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/wahl-der-seniorenvertretung-der-stadt-koeln-2026-1",
+    "published": "Fri, 13 Nov 2026 10:21:00 +0100",
+    "source": "Stadt Köln Pressemeldungen",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-13T11:19:18.905290",
+    "feed_kommunen": []
+  },
+  {
     "id": "df8e50cd12cc",
     "title": "Suchthilfezentrum Innenstadt",
     "summary": "13. November 2026, 10:06Rat der Stadt Köln soll über Betreibervariante entscheiden",
@@ -10,6 +49,32 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-13T10:18:27.368728",
+    "feed_kommunen": []
+  },
+  {
+    "id": "27417e5f3262",
+    "title": "Projekte auf dem Prüfstand: Kölner Rat beschließt Budget für Schulmieten",
+    "summary": "Angesichts stark steigender Mietkosten für Schulen begrenzt die Stadt künftige Ausgaben – mit Auswirkungen auf schon geplante Projekte.",
+    "link": "https://www.ksta.de/koeln/koelner-rat-begrenzt-budget-fuer-steigende-schulmieten-1415342",
+    "published": "Fri, 13 Nov 2026 10:03:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-13T11:19:19.147394",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1efd7abd3055",
+    "title": "Naturschutz: Blau-Weiß Köln bekam 2016 eine Befreiung – jetzt will der FC sie auch",
+    "summary": "Am 23. November soll der Naturschutzbeirat entscheiden, ob der Bundesligist im Äußeren Grüngürtel einen neuen Kunstrasen bauen darf.",
+    "link": "https://www.ksta.de/koeln/koeln-fc-will-ebenfalls-vom-naturschutz-befreit-werden-1413688",
+    "published": "Fri, 13 Nov 2026 10:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-13T11:19:19.147412",
     "feed_kommunen": []
   },
   {

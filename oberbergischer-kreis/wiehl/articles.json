@@ -1,5 +1,45 @@
 [
   {
+    "id": "e7ef721c19f2",
+    "title": "SGV Homburger Land bildet 21 neue Tourenleiter aus",
+    "summary": "Der SGV Homburger Land hat sein ehrenamtliches Team verstärkt: 21 neue Tourenleiter haben ihre Ausbildung abgeschlossen und in Wiehl ihre Urkunden erhalten. Schon im Veranstaltungsprogramm 2027 sollen sie eigene Wander- und Radwanderangebote übernehmen. Verstärkung für steigende Nachfrage 18 Wanderführer und drei Radwanderführer wurden in Wiehl ausgezeichnet. Ausgebildet wurden sie von der SGV Wan",
+    "link": "https://www.rheinische-anzeigenblaetter.de/reichshof/c-nachrichten/sgv-homburger-land-bildet-21-neue-tourenleiter-aus_a382886",
+    "published": "Fri, 13 Nov 2026 10:54:30 +0100",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-13T11:18:07.206684",
+    "feed_kommunen": []
+  },
+  {
+    "id": "686a5b400f41",
+    "title": "Hückeswagen will sich gegen das Liga-Schlusslicht keine Blöße geben",
+    "summary": "Oberberg - Gegen die SG Monheim hofft ATV-Trainer Frischmuth auf zwei Punkte - Wahlscheid spielt erstmals diese Saison nicht auswärts - Oberwiehl reist ambitioniert zum \"unangenehmen Spiel\" beim Primus in Refrath.",
+    "link": "http://www.oberberg-aktuell.de/handball/hbvl---------a-140277",
+    "published": "Fri, 13 Nov 2026 10:30:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-13T11:18:06.475817",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f699f9bae2da",
+    "title": "Ein Feldahorn und zwei Bänke für den Ehrenbürger",
+    "summary": "Wiehl – Die Stadt würdigte die Verdienste des Unternehmers Christian Peter Kotz – Anlass war sein 90. Geburtstag und der 20. Jahrestag seiner Ehrenbürgerwürde.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/ein-feldahorn-und-zwei-baenke-fuer-den-ehrenbuerger-a-140337",
+    "published": "Fri, 13 Nov 2026 10:25:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-13T11:18:06.476126",
+    "feed_kommunen": []
+  },
+  {
     "id": "71249837b377",
     "title": "Wiehler Eiskunstläufer sammeln zahlreiche Podestplätze",
     "summary": "Wiehl - Nach dem anspruchsvollen Hessenpokal in Frankfurt zeigten die Eiskunstläufer auch beim Niederrheinpokal in Dinslaken ihr Können - Neben persönlichen Leistungssteigerungen gab es mehrere gelungene Wettbewerbspremieren.",
@@ -4141,6 +4181,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-12T13:17:15.070366",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "313880326900",
+    "title": "Bau eines Löschwasserbehälters in Bomig-Nord",
+    "summary": "Der Löschwasserteich an der Carl-Zeiss-Straße im Gewerbegebiet Bomig-Nord verschwindet in Kürze: An dieser Stelle baut die Stadt Wiehl einen unterirdischen Löschwasserbehälter.",
+    "link": "https://www.wiehl.de/aktuelles/baustellen/9609-bau-eines-loeschwasserbehaelters-in-bomig.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-13T11:18:08.606978",
     "feed_kommunen": [
       "wiehl"
     ]
