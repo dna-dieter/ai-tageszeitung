@@ -44,17 +44,6 @@
     "teaser": "16 bis 17 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Mülheim"
   },
   {
-    "titel": "LeseWelten",
-    "datum": "13. Nov 2026",
-    "datum_raw": "2026-11-13T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41299/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "16 bis 17 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Nippes."
-  },
-  {
     "titel": "Lizenz für Lasercutter",
     "datum": "13. Nov 2026",
     "datum_raw": "2026-11-13T00:00:00",
@@ -86,6 +75,17 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41348/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "19 bis 22 Uhr · Gruselige Pen & Paper-Runde ab 18 Jahren in der Stadtteilbibliothek Ehrenfeld. Bist du mutig genug?"
+  },
+  {
+    "titel": "Abgesagt – LeseWelten",
+    "datum": "13. Nov 2026",
+    "datum_raw": "2026-11-13T00:00:00",
+    "datum_bis": "",
+    "ort": "Stadtteilbibliothek Nippes, Weidenpesch",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41299/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Diese Veranstaltung ist abgesagt. · Diese Veranstaltung ist abgesagt."
   },
   {
     "titel": "Städtebauliche Entwicklung Longericher Straße in Köln-Bilderstöckchen, 246. Änderung des Flächennutzungsplans",
