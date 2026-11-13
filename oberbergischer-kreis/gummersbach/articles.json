@@ -1,5 +1,18 @@
 [
   {
+    "id": "0213293e944f",
+    "title": "Mann der Bühne: Gus Anton prägte Gummersbachs Kultur",
+    "summary": "Der langjährige Intendant des Stadttheaters und Leiter der Räuber ist im Alter von 88 Jahren im Krankenhaus gestorben.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/gus-anton-ist-tot-gummersbach-trauert-um-den-kultur-intendanten-1416121",
+    "published": "Fri, 13 Nov 2026 14:24:08 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-13T15:17:28.922541",
+    "feed_kommunen": []
+  },
+  {
     "id": "fffccf1c72e9",
     "title": "Gummersbach hat wieder sein „Weihnachtsmärchen“",
     "summary": "Gummersbach – Eröffnung auf dem Festplatz: Bereits zum dritten Mal gibt es auf dem Steinmüllergelände das Winterdorf.",
@@ -10,6 +23,32 @@
       "gummersbach"
     ],
     "fetched": "2026-11-13T14:17:21.627178",
+    "feed_kommunen": []
+  },
+  {
+    "id": "bf8615cbf7c6",
+    "title": "Ehrenmal wird 100: Berghausen feiert am Volkstrauertag",
+    "summary": "Das Ehrenmal in Gummersbach-Berghausen wird 100 Jahre alt – am Volkstrauertag feiern die drei großen Vereine des Ortes gemeinsam.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/gummersbach-berghausen-ehrenmal-feiert-100-jaehriges-bestehen-1416091",
+    "published": "Fri, 13 Nov 2026 13:36:15 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-13T15:17:28.922684",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1486dce1dee3",
+    "title": "Handgreiflichkeiten am Busbahnhof: Streit unter Karnevalisten in Gummersbach eskaliert",
+    "summary": "Nach einer Karnevalsfeier in Gummersbach kam es am Busbahnhof zu einer Schlägerei unter mehreren Kostümierten. Die Polizei ermittelt wegen Körperverletzung.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/gummersbach-streit-unter-karnevalisten-am-busbahnhof-eskaliert-1415910",
+    "published": "Fri, 13 Nov 2026 12:53:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-13T15:17:28.923002",
     "feed_kommunen": []
   },
   {

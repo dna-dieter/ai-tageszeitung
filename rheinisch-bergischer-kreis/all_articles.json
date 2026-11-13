@@ -1,5 +1,61 @@
 [
   {
+    "id": "999fabc4585a",
+    "title": "Mord an Ehemann: Odenthalerin muss acht Jahre in Haft",
+    "summary": "Der Bundesgerichtshof hat die Revision einer 67-jährigen Odenthalerin verworfen: Die acht Jahre Haft für den Mord an ihrem Ehemann gelten nun.",
+    "link": "https://www.ksta.de/region/rhein-berg/odenthal/mord-an-ehemann-urteil-gegen-odenthalerin-ist-rechtskraeftig-1416244",
+    "published": "Fri, 13 Nov 2026 15:08:16 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "odenthal"
+    ],
+    "fetched": "2026-11-13T15:16:06.284095",
+    "feed_kommunen": []
+  },
+  {
+    "id": "3609272e4532",
+    "title": "Matschhose zum Teilen: So hilft eine Kita armen Familien",
+    "summary": "Die Caritas-Kita an der Cederwaldstraße in Bergisch Gladbach lebt Inklusion und Solidarität gegen Armut ganz selbstverständlich im Alltag.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/bergisch-gladbach-caritas-kita-hilft-familien-gegen-armut-1416235",
+    "published": "Fri, 13 Nov 2026 15:04:53 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-13T15:16:06.284222",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e7e41f31bd48",
+    "title": "Gottesdienst in Leichlingen: Figuralchor singt Kantate über Hiob",
+    "summary": "Die evangelische Kirche Leichlingen lädt am Sonntag, 15. November, zu einem Kantatengottesdienst mit Abendmahl ein. Der Figuralchor singt die Kantate „Hiob“ von Fanny Hensel.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/leichlingen-kantatengottesdienst-zu-hiob-am-15-november_aid-158153125",
+    "published": "Fri, 13 Nov 2026 15:00:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-13T15:16:07.304743",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
+    "id": "99bb93665d0a",
+    "title": "Burscheid: Gesamtschule produziert 125.000 kWh Solarstrom pro Jahr",
+    "summary": "Auf dem Dach der Johannes-Löh-Gesamtschule in Burscheid sind 148 Kilowatt Peak Photovoltaik-Leistung installiert worden. Die Anlage erwirtschaftet deutlich mehr Strom, als die Schule selbst verbraucht. Was mit dem Überschuss passiert.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/burscheid-gesamtschule-produziert-125-000-kwh-solarstrom-pro-jahr-2YLEPTYAVRDE3HZD4SNPZNZGPY.html",
+    "published": "Fri, 13 Nov 2026 14:30:00 +0100",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-13T15:16:01.746709",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
     "id": "02fe5c7d8901",
     "title": "Einbruch in Burscheid – Täter steigen durch Wohnzimmerfenster ein",
     "summary": "Zwischen 17.45 und 19.10 Uhr drangen Unbekannte in ein freistehendes Haus in Blasberg ein. Die Täter durchsuchten die Räume und stahlen Bargeld. Die Polizei Rhein-Berg sucht nun nach Zeugen, die im Tatzeitraum etwas Verdächtiges beobachtet haben.",
@@ -648,6 +704,19 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-11-12T09:16:04.793846",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8fab08b9cff4",
+    "title": "Frauenarztpraxis in Schildgen: Neue Patientinnen willkommen",
+    "summary": "Seit einem Jahr führt Dr. Winfried Hoene die Frauenarztpraxis in Schildgen. Die Praxis verzeichnet positive Rückmeldungen, nimmt weiterhin neue Patientinnen auf und bietet Termine nun auch online über Doctolib an.",
+    "link": "https://in-gl.de/2026/11/12/frauenarztpraxis-in-schildgen-neue-patientinnen-willkommen/",
+    "published": "Thu, 12 Nov 2026 06:49:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-13T15:15:37.594698",
     "feed_kommunen": []
   },
   {
