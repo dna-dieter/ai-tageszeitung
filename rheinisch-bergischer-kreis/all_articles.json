@@ -1,5 +1,33 @@
 [
   {
+    "id": "1a955c130ff0",
+    "title": "Rhein-Berg blüht auf",
+    "summary": "Burscheid. Zwei dritte Klassen der EMA-Schule haben am Donnerstag, 5. November 2026, in der Parkanlage Müllersbaum in Hilgen 10.900 Blumenzwiebeln gepflanzt. Anlass war die kreisweite Aktion „Rhein-Berg blüht auf!“. Unterstützt wurden die Kinder vom Baubetriebshof der Technischen Werke Burscheid (TWB). Bürgermeister Dirk Runge und die Umweltbeauftragte der Stadt, Svenja Mühlsiegl, begleiteten die ",
+    "link": "https://www.rheinische-anzeigenblaetter.de/burscheid/c-nachrichten/rhein-berg-blueht-auf_a382937",
+    "published": "Fri, 13 Nov 2026 17:15:58 +0100",
+    "source": "Rheinische Anzeigenblätter Rhein-Berg",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-13T17:16:31.335744",
+    "feed_kommunen": []
+  },
+  {
+    "id": "16233d347c6e",
+    "title": "Lebendiger Adventskalender 2026: Leichlinger Türchen voller Begegnungen",
+    "summary": "Statt Schokolade stehen beim lebendigen Adventskalender in Leichlingen Begegnungen, Musik und besinnliche Momente im Mittelpunkt.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/lebendiger-adventskalender-2026-in-leichlingen_aid-156128587",
+    "published": "Fri, 13 Nov 2026 17:00:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-13T17:16:31.637188",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
     "id": "dd3a354f1e49",
     "title": "Zwei Museen, ein Problem: Warum die Schwelle so hoch ist",
     "summary": "Villa Zanders und Museum Morsbroich kämpfen mit derselben Schwellenangst: Viele Menschen trauen sich nicht hinein – und Geld fehlt.",
@@ -331,6 +359,19 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-11-13T09:16:05.517944",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ca5dae87d41f",
+    "title": "So könnte der Hof „Gut Plätzchen“ in Sand eine Zukunft bekommen",
+    "summary": "Wie könnte Gut Plätzchen zwischen Sand und Herkenrath künftig genutzt werden? Eine Masterarbeit an der TH Köln zeigt, wie die historische Hofanlage zu einem Ort für Mehrgenerationenwohnen, gemeinschaftliche Angebote und Begegnung werden könnte.",
+    "link": "https://in-gl.de/2026/11/13/so-koennte-der-hof-gut-plaetzchen-in-sand-eine-zukunft-bekommen/",
+    "published": "Fri, 13 Nov 2026 07:04:29 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-13T17:15:53.324517",
     "feed_kommunen": []
   },
   {

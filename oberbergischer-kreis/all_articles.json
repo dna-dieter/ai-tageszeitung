@@ -1,5 +1,85 @@
 [
   {
+    "id": "23d5b28faa92",
+    "title": "Marienheide: Falsche Handwerker an der Haustür – Polizei warnt",
+    "summary": "Falsche Handwerker in Marienheide: Drei Männer boten in Dürhölzen die Reparatur der Dachrinne an. Dazu Fälle aus Wipperfürth und Gummersbach.",
+    "link": "https://www.news-on-tour.de/345854/marienheide-handwerker-duerhoelzen/",
+    "published": "Fri, 13 Nov 2026 16:04:40 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "marienheide",
+      "wipperfuerth",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-13T17:17:41.208910",
+    "feed_kommunen": []
+  },
+  {
+    "id": "97e338e9522f",
+    "title": "Waldbröl: 450 Jugendliche testen Berufe beim Berufswahlparcours",
+    "summary": "450 Jugendliche probierten beim Waldbröler Berufswahlparcours praktische Aufgaben aus. 15 Unternehmen boten Einblicke in Ausbildung und Studium.",
+    "link": "https://www.news-on-tour.de/345847/waldbroel-berufswahlparcours/",
+    "published": "Fri, 13 Nov 2026 16:04:05 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-13T17:17:41.209035",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d3f235378f02",
+    "title": "Auch der Dirigentenstab wurde abgegeben",
+    "summary": "Marienheide - Heute wurde in den Rohbau des Feuerwehrgerätehauses eine Zeitkapsel ins Mauerwerk eingelassen - Fertigstellung im Oktober 2027 geplant.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/auch-der-dirigentenstab-wurde-abgegeben-a-140383",
+    "published": "Fri, 13 Nov 2026 17:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-11-13T17:17:47.631113",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4a63dd51f367",
+    "title": "Gummersbach: VfL will Heimspiel gegen Hannover gewinnen",
+    "summary": "Heimspiel in der SCHWALBE arena: Der VfL empfängt Hannover am 15. November um 18 Uhr und will seine Siegesserie in der Bundesliga fortsetzen.",
+    "link": "https://www.news-on-tour.de/345844/gummersbach-heimspiel-hannover/",
+    "published": "Fri, 13 Nov 2026 15:56:10 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-13T17:17:41.209142",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c7d991769bdf",
+    "title": "Ein Parcours der besonderen Art: Premiere in Waldbröl",
+    "summary": "Waldbröl – 450 Jugendliche haben am ersten Berufswahlparcours in Waldbröl teilgenommen – 15 Unternehmen waren mit dabei.",
+    "link": "http://www.oberberg-aktuell.de/junge-leute/ein-parcours-der-besonderen-art--premiere-in-waldbr--l-a-140399",
+    "published": "Fri, 13 Nov 2026 16:45:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-13T17:17:47.631222",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e50bcd2a82a3",
+    "title": "Musikschule: Trümmer einer aus dem Ruder gelaufenen Maßnahme?",
+    "summary": "Wipperfürth – Die Musikschule war gestern Streitthema im Sport-, Freizeit- und Kulturausschuss – Mangelnde Informationspolitik der Verwaltung?",
+    "link": "http://www.oberberg-aktuell.de/politik/musikschule--tr--mmer-einer-aus-dem-ruder-gelaufenen-ma--nahme--a-140398",
+    "published": "Fri, 13 Nov 2026 16:40:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-13T17:17:47.631335",
+    "feed_kommunen": []
+  },
+  {
     "id": "5467249142f7",
     "title": "Gislason nominiert VfL-Trio für vorläufigen WM-Kader",
     "summary": "Gummersbach – Drei Profis des VfL Gummersbach wurden vom Bundestrainer in das erweiterte 35er-Aufgebot der deutschen Handballnationalmannschaft für die Heim-WM im Januar berufen - 'RPP - Ambulantes Therapie- und Reha-Zentrum' und AggerEnergie präsentieren die Berichterstattung über den VfL Gummersbach.",
