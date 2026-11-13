@@ -1,5 +1,20 @@
 [
   {
+    "id": "649f282e1287",
+    "title": "Laufen unter Flutlicht auf der Kunststofflaufbahn am Griesberg",
+    "summary": "dienstags bis donnerstags zwischen 17:00 und 20:00 Uhr",
+    "link": "https://www.burscheid.de/portal/meldungen/laufen-unter-flutlicht-auf-der-kunststofflaufbahn-am-griesberg--900000726-40230.html?rubrik=900000001",
+    "published": "Fri, 13 Nov 2026 12:25:00 +0100",
+    "source": "Stadt Burscheid (offiziell)",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-13T13:16:33.374004",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
     "id": "5d63b5a8be97",
     "title": "Straßensanierung in Bellinghausen verzögert sich",
     "summary": "Fertigstellung voraussichtlich Anfang Dezember",
@@ -13,6 +28,19 @@
     "feed_kommunen": [
       "burscheid"
     ]
+  },
+  {
+    "id": "408619d2c564",
+    "title": "Einweihung: Ab jetzt liefert Sonne Strom für die größte Schule in Burscheid",
+    "summary": "Die größte Schule der Stadt nutzt nun eine Photovoltaikanlage. Das Projekt der Bürger-Energiegenossenschaft spart viel CO2 ein.",
+    "link": "https://www.ksta.de/region/leverkusen/burscheid/burscheid-neue-solaranlage-auf-der-johannes-loeh-gesamtschule-1415180",
+    "published": "Fri, 13 Nov 2026 12:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-13T13:16:30.562686",
+    "feed_kommunen": []
   },
   {
     "id": "847d0f167fa4",

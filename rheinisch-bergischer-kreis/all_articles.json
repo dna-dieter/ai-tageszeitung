@@ -1,5 +1,63 @@
 [
   {
+    "id": "9162a2521ba9",
+    "title": "Microsoft-365-Störung: Stadtverwaltung Bergisch Gladbach derzeit nur per E-Mail eingeschränkt erreichbar",
+    "summary": "Telefonisch ist die Stadtverwaltung – auch die Telefonzentrale – aktuell erreichbar. Aufgrund begrenzter Serverkapazitäten bei Microsoft kann es jedoch vereinzelt auch zu Einschränkungen unter anderem bei der telefonischen Erreichbarkeit kommen. Die Störung betrifft auch den Bereich Kinderschutz. Bei dringenden Anliegen im Kinderschutz wenden Sie sich bitte an das Kinderschutztelefon der Stadtverw",
+    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52870",
+    "published": "2026-11-13 13:15:21",
+    "source": "Stadt Bergisch Gladbach (offiziell)",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-13T13:16:30.379469",
+    "feed_kommunen": [
+      "bergisch-gladbach"
+    ]
+  },
+  {
+    "id": "bdf15425ba10",
+    "title": "Microsoft: Auch Stadt GL per Mail nicht erreichbar",
+    "summary": "Die weltweite Microsoft-365-Störung betrifft auch die Stadtverwaltung Bergisch Gladbach - sie ist derzeit per E-Mail nur eingeschränkt erreichbar. Die Telefonanschlüsse sind grundsätzlich nicht betroffen. Der städtische Krisenstab prüft mögliche weitere Auswirkungen.",
+    "link": "https://in-gl.de/2026/11/13/microsoft-auch-stadt-gl-per-mail-eingeschraenkt-erreichbar/",
+    "published": "Fri, 13 Nov 2026 12:09:11 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-13T13:15:51.621551",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4d35642f9330",
+    "title": "Meisterwerke der Romantik in Leichlingen: Klavierabend mit Menachem Har-Zahav",
+    "summary": "Mit einem Klavierabend voller romantischer Klangwelten gastiert der amerikanische Pianist am Freitag, 20. November, im Leichlinger Bürgerhaus.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/leichlingen-klavierabend-mit-menachem-har-zahav_aid-158283599",
+    "published": "Fri, 13 Nov 2026 13:00:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-13T13:16:32.010030",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
+    "id": "649f282e1287",
+    "title": "Laufen unter Flutlicht auf der Kunststofflaufbahn am Griesberg",
+    "summary": "dienstags bis donnerstags zwischen 17:00 und 20:00 Uhr",
+    "link": "https://www.burscheid.de/portal/meldungen/laufen-unter-flutlicht-auf-der-kunststofflaufbahn-am-griesberg--900000726-40230.html?rubrik=900000001",
+    "published": "Fri, 13 Nov 2026 12:25:00 +0100",
+    "source": "Stadt Burscheid (offiziell)",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-13T13:16:33.374004",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
     "id": "5d63b5a8be97",
     "title": "Straßensanierung in Bellinghausen verzögert sich",
     "summary": "Fertigstellung voraussichtlich Anfang Dezember",
@@ -13,6 +71,32 @@
     "feed_kommunen": [
       "burscheid"
     ]
+  },
+  {
+    "id": "408619d2c564",
+    "title": "Einweihung: Ab jetzt liefert Sonne Strom für die größte Schule in Burscheid",
+    "summary": "Die größte Schule der Stadt nutzt nun eine Photovoltaikanlage. Das Projekt der Bürger-Energiegenossenschaft spart viel CO2 ein.",
+    "link": "https://www.ksta.de/region/leverkusen/burscheid/burscheid-neue-solaranlage-auf-der-johannes-loeh-gesamtschule-1415180",
+    "published": "Fri, 13 Nov 2026 12:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-13T13:16:30.562686",
+    "feed_kommunen": []
+  },
+  {
+    "id": "288cbb08653b",
+    "title": "Noch einmal: Wie Bergisch Gladbach Weltmeisterin wurde",
+    "summary": "In den nächsten Monaten wird in Köln sehr oft der Name „Bergisch Gladbach“ fallen. Zumindest in Mülheim – im Depot 1: Hier feierte das Musical „Kick Like a Woman“ jetzt Weltpremiere. Es erzählt die unglaubliche Geschichte, wie Fußballerinnen aus Bergisch Gladbach eine WM gewannen. Auf die Bühne gebracht von zwei Männern, die ebenfalls aus Bergisch Gladbach kommen.",
+    "link": "https://in-gl.de/2026/11/13/noch-einmal-wie-bergisch-gladbach-weltmeisterin-wurde-frauenfussball-ssg-09/",
+    "published": "Fri, 13 Nov 2026 09:35:24 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-13T13:15:51.621755",
+    "feed_kommunen": []
   },
   {
     "id": "847d0f167fa4",
@@ -99,21 +183,6 @@
     ]
   },
   {
-    "id": "e6183a37b3d0",
-    "title": "Stadtverwaltung per E-Mail nur eingeschränkt erreichbar",
-    "summary": "Grund dafür ist eine weltweite Störung bei Microsoft 365.",
-    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52870",
-    "published": "2026-11-13 07:54:18",
-    "source": "Stadt Bergisch Gladbach (offiziell)",
-    "kommunen": [
-      "bergisch-gladbach"
-    ],
-    "fetched": "2026-11-13T08:16:12.771316",
-    "feed_kommunen": [
-      "bergisch-gladbach"
-    ]
-  },
-  {
     "id": "5f07acea819b",
     "title": "Hahn und Kreuz kehren auf den Turm zurück",
     "summary": "Wer aufmerksam zur Turmspitze der Stadtkirche blickt, kann dort wieder Kreuz, Kugel und Hahn entdecken. Nach fast einem Jahr sind sie zurückgekehrt – und das in ganz neuem Glanz.",
@@ -142,19 +211,6 @@
     "feed_kommunen": [
       "burscheid"
     ]
-  },
-  {
-    "id": "d6da636db25d",
-    "title": "Noch einmal: Wie Bergisch Gladbach Weltmeisterin wurde",
-    "summary": "In den nächsten Monaten wird in Köln sehr oft der Name „Bergisch Gladbach“ fallen. Zumindest in Mülheim – im Depot 1: Hier feierte das Musical „Kick Like a Woman“ jetzt Weltpremiere. Es erzählt unglaubliche Geschichte, wie Fußballerinnen aus Bergisch Gladbach ein WM gewannen. Auf die Bühne gebracht von zwei Männern, die ebenfalls aus Bergisch Gladbach kommen.",
-    "link": "https://in-gl.de/2026/11/12/noch-einmal-wie-bergisch-gladbach-weltmeisterin-wurde-frauenfussball-ssg-09/",
-    "published": "Thu, 12 Nov 2026 19:35:24 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "bergisch-gladbach"
-    ],
-    "fetched": "2026-11-12T21:15:38.750302",
-    "feed_kommunen": []
   },
   {
     "id": "4743e7557992",

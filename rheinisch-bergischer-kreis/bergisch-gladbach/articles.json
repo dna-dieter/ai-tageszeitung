@@ -1,5 +1,46 @@
 [
   {
+    "id": "9162a2521ba9",
+    "title": "Microsoft-365-Störung: Stadtverwaltung Bergisch Gladbach derzeit nur per E-Mail eingeschränkt erreichbar",
+    "summary": "Telefonisch ist die Stadtverwaltung – auch die Telefonzentrale – aktuell erreichbar. Aufgrund begrenzter Serverkapazitäten bei Microsoft kann es jedoch vereinzelt auch zu Einschränkungen unter anderem bei der telefonischen Erreichbarkeit kommen. Die Störung betrifft auch den Bereich Kinderschutz. Bei dringenden Anliegen im Kinderschutz wenden Sie sich bitte an das Kinderschutztelefon der Stadtverw",
+    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52870",
+    "published": "2026-11-13 13:15:21",
+    "source": "Stadt Bergisch Gladbach (offiziell)",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-13T13:16:30.379469",
+    "feed_kommunen": [
+      "bergisch-gladbach"
+    ]
+  },
+  {
+    "id": "bdf15425ba10",
+    "title": "Microsoft: Auch Stadt GL per Mail nicht erreichbar",
+    "summary": "Die weltweite Microsoft-365-Störung betrifft auch die Stadtverwaltung Bergisch Gladbach - sie ist derzeit per E-Mail nur eingeschränkt erreichbar. Die Telefonanschlüsse sind grundsätzlich nicht betroffen. Der städtische Krisenstab prüft mögliche weitere Auswirkungen.",
+    "link": "https://in-gl.de/2026/11/13/microsoft-auch-stadt-gl-per-mail-eingeschraenkt-erreichbar/",
+    "published": "Fri, 13 Nov 2026 12:09:11 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-13T13:15:51.621551",
+    "feed_kommunen": []
+  },
+  {
+    "id": "288cbb08653b",
+    "title": "Noch einmal: Wie Bergisch Gladbach Weltmeisterin wurde",
+    "summary": "In den nächsten Monaten wird in Köln sehr oft der Name „Bergisch Gladbach“ fallen. Zumindest in Mülheim – im Depot 1: Hier feierte das Musical „Kick Like a Woman“ jetzt Weltpremiere. Es erzählt die unglaubliche Geschichte, wie Fußballerinnen aus Bergisch Gladbach eine WM gewannen. Auf die Bühne gebracht von zwei Männern, die ebenfalls aus Bergisch Gladbach kommen.",
+    "link": "https://in-gl.de/2026/11/13/noch-einmal-wie-bergisch-gladbach-weltmeisterin-wurde-frauenfussball-ssg-09/",
+    "published": "Fri, 13 Nov 2026 09:35:24 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-13T13:15:51.621755",
+    "feed_kommunen": []
+  },
+  {
     "id": "b01955c46346",
     "title": "POL-RBK: Bergisch Gladbach - Mehrere Einbrüche im Stadtgebiet an einem Abend",
     "summary": "Bergisch Gladbach (ots) - Gestern Abend (12.11.) ist die Polizei gleich zu mehreren Tatorten im Stadtgebiet gerufen worden, bei denen zuvor Wohnungseinbrecher am Werk gewesen ist. Gerade jetzt in der dunklen Jahreszeit steigt die Anzahl an ...",
@@ -10,34 +51,6 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-11-13T09:16:05.517944",
-    "feed_kommunen": []
-  },
-  {
-    "id": "e6183a37b3d0",
-    "title": "Stadtverwaltung per E-Mail nur eingeschränkt erreichbar",
-    "summary": "Grund dafür ist eine weltweite Störung bei Microsoft 365.",
-    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52870",
-    "published": "2026-11-13 07:54:18",
-    "source": "Stadt Bergisch Gladbach (offiziell)",
-    "kommunen": [
-      "bergisch-gladbach"
-    ],
-    "fetched": "2026-11-13T08:16:12.771316",
-    "feed_kommunen": [
-      "bergisch-gladbach"
-    ]
-  },
-  {
-    "id": "d6da636db25d",
-    "title": "Noch einmal: Wie Bergisch Gladbach Weltmeisterin wurde",
-    "summary": "In den nächsten Monaten wird in Köln sehr oft der Name „Bergisch Gladbach“ fallen. Zumindest in Mülheim – im Depot 1: Hier feierte das Musical „Kick Like a Woman“ jetzt Weltpremiere. Es erzählt unglaubliche Geschichte, wie Fußballerinnen aus Bergisch Gladbach ein WM gewannen. Auf die Bühne gebracht von zwei Männern, die ebenfalls aus Bergisch Gladbach kommen.",
-    "link": "https://in-gl.de/2026/11/12/noch-einmal-wie-bergisch-gladbach-weltmeisterin-wurde-frauenfussball-ssg-09/",
-    "published": "Thu, 12 Nov 2026 19:35:24 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "bergisch-gladbach"
-    ],
-    "fetched": "2026-11-12T21:15:38.750302",
     "feed_kommunen": []
   },
   {

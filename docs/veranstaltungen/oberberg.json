@@ -560,16 +560,6 @@
     "teaser": "In der Innenstadt von Radevormwald findet wieder der traditionelle Weihnachtsmarkt statt. Vereine sowie Händlerinnen und Händler bieten unter anderem Liköre, diverse kreative Heißgetränke, Punsch- und Glühweinvariationen"
   },
   {
-    "titel": "Die gemütliche Kurzstrecke",
-    "datum": "11. Dez 2026",
-    "datum_raw": "2026-12-11T14:00:00+01:00",
-    "ort": "Eissporthalle Wiehl, Mühlenstraße 23, 51674 Wiehl",
-    "preis": "",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "einfache Wege, ca. 4-5 km Schlusseinkehr: möglich Veranstalter: SGV Abteilung Homburger Land Treffpunkt: 14:00 Uhr Wiehl, Parkplatz Vorderbereich Eissporthalle Wanderführer: Rosemarie Romboy"
-  },
-  {
     "titel": "Christkindmarkt Engelskirchen",
     "datum": "11. Dez 2026",
     "datum_raw": "2026-12-11T14:00:00+01:00",
@@ -578,6 +568,16 @@
     "link": "http://www.engelskirchen.de/",
     "quelle": "Das Bergische",
     "teaser": "Jedes Jahr am dritten Adventswochenende findet der weit über die Grenzen des Bergischen Landes bekannte und beliebte Christkindmarkt auf dem Veranstaltungsplatz hinter dem Rathaus Engelskirchen statt. Die Besucherinnen u"
+  },
+  {
+    "titel": "Die gemütliche Kurzstrecke",
+    "datum": "11. Dez 2026",
+    "datum_raw": "2026-12-11T14:00:00+01:00",
+    "ort": "Eissporthalle Wiehl, Mühlenstraße 23, 51674 Wiehl",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "einfache Wege, ca. 4-5 km Schlusseinkehr: möglich Veranstalter: SGV Abteilung Homburger Land Treffpunkt: 14:00 Uhr Wiehl, Parkplatz Vorderbereich Eissporthalle Wanderführer: Rosemarie Romboy"
   },
   {
     "titel": "Fackelwanderung mit Schnitzeljagd",
