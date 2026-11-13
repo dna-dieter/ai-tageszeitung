@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Bensberger Hüttenzauber",
-    "datum": "12. Nov 2026",
-    "datum_raw": "2026-11-12T17:00:00+01:00",
-    "ort": "Schlossstraße, 51429 Bergisch Gladbach",
-    "preis": "",
-    "link": "https://www.facebook.com/bensbergerhuettenzauber/?locale=de_DE",
-    "quelle": "Das Bergische",
-    "teaser": "Der „Bensberger Hüttenzauber“ verlängert die festliche Stimmung über die Weihnachtstage hinaus. Bis zum 30. Dezember erwartet die Gäste ein abwechslungsreiches Programm mit Live-Musik und kulinarischen Themenabenden. Auf"
-  },
-  {
     "titel": "Führungen an und in der Neuemühle in Wermelskirchen: Geschichte einer Bergischen Mühle",
     "datum": "13. Nov 2026",
     "datum_raw": "2026-11-13T16:00:00+01:00",
@@ -18,6 +8,16 @@
     "link": "http://www.lugev.de/",
     "quelle": "Das Bergische",
     "teaser": "LuGeV präsentiert eine der wenigen erhaltenen, denkmalgeschützen Bergischen Mühlen. Bernd Kaden führt zu interessanten Stellen der ehemaligen Kornmühle mit Bäckerei. Auf dem Weg entlang am Obergraben inmitten in der male"
+  },
+  {
+    "titel": "Bensberger Hüttenzauber",
+    "datum": "13. Nov 2026",
+    "datum_raw": "2026-11-13T17:00:00+01:00",
+    "ort": "Schlossstraße, 51429 Bergisch Gladbach",
+    "preis": "",
+    "link": "https://www.facebook.com/bensbergerhuettenzauber/?locale=de_DE",
+    "quelle": "Das Bergische",
+    "teaser": "Der „Bensberger Hüttenzauber“ verlängert die festliche Stimmung über die Weihnachtstage hinaus. Bis zum 30. Dezember erwartet die Gäste ein abwechslungsreiches Programm mit Live-Musik und kulinarischen Themenabenden. Auf"
   },
   {
     "titel": " Freitag der 13. - Gruselige Nachtwanderung  im Wald",
