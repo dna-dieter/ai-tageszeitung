@@ -1,5 +1,44 @@
 [
   {
+    "id": "4d2fadbbef53",
+    "title": "Aktuelle Stunde im Stadtrat: Polizeieinsatz bei „Gen Z regelt“-Demo spaltet Ratspolitiker",
+    "summary": "Der Kölner Rat debattiert über die Anliegen der Gen Z, nachdem friedliche Proteste in der Halloweennacht von Gewalt und Polizeieinsätzen überschattet wurden.",
+    "link": "https://www.ksta.de/politik/koelner-stadtrat-debattiert-ueber-gen-z-demo-und-polizeieinsatz-1414928",
+    "published": "Fri, 13 Nov 2026 08:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-13T08:18:23.778691",
+    "feed_kommunen": []
+  },
+  {
+    "id": "251da87d3c21",
+    "title": "Kölner Architekturpreis 2026 verliehen: Keine Stadt für Standardlösungen",
+    "summary": "Der Kölner Architekturpreis 2026 zeichnet innovative Projekte aus, die trotz schwieriger Rahmenbedingungen kreative Lösungen für den Wohnungsbau bieten.",
+    "link": "https://www.ksta.de/kultur-medien/koelner-architekturpreis-2026-vier-herausragende-entwuerfe-praemiert-1414994",
+    "published": "Fri, 13 Nov 2026 08:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-13T08:18:23.778719",
+    "feed_kommunen": []
+  },
+  {
+    "id": "122c1a51ceef",
+    "title": "Kölner Domkapitular: Markus Bosbach nach Vorwurf vom Dienst freigestellt",
+    "summary": "Ein Vorwurf hat Folgen für einen hochrangigen Geistlichen: Der Kölner Domkapitular Markus Bosbach tritt auch als Präsident der katholischen Kirchenmusik-Dachorganisation zurück.",
+    "link": "https://www.ksta.de/koeln/koelner-domkapitular-bosbach-nach-vorwurf-vom-dienst-freigestellt-1-1414585",
+    "published": "Fri, 13 Nov 2026 07:18:46 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-13T08:18:23.778755",
+    "feed_kommunen": []
+  },
+  {
     "id": "49de9abdb83a",
     "title": "Gewinner Wirtschaftsnacht 2025: „Wir sind kein unbekanntes Start-up mehr“",
     "summary": "Das Kölner Startup Detechgene revolutioniert mit schnellen PCR-Tests die Vor-Ort-Diagnostik und weiteres Wachstum am Standort.",
@@ -634,19 +673,6 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-11T20:18:29.880690",
-    "feed_kommunen": []
-  },
-  {
-    "id": "6d29a6895d74",
-    "title": "Kölner Domkapitular: Markus Bosbach nach Vorwurf vom Dienst freigestellt",
-    "summary": "Ein Vorwurf hat Folgen für einen hochrangigen Geistlichen: Der Kölner Domkapitular Markus Bosbach tritt auch als Verbandschef zurück.",
-    "link": "https://www.ksta.de/koeln/koelner-domkapitular-bosbach-nach-vorwurf-vom-dienst-freigestellt-1414585",
-    "published": "Wed, 11 Nov 2026 18:01:55 +0100",
-    "source": "Kölner Stadt-Anzeiger Köln",
-    "kommunen": [
-      "kreisweite-nachrichten"
-    ],
-    "fetched": "2026-11-11T19:18:12.849106",
     "feed_kommunen": []
   },
   {
