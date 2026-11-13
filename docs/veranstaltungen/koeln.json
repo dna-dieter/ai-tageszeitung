@@ -1628,6 +1628,17 @@
     "teaser": "18 bis 21 Uhr · Gesprächsmethoden für themenbezogenen, kontroversen Austausch entdecken – in der Stadtteilbibliothek Sülz."
   },
   {
+    "titel": "Silber für die Goldwerten",
+    "datum": "30. Nov 2026",
+    "datum_raw": "2026-11-30T00:00:00",
+    "datum_bis": "11. Dez 2026",
+    "ort": "Kunsthalle Lindenthal, Braunsfeld",
+    "preis": "Die Ausstellung ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41654/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Montag, 7:30 bis 15 Uhr, Dienstag, 9:30 bis 18 Uhr, Mittwoch und Freitag, 7:30 bis 12 Uhr, Donnerstag, 7:30 bis 16 Uhr · Jubiläumsausstellung zum 25. Kölner Ehrenamtstag"
+  },
+  {
     "titel": "DMP Online: Film ab! Unterrichtsinhalte mit dem Green Screen kreativ in Szene setzen",
     "datum": "1. Dez 2026",
     "datum_raw": "2026-12-01T00:00:00",
@@ -2143,6 +2154,17 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41655/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "17 Uhr · Das Sinfonische BlasOrchester Köln (SBOK) lädt ganz herzlich zu den Weihnachtskonzerten ein. Begleiten Sie uns auf einer Reise durch die Klänge der Advents- und Weihnachtszeit."
+  },
+  {
+    "titel": "Adventsandacht mit Musik",
+    "datum": "6. Dez 2026",
+    "datum_raw": "2026-12-06T00:00:00",
+    "datum_bis": "",
+    "ort": "Tierpark Köln-Lindenthal, Lindenthal",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41751/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "ab 15 Uhr · Lindenthaler Tierpark e. V. lädt ein"
   },
   {
     "titel": "Wissenschaft im Rathaus: Populismus, Propaganda, Zensur, Überwachung? Mediale Machtausübung in der digitalen Transformation",
@@ -2671,6 +2693,17 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41613/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "14:30 Uhr · Das NN-Theater mit einem Kinderstück nach dem Märchen von Hans Christian Andersen. Eine Veranstaltung des Fördervereins Literamus e. V. in der Stadtteilbibliothek Rodenkirchen."
+  },
+  {
+    "titel": "Weihnachtsbaumverkauf des Lions-Hilfswerks Köln-Hanse e. V.",
+    "datum": "12. Dez 2026",
+    "datum_raw": "2026-12-12T00:00:00",
+    "datum_bis": "13. Dez 2026",
+    "ort": "Finkens Garten, Rodenkirchen",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41752/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "jeweils von 10 bis 17 Uhr · Eine Veranstaltung von Finkens Garten"
   },
   {
     "titel": "MINT-Workshop am Sonntag",
