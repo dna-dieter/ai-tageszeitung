@@ -1,5 +1,57 @@
 [
   {
+    "id": "48179ea69c60",
+    "title": "Samstag gegen Dänemark: Deutsche Rugby-Nationalmannschaft spielt in Köln",
+    "summary": "Zum vierten Mal ist die deutsche Rugby-Nationalmannschaft in Köln zu Gast. Im Sportpark Müngersdorf ist es jedoch das erste Länderspiel.",
+    "link": "https://www.ksta.de/koeln/koeln-deutsche-rugby-nationalmannschaft-spielt-in-muengersdorf-1414547",
+    "published": "Fri, 13 Nov 2026 09:01:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-13T09:18:28.082103",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9404bf729257",
+    "title": "Töpfern, Malen, Stricken: 11 Orte in Köln, an denen man selbst kreativ werden kann",
+    "summary": "Die kalte Jahreszeit eignet sich besonders gut, um neue kreative Hobbys auszuprobieren. Wir stellen Orte in Köln vor, an denen das möglich ist.",
+    "link": "https://www.ksta.de/freizeit/11-orte-in-koeln-an-denen-man-selbst-kreativ-werden-kann-1404151",
+    "published": "Fri, 13 Nov 2026 09:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-13T09:18:28.082129",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8885fb8c2070",
+    "title": "Bundesweiter Protest: „Fridays for Future“ geht in Köln mit Laternen auf die Straße",
+    "summary": "Mit einer Laternen-Demo durch die Kölner Innenstadt fordert Fridays for Future von Deutschland mehr finanzielle Unterstützung für vom Klimawandel betroffene Staaten.",
+    "link": "https://www.ksta.de/koeln/fridays-for-future-laternen-demo-fuer-klimaschutz-in-koeln-1415816",
+    "published": "Fri, 13 Nov 2026 08:55:35 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-13T09:18:28.082147",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9e69a8347b57",
+    "title": "Auto als Rammbock: Juwelier-Einbrüche in Hamburg – Verdächtige in Köln gefasst",
+    "summary": "Mit einem Auto als Rammbock gingen Täter im Oktober gegen Hamburger Juweliere vor. Nun nahm die Polizei zwei junge Männer in Köln fest. Was bisher bekannt ist.",
+    "link": "https://www.ksta.de/koeln/juwelier-einbrueche-in-hamburg-zwei-verdaechtige-in-koeln-gefasst-1415805",
+    "published": "Fri, 13 Nov 2026 08:34:51 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-13T09:18:28.082164",
+    "feed_kommunen": []
+  },
+  {
     "id": "4d2fadbbef53",
     "title": "Aktuelle Stunde im Stadtrat: Polizeieinsatz bei „Gen Z regelt“-Demo spaltet Ratspolitiker",
     "summary": "Der Kölner Rat debattiert über die Anliegen der Gen Z, nachdem friedliche Proteste in der Halloweennacht von Gewalt und Polizeieinsätzen überschattet wurden.",
@@ -296,6 +348,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-12T15:18:20.318077",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ba46d0bd11bd",
+    "title": "Gedenken: Porzer Lokalpolitiker erinnern mit Schweigeminute an die Opfer der Novemberpogrome",
+    "summary": "Die Bezirksvertretung Porz erinnerte an die Opfer der Novemberpogrome und bekennt sich solidarisch zu jüdischem Leben in Köln.",
+    "link": "https://www.ksta.de/koeln/porz/porz-veedel/bv-porz-erinnert-mit-schweigeminute-an-opfer-der-novemberpogrome-1412268",
+    "published": "Thu, 12 Nov 2026 14:33:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-13T09:18:28.082339",
     "feed_kommunen": []
   },
   {
