@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Führungen an und in der Neuemühle in Wermelskirchen: Geschichte einer Bergischen Mühle",
-    "datum": "13. Nov 2026",
-    "datum_raw": "2026-11-13T16:00:00+01:00",
-    "ort": "Restaurant Neuemühle, Neuemühle 1, 42929 Wermelskirchen",
-    "preis": "ab 7 €",
-    "link": "http://www.lugev.de/",
-    "quelle": "Das Bergische",
-    "teaser": "LuGeV präsentiert eine der wenigen erhaltenen, denkmalgeschützen Bergischen Mühlen. Bernd Kaden führt zu interessanten Stellen der ehemaligen Kornmühle mit Bäckerei. Auf dem Weg entlang am Obergraben inmitten in der male"
-  },
-  {
     "titel": "Bensberger Hüttenzauber",
     "datum": "13. Nov 2026",
     "datum_raw": "2026-11-13T17:00:00+01:00",
@@ -18,26 +8,6 @@
     "link": "https://www.facebook.com/bensbergerhuettenzauber/?locale=de_DE",
     "quelle": "Das Bergische",
     "teaser": "Der „Bensberger Hüttenzauber“ verlängert die festliche Stimmung über die Weihnachtstage hinaus. Bis zum 30. Dezember erwartet die Gäste ein abwechslungsreiches Programm mit Live-Musik und kulinarischen Themenabenden. Auf"
-  },
-  {
-    "titel": " Freitag der 13. - Gruselige Nachtwanderung  im Wald",
-    "datum": "13. Nov 2026",
-    "datum_raw": "2026-11-13T18:00:00+01:00",
-    "ort": "Besucher-Portal Steinhaus, Steinhaus 1, 51429 Bergisch Gladbach",
-    "preis": "ab 8 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Wenn die Sonne am Freitag dem 13. untergeht und der Wald in geheimnisvolles Dunkel getaucht wird, beginnt unser Abenteuer! Wir beginnen mit einer Nachtwanderung durch den Wald, lauschen den Geräuschen der Nacht und entde"
-  },
-  {
-    "titel": "Lesung mit Marco Hasenkopf: Sündflut 1784",
-    "datum": "13. Nov 2026",
-    "datum_raw": "2026-11-13T19:30:00+01:00",
-    "ort": "Buchhandlung Bücken, Hauptstr. 57a, 51491 Overath",
-    "preis": "ab 15 €",
-    "link": "https://buchhandlung-buecken.buchhandlung.de/shop/magazine/157631/veranstaltungen.html",
-    "quelle": "Das Bergische",
-    "teaser": "Hexenwahn und Intrigen in einer Stadt am Abgrund. Ein Krimi für Liebhaber von meisterhaft erzählter historischer Spannung. Cöln, 1784. Massengebete auf dem Rathausplatz konnten die schlimmste Flutkatastrophe seit Mensche"
   },
   {
     "titel": "Tag der offenen Tür im Spiegelzelt",
