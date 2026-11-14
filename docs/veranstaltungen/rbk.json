@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Tag der offenen Tür im Spiegelzelt",
-    "datum": "14. Nov 2026",
-    "datum_raw": "2026-11-14T12:00:00+01:00",
-    "ort": "Hotel-Restaurant Wißkirchen, Am Rösberg 2, 51519 Odenthal",
-    "preis": "",
-    "link": "https://www.hotel-wisskirchen.de/das-spiegelzelt-in-altenberg/",
-    "quelle": "Das Bergische",
-    "teaser": "Am 20. November startet die Dinner-Show des Cirque Buffon im Spiegelzelt in Altenberg. Vorher kannst Du bei einem Kaffee oder Kaltgetränk die besondere Atmosphäre des Spiegelzeltes erleben und genießen. Du kannst Dich sc"
-  },
-  {
     "titel": "Drink & Aquarell",
     "datum": "14. Nov 2026",
     "datum_raw": "2026-11-14T15:00:00+01:00",
@@ -38,6 +28,16 @@
     "link": "https://www.facebook.com/bensbergerhuettenzauber/?locale=de_DE",
     "quelle": "Das Bergische",
     "teaser": "Der „Bensberger Hüttenzauber“ verlängert die festliche Stimmung über die Weihnachtstage hinaus. Bis zum 30. Dezember erwartet die Gäste ein abwechslungsreiches Programm mit Live-Musik und kulinarischen Themenabenden. Auf"
+  },
+  {
+    "titel": "Tag der offenen Tür im Spiegelzelt",
+    "datum": "15. Nov 2026",
+    "datum_raw": "2026-11-15T12:00:00+01:00",
+    "ort": "Hotel-Restaurant Wißkirchen, Am Rösberg 2, 51519 Odenthal",
+    "preis": "",
+    "link": "https://www.hotel-wisskirchen.de/das-spiegelzelt-in-altenberg/",
+    "quelle": "Das Bergische",
+    "teaser": "Am 20. November startet die Dinner-Show des Cirque Buffon im Spiegelzelt in Altenberg. Vorher kannst Du bei einem Kaffee oder Kaltgetränk die besondere Atmosphäre des Spiegelzeltes erleben und genießen. Du kannst Dich sc"
   },
   {
     "titel": "Schnuppertouren in Bergisch Gladbach",
