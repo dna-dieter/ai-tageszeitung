@@ -1,25 +1,5 @@
 [
   {
-    "titel": "Herbst-Winter-Werkkunstmarkt",
-    "datum": "14. Nov 2026",
-    "datum_raw": "2026-11-14T11:00:00+01:00",
-    "ort": "GWN Arena Nümbrecht, Mateh-Yehuda Str. 3a, 51588 Nümbrecht",
-    "preis": "",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Wenn die Tage langsam kürzer werden und die erste winterliche Vorfreude in der Luft liegt, öffnet die GWN-Arena in Nümbrecht wieder ihre Türen für ein kreatives Highlight: Am Samstag und Sonntag, 14. und 15. November 202"
-  },
-  {
-    "titel": "Herbstlicher Werkkunstmarkt in Nümbrecht",
-    "datum": "14. Nov 2026",
-    "datum_raw": "2026-11-14T11:00:00+01:00",
-    "ort": "GWN Arena Nümbrecht, Mateh-Yehuda Str. 3a, 51588 Nümbrecht",
-    "preis": "",
-    "link": "http://www.nuembrecht-erleben.de/",
-    "quelle": "Das Bergische",
-    "teaser": ""
-  },
-  {
     "titel": "Winterdorf Gummersbach",
     "datum": "14. Nov 2026",
     "datum_raw": "2026-11-14T12:00:00+01:00",
@@ -68,6 +48,16 @@
     "link": "http://www.reichshof.de/",
     "quelle": "Das Bergische",
     "teaser": "Die Wanderung „Alles Kappes“ findet rund um Eckenhagen statt. Im Anschluss an die Wanderung besteht die Möglichkeit das Kappesfest am Bauernhofmuseum zu besuchen. Wanderführerin: Doris Bilobrowec Treffpunkt: Parkplatz Li"
+  },
+  {
+    "titel": "Herbst-Winter-Werkkunstmarkt",
+    "datum": "15. Nov 2026",
+    "datum_raw": "2026-11-15T11:00:00+01:00",
+    "ort": "GWN Arena Nümbrecht, Mateh-Yehuda Str. 3a, 51588 Nümbrecht",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Wenn die Tage langsam kürzer werden und die erste winterliche Vorfreude in der Luft liegt, öffnet die GWN-Arena in Nümbrecht wieder ihre Türen für ein kreatives Highlight: Am Samstag und Sonntag, 14. und 15. November 202"
   },
   {
     "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
