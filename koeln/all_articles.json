@@ -1,5 +1,18 @@
 [
   {
+    "id": "100bb71a3012",
+    "title": "Bürgerengagement: Wie eine Endhaltestelle in Sürth eine Bank bekam",
+    "summary": "Am Bahnhof Sürth steht endlich eine neue Sitzbank. Möglich wurde sie durch die Hartnäckigkeit von Karen Vogelfänger und Manfred Giesen.",
+    "link": "https://www.ksta.de/koeln/rodenkirchen/suerth/koeln-wie-eine-endhaltestelle-in-suerth-eine-bank-bekam-1412278",
+    "published": "Sat, 14 Nov 2026 12:04:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-14T12:17:54.489280",
+    "feed_kommunen": []
+  },
+  {
     "id": "9db6b4378f59",
     "title": "Verkehrliche Schlagader: Raser in Worringen – Anwohner wünschen sich erzieherische Maßnahmen",
     "summary": "Laut einer Bürgereingabe verleitet die lange, gerade St.-Tönnis-Straße viele Fahrer dazu, aufs Gas zu treten und schneller als erlaubt zu fahren.",
@@ -36,6 +49,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-14T10:18:41.984312",
+    "feed_kommunen": []
+  },
+  {
+    "id": "44bb96b8e3c1",
+    "title": "Kölner Politik zur Uniwiese am 11.11.: „Großflächige Zäune um leere Wiesen lassen sich kaum erklären“",
+    "summary": "Die hohen Kosten für die kaum genutzte Ausweichfläche stehen in der Kritik.",
+    "link": "https://www.ksta.de/koeln/koelner-stadtrat-fordert-anpassung-des-sicherheitskonzept-fuer-11-11-1416234",
+    "published": "Sat, 14 Nov 2026 08:03:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-14T12:17:54.489309",
     "feed_kommunen": []
   },
   {
