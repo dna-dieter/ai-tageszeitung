@@ -4213,5 +4213,20 @@
     "feed_kommunen": [
       "wiehl"
     ]
+  },
+  {
+    "id": "194fafaac052",
+    "title": "Karnevalsauftakt im Burghaus",
+    "summary": "Karneval startet am 11.11. in die neue Session und das heißt auch: Karnevalsauftakt im Burghaus Bielstein.",
+    "link": "https://www.wiehl.de/aktuelles/bilderserien/9611-karnevalsauftakt-im-burghaus.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-14T16:17:30.588254",
+    "feed_kommunen": [
+      "wiehl"
+    ]
   }
 ]
