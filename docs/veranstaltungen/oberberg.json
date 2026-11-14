@@ -1,25 +1,5 @@
 [
   {
-    "titel": "Kunstausstellung Haus der Kunst",
-    "datum": "14. Nov 2026",
-    "datum_raw": "2026-11-14T14:00:00+01:00",
-    "ort": "Haus der Kunst, Jakob-Engels-Strasse 2, 51588 Nümbrecht",
-    "preis": "",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Jeanette de Payebrune Malerei Eröffnung: 08.11.2026, 15:00 Uhr, Haus der Kunst Öffnungszeiten: donnerstags: 16:00-18:00 Uhr samstags und sonntags: 14:00-17:00 Uhr Veranstalter: Kunstverein Nümbrecht e.V. Veranstaltungsor"
-  },
-  {
-    "titel": "Waffelstube in der \"Alten Schmiede\"",
-    "datum": "14. Nov 2026",
-    "datum_raw": "2026-11-14T14:00:00+01:00",
-    "ort": "„Alte Schmiede“, christl. Schüler- und Jugendcafé, Marktstrasse 10, 51588 Nümbrecht",
-    "preis": "",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "mit Kaffee und Kuchen Am Werkkunstmarkt-Wochenende öffnet die „Alte Schmiede“ ihre Türen für Jung und Alt. Bei Kaffee und Kuchen haben Sie die Möglichkeit, zu schauen, zu entspannen, zu verweilen und Zeit mit netten Mens"
-  },
-  {
     "titel": "Nachts im Museum",
     "datum": "14. Nov 2026",
     "datum_raw": "2026-11-14T17:00:00+01:00",
@@ -68,6 +48,16 @@
     "link": "http://www.winterdorf-gummersbach.de/",
     "quelle": "Das Bergische",
     "teaser": "Seid zu Gast in unserer unnachahmlichen Weihnachtswelt und genieße eine Stimmung wie sie es früher und nicht nur im Märchen einmal gab. Vom 12.11.26 bis zum 23.12.26 tauchen wir das Herz der Gummersbacher Steinmülleralle"
+  },
+  {
+    "titel": "Kunstausstellung Haus der Kunst",
+    "datum": "15. Nov 2026",
+    "datum_raw": "2026-11-15T14:00:00+01:00",
+    "ort": "Haus der Kunst, Jakob-Engels-Strasse 2, 51588 Nümbrecht",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Jeanette de Payebrune Malerei Eröffnung: 08.11.2026, 15:00 Uhr, Haus der Kunst Öffnungszeiten: donnerstags: 16:00-18:00 Uhr samstags und sonntags: 14:00-17:00 Uhr Veranstalter: Kunstverein Nümbrecht e.V. Veranstaltungsor"
   },
   {
     "titel": "Herbst Kaffeetafel",
