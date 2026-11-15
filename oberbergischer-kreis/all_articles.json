@@ -1,15 +1,58 @@
 [
   {
-    "id": "8a38fb88e4ab",
-    "title": "Lindlars Pleitenserie setzt sich fort",
-    "summary": "Oberberg - Hürth II bringt dem Schlusslicht die nächste Niederlage bei - Frielingsdorf geht in Hoffnungsthal trotz langer Überzahl als Verlierer vom Platz (AKTUALISIERT).",
+    "id": "03168a145e43",
+    "title": "(Update 3) Gummersbach: VfL gegen Hannover – 25:23 nach 43 Minuten",
+    "summary": "Update: Zwischenstand in der SCHWALBE arena: Nach 43 Minuten führt der VfL Gummersbach gegen die TSV Hannover-Burgdorf mit 25:23.",
+    "link": "https://www.news-on-tour.de/346090/gummersbach-vfl-hannover-live/",
+    "published": "Sun, 15 Nov 2026 18:16:08 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-15T19:17:05.538375",
+    "feed_kommunen": []
+  },
+  {
+    "id": "22debc59dc53",
+    "title": "(Update 15) Bergneustadt: Schlussdoppel geht an Bremen – 2:3 gegen Werder Bremen",
+    "summary": "Update: Werder Bremen hat beim TTC Schwalbe Bergneustadt mit 3:2 gewonnen. Bertrand und Karlsson gewannen das Schlussdoppel gegen Ruiz und Meissner, Gerassimenko holte beide Einzel.",
+    "link": "https://www.news-on-tour.de/346064/bergneustadt-ttc-schwalbe-werder-bremen/",
+    "published": "Sun, 15 Nov 2026 18:12:57 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-11-15T19:17:05.538558",
+    "feed_kommunen": []
+  },
+  {
+    "id": "fc9e6695d636",
+    "title": "Rabenschwarzes Wochenende für oberbergisches Quartett",
+    "summary": "Oberberg - Hürth II bringt Lindlar die nächste Niederlage bei - Schwarz-Weiß Köln nutzt Wipperfürther Defensivschwächen aus - Hohkeppel II verliert gegen den Primus - Frielingsdorf geht in Hoffnungsthal trotz langer Überzahl als Verlierer vom Platz (AKTUALISIERT).",
     "link": "http://www.oberberg-aktuell.de/fussball/bezirksliga---------a-140402",
-    "published": "Sun, 15 Nov 2026 18:05:00 +0100",
+    "published": "Sun, 15 Nov 2026 19:05:00 +0100",
     "source": "Oberberg-Aktuell",
     "kommunen": [
+      "wipperfuerth",
       "lindlar"
     ],
-    "fetched": "2026-11-15T18:17:20.083273",
+    "fetched": "2026-11-15T19:17:10.323687",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e3df872a40f7",
+    "title": "Remis in Marienheide - THB patzt in Marienhagen",
+    "summary": "Oberberg - Marienheide und SSV-Reserve trennen sich unentschieden - VfR schlägt Bröltal - Rösrath gewinnt auch an der Maibuche - TVK zu Hause mit nächstem 6:2-Erfolg - Derschlag ohne Mühe - Bergneustadt unterliegt Altenberg - Dramatische Pleite für Bielstein (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/fussball/kreisliga-a---------a-140451",
+    "published": "Sun, 15 Nov 2026 18:30:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl",
+      "marienheide",
+      "bergneustadt",
+      "lindlar"
+    ],
+    "fetched": "2026-11-15T19:17:10.323876",
     "feed_kommunen": []
   },
   {
@@ -39,19 +82,6 @@
     "feed_kommunen": []
   },
   {
-    "id": "711686e05388",
-    "title": "(Update 4) Bergneustadt LIVE: Schwalbe gegen Werder Bremen läuft – mehr Fotos folgen",
-    "summary": "Update: Nach zwei Einzeln steht es 1:1 zwischen Bergneustadt und Werder Bremen. Neue Bilder aus dem zweiten Einzel zeigen Ruiz, Gerassimenko und Schiedsrichter Ingo Goßmann.",
-    "link": "https://www.news-on-tour.de/346064/bergneustadt-ttc-schwalbe-werder-bremen/",
-    "published": "Sun, 15 Nov 2026 16:03:25 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "bergneustadt"
-    ],
-    "fetched": "2026-11-15T17:17:07.191726",
-    "feed_kommunen": []
-  },
-  {
     "id": "49ef04fdd122",
     "title": "Auch ohne Tatar-Treffer: Weiershagen gewinnt in Derschlag",
     "summary": "Oberberg - Staffel 3: TuS verbucht Arbeitssieg gegen die Borussia-Reserve - Staffel 2: Theunissen schießt Wipperfeld mit Dreierpack zum Erfolg, Frielingsdorf wie verwandelt - 'Sportsbar Lutter' präsentiert die Kreisliga B.",
@@ -62,19 +92,6 @@
       "lindlar"
     ],
     "fetched": "2026-11-15T17:17:12.295354",
-    "feed_kommunen": []
-  },
-  {
-    "id": "8e771d0f2857",
-    "title": "Remis in Lindlar: Chancen waren Mangelware",
-    "summary": "Oberberg - Die TuS-Reserve und Immekeppel trennen sich unentschieden.",
-    "link": "http://www.oberberg-aktuell.de/fussball/kreisliga-a---------a-140451",
-    "published": "Sun, 15 Nov 2026 16:45:00 +0100",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "lindlar"
-    ],
-    "fetched": "2026-11-15T17:17:12.295427",
     "feed_kommunen": []
   },
   {

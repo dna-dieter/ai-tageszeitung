@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Bensberger Hüttenzauber",
-    "datum": "15. Nov 2026",
-    "datum_raw": "2026-11-15T11:00:00+01:00",
-    "ort": "Schlossstraße, 51429 Bergisch Gladbach",
-    "preis": "",
-    "link": "https://www.facebook.com/bensbergerhuettenzauber/?locale=de_DE",
-    "quelle": "Das Bergische",
-    "teaser": "Der „Bensberger Hüttenzauber“ verlängert die festliche Stimmung über die Weihnachtstage hinaus. Bis zum 30. Dezember erwartet die Gäste ein abwechslungsreiches Programm mit Live-Musik und kulinarischen Themenabenden. Auf"
-  },
-  {
     "titel": "Tag der offenen Tür im Spiegelzelt",
     "datum": "15. Nov 2026",
     "datum_raw": "2026-11-15T12:00:00+01:00",
@@ -108,6 +98,16 @@
     "link": "https://www.bergischgladbach.de/fuehrungen-zanders-gelaende2.aspx",
     "quelle": "Das Bergische",
     "teaser": "Die barrierefreie Tour konzentriert sich auf die Bedeutung der Unternehmerfamilie Zanders für Bergisch Gladbach. In den geschichtsträchtigen Räumen des repräsentativen Verwaltungsgebäudes von 1905 beleuchtet Stadtführeri"
+  },
+  {
+    "titel": "Bensberger Hüttenzauber",
+    "datum": "16. Nov 2026",
+    "datum_raw": "2026-11-16T17:00:00+01:00",
+    "ort": "Schlossstraße, 51429 Bergisch Gladbach",
+    "preis": "",
+    "link": "https://www.facebook.com/bensbergerhuettenzauber/?locale=de_DE",
+    "quelle": "Das Bergische",
+    "teaser": "Der „Bensberger Hüttenzauber“ verlängert die festliche Stimmung über die Weihnachtstage hinaus. Bis zum 30. Dezember erwartet die Gäste ein abwechslungsreiches Programm mit Live-Musik und kulinarischen Themenabenden. Auf"
   },
   {
     "titel": "Prinz Karneval – Alaaf",
