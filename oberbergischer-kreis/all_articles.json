@@ -1,5 +1,18 @@
 [
   {
+    "id": "8a38fb88e4ab",
+    "title": "Lindlars Pleitenserie setzt sich fort",
+    "summary": "Oberberg - Hürth II bringt dem Schlusslicht die nächste Niederlage bei - Frielingsdorf geht in Hoffnungsthal trotz langer Überzahl als Verlierer vom Platz (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/fussball/bezirksliga---------a-140402",
+    "published": "Sun, 15 Nov 2026 18:05:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-15T18:17:20.083273",
+    "feed_kommunen": []
+  },
+  {
     "id": "a9548a184d02",
     "title": "Reichshof: „Jahreshauptversammlung der Stare“ – Hunderttausende Vögel ziehen über den Abendhimmel (Foto des Tages)",
     "summary": "Starenschwarm über Reichshof: Leser Ludolf Heppe fotografierte am 12. November in Odenspiel nach eigener Schätzung Hunderttausende Stare in der Dämmerung. Dazu Hintergründe zum Schwarmflug und zur Roten Liste.",
@@ -717,19 +730,6 @@
     "feed_kommunen": [
       "radevormwald"
     ]
-  },
-  {
-    "id": "814fb7cb7061",
-    "title": "Trotz langer Überzahl: SVF beißt sich an Hoffnungsthal die Zähne aus",
-    "summary": "Oberberg - Der SV Frielingsdorf geht im Flutlicht-Spiel am Bergsegen als Verlierer vom Platz - Verschlafene Anfangsphase und kein Durchkommen gegen dezimierten Gegner.",
-    "link": "http://www.oberberg-aktuell.de/fussball/bezirksliga---------a-140402",
-    "published": "Sat, 14 Nov 2026 02:00:00 +0100",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "lindlar"
-    ],
-    "fetched": "2026-11-14T02:17:26.507410",
-    "feed_kommunen": []
   },
   {
     "id": "1e8cd3f6c91d",
