@@ -1,18 +1,32 @@
 [
   {
-    "id": "e3df872a40f7",
-    "title": "Remis in Marienheide - THB patzt in Marienhagen",
-    "summary": "Oberberg - Marienheide und SSV-Reserve trennen sich unentschieden - VfR schlägt Bröltal - Rösrath gewinnt auch an der Maibuche - TVK zu Hause mit nächstem 6:2-Erfolg - Derschlag ohne Mühe - Bergneustadt unterliegt Altenberg - Dramatische Pleite für Bielstein (AKTUALISIERT).",
-    "link": "http://www.oberberg-aktuell.de/fussball/kreisliga-a---------a-140451",
-    "published": "Sun, 15 Nov 2026 18:30:00 +0100",
+    "id": "a8dc8420ddff",
+    "title": "Bernberg schockt den Primus in der Nachspielzeit doppelt",
+    "summary": "Oberberg - Staffel 3: Im \"Abendspiel\" gegen Drabenderhöhe gelingt der Wittfeld-Elf eine faustdicke Überraschung, FCWO zieht \"Hütte\" den Zahn - Staffel 2: Theunissen schießt Wipperfeld mit Dreierpack zum Sieg, Süng rutscht auf den letzten Platz ab - 'Sportsbar Lutter' präsentiert die Kreisliga B (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/fussball/kreisliga-b---------a-140452",
+    "published": "Sun, 15 Nov 2026 20:20:00 +0100",
     "source": "Oberberg-Aktuell",
     "kommunen": [
       "wiehl",
-      "marienheide",
-      "bergneustadt",
       "lindlar"
     ],
-    "fetched": "2026-11-15T19:17:10.323876",
+    "fetched": "2026-11-15T21:18:11.253738",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c6a7bc12f159",
+    "title": "Remis in Marienheide - THB patzt gegen Marienhagen",
+    "summary": "Oberberg - Marienheide und SSV-Reserve trennen sich unentschieden - VfR schlägt Bröltal - Rösrath gewinnt auch an der Maibuche - TVK zu Hause mit nächstem 6:2-Erfolg - Derschlag siegt ohne Mühe - Bergneustadt unterliegt Altenberg - Dramatische Pleite für Bielstein - Lindlar II mit Remis gegen Immekeppel (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/fussball/kreisliga-a---------a-140451",
+    "published": "Sun, 15 Nov 2026 19:20:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar",
+      "bergneustadt",
+      "wiehl",
+      "marienheide"
+    ],
+    "fetched": "2026-11-15T21:18:11.254306",
     "feed_kommunen": []
   },
   {
