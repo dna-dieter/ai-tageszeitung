@@ -1,5 +1,18 @@
 [
   {
+    "id": "dbfc1cfb2ea0",
+    "title": "Kölns verletzter Stürmer: Dallinga zwischen Reha und offener FC-Zukunft",
+    "summary": "Der verletzte FC-Stürmer Thijs Dallinga fühlt sich in Köln wohl, doch eine dauerhafte Zukunft beim Verein ist aufgrund hoher Kosten ungewiss.",
+    "link": "https://www.ksta.de/sport/1-fc-koeln/thijs-dallinga-fc-stuermer-spricht-ueber-reha-und-zukunft-1417170",
+    "published": "Sun, 15 Nov 2026 14:49:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-15T16:19:20.441275",
+    "feed_kommunen": []
+  },
+  {
     "id": "3f7876035c78",
     "title": "Mord an Derya und Kian in Köln: Fünf Jahre danach – Eine Wunde, die niemals heilt",
     "summary": "Fünf Jahre nach dem Mord an Derya und Kian in Köln kämpft Ersin Seyhun gegen das Vergessen und fordert mehr Engagement von Männern gegen Femizide.",
@@ -36,6 +49,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-15T15:18:00.105280",
+    "feed_kommunen": []
+  },
+  {
+    "id": "3338e1afa7bb",
+    "title": "Umstrittener Weltmeister: Lauterbach kritisiert AfD-Kandidaten Berthold scharf",
+    "summary": "Die AfD nominiert den ehemaligen Fußball-Weltmeister Thomas Berthold für das Amt des Bundespräsidenten. Karl Lauterbach kritisierte die Wahl scharf.",
+    "link": "https://www.ksta.de/politik/thomas-berthold-afd-nominiert-weltmeister-lauterbach-reagiert-1417146",
+    "published": "Sun, 15 Nov 2026 14:21:46 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-15T16:19:20.441322",
     "feed_kommunen": []
   },
   {
