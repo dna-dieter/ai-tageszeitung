@@ -1,25 +1,5 @@
 [
   {
-    "titel": "Kunstausstellung Haus der Kunst",
-    "datum": "15. Nov 2026",
-    "datum_raw": "2026-11-15T14:00:00+01:00",
-    "ort": "Haus der Kunst, Jakob-Engels-Strasse 2, 51588 Nümbrecht",
-    "preis": "",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Jeanette de Payebrune Malerei Eröffnung: 08.11.2026, 15:00 Uhr, Haus der Kunst Öffnungszeiten: donnerstags: 16:00-18:00 Uhr samstags und sonntags: 14:00-17:00 Uhr Veranstalter: Kunstverein Nümbrecht e.V. Veranstaltungsor"
-  },
-  {
-    "titel": "Herbst Kaffeetafel",
-    "datum": "15. Nov 2026",
-    "datum_raw": "2026-11-15T14:00:00+01:00",
-    "ort": "Heimatmuseum Bergneustadt, Wallstraße 1, 51702 Bergneustadt",
-    "preis": "",
-    "link": "http://www.heimatmuseum-bergneustadt.de/",
-    "quelle": "Das Bergische",
-    "teaser": "mit Kuchenbüfett und frisch gebackenen Bergischen Waffeln in der „Historischen Altstadt“ Es laden herzlich ein: Die Landsknechte und Marketenderinnen im Heimatverein „Feste Neustadt“ e.V. Info: 02261 / 43184"
-  },
-  {
     "titel": "Winterdorf Gummersbach",
     "datum": "16. Nov 2026",
     "datum_raw": "2026-11-16T12:00:00+01:00",
@@ -48,6 +28,16 @@
     "link": "https://www.halle32.de/programm/don-pasquale-oper-fuer-alle-1298/",
     "quelle": "Das Bergische",
     "teaser": "Komische Oper von Gaetano Donizetti in deutscher Sprache Ein Projekt der Gummersbacher Philharmoniker, in Zusammenarbeit mit internationalen Solisten und dem VoxMusica Chor Wipperfürth e.V. unter der Leitung von Karsten "
+  },
+  {
+    "titel": "Kunstausstellung Haus der Kunst",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T16:00:00+01:00",
+    "ort": "Haus der Kunst, Jakob-Engels-Strasse 2, 51588 Nümbrecht",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Jeanette de Payebrune Malerei Eröffnung: 08.11.2026, 15:00 Uhr, Haus der Kunst Öffnungszeiten: donnerstags: 16:00-18:00 Uhr samstags und sonntags: 14:00-17:00 Uhr Veranstalter: Kunstverein Nümbrecht e.V. Veranstaltungsor"
   },
   {
     "titel": "Waldorfleuchten falten",
