@@ -1,5 +1,45 @@
 [
   {
+    "id": "0a74d1e9e2f2",
+    "title": "Trotz drei Rückkehrern: Löwen bleiben sieglos",
+    "summary": "Oberberg - Im Kellerduell gegen den 1. FC Köln brechen die Löwen in der Schlussphase ein - Auch in Birkesdorf steht Nümbrecht die eigene Fehlerquote im Weg - Gummersbach II verliert bei Wölfe Voreifel - 'Sportsbar Lutter' präsentiert die Handball-Oberliga. (AKTUALISIERT)",
+    "link": "http://www.oberberg-aktuell.de/handball/hbol---------a-140434",
+    "published": "Sun, 15 Nov 2026 23:55:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach",
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-16T00:17:27.499436",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a5b67434bc44",
+    "title": "Erste Halbzeit verschlafen: Gummersbach verliert bei den Rhein-Neckar Löwen",
+    "summary": "Gummersbach – Trotz verbesserter Deckung findet Gummersbachs U19 zu spät ins Spiel - 'RPP - Ambulantes Therapie- und Reha-Zentrum' und AggerEnergie präsentieren die Berichterstattung über den VfL Gummersbach.",
+    "link": "http://www.oberberg-aktuell.de/handball/jhbl-rnl-vs-u------------a-140482",
+    "published": "Sun, 15 Nov 2026 23:35:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-16T00:17:27.499662",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c3065521ec0c",
+    "title": "Herber Rückschlag: Gummersbach verliert beim BHC",
+    "summary": "Gummersbach – Trotz einer soliden Defensive lässt die U17 im Kampf um die Meisterrunde wichtige Punkte liegen - 'RPP - Ambulantes Therapie- und Reha-Zentrum' und AggerEnergie präsentieren die Berichterstattung über den VfL Gummersbach.",
+    "link": "http://www.oberberg-aktuell.de/handball/jhbl-bhc-vs-u------------a-140479",
+    "published": "Sun, 15 Nov 2026 23:20:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-16T00:17:27.500038",
+    "feed_kommunen": []
+  },
+  {
     "id": "cafd7e9ad602",
     "title": "Immer wieder Obling: Knapper VfL-Sieg gegen Hannover",
     "summary": "Gummersbach – Gegen die Recken überzeugt der dezimierte VfL Gummersbach erst in der zweiten Halbzeit - 'RPP - Ambulantes Therapie - und Reha-Zentrum' und AggerEnergie präsentieren die Berichterstattung über den VfL Gummersbach.",
@@ -170,20 +210,6 @@
       "engelskirchen"
     ],
     "fetched": "2026-11-15T12:17:12.512568",
-    "feed_kommunen": []
-  },
-  {
-    "id": "a340a15d853a",
-    "title": "Nümbrecht kassiert im Nervenkrimi die fünfte Niederlage in Folge",
-    "summary": "Oberberg - Auch in Birkesdorf steht Nümbrecht die eigene Fehlerquote im Weg - Gummersbach II verliert bei Wölfe Voreifel - 'Sportsbar Lutter' präsentiert die Handball-Oberliga.",
-    "link": "http://www.oberberg-aktuell.de/handball/hbol---------a-140434",
-    "published": "Sun, 15 Nov 2026 01:40:00 +0100",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "gummersbach",
-      "nuembrecht"
-    ],
-    "fetched": "2026-11-15T02:17:25.520362",
     "feed_kommunen": []
   },
   {
