@@ -1,5 +1,245 @@
 [
   {
+    "id": "413e1beb0659",
+    "title": "Ladendieb flüchtet nach Rangelei",
+    "summary": "Waldbröl – Detektiv beobachtete Unbekannten, der mehrere Lebensmittel einsteckte – Bezahlen wollte er aber nur eine Flasche Wasser.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/ladendieb-fl--chtet-nach-rangelei-a-140463",
+    "published": "Sun, 15 Nov 2026 11:55:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-15T12:17:13.570618",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d1c332aec509",
+    "title": "Auf Gegenfahrbahn geraten: Remscheider erleidet bei Frontalunfall schwerste Verletzungen",
+    "summary": "Der 38-jährige Mann musste mit dem Rettungshubschrauber in die Klinik geflogen werden. Unfallursache ist noch unbekannt.",
+    "link": "https://www.rga.de/lokales/remscheid/auf-gegenfahrbahn-geraten-remscheider-erleidet-bei-frontalunfall-schwerste-verletzungen-QUVBD5BTP5A3DDQBDEQPKCLXDI.html",
+    "published": "Sun, 15 Nov 2026 11:46:48 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen",
+      "radevormwald"
+    ],
+    "fetched": "2026-11-15T12:17:08.848504",
+    "feed_kommunen": [
+      "hueckeswagen",
+      "radevormwald"
+    ]
+  },
+  {
+    "id": "7d6e6850a802",
+    "title": "Müllcontainer angezündet",
+    "summary": "Waldbröl – Behälter wurde am Samstagmorgen völlig zerstört - Auch ein Auto kam zu Schaden.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/m--llcontainer-angez--ndet-a-140462",
+    "published": "Sun, 15 Nov 2026 11:45:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-15T12:17:13.570677",
+    "feed_kommunen": []
+  },
+  {
+    "id": "23354f3382e4",
+    "title": "Autofahrer mit fast zwei Promille unterwegs",
+    "summary": "Marienheide – Betrunkener prallte gegen eine Steinmauer, nachdem er die Kontrolle über seinen Wagen verloren hatte.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/autofahrer-mit-fast-zwei-promille-unterwegs-a-140460",
+    "published": "Sun, 15 Nov 2026 11:35:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "marienheide",
+      "reichshof"
+    ],
+    "fetched": "2026-11-15T12:17:13.570743",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c615a6b309eb",
+    "title": "Einbrechern fiel Schmuck in die Hände",
+    "summary": "Oberberg – Kriminelle nahmen in den vergangenen Tagen Wohnhäuser und Geschäfte ins Visier.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/einbrechern-fiel-schmuck-in-die-h--ndeddd-a-140459",
+    "published": "Sun, 15 Nov 2026 11:27:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-15T12:17:13.570801",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9986facb58cd",
+    "title": "Nach missglücktem Überholmanöver schwer verletzt",
+    "summary": "Gummersbach – 58-Jähriger verlor beim Wiedereinscheren die Kontrolle über seinen Wagen und landete im Grünstreifen an einem Baum.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/nach-missgl--cktem---berholman--ver-schwer-verletzt-a-140457",
+    "published": "Sun, 15 Nov 2026 11:25:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-15T12:17:13.570871",
+    "feed_kommunen": []
+  },
+  {
+    "id": "aacca4950c2c",
+    "title": "HCGS siegt nach Deckungsumstellung - Nümbrecht dominiert den Ligaprimus",
+    "summary": "Oberberg – Gelpe/Strombach bezwingt den HC Weiden – Famose Nümbrechterinnen bezwingen den bislang ungeschlagenen Tabellenführer aus Bonn (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/handball/hbfrl---------a-140436",
+    "published": "Sun, 15 Nov 2026 11:25:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-15T12:17:13.570958",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b7aa849587e3",
+    "title": "Quartett prügelt auf Kölner (47) ein",
+    "summary": "Gummersbach – Nach einem verbalen Streit wurde ein Mann in der Gummersbacher Innenstadt angegriffen und leicht verletzt – Die Täter flüchteten.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/quartett-pr--gelt-auf-k--lner------ein-a-140458",
+    "published": "Sun, 15 Nov 2026 11:22:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-15T12:17:13.571032",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c12273d13299",
+    "title": "POL-GM: Mann von vier Unbekannten angegriffen",
+    "summary": "Gummersbach (ots) - In der Nacht zu Samstag (14. November) ist ein 47-jähriger Mann aus Köln in der Gummersbacher Innenstadt von vier Unbekannten körperlich angegriffen und leicht verletzt worden. Gegen 0:05 Uhr kam es in der Steinmüllerallee in ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6390739",
+    "published": "Sun, 15 Nov 2026 11:00:33 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-15T12:17:12.511580",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d7da1f38cdd0",
+    "title": "POL-GM: Ladendieb flüchtet nach körperlicher Auseinandersetzung",
+    "summary": "Waldbröl (ots) - Am Freitag (13. November) ist es in einem Supermarkt am Raabeweg zu einem Ladendiebstahl gekommen. Gegen 14 Uhr beobachtete der Ladendetektiv einen Mann, der mehrere Lebensmittel in seinen Rucksack steckte. Nachdem der Mann ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6390738",
+    "published": "Sun, 15 Nov 2026 11:00:30 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-15T12:17:12.511719",
+    "feed_kommunen": []
+  },
+  {
+    "id": "63b2d7952bd5",
+    "title": "POL-GM: Müllcontainer in Brand gesetzt",
+    "summary": "Waldbröl (ots) - Gegen 4 Uhr am 14. November (Samstag) haben Unbekannte einen Müllcontainer am Birkenhofer Weg in Brand gesetzt und dadurch vollständig zerstört. Durch die Hitzeentwicklung wurden ein weiterer Müllcontainer sowie ein geparktes ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6390737",
+    "published": "Sun, 15 Nov 2026 11:00:27 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-15T12:17:12.511840",
+    "feed_kommunen": []
+  },
+  {
+    "id": "254b78b49ec5",
+    "title": "POL-GM: Silberschmuck aus Geschäft gestohlen",
+    "summary": "Waldbröl (ots) - Unbekannte sind in der Nacht von Donnerstag auf Freitag (12./13. November) in ein Geschäft in der Hochstraße eingebrochen. Die Kriminellen hebelten die Eingangstür des Verkaufsraums auf und stahlen diversen Silberschmuck. ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6390736",
+    "published": "Sun, 15 Nov 2026 11:00:24 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-15T12:17:12.511962",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f86494a9adde",
+    "title": "POL-GM: Einbrecher scheitern an Balkontür",
+    "summary": "Wipperfürth (ots) - Unbekannte haben zwischen Montag (9. November, 9 Uhr) und Freitag (13. November, 14 Uhr) versucht, in eine Wohnung in der Borromäerinnenstraße einzubrechen. Die Kriminellen versuchten, die Balkontür aufzuhebeln - ohne Erfolg. ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6390735",
+    "published": "Sun, 15 Nov 2026 11:00:21 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-15T12:17:12.512097",
+    "feed_kommunen": []
+  },
+  {
+    "id": "41503acb31ee",
+    "title": "POL-GM: Schmuck bei Einbruch erbeutet",
+    "summary": "Bergneustadt (ots) - In ein Einfamilienhaus in der Straße \"Zum Wiebusch\" im Ortsteil Hackenberg sind Unbekannte am Freitag (13. November) eingebrochen. Zwischen 13:30 Uhr und 20:45 Uhr hebelten die Kriminellen ein gekipptes Fenster auf und ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6390734",
+    "published": "Sun, 15 Nov 2026 11:00:18 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-11-15T12:17:12.512221",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f65ad313834e",
+    "title": "POL-GM: Einbrecher schlagen Fensterscheibe ein",
+    "summary": "Waldbröl (ots) - Durch das Einschlagen einer Fensterscheibe sind Unbekannte am Freitag (13. November) in ein Einfamilienhaus in der Scharnhorststraße gelangt. Zuvor hatten die Kriminellen offenbar vergeblich versucht, die Hauseingangstür ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6390733",
+    "published": "Sun, 15 Nov 2026 11:00:15 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-15T12:17:12.512339",
+    "feed_kommunen": []
+  },
+  {
+    "id": "89ea8146b635",
+    "title": "POL-GM: Schmuck und Uhr aus Einfamilienhaus gestohlen",
+    "summary": "Marienheide (ots) - Zwischen 17 und 20 Uhr am Freitag (13. November) sind Unbekannte in ein Einfamilienhaus in der Scharder Straße eingebrochen. Die Kriminellen hebelten die Terrassentür auf und durchsuchten anschließend das Haus nach ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6390732",
+    "published": "Sun, 15 Nov 2026 11:00:15 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-11-15T12:17:12.512457",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e2be6aa04184",
+    "title": "POL-GM: Autofahrer bei Unfall schwer verletzt",
+    "summary": "Gummersbach (ots) - Bei einem Verkehrsunfall in der Gummersbacher Innenstadt ist am Samstagvormittag (14. November) ein 58-jähriger Autofahrer aus Engelskirchen schwer verletzt worden. Der 58-Jährige war mit seinem Hyundai auf der Brückenstraße ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6390731",
+    "published": "Sun, 15 Nov 2026 11:00:10 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach",
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-15T12:17:12.512568",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9f10b60e5bc8",
+    "title": "POL-GM: Autofahrer mit fast zwei Promille unterwegs",
+    "summary": "Marienheide (ots) - Ein 59-jähriger Autofahrer aus Odenthal war am Freitagabend (13. November, 22:15 Uhr) mit seinem Toyota auf der Scharder Straße (K18) in Fahrtrichtung Marienheide-Zentrum unterwegs, als er die Kontrolle über sein Auto verlor. ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6390730",
+    "published": "Sun, 15 Nov 2026 11:00:06 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-11-15T12:17:12.512693",
+    "feed_kommunen": []
+  },
+  {
     "id": "b506628fb86c",
     "title": "Kappesfest: Frisches Sauerkraut und Tradition",
     "summary": "Reichshof – Das bunte Treiben im Bauernhofmuseum Eckenhagen lockte einige Besucher auf das Gelände.",
@@ -50,19 +290,6 @@
       "nuembrecht"
     ],
     "fetched": "2026-11-15T02:17:25.520362",
-    "feed_kommunen": []
-  },
-  {
-    "id": "ab5c26f8731a",
-    "title": "Deckungsumstellung bringt den Sieg in der Schlussphase",
-    "summary": "Oberberg – Gelpe/Strombach bezwingt den HC Weiden – Famose Nümbrechterinnen bezwingen den bislang ungeschlagenen Tabellenführer aus Bonn.",
-    "link": "http://www.oberberg-aktuell.de/handball/hbfrl---------a-140436",
-    "published": "Sun, 15 Nov 2026 00:15:00 +0100",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "nuembrecht"
-    ],
-    "fetched": "2026-11-15T01:17:39.946965",
     "feed_kommunen": []
   },
   {
@@ -1627,19 +1854,6 @@
       "gummersbach"
     ],
     "fetched": "2026-11-12T11:17:31.410391",
-    "feed_kommunen": []
-  },
-  {
-    "id": "c72bacf0299c",
-    "title": "Mit zwei Promille unterwegs",
-    "summary": "Reichshof – Die Polizei hat am Abend des Elften im Elften einen alkoholisierten Autofahrer aus Reichshof gestoppt.",
-    "link": "http://www.oberberg-aktuell.de/blaulicht/mit-zwei-promille-unterwegs-a-140323",
-    "published": "Thu, 12 Nov 2026 10:40:00 +0100",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "reichshof"
-    ],
-    "fetched": "2026-11-12T11:17:31.410449",
     "feed_kommunen": []
   },
   {

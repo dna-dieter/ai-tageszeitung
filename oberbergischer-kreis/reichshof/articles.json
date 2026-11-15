@@ -1,5 +1,19 @@
 [
   {
+    "id": "23354f3382e4",
+    "title": "Autofahrer mit fast zwei Promille unterwegs",
+    "summary": "Marienheide – Betrunkener prallte gegen eine Steinmauer, nachdem er die Kontrolle über seinen Wagen verloren hatte.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/autofahrer-mit-fast-zwei-promille-unterwegs-a-140460",
+    "published": "Sun, 15 Nov 2026 11:35:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "marienheide",
+      "reichshof"
+    ],
+    "fetched": "2026-11-15T12:17:13.570743",
+    "feed_kommunen": []
+  },
+  {
     "id": "b506628fb86c",
     "title": "Kappesfest: Frisches Sauerkraut und Tradition",
     "summary": "Reichshof – Das bunte Treiben im Bauernhofmuseum Eckenhagen lockte einige Besucher auf das Gelände.",
@@ -63,19 +77,6 @@
       "reichshof"
     ],
     "fetched": "2026-11-12T11:17:31.410326",
-    "feed_kommunen": []
-  },
-  {
-    "id": "c72bacf0299c",
-    "title": "Mit zwei Promille unterwegs",
-    "summary": "Reichshof – Die Polizei hat am Abend des Elften im Elften einen alkoholisierten Autofahrer aus Reichshof gestoppt.",
-    "link": "http://www.oberberg-aktuell.de/blaulicht/mit-zwei-promille-unterwegs-a-140323",
-    "published": "Thu, 12 Nov 2026 10:40:00 +0100",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "reichshof"
-    ],
-    "fetched": "2026-11-12T11:17:31.410449",
     "feed_kommunen": []
   },
   {
