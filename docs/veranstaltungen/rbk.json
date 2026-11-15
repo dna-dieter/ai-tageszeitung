@@ -30,16 +30,6 @@
     "teaser": "Bereits am Sonntag, den 12. April 2026 starten die kostenlosen Schnuppertouren in Bergisch Gladbach in eine neue Saison. Zum zwölften Mal bieten engagierte Stadtführerinnen und Stadtführer in Zusammenarbeit mit der Stadt"
   },
   {
-    "titel": "Öffentliche Führung \"Papier – vom Handwerk zum Massenprodukt\"",
-    "datum": "15. Nov 2026",
-    "datum_raw": "2026-11-15T14:00:00+01:00",
-    "ort": "LVR-Industriemuseum Papiermühle Alte Dombach, Alte Dombach 1 (an der Kürtener Str.), 51465 Bergisch Gladbach",
-    "preis": "ab 6 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Bei dieser Führung geht es um die Herstellung und den Gebrauch von Papier früher und heute. Highlight des Rundgangs ist die Vorführung der Labor-Papiermaschine. Die Teilnehmenden erfahren, wie Papier in Vergangenheit und"
-  },
-  {
     "titel": "Handwerker-Vorführung: Spinnen mit Karin Dünner und Janina Endresz",
     "datum": "15. Nov 2026",
     "datum_raw": "2026-11-15T14:00:00+01:00",
@@ -48,6 +38,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Sonntagnachmittags lassen die ehrenamtlichen Handwerker im Bergischen Museum für Bergbau, Handwerk und Gewerbe historische Techniken aufleben. Schauen Sie ihnen über die Schulter. Heute können Sie Karin Dünner beim Spinn"
+  },
+  {
+    "titel": "Öffentliche Führung \"Papier – vom Handwerk zum Massenprodukt\"",
+    "datum": "15. Nov 2026",
+    "datum_raw": "2026-11-15T14:00:00+01:00",
+    "ort": "LVR-Industriemuseum Papiermühle Alte Dombach, Alte Dombach 1 (an der Kürtener Str.), 51465 Bergisch Gladbach",
+    "preis": "ab 6 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Bei dieser Führung geht es um die Herstellung und den Gebrauch von Papier früher und heute. Highlight des Rundgangs ist die Vorführung der Labor-Papiermaschine. Die Teilnehmenden erfahren, wie Papier in Vergangenheit und"
   },
   {
     "titel": "Rangerführungen",
@@ -90,16 +90,6 @@
     "teaser": "Erleben Sie die perfekte Kombination aus Wandern in der Natur in Verbindung mit einem effektiven Workout. Es handelt sich um ein Ganzkörpertraining für jedes Fitnesslevel. Hier können Sie Energie tanken und abschalten. B"
   },
   {
-    "titel": "Themenführung: Die Papierfabrik und die Familie Zanders",
-    "datum": "16. Nov 2026",
-    "datum_raw": "2026-11-16T15:00:00+01:00",
-    "ort": "Zanders-Areal, An der Gohrsmühle 25, 51465 Bergisch Gladbach",
-    "preis": "",
-    "link": "https://www.bergischgladbach.de/fuehrungen-zanders-gelaende2.aspx",
-    "quelle": "Das Bergische",
-    "teaser": "Die barrierefreie Tour konzentriert sich auf die Bedeutung der Unternehmerfamilie Zanders für Bergisch Gladbach. In den geschichtsträchtigen Räumen des repräsentativen Verwaltungsgebäudes von 1905 beleuchtet Stadtführeri"
-  },
-  {
     "titel": "Refrather Weihnachtsdorf",
     "datum": "16. Nov 2026",
     "datum_raw": "2026-11-16T15:00:00+01:00",
@@ -108,6 +98,16 @@
     "link": "https://www.refrather-weihnachtsdorf.de/",
     "quelle": "Das Bergische",
     "teaser": "Vom 16. November bis 23. Dezember 2026 öffnet das Refrather Weihnachtsdorf seine Pforten. Feiern und genießen mitten im Herzen Refraths: Euch erwartet ein stimmungsvoller Markt mit kulinarischen Advents-Klassikern und li"
+  },
+  {
+    "titel": "Themenführung: Die Papierfabrik und die Familie Zanders",
+    "datum": "16. Nov 2026",
+    "datum_raw": "2026-11-16T15:00:00+01:00",
+    "ort": "Zanders-Areal, An der Gohrsmühle 25, 51465 Bergisch Gladbach",
+    "preis": "",
+    "link": "https://www.bergischgladbach.de/fuehrungen-zanders-gelaende2.aspx",
+    "quelle": "Das Bergische",
+    "teaser": "Die barrierefreie Tour konzentriert sich auf die Bedeutung der Unternehmerfamilie Zanders für Bergisch Gladbach. In den geschichtsträchtigen Räumen des repräsentativen Verwaltungsgebäudes von 1905 beleuchtet Stadtführeri"
   },
   {
     "titel": "Prinz Karneval – Alaaf",
@@ -150,14 +150,14 @@
     "teaser": "Der Weihnachtsmarkt in Bergisch Gladbach zentral auf dem Konrad-Adenauer-Platz gehört zu den größten im Rheinisch-Bergischen Kreis. Obwohl viele sagen: „Das ist doch jedes Jahr das Gleiche!“ stimmt es in gewisser Weise, "
   },
   {
-    "titel": "Lesereise \"Bunte Vielfalt trifft schwarzen Humor\"",
+    "titel": "„Femme fatale“ mit dem Cirque Buffon",
     "datum": "20. Nov 2026",
     "datum_raw": "2026-11-20T19:00:00+01:00",
-    "ort": "Bürgerhaus Odenthal, Altenberger-Dom-Straße 36, 51519 Odenthal",
-    "preis": "ab 5 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "ort": "Hotel-Restaurant Wißkirchen, Am Rösberg 2, 51519 Odenthal",
+    "preis": "",
+    "link": "https://www.hotel-wisskirchen.de/das-spiegelzelt-in-altenberg/",
     "quelle": "Das Bergische",
-    "teaser": "Das Motto der sechsten Lesereise \"Bunte Vielfalt trifft schwarzen Humor\" steht für die inhaltliche Bandbreite der vorgestellten Romane von zwei Autorinnen und zwei Autoren der finnischen Literaturszene. Ein knallharter K"
+    "teaser": "Der Cirque Bouffon gastiert zum 6. Mal mit einer faszinierenden Dinner-Show \"Femme fatale\" im nostalgischen Spiegelzelt in Altenberg. Das internationale Künstlerensemble des Cirque Bouffon verzaubert sein Publikum im Sti"
   },
   {
     "titel": "Kölsche Weihnachts Dinnershow",
@@ -170,14 +170,14 @@
     "teaser": "Kölsche Weihnachtsstimmung, kulinarischer Genuss und erstklassige Live-Musik – am 20. November lädt das Esszimmer zur zweiten Kölschen Weihnachts-Dinner Show ein. Freuen Sie sich auf einen stimmungsvollen Abend mit einem"
   },
   {
-    "titel": "„Femme fatale“ mit dem Cirque Buffon",
+    "titel": "Lesereise \"Bunte Vielfalt trifft schwarzen Humor\"",
     "datum": "20. Nov 2026",
     "datum_raw": "2026-11-20T19:00:00+01:00",
-    "ort": "Hotel-Restaurant Wißkirchen, Am Rösberg 2, 51519 Odenthal",
-    "preis": "",
-    "link": "https://www.hotel-wisskirchen.de/das-spiegelzelt-in-altenberg/",
+    "ort": "Bürgerhaus Odenthal, Altenberger-Dom-Straße 36, 51519 Odenthal",
+    "preis": "ab 5 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
-    "teaser": "Der Cirque Bouffon gastiert zum 6. Mal mit einer faszinierenden Dinner-Show \"Femme fatale\" im nostalgischen Spiegelzelt in Altenberg. Das internationale Künstlerensemble des Cirque Bouffon verzaubert sein Publikum im Sti"
+    "teaser": "Das Motto der sechsten Lesereise \"Bunte Vielfalt trifft schwarzen Humor\" steht für die inhaltliche Bandbreite der vorgestellten Romane von zwei Autorinnen und zwei Autoren der finnischen Literaturszene. Ein knallharter K"
   },
   {
     "titel": "Gerd J. Pohl liest: Am Abgrund... und einen Schritt weiter",
@@ -200,16 +200,6 @@
     "teaser": "Die Besucher erwartet ein stimmungsvolle Ambiente und eine Vielfalt an regionalem Kunsthandwerk. · Vorführungen des Museumsschmieds, der Spinner und der Weber und der Klang der Drehorgel schaffen eine nostalgische Atmosp"
   },
   {
-    "titel": "Lichterfest",
-    "datum": "21. Nov 2026",
-    "datum_raw": "2026-11-21T15:00:00+01:00",
-    "ort": "Bergisches Museum für Bergbau, Handwerk und Gewerbe, Burggraben 19, 51429 Bergisch Gladbach",
-    "preis": "ab 3 €",
-    "link": "https://www.bergischgladbach.de/veranstaltungen-2025.aspx",
-    "quelle": "Das Bergische",
-    "teaser": "Mit Lichterglanz und festlicher Stimmung verabschieden wir das Jahr. Unser erleuchtetes Museumsgelände lädt wieder zum Entdecken ein. Neben Handwerks-Vorführungen gibt es Bastelaktionen und Geschichten für Kinder. Für da"
-  },
-  {
     "titel": "Bärbroicher Weihnachtsmarkt",
     "datum": "21. Nov 2026",
     "datum_raw": "2026-11-21T15:00:00+01:00",
@@ -218,6 +208,16 @@
     "link": "http://www.dasbergische.de/",
     "quelle": "Das Bergische",
     "teaser": "Aus den Reihen der Bärbroicher Karnevalisten und Schützen wird auch in diesem Jahr wieder der schöne und urige Weihnachtsmarkt am Schützenheim veranstaltet. Eintritt : frei Ort: Schützenheim in Bärbroich Veranstalter: Bä"
+  },
+  {
+    "titel": "Lichterfest",
+    "datum": "21. Nov 2026",
+    "datum_raw": "2026-11-21T15:00:00+01:00",
+    "ort": "Bergisches Museum für Bergbau, Handwerk und Gewerbe, Burggraben 19, 51429 Bergisch Gladbach",
+    "preis": "ab 3 €",
+    "link": "https://www.bergischgladbach.de/veranstaltungen-2025.aspx",
+    "quelle": "Das Bergische",
+    "teaser": "Mit Lichterglanz und festlicher Stimmung verabschieden wir das Jahr. Unser erleuchtetes Museumsgelände lädt wieder zum Entdecken ein. Neben Handwerks-Vorführungen gibt es Bastelaktionen und Geschichten für Kinder. Für da"
   },
   {
     "titel": "Wein & Crime bei Kork & Kante in Bechen",
@@ -410,16 +410,6 @@
     "teaser": "Erleben Sie bei dieser Veranstaltung die Vielfalt Norwegens. Sie lernen Norwegen von Kap Lindesnes im Süden bis zur nördlichen Spitze, dem Nordkap, kennen. Traumhafte Fjorde und Fjelle erwarten Sie auf der Bilderreise du"
   },
   {
-    "titel": "Klassik in der Mühle",
-    "datum": "29. Nov 2026",
-    "datum_raw": "2026-11-29T18:00:00+01:00",
-    "ort": "Relais & Châteaux Hotel Diepeschrather Mühle, Diepeschrath 2-6, 51469 Bergisch Gladbach",
-    "preis": "ab 109 €",
-    "link": "https://www.nelson-mueller.de/blogs/kulinarischer-kalender/jazz-in-der-muhle-23-11-und-21-12-25-mullers-in-der-muhle",
-    "quelle": "Das Bergische",
-    "teaser": "Der Abend beginnt stets mit Einlass um 18:00 Uhr im Konrad-Adenauer-Saal der Mühle, das 3-gängige Menü startet gegen 18:30 Uhr, das Programm startet in der Regel gegen 21:00 Uhr. Die Veranstaltung endet gegen 23:00 Uhr. "
-  },
-  {
     "titel": "Frau Höpker bittet zum Gesang - Mitsing Konzert",
     "datum": "29. Nov 2026",
     "datum_raw": "2026-11-29T18:00:00+01:00",
@@ -428,6 +418,16 @@
     "link": "https://www.bergischerloewe.de/programmdetails.aspx?vid=9f6eb371-613f-42a4-b9ac-4616fda10fca&datum=29.11.2026",
     "quelle": "Das Bergische",
     "teaser": "Darf ich bitten? Sie darf. Seit 2008 begeistert die charismatische Künstlerin landauf landab mit einem musikalischen Gesangserlebnis das mehr ist als „nur“ gemeinsames Singen. Kein Wunder; Frau Höpkers Format ist einziga"
+  },
+  {
+    "titel": "Klassik in der Mühle",
+    "datum": "29. Nov 2026",
+    "datum_raw": "2026-11-29T18:00:00+01:00",
+    "ort": "Relais & Châteaux Hotel Diepeschrather Mühle, Diepeschrath 2-6, 51469 Bergisch Gladbach",
+    "preis": "ab 109 €",
+    "link": "https://www.nelson-mueller.de/blogs/kulinarischer-kalender/jazz-in-der-muhle-23-11-und-21-12-25-mullers-in-der-muhle",
+    "quelle": "Das Bergische",
+    "teaser": "Der Abend beginnt stets mit Einlass um 18:00 Uhr im Konrad-Adenauer-Saal der Mühle, das 3-gängige Menü startet gegen 18:30 Uhr, das Programm startet in der Regel gegen 21:00 Uhr. Die Veranstaltung endet gegen 23:00 Uhr. "
   },
   {
     "titel": "Kulinarischer Weihnachtsmarkt in Wermelskirchen",
@@ -490,16 +490,6 @@
     "teaser": "Am Freitag, den 04.12.2026, endet die Kabarettreihe der IGP im Exil mit dem Andreas Rebers und seinem Programm „rein geschäftlich - Bilanz“. Was ist das Leben? Zufall? Witz, oder eben doch nur ein Geschäft? Um diese Frag"
   },
   {
-    "titel": "Märchenwald Winterzauber",
-    "datum": "5. Dez 2026",
-    "datum_raw": "2026-12-05T13:00:00+01:00",
-    "ort": "Märchenwald Altenberg, Märchenwaldweg 15, 51519 Odenthal",
-    "preis": "ab 8 €",
-    "link": "https://www.maerchenwald-altenberg.de/events-erleben/winterzauber/",
-    "quelle": "Das Bergische",
-    "teaser": "Ab dem 28. November erstrahlt der Märchenwald, an den Adventswochenenden und den Weihnachtsferien, in stimmungsvoller Illumination.Zwischen Bäumen, Wegen und Märchenfiguren schaffen leuchtende Installationen ein besonder"
-  },
-  {
     "titel": "Winterzauber Weihnachtsmarkt im Märchenwald Altenberg",
     "datum": "5. Dez 2026",
     "datum_raw": "2026-12-05T13:00:00+01:00",
@@ -508,6 +498,16 @@
     "link": "https://www.maerchenwald-altenberg.de/events-erleben/winterzauber/",
     "quelle": "Das Bergische",
     "teaser": "An den drei letzten Adventswochenenden verwandelt sich der Märchenwald Altenberg in einen gemütlichen Weihnachtsmarkt für die ganze Familie. Direkt vor der märchenhaften Waldkulisse laden liebevoll dekorierte Stände mit "
+  },
+  {
+    "titel": "Märchenwald Winterzauber",
+    "datum": "5. Dez 2026",
+    "datum_raw": "2026-12-05T13:00:00+01:00",
+    "ort": "Märchenwald Altenberg, Märchenwaldweg 15, 51519 Odenthal",
+    "preis": "ab 8 €",
+    "link": "https://www.maerchenwald-altenberg.de/events-erleben/winterzauber/",
+    "quelle": "Das Bergische",
+    "teaser": "Ab dem 28. November erstrahlt der Märchenwald, an den Adventswochenenden und den Weihnachtsferien, in stimmungsvoller Illumination.Zwischen Bäumen, Wegen und Märchenfiguren schaffen leuchtende Installationen ein besonder"
   },
   {
     "titel": "Winterzauber am Golfplatz Lüderich",

@@ -370,16 +370,6 @@
     "teaser": "Sonderfahrt mit der Dampflok \"Waldbröl\" vom Eisenbahnmuseum Dieringhausen nach Engelskirchen und zurück. Buchung nur über www.eisenbahnmuseum-dieringhausen.de. Auf dieser Seite findest Du auch immer die neuesten Informat"
   },
   {
-    "titel": "Nikolaus, Waffelduft und warme Getränke",
-    "datum": "5. Dez 2026",
-    "datum_raw": "2026-12-05T11:00:00+01:00",
-    "ort": "Hofladen Ülfetal, III. Ülfe 1, 42477 Radevormwald",
-    "preis": "",
-    "link": "http://www.hofladen-uelfetal.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Am 5. Dezember wird es weihnachtlich im Ülfetal: Der Nikolaus schaut vorbei und bringt gemütliche Stimmung für Groß und Klein mit. Dazu gibt es leckeren Waffelduft und warme Getränke – perfekt für eine kleine Adventspaus"
-  },
-  {
     "titel": "Weihnachtsmarkt Wiehl",
     "datum": "5. Dez 2026",
     "datum_raw": "2026-12-05T11:00:00+01:00",
@@ -388,6 +378,16 @@
     "link": "http://www.wiehl.de/",
     "quelle": "Das Bergische",
     "teaser": "Am zweiten Adventswochenende verwandelt sich die Innenstadt wieder in eine kleine Weihnachtswelt. Zahlreiche Stände mit Kunsthandwerk, Leckereien und Geschenkideen, bestückt von Händlern und Wiehler Vereinen, erwarten di"
+  },
+  {
+    "titel": "Nikolaus, Waffelduft und warme Getränke",
+    "datum": "5. Dez 2026",
+    "datum_raw": "2026-12-05T11:00:00+01:00",
+    "ort": "Hofladen Ülfetal, III. Ülfe 1, 42477 Radevormwald",
+    "preis": "",
+    "link": "http://www.hofladen-uelfetal.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Am 5. Dezember wird es weihnachtlich im Ülfetal: Der Nikolaus schaut vorbei und bringt gemütliche Stimmung für Groß und Klein mit. Dazu gibt es leckeren Waffelduft und warme Getränke – perfekt für eine kleine Adventspaus"
   },
   {
     "titel": "Benefiz Hundeweihnachtsmarkt ",
@@ -500,16 +500,6 @@
     "teaser": "In diesem Workshop gestalten wir eigene Weihnachtskarten im Linoldruck. Am ersten Tag werden die Grundkenntnisse und verschiedene Möglichkeiten vermittelt, Motive auf die Druckplatte zu übertragen. Jeder kann ein eigenes"
   },
   {
-    "titel": "Weihnachtsmarkt Radevormwald",
-    "datum": "11. Dez 2026",
-    "datum_raw": "2026-12-11T14:00:00+01:00",
-    "ort": "Marktplatz Radevormwald, Markt 1, 42477 Radevormwald",
-    "preis": "",
-    "link": "https://wirtschaftsfoerderung-radevormwald.de/veranstaltungskalender/",
-    "quelle": "Das Bergische",
-    "teaser": "In der Innenstadt von Radevormwald findet wieder der traditionelle Weihnachtsmarkt statt. Vereine sowie Händlerinnen und Händler bieten unter anderem Liköre, diverse kreative Heißgetränke, Punsch- und Glühweinvariationen"
-  },
-  {
     "titel": "Christkindmarkt Engelskirchen",
     "datum": "11. Dez 2026",
     "datum_raw": "2026-12-11T14:00:00+01:00",
@@ -518,6 +508,16 @@
     "link": "http://www.engelskirchen.de/",
     "quelle": "Das Bergische",
     "teaser": "Jedes Jahr am dritten Adventswochenende findet der weit über die Grenzen des Bergischen Landes bekannte und beliebte Christkindmarkt auf dem Veranstaltungsplatz hinter dem Rathaus Engelskirchen statt. Die Besucherinnen u"
+  },
+  {
+    "titel": "Weihnachtsmarkt Radevormwald",
+    "datum": "11. Dez 2026",
+    "datum_raw": "2026-12-11T14:00:00+01:00",
+    "ort": "Marktplatz Radevormwald, Markt 1, 42477 Radevormwald",
+    "preis": "",
+    "link": "https://wirtschaftsfoerderung-radevormwald.de/veranstaltungskalender/",
+    "quelle": "Das Bergische",
+    "teaser": "In der Innenstadt von Radevormwald findet wieder der traditionelle Weihnachtsmarkt statt. Vereine sowie Händlerinnen und Händler bieten unter anderem Liköre, diverse kreative Heißgetränke, Punsch- und Glühweinvariationen"
   },
   {
     "titel": "Die gemütliche Kurzstrecke",
