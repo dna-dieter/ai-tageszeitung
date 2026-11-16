@@ -1,5 +1,61 @@
 [
   {
+    "id": "961a8f3f05bf",
+    "title": "Tafelmitglieder erhalten Ehrennadel der Stadt Bergisch Gladbach",
+    "summary": "Die Bergisch Gladbacher Tafel e.V. leistet einen wichtigen Beitrag zum sozialen Zusammenhalt in der Stadt. Sie rettet überschüssige Lebensmittel und gibt sie an Menschen weiter, die auf Unterstützung angewiesen sind. Damit hilft sie, Not zu lindern und soziale Teilhabe zu ermöglichen. Zugleich ist sie ein Ort der Begegnung, des Zuhörens und der menschlichen Nähe. Für diese wichtige Arbeit engagier",
+    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52875",
+    "published": "2026-11-16 11:09:17",
+    "source": "Stadt Bergisch Gladbach (offiziell)",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-16T11:16:08.075806",
+    "feed_kommunen": [
+      "bergisch-gladbach"
+    ]
+  },
+  {
+    "id": "946a0b9c0251",
+    "title": "„Das ist gar nicht vorbei“: Volkstrauertag in Bensberg: Jugendliche mahnen zum Frieden",
+    "summary": "Bei der zentralen Gedenkfeier des Rhein-Bergischen Kreises in Bensberg verbinden Jugendliche, Geistliche und Politiker die Erinnerung an die Kriegstoten mit dem Blick auf aktuelle Konflikte.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/volkstrauertag-in-bensberg-jugendliche-mahnen-zum-frieden-1417688",
+    "published": "Mon, 16 Nov 2026 10:57:21 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-16T11:16:08.307840",
+    "feed_kommunen": []
+  },
+  {
+    "id": "23ba0956e118",
+    "title": "Pakt mit dem Teufel: Gitti verkauft ihre Seele: Goethe-Persiflage feiert Premiere",
+    "summary": "Die Komödie „Gittis Faust“ fragt, was aus Fausts Ex-Frau wurde: Eine Lehrerin verkauft ihre Seele für ewige Jugend und eine Kreditkarte ohne Limit.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/gittis-faust-goethe-persiflage-feiert-premiere-in-bergisch-gladbach-1417684",
+    "published": "Mon, 16 Nov 2026 10:53:48 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-16T11:16:08.307995",
+    "feed_kommunen": []
+  },
+  {
+    "id": "eba7532eae3c",
+    "title": "Wo Jogger in Burscheid jetzt abends trainieren können – und wann das Licht an ist",
+    "summary": "Nach der Zeitumstellung wird es früh dunkel – für Läufer oft ein Problem. In Burscheid gibt es jetzt eine beleuchtete Alternative: Die Kunststofflaufbahn am Sportplatz Griesberg ist dienstags bis donnerstags abends für alle geöffnet. Was Jogger dabei beachten sollten.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/wo-jogger-in-burscheid-jetzt-abends-trainieren-koennen-und-wann-das-licht-an-ist-BB2BYBHFAJFQBBRVKWWV3YHBLA.html",
+    "published": "Mon, 16 Nov 2026 10:30:00 +0100",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-16T11:16:03.991503",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
     "id": "2d4218d925b0",
     "title": "Standorte der mobilen Geschwindigkeitsüberwachung",
     "summary": "In dieser Woche sind folgende Messestellen vorgesehen: Montag, 16.11.2026: Duckterather Weg, Voiswinkeler Straße, HerwegDienstag, 17.11.2026: Grube/Kley, Saaler Straße, RheinhöhenwegMittwoch, 18.11.2026: Kempener Straße, Dolmanstraße, KippekausenDonnerstag, 19.11.2026: Ommerbornstraße, Kuckucksweg, Hufer WegFreitag, 20.11.2026: Am Rübezahlwald, Mülheimer Straße, KlutsteinSamstag, 21.11.2026: Jäger",
@@ -187,6 +243,21 @@
       "leichlingen"
     ],
     "fetched": "2026-11-15T13:16:07.612891",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
+    "id": "f1729a58abff",
+    "title": "Schutzgemeinschaft zum Baum des Jahres 2027: „Wälder nicht sich selbst überlassen“",
+    "summary": "Die Esche ist Baum des Jahres 2027. Die Schutzgemeinschaft Deutscher Wald (SDW) Bergisches Land setzt auf pilzresistentes Pflanzgut, um die selten gewordene Baumart zu vermehren.",
+    "link": "https://rp-online.de/nrw/staedte/wermelskirchen/sdw-bergisches-land-esche-ist-baum-des-jahres-2027_aid-158330257",
+    "published": "Sun, 15 Nov 2026 12:00:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-16T11:16:09.315214",
     "feed_kommunen": [
       "leichlingen"
     ]

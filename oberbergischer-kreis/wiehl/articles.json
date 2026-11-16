@@ -145,7 +145,8 @@
     "source": "Rheinische Anzeigenblätter Oberberg",
     "kommunen": [
       "waldbroel",
-      "wiehl"
+      "wiehl",
+      "wipperfuerth"
     ],
     "fetched": "2026-11-12T16:17:29.726297",
     "feed_kommunen": []
@@ -4310,6 +4311,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-16T10:17:52.643701",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "9f414030a10d",
+    "title": "Bauarbeiten „Auf dem Buhlscheid“",
+    "summary": "Ende November 2026 starten die Bauarbeiten an der Straße „Auf dem Buhlscheid“ in Neuklef. Die Maßnahme umfasst den Straßen- und Kanalbau – mit Blick auf die künftige Entwicklung des Wohngebiets.",
+    "link": "https://www.wiehl.de/aktuelles/baustellen/9610-bauarbeiten-auf-dem-buhlscheid.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-16T11:17:22.311958",
     "feed_kommunen": [
       "wiehl"
     ]
