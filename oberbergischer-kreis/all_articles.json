@@ -1,5 +1,71 @@
 [
   {
+    "id": "3fff1d4b49a8",
+    "title": "Kreisliga A-Tippspiel: Marcel Hühn holt Tagessieg",
+    "summary": "Oberberg - Herzlichen Glückwunsch Marcel Hühn! Er ist der Tagessieger am 13. Spieltag beim Tippspiel von Oberberg-Aktuell und Sportsbar Lutter.",
+    "link": "http://www.oberberg-aktuell.de/fussball/kreisliga-a-tippspiel--holt-tagessieg---------a-140461",
+    "published": "Mon, 16 Nov 2026 10:10:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-16T10:17:50.111021",
+    "feed_kommunen": []
+  },
+  {
+    "id": "15f86b085ba5",
+    "title": "38-Jährige soll Autofahrerin mit Messer angegriffen haben",
+    "summary": "Gummersbach – Eine Wohnungslose soll eine 41-jährige Frau aus Gummersbach verletzt haben – Polizei nimmt Tatverdächtige fest.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/---j--hrige-soll-autofahrerin-mit-messer-angegriffen-haben-a-140508",
+    "published": "Mon, 16 Nov 2026 10:06:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-16T10:17:50.111132",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7d2905dc6b64",
+    "title": "Auto prallt gegen Steinmauer – Alkoholvortest zeigt fast zwei Promille",
+    "summary": "Ein 59 Jahre alter Autofahrer aus Odenthal ist am Freitagabend, 13. November, auf der Scharder Straße in Richtung Marienheide-Zentrum verunglückt. Er erlitt leichte Verletzungen, lehnte eine ärztliche Behandlung aber ab. Der Mann verlor nach Angaben der Polizei gegen 22.15 Uhr die Kontrolle über seinen Toyota. Das Auto touchierte zunächst einen Holzzaun und prallte anschließend gegen eine Steinmau",
+    "link": "https://www.rheinische-anzeigenblaetter.de/marienheide/c-blaulicht/auto-prallt-gegen-steinmauer-alkoholvortest-zeigt-fast-zwei-promille_a382973",
+    "published": "Mon, 16 Nov 2026 09:49:17 +0100",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-11-16T10:17:51.022691",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c7b0d06be25c",
+    "title": "Überholmanöver endet am Baum - Engelskirchener wird schwer verletzt",
+    "summary": "Ein 58 Jahre alter Autofahrer aus Engelskirchen ist am Samstagvormittag, 14. November, bei einem Unfall in der Gummersbacher Innenstadt schwer verletzt worden. Rettungskräfte brachten ihn in ein Krankenhaus. Nach Angaben der Polizei war der Mann mit seinem Hyundai auf der Brückenstraße in Richtung Westtangente unterwegs. Gegen 11.45 Uhr überholte er ein anderes Auto. Beim anschließenden Wiedereins",
+    "link": "https://www.rheinische-anzeigenblaetter.de/gummersbach/c-blaulicht/ueberholmanoever-endet-am-baum-engelskirchener-wird-schwer-verletzt_a382970",
+    "published": "Mon, 16 Nov 2026 09:44:50 +0100",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "gummersbach",
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-16T10:17:51.022963",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1b7da92fa029",
+    "title": "POL-GM: Autofahrerin mit Messer angegriffen - Polizei nimmt Tatverdächtige fest",
+    "summary": "Gummersbach (ots) - Am Samstagnachmittag (14. November) wollte eine 41-jährige Gummersbacherin gegen 14 Uhr mit ihrem Auto von der Hohler Straße in die Einmündung des Hauptzollamtes abbiegen. Zu diesem Zeitpunkt querte eine Fußgängerin den ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6391051",
+    "published": "Mon, 16 Nov 2026 09:41:08 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-16T10:17:45.620196",
+    "feed_kommunen": []
+  },
+  {
     "id": "b2ddc0711ed6",
     "title": "Frieden leben und Mitgefühl zeigen",
     "summary": "Bergneustadt/Oberberg - Zentrale Gedenkstunde anlässlich des Volkstrauertages fand auf dem Bergneustädter Friedhof statt - Landrat Klaus Grootens und Bürgermeister Matthias Thul sprachen zu den Gästen.",
@@ -49928,6 +49994,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-14T16:17:30.588254",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "e934394d33da",
+    "title": "Aktiv sein beim „Sportfest für Alle“",
+    "summary": "Am 21. November 2026 wird die Sporthalle am Gymnasium erneut zum Treffpunkt für Menschen mit und ohne Beeinträchtigung. Zahlreiche Mitmachangebote laden zum gemeinsamen Sport ein.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9612-aktiv-sein-beim-sportfest-fuer-alle.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-16T10:17:52.643701",
     "feed_kommunen": [
       "wiehl"
     ]
