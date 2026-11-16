@@ -1,5 +1,70 @@
 [
   {
+    "id": "f591f6f33725",
+    "title": "Neues privates Schwimmbad in Köln: Eine Holzmodul-Halle steht jetzt in Rondorf",
+    "summary": "In Rondorf ist in nur zehn Tagen eine innovative Schwimmhalle aus Holzmodulen entstanden. Das Bad steht Schülern, Kitas und der Öffentlichkeit offen.",
+    "link": "https://www.ksta.de/koeln/rodenkirchen/rondorf/neues-privates-schwimmbad-in-koeln-rondorf-eroeffnet-1415306",
+    "published": "Mon, 16 Nov 2026 13:00:35 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-16T13:18:13.231659",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1ea2c9b42701",
+    "title": "Märklin-Modell zum 50. Geburtstag: Roncalli-Jubiläumslok wird für „wir helfen“ versteigert",
+    "summary": "Bernhard Paul versteigert eine exklusive Märklin-Modelllokomotive zugunsten des Vereins wir helfen, um Kinder und Jugendliche in Not zu unterstützen",
+    "link": "https://www.ksta.de/wir-helfen/sonder-modell-roncalli-jubilaeumslok-von-maerklin-wird-fuer-wir-helfen-versteigert-1416255",
+    "published": "Mon, 16 Nov 2026 12:50:26 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-16T13:18:13.231679",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4258f13ff3aa",
+    "title": "Winterhilfe der Stadt Köln",
+    "summary": "16. November 2026, 12:47Angebot umfasst Übernachtung, Tagesaufenthalt, Winterhilfepostfach und Kältegänge",
+    "link": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/winterhilfe-der-stadt-koeln-5",
+    "published": "Mon, 16 Nov 2026 12:47:00 +0100",
+    "source": "Stadt Köln Pressemeldungen",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-16T13:18:13.078755",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a9b2df8f4b51",
+    "title": "Orange Days 2026",
+    "summary": "16. November 2026, 12:32Stadt Köln beteiligt sich an den Aktionstagen gegen Gewalt an Frauen",
+    "link": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/orange-days-2026",
+    "published": "Mon, 16 Nov 2026 12:32:00 +0100",
+    "source": "Stadt Köln Pressemeldungen",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-16T13:18:13.078771",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7e187ba12d3e",
+    "title": "29-jährige erfüllt sich Traum: Neues Café mit Weinbar im Kölner Kwartier Latäng eröffnet",
+    "summary": "An der Lindenstraße hat Greta Weidenfeld ihr Café Goldlay eröffnet. Das Konzept bietet Kölnern einen Treffpunkt mit Mosel-Weinen und Snacks.",
+    "link": "https://www.ksta.de/freizeit/restaurants/goldlay-neues-caf-mit-weinbar-im-koelner-kwartier-lataeng-1415433",
+    "published": "Mon, 16 Nov 2026 12:27:29 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-16T13:18:13.231707",
+    "feed_kommunen": []
+  },
+  {
     "id": "37636b222824",
     "title": "Auftakt für europaweit einzigartiges Musikzentrum",
     "summary": "16. November 2026, 12:23Zwei Meilensteine für die Freie Musikszene in einem Objekt",
@@ -10,6 +75,32 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-16T12:44:19.037478",
+    "feed_kommunen": []
+  },
+  {
+    "id": "0cd78e2e392f",
+    "title": "Nach massiver Kritik: Listenhunde in Köln und NRW – Vermittlung an Familien bleibt erlaubt",
+    "summary": "Die geplante Verschärfung hätte auch in Kölner Tierheimen viele Hunde ihre Vermittlungschance kosten können. Nun gibt es eine Nachbesserung.",
+    "link": "https://www.ksta.de/politik/nrw-politik/listenhunde-in-nrw-vermittlung-an-familien-bleibt-erlaubt-1417762",
+    "published": "Mon, 16 Nov 2026 12:20:13 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-16T13:18:13.231719",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6ffd70c6ce9a",
+    "title": "Bis zu 10.000 Teilnehmer: Neue Gen-Z-Demonstration in Köln angemeldet",
+    "summary": "Für den 20. November ist eine weitere Großdemonstration angemeldet. Die Polizei bereitet sich angesichts der Weihnachtsmärkte auf einen Einsatz vor.",
+    "link": "https://www.ksta.de/koeln/gen-z-regelt-neue-grossdemonstration-in-koeln-angemeldet-1417720",
+    "published": "Mon, 16 Nov 2026 12:13:17 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-16T13:18:13.231730",
     "feed_kommunen": []
   },
   {

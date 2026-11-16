@@ -1,5 +1,18 @@
 [
   {
+    "id": "c405f2f67056",
+    "title": "Mit beschädigtem Toyota auf Stahlfelge vor der Polizei geflüchtet",
+    "summary": "Ein 35-jähriger Autofahrer ist am Samstagmittag von Kierspe in Richtung Lüdenscheid vor der Polizei geflüchtet. Sein silberner Toyota Auris wies starke Unfallschäden auf und fuhr vorne rechts nur noch auf der Stahlfelge. Warum der Mann die Anhaltezeichen der Beamten ignorierte, ist bislang nicht abschließend geklärt. Zeugen hatten die Polizei zur Kölner Straße in Kierspe, der B237, gerufen, nachde",
+    "link": "https://www.rheinische-anzeigenblaetter.de/oberberg/c-blaulicht/mit-beschaedigtem-toyota-auf-stahlfelge-vor-der-polizei-gefluechtet_a383045",
+    "published": "Mon, 16 Nov 2026 13:17:06 +0100",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-16T13:17:18.341857",
+    "feed_kommunen": []
+  },
+  {
     "id": "0e19a204b34e",
     "title": "Verfolgungsfahrt auf Stahlfelge",
     "summary": "Oberberg - Polizei stoppt verdächtigen Autofahrer erst in Lüdenscheid - Passierte Unfall schon im Oberbergischen Kreis? - Hinweise werden gesucht.",
@@ -11,6 +24,21 @@
     ],
     "fetched": "2026-11-16T12:42:56.043384",
     "feed_kommunen": []
+  },
+  {
+    "id": "189cd6040489",
+    "title": "Radevormwald möchte den Prolog der Lidl Deutschland Tour 2028 ausrichten",
+    "summary": "Große Chance für die Stadt: Ein internationales Radsportereignis könnte 2028 zahlreiche Sportlerinnen und Sportler, Gäste und Zuschauer nach Radevormwald bringen. Radevormwald möchte Teil eines der größten Radsportereignisse Deutschlands werden: Die Stadt bewirbt sich bei der A.S.O Germany GmbH um die Ausrichtung des Prologs der Lidl Deutschland Tour 2028. Der Rat der Stadt hat die Verwaltung […] ",
+    "link": "https://www.radevormwald.de/lidl-deutschland-tour/",
+    "published": "Mon, 16 Nov 2026 10:51:08 +0000",
+    "source": "Stadt Radevormwald (offiziell)",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-11-16T13:17:29.665773",
+    "feed_kommunen": [
+      "radevormwald"
+    ]
   },
   {
     "id": "abc036e07763",
@@ -50172,6 +50200,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-16T11:17:22.311958",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "9457e3988ecc",
+    "title": "Am Volkstrauertag Erinnerung wachgehalten",
+    "summary": "An mehreren Orten in Wiehl ist gestern den Opfern von Krieg und Gewaltherrschaft gedacht worden: Zum Volkstrauertag gab es Kranzniederlegungen, Ansprachen und Musikbeiträge.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9613-am-volkstrauertag-erinnerung.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-16T13:17:19.199401",
     "feed_kommunen": [
       "wiehl"
     ]

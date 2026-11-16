@@ -4329,5 +4329,20 @@
     "feed_kommunen": [
       "wiehl"
     ]
+  },
+  {
+    "id": "9457e3988ecc",
+    "title": "Am Volkstrauertag Erinnerung wachgehalten",
+    "summary": "An mehreren Orten in Wiehl ist gestern den Opfern von Krieg und Gewaltherrschaft gedacht worden: Zum Volkstrauertag gab es Kranzniederlegungen, Ansprachen und Musikbeiträge.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9613-am-volkstrauertag-erinnerung.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-16T13:17:19.199401",
+    "feed_kommunen": [
+      "wiehl"
+    ]
   }
 ]
