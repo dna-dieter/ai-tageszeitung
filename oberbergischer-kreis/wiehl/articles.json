@@ -1,5 +1,34 @@
 [
   {
+    "id": "e723d71f9f91",
+    "title": "Metzgerei Müller holt fünf Goldmedaillen",
+    "summary": "Wiehl - Bielsteiner Betrieb punktete beim Mettwurst-Pokal und dem Wettbewerb Leberwurst-Champion.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/metzgerei-m--ller-holt-f--nf-goldmedaillen-a-140516",
+    "published": "Mon, 16 Nov 2026 15:14:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-16T15:17:52.851109",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6609a5d8eb00",
+    "title": "Nümbrecht gedenkt den Opfern des 9. Novembers 1938",
+    "summary": "In diesem Jahr wurde der Gedenktag zur Pogromnacht, die traditionell von der Gemeinde Nümbrecht, der Oberbergischen Gesellschaft für Christlich-jüdische Zusammenarbeit sowie den Freundeskreisen Wiehl/Jokneam und Nümbrecht-Mateh Yehuda ausgerichtet wird, zu einer eher ungewöhnlichen Uhrzeit begangen.",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=2022&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=dbbbeba11040747a05d92a070aa2c1c9",
+    "published": "Mon, 16 Nov 2026 15:06:48 +0100",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "wiehl",
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-16T15:18:02.143545",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
     "id": "be5e6e5cae43",
     "title": "Wiehl: Sportfest für Alle lockt am 21. November zum Mitmachen",
     "summary": "Sportfest für Alle in Wiehl: Am 21. November von 11 bis 16 Uhr können Menschen mit und ohne Beeinträchtigung gemeinsam Sport treiben.",
