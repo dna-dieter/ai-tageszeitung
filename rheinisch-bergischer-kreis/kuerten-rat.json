@@ -1,7 +1,7 @@
 {
   "quelle": "https://www.kuerten.de/sitzungen/",
   "portal": "https://sessionnet.owl-it.de/kuerten/bi/info.asp",
-  "aktualisiert": "2026-11-13T12:18:56",
+  "aktualisiert": "2026-11-16T17:19:41",
   "kommende": [
     {
       "datum": "2026-11-18",
@@ -47,6 +47,10 @@
         {
           "art": "Einladung",
           "url": "https://sessionnet.owl-it.de/kuerten/bi/getfile.asp?id=128053&type=do"
+        },
+        {
+          "art": "Erweiterte Tagesordnung",
+          "url": "https://sessionnet.owl-it.de/kuerten/bi/getfile.asp?id=128090&type=do"
         }
       ]
     },
