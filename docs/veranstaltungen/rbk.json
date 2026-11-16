@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Wandern & Workout",
-    "datum": "16. Nov 2026",
-    "datum_raw": "2026-11-16T12:30:00+02:00",
-    "ort": "Wanderparkplatz Eifgen, Eifgen 8, 42929 Wermelskirchen",
-    "preis": "ab 15 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Erleben Sie die perfekte Kombination aus Wandern in der Natur in Verbindung mit einem effektiven Workout. Es handelt sich um ein Ganzkörpertraining für jedes Fitnesslevel. Hier können Sie Energie tanken und abschalten. B"
-  },
-  {
     "titel": "Refrather Weihnachtsdorf",
     "datum": "16. Nov 2026",
     "datum_raw": "2026-11-16T15:00:00+01:00",
@@ -198,6 +188,16 @@
     "link": "https://www.althoffcollection.com/de/sternekoeche/althoff-modern-chefs-circle",
     "quelle": "Das Bergische",
     "teaser": "Eine außergewöhnliche Dinner Trilogie, die Spitzenköche, Handwerk und kreative Handschriften vereint. Jede Station präsentiert eine neue Interpretation, jedes Menü ist eine einmalige Komposition. Erlebbar nur an diesem A"
+  },
+  {
+    "titel": "Wandern & Workout",
+    "datum": "23. Nov 2026",
+    "datum_raw": "2026-11-23T12:30:00+02:00",
+    "ort": "Wanderparkplatz Eifgen, Eifgen 8, 42929 Wermelskirchen",
+    "preis": "ab 15 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Erleben Sie die perfekte Kombination aus Wandern in der Natur in Verbindung mit einem effektiven Workout. Es handelt sich um ein Ganzkörpertraining für jedes Fitnesslevel. Hier können Sie Energie tanken und abschalten. B"
   },
   {
     "titel": "Weihnachtstreff im TechnologiePark Bergisch Gladbach",
