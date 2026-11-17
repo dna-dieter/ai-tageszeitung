@@ -1,5 +1,33 @@
 [
   {
+    "id": "a06451748f2c",
+    "title": "Frost",
+    "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
+    "link": "http://www.oberberg-aktuell.de/foto-des-tages/frost---------a-140226",
+    "published": "Tue, 17 Nov 2026 08:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-17T08:17:20.497919",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d41a66b06421",
+    "title": "Geschichtsforschung im neuen BGV-Archiv",
+    "summary": "Der Bergischen Geschichtsverein präsentierte sich erstmals im ehemaligen OGS-Pavillon am alten Standort der Löwen-Grundschule. Wer historische Studien betreiben will, kann dort auf die Suche gehen.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/geschichtsforschung-im-neuen-bgv-archiv-CEPRDPKCOFCI6MNU3WEEPEJEYU.html",
+    "published": "Tue, 17 Nov 2026 07:50:00 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-17T08:17:15.258840",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
     "id": "3f2b8f612f4f",
     "title": "Fußball-Mannschaften des Wochenendes",
     "summary": "Oberberg - Hier stellt die Sportredaktion von Oberberg-Aktuell die Fußball-Mannschaften des Wochenendes vor.",

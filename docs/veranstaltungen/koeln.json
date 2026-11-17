@@ -902,6 +902,17 @@
     "teaser": "16:30 bis 17:30 Uhr · Führung durch die Ausstellung Hungerleben - Lebenshunger. Köln 1946/47"
   },
   {
+    "titel": "MINT-Vorlesen",
+    "datum": "25. Nov 2026",
+    "datum_raw": "2026-11-25T00:00:00",
+    "datum_bis": "",
+    "ort": "Stadtteilbibliothek Bocklemünd/Mengenich, Bocklemünd/Mengenich",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41755/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:45 bis 17:30 Uhr · Bücher und Experimente für neugierige Kinder – in der Stadtteilbibliothek Bocklemünd/Mengenich."
+  },
+  {
     "titel": "Vortrag: Vom Zeltlager zum demokratischen Sozialismus",
     "datum": "25. Nov 2026",
     "datum_raw": "2026-11-25T00:00:00",
@@ -1417,6 +1428,17 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41540/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "16:30 bis 17 Uhr · Bilderbuchgeschichten für Kinder ab 3 Jahren in der Stadtteilbibliothek Sülz."
+  },
+  {
+    "titel": "MINT-Vorlesen",
+    "datum": "2. Dez 2026",
+    "datum_raw": "2026-12-02T00:00:00",
+    "datum_bis": "",
+    "ort": "Stadtteilbibliothek Bocklemünd/Mengenich, Bocklemünd/Mengenich",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41756/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16:45 bis 17:30 Uhr · Bücher und Experimente für neugierige Kinder – in der Stadtteilbibliothek Bocklemünd/Mengenich."
   },
   {
     "titel": "Offene Sprechstunde: Archivierung fotografischer Materialien",
