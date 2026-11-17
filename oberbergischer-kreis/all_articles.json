@@ -1,5 +1,18 @@
 [
   {
+    "id": "3333e8880894",
+    "title": "Bernd Schnippering bleibt Kreislandwirt",
+    "summary": "Oberberg – Der Milchviehhalter aus Wipperfürth wurde auf der konstituierenden Sitzung der Kreisstelle Oberbergischer Kreis der Landwirtschaftskammer gewählt.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/bernd-schnippering-bleibt-kreislandwirt-a-140561",
+    "published": "Tue, 17 Nov 2026 12:43:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-17T13:17:43.863915",
+    "feed_kommunen": []
+  },
+  {
     "id": "413476ccb865",
     "title": "Daniel Noss wird neuer Feuerwehr-Chef",
     "summary": "Wiehl – Stadtrat stimmte einstimmig für den bisherigen Stellvertreter als Nachfolger von Jens Schmidt – Neues Führungstrio steht – Stadträtin Elke Zakaria bekam den Silbernen Wiehltaler.",
@@ -610,6 +623,22 @@
       "nuembrecht"
     ],
     "fetched": "2026-11-16T15:18:02.143932",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
+    "id": "6cf130e31058",
+    "title": "Pressemitteilung: 21 neue Wander- und Radwanderführer für das Homburger Land",
+    "summary": "SGV Homburger Land sichert mit Qualifizierungsprojekt seine Zukunft – Urkunden in Wiehl überreicht",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=2019&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=7b85b8dafc278b91931d9c9a53856815",
+    "published": "Mon, 16 Nov 2026 14:26:42 +0100",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht",
+      "wiehl"
+    ],
+    "fetched": "2026-11-17T13:17:52.231655",
     "feed_kommunen": [
       "nuembrecht"
     ]
