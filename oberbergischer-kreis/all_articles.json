@@ -1,5 +1,87 @@
 [
   {
+    "id": "eb4f0a895ee0",
+    "title": "Gestohlene iPads tauchen wieder auf",
+    "summary": "Erfreuliche Wendung nach einem Einbruch in eine Radevormwalder Grundschule: Die Ende Juli gestohlenen 32 iPads sind wieder aufgetaucht.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/gestohlene-ipads-tauchen-wieder-auf-2LMRSHI3NYTWL2UZTFOHXYLC4Y.html",
+    "published": "Tue, 17 Nov 2026 17:14:34 +0100",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-11-17T17:17:21.999045",
+    "feed_kommunen": [
+      "radevormwald"
+    ]
+  },
+  {
+    "id": "b3df3fe5f90a",
+    "title": "Richtfest für das Bildungszentrum Am Kreuz",
+    "summary": "Im Gebäudekomplex des neuen Bildungszentrums Am Kreuz wurde gefeiert. Der Zeitplan auf der Baustelle wird bisher eingehalten.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/richtfest-fuer-das-bildungszentrum-am-kreuz-XIDQRY7UVYUTAX25GH2OHTHKIY.html",
+    "published": "Tue, 17 Nov 2026 17:01:06 +0100",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-11-17T17:17:21.999159",
+    "feed_kommunen": [
+      "radevormwald"
+    ]
+  },
+  {
+    "id": "a496008f9c22",
+    "title": "Gummersbach: Coca-Cola-Weihnachtstruck kommt am 25. November",
+    "summary": "Der Coca-Cola-Weihnachtstruck macht am 25. November 2026 von 15 bis 20 Uhr auf dem Lindenplatz in Gummersbach Station. Der Eintritt ist frei.",
+    "link": "https://www.news-on-tour.de/346350/gummersbach-coca-cola-weihnachtstruck/",
+    "published": "Tue, 17 Nov 2026 15:35:26 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-17T17:17:20.579887",
+    "feed_kommunen": []
+  },
+  {
+    "id": "92d31ac6e027",
+    "title": "Goldregen beim Heimturnier",
+    "summary": "Waldbröl - 290 Voltigierer aus dem Rheinland und aus Westfalen trafen sich am Wochenende in der Nutscheidhalle beim Turnier der Voltigier- und Reitsportgemeinschaft 20*10.",
+    "link": "http://www.oberberg-aktuell.de/sportmix/goldregen-beim-heimturnier-a-140586",
+    "published": "Tue, 17 Nov 2026 16:30:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-17T17:17:26.152099",
+    "feed_kommunen": []
+  },
+  {
+    "id": "0f71873d5ebc",
+    "title": "(Update 2) Starkregen und Sturm: Dauerregen-Warnung für Oberberg",
+    "summary": "Update: DWD warnt den Oberbergischen Kreis von Dienstag, 18 Uhr, bis Freitag, 18 Uhr, vor Dauerregen mit rund 60 Litern pro Quadratmeter. Bis Dienstagabend Sturmböen bis 75 km/h.",
+    "link": "https://www.news-on-tour.de/346201/starkregen-nrw-bergisches-land-sturm/",
+    "published": "Tue, 17 Nov 2026 15:25:57 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-17T17:17:20.580051",
+    "feed_kommunen": []
+  },
+  {
+    "id": "39186186bbb2",
+    "title": "Eine Oma, die fürs Christkind arbeitet",
+    "summary": "Engelskirchen – Die Deutsche Post hat im Alten Baumwolllager wieder ihre Christkindpostfiliale eröffnet – Antwortschreiben gibt es neuerdings in allen Sprachen der Welt.",
+    "link": "http://www.oberberg-aktuell.de/lokales/eine-oma--die-f--rs-christkind-arbeitet-a-140576",
+    "published": "Tue, 17 Nov 2026 16:15:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-17T17:17:26.152242",
+    "feed_kommunen": []
+  },
+  {
     "id": "fcdf2bf210f7",
     "title": "Die Kreisverwaltung informiert!",
     "summary": "Kabelchaos und Kerzenschein: Brandschutz während der Vorweihnachtszeit beachten!",
@@ -53,6 +135,19 @@
       "waldbroel"
     ],
     "fetched": "2026-11-17T15:17:41.580365",
+    "feed_kommunen": []
+  },
+  {
+    "id": "77ab3acdf86c",
+    "title": "Weihnachtspost aus aller Welt: Tausende Wunschzettel fürs Christkind in Engelskirchen eingetroffen",
+    "summary": "Christkindpost Engelskirchen: Briefe von Kindern aus aller Welt sind eingetroffen, Antworten bis 17. Dezember.",
+    "link": "https://www.rundschau-online.de/region/oberberg/engelskirchen/engelskirchen-christkind-erhaelt-tausende-wunschzettel-aus-aller-welt-1418783",
+    "published": "Tue, 17 Nov 2026 14:31:27 +0100",
+    "source": "Kölnische Rundschau Oberberg",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-17T17:17:25.381154",
     "feed_kommunen": []
   },
   {

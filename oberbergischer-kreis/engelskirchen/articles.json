@@ -1,5 +1,18 @@
 [
   {
+    "id": "39186186bbb2",
+    "title": "Eine Oma, die fürs Christkind arbeitet",
+    "summary": "Engelskirchen – Die Deutsche Post hat im Alten Baumwolllager wieder ihre Christkindpostfiliale eröffnet – Antwortschreiben gibt es neuerdings in allen Sprachen der Welt.",
+    "link": "http://www.oberberg-aktuell.de/lokales/eine-oma--die-f--rs-christkind-arbeitet-a-140576",
+    "published": "Tue, 17 Nov 2026 16:15:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-17T17:17:26.152242",
+    "feed_kommunen": []
+  },
+  {
     "id": "fcdf2bf210f7",
     "title": "Die Kreisverwaltung informiert!",
     "summary": "Kabelchaos und Kerzenschein: Brandschutz während der Vorweihnachtszeit beachten!",
@@ -13,6 +26,19 @@
     "feed_kommunen": [
       "engelskirchen"
     ]
+  },
+  {
+    "id": "77ab3acdf86c",
+    "title": "Weihnachtspost aus aller Welt: Tausende Wunschzettel fürs Christkind in Engelskirchen eingetroffen",
+    "summary": "Christkindpost Engelskirchen: Briefe von Kindern aus aller Welt sind eingetroffen, Antworten bis 17. Dezember.",
+    "link": "https://www.rundschau-online.de/region/oberberg/engelskirchen/engelskirchen-christkind-erhaelt-tausende-wunschzettel-aus-aller-welt-1418783",
+    "published": "Tue, 17 Nov 2026 14:31:27 +0100",
+    "source": "Kölnische Rundschau Oberberg",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-17T17:17:25.381154",
+    "feed_kommunen": []
   },
   {
     "id": "d967b68ffd5c",
