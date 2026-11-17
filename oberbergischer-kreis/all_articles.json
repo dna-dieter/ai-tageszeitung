@@ -1,5 +1,48 @@
 [
   {
+    "id": "fcdf2bf210f7",
+    "title": "Die Kreisverwaltung informiert!",
+    "summary": "Kabelchaos und Kerzenschein: Brandschutz während der Vorweihnachtszeit beachten!",
+    "link": "https://www.engelskirchen.de/portal/meldungen/die-kreisverwaltung-informiert--900002525-23501.html?rubrik=900000002",
+    "published": "Tue, 17 Nov 2026 16:04:00 +0100",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-17T16:17:39.770749",
+    "feed_kommunen": [
+      "engelskirchen"
+    ]
+  },
+  {
+    "id": "4a9ea0d612c9",
+    "title": "Prozess am Landgericht: Falsche Polizisten machten auch in Gummersbach Beute",
+    "summary": "Gummersbach/Köln – Zwei Männer und eine Frau müssen sich seit Montag vor dem Landgericht Köln verantworten – Sie sollen ältere Menschen um ihr Erspartes gebracht haben - Gummersbacherin (84) übergab 7.600 Euro.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/prozess-am-landgericht--falsche-polizisten-machten-auch-in-gummersbach-beute-a-140573",
+    "published": "Tue, 17 Nov 2026 15:30:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-17T16:17:37.379834",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1c213322281b",
+    "title": "Steueramt schließt am 19. November um 16.30 Uhr",
+    "summary": "Interne Veranstaltung",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/steueramt-schliesst-am-19-november-um-16-30-uhr-900000742-37660.html?rubrik=900000002",
+    "published": "Tue, 17 Nov 2026 15:17:00 +0100",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-17T16:17:45.184680",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
     "id": "67819051e440",
     "title": "Herzmedizin hautnah erleben",
     "summary": "Waldbröl - Rund 170 Besucherinnen und Besucher beim Herztag im Kreiskrankenhaus Waldbröl.",

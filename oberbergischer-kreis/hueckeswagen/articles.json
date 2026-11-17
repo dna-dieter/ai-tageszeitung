@@ -1,5 +1,20 @@
 [
   {
+    "id": "1c213322281b",
+    "title": "Steueramt schließt am 19. November um 16.30 Uhr",
+    "summary": "Interne Veranstaltung",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/steueramt-schliesst-am-19-november-um-16-30-uhr-900000742-37660.html?rubrik=900000002",
+    "published": "Tue, 17 Nov 2026 15:17:00 +0100",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-17T16:17:45.184680",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
     "id": "c2b2aa774319",
     "title": "Bürgerservice der Schloss-Stadt Hückeswagen startet im Familienbüro der Caritas Oberberg in Wiehagen",
     "summary": "Die Stadtverwaltung erweitert ihr Serviceangebot: Mit dem neuen Bürgerservice im Familienbüro der Caritas Oberberg in Wiehagen entsteht ein wohnortnaher Verwaltungsstandort mit zahlreichen Serviceangeboten des Bürgerbüros.",
