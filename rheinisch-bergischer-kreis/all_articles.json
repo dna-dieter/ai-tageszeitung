@@ -1,5 +1,18 @@
 [
   {
+    "id": "512137d4294d",
+    "title": "Weihnachtsmarkt vor dem Rathaus öffnet am Donnerstag",
+    "summary": "Nach dem Frühstart in Bensberg und Refrath wird am Donnerstag auch der zentrale Weihnachtsmarkt auf dem Konrad-Adenauer-Platz eröffnet. Nach und nach folgen viele weitere Weihnachtsmärkte in der Stadt und in der Region. Auch der Zanders-Zauber kehrt nach der Premiere im vergangenen Jahr zurück - mit einer leichten Verschiebung des Ortes.",
+    "link": "https://in-gl.de/2026/11/17/schoene-weihnachtsmaerkte-in-bergisch-gladbach-und-umgebung/",
+    "published": "Tue, 17 Nov 2026 17:21:29 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-17T19:15:43.686279",
+    "feed_kommunen": []
+  },
+  {
     "id": "af9ac81d3d86",
     "title": "Ausgehen am Wochenende",
     "summary": "Wer die Couch und die Wolldecke gegen gute Live-Unterhaltung tauschen möchte, kommt am Wochenende voll auf seine Kosten. Bunt und schrill wird es mit Ham & Egg im Roatationstheater, eine Lesung mit dem feinen Humor von Loriot gibt es im Teo Otto Theater und Derrin Nauendorf schaut im Löf vorbei.",
@@ -222,6 +235,19 @@
     "feed_kommunen": [
       "wermelskirchen"
     ]
+  },
+  {
+    "id": "4f5e06ec7ae1",
+    "title": "Kunstbasar vereint Kreativität, Vielfalt und gelebte Solidarität",
+    "summary": "Mehr als 80 Kunsthandwerkerinnen, ein vielfältiges Angebot und jede Menge Unterhaltung: Der Terre des Hommes-Kunstbasar 2026 begeisterte erneut mit handgefertigten Unikaten und einem abwechslungsreichen Programm für Groß und Klein.",
+    "link": "https://in-gl.de/2026/11/17/kunstbasar-vereint-kreativitaet-vielfalt-und-gelebte-solidaritaet/",
+    "published": "Tue, 17 Nov 2026 08:24:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-17T19:15:43.687583",
+    "feed_kommunen": []
   },
   {
     "id": "6b55a08f3f19",
@@ -3460,19 +3486,6 @@
     "feed_kommunen": [
       "leichlingen"
     ]
-  },
-  {
-    "id": "32d592287072",
-    "title": "Schöne Weihnachtsmärkte in Bergisch Gladbach und Umgebung",
-    "summary": "Die Saison der Weihnachtsmärkte ist in den Startlöchern, mit den bekannten Treffpunkten in der Innenstadt und den Stadtteilen. Aber auch in der näheren Umgebung gibt es einige empfehlenswerte Weihnachtsmärkte, große und kleine.",
-    "link": "https://in-gl.de/2026/11/07/schoene-weihnachtsmaerkte-in-bergisch-gladbach-und-umgebung/",
-    "published": "Sat, 07 Nov 2026 07:54:00 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "bergisch-gladbach"
-    ],
-    "fetched": "2026-11-08T22:15:35.996635",
-    "feed_kommunen": []
   },
   {
     "id": "d7419c6593d0",
