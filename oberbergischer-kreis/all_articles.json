@@ -1,5 +1,46 @@
 [
   {
+    "id": "5a69e2f348d5",
+    "title": "(Update 3) Starkregen und Sturm: Dauerregen trifft auf niedrige Talsperren",
+    "summary": "Update: DWD warnt den Oberbergischen Kreis von Dienstag, 18 Uhr, bis Freitag, 18 Uhr, vor Dauerregen mit rund 60 Litern pro Quadratmeter. Bis Dienstagabend Sturmböen bis 75 km/h. Talsperren im Bergischen nach zwei Dürrejahren niedrig.",
+    "link": "https://www.news-on-tour.de/346201/starkregen-nrw-bergisches-land-sturm/",
+    "published": "Tue, 17 Nov 2026 17:06:35 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-17T18:17:21.978142",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4d500639f52a",
+    "title": "Wenn die Silvesterparty aus dem Ruder läuft",
+    "summary": "Waldbröl – 41-Jähriger musste sich heute wegen mehrerer Delikte vor dem Amtsgericht verantworten – Polizisten wurden im Alkoholrausch mit Blut bespuckt und beleidigt.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/wenn-die-silvesterparty-aus-dem-ruder-l--uft-a-140574",
+    "published": "Tue, 17 Nov 2026 18:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-17T18:17:29.296708",
+    "feed_kommunen": []
+  },
+  {
+    "id": "af9ac81d3d86",
+    "title": "Ausgehen am Wochenende",
+    "summary": "Wer die Couch und die Wolldecke gegen gute Live-Unterhaltung tauschen möchte, kommt am Wochenende voll auf seine Kosten. Bunt und schrill wird es mit Ham & Egg im Roatationstheater, eine Lesung mit dem feinen Humor von Loriot gibt es im Teo Otto Theater und Derrin Nauendorf schaut im Löf vorbei.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/ausgehen-am-wochenende-NPHASKVI5VCJHOBLXAKIW7SKB4.html",
+    "published": "Tue, 17 Nov 2026 17:30:00 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-17T18:17:23.173981",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
     "id": "eb4f0a895ee0",
     "title": "Gestohlene iPads tauchen wieder auf",
     "summary": "Erfreuliche Wendung nach einem Einbruch in eine Radevormwalder Grundschule: Die Ende Juli gestohlenen 32 iPads sind wieder aufgetaucht.",
@@ -56,16 +97,16 @@
     "feed_kommunen": []
   },
   {
-    "id": "0f71873d5ebc",
-    "title": "(Update 2) Starkregen und Sturm: Dauerregen-Warnung für Oberberg",
-    "summary": "Update: DWD warnt den Oberbergischen Kreis von Dienstag, 18 Uhr, bis Freitag, 18 Uhr, vor Dauerregen mit rund 60 Litern pro Quadratmeter. Bis Dienstagabend Sturmböen bis 75 km/h.",
-    "link": "https://www.news-on-tour.de/346201/starkregen-nrw-bergisches-land-sturm/",
-    "published": "Tue, 17 Nov 2026 15:25:57 +0000",
-    "source": "NEWS-on-Tour Oberberg",
+    "id": "5f1074eb22d8",
+    "title": "Halle 32: Gratis-Oper in Gummersbach: Donizettis „Don Pasquale“ live",
+    "summary": "Die Gummersbacher Philharmoniker spielen Donizettis „Don Pasquale“ auf Deutsch, mit Solisten aus aller Welt – der Eintritt ist frei, um eine Türkollekte wird gebeten.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/gummersbach-gratis-oper-don-pasquale-in-der-halle-32-1418906",
+    "published": "Tue, 17 Nov 2026 16:22:29 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
     "kommunen": [
-      "kreisweite-nachrichten"
+      "gummersbach"
     ],
-    "fetched": "2026-11-17T17:17:20.580051",
+    "fetched": "2026-11-17T18:17:28.091748",
     "feed_kommunen": []
   },
   {
@@ -138,16 +179,16 @@
     "feed_kommunen": []
   },
   {
-    "id": "77ab3acdf86c",
+    "id": "0f957b2ecea6",
     "title": "Weihnachtspost aus aller Welt: Tausende Wunschzettel fürs Christkind in Engelskirchen eingetroffen",
     "summary": "Christkindpost Engelskirchen: Briefe von Kindern aus aller Welt sind eingetroffen, Antworten bis 17. Dezember.",
-    "link": "https://www.rundschau-online.de/region/oberberg/engelskirchen/engelskirchen-christkind-erhaelt-tausende-wunschzettel-aus-aller-welt-1418783",
+    "link": "https://www.ksta.de/region/oberberg/engelskirchen/engelskirchen-christkind-erhaelt-tausende-wunschzettel-aus-aller-welt-1418783",
     "published": "Tue, 17 Nov 2026 14:31:27 +0100",
-    "source": "Kölnische Rundschau Oberberg",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
     "kommunen": [
       "engelskirchen"
     ],
-    "fetched": "2026-11-17T17:17:25.381154",
+    "fetched": "2026-11-17T18:17:28.091947",
     "feed_kommunen": []
   },
   {

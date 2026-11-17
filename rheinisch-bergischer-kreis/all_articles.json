@@ -1,5 +1,20 @@
 [
   {
+    "id": "af9ac81d3d86",
+    "title": "Ausgehen am Wochenende",
+    "summary": "Wer die Couch und die Wolldecke gegen gute Live-Unterhaltung tauschen möchte, kommt am Wochenende voll auf seine Kosten. Bunt und schrill wird es mit Ham & Egg im Roatationstheater, eine Lesung mit dem feinen Humor von Loriot gibt es im Teo Otto Theater und Derrin Nauendorf schaut im Löf vorbei.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/ausgehen-am-wochenende-NPHASKVI5VCJHOBLXAKIW7SKB4.html",
+    "published": "Tue, 17 Nov 2026 17:30:00 +0100",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-11-17T18:16:05.263638",
+    "feed_kommunen": [
+      "wermelskirchen"
+    ]
+  },
+  {
     "id": "eccb5a89827a",
     "title": "Wuppergebiet erlebt zweites Dürrejahr in Folge",
     "summary": "Ein außergewöhnlich nasser Oktober hat das Wasserwirtschaftsjahr 2026 im Wuppergebiet beendet. An der angespannten Gesamtlage ändert das jedoch wenig: Nach Angaben des Wupperverbands war 2026 bereits das zweite Dürrejahr in Folge. Im Oktober fielen an den Messstellen im Wuppergebiet zwischen 109 und 161 Litern Regen pro Quadratmeter. Besonders ergiebig waren der 23. und 24. Oktober. […] The post W",
@@ -10,6 +25,19 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-11-17T17:15:51.216093",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2235c02e3a29",
+    "title": "Stadthäuser, Zanders-Areal und Bahnhof: Kölner Büro plant Gladbachs Innenstadt neu",
+    "summary": "Ein Kölner Büro soll in anderthalb bis zwei Jahren Szenarien für Stadthäuser, Zanders-Areal und Bahnhof entwerfen; auch die Bürger sollen früh mitreden.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/bergisch-gladbach-koelner-buero-plant-innenstadt-neu-1418911",
+    "published": "Tue, 17 Nov 2026 16:24:19 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-17T18:16:08.915684",
     "feed_kommunen": []
   },
   {
@@ -140,6 +168,19 @@
     "feed_kommunen": [
       "burscheid"
     ]
+  },
+  {
+    "id": "759e2468bf60",
+    "title": "DeVi-Mahnwache zum Jahrestag der Reichspogromnacht",
+    "summary": "Bei der Mahnwache des Vereins „Bergisch Gladbach für Demokratie und Vielfalt“ stand eine Zeitreise im Mittelpunkt: Von der Reichspogromnacht 1938 zu den rassistischen Ausschreitungen in Rostock-Lichtenhagen im August 1992 bis zu einer fiktiven Situation im Jahr 2033.",
+    "link": "https://in-gl.de/2026/11/17/devi-mahnwache-zum-jahrestag-der-reichspogromnacht/",
+    "published": "Tue, 17 Nov 2026 09:54:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-17T18:15:55.610213",
+    "feed_kommunen": []
   },
   {
     "id": "7d70e3edf98d",
