@@ -1,5 +1,34 @@
 [
   {
+    "id": "d967b68ffd5c",
+    "title": "Zwei Verletzte bei Auffahrunfall an der Anschlussstelle Engelskirchen",
+    "summary": "Engelskirchen – Am Montagmorgen krachte es auf der Abfahrt zur Umleitungsstrecke an der A4.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/zwei-verletzte-bei-auffahrunfall-an-der-anschlussstelle-engelskirchen-a-140549",
+    "published": "Tue, 17 Nov 2026 10:25:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-17T11:17:32.572696",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7d74140edd5a",
+    "title": "Engelskirchen: Zwei Unfälle – Auffahrunfall mit zwei Leichtverletzten, dazu Einbrüche",
+    "summary": "Zwei Unfälle: Auffahrunfall in Engelskirchen mit zwei Leichtverletzten, Zusammenstoß in Waldbröl – dazu Einbrüche in Wiehl und Hückeswagen.",
+    "link": "https://www.news-on-tour.de/346328/engelskirchen-auffahrunfall-l302/",
+    "published": "Tue, 17 Nov 2026 09:18:01 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl",
+      "hueckeswagen",
+      "waldbroel",
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-17T11:17:25.253789",
+    "feed_kommunen": []
+  },
+  {
     "id": "afdfce0526b2",
     "title": "POL-GM: Lkw kommt bei Kaltenbach von der Straße ab",
     "summary": "Engelskirchen (ots) - Am Montagabend (16. November) ist auf der L302 bei Kaltenbach ein Sattelzug von der Straße abgekommen und in den Straßengraben gerutscht. Dabei kippte der Lastwagen auf die Seite. Der Fahrer blieb unverletzt. Die Bergung des ...",

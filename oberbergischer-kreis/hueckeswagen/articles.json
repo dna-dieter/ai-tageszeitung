@@ -1,5 +1,48 @@
 [
   {
+    "id": "42374ba75ddd",
+    "title": "Hückeswagen: Bürgerservice startet in Wiehagen – dienstags ohne Termin",
+    "summary": "Bürgerservice im Familienbüro der Caritas Oberberg: Ab 1. Dezember beantragen Hückeswagener Ausweis und Reisepass dienstags auch in Wiehagen.",
+    "link": "https://www.news-on-tour.de/346334/hueckeswagen-buergerservice-wiehagen/",
+    "published": "Tue, 17 Nov 2026 09:43:27 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-17T11:17:25.253686",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a89d83fd4933",
+    "title": "Diebe stehlen Werkzeuge aus Firma und von einer Baustelle",
+    "summary": "Oberberg - In Hückeswagen versuchten Einbrecher, bei zwei Unternehmen einzusteigen - In Bielstein schnitten Unbekannte die Rückwand eines Containers auf.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/diebe-stehlen-werkzeuge-aus-firma-und-von-einer-baustelle-a-140548",
+    "published": "Tue, 17 Nov 2026 10:22:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-17T11:17:32.572789",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7d74140edd5a",
+    "title": "Engelskirchen: Zwei Unfälle – Auffahrunfall mit zwei Leichtverletzten, dazu Einbrüche",
+    "summary": "Zwei Unfälle: Auffahrunfall in Engelskirchen mit zwei Leichtverletzten, Zusammenstoß in Waldbröl – dazu Einbrüche in Wiehl und Hückeswagen.",
+    "link": "https://www.news-on-tour.de/346328/engelskirchen-auffahrunfall-l302/",
+    "published": "Tue, 17 Nov 2026 09:18:01 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl",
+      "hueckeswagen",
+      "waldbroel",
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-17T11:17:25.253789",
+    "feed_kommunen": []
+  },
+  {
     "id": "b85847523173",
     "title": "POL-GM: Einbrüche in zwei Firmen in Hückeswagen",
     "summary": "Hückeswagen (ots) - Zwischen Freitag (13. November), 22 Uhr, und Montag (16. November), 6 Uhr, wollten Unbekannte, in die Produktionshalle einer Metallwarenfirma in der Straße Stahlschmidtsbrücke in Kobeshofen einbrechen. Dazu beschädigten sie ...",

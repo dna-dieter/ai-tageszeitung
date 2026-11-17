@@ -1,5 +1,18 @@
 [
   {
+    "id": "77b5537c221e",
+    "title": "POL-RBK: Bergisch Gladbach - Bargeld aus Lebensmittelgeschäft in der Innenstadt entwendet",
+    "summary": "Bergisch Gladbach (ots) - Am Montagmorgen (16.11.) wurde die Polizei gegen 09:00 Uhr zu einem Lebensmittelgeschäft in der Straße Am Alten Pastorat in der Bergisch Gladbacher Innenstadt gerufen. Bislang unbekannte Täter waren in das dortige ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6392117",
+    "published": "Tue, 17 Nov 2026 10:26:24 +0100",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-17T11:16:07.304976",
+    "feed_kommunen": []
+  },
+  {
     "id": "c99a1ce08b7a",
     "title": "Heimat-Preis für Greifvogel- und Wildschutz",
     "summary": "Mit Uhu Henry und Falken-Dame Ella an seiner Seite steht der Zwölfjährige Toni stellvertretend für den ersten Platz des Heimat-Preises 2026. Die Auszeichnung ist mit 5000 Euro dotiert.",
@@ -326,6 +339,21 @@
     ],
     "fetched": "2026-11-16T13:16:08.523313",
     "feed_kommunen": []
+  },
+  {
+    "id": "4c2771ad688d",
+    "title": "Wegebauarbeiten auf dem Burscheider Friedhof",
+    "summary": "Ab Montag, 23. November 2026 bis voraussichtlich Ende Januar 2027",
+    "link": "https://www.burscheid.de/portal/meldungen/wegebauarbeiten-auf-dem-burscheider-friedhof-900000728-40230.html?rubrik=900000001",
+    "published": "Mon, 16 Nov 2026 12:01:00 +0100",
+    "source": "Stadt Burscheid (offiziell)",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-17T11:16:11.716820",
+    "feed_kommunen": [
+      "burscheid"
+    ]
   },
   {
     "id": "8f014bbc211c",

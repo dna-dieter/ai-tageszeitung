@@ -1,5 +1,129 @@
 [
   {
+    "id": "3f50000399dc",
+    "title": "HBD dreht das Löwenduell mit großem Kämpferherz",
+    "summary": "Oberberg - Die HBD Löwen Oberberg II gewinnen das Topspiel der Regionsoberliga in Marienheide mit 29:27 - Die Heier Löwen führen mehr als 50 Minuten, doch die Gäste belohnen sich für eine leidenschaftliche Aufholjagd.",
+    "link": "http://www.oberberg-aktuell.de/handball/hbd-dreht-das-l--wenduell-mit-gro--em-k--mpferherz-a-140554",
+    "published": "Tue, 17 Nov 2026 11:10:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-11-17T11:17:32.572376",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5b3912e4bb66",
+    "title": "Selbsthilfegruppe in Windeck bietet Unterstützung nach Suizid",
+    "summary": "Etwa 10.000 Menschen nehmen sich jedes Jahr in Deutschland das Leben. Für die Hinterbliebenen verändert sich in einem einzigen Augenblick ihr ganzes Dasein. Nichts ist mehr so, wie es war. […]",
+    "link": "https://www.waldbroel.de/selbsthilfegruppe-in-windeck-bietet-unterstuetzung-nach-suizid/",
+    "published": "Tue, 17 Nov 2026 09:53:33 +0000",
+    "source": "Stadt Waldbröl (offiziell)",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-17T11:17:36.214677",
+    "feed_kommunen": [
+      "waldbroel"
+    ]
+  },
+  {
+    "id": "d3bdd60abda0",
+    "title": "Der neue Stadtmeister im Schach ist der alte",
+    "summary": "Bergneustadt - Frank Chlechowitz verteidigt seinen Titel – Bei den Junioren holt Jan Kirchner im Stichkampf den Sieg.",
+    "link": "http://www.oberberg-aktuell.de/sportmix/der-neue-stadtmeister-im-schach-ist-der-alte-a-140552",
+    "published": "Tue, 17 Nov 2026 10:50:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-11-17T11:17:32.572468",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e731666b9259",
+    "title": "70 Jahre „Tabula rasa“ und noch lange nicht von der Bahn zu kegeln",
+    "summary": "Morsbach - Der Kegelclub hat seit 70 Jahren alle Neune im Visier.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/---jahre----tabula-rasa----und-noch-lange-nicht-von-der-bahn-zu-kegeln-a-140551",
+    "published": "Tue, 17 Nov 2026 10:44:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-11-17T11:17:32.572548",
+    "feed_kommunen": []
+  },
+  {
+    "id": "42374ba75ddd",
+    "title": "Hückeswagen: Bürgerservice startet in Wiehagen – dienstags ohne Termin",
+    "summary": "Bürgerservice im Familienbüro der Caritas Oberberg: Ab 1. Dezember beantragen Hückeswagener Ausweis und Reisepass dienstags auch in Wiehagen.",
+    "link": "https://www.news-on-tour.de/346334/hueckeswagen-buergerservice-wiehagen/",
+    "published": "Tue, 17 Nov 2026 09:43:27 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-17T11:17:25.253686",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4d208e4ce5f2",
+    "title": "Eine Leichtverletzte bei Unfall in Waldbröl",
+    "summary": "Waldbröl - Bei einem Verkehrsunfall auf der Brölstraße wurde am Montagmorgen eine Nümbrechterin (30) verletzt worden.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/eine-leichtverletzte-bei-unfall-in-waldbr--l-a-140550",
+    "published": "Tue, 17 Nov 2026 10:32:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "nuembrecht",
+      "waldbroel"
+    ],
+    "fetched": "2026-11-17T11:17:32.572621",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d967b68ffd5c",
+    "title": "Zwei Verletzte bei Auffahrunfall an der Anschlussstelle Engelskirchen",
+    "summary": "Engelskirchen – Am Montagmorgen krachte es auf der Abfahrt zur Umleitungsstrecke an der A4.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/zwei-verletzte-bei-auffahrunfall-an-der-anschlussstelle-engelskirchen-a-140549",
+    "published": "Tue, 17 Nov 2026 10:25:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-17T11:17:32.572696",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a89d83fd4933",
+    "title": "Diebe stehlen Werkzeuge aus Firma und von einer Baustelle",
+    "summary": "Oberberg - In Hückeswagen versuchten Einbrecher, bei zwei Unternehmen einzusteigen - In Bielstein schnitten Unbekannte die Rückwand eines Containers auf.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/diebe-stehlen-werkzeuge-aus-firma-und-von-einer-baustelle-a-140548",
+    "published": "Tue, 17 Nov 2026 10:22:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-17T11:17:32.572789",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7d74140edd5a",
+    "title": "Engelskirchen: Zwei Unfälle – Auffahrunfall mit zwei Leichtverletzten, dazu Einbrüche",
+    "summary": "Zwei Unfälle: Auffahrunfall in Engelskirchen mit zwei Leichtverletzten, Zusammenstoß in Waldbröl – dazu Einbrüche in Wiehl und Hückeswagen.",
+    "link": "https://www.news-on-tour.de/346328/engelskirchen-auffahrunfall-l302/",
+    "published": "Tue, 17 Nov 2026 09:18:01 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl",
+      "hueckeswagen",
+      "waldbroel",
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-17T11:17:25.253789",
+    "feed_kommunen": []
+  },
+  {
     "id": "eeafa2bde741",
     "title": "Waldbröl sucht den Superweihnachtsbaum",
     "summary": "Vom 28.11. bis 15.12. 2026 „Waldbröl sucht den Superweihnachtsbaum“ ist die beliebte Weihnachtsbaumschmück-Challenge von Panarbora, welche in diesem Jahr bereits ihr fünfjähriges Jubiläum feiert! Das haben wir zum Anlass genommen, […]",
