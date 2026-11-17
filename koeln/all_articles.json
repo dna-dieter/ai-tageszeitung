@@ -1,5 +1,57 @@
 [
   {
+    "id": "7a5a201ee336",
+    "title": "Gymnasium braucht die Räume: Hauptschule am Rhein steht erneut auf dem Prüfstand",
+    "summary": "Die Stadt Köln plant erneut die Schließung der Katholischen Hauptschule am Rhein, um Raum für das Gymnasium Neustadt-Nord zu schaffen.",
+    "link": "https://www.ksta.de/koeln/koelner-innenstadt/altstadt-nord/katholische-hauptschule-am-rhein-steht-erneut-vor-dem-aus-1416299",
+    "published": "Tue, 17 Nov 2026 10:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-17T10:18:43.379968",
+    "feed_kommunen": []
+  },
+  {
+    "id": "aab5716d4f2a",
+    "title": "Beschluss der BV-Innenstadt: Schulentwicklungsplan soll Wegzug von Familien berücksichtigen",
+    "summary": "Die Bezirksvertretung Innenstadt fordert, den Wegzug von Familien bei der Schulentwicklungsplanung zu berücksichtigen und Schulkapazitäten zu erhalten.",
+    "link": "https://www.ksta.de/koeln/koelner-innenstadt/beschluss-der-bv-innenstadtschulentwicklungsplan-soll-wegzug-von-familien-beruecksichtigen-1416096",
+    "published": "Tue, 17 Nov 2026 10:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-17T10:18:43.379995",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b926595f0120",
+    "title": "Weihnachtsgeschenke für Obdachlose: Kölner Verein Straßenwächter startet Spendenaktion",
+    "summary": "Der Verein Straßenwächter sammelt bis zum 18. Dezember Schuhkartons mit Geschenken für Obdachlose in Köln. Hier erfahren Sie, was hinein darf.",
+    "link": "https://www.ksta.de/koeln/koelner-verein-sammelt-weihnachtsgeschenke-fuer-obdachlose-1418485",
+    "published": "Tue, 17 Nov 2026 09:36:35 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-17T10:18:43.380012",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ffebf84f7679",
+    "title": "Kölner Kulturkomplex am Dom: Bau-Experte: „Denkmalschutz reduziert die Freiheiten“",
+    "summary": "Mit einer 360-Grad-Analyse will die Stadt Köln die Betriebssicherheit von Museum Ludwig und Philharmonie bis zur Generalsanierung gewährleisten.",
+    "link": "https://www.ksta.de/koeln/museum-ludwig-und-philharmonie-stadt-plant-360-grad-analyse-1417945",
+    "published": "Tue, 17 Nov 2026 09:23:47 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-17T10:18:43.380036",
+    "feed_kommunen": []
+  },
+  {
     "id": "32efbb01d1fe",
     "title": "Staatsanwaltschaft Köln beteiligt: Große Razzia gegen Schwarzarbeit in der Security-Branche",
     "summary": "Am Dienstag finden bundesweit Maßnahmen des Zolls gegen Sozialversicherungsbetrug statt. Der Auftrag erging auch von der Staatsanwaltschaft Köln.",
