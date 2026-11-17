@@ -1,5 +1,70 @@
 [
   {
+    "id": "50a7f8235539",
+    "title": "Köln-Ehrenfeld mal anders: Bei dieser Aktion können sich Fremde kennenlernen",
+    "summary": "Der Verein Köln spricht lädt am 20. November zu einem Veedels-Spaziergang und Austausch ein, um Ehrenfelder Initiativen kennenzulernen.",
+    "link": "https://www.ksta.de/koeln/ehrenfeld/ehrenfeld/datenight-mit-ehrenfeld-verein-laedt-zum-veedels-spaziergang-und-austausch-ein-1418682",
+    "published": "Tue, 17 Nov 2026 13:29:47 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-17T14:19:01.075191",
+    "feed_kommunen": []
+  },
+  {
+    "id": "818a1ca44d16",
+    "title": "Betrugsmasche in Köln-Ehrenfeld: Polizei warnt vor gefälschten QR-Codes auf Parkautomaten",
+    "summary": "In Köln-Ehrenfeld wurde ein manipulierter Parkautomat entdeckt. Die Polizei warnt vor gefälschten QR-Codes, mit denen Betrüger Kreditkartendaten abgreifen.",
+    "link": "https://www.ksta.de/koeln/ehrenfeld/ehrenfeld/koeln-polizei-warnt-vor-gefaelschten-qr-codes-auf-parkautomaten-1418672",
+    "published": "Tue, 17 Nov 2026 13:06:20 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-17T14:19:01.075219",
+    "feed_kommunen": []
+  },
+  {
+    "id": "309e45b456da",
+    "title": "Ausstellungseröffnung im Belgischen Viertel: Der Verein 68elf zeigt künstlerische Reflexionen zum Thema „Kunsthure“",
+    "summary": "Ab dem 20. November zeigt der Kunstverein 68elf im Odoart rund 20 Positionen zum Kunstmarkt, zu Sexismus und zum Begriff „Kunsthure“.",
+    "link": "https://www.ksta.de/koeln/koelner-innenstadt/neustadt-nord/kunstverein-68elf-zeigt-kunstmarkt-kritik-in-koeln-ab-20-november-1412319",
+    "published": "Tue, 17 Nov 2026 13:01:39 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-17T14:19:01.075242",
+    "feed_kommunen": []
+  },
+  {
+    "id": "10fc8eb4dce2",
+    "title": "Stadt Köln erweitert digitales Angebot zur Suche nach Betreuungsplatz",
+    "summary": "17. November 2026, 12:54Kindertagespflege ab Dezember im Online-Vormerksystem \"Little Bird“ integriert",
+    "link": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/stadt-koeln-erweitert-digitales-angebot-zur-suche-nach-betreuungsplatz",
+    "published": "Tue, 17 Nov 2026 12:54:00 +0100",
+    "source": "Stadt Köln Pressemeldungen",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-17T14:19:00.741773",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c9dab766938b",
+    "title": "Cybermobbing: Neue Studie zeigt alarmierende Zahlen",
+    "summary": "Die aktuelle Cyberlife-Studie belegt einen Anstieg digitaler Gewalt unter Schülern. Experten fordern mehr Prävention und ein spezielles Gesetz.",
+    "link": "https://www.ksta.de/wir-helfen/cybermobbing-neue-studie-zeigt-alarmierende-zahlen-bei-schuelern-1416192",
+    "published": "Tue, 17 Nov 2026 12:54:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-17T14:19:01.075259",
+    "feed_kommunen": []
+  },
+  {
     "id": "43205c20f95e",
     "title": "Museum Ludwig/Philharmonie: Denkmalschutz allein nicht schuld an Kostenexplosionen",
     "summary": "Die Stadt Köln prüft den Denkmalschutz für Museum Ludwig und Philharmonie. Doch neben der Sanierung muss auch die Finanzplanung hinterfragt werden.",
@@ -23,6 +88,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-17T12:18:40.695963",
+    "feed_kommunen": []
+  },
+  {
+    "id": "baf3a92eb8ae",
+    "title": "Besinnliches Programm: Alle kölschen Weihnachtsshows im Überblick",
+    "summary": "Von Konzerten bis hin zu Shows: Hier finden Sie eine Übersicht der vielfältigen weihnachtlichen Veranstaltungen in Köln und Umgebung.",
+    "link": "https://www.ksta.de/koeln/weihnachtskonzerte-in-koeln-termine-gaeste-infos-im-ueberblick-1418632",
+    "published": "Tue, 17 Nov 2026 11:51:31 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-17T14:19:01.075302",
     "feed_kommunen": []
   },
   {
