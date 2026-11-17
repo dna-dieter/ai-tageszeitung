@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Refrather Weihnachtsdorf",
-    "datum": "17. Nov 2026",
-    "datum_raw": "2026-11-17T15:00:00+01:00",
-    "ort": "Peter Bürling, Peter-Bürling Platz, 51427 Bergisch Gladbach",
-    "preis": "",
-    "link": "https://www.refrather-weihnachtsdorf.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Vom 16. November bis 23. Dezember 2026 öffnet das Refrather Weihnachtsdorf seine Pforten. Feiern und genießen mitten im Herzen Refraths: Euch erwartet ein stimmungsvoller Markt mit kulinarischen Advents-Klassikern und li"
-  },
-  {
     "titel": "Prinz Karneval – Alaaf",
     "datum": "17. Nov 2026",
     "datum_raw": "2026-11-17T16:00:00+01:00",
@@ -48,6 +38,16 @@
     "link": "https://www.schloss-eulenbroich.de/news/4075/4-roesrather-schlossgespraech",
     "quelle": "Das Bergische",
     "teaser": "Frank Schätzing ist Gesprächsgast beim inzwischen 4. Rösrather Schlossgespräch. Am Dienstag, den 17. November 2026, wird sich der bekannte Schriftsteller um 19.30 Uhr im Bergischen Saal auf Schloss Eulenbroich in Rösrath"
+  },
+  {
+    "titel": "Refrather Weihnachtsdorf",
+    "datum": "18. Nov 2026",
+    "datum_raw": "2026-11-18T15:00:00+01:00",
+    "ort": "Peter Bürling, Peter-Bürling Platz, 51427 Bergisch Gladbach",
+    "preis": "",
+    "link": "https://www.refrather-weihnachtsdorf.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Vom 16. November bis 23. Dezember 2026 öffnet das Refrather Weihnachtsdorf seine Pforten. Feiern und genießen mitten im Herzen Refraths: Euch erwartet ein stimmungsvoller Markt mit kulinarischen Advents-Klassikern und li"
   },
   {
     "titel": "Traditions-Weihnachtsmarkt Bergisch Gladbach Stadtmitte",
