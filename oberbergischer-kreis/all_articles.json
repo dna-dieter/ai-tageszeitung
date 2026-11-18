@@ -1,5 +1,31 @@
 [
   {
+    "id": "fea1f566a353",
+    "title": "Bitola: Niederlage nach 14:9-Führung – VfL Gummersbach unterliegt 28:29",
+    "summary": "Nach 14:9 zur Halbzeit verliert der VfL Gummersbach am 17. November bei Pelister mit 28:29 und fällt in Gruppe G auf Tabellenplatz zwei.",
+    "link": "https://www.news-on-tour.de/346404/bitola-niederlage-pelister/",
+    "published": "Wed, 18 Nov 2026 02:09:05 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-18T03:17:23.164407",
+    "feed_kommunen": []
+  },
+  {
+    "id": "94e983c6901d",
+    "title": "Gummersbach: Aktionstag gegen Gewalt – Beratung und Aktionen im Forum",
+    "summary": "Aktionstag gegen Gewalt am 25. November: Im Forum Gummersbach gibt es Beratung, Mitmachaktionen und kostenlose Selbstbehauptungskurse.",
+    "link": "https://www.news-on-tour.de/346403/gummersbach-aktionstag-gegen-gewalt/",
+    "published": "Wed, 18 Nov 2026 02:07:01 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-18T03:17:23.164578",
+    "feed_kommunen": []
+  },
+  {
     "id": "4aca84f7533d",
     "title": "Gummersbach muss allzu dünner Personaldecke Tribut zollen",
     "summary": "Gummersbach - Bei HC Eurofarm Pelister kassiert das Sigurdsson-Team eine überraschende 28:29 Niederlage nach langer Führung und muss ums Weiterkommen in der European League zittern - 'RPP - Ambulantes Therapie- und Reha-Zentrum' und AggerEnergie präsentieren die Berichterstattung über den VfL Gummersbach.",
@@ -26,16 +52,16 @@
     "feed_kommunen": []
   },
   {
-    "id": "5a69e2f348d5",
-    "title": "(Update 3) Starkregen und Sturm: Dauerregen trifft auf niedrige Talsperren",
-    "summary": "Update: DWD warnt den Oberbergischen Kreis von Dienstag, 18 Uhr, bis Freitag, 18 Uhr, vor Dauerregen mit rund 60 Litern pro Quadratmeter. Bis Dienstagabend Sturmböen bis 75 km/h. Talsperren im Bergischen nach zwei Dürrejahren niedrig.",
+    "id": "e7c3c6275b21",
+    "title": "(Update 3) Starkregen und Sturm: Dauerregen trifft auf halbleere Talsperren",
+    "summary": "Update: DWD warnt den Oberbergischen Kreis von Dienstag, 18 Uhr, bis Freitag, 18 Uhr, vor Dauerregen mit rund 60 Litern pro Quadratmeter. Bis Dienstagabend Sturmböen bis 75 km/h. Talsperren im Bergischen nach zwei Dürrejahren nur zu einem Drittel bis zur Hälfte gefüllt.",
     "link": "https://www.news-on-tour.de/346201/starkregen-nrw-bergisches-land-sturm/",
     "published": "Tue, 17 Nov 2026 17:06:35 +0000",
     "source": "NEWS-on-Tour Oberberg",
     "kommunen": [
       "kreisweite-nachrichten"
     ],
-    "fetched": "2026-11-17T18:17:21.978142",
+    "fetched": "2026-11-18T03:17:23.165074",
     "feed_kommunen": []
   },
   {
