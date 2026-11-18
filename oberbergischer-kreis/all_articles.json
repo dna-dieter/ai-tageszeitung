@@ -1,5 +1,46 @@
 [
   {
+    "id": "2cf472422ef7",
+    "title": "Engelskirchen: Zwei Frauen bei Verkehrsunfall verletzt – zweiter Unfall in Nümbrecht",
+    "summary": "Verkehrsunfall in Engelskirchen: Zwei Frauen an der L302 leicht verletzt. Zweiter Unfall in Nümbrecht, Einbruchsversuch in Marienheide.",
+    "link": "https://www.news-on-tour.de/346424/engelskirchen-verkehrsunfall-l302/",
+    "published": "Wed, 18 Nov 2026 11:32:25 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "marienheide",
+      "engelskirchen",
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-18T13:17:29.855513",
+    "feed_kommunen": []
+  },
+  {
+    "id": "0ec891063e1c",
+    "title": "Gummersbach: VfL vor schwerem Auswärtsspiel beim TBV Lemgo Lippe",
+    "summary": "VfL Gummersbach tritt am Samstag um 20 Uhr beim TBV Lemgo Lippe an. Nach dem 28:29 in Bitola warnt Miro Schluroff vor schwachen Phasen.",
+    "link": "https://www.news-on-tour.de/346416/gummersbach-auswaertsspiel-lemgo/",
+    "published": "Wed, 18 Nov 2026 11:26:11 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-18T13:17:29.855643",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2983876ecd5f",
+    "title": "Radevormwald: Maschinenbrand in Produktionshalle – Feuerwehr im Einsatz",
+    "summary": "In Radevormwald brennt eine Maschine in einer Produktionshalle der Firma BÖ-LA Siebdrucktechnik an der Dahlienstraße. Feuerwehr und Rettungsdienst sind im Einsatz.",
+    "link": "https://www.news-on-tour.de/346417/radevormwald-maschinenbrand/",
+    "published": "Wed, 18 Nov 2026 11:20:59 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-11-18T13:17:29.855800",
+    "feed_kommunen": []
+  },
+  {
     "id": "34ceca93ddfe",
     "title": "So schlafen Sie gut – Tipps für eine erholsame Nacht",
     "summary": "Oberberg – Viele Menschen finden nachts keine Ruhe – AOK-Experte Thomas Ebel hat einige Empfehlungen, um gut ein- und durchzuschlafen.",
