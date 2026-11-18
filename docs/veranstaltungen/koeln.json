@@ -231,17 +231,6 @@
     "teaser": "16 bis 17 Uhr · Ausgebucht: Bei diesem Rundgang erhalten Sie einen umfassenden Überblick zu den Alltäglichkeiten und Besonderheiten eines modernen Bildarchivs."
   },
   {
-    "titel": "Kaffee, Kuchen und KI",
-    "datum": "19. Nov 2026",
-    "datum_raw": "2026-11-19T00:00:00",
-    "datum_bis": "",
-    "ort": "Interim Zentralbibliothek",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41210/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "16 bis 17 Uhr · Künstliche Intelligenz entdecken im Interim der Zentralbibliothek – eine Veranstaltung im Rahmen der Reihe Digitale Werkstatt."
-  },
-  {
     "titel": "Kreativ-Tag",
     "datum": "19. Nov 2026",
     "datum_raw": "2026-11-19T00:00:00",
@@ -339,6 +328,17 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40884/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "19 Uhr · Der Autor im Gespräch mit Gert Scobel. Im Rahmen unseres Kulturprogramms im Interim Zentralbibliothek."
+  },
+  {
+    "titel": "Abgesagt – Kaffee, Kuchen und KI",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T00:00:00",
+    "datum_bis": "",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41210/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Diese Veranstaltung ist abgesagt. · Diese Veranstaltung ist abgesagt."
   },
   {
     "titel": "Sternengasse in Köln-Altstadt/Süd",

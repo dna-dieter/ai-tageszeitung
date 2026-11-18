@@ -1,5 +1,48 @@
 [
   {
+    "id": "466c71aa57c2",
+    "title": "Bauausschuss am 26.11.2026 um 17.00 Uhr in der Alten Drahtzieherei, Wupperstraße",
+    "summary": "Der Bauausschuss (BA) tagt am 26.11.2026 um 17.00 Uhr in der Alten Drahtzieherei, Wupperstraße 8-10. Der öffentliche Teil beginnt um 17:10 Uhr.",
+    "link": "https://www.wipperfuerth.de/detailansicht/bauausschuss-am-26112026-um-1700-uhr-in-der-alten-drahtzieherei.html",
+    "published": "Wed, 18 Nov 2026 10:10:00 +0100",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-18T10:17:12.181641",
+    "feed_kommunen": [
+      "wipperfuerth"
+    ]
+  },
+  {
+    "id": "e8c24bca5555",
+    "title": "Zeichen gegen Gewalt an Frauen und Mädchen",
+    "summary": "Gummersbach - Oberbergisches Netzwerk organisiert Aktionstag im Forum Gummersbach.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/zeichen-gegen-gewalt-an-frauen-und-maedchen-a-140570",
+    "published": "Wed, 18 Nov 2026 10:02:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-18T10:17:15.206785",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1710aa83a1ee",
+    "title": "Neue Ausstellung im Waldbröler Bürgerdorf eröffnet",
+    "summary": "Im Rahmen der Ausstellungsreihe „Kunst im Rathaus“ stellt die Künstlerin Carmen Brüne-Codrean seit letzter Woche ihre Werke im Waldbröler Bürgerdorf aus. Zur Vernissage am vergangenen Montag sind zahlreiche Gäste erschienen. […]",
+    "link": "https://www.waldbroel.de/neue-ausstellung-im-waldbroeler-buergerdorf-eroeffnet/",
+    "published": "Wed, 18 Nov 2026 08:54:48 +0000",
+    "source": "Stadt Waldbröl (offiziell)",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-18T10:17:19.260201",
+    "feed_kommunen": [
+      "waldbroel"
+    ]
+  },
+  {
     "id": "bde24ee63712",
     "title": "Warum ein WC keine Selbstverständlichkeit ist",
     "summary": "Der 19. November ist der „Welttoilettentag“. Auch wenn der Gang aufs „stille Örtchen“ zumindest hierzulande Normalität ist, sollten doch bestimmte Verhaltensweisen beachtet werden.",
@@ -584,6 +627,19 @@
       "waldbroel"
     ],
     "fetched": "2026-11-17T11:17:32.572621",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5a0a14c6c9c9",
+    "title": "Auffahrunfall an der Anschlussstelle Engelskirchen fordert zwei Verletzte",
+    "summary": "Engelskirchen – Am Montagmorgen krachte es auf der Abfahrt zur Umleitungsstrecke an der A4.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/zwei-verletzte-bei-auffahrunfall-an-der-anschlussstelle-engelskirchen-a-140549",
+    "published": "Tue, 17 Nov 2026 10:25:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-18T10:17:15.208501",
     "feed_kommunen": []
   },
   {
