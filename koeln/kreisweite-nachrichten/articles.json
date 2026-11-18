@@ -1,5 +1,31 @@
 [
   {
+    "id": "d9c5f6e516a2",
+    "title": "Kölner Feuerwehr meldet eine hohe Auslastung: Starkregen und schwere Sturmböen sorgen für zahlreiche Einsätze",
+    "summary": "Nach schweren Sturmböen und Starkregen war die Kölner Feuerwehr im Dauereinsatz. Überflutete Straßen und Sturmschäden prägten die Nacht.",
+    "link": "https://www.ksta.de/koeln/unwetter-in-koeln-zahlreiche-einsaetze-nach-starkregen-und-sturm-1419241",
+    "published": "Wed, 18 Nov 2026 06:43:55 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-18T07:18:43.088818",
+    "feed_kommunen": []
+  },
+  {
+    "id": "545b3dce2614",
+    "title": "Tierschützer warnen: Qualvoller Tod der Tauben auf dem Ex-Großmarkt in Köln?",
+    "summary": "Auf dem Gelände vom ehemaligen Kölner Großmarkt drohen laut Tierschützern Hunderte Tauben zu verhungern. Die Stadt lehnt einen betreuten Taubenwagen ab.",
+    "link": "https://www.ksta.de/koeln/rodenkirchen/raderberg/tauben-am-koelner-grossmarkt-streit-um-fuetterungsverbot-1417715",
+    "published": "Wed, 18 Nov 2026 06:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-18T07:18:43.088836",
+    "feed_kommunen": []
+  },
+  {
     "id": "17d0bed87d8f",
     "title": "Nach Öffnung der Weihnachtsmärkte: So stellt sich Köln auf den Adventansturm ein - 3250 Parkplätze mehr",
     "summary": "Für den Weihnachtsmarktbesuch in Köln stehen zusätzliche Parkplätze und Shuttlebusse bereit. Eine App soll Autofahrer zudem staufrei leiten.",
@@ -10,6 +36,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-18T05:17:57.689189",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1cae66b7f171",
+    "title": "Von Oper bis Dom-Hotel: So wirkte sich der Denkmalschutz auf Kölner Bauprojekte aus",
+    "summary": "Verzögert der Denkmalschutz Bauprojekte in Köln? Ein Blick auf Oper, Bastei und Dom-Hotel zeigt, wie die Auflagen Sanierungen beeinflussen.",
+    "link": "https://www.ksta.de/koeln/oper-so-wirkte-sich-der-denkmalschutz-auf-koelner-bauten-aus-1418856",
+    "published": "Wed, 18 Nov 2026 05:03:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-18T07:18:43.088853",
     "feed_kommunen": []
   },
   {
