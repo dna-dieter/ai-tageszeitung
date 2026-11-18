@@ -1,5 +1,20 @@
 [
   {
+    "id": "97ffea89c338",
+    "title": "Die Seuchenklasse und der Montag auf Asche",
+    "summary": "Gunnar Freudenberg begleitet die Fußballkarriere seines Sohnes Hannes als Co-Trainer in der D-Jugend. Diesmal lernt er: Eine gute Klassengemeinschaft ist prima – bis ein Virus die halbe Mannschaft erwischt.",
+    "link": "https://www.rga.de/lokales/remscheid/die-seuchenklasse-und-der-montag-auf-asche-6XPXGCWLOGYQ2IZOILFWDT7UE4.html",
+    "published": "Wed, 18 Nov 2026 17:30:00 +0100",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-11-18T18:17:12.790651",
+    "feed_kommunen": [
+      "radevormwald"
+    ]
+  },
+  {
     "id": "7fa390ccead5",
     "title": "IB West: Insolvenzverfahren ist aufgehoben",
     "summary": "Waldbröl – Vertreter des Dienstleisters im Sozial- und Bildungsbereich blickten im Ausschuss auf die vergangenen Monate zurück – Sprachinstitut wird von anderem Anbieter übernommen.",
@@ -7194,7 +7209,8 @@
     "source": "Oberberg-Aktuell",
     "kommunen": [
       "engelskirchen",
-      "wiehl"
+      "wiehl",
+      "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-06T14:17:21.686309",
     "feed_kommunen": []

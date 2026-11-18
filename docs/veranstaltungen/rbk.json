@@ -40,16 +40,6 @@
     "teaser": "Der Cirque Bouffon gastiert zum 6. Mal mit einer faszinierenden Dinner-Show \"Femme fatale\" im nostalgischen Spiegelzelt in Altenberg. Das internationale Künstlerensemble des Cirque Bouffon verzaubert sein Publikum im Sti"
   },
   {
-    "titel": "Kölsche Weihnachts Dinnershow",
-    "datum": "20. Nov 2026",
-    "datum_raw": "2026-11-20T19:00:00+01:00",
-    "ort": "Das Esszimmer im Technologie Park, Friedrich-Ebert-Strasse 75, 51429 Bergisch Gladbach",
-    "preis": "ab 79 €",
-    "link": "http://www.das-esszimmer-bensberg.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Kölsche Weihnachtsstimmung, kulinarischer Genuss und erstklassige Live-Musik – am 20. November lädt das Esszimmer zur zweiten Kölschen Weihnachts-Dinner Show ein. Freuen Sie sich auf einen stimmungsvollen Abend mit einem"
-  },
-  {
     "titel": "Lesereise \"Bunte Vielfalt trifft schwarzen Humor\"",
     "datum": "20. Nov 2026",
     "datum_raw": "2026-11-20T19:00:00+01:00",
@@ -58,6 +48,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Das Motto der sechsten Lesereise \"Bunte Vielfalt trifft schwarzen Humor\" steht für die inhaltliche Bandbreite der vorgestellten Romane von zwei Autorinnen und zwei Autoren der finnischen Literaturszene. Ein knallharter K"
+  },
+  {
+    "titel": "Kölsche Weihnachts Dinnershow",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T19:00:00+01:00",
+    "ort": "Das Esszimmer im Technologie Park, Friedrich-Ebert-Strasse 75, 51429 Bergisch Gladbach",
+    "preis": "ab 79 €",
+    "link": "http://www.das-esszimmer-bensberg.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Kölsche Weihnachtsstimmung, kulinarischer Genuss und erstklassige Live-Musik – am 20. November lädt das Esszimmer zur zweiten Kölschen Weihnachts-Dinner Show ein. Freuen Sie sich auf einen stimmungsvollen Abend mit einem"
   },
   {
     "titel": "Gerd J. Pohl liest: Am Abgrund... und einen Schritt weiter",
@@ -80,16 +80,6 @@
     "teaser": "Die Besucher erwartet ein stimmungsvolle Ambiente und eine Vielfalt an regionalem Kunsthandwerk. · Vorführungen des Museumsschmieds, der Spinner und der Weber und der Klang der Drehorgel schaffen eine nostalgische Atmosp"
   },
   {
-    "titel": "Bärbroicher Weihnachtsmarkt",
-    "datum": "21. Nov 2026",
-    "datum_raw": "2026-11-21T15:00:00+01:00",
-    "ort": "Schützenheim in Bärbroich, Ottoherscheid 25, 51429 Bergisch Gladbach",
-    "preis": "",
-    "link": "http://www.dasbergische.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Aus den Reihen der Bärbroicher Karnevalisten und Schützen wird auch in diesem Jahr wieder der schöne und urige Weihnachtsmarkt am Schützenheim veranstaltet. Eintritt : frei Ort: Schützenheim in Bärbroich Veranstalter: Bä"
-  },
-  {
     "titel": "Lichterfest",
     "datum": "21. Nov 2026",
     "datum_raw": "2026-11-21T15:00:00+01:00",
@@ -98,6 +88,16 @@
     "link": "https://www.bergischgladbach.de/veranstaltungen-2025.aspx",
     "quelle": "Das Bergische",
     "teaser": "Mit Lichterglanz und festlicher Stimmung verabschieden wir das Jahr. Unser erleuchtetes Museumsgelände lädt wieder zum Entdecken ein. Neben Handwerks-Vorführungen gibt es Bastelaktionen und Geschichten für Kinder. Für da"
+  },
+  {
+    "titel": "Bärbroicher Weihnachtsmarkt",
+    "datum": "21. Nov 2026",
+    "datum_raw": "2026-11-21T15:00:00+01:00",
+    "ort": "Schützenheim in Bärbroich, Ottoherscheid 25, 51429 Bergisch Gladbach",
+    "preis": "",
+    "link": "http://www.dasbergische.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Aus den Reihen der Bärbroicher Karnevalisten und Schützen wird auch in diesem Jahr wieder der schöne und urige Weihnachtsmarkt am Schützenheim veranstaltet. Eintritt : frei Ort: Schützenheim in Bärbroich Veranstalter: Bä"
   },
   {
     "titel": "Wein & Crime bei Kork & Kante in Bechen",
@@ -260,6 +260,16 @@
     "teaser": "Der 38. Indoor-Weihnachtsmarkt findet unter dem gewohnten Dach der Dabringhausener Mehrzweckhalle statt. Samstag, den 29.11.2025 von 14:00 h bis 19:00 h Sonntag, den 30.11.2025 von 10:00 h bis 18:00 h Von den 60 Ausstell"
   },
   {
+    "titel": "Weihnachtsmarkt: Ä Tännschen please!",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T15:00:00+01:00",
+    "ort": "Hofladen Birken, Engelrath 1-3, 51399 Burscheid",
+    "preis": "",
+    "link": "https://weihnachtsmarkt-burscheid.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Glühwein, frische Quarkbällchen, heiße Rostbratwurst, knisterndes Feuer und der Duft von Tannengrün. Tief einatmen und bei weihnachtlicher Atmosphäre Schlürfen, schlemmen und abschalten. Freut Euch auf ausgewählte Ausste"
+  },
+  {
     "titel": "Adventsbasar in Odenthal-Klasmühle: Ein lohnendes Ziel für Ausflügler und Genießer",
     "datum": "29. Nov 2026",
     "datum_raw": "2026-11-29T08:30:00+01:00",
@@ -410,16 +420,6 @@
     "teaser": "Am Freitag, den 04.12.2026, endet die Kabarettreihe der IGP im Exil mit dem Andreas Rebers und seinem Programm „rein geschäftlich - Bilanz“. Was ist das Leben? Zufall? Witz, oder eben doch nur ein Geschäft? Um diese Frag"
   },
   {
-    "titel": "Winterzauber Weihnachtsmarkt im Märchenwald Altenberg",
-    "datum": "5. Dez 2026",
-    "datum_raw": "2026-12-05T13:00:00+01:00",
-    "ort": "Märchenwald Altenberg, Märchenwaldweg 15, 51519 Odenthal",
-    "preis": "",
-    "link": "https://www.maerchenwald-altenberg.de/events-erleben/winterzauber/",
-    "quelle": "Das Bergische",
-    "teaser": "An den drei letzten Adventswochenenden verwandelt sich der Märchenwald Altenberg in einen gemütlichen Weihnachtsmarkt für die ganze Familie. Direkt vor der märchenhaften Waldkulisse laden liebevoll dekorierte Stände mit "
-  },
-  {
     "titel": "Märchenwald Winterzauber",
     "datum": "5. Dez 2026",
     "datum_raw": "2026-12-05T13:00:00+01:00",
@@ -428,6 +428,16 @@
     "link": "https://www.maerchenwald-altenberg.de/events-erleben/winterzauber/",
     "quelle": "Das Bergische",
     "teaser": "Ab dem 28. November erstrahlt der Märchenwald, an den Adventswochenenden und den Weihnachtsferien, in stimmungsvoller Illumination.Zwischen Bäumen, Wegen und Märchenfiguren schaffen leuchtende Installationen ein besonder"
+  },
+  {
+    "titel": "Winterzauber Weihnachtsmarkt im Märchenwald Altenberg",
+    "datum": "5. Dez 2026",
+    "datum_raw": "2026-12-05T13:00:00+01:00",
+    "ort": "Märchenwald Altenberg, Märchenwaldweg 15, 51519 Odenthal",
+    "preis": "",
+    "link": "https://www.maerchenwald-altenberg.de/events-erleben/winterzauber/",
+    "quelle": "Das Bergische",
+    "teaser": "An den drei letzten Adventswochenenden verwandelt sich der Märchenwald Altenberg in einen gemütlichen Weihnachtsmarkt für die ganze Familie. Direkt vor der märchenhaften Waldkulisse laden liebevoll dekorierte Stände mit "
   },
   {
     "titel": "Winterzauber am Golfplatz Lüderich",

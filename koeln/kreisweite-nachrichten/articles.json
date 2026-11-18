@@ -1,5 +1,44 @@
 [
   {
+    "id": "b0f4f818e1f1",
+    "title": "Gamer in Vorfreude: Kölner Café schließt wegen GTA 6 – im Schauspiel kostenlos Spielern zuschauen",
+    "summary": "Zum Release von GTA VI am 19. November locken in Köln kostenlose Events im Schauspielhaus und der Xperion-Arena sowie spezielle Supermarkt-Angebote.",
+    "link": "https://www.ksta.de/koeln/gta-vi-in-koeln-alle-events-und-aktionen-zum-release-am-19-november-1418568",
+    "published": "Wed, 18 Nov 2026 18:00:11 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-18T18:18:13.941016",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b68c6976b39c",
+    "title": "KStA-Genuss-Club: Fünf Gänge vom „Schelds em Oellig“ und Weingeschichten vom Sterne-Gastronomen",
+    "summary": "Im „Schelds em Oellig“ im Agnesviertel gestalten Alexander Schelds und Vincent Moissonnier einen gemeinsamen Abend.",
+    "link": "https://www.ksta.de/freizeit/restaurants/ksta-genuss-club-exklusives-menue-im-schelds-em-oellig-in-koeln-1419541",
+    "published": "Wed, 18 Nov 2026 17:23:53 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-18T18:18:13.941053",
+    "feed_kommunen": []
+  },
+  {
+    "id": "62d129062b73",
+    "title": "Sperrzonen um Weihnachtsmärkte: Stadt Köln schränkt Nutzung von Leihrädern in Vorweihnachtszeit ein",
+    "summary": "Wegen der Weihnachtsmärkte richtet Köln Sperrzonen für Leihräder und E-Scooter ein. Wer dort dennoch abstellt, muss mit einer Strafgebühr rechnen.",
+    "link": "https://www.ksta.de/koeln/koeln-schraenkt-leihrad-nutzung-an-weihnachtsmaerkten-ein-1419741",
+    "published": "Wed, 18 Nov 2026 17:12:33 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-18T18:18:13.941069",
+    "feed_kommunen": []
+  },
+  {
     "id": "a2ac1dc72bb6",
     "title": "Orden, Kostüme, Accessoires: Festkomitee Kölner Karneval veranstaltet Karnevalsmarkt am Samstag",
     "summary": "Das Festkomitee Kölner Karneval öffnet am Samstag seine Kleiderkammer und verkauft Kostüme, Orden sowie weitere Accessoires für die Session.",
