@@ -1,5 +1,35 @@
 [
   {
+    "id": "0051150552e1",
+    "title": "Johannes-Löh-Gesamtschule: Warum die Ekir jetzt auf Elternbeiträge setzt",
+    "summary": "Die Evangelische Kirche im Rheinland muss jährlich zehn Millionen Euro für ihre zehn Schulen aufbringen – darunter die Johannes-Löh-Gesamtschule in Burscheid. Wegen sinkender Kirchensteuer führt sie ab 2027 freiwillige Förderbeiträge ein. Die Spanne: 30 bis 210 Euro im Monat.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/johannes-loeh-gesamtschule-warum-die-ekir-jetzt-auf-elternbeitraege-setzt-BLRPLT52ARGJXIFQDBHWTDLVJ4.html",
+    "published": "Wed, 18 Nov 2026 16:30:00 +0100",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-18T17:16:07.310454",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
+    "id": "6073466d60ca",
+    "title": "Taubennester in Leichlingen: Umstrittene Räumung - Tierhilfe nimmt Küken in Obhut und erstattet Anzeige",
+    "summary": "In Leichlingen haben Stadttauben in Hohlräumen des Stelzenhauses genistet. Bei Arbeiten wurden die Nester einfach herausgeholt und auf ein Vordach gelegt, Anwohner verständigten die Tierhilfe.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/stelzenhaus-leichlingen-tierhilfe-kuemmert-sich-um-tauben_aid-158279759",
+    "published": "Wed, 18 Nov 2026 16:17:02 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-18T17:16:11.738158",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
     "id": "11d25cee2af9",
     "title": "Adventszeit: Viele kleine und große Weihnachtsmärkte in Leverkusen, Leichlingen und Burscheid",
     "summary": "Neben den großen Weihnachtsmärkten in Wiesdorf und Opladen gibt es auch viele kürzere Märkte in der Stadt und der Region. Ein Überblick.",
@@ -231,6 +261,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-18T13:15:40.223906",
+    "feed_kommunen": []
+  },
+  {
+    "id": "929bd6ec163f",
+    "title": "Für Herkenraths Einkaufszentrum fehlt immer noch ein Gutachten",
+    "summary": "Seit drei Jahren gibt es in Herkenrath nur sehr begrenzte Einkaufsmöglichkeiten, seit 16 Jahren kämpft Markus Hetzenegger um sein Projekt für ein großes neues Nahversorger-Zentrum. Zwar ziehen die Investorengruppe, Stadt und Kreis inzwischen an einem Strang - doch für das Kernproblem der Entwässerung fehlt noch immer ein wichtiges Gutachten.",
+    "link": "https://in-gl.de/2026/11/18/fuer-herkenraths-einkaufszentrum-fehlt-immer-noch-ein-gutachten/",
+    "published": "Wed, 18 Nov 2026 06:59:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-18T17:15:38.885458",
     "feed_kommunen": []
   },
   {
