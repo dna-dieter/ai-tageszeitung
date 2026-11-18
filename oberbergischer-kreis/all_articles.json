@@ -1,5 +1,59 @@
 [
   {
+    "id": "a70f899c5aac",
+    "title": "Nümbrechter gewinnen Auto bei Gewinnsparen der Volksbank Oberberg",
+    "summary": "Nümbrecht - Susann und Pascal Büttner durften sich über einen Renault 5 freuen.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/n--mbrechter-gewinnen-auto-bei-gewinnsparen-der-volksbank-oberberg-a-140620",
+    "published": "Wed, 18 Nov 2026 14:01:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-18T14:17:30.798066",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7ffe9d1c670f",
+    "title": "Perspektivwechsel: Kreis-Azubis tauschen Schreibtisch mit Maschinen",
+    "summary": "Oberberg - Das Wirtschaftspraktikum bietet Nachwuchskräften der Kreisverwaltung Einblicke in den Arbeitsalltag der regionalen Industrie.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/perspektivwechsel--kreis-azubis-tauschen-schreibtisch-mit-maschine-a-140626",
+    "published": "Wed, 18 Nov 2026 13:40:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-18T14:17:30.798223",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a3d9c263e51e",
+    "title": "Jetzt also doch: Weg frei für das Kinder- und Jugendparlament",
+    "summary": "Wipperfürth – Verwaltung findet Lösung zur politischen Partizipation, wie von der Politik gefordert – Personelle Tandemlösung soll etabliert werden.",
+    "link": "http://www.oberberg-aktuell.de/politik/jetzt-also-doch--weg-frei-f--r-das-kinder--und-jugendparlament-a-140627",
+    "published": "Wed, 18 Nov 2026 13:30:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-18T14:17:30.798397",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e77ba03cf4a9",
+    "title": "Deutsche Post eröffnet die Christkindpostfiliale in Engelskirchen",
+    "summary": "Die Deutsche Post hat heute traditionell ihre Christkindpostfiliale in Engelskirchen eröffnet. Im weihnachtlich geschmückten Alten Baumwolllager beantwortet das Christkind ab sofort wieder Wunschzettel aus Deutschland und aller Welt.",
+    "link": "https://www.engelskirchen.de/portal/meldungen/deutsche-post-eroeffnet-die-christkindpostfiliale-in-engelskirchen-900002526-23501.html?rubrik=900000008",
+    "published": "Wed, 18 Nov 2026 13:10:00 +0100",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-18T14:17:32.658766",
+    "feed_kommunen": [
+      "engelskirchen"
+    ]
+  },
+  {
     "id": "2cf472422ef7",
     "title": "Engelskirchen: Zwei Frauen bei Verkehrsunfall verletzt – zweiter Unfall in Nümbrecht",
     "summary": "Verkehrsunfall in Engelskirchen: Zwei Frauen an der L302 leicht verletzt. Zweiter Unfall in Nümbrecht, Einbruchsversuch in Marienheide.",

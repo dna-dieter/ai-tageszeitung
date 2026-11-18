@@ -1,5 +1,19 @@
 [
   {
+    "id": "11d25cee2af9",
+    "title": "Adventszeit: Viele kleine und große Weihnachtsmärkte in Leverkusen, Leichlingen und Burscheid",
+    "summary": "Neben den großen Weihnachtsmärkten in Wiesdorf und Opladen gibt es auch viele kürzere Märkte in der Stadt und der Region. Ein Überblick.",
+    "link": "https://www.ksta.de/region/leverkusen/stadt-leverkusen/advent-weihnachtsmaerkte-in-leverkusen-leichlingen-und-burscheid-1412467",
+    "published": "Wed, 18 Nov 2026 14:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "leichlingen",
+      "burscheid"
+    ],
+    "fetched": "2026-11-18T14:16:03.441742",
+    "feed_kommunen": []
+  },
+  {
     "id": "7e00874e50ed",
     "title": "„Speed Dating 60+“ in Bergisch Gladbach: Noch freie Plätze für Männer",
     "summary": "Bei kurzen Gesprächen können die Teilnehmenden in ungezwungener Atmosphäre neue Menschen kennenlernen. Die Fachstelle organisiert die beiden Veranstaltungen gemeinsam mit den Begegnungsstätten „Mittendrin“ in der Stadtmitte und der evangelischen Begegnungsstätte in Hand. Termine • Mittwoch, 25. November 2026, 16 Uhr – für Menschen von 60 bis 75 Jahren, im „Mittendrin“ in der Stadtmitte• Mittwoch, ",
@@ -25,6 +39,21 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-11-18T13:16:15.430946",
+    "feed_kommunen": [
+      "bergisch-gladbach"
+    ]
+  },
+  {
+    "id": "45c7dba1bbf4",
+    "title": "FW-GL: Sturmtief \"Talia\" sorgt für mehrere Einsätze der Feuerwehr Bergisch Gladbach",
+    "summary": "Bergisch Gladbach (ots) - Das Sturmtief \"Talia\" hat am gestrigen Dienstag die Feuerwehr Bergisch Gladbach beschäftigt. Zwischen 7:00 Uhr und 20:00 Uhr wurden die Einsatzkräfte zu insgesamt neun Einsätzen alarmiert. Größere Schäden blieben im ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/116240/6393154",
+    "published": "Wed, 18 Nov 2026 13:03:47 +0100",
+    "source": "Presseportal Feuerwehr Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-18T14:16:02.290515",
     "feed_kommunen": [
       "bergisch-gladbach"
     ]

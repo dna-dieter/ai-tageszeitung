@@ -1,5 +1,18 @@
 [
   {
+    "id": "4f6c73dd7c4b",
+    "title": "Theater gegen Vorurteile: Bocklemünder Komödie wirbt für Respekt und Demokratie",
+    "summary": "Das Theaterstück „Kulturclash im Wohnzimmer“ begeisterte in Bocklemünd und fördert den gesellschaftlichen Respekt.",
+    "link": "https://www.ksta.de/koeln/ehrenfeld/bocklemuend-mengenich/kulturclash-im-wohnzimmer-theaterstueck-begeistert-in-bocklemuend-1415243",
+    "published": "Wed, 18 Nov 2026 13:58:11 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-18T14:18:52.517681",
+    "feed_kommunen": []
+  },
+  {
     "id": "0f1d89118e93",
     "title": "Kölnisches Stadtmuseum übernimmt Figur aus Installation",
     "summary": "18. November 2026, 13:06Kontroverse Kunstaktion vor Kölner Dom wird Teil der Sammlung des Museums",
@@ -10,6 +23,32 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-18T13:18:39.887312",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6a548807e767",
+    "title": "Stadtansichten von Jörn Lange: Kölner Obdachloseneinrichtung „Gulliver“ feiert 100. Ausstellung",
+    "summary": "Zum 100. Jubiläum der Kunstreihe im Gulliver zeigt Jörn Lange urbane Gemälde aus europäischen Metropolen in der Kölner Überlebensstation.",
+    "link": "https://www.ksta.de/koeln/koelner-innenstadt/gulliver-koeln-feiert-100-ausstellung-mit-werken-von-joern-lange-1416277",
+    "published": "Wed, 18 Nov 2026 13:03:41 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-18T14:18:52.517713",
+    "feed_kommunen": []
+  },
+  {
+    "id": "cf23fb4b6686",
+    "title": "Weihnachtsmarkt im Veedel: Das Sülzer Weihnachtsdorf öffnet seine Hütten",
+    "summary": "Das Sülzer Weihnachtsdorf lädt vom 23. November bis zum 23. Dezember auf den Elisabeth-von-Mumm-Platz zu einem nachhaltigen Miteinander ein.",
+    "link": "https://www.ksta.de/koeln/lindenthal/suelz/suelzer-weihnachtsdorf-oeffnet-am-23-november-auf-dem-mumm-platz-1417732",
+    "published": "Wed, 18 Nov 2026 13:01:42 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-18T14:18:52.517733",
     "feed_kommunen": []
   },
   {
