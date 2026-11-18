@@ -1,137 +1,5 @@
 [
   {
-    "titel": "Offene Kreativwerkstatt Digital Making Place – Fokus Lasercutter",
-    "datum": "18. Nov 2026",
-    "datum_raw": "2026-11-18T00:00:00",
-    "datum_bis": "",
-    "ort": "KOMEZ – Kommunales Medienzentrum Köln, Mülheim",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41471/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "12:30 bis 16:30 Uhr · Für Lehrkräfte und pädagogisches Personal an Kölner Schulen"
-  },
-  {
-    "titel": "Lunch Lectures",
-    "datum": "18. Nov 2026",
-    "datum_raw": "2026-11-18T00:00:00",
-    "datum_bis": "",
-    "ort": "Interim Zentralbibliothek",
-    "preis": "Der Eintritt ist frei.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41525/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "13:15 Uhr · 35 Literaturgeschichten – heute mit Alina Herbing und der amerikanischen Schriftstellerin Lucia Berlin. Im Rahmen unseres Kulturprogramms im Interim Zentralbibliothek."
-  },
-  {
-    "titel": "Vorlesezeit für Vorschulkinder",
-    "datum": "18. Nov 2026",
-    "datum_raw": "2026-11-18T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Sülz, Sülz",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41330/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "16:30 bis 17 Uhr · Bilderbuchgeschichten für Kinder ab 5 Jahren in der Stadtteilbibliothek Sülz."
-  },
-  {
-    "titel": "Ausstellungsführung: Hungerleben – Lebenshunger. Köln 1946/47",
-    "datum": "18. Nov 2026",
-    "datum_raw": "2026-11-18T00:00:00",
-    "datum_bis": "",
-    "ort": "Historisches Archiv mit Rheinischem Bildarchiv, Neustadt/Süd",
-    "preis": "Die Veranstaltung ist kostenfrei.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41640/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "16:30 bis 17:30 Uhr · Führung durch die Ausstellung Hungerleben - Lebenshunger. Köln 1946/47"
-  },
-  {
-    "titel": "Buchvorstellung: Kommune im Wiederaufbau. Die Finanzen der Stadt Köln 1945-1970",
-    "datum": "18. Nov 2026",
-    "datum_raw": "2026-11-18T00:00:00",
-    "datum_bis": "",
-    "ort": "Historisches Archiv mit Rheinischem Bildarchiv, Neustadt/Süd",
-    "preis": "Die Veranstaltung ist kostenfrei.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41745/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "18 bis 20 Uhr · Wie gelang es Köln, nach den Zerstörungen des Zweiten Weltkriegs wieder zu einer funktionierenden Großstadt zu werden – ohne Hauptstadtstatus, mit knappen Mitteln und wachsender Verschuldung?"
-  },
-  {
-    "titel": "Präventionsabend: Risiken im Netz – Fake News, Cybercrime & Co.",
-    "datum": "18. Nov 2026",
-    "datum_raw": "2026-11-18T00:00:00",
-    "datum_bis": "",
-    "ort": "Schule IM Süden, Meschenich",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/40792/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "18 bis 20 Uhr · Für alle Personen mit und ohne schulischen Bezug"
-  },
-  {
-    "titel": "Renzel und Gretel: Ein Mann und seine Gitarre",
-    "datum": "18. Nov 2026",
-    "datum_raw": "2026-11-18T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Rodenkirchen, Rodenkirchen",
-    "preis": "Der Eintritt kostet 15 Euro.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41414/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "19:30 Uhr · Klaus Renzel präsentiert sein musikalisches Comedy-Solo in der Stadtteilbibliothek Rodenkirchen. Eine Veranstaltung des Fördervereins Literamus e. V."
-  },
-  {
-    "titel": "Retrospektive und Perspektive. Vater und Sohn: Fotografie trifft auf Pop-Art",
-    "datum": "18. Nov 2026",
-    "datum_raw": "2026-11-18T00:00:00",
-    "datum_bis": "21. Nov 2026",
-    "ort": "Kunsthalle Lindenthal, Braunsfeld",
-    "preis": "Die Ausstellung ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41529/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Vernissage: 7. November 2026, 18 Uhr, Täglich von 16 bis 18 Uhr · Kunstausstellung Vater & Sohn in der Kunsthalle Lindenthal"
-  },
-  {
-    "titel": "Haselbergstraße/Piusstraße, 2. Änderung (2. Teilaufhebung) in Köln-Lindenthal",
-    "datum": "18. Nov 2026",
-    "datum_raw": "2026-11-18T00:00:00",
-    "datum_bis": "23. Nov 2026",
-    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41583/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
-  },
-  {
-    "titel": "Ausstellung: Fernweh und Heimat vom Kölner Maler-Kreis",
-    "datum": "18. Nov 2026",
-    "datum_raw": "2026-11-18T00:00:00",
-    "datum_bis": "1. Dez 2026",
-    "ort": "Bezirksrathaus Nippes, Weidenpesch",
-    "preis": "Der Eintritt ist frei.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41662/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Ausstellungseröffnung: 2. November, 18 Uhr, Montags und donnerstags: 8 bis 15 Uhr, Dienstags: 9 bis 18 Uhr, Mittwochs und freitags: 8 bis 12 Uhr · Was bedeutet Heimat? Und wohin zieht es uns, wenn wir Fernweh haben?"
-  },
-  {
-    "titel": "Bilderausstellung: Iwona Piek – Figurative Malerei",
-    "datum": "18. Nov 2026",
-    "datum_raw": "2026-11-18T00:00:00",
-    "datum_bis": "5. Dez 2026",
-    "ort": "Rathaussaal Porz, Porz",
-    "preis": "Der Eintritt ist frei",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41599/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Montag bis Freitag: 10 bis 18 Uhr, Samstag: 10 bis 14 Uhr, sonn- und feiertags geschlossen · Bilderausstellung – figurative Malerei von der Künstlerin Iwona Piek"
-  },
-  {
-    "titel": "Führung durch den Skulpturenpark Köln",
-    "datum": "18. Nov 2026",
-    "datum_raw": "2026-11-18T00:00:00",
-    "datum_bis": "6. Dez 2026",
-    "ort": "Skulpturenpark Köln, Neustadt/Nord",
-    "preis": "Der Eintritt in den Park ist frei. Kosten für die Führungen: Erwachsene: 8 Euro,",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/39535/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Jeden ersten Sonntag im Monat von 15 bis 16 Uhr · Im Skulpturenpark zeigen wir eine große Bandbreite moderner zeitgenössischer Außenskulpturen unter freiem Himmel."
-  },
-  {
     "titel": "Stricken und Klönen",
     "datum": "19. Nov 2026",
     "datum_raw": "2026-11-19T00:00:00",
@@ -328,6 +196,61 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41210/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "Diese Veranstaltung ist abgesagt. · Diese Veranstaltung ist abgesagt."
+  },
+  {
+    "titel": "Retrospektive und Perspektive. Vater und Sohn: Fotografie trifft auf Pop-Art",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T00:00:00",
+    "datum_bis": "21. Nov 2026",
+    "ort": "Kunsthalle Lindenthal, Braunsfeld",
+    "preis": "Die Ausstellung ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41529/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Vernissage: 7. November 2026, 18 Uhr, Täglich von 16 bis 18 Uhr · Kunstausstellung Vater & Sohn in der Kunsthalle Lindenthal"
+  },
+  {
+    "titel": "Haselbergstraße/Piusstraße, 2. Änderung (2. Teilaufhebung) in Köln-Lindenthal",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T00:00:00",
+    "datum_bis": "23. Nov 2026",
+    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41583/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
+  },
+  {
+    "titel": "Ausstellung: Fernweh und Heimat vom Kölner Maler-Kreis",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T00:00:00",
+    "datum_bis": "1. Dez 2026",
+    "ort": "Bezirksrathaus Nippes, Weidenpesch",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41662/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Ausstellungseröffnung: 2. November, 18 Uhr, Montags und donnerstags: 8 bis 15 Uhr, Dienstags: 9 bis 18 Uhr, Mittwochs und freitags: 8 bis 12 Uhr · Was bedeutet Heimat? Und wohin zieht es uns, wenn wir Fernweh haben?"
+  },
+  {
+    "titel": "Bilderausstellung: Iwona Piek – Figurative Malerei",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T00:00:00",
+    "datum_bis": "5. Dez 2026",
+    "ort": "Rathaussaal Porz, Porz",
+    "preis": "Der Eintritt ist frei",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41599/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Montag bis Freitag: 10 bis 18 Uhr, Samstag: 10 bis 14 Uhr, sonn- und feiertags geschlossen · Bilderausstellung – figurative Malerei von der Künstlerin Iwona Piek"
+  },
+  {
+    "titel": "Führung durch den Skulpturenpark Köln",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T00:00:00",
+    "datum_bis": "6. Dez 2026",
+    "ort": "Skulpturenpark Köln, Neustadt/Nord",
+    "preis": "Der Eintritt in den Park ist frei. Kosten für die Führungen: Erwachsene: 8 Euro,",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/39535/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Jeden ersten Sonntag im Monat von 15 bis 16 Uhr · Im Skulpturenpark zeigen wir eine große Bandbreite moderner zeitgenössischer Außenskulpturen unter freiem Himmel."
   },
   {
     "titel": "Sternengasse in Köln-Altstadt/Süd",
