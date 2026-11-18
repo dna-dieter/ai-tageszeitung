@@ -1,5 +1,48 @@
 [
   {
+    "id": "aaa73974a0c8",
+    "title": "Burscheider Bürgerinnen und Bürger spenden für den Volksbund Deutsche Kriegsgräberfürsorge e.V.",
+    "summary": "Haus- und Straßensammlung in Kooperation mit der Johannes-Löh-Gesamtschule und Volkstrauertag",
+    "link": "https://www.burscheid.de/portal/meldungen/burscheider-buergerinnen-und-buerger-spenden-fuer-den-volksbund-deutsche-kriegsgraeberfuersorge-e-v--900000731-40230.html?rubrik=900000001",
+    "published": "Wed, 18 Nov 2026 10:51:00 +0100",
+    "source": "Stadt Burscheid (offiziell)",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-18T11:16:14.910320",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
+    "id": "8ffefd2b1919",
+    "title": "Projekt \"Aktiv und gesund im Alter\"",
+    "summary": "Bestands-, Bedarfs- und Bedürfniserhebung",
+    "link": "https://www.burscheid.de/portal/meldungen/projekt-aktiv-und-gesund-im-alter-900000732-40230.html?rubrik=900000001",
+    "published": "Wed, 18 Nov 2026 10:06:00 +0100",
+    "source": "Stadt Burscheid (offiziell)",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-18T11:16:14.910390",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
+    "id": "0bee8a26926b",
+    "title": "POL-RBK: Overath - Pkw-Fahrerin nach Unfall flüchtig - Zeugen gesucht",
+    "summary": "Overath (ots) - Am Sonntag (15.11.) ereignete sich ein Verkehrsunfall am Kreisverkehr an der Hauptstraße in Overath, bei dem eine 38-jährige Fußgängerin von einem Pkw touchiert und leicht verletzt wurde. Die Fahrerin des Pkw entfernte sich ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6392877",
+    "published": "Wed, 18 Nov 2026 10:01:57 +0100",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "overath"
+    ],
+    "fetched": "2026-11-18T11:16:10.075690",
+    "feed_kommunen": []
+  },
+  {
     "id": "f60576a68135",
     "title": "POL-RBK: Bergisch Gladbach - Einbruch in Juwelier in Schildgen",
     "summary": "Bergisch Gladbach (ots) - In der Nacht zu Mittwoch (18.11.) löste um 04:10 Uhr die Alarmanlage eines Juweliers an der Altenberger-Dom-Straße in Schildgen aus. Dort eingetroffen waren keine Täter mehr vor Ort. Augenscheinlich wurde nichts ...",

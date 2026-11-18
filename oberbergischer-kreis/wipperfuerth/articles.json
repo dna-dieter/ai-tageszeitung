@@ -1,5 +1,20 @@
 [
   {
+    "id": "f55aee8f8a86",
+    "title": "Asto-Abfall-Kalender ab 2027 digital",
+    "summary": "Der Asto-Abfallkalender steht ab 2027 digital zur Verfügung. Weitere Infos unter www.asto.de.",
+    "link": "https://www.asto.de/news?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=100&cHash=c9dfb5c5b375c03d7c75dc771cfcfb17",
+    "published": "Wed, 18 Nov 2026 10:49:21 +0100",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-18T11:17:28.327241",
+    "feed_kommunen": [
+      "wipperfuerth"
+    ]
+  },
+  {
     "id": "466c71aa57c2",
     "title": "Bauausschuss am 26.11.2026 um 17.00 Uhr in der Alten Drahtzieherei, Wupperstraße",
     "summary": "Der Bauausschuss (BA) tagt am 26.11.2026 um 17.00 Uhr in der Alten Drahtzieherei, Wupperstraße 8-10. Der öffentliche Teil beginnt um 17:10 Uhr.",
@@ -4786,6 +4801,21 @@
       "wipperfuerth"
     ],
     "fetched": "2026-05-06T15:52:46.537978",
+    "feed_kommunen": [
+      "wipperfuerth"
+    ]
+  },
+  {
+    "id": "4850b1392036",
+    "title": "Müllsammelaktion am 29.03.2025",
+    "summary": "Am 29.03.2025 findet von 10 bis 14 Uhr die Müllsammleaktion mit der BAV an den Ohler Wiesen statt.",
+    "link": "https://wipperfuerth.de/fileadmin/redaktion/Hansestadt_Wipperfuerth/News/Muellsammelaktion_2025.pdf",
+    "published": "Thu, 27 Mar 2025 10:20:00 +0100",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-18T11:17:28.339180",
     "feed_kommunen": [
       "wipperfuerth"
     ]
