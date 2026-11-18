@@ -1,5 +1,19 @@
 [
   {
+    "id": "c88875723c51",
+    "title": "Unbekannte schneiden Containerwand auf und stehlen Werkzeug",
+    "summary": "Auf einer Baustelle an der Dreibholzer Straße in Wiehl-Bielstein sind Unbekannte über das Wochenende in einen Baucontainer eingebrochen. Sie stahlen mehrere Akkuwerkzeuge der Marken Hilti und Bosch und flüchteten unerkannt. Nach Angaben der Polizei schnitten die Täter die Rückwand des Containers auf. Der Einbruch ereignete sich zwischen Freitag, 13. November, 12.30 Uhr, und Montag, 16. November, 7",
+    "link": "https://www.rheinische-anzeigenblaetter.de/wiehl/c-blaulicht/unbekannte-schneiden-containerwand-auf-und-stehlen-werkzeug_a383141",
+    "published": "Wed, 18 Nov 2026 08:29:48 +0100",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "wiehl",
+      "waldbroel"
+    ],
+    "fetched": "2026-11-18T09:17:31.490746",
+    "feed_kommunen": []
+  },
+  {
     "id": "413476ccb865",
     "title": "Daniel Noss wird neuer Feuerwehr-Chef",
     "summary": "Wiehl – Stadtrat stimmte einstimmig für den bisherigen Stellvertreter als Nachfolger von Jens Schmidt – Neues Führungstrio steht – Stadträtin Elke Zakaria bekam den Silbernen Wiehltaler.",
@@ -4468,6 +4482,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-16T13:17:19.199401",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "ac7b303bb792",
+    "title": "„KoboldKroniken“ fallen aus",
+    "summary": "Die für heute Nachmittag geplante Lesung mit dem Kinderbuchautor Daniel Bleckmann und seinen „KoboldKroniken“ in der Stadtbücherei muss leider ausfallen. Außerdem bleibt die Bücherei morgen Nachmittag geschlossen.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9589-koboldkroniken-fallen-aus.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-18T09:17:32.768579",
     "feed_kommunen": [
       "wiehl"
     ]

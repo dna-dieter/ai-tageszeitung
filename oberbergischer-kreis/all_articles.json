@@ -1,5 +1,60 @@
 [
   {
+    "id": "bde24ee63712",
+    "title": "Warum ein WC keine Selbstverständlichkeit ist",
+    "summary": "Der 19. November ist der „Welttoilettentag“. Auch wenn der Gang aufs „stille Örtchen“ zumindest hierzulande Normalität ist, sollten doch bestimmte Verhaltensweisen beachtet werden.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/warum-ein-wc-keine-selbstverstaendlichkeit-ist-NHC4KVLLZIKUO5OH5N7CAUJ4WE.html",
+    "published": "Wed, 18 Nov 2026 08:50:00 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-18T09:17:26.936704",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "ffe8ff2f2ec7",
+    "title": "Sattelzug kippt in Engelskirchen in Straßengraben",
+    "summary": "Ein Sattelzug ist am Montagabend, 16. November, auf der L302 bei Kaltenbach von der Straße abgekommen. Das Fahrzeug rutschte in den Straßengraben und kippte auf die Seite. Der Fahrer blieb unverletzt. Die Bergung des Sattelzugs war aufwendig und wurde von einer Spezialfirma durchgeführt. Dafür musste die L302 von 19 Uhr bis 6 Uhr am Dienstagmorgen gesperrt werden. Wie es zu dem Unfall kam, ist nac",
+    "link": "https://www.rheinische-anzeigenblaetter.de/engelskirchen/c-blaulicht/sattelzug-kippt-in-engelskirchen-in-strassengraben_a383144",
+    "published": "Wed, 18 Nov 2026 08:33:27 +0100",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-18T09:17:31.490351",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c88875723c51",
+    "title": "Unbekannte schneiden Containerwand auf und stehlen Werkzeug",
+    "summary": "Auf einer Baustelle an der Dreibholzer Straße in Wiehl-Bielstein sind Unbekannte über das Wochenende in einen Baucontainer eingebrochen. Sie stahlen mehrere Akkuwerkzeuge der Marken Hilti und Bosch und flüchteten unerkannt. Nach Angaben der Polizei schnitten die Täter die Rückwand des Containers auf. Der Einbruch ereignete sich zwischen Freitag, 13. November, 12.30 Uhr, und Montag, 16. November, 7",
+    "link": "https://www.rheinische-anzeigenblaetter.de/wiehl/c-blaulicht/unbekannte-schneiden-containerwand-auf-und-stehlen-werkzeug_a383141",
+    "published": "Wed, 18 Nov 2026 08:29:48 +0100",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "wiehl",
+      "waldbroel"
+    ],
+    "fetched": "2026-11-18T09:17:31.490746",
+    "feed_kommunen": []
+  },
+  {
+    "id": "0324c525142a",
+    "title": "Zwei Verletzte bei Auffahrunfall an der Abfahrt",
+    "summary": "Bei einem Auffahrunfall an der Anschlussstelle Engelskirchen sind am Montagmorgen, 16. November, zwei Menschen leicht verletzt worden. Rettungskräfte brachten sie in ein Krankenhaus. Ein 53-jähriger Autofahrer aus Bergisch Gladbach musste nach Angaben der Polizei gegen 8.40 Uhr mit seinem Skoda auf der rechten Spur der Abfahrt in Richtung Kaltenbach an der Einmündung zur L302 verkehrsbedingt anhal",
+    "link": "https://www.rheinische-anzeigenblaetter.de/engelskirchen/c-blaulicht/zwei-verletzte-bei-auffahrunfall-an-der-abfahrt_a383138",
+    "published": "Wed, 18 Nov 2026 08:27:22 +0100",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-18T09:17:31.491143",
+    "feed_kommunen": []
+  },
+  {
     "id": "b62ac93c5273",
     "title": "Stadtbaumkonzept wird bei Neubauten automatisch angewendet",
     "summary": "Radevormwalder SPD hat im jüngsten Umweltausschuss einen Antrag gestellt, der sich auf das Neubaugebiet Karthausen bezog – und auf viel Unverständnis stieß.",
@@ -529,19 +584,6 @@
       "waldbroel"
     ],
     "fetched": "2026-11-17T11:17:32.572621",
-    "feed_kommunen": []
-  },
-  {
-    "id": "d967b68ffd5c",
-    "title": "Zwei Verletzte bei Auffahrunfall an der Anschlussstelle Engelskirchen",
-    "summary": "Engelskirchen – Am Montagmorgen krachte es auf der Abfahrt zur Umleitungsstrecke an der A4.",
-    "link": "http://www.oberberg-aktuell.de/blaulicht/zwei-verletzte-bei-auffahrunfall-an-der-anschlussstelle-engelskirchen-a-140549",
-    "published": "Tue, 17 Nov 2026 10:25:00 +0100",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "engelskirchen"
-    ],
-    "fetched": "2026-11-17T11:17:32.572696",
     "feed_kommunen": []
   },
   {
@@ -51339,6 +51381,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-16T13:17:19.199401",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "ac7b303bb792",
+    "title": "„KoboldKroniken“ fallen aus",
+    "summary": "Die für heute Nachmittag geplante Lesung mit dem Kinderbuchautor Daniel Bleckmann und seinen „KoboldKroniken“ in der Stadtbücherei muss leider ausfallen. Außerdem bleibt die Bücherei morgen Nachmittag geschlossen.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9589-koboldkroniken-fallen-aus.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-18T09:17:32.768579",
     "feed_kommunen": [
       "wiehl"
     ]
