@@ -1,5 +1,83 @@
 [
   {
+    "id": "fe7050561d26",
+    "title": "Wunschbaum zur Weihnacht: 470 Wünsche für Hürther Senioren: Geschenke werden verpackt",
+    "summary": "470 Seniorinnen und Senioren durften sich ein persönliches Geschenk wünschen – am 12. Dezember werden die Präsente im Hürth-Park gemeinsam verpackt.",
+    "link": "https://www.ksta.de/region/rhein-erft/huerth/huerth-buergerstiftung-erfuellt-470-wuensche-von-senioren-1419493",
+    "published": "Wed, 18 Nov 2026 11:49:51 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-18T12:16:02.377532",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7e7d0bfeb1b6",
+    "title": "Neuer Sportplatz erst 2028: Alte Deponie bremst Ausbau des Stadions Paffrather Straße",
+    "summary": "Bevor am Stadion Paffrather Straße gebaut werden kann, fehlen Gutachten zu einer früheren Deponie; zugleich muss der verklumpte Kunstrasen wohl bald ersetzt werden.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/stadion-paffrather-strasse-neuer-sportplatz-erst-ab-2028-1419469",
+    "published": "Wed, 18 Nov 2026 11:29:27 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-18T12:16:02.377658",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c66b50ea38e6",
+    "title": "Handyfreier Schulalltag: Rösrather Gesamtschule verbannt Handys per Abschirmtasche",
+    "summary": "An der Gesamtschule Rösrath müssen die Geräte seit November ausgeschaltet in einer abschirmenden Tasche bleiben – auch in den Pausen.",
+    "link": "https://www.ksta.de/region/rhein-berg/roesrath/gesamtschule-roesrath-verbietet-handys-im-schulalltag-1419457",
+    "published": "Wed, 18 Nov 2026 11:27:19 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "roesrath"
+    ],
+    "fetched": "2026-11-18T12:16:02.377767",
+    "feed_kommunen": []
+  },
+  {
+    "id": "94a47ca74bcb",
+    "title": "Kinderpunsch und Co.: Weihnachtsmärkte in Bergisch Gladbach: Die Saison startet",
+    "summary": "Bis zum 23. Dezember locken in Bergisch Gladbach mehrere Märkte: Während Refrath längst läuft, öffnen am 19. November Stadtmitte und Bensberg, später folgen weitere Orte.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/weihnachtsmaerkte-in-bergisch-gladbach-alle-termine-im-ueberblick-1419454",
+    "published": "Wed, 18 Nov 2026 11:12:03 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-18T12:16:02.377871",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5067fbc46d48",
+    "title": "Ehrentitel für die Flöckchen: Flöckchen erhalten Karnevalstitel „Magister Linguae“",
+    "summary": "Die KG Fidele Aujusse ehrt die Flöckchen als „Meister der kölschen Sprache“ – gewürdigt werden auch ihre Auslandsprojekte und ihr karitatives Engagement.",
+    "link": "https://www.ksta.de/region/rhein-berg/floeckchen-erhalten-karnevalstitel-magister-linguae-in-porz-1419444",
+    "published": "Wed, 18 Nov 2026 11:02:38 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-18T12:16:02.378004",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a483926cffc8",
+    "title": "Wer singt sich zum Sieg?: Lied-Duo-Wettbewerb: Publikum kürt Sopranistin und Pianist",
+    "summary": "Beim Rösrather Lied-Duo-Wettbewerb im Schloss Eulenbroich überzeugten Nachwuchstalente aus NRW – das Publikum kürte die Sopranistin See-Huey Tang und Pianist Gavin Liang May.",
+    "link": "https://www.ksta.de/region/rhein-berg/roesrath/roesrather-lied-duo-wettbewerb-publikum-kuert-sieger-im-schloss-1419432",
+    "published": "Wed, 18 Nov 2026 10:58:20 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "roesrath"
+    ],
+    "fetched": "2026-11-18T12:16:02.378136",
+    "feed_kommunen": []
+  },
+  {
     "id": "aaa73974a0c8",
     "title": "Burscheider Bürgerinnen und Bürger spenden für den Volksbund Deutsche Kriegsgräberfürsorge e.V.",
     "summary": "Haus- und Straßensammlung in Kooperation mit der Johannes-Löh-Gesamtschule und Volkstrauertag",

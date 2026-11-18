@@ -1,5 +1,96 @@
 [
   {
+    "id": "562e27f83534",
+    "title": "Eine Welt voller Lichter: Wir verlosen 10x4 Eintrittskarten für die China Lights im Kölner Zoo",
+    "summary": "Gewinnen Sie 10x4 Eintrittskarten für die China Lights im Kölner Zoo. Besuchstag frei wählbar innerhalb der Laufzeit vom 11. Dezember 2026 bis 31. Januar 2027.",
+    "link": "https://www.ksta.de/gewinnspiele/china-lights-koelner-zoo-eintrittskarten-gewinnen-1418883",
+    "published": "Wed, 18 Nov 2026 12:02:21 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-18T12:18:25.955409",
+    "feed_kommunen": []
+  },
+  {
+    "id": "bee83748a124",
+    "title": "Zwei Projekte: Neue Siedlung und studentisches Wohnen an Ex-Molkerei in Bilderstöckchen",
+    "summary": "Auf dem ehemaligen Mobau-Gelände entstehen 145 Wohnungen. Zudem ist gegenüber eine Wohnanlage für Studierende geplant.",
+    "link": "https://www.ksta.de/koeln/nippes/bilderstoeckchen/bilderstoeckchen-neue-siedlung-und-studentenwohnungen-geplant-1415615",
+    "published": "Wed, 18 Nov 2026 11:59:33 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-18T12:18:25.955448",
+    "feed_kommunen": []
+  },
+  {
+    "id": "bde67dc56fe3",
+    "title": "Heißes Wasser gratis: In Sülz kann man Instantnudeln gleich im Asia-Shop essen",
+    "summary": "Was in Seoul ganz normal ist, geht auch in Köln. Vor allem Schüler sind Kunden.",
+    "link": "https://www.ksta.de/koeln/lindenthal/suelz/koeln-suelz-instantnudeln-gleich-im-laden-essen-1405336",
+    "published": "Wed, 18 Nov 2026 11:34:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-18T12:18:25.955460",
+    "feed_kommunen": []
+  },
+  {
+    "id": "757453de4dd8",
+    "title": "Von pinker Nudelsuppe bis feurigem Curry: Diese elf Restaurants in Köln lohnen sich für Fans thailändischer Küche",
+    "summary": "Diese zehn Kölner Adressen lohnen sich für Fans der Thai-Küche - mit scharfem Pad Thai, aromatische Currys oder pinker Nudelsuppe.",
+    "link": "https://www.ksta.de/freizeit/restaurants/thai-restaurants-in-koeln-10-lokale-die-thailaendische-spezialitaeten-anbieten-1396728",
+    "published": "Wed, 18 Nov 2026 11:31:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-18T12:18:25.955472",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7d35fd171d8b",
+    "title": "Von Neumarkt bis Sülz: Kölner Straßenfeste 2027 – Termine auf einen Blick",
+    "summary": "Straßenfeste sind bei den Kölnerinnen und Kölnern sehr beliebt. Wir haben für Sie die Termine der Kölner Straßenfeste 2027 zusammengestellt.",
+    "link": "https://www.ksta.de/freizeit/koelner-strassenfeste-2027-diese-termin-gibt-es-981512",
+    "published": "Wed, 18 Nov 2026 11:16:05 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-18T12:18:25.955483",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9b3cf188dfe8",
+    "title": "Gefährliche Bachemer Straße: So soll das Radeln in Lindenthal sicherer werden",
+    "summary": "Anwohner und Lokalpolitiker fordern mehr Sicherheit für radelnde Schulkinder auf der Bachemer Straße durch Tempo-Kontrollen und bauliche Maßnahmen.",
+    "link": "https://www.ksta.de/koeln/lindenthal/lindenthal-veedel/bachemer-strasse-in-lindenthal-forderungen-nach-mehr-radsicherheit-1418528",
+    "published": "Wed, 18 Nov 2026 11:04:40 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-18T12:18:25.955495",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e43ad670780e",
+    "title": "Am Wochenende: Künstlerkollektiv Parallax lädt zur Ausstellung „Zeitstrom“ ein",
+    "summary": "Das Kollektiv Parallax zeigt am Wochenende im Kölner Maarweg seine Ausstellung Zeitstrom und sucht den direkten Dialog mit den Besuchenden.",
+    "link": "https://www.ksta.de/koeln/koeln-kuenstlerkollektiv-parallax-zeigt-ausstellung-zeitstrom-1418792",
+    "published": "Wed, 18 Nov 2026 11:03:14 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-18T12:18:25.955506",
+    "feed_kommunen": []
+  },
+  {
     "id": "50e6931a9eeb",
     "title": "Neuerwerbung der Peter und Irene Ludwig Stiftung für Museum Schnütgen",
     "summary": "18. November 2026, 10:37Kostbare Weihnachtskrippe wird erstmals beim Krippenweg 2026 präsentiert",
