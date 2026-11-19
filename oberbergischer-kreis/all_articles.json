@@ -1,5 +1,33 @@
 [
   {
+    "id": "e20fd52c38c7",
+    "title": "Herbstwald",
+    "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
+    "link": "http://www.oberberg-aktuell.de/foto-des-tages/herbstwald-a-140230",
+    "published": "Thu, 19 Nov 2026 08:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-19T08:17:26.779500",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2ff06bb81bcc",
+    "title": "Demokratie im Alltag schafft lebenswerte Heimat",
+    "summary": "Zum 20. Mal hat die FDP Hückeswagen ihren Liberalen Bürgerpreis für besonderes ehrenamtliches Engagement übergeben. Preisträger 2026 ist der Verein „(D)ein Euro für Hückeswagen“.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/demokratie-im-alltag-schafft-lebenswerte-heimat-J5BO3IOV3ZN5PHUHNJH7CXNFLY.html",
+    "published": "Thu, 19 Nov 2026 07:15:00 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-19T08:17:21.943891",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
     "id": "0e08a9814c87",
     "title": "Nümbrecht träumt vom Einzug ins Viertelfinale",
     "summary": "​​​​​​​Nümbrecht – Die Fußballer des SSV Homburg-Nümbrecht sind im Achtelfinale des FVM-Pokals gegen den Mittelrheinligisten FC Wegberg-Beeck nur Außenseiter – Trainer Marcus Voike will seine Siegesserie dennoch ausbauen.",
