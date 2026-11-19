@@ -1,5 +1,51 @@
 [
   {
+    "id": "fdf4785c0cb0",
+    "title": "Gebühren für Schmutzwasser und Klärschlamm: Abwasser wird in Leichlingen teurer",
+    "summary": "Der Leichlinger Stadtrat soll höhere Abwassergebühren ab 2027 beschließen. Einer der Gründe: Viele Pumpstationen und kleine Ortschaften im Bergischen.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/abwassergebuehren-in-leichlingen-2027-die-neuen-preise_aid-158515965",
+    "published": "Thu, 19 Nov 2026 16:45:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-19T17:16:08.079941",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
+    "id": "f045334cd143",
+    "title": "Burscheid: Bald winkt keiner mehr den Großen nach – Kitas werden leerer",
+    "summary": "Die Geburtenzahlen in Burscheid liegen unter den Erwartungen. Wer das ändern möchte, sollte sich fragen, was die Stadt für junge Familien tun kann, meint BV-Mitarbeiterin Anja Wollschlaeger.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/burscheid-bald-winkt-keiner-mehr-den-grossen-nach-kitas-werden-leerer-UW3LGRQEKVCSPOTHL5PA4M35J4.html",
+    "published": "Thu, 19 Nov 2026 16:30:00 +0100",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-19T17:16:04.764687",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
+    "id": "d96f16491104",
+    "title": "19 Prozent weniger Babys – jetzt trifft es die erste Kita in Burscheid",
+    "summary": "In Burscheid und Odenthal bleiben bald 80 Kita-Plätze leer. Der Jugendhilfeausschuss hat am Montag beschlossen, Gespräche über die Schließung des AWO-Familienzentrums Burscheid aufzunehmen. Warum die Einrichtung trotz guter Qualität betroffen ist.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/19-prozent-weniger-babys-jetzt-trifft-es-die-erste-kita-in-burscheid-S46AMKO5KRBDZIWMYSKPL4VPOE.html",
+    "published": "Thu, 19 Nov 2026 16:30:00 +0100",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "odenthal",
+      "burscheid"
+    ],
+    "fetched": "2026-11-19T17:16:04.764916",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
     "id": "8b93ed79b81a",
     "title": "Betrugsmasche im Rhenisch-Bergischen Kreis: Polizei warnt vor falsche Bankschreiben",
     "summary": "Derzeit kursieren Anschreiben von Banken, bei denen Empfänger unter einem vermeintlich plausiblen Vorwand und einem gefälschten QR-Code dazu verleitet werden, Geld auf ein unbekanntes Konto zu überweisen.",
