@@ -1,5 +1,44 @@
 [
   {
+    "id": "9ca5e2eaaa2b",
+    "title": "Kölner Polizei mit Bilanz: Straftaten am 11.11. deutlich zurückgegangen",
+    "summary": "Die Kölner Polizei zieht eine positive Bilanz zur Sessionseröffnung. Die Zahl der Straftaten ist an den Karnevalshotspots deutlich gesunken.",
+    "link": "https://www.ksta.de/koeln/polizei-koeln-zieht-positive-bilanz-zur-sessionseroeffnung-2026-1419398",
+    "published": "Thu, 19 Nov 2026 06:03:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-19T06:18:10.448159",
+    "feed_kommunen": []
+  },
+  {
+    "id": "89cd958e0d37",
+    "title": "Neue Chefin: Generationswechsel an der Spitze des Bundesinstituts für öffentliche Gesundheit",
+    "summary": "Die Kommunikationsexpertin Marlene Stube übernimmt zum Januar die Leitung des Bundesinstituts für öffentliche Gesundheit in Köln.",
+    "link": "https://www.ksta.de/politik/marlene-stube-wird-neue-chefin-des-bioeg-in-koeln-1419640",
+    "published": "Thu, 19 Nov 2026 06:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-19T06:18:10.448180",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b6de7e16f188",
+    "title": "Verkleidet als Kiosk: Erzieher sammelt am 11.11. Spenden für krebskranke Kinder",
+    "summary": "Ein Erzieher sammelte am 11.11. in Köln in einem Kiosk-Kostüm Spenden für den Förderverein für krebskranke Kinder e.V. Köln.",
+    "link": "https://www.ksta.de/koeln/karneval-in-koeln/erzieher-sammelt-am-elften-elften-spenden-fuer-krebskranke-kinder-1418565",
+    "published": "Thu, 19 Nov 2026 06:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-19T06:18:10.448193",
+    "feed_kommunen": []
+  },
+  {
     "id": "8e3305db1a02",
     "title": "Bei Temperaturen am Gefrierpunkt: Winterhilfe in Köln startet mit Verzögerung",
     "summary": "Die Winterhilfe startet in Köln eigentlich am 1. November – doch die bisherige Notunterkunft ist weg, der Ersatz kommt erst im Dezember.",
