@@ -1,5 +1,31 @@
 [
   {
+    "id": "c49c3c39df02",
+    "title": "Bundespräsident ist Pate: Das siebte Kind im Mittelpunkt",
+    "summary": "Wiehl - Die Familie Schulz darf sich über besondere Ehre freuen nach der Geburt des siebten Kindes - Bürgermeister Stücker überbrachte die Urkunde.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/bundespr--sident-ist-pate--das-siebte-kind-im-mittelpunkt-a-140682",
+    "published": "Thu, 19 Nov 2026 16:05:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-19T16:17:30.453213",
+    "feed_kommunen": []
+  },
+  {
+    "id": "fdd6b5a39420",
+    "title": "Waschbären im Kreis auf dem Vormarsch",
+    "summary": "Oberberg - Immer mehr Sichtungen werden gemeldet - Auswirkungen auf die heimische Tierwelt.",
+    "link": "http://www.oberberg-aktuell.de/oberbergischer-kreis/waschbaeren-im-kreis-auf-dem-vormarsch-a-140673",
+    "published": "Thu, 19 Nov 2026 15:38:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-19T16:17:30.453308",
+    "feed_kommunen": []
+  },
+  {
     "id": "38635cf26302",
     "title": "Bergneustadt: Haushaltsplan 2027 zeigt 12,44 Millionen Euro Defizit",
     "summary": "Bergneustadt plant für 2027 rund 12,44 Millionen Euro Defizit. Umlagen und Personalkosten steigen, bei der Gewerbesteuer rechnet die Stadt mit weniger Geld.",
@@ -315,6 +341,21 @@
     ],
     "fetched": "2026-11-19T12:17:13.734705",
     "feed_kommunen": []
+  },
+  {
+    "id": "1dcc2ffbcd5c",
+    "title": "Gemeinsam feiern, einander kennenlernen",
+    "summary": "Herbstfest des Flüchtlingshilfevereins bringt über 100 Menschen zusammen.",
+    "link": "https://www.engelskirchen.de/portal/meldungen/gemeinsam-feiern-einander-kennenlernen-900002529-23501.html?rubrik=900000004",
+    "published": "Thu, 19 Nov 2026 08:03:00 +0100",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-19T16:17:32.733410",
+    "feed_kommunen": [
+      "engelskirchen"
+    ]
   },
   {
     "id": "e20fd52c38c7",
