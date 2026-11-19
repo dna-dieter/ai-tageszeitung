@@ -1,21 +1,8 @@
 {
   "quelle": "https://www.kuerten.de/sitzungen/",
   "portal": "https://sessionnet.owl-it.de/kuerten/bi/info.asp",
-  "aktualisiert": "2026-11-19T18:19:41",
+  "aktualisiert": "2026-11-20T00:19:02",
   "kommende": [
-    {
-      "datum": "2026-11-19",
-      "gremium": "Sonderausschuss Schulzentrum Kürten",
-      "uhrzeit": "17:30",
-      "ort": "Bürgerhaus Kürten",
-      "ist_rat": false,
-      "dokumente": [
-        {
-          "art": "Einladung",
-          "url": "https://sessionnet.owl-it.de/kuerten/bi/getfile.asp?id=127984&type=do"
-        }
-      ]
-    },
     {
       "datum": "2026-11-23",
       "gremium": "Ältestenrat",
