@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Don Pasquale - Oper für alle",
-    "datum": "18. Nov 2026",
-    "datum_raw": "2026-11-18T20:00:00+01:00",
-    "ort": "Halle 32, Steinmüllerallee 10, 51643 Gummersbach",
-    "preis": "",
-    "link": "https://www.halle32.de/programm/don-pasquale-oper-fuer-alle-1298/",
-    "quelle": "Das Bergische",
-    "teaser": "Komische Oper von Gaetano Donizetti in deutscher Sprache Ein Projekt der Gummersbacher Philharmoniker, in Zusammenarbeit mit internationalen Solisten und dem VoxMusica Chor Wipperfürth e.V. unter der Leitung von Karsten "
-  },
-  {
     "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
     "datum": "19. Nov 2026",
     "datum_raw": "2026-11-19T11:00:00+02:00",
@@ -58,6 +48,16 @@
     "link": "https://www.erzquell.de/erlebnisse-in-der-brauerei/brauereibesichtigungen-bielstein/",
     "quelle": "Das Bergische",
     "teaser": "Bei dieser besonderen Führung erleben Sie die Erzquell Brauerei einmal ganz intensiv: Sie erhalten spannende Einblicke in die Kunst des Brauhandwerks und können anschließend im gemütlichen Braustübchen den Abend auskling"
+  },
+  {
+    "titel": "Don Pasquale - Oper für alle",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T20:00:00+01:00",
+    "ort": "Halle 32, Steinmüllerallee 10, 51643 Gummersbach",
+    "preis": "",
+    "link": "https://www.halle32.de/programm/don-pasquale-oper-fuer-alle-1298/",
+    "quelle": "Das Bergische",
+    "teaser": "Komische Oper von Gaetano Donizetti in deutscher Sprache Ein Projekt der Gummersbacher Philharmoniker, in Zusammenarbeit mit internationalen Solisten und dem VoxMusica Chor Wipperfürth e.V. unter der Leitung von Karsten "
   },
   {
     "titel": "Nachts im Museum",
