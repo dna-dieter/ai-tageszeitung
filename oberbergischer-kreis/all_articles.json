@@ -1,5 +1,72 @@
 [
   {
+    "id": "7a2769eb10d5",
+    "title": "Wiehl: Betrug durch falsche Polizisten – 86-Jährige übergibt Bargeld und Karte",
+    "summary": "Betrug in Wiehl: Falsche Polizisten bringen eine 86-Jährige um Bargeld und Girokarte. In Gummersbach scheitert die Zahlung für vier iPhones.",
+    "link": "https://www.news-on-tour.de/346465/wiehl-betrug-falsche-polizisten/",
+    "published": "Thu, 19 Nov 2026 10:15:26 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-19T11:17:32.705501",
+    "feed_kommunen": []
+  },
+  {
+    "id": "cee43f8dc21b",
+    "title": "Waldbröl: 18-Jähriger fährt gegen Straßenlaterne – zwei Leichtverletzte",
+    "summary": "Straßenlaterne im Raabeweg: Ein 18-Jähriger aus Morsbach fuhr in Waldbröl frontal dagegen. Er und seine Beifahrerin kamen ins Krankenhaus.",
+    "link": "https://www.news-on-tour.de/346463/waldbroel-strassenlaterne-raabeweg/",
+    "published": "Thu, 19 Nov 2026 10:13:27 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "morsbach",
+      "waldbroel"
+    ],
+    "fetched": "2026-11-19T11:17:32.705681",
+    "feed_kommunen": []
+  },
+  {
+    "id": "55fe65fc643c",
+    "title": "UKA lädt zu Infomarkt über geplanten Windpark Unnenberg ein",
+    "summary": "Gummersbach – Der Projektierer informiert im Rahmen einer offenen Veranstaltung am 24. November über den Planungsstand und will Bürgern Raum für Fragen bieten.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/uka-l--dt-zu-infomarkt---ber-geplanten-windpark-unnenberg-ein-a-140666",
+    "published": "Thu, 19 Nov 2026 10:35:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-19T11:17:38.466152",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6d0ea7b036c6",
+    "title": "Auto fährt gegen Straßenlaterne",
+    "summary": "Waldbröl - Eine 18-Jähriger und seine 15-jährige Beifahrerin erlitten leichte Verletzungen.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/auto-f--hrt-gegen-stra--enlaterne-a-140664",
+    "published": "Thu, 19 Nov 2026 10:33:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-19T11:17:38.466256",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8ba0654216d4",
+    "title": "Falsche Polizisten betrügen 86-Jährige um niedrigen fünfstelligen Betrag",
+    "summary": "Wiehl - Unbekannter machte sich verdächtig, weil er gleich vier Smartphones auf einmal kaufen wollte - Zuvor wurde die Seniorin dazu gebracht, Geld abzuheben.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/falsche-polizisten-betruegen---jaehrige-um-niedrigen-fuenfstelligen-betrag-a-140663",
+    "published": "Thu, 19 Nov 2026 10:25:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-19T11:17:38.466415",
+    "feed_kommunen": []
+  },
+  {
     "id": "6528501c6094",
     "title": "B256: Reparaturarbeiten an der Hauptstraße in Waldbröl-Hermesdorf",
     "summary": "Die Straßen.NRW Regionalniederlassung Rhein-Berg startet voraussichtlich am Montag (23.11.) mit Ausbesserungsarbeiten an der B256 (Hauptstraße) in Waldbröl-Hermesdorf. Im Rahmen der Maßnahme werden im Abschnitt zwischen dem Kreisverkehr und Ortsausgang auf […]",
@@ -52081,6 +52148,36 @@
       "wiehl"
     ],
     "fetched": "2026-11-18T09:17:32.768579",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "557cf348ae37",
+    "title": "Das siebte Kind im Mittelpunkt",
+    "summary": "Der kleine Manuel aus Oberbantenberg hat als siebtes Kind der Familie Schulz einen prominenten Paten: Bundespräsident Frank-Walter Steinmeier. Bürgermeister Ulrich Stücker überbrachte die Urkunde.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9616-das-siebte-kind-im-mittelpunkt.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-19T11:17:40.845395",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "09d30cfb20c9",
+    "title": "Kreativer Bastelspaß in der Stadtbücherei",
+    "summary": "„Waffeln und Basteln“ heißt es am 3. Dezember 2026 in der Stadtbücherei Wiehl. Die Kinder können ihrer Kreativität freien Lauf lassen und beispielsweise Weihnachtsbaumschmuck gestalten.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9614-kreativer-bastelspass-in-der.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-19T11:17:40.845583",
     "feed_kommunen": [
       "wiehl"
     ]

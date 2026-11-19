@@ -1,5 +1,32 @@
 [
   {
+    "id": "7a2769eb10d5",
+    "title": "Wiehl: Betrug durch falsche Polizisten – 86-Jährige übergibt Bargeld und Karte",
+    "summary": "Betrug in Wiehl: Falsche Polizisten bringen eine 86-Jährige um Bargeld und Girokarte. In Gummersbach scheitert die Zahlung für vier iPhones.",
+    "link": "https://www.news-on-tour.de/346465/wiehl-betrug-falsche-polizisten/",
+    "published": "Thu, 19 Nov 2026 10:15:26 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-19T11:17:32.705501",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8ba0654216d4",
+    "title": "Falsche Polizisten betrügen 86-Jährige um niedrigen fünfstelligen Betrag",
+    "summary": "Wiehl - Unbekannter machte sich verdächtig, weil er gleich vier Smartphones auf einmal kaufen wollte - Zuvor wurde die Seniorin dazu gebracht, Geld abzuheben.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/falsche-polizisten-betruegen---jaehrige-um-niedrigen-fuenfstelligen-betrag-a-140663",
+    "published": "Thu, 19 Nov 2026 10:25:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-19T11:17:38.466415",
+    "feed_kommunen": []
+  },
+  {
     "id": "7770dfaee23a",
     "title": "Zunft-Kölsch-Pokal: „Verlässlichkeit ist das große Wort“",
     "summary": "Wiehl - Bei der Siegerehrung im Bielsteiner Braustübchen standen die langjährige Partnerschaft und die Zukunft des oberbergischen Handballs im Mittelpunkt - Neben höheren Preisgeldern planen die Sponsoren und der Handballkreis für die Frauen künftig zwei Pokalwettbewerbe.",
@@ -4580,6 +4607,36 @@
       "wiehl"
     ],
     "fetched": "2026-11-18T09:17:32.768579",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "557cf348ae37",
+    "title": "Das siebte Kind im Mittelpunkt",
+    "summary": "Der kleine Manuel aus Oberbantenberg hat als siebtes Kind der Familie Schulz einen prominenten Paten: Bundespräsident Frank-Walter Steinmeier. Bürgermeister Ulrich Stücker überbrachte die Urkunde.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9616-das-siebte-kind-im-mittelpunkt.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-19T11:17:40.845395",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "09d30cfb20c9",
+    "title": "Kreativer Bastelspaß in der Stadtbücherei",
+    "summary": "„Waffeln und Basteln“ heißt es am 3. Dezember 2026 in der Stadtbücherei Wiehl. Die Kinder können ihrer Kreativität freien Lauf lassen und beispielsweise Weihnachtsbaumschmuck gestalten.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9614-kreativer-bastelspass-in-der.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-19T11:17:40.845583",
     "feed_kommunen": [
       "wiehl"
     ]

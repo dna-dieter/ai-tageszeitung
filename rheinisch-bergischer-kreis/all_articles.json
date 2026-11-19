@@ -1,5 +1,46 @@
 [
   {
+    "id": "81c760dd601b",
+    "title": "Bürgermeister Marcel Kreutz verleiht Ehrennadel an ehemalige Ratsmitglieder",
+    "summary": "In seiner Rede stellte Bürgermeister Marcel Kreutz besonders den langjährigen kommunalpolitischen Einsatz der ehemaligen Ratsmitglieder heraus, die mit viel Zeit, persönlichem Engagement und Verantwortungsbewusstsein die Entwicklung der Stadt maßgeblich mitgestaltet haben.Der Bürgermeister ehrte in dieser Feierstunde die ausgeschiedenen Ratsmitglieder in unterschiedlicher Weise. Gewürdigt wurde un",
+    "link": "http://www.bergischgladbach.de/Newsdetails.aspx?NewsId=52886",
+    "published": "2026-11-19 11:00:05",
+    "source": "Stadt Bergisch Gladbach (offiziell)",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-19T11:16:07.135162",
+    "feed_kommunen": [
+      "bergisch-gladbach"
+    ]
+  },
+  {
+    "id": "3f83c7328e19",
+    "title": "Mehr als eine Ausleihstation: Stadtbücherei Bergisch Gladbach: Viel Betrieb mit wenig Team",
+    "summary": "Der Jahresbericht zeigt: Die Bücherei bietet viel, hat aber weniger Personal und Geld für Medien als vergleichbare Häuser – vor dem Umzug aufs Zanders-Gelände.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/stadtbuecherei-bergisch-gladbach-hohe-auslastung-trotz-personalnot-1420234",
+    "published": "Thu, 19 Nov 2026 09:36:04 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-19T11:16:07.795564",
+    "feed_kommunen": []
+  },
+  {
+    "id": "fffb14275a77",
+    "title": "Junger Generation Stimme geben: Treffpunkte statt Umfragen: Was junge Menschen fordern",
+    "summary": "Beim 31. Altenberger Forum fordern Jugendvertreter freie Treffpunkte und echte Mitsprache – und Fachleute, dass Jugendarbeit bei Haushaltsentscheidungen abgesichert wird.",
+    "link": "https://www.ksta.de/region/rhein-berg/odenthal/altenberger-forum-junge-menschen-fordern-treffpunkte-und-mitsprache-1420232",
+    "published": "Thu, 19 Nov 2026 09:33:34 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-19T11:16:07.795766",
+    "feed_kommunen": []
+  },
+  {
     "id": "55d07830e9c4",
     "title": "700 Kinder beim Neustart vor der Bühne",
     "summary": "Alle Kindergärten und der Offene Ganztag nahmen die Einladung des Kulturvereins an: Beim Kindertheater im Bürgerzentrum herrschte Hochbetrieb. Auf dem Spielplan stand der bunte Elefant Elmar.",
@@ -13,6 +54,19 @@
     "feed_kommunen": [
       "wermelskirchen"
     ]
+  },
+  {
+    "id": "0db7fd94affa",
+    "title": "Spielzeit und Termine: „Femme fatale“: Premiere im Altenberger Spiegelzelt am Freitag",
+    "summary": "Neun Artistinnen und Musikerinnen aus sieben Ländern proben im Altenberger Spiegelzelt die Dinnershow „Femme fatale“, die am Freitag, 20. November, Premiere hat.",
+    "link": "https://www.ksta.de/region/rhein-berg/odenthal/dinnershow-femme-fatale-feiert-premiere-im-altenberger-spiegelzelt-1420226",
+    "published": "Thu, 19 Nov 2026 09:19:58 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-19T11:16:07.795978",
+    "feed_kommunen": []
   },
   {
     "id": "6eb114facf61",
@@ -66,6 +120,32 @@
       "wermelskirchen"
     ],
     "fetched": "2026-11-19T09:16:09.606764",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c448225d8f68",
+    "title": "Lichterfest im Bergischen Museum",
+    "summary": "Das Bergische Museum lädt am Samstag zum traditionellen Lichterfest ein. Zwischen historischen Fachwerkhäusern und beleuchteten Werkstätten gibt es Handwerk zum Entdecken, Märchen, Bastelangebote und warme Speisen. Besucherinnen und Besucher können auch eigene Lichter mitbringen.",
+    "link": "https://in-gl.de/2026/11/19/lichterfest-im-bergischen-museum/",
+    "published": "Thu, 19 Nov 2026 06:20:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-19T11:15:37.310450",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c6fef65a36dc",
+    "title": "Voiswinkeler Wichtel feiern doppeltes Jubiläum",
+    "summary": "30 Jahre Hauswichtel und 25 Jahre Waldwichtel: Die Elterninitiative Voiswinkeler Wichtel e.V. feiert ihre Jubiläen am Samstag den 21. November mit einem Handwerkermarkt in der Kita an der Sankt-Engelbert-Straße in Odenthal. Neben Leckereien und verschiedenen Mitmachangeboten für Kinder können Besucherinnen und Besucher die beiden Kitas und ihre pädagogische Arbeit kennenlernen.",
+    "link": "https://in-gl.de/2026/11/19/doppeltes-jubilaum-bei-den-voiswinkeler-wichteln-kita-odenthal/",
+    "published": "Thu, 19 Nov 2026 05:01:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "odenthal"
+    ],
+    "fetched": "2026-11-19T11:15:37.310728",
     "feed_kommunen": []
   },
   {
