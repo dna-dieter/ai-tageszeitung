@@ -1,5 +1,34 @@
 [
   {
+    "id": "6528501c6094",
+    "title": "B256: Reparaturarbeiten an der Hauptstraße in Waldbröl-Hermesdorf",
+    "summary": "Die Straßen.NRW Regionalniederlassung Rhein-Berg startet voraussichtlich am Montag (23.11.) mit Ausbesserungsarbeiten an der B256 (Hauptstraße) in Waldbröl-Hermesdorf. Im Rahmen der Maßnahme werden im Abschnitt zwischen dem Kreisverkehr und Ortsausgang auf […]",
+    "link": "https://www.waldbroel.de/b256-reparaturarbeiten-an-der-hauptstrasse-in-waldbroel-hermesdorf/",
+    "published": "Thu, 19 Nov 2026 09:06:38 +0000",
+    "source": "Stadt Waldbröl (offiziell)",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-19T10:17:28.853961",
+    "feed_kommunen": [
+      "waldbroel"
+    ]
+  },
+  {
+    "id": "73be50a7e493",
+    "title": "POL-GM: Auto kollidiert mit Straßenlaterne",
+    "summary": "Waldbröl (ots) - Auf dem Parkplatz eines Supermarktes im Raabeweg ist es am Mittwochabend (18. November) zu einem Verkehrsunfall gekommen. Ein 18-jähriger Morsbacher war gegen 22:15 Uhr mit seinem Opel auf dem Parkplatz unterwegs, als er frontal ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6393664",
+    "published": "Thu, 19 Nov 2026 09:30:09 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "morsbach",
+      "waldbroel"
+    ],
+    "fetched": "2026-11-19T10:17:23.662799",
+    "feed_kommunen": []
+  },
+  {
     "id": "cdafcd83c41a",
     "title": "Waldbröl: Carmen Brüne-Codrean stellt im Bürgerdorf aus – dazu Gelbe Säcke ab 2027 ohne Gutschein",
     "summary": "Neue Ausstellung im Waldbröler Bürgerdorf: Carmen Brüne-Codrean zeigt bis 18. Dezember ihre Werke. Ab 2027 kein gedruckter Abfallkalender mehr für alle Haushalte, Gelbe Säcke ohne Gutschein.",
@@ -23,19 +52,6 @@
       "waldbroel"
     ],
     "fetched": "2026-11-18T17:17:18.395617",
-    "feed_kommunen": []
-  },
-  {
-    "id": "d1d2fbdec0ac",
-    "title": "B256: Reparaturarbeiten an der Hauptstraße",
-    "summary": "Waldbröl – In Hermesdorf sollen ab Montag Schadenstellen an der Fahrbahnstrecke repariert werden.",
-    "link": "http://www.oberberg-aktuell.de/waldbroel/b-----reparaturarbeiten-an-der-hauptstra--e-a-140619",
-    "published": "Wed, 18 Nov 2026 11:59:00 +0100",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "waldbroel"
-    ],
-    "fetched": "2026-11-18T12:17:26.043660",
     "feed_kommunen": []
   },
   {

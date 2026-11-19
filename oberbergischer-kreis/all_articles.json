@@ -1,5 +1,60 @@
 [
   {
+    "id": "6528501c6094",
+    "title": "B256: Reparaturarbeiten an der Hauptstraße in Waldbröl-Hermesdorf",
+    "summary": "Die Straßen.NRW Regionalniederlassung Rhein-Berg startet voraussichtlich am Montag (23.11.) mit Ausbesserungsarbeiten an der B256 (Hauptstraße) in Waldbröl-Hermesdorf. Im Rahmen der Maßnahme werden im Abschnitt zwischen dem Kreisverkehr und Ortsausgang auf […]",
+    "link": "https://www.waldbroel.de/b256-reparaturarbeiten-an-der-hauptstrasse-in-waldbroel-hermesdorf/",
+    "published": "Thu, 19 Nov 2026 09:06:38 +0000",
+    "source": "Stadt Waldbröl (offiziell)",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-19T10:17:28.853961",
+    "feed_kommunen": [
+      "waldbroel"
+    ]
+  },
+  {
+    "id": "7770dfaee23a",
+    "title": "Zunft-Kölsch-Pokal: „Verlässlichkeit ist das große Wort“",
+    "summary": "Wiehl - Bei der Siegerehrung im Bielsteiner Braustübchen standen die langjährige Partnerschaft und die Zukunft des oberbergischen Handballs im Mittelpunkt - Neben höheren Preisgeldern planen die Sponsoren und der Handballkreis für die Frauen künftig zwei Pokalwettbewerbe.",
+    "link": "http://www.oberberg-aktuell.de/handball/zunft-k--lsch-pokal-----verl--sslichkeit-ist-das-gro--e-wort----a-140650",
+    "published": "Thu, 19 Nov 2026 09:40:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-19T10:17:25.311251",
+    "feed_kommunen": []
+  },
+  {
+    "id": "0275fe6244e0",
+    "title": "POL-GM: Falsche Polizisten betrügen 86-Jährige",
+    "summary": "Wiehl (ots) - Ein verdächtiger Zahlungsvorgang in einem Elektronikmarkt führte die Polizei am Mittwoch (18. November) auf die Spur eines Betrugs zum Nachteil einer 86-jährigen Wiehlerin. Gegen 17:15 Uhr versuchte ein Unbekannter in einem ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6393665",
+    "published": "Thu, 19 Nov 2026 09:30:15 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-19T10:17:23.662645",
+    "feed_kommunen": []
+  },
+  {
+    "id": "73be50a7e493",
+    "title": "POL-GM: Auto kollidiert mit Straßenlaterne",
+    "summary": "Waldbröl (ots) - Auf dem Parkplatz eines Supermarktes im Raabeweg ist es am Mittwochabend (18. November) zu einem Verkehrsunfall gekommen. Ein 18-jähriger Morsbacher war gegen 22:15 Uhr mit seinem Opel auf dem Parkplatz unterwegs, als er frontal ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6393664",
+    "published": "Thu, 19 Nov 2026 09:30:09 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "morsbach",
+      "waldbroel"
+    ],
+    "fetched": "2026-11-19T10:17:23.662799",
+    "feed_kommunen": []
+  },
+  {
     "id": "e20fd52c38c7",
     "title": "Herbstwald",
     "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
@@ -350,19 +405,6 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-18T12:17:26.043571",
-    "feed_kommunen": []
-  },
-  {
-    "id": "d1d2fbdec0ac",
-    "title": "B256: Reparaturarbeiten an der Hauptstraße",
-    "summary": "Waldbröl – In Hermesdorf sollen ab Montag Schadenstellen an der Fahrbahnstrecke repariert werden.",
-    "link": "http://www.oberberg-aktuell.de/waldbroel/b-----reparaturarbeiten-an-der-hauptstra--e-a-140619",
-    "published": "Wed, 18 Nov 2026 11:59:00 +0100",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "waldbroel"
-    ],
-    "fetched": "2026-11-18T12:17:26.043660",
     "feed_kommunen": []
   },
   {
