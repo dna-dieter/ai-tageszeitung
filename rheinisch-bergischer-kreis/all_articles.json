@@ -1,5 +1,18 @@
 [
   {
+    "id": "4c50f509615f",
+    "title": "Diesjähriger Umweltwirtschaftspreis geht an Metallrecycling von Cleansort aus Rösrath",
+    "summary": "Preisträger machen Kreislaufwirtschaft in der Industrie zum Geschäftsmodell",
+    "link": "https://rbw.de/umweltwirtschaftspreis-cleansort/",
+    "published": "Thu, 19 Nov 2026 07:41:41 +0000",
+    "source": "Rheinisch-Bergische Wirtschaftsförderung (RBW)",
+    "kommunen": [
+      "roesrath"
+    ],
+    "fetched": "2026-11-19T09:16:16.303786",
+    "feed_kommunen": []
+  },
+  {
     "id": "37a748f0d14c",
     "title": "Wenn Schule neue Wege sucht",
     "summary": "Der nächste „Dialog im Eifgen“ am Sonntag, 22. November, beschäftigt sich mit den Defiziten im Schulsystem und möglichen Lösungsideen.",
@@ -13,6 +26,19 @@
     "feed_kommunen": [
       "wermelskirchen"
     ]
+  },
+  {
+    "id": "0b042008ea05",
+    "title": "POL-RBK: Wermelskirchen - Zwei Einbrüche im Stadtgebiet - Suche nach den Tätern mit Unterstützung eines Diensthundes blieb ohne Erfolg",
+    "summary": "Wermelskirchen (ots) - Gestern (18.11.) ist die Polizei zu zwei Einbrüchen im Stadtgebiet von Wermelskirchen gerufen worden. In der Mozartstraße sind an einem Einfamilienhaus beschädigte Rollläden sowie Hebelspuren an einer Tür festgestellt ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6393568",
+    "published": "Thu, 19 Nov 2026 08:04:39 +0100",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-11-19T09:16:09.606764",
+    "feed_kommunen": []
   },
   {
     "id": "d3e27dec4c07",
