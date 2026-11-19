@@ -95,6 +95,22 @@
     "feed_kommunen": []
   },
   {
+    "id": "bc670e91ca90",
+    "title": "Schneeräumen mit Verbindung ins All: Winterdienst im Oberbergischen: Tausende Tonnen Salz bereit",
+    "summary": "Der Bauhof Wipperfürth/Hückeswagen setzt erstmals Feuchtsalzstreuer ein, auch Gummersbach, Waldbröl und Straßen NRW haben für den Winter Salz und Technik aufgestockt.",
+    "link": "https://www.ksta.de/region/oberberg/wipperfuerth/winterdienst-im-oberbergischen-so-ruesten-sich-die-bauhoefe-1420230",
+    "published": "Thu, 19 Nov 2026 09:30:25 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "waldbroel",
+      "gummersbach",
+      "hueckeswagen",
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-19T12:17:13.734544",
+    "feed_kommunen": []
+  },
+  {
     "id": "0275fe6244e0",
     "title": "POL-GM: Falsche Polizisten betrügen 86-Jährige",
     "summary": "Wiehl (ots) - Ein verdächtiger Zahlungsvorgang in einem Elektronikmarkt führte die Polizei am Mittwoch (18. November) auf die Spur eines Betrugs zum Nachteil einer 86-jährigen Wiehlerin. Gegen 17:15 Uhr versuchte ein Unbekannter in einem ...",
@@ -119,6 +135,19 @@
       "waldbroel"
     ],
     "fetched": "2026-11-19T10:17:23.662799",
+    "feed_kommunen": []
+  },
+  {
+    "id": "84f2bcf4d95a",
+    "title": "Pflegeinfrastruktur: Pflegereform: Oberberg debattiert über Sparzwang und Folgen",
+    "summary": "Das Pflegenetzwerk Oberberg hatte in den Innovation Hub geladen: Im Fokus standen die Folgen des geplanten Pflegeneuordnungsgesetzes für die Versorgung vor Ort.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/pflegereform-im-oberbergischen-kreis-debatte-ueber-sparzwang-1420228",
+    "published": "Thu, 19 Nov 2026 09:27:21 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-19T12:17:13.734705",
     "feed_kommunen": []
   },
   {
