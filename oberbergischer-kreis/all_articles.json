@@ -1,5 +1,115 @@
 [
   {
+    "id": "5e4fe67eae3a",
+    "title": "Penguins verpassen den dritten Heimsieg",
+    "summary": "Wiehl - Im Duell um Platz sieben der Regionalliga unterliegen die Wiehl Penguins den Grizzlys Bergkamen.",
+    "link": "http://www.oberberg-aktuell.de/sportmix/penguins-verpassen-den-dritten-heimsieg-a-140675",
+    "published": "Thu, 19 Nov 2026 14:10:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-19T14:17:36.482745",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f3af7db43e63",
+    "title": "Die Steuererhöhung soll kommen",
+    "summary": "Lindlar – Der Haupt- und Finanzausschuss hat der im HSK geplanten Erhöhung des Hebesatzes der Grundsteuer B auf 1.131 Prozentpunkte zugestimmt.",
+    "link": "http://www.oberberg-aktuell.de/politik/die-steuererh--hung-soll-kommen-a-140672",
+    "published": "Thu, 19 Nov 2026 14:06:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-19T14:17:36.482871",
+    "feed_kommunen": []
+  },
+  {
+    "id": "844941f7d733",
+    "title": "Organisierte Kriminalität: Polizei durchsucht mehrere Objekte in Solingen",
+    "summary": "In Solingen, Remscheid und Radevormwald sowie zahlreichen weiteren Städten im gesamten Bundesgebiet fanden am Donnerstag Durchsuchungen zahlreicher Gebäude statt. In Solingen war unter anderem eine Villa in Wald betroffen. Die Staatsanwaltschaft Trier führt die Ermittlungen.",
+    "link": "https://www.rga.de/lokales/remscheid/polizei-durchsucht-villa-in-solingen-wald-74QQDCWHTVBKVDREF7KBJYUE6U.html",
+    "published": "Thu, 19 Nov 2026 13:59:03 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "radevormwald",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-19T14:17:29.740898",
+    "feed_kommunen": [
+      "hueckeswagen",
+      "radevormwald"
+    ]
+  },
+  {
+    "id": "1a5c65d22d41",
+    "title": "Aus dem Ruheraum wurde die Chilloase",
+    "summary": "Marienheide – An der Grundschule machte man aus der Not eine Tugend und integrierte den OGS-Ausbau in den Bestandgebäuden – Neue Wege bei der Inklusion – Gedenkstätte am Alten Friedhof – Zuschuss beim Deutschlandticket entfällt.",
+    "link": "http://www.oberberg-aktuell.de/politik/aus-dem-ruheraum-wurde-die-chilloase-a-140671",
+    "published": "Thu, 19 Nov 2026 13:50:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "marienheide"
+    ],
+    "fetched": "2026-11-19T14:17:36.483057",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f7063a4a3c4e",
+    "title": "Mehrere Nachholspiele am spielfreien Wochenende",
+    "summary": "Oberberg - Verbandsliga: Für das erste Wahlscheider Heimspiel gegen Hückeswagen erteilt die Stadt Lohmar nun doch keine Harzfreigabe - Frauen-Regionalliga: Gelpe/Strombach trifft auf verlustpunktfreie Königshofer - Frauen-Verbandsliga: Wölfe haben den dritten Sieg in Folge im Visier.",
+    "link": "http://www.oberberg-aktuell.de/handball/hb---------a-140648",
+    "published": "Thu, 19 Nov 2026 13:40:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-19T14:17:36.483255",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8c4b589bcfdc",
+    "title": "Kartenversuch in Gummersbach fällt auf",
+    "summary": "Ein verdächtiger Zahlungsvorgang in einem Gummersbacher Elektronikmarkt hat die Polizei am Mittwoch, 18. November, auf einen Betrug zum Nachteil einer 86-jährigen Wiehlerin aufmerksam gemacht. Die Frau hatte einem Unbekannten zuvor Bargeld, ihre Girokarte und die dazugehörige PIN übergeben. Gegen 17.15 Uhr versuchte ein Mann, in dem Geschäft an der Steinmüllerallee vier iPhones mit einer Bankkarte",
+    "link": "https://www.rheinische-anzeigenblaetter.de/oberberg/c-blaulicht/kartenversuch-in-gummersbach-faellt-auf_a383297",
+    "published": "Thu, 19 Nov 2026 13:37:14 +0100",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "gummersbach",
+      "wiehl"
+    ],
+    "fetched": "2026-11-19T14:17:37.675089",
+    "feed_kommunen": []
+  },
+  {
+    "id": "50db5c226209",
+    "title": "Auto prallt auf Supermarktparkplatz gegen Laterne – zwei Verletzte",
+    "summary": "Bei einem Unfall auf dem Parkplatz eines Supermarkts am Raabeweg in Waldbröl sind am Mittwochabend, 18. November, zwei junge Menschen leicht verletzt worden. Ein 18-Jähriger aus Morsbach war nach Angaben der Polizei gegen 22.15 Uhr mit seinem Opel auf dem Parkplatz unterwegs. Dabei fuhr er frontal gegen eine Straßenlaterne. Der Fahrer und seine 15-jährige Beifahrerin aus Waldbröl wurden zur ambula",
+    "link": "https://www.rheinische-anzeigenblaetter.de/waldbroel/c-blaulicht/auto-prallt-auf-supermarktparkplatz-gegen-laterne-zwei-verletzte_a383294",
+    "published": "Thu, 19 Nov 2026 13:28:01 +0100",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "waldbroel",
+      "morsbach"
+    ],
+    "fetched": "2026-11-19T14:17:37.675396",
+    "feed_kommunen": []
+  },
+  {
+    "id": "00dd34bc38cb",
+    "title": "Umweltwirtschaftspreis: ONI-Wärmetrafo holt dritten Platz",
+    "summary": "Lindlar - NRW.BANK und Umweltministerium zeichneten das Unternehmen aus.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/umweltwirtschaftspreis--oni-w--rmetrafo-holt-dritten-platz-a-140669",
+    "published": "Thu, 19 Nov 2026 13:28:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-19T14:17:36.483337",
+    "feed_kommunen": []
+  },
+  {
     "id": "bc3050a1239b",
     "title": "Nach Ballgewinnen und Standards hellwach: Wiehls U17 im Pokalfinale",
     "summary": "Oberberg – Die Wiehler B-Jugend setzt sich im Pokalhalbfinale gegen den Mittelrheinliga-Konkurrenten Bergisch Gladbach durch und darf weiter vom Cupgewinn träumen.",
