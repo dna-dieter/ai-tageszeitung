@@ -84,6 +84,19 @@
     "feed_kommunen": []
   },
   {
+    "id": "f2dee5f13ea4",
+    "title": "Flüchtlinge: Stadt gibt Hermann-Löns-Hallen auf",
+    "summary": "Im Juni hat die Stadtverwaltung ein Konzept für die Unterbringung von Geflüchteten vorgelegt; weil einige Einrichtungen wegfallen, sollten 300 neue Plätze geschaffen werden. Nach einem Einspruch der CDU gibt es nun eine neue Vorlage mit drei Varianten. Auf die Hermann-Löns-Hallen als Reserve will die Stadt verzichten.",
+    "link": "https://in-gl.de/2026/11/19/fluechtlinge-stadt-gibt-hermann-loens-hallen-auf/",
+    "published": "Thu, 19 Nov 2026 08:19:51 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-19T13:15:36.495528",
+    "feed_kommunen": []
+  },
+  {
     "id": "6eb114facf61",
     "title": "POL-RBK: Kürten - Einbruch in Getränkemarkt",
     "summary": "Kürten (ots) - In der Nacht zu Donnerstag (19.11.) brachen bislang unbekannte Täter in den Getränkemarkt eines Lebensmittelgeschäftes an der Kölner Straße ein. Augenscheinlich machten sie bei dem Einbruch jedoch keine Beute. Gegen 02:15 Uhr ...",
@@ -208,19 +221,6 @@
     "feed_kommunen": [
       "burscheid"
     ]
-  },
-  {
-    "id": "47f1c3b8ebdc",
-    "title": "Flüchtlinge: Stadt gibt Hermann-Löns-Hallen auf",
-    "summary": "Im Juni hat die Stadtverwaltung ein Konzept für die Unterbringung von Geflüchteten vorgelegt; weil einige Einrichtungen wegfallen sollten 300 neue Plätze geschaffen werden. Nach einem Einspruch der CDU gibt es nun eine neue Vorlage mit drei Varianten. Auf die Hermann-Löns-Hallen als Reserve will die Stadt verzichten.",
-    "link": "https://in-gl.de/2026/11/18/fluechtlinge-stadt-gibt-hermann-loens-hallen-auf/",
-    "published": "Wed, 18 Nov 2026 20:19:51 +0000",
-    "source": "iGL Bürgerportal Bergisch Gladbach",
-    "kommunen": [
-      "kreisweite-nachrichten"
-    ],
-    "fetched": "2026-11-18T22:15:37.802459",
-    "feed_kommunen": []
   },
   {
     "id": "b9949e720b3c",
