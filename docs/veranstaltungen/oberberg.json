@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
-    "datum": "19. Nov 2026",
-    "datum_raw": "2026-11-19T11:00:00+02:00",
-    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
-    "preis": "ab 6 €",
-    "link": "https://www.schloss-homburg.de/cms200schloss/museum/sonderausstellungen/vorschau/index.shtml.de",
-    "quelle": "Das Bergische",
-    "teaser": "Kleine Figuren erzählen große Geschichten! Das 100-jährige Jubiläum des Museums auf Schloss Homburg wird mit einer großen Sonderausstellung gefeiert. In faszinierenden Miniaturwelten werden regionale Geschichte und Gesch"
-  },
-  {
     "titel": "Winterdorf Gummersbach",
     "datum": "19. Nov 2026",
     "datum_raw": "2026-11-19T12:00:00+01:00",
@@ -58,6 +48,16 @@
     "link": "https://www.halle32.de/programm/don-pasquale-oper-fuer-alle-1298/",
     "quelle": "Das Bergische",
     "teaser": "Komische Oper von Gaetano Donizetti in deutscher Sprache Ein Projekt der Gummersbacher Philharmoniker, in Zusammenarbeit mit internationalen Solisten und dem VoxMusica Chor Wipperfürth e.V. unter der Leitung von Karsten "
+  },
+  {
+    "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
+    "datum": "20. Nov 2026",
+    "datum_raw": "2026-11-20T11:00:00+02:00",
+    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
+    "preis": "ab 6 €",
+    "link": "https://www.schloss-homburg.de/cms200schloss/museum/sonderausstellungen/vorschau/index.shtml.de",
+    "quelle": "Das Bergische",
+    "teaser": "Kleine Figuren erzählen große Geschichten! Das 100-jährige Jubiläum des Museums auf Schloss Homburg wird mit einer großen Sonderausstellung gefeiert. In faszinierenden Miniaturwelten werden regionale Geschichte und Gesch"
   },
   {
     "titel": "Nachts im Museum",
@@ -370,16 +370,6 @@
     "teaser": "Sonderfahrt mit der Dampflok \"Waldbröl\" vom Eisenbahnmuseum Dieringhausen nach Engelskirchen und zurück. Buchung nur über www.eisenbahnmuseum-dieringhausen.de. Auf dieser Seite findest Du auch immer die neuesten Informat"
   },
   {
-    "titel": "Weihnachtsmarkt Wiehl",
-    "datum": "5. Dez 2026",
-    "datum_raw": "2026-12-05T11:00:00+01:00",
-    "ort": "Rathausplatz, Bahnhofstraße 1, 51674 Wiehl",
-    "preis": "",
-    "link": "http://www.wiehl.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Am zweiten Adventswochenende verwandelt sich die Innenstadt wieder in eine kleine Weihnachtswelt. Zahlreiche Stände mit Kunsthandwerk, Leckereien und Geschenkideen, bestückt von Händlern und Wiehler Vereinen, erwarten di"
-  },
-  {
     "titel": "Nikolaus, Waffelduft und warme Getränke",
     "datum": "5. Dez 2026",
     "datum_raw": "2026-12-05T11:00:00+01:00",
@@ -398,6 +388,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Am Samstag, den 05.12.2026, wird es bei uns in Radevormwald richtig weihnachtlich! Von 11:00 bis 17:00 Uhr laden wir euch zu unserem kleinen, gemütlichen Benefiz-Weihnachtsmarkt für Mensch & Hund ein. Freut euch auf eine"
+  },
+  {
+    "titel": "Weihnachtsmarkt Wiehl",
+    "datum": "5. Dez 2026",
+    "datum_raw": "2026-12-05T11:00:00+01:00",
+    "ort": "Rathausplatz, Bahnhofstraße 1, 51674 Wiehl",
+    "preis": "",
+    "link": "http://www.wiehl.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Am zweiten Adventswochenende verwandelt sich die Innenstadt wieder in eine kleine Weihnachtswelt. Zahlreiche Stände mit Kunsthandwerk, Leckereien und Geschenkideen, bestückt von Händlern und Wiehler Vereinen, erwarten di"
   },
   {
     "titel": "Wintermarkt im Dörspetal",
