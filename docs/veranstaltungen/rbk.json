@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Bensberger Hüttenzauber",
-    "datum": "18. Nov 2026",
-    "datum_raw": "2026-11-18T17:00:00+01:00",
-    "ort": "Schlossstraße, 51429 Bergisch Gladbach",
-    "preis": "",
-    "link": "https://www.facebook.com/bensbergerhuettenzauber/?locale=de_DE",
-    "quelle": "Das Bergische",
-    "teaser": "Der „Bensberger Hüttenzauber“ verlängert die festliche Stimmung über die Weihnachtstage hinaus. Bis zum 30. Dezember erwartet die Gäste ein abwechslungsreiches Programm mit Live-Musik und kulinarischen Themenabenden. Auf"
-  },
-  {
     "titel": "Traditions-Weihnachtsmarkt Bergisch Gladbach Stadtmitte",
     "datum": "19. Nov 2026",
     "datum_raw": "2026-11-19T11:00:00+01:00",
@@ -28,6 +18,16 @@
     "link": "https://www.refrather-weihnachtsdorf.de/",
     "quelle": "Das Bergische",
     "teaser": "Vom 16. November bis 23. Dezember 2026 öffnet das Refrather Weihnachtsdorf seine Pforten. Feiern und genießen mitten im Herzen Refraths: Euch erwartet ein stimmungsvoller Markt mit kulinarischen Advents-Klassikern und li"
+  },
+  {
+    "titel": "Bensberger Hüttenzauber",
+    "datum": "19. Nov 2026",
+    "datum_raw": "2026-11-19T17:00:00+01:00",
+    "ort": "Schlossstraße, 51429 Bergisch Gladbach",
+    "preis": "",
+    "link": "https://www.facebook.com/bensbergerhuettenzauber/?locale=de_DE",
+    "quelle": "Das Bergische",
+    "teaser": "Der „Bensberger Hüttenzauber“ verlängert die festliche Stimmung über die Weihnachtstage hinaus. Bis zum 30. Dezember erwartet die Gäste ein abwechslungsreiches Programm mit Live-Musik und kulinarischen Themenabenden. Auf"
   },
   {
     "titel": "„Femme fatale“ mit dem Cirque Buffon",
