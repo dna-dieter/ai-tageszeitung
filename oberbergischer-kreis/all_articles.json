@@ -1,5 +1,33 @@
 [
   {
+    "id": "38635cf26302",
+    "title": "Bergneustadt: Haushaltsplan 2027 zeigt 12,44 Millionen Euro Defizit",
+    "summary": "Bergneustadt plant für 2027 rund 12,44 Millionen Euro Defizit. Umlagen und Personalkosten steigen, bei der Gewerbesteuer rechnet die Stadt mit weniger Geld.",
+    "link": "https://www.news-on-tour.de/346470/bergneustadt-haushaltsplan-2027/",
+    "published": "Thu, 19 Nov 2026 13:52:44 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-11-19T15:21:45.460310",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1b1af8a70a56",
+    "title": "Antrittsbesuche in Plan-De-Cuques und Mogilno",
+    "summary": "Bürgermeister Lukas Miebach hat den Herbst genutzt, um die beiden Engelskirchener Partnerkommunen zu besuchen.",
+    "link": "https://www.engelskirchen.de/portal/meldungen/antrittsbesuche-in-plan-de-cuques-und-mogilno-900002528-23501.html?rubrik=900000002",
+    "published": "Thu, 19 Nov 2026 14:29:00 +0100",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-19T15:21:53.741786",
+    "feed_kommunen": [
+      "engelskirchen"
+    ]
+  },
+  {
     "id": "5e4fe67eae3a",
     "title": "Penguins verpassen den dritten Heimsieg",
     "summary": "Wiehl - Im Duell um Platz sieben der Regionalliga unterliegen die Wiehl Penguins den Grizzlys Bergkamen.",
@@ -33,13 +61,28 @@
     "published": "Thu, 19 Nov 2026 13:59:03 +0100",
     "source": "RGA Hückeswagen",
     "kommunen": [
-      "radevormwald",
-      "hueckeswagen"
+      "hueckeswagen",
+      "radevormwald"
     ],
     "fetched": "2026-11-19T14:17:29.740898",
     "feed_kommunen": [
       "hueckeswagen",
       "radevormwald"
+    ]
+  },
+  {
+    "id": "9f363fc3801d",
+    "title": "Gartenblick im Rundblick",
+    "summary": "Astern – Farbenpracht bis zum Frost: Späte Blüten für einen klimaangepassten und artenreichen Garten",
+    "link": "https://www.engelskirchen.de/portal/meldungen/gartenblick-im-rundblick-900002527-23501.html?rubrik=900000010",
+    "published": "Thu, 19 Nov 2026 13:56:00 +0100",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-19T15:21:53.741873",
+    "feed_kommunen": [
+      "engelskirchen"
     ]
   },
   {
