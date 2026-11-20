@@ -1,5 +1,33 @@
 [
   {
+    "id": "9e0a678bd7ba",
+    "title": "Razzia in Solingen und Remscheid: Bande soll Gold erschlichen haben – fünf Festnahmen",
+    "summary": "Nach den Durchsuchungen in Solingen, Remscheid und weiteren Städten nennt die Polizei neue Details zu den Vorwürfen. Es geht um fünf Fälle, rund eine Million Euro Schaden und zahlreiche sichergestellte Wertgegenstände.",
+    "link": "https://www.rga.de/lokales/razzia-in-solingen-und-remscheid-bande-soll-gold-erschlichen-haben-fuenf-festnahmen-C7GC63UT4RF3BAM5MHU3GMGY2U.html",
+    "published": "Fri, 20 Nov 2026 14:19:05 +0100",
+    "source": "RGA Oberbergischer Kreis (Gesamt)",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-20T14:20:57.884239",
+    "feed_kommunen": []
+  },
+  {
+    "id": "94041033ee1a",
+    "title": "Zwei Fußgänger schwer verletzt",
+    "summary": "Bei einem Verkehrsunfall auf der Hohenfuhrstraße ist am Donnerstag ein 83-jähriger Fußgänger schwer verletzt worden.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/zwei-fussgaenger-schwer-verletzt-B4BL4OJLKT6ZDAUAV2GMEN4FPU.html",
+    "published": "Fri, 20 Nov 2026 13:58:39 +0100",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-11-20T14:20:55.492478",
+    "feed_kommunen": [
+      "radevormwald"
+    ]
+  },
+  {
     "id": "9ab9e7686dee",
     "title": "Geschenke für VfL-Weihnachtsaktion gesucht",
     "summary": "Gummersbach - Die Handballer und die Kinderklinik am Kreiskrankenhaus rufen die Fans der Mannschaft dazu auf, für die Kinder zu spenden.",
@@ -219,19 +247,6 @@
       "gummersbach"
     ],
     "fetched": "2026-11-20T11:17:20.065230",
-    "feed_kommunen": []
-  },
-  {
-    "id": "6b728577c39c",
-    "title": "Zwei Fußgänger bei Verkehrsunfällen schwer verletzt",
-    "summary": "Radevormwald – Zwei Männer wurden bei unterschiedlichen Unfällen von Autos erfasst und kamen ins Krankenhaus.",
-    "link": "http://www.oberberg-aktuell.de/blaulicht/zwei-fu--g--nger-bei-verkehrsunf--llen-schwer-verletzt-a-140723",
-    "published": "Fri, 20 Nov 2026 10:25:00 +0100",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "radevormwald"
-    ],
-    "fetched": "2026-11-20T11:17:20.065325",
     "feed_kommunen": []
   },
   {
@@ -603,7 +618,8 @@
     "published": "Thu, 19 Nov 2026 13:40:00 +0100",
     "source": "Oberberg-Aktuell",
     "kommunen": [
-      "hueckeswagen"
+      "hueckeswagen",
+      "gummersbach"
     ],
     "fetched": "2026-11-19T14:17:36.483255",
     "feed_kommunen": []

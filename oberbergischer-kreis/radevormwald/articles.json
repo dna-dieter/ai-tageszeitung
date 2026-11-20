@@ -1,5 +1,20 @@
 [
   {
+    "id": "94041033ee1a",
+    "title": "Zwei Fußgänger schwer verletzt",
+    "summary": "Bei einem Verkehrsunfall auf der Hohenfuhrstraße ist am Donnerstag ein 83-jähriger Fußgänger schwer verletzt worden.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/zwei-fussgaenger-schwer-verletzt-B4BL4OJLKT6ZDAUAV2GMEN4FPU.html",
+    "published": "Fri, 20 Nov 2026 13:58:39 +0100",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-11-20T14:20:55.492478",
+    "feed_kommunen": [
+      "radevormwald"
+    ]
+  },
+  {
     "id": "0a96520048ed",
     "title": "Radevormwald: Zwei Fußgänger angefahren – dazu weitere Polizeimeldungen",
     "summary": "Zwei Fußgänger in Radevormwald schwer verletzt: Unfälle an der Hohenfuhrstraße und der B229. Dazu ein Einbruchsversuch in Gummersbach-Becke.",
@@ -11,19 +26,6 @@
       "radevormwald"
     ],
     "fetched": "2026-11-20T12:17:13.330832",
-    "feed_kommunen": []
-  },
-  {
-    "id": "6b728577c39c",
-    "title": "Zwei Fußgänger bei Verkehrsunfällen schwer verletzt",
-    "summary": "Radevormwald – Zwei Männer wurden bei unterschiedlichen Unfällen von Autos erfasst und kamen ins Krankenhaus.",
-    "link": "http://www.oberberg-aktuell.de/blaulicht/zwei-fu--g--nger-bei-verkehrsunf--llen-schwer-verletzt-a-140723",
-    "published": "Fri, 20 Nov 2026 10:25:00 +0100",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "radevormwald"
-    ],
-    "fetched": "2026-11-20T11:17:20.065325",
     "feed_kommunen": []
   },
   {
