@@ -1,5 +1,18 @@
 [
   {
+    "id": "25d05bf7878a",
+    "title": "Polizei warnt vor falschen Bankschreiben: Betrugsbriefe an Firmen und Vereine: QR-Code als Falle",
+    "summary": "Die Briefe mit Bank-Logo richten sich bislang vor allem an Firmen, Vereine und Händler in Rhein-Berg. Die Polizei rät, Zweifel direkt bei der Bank zu klären.",
+    "link": "https://www.ksta.de/region/rhein-berg/polizei-rhein-berg-warnt-vor-gefaelschten-bankschreiben-1421505",
+    "published": "Fri, 20 Nov 2026 17:04:08 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-20T18:16:13.452470",
+    "feed_kommunen": []
+  },
+  {
     "id": "e585656d5747",
     "title": "Sozial, kurz und knapp: Strategie für Unterbringung der Flüchtlinge beschlossen",
     "summary": "Die Zahl der Flüchtlinge sinkt, dennoch geht die Stadtverwaltung von einem weiter hohen Bedarf an Unterkünften aus. Weil die Container-Anlage auf dem Carpark-Gelände geschlossen werden muss soll die Stadt Pläne für bis zu 300 Plätze erarbeiten, beschloss der Sozialausschuss. Darüber hinaus ging es um den Schutz von Frauen und Mädchen sowie um Inklusion. Wir fassen […]",
@@ -260,16 +273,17 @@
     "feed_kommunen": []
   },
   {
-    "id": "50b54a590775",
-    "title": "Blue statt black, spenden statt sparen",
-    "summary": "Dieses Jahr heißt es beim Bürgerportal wieder: Blue statt Black, Spenden ist schöner als Sparen. Statt auf eine Black-Friday-Rabatt-Schlacht setzen wir auf Gemeinsinn und Großzügigkeit. Wir laden Sie zur Blauen Woche ein: Von jedem neuen Abo spenden wir die Hälfte des Jahresbeitrags für einen sozialen Zweck hier vor Ort.",
+    "id": "bc3d32f8ada1",
+    "title": "Blue statt Black, spenden statt sparen",
+    "summary": "Dieses Jahr heißt es beim Bürgerportal wieder: Blue statt Black, Spenden ist schöner als Sparen. Statt auf eine Black-Friday-Rabatt-Schlacht setzen wir auf Gemeinsinn und Großzügigkeit. Wir laden Sie zur Blauen Woche ein: Von jedem Beitrag bis zum 29. November spenden wir die Hälfte für einen soziale Zweck in Bergisch Gladbach.",
     "link": "https://in-gl.de/2026/11/16/blue-statt-black-spenden-statt-sparen/",
     "published": "Mon, 16 Nov 2026 13:48:14 +0000",
     "source": "iGL Bürgerportal Bergisch Gladbach",
     "kommunen": [
+      "bergisch-gladbach",
       "kreisweite-nachrichten"
     ],
-    "fetched": "2026-11-20T15:15:38.077415",
+    "fetched": "2026-11-20T18:15:38.343503",
     "feed_kommunen": []
   },
   {

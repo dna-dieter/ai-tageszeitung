@@ -1,5 +1,18 @@
 [
   {
+    "id": "2ec17e3dc03a",
+    "title": "Kooperationsvereinbarung: Berufskollegs in Bergisch Gladbach rücken enger zusammen",
+    "summary": "Die beiden Bergisch Gladbacher Berufskollegs wollen gemeinsam Ausbildungsabbrüche verhindern und die Sprachförderung ausbauen – ohne zusätzliche Kosten für den Kreis.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/berufskollegs-in-bergisch-gladbach-ruecken-enger-zusammen-1421507",
+    "published": "Fri, 20 Nov 2026 17:11:14 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-20T18:16:13.452240",
+    "feed_kommunen": []
+  },
+  {
     "id": "6ddfd617d84e",
     "title": "Rastplatz an der A4: Kastenwagen kracht in Pannen-Lkw – Abschlepper unter Fahrzeug schwer verletzt",
     "summary": "Bei einem Auffahrunfall auf einem A4-Rastplatz bei Bergisch Gladbach wurden vier Männer verletzt, einer davon lebensgefährlich.",
@@ -594,6 +607,20 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-11-16T16:16:24.084819",
+    "feed_kommunen": []
+  },
+  {
+    "id": "bc3d32f8ada1",
+    "title": "Blue statt Black, spenden statt sparen",
+    "summary": "Dieses Jahr heißt es beim Bürgerportal wieder: Blue statt Black, Spenden ist schöner als Sparen. Statt auf eine Black-Friday-Rabatt-Schlacht setzen wir auf Gemeinsinn und Großzügigkeit. Wir laden Sie zur Blauen Woche ein: Von jedem Beitrag bis zum 29. November spenden wir die Hälfte für einen soziale Zweck in Bergisch Gladbach.",
+    "link": "https://in-gl.de/2026/11/16/blue-statt-black-spenden-statt-sparen/",
+    "published": "Mon, 16 Nov 2026 13:48:14 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach",
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-20T18:15:38.343503",
     "feed_kommunen": []
   },
   {
