@@ -1,5 +1,57 @@
 [
   {
+    "id": "cb542441d4ec",
+    "title": "Das erste Adventswochenende im Oberbergischen",
+    "summary": "Oberberg - Ein Überblick über einige Angebote in der Region.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/erstes-adventswochenende------a-123296",
+    "published": "Fri, 20 Nov 2026 17:15:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-20T17:17:51.081977",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8b73ac710236",
+    "title": "Ohne die Schnecke Emma wäre die Welt nur halb so schön",
+    "summary": "Gummersbach – Mehr als 50 Kinder der Gemeinschaftsgrundschule Körnerstraße lauschten im AOK-Haus der Geschichte von der Schnecke Emma, die Jan Schneider, Organisator der Handballakademie des VfL Gummersbach, vorlas.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/ohne-die-schnecke-emma-w--re-die-welt-nur-halb-so-sch--n-a-140745",
+    "published": "Fri, 20 Nov 2026 17:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-20T17:17:51.082143",
+    "feed_kommunen": []
+  },
+  {
+    "id": "334cc1d87a7e",
+    "title": "Unfall beeinträchtigt Umleitungsstrecke",
+    "summary": "Wiehl - Bei Forst hat es im Bereich zwischen Bundes- und Landstraße einen Unfall gegeben.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/unfall-beeintr--chtigt-umleitungsstrecke-a-140766",
+    "published": "Fri, 20 Nov 2026 16:53:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-20T17:17:51.082215",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b1d271ea0549",
+    "title": "Ein Gemeinschaftsprojekt, das Spaß gemacht hat",
+    "summary": "Lindlar – Im Wald bei Scheel entstand auf Initiative des Bürgervereins und mit Leader-Unterstützung eine Schutzhütte, die heute eingeweiht wurde.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/ein-gemeinschaftsprojekt--das-spa---gemacht-hat-a-140763",
+    "published": "Fri, 20 Nov 2026 16:40:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-20T17:17:51.082319",
+    "feed_kommunen": []
+  },
+  {
     "id": "20ac369698b6",
     "title": "Mehr Retterinnen und Retter: Neuer Bedarfsplan: Oberberg-Rettungsdienst wächst um 46 Stellen",
     "summary": "Der Kreis braucht laut neuem Bedarfsplan fast 50 Vollzeitstellen mehr; im Dezember soll der Kreistag über das Konzept entscheiden.",
@@ -52,16 +104,16 @@
     "feed_kommunen": []
   },
   {
-    "id": "83b9b0cf1594",
-    "title": "LVN-Crosslaufmeisterschaften: Starkes Ergebnisse für Wiehltaler LC",
-    "summary": "Oberberg - Nachwuchstalente waren in Wesseling erfolgreich - Penelope Fernandez-Echeverria lief auf den 6. Platz.",
+    "id": "56e08621fbe7",
+    "title": "LVN-Crosslaufmeisterschaften: Starke Ergebnisse für Wiehltaler LC",
+    "summary": "Oberberg - Nachwuchstalente waren in Wesseling erfolgreich - Penelope Fernandez-Echeverria lief auf den sechsten Platz.",
     "link": "http://www.oberberg-aktuell.de/leichtathletik/lvn-crosslaufmeisterschaften--starkes-ergebnis-f--r-penelope-fernandez-a-140747",
     "published": "Fri, 20 Nov 2026 14:55:00 +0100",
     "source": "Oberberg-Aktuell",
     "kommunen": [
       "wiehl"
     ],
-    "fetched": "2026-11-20T15:17:31.757348",
+    "fetched": "2026-11-20T17:17:51.082578",
     "feed_kommunen": []
   },
   {
