@@ -4693,5 +4693,20 @@
     "feed_kommunen": [
       "wiehl"
     ]
+  },
+  {
+    "id": "a3a26058cfd7",
+    "title": "BAV: „Zero Waste Club“ im Rathaus",
+    "summary": "Am Montag, 23. November 2026, gastiert der Bergische Abfallwirtschaftsverband (BAV) im Rathaus-Foyer. Mit seinem „Zero Waste Club“ vermittelt der Verband Informationen zur Abfallvermeidung.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9619-bav-zero-waste-club-im-rathaus.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-20T10:17:54.257924",
+    "feed_kommunen": [
+      "wiehl"
+    ]
   }
 ]

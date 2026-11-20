@@ -1,5 +1,31 @@
 [
   {
+    "id": "4c6a29dabff6",
+    "title": "Neue LEADER-Projekte bringen Spiel und Spaß",
+    "summary": "Oberberg - Von 10 Bewerbungen konnte die LEADER-Region sieben Vorhaben als förderwürdig einstufen und zur Förderung empfehlen.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/neue-leader-projekte-bringen-spiel-und-spa---a-140720",
+    "published": "Fri, 20 Nov 2026 09:55:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-20T10:17:51.521970",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a9a4a9532723",
+    "title": "24-Stunden-Warnstreik steht bevor",
+    "summary": "Gummersbach - IG Metall ruft bei Eaton Industries in Niedernhagen zur Arbeitsniederlegung auf - 99 Prozent Zustimmung - Gewerkschaft fordert fünf Prozent mehr Geld und verbindliche Perspektiven zur Beschäftigungssicherung.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/---stunden-warnstreik-steht-bevor-a-140719",
+    "published": "Fri, 20 Nov 2026 09:37:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-20T10:17:51.522104",
+    "feed_kommunen": []
+  },
+  {
     "id": "004546b57af9",
     "title": "Umarmungen und Herzen vor dem Heinhaus-Abschied",
     "summary": "Eine Mutter hat sich den Bon ihres letzten Einkaufs als Erinnerung gesichert, ein Kind ein Autogramm von Christiane Heinhaus. Die Kunden nehmen sie und Uwe Heinhaus in den Arm.",
@@ -52571,6 +52597,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-19T11:17:40.845583",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "a3a26058cfd7",
+    "title": "BAV: „Zero Waste Club“ im Rathaus",
+    "summary": "Am Montag, 23. November 2026, gastiert der Bergische Abfallwirtschaftsverband (BAV) im Rathaus-Foyer. Mit seinem „Zero Waste Club“ vermittelt der Verband Informationen zur Abfallvermeidung.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9619-bav-zero-waste-club-im-rathaus.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-20T10:17:54.257924",
     "feed_kommunen": [
       "wiehl"
     ]
