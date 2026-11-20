@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Traditions-Weihnachtsmarkt Bergisch Gladbach Stadtmitte",
-    "datum": "20. Nov 2026",
-    "datum_raw": "2026-11-20T11:00:00+01:00",
-    "ort": "Konrad-Adenauer Platz, Konrad-Adenauer Platz 1, 51465 Bergisch Gladbach",
-    "preis": "",
-    "link": "https://www.weihnachtsmarkt-bergischgladbach.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Der Weihnachtsmarkt in Bergisch Gladbach zentral auf dem Konrad-Adenauer-Platz gehört zu den größten im Rheinisch-Bergischen Kreis. Obwohl viele sagen: „Das ist doch jedes Jahr das Gleiche!“ stimmt es in gewisser Weise, "
-  },
-  {
     "titel": "Refrather Weihnachtsdorf",
     "datum": "20. Nov 2026",
     "datum_raw": "2026-11-20T15:00:00+01:00",
@@ -68,6 +58,16 @@
     "link": "https://www.bergischerloewe.de/programmdetails.aspx?vid=a45f9461-fd73-4f56-a904-710268b8dfc7&datum=20.11.2026",
     "quelle": "Das Bergische",
     "teaser": "Gerd J. Pohl liest Grenzwertiges von H.P. Lovecraft, Bram Stoker und Fjodor Dostojewski Der Amerikaner H.P. Lovecraft, der Ire Bram Stoker (weltberühmt vor allem durch seinen Roman \"Dracula\") und der Russe Fjodor Dostoje"
+  },
+  {
+    "titel": "Traditions-Weihnachtsmarkt Bergisch Gladbach Stadtmitte",
+    "datum": "21. Nov 2026",
+    "datum_raw": "2026-11-21T11:00:00+01:00",
+    "ort": "Konrad-Adenauer Platz, Konrad-Adenauer Platz 1, 51465 Bergisch Gladbach",
+    "preis": "",
+    "link": "https://www.weihnachtsmarkt-bergischgladbach.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Der Weihnachtsmarkt in Bergisch Gladbach zentral auf dem Konrad-Adenauer-Platz gehört zu den größten im Rheinisch-Bergischen Kreis. Obwohl viele sagen: „Das ist doch jedes Jahr das Gleiche!“ stimmt es in gewisser Weise, "
   },
   {
     "titel": "12. Vorweihnachtlicher Markt in der Lambertsmühle",
