@@ -1,5 +1,70 @@
 [
   {
+    "id": "0e467da3a5b5",
+    "title": "Versuchter Einbruch in Mehrfamilienhaus",
+    "summary": "Gummersbach - Unbekannte gelangten nicht in die Kellerräume und zogen wieder ab.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/versuchter-einbruch-in-mehrfamilienhaus-a-140725",
+    "published": "Fri, 20 Nov 2026 10:40:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-20T11:17:20.065230",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6b728577c39c",
+    "title": "Zwei Fußgänger bei Verkehrsunfällen schwer verletzt",
+    "summary": "Radevormwald – Zwei Männer wurden bei unterschiedlichen Unfällen von Autos erfasst und kamen ins Krankenhaus.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/zwei-fu--g--nger-bei-verkehrsunf--llen-schwer-verletzt-a-140723",
+    "published": "Fri, 20 Nov 2026 10:25:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-11-20T11:17:20.065325",
+    "feed_kommunen": []
+  },
+  {
+    "id": "09cb91dfc985",
+    "title": "POL-GM: Vorsicht bei der Schnäppchenjagd im Internet",
+    "summary": "Oberbergischer Kreis (ots) - Ende November, insbesondere rund um den Black Friday und den Cyber Monday, locken zahlreiche Händler mit Angeboten. Doch nicht jedes Angebot hält, was es verspricht. Betrüger nutzen die erhöhte Kaufbereitschaft ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6394527",
+    "published": "Fri, 20 Nov 2026 10:15:00 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-20T11:17:18.242509",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9e0791549114",
+    "title": "POL-GM: Zwei Fußgänger bei Verkehrsunfällen schwer verletzt",
+    "summary": "Radevormwald (ots) - Bei einem Verkehrsunfall auf der Hohenfuhrstraße ist am 19. November (Donnerstag) ein 83-jähriger Fußgänger schwer verletzt worden. Gegen 17 Uhr wollte der 83-Jährige aus Leichlingen die Hohenfuhrstraße mithilfe einer ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6394516",
+    "published": "Fri, 20 Nov 2026 10:10:45 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-11-20T11:17:18.242662",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4d9f2dcae68e",
+    "title": "POL-GM: Versuchter Einbruch in Mehrfamilienhaus",
+    "summary": "Gummersbach (ots) - Zwischen 19 und 22 Uhr am Donnerstag (19. November) haben Unbekannte versucht, in einen Kellerraum in einem Mehrfamilienhaus im Gummersbacher Ortsteil Becke einzubrechen. Dazu entfernten sie zunächst das Gitter eines ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6394514",
+    "published": "Fri, 20 Nov 2026 10:10:04 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-20T11:17:18.242792",
+    "feed_kommunen": []
+  },
+  {
     "id": "4c6a29dabff6",
     "title": "Neue LEADER-Projekte bringen Spiel und Spaß",
     "summary": "Oberberg - Von 10 Bewerbungen konnte die LEADER-Region sieben Vorhaben als förderwürdig einstufen und zur Förderung empfehlen.",

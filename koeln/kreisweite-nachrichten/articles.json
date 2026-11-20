@@ -1,5 +1,57 @@
 [
   {
+    "id": "d5e3327b23b4",
+    "title": "„Time Ride“: Neue Virtual-Reality-Tour führt durch weihnachtliches Köln vor 100 Jahren",
+    "summary": "Das Winter-Special von Time Ride entführt Besucher mit Virtual-Reality-Brillen in das verschneite Köln des Jahres 1926.",
+    "link": "https://www.ksta.de/koeln/koelner-innenstadt/altstadt-sued/time-ride-virtual-reality-tour-durch-das-koeln-von-1926-1420545",
+    "published": "Fri, 20 Nov 2026 11:03:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-20T11:18:11.388820",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ff0792594b57",
+    "title": "Glosse zum Hunde-Zoff am Klingelpützpark: Hört auf zu streiten, hört auf den Hund",
+    "summary": "Seit Jahren tobt in Köln ein Streit um eine Hundewiese. Ein Appell für mehr Gelassenheit.",
+    "link": "https://www.ksta.de/koeln/koelner-innenstadt/klingelpuetzpark-in-koeln-streit-um-freilaufflaechen-fuer-hunde-1420654",
+    "published": "Fri, 20 Nov 2026 11:03:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-20T11:18:11.388837",
+    "feed_kommunen": []
+  },
+  {
+    "id": "dfdf6b2d9c94",
+    "title": "Mit Eisbahn und Indoor-Markt: Größter Weihnachtsmarkt im Kölner Westen feiert Premiere",
+    "summary": "Auf dem ehemaligen 4711-Gelände entsteht ein riesiges Weihnachtsdorf mit Eisbahn und Lichtshow, das Indoor- und Outdoor-Angebote vereint.",
+    "link": "https://www.ksta.de/koeln/ehrenfeld/bickendorf/premiere-in-ehrenfeld-groesster-weihnachtsmarkt-im-koelner-westen-oeffnet-im-quartier-b-1420243",
+    "published": "Fri, 20 Nov 2026 11:01:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-20T11:18:11.388848",
+    "feed_kommunen": []
+  },
+  {
+    "id": "96b5f0f798bd",
+    "title": "Oberbürgermeister schlägt Ludwig Sebus als Ehrenbürger der Stadt Köln vor",
+    "summary": "20. November 2026, 10:51Würdigung für ein Lebenswerk im Zeichen von Demokratie, Freiheit und Menschlichkeit",
+    "link": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/oberbuergermeister-schlaegt-ludwig-sebus-als-ehrenbuerger-der-stadt-koeln-vor",
+    "published": "Fri, 20 Nov 2026 10:51:00 +0100",
+    "source": "Stadt Köln Pressemeldungen",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-20T11:18:11.060715",
+    "feed_kommunen": []
+  },
+  {
     "id": "3b3e65861de6",
     "title": "Nach Ibiza kommt Köln: Bootshaus wieder unter den Top 5 der weltbesten Clubs",
     "summary": "Das Kölner Bootshaus behauptet sich im internationalen Ranking der besten Clubs weltweit erneut unter den Top fünf und bleibt führend in Deutschland.",
