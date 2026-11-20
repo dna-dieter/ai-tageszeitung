@@ -1,5 +1,70 @@
 [
   {
+    "id": "a618b240b951",
+    "title": "Regen, Rauch und Rangeleien: Weitgehend friedlicher Protest bei „Gen Z regelt“-Demo in Köln",
+    "summary": "Rund 2500 Menschen demonstrierten durch Köln. Trotz gerichtlicher Erlaubnis für die Innenstadt kam es zu Rangeleien und Polizeieinsätzen.",
+    "link": "https://www.ksta.de/koeln/gen-z-regelt-demo-in-koeln-mit-kleineren-rangeleien-1421498",
+    "published": "Fri, 20 Nov 2026 19:03:46 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-20T20:18:17.482689",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9e41c37b83c2",
+    "title": "Arbeitgebertag 2026: Burmester verspricht: kein Anstieg der Gewerbesteuer",
+    "summary": "Beim Kölner Arbeitgebertag sicherte Oberbürgermeister Torsten Burmester den Unternehmen stabile Gewerbesteuern und weniger Bürokratie zu.",
+    "link": "https://www.ksta.de/wirtschaft/arbeitgebertag-2026-ob-burmester-verspricht-stabile-gewerbesteuer-1420873",
+    "published": "Fri, 20 Nov 2026 19:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-20T20:18:17.482712",
+    "feed_kommunen": []
+  },
+  {
+    "id": "87f30dfbb0fc",
+    "title": "Protest in der Innenstadt: Verregnete Gen-Z-Demo in Köln am frühen Abend beendet",
+    "summary": "Zum zweiten Mal ruft „Gen Z regelt“ am Freitag in Köln zur Kundgebung auf. Der „Schulstreik gegen Wehrpflicht“ schließt sich an.",
+    "link": "https://www.ksta.de/koeln/so-lief-die-gen-z-regelt-demo-am-freitag-in-koeln-1420494",
+    "published": "Fri, 20 Nov 2026 18:56:54 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-20T20:18:17.482729",
+    "feed_kommunen": []
+  },
+  {
+    "id": "07eabeb98226",
+    "title": "FC-Vorstand im Interview: „Da geht mehr – das Gefühl teile ich total“",
+    "summary": "Vor der Mitgliederversammlung zieht der FC-Vorstand Bilanz. Im Interview sprechen sie über Abstiegskampf, sportliche Ambitionen und Fankritik.",
+    "link": "https://www.ksta.de/sport/1-fc-koeln/fc-vorstand-im-interview-macht-ambitionen-und-abstiegskampf-1421567",
+    "published": "Fri, 20 Nov 2026 18:42:18 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-20T20:18:17.482741",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d69411a78282",
+    "title": "Auswahlverfahren in Köln: Drei Anbieter, 9999 E‑Scooter – So plant die Stadt ab April 2027",
+    "summary": "Ab April 2027 reduziert Köln die Zahl der E-Scooter-Anbieter auf drei und begrenzt die Flotte auf 9999 Fahrzeuge mit strengen Auflagen.",
+    "link": "https://www.ksta.de/koeln/e-scooter-in-koeln-stadt-begrenzt-zahl-der-fahrzeuge-auf-9999-1421295",
+    "published": "Fri, 20 Nov 2026 18:26:38 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-20T20:18:17.482754",
+    "feed_kommunen": []
+  },
+  {
     "id": "c27c570b39bb",
     "title": "Neue Regeln für E-Scooter: Köln halbiert Zahl der Leihroller – nur noch drei Anbieter",
     "summary": "Köln zieht bei Leihrollern die Zügel an: Künftig soll es nur noch 10.000 E-Scooter und drei Anbieter in der Stadt geben.",
