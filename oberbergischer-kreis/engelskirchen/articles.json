@@ -596,8 +596,7 @@
     "source": "Oberberg-Aktuell",
     "kommunen": [
       "engelskirchen",
-      "wiehl",
-      "kreisweite-nachrichten"
+      "wiehl"
     ],
     "fetched": "2026-11-06T14:17:21.686309",
     "feed_kommunen": []
@@ -625,7 +624,8 @@
     "published": "Thu, 05 Nov 2026 17:39:00 +0100",
     "source": "Gemeinde Engelskirchen (offiziell)",
     "kommunen": [
-      "engelskirchen"
+      "engelskirchen",
+      "wiehl"
     ],
     "fetched": "2026-11-05T18:17:39.234799",
     "feed_kommunen": [

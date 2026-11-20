@@ -1,5 +1,19 @@
 [
   {
+    "id": "dc5222e1cd6a",
+    "title": "Jana Gruber fährt zur U21-Europameisterschaft",
+    "summary": "Gummersbach - 17-jährige Jana Gruber wird Deutschland in Split vertreten.",
+    "link": "http://www.oberberg-aktuell.de/sportmix/jana-gruber-f--hrt-zur-u---europameisterschaft-a-140695",
+    "published": "Thu, 19 Nov 2026 16:15:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach",
+      "marienheide"
+    ],
+    "fetched": "2026-11-19T17:17:30.330929",
+    "feed_kommunen": []
+  },
+  {
     "id": "1a5c65d22d41",
     "title": "Aus dem Ruheraum wurde die Chilloase",
     "summary": "Marienheide – An der Grundschule machte man aus der Not eine Tugend und integrierte den OGS-Ausbau in den Bestandgebäuden – Neue Wege bei der Inklusion – Gedenkstätte am Alten Friedhof – Zuschuss beim Deutschlandticket entfällt.",
@@ -293,7 +307,8 @@
       "waldbroel",
       "wiehl",
       "wipperfuerth",
-      "marienheide"
+      "marienheide",
+      "gummersbach"
     ],
     "fetched": "2026-11-12T16:17:29.726297",
     "feed_kommunen": []

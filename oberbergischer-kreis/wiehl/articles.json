@@ -1,5 +1,44 @@
 [
   {
+    "id": "90764cd6ba34",
+    "title": "„The Voice Boys“ begeistern im Braustübchen",
+    "summary": "Wiehl – Rund 70 Gäste nahmen gestern an der Brauereiführung und dem anschließendem Konzert teil.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/---the-voice-boys----begeistern-im-braust--bchen-a-140743",
+    "published": "Fri, 20 Nov 2026 13:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-20T13:17:45.686230",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4690a583f13a",
+    "title": "Trainerwechsel bei der TuS-Reserve",
+    "summary": "Wiehl – Otto Fehl löst Mimo Galeri als Coach der 2. Mannschaft des TuS Weiershagen ab.",
+    "link": "http://www.oberberg-aktuell.de/fussball/trainerwechsel-bei-der-tus-reserve-a-140742",
+    "published": "Fri, 20 Nov 2026 12:54:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-20T13:17:45.686330",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a30c50e27391",
+    "title": "Tablets, Tafeln und mehr: 1,6 Millionen Euro für die Schulen",
+    "summary": "Wiehl - Der Schulausschuss verabschiedete den Medienentwicklungsplan, der zuvor vorgestellt wurde – Einrichtungen verfolgen unterschiedliche Konzepte.",
+    "link": "http://www.oberberg-aktuell.de/politik/tablets-tafeln-und-mehr-----millionen-euro-fuer-die-schulen-a-140736",
+    "published": "Fri, 20 Nov 2026 12:34:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-20T13:17:45.686624",
+    "feed_kommunen": []
+  },
+  {
     "id": "c49c3c39df02",
     "title": "Bundespräsident ist Pate: Das siebte Kind im Mittelpunkt",
     "summary": "Wiehl - Die Familie Schulz darf sich über besondere Ehre freuen nach der Geburt des siebten Kindes - Bürgermeister Stücker überbrachte die Urkunde.",
@@ -447,7 +486,8 @@
       "waldbroel",
       "wiehl",
       "wipperfuerth",
-      "marienheide"
+      "marienheide",
+      "gummersbach"
     ],
     "fetched": "2026-11-12T16:17:29.726297",
     "feed_kommunen": []
@@ -1020,8 +1060,7 @@
     "source": "Oberberg-Aktuell",
     "kommunen": [
       "engelskirchen",
-      "wiehl",
-      "kreisweite-nachrichten"
+      "wiehl"
     ],
     "fetched": "2026-11-06T14:17:21.686309",
     "feed_kommunen": []
@@ -1096,6 +1135,22 @@
     ],
     "fetched": "2026-11-05T18:17:37.292965",
     "feed_kommunen": []
+  },
+  {
+    "id": "5a6a984600e1",
+    "title": "Vollsperrung BAB 4 Umleitungsverkehr in der Gemeinde Engelskirchen",
+    "summary": "Aufgrund einer Vollsperrung der A4 zwischen dem 09. und 30. November wird die Umleitung über Kaltenbach eingerichtet. Um den Verkehrsfluss zu sichern und Begegnungsverkehr zu vermeiden, gelten während dieser Zeit verschiedene Einfahrtsverbote sowie Einschränkungen in Forst und Ründeroth, wo bei Überlastung zusätzlich eine Ampel zur Regelung der Engstelle in Betrieb genommen wird.",
+    "link": "https://www.engelskirchen.de/portal/meldungen/vollsperrung-bab-4-umleitungsverkehr-in-der-gemeinde-engelskirchen-900002524-23501.html?rubrik=900000007",
+    "published": "Thu, 05 Nov 2026 17:39:00 +0100",
+    "source": "Gemeinde Engelskirchen (offiziell)",
+    "kommunen": [
+      "engelskirchen",
+      "wiehl"
+    ],
+    "fetched": "2026-11-05T18:17:39.234799",
+    "feed_kommunen": [
+      "engelskirchen"
+    ]
   },
   {
     "id": "ffbe0a31d912",
@@ -4720,6 +4775,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-20T12:17:25.509937",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "525b753896b6",
+    "title": "Vorlesetag: 20 Bücher für die Kinder",
+    "summary": "An mehreren Wiehler Orten ist heute der bundesweite Vorlesetag begangen worden. Bürgermeister Ulrich Stücker hat im Rathaus Grundschulkindern vorgelesen – aus dem Buch: „Spielplatzalarm in Wiehl“.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9620-vorlesetag-20-buecher-fuer-die-kinder.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-20T13:17:59.192224",
     "feed_kommunen": [
       "wiehl"
     ]

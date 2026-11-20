@@ -1,5 +1,18 @@
 [
   {
+    "id": "9ab9e7686dee",
+    "title": "Geschenke für VfL-Weihnachtsaktion gesucht",
+    "summary": "Gummersbach - Die Handballer und die Kinderklinik am Kreiskrankenhaus rufen die Fans der Mannschaft dazu auf, für die Kinder zu spenden.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/geschenke-f--r-vfl-weihnachtsaktion-gesucht-a-140722",
+    "published": "Fri, 20 Nov 2026 13:06:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-20T13:17:45.686111",
+    "feed_kommunen": []
+  },
+  {
     "id": "0a96520048ed",
     "title": "Radevormwald: Zwei Fußgänger angefahren – dazu weitere Polizeimeldungen",
     "summary": "Zwei Fußgänger in Radevormwald schwer verletzt: Unfälle an der Hohenfuhrstraße und der B229. Dazu ein Einbruchsversuch in Gummersbach-Becke.",
@@ -11,6 +24,19 @@
       "radevormwald"
     ],
     "fetched": "2026-11-20T12:17:13.330832",
+    "feed_kommunen": []
+  },
+  {
+    "id": "0ec6fafda1e8",
+    "title": "Abnehmspritzen: Was sie können – und was nicht",
+    "summary": "Oberberg - Die Spritze ist kein Wundermittel, aber auch kein Teufelszeug - Der Gesundheitstipp von Dr. med. Jürgen Grunwald, Diabetologe und Adiposiologe aus Gummersbach.",
+    "link": "http://www.oberberg-aktuell.de/Werbende Artikel/abnehmspritzen--was-sie-k--nnen-----und-was-nicht-a-140029",
+    "published": "Fri, 20 Nov 2026 12:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-20T13:17:45.686908",
     "feed_kommunen": []
   },
   {
@@ -86,7 +112,8 @@
     "published": "Thu, 19 Nov 2026 16:15:00 +0100",
     "source": "Oberberg-Aktuell",
     "kommunen": [
-      "gummersbach"
+      "gummersbach",
+      "marienheide"
     ],
     "fetched": "2026-11-19T17:17:30.330929",
     "feed_kommunen": []
@@ -1002,6 +1029,23 @@
       "gummersbach"
     ],
     "fetched": "2026-11-12T20:17:35.280921",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a0dc875bf4db",
+    "title": "Unbekannte scheitern an Tür eines Lagerraums",
+    "summary": "In Wiehl-Drabenderhöhe haben Unbekannte versucht, in einen Lagerraum an der Zeitstraße einzubrechen. Die Tat ereignete sich in der Nacht von Dienstag auf Mittwoch, 10. auf 11. November. Nach Angaben der Polizei versuchten die Täter, die Tür aufzuhebeln. Sie scheiterten jedoch und gelangten nicht in den Lagerraum. Hinweise nimmt das Kriminalkommissariat Waldbröl unter 02261 8199-0 oder per E-Mail a",
+    "link": "https://www.rheinische-anzeigenblaetter.de/wiehl/c-blaulicht/unbekannte-scheitern-an-tuer-eines-lagerraums_a382862",
+    "published": "Thu, 12 Nov 2026 16:15:06 +0100",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "waldbroel",
+      "wiehl",
+      "wipperfuerth",
+      "marienheide",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-12T16:17:29.726297",
     "feed_kommunen": []
   },
   {

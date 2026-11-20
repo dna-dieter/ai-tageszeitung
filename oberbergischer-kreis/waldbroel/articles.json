@@ -1,5 +1,31 @@
 [
   {
+    "id": "dd193cdc4f13",
+    "title": "Krippen-Weg und Baum-Challenge: Waldbröl feiert Advent",
+    "summary": "Drei Tage Weihnachtsstimmung, Handwerk und Mitmachaktionen: Vom 27. bis 29. November läutet der Waldbröler Weihnachtsmarkt die Adventszeit ein. Wegen der Bauarbeiten an der neuen Markthalle zieht das Fest in diesem Jahr vom Marktplatz auf das Eventgelände des ehemaligen Merkur-Areals. Hütten, Handwerk und herzhafte Leckereien Festlich geschmückte Holzhütten, stimmungsvolle Beleuchtung, eine neue M",
+    "link": "https://www.rheinische-anzeigenblaetter.de/waldbroel/c-nachrichten/krippen-weg-und-baum-challenge-waldbroel-feiert-advent_a383321",
+    "published": "Fri, 20 Nov 2026 12:36:32 +0100",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-20T13:17:57.401409",
+    "feed_kommunen": []
+  },
+  {
+    "id": "bb8de4e07595",
+    "title": "Langsam, aber mit Leidenschaft",
+    "summary": "Waldbröl – Seit April wird beim SSV Hochwald auch entschleunigendes Walking Football angeboten.",
+    "link": "http://www.oberberg-aktuell.de/fussball/langsam--aber-mit-leidenschaft-a-140735",
+    "published": "Fri, 20 Nov 2026 12:20:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-20T13:17:45.686726",
+    "feed_kommunen": []
+  },
+  {
     "id": "50db5c226209",
     "title": "Auto prallt auf Supermarktparkplatz gegen Laterne – zwei Verletzte",
     "summary": "Bei einem Unfall auf dem Parkplatz eines Supermarkts am Raabeweg in Waldbröl sind am Mittwochabend, 18. November, zwei junge Menschen leicht verletzt worden. Ein 18-Jähriger aus Morsbach war nach Angaben der Polizei gegen 22.15 Uhr mit seinem Opel auf dem Parkplatz unterwegs. Dabei fuhr er frontal gegen eine Straßenlaterne. Der Fahrer und seine 15-jährige Beifahrerin aus Waldbröl wurden zur ambula",
@@ -509,7 +535,8 @@
       "waldbroel",
       "wiehl",
       "wipperfuerth",
-      "marienheide"
+      "marienheide",
+      "gummersbach"
     ],
     "fetched": "2026-11-12T16:17:29.726297",
     "feed_kommunen": []
