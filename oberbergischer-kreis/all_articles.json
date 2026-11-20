@@ -1,5 +1,84 @@
 [
   {
+    "id": "0a96520048ed",
+    "title": "Radevormwald: Zwei Fußgänger angefahren – dazu weitere Polizeimeldungen",
+    "summary": "Zwei Fußgänger in Radevormwald schwer verletzt: Unfälle an der Hohenfuhrstraße und der B229. Dazu ein Einbruchsversuch in Gummersbach-Becke.",
+    "link": "https://www.news-on-tour.de/346531/radevormwald-fussgaenger-unfaelle/",
+    "published": "Fri, 20 Nov 2026 11:00:36 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach",
+      "radevormwald"
+    ],
+    "fetched": "2026-11-20T12:17:13.330832",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b478ce1b2dda",
+    "title": "Gummersbach: Weihnachtsaktion – VfL sammelt Geschenke für die Kinderklinik",
+    "summary": "Der VfL Gummersbach und das Klinikum Oberberg sammeln Weihnachtsgeschenke für junge Klinikpatienten. Abgabe am 27. November und 13. Dezember in der SCHWALBE arena.",
+    "link": "https://www.news-on-tour.de/346513/gummersbach-weihnachtsaktion/",
+    "published": "Fri, 20 Nov 2026 10:47:48 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-20T12:17:13.330954",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c778df68f66d",
+    "title": "Gummersbach: VREUNDE testet vier Werkzeuge für Nähe auf Distanz",
+    "summary": "Vier Kommunikationswerkzeuge sollen Freundschaften über große Distanzen stärken. Die TH Köln stellt Forschungsergebnisse aus Gummersbach vor.",
+    "link": "https://www.news-on-tour.de/346510/gummersbach-vreunde-kommunikation/",
+    "published": "Fri, 20 Nov 2026 10:46:11 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-20T12:17:13.331045",
+    "feed_kommunen": []
+  },
+  {
+    "id": "11e4eafdb328",
+    "title": "Oberberg: Bündnis fordert pünktlichere RB 25 – S-Bahn nach Köln bleibt Ziel",
+    "summary": "Die RB 25 soll zuverlässiger und pünktlicher werden. Das Bündnis Oberbergische Bahn hält am S-Bahn-Ausbau nach Köln fest, der Kreis koordiniert künftig die Zusammenarbeit.",
+    "link": "https://www.news-on-tour.de/346508/rb-25-buendnis-oberbergische-bahn/",
+    "published": "Fri, 20 Nov 2026 10:37:27 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-20T12:17:13.331169",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8858356d1b06",
+    "title": "Black Friday und Cyber Monday: Polizei warnt vor falschen Onlineshops",
+    "summary": "Rund um den Black Friday und den Cyber Monday locken Händler Ende November mit zahlreichen Angeboten. Die Polizei im Oberbergischen Kreis warnt jedoch davor, dass auch Betrüger die erhöhte Kaufbereitschaft nutzen und mit auffällig niedrigen Preisen werben. Wer auf einen sogenannten Fakeshop hereinfällt, bezahlt möglicherweise für Ware, die nie ankommt. In anderen Fällen wird nach Angaben der Poliz",
+    "link": "https://www.rheinische-anzeigenblaetter.de/oberberg/c-blaulicht/black-friday-und-cyber-monday-polizei-warnt-vor-falschen-onlineshops_a383309",
+    "published": "Fri, 20 Nov 2026 11:27:38 +0100",
+    "source": "Rheinische Anzeigenblätter Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-20T12:17:23.746317",
+    "feed_kommunen": []
+  },
+  {
+    "id": "70fd7a966f2a",
+    "title": "Weihnachtszeit! - Zeit der Wünsche",
+    "summary": "Steht auf deinem Wunschzettel ein Ausbildungsplatz für 2027?",
+    "link": "http://www.oberberg-aktuell.de/Werbende Artikel/weihnachtszeit----zeit-der-w--nsche-a-140731",
+    "published": "Fri, 20 Nov 2026 11:10:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-20T12:17:22.763333",
+    "feed_kommunen": []
+  },
+  {
     "id": "0e467da3a5b5",
     "title": "Versuchter Einbruch in Mehrfamilienhaus",
     "summary": "Gummersbach - Unbekannte gelangten nicht in die Kellerräume und zogen wieder ab.",
@@ -52677,6 +52756,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-20T10:17:54.257924",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "730c5cfa0ffa",
+    "title": "Winterkino mit Filmspaß für Kinder",
+    "summary": "Ein gemütlicher Kinoabend erwartet Kinder ab sechs Jahren am Freitag, 4. Dezember 2026, in der Stadtbücherei. Welcher Film gezeigt wird, bleibt bis dahin eine Überraschung.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9615-winterkino-mit-filmspass-fuer-kinder.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-20T12:17:25.509937",
     "feed_kommunen": [
       "wiehl"
     ]

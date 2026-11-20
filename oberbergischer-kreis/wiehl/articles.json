@@ -4708,5 +4708,20 @@
     "feed_kommunen": [
       "wiehl"
     ]
+  },
+  {
+    "id": "730c5cfa0ffa",
+    "title": "Winterkino mit Filmspaß für Kinder",
+    "summary": "Ein gemütlicher Kinoabend erwartet Kinder ab sechs Jahren am Freitag, 4. Dezember 2026, in der Stadtbücherei. Welcher Film gezeigt wird, bleibt bis dahin eine Überraschung.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9615-winterkino-mit-filmspass-fuer-kinder.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-20T12:17:25.509937",
+    "feed_kommunen": [
+      "wiehl"
+    ]
   }
 ]
