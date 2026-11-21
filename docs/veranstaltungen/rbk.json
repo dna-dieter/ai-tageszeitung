@@ -1,25 +1,5 @@
 [
   {
-    "titel": "Wein & Crime bei Kork & Kante in Bechen",
-    "datum": "21. Nov 2026",
-    "datum_raw": "2026-11-21T18:00:00+01:00",
-    "ort": "Weinhandel Kork & Kante, Kölner Str. 382, 51515 Kürten",
-    "preis": "ab 80 €",
-    "link": "https://korkundkante.de/products/wein-crime-21-11-2026-bei-kork-kante-bechen",
-    "quelle": "Das Bergische",
-    "teaser": "Tauchen Sie ein in eine Welt voller Spannung und Genuss! Am Samstag, den 21. November 2026, laden wir Sie herzlich zu einem besonderen Abend bei Kork & Kante ein. Freuen Sie sich auf eine einzigartige Kombination aus Wei"
-  },
-  {
-    "titel": "Falstaff Wein-Trophy 2026",
-    "datum": "21. Nov 2026",
-    "datum_raw": "2026-11-21T18:30:00+01:00",
-    "ort": "Grandhotel Schloss Bensberg, Kadettenstraße, 51429 Bergisch Gladbach",
-    "preis": "ab 335 €",
-    "link": "https://www.althoffcollection.com/de/althoff-grandhotel-schloss-bensberg/schloss-events/falstaff-wein-trophy",
-    "quelle": "Das Bergische",
-    "teaser": "Die renommierte Falstaff Weintrophy wird auch in diesem November wieder die besten deutschen Weine, die engagiertesten Winzer und die auffälligsten Talente der Branche ehren. Die national und international stark beachtet"
-  },
-  {
     "titel": "„Femme fatale“ mit dem Cirque Buffon",
     "datum": "21. Nov 2026",
     "datum_raw": "2026-11-21T19:00:00+01:00",
@@ -28,16 +8,6 @@
     "link": "https://www.hotel-wisskirchen.de/das-spiegelzelt-in-altenberg/",
     "quelle": "Das Bergische",
     "teaser": "Der Cirque Bouffon gastiert zum 6. Mal mit einer faszinierenden Dinner-Show \"Femme fatale\" im nostalgischen Spiegelzelt in Altenberg. Das internationale Künstlerensemble des Cirque Bouffon verzaubert sein Publikum im Sti"
-  },
-  {
-    "titel": "Requiem von W. A . Mozart",
-    "datum": "21. Nov 2026",
-    "datum_raw": "2026-11-21T19:00:00+01:00",
-    "ort": "Herz-Jesu-Kirche, Altenberger-Dom-Str. 140, 51467 Bergisch Gladbach",
-    "preis": "ab 25 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Der Cäcilienchor Herz Jesu führt gemeinsam mit dem Kammerchor Olpe das Requiem von W.A. Mozart auf. Orchester ist Neues Rheinisches Kammerorchester. Solisten sind:Sopran Anna Pehlken, Alt Uta Christina Georg, Tenor Javie"
   },
   {
     "titel": "Bensberger Hüttenzauber",
