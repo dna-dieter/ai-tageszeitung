@@ -1,5 +1,31 @@
 [
   {
+    "id": "92f03cb14dca",
+    "title": "Parkplatz Lindweilerweg: Höhenschranke in Longerich soll Müllsünder stoppen",
+    "summary": "Der kleine Parkplatz am Lindweilerweg im Äußeren Grüngürtel dient oft als Müllabladeplatz. Der BV Nippes reicht es nun.",
+    "link": "https://www.ksta.de/koeln/nippes/longerich/parkplatz-in-longerich-hoehenschranke-soll-muellsuender-stoppen-1413495",
+    "published": "Sat, 21 Nov 2026 11:03:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-21T11:19:01.342518",
+    "feed_kommunen": []
+  },
+  {
+    "id": "560526abcd4b",
+    "title": "„Gibt es hier auch die Todesstrafe?“: Kinder dürfen in Köln für einen Tag auf die Richterbank",
+    "summary": "Fünftklässler aus Rodenkirchen haben im Kölner Landgericht eine Gerichtsverhandlung simuliert und dabei den Justizalltag hautnah kennengelernt.",
+    "link": "https://www.ksta.de/koeln/gibt-es-hier-auch-die-todesstrafe-kinder-duerfen-in-koeln-fuer-einen-tag-auf-die-richterbank-1421310",
+    "published": "Sat, 21 Nov 2026 11:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-21T11:19:01.342549",
+    "feed_kommunen": []
+  },
+  {
     "id": "881cf084a59d",
     "title": "Klima: Köln entsiegelt Schulhöfe an 20 Schulen",
     "summary": "Die Stadt Köln baut Schulhöfe um, um sie klimafreundlicher zu gestalten. An 20 Standorten laufen bereits Arbeiten, 13 weitere sollen folgen.",
@@ -10,6 +36,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-21T10:18:16.484452",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d8a59e535fbf",
+    "title": "Verbote sind eindeutig: Mehrere Kölner Weihnachtsmärkte am Sonntag geschlossen",
+    "summary": "Am 22. November bleiben viele Kölner Weihnachtsmärkte bis zum Abend geschlossen. Einige öffnen erst ab 18 Uhr.",
+    "link": "https://www.ksta.de/koeln/koeln-mehrere-weihnachtsmaerkte-am-sonntag-dicht-klares-verbot-1421895",
+    "published": "Sat, 21 Nov 2026 09:53:31 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-21T11:19:01.342594",
     "feed_kommunen": []
   },
   {
