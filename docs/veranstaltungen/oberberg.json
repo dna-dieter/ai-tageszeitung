@@ -60,6 +60,16 @@
     "teaser": "Wenn es draußen dunkel wird schalten wir die Taschenlampen an und gehen auf Entdeckungstour durchs dunkle Schloss und die große PLAYMOBIL Ausstellung. Warum waren die Betten früher eigentlich so klein? Ist es gemütlich i"
   },
   {
+    "titel": "Nikolausmarkt am Heimatmuseum Bergneustadt",
+    "datum": "27. Nov 2026",
+    "datum_raw": "2026-11-27T18:00:00+01:00",
+    "ort": "Heimatmuseum Bergneustadt, Wallstraße 1, 51702 Bergneustadt",
+    "preis": "",
+    "link": "http://www.heimatmuseum-bergneustadt.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Der Nikolausmarkt am Heimatmuseum in der historischen Altstadt Bergneustadts, der traditionell am ersten Adventswochenende stattfindet, wird ausschließlich von Neustädter Vereinen, Schulen, Kindergärten, etc. gestaltet. "
+  },
+  {
     "titel": "Weihnachtsmarkt Waldbröl",
     "datum": "27. Nov 2026",
     "datum_raw": "2026-11-27T18:00:00+01:00",
@@ -78,16 +88,6 @@
     "link": "https://www.lindlar.de/tourismus-und-freizeit/aktuelles-und-termine/veranstaltungen/detail/6524.html",
     "quelle": "Das Bergische",
     "teaser": "5 Jahre Ling'r Winterwald Weihnachtsmarkt Freitag 27.11.2026 ab 18:00 Uhr Anleuchten an der Grillhütte Feuerzangenbowle und frische Wildwurst Samstag 28.11.2026 ab 14:00 Uhr Sonntag 29.11.2026 ab 11:00 Uhr Wild und Kunst"
-  },
-  {
-    "titel": "Nikolausmarkt am Heimatmuseum Bergneustadt",
-    "datum": "27. Nov 2026",
-    "datum_raw": "2026-11-27T18:00:00+01:00",
-    "ort": "Heimatmuseum Bergneustadt, Wallstraße 1, 51702 Bergneustadt",
-    "preis": "",
-    "link": "http://www.heimatmuseum-bergneustadt.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Der Nikolausmarkt am Heimatmuseum in der historischen Altstadt Bergneustadts, der traditionell am ersten Adventswochenende stattfindet, wird ausschließlich von Neustädter Vereinen, Schulen, Kindergärten, etc. gestaltet. "
   },
   {
     "titel": "Prof. Dr. Dr. Wolf-Ulrich Klünker: Sich miterlebt erleben. Die Beziehung zum Engel psychologisch und existentiell. ",
@@ -110,16 +110,6 @@
     "teaser": "Den Wald in seinen Jahreszeiten betrachten und bewusst die Veränderungen wahrnehmen. Wir gehen immer denselben Weg und betrachten den Wandel. Kombiniert mit Outdoor-Entspannungstechniken, wie Vertrauensübungen, Lauftechn"
   },
   {
-    "titel": "Kreatives mit Pilzen",
-    "datum": "28. Nov 2026",
-    "datum_raw": "2026-11-28T10:00:00+01:00",
-    "ort": "VHS im EKZ Bergischer Hof, Brückenstraße 1, 51643 Gummersbach",
-    "preis": "ab 33 €",
-    "link": "http://www.vhs-gm.de/programm/kulturkreativitaet.html?action%5B160%5D=course&courseId=571-C-3384806&filter%5Bq%5D=Pilz&rowIndex=1",
-    "quelle": "Das Bergische",
-    "teaser": "Pilze werden allgemein fast ausschließlich nach ihrem Speisewert und ihrer Giftigkeit beurteilt. Häufig wird dabei vergessen, dass ein Leben ohne Pilze nicht möglich ist. Aber Pilze lassen sich auch unglaublich kreativ e"
-  },
-  {
     "titel": "Alternativer Adventsmarkt in Wipperfürth",
     "datum": "28. Nov 2026",
     "datum_raw": "2026-11-28T10:00:00+01:00",
@@ -130,14 +120,14 @@
     "teaser": "Am ersten Adventswochenende findet traditionell der Alternative Adventsmarkt auf dem Hausmannsplatz statt. Viele Wipperfürther Vereine bieten am 27. und 28.11.2026 besondere Leckereien und Geschenke an und laden zum vorw"
   },
   {
-    "titel": "Offene Achtsame Esel-Wanderung",
+    "titel": "Kreatives mit Pilzen",
     "datum": "28. Nov 2026",
-    "datum_raw": "2026-11-28T13:00:00+01:00",
-    "ort": "Seelentierzeit Begegnungshof, Alper Straße 24, 51580 Reichshof",
-    "preis": "ab 20 €",
-    "link": "https://www.reichshof.org/veranstaltungen/index.html?idart=11985&client=1",
+    "datum_raw": "2026-11-28T10:00:00+01:00",
+    "ort": "VHS im EKZ Bergischer Hof, Brückenstraße 1, 51643 Gummersbach",
+    "preis": "ab 33 €",
+    "link": "http://www.vhs-gm.de/programm/kulturkreativitaet.html?action%5B160%5D=course&courseId=571-C-3384806&filter%5Bq%5D=Pilz&rowIndex=1",
     "quelle": "Das Bergische",
-    "teaser": "Einmal im Monat, an jedem letzten Samstag (außer im Dezember), findet eine offene Esel-Wanderung mit vier lieben Eseln statt. Nach einer achtsamen, freien Begegnung mit den Eseln auf dem Hof wandern wir gemeinsam ca. ein"
+    "teaser": "Pilze werden allgemein fast ausschließlich nach ihrem Speisewert und ihrer Giftigkeit beurteilt. Häufig wird dabei vergessen, dass ein Leben ohne Pilze nicht möglich ist. Aber Pilze lassen sich auch unglaublich kreativ e"
   },
   {
     "titel": "Denklinger Burgweihnacht",
@@ -148,6 +138,16 @@
     "link": "https://www.burgweihnacht-denklingen.de/",
     "quelle": "Das Bergische",
     "teaser": "Kunsthandwerk in der Burg, ortsansässige Vereine, Schule und Kindergarten vor Ort sorgen für das leibliche Wohl. Am Samstag verschiedene Auftritte, abends DJ-Musik. Sonntagmittag Unterhaltung durch die \"Flöckchen\". Koste"
+  },
+  {
+    "titel": "Offene Achtsame Esel-Wanderung",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T13:00:00+01:00",
+    "ort": "Seelentierzeit Begegnungshof, Alper Straße 24, 51580 Reichshof",
+    "preis": "ab 20 €",
+    "link": "https://www.reichshof.org/veranstaltungen/index.html?idart=11985&client=1",
+    "quelle": "Das Bergische",
+    "teaser": "Einmal im Monat, an jedem letzten Samstag (außer im Dezember), findet eine offene Esel-Wanderung mit vier lieben Eseln statt. Nach einer achtsamen, freien Begegnung mit den Eseln auf dem Hof wandern wir gemeinsam ca. ein"
   },
   {
     "titel": "Weihnachtsmarkt Gimborn",
@@ -290,6 +290,16 @@
     "teaser": "Sonderfahrt mit der Dampflok \"Waldbröl\" vom Eisenbahnmuseum Dieringhausen nach Engelskirchen und zurück. Buchung nur über www.eisenbahnmuseum-dieringhausen.de. Auf dieser Seite findest Du auch immer die neuesten Informat"
   },
   {
+    "titel": "Weihnachtsmarkt Wiehl",
+    "datum": "5. Dez 2026",
+    "datum_raw": "2026-12-05T11:00:00+01:00",
+    "ort": "Rathausplatz, Bahnhofstraße 1, 51674 Wiehl",
+    "preis": "",
+    "link": "http://www.wiehl.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Am zweiten Adventswochenende verwandelt sich die Innenstadt wieder in eine kleine Weihnachtswelt. Zahlreiche Stände mit Kunsthandwerk, Leckereien und Geschenkideen, bestückt von Händlern und Wiehler Vereinen, erwarten di"
+  },
+  {
     "titel": "Nikolaus, Waffelduft und warme Getränke",
     "datum": "5. Dez 2026",
     "datum_raw": "2026-12-05T11:00:00+01:00",
@@ -310,16 +320,6 @@
     "teaser": "Am Samstag, den 05.12.2026, wird es bei uns in Radevormwald richtig weihnachtlich! Von 11:00 bis 17:00 Uhr laden wir euch zu unserem kleinen, gemütlichen Benefiz-Weihnachtsmarkt für Mensch & Hund ein. Freut euch auf eine"
   },
   {
-    "titel": "Weihnachtsmarkt Wiehl",
-    "datum": "5. Dez 2026",
-    "datum_raw": "2026-12-05T11:00:00+01:00",
-    "ort": "Rathausplatz, Bahnhofstraße 1, 51674 Wiehl",
-    "preis": "",
-    "link": "http://www.wiehl.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Am zweiten Adventswochenende verwandelt sich die Innenstadt wieder in eine kleine Weihnachtswelt. Zahlreiche Stände mit Kunsthandwerk, Leckereien und Geschenkideen, bestückt von Händlern und Wiehler Vereinen, erwarten di"
-  },
-  {
     "titel": "Wintermarkt im Dörspetal",
     "datum": "5. Dez 2026",
     "datum_raw": "2026-12-05T14:00:00+01:00",
@@ -328,16 +328,6 @@
     "link": "https://www.waldheim-doerspetal.de/veranstaltungen/wintermarkt261205",
     "quelle": "Das Bergische",
     "teaser": "Am zweiten Adventswochenende öffnen wir die Türen unseres Wintermarkt im Waldheim Dörspetal. Freuen Sie sich auf Honig, Marmeladen, Schmuck, Keramik, winterliche Dekoration, Holzarbeiten und vieles mehr – liebevoll gefer"
-  },
-  {
-    "titel": "Kasperle und die verschwundene Nikolaus-Socke",
-    "datum": "5. Dez 2026",
-    "datum_raw": "2026-12-05T15:00:00+01:00",
-    "ort": "Eckenhääner Huus, Reichshofstraße 30, 51580 Reichshof",
-    "preis": "ab 10 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Am Samstag, den 5.12. wird es im Eckenhääner Huus (Reichshofstr. 30, 51580 Reichshof-Eckenhagen) vorweihnachtlich. Zu Gast ist das mobile Puppentheater PuppenSpielZauber mit dem Stück „Kasperle und die verschwundene Niko"
   },
   {
     "titel": "Nikolausmarkt in Holpe",
@@ -350,14 +340,14 @@
     "teaser": "Der Nikolausmarkt in Holpe findet, wie immer, am Fritz-Wingen-Platz/Schulhof und im ev. Gemeindehaus statt. Die Bewirtung erfolgt durch die Holper Vereine (Löschgruppe, SG Holpe-Wallerhausen, Heimatverein), sowie Kaffee "
   },
   {
-    "titel": "Führung durch den historischen Eiskeller am Heinzelmännchen",
+    "titel": "Kasperle und die verschwundene Nikolaus-Socke",
     "datum": "5. Dez 2026",
-    "datum_raw": "2026-12-05T16:00:00+01:00",
-    "ort": "Heimatmuseum Bergneustadt, Wallstraße 1, 51702 Bergneustadt",
-    "preis": "ab 5 €",
-    "link": "http://www.heimatmuseum-bergneustadt.de/",
+    "datum_raw": "2026-12-05T15:00:00+01:00",
+    "ort": "Eckenhääner Huus, Reichshofstraße 30, 51580 Reichshof",
+    "preis": "ab 10 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
-    "teaser": "Im Eiskeller, unterhalb der Altstadt gelegen, wurden früher Eisblöcke, die im Winter aus dem in der Nähe gelegenen, zugefrorenen ‚Oehler-Teich’ gesägt wurden, eingelagert um damit Bierfässer zu kühlen. Im 2. Weltkrieg di"
+    "teaser": "Am Samstag, den 5.12. wird es im Eckenhääner Huus (Reichshofstr. 30, 51580 Reichshof-Eckenhagen) vorweihnachtlich. Zu Gast ist das mobile Puppentheater PuppenSpielZauber mit dem Stück „Kasperle und die verschwundene Niko"
   },
   {
     "titel": "5. jecker Weihnachtsmarkt in Morsbach",
@@ -368,6 +358,16 @@
     "link": "https://www.instagram.com/kgmorsbach/?hl=de",
     "quelle": "Das Bergische",
     "teaser": "Wie gewohnt erwarten euch weihnachtliche Köstlichkeiten, hübsche Kleinigkeiten und natürlich unsere Tombola. Wir freuen uns schon jetzt auf die weihnachtliche Stimmung am Kulturbahnhof und die besondere Atmosphäre. Muesc"
+  },
+  {
+    "titel": "Führung durch den historischen Eiskeller am Heinzelmännchen",
+    "datum": "5. Dez 2026",
+    "datum_raw": "2026-12-05T16:00:00+01:00",
+    "ort": "Heimatmuseum Bergneustadt, Wallstraße 1, 51702 Bergneustadt",
+    "preis": "ab 5 €",
+    "link": "http://www.heimatmuseum-bergneustadt.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Im Eiskeller, unterhalb der Altstadt gelegen, wurden früher Eisblöcke, die im Winter aus dem in der Nähe gelegenen, zugefrorenen ‚Oehler-Teich’ gesägt wurden, eingelagert um damit Bierfässer zu kühlen. Im 2. Weltkrieg di"
   },
   {
     "titel": "SSV Weihnachtsmarkt",
@@ -430,16 +430,6 @@
     "teaser": "In diesem Workshop gestalten wir eigene Weihnachtskarten im Linoldruck. Am ersten Tag werden die Grundkenntnisse und verschiedene Möglichkeiten vermittelt, Motive auf die Druckplatte zu übertragen. Jeder kann ein eigenes"
   },
   {
-    "titel": "Die gemütliche Kurzstrecke",
-    "datum": "11. Dez 2026",
-    "datum_raw": "2026-12-11T14:00:00+01:00",
-    "ort": "Eissporthalle Wiehl, Mühlenstraße 23, 51674 Wiehl",
-    "preis": "",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "einfache Wege, ca. 4-5 km Schlusseinkehr: möglich Veranstalter: SGV Abteilung Homburger Land Treffpunkt: 14:00 Uhr Wiehl, Parkplatz Vorderbereich Eissporthalle Wanderführer: Rosemarie Romboy"
-  },
-  {
     "titel": "Weihnachtsmarkt Radevormwald",
     "datum": "11. Dez 2026",
     "datum_raw": "2026-12-11T14:00:00+01:00",
@@ -458,6 +448,16 @@
     "link": "http://www.engelskirchen.de/",
     "quelle": "Das Bergische",
     "teaser": "Jedes Jahr am dritten Adventswochenende findet der weit über die Grenzen des Bergischen Landes bekannte und beliebte Christkindmarkt auf dem Veranstaltungsplatz hinter dem Rathaus Engelskirchen statt. Die Besucherinnen u"
+  },
+  {
+    "titel": "Die gemütliche Kurzstrecke",
+    "datum": "11. Dez 2026",
+    "datum_raw": "2026-12-11T14:00:00+01:00",
+    "ort": "Eissporthalle Wiehl, Mühlenstraße 23, 51674 Wiehl",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "einfache Wege, ca. 4-5 km Schlusseinkehr: möglich Veranstalter: SGV Abteilung Homburger Land Treffpunkt: 14:00 Uhr Wiehl, Parkplatz Vorderbereich Eissporthalle Wanderführer: Rosemarie Romboy"
   },
   {
     "titel": "Fackelwanderung mit Schnitzeljagd",
