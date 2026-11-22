@@ -1,15 +1,5 @@
 [
   {
-    "titel": "„Femme fatale“ mit dem Cirque Buffon",
-    "datum": "21. Nov 2026",
-    "datum_raw": "2026-11-21T19:00:00+01:00",
-    "ort": "Hotel-Restaurant Wißkirchen, Am Rösberg 2, 51519 Odenthal",
-    "preis": "",
-    "link": "https://www.hotel-wisskirchen.de/das-spiegelzelt-in-altenberg/",
-    "quelle": "Das Bergische",
-    "teaser": "Der Cirque Bouffon gastiert zum 6. Mal mit einer faszinierenden Dinner-Show \"Femme fatale\" im nostalgischen Spiegelzelt in Altenberg. Das internationale Künstlerensemble des Cirque Bouffon verzaubert sein Publikum im Sti"
-  },
-  {
     "titel": "Bensberger Hüttenzauber",
     "datum": "22. Nov 2026",
     "datum_raw": "2026-11-22T11:00:00+01:00",
@@ -38,6 +28,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "In dieser unterhaltsamen Spezialführung können die überraschenden, oft uralten Geschichten hinter Redewendungen rund ums Papier entdeckt werden – humorvoll, alltagsnah und mit spannenden Einblicken in historische Papiert"
+  },
+  {
+    "titel": "„Femme fatale“ mit dem Cirque Buffon",
+    "datum": "22. Nov 2026",
+    "datum_raw": "2026-11-22T18:00:00+01:00",
+    "ort": "Hotel-Restaurant Wißkirchen, Am Rösberg 2, 51519 Odenthal",
+    "preis": "",
+    "link": "https://www.hotel-wisskirchen.de/das-spiegelzelt-in-altenberg/",
+    "quelle": "Das Bergische",
+    "teaser": "Der Cirque Bouffon gastiert zum 6. Mal mit einer faszinierenden Dinner-Show \"Femme fatale\" im nostalgischen Spiegelzelt in Altenberg. Das internationale Künstlerensemble des Cirque Bouffon verzaubert sein Publikum im Sti"
   },
   {
     "titel": "Althoff Modern Chefs Circle",
