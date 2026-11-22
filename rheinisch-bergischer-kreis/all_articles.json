@@ -1,5 +1,20 @@
 [
   {
+    "id": "3f5ea32cbb62",
+    "title": "Bürgerhaus in Leichlingen: So abwechslungsreich ist die Jurierte Ausstellung",
+    "summary": "Die bereits 37. Jurierte Jahresaustellung hat am Sonntag im Leichlinger Bürgerhaus am Hammer eröffnet. Neben einem Zebra-Duo aus dem Kölner Zoo steht ein Winterwald aus der Drohnenperspektive, und dazwischen liegen Collage, Malerei und Skulptur.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/leichlingen-jurierte-ausstellung-2026-so-war-die-vernissage_aid-158069409",
+    "published": "Sun, 22 Nov 2026 16:15:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-22T17:16:05.365453",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
     "id": "aa2a2a909782",
     "title": "Betrug in Rhein-Berg: Polizei warnt vor gefälschter Bankpost mit QR-Code",
     "summary": "Ein Brief mit dem Logo der Hausbank, ein QR-Code und eine Frist von wenigen Tagen: So setzen Betrüger Empfänger unter Druck. Die Polizei Rhein-Berg warnt vor betrügerischen Bankanschreiben.",
@@ -363,6 +378,19 @@
     "feed_kommunen": [
       "burscheid"
     ]
+  },
+  {
+    "id": "ec48dccb797f",
+    "title": "Ein letztes Adventskonzert mit internationalen Klassikstars",
+    "summary": "Nach zwölf Jahren verabschiedet sich Ingrid Schaeffer-Rahtgens von der Organisation der Konzertreihe „Klänge der Stadt“. Für ihr letztes Adventskonzert hat sie noch einmal hochkarätige Musiker nach Bergisch Gladbach eingeladen: das Schwestern-Duo Anouchka und Katharina Hack sowie den Geiger Iskandar Widjaja. Der Eintritt ist frei, Spenden werden von der Bethe-Stiftung verdoppelt.",
+    "link": "https://in-gl.de/2026/11/20/ein-letztes-adventskonzert-mit-internationalen-klassikstars/",
+    "published": "Fri, 20 Nov 2026 06:49:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-22T17:15:37.876242",
+    "feed_kommunen": []
   },
   {
     "id": "af35b1ae9c80",
