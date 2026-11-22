@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Kunstausstellung Haus der Kunst",
-    "datum": "22. Nov 2026",
-    "datum_raw": "2026-11-22T14:00:00+01:00",
-    "ort": "Haus der Kunst, Jakob-Engels-Strasse 2, 51588 Nümbrecht",
-    "preis": "",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Jeanette de Payebrune Malerei Eröffnung: 08.11.2026, 15:00 Uhr, Haus der Kunst Öffnungszeiten: donnerstags: 16:00-18:00 Uhr samstags und sonntags: 14:00-17:00 Uhr Veranstalter: Kunstverein Nümbrecht e.V. Veranstaltungsor"
-  },
-  {
     "titel": "Winterdorf Gummersbach",
     "datum": "22. Nov 2026",
     "datum_raw": "2026-11-22T18:00:00+01:00",
@@ -38,6 +28,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Binden und Dekoration eines Kranzes nach eigenen Vorstellungen. Damit genügend Material vorhanden ist, wird um Anmeldung gebeten unter Tel. 0160 96836977, alternativ unter Tel. 0151 23655398 oder per E-Mail an ursula.and"
+  },
+  {
+    "titel": "Kunstausstellung Haus der Kunst",
+    "datum": "26. Nov 2026",
+    "datum_raw": "2026-11-26T16:00:00+01:00",
+    "ort": "Haus der Kunst, Jakob-Engels-Strasse 2, 51588 Nümbrecht",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Jeanette de Payebrune Malerei Eröffnung: 08.11.2026, 15:00 Uhr, Haus der Kunst Öffnungszeiten: donnerstags: 16:00-18:00 Uhr samstags und sonntags: 14:00-17:00 Uhr Veranstalter: Kunstverein Nümbrecht e.V. Veranstaltungsor"
   },
   {
     "titel": "Nachts im Museum",
