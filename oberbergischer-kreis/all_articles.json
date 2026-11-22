@@ -1,5 +1,122 @@
 [
   {
+    "id": "df78fe9cf0d8",
+    "title": "Trickbetrüger erbeuten fünfstelligen Geldbetrag",
+    "summary": "Hückeswagen – Senior fällt auf falsche Polizeibeamte herein – Beschreibung des Geldabholers liegt vor.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/trickbetr--ger-erbeuten-f--nfstelligen-geldbetrag-a-140819",
+    "published": "Sun, 22 Nov 2026 10:50:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-22T11:17:33.929320",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b42021dade4e",
+    "title": "Bunter Mitgliederabend in Reichshof",
+    "summary": "Reichshof – Die Volksbank Oberberg begrüßte rund 320 Gäste im Kulturforum Eckenhagen – Comedian Martin Schopps als prominenter Gast.",
+    "link": "http://www.oberberg-aktuell.de/reichshof/bunter-mitgliederabend-in-reichshof-a-140787",
+    "published": "Sun, 22 Nov 2026 10:50:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "reichshof"
+    ],
+    "fetched": "2026-11-22T11:17:33.929466",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7155cce1ee7d",
+    "title": "Postzusteller soll Elektrogeräte aus Paketen genommen haben",
+    "summary": "Oberberg/Waldbröl – Verdächtiger (31) wurde vergangene Woche von der Polizei festgenommen – Die Ermittlungen dauern an.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/postzusteller-soll-elektroger--te-aus-paketen-genommen-haben-a-140817",
+    "published": "Sun, 22 Nov 2026 10:39:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-22T11:17:33.929622",
+    "feed_kommunen": []
+  },
+  {
+    "id": "799c8b6f3653",
+    "title": "Zwei Unfälle auf A4-Umleitungsstrecke fordern vier Leichtverletzte",
+    "summary": "Wiehl – In der Nähe der Anschlussstelle Bielstein stießen am Freitag und Samstag mehrere Fahrzeuge zusammen.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/zwei-unf--lle-auf-a--umleitungsstrecke-fordern-vier-leichtverletzte-a-140816",
+    "published": "Sun, 22 Nov 2026 10:34:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-22T11:17:33.929775",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9f32e7bb78cd",
+    "title": "POL-GM: Postzusteller soll Elektrogeräte aus Paketen genommen haben",
+    "summary": "Waldbröl (ots) - Ein 31-jähriger Postzusteller steht im Verdacht, seit Juni, wiederholt Mobiltelefone und andere Elektrogeräte aus Paketsendungen genommen und stattdessen Kosmetikartikel, wie Shampooflaschen, in die Pakete gelegt zu haben. ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6395422",
+    "published": "Sun, 22 Nov 2026 10:25:25 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-22T11:17:32.214946",
+    "feed_kommunen": []
+  },
+  {
+    "id": "89392ddf2335",
+    "title": "POL-GM: Falscher Polizeibeamter erbeutet fünfstelligen Geldbetrag",
+    "summary": "Hückeswagen (ots) - Ein 86 Jähriger aus Hückeswagen erhielt am Freitag (20. November) gegen 11 Uhr einen Telefonanruf von einem falschen Polizeibeamten. Der Mann, der sich als Kriminalbeamter der Kriminalpolizei Wuppertal vorstellte, gaukelte dem ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6395421",
+    "published": "Sun, 22 Nov 2026 10:23:59 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-22T11:17:32.215182",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4a3e822756e7",
+    "title": "POL-GM: Einbrecher hebeln Fenster auf",
+    "summary": "Engelskirchen (ots) - In der Zeit von Donnerstag (19. November), 16 Uhr, bis Freitag, 19:30 Uhr, hebelten Unbekannte ein Fenster eines Einfamilienhauses in Schnellenbach auf. Die Kriminellen durchwühlten mehrere Schränke und entkamen unerkannt. Ob ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6395417",
+    "published": "Sun, 22 Nov 2026 10:19:20 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-22T11:17:32.215388",
+    "feed_kommunen": []
+  },
+  {
+    "id": "3a0f1acadb9c",
+    "title": "POL-GM: Unfall im Einmündungsbereich",
+    "summary": "Wiehl (ots) - Am Freitag (20. November) wollte ein 62-Jähriger aus Leichlingen mit seinem BMW von der L 302 nach links auf die B 56 in Richtung Weiershagen abbiegen. Dabei kam es gegen 16 Uhr zum Zusammenstoß mit dem Skoda eines 21-jährigen ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6395415",
+    "published": "Sun, 22 Nov 2026 10:17:28 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-22T11:17:32.215589",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9804fb6819e0",
+    "title": "POL-GM: Beim Abbiegen zusammengestoßen",
+    "summary": "Wiehl (ots) - Am Samstag (21. November) war ein 36-Jähriger aus Attendorn mit seinem Hyundai auf der B 56 von Weiershagen in Richtung Drabenderhöhe unterwegs. Gegen 16:45 Uhr wollte er an der Anschlussstelle Wiehl/Bielstein nach links auf die A 4 ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6395414",
+    "published": "Sun, 22 Nov 2026 10:15:20 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-22T11:17:32.215802",
+    "feed_kommunen": []
+  },
+  {
     "id": "f3d3669fb503",
     "title": "Großartiges Konzert: Experimentierfreude zahlte sich aus",
     "summary": "Morsbach - In der ausverkauften Kulturstätte gaben das Klangwerk Morsbach und der HeartChor Hunstig ihr erstes gemeinsames Konzert unter dem Motto „The Greatest Show“ - Die Zuschauer honorierten die gelungene Symbiose.",
