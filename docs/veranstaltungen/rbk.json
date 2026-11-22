@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Refrather Weihnachtsdorf",
-    "datum": "22. Nov 2026",
-    "datum_raw": "2026-11-22T13:00:00+01:00",
-    "ort": "Peter Bürling, Peter-Bürling Platz, 51427 Bergisch Gladbach",
-    "preis": "",
-    "link": "https://www.refrather-weihnachtsdorf.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Vom 16. November bis 23. Dezember 2026 öffnet das Refrather Weihnachtsdorf seine Pforten. Feiern und genießen mitten im Herzen Refraths: Euch erwartet ein stimmungsvoller Markt mit kulinarischen Advents-Klassikern und li"
-  },
-  {
     "titel": "Öffentliche Spezialführung:  Nicht von Pappe – Redewendungen rund um’s Papier",
     "datum": "22. Nov 2026",
     "datum_raw": "2026-11-22T14:00:00+01:00",
@@ -58,6 +48,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Erleben Sie die perfekte Kombination aus Wandern in der Natur in Verbindung mit einem effektiven Workout. Es handelt sich um ein Ganzkörpertraining für jedes Fitnesslevel. Hier können Sie Energie tanken und abschalten. B"
+  },
+  {
+    "titel": "Refrather Weihnachtsdorf",
+    "datum": "23. Nov 2026",
+    "datum_raw": "2026-11-23T15:00:00+01:00",
+    "ort": "Peter Bürling, Peter-Bürling Platz, 51427 Bergisch Gladbach",
+    "preis": "",
+    "link": "https://www.refrather-weihnachtsdorf.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Vom 16. November bis 23. Dezember 2026 öffnet das Refrather Weihnachtsdorf seine Pforten. Feiern und genießen mitten im Herzen Refraths: Euch erwartet ein stimmungsvoller Markt mit kulinarischen Advents-Klassikern und li"
   },
   {
     "titel": "Bensberger Hüttenzauber",
