@@ -1,5 +1,32 @@
 [
   {
+    "id": "aae04e0f5e74",
+    "title": "Kreiskrankenhaus Gummersbach: Klinik operiert jetzt mit „Da Vinci“-System",
+    "summary": "Das Kreiskrankenhaus Gummersbach hat ein modernes „Da Vinci“-Operationssystem angeschafft, das Ärzte bei Eingriffen unterstützen soll.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/kreiskrankenhaus-gummersbach-setzt-da-vinci-roboter-bei-ops-ein-1422987",
+    "published": "Mon, 23 Nov 2026 13:07:30 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-23T13:17:35.197876",
+    "feed_kommunen": []
+  },
+  {
+    "id": "55ebca537902",
+    "title": "Köln - Olpe: A4-Sperrung wegen Schrankenanlage für Wiehltalbrücke",
+    "summary": "Auf der A4 bei Gummersbach geht in beide Richtungen nichts: Der Aufbau einer Schrankenanlage an der Wiehltalbrücke sorgt für Sperrungen.",
+    "link": "https://www.ksta.de/region/oberberg/a4-bei-gummersbach-sperrung-an-der-wiehltalbruecke-1422752",
+    "published": "Mon, 23 Nov 2026 11:55:09 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wiehl",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-23T13:17:35.198142",
+    "feed_kommunen": []
+  },
+  {
     "id": "b37b49c70923",
     "title": "Hightech im OP: Kreiskrankenhaus setzt auf DaVinci-Roboter",
     "summary": "Gummersbach - Patientinnen und Patienten profitieren von neuen Möglichkeiten bei schonenden und präzisen Eingriffen.",
