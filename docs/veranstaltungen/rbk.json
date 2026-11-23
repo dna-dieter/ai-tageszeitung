@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Wandern & Workout",
-    "datum": "23. Nov 2026",
-    "datum_raw": "2026-11-23T12:30:00+02:00",
-    "ort": "Wanderparkplatz Eifgen, Eifgen 8, 42929 Wermelskirchen",
-    "preis": "ab 15 €",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Erleben Sie die perfekte Kombination aus Wandern in der Natur in Verbindung mit einem effektiven Workout. Es handelt sich um ein Ganzkörpertraining für jedes Fitnesslevel. Hier können Sie Energie tanken und abschalten. B"
-  },
-  {
     "titel": "Refrather Weihnachtsdorf",
     "datum": "23. Nov 2026",
     "datum_raw": "2026-11-23T15:00:00+01:00",
@@ -258,6 +248,16 @@
     "link": "https://www.nelson-mueller.de/blogs/kulinarischer-kalender/jazz-in-der-muhle-23-11-und-21-12-25-mullers-in-der-muhle",
     "quelle": "Das Bergische",
     "teaser": "Der Abend beginnt stets mit Einlass um 18:00 Uhr im Konrad-Adenauer-Saal der Mühle, das 3-gängige Menü startet gegen 18:30 Uhr, das Programm startet in der Regel gegen 21:00 Uhr. Die Veranstaltung endet gegen 23:00 Uhr. "
+  },
+  {
+    "titel": "Wandern & Workout",
+    "datum": "30. Nov 2026",
+    "datum_raw": "2026-11-30T12:30:00+02:00",
+    "ort": "Wanderparkplatz Eifgen, Eifgen 8, 42929 Wermelskirchen",
+    "preis": "ab 15 €",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Erleben Sie die perfekte Kombination aus Wandern in der Natur in Verbindung mit einem effektiven Workout. Es handelt sich um ein Ganzkörpertraining für jedes Fitnesslevel. Hier können Sie Energie tanken und abschalten. B"
   },
   {
     "titel": "Kulinarischer Weihnachtsmarkt in Wermelskirchen",
