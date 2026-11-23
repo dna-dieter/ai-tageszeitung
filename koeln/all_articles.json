@@ -1,5 +1,109 @@
 [
   {
+    "id": "e5feb1de2fe8",
+    "title": "Neue Weinbar: „Donna Bia“ in Raderberg öffnet mit kölschen Tapas und Weinen aus aller Welt",
+    "summary": "In Raderberg eröffnet Gastronom Antonio dos Santos ein neues Lokal. Gäste erwartet eine Auswahl an internationalen Weinen und mediterranen Tapas.",
+    "link": "https://www.ksta.de/koeln/rodenkirchen/raderberg/neue-weinbar-donna-bia-in-raderberg-oeffnet-mit-koelschen-tapas-und-weinen-aus-aller-welt-1419559",
+    "published": "Mon, 23 Nov 2026 12:04:11 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-23T12:18:46.247054",
+    "feed_kommunen": []
+  },
+  {
+    "id": "0b40747220a0",
+    "title": "Kölner Design Preis 2026",
+    "summary": "23. November 2026, 12:00Preisverleihung am 26. November im MAKK",
+    "link": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/koelner-design-preis-2026",
+    "published": "Mon, 23 Nov 2026 12:00:00 +0100",
+    "source": "Stadt Köln Pressemeldungen",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-23T12:18:46.077401",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a9264693990d",
+    "title": "Kölner Philharmonie: Junge Solisten im Rampenlicht",
+    "summary": "Drei hochbegabte Musiker der Kronberg Academy zeigten in der Kölner Philharmonie ihr Können gemeinsam mit dem Gürzenich-Orchester.",
+    "link": "https://www.ksta.de/kultur-medien/koelner-philharmonie-junge-solisten-der-kronberg-academy-zu-gast-1422890",
+    "published": "Mon, 23 Nov 2026 11:55:53 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-23T12:18:46.247075",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ff861898a5e7",
+    "title": "Kontrolle am Hauptbahnhof: Bundespolizei nimmt seit 41 Monaten gesuchten Mann in Köln fest",
+    "summary": "Im Kölner Hauptbahnhof hat die Bundespolizei einen 25-Jährigen verhaftet, der seit 41 Monaten wegen räuberischen Diebstahls gesucht wurde.",
+    "link": "https://www.ksta.de/koeln/koelner-innenstadt/altstadt-nord/koeln-bundespolizei-nimmt-seit-41-monaten-gesuchten-mann-fest-1422860",
+    "published": "Mon, 23 Nov 2026 11:53:56 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-23T12:18:46.247088",
+    "feed_kommunen": []
+  },
+  {
+    "id": "fc502ed2af81",
+    "title": "Nahe Rudolfplatz: Erneut Schüsse auf Ladenlokal in Köln",
+    "summary": "In Köln kam es in den vergangenen Wochen wiederholt zu Schüssen – nun wurde erneut ein Ladenlokal getroffen.",
+    "link": "https://www.ksta.de/koeln/schuesse-auf-ladenlokal-in-koeln-nahe-rudolfplatz-1422894",
+    "published": "Mon, 23 Nov 2026 11:39:46 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-23T12:18:46.247103",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2bd4af33ecbd",
+    "title": "23.11. bis 29.11.2026: Diese Veranstaltungen stehen in dieser Woche in Köln an",
+    "summary": "Vom Kurzfilmfestival bis zur Kölschen Weihnacht: Entdecken Sie hier eine Auswahl an kulturellen Highlights für die letzte Novemberwoche in Köln.",
+    "link": "https://www.ksta.de/freizeit/veranstaltungen-in-koeln-tipps-fuer-die-woche-vom-23-bis-29-11-1421163",
+    "published": "Mon, 23 Nov 2026 11:39:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-23T12:18:46.247116",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8b756044712a",
+    "title": "Im Nationalsozialismus verfolgt: Zeugen Jehovas bekommen Familienarchiv zurück",
+    "summary": "Das Militärhistorische Museum Dresden gibt ein NS-Verfolgungsarchiv der Familie Kusserow an die Zeugen Jehovas zurück. Ein Rechtsstreit ist beendet.",
+    "link": "https://www.ksta.de/koeln/im-nationalsozialismus-verfolgt-zeugen-jehovas-bekommen-familienarchiv-zurueck-1422867",
+    "published": "Mon, 23 Nov 2026 11:31:01 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-23T12:18:46.247128",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5b2d082ee5ef",
+    "title": "Wohnzimmerkirche in Köln: Zum Chillen und Shoppen in die Erzengel-Michael-Kirche",
+    "summary": "Die Erzengel-Michael-Kirche in Köln wird im November zur Wohnzimmerkirche. Besucher können dort Secondhand-Möbel kaufen und Kultur erleben.",
+    "link": "https://www.ksta.de/koeln/rodenkirchen/rodenkirchen-veedel/erzengel-michael-kirche-in-koeln-wird-zur-wohnzimmerkirche-1419037",
+    "published": "Mon, 23 Nov 2026 11:21:39 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-23T12:18:46.247140",
+    "feed_kommunen": []
+  },
+  {
     "id": "3c933a1ca649",
     "title": "Alte Liebe rostet nicht: Ein Opel Rekord A, der Köln in 63 Jahren (fast) nie verließ",
     "summary": "Rudi Schröder fand seinen Opel Rekord A durch eine Zeitungsanzeige. Seit über 40 Jahren pflegt er den Oldtimer, der fast nur in Köln unterwegs war.",

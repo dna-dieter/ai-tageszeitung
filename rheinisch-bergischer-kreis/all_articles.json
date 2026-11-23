@@ -1,5 +1,46 @@
 [
   {
+    "id": "eb3d68e06349",
+    "title": "Digitale Anmeldung zur Berufsschule für Ausbildungsberiebe",
+    "summary": "schulbewerbung.de ist die offizielle Online-Plattform für die Anmeldung der Auszubildenden zum Fachklassenunterricht an Berufskollegs in Nordrhein-Westfalen.",
+    "link": "https://rbw.de/digitale-anmeldung-zur-berufsschule/",
+    "published": "Mon, 23 Nov 2026 11:15:05 +0000",
+    "source": "Rheinisch-Bergische Wirtschaftsförderung (RBW)",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-23T12:16:23.028031",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c5bc08161106",
+    "title": "Interkulturelles Frühstück am 28. November",
+    "summary": "Der Ausschuss für Chancengerechtigkeit und Integration lädt ins KulturForumBurscheid ein",
+    "link": "https://www.burscheid.de/portal/meldungen/interkulturelles-fruehstueck-am-28-november-900000734-40230.html?rubrik=900000001",
+    "published": "Mon, 23 Nov 2026 11:44:00 +0100",
+    "source": "Stadt Burscheid (offiziell)",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-23T12:16:20.924613",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
+    "id": "252062d97e83",
+    "title": "POL-RBK: Bergisch Gladbach - Einbruch in Lebensmittelmarkt",
+    "summary": "Bergisch Gladbach (ots) - Unbekannte sind in der vergangenen Nacht (23.11.) in einen Lebensmittelmarkt im Stadtteil Gronau eingebrochen. Dabei stahlen sie Zigaretten im niedrigen fünfstelligen Wert. Gegen 05:05 Uhr wurde die Polizei in die ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6395959",
+    "published": "Mon, 23 Nov 2026 11:42:51 +0100",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-23T12:16:15.722768",
+    "feed_kommunen": []
+  },
+  {
     "id": "3db7151a00c5",
     "title": "POL-RBK: Odenthal - Bargeld und Zigaretten bei Raub auf Tankstelle entwendet",
     "summary": "Odenthal (ots) - Am Freitagabend (20.11.) wurde die Polizei zu einer Tankstelle an der Altenberger-Dom-Straße gerufen. Ein dortiger Tankstellenmitarbeiter sei soeben von drei vermummten Personen bedroht und ausgeraubt worden. Anschließend seien ...",
