@@ -1,5 +1,19 @@
 [
   {
+    "id": "8262fa5e2a15",
+    "title": "Plattenreport Oberberg (KW 47): Tischtennis-Sieg für Bergneustadt in Grenzau, Klaswipper II makellos",
+    "summary": "Plattenreport Oberberg: Der TTC Schwalbe Bergneustadt gewinnt in der Bundesliga 3:1 in Grenzau, der TV Klaswipper II bleibt ohne Niederlage, der Aggertaler TTC II spielt im Derby gegen den VfL Gummersbach erstmals unentschieden – alle Tischtennis-Ergebnisse, Tabellen und der Spielplan der Woche.",
+    "link": "https://www.news-on-tour.de/346656/plattenreport-oberberg-tischtennis-kw47/",
+    "published": "Sun, 22 Nov 2026 23:29:43 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-23T01:17:19.851006",
+    "feed_kommunen": []
+  },
+  {
     "id": "dcc1d588e8c6",
     "title": "Chancenlos: Gummersbach verliert Kellerduell deutlich",
     "summary": "Gummersbach – Nach gutem Start verspielt die U19 des VfL noch vor der Halbzeit alle Chancen auf einen Sieg in Balingen - 'RPP - Ambulantes Therapie- und Reha-Zentrum' und AggerEnergie präsentieren die Berichterstattung über den VfL Gummersbach.",
@@ -3626,6 +3640,20 @@
       "gummersbach"
     ],
     "fetched": "2026-11-16T10:17:45.620196",
+    "feed_kommunen": []
+  },
+  {
+    "id": "68d7ccd6057d",
+    "title": "Plattenreport Oberberg (KW 46): Tischtennis-Niederlage für Bergneustadt, 9:1 für Dümmlinghausen",
+    "summary": "Plattenreport Oberberg: Der TTC Schwalbe Bergneustadt verliert in der Bundesliga 2:3 gegen den SV Werder Bremen, der TV Dümmlinghausen gewinnt 9:1, Bergneustadt V das Derby gegen den TTC Wiehl – alle Tischtennis-Ergebnisse vom 9. bis 15. November.",
+    "link": "https://www.news-on-tour.de/346660/plattenreport-oberberg-tischtennis-kw46/",
+    "published": "Mon, 16 Nov 2026 06:00:00 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "bergneustadt",
+      "wiehl"
+    ],
+    "fetched": "2026-11-23T01:17:19.862405",
     "feed_kommunen": []
   },
   {
