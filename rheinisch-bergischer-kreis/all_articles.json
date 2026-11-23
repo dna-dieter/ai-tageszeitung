@@ -1,5 +1,179 @@
 [
   {
+    "id": "7c99bf06bb05",
+    "title": "Bewaffneter Raubüberfall auf Tankstelle an Altenberger-Dom-Straße in Odenthal",
+    "summary": "Kurz vor Ladenschluss stürmten drei Vermummte eine Tankstelle in Odenthal. Sie erbeuteten einen dreistelligen Bargeldbetrag und rund 60 Zigarettenschachteln. Die Fahndung verlief erfolglos – die Polizei bittet um Hinweise.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/burscheid/bewaffneter-raubueberfall-auf-tankstelle-an-altenberger-dom-strasse-in-odenthal-NKSA6IXOO5ABNMNGFAKLPPVCZU.html",
+    "published": "Mon, 23 Nov 2026 16:09:46 +0100",
+    "source": "RGA Burscheid",
+    "kommunen": [
+      "odenthal",
+      "burscheid"
+    ],
+    "fetched": "2026-11-23T16:16:20.491170",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
+    "id": "5d54c2dbcb9f",
+    "title": "Jazz in der Spinnerei: Konzert von „Trio Ivoire“ im Sinneswald",
+    "summary": "Sie spielen schon ein Vierteljahrhundert zusammen: Aly Keïta, Hans Lüdemann und Christian Thomé sind das „Trio Ivoire“ und kommen für ein Konzert in den Sinneswald Leichlingen.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/leichlingen-konzert-von-trio-ivoire-im-sinneswald_aid-158590033",
+    "published": "Mon, 23 Nov 2026 16:00:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-23T16:16:24.825079",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
+    "id": "e84b82dcff6f",
+    "title": "Spiegel für zwei Jungfrauen: Stänedräjer feiern in Sand",
+    "summary": "Beim 18. Ordensabend der KG Löstige Stänedräjer in Sand erhalten die designierten Jungfrauen Ida und Cathrin ihre traditionellen Spiegel.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/kg-loestige-staenedraejer-spiegeluebergabe-in-sand-1423218",
+    "published": "Mon, 23 Nov 2026 15:29:37 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-23T16:16:23.508861",
+    "feed_kommunen": []
+  },
+  {
+    "id": "eca923741197",
+    "title": "Bundesweiter Vorlesetag: Markus Grimm zu Gast in der Fröbel-Schule",
+    "summary": "Beim bundesweiten Vorlesetag liest Markus Grimm in der Fröbel-Schule vor, und auch in Rösrath wird an diesem Tag vorgelesen.",
+    "link": "https://www.ksta.de/region/rhein-berg/roesrath/markus-grimm-liest-in-der-froebel-schule-beim-vorlesetag-1423213",
+    "published": "Mon, 23 Nov 2026 15:26:24 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "roesrath"
+    ],
+    "fetched": "2026-11-23T16:16:23.508966",
+    "feed_kommunen": []
+  },
+  {
+    "id": "91b95d5b79ca",
+    "title": "Wasserbüffel im Freudenthal: Streit um Brücke an der Wupper",
+    "summary": "Zwei Wasserbüffel pflegen seit Jahren das Freudenthal; der Naturschutzverein RBN erwägt zudem eine Klage gegen den Brückenneubau über die Wupper.",
+    "link": "https://www.ksta.de/region/rhein-berg/wasserbueffel-im-freudenthal-landschaftspflege-und-brueckenstreit-1423208",
+    "published": "Mon, 23 Nov 2026 15:21:05 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-23T16:16:23.509080",
+    "feed_kommunen": []
+  },
+  {
+    "id": "47e5bff1347f",
+    "title": "Abitur oder Studium: Berufskolleg zeigt viele Wege",
+    "summary": "Beim Tag der offenen Tür und in der Schnupperwoche stellen die Berufskollegs in Bergisch Gladbach ihre Bildungsgänge und Abschlüsse vor.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/berufskollegs-in-bergisch-gladbach-wege-zum-abitur-und-beruf-1423198",
+    "published": "Mon, 23 Nov 2026 15:17:59 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-23T16:16:23.509172",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e5c3aa4cb75e",
+    "title": "Bensberger Kunstbörse: Werke aus Privatbesitz zu kaufen",
+    "summary": "Die zehnte „l’art privé“ im Bensberger Basement 16 lädt zum Stöbern und Kaufen ein; am 26. November gibt es zudem eine Lesung.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/bensberger-kunstboerse-l-art-priv-kunst-aus-privatbesitz-kaufen-1423178",
+    "published": "Mon, 23 Nov 2026 14:56:43 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-23T16:16:23.509268",
+    "feed_kommunen": []
+  },
+  {
+    "id": "43c69ffc0edb",
+    "title": "Kölsche Töne und Dudelsack: Jecke feiern Mundartmesse in Sand",
+    "summary": "Mit Fahnen am Altar, kölschen Liedern und Dudelsack haben die Fidelen Ritter in der Kirche St. Severin ihre neue Karnevalssession eröffnet.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/fidele-ritter-feiern-mundartmesse-in-bergisch-gladbach-sand-1423173",
+    "published": "Mon, 23 Nov 2026 14:53:40 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-23T16:16:23.509380",
+    "feed_kommunen": []
+  },
+  {
+    "id": "fc07d5f6ec89",
+    "title": "Nach sieben Jahren: Kölsche Messe füllt Bensberger Kirche",
+    "summary": "Pfarrer Elmar Kirchner, gebürtiger Westfale, ruft „Alaaf“ und Bensberg feiert wieder: Die ökumenische Mundartmesse kehrt in die Kirche zurück.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/bensberg-oekumenische-mundartmesse-kehrt-in-die-kirche-zurueck-1423167",
+    "published": "Mon, 23 Nov 2026 14:47:04 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-23T16:16:23.509474",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e0333f7629aa",
+    "title": "Lesung im Spiegelsaal: Pohl führt ins Reich des Wahnsinns",
+    "summary": "Im Spiegelsaal des Bergischen Löwen liest Gerd J. Pohl Lovecraft, Stoker und Dostojewski – und lässt dem Publikum keinen Fluchtweg.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/gerd-j-pohl-liest-wahnsinnsliteratur-im-bergischen-loewen-1423158",
+    "published": "Mon, 23 Nov 2026 14:43:53 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-23T16:16:23.509586",
+    "feed_kommunen": []
+  },
+  {
+    "id": "45089f6a8d51",
+    "title": "Tusche trifft Buchschnitt: Zwei Künstlerinnen in Refrath",
+    "summary": "Im Atelier Hiroko in Refrath treffen die kleinen Tuschearbeiten der Gastgeberin auf die Papierobjekte ihrer Kollegin Eva Maria Juras.",
+    "link": "https://www.ksta.de/region/rhein-berg/tusche-trifft-buchschnitt-im-atelier-hiroko-in-refrath-1423122",
+    "published": "Mon, 23 Nov 2026 14:15:43 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-23T16:16:23.509671",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5f1e40d2f76c",
+    "title": "Vier Verletzte: Renault prallt auf Abschleppwagen",
+    "summary": "Bei einem Unfall auf einem A4-Rastplatz zwischen Untereschbach und Bensberg sind vier Menschen verletzt worden; Richtung Köln war die Autobahn zeitweise gesperrt.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/a4-bei-bensberg-vier-verletzte-nach-schwerem-unfall-auf-rastplatz-1423111",
+    "published": "Mon, 23 Nov 2026 14:10:37 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-23T16:16:23.509770",
+    "feed_kommunen": []
+  },
+  {
+    "id": "3544157dfcc4",
+    "title": "Radroute nach Köln: Von 25 Parkplätzen bleiben nur neun",
+    "summary": "Auf der Gierather Straße sollen 16 Parkplätze wegfallen, doch die Stadt verweist auf freie Stellplätze im Umfeld der Radroute.",
+    "link": "https://www.ksta.de/region/rhein-berg/gierather-strasse-radroute-nach-koeln-laesst-parkplaetze-wegfallen-1423103",
+    "published": "Mon, 23 Nov 2026 14:02:07 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-23T16:16:23.509871",
+    "feed_kommunen": []
+  },
+  {
     "id": "857b561bdca3",
     "title": "Kreisweiter Warntag: Sirenen heulen am 5. Dezember um 12 Uhr – Warnung auch über Warn-Apps",
     "summary": "Ziel des Warntags ist es, die Bevölkerung für das Themenfeld „Warnung“ zu sensibilisieren und die Bürgerinnen und Bürger zu informieren, damit sie im Ernstfall richtig reagieren und wissen, wie sie sich selbst helfen können. Im Fokus des Warntags steht zunächst die Bedeutung der verschiedenen Sirenensignale, die viele Menschen nicht kennen. Mit einem einminütigen auf- und abschwellenden Heulton wi",

@@ -1,5 +1,70 @@
 [
   {
+    "id": "e84b82dcff6f",
+    "title": "Spiegel für zwei Jungfrauen: Stänedräjer feiern in Sand",
+    "summary": "Beim 18. Ordensabend der KG Löstige Stänedräjer in Sand erhalten die designierten Jungfrauen Ida und Cathrin ihre traditionellen Spiegel.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/kg-loestige-staenedraejer-spiegeluebergabe-in-sand-1423218",
+    "published": "Mon, 23 Nov 2026 15:29:37 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-23T16:16:23.508861",
+    "feed_kommunen": []
+  },
+  {
+    "id": "91b95d5b79ca",
+    "title": "Wasserbüffel im Freudenthal: Streit um Brücke an der Wupper",
+    "summary": "Zwei Wasserbüffel pflegen seit Jahren das Freudenthal; der Naturschutzverein RBN erwägt zudem eine Klage gegen den Brückenneubau über die Wupper.",
+    "link": "https://www.ksta.de/region/rhein-berg/wasserbueffel-im-freudenthal-landschaftspflege-und-brueckenstreit-1423208",
+    "published": "Mon, 23 Nov 2026 15:21:05 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-23T16:16:23.509080",
+    "feed_kommunen": []
+  },
+  {
+    "id": "43c69ffc0edb",
+    "title": "Kölsche Töne und Dudelsack: Jecke feiern Mundartmesse in Sand",
+    "summary": "Mit Fahnen am Altar, kölschen Liedern und Dudelsack haben die Fidelen Ritter in der Kirche St. Severin ihre neue Karnevalssession eröffnet.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/fidele-ritter-feiern-mundartmesse-in-bergisch-gladbach-sand-1423173",
+    "published": "Mon, 23 Nov 2026 14:53:40 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-23T16:16:23.509380",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e0333f7629aa",
+    "title": "Lesung im Spiegelsaal: Pohl führt ins Reich des Wahnsinns",
+    "summary": "Im Spiegelsaal des Bergischen Löwen liest Gerd J. Pohl Lovecraft, Stoker und Dostojewski – und lässt dem Publikum keinen Fluchtweg.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/gerd-j-pohl-liest-wahnsinnsliteratur-im-bergischen-loewen-1423158",
+    "published": "Mon, 23 Nov 2026 14:43:53 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-23T16:16:23.509586",
+    "feed_kommunen": []
+  },
+  {
+    "id": "3544157dfcc4",
+    "title": "Radroute nach Köln: Von 25 Parkplätzen bleiben nur neun",
+    "summary": "Auf der Gierather Straße sollen 16 Parkplätze wegfallen, doch die Stadt verweist auf freie Stellplätze im Umfeld der Radroute.",
+    "link": "https://www.ksta.de/region/rhein-berg/gierather-strasse-radroute-nach-koeln-laesst-parkplaetze-wegfallen-1423103",
+    "published": "Mon, 23 Nov 2026 14:02:07 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-23T16:16:23.509871",
+    "feed_kommunen": []
+  },
+  {
     "id": "eb3d68e06349",
     "title": "Digitale Anmeldung zur Berufsschule für Ausbildungsberiebe",
     "summary": "schulbewerbung.de ist die offizielle Online-Plattform für die Anmeldung der Auszubildenden zum Fachklassenunterricht an Berufskollegs in Nordrhein-Westfalen.",
