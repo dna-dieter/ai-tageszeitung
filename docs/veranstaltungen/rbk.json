@@ -1,15 +1,5 @@
 [
   {
-    "titel": "„Femme fatale“ mit dem Cirque Buffon",
-    "datum": "22. Nov 2026",
-    "datum_raw": "2026-11-22T18:00:00+01:00",
-    "ort": "Hotel-Restaurant Wißkirchen, Am Rösberg 2, 51519 Odenthal",
-    "preis": "",
-    "link": "https://www.hotel-wisskirchen.de/das-spiegelzelt-in-altenberg/",
-    "quelle": "Das Bergische",
-    "teaser": "Der Cirque Bouffon gastiert zum 6. Mal mit einer faszinierenden Dinner-Show \"Femme fatale\" im nostalgischen Spiegelzelt in Altenberg. Das internationale Künstlerensemble des Cirque Bouffon verzaubert sein Publikum im Sti"
-  },
-  {
     "titel": "Traditions-Weihnachtsmarkt Bergisch Gladbach Stadtmitte",
     "datum": "23. Nov 2026",
     "datum_raw": "2026-11-23T11:00:00+01:00",
@@ -68,6 +58,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Von Oktober 2026 bis März 2027 lädt das Kardinal Schulte Haus zu stimmungsvollen Fondue-Abenden in die \"Bergische Stube\" ein. Erlebe einen geselligen Abend voller Geschmack und Atmosphäre. Neben dem klassischen Schweizer"
+  },
+  {
+    "titel": "„Femme fatale“ mit dem Cirque Buffon",
+    "datum": "25. Nov 2026",
+    "datum_raw": "2026-11-25T19:00:00+01:00",
+    "ort": "Hotel-Restaurant Wißkirchen, Am Rösberg 2, 51519 Odenthal",
+    "preis": "",
+    "link": "https://www.hotel-wisskirchen.de/das-spiegelzelt-in-altenberg/",
+    "quelle": "Das Bergische",
+    "teaser": "Der Cirque Bouffon gastiert zum 6. Mal mit einer faszinierenden Dinner-Show \"Femme fatale\" im nostalgischen Spiegelzelt in Altenberg. Das internationale Künstlerensemble des Cirque Bouffon verzaubert sein Publikum im Sti"
   },
   {
     "titel": "Autorinnen-Lesung von Rosine De Dijn",
