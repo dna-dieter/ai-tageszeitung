@@ -1,5 +1,19 @@
 [
   {
+    "id": "dc834eb2ec1b",
+    "title": "Ausfall des Kassensystems: Störung im Straßenverkehrsamt",
+    "summary": "Oberberg - Betrieb in der Hauptstelle Gummersbach und der Nebenstelle Waldbröl kann trotz einer Störung aufrechterhalten werden, es kann jedoch zu Wartezeiten kommen.",
+    "link": "http://www.oberberg-aktuell.de/oberbergischer-kreis/ausfall-des-kassensystems--st--rung-im-stra--enverkehrsamt-a-140873",
+    "published": "Mon, 23 Nov 2026 17:01:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach",
+      "waldbroel"
+    ],
+    "fetched": "2026-11-23T17:17:32.645417",
+    "feed_kommunen": []
+  },
+  {
     "id": "3f46c2072d74",
     "title": "Waldbröl: Unfallflucht in Schnörringen – zwei Verletzte, Polizei sucht Kleinwagen",
     "summary": "Unfallflucht in Waldbröl: Nach einem Ausweichmanöver auf der L 324 landete ein Audi im Straßengraben, zwei Menschen wurden leicht verletzt.",
