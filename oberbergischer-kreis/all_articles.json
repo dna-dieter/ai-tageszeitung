@@ -1,5 +1,136 @@
 [
   {
+    "id": "057755b8ae42",
+    "title": "Weihnachtsmarkt in Wiehl: Programm am 5. und 6. Dezember",
+    "summary": "Weihnachtsmarkt in Wiehl am 5. und 6. Dezember 2026: Musik, Nikolaus, Kinderaktionen und verkaufsoffener Sonntag in der Innenstadt.",
+    "link": "https://www.news-on-tour.de/346672/weihnachtsmarkt-wiehl-programm-dezember/",
+    "published": "Mon, 23 Nov 2026 13:15:30 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-23T14:17:48.790278",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e92af6c8864d",
+    "title": "Engelskirchen: Vortrag „Diagnose Demenz“ – Chefarzt informiert am 2. Dezember",
+    "summary": "„Diagnose Demenz“: Kostenfreier Vortrag am Mittwoch, 2. Dezember, um 16.00 Uhr in der GFO Klinik Engelskirchen – Anmeldung nicht nötig.",
+    "link": "https://www.news-on-tour.de/346667/engelskirchen-demenz-vortrag/",
+    "published": "Mon, 23 Nov 2026 13:05:59 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-23T14:17:48.790492",
+    "feed_kommunen": []
+  },
+  {
+    "id": "53e492f79b9d",
+    "title": "Bielsteiner Lollipops: Zehn Jahre tanzen, ein Jahr im eigenen Verein",
+    "summary": "Die Lollipops feiern zehnten Geburtstag, tanzen seit einem Jahr im eigenen Verein Tanzsport Oberberg und bleiben dem Karneval treu.",
+    "link": "https://www.ksta.de/region/oberberg/bielsteiner-lollipops-feiern-zehnten-geburtstag-im-verein-1423080",
+    "published": "Mon, 23 Nov 2026 13:52:13 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-23T14:17:53.693684",
+    "feed_kommunen": []
+  },
+  {
+    "id": "3f46c2072d74",
+    "title": "Waldbröl: Unfallflucht in Schnörringen – zwei Verletzte, Polizei sucht Kleinwagen",
+    "summary": "Unfallflucht in Waldbröl: Nach einem Ausweichmanöver auf der L 324 landete ein Audi im Straßengraben, zwei Menschen wurden leicht verletzt.",
+    "link": "https://www.news-on-tour.de/346664/waldbroel-unfallflucht-schnoerringen/",
+    "published": "Mon, 23 Nov 2026 12:51:42 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-23T14:17:48.790619",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7562bfd1c955",
+    "title": "Knorrige Riesen: 20 Helfer retten Weiden im Oberbergischen",
+    "summary": "Der Nabu Morsbach hat oberhalb von Niederdorf den größten Kopfweidenbestand im Oberbergischen mit rund 35 Bäumen beschnitten.",
+    "link": "https://www.ksta.de/region/oberberg/nabu-morsbach-rettet-kopfweidenbestand-im-oberbergischen-1423074",
+    "published": "Mon, 23 Nov 2026 13:45:34 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-11-23T14:17:53.693806",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9b1ac50fd3a4",
+    "title": "Ehrenpatenschaft für Manuel: Bundespräsident übernimmt Patenschaft für siebtes Kind",
+    "summary": "Der Bundespräsident übernimmt die Ehrenpatenschaft für den fünf Monate alten Manuel, das siebte Kind einer Familie aus Oberbantenberg.",
+    "link": "https://www.ksta.de/region/oberberg/wiehl/bundespraesident-uebernimmt-ehrenpatenschaft-fuer-kind-in-wiehl-1423063",
+    "published": "Mon, 23 Nov 2026 13:36:30 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-23T14:17:53.693926",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8baed79dc825",
+    "title": "Ensemble Sonat Vox: Männerchor überrascht mit Sopranen in der Kirche",
+    "summary": "Auf Einladung der Bielsteiner Sänger gastierte das renommierte Ensemble Sonat Vox in der Dieringhausener Kirche – vor vollem Haus.",
+    "link": "https://www.ksta.de/region/oberberg/sonat-vox-begeistert-mit-maennerchor-und-sopranen-in-dieringhausen-1423049",
+    "published": "Mon, 23 Nov 2026 13:29:49 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wiehl",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-23T14:17:53.694042",
+    "feed_kommunen": []
+  },
+  {
+    "id": "99f0c12afd25",
+    "title": "Ausweichmanöver endet im Straßengraben",
+    "summary": "Waldbröl – Ein 48-Jähriger und seine 70-jährige Beifahrerin wurden bei einem Verkehrsunfall leicht verletzt - Suche nach Fahrer eines weißen Kleinwagens.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/ausweichman--ver-endet-im-stra--engraben-a-140856",
+    "published": "Mon, 23 Nov 2026 13:28:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-23T14:17:54.949851",
+    "feed_kommunen": []
+  },
+  {
+    "id": "03948a11c8f9",
+    "title": "Girlpower in Lindlar: Karneval mit Kinderprinzessin ohne Prinz",
+    "summary": "Kinder an die Macht: Larissa I. wurde in Lindlar feierlich proklamiert und führt mit Mila und Malin durch die kurze Session.",
+    "link": "https://www.ksta.de/region/oberberg/lindlar/lindlar-kinderprinzessin-larissa-i-proklamiert-1423044",
+    "published": "Mon, 23 Nov 2026 13:26:04 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-23T14:17:53.694146",
+    "feed_kommunen": []
+  },
+  {
+    "id": "3be5b6d6e1bc",
+    "title": "156 Jahre Volksbank: Mitgliederabend mit vielen Premieren",
+    "summary": "Mehr als 320 Gäste feierten beim Mitgliederabend der Volksbank Oberberg im Kulturforum Eckenhagen 156 Jahre Bankgeschichte in Reichshof.",
+    "link": "https://www.ksta.de/region/oberberg/volksbank-oberberg-feiert-156-jahre-bankgeschichte-in-reichshof-1423039",
+    "published": "Mon, 23 Nov 2026 13:19:52 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "reichshof"
+    ],
+    "fetched": "2026-11-23T14:17:53.694243",
+    "feed_kommunen": []
+  },
+  {
     "id": "d0eed18c0064",
     "title": "RB 25: Bündnis will S-Bahn-Ausbau nach Köln nicht aufgeben",
     "summary": "Im Engelskirchener Rathaus holte Landrat Klaus Grootens das Bündnis Oberbergische Bahn an einen Tisch, um gemeinsame Ziele zu besprechen.",
@@ -10,6 +141,19 @@
       "engelskirchen"
     ],
     "fetched": "2026-11-23T13:17:35.197587",
+    "feed_kommunen": []
+  },
+  {
+    "id": "49a89a68fa08",
+    "title": "Gemeinsam für eine starke Gesellschaft: Sportfest für Alle lockt 500 Teilnehmer an",
+    "summary": "Wiehl – Bei der zweiten Ausgabe der inklusiven Veranstaltung gab es in der Sporthalle am Dietrich-Bonhoeffer-Gymnasium eine Menge zu entdecken und auszuprobieren.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/gemeinsam-fuer-eine-starke-gesellschaft-sportfest-fuer-alle-lockt-----teilnehmer-an-a-140855",
+    "published": "Mon, 23 Nov 2026 13:17:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-23T14:17:54.949986",
     "feed_kommunen": []
   },
   {
