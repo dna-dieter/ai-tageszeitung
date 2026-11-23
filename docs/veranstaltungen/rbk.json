@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Traditions-Weihnachtsmarkt Bergisch Gladbach Stadtmitte",
-    "datum": "23. Nov 2026",
-    "datum_raw": "2026-11-23T11:00:00+01:00",
-    "ort": "Konrad-Adenauer Platz, Konrad-Adenauer Platz 1, 51465 Bergisch Gladbach",
-    "preis": "",
-    "link": "https://www.weihnachtsmarkt-bergischgladbach.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Der Weihnachtsmarkt in Bergisch Gladbach zentral auf dem Konrad-Adenauer-Platz gehört zu den größten im Rheinisch-Bergischen Kreis. Obwohl viele sagen: „Das ist doch jedes Jahr das Gleiche!“ stimmt es in gewisser Weise, "
-  },
-  {
     "titel": "Wandern & Workout",
     "datum": "23. Nov 2026",
     "datum_raw": "2026-11-23T12:30:00+02:00",
@@ -38,6 +28,16 @@
     "link": "https://www.facebook.com/bensbergerhuettenzauber/?locale=de_DE",
     "quelle": "Das Bergische",
     "teaser": "Der „Bensberger Hüttenzauber“ verlängert die festliche Stimmung über die Weihnachtstage hinaus. Bis zum 30. Dezember erwartet die Gäste ein abwechslungsreiches Programm mit Live-Musik und kulinarischen Themenabenden. Auf"
+  },
+  {
+    "titel": "Traditions-Weihnachtsmarkt Bergisch Gladbach Stadtmitte",
+    "datum": "24. Nov 2026",
+    "datum_raw": "2026-11-24T11:00:00+01:00",
+    "ort": "Konrad-Adenauer Platz, Konrad-Adenauer Platz 1, 51465 Bergisch Gladbach",
+    "preis": "",
+    "link": "https://www.weihnachtsmarkt-bergischgladbach.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Der Weihnachtsmarkt in Bergisch Gladbach zentral auf dem Konrad-Adenauer-Platz gehört zu den größten im Rheinisch-Bergischen Kreis. Obwohl viele sagen: „Das ist doch jedes Jahr das Gleiche!“ stimmt es in gewisser Weise, "
   },
   {
     "titel": "Weihnachtstreff im TechnologiePark Bergisch Gladbach",
