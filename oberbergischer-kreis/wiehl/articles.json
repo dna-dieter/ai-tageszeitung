@@ -4939,5 +4939,20 @@
     "feed_kommunen": [
       "wiehl"
     ]
+  },
+  {
+    "id": "1a193a42cd33",
+    "title": "Stimmungsvoller Wiehler Weihnachtsmarkt",
+    "summary": "Mit vielen Ständen, weihnachtlichen Klängen und einem bunten Programm für die ganze Familie stimmt der Wiehler Weihnachtsmarkt am 5. und 6. Dezember 2026 auf die Festtage ein.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9621-stimmungsvoller-wiehler-weihnachtsmarkt.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-23T10:17:47.974808",
+    "feed_kommunen": [
+      "wiehl"
+    ]
   }
 ]
