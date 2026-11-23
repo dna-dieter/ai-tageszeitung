@@ -1,5 +1,19 @@
 [
   {
+    "id": "f76c252449af",
+    "title": "(Update 4) Bergneustädter Weihnachtsmarkt am 12. und 13. Dezember 2026: Feuerwehr-Musikzug eröffnet den Sonntag",
+    "summary": "AnzeigeUpdate: Der Musikzug der Feuerwehr Gummersbach eröffnet den Sonntag, die Musikschule Legato hat abgesagt. Weihnachtsmarkt am dritten Advent im Park des Ev. Altenheims: 43 Stände, Weihnachts-Pass, Musik an beiden Tagen und der Nikolaus.",
+    "link": "https://www.news-on-tour.de/243495/bergneustadt-weihnachtsmarkt-2026/",
+    "published": "Mon, 23 Nov 2026 13:27:13 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach",
+      "bergneustadt"
+    ],
+    "fetched": "2026-11-23T15:17:47.076829",
+    "feed_kommunen": []
+  },
+  {
     "id": "8262fa5e2a15",
     "title": "Plattenreport Oberberg (KW 47): Tischtennis-Sieg für Bergneustadt in Grenzau, Klaswipper II makellos",
     "summary": "Plattenreport Oberberg: Der TTC Schwalbe Bergneustadt gewinnt in der Bundesliga 3:1 in Grenzau, der TV Klaswipper II bleibt ohne Niederlage, der Aggertaler TTC II spielt im Derby gegen den VfL Gummersbach erstmals unentschieden – alle Tischtennis-Ergebnisse, Tabellen und der Spielplan der Woche.",
@@ -607,19 +621,6 @@
       "bergneustadt"
     ],
     "fetched": "2026-11-03T16:16:59.967844",
-    "feed_kommunen": []
-  },
-  {
-    "id": "7f238b54e74c",
-    "title": "(Update 3) Bergneustädter Weihnachtsmarkt am 12. und 13. Dezember 2026: Weihnachts-Pass und Weihnachtsmenü",
-    "summary": "Update: Das Weihnachtsmenü der Koptisch-orthodoxen Gemeinde steht fest. Weihnachtsmarkt am dritten Advent im Park des Ev. Altenheims: 43 Stände, Weihnachts-Pass, Musik an beiden Tagen und der Nikolaus.",
-    "link": "https://www.news-on-tour.de/243495/bergneustadt-weihnachtsmarkt-2026/",
-    "published": "Tue, 03 Nov 2026 12:32:57 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "bergneustadt"
-    ],
-    "fetched": "2026-11-03T14:17:21.623617",
     "feed_kommunen": []
   },
   {

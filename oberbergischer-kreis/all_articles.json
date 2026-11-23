@@ -1,5 +1,45 @@
 [
   {
+    "id": "03184fea6faf",
+    "title": "Dartfieber in Brüchermühle",
+    "summary": "Reichshof – Vom 27. bis 29. Dezember findet die fünfte Auflage des Steeldart-Turniers der Sportfreunde Asbachtal statt – Anmeldungen sind ab sofort möglich (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/sportmix/sportfreunde-lassen-wieder-die-pfeile-fliegen-a-124687",
+    "published": "Mon, 23 Nov 2026 15:10:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "reichshof"
+    ],
+    "fetched": "2026-11-23T15:17:53.037043",
+    "feed_kommunen": []
+  },
+  {
+    "id": "241841432ac4",
+    "title": "Wiehl: Ehrenamts-Akademie lädt zur Ausstellung über Leichte Sprache ein",
+    "summary": "Die Ehrenamts-Akademie lädt am 3. Dezember nach Wiehl ein: Ausstellung, Vortrag, Lesung und Übungen zu Einfacher und Leichter Sprache – gebührenfrei, Anmeldung erbeten.",
+    "link": "https://www.news-on-tour.de/346686/wiehl-ausstellung-leichte-sprache/",
+    "published": "Mon, 23 Nov 2026 13:51:36 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-23T15:17:47.076412",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f76c252449af",
+    "title": "(Update 4) Bergneustädter Weihnachtsmarkt am 12. und 13. Dezember 2026: Feuerwehr-Musikzug eröffnet den Sonntag",
+    "summary": "AnzeigeUpdate: Der Musikzug der Feuerwehr Gummersbach eröffnet den Sonntag, die Musikschule Legato hat abgesagt. Weihnachtsmarkt am dritten Advent im Park des Ev. Altenheims: 43 Stände, Weihnachts-Pass, Musik an beiden Tagen und der Nikolaus.",
+    "link": "https://www.news-on-tour.de/243495/bergneustadt-weihnachtsmarkt-2026/",
+    "published": "Mon, 23 Nov 2026 13:27:13 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach",
+      "bergneustadt"
+    ],
+    "fetched": "2026-11-23T15:17:47.076829",
+    "feed_kommunen": []
+  },
+  {
     "id": "057755b8ae42",
     "title": "Weihnachtsmarkt in Wiehl: Programm am 5. und 6. Dezember",
     "summary": "Weihnachtsmarkt in Wiehl am 5. und 6. Dezember 2026: Musik, Nikolaus, Kinderaktionen und verkaufsoffener Sonntag in der Innenstadt.",
@@ -11331,19 +11371,6 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-03T14:17:21.623388",
-    "feed_kommunen": []
-  },
-  {
-    "id": "7f238b54e74c",
-    "title": "(Update 3) Bergneustädter Weihnachtsmarkt am 12. und 13. Dezember 2026: Weihnachts-Pass und Weihnachtsmenü",
-    "summary": "Update: Das Weihnachtsmenü der Koptisch-orthodoxen Gemeinde steht fest. Weihnachtsmarkt am dritten Advent im Park des Ev. Altenheims: 43 Stände, Weihnachts-Pass, Musik an beiden Tagen und der Nikolaus.",
-    "link": "https://www.news-on-tour.de/243495/bergneustadt-weihnachtsmarkt-2026/",
-    "published": "Tue, 03 Nov 2026 12:32:57 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "bergneustadt"
-    ],
-    "fetched": "2026-11-03T14:17:21.623617",
     "feed_kommunen": []
   },
   {
