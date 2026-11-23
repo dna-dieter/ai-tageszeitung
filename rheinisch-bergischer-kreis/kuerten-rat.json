@@ -1,16 +1,8 @@
 {
   "quelle": "https://www.kuerten.de/sitzungen/",
   "portal": "https://sessionnet.owl-it.de/kuerten/bi/info.asp",
-  "aktualisiert": "2026-11-20T00:19:02",
+  "aktualisiert": "2026-11-24T00:19:53",
   "kommende": [
-    {
-      "datum": "2026-11-23",
-      "gremium": "Ältestenrat",
-      "uhrzeit": "16:00",
-      "ort": "",
-      "ist_rat": false,
-      "dokumente": []
-    },
     {
       "datum": "2026-11-25",
       "gremium": "Haupt- und Finanzausschuss",

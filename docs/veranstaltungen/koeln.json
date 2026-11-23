@@ -1,93 +1,5 @@
 [
   {
-    "titel": "Workshop zu LeOn (Leseraum Online)",
-    "datum": "23. Nov 2026",
-    "datum_raw": "2026-11-23T00:00:00",
-    "datum_bis": "",
-    "ort": "KOMEZ – Kommunales Medienzentrum Köln, Mülheim",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41359/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "13:30 bis 15:30 Uhr · Für Lehrkräfte und pädagogisches Personal an Kölner Schulen"
-  },
-  {
-    "titel": "Köln hört zu!",
-    "datum": "23. Nov 2026",
-    "datum_raw": "2026-11-23T00:00:00",
-    "datum_bis": "",
-    "ort": "Interim Zentralbibliothek",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41674/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "15 bis 16 Uhr · Das Projekt Zuhören draußen im Interim der Zentralbibliothek."
-  },
-  {
-    "titel": "Haselbergstraße/Piusstraße, 2. Änderung (2. Teilaufhebung) in Köln-Lindenthal",
-    "datum": "23. Nov 2026",
-    "datum_raw": "2026-11-23T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41583/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr, Freitag, 9 bis 13 Uhr · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
-  },
-  {
-    "titel": "Ausstellung: Fernweh und Heimat vom Kölner Maler-Kreis",
-    "datum": "23. Nov 2026",
-    "datum_raw": "2026-11-23T00:00:00",
-    "datum_bis": "1. Dez 2026",
-    "ort": "Bezirksrathaus Nippes, Weidenpesch",
-    "preis": "Der Eintritt ist frei.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41662/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Ausstellungseröffnung: 2. November, 18 Uhr, Montags und donnerstags: 8 bis 15 Uhr, Dienstags: 9 bis 18 Uhr, Mittwochs und freitags: 8 bis 12 Uhr · Was bedeutet Heimat? Und wohin zieht es uns, wenn wir Fernweh haben?"
-  },
-  {
-    "titel": "Bilderausstellung: Iwona Piek – Figurative Malerei",
-    "datum": "23. Nov 2026",
-    "datum_raw": "2026-11-23T00:00:00",
-    "datum_bis": "5. Dez 2026",
-    "ort": "Rathaussaal Porz, Porz",
-    "preis": "Der Eintritt ist frei",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41599/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Montag bis Freitag: 10 bis 18 Uhr, Samstag: 10 bis 14 Uhr, sonn- und feiertags geschlossen · Bilderausstellung – figurative Malerei von der Künstlerin Iwona Piek"
-  },
-  {
-    "titel": "Führung durch den Skulpturenpark Köln",
-    "datum": "23. Nov 2026",
-    "datum_raw": "2026-11-23T00:00:00",
-    "datum_bis": "6. Dez 2026",
-    "ort": "Skulpturenpark Köln, Neustadt/Nord",
-    "preis": "Der Eintritt in den Park ist frei. Kosten für die Führungen: Erwachsene: 8 Euro,",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/39535/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Jeden ersten Sonntag im Monat von 15 bis 16 Uhr · Im Skulpturenpark zeigen wir eine große Bandbreite moderner zeitgenössischer Außenskulpturen unter freiem Himmel."
-  },
-  {
-    "titel": "Sternengasse in Köln-Altstadt/Süd",
-    "datum": "23. Nov 2026",
-    "datum_raw": "2026-11-23T00:00:00",
-    "datum_bis": "21. Dez 2026",
-    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41714/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr, Freitag, 9 bis 13 Uhr. · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
-  },
-  {
-    "titel": "Winterprogramm Ebertplatz 2026",
-    "datum": "23. Nov 2026",
-    "datum_raw": "2026-11-23T00:00:00",
-    "datum_bis": "30. Dez 2026",
-    "ort": "Ebertplatz, Neustadt/Nord",
-    "preis": "",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41754/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "Auch dieses Jahr bieten wir Ihnen ein vielfältiges Winterprogramm auf dem Ebertplatz"
-  },
-  {
     "titel": "Startklar mit dem iPad: Grundlagen, Apps & Ideen für den Unterricht",
     "datum": "24. Nov 2026",
     "datum_raw": "2026-11-24T00:00:00",
@@ -163,6 +75,61 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41435/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "9:30 bis 10:30 Uhr · Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Haus Balchem."
+  },
+  {
+    "titel": "Ausstellung: Fernweh und Heimat vom Kölner Maler-Kreis",
+    "datum": "24. Nov 2026",
+    "datum_raw": "2026-11-24T00:00:00",
+    "datum_bis": "1. Dez 2026",
+    "ort": "Bezirksrathaus Nippes, Weidenpesch",
+    "preis": "Der Eintritt ist frei.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41662/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Ausstellungseröffnung: 2. November, 18 Uhr, Montags und donnerstags: 8 bis 15 Uhr, Dienstags: 9 bis 18 Uhr, Mittwochs und freitags: 8 bis 12 Uhr · Was bedeutet Heimat? Und wohin zieht es uns, wenn wir Fernweh haben?"
+  },
+  {
+    "titel": "Bilderausstellung: Iwona Piek – Figurative Malerei",
+    "datum": "24. Nov 2026",
+    "datum_raw": "2026-11-24T00:00:00",
+    "datum_bis": "5. Dez 2026",
+    "ort": "Rathaussaal Porz, Porz",
+    "preis": "Der Eintritt ist frei",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41599/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Montag bis Freitag: 10 bis 18 Uhr, Samstag: 10 bis 14 Uhr, sonn- und feiertags geschlossen · Bilderausstellung – figurative Malerei von der Künstlerin Iwona Piek"
+  },
+  {
+    "titel": "Führung durch den Skulpturenpark Köln",
+    "datum": "24. Nov 2026",
+    "datum_raw": "2026-11-24T00:00:00",
+    "datum_bis": "6. Dez 2026",
+    "ort": "Skulpturenpark Köln, Neustadt/Nord",
+    "preis": "Der Eintritt in den Park ist frei. Kosten für die Führungen: Erwachsene: 8 Euro,",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/39535/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Jeden ersten Sonntag im Monat von 15 bis 16 Uhr · Im Skulpturenpark zeigen wir eine große Bandbreite moderner zeitgenössischer Außenskulpturen unter freiem Himmel."
+  },
+  {
+    "titel": "Sternengasse in Köln-Altstadt/Süd",
+    "datum": "24. Nov 2026",
+    "datum_raw": "2026-11-24T00:00:00",
+    "datum_bis": "21. Dez 2026",
+    "ort": "Stadtplanungsamt – Öffentlichkeitsbeteiligung, Deutz",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41714/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Montag bis Donnerstag, 9 bis 15 Uhr, Freitag, 9 bis 13 Uhr. · Informieren Sie sich über die Planung und geben Sie eine Stellungnahme ab."
+  },
+  {
+    "titel": "Winterprogramm Ebertplatz 2026",
+    "datum": "24. Nov 2026",
+    "datum_raw": "2026-11-24T00:00:00",
+    "datum_bis": "30. Dez 2026",
+    "ort": "Ebertplatz, Neustadt/Nord",
+    "preis": "",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41754/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Auch dieses Jahr bieten wir Ihnen ein vielfältiges Winterprogramm auf dem Ebertplatz"
   },
   {
     "titel": "Bücherbabys – die literarische Krabbelgruppe",
