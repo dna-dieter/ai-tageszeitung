@@ -1,5 +1,48 @@
 [
   {
+    "id": "e56924357c01",
+    "title": "Offener Adventskalender 2026",
+    "summary": "Am 21. November geht's los",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/offener-adventskalender-2026-900000743-37660.html?rubrik=900000004",
+    "published": "Mon, 23 Nov 2026 08:40:00 +0100",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-23T09:17:54.937144",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "08be05c95298",
+    "title": "Wie aus einer Schnapsidee eine Glücksidee wurde",
+    "summary": "Lindlar - Im ausverkauftem Kulturzentrum Lindlar machten die Band Wounded Knees und der Musikverein Frielingsdorf gemeinsame Sache - Über 600 Gäste brachten die Halle zum Beben.",
+    "link": "http://www.oberberg-aktuell.de/kultur/wie-aus-einer-schnapsidee-eine-gl--cksidee-wurde-a-140850",
+    "published": "Mon, 23 Nov 2026 08:38:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-23T09:17:47.737039",
+    "feed_kommunen": []
+  },
+  {
+    "id": "75c733f53d23",
+    "title": "Waldweg südlich der VOSS-Arena weiter vorübergehend gesperrt",
+    "summary": "Wegen der Abrissarbeiten an der Konrad-Adenauer-Hauptschule muss der Waldweg südlich der Voss-Arena gesperrt bleiben.",
+    "link": "https://www.wipperfuerth.de/detailansicht/waldweg-suedlich-der-voss-arena-weiter-voruebergehend-gesperrt.html",
+    "published": "Mon, 23 Nov 2026 08:00:15 +0100",
+    "source": "Stadt Wipperfürth (offiziell)",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-23T09:17:40.599477",
+    "feed_kommunen": [
+      "wipperfuerth"
+    ]
+  },
+  {
     "id": "596c9cd05d8a",
     "title": "Nutrias",
     "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
