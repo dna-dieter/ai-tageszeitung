@@ -1,5 +1,70 @@
 [
   {
+    "id": "8830bf7fff4c",
+    "title": "Ricardo Pietreczko bei der 3. Oberbergischen Dart-Challenge",
+    "summary": "Oberberg - PDC-Akteur gastiert im Januar bei dem Dartturnier, das erstmals in Bergneustadt stattfinden - Spieler aus dem Kreis können sich anmelden.",
+    "link": "http://www.oberberg-aktuell.de/sportmix/ricardo-pietreczko-bei-der----oberbergischen-dart-challenge-a-140874",
+    "published": "Tue, 24 Nov 2026 17:08:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-11-24T17:17:52.807410",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b993a1ebe31b",
+    "title": "Nümbrecht holt Rückraumshooter zurück",
+    "summary": "Nümbrecht – Marius Euteneuer wechselt vom HC Gelpe/Strombach in den Kreissüden.",
+    "link": "http://www.oberberg-aktuell.de/handball/n--mbrecht-holt-r--ckraumshooter-zur--ck-a-140911",
+    "published": "Tue, 24 Nov 2026 16:55:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-24T17:17:52.807521",
+    "feed_kommunen": []
+  },
+  {
+    "id": "bcb05be0dd6d",
+    "title": "Bav-Leerung stockt: Frost lässt Biomüll in Tonnen festfrieren",
+    "summary": "Der Bav bittet um Mithilfe bei der braunen Tonne, weil Bioabfall bei Frost festfriert und die Leerung sich deutlich verzögert.",
+    "link": "https://www.ksta.de/region/oberberg/biomuell-leerung-verzoegert-sich-wegen-frost-im-bav-gebiet-1424168",
+    "published": "Tue, 24 Nov 2026 16:13:56 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-24T17:17:51.366711",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7e31e063fc97",
+    "title": "Lukas Miebach: Bürgermeister aus Engelskirchen zu Besuch in Partnerstädten",
+    "summary": "Bürgermeister Lukas Miebach besucht die Partnerkommunen Plan-de-Cuques und Mogilno, trifft Laurent Simon und Karol Nawrot und setzt auf Zukunft.",
+    "link": "https://www.ksta.de/region/oberberg/engelskirchen/engelskirchen-buergermeister-miebach-besucht-partnerstaedte-1424156",
+    "published": "Tue, 24 Nov 2026 16:04:19 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "engelskirchen"
+    ],
+    "fetched": "2026-11-24T17:17:51.366890",
+    "feed_kommunen": []
+  },
+  {
+    "id": "de5cab70a24e",
+    "title": "Haikus und Jazz: Konzert mit Priester in Nikolauskirche",
+    "summary": "Die Wipperfürther Band Random's 9 und der japanische Priester Shuki Morioka gestalten am Donnerstag ein Konzert in der Nikolauskirche.",
+    "link": "https://www.ksta.de/region/oberberg/wipperfuerth/nikolauskirche-wipperfuerth-jazz-konzert-mit-shuki-morioka-1424043",
+    "published": "Tue, 24 Nov 2026 15:13:47 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-24T17:17:51.367035",
+    "feed_kommunen": []
+  },
+  {
     "id": "054f82455b41",
     "title": "Junge Leute wurden zu Klimabotschaftern",
     "summary": "Bergneustadt – 1.070 Bäume wurden jetzt oberhalb des Alleenradwegs in Wiedenest gepflanzt – eine Aktion von NRW pflanzt, der Kölner Stiftung Robin Gut und vielen Schülerinnen und Schülern aus Bergneustadt.",
