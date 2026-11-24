@@ -1,5 +1,46 @@
 [
   {
+    "id": "d2d8c6db2066",
+    "title": "Ehejubiläen 2027 in der Marktstadt Waldbröl",
+    "summary": "Daten der Ehen, die vor 50, 60, 65 oder 70 Jahren nicht beim Standesamt Waldbröl geschlossen wurden, sind der Verwaltung nicht zugänglich. Die Stadtverwaltung bittet daher die Jubilare, die für […]",
+    "link": "https://www.waldbroel.de/ehejubilaeen-2027-in-der-marktstadt-waldbroel/",
+    "published": "Tue, 24 Nov 2026 10:37:35 +0000",
+    "source": "Stadt Waldbröl (offiziell)",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-24T12:17:22.668296",
+    "feed_kommunen": [
+      "waldbroel"
+    ]
+  },
+  {
+    "id": "16fe3d8a30f5",
+    "title": "Frost: Auftaktrunde im Frauen-Kreispokal abgesagt",
+    "summary": "Oberberg – Die für morgen geplanten Partien der 1. Runde sollen im März nachgeholt werden.",
+    "link": "http://www.oberberg-aktuell.de/fussball/frost--auftaktrunde-im-frauen-kreispokal-abgesagt-a-140895",
+    "published": "Tue, 24 Nov 2026 11:23:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-24T12:17:19.018394",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7c8d8290a790",
+    "title": "Neubau der Wiehltalbrücke: Entwurfsplanung kurz vor dem Start",
+    "summary": "Oberberg – Autobahn GmbH sprach im Kreisentwicklungsausschuss über die aktuellen Bauarbeiten, die Maßnahmen in den kommenden Jahren und den perspektivischen Neubau – Polizei: Nach der nächsten Sperrung müssen die oberbergischen Straßen jetzt 43.000 Fahrzeuge zusätzlich aufnehmen.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/neubau-der-wiehltalbruecke-entwurfsplanung-kurz-vor-dem-start-a-140894",
+    "published": "Tue, 24 Nov 2026 11:23:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-24T12:17:19.018525",
+    "feed_kommunen": []
+  },
+  {
     "id": "8324f5b5372c",
     "title": "\"Weihnachtskisten\" können wieder abgegeben werden",
     "summary": "Oberberg – Tafel Oberberg Süd führt Aktion zugunsten Bedürftiger zum 20. Mal durch.",
@@ -54453,6 +54494,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-23T11:17:33.591436",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "dfe576a63ebf",
+    "title": "Reger Austausch beim Wiehler Wirtschaftstreff",
+    "summary": "Zum vierten Mal hat kürzlich der Wiehler Wirtschaftstreff stattgefunden – bei der Firma Kampf in Mühlen. Im Mittelpunkt des Abends stand das Thema Innovation.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9624-reger-austausch-beim-wiehler.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-24T12:17:21.695726",
     "feed_kommunen": [
       "wiehl"
     ]
