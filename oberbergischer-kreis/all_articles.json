@@ -1,5 +1,89 @@
 [
   {
+    "id": "e00db840ce3c",
+    "title": "Reichshof: Verkehrsunfall – 24-Jähriger prallt gegen Baum und wird leicht verletzt",
+    "summary": "Ein 24-Jähriger aus Gummersbach prallte in Reichshof in einer Rechtskurve gegen einen Baum und kam leicht verletzt in ein Krankenhaus.",
+    "link": "https://www.news-on-tour.de/346737/reichshof-verkehrsunfall-baum/",
+    "published": "Tue, 24 Nov 2026 12:07:05 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "reichshof",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-24T13:17:19.194782",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5045ace06c8e",
+    "title": "Lindlar: Heizen mit Holz – Zusatztermin am 30. November",
+    "summary": "Wegen großer Resonanz gibt es auf :metabolon in Lindlar am Montag, 30. November, einen zusätzlichen Infoabend „Richtig Heizen mit Holz“ mit Fachvortrag und Heizvorführung.",
+    "link": "https://www.news-on-tour.de/346738/lindlar-heizen-holz-zusatztermin/",
+    "published": "Tue, 24 Nov 2026 12:07:05 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-24T13:17:19.194903",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b359c622d44f",
+    "title": "Köln: Dieter Nuhr pausiert krankheitsbedingt – Auftritt erst im Dezember 2028",
+    "summary": "Dieter Nuhr pausiert krankheitsbedingt: Sein Auftritt in der Kölner LANXESS arena rückt vom 12. März 2027 auf den 7. Dezember 2028. Auch der Abend in Gummersbach ist verlegt.",
+    "link": "https://www.news-on-tour.de/346734/koeln-nuhr-lanxess-arena/",
+    "published": "Tue, 24 Nov 2026 12:06:14 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-24T13:17:19.195029",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ca45d8c529a9",
+    "title": "(Update 2) Gummersbach: Kassenausfall behoben – Wartezeiten im Straßenverkehrsamt",
+    "summary": "Update: Nach dem Kassenausfall läuft das System im Straßenverkehrsamt in Gummersbach und Waldbröl wieder. Ausgefallene Zulassungstermine können diese Woche nachgeholt werden, Besucher müssen Wartezeit einplanen.",
+    "link": "https://www.news-on-tour.de/346712/gummersbach-kassenausfall-zulassung/",
+    "published": "Tue, 24 Nov 2026 11:26:38 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "waldbroel",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-24T13:17:19.195156",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b6f7a6855844",
+    "title": "Friedhofstoiletten bis zum Frühjahr geschlossen",
+    "summary": "Wegen Frostgefahr Wasserversorgung abgeschaltet",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/friedhofstoiletten-bis-zum-fruehjahr-geschlossen-900000747-37660.html?rubrik=900000002",
+    "published": "Tue, 24 Nov 2026 12:20:00 +0100",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-24T13:17:33.362069",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "302ac6cea1a8",
+    "title": "Offener Adventskalender am 10. Dezember ab 15 Uhr in der Stadtbibliothek Hückeswagen",
+    "summary": "Buntes Programm mit Waffeln und Punsch für Groß und Klein, mit Bilderbuchkino, Kinderlesung und Kinderschminken",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/offener-adventskalender-am-10-dezember-ab-15-uhr-in-der-stadtbibliothek-hueckeswagen-900000746-37660.html?rubrik=900000004",
+    "published": "Tue, 24 Nov 2026 12:11:00 +0100",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-24T13:17:33.362166",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
     "id": "d2d8c6db2066",
     "title": "Ehejubiläen 2027 in der Marktstadt Waldbröl",
     "summary": "Daten der Ehen, die vor 50, 60, 65 oder 70 Jahren nicht beim Standesamt Waldbröl geschlossen wurden, sind der Verwaltung nicht zugänglich. Die Stadtverwaltung bittet daher die Jubilare, die für […]",
@@ -112,6 +196,22 @@
     ]
   },
   {
+    "id": "2685eda40737",
+    "title": "Oberberg setzt ein Zeichen gegen Gewalt an Frauen und Mädchen",
+    "summary": "Um auf das Thema aufmerksam zu machen, Betroffene zu unterstützen und Hilfsangebote sichtbar zu machen, veranstalten zahlreiche Beratungsstellen, Organisationen und Initiativen aus dem Oberbergischen Kreis am Mittwoch, 25. November 2026, einen gemeinsamen Aktionstag im Forum Gummersbach.",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/oberberg-setzt-ein-zeichen-gegen-gewalt-an-frauen-und-maedchen-900000745-37660.html?rubrik=900000001",
+    "published": "Tue, 24 Nov 2026 09:47:00 +0100",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-24T13:17:33.362314",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
     "id": "e57901d91e99",
     "title": "Straßenverkehrsamt: Störung des Kassensystems behoben",
     "summary": "Oberberg - Betrieb in der Hauptstelle Gummersbach und der Nebenstelle Waldbröl war am Montag gestört, inzwischen läuft die Technik wieder - Es kann weiterhin zu Wartezeiten kommen (AKTUALISIERT).",
@@ -205,20 +305,6 @@
       "gummersbach"
     ],
     "fetched": "2026-11-23T19:17:15.240758",
-    "feed_kommunen": []
-  },
-  {
-    "id": "4f5f6127ab41",
-    "title": "Gummersbach: Kassenausfall im Straßenverkehrsamt – längere Wartezeiten",
-    "summary": "Kassenausfall im Oberbergischen Kreis: Ausgefallene Termine der Zulassungsstellen in Gummersbach und Waldbröl können diese Woche nachgeholt werden. Besucher müssen Wartezeit einplanen.",
-    "link": "https://www.news-on-tour.de/346712/gummersbach-kassenausfall-zulassung/",
-    "published": "Mon, 23 Nov 2026 16:38:35 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach",
-      "waldbroel"
-    ],
-    "fetched": "2026-11-23T18:17:18.871832",
     "feed_kommunen": []
   },
   {

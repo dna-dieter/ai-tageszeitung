@@ -1,5 +1,35 @@
 [
   {
+    "id": "b6f7a6855844",
+    "title": "Friedhofstoiletten bis zum Frühjahr geschlossen",
+    "summary": "Wegen Frostgefahr Wasserversorgung abgeschaltet",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/friedhofstoiletten-bis-zum-fruehjahr-geschlossen-900000747-37660.html?rubrik=900000002",
+    "published": "Tue, 24 Nov 2026 12:20:00 +0100",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-24T13:17:33.362069",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "302ac6cea1a8",
+    "title": "Offener Adventskalender am 10. Dezember ab 15 Uhr in der Stadtbibliothek Hückeswagen",
+    "summary": "Buntes Programm mit Waffeln und Punsch für Groß und Klein, mit Bilderbuchkino, Kinderlesung und Kinderschminken",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/offener-adventskalender-am-10-dezember-ab-15-uhr-in-der-stadtbibliothek-hueckeswagen-900000746-37660.html?rubrik=900000004",
+    "published": "Tue, 24 Nov 2026 12:11:00 +0100",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-24T13:17:33.362166",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
     "id": "ce7d9d7db18d",
     "title": "Leitungsteam der Feuerwehr wieder komplett",
     "summary": "Mit Christoph Erlhagen ist die Spitze der Freiwilligen Feuerwehr Hückeswagen wieder vollständig. Der 49-Jährige war schon seit 2024 Teil der Wehrleitung.",
@@ -10,6 +40,22 @@
       "hueckeswagen"
     ],
     "fetched": "2026-11-24T10:17:29.861642",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "2685eda40737",
+    "title": "Oberberg setzt ein Zeichen gegen Gewalt an Frauen und Mädchen",
+    "summary": "Um auf das Thema aufmerksam zu machen, Betroffene zu unterstützen und Hilfsangebote sichtbar zu machen, veranstalten zahlreiche Beratungsstellen, Organisationen und Initiativen aus dem Oberbergischen Kreis am Mittwoch, 25. November 2026, einen gemeinsamen Aktionstag im Forum Gummersbach.",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/oberberg-setzt-ein-zeichen-gegen-gewalt-an-frauen-und-maedchen-900000745-37660.html?rubrik=900000001",
+    "published": "Tue, 24 Nov 2026 09:47:00 +0100",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-24T13:17:33.362314",
     "feed_kommunen": [
       "hueckeswagen"
     ]

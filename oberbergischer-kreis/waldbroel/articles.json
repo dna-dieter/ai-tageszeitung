@@ -1,5 +1,19 @@
 [
   {
+    "id": "ca45d8c529a9",
+    "title": "(Update 2) Gummersbach: Kassenausfall behoben – Wartezeiten im Straßenverkehrsamt",
+    "summary": "Update: Nach dem Kassenausfall läuft das System im Straßenverkehrsamt in Gummersbach und Waldbröl wieder. Ausgefallene Zulassungstermine können diese Woche nachgeholt werden, Besucher müssen Wartezeit einplanen.",
+    "link": "https://www.news-on-tour.de/346712/gummersbach-kassenausfall-zulassung/",
+    "published": "Tue, 24 Nov 2026 11:26:38 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "waldbroel",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-24T13:17:19.195156",
+    "feed_kommunen": []
+  },
+  {
     "id": "d2d8c6db2066",
     "title": "Ehejubiläen 2027 in der Marktstadt Waldbröl",
     "summary": "Daten der Ehen, die vor 50, 60, 65 oder 70 Jahren nicht beim Standesamt Waldbröl geschlossen wurden, sind der Verwaltung nicht zugänglich. Die Stadtverwaltung bittet daher die Jubilare, die für […]",
@@ -26,20 +40,6 @@
       "waldbroel"
     ],
     "fetched": "2026-11-24T10:17:33.429844",
-    "feed_kommunen": []
-  },
-  {
-    "id": "4f5f6127ab41",
-    "title": "Gummersbach: Kassenausfall im Straßenverkehrsamt – längere Wartezeiten",
-    "summary": "Kassenausfall im Oberbergischen Kreis: Ausgefallene Termine der Zulassungsstellen in Gummersbach und Waldbröl können diese Woche nachgeholt werden. Besucher müssen Wartezeit einplanen.",
-    "link": "https://www.news-on-tour.de/346712/gummersbach-kassenausfall-zulassung/",
-    "published": "Mon, 23 Nov 2026 16:38:35 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach",
-      "waldbroel"
-    ],
-    "fetched": "2026-11-23T18:17:18.871832",
     "feed_kommunen": []
   },
   {
