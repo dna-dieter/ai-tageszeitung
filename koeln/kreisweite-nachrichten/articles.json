@@ -1,5 +1,18 @@
 [
   {
+    "id": "99310be2a003",
+    "title": "Kulturpläne für das Depot 2: Eine Perspektive in schwierigen Zeiten",
+    "summary": "Angesichts der Kölner Haushaltslage bietet der Unternehmer eine Lösung für das Mülheimer Depot, um den Kulturort langfristig zu sichern.",
+    "link": "https://www.ksta.de/koeln/muelheim/muelheim-veedel/koeln-muelheim-frank-blase-bietet-perspektive-in-schwierigen-zeiten-1423407",
+    "published": "Tue, 24 Nov 2026 08:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-24T08:18:01.861449",
+    "feed_kommunen": []
+  },
+  {
     "id": "09970d223330",
     "title": "Sozialgelder für Rumänen in Köln: Ansprüche seit 2010 mehr als versiebenfacht",
     "summary": "Die Ausgaben für Sozialleistungen an rumänische Staatsbürger in Köln sind stark gestiegen. Die Ansprüche haben sich seit 2010 mehr als versiebenfacht.",
@@ -205,6 +218,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-23T16:18:46.385706",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8cc93edd84a2",
+    "title": "Schwerpunktaktion im Stadtbezirk Mülheim",
+    "summary": "23. November 2026, 15:35Stadt Köln und Polizei kontrollierten Betriebe und stellten Verstöße fest",
+    "link": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/schwerpunktaktion-im-stadtbezirk-muelheim",
+    "published": "Mon, 23 Nov 2026 15:35:00 +0100",
+    "source": "Stadt Köln Pressemeldungen",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-24T08:18:01.385005",
     "feed_kommunen": []
   },
   {

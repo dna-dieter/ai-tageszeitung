@@ -1,5 +1,33 @@
 [
   {
+    "id": "fb95dc53ac4e",
+    "title": "So groß war der Weihnachtsbaum noch nie",
+    "summary": "Etwa elf Meter hoch ist die imposante Tanne auf dem Marktplatz.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/so-gross-war-der-weihnachtsbaum-noch-nie-HWG6EHFJU3WFXQCZRCVKYW2WSQ.html",
+    "published": "Tue, 24 Nov 2026 08:00:02 +0100",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-11-24T08:17:08.795985",
+    "feed_kommunen": [
+      "radevormwald"
+    ]
+  },
+  {
+    "id": "a36ab86e9cd3",
+    "title": "Stadtwaldweiher",
+    "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
+    "link": "http://www.oberberg-aktuell.de/foto-des-tages/stadtwaldweiher-a-140590",
+    "published": "Tue, 24 Nov 2026 08:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-24T08:17:12.846961",
+    "feed_kommunen": []
+  },
+  {
     "id": "f5e87483bc8c",
     "title": "Cyberlage in Deutschland „angespannt bis kritisch“",
     "summary": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) warnt im neuen Lagebericht: Hacker nutzen Sicherheitslücken immer schneller aus, auch dank Künstlicher Intelligenz. Viele Firmen und Privatleute wiegen sich dennoch in falscher Sicherheit.",
