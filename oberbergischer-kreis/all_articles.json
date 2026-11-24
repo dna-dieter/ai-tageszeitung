@@ -1,5 +1,72 @@
 [
   {
+    "id": "515305dd3259",
+    "title": "Kaufvertrag unterzeichnet – Innenstadtprojekt nimmt weitere Formen an",
+    "summary": "Anfang des Monats konnte der nächste Meilenstadt für Waldbröls Innenstadtentwicklung verbucht werden: Waldbröls Bürgermeisterin Larissa Weber und der Investor „Roci Group“ vertreten durch Mirdi, Verdi und Bleron Roci (v.l.n.r.) unterzeichneten […]",
+    "link": "https://www.waldbroel.de/kaufvertrag-unterzeichnet-innenstadtprojekt-nimmt-weitere-formen-an/",
+    "published": "Tue, 24 Nov 2026 17:13:23 +0000",
+    "source": "Stadt Waldbröl (offiziell)",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-24T18:17:42.662993",
+    "feed_kommunen": [
+      "waldbroel"
+    ]
+  },
+  {
+    "id": "182852d80110",
+    "title": "26 neue Fußball-Schiedsrichter ausgebildet",
+    "summary": "Oberberg – Der Fußballkreis Berg darf sich über Verstärkung an der Pfeife freuen – Die Neulinge werden Schritt für Schritt in den Spielbetrieb integriert.",
+    "link": "http://www.oberberg-aktuell.de/fussball/---neue-fu--ball-schiedsrichter-ausgebildet-a-140898",
+    "published": "Tue, 24 Nov 2026 17:54:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-24T18:17:39.592271",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ee603ed4f13e",
+    "title": "Klamme Kassen: Bergneustadts Politik lehnt weitere Einsparungen bei sich ab",
+    "summary": "Bergneustadt – Mit breiter Mehrheit hat Bergneustadts Stadtrat eine Satzungsänderung, die zu Kürzungen der Aufwandsentschädigungen geführt hätte, abgelehnt.",
+    "link": "http://www.oberberg-aktuell.de/bergneustadt/klamme-kassen--bergneustadts-politik-lehnt-weitere-einsparungen-bei-sich-ab-a-140901",
+    "published": "Tue, 24 Nov 2026 17:30:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-11-24T18:17:39.592475",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ce25e78175de",
+    "title": "Weitere Förderprojekte ausgewählt und Jubiläumsbaum gepflanzt",
+    "summary": "Oberberg – Im zehnten Jahr des Bestehens der LEADER-Region Bergisches Wasserland werden rund 285.000 Euro für weitere Vorhaben ausgeschüttet – Auch Projekte in oberbergischen Kommunen sind dabei.",
+    "link": "http://www.oberberg-aktuell.de/oberbergischer-kreis/weitere-f--rderprojekte-ausgew--hlt-und-jubil--umsbaum-gepflanzt-a-140875",
+    "published": "Tue, 24 Nov 2026 17:23:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-24T18:17:39.592714",
+    "feed_kommunen": []
+  },
+  {
+    "id": "3e6fc1f245f0",
+    "title": "Wipperfürth: Brandeinsatz an der Egener Straße – Feuerwehr vor Ort",
+    "summary": "In Wipperfürth läuft ein Brandeinsatz an der Egener Straße. Die Feuerwehr Wipperfürth und der Rettungsdienst des Oberbergischen Kreises sind vor Ort.",
+    "link": "https://www.news-on-tour.de/346771/wipperfuerth-brandeinsatz-egener/",
+    "published": "Tue, 24 Nov 2026 16:19:20 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-24T18:17:34.431446",
+    "feed_kommunen": []
+  },
+  {
     "id": "8830bf7fff4c",
     "title": "Ricardo Pietreczko bei der 3. Oberbergischen Dart-Challenge",
     "summary": "Oberberg - PDC-Akteur gastiert im Januar bei dem Dartturnier, das erstmals in Bergneustadt stattfinden - Spieler aus dem Kreis können sich anmelden.",
@@ -23,6 +90,45 @@
       "nuembrecht"
     ],
     "fetched": "2026-11-24T17:17:52.807521",
+    "feed_kommunen": []
+  },
+  {
+    "id": "fefddecedb26",
+    "title": "Von Krimilesung bis Gospel: Kultur-Tipps für den Advent in Oberberg",
+    "summary": "Vom Mitsingen über Krimilesung und Weihnachtsbasteln bis zum „Xmas Jazz“: Diese Termine der nächsten Wochen sollten Sie sich vormerken.",
+    "link": "https://www.ksta.de/region/oberberg/kultur-tipps-fuer-den-advent-veranstaltungen-in-oberberg-1424187",
+    "published": "Tue, 24 Nov 2026 16:28:40 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-24T18:17:38.505975",
+    "feed_kommunen": []
+  },
+  {
+    "id": "3bd6815b567b",
+    "title": "Testosteron, Hausarbeit, Vorbilder: Wie Jungs Verantwortung lernen können",
+    "summary": "Die Berliner Autorin Anne Dittmann sprach in Gummersbach über zeitgemäße Jungen-Erziehung, Hausarbeit und die Frage nach geeigneten Vorbildern.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/jungenerziehung-anne-dittmann-spricht-in-gummersbach-1424183",
+    "published": "Tue, 24 Nov 2026 16:23:35 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-24T18:17:38.506143",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d085b2f0fa65",
+    "title": "Gummersbacher Vogtei: Erstes Café für Alleinerziehende eröffnet",
+    "summary": "Beim ersten Alleinerziehenden-Café in der Gummersbacher Vogtei tauschten sich Frauen über Sorgen, Alltag und Einsamkeit aus.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/gummersbach-neues-caf-fuer-alleinerziehende-eroeffnet-1424179",
+    "published": "Tue, 24 Nov 2026 16:18:37 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-24T18:17:38.506277",
     "feed_kommunen": []
   },
   {

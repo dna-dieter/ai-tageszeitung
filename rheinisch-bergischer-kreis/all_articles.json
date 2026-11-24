@@ -1,5 +1,72 @@
 [
   {
+    "id": "7fccd752243b",
+    "title": "Polizei stoppt 16-jährigen E-Scooter-Fahrer nach riskanter Flucht",
+    "summary": "Ein Jugendlicher auf einem Elektro-Roller hat missachtete Haltesignale eines Streifenwagens der Polizei und gefährdete auf der Flucht durch die Innenstadt mehrfach andere Verkehrsteilnehmer. Ein privat unterwegs gewesener Kommissaranwärter konnte ihn schließlich stoppen. Der E-Scooter war offenbar frisiert.",
+    "link": "https://in-gl.de/2026/11/24/polizei-stoppt-16-jahrigen-e-scooter-fahrer-nach-riskanter-flucht-bergisch-gladbach/",
+    "published": "Tue, 24 Nov 2026 17:09:11 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-24T18:15:39.428120",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7b8a13736ff5",
+    "title": "Was ist am Wochenende im Bergischen los? Die Veranstaltungen im Überblick",
+    "summary": "Am 1. Adventswochenende wird es nicht nur ruhig und besinnlich. Lüttringhausen, Burg, Schloss Grünewald verwandeln sich in ein Weihnachtsdorf, im Teo Otto Theater heißt es „bitte mitsingen“ und es gibt eine Kinderlesung für Helft uns helfen. Wer etwas Märchenhaftes möchte, ist im WTT, Papiertheater Haase und beim Ballett gut aufgehoben.",
+    "link": "https://www.rga.de/lokales/rheinisch-bergischer-kreis/wermelskirchen/was-ist-am-wochenende-im-bergischen-los-die-veranstaltungen-im-ueberblick-K222ZYRJY5BT3MOYBFZFSDTAU4.html",
+    "published": "Tue, 24 Nov 2026 17:21:42 +0100",
+    "source": "RGA Wermelskirchen",
+    "kommunen": [
+      "wermelskirchen"
+    ],
+    "fetched": "2026-11-24T18:16:02.016115",
+    "feed_kommunen": [
+      "wermelskirchen"
+    ]
+  },
+  {
+    "id": "b66e597b30d2",
+    "title": "Fröbel-Kita ZAK: Bensberger Kita-Kinder leiten die Bücherei selbst",
+    "summary": "Die Fröbel-Kita ZAK in Bensberg überzeugt mit Leseangeboten, die Kinder mitgestalten – etwa als Bibliothekare in der eigenen Bücherei.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/froebel-kita-zak-in-bensberg-fuer-deutschen-lesepreis-nominiert-1424247",
+    "published": "Tue, 24 Nov 2026 17:12:25 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-24T18:16:04.965477",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6c02dcc1aeec",
+    "title": "Große Begeisterung: Ballett-Dance Akademie bringt Hollywood nach Kürten",
+    "summary": "Die Ballett-Dance Akademie Kürten verwandelte den Bergischen Löwen in eine Hollywood-Bühne und begeisterte mit ihrer Jahresaufführung.",
+    "link": "https://www.ksta.de/region/rhein-berg/kuerten/ballett-dance-akademie-kuerten-begeistert-mit-hollywood-show-1424244",
+    "published": "Tue, 24 Nov 2026 17:09:01 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kuerten"
+    ],
+    "fetched": "2026-11-24T18:16:04.965622",
+    "feed_kommunen": []
+  },
+  {
+    "id": "237179832a04",
+    "title": "Rewe soll wachsen: Odenthal ringt um Optik und Lärmschutz",
+    "summary": "Der Rewe-Markt im Ortskern soll von 800 auf 1300 Quadratmeter wachsen. Der Ausschuss empfiehlt die Änderung des Bebauungsplans mehrheitlich.",
+    "link": "https://www.ksta.de/region/rhein-berg/odenthal/rewe-markt-in-odenthal-soll-auf-1300-quadratmeter-wachsen-1424239",
+    "published": "Tue, 24 Nov 2026 17:04:18 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "odenthal"
+    ],
+    "fetched": "2026-11-24T18:16:04.965779",
+    "feed_kommunen": []
+  },
+  {
     "id": "ac116eafb36f",
     "title": "Veranstaltungen: Das ist am Wochenende los",
     "summary": "Am 1. Adventswochenende wird es nicht nur ruhig und besinnlich. Lüttringhausen, Burg, Schloss Grünewald verwandeln sich in ein Weihnachtsdorf, im Teo Otto Theater heißt es „bitte mitsingen“ und es gibt eine Kinderlesung für Helft uns helfen. Wer etwas Märchenhaftes möchte, ist im WTT, Papiertheater Haase und beim Ballett gut aufgehoben.",
@@ -13,6 +80,73 @@
     "feed_kommunen": [
       "wermelskirchen"
     ]
+  },
+  {
+    "id": "23da6df59a8a",
+    "title": "„Alla Zingarese“: Wie Musik Respekt für Sinti und Roma stiftet",
+    "summary": "Beim Festival „Alla Zingarese“ in Bensberg und Rösrath treffen klassische Musik, Sinti-Swing und ukrainische Volkslieder aufeinander.",
+    "link": "https://www.ksta.de/region/rhein-berg/roesrath/festival-alla-zingarese-in-bensberg-und-roesrath-foerdert-respekt-1424217",
+    "published": "Tue, 24 Nov 2026 16:59:42 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach",
+      "roesrath"
+    ],
+    "fetched": "2026-11-24T18:16:04.965902",
+    "feed_kommunen": []
+  },
+  {
+    "id": "37cf191214c6",
+    "title": "Ausverkauftes Benefizkonzert: 650 Gäste feiern 60. Benefizkonzert der Lions",
+    "summary": "Beim ausverkauften 60. Benefizkonzert führt das Sinfonieorchester von Strauß bis Ravel durch Wiens Walzerglanz und seinen Zerfall.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/benefizkonzert-in-bergisch-gladbach-650-gaeste-feiern-lions-event-1424214",
+    "published": "Tue, 24 Nov 2026 16:55:39 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-24T18:16:04.966061",
+    "feed_kommunen": []
+  },
+  {
+    "id": "efcdd5174cea",
+    "title": "Eisspitze im Grau: Wie Nebel den Rheinisch-Bergischen Kreis verzaubert",
+    "summary": "Im Rheinisch-Bergischen Kreis hüllt Nebel das Land ein, doch auf einer Wiese bei Overath und Rösrath glitzern Gräser im filigranen Eiskleid.",
+    "link": "https://www.ksta.de/region/rhein-berg/rheinisch-bergischer-kreis-nebel-zaubert-eiskristalle-auf-wiesen-1424210",
+    "published": "Tue, 24 Nov 2026 16:52:39 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "overath",
+      "roesrath"
+    ],
+    "fetched": "2026-11-24T18:16:04.966196",
+    "feed_kommunen": []
+  },
+  {
+    "id": "df4b24c0d87e",
+    "title": "Nach Hüftbruch: Reul trainiert und vermisst Abendtermine",
+    "summary": "NRW-Innenminister Herbert Reul trainiert nach seinem Hüftbruch in Leichlingen weiter und muss öffentliche Termine vorerst noch absagen.",
+    "link": "https://www.ksta.de/region/rhein-berg/herbert-reul-nach-hueftbruch-training-und-arbeit-im-homeoffice-1424203",
+    "published": "Tue, 24 Nov 2026 16:49:26 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-24T18:16:04.966336",
+    "feed_kommunen": []
+  },
+  {
+    "id": "caf2034f045f",
+    "title": "Bergisch Gladbach: Stadt plant Tempo 30 auf drei Hauptachsen",
+    "summary": "Die Stadtverwaltung will Tempo 30 auf Teilen von Refrather Weg und Hauptstraße einführen; auch für die Bensberger Straße gibt es ein Ergebnis.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/bergisch-gladbach-plant-tempo-30-auf-drei-hauptstrassen-1424198",
+    "published": "Tue, 24 Nov 2026 16:34:04 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-24T18:16:04.966460",
+    "feed_kommunen": []
   },
   {
     "id": "96d086037071",
