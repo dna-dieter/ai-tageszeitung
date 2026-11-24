@@ -1,5 +1,44 @@
 [
   {
+    "id": "310831d7cfad",
+    "title": "Einsatz am Kölner Hauptbahnhof: Mann nimmt Bundespolizisten in den Schwitzkasten",
+    "summary": "Ein 30-jähriger Mann hat im Kölner Hauptbahnhof nach einem Platzverweis einen Bundespolizisten angegriffen und in den Schwitzkasten genommen. Er kam in Gewahrsam.",
+    "link": "https://www.ksta.de/koeln/koelner-hauptbahnhof-mann-nimmt-bundespolizisten-in-schwitzkasten-1423660",
+    "published": "Tue, 24 Nov 2026 08:53:23 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-24T09:18:18.662010",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ed6a6c2fd5e3",
+    "title": "Verdacht der Rauschgiftkriminalität: Internationale Fahndung endet mit Festnahme in Köln",
+    "summary": "Am Flughafen Köln/Bonn nahm die Bundespolizei einen international gesuchten Belgier (37) fest. Ihm wird Rauschgiftkriminalität vorgeworfen.",
+    "link": "https://www.ksta.de/koeln/flughafen-koeln-bonn-international-gesuchter-mann-festgenommen-1423678",
+    "published": "Tue, 24 Nov 2026 08:45:22 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-24T09:18:18.662027",
+    "feed_kommunen": []
+  },
+  {
+    "id": "489c881be286",
+    "title": "Protest vor dem Rathaus: Stadt Köln will Katholische Hauptschule am Rhein schließen",
+    "summary": "Die Stadt Köln plant die Schließung der Katholischen Hauptschule an der Niederichstraße, um Platz für das Gymnasium Neustadt-Nord zu schaffen.",
+    "link": "https://www.ksta.de/koeln/hauptschule-am-rhein-stadt-koeln-plant-schliessung-trotz-protesten-1422992",
+    "published": "Tue, 24 Nov 2026 08:30:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-24T09:18:18.662038",
+    "feed_kommunen": []
+  },
+  {
     "id": "99310be2a003",
     "title": "Kulturpläne für das Depot 2: Eine Perspektive in schwierigen Zeiten",
     "summary": "Angesichts der Kölner Haushaltslage bietet der Unternehmer eine Lösung für das Mülheimer Depot, um den Kulturort langfristig zu sichern.",
