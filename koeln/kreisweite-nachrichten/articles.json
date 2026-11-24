@@ -1,5 +1,83 @@
 [
   {
+    "id": "d29f4efbc081",
+    "title": "Kfz-Diebstahlstatistik: Köln ist Spitzenreiter bei Schäden durch Autodiebstahl",
+    "summary": "Autodiebstähle kommen Versicherer in Köln besonders teuer zu stehen. Im Durchschnitt beträgt der Schaden fast 34.000 Euro pro gestohlenem Wagen. Das ist bundesweit Spitze.",
+    "link": "https://www.ksta.de/wirtschaft/koeln-ist-spitzenreiter-bei-schaeden-durch-autodiebstahl-1423628",
+    "published": "Tue, 24 Nov 2026 06:16:14 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-24T06:19:10.472186",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6aa0d46083a2",
+    "title": "Krebschirurgie: Von der Radikalität zur schonenden Minimalität",
+    "summary": "Moderne Krebschirurgie setzt heute auf differenzierte Diagnostik und minimalinvasive Eingriffe, um Patienten schonender und effektiver zu behandeln.",
+    "link": "https://www.ksta.de/ratgeber/gesundheit/krebschirurgie-in-koeln-von-der-radikalitaet-zur-minimalitaet-1423003",
+    "published": "Tue, 24 Nov 2026 06:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-24T06:19:10.472209",
+    "feed_kommunen": []
+  },
+  {
+    "id": "aed5e72d77e4",
+    "title": "Sie spricht von „Hinrichtung“: Staatsanwältin fordert die Höchsstrafe für Rocker-Mord in Köln",
+    "summary": "Im Prozess um einen Rockermord in Köln fordert die Staatsanwaltschaft lebenslange Haft für den mutmaßlichen Auftraggeber wegen Anstiftung zum Mord.",
+    "link": "https://www.ksta.de/koeln/rocker-mord-in-koeln-staatsanwaltschaft-fordert-lebenslange-haftstrafe-1423345",
+    "published": "Tue, 24 Nov 2026 06:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-24T06:19:10.472223",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6eb723fba564",
+    "title": "Galeria-Aus in Köln: „Ich verbinde meine Kindheit so sehr mit den Weihnachtsfenstern“",
+    "summary": "Die geplante Schließung der Galeria-Filiale auf der Kölner Hohe Straße sorgt online für starke Reaktionen. Aber nicht alle sind nostaglsich.",
+    "link": "https://www.ksta.de/koeln/kaufhof-in-koeln-schliesst-nostalgie-und-kritik-in-der-community-1422962",
+    "published": "Tue, 24 Nov 2026 06:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-24T06:19:10.472236",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9130428e7589",
+    "title": "Wer nicht kommt, zahlt: Wirte klagen über No-Show – Kölner Brauhaus droht mit Reservierungssperre",
+    "summary": "Immer mehr Kölner Gastronomen erheben Gebühren für unentschuldigte Absagen, um wirtschaftliche Verluste durch leere Tische zu vermeiden.",
+    "link": "https://www.ksta.de/koeln/no-show-in-der-koelner-gastronomie-wer-nicht-kommt-zahlt-dennoch-1419449",
+    "published": "Tue, 24 Nov 2026 05:30:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-24T06:19:10.472249",
+    "feed_kommunen": []
+  },
+  {
+    "id": "318e378a5db3",
+    "title": "Fall Davide K. aus Köln-Kalk: Rocker in Istanbul festgenommen – Gab er den Auftrag zu Mord vor Fitnessstudio?",
+    "summary": "Der gesuchte Rocker Hasan Okutan wurde in Istanbul gefasst. Ihm wird unter anderem vorgeworfen, einen Mord in Köln-Kalk in Auftrag gegeben zu haben.",
+    "link": "https://www.ksta.de/koeln/kalk/kalk-veedel/hasan-okutan-in-istanbul-festgenommen-bezug-zu-mord-in-koeln-kalk-1423230",
+    "published": "Tue, 24 Nov 2026 05:30:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-24T06:19:10.472263",
+    "feed_kommunen": []
+  },
+  {
     "id": "9dbfc90d4a78",
     "title": "Stadt Köln setzt auf Investor, Politik ist uneins: Wie das Mülheimer Depot als Kulturort erhalten werden könnte",
     "summary": "Die Stadt Köln will das Depot 2 an einen Musical-Produzenten übergeben, doch im Rat ist das Vorhaben wegen der freien Szene höchst umstritten.",
