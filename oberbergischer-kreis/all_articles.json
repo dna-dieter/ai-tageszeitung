@@ -1,5 +1,57 @@
 [
   {
+    "id": "054f82455b41",
+    "title": "Junge Leute wurden zu Klimabotschaftern",
+    "summary": "Bergneustadt – 1.070 Bäume wurden jetzt oberhalb des Alleenradwegs in Wiedenest gepflanzt – eine Aktion von NRW pflanzt, der Kölner Stiftung Robin Gut und vielen Schülerinnen und Schülern aus Bergneustadt.",
+    "link": "http://www.oberberg-aktuell.de/bergneustadt/junge-leute-wurden-zu-klimabotschaftern-a-140899",
+    "published": "Tue, 24 Nov 2026 15:05:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-11-24T15:17:48.635812",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7f95775882bf",
+    "title": "Stadtrat Bergneustadt: Rat lehnt geringere Aufwandsentschädigung ab",
+    "summary": "Der Bergneustädter Stadtrat lehnt es erneut ab, die Aufwandsentschädigung auf Teilpauschale umzustellen – trotz Haushaltssicherung.",
+    "link": "https://www.ksta.de/region/oberberg/bergneustadt/bergneustadt-stadtrat-lehnt-geringere-aufwandsentschaedigung-ab-1424035",
+    "published": "Tue, 24 Nov 2026 14:38:31 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-11-24T15:17:47.322573",
+    "feed_kommunen": []
+  },
+  {
+    "id": "931521973d5c",
+    "title": "Ehemaliges Spielerduo unterstützt die Wiehler Interimstrainer",
+    "summary": "Wiehl - Jonathan Noß und Philipp Sulzer übernehmen die sportliche Leitung bei der 1. Mannschaft des FV Wiehl und werden für die letzten drei Spiele bis zur Winterpause auch in die Trainingsarbeit eingebunden sein - Am Sonntag erwartet das Landesliga-Schlusslicht den FV Bad Honnef.",
+    "link": "http://www.oberberg-aktuell.de/fussball/ehemaliges-spielerduo-unterst--tzt-die-wiehler-interimstrainer-a-140897",
+    "published": "Tue, 24 Nov 2026 14:31:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-24T15:17:48.635986",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1fc3844a8448",
+    "title": "DLRG sucht Ausbilder: Mehr Kinder sollen in Oberberg schwimmen lernen",
+    "summary": "Die DLRG Bergneustadt will mehr Kindern das Schwimmen beibringen und lädt zur Online-Infoveranstaltung über die Ausbildung ein.",
+    "link": "https://www.ksta.de/region/oberberg/dlrg-bergneustadt-sucht-ausbilder-fuer-seepferdchen-projekt-1424010",
+    "published": "Tue, 24 Nov 2026 14:23:42 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "bergneustadt"
+    ],
+    "fetched": "2026-11-24T15:17:47.322690",
+    "feed_kommunen": []
+  },
+  {
     "id": "fecf5347c312",
     "title": "Lindlar: Singen bei Kaffee und Kuchen – Gäste wünschen sich Wiederholung",
     "summary": "Kaffee, Kuchen, Schlager und Seemannslieder: Die Gemeinde Lindlar lud erstmals zum Mitsing-Nachmittag ins Severinushaus ein – mit Erfolg.",
@@ -10,6 +62,19 @@
       "lindlar"
     ],
     "fetched": "2026-11-24T14:17:38.488256",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9f56f864c328",
+    "title": "Vortrag in Hülsenbusch: Wie man mordet und warum es kaum gelingt",
+    "summary": "Beim True-Crime-Vortrag in Hülsenbusch berichtete Polizeikommissar a.D. Andreas Schnurbusch auch von einem Fall aus Oberberg.",
+    "link": "https://www.ksta.de/region/oberberg/true-crime-vortrag-in-huelsenbusch-wie-mordfaelle-aufgeklaert-werden-1423988",
+    "published": "Tue, 24 Nov 2026 14:15:07 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-24T15:17:47.322795",
     "feed_kommunen": []
   },
   {
