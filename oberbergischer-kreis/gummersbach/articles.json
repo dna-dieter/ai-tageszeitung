@@ -1,5 +1,47 @@
 [
   {
+    "id": "e57901d91e99",
+    "title": "Straßenverkehrsamt: Störung des Kassensystems behoben",
+    "summary": "Oberberg - Betrieb in der Hauptstelle Gummersbach und der Nebenstelle Waldbröl war am Montag gestört, inzwischen läuft die Technik wieder - Es kann weiterhin zu Wartezeiten kommen (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/oberbergischer-kreis/ausfall-des-kassensystems--st--rung-im-stra--enverkehrsamt-a-140873",
+    "published": "Tue, 24 Nov 2026 09:20:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach",
+      "waldbroel"
+    ],
+    "fetched": "2026-11-24T10:17:33.429844",
+    "feed_kommunen": []
+  },
+  {
+    "id": "786bce32b552",
+    "title": "Gegen Baum geprallt: 24-Jähriger leicht verletzt",
+    "summary": "Reichshof – Gummersbacher kam zwischen Hecke und Geschleide von der Fahrbahn ab.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/gegen-baum-geprallt-----j--hriger-leicht-verletzt-a-140890",
+    "published": "Tue, 24 Nov 2026 09:14:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach",
+      "reichshof"
+    ],
+    "fetched": "2026-11-24T10:17:33.429957",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e8ba18c07467",
+    "title": "POL-GM: Gegen Baum geprallt - 24-Jähriger leicht verletzt",
+    "summary": "Reichshof (ots) - Ein 24-Jähriger aus Gummersbach fuhr am Montagabend (23. November) gegen 19:45 Uhr auf einer Verlängerung der Gelslinger Straße aus Richtung Hecke kommend in Richtung Geschleide. In einer Rechtkurve kam er von der Straße ab und ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6396652",
+    "published": "Tue, 24 Nov 2026 09:00:15 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach",
+      "reichshof"
+    ],
+    "fetched": "2026-11-24T10:17:32.258901",
+    "feed_kommunen": []
+  },
+  {
     "id": "bea400b867ab",
     "title": "Wolff-Gerüchte überstrahlen Vorbereitung auf Logroño",
     "summary": "Gummersbach - Während Gummersbach gegen die Spanier einen Sieg zum Weiterkommen in der European League braucht, verdichten die Gerüchte um den DHB-Keeper - 'RPP - Ambulantes Therapie- und Reha-Zentrum' und AggerEnergie präsentieren die Berichterstattung über den VfL Gummersbach.",
@@ -24,20 +66,6 @@
       "waldbroel"
     ],
     "fetched": "2026-11-23T18:17:18.871832",
-    "feed_kommunen": []
-  },
-  {
-    "id": "dc834eb2ec1b",
-    "title": "Ausfall des Kassensystems: Störung im Straßenverkehrsamt",
-    "summary": "Oberberg - Betrieb in der Hauptstelle Gummersbach und der Nebenstelle Waldbröl kann trotz einer Störung aufrechterhalten werden, es kann jedoch zu Wartezeiten kommen.",
-    "link": "http://www.oberberg-aktuell.de/oberbergischer-kreis/ausfall-des-kassensystems--st--rung-im-stra--enverkehrsamt-a-140873",
-    "published": "Mon, 23 Nov 2026 17:01:00 +0100",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "gummersbach",
-      "waldbroel"
-    ],
-    "fetched": "2026-11-23T17:17:32.645417",
     "feed_kommunen": []
   },
   {

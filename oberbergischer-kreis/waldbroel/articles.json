@@ -1,5 +1,19 @@
 [
   {
+    "id": "e57901d91e99",
+    "title": "Straßenverkehrsamt: Störung des Kassensystems behoben",
+    "summary": "Oberberg - Betrieb in der Hauptstelle Gummersbach und der Nebenstelle Waldbröl war am Montag gestört, inzwischen läuft die Technik wieder - Es kann weiterhin zu Wartezeiten kommen (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/oberbergischer-kreis/ausfall-des-kassensystems--st--rung-im-stra--enverkehrsamt-a-140873",
+    "published": "Tue, 24 Nov 2026 09:20:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach",
+      "waldbroel"
+    ],
+    "fetched": "2026-11-24T10:17:33.429844",
+    "feed_kommunen": []
+  },
+  {
     "id": "4f5f6127ab41",
     "title": "Gummersbach: Kassenausfall im Straßenverkehrsamt – längere Wartezeiten",
     "summary": "Kassenausfall im Oberbergischen Kreis: Ausgefallene Termine der Zulassungsstellen in Gummersbach und Waldbröl können diese Woche nachgeholt werden. Besucher müssen Wartezeit einplanen.",
@@ -11,20 +25,6 @@
       "waldbroel"
     ],
     "fetched": "2026-11-23T18:17:18.871832",
-    "feed_kommunen": []
-  },
-  {
-    "id": "dc834eb2ec1b",
-    "title": "Ausfall des Kassensystems: Störung im Straßenverkehrsamt",
-    "summary": "Oberberg - Betrieb in der Hauptstelle Gummersbach und der Nebenstelle Waldbröl kann trotz einer Störung aufrechterhalten werden, es kann jedoch zu Wartezeiten kommen.",
-    "link": "http://www.oberberg-aktuell.de/oberbergischer-kreis/ausfall-des-kassensystems--st--rung-im-stra--enverkehrsamt-a-140873",
-    "published": "Mon, 23 Nov 2026 17:01:00 +0100",
-    "source": "Oberberg-Aktuell",
-    "kommunen": [
-      "gummersbach",
-      "waldbroel"
-    ],
-    "fetched": "2026-11-23T17:17:32.645417",
     "feed_kommunen": []
   },
   {
