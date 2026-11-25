@@ -1,25 +1,5 @@
 [
   {
-    "titel": "Refrather Weihnachtsdorf",
-    "datum": "25. Nov 2026",
-    "datum_raw": "2026-11-25T15:00:00+01:00",
-    "ort": "Peter Bürling, Peter-Bürling Platz, 51427 Bergisch Gladbach",
-    "preis": "",
-    "link": "https://www.refrather-weihnachtsdorf.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Vom 16. November bis 23. Dezember 2026 öffnet das Refrather Weihnachtsdorf seine Pforten. Feiern und genießen mitten im Herzen Refraths: Euch erwartet ein stimmungsvoller Markt mit kulinarischen Advents-Klassikern und li"
-  },
-  {
-    "titel": "Weihnachtstreff im TechnologiePark Bergisch Gladbach",
-    "datum": "25. Nov 2026",
-    "datum_raw": "2026-11-25T15:00:00+01:00",
-    "ort": "Technologiepark Bergisch Gladbach, Friedrich-Ebert-Straße 75, 51429 Bergisch Gladbach",
-    "preis": "",
-    "link": "http://www.das-esszimmer-bensberg.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Weihnachtszauber, Lichterglanz und gemütliches Beisammensein! Wenn funkelnde Lichter den Innenhof erstrahlen lassen, der Duft von frisch gebackenem Flammkuchen und leckerer Bratwurst in der Luft liegt und heißer Glühwein"
-  },
-  {
     "titel": "Bensberger Hüttenzauber",
     "datum": "25. Nov 2026",
     "datum_raw": "2026-11-25T17:00:00+01:00",
@@ -48,6 +28,26 @@
     "link": "https://www.weihnachtsmarkt-bergischgladbach.de/",
     "quelle": "Das Bergische",
     "teaser": "Der Weihnachtsmarkt in Bergisch Gladbach zentral auf dem Konrad-Adenauer-Platz gehört zu den größten im Rheinisch-Bergischen Kreis. Obwohl viele sagen: „Das ist doch jedes Jahr das Gleiche!“ stimmt es in gewisser Weise, "
+  },
+  {
+    "titel": "Refrather Weihnachtsdorf",
+    "datum": "26. Nov 2026",
+    "datum_raw": "2026-11-26T15:00:00+01:00",
+    "ort": "Peter Bürling, Peter-Bürling Platz, 51427 Bergisch Gladbach",
+    "preis": "",
+    "link": "https://www.refrather-weihnachtsdorf.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Vom 16. November bis 23. Dezember 2026 öffnet das Refrather Weihnachtsdorf seine Pforten. Feiern und genießen mitten im Herzen Refraths: Euch erwartet ein stimmungsvoller Markt mit kulinarischen Advents-Klassikern und li"
+  },
+  {
+    "titel": "Weihnachtstreff im TechnologiePark Bergisch Gladbach",
+    "datum": "26. Nov 2026",
+    "datum_raw": "2026-11-26T15:00:00+01:00",
+    "ort": "Technologiepark Bergisch Gladbach, Friedrich-Ebert-Straße 75, 51429 Bergisch Gladbach",
+    "preis": "",
+    "link": "http://www.das-esszimmer-bensberg.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Weihnachtszauber, Lichterglanz und gemütliches Beisammensein! Wenn funkelnde Lichter den Innenhof erstrahlen lassen, der Duft von frisch gebackenem Flammkuchen und leckerer Bratwurst in der Luft liegt und heißer Glühwein"
   },
   {
     "titel": "Autorinnen-Lesung von Rosine De Dijn",
