@@ -1,5 +1,109 @@
 [
   {
+    "id": "5bc8a49a4dbd",
+    "title": "Relikt aus dem Zweiten Weltkrieg: Lost Place im Kölner Norden steht zum Verkauf",
+    "summary": "38.000 Euro für einen verlassenen Ort aus dem Zweiten Weltkrieg: Was hinter der Kölner Flakstation steckt.",
+    "link": "https://www.ksta.de/koeln/chorweiler/esch-auweiler/koeln-esch-flakstation-aus-dem-zweiten-weltkrieg-steht-zum-verkauf-1424937",
+    "published": "Wed, 25 Nov 2026 14:47:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-25T15:18:54.773093",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6618c43142d2",
+    "title": "Dienststellen und Ämter geschlossen: Stadt Köln zwischen den Jahren nur im Notfall erreichbar",
+    "summary": "Vom 24. Dezember bis 3. Januar schließt die Stadt Köln ihre Ämter. Für dringende Notfälle sind Notdienste und Online-Services eingerichtet.",
+    "link": "https://www.ksta.de/koeln/stadt-koeln-aemter-und-dienststellen-zwischen-den-jahren-geschlossen-1424775",
+    "published": "Wed, 25 Nov 2026 14:30:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-25T15:18:54.773116",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1f3c517f5ad4",
+    "title": "An den Wochenenden: Kölner Seilbahn bietet Adventsfahrten an",
+    "summary": "Trotz Winterpause öffnet die Kölner Seilbahn an den Adventswochenenden für Fahrten über den Rhein. Tickets sind direkt vor Ort erhältlich.",
+    "link": "https://www.ksta.de/koeln/koeln-seilbahn-bietet-adventsfahrten-an-den-wochenenden-an-1424856",
+    "published": "Wed, 25 Nov 2026 14:08:57 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-25T15:18:54.773129",
+    "feed_kommunen": []
+  },
+  {
+    "id": "0d9031861045",
+    "title": "Kölner Roncalliplatz: Der Domkran ist das Zentrum des neuen Weihnachtsmarkts",
+    "summary": "Der neue Weihnachtsmarkt unter dem Motto „Im Lichte des Doms“ hat Premiere gefeiert. Dort ertönen jetzt hauptsächlich kölsche Töne.",
+    "link": "https://www.ksta.de/koeln/koeln-domkran-ist-das-zentrum-des-neuen-weihnachtsmarkts-1424901",
+    "published": "Wed, 25 Nov 2026 14:02:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-25T15:18:54.773144",
+    "feed_kommunen": []
+  },
+  {
+    "id": "3ae3ded5279f",
+    "title": "Neueröffnung in Köln: Das Mer & Du zieht an markante Ecke in Klettenberg",
+    "summary": "Ein junges Paar eröffnet das Mer & Du in Klettenberg. Das Lokal bietet hausgemachte Pasta mit kölscher Note sowie ausgewählte Weine an.",
+    "link": "https://www.ksta.de/koeln/lindenthal/klettenberg/mer-du-neues-pasta-lokal-eroeffnet-in-koeln-klettenberg-1424005",
+    "published": "Wed, 25 Nov 2026 13:58:27 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-25T15:18:54.773158",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4e6ae02f988d",
+    "title": "Razzia in Köln: Polizei beschlagnahmt knapp 19 Kilogramm Drogen und Waffen",
+    "summary": "Ein 27-jähriger Hauptbeschuldigter sitzt wegen des Verdachts des bewaffneten bandenmäßigen Drogenhandels in Untersuchungshaft.",
+    "link": "https://www.ksta.de/koeln/razzia-in-koeln-polizei-beschlagnahmt-waffen-und-drogen-1424794",
+    "published": "Wed, 25 Nov 2026 13:31:19 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-25T15:18:54.773183",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a1f9c61507f2",
+    "title": "Unbeaufsichtigtes Gepäck: Reisetaschen lösen Polizeieinsatz am Flughafen Köln/Bonn aus",
+    "summary": "Zwei abgestellte Taschen beschäftigten am Dienstag die Bundespolizei. Einer 49-jährigen Reisenden droht nun eine Kostenrechnung.",
+    "link": "https://www.ksta.de/koeln/flughafen-koeln-bonn-reisetaschen-loesen-polizeieinsatz-aus-1424722",
+    "published": "Wed, 25 Nov 2026 13:20:49 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-25T15:18:54.773204",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4c3e2ae11b31",
+    "title": "Kölner Rapper unterstützt Schule: Gesamtschule Ossendorf tritt Netzwerk gegen Rassismus bei",
+    "summary": "Die Gesamtschule Ossendorf ist nun Teil des Netzwerks Schule ohne Rassismus. Rapper Mo-Torres unterstützt die Schüler als Pate bei der Umsetzung.",
+    "link": "https://www.ksta.de/koeln/ehrenfeld/ossendorf/koeln-gesamtschule-ossendorf-tritt-netzwerk-gegen-rassismus-bei-1423078",
+    "published": "Wed, 25 Nov 2026 13:19:47 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-25T15:18:54.773216",
+    "feed_kommunen": []
+  },
+  {
     "id": "6a49673b18f0",
     "title": "Herz der Kölner Jazz-Szene: Kölner Club ist „beste Livemusikspielstätte Deutschlands“",
     "summary": "Das Kölner Loft wurde beim Applaus-Award als beste Livemusikspielstätte Deutschlands ausgezeichnet und für sein herausragendes Programm gewürdigt.",
