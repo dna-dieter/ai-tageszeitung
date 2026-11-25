@@ -140,6 +140,16 @@
     "teaser": "Klein und fein! Genussvoll und romantisch! Besinnlich und besonders! So beginnt die Vorweihnachtszeit! Bummelt gemütlich bei unseren Aussteller*innen und schaut in Ruhe nach handgemachten Geschenken, Kunst und Handwerk, "
   },
   {
+    "titel": "Adventsmarkt Marienhagen",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T14:00:00+01:00",
+    "ort": "Dorfplatz Marienhagen, Dorfplatz, 51674 Wiehl",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Die Vereine und Institutionen aus Marienhagen/Pergenroth laden wieder zum gemeinsamen Start in die Weihnachtszeit auf dem Dorfplatz ein. Zahlreiche lokale Kunsthandwerker bieten ihre Waren an und mit einem abwechslungsre"
+  },
+  {
     "titel": "Winterfest \"Rund um die Bonte Kerke\"",
     "datum": "28. Nov 2026",
     "datum_raw": "2026-11-28T16:00:00+01:00",
@@ -188,6 +198,16 @@
     "link": "https://krimilokal-lokalkrimi.de/event/heiter-rieselt-der-tod-45/",
     "quelle": "Das Bergische",
     "teaser": "Weihnachtszeit: Glühwein und Plätzchenduft, Tannengrün und leuchtende Kerzen. Alle Jahre wieder steht Weihnachten ins Haus. Das Fest der Liebe. Aber was ist das? Statt Liebe gibt es nur Stress. Die Menschen hetzen schnel"
+  },
+  {
+    "titel": "Glockenklang und Weihnachtszauber im Bergischen Drehorgelmuseum ",
+    "datum": "29. Nov 2026",
+    "datum_raw": "2026-11-29T10:00:00+01:00",
+    "ort": "Drehorgelmuseum, Kapellenweg 2-4, 51709 Marienheide",
+    "preis": "",
+    "link": "http://www.leierkastenheiterkeit.com./",
+    "quelle": "Das Bergische",
+    "teaser": "Glockenklang und Weihnachtszauber im Bergischen Drehorgelmuseums Ein Advents- und Weihnachtsprogramm mechanischer Musikinstrumente mit Geschichte, Gedichten und Liedern zum Mitsingen. Um Terminvereinbarungen für Einzelbe"
   },
   {
     "titel": "Adventsfrühshoppen",
@@ -298,6 +318,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Am Samstag, den 05.12.2026, wird es bei uns in Radevormwald richtig weihnachtlich! Von 11:00 bis 17:00 Uhr laden wir euch zu unserem kleinen, gemütlichen Benefiz-Weihnachtsmarkt für Mensch & Hund ein. Freut euch auf eine"
+  },
+  {
+    "titel": "Stimmungsvoller Wiehler Weihnachtsmarkt",
+    "datum": "5. Dez 2026",
+    "datum_raw": "2026-12-05T11:00:00+01:00",
+    "ort": "Rathaus Wiehl, Bahnhofstr. 1, 51674 Wiehl",
+    "preis": "",
+    "link": "https://www.wiehl.de/aktuelles/veranstaltungskalender/veranstaltung/?id=3377",
+    "quelle": "Das Bergische",
+    "teaser": "Auf dem Rathausplatz im Zentrum bilden Holzhütten ein eigenes kleines Weihnachtsdorf. Neben Händlerinnen und Händlern sind auch viele Wiehler Vereine mit von der Partie und laden ein zu weihnachtlichen Leckereien. Ein Ki"
   },
   {
     "titel": "Wintermarkt im Dörspetal",
@@ -538,6 +568,16 @@
     "link": "https://www.halle32.de/programm/lars-redlich-lars-christmas-1332/",
     "quelle": "Das Bergische",
     "teaser": "Lars Redlich – quasi der Thermomix unter den Kleinkünstlern: Er singt, swingt, springt von der Sopran-Arie in den Hip Hop, mimt den Rocker, die Diva und textet Hits wie ,,Stairway to Heaven“ oder ,,Despacito“ brüllend ko"
+  },
+  {
+    "titel": "Bielsteiner Weihnachtsmarkt rund um die Burg",
+    "datum": "19. Dez 2026",
+    "datum_raw": "2026-12-19T14:00:00+01:00",
+    "ort": "Burghaus Bielstein, Burgstraße 9, 51674 Wiehl",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Wenn der Bielsteiner Weihnachtsmarkt stattfindet, ist Heiligabend nicht mehr weit. Zum letzten Adventswochenende vor Weihnachten findet am Burghaus Bielstein in besonderer Atmosphäre rund um das alte Gemäuer bereits seit"
   },
   {
     "titel": "Oberberg singt",

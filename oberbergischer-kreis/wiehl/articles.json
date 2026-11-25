@@ -5144,5 +5144,20 @@
     "feed_kommunen": [
       "wiehl"
     ]
+  },
+  {
+    "id": "c5ff09871fdf",
+    "title": "Adventliches Vorlesen in der Stadtbücherei",
+    "summary": "Winter- und Weihnachtsgeschichten stehen auf dem Programm des Vorlesenachmittags am 9. Dezember 2026 in der Stadtbücherei. Eingeladen sind Kinder zwischen fünf und acht Jahren.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9617-adventliches-vorlesen-in-der.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-25T11:18:11.695381",
+    "feed_kommunen": [
+      "wiehl"
+    ]
   }
 ]
