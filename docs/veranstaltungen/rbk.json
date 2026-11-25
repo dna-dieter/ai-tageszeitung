@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Traditions-Weihnachtsmarkt Bergisch Gladbach Stadtmitte",
-    "datum": "25. Nov 2026",
-    "datum_raw": "2026-11-25T11:00:00+01:00",
-    "ort": "Konrad-Adenauer Platz, Konrad-Adenauer Platz 1, 51465 Bergisch Gladbach",
-    "preis": "",
-    "link": "https://www.weihnachtsmarkt-bergischgladbach.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Der Weihnachtsmarkt in Bergisch Gladbach zentral auf dem Konrad-Adenauer-Platz gehört zu den größten im Rheinisch-Bergischen Kreis. Obwohl viele sagen: „Das ist doch jedes Jahr das Gleiche!“ stimmt es in gewisser Weise, "
-  },
-  {
     "titel": "Refrather Weihnachtsdorf",
     "datum": "25. Nov 2026",
     "datum_raw": "2026-11-25T15:00:00+01:00",
@@ -48,6 +38,16 @@
     "link": "https://www.hotel-wisskirchen.de/das-spiegelzelt-in-altenberg/",
     "quelle": "Das Bergische",
     "teaser": "Der Cirque Bouffon gastiert zum 6. Mal mit einer faszinierenden Dinner-Show \"Femme fatale\" im nostalgischen Spiegelzelt in Altenberg. Das internationale Künstlerensemble des Cirque Bouffon verzaubert sein Publikum im Sti"
+  },
+  {
+    "titel": "Traditions-Weihnachtsmarkt Bergisch Gladbach Stadtmitte",
+    "datum": "26. Nov 2026",
+    "datum_raw": "2026-11-26T11:00:00+01:00",
+    "ort": "Konrad-Adenauer Platz, Konrad-Adenauer Platz 1, 51465 Bergisch Gladbach",
+    "preis": "",
+    "link": "https://www.weihnachtsmarkt-bergischgladbach.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Der Weihnachtsmarkt in Bergisch Gladbach zentral auf dem Konrad-Adenauer-Platz gehört zu den größten im Rheinisch-Bergischen Kreis. Obwohl viele sagen: „Das ist doch jedes Jahr das Gleiche!“ stimmt es in gewisser Weise, "
   },
   {
     "titel": "Autorinnen-Lesung von Rosine De Dijn",
