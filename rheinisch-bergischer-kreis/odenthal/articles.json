@@ -1,5 +1,33 @@
 [
   {
+    "id": "d8b654e78fbe",
+    "title": "Kerzen, Kuchen, Kinderchor: Fünf Adventsbasare in Rhein-Berg",
+    "summary": "Stände, Musik und Selbstgemachtes: In Kürten, Bensberg und Odenthal laden am ersten Adventswochenende mehrere Basare zum Stöbern ein.",
+    "link": "https://www.ksta.de/region/rhein-berg/adventsbasare-in-rhein-berg-fuenf-maerkte-am-ersten-advent-1425061",
+    "published": "Wed, 25 Nov 2026 16:10:11 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "odenthal",
+      "bergisch-gladbach",
+      "kuerten"
+    ],
+    "fetched": "2026-11-25T18:16:11.241992",
+    "feed_kommunen": []
+  },
+  {
+    "id": "52dce4667006",
+    "title": "Aquarelle wie Fotos: Tote Wälder leuchten in Odenthal",
+    "summary": "Annett Coumonts Aquarelle in der Odenthaler Rathausgalerie zeigen sterbende Wälder im Licht und machen den Verlust von Natur spürbar.",
+    "link": "https://www.ksta.de/region/rhein-berg/odenthal/annett-coumont-zeigt-aquarelle-ueber-sterbende-waelder-in-odenthal-1425052",
+    "published": "Wed, 25 Nov 2026 16:01:41 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "odenthal"
+    ],
+    "fetched": "2026-11-25T18:16:11.242150",
+    "feed_kommunen": []
+  },
+  {
     "id": "d592d14f55e0",
     "title": "POL-RBK: Odenthal - Einbruch während einer zweistündigen Abwesenheit",
     "summary": "Odenthal (ots) - Gestern (24.11.) kam es in der Straße Engstenberger Höhe in Osenau zu einem Einbruch in ein Einfamilienhaus. Die Hausbewohner hatten die Polizei alarmiert, da sie ihr Haus in einem durchwühlten Zustand vorgefunden hatten, als sie ...",

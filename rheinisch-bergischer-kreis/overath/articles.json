@@ -1,5 +1,47 @@
 [
   {
+    "id": "fdbe158e7d5b",
+    "title": "Adventsauftakt in Rhein-Berg: Neue Weihnachtsmärkte von Overath bis Kürten",
+    "summary": "Am ersten Adventswochenende öffnen in Rhein-Berg neue Weihnachtsmärkte – ein Überblick, wo es sich besonders himmlisch bummeln lässt.",
+    "link": "https://www.ksta.de/region/rhein-berg/weihnachtsmaerkte-in-rhein-berg-die-termine-zum-ersten-advent-1425058",
+    "published": "Wed, 25 Nov 2026 16:07:11 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kuerten",
+      "overath"
+    ],
+    "fetched": "2026-11-25T18:16:11.242067",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1da581e0bc89",
+    "title": "Dirk II. und Heike: Prinzenpaar regiert Overaths Karneval mit Rückhalt",
+    "summary": "Bei der Prinzenproklamation in Overath herrscht Super-Stimmung, und das neue Prinzenpaar Dirk II. und Heike ist in drei Vereinen aktiv.",
+    "link": "https://www.ksta.de/region/rhein-berg/overath/overath-prinzenpaar-dirk-ii-und-heike-feierlich-proklamiert-1425050",
+    "published": "Wed, 25 Nov 2026 15:58:08 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "overath"
+    ],
+    "fetched": "2026-11-25T18:16:11.242228",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d973850ba5e3",
+    "title": "Rund 50 Traktoren: Sie leuchten in Rhein-Berg für den Frieden",
+    "summary": "Landwirte und Unterstützer setzen mit geschmückten Traktoren in Kürten, Rösrath und Overath ein Zeichen für Frieden und Zusammenhalt.",
+    "link": "https://www.ksta.de/region/rhein-berg/rund-50-traktorensie-leuchten-fuer-den-frieden-in-rhein-berg-1425042",
+    "published": "Wed, 25 Nov 2026 15:54:11 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kuerten",
+      "roesrath",
+      "overath"
+    ],
+    "fetched": "2026-11-25T18:16:11.242286",
+    "feed_kommunen": []
+  },
+  {
     "id": "efcdd5174cea",
     "title": "Eisspitze im Grau: Wie Nebel den Rheinisch-Bergischen Kreis verzaubert",
     "summary": "Im Rheinisch-Bergischen Kreis hüllt Nebel das Land ein, doch auf einer Wiese bei Overath und Rösrath glitzern Gräser im filigranen Eiskleid.",

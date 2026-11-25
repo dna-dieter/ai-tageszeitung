@@ -1,5 +1,63 @@
 [
   {
+    "id": "3a7098d1fb97",
+    "title": "Herkenrather CDU dringt auf Lösung für Nahversorgung",
+    "summary": "Vertreter der CDU für Herkenrath und Bärbroich greifen die Sorgen der Bürger:innen im Osten von Bergisch Gladbach auf, dass die Pläne für einen neuen Supermarkt weiter stocken oder gar scheitern. In einem offenen Brief fordern sie Bürgermeister und Landrat auf, mit Hochdruck alle „rechtlich möglichen und fachlich vertretbaren“ Wege zu nutzen.",
+    "link": "https://in-gl.de/2026/11/25/herkenrather-cdu-dringt-auf-loesung-fuer-nahversorgung/",
+    "published": "Wed, 25 Nov 2026 16:40:59 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-25T18:15:37.921008",
+    "feed_kommunen": []
+  },
+  {
+    "id": "7beb3fb08787",
+    "title": "CO₂-Leitung durch Leichlingen?: Frist zur Stellungnahme ist abgelaufen – Grüne fragen nach",
+    "summary": "Eine CO₂-Pipeline soll durch die Region gebaut werden, zwei Varianten führen durch Leichlingen. Die Frist zur Stellungnahme ist abgelaufen. Die Grünen wollen nun wissen, ob die Stadt reagiert hat.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/leichlingen-gruene-stellen-anfrage-zur-co2-pipeline_aid-158917791",
+    "published": "Wed, 25 Nov 2026 17:30:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-25T18:16:12.864724",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
+    "id": "7b2703560fad",
+    "title": "Evangelische Kirche Leichlingen: Bläserkonzert zum ersten Advent mit Flöte und Orgel",
+    "summary": "Die Kantorei-Bläser laden in Leichlingen zum Adventskonzert mit freiem Eintritt. Neben Werken von Giovanni Gabrieli und Johann Sebastian Bach erklingen auch zahlreiche Stücke aus der heutigen Zeit.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/leichlingen-blaeserkonzert-zum-ersten-advent-mit-floete-und-orgel_aid-158910575",
+    "published": "Wed, 25 Nov 2026 16:30:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-25T18:16:12.864956",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
+    "id": "d8b654e78fbe",
+    "title": "Kerzen, Kuchen, Kinderchor: Fünf Adventsbasare in Rhein-Berg",
+    "summary": "Stände, Musik und Selbstgemachtes: In Kürten, Bensberg und Odenthal laden am ersten Adventswochenende mehrere Basare zum Stöbern ein.",
+    "link": "https://www.ksta.de/region/rhein-berg/adventsbasare-in-rhein-berg-fuenf-maerkte-am-ersten-advent-1425061",
+    "published": "Wed, 25 Nov 2026 16:10:11 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "odenthal",
+      "bergisch-gladbach",
+      "kuerten"
+    ],
+    "fetched": "2026-11-25T18:16:11.241992",
+    "feed_kommunen": []
+  },
+  {
     "id": "8c03e1942261",
     "title": "Jung und Alt bringen Refrath zum Blühen",
     "summary": "Kinder, Eltern und Senioren haben 3000 Krokusse auf dem Gelände der Kreativitätsschule in Refrath gepflanzt. Mit der Aktion des Ernährungsrats Bergisches Land ging eine Reihe von Pflanzaktionen zu Ende, an denen sich viele Kindergärten und Grundschulen beteiligt hatten. Und die zeigen, wie sich Gemeinschaft, Umweltbildung und Naturschutz miteinander verbinden lassen.",
@@ -10,6 +68,100 @@
       "bergisch-gladbach"
     ],
     "fetched": "2026-11-25T16:15:39.772417",
+    "feed_kommunen": []
+  },
+  {
+    "id": "fdbe158e7d5b",
+    "title": "Adventsauftakt in Rhein-Berg: Neue Weihnachtsmärkte von Overath bis Kürten",
+    "summary": "Am ersten Adventswochenende öffnen in Rhein-Berg neue Weihnachtsmärkte – ein Überblick, wo es sich besonders himmlisch bummeln lässt.",
+    "link": "https://www.ksta.de/region/rhein-berg/weihnachtsmaerkte-in-rhein-berg-die-termine-zum-ersten-advent-1425058",
+    "published": "Wed, 25 Nov 2026 16:07:11 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kuerten",
+      "overath"
+    ],
+    "fetched": "2026-11-25T18:16:11.242067",
+    "feed_kommunen": []
+  },
+  {
+    "id": "52dce4667006",
+    "title": "Aquarelle wie Fotos: Tote Wälder leuchten in Odenthal",
+    "summary": "Annett Coumonts Aquarelle in der Odenthaler Rathausgalerie zeigen sterbende Wälder im Licht und machen den Verlust von Natur spürbar.",
+    "link": "https://www.ksta.de/region/rhein-berg/odenthal/annett-coumont-zeigt-aquarelle-ueber-sterbende-waelder-in-odenthal-1425052",
+    "published": "Wed, 25 Nov 2026 16:01:41 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "odenthal"
+    ],
+    "fetched": "2026-11-25T18:16:11.242150",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1da581e0bc89",
+    "title": "Dirk II. und Heike: Prinzenpaar regiert Overaths Karneval mit Rückhalt",
+    "summary": "Bei der Prinzenproklamation in Overath herrscht Super-Stimmung, und das neue Prinzenpaar Dirk II. und Heike ist in drei Vereinen aktiv.",
+    "link": "https://www.ksta.de/region/rhein-berg/overath/overath-prinzenpaar-dirk-ii-und-heike-feierlich-proklamiert-1425050",
+    "published": "Wed, 25 Nov 2026 15:58:08 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "overath"
+    ],
+    "fetched": "2026-11-25T18:16:11.242228",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d973850ba5e3",
+    "title": "Rund 50 Traktoren: Sie leuchten in Rhein-Berg für den Frieden",
+    "summary": "Landwirte und Unterstützer setzen mit geschmückten Traktoren in Kürten, Rösrath und Overath ein Zeichen für Frieden und Zusammenhalt.",
+    "link": "https://www.ksta.de/region/rhein-berg/rund-50-traktorensie-leuchten-fuer-den-frieden-in-rhein-berg-1425042",
+    "published": "Wed, 25 Nov 2026 15:54:11 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kuerten",
+      "roesrath",
+      "overath"
+    ],
+    "fetched": "2026-11-25T18:16:11.242286",
+    "feed_kommunen": []
+  },
+  {
+    "id": "0ce7d61f00b6",
+    "title": "Rhein-Berg-Galerie: Geschenke für Senioren bis 12. Dezember abgeben",
+    "summary": "In der Rhein-Berg-Galerie nehmen Besucher Wunschkarten vom Baum und geben die Geschenke für Senioren aus sieben Heimen bis zum 12. Dezember ab.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/rhein-berg-galerie-geschenke-fuer-senioren-bis-12-dezember-1425039",
+    "published": "Wed, 25 Nov 2026 15:50:06 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-25T18:16:11.242378",
+    "feed_kommunen": []
+  },
+  {
+    "id": "53352eedc5eb",
+    "title": "6505 Unterschriften: Pfadfinder wollen den Quirlsberg retten",
+    "summary": "Die Pfadfinder haben 6505 Unterschriften für ihr Bürgerbegehren an die Stadt Bergisch Gladbach übergeben. Nun prüft die Verwaltung die Listen.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/quirlsberg-in-bergisch-gladbach-pfadfinder-uebergeben-unterschriften-1425036",
+    "published": "Wed, 25 Nov 2026 15:47:33 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-25T18:16:11.242445",
+    "feed_kommunen": []
+  },
+  {
+    "id": "77b0f64965fb",
+    "title": "Verkehrsführung Bensberg: Stadt lehnt CDU-Plan für Schloßstraße ab",
+    "summary": "Die Stadt will die Verkehrsführung rund um die Schloßstraße in Bensberg nicht ändern: Auch in der Nikolausstraße sieht sie keinen Sicherheitsgewinn.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/bensberg-stadt-lehnt-cdu-plan-fuer-schlossstrasse-ab-1425027",
+    "published": "Wed, 25 Nov 2026 15:45:42 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach"
+    ],
+    "fetched": "2026-11-25T18:16:11.242516",
     "feed_kommunen": []
   },
   {
@@ -167,6 +319,19 @@
     "feed_kommunen": [
       "wermelskirchen"
     ]
+  },
+  {
+    "id": "c96e0556d3c7",
+    "title": "Kostenlose Adventskonzerte der Heimatklänge Nußbaum",
+    "summary": "Der Quartettverein Heimatklänge Nußbaum lädt auch in diesem Jahr zu drei traditionellen Adventskonzerten ein. Das Programm reicht von klassischen Chorwerken und internationalen Weihnachtsmelodien bis zu kölschen Liedern. Auch das Publikum ist zum Mitsingen eingeladen. Der Eintritt ist frei.",
+    "link": "https://in-gl.de/2026/11/25/kostenlose-adventskonzerte-der-heimatklaenge-nussbaum/",
+    "published": "Wed, 25 Nov 2026 07:05:00 +0000",
+    "source": "iGL Bürgerportal Bergisch Gladbach",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-25T18:15:37.922065",
+    "feed_kommunen": []
   },
   {
     "id": "beaa7385a29a",
