@@ -1,5 +1,70 @@
 [
   {
+    "id": "b727300d4282",
+    "title": "Über 40 neue Plätze: Gasthaus zur Oma eröffnet ein neues Esszimmer",
+    "summary": "Das Kölner Gasthaus zur Oma in Bayenthal erweitert sein Angebot um ein neues Esszimmer, das Platz für Feiern und Firmenevents bietet.",
+    "link": "https://www.ksta.de/koeln/rodenkirchen/bayenthal/koeln-bayenthal-gasthaus-zur-oma-erweitert-kapazitaet-1423969",
+    "published": "Wed, 25 Nov 2026 16:06:19 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-25T16:19:16.032068",
+    "feed_kommunen": []
+  },
+  {
+    "id": "cdbd0d388dd0",
+    "title": "Drogen bei Flucht fallen gelassen: Polizei nimmt mutmaßlichen Kokaindealer in Köln-Mülheim fest",
+    "summary": "Eigentlich waren die Einsatzkräfte wegen eines anderen Anlasses in dem Gebäude im Einsatz.",
+    "link": "https://www.ksta.de/koeln/muelheim/muelheim-veedel/koeln-muelheim-polizei-nimmt-mutmasslichen-kokaindealer-fest-1424966",
+    "published": "Wed, 25 Nov 2026 15:25:43 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-25T16:19:16.032091",
+    "feed_kommunen": []
+  },
+  {
+    "id": "fde1d3e6b566",
+    "title": "Fahrplanwechsel 2026: Das ändert sich bei den Fahrplänen der KVB",
+    "summary": "Zum 13. Dezember passen die Kölner Verkehrs-Betriebe ihre Fahrpläne an. Vor allem im nördlichen Stadtgebiet gibt es zahlreiche Änderungen bei Bussen.",
+    "link": "https://www.ksta.de/koeln/kvb-fahrplanwechsel-diese-aenderungen-gelten-ab-13-dezember-1423233",
+    "published": "Wed, 25 Nov 2026 15:01:07 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-25T16:19:16.032109",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e43abbc5f33b",
+    "title": "Beleuchtung im Veedel: Gremberghoven erstrahlt zur Weihnachtszeit",
+    "summary": "Dank finanzieller Unterstützung durch Sponsoren und die Bezirksvertretung erstrahlt die Frankenstraße in Gremberghoven nun in weihnachtlichem Glanz.",
+    "link": "https://www.ksta.de/koeln/porz/gremberghoven/koeln-gremberghoven-erstrahlt-dank-buergerverein-in-weihnachtlichem-glanz-1418843",
+    "published": "Wed, 25 Nov 2026 14:59:46 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-25T16:19:16.032126",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9a575c53d439",
+    "title": "„Meet the Chef“ mit Maximilian Lorenz: „Essen und Trinken ist das Schönste auf der Welt“",
+    "summary": "Sternekoch Maximilian Lorenz gab beim KStA-Genuss-Club Einblicke in seine Philosophie, das nachhaltige Nose-to-tail-Prinzip und seinen Werdegang.",
+    "link": "https://www.ksta.de/freizeit/restaurants/ksta-genuss-club-zu-gast-bei-sternekoch-maximilian-lorenz-1424745",
+    "published": "Wed, 25 Nov 2026 14:58:09 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-25T16:19:16.032143",
+    "feed_kommunen": []
+  },
+  {
     "id": "5bc8a49a4dbd",
     "title": "Relikt aus dem Zweiten Weltkrieg: Lost Place im Kölner Norden steht zum Verkauf",
     "summary": "38.000 Euro für einen verlassenen Ort aus dem Zweiten Weltkrieg: Was hinter der Kölner Flakstation steckt.",
