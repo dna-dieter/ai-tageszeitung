@@ -1,25 +1,8 @@
 {
   "quelle": "https://www.kuerten.de/sitzungen/",
   "portal": "https://sessionnet.owl-it.de/kuerten/bi/info.asp",
-  "aktualisiert": "2026-11-24T00:19:53",
+  "aktualisiert": "2026-11-26T00:19:00",
   "kommende": [
-    {
-      "datum": "2026-11-25",
-      "gremium": "Haupt- und Finanzausschuss",
-      "uhrzeit": "17:30",
-      "ort": "Bürgerhaus Clubräume 1 u. 2",
-      "ist_rat": false,
-      "dokumente": [
-        {
-          "art": "Einladung",
-          "url": "https://sessionnet.owl-it.de/kuerten/bi/getfile.asp?id=128053&type=do"
-        },
-        {
-          "art": "2. Erweiterte Tagesordnung",
-          "url": "https://sessionnet.owl-it.de/kuerten/bi/getfile.asp?id=128090&type=do"
-        }
-      ]
-    },
     {
       "datum": "2026-11-26",
       "gremium": "Planungsausschuss",
