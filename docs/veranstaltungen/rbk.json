@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Traditions-Weihnachtsmarkt Bergisch Gladbach Stadtmitte",
-    "datum": "26. Nov 2026",
-    "datum_raw": "2026-11-26T11:00:00+01:00",
-    "ort": "Konrad-Adenauer Platz, Konrad-Adenauer Platz 1, 51465 Bergisch Gladbach",
-    "preis": "",
-    "link": "https://www.weihnachtsmarkt-bergischgladbach.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Der Weihnachtsmarkt in Bergisch Gladbach zentral auf dem Konrad-Adenauer-Platz gehört zu den größten im Rheinisch-Bergischen Kreis. Obwohl viele sagen: „Das ist doch jedes Jahr das Gleiche!“ stimmt es in gewisser Weise, "
-  },
-  {
     "titel": "Refrather Weihnachtsdorf",
     "datum": "26. Nov 2026",
     "datum_raw": "2026-11-26T15:00:00+01:00",
@@ -68,6 +58,16 @@
     "link": "https://www.puetz-roth.de/veranstaltung/tanz-auf-dem-vulkan-mit-dem-swing-ensemble-die-gluehwuermchen/",
     "quelle": "Das Bergische",
     "teaser": "Der turbulenten 1920er wird derzeit, 100 Jahre später, viel und oft gedacht. Die Mischung aus politischer Spannung und selbstvergessener Vergnügungssucht scheint heute wieder spürbar zu sein, zumal hier in Köln als auch "
+  },
+  {
+    "titel": "Traditions-Weihnachtsmarkt Bergisch Gladbach Stadtmitte",
+    "datum": "27. Nov 2026",
+    "datum_raw": "2026-11-27T11:00:00+01:00",
+    "ort": "Konrad-Adenauer Platz, Konrad-Adenauer Platz 1, 51465 Bergisch Gladbach",
+    "preis": "",
+    "link": "https://www.weihnachtsmarkt-bergischgladbach.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Der Weihnachtsmarkt in Bergisch Gladbach zentral auf dem Konrad-Adenauer-Platz gehört zu den größten im Rheinisch-Bergischen Kreis. Obwohl viele sagen: „Das ist doch jedes Jahr das Gleiche!“ stimmt es in gewisser Weise, "
   },
   {
     "titel": "Glühweinfest in Odenthal-Holz",
