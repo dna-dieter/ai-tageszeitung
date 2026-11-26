@@ -1,5 +1,96 @@
 [
   {
+    "id": "c8bafd2a07af",
+    "title": "34. Polonica in Porz: Berührende Lieder beim deutsch-französisch-polnischen Wettbewerb",
+    "summary": "Beim 34. Polonica-Festival in Porz traten junge Talente aus drei Ländern an. Monika Markiewicz überzeugte die Jury mit ihrem musikalischen Beitrag.",
+    "link": "https://www.ksta.de/koeln/porz/porz-veedel/polonica-in-porz-monika-markiewicz-gewinnt-gesangswettbewerb-1423270",
+    "published": "Thu, 26 Nov 2026 14:58:58 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T15:18:27.483350",
+    "feed_kommunen": []
+  },
+  {
+    "id": "a0ce441489e8",
+    "title": "„Reisen schlagen auf den Magen“: Helge Schneider kündigt in Köln letzte große Tour an",
+    "summary": "Der 71-Jährige will künftig kürzertreten, aber weiterhin künstlerisch aktiv sein. Der Philharmonie bleibt er für seine Karnevalskonzerte treu.",
+    "link": "https://www.ksta.de/koeln/koeln-helge-schneider-kuendigt-letzte-grosse-tournee-fuer-2027-an-1425761",
+    "published": "Thu, 26 Nov 2026 14:30:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T15:18:27.483372",
+    "feed_kommunen": []
+  },
+  {
+    "id": "af219d408860",
+    "title": "Neue ebenerdige Querung der Luxemburger Straße",
+    "summary": "26. November 2026, 14:21Barrierefreiheit der Stadtbahn-Haltestelle \"Weißhausstraße“ fertiggestellt",
+    "link": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/neue-ebenerdige-querung-der-luxemburger-strasse",
+    "published": "Thu, 26 Nov 2026 14:21:00 +0100",
+    "source": "Stadt Köln Pressemeldungen",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T15:18:27.274138",
+    "feed_kommunen": []
+  },
+  {
+    "id": "cb90d5746d09",
+    "title": "Nach Debatte um Umgang mit Straftätern: Stadt Köln schlägt Änderungen am Bleiberechtsprogramm vor",
+    "summary": "Die Stadt Köln plant eine Neuausrichtung ihres Integrationsprogramms für Geduldete. Dabei sollen die Kriterien für Straftäter reformiert werden.",
+    "link": "https://www.ksta.de/koeln/stadt-koeln-will-bleiberechtsprogramm-fuer-geduldete-reformieren-1425683",
+    "published": "Thu, 26 Nov 2026 14:16:39 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T15:18:27.483386",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ee6194e7180b",
+    "title": "Gedrosseltes Tempo im Stadtwald: Kitschburger Straße soll Tempo-30-Zone werden",
+    "summary": "Die Bezirksvertretung Lindenthal ordnet für einen Teil der Kitschburger Straße Tempo 30 an, um den Autoverkehr dort künftig zu drosseln.",
+    "link": "https://www.ksta.de/koeln/lindenthal/lindenthal-veedel/kitschburger-strasse-in-koeln-tempo-30-fuer-mehr-sicherheit-1423727",
+    "published": "Thu, 26 Nov 2026 14:12:53 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T15:18:27.483398",
+    "feed_kommunen": []
+  },
+  {
+    "id": "aa225c12708d",
+    "title": "Hazel Brugger in Köln: 12 x 2 Tickets für „Good Evening Europe“ gewinnen",
+    "summary": "Gewinnen Sie mit unserem Newsletter Stadt mit K Tickets für die Show von Hazel Brugger am 1. Dezember in der Kölner Lanxess-Arena.",
+    "link": "https://www.ksta.de/koeln/hazel-brugger-in-koeln-tickets-fuer-good-evening-europe-gewinnen-1425813",
+    "published": "Thu, 26 Nov 2026 14:02:32 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T15:18:27.483417",
+    "feed_kommunen": []
+  },
+  {
+    "id": "de99a62dbce6",
+    "title": "Stehplätze im Kölner Stadion: Loss mer Weihnachtsleeder singe – Black Friday-Deal am Freitag",
+    "summary": "Sichern Sie sich zum Black Friday 20 Prozent Rabatt auf die letzten Stehplätze für das Kölner Weihnachtssingen im RheinEnergieSTADION am 22. Dezember.",
+    "link": "https://www.ksta.de/stadionsingen/stehplaetze-im-koelner-stadion-loss-mer-weihnachtsleeder-singe-heute-black-friday-deal-1425752",
+    "published": "Thu, 26 Nov 2026 13:40:08 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T15:18:27.483430",
+    "feed_kommunen": []
+  },
+  {
     "id": "09f1f3f4d190",
     "title": "Glühweinwanderungen 2026: Diese Veedel laden zum Glühwein-Spaziergang ein",
     "summary": "Entdecken Sie die Glühweinwanderwege 2026 in verschiedenen Kölner Veedeln. Dabei spaziert man von Station zu Station und genießt warme Getränke.",
