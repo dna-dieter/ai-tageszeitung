@@ -1,5 +1,34 @@
 [
   {
+    "id": "0ffa51e19930",
+    "title": "Stadtderby im Tabellenkeller",
+    "summary": "Oberberg - In der Regionalliga hat Gelpe/Strombach den nächsten Verletzten zu beklagen - Oberliga: Gummersbach II empfängt die Löwen zum Derby - Nümbrecht sucht gegen Wölfe Voreifel den Weg aus der Krise.",
+    "link": "http://www.oberberg-aktuell.de/handball/hbolrl---------a-140972",
+    "published": "Thu, 26 Nov 2026 18:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "nuembrecht",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-26T18:17:17.185485",
+    "feed_kommunen": []
+  },
+  {
+    "id": "0d56792b45a8",
+    "title": "Gummersbach: Laptop aus Halle gestohlen – dazu zwei weitere Polizeimeldungen",
+    "summary": "Drei Polizeimeldungen: Diebe stahlen in Gummersbach einen Laptop aus einer Halle. In Lindlar und Wipperfürth blieb es bei Einbruchsversuchen.",
+    "link": "https://www.news-on-tour.de/346983/gummersbach-laptop-veranstaltungshalle/",
+    "published": "Thu, 26 Nov 2026 16:28:13 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "wipperfuerth",
+      "lindlar",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-26T18:17:12.238723",
+    "feed_kommunen": []
+  },
+  {
     "id": "47779e6c738a",
     "title": "Was geht in Gummersbach? Studenten entwickeln Ideen zur Stadtentwicklung",
     "summary": "Gummersbach - Studierende im ersten Semester Medieninformatik haben eine Woche lang Ideen entwickelt – vom konsumfreien Jugendtreff bis zur App für mehr Barrierefreiheit.",
@@ -52,6 +81,32 @@
     "feed_kommunen": []
   },
   {
+    "id": "24b4d50c9c5f",
+    "title": "Losemundtheater begeistert: Andersens „Schneekönigin“ im Kinderstück",
+    "summary": "Das Bergneustädter Losemundtheater begeistert mit Andersens „Schneekönigin“: Die Jugendgruppe zeigt ein lustiges Kinderstück voller Spielfreude.",
+    "link": "https://www.ksta.de/region/oberberg/bergneustadt/losemundtheater-bergneustadt-zeigt-schneekoenigin-fuer-kinder-1425937",
+    "published": "Thu, 26 Nov 2026 15:43:17 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T18:17:16.312121",
+    "feed_kommunen": []
+  },
+  {
+    "id": "864debf76305",
+    "title": "Holpe und Lichtenberg: Rat hält an Schulschließung fest",
+    "summary": "Der Morsbacher Gemeinderat bleibt dabei: Die Grundschulen in Holpe und Lichtenberg werden geschlossen, für beide Gebäude wird eine Nachnutzung gesucht.",
+    "link": "https://www.ksta.de/region/oberberg/morsbach/morsbach-gemeinderat-haelt-an-schulschliessungen-fest-1425934",
+    "published": "Thu, 26 Nov 2026 15:39:41 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-11-26T18:17:16.312282",
+    "feed_kommunen": []
+  },
+  {
     "id": "5632708d333b",
     "title": "(Update 2) Bergneustadt: Fuchs von der B55 – weitere Sichtungen in Wiedenest",
     "summary": "Update: Der Fuchs von der B55 in Bergneustadt ist nach Angaben zweier Nutzerinnen auch in Wiedenest unterwegs gewesen, an der Sparkasse und Am Holzweg. Eine Bergneustädterin bittet Autofahrer um Vorsicht.",
@@ -78,6 +133,32 @@
     "feed_kommunen": []
   },
   {
+    "id": "b00b73304021",
+    "title": "Wohnen in Gummersbach: 70 Wohnungen am alten Amtsgericht geplant",
+    "summary": "Auf dem Areal des alten Amtsgerichts in Gummersbach sollen bis zu 70 neue Wohnungen entstehen, die Pläne werden jetzt konkreter.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/gummersbach-70-neue-wohnungen-am-alten-amtsgericht-geplant-1425930",
+    "published": "Thu, 26 Nov 2026 15:37:03 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-26T18:17:16.312410",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9fe660061025",
+    "title": "Begegnungszentrum Bernberg: Post-Automat bietet Filialservice rund um die Uhr",
+    "summary": "Im Begegnungszentrum Bernberg hat die Deutsche Post eine rund um die Uhr nutzbare Poststation eröffnet, die weit mehr kann als eine Packstation.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/gummersbach-neue-poststation-im-begegnungszentrum-bernberg-1425928",
+    "published": "Thu, 26 Nov 2026 15:33:18 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T18:17:16.312564",
+    "feed_kommunen": []
+  },
+  {
     "id": "6ed9291c4662",
     "title": "Gummersbach: VfL holt Nationaltorhüter Andreas Wolff ab Sommer 2028",
     "summary": "Der VfL Gummersbach hat Nationaltorhüter Andreas Wolff (35) verpflichtet. Er kommt im Sommer 2028 vom THW Kiel und hat einen Vertrag über vier Jahre unterschrieben.",
@@ -91,6 +172,19 @@
     "feed_kommunen": []
   },
   {
+    "id": "97a115b065ed",
+    "title": "Prozess in Köln: Angeklagter soll Ehepaar in Gummersbach überfallen haben",
+    "summary": "Ein 35-Jähriger steht vor dem Kölner Landgericht: Er soll in Gummersbach ein Ehepaar ausgeraubt, bedroht und eine Woche festgehalten haben.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/prozess-in-koeln-mann-soll-ehepaar-in-gummersbach-eingesperrt-haben-1425919",
+    "published": "Thu, 26 Nov 2026 15:31:34 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-26T18:17:16.312701",
+    "feed_kommunen": []
+  },
+  {
     "id": "19e6ea4cbc5a",
     "title": "Altes Amtsgericht soll Neubau mit 70 Wohnungen weichen",
     "summary": "Gummersbach – Seit dem Umzug auf das Steinmüllergelände steht das alte Amtsgericht leer – Ferchau stellte der Gummersbacher Politik nun die Pläne für das Areal vor.",
@@ -101,6 +195,32 @@
       "gummersbach"
     ],
     "fetched": "2026-11-26T16:17:21.078241",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1569ec257a51",
+    "title": "Windräder am Unnenberg: Anwohner prüfen Klage gegen Bau",
+    "summary": "Bei einer Infoveranstaltung stellte UKA seine Windradpläne für den Unnenberg vor. Ein Anlieger prüft nun eine Klage gegen die Genehmigung.",
+    "link": "https://www.ksta.de/region/oberberg/windraeder-am-unnenberg-anwohner-prueft-klage-gegen-bauplaene-1425915",
+    "published": "Thu, 26 Nov 2026 15:28:12 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T18:17:16.312836",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c2c9f1538dbd",
+    "title": "103 Femizide: Oberberg setzt sichtbares Zeichen",
+    "summary": "Mit einer Aktion im Gummersbacher Forum setzten Oberbergs Initiativen zum Tag gegen Gewalt an Frauen ein sichtbares Zeichen.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/femizide-in-deutschland-aktionstag-im-gummersbacher-forum-1425856",
+    "published": "Thu, 26 Nov 2026 15:23:53 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-26T18:17:16.312947",
     "feed_kommunen": []
   },
   {
@@ -1704,6 +1824,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-23T16:17:46.817161",
+    "feed_kommunen": []
+  },
+  {
+    "id": "694b7511bf2c",
+    "title": "Immo und Keppel: Wasserbüffel halten das Volbachtal frei",
+    "summary": "Seit mehr als zehn Jahren pflegen die Wasserbüffel Immo und Keppel für Naturschützer das Volbachtal bei Immekeppel und halten es offen.",
+    "link": "https://www.ksta.de/region/oberberg/wasserbueffel-im-freudenthal-landschaftspflege-und-brueckenstreit-1423208",
+    "published": "Mon, 23 Nov 2026 15:21:05 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T18:17:16.316115",
     "feed_kommunen": []
   },
   {

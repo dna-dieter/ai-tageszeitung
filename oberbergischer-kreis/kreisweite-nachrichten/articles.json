@@ -13,6 +13,45 @@
     "feed_kommunen": []
   },
   {
+    "id": "24b4d50c9c5f",
+    "title": "Losemundtheater begeistert: Andersens „Schneekönigin“ im Kinderstück",
+    "summary": "Das Bergneustädter Losemundtheater begeistert mit Andersens „Schneekönigin“: Die Jugendgruppe zeigt ein lustiges Kinderstück voller Spielfreude.",
+    "link": "https://www.ksta.de/region/oberberg/bergneustadt/losemundtheater-bergneustadt-zeigt-schneekoenigin-fuer-kinder-1425937",
+    "published": "Thu, 26 Nov 2026 15:43:17 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T18:17:16.312121",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9fe660061025",
+    "title": "Begegnungszentrum Bernberg: Post-Automat bietet Filialservice rund um die Uhr",
+    "summary": "Im Begegnungszentrum Bernberg hat die Deutsche Post eine rund um die Uhr nutzbare Poststation eröffnet, die weit mehr kann als eine Packstation.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/gummersbach-neue-poststation-im-begegnungszentrum-bernberg-1425928",
+    "published": "Thu, 26 Nov 2026 15:33:18 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T18:17:16.312564",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1569ec257a51",
+    "title": "Windräder am Unnenberg: Anwohner prüfen Klage gegen Bau",
+    "summary": "Bei einer Infoveranstaltung stellte UKA seine Windradpläne für den Unnenberg vor. Ein Anlieger prüft nun eine Klage gegen die Genehmigung.",
+    "link": "https://www.ksta.de/region/oberberg/windraeder-am-unnenberg-anwohner-prueft-klage-gegen-bauplaene-1425915",
+    "published": "Thu, 26 Nov 2026 15:28:12 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T18:17:16.312836",
+    "feed_kommunen": []
+  },
+  {
     "id": "460d83354e54",
     "title": "Zocken – gut fürs Gehirn, schlecht für den Rücken?",
     "summary": "Oberberg - Gaming fördert Konzentration und Geschicklichkeit, lange Sitzen kann jedoch Rücken und Nacken belasten. Nur wie lässt sich Gaming und Gesundheit verbinden?",
@@ -375,6 +414,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-23T16:17:46.817161",
+    "feed_kommunen": []
+  },
+  {
+    "id": "694b7511bf2c",
+    "title": "Immo und Keppel: Wasserbüffel halten das Volbachtal frei",
+    "summary": "Seit mehr als zehn Jahren pflegen die Wasserbüffel Immo und Keppel für Naturschützer das Volbachtal bei Immekeppel und halten es offen.",
+    "link": "https://www.ksta.de/region/oberberg/wasserbueffel-im-freudenthal-landschaftspflege-und-brueckenstreit-1423208",
+    "published": "Mon, 23 Nov 2026 15:21:05 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T18:17:16.316115",
     "feed_kommunen": []
   },
   {

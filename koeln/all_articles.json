@@ -1,5 +1,83 @@
 [
   {
+    "id": "77376ad1cd70",
+    "title": "Wegen Frosttemperaturen: Stadt Köln sagt Pflanzaktion in Dünnwald ab",
+    "summary": "Wegen des angekündigten Frosts verschiebt die Stadt Köln die geplante Baumpflanzaktion in Dünnwald. Ein neuer Termin wird zeitnah bekannt gegeben.",
+    "link": "https://www.ksta.de/koeln/muelheim/duennwald/wegen-frosttemperaturen-stadt-koeln-sagt-pflanzaktion-in-duennwald-ab-1425991",
+    "published": "Thu, 26 Nov 2026 17:58:17 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T18:18:23.073193",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1fd86b77ec9a",
+    "title": "Eisbären und Pinguine: „Polarwelten“-Ausstellung in Köln-Ehrenfeld bietet viele Highlights",
+    "summary": "Wo bis vor Kurzem blutige Tatorte schockten, springen jetzt Pinguine von Eisschollen: Auf die Serienkiller-Ausstellung folgt in Köln-Ehrenfeld „Polarwelten“.",
+    "link": "https://www.ksta.de/koeln/ehrenfeld/ehrenfeld/koeln-ehrenfeld-polarwelten-ausstellung-bietet-viele-highlights-1426030",
+    "published": "Thu, 26 Nov 2026 17:12:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T18:18:23.073220",
+    "feed_kommunen": []
+  },
+  {
+    "id": "9ef291a596bd",
+    "title": "Torhüter mit auslaufenden Verträgen: Weiter Funkstille zwischen Schwäbe und dem FC",
+    "summary": "Der 1. FC Köln lässt Vertragsangebote von Kapitän Marvin Schwäbe unbeantwortet. Derweil ist sein Einsatz gegen Elversberg wegen Rückenproblemen fraglich.",
+    "link": "https://www.ksta.de/sport/1-fc-koeln/1-fc-koeln-kapitaen-marvin-schwaebe-will-klarheit-ueber-seine-zukunft-1426006",
+    "published": "Thu, 26 Nov 2026 17:09:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T18:18:23.073235",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d06b6bc5cff4",
+    "title": "Ex-Höhner-Sänger: Henning Krautmacher gibt wertvolle Tipps für ältere Menschen",
+    "summary": "Sänger Henning Krautmacher hat im Polizeipräsidium in Kalk aus echten Strafanzeigen vorgelesen. Auch er wurde schon Opfer.",
+    "link": "https://www.ksta.de/koeln/koeln-henning-krautmacher-gibt-wertvolle-tipps-fuer-aeltere-menschen-1426019",
+    "published": "Thu, 26 Nov 2026 17:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T18:18:23.073258",
+    "feed_kommunen": []
+  },
+  {
+    "id": "11afccb91f67",
+    "title": "Rekord-Schmerzensgeld: Gericht beendet Hakenschlagen des Kölner Erzbistums",
+    "summary": "Das OLG Köln setzt mit seinem Urteil zugunsten der als Kind von ihrem Pflegevater, dem Priester Hans Ue., missbrauchten Klägerin neue Maßstäbe.",
+    "link": "https://www.ksta.de/koeln/schmerzensgeld-gericht-beendet-hakenschlagen-des-koelner-erzbistums-1425694",
+    "published": "Thu, 26 Nov 2026 17:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T18:18:23.073271",
+    "feed_kommunen": []
+  },
+  {
+    "id": "fc7336c765ea",
+    "title": "Auszeichnung: Kölner Bar Seiberts erreicht Platz acht in internationaler Bestenliste",
+    "summary": "Das Seiberts am Friesenwall überzeugt international und belegt den achten Platz im Ranking der weltweit besten Cocktailbars des Portals Worth a Journey.",
+    "link": "https://www.ksta.de/freizeit/restaurants/seiberts-in-koeln-unter-den-zehn-besten-cocktailbars-der-welt-1426009",
+    "published": "Thu, 26 Nov 2026 16:49:26 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T18:18:23.073283",
+    "feed_kommunen": []
+  },
+  {
     "id": "d52f02e9227f",
     "title": "Schwerpunktkontrollen in Köln: Polizei und Ordnungsamt stellen Drogen und Waffen sicher",
     "summary": "Bei Schwerpunktkontrollen in Köln haben Polizei und Ordnungsamt Drogen, Waffen und Hehlerware sichergestellt. Zwei Cafés und ein Kiosk wurden versiegelt.",

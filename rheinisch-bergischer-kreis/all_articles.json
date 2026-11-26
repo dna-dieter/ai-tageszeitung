@@ -1,5 +1,20 @@
 [
   {
+    "id": "42e9ab70d845",
+    "title": "Projekt in Witzhelden: Kinder und Jugendliche sammeln Ideen für Spielplatz Kuhle",
+    "summary": "Für eine 2000 Quadratmeter große mögliche Spielplatz-Fläche bei Kuhle stockte die Planung lange. Nun soll neuer Schwung in die Sache kommen, angestoßen durch die Ideen von Kindern und Jugendlichen.",
+    "link": "https://rp-online.de/nrw/staedte/leichlingen/leichlingen-kinder-und-jugendliche-planen-spielplatz-kuhle_aid-158712749",
+    "published": "Thu, 26 Nov 2026 17:00:00 +0100",
+    "source": "Rheinische Post Leichlingen",
+    "kommunen": [
+      "leichlingen"
+    ],
+    "fetched": "2026-11-26T18:16:02.025332",
+    "feed_kommunen": [
+      "leichlingen"
+    ]
+  },
+  {
     "id": "ff5328856977",
     "title": "Weihnachtsbaum im Rathausfoyer erhält Schmuck von der GGS An der Strunde",
     "summary": "Die letzten Tage waren die rund 75 Kinder aller dritten Klassen fleißig und schnitten Papier, klebten Pappe und fädelten die Schnüre ein. Die große Leiter stand bereit, damit auch die obersten Äste geschmückt werden konnten. Sterne, Herzen und weitere bunte Formen wurden gebastelt und aufgehängt. Bürgermeister Marcel Kreutz ließ es sich nicht nehmen, den Grundschülerinnen und Grundschülern nach ge",
@@ -30,6 +45,20 @@
     ]
   },
   {
+    "id": "2829c27c3d76",
+    "title": "Cäcilienchor in Schildgen: Chöre setzen bei Mozarts Requiem auf Gelassenheit",
+    "summary": "Cäcilienchor Herz Jesu und Kammerchor Olpe führen in Schildgen Bachs Solokantate „Ich habe genug“ und Mozarts Requiem auf.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/caecilienchor-schildgen-mozarts-requiem-in-herz-jesu-1425977",
+    "published": "Thu, 26 Nov 2026 16:11:13 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "bergisch-gladbach",
+      "kuerten"
+    ],
+    "fetched": "2026-11-26T18:16:00.941465",
+    "feed_kommunen": []
+  },
+  {
     "id": "dc36d5efa35a",
     "title": "Angebote für Seniorinnen und Senioren im Dezember und Ausblick auf 2027",
     "summary": "Seniorenstammtisch – im Wirtshaus am BockWann? Mittwoch, der 02. Dezember 2026, um 11.30 UhrWo? Im Wirtshaus am Bock, Konrad-Adenauer-Platz 2, 51465 Bergisch GladbachZu Gast ist Frauke Neuzig von der Allgemeinen Beratungs- und Unterstützungsstelle des Rheinisch-Bergischen Kreises (ABU-RBK). Sie informiert über das Beratungsangebot und zeigt auf, wo Menschen bei Fragen zu Pflege, Wohnen, finanziell",
@@ -43,6 +72,19 @@
     "feed_kommunen": [
       "bergisch-gladbach"
     ]
+  },
+  {
+    "id": "e3da74600217",
+    "title": "Rösrather Feuerwehr: Immer öfter mehrere Einsätze zugleich",
+    "summary": "Die Feuerwehr Rösrath zieht Bilanz: Der Bürgermeister lobt den Einsatz, doch Feuerwehrhaus und Werkstätten sind bislang nur Studie.",
+    "link": "https://www.ksta.de/region/rhein-berg/roesrath/feuerwehr-roesrath-zieht-bilanz-405-einsaetze-im-vergangenen-jahr-1425974",
+    "published": "Thu, 26 Nov 2026 16:08:21 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "roesrath"
+    ],
+    "fetched": "2026-11-26T18:16:00.941587",
+    "feed_kommunen": []
   },
   {
     "id": "bf1fbded0a1e",
