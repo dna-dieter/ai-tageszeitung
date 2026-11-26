@@ -1,5 +1,74 @@
 [
   {
+    "id": "a7475d770248",
+    "title": "Pressemitteilung OBK: Wenn Sprache Türe öffnet: Ehrenamts-Akademie bietet Forum",
+    "summary": "Impulsvortrag, Lesung, Ausstellung und Möglichkeiten zum Ausprobieren am 03.12.2026",
+    "link": "https://www.nuembrecht.de/buergerinfo/?tx_news_pi1%5Bnews%5D=2024&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=eced48708762b9d755afa9392edd12cf",
+    "published": "Thu, 26 Nov 2026 11:13:42 +0100",
+    "source": "Gemeinde Nümbrecht (offiziell)",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-26T11:17:28.448676",
+    "feed_kommunen": [
+      "nuembrecht"
+    ]
+  },
+  {
+    "id": "87a1303474e8",
+    "title": "Feierliche Eröffnung der neuen Spielgeräte an der Pfarrer-Giesen-Straße und der Ewald-Gnau-Straße",
+    "summary": "Mit der offiziellen Einweihung der neuen Spielgeräte hat die Schloss-Stadt Hückeswagen zwei weitere attraktive Spielangebote für Kinder und Familien eröffnet.",
+    "link": "https://www.hueckeswagen.de/portal/meldungen/feierliche-eroeffnung-der-neuen-spielgeraete-an-der-pfarrer-giesen-strasse-und-der-ewald-gnau-strasse-900000749-37660.html?rubrik=900000001",
+    "published": "Thu, 26 Nov 2026 10:51:00 +0100",
+    "source": "Schloss-Stadt Hückeswagen (offiziell)",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-26T11:17:27.277622",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "4c5f6cffdbdb",
+    "title": "POL-GM: Elektronische Geräte aus Veranstaltungshalle gestohlen",
+    "summary": "Gummersbach (ots) - Unbekannte haben zwischen Samstagabend (21. November, 18:30 Uhr) und Sonntagmorgen (22. November, 9:00 Uhr) mehrere elektronische Geräte aus einer Veranstaltungshalle in der Straße \"Zur Aggerhalle\" gestohlen. Aus den ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6398387",
+    "published": "Thu, 26 Nov 2026 10:46:43 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-26T11:17:22.343833",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f46bd34792c1",
+    "title": "POL-GM: Versuchter Einbruch in Wohnung",
+    "summary": "Lindlar (ots) - Im Zeitraum vom 20. November bis 25. November (Mittwoch) haben Unbekannte versucht, in eine Wohnung in der Straße \"Alte Landstraße\" einzubrechen. Als der Bewohner am Mittwochvormittag zu seiner Anschrift zurückkehrte, stellte er ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6398379",
+    "published": "Thu, 26 Nov 2026 10:45:39 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-26T11:17:22.343998",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8aa52f295acd",
+    "title": "POL-GM: Gartenlaube auf Kindergartengelände beschädigt",
+    "summary": "Wipperfürth (ots) - In der Nacht von Dienstag auf Mittwoch (24./25. November) wollten Unbekannte in eine Gartenlaube auf dem Außengelände eines Kindergartens in der Ringstraße einbrechen. Die Einbrecher verschafften sich Zugang zum umzäunten ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6398375",
+    "published": "Thu, 26 Nov 2026 10:45:05 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "wipperfuerth"
+    ],
+    "fetched": "2026-11-26T11:17:22.344153",
+    "feed_kommunen": []
+  },
+  {
     "id": "8e409b6a83df",
     "title": "Hallenbad-Kurse zukünftig online buchbar",
     "summary": "Ab dem 30. November 2026 können die ersten Kurse des Morsbacher Hallenbads über das neue digitale Buchungssystem unter https://shop.morsbach.de online gebucht werden. Mit der Einführung des neuen Systems wird die Anmeldung zu den Kursangeboten des Morsbacher Hallenbades deutlich vereinfacht. Bürgerinnen und Bürger haben künftig die Möglichkeit, Kursplätze bequem von zu Hause aus zu reservieren und",
