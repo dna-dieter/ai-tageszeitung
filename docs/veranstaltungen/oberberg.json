@@ -470,16 +470,6 @@
     "teaser": "In der Innenstadt von Radevormwald findet wieder der traditionelle Weihnachtsmarkt statt. Vereine sowie Händlerinnen und Händler bieten unter anderem Liköre, diverse kreative Heißgetränke, Punsch- und Glühweinvariationen"
   },
   {
-    "titel": "Christkindmarkt Engelskirchen",
-    "datum": "11. Dez 2026",
-    "datum_raw": "2026-12-11T14:00:00+01:00",
-    "ort": "Engel-Museum, Engels-Platz 7, 51766 Engelskirchen",
-    "preis": "",
-    "link": "http://www.engelskirchen.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Jedes Jahr am dritten Adventswochenende findet der weit über die Grenzen des Bergischen Landes bekannte und beliebte Christkindmarkt auf dem Veranstaltungsplatz hinter dem Rathaus Engelskirchen statt. Die Besucherinnen u"
-  },
-  {
     "titel": "Die gemütliche Kurzstrecke",
     "datum": "11. Dez 2026",
     "datum_raw": "2026-12-11T14:00:00+01:00",
@@ -488,6 +478,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "einfache Wege, ca. 4-5 km Schlusseinkehr: möglich Veranstalter: SGV Abteilung Homburger Land Treffpunkt: 14:00 Uhr Wiehl, Parkplatz Vorderbereich Eissporthalle Wanderführer: Rosemarie Romboy"
+  },
+  {
+    "titel": "Christkindmarkt Engelskirchen",
+    "datum": "11. Dez 2026",
+    "datum_raw": "2026-12-11T14:00:00+01:00",
+    "ort": "Engel-Museum, Engels-Platz 7, 51766 Engelskirchen",
+    "preis": "",
+    "link": "http://www.engelskirchen.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Jedes Jahr am dritten Adventswochenende findet der weit über die Grenzen des Bergischen Landes bekannte und beliebte Christkindmarkt auf dem Veranstaltungsplatz hinter dem Rathaus Engelskirchen statt. Die Besucherinnen u"
   },
   {
     "titel": "Fackelwanderung mit Schnitzeljagd",
@@ -530,14 +530,14 @@
     "teaser": "Holzkunstwerke, Bastelarbeiten, Alpakaprodukte, Honig und Wachsprodukte, Bratwurst und Reibekuchen, Waffeln, Weihnachtsbäume, Tannengrün und mehr Grundstück und WC sind barrierefrei. Eintritt frei."
   },
   {
-    "titel": "Hof-Weihnacht und Adventszauber auf dem Biohof Klein",
+    "titel": "Weihnachtsmarkt auf dem Biohof Klein",
     "datum": "12. Dez 2026",
     "datum_raw": "2026-12-12T11:00:00+01:00",
     "ort": "Biohof Klein Zimmerseifen, Am Eichenholz 8, 51580 Reichshof",
     "preis": "",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "link": "https://www.biohof-klein.de/index.php?id=70",
     "quelle": "Das Bergische",
-    "teaser": "Kulinarische Weihnachtsleckereien, handgefertigte Arbeiten, Hofbesichtigung, Tiere hautnah erleben, Strohrutsche und Stockbrot für Kinder, Live-Musik mit regionalen Bands, Weihnachtsbaumverkauf ...an Feuertonnen, mit Lec"
+    "teaser": "Frisch geschlagene Tannen aus eigenem Anbau, Live-Musik, Hütten und Stände mit Künstlern und Händlern der Region, Weihnachtsleckereien, Hofbesichtigung; Für Kinder: Tiere hautnah erleben, Toben im Stroh."
   },
   {
     "titel": "Musical: Melodie des Meeres",

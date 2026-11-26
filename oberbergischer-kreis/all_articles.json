@@ -1,5 +1,31 @@
 [
   {
+    "id": "47779e6c738a",
+    "title": "Was geht in Gummersbach? Studenten entwickeln Ideen zur Stadtentwicklung",
+    "summary": "Gummersbach - Studierende im ersten Semester Medieninformatik haben eine Woche lang Ideen entwickelt – vom konsumfreien Jugendtreff bis zur App für mehr Barrierefreiheit.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/was-geht-in-gummersbach--studenten-entwickeln-ideen-zur-stadtentwicklung-a-141008",
+    "published": "Thu, 26 Nov 2026 17:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-26T17:17:54.253058",
+    "feed_kommunen": []
+  },
+  {
+    "id": "c925452b746a",
+    "title": "NRW: Kreise fordern Entlastung – Rekorddefizit von mehr als 9,3 Milliarden Euro",
+    "summary": "Rekorddefizit in NRW: Finanzausschuss des Landkreistags fordert eine dauerhaft bessere Finanzierung staatlich vorgegebener Aufgaben.",
+    "link": "https://www.news-on-tour.de/346972/nrw-entlastung-kreise/",
+    "published": "Thu, 26 Nov 2026 15:51:11 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T17:17:48.201855",
+    "feed_kommunen": []
+  },
+  {
     "id": "1f948dc830c7",
     "title": "Sanierungsarbeiten: L 307 wird drei Wochen gesperrt",
     "summary": "Gummersbach – Kommende Woche plant Straßen.NRW die Wegescheider Straße zu sanieren.",
@@ -23,19 +49,6 @@
       "gummersbach"
     ],
     "fetched": "2026-11-26T16:17:15.533523",
-    "feed_kommunen": []
-  },
-  {
-    "id": "f35913f7c70e",
-    "title": "Gummersbach: Studenten entwickeln 11 Ideen zur Stadtentwicklung",
-    "summary": "Elf Konzepte für die Stadtentwicklung in Gummersbach haben Erstsemester der TH Köln erarbeitet. Ihre Ideen reichen vom Jugendtreff bis zur App für Barrierefreiheit.",
-    "link": "https://www.news-on-tour.de/346959/gummersbach-stadtentwicklung-11-ideen/",
-    "published": "Thu, 26 Nov 2026 14:45:49 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach"
-    ],
-    "fetched": "2026-11-26T16:17:15.533632",
     "feed_kommunen": []
   },
   {

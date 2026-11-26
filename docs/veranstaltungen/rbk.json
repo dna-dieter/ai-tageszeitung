@@ -140,16 +140,6 @@
     "teaser": "Der 38. Indoor-Weihnachtsmarkt findet unter dem gewohnten Dach der Dabringhausener Mehrzweckhalle statt. Samstag, den 29.11.2025 von 14:00 h bis 19:00 h Sonntag, den 30.11.2025 von 10:00 h bis 18:00 h Von den 60 Ausstell"
   },
   {
-    "titel": "Weihnachtsmarkt: Ä Tännschen please!",
-    "datum": "28. Nov 2026",
-    "datum_raw": "2026-11-28T15:00:00+01:00",
-    "ort": "Hofladen Birken, Engelrath 1-3, 51399 Burscheid",
-    "preis": "",
-    "link": "https://weihnachtsmarkt-burscheid.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Glühwein, frische Quarkbällchen, heiße Rostbratwurst, knisterndes Feuer und der Duft von Tannengrün. Tief einatmen und bei weihnachtlicher Atmosphäre Schlürfen, schlemmen und abschalten. Freut Euch auf ausgewählte Ausste"
-  },
-  {
     "titel": "Weihnachtsbasar im GFO Hospiz Vinzenz Pallotti Bensberg",
     "datum": "28. Nov 2026",
     "datum_raw": "2026-11-28T15:00:00+01:00",
@@ -158,6 +148,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Alle Jahre wieder, laden wir herzlich dazu ein, die Adventszeit mit uns zu begrüßen! Klaviermusik und Chorgesang schallen durch die Flure. Für die Feinschmecker bereiten wir Herzhaftes vom Grill und aus der Fritteuse sow"
+  },
+  {
+    "titel": "Weihnachtsmarkt: Ä Tännschen please!",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T15:00:00+01:00",
+    "ort": "Hofladen Birken, Engelrath 1-3, 51399 Burscheid",
+    "preis": "",
+    "link": "https://weihnachtsmarkt-burscheid.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Glühwein, frische Quarkbällchen, heiße Rostbratwurst, knisterndes Feuer und der Duft von Tannengrün. Tief einatmen und bei weihnachtlicher Atmosphäre Schlürfen, schlemmen und abschalten. Freut Euch auf ausgewählte Ausste"
   },
   {
     "titel": "Adventsbasar in Odenthal-Klasmühle: Ein lohnendes Ziel für Ausflügler und Genießer",
@@ -210,16 +210,6 @@
     "teaser": "Jeden letzten Sonntag im Monat laden unsere fachkundigen Museumskenner auf einen unterhaltsamen und informativen Spaziergang ein. Im Haupthaus und auf dem Außengelände erfahren Sie Wissenswertes über das Leben und Arbeit"
   },
   {
-    "titel": "Trio Ivoire: RESURRECTION",
-    "datum": "29. Nov 2026",
-    "datum_raw": "2026-11-29T15:00:00+01:00",
-    "ort": "SinnesWald, Wietsche 1, 42799 Leichlingen",
-    "preis": "",
-    "link": "https://www.sinneswald.de/termine/termine-2026/trio-ivoire-resurrection",
-    "quelle": "Das Bergische",
-    "teaser": "„Resurrection“ ist ein rauschendes Fest der Klangfarben, der Virtuosität und des gegenseitigen Verstehens Aly Keïta, Hans Lüdemann und Christian Thomé bilden seit nunmehr 25 Jahren eines der faszinierendsten Trios der eu"
-  },
-  {
     "titel": "Multivisionsshow Norwegen",
     "datum": "29. Nov 2026",
     "datum_raw": "2026-11-29T15:00:00+01:00",
@@ -240,14 +230,14 @@
     "teaser": "Der Frauenchor Bella Melodica e.V lädt zusammen mit dem Musiker Les Searle zum Konzert. Geboten werden englische und deutsche Lieder wie \" Advent ist ein leuchten\" oder \" Ding dong merrily on high\". Der Musiker Les Searl"
   },
   {
-    "titel": "Frau Höpker bittet zum Gesang - Mitsing Konzert",
+    "titel": "Trio Ivoire: RESURRECTION",
     "datum": "29. Nov 2026",
-    "datum_raw": "2026-11-29T18:00:00+01:00",
-    "ort": "Bürgerhaus Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach",
-    "preis": "ab 28 €",
-    "link": "https://www.bergischerloewe.de/programmdetails.aspx?vid=9f6eb371-613f-42a4-b9ac-4616fda10fca&datum=29.11.2026",
+    "datum_raw": "2026-11-29T15:00:00+01:00",
+    "ort": "SinnesWald, Wietsche 1, 42799 Leichlingen",
+    "preis": "",
+    "link": "https://www.sinneswald.de/termine/termine-2026/trio-ivoire-resurrection",
     "quelle": "Das Bergische",
-    "teaser": "Darf ich bitten? Sie darf. Seit 2008 begeistert die charismatische Künstlerin landauf landab mit einem musikalischen Gesangserlebnis das mehr ist als „nur“ gemeinsames Singen. Kein Wunder; Frau Höpkers Format ist einziga"
+    "teaser": "„Resurrection“ ist ein rauschendes Fest der Klangfarben, der Virtuosität und des gegenseitigen Verstehens Aly Keïta, Hans Lüdemann und Christian Thomé bilden seit nunmehr 25 Jahren eines der faszinierendsten Trios der eu"
   },
   {
     "titel": "Klassik in der Mühle",
@@ -258,6 +248,16 @@
     "link": "https://www.nelson-mueller.de/blogs/kulinarischer-kalender/jazz-in-der-muhle-23-11-und-21-12-25-mullers-in-der-muhle",
     "quelle": "Das Bergische",
     "teaser": "Der Abend beginnt stets mit Einlass um 18:00 Uhr im Konrad-Adenauer-Saal der Mühle, das 3-gängige Menü startet gegen 18:30 Uhr, das Programm startet in der Regel gegen 21:00 Uhr. Die Veranstaltung endet gegen 23:00 Uhr. "
+  },
+  {
+    "titel": "Frau Höpker bittet zum Gesang - Mitsing Konzert",
+    "datum": "29. Nov 2026",
+    "datum_raw": "2026-11-29T18:00:00+01:00",
+    "ort": "Bürgerhaus Bergischer Löwe, Konrad-Adenauer-Platz, 51465 Bergisch Gladbach",
+    "preis": "ab 28 €",
+    "link": "https://www.bergischerloewe.de/programmdetails.aspx?vid=9f6eb371-613f-42a4-b9ac-4616fda10fca&datum=29.11.2026",
+    "quelle": "Das Bergische",
+    "teaser": "Darf ich bitten? Sie darf. Seit 2008 begeistert die charismatische Künstlerin landauf landab mit einem musikalischen Gesangserlebnis das mehr ist als „nur“ gemeinsames Singen. Kein Wunder; Frau Höpkers Format ist einziga"
   },
   {
     "titel": "Wandern & Workout",
