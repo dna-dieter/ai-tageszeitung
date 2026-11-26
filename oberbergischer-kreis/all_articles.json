@@ -1,5 +1,31 @@
 [
   {
+    "id": "9b2f257da537",
+    "title": "Hohkeppel unter der schwarzen Wolke",
+    "summary": "​​​​​​​Lindlar – Eintracht Hohkeppel steht vor dem Duell mit dem VfL Vichttal unter Zugzwang, die Tabellenspitze nicht aus den Augen zu verlieren – Nächste Woche Donnerstag muss sich der Klub vor dem WDFV-Sportgericht verantworten.",
+    "link": "http://www.oberberg-aktuell.de/fussball/dhjgdghdhkghkdg-a-140971",
+    "published": "Thu, 26 Nov 2026 13:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-26T13:18:00.872364",
+    "feed_kommunen": []
+  },
+  {
+    "id": "1f66a2c4d6ad",
+    "title": "Kreisspielausschuss setzt kompletten Spieltag ab",
+    "summary": "Oberberg - Am Wochenende finden in den Senioren-Kreisligen keine Spiele statt - Nachholtermin am 13. Dezember - Jugendausschuss verzichtet auf generelle Absage (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/fussball/spielausschuss-setzt-kompletten-spieltag-abggg-a-140996",
+    "published": "Thu, 26 Nov 2026 12:55:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T13:18:00.872549",
+    "feed_kommunen": []
+  },
+  {
     "id": "c28162ae00eb",
     "title": "Transfer-Hammer fix: Wolff unterschreibt für vier Jahre in Gummersbach",
     "summary": "Gummersbach - Der DHB-Keeper wechselt im Sommer 2028 nach Gummersbach - VfL-Chefcoach Sigurdsson freut sich auf „einen der besten Torhüter der Welt“ – ‚RPP – Ambulantes Therapie- und Reha-Zentrum' und AggerEnergie präsentieren die Berichterstattung über den VfL Gummersbach.",
@@ -55770,6 +55796,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-26T12:17:28.402619",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "9eded316b7bc",
+    "title": "Gymnasium: Vertrag ist unterzeichnet",
+    "summary": "Nun ist auch formal der Weg frei hin zum neuen und sanierten Dietrich-Bonhoeffer-Gymnasium: Heute haben die Verantwortlichen von Totalunternehmer und Stadt den Vertrag unterzeichnet.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9628-gymnasium-vertrag-ist-unterzeichnet.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-26T13:18:03.706981",
     "feed_kommunen": [
       "wiehl"
     ]

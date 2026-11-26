@@ -1,5 +1,44 @@
 [
   {
+    "id": "88420f656fe1",
+    "title": "„Chresdaachsjlöck“ für die kölsche Seele: Kölsche Weihnacht feiert 30-jähriges Jubiläum",
+    "summary": "Das Ensemble feiert 30 Jahre Kölsche Weihnacht mit einer Mischung aus besinnlichen Liedern und humorvollen Geschichten für die kölsche Seele.",
+    "link": "https://www.ksta.de/koeln/porz/wahn/koelsche-weihnacht-feiert-30-jaehriges-jubilaeum-1422986",
+    "published": "Thu, 26 Nov 2026 13:04:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T13:19:32.941469",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b3307cda90be",
+    "title": "Klage von Missbrauchsopfer: Gericht verhängt Rekord-Schmerzensgeld gegen Erzbistum Köln",
+    "summary": "Erneut hat eine Missbrauchsbetroffene ein hohes Schmerzensgeld gegen ein deutsches Bistum erstritten.",
+    "link": "https://www.ksta.de/koeln/gericht-verhaengt-rekord-schmerzensgeld-gegen-erzbistum-koeln-1425432",
+    "published": "Thu, 26 Nov 2026 12:42:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T13:19:32.941512",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e3732378d73e",
+    "title": "Jubiläumsausgabe: Das Programm für „Loss mer Weihnachtsleeder singe“ steht",
+    "summary": "Zum zehnten Mal heißt es in diesem Jahr „Loss mer Weihnachtsleeder singe“. Das erwartet die Mitsing-Begeisterten zum Jubiläum.",
+    "link": "https://www.ksta.de/koeln/das-programm-fuer-loss-mer-weihnachtsleeder-singe-steht-1425711",
+    "published": "Thu, 26 Nov 2026 12:20:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T13:19:32.941538",
+    "feed_kommunen": []
+  },
+  {
     "id": "7922758e160d",
     "title": "Kooperationsprojekt der Offenen Jazzhausschule: Schülerinnen und Schüler erfahren Live-Musik in Nippes",
     "summary": "Der sechste Jahrgang der Peter-Ustinov-Realschule erlebte bei einem Konzertspaziergang durch Nippes sieben Live-Auftritte an ungewöhnlichen Orten.",
@@ -114,6 +153,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-26T10:18:53.752589",
+    "feed_kommunen": []
+  },
+  {
+    "id": "dec815bc7730",
+    "title": "Besuch der Iren: Westlife-Star beim Weihnachtsmarkt-Bummel in Köln",
+    "summary": "Die irische Boygroup Westlife ist auf Jubiläumstour. Dabei machte die aktuell zum Trio geschrumpfte Formation auch in Köln Station.",
+    "link": "https://www.ksta.de/koeln/westlife-star-beim-weihnachtsmarkt-bummel-in-koeln-1425736",
+    "published": "Thu, 26 Nov 2026 09:07:21 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T13:19:32.941605",
     "feed_kommunen": []
   },
   {
