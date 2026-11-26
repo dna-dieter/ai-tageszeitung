@@ -1,5 +1,44 @@
 [
   {
+    "id": "8acb131e8a98",
+    "title": "Schengen-Visum galt nicht mehr, Arbeitserlaubnis entzogen: Stadt Köln will Star-Pianistin nach Armenien abschieben",
+    "summary": "Die Stadt Köln droht einer armenischen Pianistin mit Abschiebung. Trotz prominenter Unterstützung verlangt die Behörde ein Visumsverfahren.",
+    "link": "https://www.ksta.de/koeln/stadt-koeln-will-pianistin-arus-adjemian-nach-armenien-abschieben-1420546",
+    "published": "Thu, 26 Nov 2026 07:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T07:19:28.143215",
+    "feed_kommunen": []
+  },
+  {
+    "id": "51ffb62dbed0",
+    "title": "Köln Bühnen: Türen der Oper schließen nicht richtig – Holzbalken als Notlösung",
+    "summary": "Wie konnten Täter relativ unkompliziert in die Oper eindringen? Offenbar hakt es an mehreren Stellen. Das hängt auch mit dem Denkmalschutz zusammen.",
+    "link": "https://www.ksta.de/koeln/oper-koeln-sicherheitsmaengel-und-holzbalken-nach-farbattacke-1423924",
+    "published": "Thu, 26 Nov 2026 06:45:42 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T07:19:28.143240",
+    "feed_kommunen": []
+  },
+  {
+    "id": "723a5ffbf349",
+    "title": "Klage gegen das Erzbistum: Kölner Gericht will Rekordsumme für Missbrauchsopfer verkünden",
+    "summary": "Oberlandesgericht Köln will Schmerzensgeld im Missbrauchsfall gegen das Erzbistum Köln verkünden.",
+    "link": "https://www.ksta.de/koeln/koeln-gericht-will-rekordsumme-fuer-missbrauchsopfer-1425432",
+    "published": "Thu, 26 Nov 2026 06:35:48 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T07:19:28.143256",
+    "feed_kommunen": []
+  },
+  {
     "id": "b2a8ddf53f27",
     "title": "Fehlerhafte Schließanlage an der Oper: Kölner Bühnen müssen endlich die Technik in den Griff kriegen",
     "summary": "Die Kölner Oper kämpft nach jahrelanger Sanierung mit einer defekten Schließanlage. Ein Kommentar über die mangelhafte Sicherheit am Bauwerk.",
@@ -23,19 +62,6 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-26T06:19:28.467330",
-    "feed_kommunen": []
-  },
-  {
-    "id": "f293370c6ee1",
-    "title": "Nach Farbattacke in Köln: Schließanlage der Oper hakt – Holzbalken als Notlösung",
-    "summary": "Unbekannte haben die Kölner Oper mit Graffiti beschmiert und sind durch eine entfernte Glasscheibe eingedrungen. Der Spielbetrieb läuft weiter.",
-    "link": "https://www.ksta.de/koeln/oper-koeln-sicherheitsmaengel-und-holzbalken-nach-farbattacke-1423924",
-    "published": "Thu, 26 Nov 2026 05:03:00 +0100",
-    "source": "Kölner Stadt-Anzeiger Köln",
-    "kommunen": [
-      "kreisweite-nachrichten"
-    ],
-    "fetched": "2026-11-26T05:18:20.673674",
     "feed_kommunen": []
   },
   {
