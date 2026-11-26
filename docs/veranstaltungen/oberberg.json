@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Kunstausstellung Haus der Kunst",
-    "datum": "26. Nov 2026",
-    "datum_raw": "2026-11-26T16:00:00+01:00",
-    "ort": "Haus der Kunst, Jakob-Engels-Strasse 2, 51588 Nümbrecht",
-    "preis": "",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Jeanette de Payebrune Malerei Eröffnung: 08.11.2026, 15:00 Uhr, Haus der Kunst Öffnungszeiten: donnerstags: 16:00-18:00 Uhr samstags und sonntags: 14:00-17:00 Uhr Veranstalter: Kunstverein Nümbrecht e.V. Veranstaltungsor"
-  },
-  {
     "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
     "datum": "27. Nov 2026",
     "datum_raw": "2026-11-27T11:00:00+02:00",
@@ -138,6 +128,16 @@
     "link": "https://www.reichshof.org/veranstaltungen/index.html?idart=11985&client=1",
     "quelle": "Das Bergische",
     "teaser": "Einmal im Monat, an jedem letzten Samstag (außer im Dezember), findet eine offene Esel-Wanderung mit vier lieben Eseln statt. Nach einer achtsamen, freien Begegnung mit den Eseln auf dem Hof wandern wir gemeinsam ca. ein"
+  },
+  {
+    "titel": "Kunstausstellung Haus der Kunst",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T14:00:00+01:00",
+    "ort": "Haus der Kunst, Jakob-Engels-Strasse 2, 51588 Nümbrecht",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Jeanette de Payebrune Malerei Eröffnung: 08.11.2026, 15:00 Uhr, Haus der Kunst Öffnungszeiten: donnerstags: 16:00-18:00 Uhr samstags und sonntags: 14:00-17:00 Uhr Veranstalter: Kunstverein Nümbrecht e.V. Veranstaltungsor"
   },
   {
     "titel": "Weihnachtsmarkt Gimborn",

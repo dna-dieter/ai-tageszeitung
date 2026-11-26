@@ -1,21 +1,8 @@
 {
   "quelle": "https://www.kuerten.de/sitzungen/",
   "portal": "https://sessionnet.owl-it.de/kuerten/bi/info.asp",
-  "aktualisiert": "2026-11-26T00:19:00",
+  "aktualisiert": "2026-11-27T00:20:17",
   "kommende": [
-    {
-      "datum": "2026-11-26",
-      "gremium": "Planungsausschuss",
-      "uhrzeit": "17:30",
-      "ort": "Bürgerhaus Kürten",
-      "ist_rat": false,
-      "dokumente": [
-        {
-          "art": "Einladung",
-          "url": "https://sessionnet.owl-it.de/kuerten/bi/getfile.asp?id=126625&type=do"
-        }
-      ]
-    },
     {
       "datum": "2026-12-02",
       "gremium": "Infrastruktur- und Klimaausschuss",
