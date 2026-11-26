@@ -286,17 +286,6 @@
     "teaser": "10 bis 13 Uhr · Die Einstiegsmethode. Ein Makerspace-Workshop im Interim der Zentralbibliothek."
   },
   {
-    "titel": "Bücherbabys – die literarische Krabbelgruppe",
-    "datum": "28. Nov 2026",
-    "datum_raw": "2026-11-28T00:00:00",
-    "datum_bis": "",
-    "ort": "Stadtteilbibliothek Ehrenfeld, Ehrenfeld",
-    "preis": "Die Teilnahme ist kostenlos.",
-    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41340/index.html",
-    "quelle": "Stadt Köln (Open Data)",
-    "teaser": "10:30 bis 11 Uhr · Im Zentrum der Bücherbabys steht die Sprach- und Sinnesförderung der Kleinsten – in der Stadtteilbibliothek Ehrenfeld."
-  },
-  {
     "titel": "Vorlesezeit",
     "datum": "28. Nov 2026",
     "datum_raw": "2026-11-28T00:00:00",
@@ -1001,6 +990,17 @@
     "teaser": "ab 15 Uhr · Lindenthaler Tierpark e. V. lädt ein"
   },
   {
+    "titel": "Köln hört zu!",
+    "datum": "7. Dez 2026",
+    "datum_raw": "2026-12-07T00:00:00",
+    "datum_bis": "",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41813/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15 bis 16 Uhr · Das Projekt Zuhören draußen im Interim der Zentralbibliothek."
+  },
+  {
     "titel": "Wissenschaft im Rathaus: Populismus, Propaganda, Zensur, Überwachung? Mediale Machtausübung in der digitalen Transformation",
     "datum": "7. Dez 2026",
     "datum_raw": "2026-12-07T00:00:00",
@@ -1197,6 +1197,17 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41708/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "10 bis 12 Uhr · Gemütlicher Stricktreff in der Stadtteilbibliothek Bocklemünd."
+  },
+  {
+    "titel": "Köln hört zu!",
+    "datum": "10. Dez 2026",
+    "datum_raw": "2026-12-10T00:00:00",
+    "datum_bis": "",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41814/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 12 Uhr · Das Projekt Zuhören draußen im Interim der Zentralbibliothek."
   },
   {
     "titel": "Bücherbabys – die literarische Krabbelgruppe",
@@ -1804,6 +1815,17 @@
     "teaser": "14 bis 15 Uhr · Für Schulleitungen an Kölner Schulen"
   },
   {
+    "titel": "Köln hört zu!",
+    "datum": "17. Dez 2026",
+    "datum_raw": "2026-12-17T00:00:00",
+    "datum_bis": "",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41815/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15 bis 16 Uhr · Das Projekt Zuhören draußen im Interim der Zentralbibliothek."
+  },
+  {
     "titel": "Kaffee, Kuchen und KI",
     "datum": "17. Dez 2026",
     "datum_raw": "2026-12-17T00:00:00",
@@ -1813,6 +1835,17 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41211/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "16 bis 17 Uhr · Künstliche Intelligenz entdecken im Interim der Zentralbibliothek – eine Veranstaltung im Rahmen der Reihe Digitale Werkstatt."
+  },
+  {
+    "titel": "Winterliche Druckwerkstatt",
+    "datum": "17. Dez 2026",
+    "datum_raw": "2026-12-17T00:00:00",
+    "datum_bis": "",
+    "ort": "Stadtteilbibliothek Bocklemünd/Mengenich, Bocklemünd/Mengenich",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41812/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "16 bis 17:30 Uhr · Gestalte dein DIY-Projekt mit der Druckpresse – in der Stadtteilbibliothek Bocklemünd/Mengenich."
   },
   {
     "titel": "Scrunchie-Weihnachts-Werkstatt",
@@ -2090,6 +2123,17 @@
     "teaser": "15 bis 16 Uhr · Krimiratespiel für Kinder im Rahmen von Sonntags in der Bibliothek im Interim der Zentralbibliothek."
   },
   {
+    "titel": "Köln hört zu!",
+    "datum": "21. Dez 2026",
+    "datum_raw": "2026-12-21T00:00:00",
+    "datum_bis": "",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41816/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "15 bis 16 Uhr · Das Projekt Zuhören draußen im Interim der Zentralbibliothek."
+  },
+  {
     "titel": "Spieletester*innen",
     "datum": "22. Dez 2026",
     "datum_raw": "2026-12-22T00:00:00",
@@ -2154,6 +2198,17 @@
     "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41423/index.html",
     "quelle": "Stadt Köln (Open Data)",
     "teaser": "15 bis 16 Uhr · Ein interaktives Kinderprogramm mit dem Gorilla-Theater. Im Rahmen von Sonntags in der Bibliothek im Interim der Zentralbibliothek."
+  },
+  {
+    "titel": "Köln hört zu!",
+    "datum": "29. Dez 2026",
+    "datum_raw": "2026-12-29T00:00:00",
+    "datum_bis": "",
+    "ort": "Interim Zentralbibliothek",
+    "preis": "Die Teilnahme ist kostenlos.",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41817/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "11 bis 12 Uhr · Das Projekt Zuhören draußen im Interim der Zentralbibliothek."
   },
   {
     "titel": "Nippeser Strickmamsellcher",
