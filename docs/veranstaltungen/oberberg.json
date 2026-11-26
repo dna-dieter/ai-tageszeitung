@@ -40,16 +40,6 @@
     "teaser": "Wenn es draußen dunkel wird schalten wir die Taschenlampen an und gehen auf Entdeckungstour durchs dunkle Schloss und die große PLAYMOBIL Ausstellung. Warum waren die Betten früher eigentlich so klein? Ist es gemütlich i"
   },
   {
-    "titel": "Nikolausmarkt am Heimatmuseum Bergneustadt",
-    "datum": "27. Nov 2026",
-    "datum_raw": "2026-11-27T18:00:00+01:00",
-    "ort": "Heimatmuseum Bergneustadt, Wallstraße 1, 51702 Bergneustadt",
-    "preis": "",
-    "link": "http://www.heimatmuseum-bergneustadt.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Der Nikolausmarkt am Heimatmuseum in der historischen Altstadt Bergneustadts, der traditionell am ersten Adventswochenende stattfindet, wird ausschließlich von Neustädter Vereinen, Schulen, Kindergärten, etc. gestaltet. "
-  },
-  {
     "titel": "Weihnachtsmarkt Waldbröl",
     "datum": "27. Nov 2026",
     "datum_raw": "2026-11-27T18:00:00+01:00",
@@ -58,6 +48,16 @@
     "link": "https://www.waldbroel.de/veranstaltung/weihnachtsmarkt-3-3/",
     "quelle": "Das Bergische",
     "teaser": "Vom 27. bis einschließlich 29. November läutet der Waldbröler Weihnachtsmarkt die Adventszeit ein. Aufgrund von Bauarbeiten an der neuen Markthalle findet der Weihnachtsmarkt in diesem Jahr nicht auf dem Marktplatz, sond"
+  },
+  {
+    "titel": "Nikolausmarkt am Heimatmuseum Bergneustadt",
+    "datum": "27. Nov 2026",
+    "datum_raw": "2026-11-27T18:00:00+01:00",
+    "ort": "Heimatmuseum Bergneustadt, Wallstraße 1, 51702 Bergneustadt",
+    "preis": "",
+    "link": "http://www.heimatmuseum-bergneustadt.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Der Nikolausmarkt am Heimatmuseum in der historischen Altstadt Bergneustadts, der traditionell am ersten Adventswochenende stattfindet, wird ausschließlich von Neustädter Vereinen, Schulen, Kindergärten, etc. gestaltet. "
   },
   {
     "titel": "Ling´r Winterwald",
@@ -108,6 +108,16 @@
     "link": "http://www.vhs-gm.de/programm/kulturkreativitaet.html?action%5B160%5D=course&courseId=571-C-3384806&filter%5Bq%5D=Pilz&rowIndex=1",
     "quelle": "Das Bergische",
     "teaser": "Pilze werden allgemein fast ausschließlich nach ihrem Speisewert und ihrer Giftigkeit beurteilt. Häufig wird dabei vergessen, dass ein Leben ohne Pilze nicht möglich ist. Aber Pilze lassen sich auch unglaublich kreativ e"
+  },
+  {
+    "titel": "Adventstreff Wipperfürth",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T10:00:00+01:00",
+    "ort": "Marktplatz mit Marktbrunnen, Marktplatz, 51688 Wipperfürth",
+    "preis": "",
+    "link": "http://www.adventstreff-wipp.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Entdecke liebevoll gestaltete Stände, regionale Anbieter, handgemachte Schätze und winterliche Köstlichkeiten. Buntes Programm für Groß und Klein. Samstag um 18 Uhr und Sonntag um 17 Uhr kommt Frau Holle und schüttelt di"
   },
   {
     "titel": "Denklinger Burgweihnacht",
@@ -320,16 +330,6 @@
     "teaser": "Am 5. Dezember wird es weihnachtlich im Ülfetal: Der Nikolaus schaut vorbei und bringt gemütliche Stimmung für Groß und Klein mit. Dazu gibt es leckeren Waffelduft und warme Getränke – perfekt für eine kleine Adventspaus"
   },
   {
-    "titel": "Benefiz Hundeweihnachtsmarkt ",
-    "datum": "5. Dez 2026",
-    "datum_raw": "2026-12-05T11:00:00+01:00",
-    "ort": "Tippe Tappe Pfötchen, Gewerbestr. 2a, 42477 Radevormwald",
-    "preis": "",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Am Samstag, den 05.12.2026, wird es bei uns in Radevormwald richtig weihnachtlich! Von 11:00 bis 17:00 Uhr laden wir euch zu unserem kleinen, gemütlichen Benefiz-Weihnachtsmarkt für Mensch & Hund ein. Freut euch auf eine"
-  },
-  {
     "titel": "Stimmungsvoller Wiehler Weihnachtsmarkt",
     "datum": "5. Dez 2026",
     "datum_raw": "2026-12-05T11:00:00+01:00",
@@ -338,6 +338,16 @@
     "link": "https://www.wiehl.de/aktuelles/veranstaltungskalender/veranstaltung/?id=3377",
     "quelle": "Das Bergische",
     "teaser": "Auf dem Rathausplatz im Zentrum bilden Holzhütten ein eigenes kleines Weihnachtsdorf. Neben Händlerinnen und Händlern sind auch viele Wiehler Vereine mit von der Partie und laden ein zu weihnachtlichen Leckereien. Ein Ki"
+  },
+  {
+    "titel": "Benefiz Hundeweihnachtsmarkt ",
+    "datum": "5. Dez 2026",
+    "datum_raw": "2026-12-05T11:00:00+01:00",
+    "ort": "Tippe Tappe Pfötchen, Gewerbestr. 2a, 42477 Radevormwald",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Am Samstag, den 05.12.2026, wird es bei uns in Radevormwald richtig weihnachtlich! Von 11:00 bis 17:00 Uhr laden wir euch zu unserem kleinen, gemütlichen Benefiz-Weihnachtsmarkt für Mensch & Hund ein. Freut euch auf eine"
   },
   {
     "titel": "Wintermarkt im Dörspetal",
@@ -350,16 +360,6 @@
     "teaser": "Am zweiten Adventswochenende öffnen wir die Türen unseres Wintermarkt im Waldheim Dörspetal. Freuen Sie sich auf Honig, Marmeladen, Schmuck, Keramik, winterliche Dekoration, Holzarbeiten und vieles mehr – liebevoll gefer"
   },
   {
-    "titel": "Nikolausmarkt in Holpe",
-    "datum": "5. Dez 2026",
-    "datum_raw": "2026-12-05T15:00:00+01:00",
-    "ort": "Fritz-Wingen-Platz, 51597 Morsbach",
-    "preis": "",
-    "link": "http://heimatverein-holpe.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Der Nikolausmarkt in Holpe findet, wie immer, am Fritz-Wingen-Platz/Schulhof und im ev. Gemeindehaus statt. Die Bewirtung erfolgt durch die Holper Vereine (Löschgruppe, SG Holpe-Wallerhausen, Heimatverein), sowie Kaffee "
-  },
-  {
     "titel": "Kasperle und die verschwundene Nikolaus-Socke",
     "datum": "5. Dez 2026",
     "datum_raw": "2026-12-05T15:00:00+01:00",
@@ -368,6 +368,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Am Samstag, den 5.12. wird es im Eckenhääner Huus (Reichshofstr. 30, 51580 Reichshof-Eckenhagen) vorweihnachtlich. Zu Gast ist das mobile Puppentheater PuppenSpielZauber mit dem Stück „Kasperle und die verschwundene Niko"
+  },
+  {
+    "titel": "Nikolausmarkt in Holpe",
+    "datum": "5. Dez 2026",
+    "datum_raw": "2026-12-05T15:00:00+01:00",
+    "ort": "Fritz-Wingen-Platz, 51597 Morsbach",
+    "preis": "",
+    "link": "http://heimatverein-holpe.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Der Nikolausmarkt in Holpe findet, wie immer, am Fritz-Wingen-Platz/Schulhof und im ev. Gemeindehaus statt. Die Bewirtung erfolgt durch die Holper Vereine (Löschgruppe, SG Holpe-Wallerhausen, Heimatverein), sowie Kaffee "
   },
   {
     "titel": "5. jecker Weihnachtsmarkt in Morsbach",
