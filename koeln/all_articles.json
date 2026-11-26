@@ -1,5 +1,57 @@
 [
   {
+    "id": "7922758e160d",
+    "title": "Kooperationsprojekt der Offenen Jazzhausschule: Schülerinnen und Schüler erfahren Live-Musik in Nippes",
+    "summary": "Der sechste Jahrgang der Peter-Ustinov-Realschule erlebte bei einem Konzertspaziergang durch Nippes sieben Live-Auftritte an ungewöhnlichen Orten.",
+    "link": "https://www.ksta.de/koeln/nippes/nippes-veedel/konzertspaziergang-peter-ustinov-realschule-erlebt-musik-in-koeln-nippes-1423728",
+    "published": "Thu, 26 Nov 2026 12:00:16 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T12:18:21.753103",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e558b21bf9a9",
+    "title": "Der 1 Day Chor: Wie ein Kölner Chorleiter das Singen wieder cool machen möchte",
+    "summary": "Ein offenes Kölner Chor-Angebot geht erstmals auf Deutschland-Tour. Wie Constantin Gold das Chorsingen wieder cool macht.",
+    "link": "https://www.ksta.de/koeln/der-koelner-1-day-chor-geht-auf-deutschland-tour-1408263",
+    "published": "Thu, 26 Nov 2026 12:00:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T12:18:21.753120",
+    "feed_kommunen": []
+  },
+  {
+    "id": "984f44993751",
+    "title": "Veranstaltung: Wie Sie mit täglich zehn Minuten gesund ins Neue Jahr starten",
+    "summary": "Professor Ingo Froböse erklärt im Kölner Domforum, wie Sie mit kurzen täglichen Routinen Ihre Gesundheit und Energie im neuen Jahr nachhaltig steigern.",
+    "link": "https://www.ksta.de/events/ingo-froboese-mit-zehn-minuten-taeglich-gesund-ins-neue-jahr-1425681",
+    "published": "Thu, 26 Nov 2026 11:54:16 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T12:18:21.753131",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2ade46ce3498",
+    "title": "Angriff in Köln-Nippes: Maskierte Männer verletzen Mann mit Eisenkette schwer",
+    "summary": "In Köln-Nippes haben zwei maskierte Männer einen 49-Jährigen mit einer Eisenkette am Kopf schwer verletzt. Die Kölner Polizei sucht derzeit nach Zeugen.",
+    "link": "https://www.ksta.de/koeln/nippes/nippes-veedel/koeln-nippes-maskierte-maenner-verletzen-mann-mit-eisenkette-1425606",
+    "published": "Thu, 26 Nov 2026 11:28:52 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-26T12:18:21.753140",
+    "feed_kommunen": []
+  },
+  {
     "id": "114e1e57019b",
     "title": "Stress und psychische Belastung: Kopfsachen e. V. macht Workshops zur mentalen Gesundheit an Gesamtschule Holweide",
     "summary": "Das Projekt Mein starkes Selbst unterstützt Jugendliche an der Gesamtschule Holweide dabei, psychische Belastungen vor dem Abitur zu bewältigen.",

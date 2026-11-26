@@ -5213,5 +5213,35 @@
     "feed_kommunen": [
       "wiehl"
     ]
+  },
+  {
+    "id": "244abdfcf858",
+    "title": "Brücke bei Eis und Schnee gesperrt",
+    "summary": "Die Gehwegbrücke in Bielstein zwischen Ortskern und Schulzentrum muss künftig bei Eis und Schnee gesperrt werden: Um das Bauwerk zu schützen, kann dort kein Streusalz eingesetzt werden.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9627-bruecke-bei-eis-und-schnee-gesperrt.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-26T12:17:28.402514",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "e3f9bde90905",
+    "title": "Mordfall in der Postkutsche",
+    "summary": "„Tod in der Postkutsche“ heißt der neueste Kriminalroman der Autorin Christine Thomas. Am 9. Dezember 2026 liest sie daraus in der Stadtbücherei – spannende Unterhaltung garantiert.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9618-mordfall-in-der-postkutsche.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-26T12:17:28.402619",
+    "feed_kommunen": [
+      "wiehl"
+    ]
   }
 ]
