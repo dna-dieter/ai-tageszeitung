@@ -1,5 +1,18 @@
 [
   {
+    "id": "5567d8c00685",
+    "title": "Streusalz-Aus: Schulweg-Brücke in Wiehl bleibt bei Glätte zu",
+    "summary": "Der Landesbetrieb Straßenbau will kein Streusalz einsetzen, um weitere Korrosionsschäden zu vermeiden – bei Glätte bleibt die Brücke zu.",
+    "link": "https://www.ksta.de/region/oberberg/wiehl/wiehl-fussgaengerbruecke-bleibt-bei-glaette-wegen-korrosion-gesperrt-1426618",
+    "published": "Fri, 27 Nov 2026 12:30:13 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-27T13:17:42.315769",
+    "feed_kommunen": []
+  },
+  {
     "id": "f849bf0c3f2f",
     "title": "Bademeister Schaluppke und David Kebekus sorgen für jede Menge Lacher",
     "summary": "Wiehl - Zwei Comedyabende im Bielsteiner Burghaus - Die Künstler hatten ihre aktuellen Programme dabei.",
@@ -1432,7 +1445,8 @@
     "source": "Oberberg-Aktuell",
     "kommunen": [
       "engelskirchen",
-      "wiehl"
+      "wiehl",
+      "gummersbach"
     ],
     "fetched": "2026-11-06T14:17:21.686309",
     "feed_kommunen": []
@@ -5297,6 +5311,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-27T12:17:26.120471",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "abc061671acc",
+    "title": "A 4: Sperrung Richtung Köln dauert länger",
+    "summary": "Die Autobahn GmbH des Bundes geht den nächsten Schritt zum Schutz der Wiehltalbrücke: Derzeit wird auf der A 4 eine Schrankenanlage errichtet, um besonders schwere Lkw vor der Brücke zu stoppen.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9592-a-4-sperrung-richtung-koeln-dauert.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-27T13:17:46.732675",
     "feed_kommunen": [
       "wiehl"
     ]

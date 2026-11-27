@@ -1,5 +1,44 @@
 [
   {
+    "id": "d618f09d8884",
+    "title": "Nümbrechter Heimspiel abgesagt – FVM-Pokal-Auslosung am Montag",
+    "summary": "Nümbrecht – Landesliga-Duell gegen den 1. FC Spich fällt dem Dauerfrost zum Opfer – Hoffen auf das großes Los im Verbandspokal.",
+    "link": "http://www.oberberg-aktuell.de/fussball/n--mbrechter-heimspiel-abgesagt-----fvm-pokal-auslosung-am-montag-a-141063",
+    "published": "Fri, 27 Nov 2026 12:54:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "nuembrecht"
+    ],
+    "fetched": "2026-11-27T13:17:43.701759",
+    "feed_kommunen": []
+  },
+  {
+    "id": "43db57833738",
+    "title": "Grundschule soll zentralisiert werden – Eltern streben Bürgerbegehren dagegen an",
+    "summary": "Morsbach – Einstimmig gab der Rat grünes Licht für eine Zentralisierung der Amitola-Grundschule am Hauptstandort Morsbach – Für die Gebäude in Holpe und Lichtenberg sollen Nachnutzungen gefunden werden – Befürworter der Außenstandorte geben Kampf aber nicht auf.",
+    "link": "http://www.oberberg-aktuell.de/politik/grundschule-soll-zentralisiert-werden-----eltern-streben-buergerbegehren-dagegen-an-a-141059",
+    "published": "Fri, 27 Nov 2026 12:33:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "morsbach"
+    ],
+    "fetched": "2026-11-27T13:17:43.701989",
+    "feed_kommunen": []
+  },
+  {
+    "id": "5567d8c00685",
+    "title": "Streusalz-Aus: Schulweg-Brücke in Wiehl bleibt bei Glätte zu",
+    "summary": "Der Landesbetrieb Straßenbau will kein Streusalz einsetzen, um weitere Korrosionsschäden zu vermeiden – bei Glätte bleibt die Brücke zu.",
+    "link": "https://www.ksta.de/region/oberberg/wiehl/wiehl-fussgaengerbruecke-bleibt-bei-glaette-wegen-korrosion-gesperrt-1426618",
+    "published": "Fri, 27 Nov 2026 12:30:13 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-27T13:17:42.315769",
+    "feed_kommunen": []
+  },
+  {
     "id": "cf45b09244f0",
     "title": "Halbseitige Sperrung der Robert-Bosch- Str.",
     "summary": "Ab Montag, den 30. November wird die Robert-Bosch-Str. bis voraussichtlich zum 18. Dezember halbseitig gesperrt. Dies erfolgt aufgrund von vorbereitenden Tätigkeiten im Rahmen der Baumaßnahme „Fremdwasserbeseitigung Escher Weg“. Die Marktstadt […]",
@@ -25,6 +64,19 @@
       "kreisweite-nachrichten"
     ],
     "fetched": "2026-11-27T12:17:24.183827",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2c2e0400115c",
+    "title": "Neue Elternbetten: Mehr Eltern können nachts bei Kindern bleiben",
+    "summary": "Der Förderverein unterstützt die Kinderklinik Gummersbach mit kleinen und großen Aktionen – zuletzt mit 27 neuen Elternbetten.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/kinderklinik-gummersbach-27-neue-betten-fuer-eltern-1426613",
+    "published": "Fri, 27 Nov 2026 11:54:29 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-27T13:17:42.315906",
     "feed_kommunen": []
   },
   {
@@ -11459,7 +11511,8 @@
     "source": "Oberberg-Aktuell",
     "kommunen": [
       "engelskirchen",
-      "wiehl"
+      "wiehl",
+      "gummersbach"
     ],
     "fetched": "2026-11-06T14:17:21.686309",
     "feed_kommunen": []
@@ -56372,6 +56425,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-27T12:17:26.120471",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "abc061671acc",
+    "title": "A 4: Sperrung Richtung Köln dauert länger",
+    "summary": "Die Autobahn GmbH des Bundes geht den nächsten Schritt zum Schutz der Wiehltalbrücke: Derzeit wird auf der A 4 eine Schrankenanlage errichtet, um besonders schwere Lkw vor der Brücke zu stoppen.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9592-a-4-sperrung-richtung-koeln-dauert.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-27T13:17:46.732675",
     "feed_kommunen": [
       "wiehl"
     ]

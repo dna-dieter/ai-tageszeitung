@@ -1,5 +1,18 @@
 [
   {
+    "id": "2c2e0400115c",
+    "title": "Neue Elternbetten: Mehr Eltern können nachts bei Kindern bleiben",
+    "summary": "Der Förderverein unterstützt die Kinderklinik Gummersbach mit kleinen und großen Aktionen – zuletzt mit 27 neuen Elternbetten.",
+    "link": "https://www.ksta.de/region/oberberg/gummersbach/kinderklinik-gummersbach-27-neue-betten-fuer-eltern-1426613",
+    "published": "Fri, 27 Nov 2026 11:54:29 +0100",
+    "source": "Kölner Stadt-Anzeiger Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-27T13:17:42.315906",
+    "feed_kommunen": []
+  },
+  {
     "id": "ddce7892c4df",
     "title": "Zigarettenautomat in Peisel aufgebrochen",
     "summary": "Gummersbach – Die Täter nahmen sämtliche Zigarettenpackungen mit.",
@@ -2501,6 +2514,21 @@
       "gummersbach"
     ],
     "fetched": "2026-11-06T15:17:14.789224",
+    "feed_kommunen": []
+  },
+  {
+    "id": "3b44c7e37fd9",
+    "title": "Oberberg rüstet sich für die A4-Vollsperrung",
+    "summary": "Oberberg - Die Schrankenanlage auf der A4 wird ab kommenden Montag eingerichtet - Stadt Wiehl und Gemeinde Engelskirchen informieren über die Umleitungsstrecken - Kreis: \"Homeoffice nutzen und Fahrgemeinschaften bilden\" (AKTUALISIERT).",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/schrankenanlage-auf-a---baustart-mit-sperrungen-schon-am-montag-a-139441",
+    "published": "Fri, 06 Nov 2026 13:05:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "engelskirchen",
+      "wiehl",
+      "gummersbach"
+    ],
+    "fetched": "2026-11-06T14:17:21.686309",
     "feed_kommunen": []
   },
   {
