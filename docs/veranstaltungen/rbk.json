@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Refrather Weihnachtsdorf",
-    "datum": "27. Nov 2026",
-    "datum_raw": "2026-11-27T15:00:00+01:00",
-    "ort": "Peter Bürling, Peter-Bürling Platz, 51427 Bergisch Gladbach",
-    "preis": "",
-    "link": "https://www.refrather-weihnachtsdorf.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Vom 16. November bis 23. Dezember 2026 öffnet das Refrather Weihnachtsdorf seine Pforten. Feiern und genießen mitten im Herzen Refraths: Euch erwartet ein stimmungsvoller Markt mit kulinarischen Advents-Klassikern und li"
-  },
-  {
     "titel": "Bensberger Hüttenzauber",
     "datum": "27. Nov 2026",
     "datum_raw": "2026-11-27T17:00:00+01:00",
@@ -98,6 +88,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Unser Weihnachtsmarkt findet in diesem Jahr am 28.11.2026 statt. Auch diesmal öffnen ab 12:00 Uhr wieder viele Austeller, darunter Kunsthandwerker, Kindergärten, Schulen und Vereine sowie einige wenige Gewerbe aus Moitzf"
+  },
+  {
+    "titel": "Refrather Weihnachtsdorf",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T13:00:00+01:00",
+    "ort": "Peter Bürling, Peter-Bürling Platz, 51427 Bergisch Gladbach",
+    "preis": "",
+    "link": "https://www.refrather-weihnachtsdorf.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Vom 16. November bis 23. Dezember 2026 öffnet das Refrather Weihnachtsdorf seine Pforten. Feiern und genießen mitten im Herzen Refraths: Euch erwartet ein stimmungsvoller Markt mit kulinarischen Advents-Klassikern und li"
   },
   {
     "titel": "Indoor Weihnachtsmarkt Dabringhausen",

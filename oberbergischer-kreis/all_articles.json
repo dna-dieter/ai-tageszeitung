@@ -1,5 +1,18 @@
 [
   {
+    "id": "c5f8b62bd402",
+    "title": "Gummersbach: 6. Bundesligasieg in Serie – VfL schlägt Erlangen 28:25",
+    "summary": "Der VfL Gummersbach setzt seine Erfolgsserie fort: Beim 28:25 gegen den HC Erlangen fiel die Entscheidung erst in den letzten Minuten.",
+    "link": "https://www.news-on-tour.de/347133/gummersbach-bundesligasieg-erlangen/",
+    "published": "Fri, 27 Nov 2026 22:04:24 +0000",
+    "source": "NEWS-on-Tour Oberberg",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-27T23:17:39.917070",
+    "feed_kommunen": []
+  },
+  {
     "id": "922e7789df7a",
     "title": "Bürgermeister stellt das neue Seniorenkonzept vor",
     "summary": "Im Februar 2024 hatte der Stadtrat beschlossen, ein neues Konzept zu erstellen. Nun liegt es vor. Rund 1200 Menschen ab 60 Jahren haben mitgemacht.",
@@ -1447,19 +1460,6 @@
       "bergneustadt"
     ],
     "fetched": "2026-11-25T13:17:31.166533",
-    "feed_kommunen": []
-  },
-  {
-    "id": "2d3ac23e4ddf",
-    "title": "Gummersbach: Fünf Siege in Serie – VfL will gegen Erlangen nachlegen",
-    "summary": "Der VfL Gummersbach empfängt am Freitag, 27. November, um 19 Uhr den HC Erlangen. Nach fünf Bundesliga-Siegen soll die Serie halten.",
-    "link": "https://www.news-on-tour.de/346883/gummersbach-siegesserie-erlangen/",
-    "published": "Wed, 25 Nov 2026 12:03:38 +0000",
-    "source": "NEWS-on-Tour Oberberg",
-    "kommunen": [
-      "gummersbach"
-    ],
-    "fetched": "2026-11-25T13:17:31.166720",
     "feed_kommunen": []
   },
   {
