@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Traditions-Weihnachtsmarkt Bergisch Gladbach Stadtmitte",
-    "datum": "27. Nov 2026",
-    "datum_raw": "2026-11-27T11:00:00+01:00",
-    "ort": "Konrad-Adenauer Platz, Konrad-Adenauer Platz 1, 51465 Bergisch Gladbach",
-    "preis": "",
-    "link": "https://www.weihnachtsmarkt-bergischgladbach.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Der Weihnachtsmarkt in Bergisch Gladbach zentral auf dem Konrad-Adenauer-Platz gehört zu den größten im Rheinisch-Bergischen Kreis. Obwohl viele sagen: „Das ist doch jedes Jahr das Gleiche!“ stimmt es in gewisser Weise, "
-  },
-  {
     "titel": "Refrather Weihnachtsdorf",
     "datum": "27. Nov 2026",
     "datum_raw": "2026-11-27T15:00:00+01:00",
@@ -78,6 +68,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Liebevoll geschmückt lädt der Markt zum Bummeln & Schlemmen ein. Händler bieten Glasdesign, Spielzeug, Handwerkskunst & Adventsdeko an, den Gaumen erfreuen Bratäpfel, Gebackenes, Gegrilltes, Gebratenes & winterliche Getr"
+  },
+  {
+    "titel": "Traditions-Weihnachtsmarkt Bergisch Gladbach Stadtmitte",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T11:00:00+01:00",
+    "ort": "Konrad-Adenauer Platz, Konrad-Adenauer Platz 1, 51465 Bergisch Gladbach",
+    "preis": "",
+    "link": "https://www.weihnachtsmarkt-bergischgladbach.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Der Weihnachtsmarkt in Bergisch Gladbach zentral auf dem Konrad-Adenauer-Platz gehört zu den größten im Rheinisch-Bergischen Kreis. Obwohl viele sagen: „Das ist doch jedes Jahr das Gleiche!“ stimmt es in gewisser Weise, "
   },
   {
     "titel": "Weihnachtsmarkt auf Schloss Eulenbroich  ",
