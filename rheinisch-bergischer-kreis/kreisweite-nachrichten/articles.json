@@ -1,5 +1,44 @@
 [
   {
+    "id": "fd92dfbfb1fa",
+    "title": "Erster Advent: Wo im Bergischen gesungen und gebastelt wird",
+    "summary": "Am ersten Adventswochenende gibt es im Bergischen Konzerte, Märkte und Mitmachaktionen – dazu Notdienste und Radarkontrollen im Überblick.",
+    "link": "https://www.ksta.de/region/rhein-berg/erster-advent-im-bergischen-konzerte-maerkte-und-termine-1427001",
+    "published": "Fri, 27 Nov 2026 16:34:07 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-27T20:16:01.959710",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d915d2f4dc3b",
+    "title": "Schuhkarton-Gruß: Gladbacher packen für Kinder in Butscha",
+    "summary": "Der Städtepartnerschaftsverein lädt an zwei Samstagen in die Rhein-Berg-Galerie ein: Hier lassen sich Päckchen für Kinder in Butscha packen.",
+    "link": "https://www.ksta.de/region/rhein-berg/bergisch-gladbach/butscha-hilfe-bergisch-gladbacher-packen-schuhkartons-fuer-kinder-1426986",
+    "published": "Fri, 27 Nov 2026 16:25:50 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-27T20:16:01.960184",
+    "feed_kommunen": []
+  },
+  {
+    "id": "e0c8094f2f9a",
+    "title": "„Wir sind hier“: Zeitung sucht in Rhein-Berg das Gespräch",
+    "summary": "Mit Fotowettbewerb, Wanderungen, Rätsel und Talks lädt die Aktion zum Mitmachen ein, und unsere Reporter suchen vor Ort das Gespräch mit Ihnen.",
+    "link": "https://www.ksta.de/region/rhein-berg/wir-sind-hier-koelner-stadt-anzeiger-sucht-gespraech-in-rhein-berg-1426982",
+    "published": "Fri, 27 Nov 2026 16:24:06 +0100",
+    "source": "Kölner Stadt-Anzeiger Rhein-Berg",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-27T20:16:01.960358",
+    "feed_kommunen": []
+  },
+  {
     "id": "0065df7fc16b",
     "title": "POL-RBK: Rheinisch-Bergischer Kreis - Neue Leiterin der Direktion Verkehr",
     "summary": "Rheinisch-Bergischer Kreis (ots) - Jasmin Epping hat diese Woche (23.11.) die Leitung der Direktion Verkehr der Kreispolizeibehörde Rheinisch-Bergischer Kreis übernommen. Die 48-Jährige ist eine ausgewiesene Expertin im Bereich Verkehr. Die Erste ...",
