@@ -1,5 +1,86 @@
 [
   {
+    "id": "29dcf39058e2",
+    "title": "Große Resonanz auf Aktionstag NEIN zu Gewalt",
+    "summary": "Starkes oberbergisches Netzwerk hat Zeichen gegen Gewalt an Frauen und Mädchen gesetzt Oberbergischer Kreis. „Oberberg sagt NEIN zu Gewalt!“ Anlässlich des Internationalen Tages zur Beseitigung von Gewalt gegen Frauen haben […]",
+    "link": "https://www.waldbroel.de/grosse-resonanz-auf-aktionstag-nein-zu-gewalt/",
+    "published": "Fri, 27 Nov 2026 10:12:03 +0000",
+    "source": "Stadt Waldbröl (offiziell)",
+    "kommunen": [
+      "waldbroel",
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-27T11:17:23.873445",
+    "feed_kommunen": [
+      "waldbroel"
+    ]
+  },
+  {
+    "id": "cedab8acf54a",
+    "title": "„In schwierigen Zeiten ein gutes Ergebnis“",
+    "summary": "Oberberg - Haydar Tokmak, Geschäftsführer der IG Metall Oberberg, ordnet den Tarifabschluss in der Metall- und Elektroindustrie positiv ein.",
+    "link": "http://www.oberberg-aktuell.de/lokalmix/in-schwierigen-zeiten-ein-gutes-ergebnis-a-141050",
+    "published": "Fri, 27 Nov 2026 10:47:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-27T11:17:20.181802",
+    "feed_kommunen": []
+  },
+  {
+    "id": "24aba3274d0f",
+    "title": "Oberberg: Zahl der Arbeitslosen im November leicht gestiegen",
+    "summary": "Oberberg - 8.979 Menschen aus der Region waren im November arbeitslos gemeldet – Regionale Unterschiede.",
+    "link": "http://www.oberberg-aktuell.de/oberbergischer-kreis/oberberg--zahl-der-arbeitslosen-im-november-leicht-gestiegen-a-141049",
+    "published": "Fri, 27 Nov 2026 10:40:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-27T11:17:20.181889",
+    "feed_kommunen": []
+  },
+  {
+    "id": "d76a4fea0ee8",
+    "title": "Falsche Handwerker stehlen Schmuck aus Wohnung",
+    "summary": "Waldbröl – Bewohnerin bemerkte den Diebstahl erst am nächsten Tag.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/falsche-handwerker-stehlen-schmuck-aus-wohnung-a-141048",
+    "published": "Fri, 27 Nov 2026 10:33:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-27T11:17:20.181943",
+    "feed_kommunen": []
+  },
+  {
+    "id": "ddce7892c4df",
+    "title": "Zigarettenautomat in Peisel aufgebrochen",
+    "summary": "Gummersbach – Die Täter nahmen sämtliche Zigarettenpackungen mit.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/zigarettenautomat-in-peisel-aufgebrochen-a-141047",
+    "published": "Fri, 27 Nov 2026 10:26:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-27T11:17:20.181988",
+    "feed_kommunen": []
+  },
+  {
+    "id": "2bbc96696f2f",
+    "title": "Alarmanlage schlägt Einbrecher in die Flucht",
+    "summary": "Lindlar – Unbekannte stiegen in eine Firma in der Gerberstraße ein – Versuchter Einbruch in Kirche.",
+    "link": "http://www.oberberg-aktuell.de/blaulicht/alarmanlage-schl--gt-einbrecher-in-die-flucht-a-141046",
+    "published": "Fri, 27 Nov 2026 10:22:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-27T11:17:20.182051",
+    "feed_kommunen": []
+  },
+  {
     "id": "587cc45aa17c",
     "title": "1000. Geburt im Kreiskrankenhaus Gummersbach",
     "summary": "Gummersbach – Die kleine Isabella ist das 1.000 Baby, das in diesem Jahr im Krankenhaus Gummersbach das Licht der Welt erblickt hat.",
@@ -10,6 +91,45 @@
       "gummersbach"
     ],
     "fetched": "2026-11-27T10:17:27.043665",
+    "feed_kommunen": []
+  },
+  {
+    "id": "4d2b687d6ea2",
+    "title": "POL-GM: Zigarettenautomat in Gummersbach aufgebrochen",
+    "summary": "Gummersbach (ots) - Unbekannte haben am Donnerstag (26. November) einen Zigarettenautomaten in der Gelpestraße in Peisel aufgebrochen und sämtliche Zigaretten gestohlen. Eine Spaziergängerin hatte den Automaten gegen 15 Uhr noch unbeschädigt ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6399031",
+    "published": "Fri, 27 Nov 2026 09:55:11 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "gummersbach"
+    ],
+    "fetched": "2026-11-27T11:17:18.884584",
+    "feed_kommunen": []
+  },
+  {
+    "id": "bbd450d58960",
+    "title": "POL-GM: Einbrecher in Lindlar unterwegs",
+    "summary": "Lindlar (ots) - In Lindlar haben Unbekannte in den vergangenen Tagen versucht, in ein Kirchengebäude in der Kirchstraße einzubrechen. Am späten Donnerstagabend (26. November) drangen zudem zwei Männer in eine Produktionshalle in der ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6399030",
+    "published": "Fri, 27 Nov 2026 09:55:03 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "lindlar"
+    ],
+    "fetched": "2026-11-27T11:17:18.884714",
+    "feed_kommunen": []
+  },
+  {
+    "id": "31a4a53e2c3b",
+    "title": "POL-GM: Falsche Handwerker stehlen Schmuck aus Wohnung",
+    "summary": "Waldbröl (ots) - Zwei bislang unbekannte Männer haben am Mittwoch (25. November) in Waldbröl Schmuck aus einer Wohnung gestohlen. Sie hatten sich als Mitarbeiter einer Firma ausgegeben und sich so Zutritt zu der Wohnung verschafft. Gegen 11:30 ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/65843/6399029",
+    "published": "Fri, 27 Nov 2026 09:55:00 +0100",
+    "source": "Presseportal Polizei OBK",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-27T11:17:18.884851",
     "feed_kommunen": []
   },
   {
@@ -37,21 +157,6 @@
     ],
     "fetched": "2026-11-27T08:17:17.528991",
     "feed_kommunen": []
-  },
-  {
-    "id": "cea9de8c4fe5",
-    "title": "Große Resonanz auf Aktionstag NEIN zu Gewalt",
-    "summary": "Starkes oberbergisches Netzwerk hat Zeichen gegen Gewalt an Frauen und Mädchen gesetzt",
-    "link": "https://www.hueckeswagen.de/portal/meldungen/grosse-resonanz-auf-aktionstag-nein-zu-gewalt-900000752-37660.html?rubrik=900000003",
-    "published": "Fri, 27 Nov 2026 07:28:00 +0100",
-    "source": "Schloss-Stadt Hückeswagen (offiziell)",
-    "kommunen": [
-      "hueckeswagen"
-    ],
-    "fetched": "2026-11-27T08:17:23.070154",
-    "feed_kommunen": [
-      "hueckeswagen"
-    ]
   },
   {
     "id": "529a7b915836",
