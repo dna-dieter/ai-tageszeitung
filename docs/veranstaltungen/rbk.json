@@ -1,15 +1,5 @@
 [
   {
-    "titel": "„Femme fatale“ mit dem Cirque Buffon",
-    "datum": "26. Nov 2026",
-    "datum_raw": "2026-11-26T19:00:00+01:00",
-    "ort": "Hotel-Restaurant Wißkirchen, Am Rösberg 2, 51519 Odenthal",
-    "preis": "",
-    "link": "https://www.hotel-wisskirchen.de/das-spiegelzelt-in-altenberg/",
-    "quelle": "Das Bergische",
-    "teaser": "Der Cirque Bouffon gastiert zum 6. Mal mit einer faszinierenden Dinner-Show \"Femme fatale\" im nostalgischen Spiegelzelt in Altenberg. Das internationale Künstlerensemble des Cirque Bouffon verzaubert sein Publikum im Sti"
-  },
-  {
     "titel": "Traditions-Weihnachtsmarkt Bergisch Gladbach Stadtmitte",
     "datum": "27. Nov 2026",
     "datum_raw": "2026-11-27T11:00:00+01:00",
@@ -58,6 +48,16 @@
     "link": "http://www.dasbergische.de/",
     "quelle": "Das Bergische",
     "teaser": "Vom 27.-29.11.2026 findet auf der Karlheinz-Stockhausen-Platz wieder der alljährlicher Weihnachtsmarkt statt. Auch in diesem Jahr gibt es zahlreiche Aussteller, die das ganze Jahr gebastelt und gewerkelt haben und für ei"
+  },
+  {
+    "titel": "„Femme fatale“ mit dem Cirque Buffon",
+    "datum": "27. Nov 2026",
+    "datum_raw": "2026-11-27T19:00:00+01:00",
+    "ort": "Hotel-Restaurant Wißkirchen, Am Rösberg 2, 51519 Odenthal",
+    "preis": "",
+    "link": "https://www.hotel-wisskirchen.de/das-spiegelzelt-in-altenberg/",
+    "quelle": "Das Bergische",
+    "teaser": "Der Cirque Bouffon gastiert zum 6. Mal mit einer faszinierenden Dinner-Show \"Femme fatale\" im nostalgischen Spiegelzelt in Altenberg. Das internationale Künstlerensemble des Cirque Bouffon verzaubert sein Publikum im Sti"
   },
   {
     "titel": "Wilfried Schmickler: \"Der tut's noch\"",
