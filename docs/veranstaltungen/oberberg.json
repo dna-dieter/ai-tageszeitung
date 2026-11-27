@@ -30,6 +30,16 @@
     "teaser": "Wenn es draußen dunkel wird schalten wir die Taschenlampen an und gehen auf Entdeckungstour durchs dunkle Schloss und die große PLAYMOBIL Ausstellung. Warum waren die Betten früher eigentlich so klein? Ist es gemütlich i"
   },
   {
+    "titel": "Manufaktur Winterland",
+    "datum": "27. Nov 2026",
+    "datum_raw": "2026-11-27T17:30:00+01:00",
+    "ort": "ManuFaktur - Das Restaurant, Hauptstraße 42, 51588 Nümbrecht",
+    "preis": "",
+    "link": "https://manufaktur-das-restaurant.de/winterland-weihnachtsmarkt-nuembrecht/",
+    "quelle": "Das Bergische",
+    "teaser": "Endlich ist es soweit! Das ManuFaktur Winterland ist zurück! Der kleine aber feine Weihnachtsmarkt in Nümbrecht ist wieder da! Es gibt heißen Glühwein, Punsch und Hot Aperol zum Wärmen. Bei gemütlicher Atmosphäre läuten "
+  },
+  {
     "titel": "Weihnachtsmarkt Waldbröl",
     "datum": "27. Nov 2026",
     "datum_raw": "2026-11-27T18:00:00+01:00",
@@ -428,6 +438,16 @@
     "link": "https://www.achseradwagen.de/index.php?id=3",
     "quelle": "Das Bergische",
     "teaser": "Im Museum findet eine Schmiedevorführung statt."
+  },
+  {
+    "titel": "Familienkonzert zum Mitsingen in Eckenhagen",
+    "datum": "6. Dez 2026",
+    "datum_raw": "2026-12-06T17:00:00+01:00",
+    "ort": "Ev. Barockkirche Eckenhagen, Kirchbergstraße 4, 51580 Reichshof",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Am 6. Dezember 2026 laden die Kur- & Touristinfo Reichshof, das Kammerorchester des Kulturtreff Waldbröl und die Evangelische Jugend der Kirchengemeinde um 17:00 Uhr in die Evangelische Barockkirche Eckenhagen zum advent"
   },
   {
     "titel": "Heimsuchung (Abiturstück) nach Jenny Erpenbeck",

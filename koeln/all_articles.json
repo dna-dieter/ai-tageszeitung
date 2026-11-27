@@ -1,5 +1,57 @@
 [
   {
+    "id": "6c0560b7fd62",
+    "title": "So können Sie helfen!: Hier werden Spenden für Obdachlose in Köln gebraucht",
+    "summary": "Obdachlose Menschen benötigen im Winter dringend Unterstützung. Hier finden Sie Kölner Anlaufstellen für Sach- und Geldspenden.",
+    "link": "https://www.ksta.de/koeln/spenden-fuer-obdachlose-liste-von-anlaufstellen-in-koeln-1426672",
+    "published": "Fri, 27 Nov 2026 16:05:43 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-27T16:18:27.552087",
+    "feed_kommunen": []
+  },
+  {
+    "id": "8e75d0a727d3",
+    "title": "Anschlag auf Kölner Synagoge geplant: Terrorverdächtiger war ausreisepflichtig",
+    "summary": "Ein mutmaßlicher Terrorist, der einen Anschlag auf die Kölner Synagoge plante, war trotz Ausreisepflicht in Deutschland geduldet.",
+    "link": "https://www.ksta.de/koeln/nippes/niehl/anschlag-auf-koelner-synagoge-terrorverdaechtiger-war-ausreisepflichtig-1426952",
+    "published": "Fri, 27 Nov 2026 16:04:11 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-27T16:18:27.552109",
+    "feed_kommunen": []
+  },
+  {
+    "id": "38eea926eb8d",
+    "title": "Köln-Marathon am 3. Oktober 2027: Startplätze für Halbmarathon heiß begehrt",
+    "summary": "Die Startplätze für den Halbmarathon beim Köln-Marathon 2027 sind fast vergriffen. Nach nur 48 Stunden sind bereits 16.000 Anmeldungen eingegangen.",
+    "link": "https://www.ksta.de/koeln/koeln-marathon-am-3-oktober-2027-startplaetze-fuer-halbmarathon-heiss-begehrt-1426461",
+    "published": "Fri, 27 Nov 2026 15:24:34 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-27T16:18:27.552122",
+    "feed_kommunen": []
+  },
+  {
+    "id": "422b4aede4fa",
+    "title": "100-Millionen-Euro-Museum: Köln bekommt ein neues Wahrzeichen",
+    "summary": "Das Sammler-Ehepaar von Storch plant ein privat finanziertes Kunstmuseum am Deutzer Hafen, das 2031 als neues Wahrzeichen Kölns eröffnen soll.",
+    "link": "https://www.ksta.de/koeln/koelner-innenstadt/deutz/100-millionen-euro-museum-koeln-bekommt-ein-neues-wahrzeichen-1426792",
+    "published": "Fri, 27 Nov 2026 15:16:15 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-27T16:18:27.552135",
+    "feed_kommunen": []
+  },
+  {
     "id": "3a51b6386cf7",
     "title": "Baby schwer geschüttelt: Kölner Vater legt Geständnis ab – Anklägerin fordert Haft",
     "summary": "Vor dem Kölner Landgericht hat ein Vater gestanden, sein Baby vor Jahren geschüttelt zu haben. Die Staatsanwaltschaft fordert eine Haftstrafe.",
