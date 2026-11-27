@@ -759,6 +759,17 @@
     "teaser": "Vier Termine:, 10:00 bis 10:30 Uhr, 10:30 bis 11:00 Uhr, 11:00 bis 11:30 Uhr, 11:30 bis 12:00 Uhr · Persönliche Beratung zu Onleihe-Problemen. Im Rahmen der Reihe Digitale Werkstatt in der Stadtteilbibliothek Porz."
   },
   {
+    "titel": "Antoni Gaudí in der Kulturkirche St. Gertrud",
+    "datum": "4. Dez 2026",
+    "datum_raw": "2026-12-04T00:00:00",
+    "datum_bis": "6. Jan 2027",
+    "ort": "Sankt Gertrud, Neustadt/Nord",
+    "preis": "Eintritt ist frei",
+    "link": "https://www.stadt-koeln.de/leben-in-koeln/veranstaltungen/daten/41806/index.html",
+    "quelle": "Stadt Köln (Open Data)",
+    "teaser": "Donnerstags bis Sonntags: 10 bis 18 Uhr · Großformatige Fotoausstellung macht Casa Batlló in Köln erlebbar"
+  },
+  {
     "titel": "Steno: Ohne Kohle schneller schreiben",
     "datum": "5. Dez 2026",
     "datum_raw": "2026-12-05T00:00:00",

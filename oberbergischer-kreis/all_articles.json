@@ -1,5 +1,33 @@
 [
   {
+    "id": "cf45b09244f0",
+    "title": "Halbseitige Sperrung der Robert-Bosch- Str.",
+    "summary": "Ab Montag, den 30. November wird die Robert-Bosch-Str. bis voraussichtlich zum 18. Dezember halbseitig gesperrt. Dies erfolgt aufgrund von vorbereitenden Tätigkeiten im Rahmen der Baumaßnahme „Fremdwasserbeseitigung Escher Weg“. Die Marktstadt […]",
+    "link": "https://www.waldbroel.de/halbseitige-sperrung-der-robert-bosch-str/",
+    "published": "Fri, 27 Nov 2026 11:10:37 +0000",
+    "source": "Stadt Waldbröl (offiziell)",
+    "kommunen": [
+      "waldbroel"
+    ],
+    "fetched": "2026-11-27T12:17:27.002013",
+    "feed_kommunen": [
+      "waldbroel"
+    ]
+  },
+  {
+    "id": "02107f96b13c",
+    "title": "„Unparteiisch – Mission Kreisliga“: Schiris aus dem Kreis Berg mit eigener Doku-Reihe",
+    "summary": "Oberberg – Der Kreisschiedsrichterausschuss hat ein besonderes Projekt gestartet – Mit einer eigenproduzierten Dokumentation sollen authentische Einblicke in den Alltag der hiesigen Unparteiischen gegeben werden.",
+    "link": "http://www.oberberg-aktuell.de/fussball/---unparteiisch-----mission-kreisliga-----schiris-aus-dem-kreis-berg-mit-eigener-doku-reihe-a-141058",
+    "published": "Fri, 27 Nov 2026 12:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-27T12:17:24.183827",
+    "feed_kommunen": []
+  },
+  {
     "id": "29dcf39058e2",
     "title": "Große Resonanz auf Aktionstag NEIN zu Gewalt",
     "summary": "Starkes oberbergisches Netzwerk hat Zeichen gegen Gewalt an Frauen und Mädchen gesetzt Oberbergischer Kreis. „Oberberg sagt NEIN zu Gewalt!“ Anlässlich des Internationalen Tages zur Beseitigung von Gewalt gegen Frauen haben […]",
@@ -56329,6 +56357,21 @@
       "wiehl"
     ],
     "fetched": "2026-11-26T13:18:03.706981",
+    "feed_kommunen": [
+      "wiehl"
+    ]
+  },
+  {
+    "id": "56efe7621f84",
+    "title": "Demokratie lernen am konkreten Projekt",
+    "summary": "Die Kooperation zwischen Dietrich-Bonhoeffer-Gymnasium und Stadt Wiehl in Sachen Demokratiebildung ist in die zweite Runde gegangen: mit einer fiktiven Bürgerversammlung.",
+    "link": "https://www.wiehl.de/aktuelles/nachrichten/9629-demokratie-lernen-am-konkreten-projekt.html",
+    "published": "",
+    "source": "Stadt Wiehl (offiziell)",
+    "kommunen": [
+      "wiehl"
+    ],
+    "fetched": "2026-11-27T12:17:26.120471",
     "feed_kommunen": [
       "wiehl"
     ]

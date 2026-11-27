@@ -1,5 +1,18 @@
 [
   {
+    "id": "b5f03a22d0b0",
+    "title": "POL-RBK: Burscheid - Unbekannte Täter auf Einbruchstour",
+    "summary": "Burscheid (ots) - Am Donnerstag (26.11) beschäftigten zwei Einbruchsdelikte die Polizei in Burscheid. In einem Fall drangen bislang unbekannte Täter in eine Wohnung ein und entwendeten Bargeld sowie Schmuck. Bei einem weiteren Vorfall versuchten ...",
+    "link": "https://www.presseportal.de/blaulicht/pm/62459/6399132",
+    "published": "Fri, 27 Nov 2026 10:47:01 +0100",
+    "source": "Presseportal Polizei RBK",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-27T12:16:06.647170",
+    "feed_kommunen": []
+  },
+  {
     "id": "9d1904a8b4d1",
     "title": "Kleine Künstler – große Kunst",
     "summary": "Ausstellungseröffnung in der Stadtbücherei Burscheid",
@@ -10,6 +23,21 @@
       "burscheid"
     ],
     "fetched": "2026-11-27T10:16:04.458066",
+    "feed_kommunen": [
+      "burscheid"
+    ]
+  },
+  {
+    "id": "60019cb92938",
+    "title": "Weihnachtsbaum schmüchen in der Kirchenkurve",
+    "summary": "Kinder von Hilgener Tagespflegen basteln Baumschmuck",
+    "link": "https://www.burscheid.de/portal/meldungen/weihnachtsbaum-schmuechen-in-der-kirchenkurve-900000742-40230.html?rubrik=900000001",
+    "published": "Fri, 27 Nov 2026 09:04:00 +0100",
+    "source": "Stadt Burscheid (offiziell)",
+    "kommunen": [
+      "burscheid"
+    ],
+    "fetched": "2026-11-27T12:16:10.160648",
     "feed_kommunen": [
       "burscheid"
     ]
