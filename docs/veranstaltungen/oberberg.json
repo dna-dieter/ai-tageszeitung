@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Nachts im Museum",
-    "datum": "27. Nov 2026",
-    "datum_raw": "2026-11-27T17:00:00+01:00",
-    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
-    "preis": "ab 6 €",
-    "link": "http://www.schloss-homburg.de/cms200schloss/veranstaltung/374159/index.shtml.de",
-    "quelle": "Das Bergische",
-    "teaser": "Wenn es draußen dunkel wird schalten wir die Taschenlampen an und gehen auf Entdeckungstour durchs dunkle Schloss und die große PLAYMOBIL Ausstellung. Warum waren die Betten früher eigentlich so klein? Ist es gemütlich i"
-  },
-  {
     "titel": "Manufaktur Winterland",
     "datum": "27. Nov 2026",
     "datum_raw": "2026-11-27T17:30:00+01:00",
@@ -48,16 +38,6 @@
     "link": "http://www.heimatmuseum-bergneustadt.de/",
     "quelle": "Das Bergische",
     "teaser": "Der Nikolausmarkt am Heimatmuseum in der historischen Altstadt Bergneustadts, der traditionell am ersten Adventswochenende stattfindet, wird ausschließlich von Neustädter Vereinen, Schulen, Kindergärten, etc. gestaltet. "
-  },
-  {
-    "titel": "Prof. Dr. Dr. Wolf-Ulrich Klünker: Sich miterlebt erleben. Die Beziehung zum Engel psychologisch und existentiell. ",
-    "datum": "27. Nov 2026",
-    "datum_raw": "2026-11-27T19:00:00+01:00",
-    "ort": "Engel-Museum, Engels-Platz 7, 51766 Engelskirchen",
-    "preis": "ab 9 €",
-    "link": "https://engel-museum.de/aktuelle-veranstaltungen/",
-    "quelle": "Das Bergische",
-    "teaser": ""
   },
   {
     "titel": "Der Wald im Wandel der Jahreszeiten - Klein und groß erleben gemeinsam den Wald",
