@@ -1,5 +1,57 @@
 [
   {
+    "id": "564bbce9e666",
+    "title": "Polizei sucht Hinweise: Notbremsung – acht Fahrgäste in KVB‑Bahn verletzt",
+    "summary": "Nach der Notbremsung einer KVB-Bahn der Linie 4 in Köln wurden acht Fahrgäste verletzt. Ein Fußgänger lief über die Gleise und flüchtete. Die Polizei sucht Zeugen.",
+    "link": "https://www.ksta.de/koeln/koelner-innenstadt/deutz/kvb-bahn-in-koeln-acht-verletzte-nach-notbremsung-1426866",
+    "published": "Fri, 27 Nov 2026 16:38:56 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-27T17:18:51.625469",
+    "feed_kommunen": []
+  },
+  {
+    "id": "daa876d7357a",
+    "title": "Brandsätze und Stein geworfen: Zwei Angriffe auf Eventlocation in Ossendorf",
+    "summary": "Unbekannte haben innerhalb weniger Tage zwei Anschläge auf eine Eventlocation in Köln-Ossendorf verübt. Die Polizei ermittelt zu den Hintergründen.",
+    "link": "https://www.ksta.de/koeln/ehrenfeld/ossendorf/brandsaetze-und-stein-geworfen-zwei-angriffe-auf-eventlocation-in-ossendorf-1426919",
+    "published": "Fri, 27 Nov 2026 16:22:31 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-27T17:18:51.625492",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6e0f010a2b8a",
+    "title": "Hanna Nagel in Köln: Den Ehemann locker vom Sockel geschossen",
+    "summary": "Das Kollwitz Museum zeigt die kämpferischen Werke von Hanna Nagel, die in den 1920er Jahren schonungslos Sexismus und Rollenbilder kritisierte.",
+    "link": "https://www.ksta.de/kultur-medien/hanna-nagel-im-kollwitz-museum-koeln-wiederentdeckung-einer-pionierin-1426091",
+    "published": "Fri, 27 Nov 2026 16:17:01 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-27T17:18:51.625507",
+    "feed_kommunen": []
+  },
+  {
+    "id": "fef506696a3f",
+    "title": "Nach Anschlagsplänen auf Synagoge: Kölner Vereine bekunden Solidarität für Jüdische Gemeinde",
+    "summary": "Nach vereitelten Anschlagsplänen auf die Kölner Synagoge fordern zahlreiche Vereine ein entschlosseneres Vorgehen gegen Antisemitismus.",
+    "link": "https://www.ksta.de/koeln/koelner-vereine-zeigen-solidaritaet-mit-der-juedischen-gemeinde-1426855",
+    "published": "Fri, 27 Nov 2026 16:16:43 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-27T17:18:51.625520",
+    "feed_kommunen": []
+  },
+  {
     "id": "6c0560b7fd62",
     "title": "So können Sie helfen!: Hier werden Spenden für Obdachlose in Köln gebraucht",
     "summary": "Obdachlose Menschen benötigen im Winter dringend Unterstützung. Hier finden Sie Kölner Anlaufstellen für Sach- und Geldspenden.",
