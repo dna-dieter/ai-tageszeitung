@@ -110,16 +110,6 @@
     "teaser": "Der 38. Indoor-Weihnachtsmarkt findet unter dem gewohnten Dach der Dabringhausener Mehrzweckhalle statt. Samstag, den 29.11.2025 von 14:00 h bis 19:00 h Sonntag, den 30.11.2025 von 10:00 h bis 18:00 h Von den 60 Ausstell"
   },
   {
-    "titel": "Weihnachtsbasar im GFO Hospiz Vinzenz Pallotti Bensberg",
-    "datum": "28. Nov 2026",
-    "datum_raw": "2026-11-28T15:00:00+01:00",
-    "ort": "GFO Hospiz Vinzenz Pallotti Bensberg, Vinzenz-Pallotti-Straße 20, 51429 Bergisch Gladbach",
-    "preis": "",
-    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
-    "quelle": "Das Bergische",
-    "teaser": "Alle Jahre wieder, laden wir herzlich dazu ein, die Adventszeit mit uns zu begrüßen! Klaviermusik und Chorgesang schallen durch die Flure. Für die Feinschmecker bereiten wir Herzhaftes vom Grill und aus der Fritteuse sow"
-  },
-  {
     "titel": "Weihnachtsmarkt: Ä Tännschen please!",
     "datum": "28. Nov 2026",
     "datum_raw": "2026-11-28T15:00:00+01:00",
@@ -128,6 +118,16 @@
     "link": "https://weihnachtsmarkt-burscheid.de/",
     "quelle": "Das Bergische",
     "teaser": "Glühwein, frische Quarkbällchen, heiße Rostbratwurst, knisterndes Feuer und der Duft von Tannengrün. Tief einatmen und bei weihnachtlicher Atmosphäre Schlürfen, schlemmen und abschalten. Freut Euch auf ausgewählte Ausste"
+  },
+  {
+    "titel": "Weihnachtsbasar im GFO Hospiz Vinzenz Pallotti Bensberg",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T15:00:00+01:00",
+    "ort": "GFO Hospiz Vinzenz Pallotti Bensberg, Vinzenz-Pallotti-Straße 20, 51429 Bergisch Gladbach",
+    "preis": "",
+    "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
+    "quelle": "Das Bergische",
+    "teaser": "Alle Jahre wieder, laden wir herzlich dazu ein, die Adventszeit mit uns zu begrüßen! Klaviermusik und Chorgesang schallen durch die Flure. Für die Feinschmecker bereiten wir Herzhaftes vom Grill und aus der Fritteuse sow"
   },
   {
     "titel": "Adventsbasar in Odenthal-Klasmühle: Ein lohnendes Ziel für Ausflügler und Genießer",
