@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Weihnachtsmarkt in Kürten",
-    "datum": "27. Nov 2026",
-    "datum_raw": "2026-11-27T18:00:00+01:00",
-    "ort": "Rathaus, Karlheinz-Stockhausenplatz 1, 51515 Kürten",
-    "preis": "",
-    "link": "http://www.dasbergische.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Vom 27.-29.11.2026 findet auf der Karlheinz-Stockhausen-Platz wieder der alljährlicher Weihnachtsmarkt statt. Auch in diesem Jahr gibt es zahlreiche Aussteller, die das ganze Jahr gebastelt und gewerkelt haben und für ei"
-  },
-  {
     "titel": "„Femme fatale“ mit dem Cirque Buffon",
     "datum": "27. Nov 2026",
     "datum_raw": "2026-11-27T19:00:00+01:00",
@@ -78,6 +68,16 @@
     "link": "https://www.refrather-weihnachtsdorf.de/",
     "quelle": "Das Bergische",
     "teaser": "Vom 16. November bis 23. Dezember 2026 öffnet das Refrather Weihnachtsdorf seine Pforten. Feiern und genießen mitten im Herzen Refraths: Euch erwartet ein stimmungsvoller Markt mit kulinarischen Advents-Klassikern und li"
+  },
+  {
+    "titel": "Weihnachtsmarkt in Kürten",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T14:00:00+01:00",
+    "ort": "Rathaus, Karlheinz-Stockhausenplatz 1, 51515 Kürten",
+    "preis": "",
+    "link": "http://www.dasbergische.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Vom 27.-29.11.2026 findet auf der Karlheinz-Stockhausen-Platz wieder der alljährlicher Weihnachtsmarkt statt. Auch in diesem Jahr gibt es zahlreiche Aussteller, die das ganze Jahr gebastelt und gewerkelt haben und für ei"
   },
   {
     "titel": "Indoor Weihnachtsmarkt Dabringhausen",

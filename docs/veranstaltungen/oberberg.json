@@ -1,45 +1,5 @@
 [
   {
-    "titel": "Manufaktur Winterland",
-    "datum": "27. Nov 2026",
-    "datum_raw": "2026-11-27T17:30:00+01:00",
-    "ort": "ManuFaktur - Das Restaurant, Hauptstraße 42, 51588 Nümbrecht",
-    "preis": "",
-    "link": "https://manufaktur-das-restaurant.de/winterland-weihnachtsmarkt-nuembrecht/",
-    "quelle": "Das Bergische",
-    "teaser": "Endlich ist es soweit! Das ManuFaktur Winterland ist zurück! Der kleine aber feine Weihnachtsmarkt in Nümbrecht ist wieder da! Es gibt heißen Glühwein, Punsch und Hot Aperol zum Wärmen. Bei gemütlicher Atmosphäre läuten "
-  },
-  {
-    "titel": "Weihnachtsmarkt Waldbröl",
-    "datum": "27. Nov 2026",
-    "datum_raw": "2026-11-27T18:00:00+01:00",
-    "ort": "City Park am Merkurareal, Droste-Hülshoff-Strasse, 51545 Waldbröl",
-    "preis": "",
-    "link": "https://www.waldbroel.de/veranstaltung/weihnachtsmarkt-3-3/",
-    "quelle": "Das Bergische",
-    "teaser": "Vom 27. bis einschließlich 29. November läutet der Waldbröler Weihnachtsmarkt die Adventszeit ein. Aufgrund von Bauarbeiten an der neuen Markthalle findet der Weihnachtsmarkt in diesem Jahr nicht auf dem Marktplatz, sond"
-  },
-  {
-    "titel": "Ling´r Winterwald",
-    "datum": "27. Nov 2026",
-    "datum_raw": "2026-11-27T18:00:00+01:00",
-    "ort": "Sportplatz Linde, Frangenberg 44, 51789 Lindlar",
-    "preis": "",
-    "link": "https://www.lindlar.de/tourismus-und-freizeit/aktuelles-und-termine/veranstaltungen/detail/6524.html",
-    "quelle": "Das Bergische",
-    "teaser": "5 Jahre Ling'r Winterwald Weihnachtsmarkt Freitag 27.11.2026 ab 18:00 Uhr Anleuchten an der Grillhütte Feuerzangenbowle und frische Wildwurst Samstag 28.11.2026 ab 14:00 Uhr Sonntag 29.11.2026 ab 11:00 Uhr Wild und Kunst"
-  },
-  {
-    "titel": "Nikolausmarkt am Heimatmuseum Bergneustadt",
-    "datum": "27. Nov 2026",
-    "datum_raw": "2026-11-27T18:00:00+01:00",
-    "ort": "Heimatmuseum Bergneustadt, Wallstraße 1, 51702 Bergneustadt",
-    "preis": "",
-    "link": "http://www.heimatmuseum-bergneustadt.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Der Nikolausmarkt am Heimatmuseum in der historischen Altstadt Bergneustadts, der traditionell am ersten Adventswochenende stattfindet, wird ausschließlich von Neustädter Vereinen, Schulen, Kindergärten, etc. gestaltet. "
-  },
-  {
     "titel": "Der Wald im Wandel der Jahreszeiten - Klein und groß erleben gemeinsam den Wald",
     "datum": "28. Nov 2026",
     "datum_raw": "2026-11-28T09:30:00+01:00",
@@ -100,6 +60,16 @@
     "teaser": "Seid zu Gast in unserer unnachahmlichen Weihnachtswelt und genieße eine Stimmung wie sie es früher und nicht nur im Märchen einmal gab. Vom 12.11.26 bis zum 23.12.26 tauchen wir das Herz der Gummersbacher Steinmülleralle"
   },
   {
+    "titel": "Weihnachtsmarkt Waldbröl",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T12:00:00+01:00",
+    "ort": "City Park am Merkurareal, Droste-Hülshoff-Strasse, 51545 Waldbröl",
+    "preis": "",
+    "link": "https://www.waldbroel.de/veranstaltung/weihnachtsmarkt-3-3/",
+    "quelle": "Das Bergische",
+    "teaser": "Vom 27. bis einschließlich 29. November läutet der Waldbröler Weihnachtsmarkt die Adventszeit ein. Aufgrund von Bauarbeiten an der neuen Markthalle findet der Weihnachtsmarkt in diesem Jahr nicht auf dem Marktplatz, sond"
+  },
+  {
     "titel": "Denklinger Burgweihnacht",
     "datum": "28. Nov 2026",
     "datum_raw": "2026-11-28T13:00:00+01:00",
@@ -130,6 +100,16 @@
     "teaser": "Jeanette de Payebrune Malerei Eröffnung: 08.11.2026, 15:00 Uhr, Haus der Kunst Öffnungszeiten: donnerstags: 16:00-18:00 Uhr samstags und sonntags: 14:00-17:00 Uhr Veranstalter: Kunstverein Nümbrecht e.V. Veranstaltungsor"
   },
   {
+    "titel": "Ling´r Winterwald",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T14:00:00+01:00",
+    "ort": "Sportplatz Linde, Frangenberg 44, 51789 Lindlar",
+    "preis": "",
+    "link": "https://www.lindlar.de/tourismus-und-freizeit/aktuelles-und-termine/veranstaltungen/detail/6524.html",
+    "quelle": "Das Bergische",
+    "teaser": "5 Jahre Ling'r Winterwald Weihnachtsmarkt Freitag 27.11.2026 ab 18:00 Uhr Anleuchten an der Grillhütte Feuerzangenbowle und frische Wildwurst Samstag 28.11.2026 ab 14:00 Uhr Sonntag 29.11.2026 ab 11:00 Uhr Wild und Kunst"
+  },
+  {
     "titel": "Weihnachtsmarkt Gimborn",
     "datum": "28. Nov 2026",
     "datum_raw": "2026-11-28T14:00:00+01:00",
@@ -148,6 +128,26 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Die Vereine und Institutionen aus Marienhagen/Pergenroth laden wieder zum gemeinsamen Start in die Weihnachtszeit auf dem Dorfplatz ein. Zahlreiche lokale Kunsthandwerker bieten ihre Waren an und mit einem abwechslungsre"
+  },
+  {
+    "titel": "Manufaktur Winterland",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T15:00:00+01:00",
+    "ort": "ManuFaktur - Das Restaurant, Hauptstraße 42, 51588 Nümbrecht",
+    "preis": "",
+    "link": "https://manufaktur-das-restaurant.de/winterland-weihnachtsmarkt-nuembrecht/",
+    "quelle": "Das Bergische",
+    "teaser": "Endlich ist es soweit! Das ManuFaktur Winterland ist zurück! Der kleine aber feine Weihnachtsmarkt in Nümbrecht ist wieder da! Es gibt heißen Glühwein, Punsch und Hot Aperol zum Wärmen. Bei gemütlicher Atmosphäre läuten "
+  },
+  {
+    "titel": "Nikolausmarkt am Heimatmuseum Bergneustadt",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T15:00:00+01:00",
+    "ort": "Heimatmuseum Bergneustadt, Wallstraße 1, 51702 Bergneustadt",
+    "preis": "",
+    "link": "http://www.heimatmuseum-bergneustadt.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Der Nikolausmarkt am Heimatmuseum in der historischen Altstadt Bergneustadts, der traditionell am ersten Adventswochenende stattfindet, wird ausschließlich von Neustädter Vereinen, Schulen, Kindergärten, etc. gestaltet. "
   },
   {
     "titel": "Winterfest \"Rund um die Bonte Kerke\"",
