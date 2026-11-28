@@ -1,25 +1,5 @@
 [
   {
-    "titel": "Bensberger Hüttenzauber",
-    "datum": "27. Nov 2026",
-    "datum_raw": "2026-11-27T17:00:00+01:00",
-    "ort": "Schlossstraße, 51429 Bergisch Gladbach",
-    "preis": "",
-    "link": "https://www.facebook.com/bensbergerhuettenzauber/?locale=de_DE",
-    "quelle": "Das Bergische",
-    "teaser": "Der „Bensberger Hüttenzauber“ verlängert die festliche Stimmung über die Weihnachtstage hinaus. Bis zum 30. Dezember erwartet die Gäste ein abwechslungsreiches Programm mit Live-Musik und kulinarischen Themenabenden. Auf"
-  },
-  {
-    "titel": "Glühweinfest in Odenthal-Holz",
-    "datum": "27. Nov 2026",
-    "datum_raw": "2026-11-27T17:00:00+01:00",
-    "ort": "Restaurant Cramer Stuben, Bergstraße 165, 51519 Odenthal",
-    "preis": "",
-    "link": "https://www.facebook.com/events/1145594298046900/1145594301380233/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22attachment%22%2C%22surface%22%3A%22newsfeed%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-    "quelle": "Das Bergische",
-    "teaser": "Auch in diesem Jahr gibt es im Biergarten der Gaststätte Cramer Stuben wieder ein gemütliches Glühweinfest. Es gibt leckeren Glühwein, heißen Kakao, Bratwürste vom Grill und viele weitere Köstlichkeiten."
-  },
-  {
     "titel": "Weihnachtsmarkt in Kürten",
     "datum": "27. Nov 2026",
     "datum_raw": "2026-11-27T18:00:00+01:00",
@@ -48,6 +28,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Liebevoll geschmückt lädt der Markt zum Bummeln & Schlemmen ein. Händler bieten Glasdesign, Spielzeug, Handwerkskunst & Adventsdeko an, den Gaumen erfreuen Bratäpfel, Gebackenes, Gegrilltes, Gebratenes & winterliche Getr"
+  },
+  {
+    "titel": "Bensberger Hüttenzauber",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T11:00:00+01:00",
+    "ort": "Schlossstraße, 51429 Bergisch Gladbach",
+    "preis": "",
+    "link": "https://www.facebook.com/bensbergerhuettenzauber/?locale=de_DE",
+    "quelle": "Das Bergische",
+    "teaser": "Der „Bensberger Hüttenzauber“ verlängert die festliche Stimmung über die Weihnachtstage hinaus. Bis zum 30. Dezember erwartet die Gäste ein abwechslungsreiches Programm mit Live-Musik und kulinarischen Themenabenden. Auf"
   },
   {
     "titel": "Traditions-Weihnachtsmarkt Bergisch Gladbach Stadtmitte",
@@ -118,6 +108,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Alle Jahre wieder, laden wir herzlich dazu ein, die Adventszeit mit uns zu begrüßen! Klaviermusik und Chorgesang schallen durch die Flure. Für die Feinschmecker bereiten wir Herzhaftes vom Grill und aus der Fritteuse sow"
+  },
+  {
+    "titel": "Glühweinfest in Odenthal-Holz",
+    "datum": "28. Nov 2026",
+    "datum_raw": "2026-11-28T16:00:00+01:00",
+    "ort": "Restaurant Cramer Stuben, Bergstraße 165, 51519 Odenthal",
+    "preis": "",
+    "link": "https://www.facebook.com/events/1145594298046900/1145594301380233/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22attachment%22%2C%22surface%22%3A%22newsfeed%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+    "quelle": "Das Bergische",
+    "teaser": "Auch in diesem Jahr gibt es im Biergarten der Gaststätte Cramer Stuben wieder ein gemütliches Glühweinfest. Es gibt leckeren Glühwein, heißen Kakao, Bratwürste vom Grill und viele weitere Köstlichkeiten."
   },
   {
     "titel": "Adventsbasar in Odenthal-Klasmühle: Ein lohnendes Ziel für Ausflügler und Genießer",
