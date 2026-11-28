@@ -1,5 +1,83 @@
 [
   {
+    "id": "648f19a7722e",
+    "title": "Bundesweite Aktionswoche: Kölner Zoll überprüft fast 300 Beschäftigte auf Schwarzarbeit",
+    "summary": "Bei einer Aktionswoche gegen Schwarzarbeit hat der Kölner Zoll fast 300 Beschäftigte in Köln und der Region überprüft und zahlreiche Verstöße aufgedeckt.",
+    "link": "https://www.ksta.de/koeln/schwarzarbeit-koelner-zoll-kontrolliert-fast-300-beschaeftigte-1427388",
+    "published": "Sat, 28 Nov 2026 12:10:53 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-28T12:19:11.428134",
+    "feed_kommunen": []
+  },
+  {
+    "id": "81cea2bfb496",
+    "title": "Sozialraumgebietsanalyse: Großer Wunsch nach zentralen Informationen in Buchheim und Holweide",
+    "summary": "Bei einer Konferenz diskutierten Bewohner über Lebensqualität, Sicherheit und den Wunsch nach zentralen Informationen für Angebote in den Veedeln.",
+    "link": "https://www.ksta.de/koeln/muelheim/buchheim/buchheim-und-holweide-buerger-wuenschen-sich-mehr-informationen-1420462",
+    "published": "Sat, 28 Nov 2026 12:03:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-28T12:19:11.428162",
+    "feed_kommunen": []
+  },
+  {
+    "id": "fb312753a1e3",
+    "title": "Satirischer Wochenrückblick: Klimafeste im Kleingarten",
+    "summary": "Die SPD plant ein Förderprogramm für Kleingärten in NRW. Ein satirischer Blick auf die Pläne, die bei den Pächtern für Skepsis sorgen.",
+    "link": "https://www.ksta.de/koeln/satirischer-wochenrueckblick-klimafeste-im-koelner-kleingarten-1426718",
+    "published": "Sat, 28 Nov 2026 12:03:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-28T12:19:11.428181",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6f0167751fc8",
+    "title": "Zentralheizung bleibt aus: Mieter in Köln-Klettenberg frieren bei elf Grad",
+    "summary": "In einem Klettenberger Mehrfamilienhaus verweigert der Vermieter das Heizen. Mieter müssen bei elf Grad ausharren und fordern nun ihr Recht ein.",
+    "link": "https://www.ksta.de/koeln/lindenthal/klettenberg/koeln-klettenberg-mieter-frieren-bei-elf-grad-in-wohnungen-1427385",
+    "published": "Sat, 28 Nov 2026 11:51:56 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-28T12:19:11.428198",
+    "feed_kommunen": []
+  },
+  {
+    "id": "635ac5369be9",
+    "title": "Schulen in Chorweiler: Gesamtschule in Worringen hat Priorität",
+    "summary": "Die Schulentwicklungsplanung zeigt: Im Kölner Norden bleibt der Bedarf an Schulplätzen hoch, während er stadtweit eher sinken wird.",
+    "link": "https://www.ksta.de/koeln/chorweiler/worringen/schulen-in-chorweiler-gesamtschule-in-worringen-hat-prioritaet-1417785",
+    "published": "Sat, 28 Nov 2026 11:04:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-28T12:19:11.428214",
+    "feed_kommunen": []
+  },
+  {
+    "id": "f6ae667c626e",
+    "title": "Deutz-Vorständin: „Es kommt auf die Menschen an, nicht nur auf Margen“",
+    "summary": "Transformationsvorständin Sabine Krüger erklärt, wie Deutz den Umbau des Kölner Traditionsunternehmens gestaltet und die Belegschaft mitnimmt.",
+    "link": "https://www.ksta.de/wirtschaft/deutz-vorstaendin-katharina-krueger-ueber-jobabbau-und-den-standort-koeln-1427354",
+    "published": "Sat, 28 Nov 2026 10:26:39 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-28T12:19:11.428240",
+    "feed_kommunen": []
+  },
+  {
     "id": "a83d65f6c42c",
     "title": "Jahresabschluss 2025 vorgelegt: Finanzlage der Stadt Köln schlimmer als erwartet",
     "summary": "Die finanzielle Situation der Stadt Köln hat sich weiter verschlechtert. Oberbürgermeister Burmester warnt vor einer „historischen Krise“.",
