@@ -1,5 +1,57 @@
 [
   {
+    "id": "f3c784d8077b",
+    "title": "Erster Advent in NRW: Frost, Regen und Nebel – So wird das Wetter in Köln und Region",
+    "summary": "Nebel mit Sichtweiten unter 150 Metern, Frost und Glätte: Das Wetter in Nordrhein-Westfalen bleibt ungemütlich.",
+    "link": "https://www.ksta.de/region/erster-advent-in-nrw-frost-regen-und-nebel-so-wird-das-wetter-in-koeln-und-region-1427407",
+    "published": "Sat, 28 Nov 2026 13:52:38 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-28T14:19:00.188195",
+    "feed_kommunen": []
+  },
+  {
+    "id": "40db2396c01a",
+    "title": "„Die Holländerinnen“ im Schauspiel Köln: Erzählen am Rande des Abgrunds",
+    "summary": "Kay Voges inszeniert Dorothee Elmigers Roman am Schauspiel Köln als intensives Spiel um das Unsichtbare und den Zwang zur ständigen Wiederholung",
+    "link": "https://www.ksta.de/kultur-medien/die-hollaenderinnen-am-schauspiel-koeln-kay-voges-inszeniert-roman-1427428",
+    "published": "Sat, 28 Nov 2026 13:46:58 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-28T14:19:00.188223",
+    "feed_kommunen": []
+  },
+  {
+    "id": "84ba79edff33",
+    "title": "„WeihnachtsEngel“: Tommy Engel lässt Trude Herr per KI wieder auf der Bühne auferstehen",
+    "summary": "Viel Gefühl, leise Töne: Beim 21. „WeihnachtsEngel“ von Tommy Engel stand eine Hommage an Trude Herr im Zentrum.",
+    "link": "https://www.ksta.de/koeln/tommy-engel-laesst-trude-herr-bei-weihnachtsengel-per-ki-auferstehen-1427414",
+    "published": "Sat, 28 Nov 2026 13:12:05 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-28T14:19:00.188243",
+    "feed_kommunen": []
+  },
+  {
+    "id": "b4c304121005",
+    "title": "Chor aus Köln: Klangial probt für Adventskonzert und sucht Mitsänger",
+    "summary": "Der Kölner Chor Klangial bereitet sich auf ein Adventskonzert vor und sucht neue Mitsänger, die Freude am gemeinsamen Musizieren haben.",
+    "link": "https://www.ksta.de/koeln/rodenkirchen/marienburg/chor-klangial-aus-koeln-probt-fuer-das-adventskonzert-1421168",
+    "published": "Sat, 28 Nov 2026 13:06:00 +0100",
+    "source": "Kölner Stadt-Anzeiger Köln",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-28T14:19:00.188261",
+    "feed_kommunen": []
+  },
+  {
     "id": "f6e556490ecb",
     "title": "Nach massiver Kritik: Listenhunde in Köln und NRW – Vermittlung an Familien bleibt erlaubt",
     "summary": "Die geplante Verschärfung hätte auch in Kölner Tierheimen viele Hunde ihre Vermittlungschance kosten können. Nun gibt es eine Nachbesserung.",
