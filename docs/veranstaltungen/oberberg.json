@@ -1,55 +1,5 @@
 [
   {
-    "titel": "Der Wald im Wandel der Jahreszeiten - Klein und groß erleben gemeinsam den Wald",
-    "datum": "28. Nov 2026",
-    "datum_raw": "2026-11-28T09:30:00+01:00",
-    "ort": "Parkplatz Dreisbacher Höhe, Dreisbacher Höhe 1, 51674 Wiehl",
-    "preis": "",
-    "link": "https://www.wiehl.de/aktuelles/veranstaltungskalender/veranstaltung/?id=4148",
-    "quelle": "Das Bergische",
-    "teaser": "Den Wald in seinen Jahreszeiten betrachten und bewusst die Veränderungen wahrnehmen. Wir gehen immer denselben Weg und betrachten den Wandel. Kombiniert mit Outdoor-Entspannungstechniken, wie Vertrauensübungen, Lauftechn"
-  },
-  {
-    "titel": "Alternativer Adventsmarkt in Wipperfürth",
-    "datum": "28. Nov 2026",
-    "datum_raw": "2026-11-28T10:00:00+01:00",
-    "ort": "Pfarrkirche St. Nikolaus - Wipperfürth, Kirchplatz 1, 51688 Wipperfürth",
-    "preis": "",
-    "link": "http://www.wipperfürth.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Am ersten Adventswochenende findet traditionell der Alternative Adventsmarkt auf dem Hausmannsplatz statt. Viele Wipperfürther Vereine bieten am 27. und 28.11.2026 besondere Leckereien und Geschenke an und laden zum vorw"
-  },
-  {
-    "titel": "Kreatives mit Pilzen",
-    "datum": "28. Nov 2026",
-    "datum_raw": "2026-11-28T10:00:00+01:00",
-    "ort": "VHS im EKZ Bergischer Hof, Brückenstraße 1, 51643 Gummersbach",
-    "preis": "ab 33 €",
-    "link": "http://www.vhs-gm.de/programm/kulturkreativitaet.html?action%5B160%5D=course&courseId=571-C-3384806&filter%5Bq%5D=Pilz&rowIndex=1",
-    "quelle": "Das Bergische",
-    "teaser": "Pilze werden allgemein fast ausschließlich nach ihrem Speisewert und ihrer Giftigkeit beurteilt. Häufig wird dabei vergessen, dass ein Leben ohne Pilze nicht möglich ist. Aber Pilze lassen sich auch unglaublich kreativ e"
-  },
-  {
-    "titel": "Adventstreff Wipperfürth",
-    "datum": "28. Nov 2026",
-    "datum_raw": "2026-11-28T10:00:00+01:00",
-    "ort": "Marktplatz mit Marktbrunnen, Marktplatz, 51688 Wipperfürth",
-    "preis": "",
-    "link": "http://www.adventstreff-wipp.de/",
-    "quelle": "Das Bergische",
-    "teaser": "Entdecke liebevoll gestaltete Stände, regionale Anbieter, handgemachte Schätze und winterliche Köstlichkeiten. Buntes Programm für Groß und Klein. Samstag um 18 Uhr und Sonntag um 17 Uhr kommt Frau Holle und schüttelt di"
-  },
-  {
-    "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
-    "datum": "28. Nov 2026",
-    "datum_raw": "2026-11-28T11:00:00+02:00",
-    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
-    "preis": "ab 6 €",
-    "link": "https://www.schloss-homburg.de/cms200schloss/museum/sonderausstellungen/vorschau/index.shtml.de",
-    "quelle": "Das Bergische",
-    "teaser": "Kleine Figuren erzählen große Geschichten! Das 100-jährige Jubiläum des Museums auf Schloss Homburg wird mit einer großen Sonderausstellung gefeiert. In faszinierenden Miniaturwelten werden regionale Geschichte und Gesch"
-  },
-  {
     "titel": "Winterdorf Gummersbach",
     "datum": "28. Nov 2026",
     "datum_raw": "2026-11-28T12:00:00+01:00",
@@ -210,6 +160,16 @@
     "teaser": "Glockenklang und Weihnachtszauber im Bergischen Drehorgelmuseums Ein Advents- und Weihnachtsprogramm mechanischer Musikinstrumente mit Geschichte, Gedichten und Liedern zum Mitsingen. Um Terminvereinbarungen für Einzelbe"
   },
   {
+    "titel": "Adventstreff Wipperfürth",
+    "datum": "29. Nov 2026",
+    "datum_raw": "2026-11-29T11:00:00+01:00",
+    "ort": "Marktplatz mit Marktbrunnen, Marktplatz, 51688 Wipperfürth",
+    "preis": "",
+    "link": "http://www.adventstreff-wipp.de/",
+    "quelle": "Das Bergische",
+    "teaser": "Entdecke liebevoll gestaltete Stände, regionale Anbieter, handgemachte Schätze und winterliche Köstlichkeiten. Buntes Programm für Groß und Klein. Samstag um 18 Uhr und Sonntag um 17 Uhr kommt Frau Holle und schüttelt di"
+  },
+  {
     "titel": "Adventsfrühshoppen",
     "datum": "29. Nov 2026",
     "datum_raw": "2026-11-29T11:00:00+01:00",
@@ -218,6 +178,16 @@
     "link": "https://www.dasbergische.de/aktivitaeten/veranstaltungen",
     "quelle": "Das Bergische",
     "teaser": "Traditionell gibt es auch in diesem Jahr wieder ein Adventsfrühschoppen im Hotel-Restaurant Zur Alten Post. In diesem Jahr gibt es handgemachte Weihnachtsdeko, Adventskränze und vieles mehr. Hausgemachte Suppenküche zum "
+  },
+  {
+    "titel": "Geschichte(n) erleben 2  auf Schloss Homburg  PLAYMOBIL Diorama Artist Oliver Schaffer",
+    "datum": "29. Nov 2026",
+    "datum_raw": "2026-11-29T11:00:00+02:00",
+    "ort": "Museum und Forum Schloss Homburg - Tradition und Moderne, Schloss Homburg 1, 51588 Nümbrecht",
+    "preis": "ab 6 €",
+    "link": "https://www.schloss-homburg.de/cms200schloss/museum/sonderausstellungen/vorschau/index.shtml.de",
+    "quelle": "Das Bergische",
+    "teaser": "Kleine Figuren erzählen große Geschichten! Das 100-jährige Jubiläum des Museums auf Schloss Homburg wird mit einer großen Sonderausstellung gefeiert. In faszinierenden Miniaturwelten werden regionale Geschichte und Gesch"
   },
   {
     "titel": "Mascha und der Bär -  der Winterzauber",
