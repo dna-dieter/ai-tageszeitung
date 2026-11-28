@@ -1,5 +1,48 @@
 [
   {
+    "id": "b37886c53f48",
+    "title": "Herbstabend",
+    "summary": "Oberberg – Das Foto des Tages auf Oberberg-Aktuell.",
+    "link": "http://www.oberberg-aktuell.de/foto-des-tages/herbstabend-a-140632",
+    "published": "Sat, 28 Nov 2026 08:00:00 +0100",
+    "source": "Oberberg-Aktuell",
+    "kommunen": [
+      "kreisweite-nachrichten"
+    ],
+    "fetched": "2026-11-28T08:17:18.461995",
+    "feed_kommunen": []
+  },
+  {
+    "id": "6d0475132212",
+    "title": "Äußere Ortsumgehung rückt ein Stück näher",
+    "summary": "Am langfristigsten Projekt der Stadt wird seit gut 60 Jahren geplant. Der Leiter der Regionalniederlassung des Landesbetriebs Straßen NRW, sieht nun eine gute Chance auf eine Realisierung.",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/hueckeswagen/aeussere-ortsumgehung-rueckt-ein-stueck-naeher-UP6BITJM4IPPPVFME3BALYPCEY.html",
+    "published": "Sat, 28 Nov 2026 07:55:00 +0100",
+    "source": "RGA Hückeswagen",
+    "kommunen": [
+      "hueckeswagen"
+    ],
+    "fetched": "2026-11-28T08:17:14.388283",
+    "feed_kommunen": [
+      "hueckeswagen"
+    ]
+  },
+  {
+    "id": "99d5abfdaec7",
+    "title": "Neue Bank als Zeichen gegen Gewalt an Frauen",
+    "summary": "Am Schlossmacherplatz steht eine neue Motivbank. Zum Internationalen Tag zur Beseitigung von Gewalt gegen Frauen wurde sie eingeweiht. Vorher gab es eine eindrucksvolle Aktion, die an die Opfer ...",
+    "link": "https://www.rga.de/lokales/oberbergischer-kreis/radevormwald/neue-bank-als-zeichen-gegen-gewalt-an-frauen-46OOQTAR53FMLZJBIVYMLHDD4Y.html",
+    "published": "Sat, 28 Nov 2026 07:50:00 +0100",
+    "source": "RGA Radevormwald",
+    "kommunen": [
+      "radevormwald"
+    ],
+    "fetched": "2026-11-28T08:17:14.585951",
+    "feed_kommunen": [
+      "radevormwald"
+    ]
+  },
+  {
     "id": "9b418fbbadc2",
     "title": "Windkraftanlage: Die ersten Großkomponenten lagern in Radevormwald",
     "summary": "In Halver wird ein Windpark gebaut. Die Teile dafür werden über Remscheid und Radevormwald angeliefert. Lange dauert es nicht mehr, bis der Schwertransporter die Rotorblätter bringen.",
